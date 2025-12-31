@@ -2,52 +2,52 @@
     "COMBAT": {
         "Begin": "Begin Encounter",
         "CombatantNotInScene": "The participant {name} is not present in your currently viewed scene.",
-        "CombatantRemove": "Remove Participant",
-        "CombatantStatus": "Participant Status",
-        "CombatantUpdate": "Update Participant",
-        "End": "End Encounter",
+        "CombatantRemove": "参加者削除",
+        "CombatantStatus": "参加者ステータス",
+        "CombatantUpdate": "参加者更新",
+        "End": "遭遇を終了",
         "EndConfirmation": "End this encounter and empty the turn tracker?",
-        "EndTitle": "遭遇を終了？",
+        "EndTitle": "遭遇を終了する？",
         "NoneActive": "There is no active Encounter in your currently viewed Scene.",
         "NoneRemaining": "There are no participants remaining in this Encounter that are not defeated.",
-        "PingCombatant": "Ping Token",
+        "PingCombatant": "トークンをピンする",
         "PingInvisibleToken": "You can't see this participant's token.",
         "ResourceHint": "Choose an attribute to track for each participant.",
-        "Settings": "Encounter Tracker Settings",
-        "SidebarTitle": "Encounter Tracker",
-        "SkipDefeatedHint": "Automatically bypass participants marked as defeated?",
-        "TargetedBy": "Targeted by {list}",
-        "ToggleTargeting": "Toggle Targeting",
-        "UnknownCombatant": "Unknown Participant"
+        "Settings": "遭遇トラッカー設定",
+        "SidebarTitle": "遭遇トラッカー",
+        "SkipDefeatedHint": "敗北した参加者を自動的に飛ばしますか？",
+        "TargetedBy": "{list}により対象指定",
+        "ToggleTargeting": "対象指定の切替",
+        "UnknownCombatant": "不明な参加者"
     },
     "COMPENDIUM": {
-        "MigrationStatus": "Migration Status"
+        "MigrationStatus": "マイグレーションステータス"
     },
     "CONTROLS": {
-        "AdjustSceneDarkness": "Adjust Scene Darkness",
-        "EffectPanel": "Effects Panel",
-        "WorldClock": "World Clock"
+        "AdjustSceneDarkness": "シーンの暗さを調整",
+        "EffectPanel": "エフェクトパネル",
+        "WorldClock": "ワールドクロック"
     },
     "DOCUMENT": {
-        "Combat": "Encounter",
-        "Combats": "Encounters"
+        "Combat": "エンカウント",
+        "Combats": "エンカウント"
     },
     "PF2E": {
-        "AbilityBoost": "Attribute Boost",
-        "AbilityBoostLevels": "Attribute Boost Levels",
-        "AbilityCha": "Charisma",
+        "AbilityBoost": "アトリビュートブースト",
+        "AbilityBoostLevels": "アトリビュートブーストレベル",
+        "AbilityCha": "魅力",
         "AbilityCheck": {
-            "cha": "Charisma Check",
-            "con": "Constitution Check",
-            "dex": "Dexterity Check",
-            "int": "Intelligence Check",
-            "str": "Strength Check",
-            "wis": "Wisdom Check"
+            "cha": "魅力判定",
+            "con": "耐久力判定",
+            "dex": "敏捷力判定",
+            "int": "知力判定",
+            "str": "筋力判定",
+            "wis": "判断力判定"
         },
-        "AbilityCon": "Constitution",
-        "AbilityDex": "Dexterity",
+        "AbilityCon": "耐久力",
+        "AbilityDex": "敏捷力",
         "AbilityFlaw": "Flaw",
-        "AbilityFree": "Free",
+        "AbilityFree": "フリー",
         "AbilityId": {
             "cha": "Cha",
             "con": "Con",
@@ -56,13 +56,13 @@
             "str": "Str",
             "wis": "Wis"
         },
-        "AbilityInt": "Intelligence",
-        "AbilityModifierLabel": "Attribute Modifier",
-        "AbilityStr": "Strength",
-        "AbilityTitle": "Attribute",
-        "AbilityWis": "Wisdom",
+        "AbilityInt": "知力",
+        "AbilityModifierLabel": "アトリビュート修正値",
+        "AbilityStr": "筋力",
+        "AbilityTitle": "アトリビュート",
+        "AbilityWis": "判断力",
         "AccessoryPropertyRuneCalled": "Called",
-        "AccessoryPropertyRuneDragonsBreath": "Dragon's Breath",
+        "AccessoryPropertyRuneDragonsBreath": "ドラゴンブレス",
         "AccessoryPropertyRuneGreaterPaired": "Greater Paired",
         "AccessoryPropertyRuneGreaterWindCatcher": "Greater Wind-Catcher",
         "AccessoryPropertyRuneMajorPaired": "Major Paired",
@@ -112,9 +112,9 @@
         "ActionTypeReaction": "Reaction",
         "ActionTypeSingle": "Single Action",
         "ActionWeaponLabel": "Associated Weapon",
-        "ActionsActionsHeader": "Actions",
-        "ActionsFreeActionsHeader": "Free Actions",
-        "ActionsReactionsHeader": "Reactions",
+        "ActionsActionsHeader": "アクション",
+        "ActionsFreeActionsHeader": "フリー・アクション",
+        "ActionsReactionsHeader": "リアクション",
         "ActionWithDC": "{label} (DC {dc})",
         "Actor": {
             "ApplyDamage": {
@@ -134,43 +134,43 @@
                 "ShieldDamagedForNDestroyed": "Their shield also takes {shieldDamage} damage, destroying it.",
                 "ShieldNotRaised": "{actor} has not raised their shield.",
                 "TakesNoDamage": "<actor>{actor}</actor> takes no damage.",
-                "TheTarget": "The target"
+                "TheTarget": "対象"
             },
             "AttackEffects": {
                 "PlusList": "(plus {list})"
             },
-            "Attacks": "Attacks",
+            "Attacks": "攻撃",
             "Character": {
                 "ABCPicker": {
                     "SearchPlaceholder": "Search {items}",
                     "Title": "{type} Selection",
                     "Tooltip": {
-                        "ConfirmSelection": "Confirm Selection",
-                        "ViewSheet": "View Sheet"
+                        "ConfirmSelection": "選択を確認",
+                        "ViewSheet": "シートの表示"
                     }
                 },
                 "Attribute": {
                     "Apex": "Apex Attribute",
-                    "Boosts": "Attribute Boosts",
-                    "Key": "Key Attribute"
+                    "Boosts": "アトリビュート増強",
+                    "Key": "重要なアトリビュート"
                 },
                 "AttributeBuilder": {
                     "InputMethod": {
                         "Description": "Switching method resets your attribute modifier distribution.",
-                        "Manual": "Manual Entry",
+                        "Manual": "手動で入力",
                         "Title": "Input Method"
                     },
                     "AncestryMissingHelp": "Choose an ancestry to select boosts.",
-                    "AlternateBoostsLabel": "Alternate Boosts",
+                    "AlternateBoostsLabel": "代替のブースト",
                     "BackgroundBoostDescription": "Two boosts: one must be {a} or {b}.",
                     "BackgroundMissingHelp": "Choose a background to select boosts.",
-                    "Boost": "Boost",
-                    "Boosts": "Boosts",
+                    "Boost": "増強",
+                    "Boosts": "増強",
                     "ClassMissingHelp": "Choose a class to select boosts.",
-                    "Complete": "Complete",
+                    "Complete": "完了",
                     "Flaw": "Flaw",
                     "Flaws": "Flaws",
-                    "Increase": "Increase",
+                    "Increase": "増加",
                     "KeyIcon": "Key",
                     "LegacyFlaws": "Legacy Flaws",
                     "Partial": "Partial",
