@@ -61,20 +61,20 @@
         "AbilityStr": "筋力",
         "AbilityTitle": "アトリビュート",
         "AbilityWis": "判断力",
-        "AccessoryPropertyRuneCalled": "Called",
+        "AccessoryPropertyRuneCalled": "コール",
         "AccessoryPropertyRuneDragonsBreath": "ドラゴンブレス",
-        "AccessoryPropertyRuneGreaterPaired": "Greater Paired",
-        "AccessoryPropertyRuneGreaterWindCatcher": "Greater Wind-Catcher",
-        "AccessoryPropertyRuneMajorPaired": "Major Paired",
-        "AccessoryPropertyRunePaired": "Paired",
-        "AccessoryPropertyRunePresentable": "Presentable",
-        "AccessoryPropertyRuneSnagging": "Snagging",
-        "AccessoryPropertyRuneSoftLanding": "Soft-Landing",
-        "AccessoryPropertyRuneSpellBastion": "Spell-Bastion",
-        "AccessoryPropertyRuneWindCatcher": "Wind-Catcher",
+        "AccessoryPropertyRuneGreaterPaired": "グレーター・ペアード",
+        "AccessoryPropertyRuneGreaterWindCatcher": "グレーター・ウィンドキャッチャー",
+        "AccessoryPropertyRuneMajorPaired": "メジャー・ペアード",
+        "AccessoryPropertyRunePaired": "ペアード",
+        "AccessoryPropertyRunePresentable": "プレゼンタブル",
+        "AccessoryPropertyRuneSnagging": "スナッギング",
+        "AccessoryPropertyRuneSoftLanding": "ソフト・ランディング",
+        "AccessoryPropertyRuneSpellBastion": "スペルバスティオン",
+        "AccessoryPropertyRuneWindCatcher": "ウィンドキャッチャー",
         "Action": {
             "RestForTheNight": {
-                "Label": "Rest for the Night",
+                "Label": "夜間休息",
                 "Message": {
                     "Awakens": "{actor} awakens well-rested.",
                     "CraftingSlots": "Crafting slots restored.",
@@ -92,7 +92,7 @@
                     "TemporaryItems": "Temporary items expired.",
                     "WandsCharges": "Wands recharged."
                 },
-                "Prompt": "Rest for the night?"
+                "Prompt": "夜間休息しますか？"
             },
             "Strike": {
                 "MeleeLabel": "Melee Strike: {weapon}",
@@ -100,17 +100,17 @@
                 "RangedLabel": "Ranged Strike: {weapon}"
             }
         },
-        "ActionActionTypeLabel": "Action Type",
-        "ActionActionsLabel": "Actions",
+        "ActionActionTypeLabel": "アクションの種類",
+        "ActionActionsLabel": "アクション",
         "ActionNumber1": "One",
         "ActionNumber2": "Two",
         "ActionNumber3": "Three",
-        "ActionSkillRequirementLabel": "Requirement",
-        "ActionTypeAction": "Action",
-        "ActionTypeFree": "Free Action",
-        "ActionTypePassive": "Passive",
-        "ActionTypeReaction": "Reaction",
-        "ActionTypeSingle": "Single Action",
+        "ActionSkillRequirementLabel": "必要条件",
+        "ActionTypeAction": "アクション",
+        "ActionTypeFree": "フリー・アクション",
+        "ActionTypePassive": "パッシブ",
+        "ActionTypeReaction": "リアクション",
+        "ActionTypeSingle": "シングルアクション",
         "ActionWeaponLabel": "Associated Weapon",
         "ActionsActionsHeader": "アクション",
         "ActionsFreeActionsHeader": "フリー・アクション",
@@ -171,72 +171,72 @@
                     "Flaw": "Flaw",
                     "Flaws": "Flaws",
                     "Increase": "増加",
-                    "KeyIcon": "Key",
+                    "KeyIcon": "重要",
                     "LegacyFlaws": "Legacy Flaws",
                     "Partial": "Partial",
-                    "NotSelected": "Not Selected",
-                    "Title": "Assign your boosts",
+                    "NotSelected": "未選択",
+                    "Title": "ブーストの割り当て",
                     "VoluntaryFlaw": {
                         "Description": "You can take one or more additional penalties purely for roleplaying a highly flawed character.",
                         "LegacyDescription": "This is the Voluntary Flaws feature that existed until the CRB's 4th printing. It is kept in place for older characters and as a continued option for Pathfinder Society play.",
                         "Title": "Voluntary Flaws"
                     }
                 },
-                "Active": "Active",
-                "ActiveHeader": "Active Activities",
+                "Active": "有効",
+                "ActiveHeader": "有効なアクティビティ",
                 "Biography": {
                     "Anathema": {
-                        "Add": "Add Anathema",
-                        "Delete": "Delete Anathema"
+                        "Add": "Anathemaを追加",
+                        "Delete": "Anathemaを削除"
                     },
                     "ToggleVisibility": "Toggle visibility to other players",
                     "Edicts": {
-                        "Add": "Add Edict",
-                        "Delete": "Delete Edict"
+                        "Add": "エディクトを追加",
+                        "Delete": "エディクトを削除"
                     }
                 },
                 "Blurb": "Level {level} {ancestry} {class}",
                 "ClassDC": {
-                    "Label": "Class DC",
+                    "Label": "クラスDC",
                     "LabelSpecific": "Class DC ({class})",
-                    "Plural": "Class DCs"
+                    "Plural": "クラスDC"
                 },
-                "Clear": "Clear",
+                "Clear": "消去",
                 "Configure": {
                     "ShowBasicUnarmed": {
                         "Hint": "A PC always has available an unspecific unarmed attack using any part of their body. The attack may be hidden from view if the player never intends to use it.",
-                        "Label": "Show Basic Unarmed Attack"
+                        "Label": "基本的な非武装攻撃を表示"
                     },
                     "Title": "Configure Character"
                 },
                 "Crafting": {
                     "Action": {
                         "Hint": "Select an item to craft using {resource} ({value}/{max})",
-                        "HintResourceless": "Select an item to craft"
+                        "HintResourceless": "クラフトするアイテムを選択"
                     },
                     "BatchQuantity": "x{quantity}",
-                    "Cost": "Cost",
-                    "Create": "Create",
+                    "Cost": "コスト",
+                    "Create": "作成",
                     "Daily": {
-                        "Complete": "Daily crafting complete.",
-                        "Perform": "Perform Daily Crafting"
+                        "Complete": "デイリークラフトが完了しました。",
+                        "Perform": "デイリークラフトの実行"
                     },
-                    "DecreaseQuantity": "Decrease Quantity",
-                    "FreeCrafting": "Free Crafting",
+                    "DecreaseQuantity": "数量減少",
+                    "FreeCrafting": "無料クラフト",
                     "FreeCraftingTooltip": "If enabled, creates items immediately without spending gold",
-                    "IncreaseQuantity": "Increase Quantity",
+                    "IncreaseQuantity": "数量増加",
                     "MissingResource": "You have insufficient resources to complete crafting.",
                     "PrepareHint": "Select the items that you want to prepare ({remaining} remaining)",
                     "RemainingSlots": "Empty Slot ({remaining} remaining)",
                     "Search": "Search Formulas"
                 },
-                "CreateFeat": "Create Feat",
+                "CreateFeat": "フィートを作成",
                 "EmptyLabel": "Empty",
                 "EmptyMultipleLabel": "{value} Empty",
                 "FeatSlot": {
-                    "AncestryHeader": "Ancestry Feats",
-                    "AncestryFeaturesHeader": "Ancestry Features",
-                    "ArchetypeHeader": "Archetype Feats",
+                    "AncestryHeader": "種族特技",
+                    "AncestryFeaturesHeader": "種族特徴",
+                    "ArchetypeHeader": "アーキタイプ特技",
                     "BonusHeader": "Bonus Feats",
                     "CampaignHeader": "Campaign Feats",
                     "ClassHeader": "Class Feats",
@@ -273,72 +273,72 @@
                     "Defense": {
                         "Heavy": "Heavy Armor",
                         "HeavyBarding": "Heavy Barding",
-                        "HeavyShort": "Heavy",
-                        "Light": "Light Armor",
-                        "LightBarding": "Light Barding",
-                        "LightShort": "Light",
-                        "Medium": "Medium Armor",
-                        "MediumShort": "Medium",
-                        "Title": "Defenses",
+                        "HeavyShort": "重装",
+                        "Light": "ライトアーマー",
+                        "LightBarding": "ライトバーディング",
+                        "LightShort": "軽装",
+                        "Medium": "ミディアムアーマー",
+                        "MediumShort": "中装",
+                        "Title": "防御",
                         "Unarmored": "Unarmored Defense"
                     },
                     "HigherUpgrade": "{ability} has upgraded this proficiency's rank to {rank}."
                 },
                 "Rest": {
-                    "Label": "Rest for the Night"
+                    "Label": "夜間休息"
                 },
                 "Spellcasting": {
                     "Tab": {
-                        "Activations": "Activations",
-                        "KnownSpells": "Known Spells",
-                        "Rituals": "Rituals"
+                        "Activations": "有効化",
+                        "KnownSpells": "既知の呪文",
+                        "Rituals": "儀式"
                     }
                 }
             },
             "Creature": {
                 "Alliance": {
                     "Default": "Ownership Default ({alliance})",
-                    "Neutral": "Neutral",
+                    "Neutral": "中立",
                     "Opposition": "Opposition",
-                    "Party": "Party"
+                    "Party": "パーティー"
                 },
-                "AttributeModifiers": "Attribute Modifiers",
+                "AttributeModifiers": "アトリビュート修正値",
                 "Configure": {
                     "Alliance": {
                         "Hint": "A creature can be in opposition to the party, allied with it, or neutral. This impacts some mechanics during an encounter, such as flanking.",
                         "Label": "Alliance"
                     }
                 },
-                "CriticalSpecialization": "Critical Specialization",
+                "CriticalSpecialization": "クリティカル・スペシャライゼイション",
                 "Language": {
-                    "CommonLanguage": "Common ({language})",
+                    "CommonLanguage": "母国語({language})",
                     "DetailsPlaceholder": "Caveats, other unusual specifics",
-                    "Plural": "Languages",
+                    "Plural": "言語",
                     "adlet": "Adlet",
                     "aishmayar": "Aishmayar",
                     "akitonian": "Akitonian",
-                    "aklo": "Aklo",
+                    "aklo": "アクロ語",
                     "alghollthu": "Alghollthu",
                     "amurrun": "Amurrun",
                     "anadi": "Anadi",
-                    "ancient-osiriani": "Ancient Osiriani",
+                    "ancient-osiriani": "古代オシーリオン",
                     "androffan": "Androffan",
                     "anugobu": "Anugobu",
                     "arboreal": "Arboreal",
                     "arcadian": "Arcadian",
                     "azlanti": "Azlanti",
-                    "boggard": "Boggard",
+                    "boggard": "ボガード語",
                     "calda": "Calda",
-                    "caligni": "Caligni",
+                    "caligni": "カリグニ語",
                     "chthonian": "Chthonian",
-                    "common": "Common",
-                    "cyclops": "Cyclops",
-                    "daemonic": "Daemonic",
+                    "common": "共通語",
+                    "cyclops": "サイクロップス語",
+                    "daemonic": "デーモン語",
                     "destrachan": "Destrachan",
-                    "diabolic": "Diabolic",
-                    "draconic": "Draconic",
+                    "diabolic": "ディアブロ語",
+                    "draconic": "ドラゴン語",
                     "drooni": "Drooni",
-                    "dwarven": "Dwarven",
+                    "dwarven": "ドワーフ語",
                     "dziriak": "D'ziriak",
                     "ekujae": "Ekujae shape-script",
                     "elder-thing": "Elder Thing",
@@ -370,27 +370,27 @@
                     "khattibi": "Khattibi",
                     "kholo": "Kholo",
                     "kibwani": "Kibwani",
-                    "kitsune": "Kitsune",
+                    "kitsune": "キツネ語",
                     "kovintal": "Kovintal",
                     "lashunta": "Lashunta",
                     "lirgeni": "Lirgeni",
                     "mahwek": "Mahwek",
-                    "migo": "Mi-Go",
+                    "migo": "ミ＝ゴ語",
                     "minaten": "Minatan",
                     "minkaian": "Minkaian",
                     "muan": "Muan",
                     "munavri": "Munavri",
-                    "mwangi": "Mwangi",
+                    "mwangi": "ムワンギ語",
                     "mzunu": "Mzunu",
                     "nagaji": "Nagaji",
                     "ninshaburian": "Ninshaburian",
-                    "necril": "Necril",
+                    "necril": "ネクリル語",
                     "ocotan": "Ocotan",
                     "okaiyan": "Okaiyan",
                     "old-keleshite": "Old Keleshite",
-                    "orcish": "Orcish",
+                    "orcish": "オーク語",
                     "orvian": "Orvian",
-                    "osiriani": "Osiriani",
+                    "osiriani": "オシーリオン語",
                     "petran": "Petran",
                     "protean": "Protean",
                     "pyric": "Pyric",
@@ -398,7 +398,7 @@
                     "ratajin": "Ratajin",
                     "razatlani": "Razatlani",
                     "requian": "Requian",
-                    "russian": "Russian",
+                    "russian": "ロシア語",
                     "sakvroth": "Sakvroth",
                     "samsaran": "Samsaran",
                     "sasquatch": "Sasquatch",
@@ -411,11 +411,11 @@
                     "shoony": "Shoony",
                     "shory": "Shory",
                     "skald": "Skald",
-                    "sphinx": "Sphinx",
+                    "sphinx": "スフィンクス語",
                     "strix": "Strix",
                     "surki": "Surki",
-                    "sussuran": "Sussuran",
-                    "taldane": "Taldane",
+                    "sussuran": "サーシロン語",
+                    "taldane": "タルドール語",
                     "talican": "Talican",
                     "tang": "Tang",
                     "tanuki": "Tanuki",
@@ -428,7 +428,7 @@
                     "tien": "Tien",
                     "utopian": "Utopian",
                     "vanara": "Vanara",
-                    "varisian": "Varisian",
+                    "varisian": "ヴァリシア語",
                     "varki": "Varki",
                     "vishkanyan": "Vishkanya",
                     "vudrani": "Vudrani",
@@ -447,29 +447,29 @@
                         "Precise": "Precise",
                         "Vague": "Vague"
                     },
-                    "Label": "Sense",
-                    "NoRangeLimit": "No Limit",
+                    "Label": "感覚",
+                    "NoRangeLimit": "制限なし",
                     "NoVision": "No Vision",
-                    "Plural": "Senses",
+                    "Plural": "感覚",
                     "RangeLabel": "Range",
                     "Type": {
                         "Bloodsense": "Bloodsense",
-                        "Darkvision": "Darkvision",
+                        "Darkvision": "ダークビジョン",
                         "Echolocation": "Echolocation",
-                        "GreaterDarkvision": "Greater Darkvision",
-                        "Hearing": "Hearing",
+                        "GreaterDarkvision": "グレーター・ダークビジョン",
+                        "Hearing": "聴覚",
                         "InfraredVision": "Infrared Vision",
                         "Lifesense": "Lifesense",
-                        "LowLightVision": "Low-Light Vision",
+                        "LowLightVision": "ローライト・ビジョン",
                         "Magicsense": "Magicsense",
                         "MotionSense": "Motion Sense",
-                        "Scent": "Scent",
+                        "Scent": "嗅覚",
                         "SeeInvisibility": "See the Unseen",
                         "Spiritsense": "Spiritsense",
                         "Thoughtsense": "Thoughtsense",
                         "Tremorsense": "Tremorsense",
-                        "Truesight": "Truesight",
-                        "Vision": "Vision",
+                        "Truesight": "トゥルーサイト",
+                        "Vision": "視覚",
                         "Wavesense": "Wavesense"
                     },
                     "WithAcuity": "{sense} ({acuity})",
@@ -477,15 +477,15 @@
                     "WithRange": "{sense} {range} Feet"
                 },
                 "Shield": {
-                    "ACBonus": "Shield AC Bonus (When Raised)",
-                    "BrokenThreshold": "Shield Broken Threshold",
+                    "ACBonus": "盾ACボーナス(構えた場合)",
+                    "BrokenThreshold": "盾破損しきい値",
                     "Hardness": {
-                        "Hint": "Shield Hardness",
+                        "Hint": "盾硬度",
                         "Label": "H"
                     },
                     "HitPoints": {
-                        "Value": "Shield HP",
-                        "Max": "Shield Max HP"
+                        "Value": "盾HP",
+                        "Max": "盾最大HP"
                     }
                 },
                 "SpellPreparation": {
