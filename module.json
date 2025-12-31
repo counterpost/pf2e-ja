@@ -7,8 +7,8 @@
     { "name": "pf2e-ja contributors" }
   ],
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "13",
+    "verified": "13"
   },
   "relationships": {
     "requires": [
@@ -22,5 +22,7 @@
       "name": "日本語",
       "path": "lang/ja.json"
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/counterpost/pf2e-ja/main/module.json",
+  "download": "https://github.com/counterpost/pf2e-ja/releases/download/v0.1.0/pf2e-ja.zip"
 }
