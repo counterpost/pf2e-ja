@@ -1,14 +1,14 @@
 {
     "COMBAT": {
         "Begin": "Begin Encounter",
-        "CombatantNotInScene": "The participant {name} is not present in your currently viewed scene.",
+        "CombatantNotInScene": "Aishmayar",
         "CombatantRemove": "参加者削除",
         "CombatantStatus": "参加者ステータス",
         "CombatantUpdate": "参加者更新",
         "End": "遭遇を終了",
-        "EndConfirmation": "End this encounter and empty the turn tracker?",
+        "EndConfirmation": "この遭遇を終了し、ターントラッカーを空にしますか？",
         "EndTitle": "遭遇を終了する？",
-        "NoneActive": "There is no active Encounter in your currently viewed Scene.",
+        "NoneActive": "現在表示されているシーンにアクティブな遭遇はありません。",
         "NoneRemaining": "There are no participants remaining in this Encounter that are not defeated.",
         "PingCombatant": "トークンをピンする",
         "PingInvisibleToken": "You can't see this participant's token.",
@@ -79,7 +79,7 @@
                     "Awakens": "{actor} awakens well-rested.",
                     "CraftingSlots": "Crafting slots restored.",
                     "ConditionReduced": "{condition} reduced by 1.",
-                    "ConditionRemoved": "No longer {condition}.",
+                    "ConditionRemoved": "{condition}ではなくなった。",
                     "FocusPoints": "Focus points restored.",
                     "Frequencies": "Action frequencies refreshed.",
                     "HitPoints": "{hitPoints} hit points restored.",
@@ -89,14 +89,14 @@
                     "Resource": "{name} restored.",
                     "SpellSlots": "All spell slots restored.",
                     "StaminaPoints": "Stamina points restored.",
-                    "TemporaryItems": "Temporary items expired.",
-                    "WandsCharges": "Wands recharged."
+                    "TemporaryItems": "一時的なアイテムの効果が切れた。",
+                    "WandsCharges": "ワンドがリチャージされた。"
                 },
                 "Prompt": "夜間休息しますか？"
             },
             "Strike": {
                 "MeleeLabel": "Melee Strike: {weapon}",
-                "OutOfRange": "The target is out of range.",
+                "OutOfRange": "目標が射程外。",
                 "RangedLabel": "Ranged Strike: {weapon}"
             }
         },
@@ -218,7 +218,7 @@
                     "Cost": "コスト",
                     "Create": "作成",
                     "Daily": {
-                        "Complete": "デイリークラフトが完了しました。",
+                        "Complete": "デイリークラフトが完了した。",
                         "Perform": "デイリークラフトの実行"
                     },
                     "DecreaseQuantity": "数量減少",
@@ -533,7 +533,7 @@
                 "Level": "Hazard {level}",
                 "Plural": "Hazards",
                 "Simple": "Simple",
-                "TitleEdit": "{name} (Edit Mode)"
+                "TitleEdit": "{name} (編集モード)"
             },
             "HitPoints": {
                 "Unrecoverable": "{value} hit points are currently unrecoverable."
@@ -770,7 +770,7 @@
         "ArmorCheckLabel": "Check Penalty",
         "ArmorCheckPenalty": "Armor Check Penalty",
         "ArmorClassBase": "Base Armor Class 10",
-        "ArmorClassLabel": "Armor Class",
+        "ArmorClassLabel": "アーマー・クラス",
         "ArmorClassShortLabel": "AC",
         "ArmorDexLabel": "Dex Modifier Cap",
         "ArmorGreaterResilientRune": "Greater Resilient",
