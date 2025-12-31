@@ -6,6 +6,10 @@
   "authors": [
     { "name": "pf2e-ja contributors" }
   ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
   "relationships": {
     "requires": [
       { "id": "pf2e", "type": "system" },
