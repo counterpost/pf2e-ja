@@ -7,7 +7,7 @@
         "CombatantUpdate": "Update Participant",
         "End": "End Encounter",
         "EndConfirmation": "End this encounter and empty the turn tracker?",
-        "EndTitle": "End Encounter?",
+        "EndTitle": "遭遇を終了？",
         "NoneActive": "There is no active Encounter in your currently viewed Scene.",
         "NoneRemaining": "There are no participants remaining in this Encounter that are not defeated.",
         "PingCombatant": "Ping Token",
