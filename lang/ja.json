@@ -267,7 +267,7 @@
                         "Advanced": "Advanced Weapons",
                         "Martial": "Martial Weapons",
                         "Simple": "Simple Weapons",
-                        "Title": "Attacks",
+                        "Title": "攻撃",
                         "Unarmed": "Unarmed Attacks"
                     },
                     "Defense": {
@@ -500,7 +500,7 @@
                     "InvalidProficiency": "Invalid",
                     "Label": "Spell Attack Modifiers & DCs",
                     "MagicItemTypesLabel": "Magic Item Types",
-                    "Rituals": "Rituals",
+                    "Rituals": "儀式",
                     "ShortLabel": "Spellcasting",
                     "TraditionSpellcasting": "{tradition} Spellcasting",
                     "ValidItemTypes": {
@@ -655,7 +655,7 @@
                 },
                 "Coin": "Coin",
                 "ClearActivities": {
-                    "Label": "Clear",
+                    "Label": "消去",
                     "Complete": "Party exploration activities have been cleared"
                 },
                 "ClownCar": {
@@ -728,7 +728,7 @@
         "ActorSizeGargantuan": "Gargantuan",
         "ActorSizeHuge": "Huge",
         "ActorSizeLarge": "Large",
-        "ActorSizeMedium": "Medium",
+        "ActorSizeMedium": "中装",
         "ActorSizeSmall": "Small",
         "ActorSizeTiny": "Tiny",
         "AddCoinsCombineStacksLabel": "Combine Stacks",
@@ -746,7 +746,7 @@
         "Age": "Age",
         "AllSavesLabel": "All Saves",
         "AncestryFeatLevels": "Ancestry Feat Levels",
-        "AncestryFeatures": "Ancestry Features",
+        "AncestryFeatures": "種族特徴",
         "AncestryHP": "Ancestry HP",
         "Area": {
             "InFeet": "Area (Feet)",
@@ -851,8 +851,8 @@
         "ArmorSpeedLabel": "Speed Penalty",
         "ArmorStrengthLabel": "Strength Requirement",
         "ArmorTypeHeavy": "Heavy Armor",
-        "ArmorTypeLight": "Light Armor",
-        "ArmorTypeMedium": "Medium Armor",
+        "ArmorTypeLight": "ライトアーマー",
+        "ArmorTypeMedium": "ミディアムアーマー",
         "ArmorTypeUnarmored": "Unarmored",
         "AttackEffectConstrict": "Constrict",
         "AttackEffectGrab": "Grab",
@@ -1011,7 +1011,7 @@
                 "Alignments": "Alignments",
                 "Ancestries": "Ancestries",
                 "ArmorFilters": "Armor Filters",
-                "ClearFilter": "Clear",
+                "ClearFilter": "消去",
                 "ClearAllFilters": "Clear All Filters",
                 "CastingTime": "Casting time",
                 "Categories": "Categories",
@@ -1074,11 +1074,11 @@
             "MigrateCompendium": "Migrate Compendium",
             "Schema": "Schema",
             "Size": "Size",
-            "Title": "Migration Status",
+            "Title": "マイグレーションステータス",
             "UpToDate": "Up to Date"
         },
         "Condition": {
-            "ActiveLabel": "Active",
+            "ActiveLabel": "有効",
             "DurationNumberLabel": "Rounds",
             "DurationTextLabel": "Duration",
             "HasValueLabel": "Has Value",
@@ -1171,10 +1171,10 @@
         },
         "CreateActionTitle": "Create Action",
         "CreateAttackTitle": "Create Attack",
-        "CreateFeatTitle": "Create Feat",
+        "CreateFeatTitle": "フィートを作成",
         "CreateFormulaTitle": "Create Formula",
         "CreateItemTitle": "Create Item",
-        "CreateLabelUniversal": "Create",
+        "CreateLabelUniversal": "作成",
         "CreateSkillTitle": "Create Skill",
         "CreateSpellTitle": "Create Spell",
         "CritFailure": "<strong>Critical Failure</strong>",
@@ -1285,7 +1285,7 @@
                     "immobilized": "immobilized",
                     "inhaled": "inhaled",
                     "inubrix": "inubrix",
-                    "light": "light",
+                    "light": "軽装",
                     "magic": "magic",
                     "magical": "magical",
                     "metal": "metal",
@@ -1434,7 +1434,7 @@
         "DamageLabel": "Damage",
         "DamageRoll": "Damage Roll",
         "DecrementEffectTitle": "Decrease Effect Level",
-        "DefensesLabel": "Defenses",
+        "DefensesLabel": "防御",
         "Deity": "Deity",
         "DeleteQuestion": "Are you sure you want to delete {name}?",
         "DeleteConditionTitle": "Delete Condition",
@@ -1610,7 +1610,7 @@
         "Failure": "<strong>Failure</strong>",
         "Familiar": {
             "AbilitiesLabel": "Abilities",
-            "ArmorClass": "Armor Class",
+            "ArmorClass": "アーマー・クラス",
             "AttackRoll": "Attack Roll",
             "Creature": "Creature",
             "CreatureType": "Creature Type",
@@ -1626,7 +1626,7 @@
             "Skills": "Skills",
             "TotalNumberFamiliarAbilities": "Total # of Familiar Abilities"
         },
-        "FeatActionTypeLabel": "Action Type",
+        "FeatActionTypeLabel": "アクションの種類",
         "FeatActionsLabel": "Number of Actions",
         "FeatBackgroundShort": "BG",
         "FeatLevelLabel": "Level",
@@ -1764,9 +1764,9 @@
                 },
                 "Type": {
                     "Activity": "Activity",
-                    "Free": "Free Action",
-                    "Single": "Single Action",
-                    "Reaction": "Reaction"
+                    "Free": "フリー・アクション",
+                    "Single": "シングルアクション",
+                    "Reaction": "リアクション"
                 }
             },
             "Activation": {
@@ -1906,7 +1906,7 @@
                 },
                 "Plural": "Ancestries",
                 "Vision": {
-                    "Label": "Vision",
+                    "Label": "視覚",
                     "Normal": "Normal Vision"
                 }
             },
@@ -1953,7 +1953,7 @@
                 },
                 "Category": {
                     "heavy-barding": "Heavy Barding",
-                    "light-barding": "Light Barding"
+                    "light-barding": "ライトバーディング"
                 },
                 "GradeOption": "{grade} (+{bonus}; resilient +{resilient})",
                 "Rune": {
@@ -2010,10 +2010,10 @@
                     },
                     "defenses": {
                         "light": {
-                            "label": "Light Armor"
+                            "label": "ライトアーマー"
                         },
                         "medium": {
-                            "label": "Medium Armor"
+                            "label": "ミディアムアーマー"
                         },
                         "heavy": {
                             "label": "Heavy Armor"
@@ -2642,7 +2642,7 @@
                     "HeldOrStowed": "Bulk (held/stowed)",
                     "Label": "Bulk",
                     "Light": {
-                        "Label": "Light",
+                        "Label": "軽装",
                         "ShortLabel": "L"
                     },
                     "Negligible": {
@@ -2836,7 +2836,7 @@
                     "Noun": "Cast",
                     "Verb": "Cast"
                 },
-                "Cost": "Cost",
+                "Cost": "コスト",
                 "Counteract": {
                     "Hint": "If you're counteracting an affliction, the DC is in the affliction's stat block. If it's a spell, use the caster's DC. The GM can also calculate a DC based on the target effect's level.",
                     "Label": "Counteract",
@@ -3166,7 +3166,7 @@
         "ModifierNamePlaceholder": "Name",
         "ModifierTitle": "Modifier",
         "ModifierType": {
-            "ability": "Attribute",
+            "ability": "アトリビュート",
             "circumstance": "Circumstance",
             "item": "Item",
             "potency": "Potency",
@@ -3238,7 +3238,7 @@
             },
             "ActionsList": {
                 "ActionName": "Name",
-                "Cost": "Cost",
+                "Cost": "コスト",
                 "Traits": "Traits",
                 "Type": "Type"
             },
@@ -3265,7 +3265,7 @@
                 "Ranged": "NPC Ranged Attack",
                 "Weapon": "Compendium Weapon"
             },
-            "Attacks": "Attacks",
+            "Attacks": "攻撃",
             "Creature": "Creature",
             "Dead": "Dead",
             "EditImmunities": "Edit Immunities",
@@ -3293,7 +3293,7 @@
             "PublicNotes": "Description",
             "SavesExtraInfoLabelPlaceholder": "Bonus to all saves...",
             "SendToChat": "Send to Chat",
-            "SensesLabel": "Senses",
+            "SensesLabel": "感覚",
             "SkillRollFlavor": "{skillName} Skill Check ({rank})",
             "SpeedExtraInfoLabelPlaceholder": "Speed details...",
             "Spells": {
@@ -3765,7 +3765,7 @@
                         "Label": "The \"Common\" Language"
                     },
                     "Hint": "Languages for characters to know or learn (e.g., Draconic, Gnomish)",
-                    "Name": "Languages",
+                    "Name": "言語",
                     "Rarities": {
                         "Common": "<rarity>Common</rarity> Languages",
                         "Name": "Language Rarities",
@@ -4043,7 +4043,7 @@
         "SellAllTreasureTitle": "Sell All Treasure",
         "SellItemConfirmHeader": "Sell Confirmation",
         "SellItemQuestion": "Are you sure you want to sell {item}?",
-        "Senses": "Senses",
+        "Senses": "感覚",
         "SettingsQuickChecksLabel": "Preview D20 Rolls",
         "SettingsQuickChecksNotes": "If disabled, dialogs to preview D20 rolls will appear only when a roll button is shift-clicked.",
         "SettingsQuickDamageLabel": "Preview Damage Rolls",
@@ -4126,7 +4126,7 @@
             "Title": "Spellcasting Settings"
         },
         "SpellcastingTypeLabel": "Spellcasting Type",
-        "SpellsActionHeader": "Action",
+        "SpellsActionHeader": "アクション",
         "StackGroupGems": "Gems",
         "StackGroupLabel": "Stack Group",
         "StaminaPointsHeader": "Stamina Points",
@@ -4166,9 +4166,9 @@
         "StrikingRuneLabel": "Striking Rune",
         "Success": "<strong>Success</strong>",
         "TabActionsDowntimeLabel": "Downtime",
-        "TabActionsEncounterLabel": "Encounter",
+        "TabActionsEncounterLabel": "エンカウント",
         "TabActionsExplorationLabel": "Exploration",
-        "TabActionsLabel": "Actions",
+        "TabActionsLabel": "アクション",
         "TabCharacterLabel": "Character",
         "TabCraftingLabel": "Crafting",
         "TabDescriptionLabel": "Description",
@@ -4404,7 +4404,7 @@
         "TraitBleed": "Bleed",
         "TraitBludgeoning": "Bludgeoning",
         "TraitBlight": "Blight",
-        "TraitBoggard": "Boggard",
+        "TraitBoggard": "ボガード語",
         "TraitBomb": "Bomb",
         "TraitBonded": "Bonded",
         "TraitBottledBreath": "Bottled Breath",
@@ -4414,7 +4414,7 @@
         "TraitBrutal": "Brutal",
         "TraitBugbear": "Bugbear",
         "TraitBulwark": "Bulwark",
-        "TraitCaligni": "Caligni",
+        "TraitCaligni": "カリグニ語",
         "TraitCalling": "Calling",
         "TraitCantrip": "Cantrip",
         "TraitCapacity": "Capacity",
@@ -4444,7 +4444,7 @@
         "TraitCommander": "Commander",
         "TraitCombination": "Combination",
         "TraitComfort": "Comfort",
-        "TraitCommon": "Common",
+        "TraitCommon": "共通語",
         "TraitCompanion": "Companion",
         "TraitComplex": "Complex",
         "TraitComposite": "Composite",
@@ -5147,13 +5147,13 @@
         "TraitKickback": "Kickback",
         "TraitKineticist": "Kineticist",
         "TraitKingdom": "Kingdom",
-        "TraitKitsune": "Kitsune",
+        "TraitKitsune": "キツネ語",
         "TraitKobold": "Kobold",
         "TraitKovintus": "Kovintus",
         "TraitLaminar": "Laminar",
         "TraitLaunching": "Launching",
         "TraitLeshy": "Leshy",
-        "TraitLight": "Light",
+        "TraitLight": "軽装",
         "TraitLilu": "Lilu",
         "TraitLineage": "Lineage",
         "TraitLinguistic": "Linguistic",
@@ -5965,7 +5965,7 @@
                 }
             },
             "called": {
-                "Name": "Called"
+                "Name": "コール"
             },
             "coating": {
                 "Name": "Coating"
@@ -6420,7 +6420,7 @@
                 "Era": "IC"
             },
             "Placeholder": "Number",
-            "Title": "World Clock"
+            "Title": "ワールドクロック"
         },
         "condition": {
             "blinded": {
@@ -6534,7 +6534,7 @@
                 "attitudes": "Attitudes",
                 "death": "Death and Dying",
                 "detection": "Degrees of Detection",
-                "senses": "Senses"
+                "senses": "感覚"
             },
             "helpful": {
                 "name": "Helpful",
@@ -6778,7 +6778,7 @@
         }
     },
     "SIDEBAR": {
-        "TabCombat": "Encounter Tracker"
+        "TabCombat": "遭遇トラッカー"
     },
     "TOKEN": {
         "MOVEMENT": {
@@ -6813,7 +6813,7 @@
             "hazard": "Hazard",
             "loot": "Loot",
             "npc": "NPC",
-            "party": "Party",
+            "party": "パーティー",
             "vehicle": "Vehicle"
         },
         "Item": {
