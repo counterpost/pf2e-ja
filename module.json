@@ -24,5 +24,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/counterpost/pf2e-ja/main/module.json",
-  "download": "https://github.com/counterpost/pf2e-ja/releases/download/v0.1.0/pf2e-ja.zip"
+  "download": "https://github.com/counterpost/pf2e-ja/archive/refs/heads/main.zip"
 }
