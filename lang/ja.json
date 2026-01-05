@@ -997,7 +997,7 @@
         "ClassFeatLevels": "Class Feat Levels",
         "ClassFeatures": "Class Features",
         "ClassHP": "Class HP",
-        "ClipboardNotification": "Copied \"{clipText}\"\" to the clipboard.\"",
+        "ClipboardNotification": "\"{clipText}\"をクリップボードにコピーしました。",
         "CompendiumBrowser": {
             "AddedItem": "Added {item} to the selected actor(s).",
             "AddedItemToCharacter": "Added {item} to {character}.",
@@ -1032,7 +1032,7 @@
                 "Traditions": "伝統",
                 "WeaponFilters": "Weapon Filters",
                 "SearchPlaceholder": "Search Text",
-                "WarnPackNotLoaded": "Compendium \"{pack}\"\" could not be loaded.\""
+                "WarnPackNotLoaded": "コンペンディウム \"{pack}\" を読み込めませんでした。"
             },
             "Hint": "Use the tabs above to select a compendium",
             "RollTable": {
@@ -1051,13 +1051,13 @@
                 "SourcesLabel": "出典",
                 "Title": "Compendium Browser Settings"
             },
-            "TabAbilities": "能力",
+            "TabAbilities": "アビリティ",
             "TabBestiary": "ベスティアリ",
             "TabCampaign": "キャンペーン",
             "TabEquipment": "装備",
             "TabFeat": "特技/特徴",
             "TabHazard": "障害",
-            "TabSpell": "呪文",
+            "TabSpell": "スペル",
             "TakeLabel": "Take Item",
             "Title": "Compendium Browser",
             "TraitsComponent": {
@@ -1072,7 +1072,7 @@
             "Invalid": "無効",
             "LockedTooltip": "Unable to migrate — compendium is locked",
             "MigrateCompendium": "Migrate Compendium",
-            "Schema": "スキーマ/schema",
+            "Schema": "スキーマ/schema（仮",
             "Size": "サイズ",
             "Title": "マイグレーションステータス",
             "UpToDate": "Up to Date"
@@ -1189,7 +1189,7 @@
             "pp": "pp",
             "sp": "sp",
             "credits": "クレジット",
-            "upb": "UPB"
+            "upb": "upb"
         },
         "Currency": {
             "cp": "銅貨",
@@ -1210,7 +1210,7 @@
         "DCAdjustmentVeryHard": "very hard",
         "DCBase": "Base DC 10",
         "DCWithValue": "DC {dc} {text}",
-        "DCWithValueAndVisibility": "<span data-visibility=\"{role}\"\">DC {dc}</span> {text}\"",
+        "DCWithValueAndVisibility": "<span data-visibility=\"{role}\">DC {dc}</span> {text}",
         "Damage": {
             "Base": "基本",
             "IWR": {
@@ -1260,7 +1260,7 @@
                     "deafened": "聴覚喪失",
                     "death-effects": "death effects",
                     "detection": "探知",
-                    "disease": "疾病",
+                    "disease": "病気",
                     "divine": "神聖",
                     "djezet": "ジェゼット",
                     "doomed": "破滅",
@@ -1278,13 +1278,13 @@
                     "ghost-touch": "ghost touch",
                     "glass": "ガラス",
                     "grabbed": "掴まれた",
-                    "healing": "治癒",
+                    "healing": "ヒーリング",
                     "hidden": "隠れた",
                     "holy": "聖なる",
                     "illusion": "幻術",
                     "immobilized": "移動不能",
                     "inhaled": "吸入",
-                    "inubrix": "イヌブリックス",
+                    "inubrix": "イヌブリクス",
                     "light": "軽装",
                     "magic": "魔法",
                     "magical": "魔法的",
@@ -1299,7 +1299,7 @@
                     "occult": "心術",
                     "off-guard": "無防備",
                     "olfactory": "嗅覚",
-                    "orichalcum": "オリハルクム",
+                    "orichalcum": "オリハルコン",
                     "paralyzed": "麻痺",
                     "peachwood": "ピーチウッド",
                     "persistent-damage": "persistent damage",
@@ -1318,12 +1318,12 @@
                     "salt-water": "salt water",
                     "scrying": "占術",
                     "siccatite": "シッカタイト",
-                    "sickened": "病気",
+                    "sickened": "不調",
                     "silver": "銀",
                     "sleep": "睡眠",
                     "slowed": "減速",
                     "spell-deflection": "spell deflection",
-                    "spells": "呪文",
+                    "spells": "スペル",
                     "splash-damage": "splash damage",
                     "stunned": "朦朧",
                     "stupefied": "錯乱",
@@ -1398,9 +1398,9 @@
                 "slashing": "斬撃",
                 "sonic": "音波",
                 "spirit": "霊",
-                "splash": "飛沫",
-                "vitality": "活力",
-                "void": "虚無",
+                "splash": "飛散",
+                "vitality": "ヴァイタリティ",
+                "void": "ヴォイド",
                 "untyped": "無属性"
             }
         },
@@ -1420,7 +1420,7 @@
             "HealingShort": "治癒",
             "ShieldBlock": "[Click] Toggle the shield block status of the selected tokens before applying damage.",
             "ShieldBlockContext": "Shield Block",
-            "ShieldBlockShort": "防御",
+            "ShieldBlockShort": "ブロック",
             "Triple": "[Click] Apply triple damage to selected tokens.",
             "TripleContext": "Apply Triple Damage",
             "TripleShort": "三倍"
@@ -1465,7 +1465,7 @@
         "EffectPanel": {
             "AppliedBy": "Applied by: {condition-list}",
             "DecrementToolTip": "[Right Click] Decrease value",
-            "Expired": "期限切れ",
+            "Expired": "効果終了",
             "IncrementToolTip": "[Left Click] Increase value",
             "RemainingDuration": {
                 "MultipleDays": "{days} days remaining",
@@ -1507,7 +1507,7 @@
                 "TempHP": {
                     "PluralNew": "{actor} now has {newQuantity} temporary hit points{wasAt} from {item}.",
                     "SingleNew": "{actor} now has {newQuantity} temporary hit point{wasAt} from {item}.",
-                    "WasAt": "(was at {oldQuantity})"
+                    "WasAt": " (was at {oldQuantity})"
                 }
             },
             "Budget": {
@@ -1517,11 +1517,11 @@
                 "Reward": "報酬",
                 "Threat": "脅威",
                 "Threats": {
-                    "extreme": "極端",
-                    "low": "低",
-                    "moderate": "中程度",
-                    "severe": "深刻",
-                    "trivial": "些細"
+                    "extreme": "極限",
+                    "low": "低難度",
+                    "moderate": "中難度",
+                    "severe": "高難度",
+                    "trivial": "軽微"
                 },
                 "XPBudget": "XP Budget",
                 "XPNeeded": "XP Needed"
@@ -1566,7 +1566,7 @@
         "Environment": {
             "Type": {
                 "Aquatic": "水棲",
-                "Arctic": "極寒",
+                "Arctic": "寒冷地",
                 "Desert": "砂漠",
                 "Forest": "森林",
                 "Mountain": "山岳",
@@ -1591,7 +1591,7 @@
             "CantMoveItemDestination": "You are not allowed to move items to this character.",
             "CantMoveItemSource": "You are not allowed to move items from this character.",
             "CantPurchaseContainerWithItems": "You cannot purchase containers with items in them.",
-            "ItemNotFoundByUUID": "Item with UUID of \"{uuid}\"\" not found.\"",
+            "ItemNotFoundByUUID": "UUID が \"{uuid}\" のアイテムが見つかりません。",
             "MinimumProfLevelSetByFeatures": "The selected proficiency is below proficiency set by features.",
             "NoCreatureTokenSelected": "Select at least one token associated with a creature.",
             "NoPCTokenSelected": "Select at least one token associated with a PC.",
@@ -1607,16 +1607,16 @@
         },
         "Ethnicity": "民族",
         "ExpendSpellTitle": "Expend Spell",
-        "Failure": "失敗",
+        "Failure": "<strong>失敗</strong>",
         "Familiar": {
-            "AbilitiesLabel": "能力",
+            "AbilitiesLabel": "アビリティ",
             "ArmorClass": "アーマー・クラス",
             "AttackRoll": "Attack Roll",
             "Creature": "クリーチャー",
             "CreatureType": "Creature Type",
             "Defenses": "防御",
             "Familiar": "ファミリア",
-            "Master": "主人",
+            "Master": "マスター",
             "MasterActor": "Master Actor",
             "MasterLevel": "Master Level",
             "MasterSpellcastingAbility": "Master Attribute",
@@ -1677,12 +1677,12 @@
         "GreaterWeaponSpecialization": "Greater Weapon Specialization",
         "HardnessLabel": "硬度",
         "HazardDescriptionLabel": "説明",
-        "HazardDisableLabel": "無力化",
+        "HazardDisableLabel": "無効化",
         "HazardResetLabel": "リセット",
         "HazardRoutineLabel": "定型行動",
         "HealingTypeTemporaryHealing": "Healing (Temporary)",
         "Height": "身長",
-        "Heritage": "系譜",
+        "Heritage": "出自",
         "HitPointsDetailsLabel": "HP Details",
         "HitPointsDetailsTitle": "Additional information related to Hit Points such as Fast Healing or Regeneration",
         "HitPointsHeader": "Hit Points",
@@ -1756,7 +1756,7 @@
                         "label": "Self-Applied Effect"
                     }
                 },
-                "Plural": "能力",
+                "Plural": "アビリティ",
                 "SelfAppliedEffect": {
                     "Applied": "{effect} was applied.",
                     "Delete": "Delete Reference",
@@ -1776,8 +1776,8 @@
                 "Command": "命令",
                 "CommandSheetLabel": "命令",
                 "Effect": "効果",
-                "Envision": "想起",
-                "EnvisionSheetLabel": "想起",
+                "Envision": "思い描く/envision",
+                "EnvisionSheetLabel": "思い描く/envision",
                 "Interact": "相互作用",
                 "Label": "起動",
                 "Warning": {
@@ -1797,7 +1797,7 @@
                 "Plural": "疾病効果",
                 "SaveLabel": "Save DC",
                 "Stage": "Stage {stage}",
-                "StageLabel": "段階"
+                "StageLabel": "ステージ"
             },
             "Ammo": {
                 "FIELDS": {
@@ -1814,7 +1814,7 @@
                     "arrows": "矢",
                     "backpack-ballista-bolts": "Backpack Ballista Bolts",
                     "backpack-catapult-stones": "Backpack Catapult Stones",
-                    "battery": "電池",
+                    "battery": "バッテリー",
                     "blowgun-darts": "Blowgun Darts",
                     "bolts": "ボルト",
                     "chem-tank": "Chem Tank",
@@ -1988,7 +1988,7 @@
                             "label": "頑健"
                         },
                         "reflex": {
-                            "label": "反射"
+                            "label": "反応"
                         },
                         "will": {
                             "label": "意志"
@@ -2065,7 +2065,7 @@
             "Consumable": {
                 "Damage": {
                     "Add": "Add Damage/Healing",
-                    "Label": "ダメージ/治癒",
+                    "Label": "ダメージ/ヒール",
                     "Remove": "Remove Damage/Healing"
                 },
                 "Category": {
@@ -2103,7 +2103,7 @@
                     "Capacity": "Bulk Capacity",
                     "Ignored": "Bulk Ignored"
                 },
-                "Plural": "容器",
+                "Plural": "入れ物",
                 "Stowing": "Is Stowing Container?"
             },
             "CreationDialog": {
@@ -2202,7 +2202,7 @@
                     },
                     "Decay": {
                         "Description": "You have the power to spoil and deteriorate matter.",
-                        "Label": "腐敗"
+                        "Label": "腐朽"
                     },
                     "Delirium": {
                         "Description": "You can bring about hallucinations and restlessness.",
@@ -2370,7 +2370,7 @@
                     },
                     "Swarm": {
                         "Description": "You exert control over masses of creatures.",
-                        "Label": "群体"
+                        "Label": "スウォーム"
                     },
                     "Time": {
                         "Description": "You reign over the flow of time.",
@@ -2462,7 +2462,7 @@
                     },
                     "None": "なし"
                 },
-                "Spellcasting": "呪文行使"
+                "Spellcasting": "スペルキャスティング"
             },
             "Effect": {
                 "Expiry": {
@@ -2482,7 +2482,7 @@
                     "Range": "射程",
                     "ReevaluateFormula": {
                         "InitiativeRoll": "On Initiative Roll",
-                        "Label": "再評価？",
+                        "Label": "再計算？",
                         "Never": "しない",
                         "TurnEnd": "On Turn End",
                         "TurnStart": "On Turn Start"
@@ -2567,7 +2567,7 @@
                     "Two": "Up to 2×"
                 },
                 "Warning": {
-                    "InvalidCategory": "Cannot add feat \"{item}\"\" to {category}: feat type is invalid.\"",
+                    "InvalidCategory": "特技 \"{item}\" を {category} に追加できません：特技タイプが無効です。",
                     "TakenAfterLevel1": "{item} must be taken at level 1, but {actor} is at level {actorLevel}.",
                     "TakenMoreThanMax": "{item} may only be taken {maxTakable} times, but {actor} has selected it {timesTaken} times.",
                     "TakenMoreThanOnce": "{item} may only be taken once, but {actor} has selected it an additional time."
@@ -2668,7 +2668,7 @@
                     "FourPropertiesMaterial": "{property1} {property2} {property3} {property4} {material} {base}",
                     "Fundamental2": "{fundamental2} {base}",
                     "Fundamental2Material": "{fundamental2} {material} {base}",
-                    "Hint": "This is the name of the base weapon. For most weapons, the base is used to generate a fuller name, taking into account the material composition and/or runes. Giving this weapon a custom name or marking it as \"specific\"\" will prevent the generated name from appearing.\"",
+                    "Hint": "これはベース武器の名称です。多くの武器では材質やルーンを考慮して、より詳細な名称が生成されます。この武器にカスタム名を付けるか、「固有」として指定すると、自動生成された名称は表示されません。",
                     "Material": "{material} {base}",
                     "OneProperty": "{property1} {base}",
                     "OnePropertyMaterial": "{property1} {material} {base}",
