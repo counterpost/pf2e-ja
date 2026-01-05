@@ -843,7 +843,7 @@
         "ArmorPropertyRuneSoaring": "ソアリング",
         "ArmorPropertyRuneSpellwatch": "スペルウォッチ",
         "ArmorPropertyRuneStanching": "スタンチング",
-        "ArmorPropertyRuneSwallowSpike": "スワロー・スパイク",
+        "ArmorPropertyRuneSwallowSpike": "スワロースパイク",
         "ArmorPropertyRuneTrueQuenching": "True Quenching",
         "ArmorPropertyRuneTrueStanching": "True Stanching",
         "ArmorPropertyRuneWinged": "ウィングド",
@@ -864,7 +864,7 @@
         "AttackEffectPush": "押し出し",
         "AttackEffectTrip": "足払い",
         "AttackLabel": "攻撃",
-        "AttitudeLabel": "ステータス",
+        "AttitudeLabel": "態度",
         "Attitudes": {
             "Friendly": "友好的",
             "Helpful": "協力的",
