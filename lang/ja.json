@@ -451,7 +451,7 @@
                     "NoRangeLimit": "制限なし",
                     "NoVision": "No Vision",
                     "Plural": "感覚",
-                    "RangeLabel": "Range",
+                    "RangeLabel": "遠隔",
                     "Type": {
                         "Bloodsense": "Bloodsense",
                         "Darkvision": "ダークビジョン",
@@ -481,7 +481,7 @@
                     "BrokenThreshold": "盾破損しきい値",
                     "Hardness": {
                         "Hint": "盾硬度",
-                        "Label": "H"
+                        "Label": "硬"
                     },
                     "HitPoints": {
                         "Value": "盾HP",
@@ -501,7 +501,7 @@
                     "Label": "Spell Attack Modifiers & DCs",
                     "MagicItemTypesLabel": "Magic Item Types",
                     "Rituals": "儀式",
-                    "ShortLabel": "Spellcasting",
+                    "ShortLabel": "スペル詠唱",
                     "TraditionSpellcasting": "{tradition} Spellcasting",
                     "ValidItemTypes": {
                         "All": "All Magic Items",
@@ -509,7 +509,7 @@
                     }
                 }
             },
-            "Dead": "Dead",
+            "Dead": "死亡",
             "Familiar": {
                 "Blurb": "Familiar of {master}",
                 "MinimumAttributeModifier": "Minimum Attribute Modifier",
@@ -520,19 +520,19 @@
                 }
             },
             "Hardness": {
-                "ShortLabel": "HRD"
+                "ShortLabel": "硬度"
             },
             "Hazard": {
                 "EmitsSound": {
                     "Encounter": "During Encounters",
-                    "False": "Never",
+                    "False": "なし",
                     "Hint": "Whether this hazard emits sound and can be sensed via hearing",
                     "Title": "Emits Sound?",
-                    "True": "Always"
+                    "True": "常時"
                 },
                 "Level": "Hazard {level}",
-                "Plural": "Hazards",
-                "Simple": "Simple",
+                "Plural": "障害",
+                "Simple": "単純",
                 "TitleEdit": "{name} (編集モード)"
             },
             "HitPoints": {
@@ -543,7 +543,7 @@
                     "OpenMenu": "Change Carry Type"
                 },
                 "DistributeCoins": "Distribute Coins",
-                "Encumbrance": "Encumbrance",
+                "Encumbrance": "過重",
                 "ItemQuantity": {
                     "Decrease": {
                         "Click": "[Click] Decrease by 1",
@@ -563,28 +563,28 @@
                 "TotalBulk": "Total Bulk: {bulk}",
                 "UnitTitle": {
                     "Bulk": "Unit Bulk",
-                    "Price": "Price"
+                    "Price": "価格"
                 }
             },
             "IWREditor": {
                 "DoubleVs": "Double Vs.",
-                "Exceptions": "Exceptions",
+                "Exceptions": "例外",
                 "Title": "{actor}: {category}",
-                "Type": "Type"
+                "Type": "種別"
             },
             "Speed": {
                 "BaseLabel": "{value}-Foot {type} Speed",
                 "BaseWithSource": "{value}-Foot {type} Speed ({source})",
-                "Plural": "Speeds",
-                "Label": "Speed",
+                "Plural": "移動速度",
+                "Label": "移動速度",
                 "LabelFeet": "Speed (Feet)",
                 "Type": {
-                    "Burrow": "Burrow",
-                    "Climb": "Climb",
-                    "Fly": "Fly",
+                    "Burrow": "穴掘り",
+                    "Climb": "登攀",
+                    "Fly": "飛行",
                     "Label": "{type} Speed",
-                    "Land": "Land",
-                    "Swim": "Swim"
+                    "Land": "地上",
+                    "Swim": "水泳"
                 }
             },
             "NPC": {
@@ -597,8 +597,8 @@
                         "DefaultLootable": "Global Default (Lootable)",
                         "DefaultNotLootable": "Global Default (Not Lootable)",
                         "Hint": "Set whether this NPC becomes lootable by players upon its demise. The global default can be configured in <a>Automation Settings</a>.",
-                        "Label": "Lootable?",
-                        "Lootable": "Lootable",
+                        "Label": "戦利品化可能？",
+                        "Lootable": "戦利品化可能",
                         "NotLootable": "Not Lootable"
                     },
                     "Title": "Configure NPC"
@@ -614,11 +614,11 @@
                 "Identification": {
                     "Skills": {
                         "Label": "{skills}: DC {dc} ({adjustment})",
-                        "Tooltip": "\"The skill used to identify a creature usually depends on that creature's trait, as shown on the Creature Identification Skills table, but you have leeway on which skills apply.\" — Pathfinder GM Core pg. 54-55"
+                        "Tooltip": " as shown on the Creature Identification Skills table"
                     },
                     "Lore": {
                         "Label": "Applicable Lore: DC {dc1} ({adjustment1}) or DC {dc2} ({adjustment2})",
-                        "Tooltip": "\"Using the applicable Lore usually has an easy or very easy DC (before adjusting for rarity).\" — Pathfinder GM Core pg. 54"
+                        "Tooltip": "\"Using the applicable Lore usually has an easy or very easy DC (before adjusting for rarity).\"\" — Pathfinder GM Core pg. 54\""
                     }
                 },
                 "LevelN": "Creature {level}",
@@ -630,9 +630,9 @@
                         "PredicateArray": "Predicate must be an array"
                     },
                     "LorePlaceholder": "Carpentry Lore",
-                    "Note": "Note",
-                    "Predicate": "Predicate",
-                    "Special": "Special",
+                    "Note": "注記",
+                    "Predicate": "条件",
+                    "Special": "特殊",
                     "Title": "Skills Editor ({actor})"
                 }
             },
@@ -649,11 +649,11 @@
                     "SecretCheck": "Secret Check",
                     "SetDC": "Set DC",
                     "SimpleDC": "Simple DC",
-                    "SkillsPerception": "Skills/Perception",
+                    "SkillsPerception": "スキル/〈知覚〉",
                     "Title": "Generate Check Prompt",
                     "TitleShort": "Check Prompt"
                 },
-                "Coin": "Coin",
+                "Coin": "コイン",
                 "ClearActivities": {
                     "Label": "消去",
                     "Complete": "Party exploration activities have been cleared"
@@ -672,7 +672,7 @@
                     }
                 },
                 "Languages": "Party Languages",
-                "MembersLabel": "Members: ",
+                "MembersLabel": "メンバー：",
                 "NewName": "New Party",
                 "NoMembers": "No Members",
                 "NoSpecialSenses": "No Special Senses",
@@ -680,7 +680,7 @@
                     "Title": "Remove Member",
                     "Content": "Remove member from party?"
                 },
-                "Rest": "Rest",
+                "Rest": "休息",
                 "Sidebar": {
                     "ActivateParty": "Activate Party",
                     "CreateMember": "Create New Member",
@@ -692,45 +692,45 @@
                 "Skills": "Party Skills",
                 "SlotAvailable": "Slot Available",
                 "Tabs": {
-                    "Overview": "Overview",
-                    "Exploration": "Exploration",
+                    "Overview": "概要",
+                    "Exploration": "探索",
                     "Orphaned": "Orphaned Items",
-                    "Stash": "Stash"
+                    "Stash": "共用"
                 },
                 "Total": "Party Total",
                 "TravelHeader": "Party Travel and Hexploration",
                 "Visibility": {
-                    "Restricted": "Restricted",
-                    "Unrestricted": "Unrestricted"
+                    "Restricted": "制限付き",
+                    "Unrestricted": "無制限"
                 },
-                "Wealth": "Wealth"
+                "Wealth": "財産"
             },
-            "Plural": "Actors",
+            "Plural": "アクター",
             "Resource": {
                 "Focus": "Focus Points",
                 "HeroPoints": "Hero Points",
-                "Investiture": "Investiture",
-                "Resolve": "Resolve",
+                "Investiture": "同調/Investiture（仮",
+                "Resolve": "決意",
                 "MythicPoints": "Mythic Points"
             },
-            "Resources": "Resources",
+            "Resources": "リソース",
             "ResourceRatio": "{value}/{max} {resource}",
             "Vehicle": {
                 "EmitsSound": {
                     "Encounter": "During Encounters",
-                    "False": "No",
+                    "False": "いいえ",
                     "Hint": "Whether this vehicle is emitting sound and can be sensed via hearing.",
                     "Title": "Emitting Sound?",
-                    "True": "Yes"
+                    "True": "はい"
                 }
             }
         },
-        "ActorSizeGargantuan": "Gargantuan",
-        "ActorSizeHuge": "Huge",
-        "ActorSizeLarge": "Large",
+        "ActorSizeGargantuan": "超巨大",
+        "ActorSizeHuge": "巨大",
+        "ActorSizeLarge": "大型",
         "ActorSizeMedium": "中装",
-        "ActorSizeSmall": "Small",
-        "ActorSizeTiny": "Tiny",
+        "ActorSizeSmall": "小型",
+        "ActorSizeTiny": "超小型",
         "AddCoinsCombineStacksLabel": "Combine Stacks",
         "AddCoinsTitle": "Add Coins",
         "AddCombatProficiency": {
@@ -738,32 +738,32 @@
             "Title": "Add Combat Proficiency"
         },
         "AddModifierTitle": "Add Modifier",
-        "AddShortLabel": "Add",
+        "AddShortLabel": "追加",
         "AddSpellTitle": "Add Spell",
         "AddSpellcastingEntryTitle": "Add Spellcasting Entry",
         "AdditionalLanguagePlusInt": "(plus Intelligence)",
         "AdditionalSkills": "Additional Skills",
-        "Age": "Age",
+        "Age": "年齢",
         "AllSavesLabel": "All Saves",
         "AncestryFeatLevels": "Ancestry Feat Levels",
         "AncestryFeatures": "種族特徴",
         "AncestryHP": "Ancestry HP",
         "Area": {
             "InFeet": "Area (Feet)",
-            "Label": "Area",
+            "Label": "範囲",
             "Shape": {
-                "burst": "burst",
-                "cone": "cone",
-                "cube": "cube",
-                "cylinder": "cylinder",
-                "emanation": "emanation",
-                "line": "line",
-                "square": "square"
+                "burst": "爆発",
+                "cone": "円錐",
+                "cube": "立方体",
+                "cylinder": "円柱",
+                "emanation": "放射",
+                "line": "直線",
+                "square": "正方形"
             },
             "Size": {
-                "Half": "half",
-                "Mile": "mile",
-                "Quarter": "quarter"
+                "Half": "半分",
+                "Mile": "マイル",
+                "Quarter": "4分の1"
             }
         },
         "ArmorArmorLabel": "AC Bonus",
@@ -774,35 +774,35 @@
         "ArmorClassShortLabel": "AC",
         "ArmorDexLabel": "Dex Modifier Cap",
         "ArmorGreaterResilientRune": "Greater Resilient",
-        "ArmorGroupChain": "Chain",
-        "ArmorGroupCloth": "Cloth",
-        "ArmorGroupComposite": "Composite",
-        "ArmorGroupLabel": "Group",
-        "ArmorGroupLeather": "Leather",
-        "ArmorGroupPlate": "Plate",
-        "ArmorGroupSkeletal": "Skeletal",
-        "ArmorGroupWood": "Wood",
+        "ArmorGroupChain": "鎖",
+        "ArmorGroupCloth": "布",
+        "ArmorGroupComposite": "複合",
+        "ArmorGroupLabel": "グループ",
+        "ArmorGroupLeather": "革",
+        "ArmorGroupPlate": "板金",
+        "ArmorGroupSkeletal": "骨格",
+        "ArmorGroupWood": "木製",
         "ArmorMajorResilientRune": "Major Resilient",
         "ArmorMythicResilientRune": "Mythic Resilient",
         "ArmorPotencyRune1": "Armor Potency (+1)",
         "ArmorPotencyRune2": "Armor Potency (+2)",
         "ArmorPotencyRune3": "Armor Potency (+3)",
         "ArmorPotencyRune4": "Armor Potency (+4)",
-        "ArmorPropertyRuneAcidResistant": "Acid-Resistant",
-        "ArmorPropertyRuneAdvancing": "Advancing",
-        "ArmorPropertyRuneAimAiding": "Aim-Aiding",
-        "ArmorPropertyRuneAntimagic": "Antimagic",
-        "ArmorPropertyRuneAssisting": "Assisting",
-        "ArmorPropertyRuneBitter": "Bitter",
-        "ArmorPropertyRuneColdResistant": "Cold-Resistant",
-        "ArmorPropertyRuneDeathless": "Deathless",
-        "ArmorPropertyRuneElectricityResistant": "Electricity-Resistant",
+        "ArmorPropertyRuneAcidResistant": "アシッド・レジスタント",
+        "ArmorPropertyRuneAdvancing": "アドヴァンシング",
+        "ArmorPropertyRuneAimAiding": "エイム・エイディング",
+        "ArmorPropertyRuneAntimagic": "アンチマジック",
+        "ArmorPropertyRuneAssisting": "アシスティング",
+        "ArmorPropertyRuneBitter": "ビター",
+        "ArmorPropertyRuneColdResistant": "コールド・レジスタント",
+        "ArmorPropertyRuneDeathless": "デスレス",
+        "ArmorPropertyRuneElectricityResistant": "エレクトリシティ・レジスタント",
         "ArmorPropertyRuneEnergyAdaptive": "Energy Adaptive",
-        "ArmorPropertyRuneEthereal": "Ethereal",
-        "ArmorPropertyRuneFireResistant": "Fire-Resistant",
-        "ArmorPropertyRuneFortification": "Fortification",
-        "ArmorPropertyRuneGlamered": "Glamered",
-        "ArmorPropertyRuneGliding": "Gliding",
+        "ArmorPropertyRuneEthereal": "エセリアル",
+        "ArmorPropertyRuneFireResistant": "ファイア・レジスタント",
+        "ArmorPropertyRuneFortification": "フォーティフィケーション",
+        "ArmorPropertyRuneGlamered": "グラマード",
+        "ArmorPropertyRuneGliding": "グライディング",
         "ArmorPropertyRuneGreaterAcidResistant": "Greater Acid-Resistant",
         "ArmorPropertyRuneGreaterAdvancing": "Greater Advancing",
         "ArmorPropertyRuneGreaterColdResistant": "Greater Cold-Resistant",
@@ -818,59 +818,59 @@
         "ArmorPropertyRuneGreaterStanching": "Greater Stanching",
         "ArmorPropertyRuneGreaterSwallowSpike": "Greater Swallow-Spike",
         "ArmorPropertyRuneGreaterWinged": "Greater Winged",
-        "ArmorPropertyRuneImmovable": "Immovable",
-        "ArmorPropertyRuneImplacable": "Implacable",
-        "ArmorPropertyRuneInvisibility": "Invisibility",
+        "ArmorPropertyRuneImmovable": "イモヴァブル",
+        "ArmorPropertyRuneImplacable": "インプレイカブル",
+        "ArmorPropertyRuneInvisibility": "インヴィジビリティ",
         "ArmorPropertyRuneLesserDread": "Lesser Dread",
-        "ArmorPropertyRuneMagnetizing": "Magnetizing",
+        "ArmorPropertyRuneMagnetizing": "マグネタイジング",
         "ArmorPropertyRuneMajorQuenching": "Major Quenching",
         "ArmorPropertyRuneMajorShadow": "Major Shadow",
         "ArmorPropertyRuneMajorSlick": "Major Slick",
         "ArmorPropertyRuneMajorStanching": "Major Stanching",
         "ArmorPropertyRuneMajorSwallowSpike": "Major Swallow-Spike",
-        "ArmorPropertyRuneMalleable": "Malleable",
-        "ArmorPropertyRuneMisleading": "Misleading",
+        "ArmorPropertyRuneMalleable": "マラブル",
+        "ArmorPropertyRuneMisleading": "ミスリーディング",
         "ArmorPropertyRuneModerateDread": "Moderate Dread",
-        "ArmorPropertyRunePortable": "Portable",
-        "ArmorPropertyRuneQuenching": "Quenching",
-        "ArmorPropertyRuneRaiment": "Raiment",
-        "ArmorPropertyRuneReady": "Ready",
-        "ArmorPropertyRuneRockBraced": "Rock-Braced",
-        "ArmorPropertyRuneShadow": "Shadow",
+        "ArmorPropertyRunePortable": "ポータブル",
+        "ArmorPropertyRuneQuenching": "クェンチング",
+        "ArmorPropertyRuneRaiment": "レイメント",
+        "ArmorPropertyRuneReady": "レディ",
+        "ArmorPropertyRuneRockBraced": "ロック・ブレイスト",
+        "ArmorPropertyRuneShadow": "シャドウ",
         "ArmorPropertyRuneSinisterKnight": "Sinister Knight",
-        "ArmorPropertyRuneSizeChanging": "Size-Changing",
-        "ArmorPropertyRuneSlick": "Slick",
-        "ArmorPropertyRuneSoaring": "Soaring",
-        "ArmorPropertyRuneSpellwatch": "Spellwatch",
-        "ArmorPropertyRuneStanching": "Stanching",
-        "ArmorPropertyRuneSwallowSpike": "Swallow-Spike",
+        "ArmorPropertyRuneSizeChanging": "サイズ・チェンジング",
+        "ArmorPropertyRuneSlick": "スリック",
+        "ArmorPropertyRuneSoaring": "ソアリング",
+        "ArmorPropertyRuneSpellwatch": "スペルウォッチ",
+        "ArmorPropertyRuneStanching": "スタンチング",
+        "ArmorPropertyRuneSwallowSpike": "スワロー・スパイク",
         "ArmorPropertyRuneTrueQuenching": "True Quenching",
         "ArmorPropertyRuneTrueStanching": "True Stanching",
-        "ArmorPropertyRuneWinged": "Winged",
-        "ArmorResilientRune": "Resilient",
+        "ArmorPropertyRuneWinged": "ウィングド",
+        "ArmorResilientRune": "レジリエント",
         "ArmorSpeedLabel": "Speed Penalty",
         "ArmorStrengthLabel": "Strength Requirement",
         "ArmorTypeHeavy": "Heavy Armor",
         "ArmorTypeLight": "ライトアーマー",
         "ArmorTypeMedium": "ミディアムアーマー",
-        "ArmorTypeUnarmored": "Unarmored",
-        "AttackEffectConstrict": "Constrict",
-        "AttackEffectGrab": "Grab",
+        "ArmorTypeUnarmored": "鎧なし",
+        "AttackEffectConstrict": "拘束",
+        "AttackEffectGrab": "つかみ",
         "AttackEffectGreaterConstrict": "Improved Constrict",
         "AttackEffectImprovedGrab": "Improved Grab",
         "AttackEffectImprovedKnockdown": "Improved Knockdown",
         "AttackEffectImprovedPush": "Improved Push",
-        "AttackEffectKnockdown": "Knockdown",
-        "AttackEffectPush": "Push",
-        "AttackEffectTrip": "Trip",
-        "AttackLabel": "Attack",
-        "AttitudeLabel": "Attitude",
+        "AttackEffectKnockdown": "打ち倒し",
+        "AttackEffectPush": "押し出し",
+        "AttackEffectTrip": "足払い",
+        "AttackLabel": "攻撃",
+        "AttitudeLabel": "ステータス",
         "Attitudes": {
-            "Friendly": "Friendly",
-            "Helpful": "Helpful",
-            "Hostile": "Hostile",
-            "Indifferent": "Indifferent",
-            "Unfriendly": "Unfriendly"
+            "Friendly": "友好的",
+            "Helpful": "協力的",
+            "Hostile": "敵対的",
+            "Indifferent": "中立",
+            "Unfriendly": "非友好的"
         },
         "AutomaticBonusProgression": {
             "attackPotency": "Attack Potency",
@@ -879,28 +879,28 @@
             "perceptionPotency": "Perception Potency",
             "savePotency": "Save Potency"
         },
-        "Background": "Background",
+        "Background": "背景",
         "BackgroundSkillFeats": "Skill Feats",
         "BaseModifier": "Base Modifier",
         "BaseWeapons": "Base Weapons",
-        "Biography": "Biography",
-        "BiographyAllies": "Allies",
-        "BiographyAppearance": "Appearance",
-        "BiographyAnathema": "Anathema",
-        "BiographyAttitude": "Attitude",
-        "BiographyBackStory": "Backstory",
-        "BiographyBeliefs": "Beliefs",
+        "Biography": "人物像",
+        "BiographyAllies": "味方",
+        "BiographyAppearance": "外見",
+        "BiographyAnathema": "アナテマ",
+        "BiographyAttitude": "態度",
+        "BiographyBackStory": "バックストーリー",
+        "BiographyBeliefs": "信条",
         "BiographyBirthPlace": "Birth Place",
-        "BiographyCampaignNotes": "Notes",
-        "BiographyCampaignNotesHeader": "Campaign",
-        "BiographyCatchphrases": "Catchphrases",
-        "BiographyDislikes": "Dislikes",
-        "BiographyEdicts": "Edicts",
-        "BiographyEnemies": "Enemies",
-        "BiographyLikes": "Likes",
-        "BiographyOrganizations": "Organizations",
-        "BiographyPersonalityHeader": "Personality",
-        "Bonus": "Bonus",
+        "BiographyCampaignNotes": "メモ",
+        "BiographyCampaignNotesHeader": "キャンペーン",
+        "BiographyCatchphrases": "決まり文句",
+        "BiographyDislikes": "嫌いなもの",
+        "BiographyEdicts": "戒律",
+        "BiographyEnemies": "敵",
+        "BiographyLikes": "好きなもの",
+        "BiographyOrganizations": "組織",
+        "BiographyPersonalityHeader": "人格",
+        "Bonus": "ボーナス",
         "BonusLabel": {
             "ability": "Attribute Bonus",
             "circumstance": "Circumstance Bonus",
@@ -911,23 +911,23 @@
         },
         "BonusSPLabel": "Bonus SP",
         "BonusSPperLevel": "Bonus SP per Level",
-        "BrowseLabel": "Browse",
+        "BrowseLabel": "閲覧",
         "BulkMaxLabel": "Max Bulk",
-        "CapacityBarLabel": "Capacity",
+        "CapacityBarLabel": "容量",
         "CarryType": {
-            "attached": "Attached",
-            "dropped": "Dropped",
+            "attached": "装着",
+            "dropped": "落下",
             "held1": "Held 1H",
             "held2": "Held 2H",
-            "implanted": "Implanted",
-            "stowed": "Stowed",
-            "worn": "Worn",
+            "implanted": "埋め込み",
+            "stowed": "収納",
+            "worn": "装備中",
             "worn-in-slot": "Worn (In Slot)"
         },
-        "CastLabel": "Cast",
-        "Category": "Category",
+        "CastLabel": "発動",
+        "Category": "分類",
         "CharacterDetails": "Character Details",
-        "CharacterLevelLabel": "Level",
+        "CharacterLevelLabel": "レベル",
         "CharacterNamePlaceholder": "Character Name",
         "CharacterTraits": "Character Traits",
         "CharacterTraitsHeader": "Traits & Other Details",
@@ -963,21 +963,21 @@
                 },
                 "Unspecific": "DC"
             },
-            "Label": "Check",
+            "Label": "判定",
             "Result": {
                 "AdjustedLabel": "Result: <unadjusted>{unadjusted}</unadjusted> <adjusted>{adjusted}</adjusted> <offset>by {offset}</offset>",
                 "Degree": {
                     "Attack": {
                         "criticalFailure": "Critical Miss",
                         "criticalSuccess": "Critical Hit",
-                        "failure": "Miss",
-                        "success": "Hit"
+                        "failure": "ミス",
+                        "success": "ヒット"
                     },
                     "Check": {
                         "criticalFailure": "Critical Failure",
                         "criticalSuccess": "Critical Success",
-                        "failure": "Failure",
-                        "success": "Success"
+                        "failure": "失敗",
+                        "success": "成功"
                     }
                 },
                 "Label": "Result: <unadjusted>{unadjusted}</unadjusted> <offset>by {offset}</offset>"
@@ -992,12 +992,12 @@
                 "Recovery": "Recovery Check"
             }
         },
-        "CircumstanceBonusShortLabel": "Circumstance",
+        "CircumstanceBonusShortLabel": "状況",
         "CircumstanceBonusTitle": "Circumstance Bonus",
         "ClassFeatLevels": "Class Feat Levels",
         "ClassFeatures": "Class Features",
         "ClassHP": "Class HP",
-        "ClipboardNotification": "Copied \"{clipText}\" to the clipboard.",
+        "ClipboardNotification": "Copied \"{clipText}\"\" to the clipboard.\"",
         "CompendiumBrowser": {
             "AddedItem": "Added {item} to the selected actor(s).",
             "AddedItemToCharacter": "Added {item} to {character}.",
@@ -1008,14 +1008,14 @@
             "FailedToBuyItemWithCharacter": "Could not purchase {item} with {character}.",
             "FailedToBuyItemWithSomeCharacters": "Could not purchase {item} with some of the selected actor(s).",
             "Filter": {
-                "Alignments": "Alignments",
-                "Ancestries": "Ancestries",
+                "Alignments": "属性",
+                "Ancestries": "祖先",
                 "ArmorFilters": "Armor Filters",
                 "ClearFilter": "消去",
                 "ClearAllFilters": "Clear All Filters",
                 "CastingTime": "Casting time",
-                "Categories": "Categories",
-                "Class": "Classes",
+                "Categories": "分類",
+                "Class": "クラス",
                 "Complexity": "Hazard Complexities",
                 "Conjunction": {
                     "AndLabel": "All of above",
@@ -1023,16 +1023,16 @@
                 },
                 "FilterSources": "Filter Sources",
                 "InventoryTypes": "Inventory Types",
-                "Levels": "Levels",
+                "Levels": "レベル",
                 "OrderByLabel": "Order by",
                 "ProficiencyRequirements": "Proficiency Requirements",
-                "Rarities": "Rarities",
-                "Sizes": "Sizes",
-                "Source": "Sources",
-                "Traditions": "Traditions",
+                "Rarities": "レアリティ",
+                "Sizes": "サイズ",
+                "Source": "出典",
+                "Traditions": "伝統",
                 "WeaponFilters": "Weapon Filters",
                 "SearchPlaceholder": "Search Text",
-                "WarnPackNotLoaded": "Compendium \"{pack}\" could not be loaded."
+                "WarnPackNotLoaded": "Compendium \"{pack}\"\" could not be loaded.\""
             },
             "Hint": "Use the tabs above to select a compendium",
             "RollTable": {
@@ -1042,22 +1042,22 @@
                 "CreateLabel": "Create Roll Table",
                 "SelectTableTitle": "Select Roll Table",
                 "TooManyResults": "The result list of size {size} is too large. Maximum size is {maxSize}",
-                "WeightLabel": "Weight"
+                "WeightLabel": "重量"
             },
             "Settings": {
                 "OpenSettings": "Open Settings",
-                "PacksLabel": "Packs",
+                "PacksLabel": "パック",
                 "Saved": "Settings have been saved",
-                "SourcesLabel": "Sources",
+                "SourcesLabel": "出典",
                 "Title": "Compendium Browser Settings"
             },
-            "TabAbilities": "Abilities",
-            "TabBestiary": "Bestiaries",
-            "TabCampaign": "Campaign",
-            "TabEquipment": "Equipment",
-            "TabFeat": "Feats/Features",
-            "TabHazard": "Hazards",
-            "TabSpell": "Spells",
+            "TabAbilities": "能力",
+            "TabBestiary": "ベスティアリ",
+            "TabCampaign": "キャンペーン",
+            "TabEquipment": "装備",
+            "TabFeat": "特技/特徴",
+            "TabHazard": "障害",
+            "TabSpell": "呪文",
             "TakeLabel": "Take Item",
             "Title": "Compendium Browser",
             "TraitsComponent": {
@@ -1066,84 +1066,84 @@
             }
         },
         "CompendiumMigrationStatus": {
-            "Document": "Document",
+            "Document": "ドキュメント",
             "Foundry": "Foundry",
             "FoundryOld": "0.7 or older",
-            "Invalid": "Invalid",
+            "Invalid": "無効",
             "LockedTooltip": "Unable to migrate — compendium is locked",
             "MigrateCompendium": "Migrate Compendium",
-            "Schema": "Schema",
-            "Size": "Size",
+            "Schema": "スキーマ/schema",
+            "Size": "サイズ",
             "Title": "マイグレーションステータス",
             "UpToDate": "Up to Date"
         },
         "Condition": {
             "ActiveLabel": "有効",
-            "DurationNumberLabel": "Rounds",
-            "DurationTextLabel": "Duration",
+            "DurationNumberLabel": "ラウンド",
+            "DurationTextLabel": "持続時間",
             "HasValueLabel": "Has Value",
-            "ImmutableLabel": "Immutable",
+            "ImmutableLabel": "変更不可",
             "ImmutableTitle": "Value cannot be reduced.",
             "PerpetualLabel": "Perpetual Condition",
-            "RemovableLabel": "Removable",
-            "ValueLabel": "Value"
+            "RemovableLabel": "除去可能",
+            "ValueLabel": "値"
         },
-        "ConditionTypeBlinded": "Blinded",
-        "ConditionTypeBroken": "Broken",
-        "ConditionTypeClumsy": "Clumsy",
-        "ConditionTypeConcealed": "Concealed",
-        "ConditionTypeConfused": "Confused",
-        "ConditionTypeControlled": "Controlled",
-        "ConditionTypeCursebound": "Cursebound",
-        "ConditionTypeDazzled": "Dazzled",
-        "ConditionTypeDeafened": "Deafened",
-        "ConditionTypeDoomed": "Doomed",
-        "ConditionTypeDrained": "Drained",
-        "ConditionTypeDying": "Dying",
-        "ConditionTypeEncumbered": "Encumbered",
-        "ConditionTypeEnfeebled": "Enfeebled",
-        "ConditionTypeFascinated": "Fascinated",
-        "ConditionTypeFatigued": "Fatigued",
-        "ConditionTypeFlatFooted": "Off-Guard",
-        "ConditionTypeFleeing": "Fleeing",
-        "ConditionTypeFriendly": "Friendly",
-        "ConditionTypeFrightened": "Frightened",
-        "ConditionTypeGrabbed": "Grabbed",
-        "ConditionTypeHelpful": "Helpful",
-        "ConditionTypeHidden": "Hidden",
-        "ConditionTypeHostile": "Hostile",
-        "ConditionTypeImmobilized": "Immobilized",
-        "ConditionTypeIndifferent": "Indifferent",
-        "ConditionTypeInvisible": "Invisible",
-        "ConditionTypeMalevolence": "Malevolence",
-        "ConditionTypeObserved": "Observed",
-        "ConditionTypeOffGuard": "Off-Guard",
-        "ConditionTypeParalyzed": "Paralyzed",
+        "ConditionTypeBlinded": "盲目",
+        "ConditionTypeBroken": "破損",
+        "ConditionTypeClumsy": "ぎこちない",
+        "ConditionTypeConcealed": "視認困難",
+        "ConditionTypeConfused": "混乱",
+        "ConditionTypeControlled": "支配",
+        "ConditionTypeCursebound": "呪縛",
+        "ConditionTypeDazzled": "眩惑",
+        "ConditionTypeDeafened": "聴覚喪失",
+        "ConditionTypeDoomed": "破滅",
+        "ConditionTypeDrained": "消耗",
+        "ConditionTypeDying": "瀕死",
+        "ConditionTypeEncumbered": "過重",
+        "ConditionTypeEnfeebled": "衰弱",
+        "ConditionTypeFascinated": "気を取られた",
+        "ConditionTypeFatigued": "疲労",
+        "ConditionTypeFlatFooted": "無防備",
+        "ConditionTypeFleeing": "逃走",
+        "ConditionTypeFriendly": "友好",
+        "ConditionTypeFrightened": "恐怖",
+        "ConditionTypeGrabbed": "掴まれた",
+        "ConditionTypeHelpful": "協力的",
+        "ConditionTypeHidden": "隠れた",
+        "ConditionTypeHostile": "敵対的",
+        "ConditionTypeImmobilized": "移動不能",
+        "ConditionTypeIndifferent": "中立",
+        "ConditionTypeInvisible": "不可視",
+        "ConditionTypeMalevolence": "悪意",
+        "ConditionTypeObserved": "視認",
+        "ConditionTypeOffGuard": "無防備",
+        "ConditionTypeParalyzed": "麻痺",
         "ConditionTypePersistent": "Persistent Damage",
-        "ConditionTypePersistentShort": "Persistent",
-        "ConditionTypePetrified": "Petrified",
-        "ConditionTypeProne": "Prone",
-        "ConditionTypeQuickened": "Quickened",
-        "ConditionTypeRestrained": "Restrained",
-        "ConditionTypeSickened": "Sickened",
-        "ConditionTypeSlowed": "Slowed",
-        "ConditionTypeStunned": "Stunned",
-        "ConditionTypeStupefied": "Stupefied",
-        "ConditionTypeUnconscious": "Unconscious",
-        "ConditionTypeUndetected": "Undetected",
-        "ConditionTypeUnfriendly": "Unfriendly",
-        "ConditionTypeUnnoticed": "Unnoticed",
-        "ConditionTypeWounded": "Wounded",
-        "ConditionsLabel": "Conditions",
+        "ConditionTypePersistentShort": "持続",
+        "ConditionTypePetrified": "石化",
+        "ConditionTypeProne": "伏せ",
+        "ConditionTypeQuickened": "加速",
+        "ConditionTypeRestrained": "拘束",
+        "ConditionTypeSickened": "不調",
+        "ConditionTypeSlowed": "減速",
+        "ConditionTypeStunned": "朦朧",
+        "ConditionTypeStupefied": "混濁",
+        "ConditionTypeUnconscious": "気絶",
+        "ConditionTypeUndetected": "未探知",
+        "ConditionTypeUnfriendly": "非友好的",
+        "ConditionTypeUnnoticed": "気が付かれていない",
+        "ConditionTypeWounded": "負傷",
+        "ConditionsLabel": "状態",
         "ConsumableMessage": {
             "UseExhausted": "Exhausted {name}",
             "UseMulti": "Uses {name}, {current} remain",
             "UseSingle": "Uses {name}"
         },
         "CoreSkillsHeader": "Core Skills",
-        "Counteractable": "Counteractable",
+        "Counteractable": "対抗可能",
         "CraftDCTitle": "DC",
-        "CraftItemTitle": "Craft",
+        "CraftItemTitle": "製作",
         "CraftingTab": {
             "Alchemical": {
                 "AdvancedAlchemy": "Advanced Alchemy",
@@ -1159,7 +1159,7 @@
                 "MaxItemLevel": "Item level exceeds maximum item level {level}.",
                 "MaxSlots": "Crafting entry's allowed slots are full."
             },
-            "CraftQuantityTitle": "Quantity",
+            "CraftQuantityTitle": "数量",
             "ExpendFormula": "Expend Formula",
             "NoEligibleEntry": "No eligible crafting entry was found.",
             "RemoveFormulaDialogQuestion": "Are you sure you want to remove the formula for {name}?",
@@ -1179,40 +1179,40 @@
         "CreateSpellTitle": "Create Spell",
         "CritFailure": "<strong>Critical Failure</strong>",
         "CritSuccess": "<strong>Critical Success</strong>",
-        "CriticalDamageLabel": "Critical",
+        "CriticalDamageLabel": "致命的",
         "CriticalFumbleCardButtonTitle": "Draw a Critical Fumble Card",
         "CriticalHitCardButtonTitle": "Draw a Critical Hit Card",
-        "CurrencyLabel": "Currency",
+        "CurrencyLabel": "通貨",
         "CurrencyAbbreviations": {
             "cp": "cp",
             "gp": "gp",
             "pp": "pp",
             "sp": "sp",
-            "credits": "credits",
-            "upb": "upb"
+            "credits": "クレジット",
+            "upb": "UPB"
         },
         "Currency": {
-            "cp": "Copper",
-            "credits": "Credits",
-            "gp": "Gold",
-            "pp": "Platinum",
-            "sp": "Silver",
+            "cp": "銅貨",
+            "credits": "クレジット",
+            "gp": "金貨",
+            "pp": "白金貨",
+            "sp": "銀貨",
             "upb": "UPB"
         },
         "CurrentHitPointsShortLabel": "Current HP",
         "CurrentStaminaPointsShortLabel": "Current SP",
-        "DCAdjustmentEasy": "easy",
-        "DCAdjustmentHard": "hard",
+        "DCAdjustmentEasy": "容易",
+        "DCAdjustmentHard": "困難",
         "DCAdjustmentIncrediblyEasy": "incredibly easy",
         "DCAdjustmentIncrediblyHard": "incredibly hard",
-        "DCAdjustmentNormal": "baseline",
+        "DCAdjustmentNormal": "基準",
         "DCAdjustmentVeryEasy": "very easy",
         "DCAdjustmentVeryHard": "very hard",
         "DCBase": "Base DC 10",
         "DCWithValue": "DC {dc} {text}",
-        "DCWithValueAndVisibility": "<span data-visibility=\"{role}\">DC {dc}</span> {text}",
+        "DCWithValueAndVisibility": "<span data-visibility=\"{role}\"\">DC {dc}</span> {text}\"",
         "Damage": {
-            "Base": "Base",
+            "Base": "基本",
             "IWR": {
                 "ActorIsImmune": "{actor} is immune to {effect}.",
                 "ActorIsUnaffected": "{actor} is unaffected by {effect}.",
@@ -1235,126 +1235,126 @@
                     "ExceptionsDoubleVs": "{type} {value} (except {exceptions}; double resistance vs. {doubleVs})"
                 },
                 "Type": {
-                    "abysium": "abysium",
-                    "adamantine": "adamantine",
-                    "aging": "aging",
-                    "alchemical": "alchemical",
+                    "abysium": "アビシウム",
+                    "adamantine": "アダマンティン",
+                    "aging": "老化",
+                    "alchemical": "錬金術",
                     "all-damage": "all damage",
-                    "arcane": "arcane",
+                    "arcane": "秘術",
                     "area-damage": "area damage",
                     "arrow-vulnerability": "arrow vulnerability",
-                    "auditory": "auditory",
+                    "auditory": "聴覚",
                     "axe-vulnerability": "axe vulnerability",
-                    "axes": "axes",
-                    "blinded": "blinded",
-                    "broken": "broken",
-                    "clumsy": "clumsy",
+                    "axes": "斧",
+                    "blinded": "盲目",
+                    "broken": "破損",
+                    "clumsy": "ぎこちない",
                     "cold-iron": "cold iron",
-                    "confused": "confused",
-                    "controlled": "controlled",
+                    "confused": "混乱",
+                    "controlled": "支配",
                     "critical-hits": "critical hits",
-                    "curse": "curse",
+                    "curse": "呪い",
                     "damage-from-spells": "damage from spells",
-                    "dawnsilver": "dawnsilver",
-                    "dazzled": "dazzled",
-                    "deafened": "deafened",
+                    "dawnsilver": "ドーンサルバー",
+                    "dazzled": "眩惑",
+                    "deafened": "聴覚喪失",
                     "death-effects": "death effects",
-                    "detection": "detection",
-                    "disease": "disease",
-                    "divine": "divine",
-                    "djezet": "djezet",
-                    "doomed": "doomed",
-                    "drained": "drained",
-                    "duskwood": "duskwood",
-                    "emotion": "emotion",
-                    "energy": "energy",
-                    "enfeebled": "enfeebled",
-                    "fascinated": "fascinated",
-                    "fatigued": "fatigued",
+                    "detection": "探知",
+                    "disease": "疾病",
+                    "divine": "神聖",
+                    "djezet": "ジェゼット",
+                    "doomed": "破滅",
+                    "drained": "消耗",
+                    "duskwood": "ダスクウッド",
+                    "emotion": "感情",
+                    "energy": "エネルギー",
+                    "enfeebled": "衰弱",
+                    "fascinated": "気を取られた",
+                    "fatigued": "疲労",
                     "fear-effects": "fear effects",
-                    "fleeing": "fleeing",
+                    "fleeing": "逃走",
                     "fortune-effects": "fortune effects",
-                    "frightened": "frightened",
+                    "frightened": "恐怖",
                     "ghost-touch": "ghost touch",
-                    "glass": "glass",
-                    "grabbed": "grabbed",
-                    "healing": "healing",
-                    "hidden": "hidden",
-                    "holy": "holy",
-                    "illusion": "illusion",
-                    "immobilized": "immobilized",
-                    "inhaled": "inhaled",
-                    "inubrix": "inubrix",
+                    "glass": "ガラス",
+                    "grabbed": "掴まれた",
+                    "healing": "治癒",
+                    "hidden": "隠れた",
+                    "holy": "聖なる",
+                    "illusion": "幻術",
+                    "immobilized": "移動不能",
+                    "inhaled": "吸入",
+                    "inubrix": "イヌブリックス",
                     "light": "軽装",
-                    "magic": "magic",
-                    "magical": "magical",
-                    "metal": "metal",
+                    "magic": "魔法",
+                    "magical": "魔法的",
+                    "metal": "金属",
                     "misfortune-effects": "misfortune effects",
-                    "mythic": "mythic",
-                    "non-magical": "non-magical",
-                    "nonlethal": "nonlethal",
+                    "mythic": "神話級",
+                    "non-magical": "非魔法",
+                    "nonlethal": "非致死",
                     "nonlethal-attacks": "nonlethal attacks",
-                    "noqual": "noqual",
+                    "noqual": "ノクォール",
                     "object-immunities": "object immunities",
-                    "occult": "occult",
-                    "off-guard": "off-guard",
-                    "olfactory": "olfactory",
-                    "orichalcum": "orichalcum",
-                    "paralyzed": "paralyzed",
-                    "peachwood": "peachwood",
+                    "occult": "心術",
+                    "off-guard": "無防備",
+                    "olfactory": "嗅覚",
+                    "orichalcum": "オリハルクム",
+                    "paralyzed": "麻痺",
+                    "peachwood": "ピーチウッド",
                     "persistent-damage": "persistent damage",
-                    "petrified": "petrified",
-                    "physical": "physical",
-                    "plant": "plant",
-                    "polymorph": "polymorph",
-                    "possession": "possession",
-                    "primal": "primal",
-                    "prediction": "prediction",
-                    "prone": "prone",
+                    "petrified": "石化",
+                    "physical": "物理",
+                    "plant": "植物",
+                    "polymorph": "変身",
+                    "possession": "憑依",
+                    "primal": "原始",
+                    "prediction": "予見",
+                    "prone": "伏せ",
                     "protean-anatomy": "protean anatomy",
-                    "radiation": "radiation",
-                    "restrained": "restrained",
-                    "salt": "salt",
+                    "radiation": "放射線",
+                    "restrained": "拘束",
+                    "salt": "塩",
                     "salt-water": "salt water",
-                    "scrying": "scrying",
-                    "siccatite": "siccatite",
-                    "sickened": "sickened",
-                    "silver": "silver",
-                    "sleep": "sleep",
-                    "slowed": "slowed",
+                    "scrying": "占術",
+                    "siccatite": "シッカタイト",
+                    "sickened": "病気",
+                    "silver": "銀",
+                    "sleep": "睡眠",
+                    "slowed": "減速",
                     "spell-deflection": "spell deflection",
-                    "spells": "spells",
+                    "spells": "呪文",
                     "splash-damage": "splash damage",
-                    "stunned": "stunned",
-                    "stupefied": "stupefied",
+                    "stunned": "朦朧",
+                    "stupefied": "錯乱",
                     "swarm-attacks": "swarm attacks",
                     "swarm-mind": "swarm mind",
-                    "time": "time",
-                    "trip": "trip",
+                    "time": "時間",
+                    "trip": "足払い",
                     "unarmed-attacks": "unarmed attacks",
-                    "unconscious": "unconscious",
-                    "unholy": "unholy",
+                    "unconscious": "無意識",
+                    "unholy": "不浄",
                     "vampire-weaknesses": "vampire weaknesses",
-                    "visual": "visual",
-                    "vorpal": "vorpal",
+                    "visual": "視覚",
+                    "vorpal": "ヴォーパル",
                     "vorpal-adamantine": "vorpal adamantine",
                     "vorpal-fear": "vorpal fear",
                     "vulnerable-to-sunlight": "vulnerable to sunlight",
-                    "water": "water",
-                    "weapons": "weapons",
+                    "water": "水",
+                    "weapons": "武器",
                     "weapons-shedding-bright-light": "weapons shedding bright light",
-                    "wood": "wood",
-                    "wounded": "wounded"
+                    "wood": "木材",
+                    "wounded": "負傷"
                 }
             },
             "Hardness": {
-                "Full": "hardness",
+                "Full": "硬度",
                 "Half": "half hardness"
             },
             "IncreasedFrom": "Increased from {original} to minimum of 1",
             "Kind": {
                 "Both": {
-                    "Label": "Both",
+                    "Label": "両方",
                     "Roll": {
                         "Noun": "Damage/Healing Roll",
                         "Verb": "Roll Damage/Healing"
@@ -1378,52 +1378,52 @@
             },
             "NoDamageFormulaLabel": "No damage",
             "PersistentTooltip": "Persistent {damageType}",
-            "Precision": "Precision",
+            "Precision": "精密",
             "RollFlavor": {
-                "acid": "acid",
-                "air": "air",
-                "bleed": "bleed",
-                "bludgeoning": "bludgeoning",
-                "cold": "cold",
-                "earth": "earth",
-                "electricity": "electricity",
-                "fire": "fire",
-                "force": "force",
-                "mental": "mental",
-                "metal": "metal",
+                "acid": "酸",
+                "air": "風",
+                "bleed": "出血",
+                "bludgeoning": "殴打",
+                "cold": "冷気",
+                "earth": "土",
+                "electricity": "電撃",
+                "fire": "火",
+                "force": "力場",
+                "mental": "精神",
+                "metal": "金属",
                 "persistent": "persistent {damageType}",
-                "piercing": "piercing",
-                "poison": "poison",
-                "precision": "precision",
-                "slashing": "slashing",
-                "sonic": "sonic",
-                "spirit": "spirit",
-                "splash": "splash",
-                "vitality": "vitality",
-                "void": "void",
-                "untyped": "untyped"
+                "piercing": "刺突",
+                "poison": "毒",
+                "precision": "精密",
+                "slashing": "斬撃",
+                "sonic": "音波",
+                "spirit": "霊",
+                "splash": "飛沫",
+                "vitality": "活力",
+                "void": "虚無",
+                "untyped": "無属性"
             }
         },
         "DamageButton": {
             "Adjust": "[Shift-Click] Adjust value before applying.",
             "Double": "[Click] Apply double damage to selected tokens.",
             "DoubleContext": "Double Damage",
-            "DoubleShort": "Double",
+            "DoubleShort": "二倍",
             "Full": "[Click] Apply full damage to selected tokens.",
             "FullContext": "Apply Damage",
-            "FullShort": "Damage",
+            "FullShort": "ダメージ",
             "Half": "[Click] Apply half damage to selected tokens.",
             "HalfContext": "Half Damage",
-            "HalfShort": "Half",
+            "HalfShort": "半分",
             "Healing": "[Click] Apply full healing to selected tokens.",
             "HealingContext": "Apply Healing",
-            "HealingShort": "Heal",
+            "HealingShort": "治癒",
             "ShieldBlock": "[Click] Toggle the shield block status of the selected tokens before applying damage.",
             "ShieldBlockContext": "Shield Block",
-            "ShieldBlockShort": "Block",
+            "ShieldBlockShort": "防御",
             "Triple": "[Click] Apply triple damage to selected tokens.",
             "TripleContext": "Apply Triple Damage",
-            "TripleShort": "Triple"
+            "TripleShort": "三倍"
         },
         "DamageCategoriesLabel": "Damage Categories",
         "DamageDieD10": "d10",
@@ -1431,41 +1431,41 @@
         "DamageDieD4": "d4",
         "DamageDieD6": "d6",
         "DamageDieD8": "d8",
-        "DamageLabel": "Damage",
+        "DamageLabel": "ダメージ",
         "DamageRoll": "Damage Roll",
         "DecrementEffectTitle": "Decrease Effect Level",
         "DefensesLabel": "防御",
-        "Deity": "Deity",
+        "Deity": "神格",
         "DeleteQuestion": "Are you sure you want to delete {name}?",
         "DeleteConditionTitle": "Delete Condition",
         "DeleteItemTitle": "Delete Item",
-        "DeleteShortLabel": "Delete",
+        "DeleteShortLabel": "削除",
         "DeleteSpellcastEntryQuestion": "Are you sure you want to delete this spellcasting entry?",
         "DeleteSpellcastEntryTitle": "Delete Spellcasting",
         "DeleteSpellcastEntryWarning": "WARNING: All spells in this spellcasting entry will also be deleted.",
-        "DenominationLabel": "Denomination",
-        "Details": "Details",
+        "DenominationLabel": "宗派",
+        "Details": "詳細",
         "DragDropFeats": "Drag & Drop feats to add",
         "Duration": {
-            "P1M": "month",
-            "P1W": "week",
-            "P1Y": "year",
+            "P1M": "月",
+            "P1W": "週",
+            "P1Y": "年",
             "PT10M": "10 minutes",
-            "PT1H": "hour",
-            "PT1M": "minute",
+            "PT1H": "時間",
+            "PT1M": "分",
             "PT24H": "24 hours",
-            "day": "day",
-            "round": "round",
-            "turn": "turn"
+            "day": "日",
+            "round": "ラウンド",
+            "turn": "ターン"
         },
-        "Edit": "Edit",
+        "Edit": "編集",
         "EditHazardLabel": "Edit Hazard",
         "EditItemTitle": "Edit Item",
-        "EditLabel": "Edit?",
+        "EditLabel": "編集？",
         "EffectPanel": {
             "AppliedBy": "Applied by: {condition-list}",
             "DecrementToolTip": "[Right Click] Decrease value",
-            "Expired": "Expired",
+            "Expired": "期限切れ",
             "IncrementToolTip": "[Left Click] Increase value",
             "RemainingDuration": {
                 "MultipleDays": "{days} days remaining",
@@ -1484,11 +1484,11 @@
             },
             "RemoveToolTip": "[Right Click] Remove effect",
             "RollDamageToolTip": "[Left Click] Roll damage",
-            "Unidentified": "Unidentified",
+            "Unidentified": "未識別",
             "UnlimitedDuration": "Unlimited duration",
             "UntilEncounterEnds": "Until encounter ends"
         },
-        "EffectsLabel": "Effects",
+        "EffectsLabel": "効果",
         "EmptySlot": "Empty Slot",
         "Encounter": {
             "AlreadyRolled": "{actor} has already rolled initiative.",
@@ -1500,28 +1500,28 @@
                         "ReceivedMessage": "Received fast healing"
                     },
                     "regeneration": {
-                        "Name": "Regeneration",
+                        "Name": "再生",
                         "ReceivedMessage": "Received regeneration"
                     }
                 },
                 "TempHP": {
                     "PluralNew": "{actor} now has {newQuantity} temporary hit points{wasAt} from {item}.",
                     "SingleNew": "{actor} now has {newQuantity} temporary hit point{wasAt} from {item}.",
-                    "WasAt": " (was at {oldQuantity})"
+                    "WasAt": "(was at {oldQuantity})"
                 }
             },
             "Budget": {
                 "EncounterBudget": "Encounter Budget",
                 "PartyLevel": "Party Level",
                 "PartySize": "Party Size",
-                "Reward": "Reward",
-                "Threat": "Threat",
+                "Reward": "報酬",
+                "Threat": "脅威",
                 "Threats": {
-                    "extreme": "Extreme",
-                    "low": "Low",
-                    "moderate": "Moderate",
-                    "severe": "Severe",
-                    "trivial": "Trivial"
+                    "extreme": "極端",
+                    "low": "低",
+                    "moderate": "中程度",
+                    "severe": "深刻",
+                    "trivial": "些細"
                 },
                 "XPBudget": "XP Budget",
                 "XPNeeded": "XP Needed"
@@ -1565,24 +1565,24 @@
         },
         "Environment": {
             "Type": {
-                "Aquatic": "Aquatic",
-                "Arctic": "Arctic",
-                "Desert": "Desert",
-                "Forest": "Forest",
-                "Mountain": "Mountain",
-                "Plains": "Plains",
-                "Swamp": "Swamp",
-                "Underground": "Underground",
-                "Urban": "Urban"
+                "Aquatic": "水棲",
+                "Arctic": "極寒",
+                "Desert": "砂漠",
+                "Forest": "森林",
+                "Mountain": "山岳",
+                "Plains": "平原",
+                "Swamp": "湿地",
+                "Underground": "地下",
+                "Urban": "都市"
             },
             "Feature": {
-                "Crowd": "Crowd",
-                "Ice": "Ice",
-                "Lava": "Lava",
-                "Rubble": "Rubble",
-                "Sand": "Sand",
-                "Sewer": "Sewer",
-                "Snow": "Snow"
+                "Crowd": "群衆",
+                "Ice": "氷",
+                "Lava": "溶岩",
+                "Rubble": "瓦礫",
+                "Sand": "砂",
+                "Sewer": "下水道",
+                "Snow": "雪"
             }
         },
         "ErrorMessage": {
@@ -1591,7 +1591,7 @@
             "CantMoveItemDestination": "You are not allowed to move items to this character.",
             "CantMoveItemSource": "You are not allowed to move items from this character.",
             "CantPurchaseContainerWithItems": "You cannot purchase containers with items in them.",
-            "ItemNotFoundByUUID": "Item with UUID of \"{uuid}\" not found.",
+            "ItemNotFoundByUUID": "Item with UUID of \"{uuid}\"\" not found.\"",
             "MinimumProfLevelSetByFeatures": "The selected proficiency is below proficiency set by features.",
             "NoCreatureTokenSelected": "Select at least one token associated with a creature.",
             "NoPCTokenSelected": "Select at least one token associated with a PC.",
@@ -1605,47 +1605,47 @@
             "WeaponNoDamage": "This weapon deals no damage.",
             "WeaponQuantityZero": "You have no more of these weapons equipped."
         },
-        "Ethnicity": "Ethnicity",
+        "Ethnicity": "民族",
         "ExpendSpellTitle": "Expend Spell",
-        "Failure": "<strong>Failure</strong>",
+        "Failure": "失敗",
         "Familiar": {
-            "AbilitiesLabel": "Abilities",
+            "AbilitiesLabel": "能力",
             "ArmorClass": "アーマー・クラス",
             "AttackRoll": "Attack Roll",
-            "Creature": "Creature",
+            "Creature": "クリーチャー",
             "CreatureType": "Creature Type",
-            "Defenses": "Defense",
-            "Familiar": "Familiar",
-            "Master": "Master",
+            "Defenses": "防御",
+            "Familiar": "ファミリア",
+            "Master": "主人",
             "MasterActor": "Master Actor",
             "MasterLevel": "Master Level",
             "MasterSpellcastingAbility": "Master Attribute",
-            "Offenses": "Offenses",
-            "Perception": "Perception",
+            "Offenses": "攻撃",
+            "Perception": "知覚",
             "SelectMaster": "Select a master...",
-            "Skills": "Skills",
+            "Skills": "技能",
             "TotalNumberFamiliarAbilities": "Total # of Familiar Abilities"
         },
         "FeatActionTypeLabel": "アクションの種類",
         "FeatActionsLabel": "Number of Actions",
-        "FeatBackgroundShort": "BG",
-        "FeatLevelLabel": "Level",
+        "FeatBackgroundShort": "背景",
+        "FeatLevelLabel": "レベル",
         "FeatPFSBoonHeader": "Society Boons",
-        "FeatPrereqLabel": "Prerequisites",
+        "FeatPrereqLabel": "前提条件",
         "FlatCheck": "Flat Check",
         "Focus": {
             "NotEnoughFocusPointsError": "You do not have enough focus points to cast this spell.",
             "Outdated": "Old value of the focus pool as a reminder. Click to delete.",
             "Pool": "Focus Pool",
-            "Previous": "Previous",
+            "Previous": "前",
             "Spells": "Focus Spells",
             "label": "Focus Points",
-            "pointLabel": "Points"
+            "pointLabel": "ポイント"
         },
         "Foot": {
-            "Abbreviation": "ft",
-            "Label": "foot",
-            "Plural": "feet",
+            "Abbreviation": "フィート",
+            "Label": "フィート",
+            "Plural": "フィート",
             "Preformatted": {
                 "5": "5 feet",
                 "10": "10 feet",
@@ -1660,7 +1660,7 @@
         },
         "FormulaKnownTitle": "Known Formulas",
         "FormulaListEmpty": "Empty (drag formula/item here)",
-        "Formula": "Formula",
+        "Formula": "式",
         "FormulaSheet": {
             "DescriptionUnknown": "This formula is completely filled with drawings of small stick men, stains from some unknown liquid, nonsensical rhymes written in children's letters, and other seemingly random markings. It must have been made by goblins, and makes no sense to you.<hr><strong>Note</strong> This formula is referencing a missing or invalid item.",
             "NameEmpty": "Empty Formula",
@@ -1668,31 +1668,31 @@
             "NameUnknown": "Unknown Formula"
         },
         "Frequency": {
-            "AtWill": "At-Will",
-            "Label": "Frequency",
-            "per": "per"
+            "AtWill": "常時",
+            "Label": "頻度",
+            "per": "ごと"
         },
-        "GenderPronoun": "Gender/Pronouns",
+        "GenderPronoun": "性別／代名詞",
         "GeneralFeatLevels": "General Feat Levels",
         "GreaterWeaponSpecialization": "Greater Weapon Specialization",
-        "HardnessLabel": "Hardness",
-        "HazardDescriptionLabel": "Description",
-        "HazardDisableLabel": "Disable",
-        "HazardResetLabel": "Reset",
-        "HazardRoutineLabel": "Routine",
+        "HardnessLabel": "硬度",
+        "HazardDescriptionLabel": "説明",
+        "HazardDisableLabel": "無力化",
+        "HazardResetLabel": "リセット",
+        "HazardRoutineLabel": "定型行動",
         "HealingTypeTemporaryHealing": "Healing (Temporary)",
-        "Height": "Height",
-        "Heritage": "Heritage",
+        "Height": "身長",
+        "Heritage": "系譜",
         "HitPointsDetailsLabel": "HP Details",
         "HitPointsDetailsTitle": "Additional information related to Hit Points such as Fast Healing or Regeneration",
         "HitPointsHeader": "Hit Points",
         "HitPointsShortLabel": "HP",
-        "ImageLabel": "Image",
-        "ImmunitiesLabel": "Immunities",
+        "ImageLabel": "画像",
+        "ImmunitiesLabel": "完全耐性",
         "IncrementEffectTitle": "Increase Effect Level",
         "InitiativeIsNow": "{name}'s Initiative is now {value}!",
         "InitiativeHeader": "Initiative bonus",
-        "InitiativeLabel": "Initiative",
+        "InitiativeLabel": "イニシアチブ",
         "InitiativeWithSkill": "Initiative: {skillName}",
         "InlineAction": {
             "Check": {
@@ -1728,19 +1728,19 @@
             "TypeUnsupported": "Error in @Template: type {type} is not supported",
             "WidthNoNumber": "Error in @Template: width {width} is not a number"
         },
-        "InvestedLabel": "Invested",
+        "InvestedLabel": "装着",
         "Item": {
             "ABC": {
-                "Add": "Add",
-                "Features": "Features",
+                "Add": "追加",
+                "Features": "特徴",
                 "InvalidDrop": "{badType} cannot be dropped here (must be {goodType})"
             },
             "Ability": {
                 "Category": {
-                    "None": "None",
-                    "Defensive": "Defensive",
-                    "Interaction": "Interaction",
-                    "Offensive": "Offensive",
+                    "None": "なし",
+                    "Defensive": "防御的",
+                    "Interaction": "相互作用",
+                    "Offensive": "攻撃的",
                     "Familiar": "Familiar Ability"
                 },
                 "CraftedItem": {
@@ -1756,14 +1756,14 @@
                         "label": "Self-Applied Effect"
                     }
                 },
-                "Plural": "Abilities",
+                "Plural": "能力",
                 "SelfAppliedEffect": {
                     "Applied": "{effect} was applied.",
                     "Delete": "Delete Reference",
                     "Drop": "Drop Effect"
                 },
                 "Type": {
-                    "Activity": "Activity",
+                    "Activity": "アクティビティ",
                     "Free": "フリー・アクション",
                     "Single": "シングルアクション",
                     "Reaction": "リアクション"
@@ -1771,15 +1771,15 @@
             },
             "Activation": {
                 "Add": "Add Activation",
-                "Activate": "Activate",
+                "Activate": "起動",
                 "Cast": "Cast a Spell",
-                "Command": "command",
-                "CommandSheetLabel": "Command",
-                "Effect": "Effect",
-                "Envision": "envision",
-                "EnvisionSheetLabel": "Envision",
-                "Interact": "Interact",
-                "Label": "Activation",
+                "Command": "命令",
+                "CommandSheetLabel": "命令",
+                "Effect": "効果",
+                "Envision": "想起",
+                "EnvisionSheetLabel": "想起",
+                "Interact": "相互作用",
+                "Label": "起動",
                 "Warning": {
                     "ItemDoesNotExist": "Item to activate does not exist"
                 }
@@ -1792,12 +1792,12 @@
                 "Linked": {
                     "Title": "If set, prevents the condition from being removed while the affliction lasts"
                 },
-                "OnsetLabel": "Onset",
+                "OnsetLabel": "発症",
                 "OnsetActive": "Onset Active",
-                "Plural": "Afflictions",
+                "Plural": "疾病効果",
                 "SaveLabel": "Save DC",
                 "Stage": "Stage {stage}",
-                "StageLabel": "Stage"
+                "StageLabel": "段階"
             },
             "Ammo": {
                 "FIELDS": {
@@ -1811,15 +1811,15 @@
                 },
                 "Base": {
                     "8-round-magazine": "8-Round Magazine",
-                    "arrows": "Arrows",
+                    "arrows": "矢",
                     "backpack-ballista-bolts": "Backpack Ballista Bolts",
                     "backpack-catapult-stones": "Backpack Catapult Stones",
-                    "battery": "Battery",
+                    "battery": "電池",
                     "blowgun-darts": "Blowgun Darts",
-                    "bolts": "Bolts",
+                    "bolts": "ボルト",
                     "chem-tank": "Chem Tank",
-                    "cutlery": "Cutlery",
-                    "magazine": "Magazine",
+                    "cutlery": "食器",
+                    "magazine": "弾倉",
                     "magazine-with-6-pellets": "Magazine with 6 Pellets",
                     "magazine-with-8-pellets": "Magazine with 8 Pellets",
                     "projectile-ammo": "Projectile Ammo",
@@ -1872,7 +1872,7 @@
                     "rounds-tentacle-cannon": "Rounds (Tentacle Cannon)",
                     "rounds-three-peaked-tree": "Rounds (Three Peaked Tree)",
                     "rounds-triggerbrand": "Rounds (Triggerbrand)",
-                    "rounds": "Rounds",
+                    "rounds": "弾数",
                     "sling-bullets": "Sling Bullets",
                     "spray-pellets": "Spray Pellets",
                     "wooden-taws": "Wooden Taws"
@@ -1882,9 +1882,9 @@
                     "hint": "Special ammunition such as magical and alchemical ammo can be crafted as a specific type of ammo"
                 },
                 "Groups": {
-                    "General": "General",
+                    "General": "一般",
                     "OwnWeapons": "Own Weapons",
-                    "Weapons": "Weapons",
+                    "Weapons": "武器",
                     "WeaponSpecific": "Weapon Specific"
                 },
                 "SpecialAmmoPicker": {
@@ -1895,16 +1895,16 @@
                 "DropFeatures": "Drop ancestry features here.",
                 "FIELDS": {
                     "hands": {
-                        "label": "Hands"
+                        "label": "手"
                     },
                     "reach": {
-                        "label": "Reach"
+                        "label": "間合い"
                     },
                     "speed": {
-                        "label": "Speed"
+                        "label": "速度"
                     }
                 },
-                "Plural": "Ancestries",
+                "Plural": "祖先",
                 "Vision": {
                     "Label": "視覚",
                     "Normal": "Normal Vision"
@@ -1915,7 +1915,7 @@
                     "armored-cloak": "Armored Cloak",
                     "armored-coat": "Armored Coat",
                     "bastion-plate": "Bastion Plate",
-                    "breastplate": "Breastplate",
+                    "breastplate": "ブレストプレート",
                     "buckle-armor": "Buckle Armor",
                     "ceramic-plate": "Ceramic Plate",
                     "chain-mail": "Chain Mail",
@@ -1924,7 +1924,7 @@
                     "explorers-clothing": "Explorer's Clothing",
                     "fortress-plate": "Fortress Plate",
                     "full-plate": "Full Plate",
-                    "gi": "Gi",
+                    "gi": "道着",
                     "half-plate": "Half Plate",
                     "hellknight-breastplate": "Hellknight Breastplate",
                     "hellknight-half-plate": "Hellknight Half Plate",
@@ -1937,13 +1937,13 @@
                     "leather-armor": "Leather Armor",
                     "leather-lamellar": "Leather Lamellar",
                     "mantis-shell": "Mantis Shell",
-                    "niyahaat": "Niyaháat",
-                    "o-yoroi": "O-Yoroi",
+                    "niyahaat": "ニヤハート",
+                    "o-yoroi": "大鎧",
                     "padded-armor": "Padded Armor",
                     "power-suit": "Power Suit",
                     "quilted-armor": "Quilted Armor",
                     "rattan-armor": "Rattan Armor",
-                    "sankeit": "Sankeit",
+                    "sankeit": "サンケイト",
                     "scale-mail": "Scale Mail",
                     "scroll-robes": "Scroll Robes",
                     "splint-mail": "Splint Mail",
@@ -1968,10 +1968,10 @@
                 "UnequippedHint": "This armor is bulkier due to not being equipped."
             },
             "Background": {
-                "Plural": "Backgrounds"
+                "Plural": "背景"
             },
             "CampaignFeature": {
-                "CampaignLabel": "Campaign",
+                "CampaignLabel": "キャンペーン",
                 "Plural": "Campaign Features"
             },
             "CannotAddType": "{type} items cannot be added to this actor.",
@@ -1981,17 +1981,17 @@
                         "label": "Hit Points"
                     },
                     "perception": {
-                        "label": "Perception"
+                        "label": "知覚"
                     },
                     "savingThrows": {
                         "fortitude": {
-                            "label": "Fortitude"
+                            "label": "頑健"
                         },
                         "reflex": {
-                            "label": "Reflex"
+                            "label": "反射"
                         },
                         "will": {
-                            "label": "Will"
+                            "label": "意志"
                         }
                     },
                     "attacks": {
@@ -2031,7 +2031,7 @@
                         }
                     }
                 },
-                "Plural": "Classes"
+                "Plural": "クラス"
             },
             "Condition": {
                 "Chat": {
@@ -2049,7 +2049,7 @@
                         "DamageType": "Damage Type",
                         "DC": "DC",
                         "Edit": "Edit Persistent Damage",
-                        "Formula": "Formula",
+                        "Formula": "式",
                         "Invalid": "Formula is invalid.",
                         "Remove": "Remove Persistent Damage",
                         "Title": "Persistent Damage ({actor})"
@@ -2065,37 +2065,37 @@
             "Consumable": {
                 "Damage": {
                     "Add": "Add Damage/Healing",
-                    "Label": "Damage/Healing",
+                    "Label": "ダメージ/治癒",
                     "Remove": "Remove Damage/Healing"
                 },
                 "Category": {
-                    "ammo": "Ammunition",
-                    "catalyst": "Catalyst",
-                    "drug": "Drug",
-                    "elixir": "Elixir",
-                    "fulu": "Fulu",
-                    "gadget": "Gadget",
-                    "mutagen": "Mutagen",
-                    "oil": "Oil",
-                    "other": "Other",
-                    "poison": "Poison",
-                    "potion": "Potion",
-                    "scroll": "Scroll",
-                    "snare": "Snare",
-                    "talisman": "Talisman",
-                    "toolkit": "Toolkit",
-                    "wand": "Wand"
+                    "ammo": "弾薬",
+                    "catalyst": "触媒",
+                    "drug": "薬物",
+                    "elixir": "エリクサー",
+                    "fulu": "符籙",
+                    "gadget": "ガジェット",
+                    "mutagen": "変異薬",
+                    "oil": "油",
+                    "other": "その他",
+                    "poison": "毒",
+                    "potion": "ポーション",
+                    "scroll": "巻物",
+                    "snare": "罠",
+                    "talisman": "タリスマン",
+                    "toolkit": "ツールキット",
+                    "wand": "ワンド"
                 },
-                "Plural": "Consumables",
+                "Plural": "消耗品",
                 "Spell": {
-                    "Empty": "Empty",
+                    "Empty": "空",
                     "Label": "Embedded Spell"
                 },
                 "Uses": {
                     "AutoDestroy": "Destroy on Use",
-                    "Label": "Uses",
+                    "Label": "使用回数",
                     "None": "No Uses Remain",
-                    "Use": "Use"
+                    "Use": "使用"
                 }
             },
             "Container": {
@@ -2103,23 +2103,23 @@
                     "Capacity": "Bulk Capacity",
                     "Ignored": "Bulk Ignored"
                 },
-                "Plural": "Containers",
+                "Plural": "容器",
                 "Stowing": "Is Stowing Container?"
             },
             "CreationDialog": {
                 "Categories": {
                     "Character": "Character Building",
-                    "Other": "Other",
+                    "Other": "その他",
                     "Physical": "Physical Items"
                 }
             },
             "Deity": {
-                "Alignment": "Alignment",
+                "Alignment": "属性",
                 "Category": {
                     "Hint": "Pantheons, covenants, and philosophies not associated with any deity can be followed instead of a particular deity.",
-                    "Pantheon": "Pantheon",
-                    "Covenant": "Covenant",
-                    "Philosophy": "Philosophy"
+                    "Pantheon": "パンテオン",
+                    "Covenant": "契約",
+                    "Philosophy": "哲学"
                 },
                 "ClericSpells": {
                     "DropError": "A deity's cleric spells may not include cantrips, focus spells, or rituals.",
@@ -2131,8 +2131,8 @@
                     "Label": "Divine Attribute"
                 },
                 "DivineFont": {
-                    "Harm": "Harm",
-                    "Heal": "Heal",
+                    "Harm": "ハーム",
+                    "Heal": "ヒール",
                     "Label": "Divine Font"
                 },
                 "DivineSkill": {
@@ -2142,11 +2142,11 @@
                 "Domain": {
                     "Abomination": {
                         "Description": "You seek to instill abhorrence and horror in those around you.",
-                        "Label": "Abomination"
+                        "Label": "異形"
                     },
                     "Air": {
                         "Description": "You can control winds and the weather.",
-                        "Label": "Air"
+                        "Label": "風"
                     },
                     "AirApocryphal": {
                         "Description": "You can control winds and the weather. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2154,7 +2154,7 @@
                     },
                     "Ambition": {
                         "Description": "You strive to keep up with and outpace the competition.",
-                        "Label": "Ambition"
+                        "Label": "野心"
                     },
                     "AmbitionApocryphal": {
                         "Description": "You strive to keep up with and outpace the competition. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2162,19 +2162,19 @@
                     },
                     "Change": {
                         "Description": "You can restructure the physical and metaphysical.",
-                        "Label": "Change"
+                        "Label": "変化"
                     },
                     "Cities": {
                         "Description": "You have powers over urban environments and denizens.",
-                        "Label": "Cities"
+                        "Label": "都市"
                     },
                     "Cold": {
                         "Description": "You control ice, snow, and freezing temperatures.",
-                        "Label": "Cold"
+                        "Label": "冷気"
                     },
                     "Confidence": {
                         "Description": "You overcome your fear and project pride.",
-                        "Label": "Confidence"
+                        "Label": "自信"
                     },
                     "ConfidenceApocryphal": {
                         "Description": "You overcome your fear and project pride. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2182,11 +2182,11 @@
                     },
                     "Creation": {
                         "Description": "You have divine abilities related to crafting and art.",
-                        "Label": "Creation"
+                        "Label": "創造"
                     },
                     "Darkness": {
                         "Description": "You operate in the darkness and take away the light.",
-                        "Label": "Darkness"
+                        "Label": "闇"
                     },
                     "DarknessApocryphal": {
                         "Description": "You operate in the darkness and take away the light. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2194,7 +2194,7 @@
                     },
                     "Death": {
                         "Description": "You have the power to end lives and destroy undead.",
-                        "Label": "Death"
+                        "Label": "死"
                     },
                     "DeathApocryphal": {
                         "Description": "You have the power to end lives and destroy undead. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2202,39 +2202,39 @@
                     },
                     "Decay": {
                         "Description": "You have the power to spoil and deteriorate matter.",
-                        "Label": "Decay"
+                        "Label": "腐敗"
                     },
                     "Delirium": {
                         "Description": "You can bring about hallucinations and restlessness.",
-                        "Label": "Disorientation"
+                        "Label": "方向感覚喪失"
                     },
                     "Destruction": {
                         "Description": "You are a conduit for divine devastation.",
-                        "Label": "Destruction"
+                        "Label": "破壊"
                     },
                     "Dreams": {
                         "Description": "You have the power to enter and manipulate dreams.",
-                        "Label": "Dreams"
+                        "Label": "夢"
                     },
                     "Dust": {
                         "Description": "You have the power to dry and crumble what opposes you.",
-                        "Label": "Dust"
+                        "Label": "塵"
                     },
                     "Duty": {
                         "Description": "You defend oaths and carry out your divine missions with great dedication.",
-                        "Label": "Duty"
+                        "Label": "義務"
                     },
                     "Earth": {
                         "Description": "You control soil and stone.",
-                        "Label": "Earth"
+                        "Label": "土"
                     },
                     "Family": {
                         "Description": "You aid and protect your family and community more effectively.",
-                        "Label": "Family"
+                        "Label": "家族"
                     },
                     "Fate": {
                         "Description": "You see and understand hidden inevitabilities.",
-                        "Label": "Fate"
+                        "Label": "運命"
                     },
                     "FateApocryphal": {
                         "Description": "You see and understand hidden inevitabilities. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2242,7 +2242,7 @@
                     },
                     "Fire": {
                         "Description": "You control flame.",
-                        "Label": "Fire"
+                        "Label": "火"
                     },
                     "FireApocryphal": {
                         "Description": "You control flame. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2250,19 +2250,19 @@
                     },
                     "Freedom": {
                         "Description": "You liberate yourself and others from shackles and constraints.",
-                        "Label": "Freedom"
+                        "Label": "自由"
                     },
                     "Glyph": {
                         "Description": "You wield power over written words and symbols.",
-                        "Label": "Glyph"
+                        "Label": "グリフ"
                     },
                     "Healing": {
                         "Description": "Your healing magic is particularly potent.",
-                        "Label": "Healing"
+                        "Label": "治癒"
                     },
                     "Indulgence": {
                         "Description": "You feast mightily and can shake off the effects of overindulging.",
-                        "Label": "Indulgence"
+                        "Label": "放縦"
                     },
                     "IndulgenceApocryphal": {
                         "Description": "You feast mightily and can shake off the effects of overindulging. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2270,11 +2270,11 @@
                     },
                     "Introspection": {
                         "Description": "You guide others in examining their lives, emotions, and motivations to ultimately become a truer version of themselves—a difficult and often painful process.",
-                        "Label": "Introspection"
+                        "Label": "内省"
                     },
                     "Knowledge": {
                         "Description": "You receive divine insights.",
-                        "Label": "Knowledge"
+                        "Label": "知識"
                     },
                     "KnowledgeApocryphal": {
                         "Description": "You receive divine insights. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2282,23 +2282,23 @@
                     },
                     "Lightning": {
                         "Description": "You control electricity, thunder, and storms.",
-                        "Label": "Lightning"
+                        "Label": "電撃"
                     },
                     "Luck": {
                         "Description": "You're unnaturally lucky and keep out of harm's way.",
-                        "Label": "Luck"
+                        "Label": "幸運"
                     },
                     "Magic": {
                         "Description": "You perform the unexpected and inexplicable.",
-                        "Label": "Magic"
+                        "Label": "魔法"
                     },
                     "Metal": {
                         "Description": "You manipulate flexible, mutable metal.",
-                        "Label": "Metal"
+                        "Label": "金属"
                     },
                     "Might": {
                         "Description": "Your physical power is bolstered by divine strength.",
-                        "Label": "Might"
+                        "Label": "力"
                     },
                     "MightApocryphal": {
                         "Description": "Your physical power is bolstered by divine strength. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2306,47 +2306,47 @@
                     },
                     "Moon": {
                         "Description": "You command powers associated with the moon.",
-                        "Label": "Moon"
+                        "Label": "月"
                     },
                     "Naga": {
                         "Description": "Like the serpentine nagas, you're in tune with cosmic forces that Ravithra once controlled.",
-                        "Label": "Naga"
+                        "Label": "ナーガ"
                     },
                     "Nature": {
                         "Description": "You hold power over animals and plants.",
-                        "Label": "Nature"
+                        "Label": "自然"
                     },
                     "Nightmares": {
                         "Description": "You fill minds with horror and dread.",
-                        "Label": "Nightmares"
+                        "Label": "悪夢"
                     },
                     "Pain": {
                         "Description": "You punish those who displease you with the sharp sting of pain.",
-                        "Label": "Pain"
+                        "Label": "痛み"
                     },
                     "Passion": {
                         "Description": "You evoke passion, whether as love or lust.",
-                        "Label": "Passion"
+                        "Label": "情熱"
                     },
                     "Perfection": {
                         "Description": "You strive to perfect your mind, body, and spirit.",
-                        "Label": "Perfection"
+                        "Label": "完全性"
                     },
                     "Plague": {
                         "Description": "You wield disease and pestilence like a weapon.",
-                        "Label": "Plague"
+                        "Label": "疫病"
                     },
                     "Protection": {
                         "Description": "You ward yourself and others.",
-                        "Label": "Protection"
+                        "Label": "守護"
                     },
                     "Repose": {
                         "Description": "You ease mental burdens.",
-                        "Label": "Repose"
+                        "Label": "安息"
                     },
                     "Secrecy": {
                         "Description": "You protect secrets and keep them hidden.",
-                        "Label": "Secrecy"
+                        "Label": "秘密"
                     },
                     "SecrecyApocryphal": {
                         "Description": "You protect secrets and keep them hidden. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2354,35 +2354,35 @@
                     },
                     "Sorrow": {
                         "Description": "You have a painful connection to melancholy and sadness.",
-                        "Label": "Sorrow"
+                        "Label": "悲嘆"
                     },
                     "Soul": {
                         "Description": "You wield power over the spiritual.",
-                        "Label": "Soul"
+                        "Label": "魂"
                     },
                     "Star": {
                         "Description": "You command the power of the stars.",
-                        "Label": "Star"
+                        "Label": "星"
                     },
                     "Sun": {
                         "Description": "You harness the power of the sun and other light sources, and punish undead.",
-                        "Label": "Sun"
+                        "Label": "太陽"
                     },
                     "Swarm": {
                         "Description": "You exert control over masses of creatures.",
-                        "Label": "Swarm"
+                        "Label": "群体"
                     },
                     "Time": {
                         "Description": "You reign over the flow of time.",
-                        "Label": "Time"
+                        "Label": "時間"
                     },
                     "Toil": {
                         "Description": "You work constantly and refuse to let anything stand in your way.",
-                        "Label": "Toil"
+                        "Label": "労苦"
                     },
                     "Travel": {
                         "Description": "You have power over movement and journeys.",
-                        "Label": "Travel"
+                        "Label": "旅"
                     },
                     "TravelApocryphal": {
                         "Description": "You have power over movement and journeys. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2390,31 +2390,31 @@
                     },
                     "Trickery": {
                         "Description": "You deceive others and cause mischief.",
-                        "Label": "Trickery"
+                        "Label": "策略"
                     },
                     "Truth": {
                         "Description": "You pierce lies and discover the truth.",
-                        "Label": "Truth"
+                        "Label": "真実"
                     },
                     "Tyranny": {
                         "Description": "You wield power to rule and enslave others.",
-                        "Label": "Tyranny"
+                        "Label": "専制"
                     },
                     "Undeath": {
                         "Description": "Your magic carries close ties to the undead.",
-                        "Label": "Undeath"
+                        "Label": "不死"
                     },
                     "Vigil": {
                         "Description": "You watch over those long passed and guard their secrets.",
-                        "Label": "Vigil"
+                        "Label": "警戒"
                     },
                     "Void": {
                         "Description": "You draw power from emptiness.",
-                        "Label": "Nothingness"
+                        "Label": "無"
                     },
                     "Water": {
                         "Description": "You control water and bodies of water.",
-                        "Label": "Water"
+                        "Label": "水"
                     },
                     "WaterApocryphal": {
                         "Description": "You control water and bodies of water. Not all clerical traditions are taught among the orthodoxy. Some are whispered in secret, passed down from a priest to trusted acolytes or scribed in tomes left behind by splinter factions.",
@@ -2422,19 +2422,19 @@
                     },
                     "Wealth": {
                         "Description": "You hold power over wealth, trade, and treasure.",
-                        "Label": "Wealth"
+                        "Label": "富"
                     },
                     "Wood": {
                         "Description": "You command the indomitable power of wood.",
-                        "Label": "Wood"
+                        "Label": "木"
                     },
                     "Wyrmkin": {
                         "Description": "You draw on the power of dragons, linnorms, and other powerful reptilian creatures.",
-                        "Label": "Dragon"
+                        "Label": "ドラゴン"
                     },
                     "Zeal": {
                         "Description": "Your inner fire increases your combat prowess.",
-                        "Label": "Zeal"
+                        "Label": "熱意"
                     }
                 },
                 "Domains": {
@@ -2448,7 +2448,7 @@
                     "Hint": "Almost all deities have a single favored weapon, but a few have both a favored weapon and unarmed attack.",
                     "Label": "Favored Weapon(s)"
                 },
-                "Plural": "Deities",
+                "Plural": "神格",
                 "Sanctification": {
                     "Can": {
                         "Holy": "can choose holy",
@@ -2460,9 +2460,9 @@
                         "Holy": "must choose holy",
                         "Unholy": "must choose unholy"
                     },
-                    "None": "none"
+                    "None": "なし"
                 },
-                "Spellcasting": "Spellcasting"
+                "Spellcasting": "呪文行使"
             },
             "Effect": {
                 "Expiry": {
@@ -2475,41 +2475,41 @@
                     "Add": "Add Badge",
                     "Labels": {
                         "Add": "Add Label",
-                        "Label": "Labels",
+                        "Label": "ラベル",
                         "Hint": "The values of a badge can be given descriptive labels. They should be short enough to fit in the effects panel. Labels also serve as a natural maximum value for a badge.",
                         "Placeholder": "New Label"
                     },
-                    "Range": "Range",
+                    "Range": "射程",
                     "ReevaluateFormula": {
                         "InitiativeRoll": "On Initiative Roll",
-                        "Label": "Reevaluate?",
-                        "Never": "Never",
+                        "Label": "再評価？",
+                        "Never": "しない",
                         "TurnEnd": "On Turn End",
                         "TurnStart": "On Turn Start"
                     },
                     "Type": {
-                        "counter": "Counter",
-                        "formula": "Formula",
+                        "counter": "対抗",
+                        "formula": "式",
                         "value": "Fixed Value"
                     }
                 },
                 "Disintegrated": {
                     "Description": "Maybe it's a treatable condition.",
-                    "Name": "Disintegrated"
+                    "Name": "分解"
                 },
                 "Looping": "Loop back to start?",
-                "Plural": "Effects",
+                "Plural": "効果",
                 "ShowTokenIcon": "Show token icon?",
-                "Unidentified": "Unidentified?"
+                "Unidentified": "未識別？"
             },
             "Equipment": {
                 "Category": {
-                    "upgrade": "Upgrade"
+                    "upgrade": "アップグレード"
                 }
             },
             "FIELDS": {
                 "category": {
-                    "label": "Category"
+                    "label": "分類"
                 }
             },
             "Feat": {
@@ -2529,21 +2529,21 @@
                 "Info": {
                     "Added": "{item} was added to {category}."
                 },
-                "LevelLabel": "Feat",
+                "LevelLabel": "特技",
                 "LevelN": "Feat {level}",
                 "OnlyLevel1": "Must be taken at level 1",
-                "Plural": "Feats",
+                "Plural": "特技",
                 "Subfeatures": {
                     "KeyAbilityOptions": {
                         "Label": "Key Attribute Options",
                         "Hint": "Key attribute options in addition to those provided by a class"
                     },
-                    "Label": "Subfeatures",
+                    "Label": "下位特徴",
                     "Languages": {
                         "OpenSlots": "Open Slots"
                     },
                     "Proficiencies": {
-                        "Label": "Proficiencies",
+                        "Label": "習熟",
                         "NoOptionSelected": "Select a statistic to which the increase will be applied."
                     },
                     "SuppressedFeatures": {
@@ -2567,7 +2567,7 @@
                     "Two": "Up to 2×"
                 },
                 "Warning": {
-                    "InvalidCategory": "Cannot add feat \"{item}\" to {category}: feat type is invalid.",
+                    "InvalidCategory": "Cannot add feat \"{item}\"\" to {category}: feat type is invalid.\"",
                     "TakenAfterLevel1": "{item} must be taken at level 1, but {actor} is at level {actorLevel}.",
                     "TakenMoreThanMax": "{item} may only be taken {maxTakable} times, but {actor} has selected it {timesTaken} times.",
                     "TakenMoreThanOnce": "{item} may only be taken once, but {actor} has selected it an additional time."
@@ -2581,15 +2581,15 @@
                 "AncestryNotFound": "The referenced ancestry item was not found.",
                 "DragAncestryHere": "Drag an ancestry item here to set this heritage's prerequisite ancestry.",
                 "NoneVersatile": "None (Versatile)",
-                "Plural": "Heritages",
+                "Plural": "出自",
                 "RemoveAncestry": "Remove prerequisite ancestry"
             },
-            "IconLabel": "Icon",
+            "IconLabel": "アイコン",
             "MaterialEffects": {
                 "Hint": "Precious-material damage effects that can trigger or bypass some creatures' immunities, weaknesses, and resistances (applied to inline damage rolls)",
                 "Label": "Material Damage Effects"
             },
-            "NameLabel": "Name",
+            "NameLabel": "名称",
             "NPCAttack": {
                 "FIELDS": {
                     "range": {
@@ -2613,7 +2613,7 @@
             "Physical": {
                 "FIELDS": {
                     "grade": {
-                        "label": "Grade"
+                        "label": "グレード"
                     }
                 },
                 "Attach": {
@@ -2622,7 +2622,7 @@
                         "Label": "Detach Item",
                         "Prompt": "Are you sure you want to detach {attachable}?"
                     },
-                    "Label": "Attach",
+                    "Label": "装着",
                     "Outcome": {
                         "Failure": "You were unable to attach {attachable}.",
                         "Success": "{attachable} is now attached to {target}."
@@ -2631,22 +2631,22 @@
                     "NoEligibleItem": "No item was found that can accept {attachable} as an attachment.",
                     "SidebarContextMenuOption": "Attach to Item"
                 },
-                "Attachments": "Attachments",
-                "Base": "Base",
-                "Broken": "Broken",
+                "Attachments": "装着品",
+                "Base": "基礎",
+                "Broken": "破損",
                 "BrokenThreshold": {
                     "Label": "Broken Threshold",
                     "ShortLabel": "BT"
                 },
                 "Bulk": {
                     "HeldOrStowed": "Bulk (held/stowed)",
-                    "Label": "Bulk",
+                    "Label": "バルク",
                     "Light": {
                         "Label": "軽装",
                         "ShortLabel": "L"
                     },
                     "Negligible": {
-                        "Label": "Negligible",
+                        "Label": "微量",
                         "ShortLabel": "—"
                     },
                     "NLight": "{light}L",
@@ -2657,7 +2657,7 @@
                     "ToPathfinder": "Removing the {removedTrait} trait changes this {type} from Starfinder to Pathfinder. Your grade will be lost. Are you sure? Alternatively, you could swap it to {otherTrait}.",
                     "ToStarfinder": "Adding the {newTrait} trait changes this {type} from Pathfinder to Starfinder. All runes will be lost. Are you sure?"
                 },
-                "Destroyed": "Destroyed",
+                "Destroyed": "破壊",
                 "FromSpell": {
                     "CantripDeck5": "Cantrip Deck of {name} (5-pack)",
                     "Scroll": "Scroll of {name} (Rank {level})",
@@ -2668,7 +2668,7 @@
                     "FourPropertiesMaterial": "{property1} {property2} {property3} {property4} {material} {base}",
                     "Fundamental2": "{fundamental2} {base}",
                     "Fundamental2Material": "{fundamental2} {material} {base}",
-                    "Hint": "This is the name of the base weapon. For most weapons, the base is used to generate a fuller name, taking into account the material composition and/or runes. Giving this weapon a custom name or marking it as \"specific\" will prevent the generated name from appearing.",
+                    "Hint": "This is the name of the base weapon. For most weapons, the base is used to generate a fuller name, taking into account the material composition and/or runes. Giving this weapon a custom name or marking it as \"specific\"\" will prevent the generated name from appearing.\"",
                     "Material": "{material} {base}",
                     "OneProperty": "{property1} {base}",
                     "OnePropertyMaterial": "{property1} {material} {base}",
@@ -2702,22 +2702,22 @@
                     "TwoPropertiesMaterial": "{property1} {property2} {material} {base}"
                 },
                 "Grade": {
-                    "commercial": "Commercial",
-                    "tactical": "Tactical",
-                    "advanced": "Advanced",
-                    "superior": "Superior",
-                    "elite": "Elite",
-                    "ultimate": "Ultimate",
-                    "paragon": "Paragon"
+                    "commercial": "商用品",
+                    "tactical": "戦術的",
+                    "advanced": "上級",
+                    "superior": "上質",
+                    "elite": "精鋭",
+                    "ultimate": "究極",
+                    "paragon": "模範"
                 },
                 "LevelLabel": "Item {level}",
                 "OtherTag": {
                     "AlchemicalFood": "Alchemical Food",
                     "AlchemicalTool": "Alchemical Tool",
                     "HandwrapsOfMightyBlows": "Handwraps of Mighty Blows",
-                    "Herbal": "Herbal",
-                    "Improvised": "Improvised",
-                    "Shoddy": "Shoddy"
+                    "Herbal": "薬草",
+                    "Improvised": "即席",
+                    "Shoddy": "粗悪"
                 },
                 "OtherTags": {
                     "Hint": "These are tags indicating classifications in Second Edition rules that lack explicit status/definition but are still yet heavily relied upon. Some may be automatically added when other properties are present.",
@@ -2730,46 +2730,46 @@
                 "Usage": {
                     "WornParenthetical": "Worn ({where})",
                     "WornSlot": {
-                        "amulet": "Amulet",
-                        "anklets": "Anklets",
-                        "armbands": "Armbands",
-                        "armor": "Armor",
-                        "backpack": "Backpack",
-                        "barding": "Barding",
-                        "belt": "Belt",
+                        "amulet": "アミュレット",
+                        "anklets": "アンクレット",
+                        "armbands": "アームバンド",
+                        "armor": "鎧",
+                        "backpack": "バックパック",
+                        "barding": "馬具",
+                        "belt": "ベルト",
                         "beltpouch": "Belt Pouch",
-                        "bracelet": "Bracelet",
-                        "bracers": "Bracers",
-                        "circlet": "Circlet",
-                        "cloak": "Cloak",
-                        "clothing": "Clothing",
-                        "collar": "Collar",
-                        "crown": "Crown",
-                        "epaulet": "Epaulet",
-                        "eyeglasses": "Eyeglasses",
-                        "eyepiece": "Eyepiece",
-                        "footwear": "Footwear",
-                        "garment": "Garment",
-                        "gloves": "Gloves",
-                        "headwear": "Headwear",
-                        "horseshoes": "Horseshoes",
-                        "mask": "Mask",
-                        "necklace": "Necklace",
+                        "bracelet": "ブレスレット",
+                        "bracers": "ブレイサー",
+                        "circlet": "サークレット",
+                        "cloak": "クローク",
+                        "clothing": "衣類",
+                        "collar": "首輪",
+                        "crown": "王冠",
+                        "epaulet": "エポレット",
+                        "eyeglasses": "眼鏡",
+                        "eyepiece": "アイピース",
+                        "footwear": "履物",
+                        "garment": "衣服",
+                        "gloves": "手袋",
+                        "headwear": "頭部装備",
+                        "horseshoes": "蹄鉄",
+                        "mask": "仮面",
+                        "necklace": "ネックレス",
                         "onbelt": "On Belt",
-                        "ring": "Ring",
-                        "saddle": "Saddle",
-                        "shoes": "Shoes",
+                        "ring": "指輪",
+                        "saddle": "鞍",
+                        "shoes": "靴",
                         "wrist": "On Wrists"
                     }
                 }
             },
-            "Plural": "Items",
+            "Plural": "アイテム",
             "RefreshFromCompendium": {
                 "DifferentItemType": "The compendium source for {item} ({uuid}) is of a different type than what is present on this actor.",
-                "Label": "Refresh",
+                "Label": "更新",
                 "SourceNotFound": "The compendium source for {item} (source ID: {sourceId}) was not found.",
                 "SubitemFailure": "One or more subitems on {item} ({uuid}) were unable to be refreshed.",
-                "Success": "Item \"{item}\" has been refreshed.",
+                "Success": "Item \"{item}\"\" has been refreshed.\"",
                 "Tooltip": {
                     "Disabled": "Item cannot be refreshed: contains data stored at time of adding to actor",
                     "Enabled": "Refresh this item's data with the latest from its originating compendium."
@@ -2777,8 +2777,8 @@
             },
             "RemovalPrevented": "Removal of {item} is prevented by {preventer}.",
             "Rules": {
-                "Apply": "Apply",
-                "Close": "Close",
+                "Apply": "適用",
+                "Close": "閉じる",
                 "CopyToClipboard": "Copy to Clipboard",
                 "Edit": "Edit JSON",
                 "Hint": {
@@ -2790,12 +2790,12 @@
                 "New": "New Rule Element",
                 "RegenerateSlug": "(Re)generate Slug",
                 "Remove": "Remove Rule Element",
-                "Tab": "Rules",
+                "Tab": "ルール",
                 "ViewRollOptions": "View Roll Options"
             },
             "Shield": {
                 "Base": {
-                    "buckler": "Buckler",
+                    "buckler": "バックラー",
                     "casters-targe": "Caster's Targe",
                     "dart-shield": "Dart Shield",
                     "fortress-shield": "Fortress Shield",
@@ -2803,7 +2803,7 @@
                     "harnessed-shield": "Harnessed Shield",
                     "heavy-rondache": "Heavy Rondache",
                     "hide-shield": "Hide Shield",
-                    "klar": "Klar",
+                    "klar": "クラール",
                     "meteor-shield": "Meteor Shield",
                     "razor-disc": "Razor Disc",
                     "salvo-shield": "Salvo Shield",
@@ -2833,13 +2833,13 @@
                 "Area": "{size}-{unit} {shape}",
                 "BaseValue": "Base: {value}",
                 "Cast": {
-                    "Noun": "Cast",
-                    "Verb": "Cast"
+                    "Noun": "詠唱",
+                    "Verb": "詠唱"
                 },
                 "Cost": "コスト",
                 "Counteract": {
                     "Hint": "If you're counteracting an affliction, the DC is in the affliction's stat block. If it's a spell, use the caster's DC. The GM can also calculate a DC based on the target effect's level.",
-                    "Label": "Counteract",
+                    "Label": "対抗判定",
                     "criticalFailure": "You fail to counteract the target.",
                     "criticalSuccess": "Counteract the target if its counteract rank is {rank} or less.",
                     "failure": "Counteract the target if its counteract rank is less than {rank}.",
@@ -2847,10 +2847,10 @@
                 },
                 "Defense": {
                     "BasicDefense": "basic {save}",
-                    "BasicSave": "Basic",
-                    "Label": "Defense"
+                    "BasicSave": "基本",
+                    "Label": "防御"
                 },
-                "Heightening": "Heightening",
+                "Heightening": "高度化",
                 "LevelN": "Spell {level}",
                 "LineSplit": ";",
                 "MeasuredTemplate": {
@@ -2858,21 +2858,21 @@
                     "Place": "Place {area}",
                     "PlacementTooltip": "<strong>Left-click</strong> to lock the position on the canvas and enable rotation. Click again to place.<br><strong>Right-click</strong> to unlock or cancel.<br>Hold <strong>Shift</strong> to place directly without rotation.<br>Hold <strong>Ctrl</strong> to disable grid snapping while rotating."
                 },
-                "Plural": "Spells",
+                "Plural": "呪文",
                 "Rank": {
-                    "Label": "Rank",
+                    "Label": "ランク",
                     "Ordinal": "{rank} Rank",
-                    "Plural": "Ranks"
+                    "Plural": "ランク"
                 },
                 "Ritual": {
-                    "Label": "Ritual",
+                    "Label": "儀式",
                     "PrimaryCheck": "Primary Check",
                     "SecondaryChecks": "Secondary Checks",
                     "SecondaryCasters": "Secondary Casters"
                 },
                 "Sustained": {
                     "Duration": "Sustained for up to {maximum}",
-                    "Label": "Sustained"
+                    "Label": "維持"
                 },
                 "Variants": {
                     "DeleteDialogText": "Are you sure you want to delete {variantName}?",
@@ -2892,13 +2892,13 @@
             "Treasure": {
                 "FIELDS": {
                     "category": {
-                        "label": "Category",
+                        "label": "分類",
                         "choices": {
                             "art-object": "Art Object",
-                            "coin": "Coin",
-                            "gem": "Gem",
-                            "material": "Material",
-                            "credstick": "Credstick"
+                            "coin": "硬貨",
+                            "gem": "宝石",
+                            "material": "素材",
+                            "credstick": "クレッドスティック"
                         }
                     }
                 }
@@ -2907,7 +2907,7 @@
                 "FIELDS": {
                     "expend": {
                         "hint": "This indicates how much ammunition is consumed with each ranged Strike you make with the weapon. Other abilities might cite the use of Expend as the amount of ammo required to complete the action.",
-                        "label": "Expend"
+                        "label": "消費"
                     },
                     "ammo": {
                         "baseType": {
@@ -2917,7 +2917,7 @@
                             "label": "Ammo is Built In"
                         },
                         "capacity": {
-                            "label": "Capacity"
+                            "label": "容量"
                         }
                     }
                 },
@@ -2951,7 +2951,7 @@
                 "FromABP": "Automatic bonus progression has adjusted this weapon's {property} to {value}.",
                 "FromMaterialAndRunes": "Precious materials and runes on this item have adjusted its {property} to {value}.",
                 "GradeOption": "{grade} (+{tracking}; {dice} damage dice)",
-                "HandsLabel": "Hands",
+                "HandsLabel": "手",
                 "MandatoryMelee": "This weapon has a trait that can only be used with melee weapons.",
                 "MaterialAndRunes": {
                     "MaterialOption": "{type} ({grade})",
@@ -2972,7 +2972,7 @@
                 },
                 "Reloader": {
                     "EmptyMessage": "No Compatible Ammo in Inventory",
-                    "Reload1": "Reload",
+                    "Reload1": "再装填",
                     "ReloadAll": "Reload All"
                 },
                 "Rune": {
@@ -2981,7 +2981,7 @@
                         "Greater": "Greater Striking",
                         "Major": "Major Striking",
                         "Mythic": "Mythic Striking",
-                        "Striking": "Striking"
+                        "Striking": "打撃強化"
                     }
                 },
                 "SpecificMagicWeapon": {
@@ -2991,7 +2991,7 @@
                 "ThrownUsage": {
                     "Label": "Thrown Usage"
                 },
-                "Tracking": "Tracking",
+                "Tracking": "追跡",
                 "Twin": {
                     "SecondPlus": "Twin 2nd+ Attack"
                 }
@@ -3005,20 +3005,20 @@
         "ItemBonus4": "+4 Weapon Potency",
         "ItemBonusLabel": "Item Bonus",
         "ItemBonusMinus2": "Shoddy (-2)",
-        "ItemBonusShortLabel": "Item",
+        "ItemBonusShortLabel": "アイテム",
         "ItemLevel": "{type} {level}",
-        "ItemMystification": "Mystification",
-        "ItemMystified": "Mystified",
-        "ItemNamePlaceholder": "Name",
+        "ItemMystification": "秘匿化",
+        "ItemMystified": "秘匿",
+        "ItemNamePlaceholder": "名称",
         "ItemNotSupportedOnActor": "Item not supported on actor",
         "ItemRemoveRuleElement": "Remove Rule Element",
-        "ItemTitle": "Item",
+        "ItemTitle": "アイテム",
         "ItemTransferDialog": {
             "Button": {
-                "gift": "Give",
-                "move": "Transfer",
-                "purchase": "Purchase",
-                "credits": "Transfer"
+                "gift": "譲渡",
+                "move": "移動",
+                "purchase": "購入",
+                "credits": "移動"
             },
             "Prompt": {
                 "gift": "Give this item to {actor}?",
@@ -3033,7 +3033,7 @@
                 "credits": "Transfer Credits"
             }
         },
-        "ItemsLabel": "Items",
+        "ItemsLabel": "アイテム",
         "Keybinding": {
             "CycleTokenStack": {
                 "Hint": "Cycle the Z indices of a mouse-hovered stack of tokens, pushing the top to the bottom.",
@@ -3056,13 +3056,13 @@
                 "Label": "Toggle Party Sheet"
             }
         },
-        "KitItems": "Items",
+        "KitItems": "アイテム",
         "KitWorldItem": "This item is not found in a Compendium and will not work in other worlds",
         "LackCastConsumableCapability": "{actor} lacks the proficiency to use {spell} and does not have the Trick Magic Item feat.",
         "LanguagesAdditional": "Additional Languages",
         "LegalNotice": {
             "Title": "Legal Notice",
-            "Text": "This system for Foundry Virtual Tabletop uses trademarks and copyrights owned by Paizo Inc., used under Paizo's Community Use Policy (<a href=\"https://paizo.com/community/communityuse\" target=\"_blank\">paizo.com/communityuse</a>). We are expressly prohibited from charging you to use or access this content. This system for FoundryVTT is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit <a href=\"https://paizo.com/\" target=\"_blank\">paizo.com</a>."
+            "Text": " endorsed"
         },
         "Level1": "Level 1",
         "Level10": "Level 10",
@@ -3089,7 +3089,7 @@
         "Level7": "Level 7",
         "Level8": "Level 8",
         "Level9": "Level 9",
-        "LevelLabel": "Level",
+        "LevelLabel": "レベル",
         "LevelN": "Level {level}",
         "LevelRange": "Levels {minLevel} — {level}",
         "ListPartsAnd": {
@@ -3104,7 +3104,7 @@
             "start": "{first}, {second}",
             "two": "{first} or {second}"
         },
-        "Lore": "Lore",
+        "Lore": "伝承",
         "LoreSkillsHeader": "Lore Skills",
         "MAPAbbreviationLabel": "MAP {penalty}",
         "MAPAbbreviationValueLabel": "{value} (MAP {penalty})",
@@ -3114,7 +3114,7 @@
                 "Off": "OFF",
                 "On": "ON"
             },
-            "Plural": "Macros",
+            "Plural": "マクロ",
             "NoCompendiumItem": "A macro cannot be created from a compendium item that isn't an effect or condition."
         },
         "MacroActionNoActionError": "This action no longer exists!",
@@ -3146,25 +3146,25 @@
             "Running": "Running system migration ...",
             "Starting": "Applying PF2E System Migration to version {version}. Please be patient and do not close your game or shut down your server.",
             "Summary": {
-                "Documents": "Documents",
-                "HelpResources": "An unexpected error was encountered while migrating some actors or items. If you would like further assistance, feel free to report an issue at the <a href=\"https://github.com/foundryvtt/pf2e/issues\">system repository</a> or visit us on <a href=\"https://discord.gg/SajryVzCyf\">Discord</a> for community support.",
-                "Migrated": "Migrated",
-                "Remigrate": "Remigrate",
+                "Documents": "ドキュメント",
+                "HelpResources": "An unexpected error was encountered while migrating some actors or items. If you would like further assistance, feel free to report an issue at the <a href=\"https://github.com/foundryvtt/pf2e/issues\"\">system repository</a> or visit us on <a href=\"\"https://discord.gg/SajryVzCyf\"\">Discord</a> for community support.\"",
+                "Migrated": "移行済み",
+                "Remigrate": "再移行",
                 "Title": "Migration Summary",
-                "Total": "Total",
+                "Total": "合計",
                 "Troubleshoot": {
                     "Hint": "Here you can run a remigration, which will attempt to automatically fix issues with actors and items.",
                     "Title": "System Troubleshooting"
                 }
             },
-            "Troubleshooting": "Troubleshooting",
+            "Troubleshooting": "トラブルシューティング",
             "WorldNotReady": "Game world not ready: try again in a few seconds."
         },
         "ModeOfBeing": {
-            "Living": "Living"
+            "Living": "生存"
         },
-        "ModifierNamePlaceholder": "Name",
-        "ModifierTitle": "Modifier",
+        "ModifierNamePlaceholder": "名称",
+        "ModifierTitle": "修正",
         "ModifierType": {
             "ability": "アトリビュート",
             "circumstance": "Circumstance",
@@ -3175,7 +3175,7 @@
             "untyped": "Untyped"
         },
         "ModifierTypeTitle": "[Type]",
-        "ModifiersTitle": "Modifiers",
+        "ModifiersTitle": "修正値",
         "MultipleAttackPenalty": "Multiple Attack Penalty",
         "MysticStrikes": "Mystical Strikes",
         "NPC": {
@@ -3195,7 +3195,7 @@
                     "Coven": "<p>This monster can form a coven with two or more other creatures who also have the coven ability. This involves performing an 8-hour ceremony with all prospective coven members. After the coven is formed, each of its members gains elite adjustments, adjusting their levels accordingly. Coven members can sense other members' locations and conditions by spending a single action, which has the concentrate trait, and can sense what another coven member is sensing as a two-action activity, which has the concentrate trait as well.</p>\n<p>Covens also grant spells and rituals to their members, but these can be cast only in cooperation between three coven members who are all within 30 feet of one another. A coven member can contribute to a coven spell with a single action that has the concentrate trait. If two coven members have contributed these actions within the last round, a third member can cast a coven spell on her turn by spending the normal spellcasting actions. A coven can cast its coven spells an unlimited number of times but can cast only one coven spell each round. All covens grant the 8th-rank @UUID[Compendium.pf2e.spells-srd.Item.dN8QBNuTiaBHCKUe]{Cursed Metamorphosis} spell and all the following spells, which the coven can cast at any rank up to 5th: @UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X]{Augury}, @UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{Charm}, @UUID[Compendium.pf2e.spells-srd.Item.HXhWYJviWalN5tQ2]{Clairaudience}, @UUID[Compendium.pf2e.spells-srd.Item.zvKWclOZ7A53DObE]{Clairvoyance}, @UUID[Compendium.pf2e.spells-srd.Item.yM3KTTSAIHhyuP14]{Dream Message}, @UUID[Compendium.pf2e.spells-srd.Item.i35dpZFI7jZcRoBo]{Illusory Disguise}, @UUID[Compendium.pf2e.spells-srd.Item.Ucf8eynbZMfUucjE]{Illusory Scene}, @UUID[Compendium.pf2e.spells-srd.Item.Ek5XI0aEdZhBgm21]{Scouting Eye}, and @UUID[Compendium.pf2e.spells-srd.Item.FM3SmEW8N1FCRjqt]{Talking Corpse}. Individual creatures with the coven ability also grant additional spells to any coven they join. A coven can also cast the @UUID[Compendium.pf2e.spells-srd.Item.XkDCzMIyc0YOjw05]{Control Weather} ritual, with a DC of 23 instead of the standard DC.</p>\n<p>If a coven member's departure or death brings the coven below three members, the remaining members keep their elite adjustments for 24 hours, but without enough members to contribute the necessary actions, they can't cast coven spells.</p>",
                     "Darkvision": "<p>A monster with darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. Some forms of magical darkness, such as a 4th-rank @UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{Darkness} spell, block normal darkvision. A monster with @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.4Ho2xMPEC05aSxzr]{Greater Darkvision}, however, can see through even these forms of magical darkness.</p>",
                     "Disease": "<p>When a creature is exposed to a monster's disease, it attempts a Fortitude save or succumbs to the disease. The level of a disease is the level of the monster inflicting the disease. The disease follows the rules for afflictions.</p>",
-                    "Engulf": "<p>The monster Strides up to double its Speed and can move through the spaces of any creatures in its path. Any creature of the monster's size or smaller whose space the monster moves through can attempt a Reflex save with the listed DC to avoid being engulfed. A creature unable to act automatically critically fails this save. If a creature succeeds at its save, it can choose to be either pushed aside (out of the monster's path) or pushed in front of the monster to the end of the monster's movement. The monster can attempt to Engulf the same creature only once in a single use of Engulf. The monster can contain as many creatures as can fit in its space.</p>\n<p>A creature that fails its save is pulled into the monster's body. It is @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}, is @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}, and has to hold its breath or start suffocating. The creature takes the listed amount of damage when first engulfed and at the end of each of its turns while it's engulfed. An engulfed creature can get free by @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escaping} against the listed escape DC. An engulfed creature can attack the monster engulfing it, but only with unarmed attacks or with weapons of light Bulk or less. The engulfing creature is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the engulfed creature cuts itself free.\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.1cbIe569UD6paXad]{Effect: Engulf and Swallow Whole}</p>\n<p>A creature that gets free by either method can immediately breathe and exits the swallowing monster's space.</p>\n<p>If the monster dies, all creatures it has engulfed are automatically released as the monster's form loses cohesion.</p>",
+                    "Engulf": "<p>The monster Strides up to double its Speed and can move through the spaces of any creatures in its path. Any creature of the monster's size or smaller whose space the monster moves through can attempt a Reflex save with the listed DC to avoid being engulfed. A creature unable to act automatically critically fails this save. If a creature succeeds at its save, it can choose to be either pushed aside (out of the monster's path) or pushed in front of the monster to the end of the monster's movement. The monster can attempt to Engulf the same creature only once in a single use of Engulf. The monster can contain as many creatures as can fit in its space.</p>\n<p>A creature that fails its save is pulled into the monster's body. It is @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}, is @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}, and has to hold its breath or start suffocating. The creature takes the listed amount of damage when first engulfed and at the end of each of its turns while it's engulfed. An engulfed creature can get free by @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escaping} against the listed escape DC. An engulfed creature can attack the monster engulfing it, but only with unarmed attacks or with weapons of light Bulk or less. The engulfing creature is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the engulfed creature cuts itself free.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.1cbIe569UD6paXad]{Effect: Engulf and Swallow Whole}</p>\n<p>A creature that gets free by either method can immediately breathe and exits the swallowing monster's space.</p>\n<p>If the monster dies, all creatures it has engulfed are automatically released as the monster's form loses cohesion.</p>",
                     "FastHealing": "<p>A monster with this ability regains the given number of Hit Points each round at the beginning of its turn.</p>",
                     "Ferocity": "<p><strong>Trigger</strong> The monster is reduced to 0 HP.</p>\n<hr />\n<p><strong>Effect</strong> The monster avoids being knocked out and remains at 1 HP, but its @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded} value increases by 1. When it is Wounded 3, it can no longer use this ability</p>",
                     "FormUp": "<p>The troop chooses one of the squares it currently occupies and redistributes its squares to any configuration in which all squares are contiguous and within 15 feet of the chosen square. The troop can't share its space with other creatures.</p>",
@@ -3394,7 +3394,7 @@
         "PreciousMaterialDawnsilver": "Dawnsilver",
         "PreciousMaterialDawnsilverDescription": "Dawnsilver is renowned for its lightness, durability, and effectiveness against a range of creatures including devils and lycanthropes. It has the same sheen as silver but a slightly lighter hue. Dawnsilver weapons and armor are treated as if they were silver for the purpose of damaging creatures with weakness to silver. A metal item made of dawnsilver is lighter than one made of iron or steel: the item's Bulk is reduced by 1 (reduced to light Bulk if its normal Bulk is 1, with no effect on an item that normally has light Bulk). The Price of an item made of this material is based on the item's normal Bulk, not its reduced Bulk for being made of dawnsilver, but reduce the Bulk before making any further Bulk adjustments for the size of the item.",
         "PreciousMaterialDjezet": "Djezet",
-        "PreciousMaterialDjezetDescription": "This rust red metal is liquid at room temperature, making it challenging for all but the most skilled metallurgists to craft with and earning it the name \"quickiron\" in some places. Djezet is also extremely reactive to magic, even in its solid, workable alloyed form. It glows when targeted by magic, and objects crafted with djezet alloys glow with scarlet striations, which lead some smiths to nickname it \"tiger iron.\" When targeted by spells, objects crafted from djezet alloys exhibit these glowing red markings that last for 1 round or the duration of the spell, whichever is longer. A djezet mass contains enough djezet to refine into up to two djezet doses.",
+        "PreciousMaterialDjezetDescription": " even in its solid",
         "PreciousMaterialDragonhide": "Dragonhide",
         "PreciousMaterialDragonhideDescription": "The hide and scales of a dragon can be used to Craft any item normally made of ordinary leather or hide. Dragonhide varies in color from blue to glittering gold, depending on the dragon it came from. Due to the scales' resiliency, it can also be used to Craft armor usually made out of metal plates (such as a breastplate, half plate, and full plate), allowing such armor to be made without metal. Dragonhide objects are immune to one damage type, depending on the type of dragon.",
         "PreciousMaterialDreamweb": "Dreamweb",
@@ -3761,8 +3761,8 @@
                 "Label": "Manage Homebrew Elements",
                 "Languages": {
                     "CommonLanguage": {
-                        "Hint": "Select the language to be referred to as \"Common\" in this game world.",
-                        "Label": "The \"Common\" Language"
+                        "Hint": "Select the language to be referred to as \"Common\"\" in this game world.\"",
+                        "Label": "The \"Common\"\" Language\""
                     },
                     "Hint": "Languages for characters to know or learn (e.g., Draconic, Gnomish)",
                     "Name": "言語",
@@ -3779,7 +3779,7 @@
                     }
                 },
                 "Name": "Homebrew Elements",
-                "ReservedTerm": "\"{term}\" is a reserved term.",
+                "ReservedTerm": "\"{term}\"\" is a reserved term.\"",
                 "ShieldTraits": {
                     "Hint": "Traits that can be applied to shields",
                     "Name": "Shield Traits"
@@ -4027,7 +4027,7 @@
         "Scene": {
             "HearingRange": {
                 "Caveat": "*For performance reasons, the radius is a real measurement rather than a grid-based one.",
-                "Hint": "Limit the range* creatures can hear in this scene as a representation of \"an environment that distorts the sense, such as a noisy room\" (Pathfinder Player Core pg. 432). Requires rules-based vision to be enabled.",
+                "Hint": " such as a noisy room\"\" (Pathfinder Player Core pg. 432). Requires rules-based vision to be enabled.\"",
                 "Label": "Hearing Range (ft.)",
                 "Unlimited": "Unlimited"
             },
@@ -4211,7 +4211,7 @@
             "OutOfReach": "{token} is out of reach.",
             "SecretDisposition": {
                 "Label": "Secret Disposition",
-                "Hint": "Activate the \"secret\" disposition, which displays a purple border for owners and no border or cursor change for all others. A token with this disposition also cannot be targeted by non-owners."
+                "Hint": " which displays a purple border for owners and no border or cursor change for all others. A token with this disposition also cannot be targeted by non-owners.\""
             },
             "Size": {
                 "Dimensions": "Dimensions",
@@ -4730,7 +4730,7 @@
         "TraitDescriptionKobold": "A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision.",
         "TraitDescriptionKovintus": "Reclusive humanoids with an inborn talent for geomancy, kovintus have an intrinsic tie to nature and magic alike",
         "TraitDescriptionLaminar": "The armor is made up of layered sections, so when it breaks, it isn't as much of a problem. The status penalty to AC if this armor is broken is –1 for broken medium armor, –2 for broken heavy armor, or no penalty for broken light armor.",
-        "TraitDescriptionLaunching": "A mechanism within this shield can shoot projectiles, causing the shield to also function as a ranged weapon. The trait lists the type of weapon, such as \"launching dart.\" Striking with the launcher requires the same number of hands as normal, except that the hand holding the shield counts toward this total, so a one-handed ranged weapon would require only one hand. Reloading takes the normal number of Interact actions, to a minimum of 1 action, and you can't use the hand holding your shield to reload.",
+        "TraitDescriptionLaunching": " except that the hand holding the shield counts toward this total",
         "TraitDescriptionLeshy": "A creature with this trait is a member of the leshy ancestry. These small plant or fungus creatures are humanoid in form.",
         "TraitDescriptionLight": "Light effects overcome non-magical darkness in the area, and can counteract magical darkness. You must usually target darkness magic with your light magic directly to counteract the darkness, but some light spells automatically attempt to counteract darkness.",
         "TraitDescriptionLineage": "A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.",
@@ -4753,7 +4753,7 @@
         "TraitDescriptionMisfortune": "A misfortune effect detrimentally alters how you roll your dice. You can never have more than one misfortune effect alter a single roll. If multiple misfortune effects would apply, the GM decides which is worse and applies it. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
         "TraitDescriptionMissive": "A missive is a piece of magical stationery that must be crafted and composed before it can be activated. All missives have the missive and consumable traits. Missives are often constructed of paper, parchment, or vellum, but any other thin, portable material that can hold writing or embossing upon it can be crafted into missives. After being crafted, the missive is a blank sheet until a message is composed upon it, completing its magic.",
         "TraitDescriptionModification": "A feat with this trait alters the construction of your innovation. If you have the reconfigure class feature, you can retrain such a feat more easily.",
-        "TraitDescriptionModular": "The weapon has multiple configurations that you can switch between using an Interact action. Typically, switching between configurations of a modular weapon allows it to deal different types of damage (listed in the trait, such as \"modular B, P, or S\"), though it's possible for a modular weapon's description to list more complicated configurations.",
+        "TraitDescriptionModular": " P",
         "TraitDescriptionMonitor": "Creatures that hail from or have a strong connection to Axis, the Boneyard, or the Maelstrom are called monitors. Monitors can survive the basic environmental effects of planes in the Outer Sphere.",
         "TraitDescriptionMonk": "Abilities with this trait are from the monk class. A weapon with this trait is primarily used by monks.",
         "TraitDescriptionMonkWeapon": "Many monks learn to use these weapons.",
@@ -4791,11 +4791,11 @@
         "TraitDescriptionParry": "This weapon can be used defensively to block attacks. While wielding this weapon, if your proficiency with it is trained or better, you can spend a single action to position your weapon defensively, gaining a +1 circumstance bonus to AC until the start of your next turn.",
         "TraitDescriptionPeachwood": "Peachwood weapons have a particularly auburn tinge to them when under direct sunlight. Peachwood is treated as duskwood for any undead creatures' resistances or weaknesses related to duskwood (allowing a peachwood weapon to bypass a jiang-shi's resistance, for example). In addition, peachwood weapons bypass a small portion of the resistances of any undead creature. Strikes with a peachwood weapon treat an undead's resistances against physical damage as 2 lower for standard-grade peachwood, and 4 lower for high-grade.",
         "TraitDescriptionPersonaFlirt": "The public perceives you as the most romantic of the group, and you may be thought of as a seducer or vapid pretender who gets by on their looks and brings nothing of value to the party.",
-        "TraitDescriptionPersonaGuardian": "The public perceives you as the healer and protector of the group, but some may also consider you too soft-hearted and meek to be a \"true hero.\"",
+        "TraitDescriptionPersonaGuardian": "The public perceives you as the healer and protector of the group, but some may also consider you too soft-hearted and meek to be a \"true hero.\"\"\"",
         "TraitDescriptionPersonaLeader": "The public perceives you as the leader of the group, but some likewise consider you too brash or even pompous.",
         "TraitDescriptionPersonaScholar": "The public considers you the problem-solver and brains of the group, though some also perceive you as arrogant or incapable of physical tasks.",
-        "TraitDescriptionPersonaScoundrel": "The public is convinced you are the \"bad boy/bad girl\" of the group who gets the distasteful but necessary things done, but who is at times thought of as a criminal or potential traitor to the party.",
-        "TraitDescriptionPersonaUnderdog": "The public perceives you as a \"fish out of water\"—someone who accidently got swept up by the group and still manages to triumph, but who is sometimes thought of as a weak link or loser.",
+        "TraitDescriptionPersonaScoundrel": " but who is at times thought of as a criminal or potential traitor to the party.\"",
+        "TraitDescriptionPersonaUnderdog": " but who is sometimes thought of as a weak link or loser.\"",
         "TraitDescriptionPersonaWarrior": "The public believes you are the strong-arm of the group, the person who excels in a fight but is also at times considered cruel, uncouth, or even a bully.",
         "TraitDescriptionPersonaWildcard": "The public perceives you as a source of whimsy, outlandish ideas, and comedy in the group, but that reputation is a double-edged sword, as some also consider you a liability or unreliable.",
         "TraitDescriptionPhantom": "A phantom is soul that has diverged from the River of Souls on the Ethereal Plane before being judged. They typically retain memories of their life before death but are not undead.",
@@ -5559,9 +5559,9 @@
         "UI": {
             "applyDamage": {
                 "by": "by",
-                "damaged": "damaged for ",
-                "healed": "healed for ",
-                "shieldActive": "and their {shield} gets ",
+                "damaged": "damaged for",
+                "healed": "healed for",
+                "shieldActive": "and their {shield} gets",
                 "shieldInActive": "gets"
             },
             "noDamageInfoForOutcome": "No damage information for outcome {outcome}.",
@@ -5574,7 +5574,7 @@
             "SourceId": "Source ID"
         },
         "UnitedPaizoWorkers": {
-            "PFSNote": "Note for Pathfinder Society players: In support of UPW, merchandise purchased from the union store will count in the Online PFS region for the <span class=\"hover\" title=\"When you use a Hero Point to reroll a check, add a +1 circumstance bonus to the reroll\">Promotional Vestments</a> boon.",
+            "PFSNote": " add a +1 circumstance bonus to the reroll\"\">Promotional Vestments</a> boon.\"",
             "ReleaseIntro": "Redmond, WA (October 14th, 2021) — Today, the workers at Paizo, Inc — publisher of the Pathfinder and Starfinder roleplaying games — are announcing their formation of the United Paizo Workers union (UPW), with the Communication Workers of America's CODE-CWA project. This union is the first of its kind in the tabletop roleplaying games industry.",
             "Title": "Announcement: United Paizo Workers"
         },
@@ -6199,7 +6199,7 @@
             "holy": {
                 "Name": "Holy",
                 "Note": {
-                    "criticalSuccess": "Holy Healing <span class=\"action-glyph\">R</span> (concentrate, healing, vitality)</p><p><strong>Frequency</strong> once per day</p><p><strong>Trigger</strong> You critically succeed at a Strike against an unholy creature with the weapon</p><hr /><p><strong>Effect</strong> You regain HP equal to double the unholy creature's level."
+                    "criticalSuccess": " healing"
                 }
             },
             "hopeful": {
@@ -6322,7 +6322,7 @@
             "vorpal": {
                 "Name": "Vorpal",
                 "Note": {
-                    "criticalSuccess": "Snicker-Snack <span class=\"action-glyph\">R</span> (concentrate, death, incapacitation)</p><p><strong>Trigger</strong> You roll a natural 20 on a Strike with the weapon against a creature that has a head, critically succeed, and deal slashing damage</p><hr /><p><strong>Effect</strong> The target must succeed at a @Check[fortitude|dc:37|traits:death,incapacitation|name:Vorpal Rune] save or be decapitated. This kills any creature except ones that don't require a head to live. For creatures with multiple heads, this usually kills the creature only if you sever its last head."
+                    "criticalSuccess": " death"
                 }
             },
             "wounding": {
@@ -6424,240 +6424,240 @@
         },
         "condition": {
             "blinded": {
-                "name": "Blinded",
+                "name": "盲目/Blinded",
                 "rules": "<p>You can't see. All normal terrain is difficult terrain to you. You can't detect anything using vision. You automatically critically fail Perception checks that require you to be able to see, and if vision is your only precise sense, you take a -4 status penalty to Perception checks. You are immune to visual effects. Blinded overrides dazzled.</p>",
                 "summary": "You're unable to see."
             },
             "broken": {
-                "name": "Broken",
+                "name": "破損/Broken",
                 "rules": "<p>Broken is a condition that affects objects. An object is broken when damage has reduced its Hit Points to equal or less than its Broken Threshold. A broken object can't be used for its normal function, nor does it grant bonuses-with the exception of armor. Broken armor still grants its item bonus to AC, but it also imparts a status penalty to AC depending on its category: -1 for broken light armor, -2 for broken medium armor, or -3 for broken heavy armor.</p>\n<p>A broken item still imposes penalties and limitations normally incurred by carrying, holding, or wearing it. For example, broken armor would still impose its Dexterity modifier cap, check penalty, and so forth.</p>\n<p>If an effect makes an item broken automatically and the item has more HP than its Broken Threshold, that effect also reduces the item's current HP to the Broken Threshold.</p>",
                 "summary": "This item can't be used for its normal function until repaired."
             },
             "clumsy": {
-                "name": "Clumsy",
+                "name": "ぎこちない/Clumsy",
                 "rules": "<p>Your movements become clumsy and inexact. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and skill checks using Acrobatics, Stealth, and Thievery.</p>",
                 "summary": "You can't move as easily or gracefully as usual."
             },
             "concealed": {
-                "name": "Concealed",
+                "name": "視認困難/Concealed",
                 "rules": "<p>While you are concealed from a creature, such as in a thick fog, you are difficult for that creature to see. You can still be observed, but you're tougher to target. A creature that you're concealed from must succeed at a @Check[flat|dc:5|name:Concealed|showDC:all] when targeting you with an attack, spell, or other effect.</p>\n<p>Area effects aren't subject to this flat check. If the check fails, the attack, spell, or effect doesn't affect you.</p>",
                 "summary": "Fog or similar obscuration makes you difficult to see and target."
             },
             "confused": {
-                "name": "Confused",
+                "name": "混乱/Confused",
                 "note": "Each time you take damage from an attack or spell, you can attempt a @Check[flat|dc:11|name:Confused|showDC:all] to recover from your confusion and end the condition.",
                 "rules": "<p>You don't have your wits about you, and you attack wildly. You are off-guard, you don't treat anyone as your ally (though they might still treat you as theirs), and you can't Delay, Ready, or use reactions.<p></p>You use all your actions to Strike or cast offensive cantrips, though the GM can have you use other actions to facilitate attack, such as draw a weapon, move so that a target is in reach, and so forth. Your targets are determined randomly by the GM. If you have no other viable targets, you target yourself, automatically hitting but not scoring a critical hit. If it's impossible for you to attack or cast spells, you babble incoherently, wasting your actions.</p>\n<p>Each time you take damage from an attack or spell, you can attempt a @Check[flat|dc:11|name:Confusion Recovery|showDC:all] to recover from your confusion and end the condition.</p>",
                 "summary": "You attack indiscriminately."
             },
             "controlled": {
-                "name": "Controlled",
+                "name": "支配/Controlled",
                 "rules": "<p>Someone else is making your decisions for you, usually because you're being commanded or magically dominated. The controller dictates how you act and can make you use any of your actions, including attacks, reactions, or even Delay. The controller usually does not have to spend their own actions when controlling you.</p>",
                 "summary": "Another creature determines your actions."
             },
             "cursebound": {
-                "name": "Cursebound",
+                "name": "呪縛/Cursebound",
                 "rules": "<p>Your oracular curse is constricting around you as you receive divine punishment after drawing too deeply on your mystery's powers. Cursebound is a condition that affects only creatures with an oracular curse, and cursebound always includes a value. Your specific oracular curse imposes unique negative effects depending on your cursebound value. You can remove the cursebound condition only by Refocusing.</p>"
             },
             "dazzled": {
-                "name": "Dazzled",
+                "name": "眩惑/Dazzled",
                 "rules": "<p>Your eyes are overstimulated. If vision is your only precise sense, all creatures and objects are concealed from you.</p>",
                 "summary": "Everything is concealed to you."
             },
             "deafened": {
-                "name": "Deafened",
+                "name": "聴覚喪失/Deafened",
                 "note": "If you perform an action that has the auditory trait, you must succeed at a @Check[flat|dc:5|name:Deafened|showDC:all] or the action is lost.",
                 "rules": "<p>You can't hear. You automatically critically fail Perception checks that require you to be able to hear. You take a -2 status penalty to Perception checks for initiative and checks that involve sound but also rely on other senses. If you perform an action with the auditory trait, you must succeed at a @Check[flat|dc:5|name:Deafened|showDC:all] or the action is lost; attempt the check after spending the action but before any effects are applied. You are immune to auditory effects.</p>",
                 "summary": "You're unable to hear."
             },
             "doomed": {
-                "name": "Doomed",
+                "name": "破滅/Doomed",
                 "rules": "<p>Your life is ebbing away, bringing you ever closer to death. Some powerful spells and evil creatures can inflict the doomed condition on you. Doomed always includes a value. The maximum dying value at which you die is reduced by your doomed value. For example, if you were doomed 1, you would die upon reaching dying 3 instead of dying 4. If your maximum dying value is ever reduced to 0, you instantly die. When you die, you're no longer doomed.</p>\n<p>Your doomed value decreases by 1 each time you get a full night's rest.</p>",
                 "summary": "With your soul in peril, you are now closer to death."
             },
             "drained": {
-                "name": "Drained",
+                "name": "消耗/Drained",
                 "rules": "<p>When a creature successfully drains you of blood or life force, you become less healthy. Drained always includes a value. You take a status penalty equal to your drained value on Constitution-based checks, such as Fortitude saves. You also lose a number of Hit Points equal to your level (minimum 1) times the drained value, and your maximum Hit Points are reduced by the same amount. For example, if you're hit by an effect that inflicts drained 3 and you're a 3rd-level character, you lose 9 Hit Points and reduce your maximum Hit Points by 9. Losing these Hit Points doesn't count as taking damage.</p>\n<p>Each time you get a full night's rest, your drained value decreases by 1. This increases your maximum Hit Points, but you don't immediately recover the lost Hit Points.</p>",
                 "summary": "Blood loss or something similar has leached your vitality."
             },
             "dying": {
-                "name": "Dying",
+                "name": "瀕死/Dying",
                 "rules": "<p>You are bleeding out or otherwise at death's door. While you have this condition, you are unconscious. Dying always includes a value, and if it ever reaches dying 4, you die. If you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse. Your dying condition increases by 1 if you take damage while dying, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.</p>\n<p>If you lose the dying condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Any time you lose the dying condition, you gain the wounded 1 condition, or increase your wounded condition value by 1 if you already have that condition.</p>",
                 "summary": "You're slipping closer to death."
             },
             "encumbered": {
-                "name": "Encumbered",
+                "name": "過重/Encumbered",
                 "rules": "<p>You are carrying more weight than you can manage. While you're encumbered, you're clumsy 1 and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.</p>",
                 "summary": "You're carrying more weight than you can manage."
             },
             "enfeebled": {
-                "name": "Enfeebled",
+                "name": "衰弱/Enfeebled",
                 "rules": "<p>You're physically weakened. Enfeebled always includes a value. When you are enfeebled, you take a status penalty equal to the condition value to Strength-based rolls and DCs, including Strength-based melee attack rolls, Strength-based damage rolls, and Athletics checks.</p>",
                 "summary": "Your strength has been sapped away."
             },
             "fascinated": {
-                "name": "Fascinated",
+                "name": "気を取られた/Fascinated",
                 "rules": "<p>You are compelled to focus your attention on something, distracting you from whatever else is going on around you. You take a -2 status penalty to Perception and skill checks, and you can't use actions with the concentrate trait unless they or their intended consequences are related to the subject of your fascination (as determined by the GM). For instance, you might be able to Seek and Recall Knowledge about the subject, but you likely couldn't cast a spell targeting a different creature. This condition ends if a creature uses hostile actions against you or any of your allies.</p>",
                 "summary": "You are compelled to focus your attention on something."
             },
             "fatigued": {
-                "name": "Fatigued",
+                "name": "疲労/Fatigued",
                 "rules": "<p>You're tired and can't summon much energy. You take a -1 status penalty to AC and saving throws. While exploring, you can't choose an exploration activity.</p>\n<p>You recover from fatigue after a full night's rest.</p>",
                 "summary": "Your defenses are lower and you can't focus while exploring."
             },
             "off-guard": {
-                "name": "Off-Guard",
-                "rules": "<p>You're distracted or otherwise unable to focus your full attention on defense. You take a -2 circumstance penalty to AC. Some effects give you the off-guard condition only to certain creatures or against certain attacks. Others—especially conditions—can make you universally off-guard against everything. If a rule doesn't specify that the condition applies only to certain circumstances, it applies to all of them; for example, many effects simply say \"The target is off-guard.\"</p>",
+                "name": "無防備/Off-Guard",
+                "rules": "<p>You're distracted or otherwise unable to focus your full attention on defense. You take a -2 circumstance penalty to AC. Some effects give you the off-guard condition only to certain creatures or against certain attacks. Others—especially conditions—can make you universally off-guard against everything. If a rule doesn't specify that the condition applies only to certain circumstances, it applies to all of them; for example, many effects simply say \"The target is off-guard.\"\"</p>\"",
                 "summary": "You're unable to defend yourself to your full capability."
             },
             "fleeing": {
-                "name": "Fleeing",
+                "name": "逃走/Fleeing",
                 "rules": "<p>You're forced to run away due to fear or some other compulsion. On your turn, you must spend each of your actions trying to escape the source of the fleeing condition as expediently as possible (such as by using move actions to flee, or opening doors barring your escape). The source is usually the effect or caster that gave you the condition, though some effects might define something else as the source. You can't Delay or Ready while fleeing.</p>",
                 "summary": "You must run away."
             },
             "friendly": {
-                "name": "Friendly",
+                "name": "友好/Friendly",
                 "rules": "<p>This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose these conditions on player characters. A creature that is friendly to a character likes that character. The character can attempt to make a Request of a friendly creature, and the friendly creature is likely to agree to a simple and safe request that doesn't cost it much to fulfill. If the character or one of their allies uses hostile actions against the creature, the creature gains a worse attitude condition depending on the severity of the hostile action, as determined by the GM.</p>",
                 "summary": "An NPC with this condition has a good attitude toward you."
             },
             "frightened": {
-                "name": "Frightened",
+                "name": "恐怖/Frightened",
                 "rules": "<p>You're gripped by fear and struggle to control your nerves. The frightened condition always includes a value. You take a status penalty equal to this value to all your checks and DCs. Unless specified otherwise, at the end of each of your turns, the value of your frightened condition decreases by 1.</p>",
                 "summary": "Fear makes you less capable of attacking and defending."
             },
             "grabbed": {
-                "name": "Grabbed",
+                "name": "掴まれた/Grabbed",
                 "note": "If you attempt a manipulate action while grabbed, you must succeed at a @Check[flat|dc:5|name:Grabbed|showDC:all] or it is lost.",
                 "rules": "<p>You're held in place by another creature, giving you the off-guard and immobilized conditions. If you attempt a manipulate action while grabbed, you must succeed at a @Check[flat|dc:5|name:Grabbed|showDC:all] or it is lost; roll the check after spending the action, but before any effects are applied.</p>",
                 "summary": "A creature, object, or magic holds you in place."
             },
             "group": {
-                "attitudes": "Attitudes",
+                "attitudes": "態度",
                 "death": "Death and Dying",
                 "detection": "Degrees of Detection",
                 "senses": "感覚"
             },
             "helpful": {
-                "name": "Helpful",
+                "name": "協力的/Helpful",
                 "rules": "<p>This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose these conditions on player characters. A creature that is helpful to a character wishes to actively aid that character. It will accept reasonable Requests from that character, as long as such requests aren't at the expense of the helpful creature's goals or quality of life. If the character or one of their allies uses a hostile action against the creature, the creature gains a worse attitude condition depending on the severity of the hostile action, as determined by the GM.</p>",
                 "summary": "An NPC with this condition wants to assist you."
             },
             "hidden": {
-                "name": "Hidden",
+                "name": "隠れた/Hidden",
                 "rules": "<p>While you're hidden from a creature, that creature knows the space you're in but can't tell precisely where you are. You typically become hidden by using Stealth to Hide. When Seeking a creature using only imprecise senses, it remains hidden, rather than observed. A creature you're hidden from is off-guard to you, and it must succeed at a @Check[flat|dc:11|name:Hidden|showDC:all] when targeting you with an attack, spell, or other effect or it fails affect you. Area effects aren't subject to this flat check.</p>\n<p>A creature might be able to use the Seek action to try to observe you.</p>",
                 "summary": "A creature you're hidden from knows your location but can't see you."
             },
             "hostile": {
-                "name": "Hostile",
+                "name": "敵対的/Hostile",
                 "rules": "<p>This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose these conditions on player characters. A creature that is hostile to a character actively seeks to harm that character. It doesn't necessarily attack, but it won't accept Requests from the character.</p>",
                 "summary": "An NPC with this condition wants to harm you."
             },
             "immobilized": {
-                "name": "Immobilized",
+                "name": "移動不能/Immobilized",
                 "rules": "<p>You can't use any action with the move trait. If you're immobilized by something holding you in place and an external force would move you out of your space, the force must succeed at a check against either the DC of the effect holding you in place or the relevant defense (usually Fortitude DC) of the monster holding you in place.</p>",
                 "summary": "You can't move."
             },
             "indifferent": {
-                "name": "Indifferent",
+                "name": "中立/Indifferent",
                 "rules": "<p>This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose these conditions on player characters. A creature that is indifferent to a character doesn't really care one way or the other about that character. Assume a creature's attitude to a given character is indifferent unless specified otherwise.</p>",
                 "summary": "An NPC with this condition doesn't have a strong opinion about you."
             },
             "invisible": {
-                "name": "Invisible",
+                "name": "不可視/Invisible",
                 "rules": "<p>While invisible, you can't be seen. You're undetected to everyone. Creatures can Seek to attempt to detect you; if a creature succeeds at its Perception check against your Stealth DC, you become hidden to that creature until you Sneak to become undetected again. If you become invisible while someone can already see you, you start out hidden to the observer (instead of undetected) until you successfully Sneak. You can't become observed while invisible except via special abilities or magic.</p>",
                 "summary": "Creatures can't see you."
             },
             "observed": {
-                "name": "Observed",
+                "name": "視認/Observed",
                 "rules": "<p>Anything in plain view is observed by you. If a creature takes measures to avoid detection, such as by using Stealth to Hide, it can become hidden or undetected instead of observed. If you have another precise sense instead of or in addition to sight, you might be able to observe a creature or object using that sense instead. You can observe a creature only with precise senses. When Seeking a creature using only imprecise senses, it remains hidden, rather than observed.</p>",
                 "summary": "You're in plain view."
             },
             "paralyzed": {
-                "name": "Paralyzed",
+                "name": "麻痺/Paralyzed",
                 "rules": "<p>Your body is frozen in place. You have the off-guard condition and can't act except to Recall Knowledge and use actions that require only the use of your mind (as determined by the GM). Your senses still function, but only in the areas you can perceive without moving your body, so you can't Seek while paralyzed.</p>",
                 "summary": "Your body is frozen in place."
             },
             "persistent-damage": {
                 "name": "Persistent Damage",
-                "rules": "<p>Persistent damage comes from effects like acid, being on fire, or many other situations. It appears as \"X persistent [type] damage,\" where \"X\" is the amount of damage dealt and \"[type]\" is the damage type. Instead of taking persistent damage immediately, you take it at the end of each of your turns as long as you have the condition, rolling any damage dice anew each time. After you take persistent damage, roll a @Check[flat|dc:15] to see if you recover from the persistent damage. If you succeed, the condition ends.</p>",
+                "rules": " where \"\"X\"\" is the amount of damage dealt and \"\"[type]\"\" is the damage type. Instead of taking persistent damage immediately",
                 "summary": "You keep taking damage every round."
             },
             "petrified": {
-                "name": "Petrified",
+                "name": "石化/Petrified",
                 "rules": "<p>You have been turned to stone. You can't act, nor can you sense anything. You become an object with a Bulk double your normal Bulk (typically 12 for a petrified Medium creature or 6 for a petrified Small creature), AC 9, Hardness 8, and the same current Hit Points you had when alive. You don't have a Broken Threshold. When you're turned back into flesh, you have the same number of Hit Points you had as a statue. If the statue is destroyed, you immediately die. While petrified, your mind and body are in stasis, so you don't age or notice the passing of time.</p>",
                 "summary": "You've been turned to stone."
             },
             "prone": {
-                "name": "Prone",
+                "name": "伏せ/Prone",
                 "rules": "<p>You're lying on the ground. You are off-guard and take a -2 circumstance penalty to attack rolls. The only move actions you can use while you're prone are Crawl and Stand. Standing up ends the prone condition. You can Take Cover while prone to hunker down and gain cover against ranged attacks, even if you don't have an object to get behind, gaining a +4 circumstance bonus to AC against ranged attacks (but you remain off-guard).</p>\n<p>If you would be knocked prone while you're Climbing or Flying, you fall. You can't be knocked prone when Swimming.</p>",
                 "summary": "You're lying on the ground and are easier to attack."
             },
             "quickened": {
-                "name": "Quickened",
+                "name": "加速/Quickened",
                 "rules": "<p>You gain 1 additional action at the start of your turn each round. Many effects that make you quickened specify the types of actions you can use with this additional action. If you become quickened from multiple sources, you can use the extra action you've been granted for any single action allowed by any of the effects that made you quickened. Because quickened has its effect at the start of your turn, you don't immediately gain actions if you become quickened during your turn.</p>",
                 "summary": "You get an extra action each turn."
             },
             "restrained": {
-                "name": "Restrained",
+                "name": "拘束/Restrained",
                 "note": "You can't use any attack or manipulate actions except to attempt to Escape or Force Open your bonds.",
                 "rules": "<p>You're tied up and can barely move, or a creature has you pinned. You have the off-guard and immobilized conditions, and you can't use any actions with the attack or manipulate traits except to attempt to Escape or Force Open your bonds. Restrained overrides grabbed.</p>",
                 "summary": "You're tied up and can't move, or a grappling creature has you pinned."
             },
             "sickened": {
-                "name": "Sickened",
+                "name": "不調/Sickened",
                 "note": "You can't willingly ingest anything—including elixirs and potions—while sickened.",
                 "rules": "<p>You feel ill. Sickened always includes a value. You take a status penalty equal to this value on all your checks and DCs. You can't willingly ingest anything-including elixirs and potions-while sickened.</p>\n<p>You can spend a single action retching in an attempt to recover, which lets you immediately attempt a Fortitude save against the DC of the effect that made you sickened. On a success, you reduce your sickened value by 1 (or by 2 on a critical success).</p>",
                 "summary": "You're sick to your stomach."
             },
             "slowed": {
-                "name": "Slowed",
+                "name": "減速/Slowed",
                 "rules": "<p>You have fewer actions. Slowed always includes a value. When you regain your actions at the start of your turn, reduce the number of actions you regain by your slowed value. Because slowed has its effect at the start of your turn, you don't immediately lose actions if you become slowed during your turn.</p>",
                 "summary": "You lose actions each turn."
             },
             "stunned": {
-                "name": "Stunned",
+                "name": "朦朧/Stunned",
                 "rules": "<p>You've become senseless. You can't act while stunned. Stunned usually includes a value, which indicates how many total actions you lose, possibly over multiple turns, from being stunned. Each time you regain actions (such as at the start of your turn), reduce the number you regain by your stunned value, then reduce your stunned value by the number of actions you lost. For example, if you were stunned 4, you would lose all 3 of your actions on your turn, reducing you to stunned 1; on your next turn, you would lose 1 more action, and then be able to use your remaining 2 actions normally. Stunned might also have a duration instead of a value, such as \"stunned for 1 minute.\" In this case, you lose all your actions for the listed duration.</p>\n<p>Stunned overrides slowed. If the duration of your stunned condition ends while you are slowed, you count the actions lost to the stunned condition toward those lost to being slowed. So, if you were stunned 1 and slowed 2 at the beginning of your turn, you would lose 1 action from stunned, and then lose only 1 additional action by being slowed, so you would still have 1 action remaining to use that turn.</p>",
                 "summary": "You can't use actions."
             },
             "stupefied": {
-                "name": "Stupefied",
+                "name": "混濁/Stupefied",
                 "note": "Any time you attempt to @UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Cast a Spell} while stupefied, the spell is disrupted unless you succeed at a @Check[flat|dc:resolve(5+@actor.conditions.stupefied.value)|name:Stupefied|showDC:all].",
                 "rules": "<p>Your thoughts and instincts are clouded. Stupefied always includes a value. You take a status penalty equal to this value on Intelligence-, Wisdom-, and Charisma-based checks and DCs, including Will saving throws, spell attack rolls, spell DCs, and skill checks that use these attribute modifiers. Any time you attempt to Cast a Spell while stupefied, the spell is disrupted unless you succeed at a flat check with a DC equal to 5 + your stupefied value.</p>",
                 "summary": "You can't access your full mental faculties, and you have trouble casting spells."
             },
             "unconscious": {
-                "name": "Unconscious",
+                "name": "気絶/Unconscious",
                 "rules": "<p>You're sleeping, or you've been knocked out. You can't act. You take a -4 status penalty to AC, Perception, and Reflex saves, and you have the blinded and off-guard conditions. When you gain this condition, you fall prone and drop items you are wielding or holding unless the effect states otherwise or the GM determines you're in a position in which you wouldn't.</p>\n<p>If you're unconscious because you're dying, you can't wake up while you have 0 Hit Points. If you are restored to 1 Hit Point or more via healing, you lose the dying and unconscious conditions and can act normally on your next turn.</p>\n<p>If you are unconscious and at 0 Hit Points, but not dying, you naturally return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you receive healing during this time, you lose the unconscious condition and can act normally on your next turn.</p>\n<p>If you're unconscious and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways. Each causes you to lose the unconscious condition.</p><ul><li>You take damage, provided the damage doesn't reduce you to 0 Hit Points. If the damage reduces you to 0 Hit Points, you remain unconscious and gain the dying condition as normal.</li><li>You receive healing, other than the natural healing you get from resting.</li><li>Someone shakes you awake with an Interact action.</li><li>There's loud noise going on around you-though this isn't automatic. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. If creatures are attempting to stay quiet around you, this Perception check uses their Stealth DCs. Some magical effects make you sleep so deeply that they don't allow you to attempt this Perception check.</li><li>If you are simply asleep, the GM decides you wake up either because you have had a restful night's sleep or something disrupted that rest.</ul>",
                 "summary": "You're asleep or knocked out."
             },
             "undetected": {
-                "name": "Undetected",
+                "name": "未探知/Undetected",
                 "rules": "<p>When you are undetected by a creature, that creature cannot see you at all, has no idea what space you occupy, and can't target you, though you still can be affected by abilities that target an area. When you're undetected by a creature, that creature is off-guard to you.</p>\n<p>A creature you're undetected by can guess which square you're in to try targeting you. It must pick a square and attempt an attack. This works like targeting a hidden creature (requiring a @Check[flat|dc:11|name:Undetected|traits:secret|showDC:all]), but the flat check and attack roll are rolled in secret by the GM, who doesn't reveal whether the attack missed due to failing the flat check, failing the attack roll, or choosing the wrong square.</p>\n<p>A creature can use the Seek action to try to find you.</p>",
                 "summary": "A creature you're undetected by doesn't know where you are."
             },
             "unfriendly": {
-                "name": "Unfriendly",
+                "name": "非友好的/Unfriendly",
                 "rules": "<p>This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose these conditions on player characters. A creature that is unfriendly to a character dislikes and specifically distrusts that character. The unfriendly creature won't accept Requests from the character.</p>",
                 "summary": "An NPC with this condition doesn't like you."
             },
             "unnoticed": {
-                "name": "Unnoticed",
+                "name": "気が付かれていない/Unnoticed",
                 "rules": "<p>If you are unnoticed by a creature, that creature has no idea you are present at all. When you're unnoticed, you're also undetected by the creature. This condition matters for abilities that can be used only against targets totally unaware of your presence.</p>",
                 "summary": "A creature is entirely unaware you're present."
             },
             "wounded": {
-                "name": "Wounded",
+                "name": "負傷/Wounded",
                 "rules": "<p>You have been seriously injured. If you lose the dying condition and do not already have the wounded condition, you become wounded 1. If you already have the wounded condition when you lose the dying condition, your wounded condition value increases by 1. If you gain the dying condition while wounded, increase your dying condition value by your wounded value.</p>\n<p>The wounded condition ends if someone successfully restores Hit Points to you with Treat Wounds, or if you are restored to full Hit Points and rest for 10 minutes.</p>",
                 "summary": "You've been brought back from the brink of death but haven't fully recovered."
             }
         },
         "identification": {
             "DisplayDetails": "Display Details",
-            "Identified": "Identified",
+            "Identified": "識別済み",
             "Identify": "Identify Item",
             "IdentifyAlchemyDCs": "Identify Alchemy DCs",
             "IdentifyGenericDCs": "Identify Generic DCs",
             "IdentifyMagicDCs": "Identify Magic DCs",
-            "IsIdentified": "Identified?",
+            "IsIdentified": "識別済み？",
             "MisidentifiedItem": "Misidentified {item}",
             "Misidentify": "Misidentify Item",
             "MystificationStatus": "Mystification status",
@@ -6665,36 +6665,36 @@
             "PostSkillsToChat": "Post skill checks to chat",
             "PostSkillsToChatText": "Identify item: Skill checks",
             "TraitGMNote": "Note: this trait is hidden from players.",
-            "Unidentified": "Unidentified",
+            "Unidentified": "未識別",
             "UnidentifiedDescription": "The nature of this {item} is unclear.",
             "UnidentifiedHint": "Change the basic details seen by players when this item is unidentified.",
             "UnidentifiedItem": "Unusual {item}",
             "UnidentifiedType": {
-                "Amulet": "Amulet",
-                "Anklets": "Anklets",
-                "Armbands": "Armbands",
-                "Backpack": "Backpack",
-                "Belt": "Belt",
-                "Book": "Book",
-                "Bracers": "Bracers",
-                "Circlet": "Circlet",
-                "Cloak": "Cloak",
-                "Collar": "Collar",
-                "Epaulets": "Epaulets",
-                "Eyepiece": "Eyepiece",
-                "Garment": "Garment",
-                "Gloves": "Gloves",
-                "Headwear": "Headwear",
-                "Horseshoes": "Horseshoes",
-                "Liquid": "Liquid",
-                "Mask": "Mask",
-                "Necklace": "Necklace",
-                "Object": "Object",
-                "Ring": "Ring",
-                "Saddle": "Saddle",
-                "Shoes": "Shoes",
-                "Substance": "Substance",
-                "Tool": "Tool"
+                "Amulet": "アミュレット",
+                "Anklets": "アンクレット",
+                "Armbands": "アームバンド",
+                "Backpack": "バックパック",
+                "Belt": "ベルト",
+                "Book": "本",
+                "Bracers": "ブレイサー",
+                "Circlet": "サークレット",
+                "Cloak": "クローク",
+                "Collar": "首輪",
+                "Epaulets": "エポレット",
+                "Eyepiece": "アイピース",
+                "Garment": "衣服",
+                "Gloves": "手袋",
+                "Headwear": "頭部装備",
+                "Horseshoes": "蹄鉄",
+                "Liquid": "液体",
+                "Mask": "仮面",
+                "Necklace": "ネックレス",
+                "Object": "物体",
+                "Ring": "指輪",
+                "Saddle": "鞍",
+                "Shoes": "靴",
+                "Substance": "物質",
+                "Tool": "道具"
             }
         },
         "loot": {
@@ -6712,15 +6712,15 @@
             "InsufficientCurrencyError": "Insufficient currency for purchase by {buyer}",
             "InsufficientFundsMessage": "{buyer} reaches for their coins but comes up short!",
             "LootDescription": "Allows for distribution of coins across players",
-            "LootLabel": "Loot",
+            "LootLabel": "戦利品",
             "LootMessage": "{looter} loots {quantity} × {item} off {corpse}.",
             "LootUnknownNPCMessage": "an unidentified creature",
             "LootNPCsLabel": "Loot Selected Tokens",
             "LootNPCsPopupHeader": "Choose tokens to loot from",
-            "LootNamePlaceholder": "Loot",
+            "LootNamePlaceholder": "戦利品",
             "LootSubtitle": "Loot item",
             "MerchantDescription": "Allows players to purchase items directly from the sheet",
-            "MerchantLabel": "Merchant",
+            "MerchantLabel": "商人",
             "MoveLoot": "Move Items",
             "MoveLootPopupTitle": "Item Quantity",
             "PartyStash": "the party stash",
@@ -6728,7 +6728,7 @@
             "PlantMessage": "{planter} plants {quantity} × {item} on {corpse}.",
             "PlantSubtitle": "Plant Item",
             "PurchasePrice": "Purchase Price",
-            "Quantity": "Quantity",
+            "Quantity": "数量",
             "SellMessage": "{seller} sells {quantity} × {item} to {buyer}.",
             "SellSubtitle": "Sell item",
             "SendToPartyStash": "Send to Party Stash",
