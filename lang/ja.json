@@ -614,11 +614,11 @@
                 "Identification": {
                     "Skills": {
                         "Label": "{skills}: DC {dc} ({adjustment})",
-                        "Tooltip": " as shown on the Creature Identification Skills table"
+                        "Tooltip": "\"クリーチャーを識別する際に用いる技能は、通常は『クリーチャー識別技能表』に示されている通り、そのクリーチャーの特性に基づく。ただし、どの技能を適用できるかについては裁量の余地がある。\"\n— Pathfinder GM Core 54–55 ページ"
                     },
                     "Lore": {
                         "Label": "Applicable Lore: DC {dc1} ({adjustment1}) or DC {dc2} ({adjustment2})",
-                        "Tooltip": "\"Using the applicable Lore usually has an easy or very easy DC (before adjusting for rarity).\"\" — Pathfinder GM Core pg. 54\""
+                        "Tooltip": "\"適切な〈伝承/Lore〉を用いる場合、通常はDCが簡単、あるいは非常に簡単になる（レアリティによる調整を行う前）。\"\n— Pathfinder GM Core 54 ページ"
                     }
                 },
                 "LevelN": "Creature {level}",
@@ -672,7 +672,7 @@
                     }
                 },
                 "Languages": "Party Languages",
-                "MembersLabel": "メンバー：",
+                "MembersLabel": "メンバー: ",
                 "NewName": "New Party",
                 "NoMembers": "No Members",
                 "NoSpecialSenses": "No Special Senses",
@@ -709,7 +709,7 @@
             "Resource": {
                 "Focus": "Focus Points",
                 "HeroPoints": "Hero Points",
-                "Investiture": "同調/Investiture（仮",
+                "Investiture": "同調/Investiture(仮",
                 "Resolve": "決意",
                 "MythicPoints": "Mythic Points"
             },
