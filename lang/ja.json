@@ -2704,11 +2704,11 @@
                 "Grade": {
                     "commercial": "商用品",
                     "tactical": "戦術的",
-                    "advanced": "上級",
-                    "superior": "上質",
-                    "elite": "精鋭",
-                    "ultimate": "究極",
-                    "paragon": "模範"
+                    "advanced": "アドヴァンス",
+                    "superior": "スペリオル",
+                    "elite": "エリート",
+                    "ultimate": "アルティメイト",
+                    "paragon": "パラゴン"
                 },
                 "LevelLabel": "Item {level}",
                 "OtherTag": {
@@ -2743,7 +2743,7 @@
                         "circlet": "サークレット",
                         "cloak": "クローク",
                         "clothing": "衣類",
-                        "collar": "首輪",
+                        "collar": "カラー",
                         "crown": "王冠",
                         "epaulet": "エポレット",
                         "eyeglasses": "眼鏡",
@@ -2769,7 +2769,7 @@
                 "Label": "更新",
                 "SourceNotFound": "The compendium source for {item} (source ID: {sourceId}) was not found.",
                 "SubitemFailure": "One or more subitems on {item} ({uuid}) were unable to be refreshed.",
-                "Success": "Item \"{item}\"\" has been refreshed.\"",
+                "Success": "アイテム \"{item}\" が更新されました。",
                 "Tooltip": {
                     "Disabled": "Item cannot be refreshed: contains data stored at time of adding to actor",
                     "Enabled": "Refresh this item's data with the latest from its originating compendium."
@@ -2833,8 +2833,8 @@
                 "Area": "{size}-{unit} {shape}",
                 "BaseValue": "Base: {value}",
                 "Cast": {
-                    "Noun": "詠唱",
-                    "Verb": "詠唱"
+                    "Noun": "キャスト",
+                    "Verb": "キャスト"
                 },
                 "Cost": "コスト",
                 "Counteract": {
@@ -2858,7 +2858,7 @@
                     "Place": "Place {area}",
                     "PlacementTooltip": "<strong>Left-click</strong> to lock the position on the canvas and enable rotation. Click again to place.<br><strong>Right-click</strong> to unlock or cancel.<br>Hold <strong>Shift</strong> to place directly without rotation.<br>Hold <strong>Ctrl</strong> to disable grid snapping while rotating."
                 },
-                "Plural": "呪文",
+                "Plural": "スペル",
                 "Rank": {
                     "Label": "ランク",
                     "Ordinal": "{rank} Rank",
@@ -3062,7 +3062,7 @@
         "LanguagesAdditional": "Additional Languages",
         "LegalNotice": {
             "Title": "Legal Notice",
-            "Text": " endorsed"
+            "Text": "この Foundry Virtual Tabletop 用システムは、Paizo Inc. が所有する商標および著作物を、Paizo の Community Use Policy（<a href=\"https://paizo.com/community/communityuse\" target=\"_blank\">paizo.com/communityuse</a>）に基づいて使用しています。本コンテンツの使用またはアクセスに対して料金を請求することは、明示的に禁止されています。この FoundryVTT 用システムは、Paizo によって公開、承認、または特別に認可されたものではありません。Paizo Inc. および Paizo 製品の詳細については、<a href=\"https://paizo.com/\" target=\"_blank\">paizo.com</a> を参照してください。"
         },
         "Level1": "Level 1",
         "Level10": "Level 10",
