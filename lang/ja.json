@@ -2865,7 +2865,7 @@
                     "Plural": "ランク"
                 },
                 "Ritual": {
-                    "Label": "儀式",
+                    "Label": "リチュアル",
                     "PrimaryCheck": "Primary Check",
                     "SecondaryChecks": "Secondary Checks",
                     "SecondaryCasters": "Secondary Casters"
@@ -2981,7 +2981,7 @@
                         "Greater": "Greater Striking",
                         "Major": "Major Striking",
                         "Mythic": "Mythic Striking",
-                        "Striking": "打撃強化"
+                        "Striking": "ストライキング"
                     }
                 },
                 "SpecificMagicWeapon": {
@@ -3394,7 +3394,7 @@
         "PreciousMaterialDawnsilver": "Dawnsilver",
         "PreciousMaterialDawnsilverDescription": "Dawnsilver is renowned for its lightness, durability, and effectiveness against a range of creatures including devils and lycanthropes. It has the same sheen as silver but a slightly lighter hue. Dawnsilver weapons and armor are treated as if they were silver for the purpose of damaging creatures with weakness to silver. A metal item made of dawnsilver is lighter than one made of iron or steel: the item's Bulk is reduced by 1 (reduced to light Bulk if its normal Bulk is 1, with no effect on an item that normally has light Bulk). The Price of an item made of this material is based on the item's normal Bulk, not its reduced Bulk for being made of dawnsilver, but reduce the Bulk before making any further Bulk adjustments for the size of the item.",
         "PreciousMaterialDjezet": "Djezet",
-        "PreciousMaterialDjezetDescription": " even in its solid",
+        "PreciousMaterialDjezetDescription": "この錆びた赤色金属は常温で液体となるため、熟練した冶金家でなければ加工が難しく、地域によっては\"クイックアイアン\"とも呼ばれている。ジェゼット/Djezet は固体として加工可能な合金状態であっても、魔法に対して非常に高い反応性を示す。魔法の対象になると発光し、ジェゼット合金で作られた物品には深紅の縞状の光が走るため、これを\"タイガーアイアン\"と呼ぶ鍛冶師もいる。呪文の対象になった場合、ジェゼット合金製の物品にはこれらの赤い発光模様が現れる。それは1ラウンド、またはその呪文の持続時間のいずれか長い方の間、持続する。ジェゼットの塊1つには、最大で2回分のジェゼット用量に精製できるだけのジェゼットが含まれている。",
         "PreciousMaterialDragonhide": "Dragonhide",
         "PreciousMaterialDragonhideDescription": "The hide and scales of a dragon can be used to Craft any item normally made of ordinary leather or hide. Dragonhide varies in color from blue to glittering gold, depending on the dragon it came from. Due to the scales' resiliency, it can also be used to Craft armor usually made out of metal plates (such as a breastplate, half plate, and full plate), allowing such armor to be made without metal. Dragonhide objects are immune to one damage type, depending on the type of dragon.",
         "PreciousMaterialDreamweb": "Dreamweb",
@@ -3761,8 +3761,8 @@
                 "Label": "Manage Homebrew Elements",
                 "Languages": {
                     "CommonLanguage": {
-                        "Hint": "Select the language to be referred to as \"Common\"\" in this game world.\"",
-                        "Label": "The \"Common\"\" Language\""
+                        "Hint": "このゲーム世界で「共通語」として扱われる言語を選択してください。",
+                        "Label": "\"共通\"言語"
                     },
                     "Hint": "Languages for characters to know or learn (e.g., Draconic, Gnomish)",
                     "Name": "言語",
@@ -3779,7 +3779,7 @@
                     }
                 },
                 "Name": "Homebrew Elements",
-                "ReservedTerm": "\"{term}\"\" is a reserved term.\"",
+                "ReservedTerm": "\"{term}\"は予約語です。",
                 "ShieldTraits": {
                     "Hint": "Traits that can be applied to shields",
                     "Name": "Shield Traits"
@@ -4027,7 +4027,7 @@
         "Scene": {
             "HearingRange": {
                 "Caveat": "*For performance reasons, the radius is a real measurement rather than a grid-based one.",
-                "Hint": " such as a noisy room\"\" (Pathfinder Player Core pg. 432). Requires rules-based vision to be enabled.\"",
+                "Hint": "このシーンでクリーチャーが聞き取れる距離*を制限する。これは \"うるさい部屋のように感覚を歪める環境\" を表すもの（Pathfinder Player Core 432ページ）。ルール準拠の視覚が有効である必要がある。",
                 "Label": "Hearing Range (ft.)",
                 "Unlimited": "Unlimited"
             },
@@ -4211,7 +4211,7 @@
             "OutOfReach": "{token} is out of reach.",
             "SecretDisposition": {
                 "Label": "Secret Disposition",
-                "Hint": " which displays a purple border for owners and no border or cursor change for all others. A token with this disposition also cannot be targeted by non-owners.\""
+                "Hint": "\"シークレット\" 配置を有効化する。所有者には紫色の枠が表示され、それ以外のユーザーには枠やカーソルの変化は表示されない。この配置のトークンは、所有者以外からは対象にできない。"
             },
             "Size": {
                 "Dimensions": "Dimensions",
@@ -4730,7 +4730,7 @@
         "TraitDescriptionKobold": "A creature with this trait is a member of the kobold ancestry. Kobolds are reptilian humanoids who are usually Small and typically have darkvision.",
         "TraitDescriptionKovintus": "Reclusive humanoids with an inborn talent for geomancy, kovintus have an intrinsic tie to nature and magic alike",
         "TraitDescriptionLaminar": "The armor is made up of layered sections, so when it breaks, it isn't as much of a problem. The status penalty to AC if this armor is broken is –1 for broken medium armor, –2 for broken heavy armor, or no penalty for broken light armor.",
-        "TraitDescriptionLaunching": " except that the hand holding the shield counts toward this total",
+        "TraitDescriptionLaunching": "この盾の内部機構は射出体を発射でき、遠隔武器としても機能する。この特性には武器の種別が記載されており、例として \"ランチング・ダート/launching dart\" が挙げられる。ランチャーでストライクする際に必要な手の数は通常どおりだが、盾を保持している手もその合計に含まれるため、片手用の遠隔武器であれば必要な手は1つだけでよい。再装填には通常どおり〈操作〉アクションを必要とし、最低でも1アクションを要する。また、盾を保持している手を再装填に使用することはできない。",
         "TraitDescriptionLeshy": "A creature with this trait is a member of the leshy ancestry. These small plant or fungus creatures are humanoid in form.",
         "TraitDescriptionLight": "Light effects overcome non-magical darkness in the area, and can counteract magical darkness. You must usually target darkness magic with your light magic directly to counteract the darkness, but some light spells automatically attempt to counteract darkness.",
         "TraitDescriptionLineage": "A feat with this trait indicates a character's descendance from a particular type of creature. You can have only one lineage feat. You can select a lineage feat only at 1st level, and you can't retrain into or out of these feats.",
@@ -4753,7 +4753,7 @@
         "TraitDescriptionMisfortune": "A misfortune effect detrimentally alters how you roll your dice. You can never have more than one misfortune effect alter a single roll. If multiple misfortune effects would apply, the GM decides which is worse and applies it. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
         "TraitDescriptionMissive": "A missive is a piece of magical stationery that must be crafted and composed before it can be activated. All missives have the missive and consumable traits. Missives are often constructed of paper, parchment, or vellum, but any other thin, portable material that can hold writing or embossing upon it can be crafted into missives. After being crafted, the missive is a blank sheet until a message is composed upon it, completing its magic.",
         "TraitDescriptionModification": "A feat with this trait alters the construction of your innovation. If you have the reconfigure class feature, you can retrain such a feat more easily.",
-        "TraitDescriptionModular": " P",
+        "TraitDescriptionModular": "この武器には複数の形態があり、〈操作〉アクションを使用して切り替えられる。通常、モジュラー武器では形態を切り替えることで与えるダメージ種別を変更できる（特性に記載されており、例として \"modular B, P, or S\" がある）。ただし、モジュラー武器の説明によっては、より複雑な形態が記載されている場合もある。",
         "TraitDescriptionMonitor": "Creatures that hail from or have a strong connection to Axis, the Boneyard, or the Maelstrom are called monitors. Monitors can survive the basic environmental effects of planes in the Outer Sphere.",
         "TraitDescriptionMonk": "Abilities with this trait are from the monk class. A weapon with this trait is primarily used by monks.",
         "TraitDescriptionMonkWeapon": "Many monks learn to use these weapons.",
@@ -4791,7 +4791,7 @@
         "TraitDescriptionParry": "This weapon can be used defensively to block attacks. While wielding this weapon, if your proficiency with it is trained or better, you can spend a single action to position your weapon defensively, gaining a +1 circumstance bonus to AC until the start of your next turn.",
         "TraitDescriptionPeachwood": "Peachwood weapons have a particularly auburn tinge to them when under direct sunlight. Peachwood is treated as duskwood for any undead creatures' resistances or weaknesses related to duskwood (allowing a peachwood weapon to bypass a jiang-shi's resistance, for example). In addition, peachwood weapons bypass a small portion of the resistances of any undead creature. Strikes with a peachwood weapon treat an undead's resistances against physical damage as 2 lower for standard-grade peachwood, and 4 lower for high-grade.",
         "TraitDescriptionPersonaFlirt": "The public perceives you as the most romantic of the group, and you may be thought of as a seducer or vapid pretender who gets by on their looks and brings nothing of value to the party.",
-        "TraitDescriptionPersonaGuardian": "The public perceives you as the healer and protector of the group, but some may also consider you too soft-hearted and meek to be a \"true hero.\"\"\"",
+        "TraitDescriptionPersonaGuardian": "世間はあなたを一団の癒やし手であり守り手として見ているが、一方で \"真の英雄\" と呼ぶには心が優しすぎたり、気弱すぎると考える者もいる。",
         "TraitDescriptionPersonaLeader": "The public perceives you as the leader of the group, but some likewise consider you too brash or even pompous.",
         "TraitDescriptionPersonaScholar": "The public considers you the problem-solver and brains of the group, though some also perceive you as arrogant or incapable of physical tasks.",
         "TraitDescriptionPersonaScoundrel": " but who is at times thought of as a criminal or potential traitor to the party.\"",
