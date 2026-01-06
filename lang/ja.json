@@ -4794,8 +4794,8 @@
         "TraitDescriptionPersonaGuardian": "世間はあなたを一団の癒やし手であり守り手として見ているが、一方で \"真の英雄\" と呼ぶには心が優しすぎたり、気弱すぎると考える者もいる。",
         "TraitDescriptionPersonaLeader": "The public perceives you as the leader of the group, but some likewise consider you too brash or even pompous.",
         "TraitDescriptionPersonaScholar": "The public considers you the problem-solver and brains of the group, though some also perceive you as arrogant or incapable of physical tasks.",
-        "TraitDescriptionPersonaScoundrel": " but who is at times thought of as a criminal or potential traitor to the party.\"",
-        "TraitDescriptionPersonaUnderdog": " but who is sometimes thought of as a weak link or loser.\"",
+        "TraitDescriptionPersonaScoundrel": "世間では、あなたは必要とされる仕事をこなすグループの汚れ役だと思われているが、ときには犯罪者、あるいは仲間を裏切る者、といった存在とみなされることもある。",
+        "TraitDescriptionPersonaUnderdog": "世間では、あなたはグループに巻き込まれた場違いな存在だが、その中で必死に成功を収めてきた人物だと思われている。しかし、頼りない存在、あるいは足手まといだと見なされることもある。",
         "TraitDescriptionPersonaWarrior": "The public believes you are the strong-arm of the group, the person who excels in a fight but is also at times considered cruel, uncouth, or even a bully.",
         "TraitDescriptionPersonaWildcard": "The public perceives you as a source of whimsy, outlandish ideas, and comedy in the group, but that reputation is a double-edged sword, as some also consider you a liability or unreliable.",
         "TraitDescriptionPhantom": "A phantom is soul that has diverged from the River of Souls on the Ethereal Plane before being judged. They typically retain memories of their life before death but are not undead.",
@@ -5559,9 +5559,9 @@
         "UI": {
             "applyDamage": {
                 "by": "by",
-                "damaged": "damaged for",
-                "healed": "healed for",
-                "shieldActive": "and their {shield} gets",
+                "damaged": "ダメージを受けた ",
+                "healed": "回復した ",
+                "shieldActive": "さらに {shield} が ",
                 "shieldInActive": "gets"
             },
             "noDamageInfoForOutcome": "No damage information for outcome {outcome}.",
@@ -6199,7 +6199,7 @@
             "holy": {
                 "Name": "Holy",
                 "Note": {
-                    "criticalSuccess": " healing"
+                    "criticalSuccess": "ホーリー・ヒーリング<span class=\"action-glyph\">R</span>（精神集中、治癒、ヴァイタリティー）</p><p><strong>頻度</strong> 1日1回</p><p><strong>トリガー</strong> この武器で不浄のクリーチャーに対してストライクを行い、クリティカルで成功を収めたとき</p>\n<hr /><p><strong>効果</strong> あなたは、その不浄のクリーチャーのレベルの2倍に等しいHPを回復する。</p>"
                 }
             },
             "hopeful": {
@@ -6322,7 +6322,7 @@
             "vorpal": {
                 "Name": "Vorpal",
                 "Note": {
-                    "criticalSuccess": " death"
+                    "criticalSuccess": "スニッカー・スナック/Snicker-Snack <span class=\"action-glyph\">R</span>（精神集中、死、無力化）</p>\n<p><strong>トリガー</strong> この武器で頭部を持つクリーチャーに対してストライクを行い、出目20を出してクリティカルで成功し、斬撃ダメージを与えたとき</p>\n<hr />\n<p><strong>効果</strong> 対象は @Check[fortitude|dc:37|traits:death,incapacitation|name:Vorpal Rune] セーヴに成功しなければならず、失敗した場合は斬首される。これにより、頭部を必要としないクリーチャーを除いて、あらゆるクリーチャーは死亡する。複数の頭部を持つクリーチャーの場合、通常は最後の頭部を切断したときにのみ、そのクリーチャーは死亡する。</p>"
                 }
             },
             "wounding": {
@@ -6506,7 +6506,7 @@
             },
             "off-guard": {
                 "name": "無防備/Off-Guard",
-                "rules": "<p>You're distracted or otherwise unable to focus your full attention on defense. You take a -2 circumstance penalty to AC. Some effects give you the off-guard condition only to certain creatures or against certain attacks. Others—especially conditions—can make you universally off-guard against everything. If a rule doesn't specify that the condition applies only to certain circumstances, it applies to all of them; for example, many effects simply say \"The target is off-guard.\"\"</p>\"",
+                "rules": "<p>防御に全神経を集中できず、注意が散漫になっている状態。ACに -2 の状況ペナルティを受ける。一部の効果は、特定のクリーチャーに対してのみ、あるいは特定の攻撃に対してのみ、無防備/off-guard状態を与える。別の効果（とくに状態異常）は、あらゆるものに対して普遍的に無防備/off-guardにすることがある。ルールが、その状態が特定の状況にのみ適用されると明示していない場合、それはすべての状況に適用される。たとえば、多くの効果は単に「対象は無防備」とだけ記している。</p>",
                 "summary": "You're unable to defend yourself to your full capability."
             },
             "fleeing": {
@@ -6578,7 +6578,7 @@
             },
             "persistent-damage": {
                 "name": "Persistent Damage",
-                "rules": " where \"\"X\"\" is the amount of damage dealt and \"\"[type]\"\" is the damage type. Instead of taking persistent damage immediately",
+                "rules": "<p>継続ダメージは、酸、炎上、その他さまざまな状況による効果から発生する。これは「X 継続 [type] ダメージ」として表記され、「X」は与えられるダメージ量、「[type]」はダメージ種別を示す。継続ダメージは即座には受けず、その状態を受けているあいだ、自分の各ターンの終了時に受ける。そのたびにダメージ・ダイスをロールし直す。継続ダメージを受けた後、その継続ダメージから回復するかどうかを判定するため、@Check[flat|dc:15] をロールする。成功した場合、この状態は終了する。</p>\n",
                 "summary": "You keep taking damage every round."
             },
             "petrified": {
