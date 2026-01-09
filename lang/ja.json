@@ -150,7 +150,7 @@
                     }
                 },
                 "Attribute": {
-                    "Apex": "Apex Attribute",
+                    "Apex": "重要なアトリビュート",
                     "Boosts": "アトリビュート増強",
                     "Key": "重要なアトリビュート"
                 },
@@ -158,7 +158,7 @@
                     "InputMethod": {
                         "Description": "方式を切り替えると能力修正値の割り振りがリセットされる。",
                         "Manual": "手動で入力",
-                        "Title": "Input Method"
+                        "Title": "入力方法"
                     },
                     "AncestryMissingHelp": "増強を選択するための祖先を選択。",
                     "AlternateBoostsLabel": "代替のブースト",
@@ -173,7 +173,7 @@
                     "Increase": "増加",
                     "KeyIcon": "重要",
                     "LegacyFlaws": "Legacy Flaws",
-                    "Partial": "Partial",
+                    "Partial": "部分的",
                     "NotSelected": "未選択",
                     "Title": "ブーストの割り当て",
                     "VoluntaryFlaw": {
