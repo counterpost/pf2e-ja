@@ -46,7 +46,7 @@
         },
         "AbilityCon": "耐久力",
         "AbilityDex": "敏捷力",
-        "AbilityFlaw": "Flaw",
+        "AbilityFlaw": "欠点",
         "AbilityFree": "フリー",
         "AbilityId": {
             "cha": "Cha",
@@ -577,7 +577,7 @@
                 "BaseWithSource": "{value}フィートの{type}速度（{source}）",
                 "Plural": "移動速度",
                 "Label": "移動速度",
-                "LabelFeet": "Speed (Feet)",
+                "LabelFeet": "移動速度 (Feet)",
                 "Type": {
                     "Burrow": "穴掘り",
                     "Climb": "登攀",
@@ -980,7 +980,7 @@
                         "success": "成功"
                     }
                 },
-                "Label": "Result: <unadjusted>{unadjusted}</unadjusted> <offset>by {offset}</offset>"
+                "Label": "結果: <unadjusted>{unadjusted}</unadjusted> <offset>by {offset}</offset>"
             },
             "SetAsInitiative": "{actor}のイニシアチブとして設定",
             "Specific": {
@@ -1551,7 +1551,7 @@
                     "Label": "付与：<award>{xp} XP</award>",
                     "Tooltip": {
                         "Four": "パーティーメンバー4人",
-                        "Plural": "{xpPerFour} × 4 / {recipients} Party Members",
+                        "Plural": "{xpPerFour} × 4 / {recipients} パーティーメンバー",
                         "Singular": "パーティーメンバー1人"
                     }
                 },
@@ -2927,9 +2927,9 @@
                     "Hint": "この武器を弾薬として別の武器に装填できることを示す。"
                 },
                 "CriticalSpecialization": {
-                    "axe": "Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its <em>striking rune</em>, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage.",
+                    "axe": "初期目標に隣接し、かつ自分の間合い内にいるクリーチャーを1体選ぶ。そのACが、このクリティカル・ヒットにおける自分の攻撃ロール結果より低い場合、そのクリーチャーに対して、自分がロールした武器ダメージ・ダイスの結果に等しいダメージを与える（該当する場合、その <em>ストライキング・ルーン/striking rune</em> による追加ダイスを含む）。このダメージ量は倍加されず、ボーナスやその他の追加ダイスはいずれも適用されない。",
                     "bomb": "爆弾のスプラッシュ・ダメージの半径 (存在する場合) を10フィートに増加させる。",
-                    "bow": "If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} and must spend an Interact action to attempt a @Check[athletics|dc:10|name:Pull the Missile Free|showDC:all] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid, or could otherwise escape without effort (such as by being large enough that the missile would not be an impediment.)",
+                    "bow": "クリティカル・ヒットの目標が、壁や地面などの動かない構造物に隣接している場合、その目標は射出物によってその構造物に固定される。目標は @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} となり、射出物を引き抜くためにインタラクト・アクションを消費して @Check[athletics|dc:10|name:Pull the Missile Free|showDC:all] 判定を試みなければならない；成功するまで、そのクリーチャーは自分のマスから移動できない。対象が非実体である場合、液体である場合、あるいは労せずして脱出できる存在である場合（たとえば、射出物が障害にならないほど十分に巨大である場合など）には、この固定は発生しない。",
                     "brawling": "目標は、あなたのクラスDCに対する @Check[fortitude|against:class|name:Brawling Critical Specialization] セーヴに成功しなければ、次のあなたのターン終了時まで @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} になる。",
                     "club": "あなたは、選んだ方向へ一直線に、目標を最大10フィートあなたから離す。これは強制移動だ。",
                     "firearm": "目標は、あなたのクラスDCに対する @Check[fortitude|against:class|name:Firearm Critical Specialization] セーヴに成功しなければ @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} になる。",
@@ -3214,7 +3214,7 @@
                     "NegativeHealing": "<p>虚無治癒を持つクリーチャーは、生命力エネルギーではなく虚無エネルギーから健康を得る。生命力ダメージを受け、生命力治癒効果では回復しない。虚無ダメージを受けることはなく、アンデッドを回復する虚無効果によって回復する。</p>",
                     "Poison": "<p>クリーチャーがモンスターの毒にさらされると、毒状態になるのを防ぐために頑健セーヴを行う。毒のレベルは、その毒を与えたモンスターのレベルに等しい。この毒は苦難のルールに従う。</p>",
                     "PowerAttack": "<p><strong>Frequency</strong> once per round</p>\n<hr />\n<p><strong>Effect</strong> The monster makes a melee Strike. This counts as two attacks when calculating the monster's multiple attack penalty. If this Strike hits, the monster deals an extra die of weapon damage.</p>",
-                    "Pull": "<p><strong>Requirements</strong> The monster's last action was a success with a Strike that lists Pull in its damage entry</p><hr /><p><strong>Effect</strong> The monster attempts to @UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{Reposition} the creature, moving it closer to the monster. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Pull lists a distance, change the distance the creature is pulled on a success to that distance.</p>",
+                    "Pull": "<p><strong>Requirements</strong> モンスターの直前のアクションが、「Pull」をダメージ欄に記載したストライクの成功であること</p>\n<hr />\n<p><strong>Effect</strong> モンスターは、そのクリーチャーを自分に近づくように動かすため、@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{Reposition} を試みる。この試みは、モンスターの複数攻撃ペナルティを適用せず、またそれに加算もされない。Pull に距離が記載されている場合、成功時にクリーチャーが引き寄せられる距離をその距離に変更する。</p>",
                     "Push": "<p><strong>要件</strong> モンスターの直前のアクションが、ダメージ欄に Push を記載したストライクの成功である</p><hr /><p><strong>効果</strong> モンスターはそのクリーチャーに対して [[/act shove]] を試みる。この試行はモンスターの複数回攻撃ペナルティを適用も加算もされない。Push に距離が記載されている場合、成功時にクリーチャーが押しやられる距離をその距離に変更する。</p>",
                     "ReactiveStrike": "<p><strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>\n<hr />\n<p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>",
                     "Regeneration": "<p>This monster regains the listed number of Hit Points each round at the beginning of its turn. Its @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying} condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4.</p>",
@@ -3744,7 +3744,7 @@
                 "DamageTypes": {
                     "Add": "ダメージ種別を追加",
                     "Hint": "システムが認識する追加ダメージ種別",
-                    "Icon": "Icon (Font Awesome)",
+                    "Icon": "アイコン (Font Awesome)",
                     "Name": "カスタム・ダメージ種別",
                     "Label": "ラベル"
                 },
@@ -5554,7 +5554,7 @@
         "TrickMagicItemPopup": {
             "InvalidActor": "キャラクターまたはNPCのみがトリック・マジック・アイテムを使用できる。",
             "Label": "トリック・マジック・アイテムに使用する技能を選択。",
-            "Title": "Trick Magic Item"
+            "Title": "トリックマジックアイテム"
         },
         "UI": {
             "applyDamage": {
@@ -6395,8 +6395,8 @@
                 "AddOneRound": "1ラウンド",
                 "AddOneWeek": "1週間",
                 "AddTenMinutes": "10分",
-                "Advance": "Advance",
-                "Retract": "Retract",
+                "Advance": "前へ",
+                "Retract": "停止",
                 "TimeOfDay": {
                     "Advance": {
                         "Dawn": "夜明けへ進める",
@@ -6784,22 +6784,22 @@
         "MOVEMENT": {
             "ACTIONS": {
                 "deploy": {
-                    "label": "Deploy"
+                    "label": "配置"
                 },
                 "drive": {
-                    "label": "Drive"
+                    "label": "ドライブ"
                 },
                 "jump": {
-                    "label": "Leap"
+                    "label": "跳躍"
                 },
                 "travel": {
-                    "label": "Travel"
+                    "label": "旅"
                 },
                 "walk": {
-                    "label": "Stride"
+                    "label": "ストライド"
                 },
                 "blink": {
-                    "label": "Teleport"
+                    "label": "テレポート"
                 }
             }
         }
