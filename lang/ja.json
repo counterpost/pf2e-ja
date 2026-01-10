@@ -84,9 +84,9 @@
                     "Frequencies": "アクション使用回数が更新された。",
                     "HitPoints": "{hitPoints}ヒット・ポイントが回復した。",
                     "HitPointsSingle": "{hitPoints}ヒット・ポイントが回復した。",
-                    "InfusedReagents": "注入試薬が回復した。",
+                    "InfusedReagents": "インフューズド・リエージェントが回復した。",
                     "Resolve": "レゾルブが回復した。",
-                    "Resource": "{name}が回復した.",
+                    "Resource": "{name}が回復した。",
                     "SpellSlots": "すべてのスペルスロットが回復した。",
                     "StaminaPoints": "スタミナ・ポイントが回復した。",
                     "TemporaryItems": "一時的なアイテムの効果が切れた。",
@@ -95,9 +95,9 @@
                 "Prompt": "夜間休息しますか？"
             },
             "Strike": {
-                "MeleeLabel": "近接ストライク：{weapon}",
+                "MeleeLabel": "メレー・ストライク：{weapon}",
                 "OutOfRange": "目標が射程外。",
-                "RangedLabel": "遠隔ストライク：{weapon}"
+                "RangedLabel": "レンジド・ストライク：{weapon}"
             }
         },
         "ActionActionTypeLabel": "アクションの種類",
@@ -115,22 +115,22 @@
         "ActionsActionsHeader": "アクション",
         "ActionsFreeActionsHeader": "フリー・アクション",
         "ActionsReactionsHeader": "リアクション",
-        "ActionWithDC": "{label}（DC {dc}）",
+        "ActionWithDC": "{label} (DC {dc})",
         "Actor": {
             "ApplyDamage": {
                 "AtFullHealth": "<actor>{actor}</actor>はすでに全回復している。",
                 "DamagedForN": "<actor>{actor}</actor>は{hpDamage}ダメージを受けた。",
-                "DamagedForNShield": "<actor>{actor}</actor> の盾が {absorbedDamage} ダメージを吸収し、さらに {hpDamage} が通過した。",
+                "DamagedForNShield": "<actor>{actor}</actor> の盾が {absorbedDamage} ダメージを軽減し、さらに {hpDamage} が通過した。",
                 "HealedForN": "<actor>{actor}</actor>は{hpDamage}回復した。",
                 "InstantDeath": {
-                    "DeathEffect": "死亡効果により即死する。",
+                    "DeathEffect": "即死効果により死亡する。",
                     "Destroyed": "それらは破壊された。",
-                    "FinePowder": "彼らは微細な粉末となる; 装備品は残る。",
-                    "MassiveDamage": "甚大ダメージにより即死する。"
+                    "FinePowder": "彼らは装備品を残して細かな塵となる。",
+                    "MassiveDamage": "甚大なダメージにより死亡する。"
                 },
-                "ShieldAbsorbsAll": "<actor>{actor}</actor> は無傷で、盾が {absorbedDamage} ダメージを完全に吸収した。",
+                "ShieldAbsorbsAll": "<actor>{actor}</actor> は無傷だ。盾が {absorbedDamage} ダメージを完全に吸収した。",
                 "ShieldDamagedForN": "盾も{shieldDamage}ダメージを受ける。",
-                "ShieldDamagedForNBroken": "盾も {shieldDamage} ダメージを受け、破壊状態になる。",
+                "ShieldDamagedForNBroken": "盾も {shieldDamage} ダメージを受け、破損状態になる。",
                 "ShieldDamagedForNDestroyed": "盾も {shieldDamage} ダメージを受け、破壊状態になる。",
                 "ShieldNotRaised": "{actor}は盾を構えていない。",
                 "TakesNoDamage": "<actor>{actor}</actor>はダメージを受けなかった。",
@@ -156,17 +156,17 @@
                 },
                 "AttributeBuilder": {
                     "InputMethod": {
-                        "Description": "方式を切り替えると能力修正値の割り振りがリセットされる。",
+                        "Description": "方式を切り替えるとアトリビュート修正値の割り振りがリセットされる。",
                         "Manual": "手動で入力",
                         "Title": "入力方法"
                     },
                     "AncestryMissingHelp": "増強を選択するための祖先を選択。",
                     "AlternateBoostsLabel": "代替のブースト",
                     "BackgroundBoostDescription": "2つの増強ボーナス：1つは {a} または {b} でなければならない。",
-                    "BackgroundMissingHelp": "増強を選選択するための背景を選択。",
+                    "BackgroundMissingHelp": "アトリビュート増強を選ぶために背景を選択する。",
                     "Boost": "増強",
                     "Boosts": "増強",
-                    "ClassMissingHelp": "増強を選択するためのクラスを選択。",
+                    "ClassMissingHelp": "アトリビュート増強を選ぶためにクラスを選択する。",
                     "Complete": "完了",
                     "Flaw": "欠点",
                     "Flaws": "欠点",
@@ -177,9 +177,9 @@
                     "NotSelected": "未選択",
                     "Title": "ブーストの割り当て",
                     "VoluntaryFlaw": {
-                        "Description": "高度に欠点のあるキャラクターをロールプレイするために、追加のペナルティを1つ以上受けることができる。",
-                        "LegacyDescription": "これはCRB第4刷まで存在していた任意欠点（Voluntary Flaws）機能だ。旧キャラクターおよびパスファインダー・ソサエティ・プレイの継続的な選択肢として維持されている。",
-                        "Title": "自発的な欠点"
+                        "Description": "大きな欠点を抱えたキャラクターを純粋にロールプレイするため、1つ以上の追加ペナルティを受けてもよい。",
+                        "LegacyDescription": "これはCRB第4刷まで存在していた任意の欠点（Voluntary Flaws）機能だ。旧キャラクターおよびパスファインダー・ソサエティ・プレイの継続的な選択肢として維持されている。",
+                        "Title": "任意の欠点"
                     }
                 },
                 "Active": "有効",
@@ -204,7 +204,7 @@
                 "Clear": "消去",
                 "Configure": {
                     "ShowBasicUnarmed": {
-                        "Hint": "PCは常に、身体の任意の部位を用いた特定されていない素手攻撃を利用できる。プレイヤーが使用する意図がない場合、この攻撃は表示から隠せる。",
+                        "Hint": "PCは常に、身体のどの部分を使ってもよい一般的な素手攻撃を1つ使用できる。プレイヤーがこの攻撃を使用するつもりがない場合、表示しないこともできる。",
                         "Label": "基本的な非武装攻撃を表示"
                     },
                     "Title": "キャラクター設定"
