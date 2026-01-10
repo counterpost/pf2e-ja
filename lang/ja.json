@@ -237,19 +237,19 @@
                     "AncestryHeader": "種族特技",
                     "AncestryFeaturesHeader": "種族特徴",
                     "ArchetypeHeader": "アーキタイプ特技",
-                    "BonusHeader": "ボーナス特技",
-                    "CampaignHeader": "キャンペーン特技",
-                    "ClassHeader": "クラス特技",
-                    "ClassFeaturesHeader": "クラス能力",
-                    "DivineIntercessions": "神格の介入",
-                    "GeneralHeader": "一般特技",
-                    "MythicCallingPlaceholder": "神話の呼び声",
+                    "BonusHeader": "ボーナス・フィート",
+                    "CampaignHeader": "キャンペーン・フィート",
+                    "ClassHeader": "クラス・フィート",
+                    "ClassFeaturesHeader": "クラス・フューチャー",
+                    "DivineIntercessions": "信仰の介入",
+                    "GeneralHeader": "ジェネラル・フィート",
+                    "MythicCallingPlaceholder": "ミシックの呼び声",
                     "MythicCallingShort": "C",
-                    "MythicDestinyPlaceholder": "神話の宿命",
-                    "MythicHeader": "神話級",
-                    "MythicFeatPlaceholder": "神話特技",
+                    "MythicDestinyPlaceholder": "ミシックの宿命",
+                    "MythicHeader": "ミシック",
+                    "MythicFeatPlaceholder": "ミシック・フィート",
                     "MythicTier": "Tier",
-                    "SkillHeader": "技能特技"
+                    "SkillHeader": "スキル・フィート"
                 },
                 "HandsOccupied": "手が塞がっている",
                 "Language": {
@@ -268,11 +268,11 @@
                         "Martial": "軍用武器",
                         "Simple": "単純武器",
                         "Title": "攻撃",
-                        "Unarmed": "非武装攻撃"
+                        "Unarmed": "素手攻撃"
                     },
                     "Defense": {
                         "Heavy": "ヘヴィーアーマー",
-                        "HeavyBarding": "重装バーディング",
+                        "HeavyBarding": "ヘヴィーバーディング",
                         "HeavyShort": "重装",
                         "Light": "ライトアーマー",
                         "LightBarding": "ライトバーディング",
@@ -472,8 +472,8 @@
                         "Vision": "視覚",
                         "Wavesense": "波動感知"
                     },
-                    "WithAcuity": "{sense}（{acuity}）",
-                    "WithAcuityAndRange": "{sense}（{acuity}） {range}フィート",
+                    "WithAcuity": "{sense} ({acuity})",
+                    "WithAcuityAndRange": "{sense} ({acuity}) {range} フィート",
                     "WithRange": "{sense} {range}フィート"
                 },
                 "Shield": {
@@ -489,22 +489,22 @@
                     }
                 },
                 "SpellPreparation": {
-                    "Hint": "呪文を準備するには、このリストから1つをアクター・シートのスロットへドラッグする。",
-                    "HintFlexible": "呪文を準備するには、ここで有効化する。初級呪文を準備するには、このリストからアクター・シートのスロットへドラッグする。",
+                    "Hint": "スペルを準備するには、このリストから1つをアクター・シートのスロットへドラッグする。",
+                    "HintFlexible": "スペルを準備するには、ここで有効化する。キャントリップ・スペルを準備するには、このリストからアクター・シートのスロットへドラッグする。",
                     "Search": "スペルを検索",
-                    "Title": "{actor}：呪文準備"
+                    "Title": "{actor}：スペル準備"
                 },
                 "Spellcasting": {
                     "Cantrips": "キャントリップ",
                     "DC": "スペルDC",
                     "InvalidProficiency": "無効",
-                    "Label": "呪文攻撃修正値＆DC",
-                    "MagicItemTypesLabel": "魔法アイテム種別",
+                    "Label": "スペル攻撃修正値＆DC",
+                    "MagicItemTypesLabel": "マジック・アイテム種別",
                     "Rituals": "儀式",
                     "ShortLabel": "スペル詠唱",
                     "TraditionSpellcasting": "{tradition}スペルキャスティング",
                     "ValidItemTypes": {
-                        "All": "すべての魔法アイテム",
+                        "All": "すべてのマジック・アイテム",
                         "Scroll": "スクロールのみ"
                     }
                 }
