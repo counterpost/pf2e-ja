@@ -85,9 +85,9 @@
                     "HitPoints": "{hitPoints}ヒット・ポイントが回復した。",
                     "HitPointsSingle": "{hitPoints}ヒット・ポイントが回復した。",
                     "InfusedReagents": "注入試薬が回復した。",
-                    "Resolve": "気力が回復した.",
+                    "Resolve": "レゾルブが回復した。",
                     "Resource": "{name}が回復した.",
-                    "SpellSlots": "すべての呪文スロットが回復した。",
+                    "SpellSlots": "すべてのスペルスロットが回復した。",
                     "StaminaPoints": "スタミナ・ポイントが回復した。",
                     "TemporaryItems": "一時的なアイテムの効果が切れた。",
                     "WandsCharges": "ワンドがリチャージされた。"
