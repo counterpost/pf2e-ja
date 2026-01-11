@@ -530,7 +530,7 @@
                     "Title": "音を鳴らす？",
                     "True": "常時"
                 },
-                "Level": "障害 {level}",
+                "Level": "ハザード {level}",
                 "Plural": "障害",
                 "Simple": "単純",
                 "TitleEdit": "{name} (編集モード)"
