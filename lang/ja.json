@@ -515,7 +515,7 @@
                 "MinimumAttributeModifier": "最小能力値修正値",
                 "NoAttribute": "なし（ペット）",
                 "Master": {
-                    "ArmorClass": "マスター・アーマー・クラス",
+                    "ArmorClass": "マスターのアーマー・クラス",
                     "Perception": "マスターの知覚"
                 }
             },
@@ -540,7 +540,7 @@
             },
             "Inventory": {
                 "CarryType": {
-                    "OpenMenu": "携行種別を変更"
+                    "OpenMenu": "運搬の種別を変更"
                 },
                 "DistributeCoins": "コインを分配",
                 "Encumbrance": "過重",
@@ -573,8 +573,8 @@
                 "Type": "種別"
             },
             "Speed": {
-                "BaseLabel": "{value}フィートの{type}速度",
-                "BaseWithSource": "{value}フィートの{type}速度（{source}）",
+                "BaseLabel": "{value}フィートの{type}移動速度",
+                "BaseWithSource": "{value}フィートの{type}移動速度（{source}）",
                 "Plural": "移動速度",
                 "Label": "移動速度",
                 "LabelFeet": "移動速度 (Feet)",
@@ -594,8 +594,8 @@
                 },
                 "Configure": {
                     "Lootable": {
-                        "DefaultLootable": "グローバル既定（略奪可能）",
-                        "DefaultNotLootable": "グローバル既定（略奪不可）",
+                        "DefaultLootable": "全体既定（戦利品化可能）",
+                        "DefaultNotLootable": "全体既定（戦利品化不可）",
                         "Hint": "このNPCが死亡した際にプレイヤーが略奪可能になるかを設定する。グローバル既定値は <a>Automation Settings</a> で設定できる。",
                         "Label": "戦利品化可能？",
                         "Lootable": "戦利品化可能",
@@ -629,7 +629,7 @@
                     "Error": {
                         "PredicateArray": "述語は配列でなければならない"
                     },
-                    "LorePlaceholder": "大工伝承",
+                    "LorePlaceholder": "カーペントリー伝承",
                     "Note": "注記",
                     "Predicate": "条件",
                     "Special": "特殊",
@@ -642,7 +642,7 @@
                     "AdjustDifficulty": "難易度を調整",
                     "ChooseLores": "伝承を選択",
                     "ChooseSaves": "セーヴを選択",
-                    "ChooseSkills": "技能／知覚を選択",
+                    "ChooseSkills": "スキル／パーセプションを選択",
                     "LevelDC": "レベル・ベースDC",
                     "Post": "プロンプトを生成",
                     "PromptTitle": "プロンプト名",
