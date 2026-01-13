@@ -2958,7 +2958,7 @@
                     "Title": "素材構成とルーン"
                 },
                 "MeleeUsage": {
-                    "Hint": "A combination weapon has a firearm form or usage and a melee weapon form or usage. Switching between the melee weapon usage and the firearm usage requires an Interact action. However, if your last action was a successful melee Strike against a foe using a combination weapon, you can make a firearm Strike with the combination weapon against that foe without fully switching to the firearm usage, firing the firearm just as you hit with the melee attack. In this case, the combination weapon returns to its melee usage after the firearm Strike.",
+                    "Hint": "コンビネーション武器/Combination Weapon は、銃器としての形態または使用法と、近接武器としての形態または使用法の両方を持つ。\n近接武器使用と銃器使用を切り替えるには、通常は《操作/Interact》アクションが必要となる。\n\nただし、直前のアクションが、コンビネーション武器を用いた敵に対する近接ストライクに成功していた場合、その敵に対して、完全に銃器使用へ切り替えることなく、同じコンビネーション武器で銃器ストライクを行うことができる。これは、近接攻撃を命中させた瞬間に銃を発射するような形で行われる。\n\nこの場合、銃器ストライクの後、コンビネーション武器は自動的に近接武器使用へ戻る。",
                     "Label": "近接使用"
                 },
                 "NoRangeMelee": "なし（近接）",
@@ -3181,8 +3181,8 @@
         "NPC": {
             "Abilities": {
                 "Glossary": {
-                    "AllAroundVision": "<p>This monster can see in all directions simultaneously and therefore can't be flanked.</p>",
-                    "AquaticAmbush": "<p><strong>Requirements</strong> The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet.</p>\n<hr />\n<p><strong>Effect</strong> The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} against this Strike.</p>",
+                    "AllAroundVision": "<p>このモンスターはすべての方向を同時に見ることができる。よって挟撃されない。</p>",
+                    "AquaticAmbush": "<p><strong>要件</strong> モンスターは水中に隠れており、まだそれを探知していないクリーチャーが、記載されている距離以内にいる。</p>\n<hr />\n<p><strong>効果</strong> モンスターは、トリガーとなったクリーチャーに向かって、水泳速度＋10フィートまで移動する。この移動は水上および地上のいずれも通過できる。そのクリーチャーが間合い内に入れば、モンスターはそのクリーチャーに対してストライクを行う。このストライクに対し、対象のクリーチャーは @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} となる。</p>\n",
                     "AtWillSpells": "<p>このモンスターは、呪文スロットを消費せずに随意呪文を何度でも発動できる。</p>",
                     "AttackOfOpportunity": "<p><strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>\n<hr />\n<p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>",
                     "Aura": "<p>A monster's aura automatically affects everything within a specified emanation around that monster. The monster doesn't need to spend actions on the aura; rather, the aura's effects are applied at specific times, such as when a creature ends its turn in the aura or when creatures enter the aura.</p>\n<p>If an aura does nothing but deal damage, its entry lists only the radius, damage, and saving throw. Such auras deal this damage to a creature when the creature enters the aura and when a creature starts its turn in the aura. A creature can take damage from the aura only once per round.</p>\n<p>The GM might determine that a monster's aura doesn't affect its own allies. For example, a creature might be immune to a monster's frightful presence if they have been around each other for a long time.</p>",
