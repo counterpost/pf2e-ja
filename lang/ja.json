@@ -407,7 +407,7 @@
                     "shae": "シェイ語",
                     "shisk": "シスク語",
                     "shoanti": "ショアンティ語",
-                    "shobhad": "シューニー語",
+                    "shobhad": "ショバード語",
                     "shoony": "シューニー語",
                     "shory": "ショーリー語",
                     "skald": "スカルド語",
@@ -647,7 +647,7 @@
                     "Post": "プロンプトを生成",
                     "PromptTitle": "プロンプト名",
                     "SecretCheck": "シークレット判定",
-                    "SetDC": "DCを設定",
+                    "SetDC": "DC設定",
                     "SimpleDC": "簡易DC",
                     "SkillsPerception": "スキル/〈知覚〉",
                     "Title": "判定プロンプトを生成",
@@ -656,7 +656,7 @@
                 "Coin": "コイン",
                 "ClearActivities": {
                     "Label": "消去",
-                    "Complete": "パーティーの探索活動はクリアされた"
+                    "Complete": "パーティーの探索活動は完了した"
                 },
                 "ClownCar": {
                     "Deposit": "PCトークンを預ける",
