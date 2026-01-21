@@ -667,8 +667,8 @@
                     "Hint": "キャンペーンデータが無効",
                     "Title": "無効なキャンペーン（{party}）",
                     "Message": {
-                        "mismatch": "このパーティは {current} 型のキャンペーン・データを持っているが、設定されている型は {campaignType} だ。既存のキャンペーン・データを削除する？",
-                        "error": "このパーティのキャンペーン・データ（{current}）は破損しており、データ準備に失敗した。既存のキャンペーン・データを削除する？"
+                        "mismatch": "このパーティには {current} タイプのキャンペーン・データが存在していますが、現在の設定タイプは {campaignType} です。既存のキャンペーン・データを削除しますか？",
+                        "error": "このパーティのキャンペーン・データ（{current}）は破損しており、データ準備に失敗しました。既存のキャンペーン・データを削除しますか？"
                     }
                 },
                 "Languages": "パーティー言語",
@@ -711,7 +711,7 @@
                 "HeroPoints": "ヒーロー・ポイント",
                 "Investiture": "同調/Investiture(仮",
                 "Resolve": "決意",
-                "MythicPoints": "神話ポイント"
+                "MythicPoints": "ミシック・ポイント"
             },
             "Resources": "リソース",
             "ResourceRatio": "{value}/{max} {resource}",
@@ -745,9 +745,9 @@
         "AdditionalSkills": "追加技能",
         "Age": "年齢",
         "AllSavesLabel": "全セーヴ",
-        "AncestryFeatLevels": "祖先特技レベル",
+        "AncestryFeatLevels": "アンセストラル・フィートレベル",
         "AncestryFeatures": "種族特徴",
-        "AncestryHP": "祖先HP",
+        "AncestryHP": "アンセストリーHP",
         "Area": {
             "InFeet": "範囲（フィート）",
             "Label": "範囲",
@@ -772,7 +772,7 @@
         "ArmorClassBase": "基本アーマー・クラス 10",
         "ArmorClassLabel": "アーマー・クラス",
         "ArmorClassShortLabel": "AC",
-        "ArmorDexLabel": "【敏捷】修正上限",
+        "ArmorDexLabel": "敏捷力修正上限",
         "ArmorGreaterResilientRune": "グレーター・レジリエント",
         "ArmorGroupChain": "鎖",
         "ArmorGroupCloth": "布",
@@ -849,17 +849,17 @@
         "ArmorPropertyRuneWinged": "ウィングド",
         "ArmorResilientRune": "レジリエント",
         "ArmorSpeedLabel": "移動ペナルティ",
-        "ArmorStrengthLabel": "筋力要件",
+        "ArmorStrengthLabel": "筋力要求値",
         "ArmorTypeHeavy": "ヘヴィーアーマー",
         "ArmorTypeLight": "ライトアーマー",
         "ArmorTypeMedium": "ミディアムアーマー",
         "ArmorTypeUnarmored": "鎧なし",
         "AttackEffectConstrict": "拘束",
         "AttackEffectGrab": "つかみ",
-        "AttackEffectGreaterConstrict": "強化締め付け",
-        "AttackEffectImprovedGrab": "強化つかみ",
-        "AttackEffectImprovedKnockdown": "強化ノックダウン",
-        "AttackEffectImprovedPush": "強化プッシュ",
+        "AttackEffectGreaterConstrict": "インプルーブ・コンストリクト",
+        "AttackEffectImprovedGrab": "インプルーブ・グラブ",
+        "AttackEffectImprovedKnockdown": "インプルーブ・ノックダウン",
+        "AttackEffectImprovedPush": "インプルーブ・プッシュ",
         "AttackEffectKnockdown": "打ち倒し",
         "AttackEffectPush": "押し出し",
         "AttackEffectTrip": "足払い",
@@ -873,14 +873,14 @@
             "Unfriendly": "非友好的"
         },
         "AutomaticBonusProgression": {
-            "attackPotency": "攻撃効力",
-            "defensePotency": "防御効力",
+            "attackPotency": "アタックポテンシー",
+            "defensePotency": "ディフェンスポテンシー",
             "devastatingAttacks": "壊滅的攻撃",
-            "perceptionPotency": "知覚効力",
-            "savePotency": "セーヴ効力"
+            "perceptionPotency": "パーセプシションポテンシー",
+            "savePotency": "セーヴポテンシー"
         },
         "Background": "背景",
-        "BackgroundSkillFeats": "技能特技",
+        "BackgroundSkillFeats": "スキルフィート",
         "BaseModifier": "基本修正値",
         "BaseWeapons": "基本武器",
         "Biography": "人物像",
@@ -902,14 +902,14 @@
         "BiographyPersonalityHeader": "人格",
         "Bonus": "ボーナス",
         "BonusLabel": {
-            "ability": "能力ボーナス",
+            "ability": "能力値ボーナス",
             "circumstance": "状況ボーナス",
             "item": "アイテム・ボーナス",
             "proficiency": "習熟ボーナス",
             "status": "状態ボーナス",
             "untyped": "無種別ボーナス"
         },
-        "BonusSPLabel": "SPボーナス",
+        "BonusSPLabel": "ボーナスSP",
         "BonusSPperLevel": "レベルごとのボーナスSP",
         "BrowseLabel": "閲覧",
         "BulkMaxLabel": "最大バルク",
@@ -953,12 +953,12 @@
                 },
                 "Specific": {
                     "armor": "AC",
-                    "athletics": "〈運動〉DC",
-                    "deception": "〈欺瞞〉DC",
+                    "athletics": "アスレチックDC",
+                    "deception": "デセプションDC",
                     "fortitude": "頑健DC",
-                    "perception": "〈知覚〉DC",
+                    "perception": "パーセプションDC",
                     "reflex": "反応DC",
-                    "stealth": "〈隠密〉DC",
+                    "stealth": "ステルスDC",
                     "will": "意志DC"
                 },
                 "Unspecific": "DC"
@@ -986,15 +986,15 @@
             "Specific": {
                 "Counteract": "対抗判定",
                 "Perception": {
-                    "Label": "〈知覚〉判定",
-                    "Secret": "〈知覚〉判定（秘匿）"
+                    "Label": "パーセプション判定",
+                    "Secret": "パーセプション判定（非公開）"
                 },
                 "Recovery": "回復判定"
             }
         },
         "CircumstanceBonusShortLabel": "状況",
         "CircumstanceBonusTitle": "状況ボーナス",
-        "ClassFeatLevels": "クラス特技レベル",
+        "ClassFeatLevels": "クラスフィートレベル",
         "ClassFeatures": "クラス能力",
         "ClassHP": "クラスHP",
         "ClipboardNotification": "\"{clipText}\"をクリップボードにコピーしました。",
@@ -1146,8 +1146,8 @@
         "CraftItemTitle": "製作",
         "CraftingTab": {
             "Alchemical": {
-                "AdvancedAlchemy": "上級錬金術",
-                "AdvancedAlchemyLevel": "上級錬金術レベル",
+                "AdvancedAlchemy": "アドヴァンスド・アルケミー",
+                "AdvancedAlchemyLevel": "アドヴァンスド・アルケミーレベル",
                 "InfusedReagents": "注入済み試薬",
                 "ReagentCost": "試薬コスト",
                 "ToggleSignatureItem": "シグネチャー・アイテムを切替",
@@ -3428,10 +3428,10 @@
         "PreciousMaterialSloughstone": "スラウストーン",
         "PreciousMaterialSloughstoneDescription": "スロウストーン製の武器は、ヴェレックス・ザット・ワズが望まぬ変貌を遂げたことへの憎悪を利用し、彼自身の肉体を彼に向けて牙をむかせる。スロウストーンの加工は困難かつ不快であり、この素材のアイテムを作成するためのDCは4増加する。建造物をスロウストーンで作ることはできない。",
         "PreciousMaterialSovereignSteel": "君主鋼",
-        "PreciousMaterialSovereignSteelDescription": "Created by Black Sovereign Kevoth-Kul, this unique alloy of cold iron and the skymetal noqual can provide protection from magical assault. The process of cold-forging the two materials together is quite complicated and precise. Characters in search of sovereign steel weapons and armor will almost assuredly have to travel to Starfall to procure gear made from this rare alloy. While some believe it possible to craft shields of sovereign steel as well, in one of his fits, Kevoth-Kul yelled that he had no use for them and banned anyone from making such a thing. So far, his smiths have been too afraid to confirm whether or not it was a joke. All sovereign steel items (including weapon and armor below) have a +4 circumstance bonus on saves against magic that the item makes, and grant their bonus to saves the owner makes specifically to protect the item from magic (such as against the rusting grasp spell).",
+        "PreciousMaterialSovereignSteelDescription": "ブラック・ソヴリン/Black Sovereign であるケヴォス＝クル/Kevoth-Kulによって生み出されたこの特異な合金は、コールド・アイアン/cold iron と、スカイメタルであるノークォル/noqualを組み合わせたものであり、魔法的な攻撃に対する防護となる。2つの素材を冷間鍛造/cold-forgingによって一体化させる工程は、きわめて複雑かつ精密である。ソヴリン・スティール/sovereign steel製の武器や防具を求めるキャラクターは、この希少な合金で作られた装備を入手するために、ほぼ間違いなくスターフォール/Starfallへ赴く必要があるだろう。一方で、ソヴリン・スティール製の盾を作ることも可能だと考える者もいるが、ある癇癪の最中にケヴォス＝クルは「そんなものに用はない」と怒鳴り、製作を禁じた。これが冗談だったのかどうかについて、彼の鍛冶師たちは今のところ確認する勇気を持てずにいる。すべてのソヴリン・スティール製アイテム（以下に示す武器および防具を含む）は、アイテム自身が行う魔法に対するセーヴィング・スローに +4 の状況ボーナス/circumstance bonus を得る。また、このボーナスは、所有者がアイテムを魔法から守る目的で行うセーヴィング・スロー（たとえば rusting grasp/ラスティング・グラスプ 呪文に対するもの）にも適用される。",
         "PreciousMaterialStandardGrade": "標準品質",
         "PreciousMaterialWarpglass": "ワープグラス",
-        "PreciousMaterialWarpglassDescription": "This bizarre substance is fashioned from the raw, chaotic quintessence of the Maelstrom. It can be fashioned into weapons and items, but is too unstable to make into useful armor or shields. Raw warpglass is an opalescent glassy material with surprising strength. When worked, it changes its appearance-though not its properties-to appear as random striations of other metals and types of stone.",
+        "PreciousMaterialWarpglassDescription": "この奇妙な物質は、混沌の次元メイルシュトローム/Maelstrom に渦巻く、原初的な根源エネルギーであるクインテッセンス/quintessence を素材として形成されたものである。武器やアイテムへ加工することはできるが、不安定すぎるため、実用的な防具や盾を作ることはできない。未加工のワープグラス/warpglass は、乳白色の光沢を帯びたガラス状の素材で、見た目に反して驚くほどの強度を持つ。加工されるとその性質は変わらないまま外見のみが変化し、他の金属やさまざまな石材が無作為に走る縞模様として現れる。",
         "PreparationTypeInnate": "生得",
         "PreparationTypeItems": "アイテムのみ",
         "PreparationTypeFocus": "焦点",
