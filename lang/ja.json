@@ -1016,7 +1016,7 @@
                 "CastingTime": "詠唱時間",
                 "Categories": "分類",
                 "Class": "クラス",
-                "Complexity": "ハザード複雑度",
+                "Complexity": "複合ハザード",
                 "Conjunction": {
                     "AndLabel": "上記すべて",
                     "OrLabel": "上記のいずれか"
@@ -1025,7 +1025,7 @@
                 "InventoryTypes": "インベントリ種別",
                 "Levels": "レベル",
                 "OrderByLabel": "並び替え",
-                "ProficiencyRequirements": "習熟要件",
+                "ProficiencyRequirements": "習熟条件",
                 "Rarities": "レアリティ",
                 "Sizes": "サイズ",
                 "Source": "出典",
@@ -1140,7 +1140,7 @@
             "UseMulti": "{name}を使用、残り{current}",
             "UseSingle": "使用回数 {name}"
         },
-        "CoreSkillsHeader": "中核技能",
+        "CoreSkillsHeader": "コアスキル",
         "Counteractable": "対抗可能",
         "CraftDCTitle": "DC",
         "CraftItemTitle": "製作",
@@ -1148,8 +1148,8 @@
             "Alchemical": {
                 "AdvancedAlchemy": "アドヴァンスド・アルケミー",
                 "AdvancedAlchemyLevel": "アドヴァンスド・アルケミーレベル",
-                "InfusedReagents": "注入済み試薬",
-                "ReagentCost": "試薬コスト",
+                "InfusedReagents": "インフューズド・リエージェント",
+                "ReagentCost": "リエージェントコスト",
                 "ToggleSignatureItem": "シグネチャー・アイテムを切替",
                 "TotalCost": "合計コスト"
             },
@@ -1160,28 +1160,28 @@
                 "MaxSlots": "クラフト枠が満杯。"
             },
             "CraftQuantityTitle": "数量",
-            "ExpendFormula": "式を消費",
-            "NoEligibleEntry": "適格なクラフト・エントリーが見つからなかった。",
+            "ExpendFormula": "フォーミュラを消費",
+            "NoEligibleEntry": "利用可能な作成項目が見つからなかった。",
             "RemoveFormulaDialogQuestion": "{name} のフォーミュラを削除してもよい？",
-            "RemoveFormulaDialogTitle": "式を削除",
-            "ToggleQuickAlchemy": "即席錬金術",
+            "RemoveFormulaDialogTitle": "フォーミュラを削除",
+            "ToggleQuickAlchemy": "クイックアルケミー",
             "UndeletableTooltip": "この作成フォーミュラは別のアイテムの一部であり、個別に削除できない。",
             "UnprepareFormulaDialogQuestion": "{name} のフォーミュラの準備を解除してもよい？",
-            "UnprepareFormulaDialogTitle": "式の準備解除"
+            "UnprepareFormulaDialogTitle": "フォーミュラの準備解除"
         },
         "CreateActionTitle": "アクションを作成",
         "CreateAttackTitle": "攻撃を作成",
         "CreateFeatTitle": "フィートを作成",
-        "CreateFormulaTitle": "式を作成",
+        "CreateFormulaTitle": "フォーミュラを作成",
         "CreateItemTitle": "アイテムを作成",
         "CreateLabelUniversal": "作成",
-        "CreateSkillTitle": "技能を作成",
+        "CreateSkillTitle": "スキルを作成",
         "CreateSpellTitle": "呪文を作成",
         "CritFailure": "<strong>クリティカル失敗</strong>",
         "CritSuccess": "<strong>クリティカル成功</strong>",
         "CriticalDamageLabel": "致命的",
-        "CriticalFumbleCardButtonTitle": "クリティカル・ファンブル・カードを引く",
-        "CriticalHitCardButtonTitle": "クリティカル・ヒット・カードを引く",
+        "CriticalFumbleCardButtonTitle": "クリティカルファンブルカードを引く",
+        "CriticalHitCardButtonTitle": "クリティカルヒットカードを引く",
         "CurrencyLabel": "通貨",
         "CurrencyAbbreviations": {
             "cp": "cp",
@@ -1230,9 +1230,9 @@
                 },
                 "CompositeLabel": {
                     "Simple": "{type} {value}",
-                    "DoubleVs": "{type} {value}（{doubleVs}に対して抵抗2倍）",
-                    "Exceptions": "{type} {value}（{exceptions}を除く）",
-                    "ExceptionsDoubleVs": "{type} {value} ( {exceptions} を除く; {doubleVs} に対しては抵抗2倍 )"
+                    "DoubleVs": "{type} {value} ({doubleVs}に対して抵抗2倍)",
+                    "Exceptions": "{type} {value} ({exceptions}を除く)",
+                    "ExceptionsDoubleVs": "{type} {value} ({exceptions} を除く; {doubleVs} に対しては抵抗2倍 )"
                 },
                 "Type": {
                     "abysium": "アビシウム",
@@ -1249,16 +1249,16 @@
                     "blinded": "盲目",
                     "broken": "破損",
                     "clumsy": "ぎこちない",
-                    "cold-iron": "冷たい鉄",
+                    "cold-iron": "コールド・アイアン",
                     "confused": "混乱",
                     "controlled": "支配",
-                    "critical-hits": "クリティカル命中",
+                    "critical-hits": "クリティカルヒット",
                     "curse": "呪い",
                     "damage-from-spells": "呪文によるダメージ",
                     "dawnsilver": "ドーンサルバー",
                     "dazzled": "眩惑",
                     "deafened": "聴覚喪失",
-                    "death-effects": "死効果",
+                    "death-effects": "即死効果",
                     "detection": "探知",
                     "disease": "病気",
                     "divine": "神聖",
@@ -1327,14 +1327,14 @@
                     "splash-damage": "飛散ダメージ",
                     "stunned": "朦朧",
                     "stupefied": "錯乱",
-                    "swarm-attacks": "群体攻撃",
-                    "swarm-mind": "群体精神",
+                    "swarm-attacks": "スウォームアタック",
+                    "swarm-mind": "スウォームマインド",
                     "time": "時間",
                     "trip": "足払い",
                     "unarmed-attacks": "非武装攻撃",
                     "unconscious": "無意識",
                     "unholy": "不浄",
-                    "vampire-weaknesses": "ヴァンパイア弱点",
+                    "vampire-weaknesses": "ヴァンパイアの弱点",
                     "visual": "視覚",
                     "vorpal": "ヴォーパル",
                     "vorpal-adamantine": "ヴォーパル・アダマンティン",
@@ -1413,16 +1413,16 @@
             "FullContext": "ダメージを適用",
             "FullShort": "ダメージ",
             "Half": "[クリック] 選択したトークンに半減ダメージを適用。",
-            "HalfContext": "半減ダメージ",
+            "HalfContext": "ダメージ半減",
             "HalfShort": "半分",
             "Healing": "[クリック] 選択したトークンに完全回復を適用。",
             "HealingContext": "回復を適用",
             "HealingShort": "治癒",
             "ShieldBlock": "[Click] ダメージ適用前に、選択したトークンのシールド・ブロック状態を切り替える。",
-            "ShieldBlockContext": "盾受け",
+            "ShieldBlockContext": "シールド・ブロック",
             "ShieldBlockShort": "ブロック",
-            "Triple": "[クリック] 選択したトークンにトリプルダメージを適用。",
-            "TripleContext": "ダメージを3倍適用",
+            "Triple": "[Click] 選択したトークンに3倍ダメージを適用。",
+            "TripleContext": "ダメージ3倍を適用",
             "TripleShort": "三倍"
         },
         "DamageCategoriesLabel": "ダメージ分類",
@@ -1459,7 +1459,7 @@
             "turn": "ターン"
         },
         "Edit": "編集",
-        "EditHazardLabel": "障害を編集",
+        "EditHazardLabel": "ハザードを編集",
         "EditItemTitle": "アイテムを編集",
         "EditLabel": "編集？",
         "EffectPanel": {
@@ -1482,8 +1482,8 @@
                 "ZeroRoundsExpireTurnEnd": "残り0ラウンド、イニシアチブ {initiative} の終了時に失効",
                 "ZeroRoundsExpireTurnStart": "残り0ラウンド、イニシアチブ {initiative} の開始時に失効"
             },
-            "RemoveToolTip": "[右クリック] 効果を削除",
-            "RollDamageToolTip": "[左クリック] ダメージをロール",
+            "RemoveToolTip": "[Right Click] 効果を削除",
+            "RollDamageToolTip": "[Left Click] ダメージをロール",
             "Unidentified": "未識別",
             "UnlimitedDuration": "無制限の持続時間",
             "UntilEncounterEnds": "遭遇終了まで"
@@ -1496,12 +1496,12 @@
                 "FastHealing": {
                     "DeactivatedBy": "{types}により無効化",
                     "fast-healing": {
-                        "Name": "高速治癒",
-                        "ReceivedMessage": "高速治癒を受けた"
+                        "Name": "ファストヒーリング",
+                        "ReceivedMessage": "ファストヒーリングを受けた"
                     },
                     "regeneration": {
                         "Name": "再生",
-                        "ReceivedMessage": "再生を受け取った"
+                        "ReceivedMessage": "リジェネレーションを受けた"
                     }
                 },
                 "TempHP": {
@@ -1511,7 +1511,7 @@
                 }
             },
             "Budget": {
-                "EncounterBudget": "遭遇予算",
+                "EncounterBudget": "遭遇XP枠",
                 "PartyLevel": "パーティーレベル",
                 "PartySize": "パーティー人数",
                 "Reward": "報酬",
@@ -1523,7 +1523,7 @@
                     "severe": "高難度",
                     "trivial": "軽微"
                 },
-                "XPBudget": "XP予算",
+                "XPBudget": "XP枠",
                 "XPNeeded": "必要XP"
             },
             "CreatureXPAndRole": {
@@ -1532,12 +1532,12 @@
                     "-1": "標準的なクリーチャー",
                     "-2": "任意の下っ端または標準クリーチャー",
                     "-3": "低～中脅威の下っ端",
-                    "-4": "低脅威の手下",
+                    "-4": "低脅威の下っ端",
                     "0": "任意の標準クリーチャーまたは低脅威ボス",
                     "1": "低～中脅威のボス",
                     "2": "中～高脅威のボス",
-                    "3": "高～極限脅威のボス",
-                    "4": "極限脅威の単独ボス"
+                    "3": "高～脅威の極限ボス",
+                    "4": "脅威の極限単独ボス"
                 },
                 "CreatureXPAndRole": "クリーチャーのXPと役割",
                 "SuggestedRole": "推奨役割"
@@ -1550,12 +1550,12 @@
                 "Award": {
                     "Label": "付与：<award>{xp} XP</award>",
                     "Tooltip": {
-                        "Four": "パーティーメンバー4人",
+                        "Four": "4人パーティー",
                         "Plural": "{xpPerFour} × 4 / {recipients} パーティーメンバー",
                         "Singular": "パーティーメンバー1人"
                     }
                 },
-                "Budget": "予算：{spent}/{max} XP（パーティー・レベル {partyLevel}）",
+                "Budget": "枠：{spent}/{max} XP（パーティー・レベル {partyLevel}）",
                 "Threat": "脅威：<threat>{threat}</threat>"
             },
             "NoActiveEncounter": "進行中の遭遇はない。",
@@ -1598,12 +1598,12 @@
             "NoTokenSelected": "少なくとも1つのトークンを選択。",
             "NoUpdatePermission": "このアクターを更新する権限がない。",
             "NotEnoughAmmo": "このストライクを行うには弾薬が足りない。",
-            "NotEnoughCoins": "コイン不足",
+            "NotEnoughCoins": "残金不足",
             "MissingStatisticSelected": "選択したアクターに能力値{statistic}が見つからない。",
             "RuleElementSyntax": "ルール要素定義に構文エラー：{message}",
             "SubV9Module": "{module} は保守されておらず、ゲームの安定性に問題を引き起こす可能性がある。",
             "WeaponNoDamage": "この武器はダメージを与えない。",
-            "WeaponQuantityZero": "これらの武器はこれ以上装備していない。"
+            "WeaponQuantityZero": "この武器はもう装備していない。"
         },
         "Ethnicity": "民族",
         "ExpendSpellTitle": "呪文を消費",
@@ -1619,26 +1619,26 @@
             "Master": "マスター",
             "MasterActor": "マスター・アクター",
             "MasterLevel": "マスター・レベル",
-            "MasterSpellcastingAbility": "マスター能力",
+            "MasterSpellcastingAbility": "マスター能力値",
             "Offenses": "攻撃",
             "Perception": "知覚",
             "SelectMaster": "マスターを選択…",
             "Skills": "技能",
-            "TotalNumberFamiliarAbilities": "使い魔能力の総数"
+            "TotalNumberFamiliarAbilities": "ファミリアのアビリティ総数"
         },
         "FeatActionTypeLabel": "アクションの種類",
         "FeatActionsLabel": "アクション数",
         "FeatBackgroundShort": "背景",
         "FeatLevelLabel": "レベル",
-        "FeatPFSBoonHeader": "社会的恩恵",
+        "FeatPFSBoonHeader": "ソサエティの恩恵",
         "FeatPrereqLabel": "前提条件",
-        "FlatCheck": "平目判定",
+        "FlatCheck": "フラットチェック",
         "Focus": {
             "NotEnoughFocusPointsError": "この呪文を発動するためのフォーカス・ポイントが足りない。",
             "Outdated": "フォーカス・プールの以前の値 (備忘)。クリックで削除。",
             "Pool": "フォーカス・プール",
             "Previous": "前",
-            "Spells": "フォーカス呪文",
+            "Spells": "フォーカス・スペル",
             "label": "フォーカス・ポイント",
             "pointLabel": "ポイント"
         },
@@ -1673,8 +1673,8 @@
             "per": "ごと"
         },
         "GenderPronoun": "性別／代名詞",
-        "GeneralFeatLevels": "一般特技レベル",
-        "GreaterWeaponSpecialization": "上級武器専門化",
+        "GeneralFeatLevels": "汎用フィートレベル",
+        "GreaterWeaponSpecialization": "グレーター・ウェポン・スペシャライゼイション",
         "HardnessLabel": "硬度",
         "HazardDescriptionLabel": "説明",
         "HazardDisableLabel": "無効化",
@@ -1684,7 +1684,7 @@
         "Height": "身長",
         "Heritage": "出自",
         "HitPointsDetailsLabel": "HP詳細",
-        "HitPointsDetailsTitle": "高速治癒や再生など、ヒット・ポイントに関連する追加情報",
+        "HitPointsDetailsTitle": "ファスト・ヒーリングやリジェネレイションなど、ヒット・ポイントに関連する追加情報",
         "HitPointsHeader": "ヒット・ポイント",
         "HitPointsShortLabel": "HP",
         "ImageLabel": "画像",
@@ -1697,8 +1697,8 @@
         "InlineAction": {
             "Check": {
                 "DC": "DC {dc}",
-                "StatisticVsDefense": "{statistic} 対 {defense}",
-                "VsDefense": "対 {defense}"
+                "StatisticVsDefense": "{statistic} vs {defense}",
+                "VsDefense": "vs {defense}"
             },
             "Warning": {
                 "InvalidAction": "無効なアクション：{slug}",
