@@ -1802,7 +1802,7 @@
             "Ammo": {
                 "FIELDS": {
                     "baseItem": {
-                        "label": "弾薬種別"
+                        "label": "弾薬タイプ"
                     },
                     "craftableAs": {
                         "label": "製作可能として",
@@ -1815,7 +1815,7 @@
                     "backpack-ballista-bolts": "バックパック・バリスタ弾",
                     "backpack-catapult-stones": "バックパック・カタパルト石",
                     "battery": "バッテリー",
-                    "blowgun-darts": "吹き矢の矢",
+                    "blowgun-darts": "ブローガン・ダーツ",
                     "bolts": "ボルト",
                     "chem-tank": "薬品タンク",
                     "cutlery": "食器",
@@ -1823,11 +1823,11 @@
                     "magazine-with-6-pellets": "6発入りマガジン",
                     "magazine-with-8-pellets": "8発入りマガジン",
                     "projectile-ammo": "射出弾薬",
-                    "repeating-crossbow-magazine": "連射クロスボウ・マガジン",
+                    "repeating-crossbow-magazine": "リピーティング・クロスボウ・マガジン",
                     "repeating-hand-crossbow-magazine": "リピーティング・ハンド・クロスボウ・マガジン",
                     "repeating-heavy-crossbow-magazine": "リピーティング・ヘヴィ・クロスボウ・マガジン",
                     "rounds-alicorn-trigger": "弾丸（アリコーン・トリガー）",
-                    "rounds-arquebus": "弾丸（アーケバス）",
+                    "rounds-arquebus": "弾丸（アーキバス）",
                     "rounds-axe-musket": "弾丸（アックス・マスケット）",
                     "rounds-black-powder-knuckle-dusters": "弾丸（ブラックパウダー・ナックルダスター）",
                     "rounds-blunderbuss": "弾丸（ブランダーバス）",
@@ -1857,10 +1857,10 @@
                     "rounds-jezail": "弾丸（ジェザイル）",
                     "rounds-leydroth-spellbreaker": "弾丸（レイドロス・スペルブレイカー）",
                     "rounds-mace-multipistol": "弾丸（メイス・マルチピストル）",
-                    "rounds-mithral-tree": "弾丸（ドーンサルバー・ツリー）",
+                    "rounds-mithral-tree": "弾丸（ドーンシルバー・ツリー）",
                     "rounds-nightmares-lament": "弾丸（ナイトメアズ・ラメント）",
                     "rounds-pepperbox": "弾丸（ペッパーボックス）",
-                    "rounds-petrification-cannon": "弾丸（ダブルバレル・マスケット）",
+                    "rounds-petrification-cannon": "弾丸（ペトリフィケーション・キャノン）",
                     "rounds-piercing-wind": "弾丸（ダブルバレル・ピストル）",
                     "rounds-rapier-pistol": "弾丸（レイピア・ピストル）",
                     "rounds-screech-shooter": "弾丸（スクリーチ・シューター）",
