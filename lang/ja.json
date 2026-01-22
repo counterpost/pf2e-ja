@@ -1741,7 +1741,7 @@
                     "Defensive": "防御的",
                     "Interaction": "相互作用",
                     "Offensive": "攻撃的",
-                    "Familiar": "ファミリア能力"
+                    "Familiar": "ファミリア能力値"
                 },
                 "CraftedItem": {
                     "Crafted": "{item}が製作された。",
