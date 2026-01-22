@@ -1713,18 +1713,18 @@
             "Errors": {
                 "AdjustmentLengthMismatch": "type と adjustment パラメータの数が一致しない",
                 "DCAndDefense": "dcとdefenseの両方の引数は指定できない",
-                "NonIntegerAdjustment": "調整値は整数でなければならない",
-                "TypeMissing": "type引数は必須",
-                "InvalidDomains": "{type} ドメインはスラッグ化され、-damage で終わらなければならない。"
+                "NonIntegerAdjustment": "adjustment は整数にしなければいけない",
+                "TypeMissing": "type 引数は必須",
+                "InvalidDomains": "{type} ドメインはスラッグ化され、-damage で終わらなければならない"
             }
         },
         "InlineDamage": {
             "Base": "基本：{formula}"
         },
         "InlineTemplateErrors": {
-            "DistanceMissing": "@Templateのエラー：distanceパラメータは必須",
+            "DistanceMissing": "@Template のエラー：distanceパラメータは必須",
             "DistanceNoNumber": "@Template エラー: dimension {distance} は数値ではない",
-            "TypeMissing": "@Templateのエラー：typeパラメータは必須",
+            "TypeMissing": "@Template のエラー：typeパラメータは必須",
             "TypeUnsupported": "@Template エラー: type {type} はサポートされていない",
             "WidthNoNumber": "@Template エラー: width {width} は数値ではない"
         },
@@ -1733,7 +1733,7 @@
             "ABC": {
                 "Add": "追加",
                 "Features": "特徴",
-                "InvalidDrop": "{badType} はここにドロップできない ( {goodType} が必要 )"
+                "InvalidDrop": "{badType} はここにドロップできない ({goodType} が必要)"
             },
             "Ability": {
                 "Category": {
@@ -1752,8 +1752,8 @@
                         "label": "死亡記録"
                     },
                     "selfEffect": {
-                        "hint": "このアクションを使用するアクターに適用される、単一の効果アイテム。",
-                        "label": "自己付与効果"
+                        "hint": "このアクションを使用するアクターに適用される、単一の効果アイテム",
+                        "label": "自己適用効果"
                     }
                 },
                 "Plural": "アビリティ",
@@ -1772,7 +1772,7 @@
             "Activation": {
                 "Add": "起動を追加",
                 "Activate": "起動",
-                "Cast": "呪文を発動",
+                "Cast": "スペル発動",
                 "Command": "命令",
                 "CommandSheetLabel": "命令",
                 "Effect": "効果",
@@ -1785,12 +1785,12 @@
                 }
             },
             "Affliction": {
-                "AddStage": "段階を追加",
+                "AddStage": "ステージを追加",
                 "Error": {
                     "RestrictedStageItem": "効果アイテムのみが直接アフリクションに追加できる"
                 },
                 "Linked": {
-                    "Title": "設定すると、アフリクションが続く間はこの状態が除去されない。"
+                    "Title": "設定すると、アフリクションが続く間はこの状態が除去されない"
                 },
                 "OnsetLabel": "発症",
                 "OnsetActive": "発症中",
@@ -1879,7 +1879,7 @@
                 },
                 "IsSpecialAmmo": {
                     "label": "特殊弾薬",
-                    "hint": "魔法弾薬や錬金弾薬などの特殊弾薬は、特定の弾薬種別として作成できる。"
+                    "hint": "魔法弾薬や錬金弾薬などの特殊弾薬は、特定の弾薬種別として作成できる"
                 },
                 "Groups": {
                     "General": "一般",
@@ -1892,7 +1892,7 @@
                 }
             },
             "Ancestry": {
-                "DropFeatures": "ここに祖先特徴をドロップ。",
+                "DropFeatures": "ここにアンセストリーフューチャーをドロップ。",
                 "FIELDS": {
                     "hands": {
                         "label": "手"
@@ -1955,15 +1955,15 @@
                     "heavy-barding": "ヘヴィー・バーディング",
                     "light-barding": "ライトバーディング"
                 },
-                "GradeOption": "{grade}（+{bonus}；レジリエント +{resilient}）",
+                "GradeOption": "{grade} (+{bonus}; レジリエント +{resilient})",
                 "Rune": {
                     "Resilient": {
                         "Label": "レジリエント・ルーン"
                     }
                 },
                 "Specific": {
-                    "Hint": "この鎧を <i>specific magic armor</i> としてマークすることは、材質とルーンが許す以上の働きをすることを示す。マークした時点以降、その名称、レベル、レアリティ、価格は、貴重材質やルーンによって上書きされなくなる。ただし、それらの材質とルーンは、後のアップグレードによるレベル・レアリティ・価格調整の基準値として機能する。",
-                    "Label": "特定魔法防具"
+                    "Hint": "この鎧を <i>個別魔法鎧</i> として指定すると、材質やルーンだけでは表現できない効果を持つ鎧として扱われる。指定した時点で、その名称、レベル、レアリティ、価格は、貴重材質やルーンによって更新されなくなる。ただし、それらの材質とルーンは、後のアップグレードによるレベル・レアリティ・価格調整の基準値として参照される。",
+                    "Label": "個別魔法鎧"
                 },
                 "UnequippedHint": "この防具は装備されていないため、よりかさばっている。"
             },
@@ -1972,7 +1972,7 @@
             },
             "CampaignFeature": {
                 "CampaignLabel": "キャンペーン",
-                "Plural": "キャンペーン特徴"
+                "Plural": "キャンペーン・フューチャー"
             },
             "CannotAddType": "{type} アイテムはこのアクターに追加できない。",
             "Class": {
