@@ -929,7 +929,7 @@
         "CharacterDetails": "キャラクター詳細",
         "CharacterLevelLabel": "レベル",
         "CharacterNamePlaceholder": "キャラクター名",
-        "CharacterTraits": "キャラクター特性",
+        "CharacterTraits": "キャラクター・トレイト",
         "CharacterTraitsHeader": "特性＆その他の詳細",
         "ChatRollDetails": {
             "ContextualOptions": {
@@ -1974,7 +1974,7 @@
                 "CampaignLabel": "キャンペーン",
                 "Plural": "キャンペーン・フューチャー"
             },
-            "CannotAddType": "{type} アイテムはこのアクターに追加できない。",
+            "CannotAddType": "{type} アイテムはこのアクターに追加できない。per",
             "Class": {
                 "FIELDS": {
                     "hp": {
@@ -1996,7 +1996,7 @@
                     },
                     "attacks": {
                         "simple": {
-                            "label": "単純武器"
+                            "label": "単純武器単純武器"
                         },
                         "martial": {
                             "label": "軍用武器"
@@ -2016,7 +2016,7 @@
                             "label": "ミディアムアーマー"
                         },
                         "heavy": {
-                            "label": "ヘヴィー・アーマー"
+                            "label": "重装鎧"
                         },
                         "unarmored": {
                             "label": "鎧なし防御"
@@ -2045,20 +2045,20 @@
                         "RecoverLabel": "回復：{name}"
                     },
                     "Dialog": {
-                        "Add": "持続ダメージを追加",
+                        "Add": "継続ダメージを追加",
                         "DamageType": "ダメージ種別",
                         "DC": "DC",
-                        "Edit": "持続ダメージを編集",
+                        "Edit": "継続ダメージを編集",
                         "Formula": "式",
                         "Invalid": "フォーミュラが無効。",
-                        "Remove": "持続ダメージを削除",
+                        "Remove": "継続ダメージを削除",
                         "Title": "持続ダメージ（{actor}）"
                     },
                     "Error": {
                         "DoesNotExist": "このアクターには持続 {damageType} ダメージが存在しない"
                     },
-                    "Name": "持続ダメージ（{formula} {damageType}）",
-                    "NameWithDC": "持続ダメージ（{formula} DC{dc}）",
+                    "Name": "継続ダメージ（{formula} {damageType}）",
+                    "NameWithDC": "継続ダメージ（{formula} DC{dc}）",
                     "RollDamage": "ダメージをロール"
                 }
             },
@@ -2608,7 +2608,7 @@
             },
             "OtherTags": {
                 "Label": "その他のタグ",
-                "Hint": "アイテム分類を補助する特性以外の追加タグ"
+                "Hint": "アイテム分類を補助するトレイト以外の追加タグ"
             },
             "Physical": {
                 "FIELDS": {
@@ -2654,8 +2654,8 @@
                 },
                 "ChangeEquipmentSystem": {
                     "Title": "システムを変更",
-                    "ToPathfinder": "{removedTrait} 特性を削除すると、この {type} は Starfinder から Pathfinder に変更され、グレードは失われる。よろしいか？ 代わりに {otherTrait} に切り替えることもできる。",
-                    "ToStarfinder": "{newTrait} 特性を追加すると、この {type} は Pathfinder から Starfinder に変更され、すべてのルーンが失われる。よろしいか？"
+                    "ToPathfinder": "{removedTrait} トレイトを削除すると、この {type} は Starfinder から Pathfinder に変更され、グレードは失われる。よろしいか？ 代わりに {otherTrait} に切り替えることもできる。",
+                    "ToStarfinder": "{newTrait} トレイトを追加すると、この {type} は Pathfinder から Starfinder に変更され、すべてのルーンが失われる。よろしいか？"
                 },
                 "Destroyed": "破壊",
                 "FromSpell": {
@@ -2720,7 +2720,7 @@
                     "Shoddy": "粗悪"
                 },
                 "OtherTags": {
-                    "Hint": "これらは、第2版ルールで明確な状態や定義を欠くが、依然として大きく依存されている分類を示すタグだ。他の特性が存在する場合、自動的に追加されることがある。",
+                    "Hint": "これらは、第2版ルールにおいて明確な状態や定義を持たないものの、それでも大きく依存されている分類を示すタグである。一部は、他の特性が存在する場合に自動的に付与されることがある。",
                     "Label": "その他のタグ"
                 },
                 "MaterialRunes": {
@@ -2952,7 +2952,7 @@
                 "FromMaterialAndRunes": "このアイテムの貴重素材やルーンにより、{property} が {value} に調整された。",
                 "GradeOption": "{grade}（+{tracking};{dice}ダメージ・ダイス）",
                 "HandsLabel": "手",
-                "MandatoryMelee": "この武器は、近接武器でのみ使用できる特性を持つ。",
+                "MandatoryMelee": "この武器は、近接武器でのみ使用できるトレイトを持つ。",
                 "MaterialAndRunes": {
                     "MaterialOption": "{type}（{grade}）",
                     "Title": "素材構成とルーン"
@@ -3188,11 +3188,11 @@
                     "Aura": "<p>モンスターのオーラ/Auraは、そのモンスターに設定された特定のエマネーション/Emanation内の範囲にあるすべてのものに対して自動的に影響を及ぼす。モンスターはオーラのためにアクションを消費する事はなく、オーラ内で自分のターンを終了したクリーチャーや、オーラ内にクリーチャーが入ったときなど、特定のタイミングでその効果が適用される。</p>\n<p>オーラがダメージを与えるだけの効果しか持たない場合、その項目には半径、ダメージ、セーヴィング・スローのみが記載される。そのようなオーラは、クリーチャーがオーラ内に入ったとき、およびクリーチャーがオーラ内で自分のターンを開始したとき、そのクリーチャーに対してダメージを与える。クリーチャーはこのオーラによるダメージを1ラウンドに1回しか受けない。</p>\n<p>GMは、モンスターのオーラがそのモンスターの味方には影響しないと判断することがある。例えば長い間行動を共にしている場合、そのクリーチャーはモンスターの恐怖の存在/Frightful Presenceに対して免疫を持つことがあるだろう。</p>\n",
                     "Buck": "<hr />\n<p>騎乗用として使役されるほとんどのモンスターは、望ましくない、あるいは煩わしい騎手を振り落とそうとすることができるが、信頼しているクリーチャーに対しては、騎獣が怯えている、もしくは虐待されていない限り、このリアクションを使用することはほとんどない。</p>\n<p><strong>トリガー</strong> クリーチャーが、このモンスターに騎乗した状態で @UUID[Compendium.pf2e.actionspf2e.Item.PM5jvValFkbFH3TV]{Mounts} を行う、あるいは @UUID[Compendium.pf2e.actionspf2e.Item.q9nbyIF0PEBqMtYe]{Command an Animal} アクションを使用する。</p>\n<hr />\n<p><strong>効果</strong> トリガーとなったクリーチャーは、記載された DC に対して反応セーヴを行う。失敗した場合、そのクリーチャーは騎獣から振り落とされ、 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} で着地する。セーヴがクリティカル失敗であった場合、トリガーとなったクリーチャーは、落下による通常のダメージに加えて、 @Damage[1d6[bludgeoning]] ダメージを受ける。</p>\n",
                     "CatchRock": "<p><strong>必要条件</strong> モンスターは空いている手を1つ持っていなければならないが、このリアクションの一部として、保持しているものを @UUID[Compendium.pf2e.actionspf2e.Item.wQYmDStjdjn0I26t]{Release} してもよい。</p>\n<p><strong>トリガー</strong> モンスターが投擲された岩によるストライク/Strike の目標となる、または岩がモンスターの上に落下しようとしている。</p>\n<hr />\n<p><strong>効果</strong> モンスターは、トリガーとなった攻撃に対する AC、または落下してくる岩に対するいずれかの防御に+4の状況ボーナスを得る。攻撃が外れた、あるいはモンスターが落下する岩に対して防御に成功した場合、モンスターはその岩を受け止め、ダメージを一切受けず、その岩を保持した状態になる。</p>",
-                    "ChangeFormation": "<p>トゥループ/troop は、習得している以下の陣形のいずれかを取るよう再編成される。このアクションを再度使用すると、それまでの陣形はすべて終了する。また、このアクションを使用して通常陣形に戻ることもでき、その場合はすべてのメリットとデメリットが終了する。</p>\n<ul>\n  <li><strong>散開/Loose</strong> トゥループ/troop の構成員は、より広い範囲を覆うために散開する。\n    <strong>メリット</strong> トゥループ/troop が持つ、範囲ダメージおよびスプラッシュ・ダメージに対する弱点は抑制される。\n    <strong>デメリット</strong> トゥループ/troop のダメージ効果に対する敵のセーヴは、実際の出目よりも成功段階が1段階良くなる。\n  </li>\n  <li><strong>行軍縦隊/Marching Column</strong> この陣形は、長距離をより迅速に移動するためのものだ。\n    <strong>メリット</strong> トゥループ/troop は、すべてのスピードに +10フィートの状況ボーナスを得る。\n    <strong>デメリット</strong> トゥループ/troop は @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} となり、反応セーヴに –2 のペナルティを受ける。\n  </li>\n  <li><strong>盾亀陣/Turtle Shell</strong> トゥループ/troop は盾を組み合わせて構える。盾を所持している集団のみがこの陣形を使用できる。\n    <strong>メリット</strong> トゥループ/troop は、遠隔攻撃に対する AC および反応セーヴに +2 の状況ボーナスを得る。\n    <strong>デメリット</strong> トゥループ/troop は、すべてのスピードに –10フィートのペナルティを受ける。\n  </li>\n  <li><strong>楔形陣/Wedge</strong> トゥループ/troop は、強力な指揮官の背後に整列する。\n    <strong>メリット</strong> トゥループ/troop は、トゥループ特性/troop trait を持たない隣接する味方クリーチャー1体を選び、その背後に付き従う。選ばれたクリーチャーがストライド/Stride を行うたび、トゥループ/troop はフリー・アクションとしてそれに追従し、隣接を維持するようストライドする。\n    <strong>デメリット</strong> トゥループ/troop は自律性の一部を失う。トゥループ/troop は スロウ1/Slowed 1 となり、指揮官から自発的に離れる移動を行えない。\n  </li>\n</ul>\n",
+                    "ChangeFormation": "<p>トゥループ/troop は、習得している以下の陣形のいずれかを取るよう再編成される。このアクションを再度使用すると、それまでの陣形はすべて終了する。また、このアクションを使用して通常陣形に戻ることもでき、その場合はすべてのメリットとデメリットが終了する。</p>\n<ul>\n  <li><strong>散開/Loose</strong> トゥループ/troop の構成員は、より広い範囲を覆うために散開する。\n    <strong>メリット</strong> トゥループ/troop が持つ、範囲ダメージおよびスプラッシュ・ダメージに対する弱点は抑制される。\n    <strong>デメリット</strong> トゥループ/troop のダメージ効果に対する敵のセーヴは、実際の出目よりも成功段階が1段階良くなる。\n  </li>\n  <li><strong>行軍縦隊/Marching Column</strong> この陣形は、長距離をより迅速に移動するためのものだ。\n    <strong>メリット</strong> トゥループ/troop は、すべてのスピードに +10フィートの状況ボーナスを得る。\n    <strong>デメリット</strong> トゥループ/troop は @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} となり、反応セーヴに –2 のペナルティを受ける。\n  </li>\n  <li><strong>盾亀陣/Turtle Shell</strong> トゥループ/troop は盾を組み合わせて構える。盾を所持している集団のみがこの陣形を使用できる。\n    <strong>メリット</strong> トゥループ/troop は、遠隔攻撃に対する AC および反応セーヴに +2 の状況ボーナスを得る。\n    <strong>デメリット</strong> トゥループ/troop は、すべてのスピードに –10フィートのペナルティを受ける。  </li>  <li><strong>楔形陣/Wedge</strong> トゥループ/troop は、強力な指揮官の背後に整列する。<strong>メリット</strong> トゥループ/troop は、トゥループ特性/troop trait を持たない隣接する味方クリーチャー1体を選び、その背後に付き従う。選ばれたクリーチャーがストライド/Stride を行うたび、トゥループ/troop はフリー・アクションとしてそれに追従し、隣接を維持するようストライドする。    <strong>デメリット</strong> トゥループ/troop は自律性の一部を失う。トゥループ/troop は スロウ1/Slowed 1 となり、指揮官から自発的に離れる移動を行えない。\n  </li></ul>",
                     "ChangeShape": "<p>モンスターは自身の形態を無期限に変更する。このアクションを再度使用することで、自然な形態に戻る、または新たな形態を取ることができる。特に記載がない限り、モンスターはチェンジ・シェイプ/Change Shape を使用して特定の個人として見えるようにはなれない。チェンジ・シェイプの使用は、ディセプション/Deception の @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Impersonate} に用いる変装を作る事と同じとして扱う。モンスターの変身は、変身先の祖先またはクリーチャー種別の一員であるかどうかを判定するためのパーセプション/Perception DC を自動的に打ち破り、さらに他者に変装を見破られないようにするため、モンスターのディセプションDCに +4 の状態ボーナスを得る。チェンジ・シェイプ能力には、モンスターが取ることのできる形態が明記されている。モンスターが得るのは新たな形態の身体的形状のみであり、その形態の特殊能力は一切得ない。例えば、各形態において、通常のスピードとストライク/Strike は置き換えられ、感覚やサイズが変更される場合もある。これらの変更点はすべてステータス・ブロックに記載されている。</p>\n",
                     "ConstantSpells": "<p>常在呪文は、モンスターが詠唱する必要なくモンスターに影響を与え、その持続時間は無制限である。常在呪文が対抗された場合、モンスターはその呪文が通常必要とする呪文詠唱アクションを消費することで再起動できる。</p>",
                     "Constrict": "<p>このモンスターは、自身が @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} または @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} している任意の数のクリーチャーに、記載された量のダメージを与える。それぞれのクリーチャーは、記載されたDCで基本の頑健セーヴを試みられる。</p>",
-                    "Coven": "<p>このモンスターは、コヴン/coven 能力を持つ他のクリーチャー2体以上とコヴンを形成できる。これには、全構成員で8時間の儀式を行う必要がある。コヴンが形成されると、その構成員全員がエリート調整/elite adjustments を得て、それに応じてレベルが調整される。コヴンの構成員は、精神集中/Concentrate 特性を持つ単一アクションを消費することで、他の構成員の位置と状態を感知できる。また、精神集中特性を持つ2アクション活動として、他の構成員が感知しているものを感知することもできる。</p>\n\n<p>コヴンはさらに、構成員に呪文と儀式を付与するが、これらは互いに30フィート以内にいる3体の構成員が参加した場合にのみ発動できる。構成員1体は、精神集中特性を持つ1アクションを消費することで、コヴン呪文の発動に参加できる。直前のラウンド中に2体の構成員が、それぞれこれらのアクションを消費して参加していれば、3体目の構成員は自分のターンに、通常の呪文発動アクションを消費してコヴン呪文を発動できる。コヴンはコヴン呪文を無制限回数発動できるが、1ラウンドにつき発動できるコヴン呪文は1つのみである。すべてのコヴンは、8レベルの @UUID[Compendium.pf2e.spells-srd.Item.dN8QBNuTiaBHCKUe]{Cursed Metamorphosis} 呪文と、以下のすべての呪文が付与される。これらの呪文は、最大5レベルまでの任意のランクで発動できる：@UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X]{Augury}、@UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{Charm}、@UUID[Compendium.pf2e.spells-srd.Item.HXhWYJviWalN5tQ2]{Clairaudience}、@UUID[Compendium.pf2e.spells-srd.Item.zvKWclOZ7A53DObE]{Clairvoyance}、@UUID[Compendium.pf2e.spells-srd.Item.yM3KTTSAIHhyuP14]{Dream Message}、@UUID[Compendium.pf2e.spells-srd.Item.i35dpZFI7jZcRoBo]{Illusory Disguise}、@UUID[Compendium.pf2e.spells-srd.Item.Ucf8eynbZMfUucjE]{Illusory Scene}、@UUID[Compendium.pf2e.spells-srd.Item.Ek5XI0aEdZhBgm21]{Scouting Eye}、@UUID[Compendium.pf2e.spells-srd.Item.FM3SmEW8N1FCRjqt]{Talking Corpse}。また、コヴン能力を持つ個々のクリーチャーは、自身が参加するコヴンに追加の呪文を付与する。さらに、コヴンは @UUID[Compendium.pf2e.spells-srd.Item.XkDCzMIyc0YOjw05]{Control Weather} 儀式を、通常の DC の代わりに DC23 で発動できる。</p>\n\n<p>構成員の離脱や死亡によって人数が3体未満になった場合、残った構成員は24時間の間エリート調整を維持するが、必要なアクションを消費して参加できるだけの人数がいないため、コヴン呪文を発動することはできない。</p>\n",
+                    "Coven": "<p>このモンスターは、コヴン/coven 能力を持つ他のクリーチャー2体以上とコヴンを形成できる。これには、全構成員で8時間の儀式を行う必要がある。コヴンが形成されると、その構成員全員がエリート調整/elite adjustments を得て、それに応じてレベルが調整される。コヴンの構成員は、精神集中/Concentrate トレイトを持つ単一アクションを消費することで、他の構成員の位置と状態を感知できる。また、精神集中トレイトを持つ2アクション活動として、他の構成員が感知しているものを感知することもできる。</p>\n\n<p>コヴンはさらに、構成員に呪文と儀式を付与するが、これらは互いに30フィート以内にいる3体の構成員が参加した場合にのみ発動できる。構成員1体は、精神集中特性を持つ1アクションを消費することで、コヴン呪文の発動に参加できる。直前のラウンド中に2体の構成員が、それぞれこれらのアクションを消費して参加していれば、3体目の構成員は自分のターンに、通常の呪文発動アクションを消費してコヴン呪文を発動できる。コヴンはコヴン呪文を無制限回数発動できるが、1ラウンドにつき発動できるコヴン呪文は1つのみである。すべてのコヴンは、8レベルの @UUID[Compendium.pf2e.spells-srd.Item.dN8QBNuTiaBHCKUe]{Cursed Metamorphosis} 呪文と、以下のすべての呪文が付与される。これらの呪文は、最大5レベルまでの任意のランクで発動できる：@UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X]{Augury}、@UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{Charm}、@UUID[Compendium.pf2e.spells-srd.Item.HXhWYJviWalN5tQ2]{Clairaudience}、@UUID[Compendium.pf2e.spells-srd.Item.zvKWclOZ7A53DObE]{Clairvoyance}、@UUID[Compendium.pf2e.spells-srd.Item.yM3KTTSAIHhyuP14]{Dream Message}、@UUID[Compendium.pf2e.spells-srd.Item.i35dpZFI7jZcRoBo]{Illusory Disguise}、@UUID[Compendium.pf2e.spells-srd.Item.Ucf8eynbZMfUucjE]{Illusory Scene}、@UUID[Compendium.pf2e.spells-srd.Item.Ek5XI0aEdZhBgm21]{Scouting Eye}、@UUID[Compendium.pf2e.spells-srd.Item.FM3SmEW8N1FCRjqt]{Talking Corpse}。また、コヴン能力を持つ個々のクリーチャーは、自身が参加するコヴンに追加の呪文を付与する。さらに、コヴンは @UUID[Compendium.pf2e.spells-srd.Item.XkDCzMIyc0YOjw05]{Control Weather} 儀式を、通常の DC の代わりに DC23 で発動できる。</p>\n\n<p>構成員の離脱や死亡によって人数が3体未満になった場合、残った構成員は24時間の間エリート調整を維持するが、必要なアクションを消費して参加できるだけの人数がいないため、コヴン呪文を発動することはできない。</p>\n",
                     "Darkvision": "<p>暗視を持つモンスターは、暗闇および薄暗い光の中でも完全に見えるが、その視覚は白黒のみである。4ランクの @UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{Darkness} 呪文のような一部の魔法的な暗闇は、通常の暗視を遮る。しかし、@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.4Ho2xMPEC05aSxzr]{Greater Darkvision} を持つモンスターは、これらの魔法的な暗闇すら見通せる。</p>",
                     "Disease": "<p>クリーチャーがモンスターの病気にさらされると、頑健セーヴを行うか、病気に冒される。病気のレベルは、その病気を与えたモンスターのレベルに等しい。この病気は苦難のルールに従う。</p>",
                     "Engulf": "<p>モンスターは自分の移動速度の2倍までストライドし、その進路上にいるあらゆるクリーチャーのマスを通過できる。モンスターが通過するマスにいる、モンスターと同じサイズ以下のクリーチャーは、飲み込まれるのを避けるため、記載されたDCで〈反応〉セーヴを試みられる。行動不能のクリーチャーは、このセーヴに自動的に致命的失敗する。セーヴに成功したクリーチャーは、脇へ押しやられる（モンスターの進路外）か、モンスターの前方に押し出されてモンスターの移動終了地点まで運ばれるかを選べる。モンスターは、1回の《飲み込み》の使用につき、同じクリーチャーを1度しか《飲み込み》を試みられない。モンスターは、自身のマス内に収まるだけの数のクリーチャーを収容できる。</p>\n<p>セーヴに失敗したクリーチャーは、モンスターの体内へ引き込まれる。そのクリーチャーは @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} 状態になり、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} となり、息を止めるか、さもなくば窒息を開始する。飲み込まれた際、および飲み込まれている間は自分の各ターン終了時に、記載された量のダメージを受ける。飲み込まれたクリーチャーは、記載された脱出DCに対して @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escaping} を行うことで脱出できる。飲み込まれたクリーチャーは、自分を飲み込んでいるモンスターを攻撃できるが、素手攻撃か、バルクが軽い武器以下でしか攻撃できない。飲み込んでいる側のクリーチャーは、その攻撃に対して @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 状態となる。モンスターが、単一の攻撃または呪文によって、記載された破裂値以上の刺突ダメージまたは斬撃ダメージを受けた場合、飲み込まれたクリーチャーは自力で切り裂いて脱出する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.1cbIe569UD6paXad]{Effect: Engulf and Swallow Whole}</p>\n<p>いずれかの方法で脱出したクリーチャーは、ただちに呼吸できるようになり、飲み込んでいるモンスターのマスから出る。</p>\n<p>モンスターが死亡した場合、この状態は終わり、飲み込まれていたすべてのクリーチャーは自動的に解放される。</p>",
@@ -3239,7 +3239,7 @@
             "ActionsList": {
                 "ActionName": "名称",
                 "Cost": "コスト",
-                "Traits": "特性",
+                "Traits": "トレイト",
                 "Type": "種別"
             },
             "AddAction": "アクションを追加",
@@ -3249,7 +3249,7 @@
             "AddItem": "アイテムを追加",
             "AddPassive": "パッシブを追加",
             "AddSkill": "技能を追加",
-            "AddTrait": "特性を追加",
+            "AddTrait": "トレイトを追加",
             "AddTreasure": "財宝",
             "AddWeapon": "武器",
             "Adjustment": {
@@ -3274,7 +3274,7 @@
             "EditSenses": "感覚を編集",
             "EditSkills": "スキルを編集",
             "EditSpeed": "移動速度を編集",
-            "EditTraits": "特性を編集",
+            "EditTraits": "トレイトを編集",
             "EditWeaknesses": "弱点を編集",
             "EffectsTab": "効果",
             "HPExtraInfoLabelPlaceholder": "HP詳細…",
@@ -3454,10 +3454,10 @@
             "LoadingComplete": "読み込み完了",
             "LoadingPack": "読み込み中 {pack}"
         },
-        "PropertyRuneLabel1": "特性ルーン（1段階）",
-        "PropertyRuneLabel2": "特性ルーン（2段階）",
-        "PropertyRuneLabel3": "特性ルーン（3段階）",
-        "PropertyRuneLabel4": "特性ルーン（4段階）",
+        "PropertyRuneLabel1": "プロパティ・ルーン (1st)",
+        "PropertyRuneLabel2": "プロパティ・ルーン (2nd)",
+        "PropertyRuneLabel3": "プロパティ・ルーン (3rd)",
+        "PropertyRuneLabel4": "プロパティ・ルーン (4th)",
         "Publication": {
             "Authors": "著者",
             "Label": "出版",
@@ -3734,12 +3734,12 @@
                     "Title": "ホームブリュー要素を削除？"
                 },
                 "ClassTraits": {
-                    "Hint": "個別クラスを参照する特性",
-                    "Name": "クラス特性"
+                    "Hint": "個別クラスを参照するトレイト",
+                    "Name": "クラス・トレイト"
                 },
                 "CreatureTraits": {
-                    "Hint": "任意のクリーチャーや一部のアイテム種別に適用できる特性（例: Dragon, Gnome）",
-                    "Name": "クリーチャー特性"
+                    "Hint": "任意のクリーチャーや一部のアイテム種別に適用できるトレイト（例: Dragon, Gnome）",
+                    "Name": "クリーチャー・トレイト"
                 },
                 "DamageTypes": {
                     "Add": "ダメージ種別を追加",
@@ -3749,14 +3749,14 @@
                     "Label": "ラベル"
                 },
                 "EquipmentTraits": {
-                    "Hint": "装備、鎧、消耗品に適用される特性",
-                    "Name": "装備特性"
+                    "Hint": "装備、鎧、消耗品に適用されるトレイト",
+                    "Name": "装備トレイト"
                 },
                 "FeatTraits": {
-                    "Hint": "特技 (例: Lineage, Monk) やアクションに適用できる特性",
-                    "Name": "特技特性"
+                    "Hint": "フィート (例: Lineage, Monk) やアクションに適用できるトレイト",
+                    "Name": "フィート・トレイト"
                 },
-                "Hint": "ホームブリュー世界向けに、カスタム特性、武器種別、その他の要素を追加する。",
+                "Hint": "ホームブリュー・ワールド向けに、カスタム特性、武器種別、その他の要素を追加する。",
                 "Instructions": "これらの設定により、GMはホームブリュー世界に特性、言語、その他の要素を追加できる。追加するには、所定の欄に望む用語を入力し、カンマ区切りまたはタブキーで区切るだけでよい。そうすると、アクターおよびアイテム・シート上の適切な場所に表示される。用語を更新するには、それをクリックして望む変更を行う。",
                 "Label": "ホームブルー要素を管理",
                 "Languages": {
@@ -3781,18 +3781,18 @@
                 "Name": "ホームブルー要素",
                 "ReservedTerm": "\"{term}\"は予約語です。",
                 "ShieldTraits": {
-                    "Hint": "盾に適用可能な特性",
-                    "Name": "盾特性"
+                    "Hint": "盾に適用可能なトレイト",
+                    "Name": "シールド・トレイト"
                 },
                 "SpellTraits": {
-                    "Hint": "任意の呪文に適用できる特性 (例: Cursebound, Healing)",
-                    "Name": "呪文特性"
+                    "Hint": "任意の呪文に適用できるトレイト (例: カースバウンド、ヒーリング等)",
+                    "Name": "スペル・トレイト"
                 },
                 "Tabs": {
                     "Campaign": "キャンペーン",
                     "Damage": "ダメージ種別",
                     "Taxonomies": "装備分類",
-                    "Traits": "特性"
+                    "Traits": "トレイト"
                 },
                 "WeaponCategories": {
                     "Hint": "Pathfinder 2e 武器分類の最上位レベル (例: Simple, Martial)",
@@ -3803,8 +3803,8 @@
                     "Name": "武器グループ"
                 },
                 "WeaponTraits": {
-                    "Hint": "武器およびNPC攻撃に適用される特性",
-                    "Name": "武器特性"
+                    "Hint": "武器およびNPC攻撃に適用されるトレイト",
+                    "Name": "武器トレイト"
                 }
             },
             "IdentifyMagicNotMatchingTraditionModifier": {
@@ -3822,7 +3822,7 @@
                 "Label": "メタゲーム情報を制限",
                 "Name": "メタゲーム情報",
                 "SecretChecks": {
-                    "Hint": "プレイヤーは Secret 特性を持つロールをチャットで確認できる。",
+                    "Hint": "プレイヤーはシークレット・トレイトを持つロールをチャットで確認できる。",
                     "Name": "秘匿判定を表示"
                 },
                 "ShowDC": {
@@ -3901,8 +3901,8 @@
                 },
                 "AutomaticBonus": {
                     "Choices": {
-                        "ABPFundamentalPotency": "ABP：特性ルーンを許可",
-                        "ABPRulesAsWritten": "ABP：特性ルーンを禁止",
+                        "ABPFundamentalPotency": "ABP：プロパティ・ルーンを許可",
+                        "ABPRulesAsWritten": "ABP：プロパティ・ルーンを禁止",
                         "noABP": "無効"
                     },
                     "Hint": "自動ボーナス進行バリアント・ルールを有効化する。技能ポテンシーは現状、手動管理が必要。",
@@ -4307,7 +4307,7 @@
         "TraitAffixedToCrossbowOrFirearm": "クロスボウまたは火器に固定",
         "TraitAffixedToFirearm": "火器に固定",
         "TraitAffixedToFirearmWithAReloadOf1": "リロード1のファイアアームに装着",
-        "TraitAffixedToFirearmWithTheKickbackTrait": "キックバック特性を持つ火器に装着",
+        "TraitAffixedToFirearmWithTheKickbackTrait": "キックバック・トレイトを持つ火器に装着",
         "TraitAffixedToGround": "地面に固定",
         "TraitAffixedToGroundIn10FtRadius": "半径10フィートの円周上の4マスで地面に固定される。",
         "TraitAffixedToGroundIn20FtRadius": "半径20フィートの円周上の4マスで地面に固定される。",
@@ -4492,8 +4492,8 @@
         "TraitDemon": "デーモン",
         "TraitDero": "デロ",
         "TraitDescriptionAberration": "異形は、次元界の彼方から来た存在、または自然秩序の腐敗によって生じたクリーチャーだ。",
-        "TraitDescriptionAcid": "この特性を持つ効果は酸ダメージを与える。この特性を持つクリーチャーは酸と魔法的なつながりを持つ。",
-        "TraitDescriptionAdditive": "Feats with the additive trait allow you to add special substances to alchemical consumables you create when you use Quick Alchemy to create a consumable (you can't use additives with quick vials). You can add only one additive to a single alchemical item, you can add an additive only once per round, and most additive abilities specify a subset of alchemical consumables you can add them to.",
+        "TraitDescriptionAcid": "このトレイトを持つ効果は酸ダメージを与える。この特性を持つクリーチャーは酸と魔法的なつながりを持つ。",
+        "TraitDescriptionAdditive": "アディティブ/Additiveのトレイトを持つフィートは、クイック・アルケミー/Quick Alchemy を使用して消費型アイテムを作成する際、その錬金消費アイテムに特殊な物質を追加できるようにする（クイック・バイアル/quick vials にはアディティブを使用できない）。1つの錬金アイテムに追加できるアディティブは1つまでであり、アディティブを追加できるのは1ラウンドにつき1回までである。また、ほとんどのアディティブ能力は、追加できる錬金消費アイテムの種類を限定している。",
         "TraitDescriptionAdjusted": "その装備には、欄に記載された調整/Adjustment が付属している。この調整は恒久的に装備に組み込まれており、他の調整を追加することも、別の調整に差し替えることもできない。調整が（ノイジー/Noisy 特性を追加するなど）アイテムの基礎データを変更する場合、それは装備表の欄に反映されている。",
         "TraitDescriptionAdjustment": "この特性を持つアイテムは、既存の装備（通常は鎧、盾、武器）を改造することを意図している。該当アイテムは、どの種別の装備を改造するかを記載している。装備は同時に1つの調整/Adjustment の影響しか受けない。特記がない限り、調整の追加または除去には10分のアクティビティと修理道具が必要である。",
         "TraitDescriptionAeon": "これらのモニターは、自らを現実の守護者と称する。伝統的なイーオンは二元的な性質と形態を持ち、相反する関心の二分を抱え、エンヴィジョニングと呼ばれる奇妙なテレパシー――感覚送信の寄せ集め――によって意思疎通する。アクシオマイトとその創造物もイーオンだが、伝統的イーオンの特徴すべてを共有するわけではない。",
