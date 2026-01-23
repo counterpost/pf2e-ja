@@ -2122,9 +2122,9 @@
                     "Philosophy": "哲学"
                 },
                 "ClericSpells": {
-                    "DropError": "神格のクレリック呪文には、初級呪文、フォーカス呪文、儀式は含まれない場合がある。",
-                    "Hint": "呪文を追加するには、このシートにドラッグ＆ドロップする。",
-                    "Label": "クレリック呪文"
+                    "DropError": "神格のクレリックスペルには、キャントリップ、フォーカススペル、儀式は含まれない場合がある。",
+                    "Hint": "スペルを追加するには、このシートにドラッグ＆ドロップする。",
+                    "Label": "クレリックスペル"
                 },
                 "DivineAttribute": {
                     "Hint": "Raised by Belief の背景を選択した場合、能力値ブーストの選択肢は神格に由来する。",
@@ -2499,7 +2499,7 @@
                 },
                 "Looping": "最初に戻りますか？",
                 "Plural": "効果",
-                "ShowTokenIcon": "トークン・アイコンを表示？",
+                "ShowTokenIcon": "トークン・アイコンを表示しますか？",
                 "Unidentified": "未識別？"
             },
             "Equipment": {
@@ -2514,29 +2514,29 @@
             },
             "Feat": {
                 "Category": {
-                    "Ancestry": "祖先特技",
-                    "AncestryFeature": "祖先特徴",
-                    "Bonus": "ボーナス特技",
+                    "Ancestry": "アンセストリーフィート",
+                    "AncestryFeature": "アンセストリーフューチャー",
+                    "Bonus": "ボーナスフィート",
                     "Calling": "神話の呼び声",
-                    "Class": "クラス特技",
+                    "Class": "クラスフィート",
                     "ClassFeature": "クラス特徴",
                     "Curse": "神格の呪い",
                     "DeityBoon": "神格の恩恵",
-                    "General": "一般特技",
+                    "General": "汎用フィート",
                     "PfsBoon": "社会的恩恵",
-                    "Skill": "技能特技"
+                    "Skill": "スキルフィート"
                 },
                 "Info": {
                     "Added": "{item}が{category}に追加された。"
                 },
                 "LevelLabel": "特技",
-                "LevelN": "特技 {level}",
+                "LevelN": "フィート {level}",
                 "OnlyLevel1": "レベル1で取得しなければならない",
                 "Plural": "特技",
                 "Subfeatures": {
                     "KeyAbilityOptions": {
                         "Label": "主要能力値オプション",
-                        "Hint": "クラスで提供されるものに加えた主要能力値の選択肢"
+                        "Hint": "クラスで提供されるものに加えた主要能力値オプション"
                     },
                     "Label": "下位特徴",
                     "Languages": {
@@ -2547,14 +2547,14 @@
                         "NoOptionSelected": "増加を適用する能力値を選択。"
                     },
                     "SuppressedFeatures": {
-                        "Label": "抑制されたクラス特徴",
-                        "Hint": "データ準備および特技タブから要素を削除するには、このシートにドラッグ＆ドロップする。"
+                        "Label": "抑制されたクラスフューチャー",
+                        "Hint": "データ準備およびフィートタブから要素を削除するには、このシートにドラッグ＆ドロップする。"
                     },
                     "Senses": {
                         "Darkvision": {
                             "Ancestry": "キャラクターの祖先が薄暗視を持つ場合に付与する。",
                             "LLV": "キャラクターが過去のいずれかの要因で薄暗視を持つ場合に付与する。",
-                            "Second": "この特技を2回目に取得した場合に付与する。"
+                            "Second": "このフィートを2回目に取得した場合に付与する。"
                         }
                     }
                 },
