@@ -2553,7 +2553,7 @@
                     "Senses": {
                         "Darkvision": {
                             "Ancestry": "キャラクターの祖先が薄暗視を持つ場合に付与する。",
-                            "LLV": "キャラクターが過去のいずれかの要因で薄暗視を持つ場合に付与する。",
+                            "LLV": "キャラクターが過去のいずれかの要因でローライト・ビジョンを持つ場合に付与する。",
                             "Second": "このフィートを2回目に取得した場合に付与する。"
                         }
                     }
@@ -2578,7 +2578,7 @@
                 "Title": "GMメモ"
             },
             "Heritage": {
-                "AncestryNotFound": "参照された祖先アイテムが見つからなかった。",
+                "AncestryNotFound": "参照されたアンセストリーアイテムが見つからなかった。",
                 "DragAncestryHere": "このヘリテージの前提祖先を設定するため、祖先アイテムをここにドラッグする。",
                 "NoneVersatile": "なし（汎用）",
                 "Plural": "出自",
@@ -2602,8 +2602,8 @@
                     }
                 },
                 "Tags": {
-                    "RangeN": "射程 {n}フィート",
-                    "RangeIncrementN": "射程増分 {n}フィート"
+                    "RangeN": "射程 {n}ft",
+                    "RangeIncrementN": "射程増分 {n}ft"
                 }
             },
             "OtherTags": {
