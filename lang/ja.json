@@ -33,8 +33,8 @@
         "Combats": "エンカウント"
     },
     "PF2E": {
-        "AbilityBoost": "アトリビュートブースト",
-        "AbilityBoostLevels": "アトリビュートブーストレベル",
+        "AbilityBoost": "能力値増強",
+        "AbilityBoostLevels": "能力値増強レベル",
         "AbilityCha": "魅力",
         "AbilityCheck": {
             "cha": "魅力判定",
@@ -57,9 +57,9 @@
             "wis": "Wis"
         },
         "AbilityInt": "知力",
-        "AbilityModifierLabel": "アトリビュート修正値",
+        "AbilityModifierLabel": "能力修正値",
         "AbilityStr": "筋力",
-        "AbilityTitle": "アトリビュート",
+        "AbilityTitle": "能力値",
         "AbilityWis": "判断力",
         "AccessoryPropertyRuneCalled": "コール",
         "AccessoryPropertyRuneDragonsBreath": "ドラゴンブレス",
@@ -150,9 +150,9 @@
                     }
                 },
                 "Attribute": {
-                    "Apex": "重要なアトリビュート",
-                    "Boosts": "アトリビュート増強",
-                    "Key": "重要なアトリビュート"
+                    "Apex": "基幹能力",
+                    "Boosts": "能力値増強",
+                    "Key": "上限能力"
                 },
                 "AttributeBuilder": {
                     "InputMethod": {
@@ -163,10 +163,10 @@
                     "AncestryMissingHelp": "増強を選択するための祖先を選択。",
                     "AlternateBoostsLabel": "代替のブースト",
                     "BackgroundBoostDescription": "2つの増強ボーナス：1つは {a} または {b} でなければならない。",
-                    "BackgroundMissingHelp": "アトリビュート増強を選ぶために背景を選択する。",
+                    "BackgroundMissingHelp": "能力値増強を選ぶために背景を選択する。",
                     "Boost": "増強",
                     "Boosts": "増強",
-                    "ClassMissingHelp": "アトリビュート増強を選ぶためにクラスを選択する。",
+                    "ClassMissingHelp": "能力値増強を選ぶためにクラスを選択する。",
                     "Complete": "完了",
                     "Flaw": "欠点",
                     "Flaws": "欠点",
@@ -302,7 +302,7 @@
                     "Opposition": "反対",
                     "Party": "パーティー"
                 },
-                "AttributeModifiers": "アトリビュート修正値",
+                "AttributeModifiers": "能力修正値",
                 "Configure": {
                     "Alliance": {
                         "Hint": "クリーチャーはパーティに敵対、同盟、または中立の立場を取れる。これは側面攻撃など、遭遇中の一部の処理に影響する。",
@@ -516,7 +516,7 @@
                 "NoAttribute": "なし（ペット）",
                 "Master": {
                     "ArmorClass": "マスターのアーマー・クラス",
-                    "Perception": "マスターの知覚"
+                    "Perception": "マスターのパーセプション"
                 }
             },
             "Hardness": {
@@ -617,11 +617,11 @@
                         "Tooltip": "\"クリーチャーを識別する際に用いる技能は、通常は『クリーチャー識別技能表』に示されている通り、そのクリーチャーの特性に基づく。ただし、どの技能を適用できるかについては裁量の余地がある。\"\n— Pathfinder GM Core 54–55 ページ"
                     },
                     "Lore": {
-                        "Label": "適用可能な〈伝承〉: DC {dc1} ({adjustment1}) または DC {dc2} ({adjustment2})",
-                        "Tooltip": "\"適切な〈伝承/Lore〉を用いる場合、通常はDCが簡単、あるいは非常に簡単になる（レアリティによる調整を行う前）。\"\n— Pathfinder GM Core 54 ページ"
+                        "Label": "適用可能なロア: DC {dc1} ({adjustment1}) または DC {dc2} ({adjustment2})",
+                        "Tooltip": "\"適切なロアを用いる場合、通常はDCが簡単、あるいは非常に簡単になる（レアリティによる調整を行う前）。\"\n— Pathfinder GM Core 54 ページ"
                     }
                 },
-                "LevelN": "クリーチャー {level}",
+                "LevelN": "Creature {level}",
                 "SimpleSheet": "簡易NPCシート",
                 "SpecialSkill": "+{mod} {label}",
                 "SkillsEditor": {
@@ -629,7 +629,7 @@
                     "Error": {
                         "PredicateArray": "述語は配列でなければならない"
                     },
-                    "LorePlaceholder": "カーペントリー伝承",
+                    "LorePlaceholder": "カーペントリー・ロア/Carpentry Lore",
                     "Note": "注記",
                     "Predicate": "条件",
                     "Special": "特殊",
@@ -689,7 +689,7 @@
                     "OpenSheet": "シートを開く",
                     "OtherParties": "他のパーティー"
                 },
-                "Skills": "パーティー技能",
+                "Skills": "パーティー・スキル",
                 "SlotAvailable": "空きスロット",
                 "Tabs": {
                     "Overview": "概要",
@@ -742,7 +742,7 @@
         "AddSpellTitle": "呪文を追加",
         "AddSpellcastingEntryTitle": "呪文発動枠を追加",
         "AdditionalLanguagePlusInt": "(plus Intelligence)",
-        "AdditionalSkills": "追加技能",
+        "AdditionalSkills": "追加スキル",
         "Age": "年齢",
         "AllSavesLabel": "全セーヴ",
         "AncestryFeatLevels": "アンセストラル・フィートレベル",
@@ -1009,11 +1009,11 @@
             "FailedToBuyItemWithSomeCharacters": "選択したアクターの一部では {item} を購入できなかった。",
             "Filter": {
                 "Alignments": "属性",
-                "Ancestries": "祖先",
+                "Ancestries": "アンセストリー",
                 "ArmorFilters": "防具フィルター",
                 "ClearFilter": "消去",
                 "ClearAllFilters": "すべてのフィルターを解除",
-                "CastingTime": "詠唱時間",
+                "CastingTime": "発動時間",
                 "Categories": "分類",
                 "Class": "クラス",
                 "Complexity": "複合ハザード",
@@ -1199,7 +1199,7 @@
             "sp": "銀貨",
             "upb": "UPB"
         },
-        "CurrentHitPointsShortLabel": "現在HP",
+        "CurrentHitPointsShortLabel": "Current HP",
         "CurrentStaminaPointsShortLabel": "現在SP",
         "DCAdjustmentEasy": "容易",
         "DCAdjustmentHard": "困難",
@@ -1621,9 +1621,9 @@
             "MasterLevel": "マスター・レベル",
             "MasterSpellcastingAbility": "マスター能力値",
             "Offenses": "攻撃",
-            "Perception": "知覚",
+            "Perception": "パーセプション",
             "SelectMaster": "マスターを選択…",
-            "Skills": "技能",
+            "Skills": "スキル",
             "TotalNumberFamiliarAbilities": "ファミリアのアビリティ総数"
         },
         "FeatActionTypeLabel": "アクションの種類",
@@ -1981,7 +1981,7 @@
                         "label": "ヒット・ポイント"
                     },
                     "perception": {
-                        "label": "知覚"
+                        "label": "パーセプション"
                     },
                     "savingThrows": {
                         "fortitude": {
@@ -3137,7 +3137,7 @@
             "will": "マスター【意志】"
         },
         "MaxHitPointsBaseLabel": "基本最大HP {base}",
-        "MaxHitPointsShortLabel": "最大HP",
+        "MaxHitPointsShortLabel": "Max HP",
         "MaxStaminaPointsShortLabel": "最大SP",
         "Migrations": {
             "Finished": "PF2Eシステムのバージョン{version}への移行が完了！",
@@ -3166,7 +3166,7 @@
         "ModifierNamePlaceholder": "名称",
         "ModifierTitle": "修正",
         "ModifierType": {
-            "ability": "アトリビュート",
+            "ability": "能力値",
             "circumstance": "状況",
             "item": "アイテム",
             "potency": "効力",
@@ -4054,7 +4054,7 @@
         "Size": "サイズ",
         "SizeLabel": "サイズ",
         "Skill": {
-            "Acrobatics": "〈軽業〉",
+            "Acrobatics": "アクロバティクス",
             "Arcana": "〈魔法学〉",
             "Athletics": "〈運動〉",
             "Crafting": "〈製作〉",
@@ -4177,7 +4177,7 @@
         "TabPathfinderSociety": "パスファインダー協会",
         "TabSkillsLabel": "習熟",
         "TabSpellbookLabel": "呪文発動",
-        "TempHitPointsShortLabel": "一時HP",
+        "TempHitPointsShortLabel": "Temp HP",
         "TemplateLabel": "{size}-{unit} {shape}",
         "TemporaryItemToolTip": "このアイテムは一時的で、持続時間の終了時または日次準備中に失効する。価値はなく、売却できない。",
         "Time": {
@@ -4528,7 +4528,7 @@
         "TraitDescriptionAthamaru": "アサマルスは魚類的な水棲人型生物だ。",
         "TraitDescriptionAttached": "アタッチド武器/Attached weapon は、使用するために他の装備品と組み合わせる必要がある武器である。このトレイトには、その武器をどの種類のアイテムに取り付けなければならないかが記載されている。アタッチド武器で攻撃するには、その武器が取り付けられているアイテムを保持しているか、あるいは着用していなければならない。たとえば、シールド・スパイクは盾に取り付けられており、シールド・バッシュの代わりにスパイクで攻撃できるようになる。アタッチド武器は通常、取り付け先のアイテムにボルト留めされているか組み込まれており、1つのアイテムに取り付けられる武器は一般的に1つまでである。アタッチド武器は10分間の作業とDC10クラフティング判定に成功することでアイテムに固定できる。以前取り付けられていたアイテムから取り外す必要がある場合でも、この作業時間に含まれている。アイテムが破壊された場合でも、そのアタッチド武器は基本的に回収できる。",
         "TraitDescriptionAttack": "この特性を持つ能力は攻撃を伴う。自分のターン中に最初の攻撃以降に行う各攻撃に対し、複数回攻撃ペナルティを受ける。",
-        "TraitDescriptionAuditory": "Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound.",
+        "TraitDescriptionAuditory": "聴覚/Auditory のアクションや効果は音に依存する。聴覚トレイト/Auditory trait を持つアクションは、そのアクションを使用するクリーチャーが発声できるか、あるいは必要な音を何らかの方法で生み出せる場合にのみ、正常に実行できる。聴覚トレイトを持つ呪文や効果は、目標がそれを聞くことができる場合にのみ効果を及ぼす。これは、GMが判断する音に基づく部分にのみ適用される。これは音波効果/Sonic effectとは異なり、音波効果は対象が聞くことができなくても（例えば聴覚喪失状態の対象であっても）、効果自体が音を発している限り影響を及ぼす。",
         "TraitDescriptionAura": "オーラは、あなたから継続的に広がる放射で、一定半径内のクリーチャーに影響を与える。オーラはアイテムの魔法的な徴も指す。",
         "TraitDescriptionAutomaton": "この特性を持つクリーチャーはオートマトン祖先の一員だ。",
         "TraitDescriptionAwakenedAnimal": "覚醒動物は、知性を得る前は普通の動物だった。",
@@ -4538,7 +4538,7 @@
         "TraitDescriptionBackswing": "この武器で外した攻撃の勢いを次の攻撃につなげられる。君のターン中、この武器での攻撃が外れた後、ターン終了までに行うこの武器での次の攻撃に＋1の状況ボーナスを得る。",
         "TraitDescriptionBarbarian": "これはバーバリアン・クラスの能力を示す。",
         "TraitDescriptionBard": "これはバード・クラスの能力を示す。",
-        "TraitDescriptionBarding": "You can purchase special armor for animals, called barding. All animals have a trained proficiency rank in light barding, and combat-trained animals are trained in heavy barding. Barding uses the same rules as armor except for the following. The Price and Bulk of barding depend on the animal's size. Unlike for a suit of armor, barding's Strength entry is listed as a modifier, not a score. Barding can't be etched with magic runes, though special magical barding might be available.",
+        "TraitDescriptionBarding": "動物用に購入できる特殊な鎧があり、これをバーディング/bardingと呼ぶ。すべての動物は軽装バーディングに対してトレインの習熟ランクを持ち、戦闘訓練を受けた動物は重装バーディングもトレインである。バーディングは鎧と同じルールを使用するが、次の点で異なる。バーディングの価格とバルクは、その動物のサイズに依存する。通常の鎧とは異なり、バーディングの筋力欄は能力値ではなく修正値として記載される。バーディングには魔法ルーンを刻むことはできないが、特別な魔法のバーディングが存在する場合もある。",
         "TraitDescriptionBeast": "動物に似ているが知力修正値が–3以上のクリーチャーは、通常ビーストだ。動物とは異なり、ビーストは話したり理性的に考えたりできる場合がある。",
         "TraitDescriptionBeastkin": "動物形態、人型形態、混合形態に変化できるクリーチャー。",
         "TraitDescriptionBlight": "ブライトは自然の憤怒が歪んだ存在だ。",
@@ -4546,31 +4546,31 @@
         "TraitDescriptionBomb": "錬金ボムは、クリーチャーや物体に命中したときに爆発する揮発性の錬金成分を組み合わせたものだ。ほとんどの錬金ボムはダメージを与えるが、他の効果を生むものもある。",
         "TraitDescriptionBottledBreath": "息の瓶は、雲や霧を封じた魔法の瓶で、風の次元界の住人によって最初に開発された。瓶詰めの息特性を持つアイテムは、吸い込むか、他のクリーチャーに吸い込ませることで起動できる。",
         "TraitDescriptionBrace": "ブレイス/Brace 武器は、動いている相手に対して効果的にダメージを与えられる。射程内に入ってくる相手に対してストライクを準備し、相手が君の間合いに移動してきたなら、君の次のターン開始まで、ブレイス武器でのストライクは武器ダメージ・ダイス1個につき追加で2の精密ダメージを与える。",
-        "TraitDescriptionBravado": "Actions with this trait can grant panache, depending on the result of the check involved. If you succeed at the check on a bravado action, you gain panache, and if you fail (but not critically fail) the check, you gain panache but only until the end of your next turn. These effects can be applied even if the action had no other effect due to a failure or a creature's immunity.",
+        "TraitDescriptionBravado": "このトレイトを持つアクションでは、その判定結果に応じてパナッシュ/panache を得る。ブラヴァード・アクションで行う判定に成功した場合、パナッシュを得る。判定に失敗した場合（ただしクリティカル失敗でない場合）、次の自分のターンの終了時までパナッシュを得る。これらの効果は、関与する判定に失敗したことや、クリーチャーが完全耐性を持っていたことにより、そのアクションが他に何の効果も及ぼさなかった場合であっても適用される。",
         "TraitDescriptionBrutal": "この特性を持つ遠隔攻撃は、攻撃ロールに【敏捷力】ではなく【筋力】修正値を使用する。",
         "TraitDescriptionBugbear": "この特性を持つクリーチャーは、毛むくじゃらで隠密に長けたゴブリノイドだ。バグベアは暗視を持つ傾向がある。",
         "TraitDescriptionBulwark": "この鎧は全身を完全に覆い、一部のダメージ効果に対して利益を与える。ファイアボールのようなダメージ効果を回避するための反応セーヴでは、【敏捷力】修正値の代わりに +3 の修正値を加える。",
         "TraitDescriptionCaligni": "これらの地下の民は暗視を持ち、一部は闇を生み出す力を持つ。",
         "TraitDescriptionCalling": "コーリング特性は、キャラクターが最初に神話的パワーを得たときに得る機械的選択肢を示す。各コーリングの選択肢は、神話ポイントを使用し回復する手段を与える。",
         "TraitDescriptionCantrip": "随意で発動でき、レベルの半分（切り上げ）まで自動的に高度化される呪文。",
-        "TraitDescriptionCapacity": "Weapons that have the capacity trait typically have multiple barrels or chambers capable of containing a round of ammunition. Capacity is always accompanied by a number indicating the number of barrels or chambers. After a capacity weapon is fired, you can select the next loaded barrel or chamber as an Interact action that doesn't require a free hand. Each barrel or chamber can be reloaded after it's fired as a separate Interact action.",
-        "TraitDescriptionCatalyst": "Items that have the catalyst trait are consumable material spell components that alter or magnify specific spells. Activating a catalyst is part of Casting the Spell. The catalyst might increase the number of actions required to Cast the Spell, as indicated in the catalyst's Activate entry. Additionally, the spell gains the manipulate trait if it didn't already. Because the catalyst becomes part of the spell, you can draw the catalyst as part of Casting the Spell.",
+        "TraitDescriptionCapacity": "キャパシティ/Capacityのトレイトを持つ武器は、通常、弾薬を装填できる複数の銃身や薬室を備えている。キャパシティには必ず数値が併記されており、これはその武器が持つ銃身や薬室の数を示す。キャパシティ武器を発射した後、空いている手を必要としないインタラクト・アクション/Interact action として、次に装填されている銃身または薬室を選択できる。各銃身または薬室は、発射後にそれぞれ個別のインタラクト・アクションとして再装填できる。",
+        "TraitDescriptionCatalyst": "カタリスト/Catalystのトレイトを持つアイテムは、特定の呪文を変化、あるいは増幅するための物理的な呪文構成要素であり、消耗品である。カタリストの起動は、呪文の発動の一部として行われる。カタリストの起動欄に記載されている場合、呪文を発動するために必要なアクション数が増加する。さらにその呪文は、もともと持っていなかった場合でも、マニピュレイト・トレイト/Manipulate を得る。これは、カタリストが呪文の一部として扱われるためであり、呪文の発動の一部としてカタリストを取り出すことができるからである。",
         "TraitDescriptionCatfolk": "この特性を持つクリーチャーはキャットフォーク祖先の一員だ。キャットフォークは猫の特徴を持つヒューマノイドだ。",
         "TraitDescriptionCelestial": "聖なる次元界に由来する、または強い結びつきを持つクリーチャーはセレスチャルと呼ばれる。セレスチャルは外圏の次元界の基本的な環境効果を生き延びられる。",
         "TraitDescriptionCenser": "香炉は、香を焚くための装飾的な容器で、しばしば金属や陶器で作られている。香炉特性を持つアイテムを起動するには香を詰める必要があり、起動時に香に火が付き、香炉から煙の雲が立ち上る。",
         "TraitDescriptionCentaur": "ケンタウロスは人型の上半身と馬の下半身を持つ。",
-        "TraitDescriptionCertainKill": "The Lightkeeper can use a Certain Kill Art as long as they are within the Glass Lighthouse—these abilities, which have the certain kill trait, cause obvious distortions in the Lighthouse's fabric as the user calls upon their technique. However, as each technique requires one of the Lightkeepers to temporarily take command of the demiplane from the rest of their team, only one Certain Kill Art can be used by any of the Lightkeepers in a given round.",
+        "TraitDescriptionCertainKill": "ライトキーパー/Lightkeeper は、グラス・ライトハウス/Glass Lighthouse の内部にいる限り、サーテン・キル・アート/Certain Kill Art を使用できる。これらの能力はサーテン・キル/certain killのトレイトを持ち、使用者がその技を発動すると、ライトハウスの構造そのものに明白な歪みを生じさせる。しかし、それぞれの技は、ライトキーパーのうち1人が一時的にチームの他メンバーからデミプレーンの支配権を引き受けなくてはいけないため、1ラウンド中、いずれか1人のライトキーパーのみが、サーテン・キル・アートを1つ使用できる。",
         "TraitDescriptionChampion": "これはチャンピオン・クラスの能力を示す。",
         "TraitDescriptionChangeling": "この特性を持つクリーチャーはチェンジリングの多様な血統を持つ。チェンジリングはハグの子であり、他のヒューマノイド祖先の一員でもある。この特性を持つ能力はチェンジリングのみが使用または選択できる。",
         "TraitDescriptionCharauKa": "マンドリルのようなヒューマノイドの戦士。多くのチャラウ＝カはウサロに住む。",
-        "TraitDescriptionClass": "Archetypes with the class trait fundamentally diverge from your class's specialties but still fit within the theme of your class. You can select a class archetype only if your class meets the criteria listed in the archetype's prerequisites. Class archetypes always alter or replace some of a class's static class features in addition to any new feats they offer. It might be possible to take a class archetype at 1st level if it alters or replaces some of the class's initial class features. The 1st-level ability is presented much like a class feature and includes the class archetype's prerequisites and rules on how it changes your class. If you select this ability, you must take that archetype's dedication feat at 2nd level, and you proceed normally afterward. You can never have more than one class archetype.",
+        "TraitDescriptionClass": "クラス・トレイト/class trait を持つアーキタイプは、クラスが本来得意としている分野とは異なる性質を持つが、クラスのテーマから大きく外れるものではない。クラス・アーキタイプは、前提条件を自分のクラスが満たしている場合にのみ選択できる。クラス・アーキタイプは、新たなフィートを提供することに加え、固定クラス・フィーチャーの一部を変更、または置き換える。1レベル時のクラス・フィーチャーの一部を変更、または置き換える場合、1レベル時にクラス・アーキタイプを取得できることもある。この時取得する能力には、通常のクラス・フューチャーと同様の形式で記載されており、クラス・アーキタイプの前提条件と、クラスをどのように変更するかのルールが含まれている。このような能力を選択した場合、2レベル時にそのアーキタイプの献身フィート/dedication feat を必ず取得し、その後は通常どおり進行する。クラス・アーキタイプを同時に複数取得することは決してできない。",
         "TraitDescriptionCleric": "これはクレリック・クラスの能力を示す。",
         "TraitDescriptionClimbing": "武器を持つ手は〈登攀〉に使用できる。",
         "TraitDescriptionClockwork": "クロックワークは精巧で複雑な構造体で、特定の機能を果たすようにプログラムできる。",
         "TraitDescriptionCoagulant": "凝固剤/Coagulant 特性を持つ治癒の錬金術アイテムは、短時間に多数を適用すると効果が落ちる。クリーチャーが凝固剤特性を持つアイテムからHPを回復した場合、そのクリーチャーは10分間、以降の凝固剤特性を持つアイテムからHPを回復することに対して一時的免疫を得る（ただし、それらのアイテムの他の効果には免疫を得ない）。",
         "TraitDescriptionCoatl": "さまざまな聖なる神々に仕える、宇宙の守護者であり使者である超自然的な羽毛の蛇の一族。",
         "TraitDescriptionCobbled": "この火器は寄せ集めで作られており、誤作動しやすい。どれほど手入れをしていても、攻撃ロールに失敗すると攻撃は外れ、@Check[flat|dc:5] を行わなければならない。この判定に失敗すると、武器は誤作動を起こす。",
-        "TraitDescriptionCoda": "<p>Instruments with the coda trait work mostly like staves and have the staff trait. There are two differences: Coda instruments are in the form of musical instruments, and they can be prepared only by bards. Because they're not physically staves, you can't attack with a coda instrument, nor can you etch it with weapon runes.</p><p>The process of preparing a coda instrument involves playing significant portions of songs related to the spells within the instrument—either old standards or ones of your own creation. This leaves magical reverberations within the instrument that allow you to complete the songs by playing their coda later in the day.</p>",
+        "TraitDescriptionCoda": "<p>コーダ・トレイト/coda trait を持つ楽器は、基本的にはスタッフ/staff と同様に機能し、スタッフ・トレイト/staff trait を持つ。ただし、以下の2点が異なる。第一に、コーダ楽器は音楽用の楽器の形状をしていること。第二に、準備できるのはバード/bard のみであることだ。これらは厳密にはスタッフではないため、コーダ楽器で攻撃を行うことはできず、また武器ルーン/weapon rune を刻むこともできない。</p><p>コーダ楽器を準備する過程では、その楽器に込められた呪文に関する楽曲の重要部分を演奏しなければならない。それは伝統曲でも、自分の創作曲でもよい。この工程によって楽器内部に魔法的な残響が生じ、その日の間、楽曲のコーダ部分を演奏することで楽曲を完成させ、呪文を発動させる事ができるようになる。</p>",
         "TraitDescriptionCold": "この特性を持つ効果は冷気ダメージを与える。この特性を持つクリーチャーは魔法的な冷気とつながりを持つ。",
         "TraitDescriptionCombination": "これは、近接武器と火器の機能を独特または異例な形で組み合わせた武器の特性である。コンビネーション武器は、火器形態または用途と、近接武器形態または用途の両方を持つ。",
         "TraitDescriptionComfort": "この防具は非常に快適で、装備したままでも通常どおり休息できる。",
@@ -4578,18 +4578,18 @@
         "TraitDescriptionCompanion": "この特性を持つアイテムは、動物の相棒や同様のクリーチャーが装備できる。相棒は最大2つまでアイテムを投資できる。",
         "TraitDescriptionComplex": "この特性を持つハザードは遭遇中にターンを持つ。",
         "TraitDescriptionComposite": "複合インパルスは複数の要素を組み合わせる。あなたのキネティック要素が、インパルスの特性に列挙されたすべての要素を含む場合にのみ、複合特性を持つインパルスを取得できる。",
-        "TraitDescriptionComposition": "To cast a composition cantrip or focus spell, you use a type of Performance. If the spell requires an auditory performance, you might recite a poem, sing a song, or perform a dramatic monologue. If the spell requires a visual performance, you might dance or pantomime. You can cast only one composition spell each turn, and you can have only one active at a time. If you cast a new composition spell, any ongoing effects from your previous composition spell end immediately.",
+        "TraitDescriptionComposition": "コンポジションのキャントリップ、またはフォーカス・スペルを発動するには、パフォーマンス/Performance の一種を用いる。呪文が聴覚的なパフォーマンスを要求する場合、詩を朗誦したり、歌を歌ったり、芝居がかった語りを行ったりする。視覚的なパフォーマンスを要求する場合には、踊ったり、パントマイムを行ったりすることがある。1ターン中に発動できるコンポジション・スペルは1つのみであり、同時に維持できるコンポジション・スペルも1つだけである。新たなコンポジション・スペルを発動した場合、それまで発動して継続中の効果は即座に終了する。",
         "TraitDescriptionConcealable": "この武器は目立たない、または容易に隠せるよう設計されている。この特性を持つ武器を隠す、または秘匿するための〈隠密〉判定およびDCに +2 の状況ボーナスを得る。",
         "TraitDescriptionConcentrate": "この特性を持つアクションは、一定の精神集中と鍛錬を要する。",
-        "TraitDescriptionConcussive": "These weapons smash as much as puncture. When determining a creature's resistance or immunity to damage from this weapon, use the weaker of the target's resistance or immunity to piercing or to bludgeoning. For instance, if the creature were immune to piercing and had no resistance or immunity to bludgeoning damage, it would take full damage from a concussive weapon. Resistance or immunity to all physical damage, or all damage, applies as normal.",
+        "TraitDescriptionConcussive": "これらの武器は、刺突と同程度に殴打としても作用する。この武器によるダメージに対するクリーチャーの耐性または完全耐性を判定する際、目標が持つ刺突ダメージの耐性/完全耐性と、殴打ダメージの耐性/完全耐性のうち、より弱い方を使用する。例えば、そのクリーチャーが刺突に完全耐性を持ち、殴打に対しては耐性も完全耐性も持たない場合、コンカッシブ武器/Concussive weapon によって完全なダメージを受ける。すべての物理ダメージ、またはすべてのダメージに対する耐性や完全耐性は、通常どおり適用される。",
         "TraitDescriptionConrasu": "宇宙的力から意識を与えられ、独自の外骨格に収められた民。",
         "TraitDescriptionConsecration": "聖別呪文はエリアを長時間にわたって強化する。1つのエリアに存在できる聖別効果は1つだけである。新たな効果は、重なり合うエリアに存在する既存の効果への対抗を試みる。",
-        "TraitDescriptionConstruct": "A construct is an artificial creature empowered by a force other than vitality or void. Constructs are often mindless; they are immune to bleed, death effects, disease, healing, nonlethal attacks, poison, spirit, vitality, void, and the doomed, drained, fatigued, paralyzed, sickened, and unconscious conditions; and they may have Hardness based on the materials used to construct their bodies. Constructs are not living creatures, nor are they undead. When reduced to 0 Hit Points, a construct creature is destroyed.",
+        "TraitDescriptionConstruct": "コンストラクト/Construct とは、ヴァイタリティ/Vitality や ボイド/Void 以外の力によって動力を与えられた人造のクリーチャーである。コンストラクトはしばしば精神を持たず、出血、死亡効果、疾病、治癒、非致死攻撃、毒、スピリット、ヴァイタリティ、ボイド、ならびに 破滅/Doomed、消耗/Drained、疲労/Fatigued、麻痺/Paralyzed、病気/Sickened、気絶/Unconscious 状態に対して完全耐性を持つ。また、その身体を造る素材に応じた 硬度/Hardness を持つことがある。コンストラクトは生きているクリーチャーではなく、またアンデッドでもない。コンストラクト・クリーチャーは、ヒット・ポイント/Hit Points が 0 になると破壊される。",
         "TraitDescriptionConsumable": "この特性を持つアイテムは1回しか使用できない。特記がない限り、起動後に破壊される。消費アイテムには、錬金術アイテムや巻物、タリスマンといった魔法の消費アイテムが含まれる。キャラクターが消費アイテムを作成する場合、4個単位で作成できる。",
-        "TraitDescriptionContact": "A contact poison is activated by applying it to an item or directly onto a living creature's skin. The first creature to touch the affected item must attempt a saving throw against the poison; if the poison is applied directly, the creature must attempt a saving throw immediately when the poison touches its skin. Contact poisons are infeasible to apply to a creature via a weapon attack due to the logistics of delivering them without poisoning yourself. Typically, the onset time of a contact poison is 1 minute.",
-        "TraitDescriptionContingency": "Spells with this trait grant you an action during the spell's effects, typically a reaction with a special trigger. They typically have a long duration, such as 24 hours. You can have only one spell with the contingency trait, or one contingency spell, active at a time. If you cast another spell with the contingency trait or contingency, the newer casting supersedes the older.",
+        "TraitDescriptionContact": "接触毒/Contact poison は、アイテムに塗布するか、生きているクリーチャーの皮膚に直接塗ることで有効化される。影響を受けたアイテムに最初に触れたクリーチャーは、その毒に対するセーヴィング・スローを試みなければならない。毒が直接塗布された場合、その毒が皮膚に触れた時点で、即座にセーヴィング・スローを試みる。接触毒は、使用者自身が毒に触れずに武器攻撃で対象に作用させることが困難であるため、武器攻撃によってクリーチャーに用いることは現実的ではない。通常、接触毒の発現時間/Onset time は 1分である。",
+        "TraitDescriptionContingency": "このトレイトを持つスペルは、そのスペルの効果中に追加のアクションを得る。通常は特定のトリガーを持つリアクションである。これらのスペルは、一般に24時間などの長い持続時間を持つ。同時に有効化できるのは、コンティジェンシー/Contingency、およびコンティンジェンシー・トレイト/contingency trait を持つスペルを通して1つのみである。別のコンティジェンシー、またはコンティンジェンシー・トレイトを持つスペルを発動した場合、以前のスペルは失われ、新しいものが有効となる。",
         "TraitDescriptionContract": "契約は、複数の当事者間の合意を魔法的に成立させ、通常は魔法的な利益を与えるアイテム種別だ。",
-        "TraitDescriptionCriticalFusion": "Critical fusion is a new trait for combination weapons that grants you two additional options for the critical specialization effect when using the combination weapon's melee version to make a melee attack while the firearm is loaded. If you choose to use one of them, they replace the melee usage's normal critical specialization effect. First, you can discharge the firearm to create a loud bang and concussion, using the critical specialization effect for firearms instead of the melee weapon group's critical specialization effect. Second, you can choose to discharge the firearm to increase the critical hit's momentum or shoot the foe as you attack them in melee, dealing 2 additional damage per weapon damage die. Both of these options discharge the firearm, which typically means you have to reload it before firing it again.",
+        "TraitDescriptionCriticalFusion": "クリティカル・フュージョン/Critical fusion は、コンビネーション武器に追加された新しいトレイトであり、火器に装填されている状態でコンビネーション武器の近接形態を用いて近接攻撃を行った際、クリティカル・スペシャライゼーション効果として追加の選択肢を2つ与える。これらのうちいずれかを選択した場合、その効果は近接使用時の通常のクリティカル・スペシャライゼーション効果に置き換わる。1つ目の選択肢では、火器を発射して大きな炸裂音と衝撃を生み出し、近接武器種のクリティカル・スペシャライゼーション効果の代わりに、火器のクリティカル・スペシャライゼーション効果を使用する。2つ目の選択肢では、火器を発射して近接攻撃のクリティカル・ヒットに勢いを加え、武器ダメージ・ダイス1つにつき追加で2ダメージを与える。いずれの選択肢も火器を発射するため、通常は再度射撃する前にリロードが必要となる。",
         "TraitDescriptionCurse": "呪いは、クリーチャーに長期的な苦難を課す効果である。呪いは常に魔法的で、通常は呪文や罠の結果として生じる。この特性を持つ効果は、呪いを明示的に対象とする効果でしか除去できない。",
         "TraitDescriptionCursebound": "この特性を持つ呪文は、発動すると君の神託の呪いを悪化させる。通常、この特性を持つのは啓示呪文のみである。君に神託の呪いがない限り、呪縛/Cursebound 呪文は発動できない。防御を可能にする呪縛能力は、特記がない限り、呪文攻撃修正値または呪文DCを用いる。",
         "TraitDescriptionCursed": "この特性を持つアイテムは、所有者に厄介事を引き起こすよう呪われている。呪いは、アイテムが識別された際には検知されないが、クリティカル成功では呪いの存在と正確な性質の両方が明らかになる。呪われたアイテムは、一度発動した後、または初めて投資/Invested された後は捨てられない。呪いが解かれない限り、そのアイテムは取り外せない。",
@@ -6480,7 +6480,7 @@
                 "summary": "出血などにより生命力が失われている。"
             },
             "dying": {
-                "name": "瀕死/Dying",
+                "name": "瀕死",
                 "rules": "<p>You are bleeding out or otherwise at death's door. While you have this condition, you are unconscious. Dying always includes a value, and if it ever reaches dying 4, you die. If you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse. Your dying condition increases by 1 if you take damage while dying, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.</p>\n<p>If you lose the dying condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Any time you lose the dying condition, you gain the wounded 1 condition, or increase your wounded condition value by 1 if you already have that condition.</p>",
                 "summary": "死に近づいている。"
             },
@@ -6645,7 +6645,7 @@
                 "summary": "クリーチャーはあなたの存在に完全に気づいていない。"
             },
             "wounded": {
-                "name": "負傷/Wounded",
+                "name": "負傷",
                 "rules": "<p>You have been seriously injured. If you lose the dying condition and do not already have the wounded condition, you become wounded 1. If you already have the wounded condition when you lose the dying condition, your wounded condition value increases by 1. If you gain the dying condition while wounded, increase your dying condition value by your wounded value.</p>\n<p>The wounded condition ends if someone successfully restores Hit Points to you with Treat Wounds, or if you are restored to full Hit Points and rest for 10 minutes.</p>",
                 "summary": "あなたは死の淵から戻ってきたが、完全には回復していない。"
             }
