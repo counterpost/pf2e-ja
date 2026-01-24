@@ -33,8 +33,8 @@
         "Combats": "エンカウント"
     },
     "PF2E": {
-        "AbilityBoost": "アトリビュートブースト",
-        "AbilityBoostLevels": "アトリビュートブーストレベル",
+        "AbilityBoost": "能力値増強",
+        "AbilityBoostLevels": "能力値増強レベル",
         "AbilityCha": "魅力",
         "AbilityCheck": {
             "cha": "魅力判定",
@@ -57,9 +57,9 @@
             "wis": "Wis"
         },
         "AbilityInt": "知力",
-        "AbilityModifierLabel": "アトリビュート修正値",
+        "AbilityModifierLabel": "能力修正値",
         "AbilityStr": "筋力",
-        "AbilityTitle": "アトリビュート",
+        "AbilityTitle": "能力値",
         "AbilityWis": "判断力",
         "AccessoryPropertyRuneCalled": "コール",
         "AccessoryPropertyRuneDragonsBreath": "ドラゴンブレス",
@@ -150,9 +150,9 @@
                     }
                 },
                 "Attribute": {
-                    "Apex": "重要なアトリビュート",
-                    "Boosts": "アトリビュート増強",
-                    "Key": "重要なアトリビュート"
+                    "Apex": "重要な能力値",
+                    "Boosts": "能力値増強",
+                    "Key": "重要な能力値"
                 },
                 "AttributeBuilder": {
                     "InputMethod": {
@@ -516,7 +516,7 @@
                 "NoAttribute": "なし（ペット）",
                 "Master": {
                     "ArmorClass": "マスターのアーマー・クラス",
-                    "Perception": "マスターの知覚"
+                    "Perception": "マスターのパーセプション"
                 }
             },
             "Hardness": {
@@ -617,8 +617,8 @@
                         "Tooltip": "\"クリーチャーを識別する際に用いる技能は、通常は『クリーチャー識別技能表』に示されている通り、そのクリーチャーの特性に基づく。ただし、どの技能を適用できるかについては裁量の余地がある。\"\n— Pathfinder GM Core 54–55 ページ"
                     },
                     "Lore": {
-                        "Label": "適用可能な〈伝承〉: DC {dc1} ({adjustment1}) または DC {dc2} ({adjustment2})",
-                        "Tooltip": "\"適切な〈伝承/Lore〉を用いる場合、通常はDCが簡単、あるいは非常に簡単になる（レアリティによる調整を行う前）。\"\n— Pathfinder GM Core 54 ページ"
+                        "Label": "適用可能なロア: DC {dc1} ({adjustment1}) または DC {dc2} ({adjustment2})",
+                        "Tooltip": "\"適切なロアを用いる場合、通常はDCが簡単、あるいは非常に簡単になる（レアリティによる調整を行う前）。\"\n— Pathfinder GM Core 54 ページ"
                     }
                 },
                 "LevelN": "クリーチャー {level}",
@@ -629,7 +629,7 @@
                     "Error": {
                         "PredicateArray": "述語は配列でなければならない"
                     },
-                    "LorePlaceholder": "カーペントリー伝承",
+                    "LorePlaceholder": "カーペントリー・ロア/Carpentry Lore",
                     "Note": "注記",
                     "Predicate": "条件",
                     "Special": "特殊",
@@ -689,7 +689,7 @@
                     "OpenSheet": "シートを開く",
                     "OtherParties": "他のパーティー"
                 },
-                "Skills": "パーティー技能",
+                "Skills": "パーティー・スキル",
                 "SlotAvailable": "空きスロット",
                 "Tabs": {
                     "Overview": "概要",
@@ -742,7 +742,7 @@
         "AddSpellTitle": "呪文を追加",
         "AddSpellcastingEntryTitle": "呪文発動枠を追加",
         "AdditionalLanguagePlusInt": "(plus Intelligence)",
-        "AdditionalSkills": "追加技能",
+        "AdditionalSkills": "追加スキル",
         "Age": "年齢",
         "AllSavesLabel": "全セーヴ",
         "AncestryFeatLevels": "アンセストラル・フィートレベル",
@@ -1009,11 +1009,11 @@
             "FailedToBuyItemWithSomeCharacters": "選択したアクターの一部では {item} を購入できなかった。",
             "Filter": {
                 "Alignments": "属性",
-                "Ancestries": "祖先",
+                "Ancestries": "アンセストリー",
                 "ArmorFilters": "防具フィルター",
                 "ClearFilter": "消去",
                 "ClearAllFilters": "すべてのフィルターを解除",
-                "CastingTime": "詠唱時間",
+                "CastingTime": "発動時間",
                 "Categories": "分類",
                 "Class": "クラス",
                 "Complexity": "複合ハザード",
@@ -1621,9 +1621,9 @@
             "MasterLevel": "マスター・レベル",
             "MasterSpellcastingAbility": "マスター能力値",
             "Offenses": "攻撃",
-            "Perception": "知覚",
+            "Perception": "パーセプション",
             "SelectMaster": "マスターを選択…",
-            "Skills": "技能",
+            "Skills": "スキル",
             "TotalNumberFamiliarAbilities": "ファミリアのアビリティ総数"
         },
         "FeatActionTypeLabel": "アクションの種類",
@@ -1981,7 +1981,7 @@
                         "label": "ヒット・ポイント"
                     },
                     "perception": {
-                        "label": "知覚"
+                        "label": "パーセプション"
                     },
                     "savingThrows": {
                         "fortitude": {
@@ -6480,7 +6480,7 @@
                 "summary": "出血などにより生命力が失われている。"
             },
             "dying": {
-                "name": "瀕死/Dying",
+                "name": "瀕死",
                 "rules": "<p>You are bleeding out or otherwise at death's door. While you have this condition, you are unconscious. Dying always includes a value, and if it ever reaches dying 4, you die. If you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse. Your dying condition increases by 1 if you take damage while dying, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.</p>\n<p>If you lose the dying condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Any time you lose the dying condition, you gain the wounded 1 condition, or increase your wounded condition value by 1 if you already have that condition.</p>",
                 "summary": "死に近づいている。"
             },
@@ -6645,7 +6645,7 @@
                 "summary": "クリーチャーはあなたの存在に完全に気づいていない。"
             },
             "wounded": {
-                "name": "負傷/Wounded",
+                "name": "負傷",
                 "rules": "<p>You have been seriously injured. If you lose the dying condition and do not already have the wounded condition, you become wounded 1. If you already have the wounded condition when you lose the dying condition, your wounded condition value increases by 1. If you gain the dying condition while wounded, increase your dying condition value by your wounded value.</p>\n<p>The wounded condition ends if someone successfully restores Hit Points to you with Treat Wounds, or if you are restored to full Hit Points and rest for 10 minutes.</p>",
                 "summary": "あなたは死の淵から戻ってきたが、完全には回復していない。"
             }
