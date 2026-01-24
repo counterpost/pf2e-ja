@@ -56,3 +56,7 @@
   - プレイ中に状態を即座にイメージできることを重視  
   - Foundry VTT 上ですぐに詳細確認できるため、検索性は重視しない  
   - 状態異常は計算式に組み込まれるため、あまり検索される事はないと思われる
+
+
+### インストールURL
+https://raw.githubusercontent.com/counterpost/pf2e-ja/main/module.json
