@@ -1199,7 +1199,7 @@
             "sp": "銀貨",
             "upb": "UPB"
         },
-        "CurrentHitPointsShortLabel": "現在HP",
+        "CurrentHitPointsShortLabel": "Current HP",
         "CurrentStaminaPointsShortLabel": "現在SP",
         "DCAdjustmentEasy": "容易",
         "DCAdjustmentHard": "困難",
@@ -3137,7 +3137,7 @@
             "will": "マスター【意志】"
         },
         "MaxHitPointsBaseLabel": "基本最大HP {base}",
-        "MaxHitPointsShortLabel": "最大HP",
+        "MaxHitPointsShortLabel": "Max HP",
         "MaxStaminaPointsShortLabel": "最大SP",
         "Migrations": {
             "Finished": "PF2Eシステムのバージョン{version}への移行が完了！",
@@ -4054,7 +4054,7 @@
         "Size": "サイズ",
         "SizeLabel": "サイズ",
         "Skill": {
-            "Acrobatics": "〈軽業〉",
+            "Acrobatics": "アクロバティクス",
             "Arcana": "〈魔法学〉",
             "Athletics": "〈運動〉",
             "Crafting": "〈製作〉",
@@ -4177,7 +4177,7 @@
         "TabPathfinderSociety": "パスファインダー協会",
         "TabSkillsLabel": "習熟",
         "TabSpellbookLabel": "呪文発動",
-        "TempHitPointsShortLabel": "一時HP",
+        "TempHitPointsShortLabel": "Temp HP",
         "TemplateLabel": "{size}-{unit} {shape}",
         "TemporaryItemToolTip": "このアイテムは一時的で、持続時間の終了時または日次準備中に失効する。価値はなく、売却できない。",
         "Time": {
