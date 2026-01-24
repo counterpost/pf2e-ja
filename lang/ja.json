@@ -150,9 +150,9 @@
                     }
                 },
                 "Attribute": {
-                    "Apex": "重要な能力値",
+                    "Apex": "基幹能力",
                     "Boosts": "能力値増強",
-                    "Key": "重要な能力値"
+                    "Key": "上限能力"
                 },
                 "AttributeBuilder": {
                     "InputMethod": {
@@ -163,10 +163,10 @@
                     "AncestryMissingHelp": "増強を選択するための祖先を選択。",
                     "AlternateBoostsLabel": "代替のブースト",
                     "BackgroundBoostDescription": "2つの増強ボーナス：1つは {a} または {b} でなければならない。",
-                    "BackgroundMissingHelp": "アトリビュート増強を選ぶために背景を選択する。",
+                    "BackgroundMissingHelp": "能力値増強を選ぶために背景を選択する。",
                     "Boost": "増強",
                     "Boosts": "増強",
-                    "ClassMissingHelp": "アトリビュート増強を選ぶためにクラスを選択する。",
+                    "ClassMissingHelp": "能力値増強を選ぶためにクラスを選択する。",
                     "Complete": "完了",
                     "Flaw": "欠点",
                     "Flaws": "欠点",
@@ -302,7 +302,7 @@
                     "Opposition": "反対",
                     "Party": "パーティー"
                 },
-                "AttributeModifiers": "アトリビュート修正値",
+                "AttributeModifiers": "能力修正値",
                 "Configure": {
                     "Alliance": {
                         "Hint": "クリーチャーはパーティに敵対、同盟、または中立の立場を取れる。これは側面攻撃など、遭遇中の一部の処理に影響する。",
@@ -621,7 +621,7 @@
                         "Tooltip": "\"適切なロアを用いる場合、通常はDCが簡単、あるいは非常に簡単になる（レアリティによる調整を行う前）。\"\n— Pathfinder GM Core 54 ページ"
                     }
                 },
-                "LevelN": "クリーチャー {level}",
+                "LevelN": "Creature {level}",
                 "SimpleSheet": "簡易NPCシート",
                 "SpecialSkill": "+{mod} {label}",
                 "SkillsEditor": {
@@ -3166,7 +3166,7 @@
         "ModifierNamePlaceholder": "名称",
         "ModifierTitle": "修正",
         "ModifierType": {
-            "ability": "アトリビュート",
+            "ability": "能力値",
             "circumstance": "状況",
             "item": "アイテム",
             "potency": "効力",
