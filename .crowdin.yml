@@ -2,8 +2,5 @@ files:
   - source: /lang/en.json
     translation: /lang/%two_letters_code%.json
 
-  - source: /lang/action-en.json
-    translation: /lang/action-%two_letters_code%.json
-
-  - source: /lang/re-en.json
-    translation: /lang/re-%two_letters_code%.json
+  - source: /lang/*-en.json
+    translation: /lang/*-%two_letters_code%.json
