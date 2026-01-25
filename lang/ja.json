@@ -4764,7 +4764,7 @@
         "TraitDescriptionElf": "この特性を持つクリーチャーはエルフ祖先の一員である。エルフは魔法と学識に富む伝統を持つ神秘的な民で、通常は薄暗視を持つ。この特性を持つ能力はエルフのみが使用または選択できる。この特性を持つ武器はエルフによって作られ、使用される。",
         "TraitDescriptionElixir": "エリクサーは飲用して使用する錬金液体だ。",
         "TraitDescriptionEmotion": "この効果はクリーチャーの感情を変化させる。この特性を持つ効果は常に精神特性も持つ。特殊な訓練を受けたクリーチャーや、機械的・人工的知性を持つ存在は感情効果に完全耐性を持つ。",
-        "TraitDescriptionEntrench": "You can position yourself in the armor or reposition its articulated pieces to better protect against some attacks. If you're trained in this armor, while wearing it you can spend a single action to gain a +1 circumstance bonus to AC against a certain type of attack until the start of your next turn. The entrench trait lists the type of attack this bonus applies against, typically entrench melee or entrench ranged.",
+        "TraitDescriptionEntrench": "この防具を着用したまま姿勢や可動部位を調整することで、特定の攻撃に対する防御を高めることができる。この防具に対して訓練済みであるなら、着用中に1アクションを消費して、次の自分のターン開始時まで、特定の種類の攻撃に対するACに+1の状況ボーナスを得ることができる。このボーナスが適用される攻撃の種類は、エントレンチ・トレイト/entrench traitに記載されており、通常はエントレンチ・メレーあるいはエントレンチ・レンジドである。",
         "TraitDescriptionEnvironmental": "この特性を持つハザードは、流砂や有害なカビのように、自然界の一部である危険物だ。",
         "TraitDescriptionEsoterica": "The esoterica trait is present in many thaumaturge feats and class features that incorporate the various talismans, supernatural trinkets, and other objects you carry with you. Abilities that have the esoterica trait require you to be in possession of your esoterica to use them. Normally, you're assumed to always have your esoterica with you, but in some rare circumstances, you might either not have them on hand or have your gear stripped from you.",
         "TraitDescriptionEthereal": "エーテル界原産のクリーチャー。エーテル界の基本的な環境影響を生き延びられる。",
