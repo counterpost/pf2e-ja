@@ -96,7 +96,7 @@
             },
             "Strike": {
                 "MeleeLabel": "メレー・ストライク：{weapon}",
-                "OutOfRange": "目標が射程外。",
+                "OutOfRange": "対象が射程外。",
                 "RangedLabel": "レンジド・ストライク：{weapon}"
             }
         },
@@ -1156,7 +1156,7 @@
         "ConditionTypeRestrained": "拘束",
         "ConditionTypeSickened": "不調",
         "ConditionTypeSlowed": "減速",
-        "ConditionTypeStunned": "朦朧",
+        "ConditionTypeStunned": "スタン",
         "ConditionTypeStupefied": "混濁",
         "ConditionTypeUnconscious": "気絶",
         "ConditionTypeUndetected": "未探知",
@@ -1354,7 +1354,7 @@
                     "spell-deflection": "呪文反射",
                     "spells": "スペル",
                     "splash-damage": "飛散ダメージ",
-                    "stunned": "朦朧",
+                    "stunned": "スタン",
                     "stupefied": "錯乱",
                     "swarm-attacks": "スウォームアタック",
                     "swarm-mind": "スウォームマインド",
@@ -2900,9 +2900,9 @@
                     "Hint": "状態異常を打ち消す場合、DCはその状態異常のデータブロックに記載されている。呪文であれば、術者のDCを用いる。GMは対象効果のレベルに基づいてDCを算出することもできる。",
                     "Label": "対抗判定",
                     "criticalFailure": "対象への打ち消しに失敗した。",
-                    "criticalSuccess": "対抗ランクが {rank} 以下なら目標を対抗する。",
-                    "failure": "対抗ランクが {rank} 未満なら目標を対抗する。",
-                    "success": "対抗ランクが {rank} 以下なら目標を対抗する。"
+                    "criticalSuccess": "カウンターアクト・ランクが {rank} 以下である場合、対象をカウンターアクトする。",
+                    "failure": "カウンターアクト・ランクが {rank} 未満である場合、対象をカウンターアクトする。",
+                    "success": "カウンターアクト・ランクが {rank} 以下である場合、対象をカウンターアクトする。"
                 },
                 "Defense": {
                     "BasicDefense": "基本{save}",
@@ -2986,7 +2986,7 @@
                     "Hint": "この武器を弾薬として別の武器に装填できることを示す。"
                 },
                 "CriticalSpecialization": {
-                    "axe": "初期目標に隣接し、かつ自分の間合い内にいるクリーチャーを1体選ぶ。そのACが、このクリティカル・ヒットにおける自分の攻撃ロール結果より低い場合、そのクリーチャーに対して、自分がロールした武器ダメージ・ダイスの結果に等しいダメージを与える（該当する場合、その <em>ストライキング・ルーン/striking rune</em> による追加ダイスを含む）。このダメージ量は倍加されず、ボーナスやその他の追加ダイスはいずれも適用されない。",
+                    "axe": "最初に対象となったクリーチャーに隣接し、かつあなたの間合い内にいるクリーチャーを1体選ぶ。そのクリーチャーのACが、あなたのクリティカル・ヒットにおける攻撃ロール結果より低い場合、そのクリーチャーに対して、あなたがロールした武器ダメージ・ダイスの結果に等しいダメージを与える（もしあれば、<em>ストライキング・ルーン/striking rune</em>による追加ダイスを含む）。このダメージは倍化されず、ボーナスやその他の追加ダイスはいずれも適用されない。",
                     "bomb": "爆弾のスプラッシュ・ダメージの半径 (存在する場合) を10フィートに増加させる。",
                     "bow": "クリティカル・ヒットの目標が、壁や地面などの動かない構造物に隣接している場合、その目標は射出物によってその構造物に固定される。目標は @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} となり、射出物を引き抜くためにインタラクト・アクションを消費して @Check[athletics|dc:10|name:Pull the Missile Free|showDC:all] 判定を試みなければならない；成功するまで、そのクリーチャーは自分のマスから移動できない。対象が非実体である場合、液体である場合、あるいは労せずして脱出できる存在である場合（たとえば、射出物が障害にならないほど十分に巨大である場合など）には、この固定は発生しない。",
                     "brawling": "目標は、あなたのクラスDCに対する @Check[fortitude|against:class|name:Brawling Critical Specialization] セーヴに成功しなければ、次のあなたのターン終了時まで @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} になる。",
@@ -6906,7 +6906,7 @@
                 "summary": "各ターンでアクションを失う。"
             },
             "stunned": {
-                "name": "朦朧/Stunned",
+                "name": "スタン/Stunned",
                 "rules": " you lose all your actions for the listed duration.</p>",
                 "summary": "アクションを使用できない。"
             },
