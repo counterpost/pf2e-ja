@@ -150,7 +150,7 @@
                     }
                 },
                 "Attribute": {
-                    "Apex": "基幹能力",
+                    "Apex": "エイペックス能力値",
                     "Boosts": "能力値増強",
                     "Key": "上限能力"
                 },
@@ -2585,7 +2585,7 @@
                 "Subfeatures": {
                     "KeyAbilityOptions": {
                         "Label": "主要能力値オプション",
-                        "Hint": "クラスで提供されるものに加えた主要能力値オプション"
+                        "Hint": "クラスで提供されるものに加えた重要な能力値オプション"
                     },
                     "Label": "下位特徴",
                     "Languages": {
@@ -3521,9 +3521,9 @@
         "ProficiencyLabel": "習熟",
         "ProficiencyLevel0": "未習熟",
         "ProficiencyLevel1": "習熟",
-        "ProficiencyLevel2": "達人",
-        "ProficiencyLevel3": "名匠",
-        "ProficiencyLevel4": "伝説",
+        "ProficiencyLevel2": "エキスパート",
+        "ProficiencyLevel3": "マスター",
+        "ProficiencyLevel4": "レジェンダリー",
         "ProgressBar": {
             "LoadingComplete": "読み込み完了",
             "LoadingPack": "読み込み中 {pack}"
@@ -4425,7 +4425,7 @@
         "TraitAnimal": "動物",
         "TraitAnimist": "アニミスト",
         "TraitAnugobu": "アヌゴブ",
-        "TraitApex": "頂点",
+        "TraitApex": "エイペックス",
         "TraitAphorite": "アフォライト",
         "TraitApparition": "出現霊",
         "TraitAppliedToANoninjectionMeleePiercingWeapon": "刺突ダメージを与える非注入型近接武器に適用",
