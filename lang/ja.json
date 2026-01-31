@@ -3731,7 +3731,7 @@
                     "Name": "期限切れ効果を削除"
                 },
                 "RulesBasedVision": {
-                    "Hint": "Apply vision mechanics that are a best-effort attempt to capture game rules. Enabling this setting will remove the ability to configure Unrestricted Global Vision as well as Token Sight radii.",
+                    "Hint": "視界に関して、ゲームルールを出来るだけ再現する機能を適用する。この設定を有効にすると、「制限なしのグローバル視界」および「トークンの視界半径」を設定する機能は使用できなくなる。",
                     "ManagedBy": "ルール準拠の視界で管理。",
                     "Name": "ルール準拠視界",
                     "ViewWorldSetting": "ワールド設定を見る"
