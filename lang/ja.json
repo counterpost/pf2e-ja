@@ -4784,7 +4784,7 @@
         "TraitDescriptionFighter": "これはファイター・クラスの能力を示す。",
         "TraitDescriptionFigurehead": "多くの船は装飾的な彫刻で飾られているが、勇敢な船団は時に魔法の船首像を入手する。",
         "TraitDescriptionFinesse": "この近接武器による攻撃ロールでは、筋力修正値の代わりに敏捷力修正値を使用できる。ダメージ算出では依然として筋力修正値を使用する。",
-        "TraitDescriptionFinisher": "Finishers are spectacular finishing moves. You can use a finisher only if you have panache, and you lose your panache immediately after performing a finisher. Once you use a finisher, you can't use actions that have the attack trait for the rest of your turn. Some finisher actions also grant an effect on a failure. If your finisher succeeds, you can choose to apply the failure effect instead.",
+        "TraitDescriptionFinisher": "フィニッシャー/Finisherは華麗なとどめの技である。フィニッシャーはパナッシュを得ている間にのみ使用でき、フィニッシャーを行うと直ちにパナッシュを失う。フィニッシャーを使用すると、そのターンの残りの間、あなたはアタック/Attackのトレイトを持つアクションを使用できない。一部のフィニッシャーは失敗時にも効果を与える。フィニッシャーが成功したなら、代わりに失敗時の効果を適用することを選択できる。",
         "TraitDescriptionFinite": "この特性を持つ次元界は限られた空間で構成されている。",
         "TraitDescriptionFire": "火特性を持つ効果は火ダメージを与えるか、火を創造または操作する。火を操作する効果は、火のないエリアでは効果を持たない。この特性を持つクリーチャーは主として火で構成されているか、魔法的な火とのつながりを持つ。",
         "TraitDescriptionFleshwarp": "外的要因によって完全に変貌し、独自の祖先となったヒューマノイド。",
