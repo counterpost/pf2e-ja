@@ -2198,7 +2198,7 @@
                         "Label": "風"
                     },
                     "AirApocryphal": {
-                        "Description": "君は風と天候を支配する。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたは風と天候を支配する。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "風（外典）"
                     },
                     "Ambition": {
@@ -2210,11 +2210,11 @@
                         "Label": "野心（外典）"
                     },
                     "Change": {
-                        "Description": "物理的および形而上的構造を再構成できる。",
+                        "Description": "物質と、存在そのものを再構成できる。",
                         "Label": "変化"
                     },
                     "Cities": {
-                        "Description": "都市環境とその住民に対する力を持つ。",
+                        "Description": "都市環境と、そこに住む者達に対する力を持つ。",
                         "Label": "都市"
                     },
                     "Cold": {
@@ -2226,7 +2226,7 @@
                         "Label": "自信"
                     },
                     "ConfidenceApocryphal": {
-                        "Description": "君は恐怖を克服し、誇りを投影する。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたは恐怖を克服し、誇りを示す。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "自信（外典）"
                     },
                     "Creation": {
@@ -2238,7 +2238,7 @@
                         "Label": "闇"
                     },
                     "DarknessApocryphal": {
-                        "Description": "君は闇の中で行動し、光を奪う。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたは闇の中で行動し、光を奪う。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "暗黒（外典）"
                     },
                     "Death": {
@@ -2246,7 +2246,7 @@
                         "Label": "死"
                     },
                     "DeathApocryphal": {
-                        "Description": "君は生命を終わらせ、アンデッドを滅ぼす力を持つ。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたは生命を終わらせ、アンデッドを滅ぼす力を持つ。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "死（外典）"
                     },
                     "Decay": {
@@ -2286,7 +2286,7 @@
                         "Label": "運命"
                     },
                     "FateApocryphal": {
-                        "Description": "君は隠された不可避の理を見て理解する。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたは隠された不可避の理を見て理解する。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "運命（外典）"
                     },
                     "Fire": {
@@ -2294,7 +2294,7 @@
                         "Label": "火"
                     },
                     "FireApocryphal": {
-                        "Description": "君は炎を支配する。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたは炎を支配する。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "炎（外典）"
                     },
                     "Freedom": {
@@ -2314,7 +2314,7 @@
                         "Label": "放縦"
                     },
                     "IndulgenceApocryphal": {
-                        "Description": "君は豪勢に食事を取り、食べ過ぎによる影響を振り払う。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたは豪勢に食事を取り、食べ過ぎによる影響を振り払う。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "放縦（外典）"
                     },
                     "Introspection": {
@@ -2326,7 +2326,7 @@
                         "Label": "知識"
                     },
                     "KnowledgeApocryphal": {
-                        "Description": "君は神聖な洞察を受け取る。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたは神聖な洞察を受け取る。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "知識（外典）"
                     },
                     "Lightning": {
@@ -2350,7 +2350,7 @@
                         "Label": "力"
                     },
                     "MightApocryphal": {
-                        "Description": "君の肉体的な力は神聖な力によって強化される。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたの肉体的な力は神聖な力によって強化される。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "力（外典）"
                     },
                     "Moon": {
@@ -2398,7 +2398,7 @@
                         "Label": "秘密"
                     },
                     "SecrecyApocryphal": {
-                        "Description": "君は秘密を守り、それを隠し通す。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたは秘密を守り、それを隠し通す。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "秘匿（外典）"
                     },
                     "Sorrow": {
@@ -2434,7 +2434,7 @@
                         "Label": "旅"
                     },
                     "TravelApocryphal": {
-                        "Description": "君は移動と旅路を司る力を持つ。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたは移動と旅路を司る力を持つ。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "旅（外典）"
                     },
                     "Trickery": {
@@ -2466,7 +2466,7 @@
                         "Label": "水"
                     },
                     "WaterApocryphal": {
-                        "Description": "君は水と水域を支配する。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
+                        "Description": "あなたは水と水域を支配する。すべての神官の伝統が正統派の中で教えられているわけではない。中には密かに囁かれ、司祭から信頼された侍祭へと伝えられたり、分派が残した書に記されたりするものもある。",
                         "Label": "水（外典）"
                     },
                     "Wealth": {
@@ -3555,7 +3555,7 @@
             "FifthAttempt": "5th DC",
             "FirstAttempt": "1st DC",
             "FourthAttempt": "4th DC",
-            "Help": "君は同じクリーチャーについて、追加情報を思い出すために〈知識〉想起アクションを繰り返し試みられる。これらの判定のDCは、下の表に示す通り試行を重ねるほど上昇する。ただし、失敗した場合、あるいはDCが記載されていない場合、そのクリーチャーに対してこれ以上〈知識〉想起判定を試みることはできない。",
+            "Help": "あなたは同じクリーチャーについて、追加情報を思い出すために〈知識〉想起アクションを繰り返し試みられる。これらの判定のDCは、下の表に示す通り試行を重ねるほど上昇する。ただし、失敗した場合、あるいはDCが記載されていない場合、そのクリーチャーに対してこれ以上〈知識〉想起判定を試みることはできない。",
             "Label": "知識想起",
             "LoreEasy": "適用可能なロア（簡単）",
             "LoreVeryEasy": "適用可能なロア（非常に簡単）",
@@ -4214,29 +4214,29 @@
         "StealthLabel": "〈隠密〉",
         "Strike": {
             "Combined": {
-                "Description": "君は手にしている武器で攻撃し、間合い内の1体（近接攻撃の場合）または射程内の1体（遠隔攻撃の場合）を目標にする。使用している武器（または素手攻撃）の攻撃ロールを行い、その結果を目標のACと比較して効果を決定する。",
+                "Description": "あなたは手にしている武器で攻撃し、間合い内の1体（近接攻撃の場合）または射程内の1体（遠隔攻撃の場合）を目標にする。使用している武器（または素手攻撃）の攻撃ロールを行い、その結果を目標のACと比較して効果を決定する。",
                 "Success": "あなたは、ダメージに適用される修正、ボーナス、ペナルティを含め、武器に従ってダメージを与える。"
             },
             "Default": {
                 "CriticalSuccess": "成功と同様だが、ダメージが2倍。",
-                "Description": "君は手にしている武器、または素手攻撃で攻撃し、間合い内の1体（近接攻撃の場合）または射程内の1体（遠隔攻撃の場合）を目標にする。使用している武器または素手攻撃の攻撃ロールを行い、その結果を目標のACと比較して効果を決定する。",
+                "Description": "あなたは手にしている武器、または素手攻撃で攻撃し、間合い内の1体（近接攻撃の場合）または射程内の1体（遠隔攻撃の場合）を目標にする。使用している武器または素手攻撃の攻撃ロールを行い、その結果を目標のACと比較して効果を決定する。",
                 "Success": "あなたは、ダメージに適用される修正、ボーナス、ペナルティを含め、武器または素手攻撃に従ってダメージを与える。"
             },
             "Fist": {
                 "Label": "拳"
             },
             "Melee": {
-                "Description": "君は使用中の武器で攻撃を行い、間合い内の1体のクリーチャーを目標にする。使用している武器の攻撃ロールを行い、その結果を目標クリーチャーのACと比較して効果を決定する。",
+                "Description": "あなたは使用中の武器で攻撃を行い、間合い内の1体のクリーチャーを目標にする。使用している武器の攻撃ロールを行い、その結果を目標クリーチャーのACと比較して効果を決定する。",
                 "Success": "あなたは、ダメージに適用される修正、ボーナス、ペナルティを含め、武器に従ってダメージを与える。"
             },
             "Ranged": {
-                "Description": "君は使用中の武器で攻撃を行い、射程内の1体のクリーチャーを目標にする。使用している武器の攻撃ロールを行い、その結果を目標クリーチャーのACと比較して効果を決定する。",
+                "Description": "あなたは使用中の武器で攻撃を行い、射程内の1体のクリーチャーを目標にする。使用している武器の攻撃ロールを行い、その結果を目標クリーチャーのACと比較して効果を決定する。",
                 "NoAmmo": "{weapon} に弾薬が割り当てられていない。{actor} のシートのアクション・タブを確認する。",
                 "InsufficientAmmo": "{weapon} に残り弾薬が足りない。{actor} のシートのアクション・タブを確認する。",
                 "Success": "あなたは、ダメージに適用される修正、ボーナス、ペナルティを含め、武器に従ってダメージを与える。"
             },
             "Unarmed": {
-                "Description": "君は素手攻撃で攻撃を行い、間合い内の1体のクリーチャーを目標にする。使用している素手攻撃の攻撃ロールを行い、その結果を目標クリーチャーのACと比較して効果を決定する。",
+                "Description": "あなたは素手攻撃で攻撃を行い、間合い内の1体のクリーチャーを目標にする。使用している素手攻撃の攻撃ロールを行い、その結果を目標クリーチャーのACと比較して効果を決定する。",
                 "Success": "あなたは、ダメージに適用される修正、ボーナス、ペナルティを含め、素手攻撃に従ってダメージを与える。"
             }
         },
@@ -4659,8 +4659,8 @@
         "TraitDescriptionAwakenedAnimal": "覚醒動物は、知性を得る前は普通の動物だった。",
         "TraitDescriptionAzarketi": "内海地域の海に住む両生類のヒューマノイドで、アズラントの民の末裔だと言われている。ギルマン/Gillmen またはロー・アズランティ/Low Azlanti とも呼ばれる。アザルケティ/Azarketi は、水棲共同体で暮らすよう適応した人間の分派である。彼らは鰓、水かきのある指、小さなヒレを持ち、水中でも水の外でも生存できる。",
         "TraitDescriptionAzata": "この天界の一族はエリュシオン原産だ。通常は聖で、暗視を持ち、冷鉄および不浄に対する弱点を持つ。",
-        "TraitDescriptionBackstabber": "君がオフガード状態のクリーチャーに命中させたとき、この武器は通常ダメージに加えて1点の精密ダメージを与える。この武器が+3武器である場合、精密ダメージは2に増加する。",
-        "TraitDescriptionBackswing": "この武器で外した攻撃の勢いを次の攻撃につなげられる。君のターン中、この武器での攻撃が外れた後、ターン終了までに行うこの武器での次の攻撃に＋1の状況ボーナスを得る。",
+        "TraitDescriptionBackstabber": "あなたが無防備状態のクリーチャーに命中させたとき、この武器は通常ダメージに加えて1点の精密ダメージを与える。この武器が+3武器である場合、精密ダメージは2に増加する。",
+        "TraitDescriptionBackswing": "この武器で外した攻撃の勢いを次の攻撃につなげられる。あなたのターン中、この武器での攻撃が外れた後、ターン終了までに行うこの武器での次の攻撃に＋1の状況ボーナスを得る。",
         "TraitDescriptionBarbarian": "これはバーバリアン・クラスの能力を示す。",
         "TraitDescriptionBard": "これはバード・クラスの能力を示す。",
         "TraitDescriptionBarding": "動物用に購入できる特殊な鎧があり、これをバーディング/bardingと呼ぶ。すべての動物は軽装バーディングに対してトレインの習熟ランクを持ち、戦闘訓練を受けた動物は重装バーディングもトレインである。バーディングは鎧と同じルールを使用するが、次の点で異なる。バーディングの価格とバルクは、その動物のサイズに依存する。通常の鎧とは異なり、バーディングの筋力欄は能力値ではなく修正値として記載される。バーディングには魔法ルーンを刻むことはできないが、特別な魔法のバーディングが存在する場合もある。",
@@ -4672,7 +4672,7 @@
         "TraitDescriptionBomb": "錬金ボムは、クリーチャーや物体に命中したときに爆発する揮発性の錬金成分を組み合わせたものだ。ほとんどの錬金ボムはダメージを与えるが、他の効果を生むものもある。",
         "TraitDescriptionBoost": "あなたは〈扱う〉アクションを1回使用してこの武器を増強できる。増強すると、あなたの次のターンの終了時まで、この武器で行う次の攻撃1回に、記載されたサイズの追加ダメージ・ダイスを1個加える。このトレイトによるダメージは、アドバンスド級およびスーペリア級の武器では2個、エリート級およびアルティメット級の武器では3個、パラゴン級の武器では4個に増加する。クリティカル・ヒット時には、武器のダメージを倍にした後、これらのダイスを振って加える。複数回ブーストしても効果はない。",
         "TraitDescriptionBottledBreath": "息の瓶は、雲や霧を封じた魔法の瓶で、風の次元界の住人によって最初に開発された。瓶詰めの息特性を持つアイテムは、吸い込むか、他のクリーチャーに吸い込ませることで起動できる。",
-        "TraitDescriptionBrace": "ブレイス/Brace 武器は、動いている相手に対して効果的にダメージを与えられる。射程内に入ってくる相手に対してストライクを準備し、相手が君の間合いに移動してきたなら、君の次のターン開始まで、ブレイス武器でのストライクは武器ダメージ・ダイス1個につき追加で2の精密ダメージを与える。",
+        "TraitDescriptionBrace": "ブレイス/Brace 武器は、動いている相手に対して効果的にダメージを与えられる。射程内に入ってくる相手に対してストライクを準備し、相手があなたの間合いに移動してきたなら、君の次のターン開始まで、ブレイス武器でのストライクは武器ダメージ・ダイス1個につき追加で2の精密ダメージを与える。",
         "TraitDescriptionBravado": "このトレイトを持つアクションでは、その判定結果に応じてパナッシュ/panache を得る。ブラヴァード・アクションで行う判定に成功した場合、パナッシュを得る。判定に失敗した場合（ただしクリティカル失敗でない場合）、次の自分のターンの終了時までパナッシュを得る。これらの効果は、関与する判定に失敗したことや、クリーチャーが完全耐性を持っていたことにより、そのアクションが他に何の効果も及ぼさなかった場合であっても適用される。",
         "TraitDescriptionBreakdown": "この武器は複数の小さな部品に分解できる。分解されている間、この武器は軽バルクを持つ小型の物体として扱う。分解武器を分解または再組立てするには3アクションのアクティビティを行う必要がある。このアクティビティは〈手作業〉のトレイトを持ち、両手を必要とする。",
         "TraitDescriptionBrutal": "この特性を持つ遠隔攻撃は、攻撃ロールに【敏捷力】ではなく【筋力】修正値を使用する。",
@@ -4723,14 +4723,14 @@
         "TraitDescriptionCritical": "この武器は、本来の武器種別によるものではなく、記載されている武器種別のクリティカル武器特化を使用する。",
         "TraitDescriptionCriticalFusion": "クリティカル・フュージョン/Critical fusion は、コンビネーション武器に追加された新しいトレイトであり、火器に装填されている状態でコンビネーション武器の近接形態を用いて近接攻撃を行った際、クリティカル・スペシャライゼーション効果として追加の選択肢を2つ与える。これらのうちいずれかを選択した場合、その効果は近接使用時の通常のクリティカル・スペシャライゼーション効果に置き換わる。1つ目の選択肢では、火器を発射して大きな炸裂音と衝撃を生み出し、近接武器種のクリティカル・スペシャライゼーション効果の代わりに、火器のクリティカル・スペシャライゼーション効果を使用する。2つ目の選択肢では、火器を発射して近接攻撃のクリティカル・ヒットに勢いを加え、武器ダメージ・ダイス1つにつき追加で2ダメージを与える。いずれの選択肢も火器を発射するため、通常は再度射撃する前にリロードが必要となる。",
         "TraitDescriptionCurse": "呪いは、クリーチャーに長期的な苦難を課す効果である。呪いは常に魔法的で、通常は呪文や罠の結果として生じる。この特性を持つ効果は、呪いを明示的に対象とする効果でしか除去できない。",
-        "TraitDescriptionCursebound": "この特性を持つ呪文は、発動すると君の神託の呪いを悪化させる。通常、この特性を持つのは啓示呪文のみである。君に神託の呪いがない限り、呪縛/Cursebound 呪文は発動できない。防御を可能にする呪縛能力は、特記がない限り、呪文攻撃修正値または呪文DCを用いる。",
+        "TraitDescriptionCursebound": "この特性を持つ呪文は、発動するとあなたの神託の呪いを悪化させる。通常、この特性を持つのは啓示呪文のみである。君に神託の呪いがない限り、呪縛/Cursebound 呪文は発動できない。防御を可能にする呪縛能力は、特記がない限り、呪文攻撃修正値または呪文DCを用いる。",
         "TraitDescriptionCursed": "このトレイトを持つアイテムは、所有者に厄介事を引き起こすよう呪われている。呪いは、アイテムを識別した時に判明する事がないが、クリティカルで成功した場合は、呪いの存在と正確な性質が明らかになる。呪われたアイテムは、一度トリガーした後、または初めてインベストされた後は捨てる事が出来ず、その呪いが解除されない限り、取り外す事は出来ない。",
         "TraitDescriptionCycle": "サイクル/Cycleのトレイトを持つアクションは、あなたの現在のステラー・アチューンメントを反対の状態に変化させる。このトレイトを持つアクションがアチューンド/Attunedのトレイトも持っている場合、あなたは現在のアチューンメントによる追加効果を受ける。ただし、そのアクションを完了すると、あなたのアチューンメントは対となる状態へと変化する（アクションの実行前にフォトン・アチューンであったならグラヴィトン・アチューンに、逆もまた同様）。",
         "TraitDescriptionDaemon": "荒廃したアバドンの次元界で生まれた悪魔の一族。ほとんどのデーモンは救済不能な不浄で、通常は暗視を持ち、聖に対する弱点を持つ。",
         "TraitDescriptionDarkness": "闇効果はエリア内の非魔法的な光を消し去り、より弱い魔法的な光に対抗できる。通常、光の魔法を打ち消すには闇の魔法で直接対象にする必要があるが、一部の闇呪文は自動的に光への対抗を試みる。",
         "TraitDescriptionDarvakka": "ネザーワールドと虚無に歪められたエントロピー的アンデッド。",
         "TraitDescriptionDeadly": "クリティカル・ヒット時、この武器は記載された武器ダメージ・ダイスを1つ追加する。この追加ダイスは、武器ダメージを倍にした後にロールする。この追加ダイスは、武器がグレーター・ストライキング・ルーン/greater striking rune を持つ場合は2つに、メジャー・ストライキング・ルーン/major striking rune を持つ場合は3つに増加する。例えば、グレーター・ストライキング・ルーンを持つレイピアは、クリティカル・ヒット時に刺突ダメージ2d8を追加で与える。武器の通常のダメージ・ダイスのサイズを変更する能力は、この武器のデッドリー・ダイスのサイズには影響しない。",
-        "TraitDescriptionDeath": "死特性を持つ効果は、HPが0になると即座に君を死亡させる。一部の死効果は、HPを0にせずに死に近づけたり、即座に殺害したりする。",
+        "TraitDescriptionDeath": "死特性を持つ効果は、HPが0になると即座にあなたを死亡させる。一部の死効果は、HPを0にせずに死に近づけたり、即座に殺害したりする。",
         "TraitDescriptionDedication": "各アーキタイプのデディケーション・フィート/dedication feat は、キャラクターが新たな能力を学ぶために集中している事を表している。そのため、同時に別のアーキタイプを追求することはできない。いずれかのデディケーション・フィートを取得した後、そのデディケーションを完了するまで、別のデディケーション・フィートを選択することはできない。デディケーションの完了とは、現在のアーキタイプから他に2つのフィートを取得することを指す。また、そのアーキタイプから取得した他のフィートを1つでも保持している間は、デディケーション・フィートを再訓練することはできない。",
         "TraitDescriptionDeflecting": "この盾は特定種別の攻撃や武器を防いだり逸らしたりするための設計だ。記載された攻撃種別に対する盾の硬度を2増加させる。",
         "TraitDescriptionDemon": "デーモンは、外なる裂け目に由来する、あるいはそこに起源をたどるフィーンドの一族だ。大半は完全に不浄で、暗視を持ち、冷鉄と聖なる力に弱点を持つ。",
@@ -4794,8 +4794,8 @@
         "TraitDescriptionFocused": "このトレイトを持つアイテムは、あなたに追加のフォーカス・ポイント/Focus Pointを1点与える。このフォーカス・ポイントはあなたのフォーカス・プールとは別扱いであり、フォーカス・プールの上限を増やすものではない。この利益を得られるのは、あなたがフォーカス・プールを持っている場合に限られる。また、このポイントの使用方法には制限がある場合もある。フォーカスド/Focusedのトレイトを持つアイテムからは、1日に1点を超えてフォーカス・ポイントを得ることはできない。\n",
         "TraitDescriptionFoldaway": "<p>この盾は、安定性と携行のしやすさのために、ガントレットに取り付けたまま小型形態に折り畳むことができる。あなたは〈扱う〉/Interactアクションを使用して、この盾を展開または収納できる。盾が展開されている間、その手が空いているか、またはその手に武器ではない軽バルクの物体を持っている場合、あなたは〈盾を構える〉を行うことができる。盾が展開されている間は手の使用が制限され、その手で物を持つことはできるが、武器を振るうことはできず、両手を必要とする操作を行うこともできず、ガントレットで攻撃することもできない。</p><p>フォールドアウェイ・シールドは、ガントレットに取り付けられていなければ安定しない。盾は10分間の作業とDC10〈クラフティング〉判定によりガントレットに取り付けることができる。必要であれば、取り付けられているガントレットから盾を外して付け替えるといった作業もこの時間に含まれる。ガントレットが破壊された場合、フォールドアウェイ・シールドは通常であれば回収できる。また、盾の折り畳み構造により、この盾に武器を取り付けることはできない。</p>\n",
         "TraitDescriptionForce": "この特性を持つ効果は力場ダメージを与えるか、純粋な魔法の力でできた物体を生成する。",
-        "TraitDescriptionForceful": "この武器は勢いを蓄えるほど危険になる。君のターン中にこれで複数回攻撃するなら、2回目の攻撃は「武器ダメージ・ダイス数」に等しい状況ボーナスをダメージに得て、以降の各攻撃は「武器ダメージ・ダイス数の2倍」に等しい状況ボーナスをダメージに得る。",
-        "TraitDescriptionFortune": "フォーチュン/Fortune 効果は、君のダイス・ロールの仕方を有利に変える。1回のロールに影響を与えられるフォーチュン効果は常に1つだけである。複数のフォーチュン効果が適用される場合、君はどれを使うか選ばなければならない。フォーチュン効果とミスフォーチュン/Misfortune 効果が同じロールに適用される場合、それらは相殺され、君は通常通りにロールする。",
+        "TraitDescriptionForceful": "この武器は勢いを蓄えるほど危険になる。あなたのターン中にこれで複数回攻撃するなら、2回目の攻撃は「武器ダメージ・ダイス数」に等しい状況ボーナスをダメージに得て、以降の各攻撃は「武器ダメージ・ダイス数の2倍」に等しい状況ボーナスをダメージに得る。",
+        "TraitDescriptionFortune": "フォーチュン/Fortune 効果は、あなたのダイス・ロールの仕方を有利に変える。1回のロールに影響を与えられるフォーチュン効果は常に1つだけである。複数のフォーチュン効果が適用される場合、君はどれを使うか選ばなければならない。フォーチュン効果とミスフォーチュン/Misfortune 効果が同じロールに適用される場合、それらは相殺され、君は通常通りにロールする。",
         "TraitDescriptionFreeHand": "This weapon doesn't take up your hand, usually because it is built into your armor. A free-hand weapon can't be Disarmed. You can use the hand covered by your free-hand weapon to wield other items, perform manipulate actions, and so on. You can't attack with a free-hand weapon if you're wielding anything in that hand or otherwise using that hand. When you're not wielding anything and not otherwise using the hand, you can use abilities that require you to have a hand free as well as those that require you to be wielding a weapon in that hand. Each of your hands can have only one free-hand weapon on it.",
         "TraitDescriptionFulu": "Fulus are small paper charms that can be affixed to a suit of armor, a shield, a weapon, a creature, or even a structure. Some fulus are composed of multiple such charms, taking effect only once all have been affixed. Normal fulus have effects immediately once affixed, while fulu talismans have an effect only once activated. Once a fulu has been activated, it lasts for the given duration and then burns out. Unless otherwise noted, fulus expire one year after being created, reverting to mundane paper. All fulus have the fulu and consumable traits. Fulus also have a tradition trait—either arcane, divine, occult or primal—determined by the magical tradition of its creator. For example, a fulu created by a priest would have the divine trait, whereas a witch who dabbles in fate might create a fulu with the occult trait. Some fulus also have the talisman trait, if they work similarly to talismans (such as being affixed to a suit of armor, a shield, or a weapon. Each fulu's stat block indicates the type of item or creature it can be affixed to. Affixing or removing a fulu requires using the Affix a Fulu activity, or the Affix a Talisman action instead if the fulu is also a talisman.",
         "TraitDescriptionFungus": "菌類のクリーチャーはファンガス特性を持ち、通常の菌類とは異なる。",
@@ -4824,14 +4824,14 @@
         "TraitDescriptionGunslinger": "これはガンスリンガー・クラスの能力を示す。",
         "TraitDescriptionHag": "これらの悪意ある呪文使いはカヴンを形成する。",
         "TraitDescriptionHalfling": "この特性を持つクリーチャーはハーフリング祖先の一員である。これらの小さな人々は友好的な放浪者で、幸運だと考えられている。この特性を持つ能力はハーフリングのみが使用または選択できる。この特性を持つ武器はハーフリングによって作られ、使用される。",
-        "TraitDescriptionHampering": "この武器で命中した後、君はインタラクト・アクションを用いて、目標のすべての移動速度に－10フィートの状況ペナルティを与えられる。このペナルティは、目標が移動アクションを行った後、君の次のターン開始時、君がその武器で攻撃したとき、または君が目標の間合い外へ移動したとき（いずれか先に起きた時点）に終了する。",
+        "TraitDescriptionHampering": "この武器で命中した後、あなたはインタラクト・アクションを用いて、目標のすべての移動速度に－10フィートの状況ペナルティを与えられる。このペナルティは、目標が移動アクションを行った後、君の次のターン開始時、君がその武器で攻撃したとき、または君が目標の間合い外へ移動したとき（いずれか先に起きた時点）に終了する。",
         "TraitDescriptionHarnessed": "この盾には、馬上槍試合用の武器を保持するための特殊な支え、または開口部がある。",
         "TraitDescriptionHaunt": "この特性を持つハザードは霊的残響であり、多くは悲劇的な死を遂げた人物の名残である。ホーントを鎮めるには、その未練を解決する必要があることが多い。適切に鎮められていないホーントは、時間が経てば必ず戻ってくる。",
         "TraitDescriptionHealing": "治癒効果は通常ヒット・ポイントを回復することでクリーチャーの身体を回復するが、病気や他の衰弱効果を除去する場合もある。",
         "TraitDescriptionHefty": "ヘフティ・シールドは非常に重く、掲げるのにより多くの労力を要する。ヘフティ特性を持つ盾で《盾を掲げる》を行うには、【筋力】値がその特性に記載された数値以上でない限り、2アクションを要する。",
         "TraitDescriptionHerald": "ほぼすべての神は、ヘラルドと呼ばれる特定の代理者を持つ。ヘラルドは外見も能力も神々と同様に多様だ。ヘラルド種別を持つクリーチャーは常にユニークだ。",
-        "TraitDescriptionHex": "ヘックス/Hex は、君のパトロンが直接注意を向け、介入することで生じる呪文である。パトロンは繰り返し邪魔されることをよしとしないため、君が各ターンに発動できるヘックス特性の呪文は1つだけである。2つ目を使おうとする試みは自動的に失敗し、通常はパトロンが呼びかけを拒絶するため、君の使い魔が不快そうにシッと鳴く。",
-        "TraitDescriptionHindering": "この鎧はあまりに重くかさばるため、何をしていても君の動きは鈍くなる。君はすべての移動速度に－5のペナルティを受ける（最低でも移動速度5フィート）。これは鎧の移動速度ペナルティとは別で、かつそれに追加で適用され、【筋力】や能力によって鎧の移動速度ペナルティを軽減または無視できる場合でも、このペナルティは適用される。",
+        "TraitDescriptionHex": "ヘックス/Hex は、あなたのパトロンが直接注意を向け、介入することで生じる呪文である。パトロンは繰り返し邪魔されることをよしとしないため、君が各ターンに発動できるヘックス特性の呪文は1つだけである。2つ目を使おうとする試みは自動的に失敗し、通常はパトロンが呼びかけを拒絶するため、君の使い魔が不快そうにシッと鳴く。",
+        "TraitDescriptionHindering": "この鎧はあまりに重くかさばるため、何をしていても君の動きは鈍くなる。あなたはすべての移動速度に－5のペナルティを受ける（最低でも移動速度5フィート）。これは鎧の移動速度ペナルティとは別で、かつそれに追加で適用され、【筋力】や能力によって鎧の移動速度ペナルティを軽減または無視できる場合でも、このペナルティは適用される。",
         "TraitDescriptionHobgoblin": "この特性を持つクリーチャーは、背が高く軍国主義的なゴブリノイドだ。ホブゴブリンは暗視を持つ傾向がある。",
         "TraitDescriptionHoly": "ホーリー/Holy 特性を持つ効果は、慈愛と徳の強力な魔法的力と結びついている。それらはしばしばアンホーリー/Unholy クリーチャーに対してより強い効果を持つ。この特性を持つクリーチャーはホーリーの大義に強く献身しており、しばしばアンホーリーに対する弱点を持つ。ホーリーに弱点を持つクリーチャーがホーリーのアイテムまたは効果を使用すると、その弱点によるダメージを受ける。",
         "TraitDescriptionHryngar": "ドワーフの地下の同族であるフリンガーは、通常暗視を持ち、毒に抵抗し、強い光を嫌う。",
@@ -4887,7 +4887,7 @@
         "TraitDescriptionMerfolk": "これらの水棲ヒューマノイドは人間に似た上半身と魚に似た下半身を持つ。",
         "TraitDescriptionMetal": "金属特性を持つ効果は金属を創造または操作する。金属を操作する効果は、金属のないエリアでは効果を持たない。この特性を持つクリーチャーは主として金属で構成されているか、魔法的金属とのつながりを持つ。",
         "TraitDescriptionMindless": "精神のないクリーチャーは、プログラム化された、あるいは原始的な精神能力を持つ。精神能力修正値の大半（あるいはすべて）は –5 で、すべての精神効果に完全耐性を持つ。",
-        "TraitDescriptionMindshift": "この特性を持つアクションは、常に「精神の生の力」を用いるよう改変できる。このアクションを行うとき、君はこのアクションが与えるダメージをすべて精神ダメージに置き換え、精神特性を与え、要求されるセーヴを意志セーヴに置き換えることを選べる。このアクションは、もはや与えないダメージ種別に一致する特性を失う。",
+        "TraitDescriptionMindshift": "この特性を持つアクションは、常に「精神の生の力」を用いるよう改変できる。このアクションを行うとき、あなたはこのアクションが与えるダメージをすべて精神ダメージに置き換え、精神特性を与え、要求されるセーヴを意志セーヴに置き換えることを選べる。このアクションは、もはや与えないダメージ種別に一致する特性を失う。",
         "TraitDescriptionMinion": "<p>Minions are creatures that directly serve another creature. Your minion acts on your turn in combat, once per turn, when you spend an action to issue it commands. For an animal companion, you Command an Animal; for a minion that's a spell or magic item effect, like a summoned minion, you Sustain the effect; if not otherwise specified, you issue a verbal command as a single action with the auditory and concentrate traits. If given no commands, minions use no actions except to defend themselves or to escape obvious harm. If left unattended for long enough, typically 1 minute, mindless minions usually don't act, animals follow their instincts, and sapient minions act how they please. You can have a maximum of four minions under your control.</p><p>A minion has only 2 actions and 0 reactions per turn, though certain conditions (such as slowed or quickened) or abilities might give them a reaction that they can use. Alterations to a minion's actions occur when they gain their actions for the round. A minion can't control other creatures.</p>",
         "TraitDescriptionMinotaur": "ミノタウロスは角を持つ牛頭のヒューマノイドで、迷宮や謎解きに精通している。",
         "TraitDescriptionMisfortune": "A misfortune effect detrimentally alters how you roll your dice. You can never have more than one misfortune effect alter a single roll. If multiple misfortune effects would apply, the GM decides which is worse and applies it. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.",
@@ -4925,10 +4925,10 @@
         "TraitDescriptionOracle": "これはオラクル・クラスの能力を示す。",
         "TraitDescriptionOrc": "この特性を持つクリーチャーはオークの祖先に属する。これらの緑肌の人々は通常暗視を持つ。この特性を持つ武器は、オークが製作し使用する武器だ。",
         "TraitDescriptionOread": "土の次元界の存在を祖とするジンニーキンの一種。",
-        "TraitDescriptionOverflow": "強力なインパルスは、君のキネティック・ゲートのエネルギーを一時的に過剰に引き出す。オーバーフロー/Overflow 特性を持つインパルスを使用すると、君が（通常は Channel Elements で）再活性化するまで、君のキネティック・オーラは停止する。ここまで極端に元素を鎮めるのは負担が大きく、その結果、たとえキネティック・ゲートを再活性化しても、1ラウンドに使用できるオーバーフロー・インパルスは1つだけである。",
+        "TraitDescriptionOverflow": "強力なインパルスは、君のキネティック・ゲートのエネルギーを一時的に過剰に引き出す。オーバーフロー/Overflow 特性を持つインパルスを使用すると、あなたが（通常は Channel Elements で）再活性化するまで、あなたのキネティック・オーラは停止する。ここまで極端に元素を鎮めるのは負担が大きく、その結果、たとえキネティック・ゲートを再活性化しても、1ラウンドに使用できるオーバーフロー・インパルスは1つだけである。",
         "TraitDescriptionPaaridar": "パーリダールは、堕落した魔法儀式によって強大な獣の身体的側面や能力を得たヒューマノイドだ。",
         "TraitDescriptionPalinthanos": "When a cosmic event like Godsrain disturbs all that exists, the River of Souls sometimes flows backward for a brief moment, literally, from the shockwave. Unwilling and confused souls that are forced back far enough can have the agonizing experience of enduring death in reversed time. Some of these souls manage to re-enter the river once the flow returns to normal, but those who are stranded on the metaphorical shores of the living can become palinthanos: powerful undead born from their reversed demise who struggle futilely until their predestined banishment back to the River.",
-        "TraitDescriptionParry": "この武器は防御的に用いて攻撃をいなせる。この武器を手にしている間、君のこの武器への習熟が訓練済み以上なら、単一のアクションを費やして武器を防御的に構え、君の次のターン開始までACに＋1の状況ボーナスを得る。",
+        "TraitDescriptionParry": "この武器は防御的に用いて攻撃をいなせる。この武器を手にしている間、君のこの武器への習熟が訓練済み以上なら、単一のアクションを費やして武器を防御的に構え、あなたの次のターン開始までACに＋1の状況ボーナスを得る。",
         "TraitDescriptionPeachwood": "Peachwood weapons have a particularly auburn tinge to them when under direct sunlight. Peachwood is treated as duskwood for any undead creatures' resistances or weaknesses related to duskwood (allowing a peachwood weapon to bypass a jiang-shi's resistance, for example). In addition, peachwood weapons bypass a small portion of the resistances of any undead creature. Strikes with a peachwood weapon treat an undead's resistances against physical damage as 2 lower for standard-grade peachwood, and 4 lower for high-grade.",
         "TraitDescriptionPersonaFlirt": "世間は君を一団の中で最もロマンチックな存在と見ており、色事師や中身のない偽者として、容姿だけで渡り歩き、パーティに価値をもたらさない人物だと思われることもある。",
         "TraitDescriptionPersonaGuardian": "世間はあなたを一団の癒やし手であり守り手として見ているが、一方で \"真の英雄\" と呼ぶには心が優しすぎたり、気弱すぎると考える者もいる。",
