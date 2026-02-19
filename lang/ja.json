@@ -2153,7 +2153,7 @@
                     "Ignored": "無視するバルク"
                 },
                 "Plural": "入れ物",
-                "Stowing": "収納コンテナ？"
+                "Stowing": "収納用コンテナ？"
             },
             "CreationDialog": {
                 "Categories": {
@@ -2176,17 +2176,17 @@
                     "Label": "クレリックスペル"
                 },
                 "DivineAttribute": {
-                    "Hint": "Raised by Belief の背景を選択した場合、能力値ブーストの選択肢は神格に由来する。",
-                    "Label": "信仰能力値"
+                    "Hint": "Raised by Belief の背景を選択した場合、能力値増強の選択肢は神格に由来する。",
+                    "Label": "神格能力値"
                 },
                 "DivineFont": {
                     "Harm": "ハーム",
                     "Heal": "ヒール",
-                    "Label": "神聖焦点"
+                    "Label": "ディバイン・フォント"
                 },
                 "DivineSkill": {
-                    "Hint": "ほとんどの神格は1つの神聖技能を持つが、2つから選択できる場合もある。",
-                    "Label": "信仰技能"
+                    "Hint": "ほとんどの神格は1つの神格スキルを持っているが、2つの中から選択できる場合もある。",
+                    "Label": "神格スキル"
                 },
                 "Domain": {
                     "Abomination": {
@@ -2202,7 +2202,7 @@
                         "Label": "風（外典）"
                     },
                     "Ambition": {
-                        "Description": "競争に追いつき、追い越そうと努める。",
+                        "Description": "競争相手に追いつき、追い越そうと努める。",
                         "Label": "野心"
                     },
                     "AmbitionApocryphal": {
