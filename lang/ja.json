@@ -2410,7 +2410,7 @@
                         "Label": "魂"
                     },
                     "Star": {
-                        "Description": "星の力を司る。",
+                        "Description": "あなたは星の力を司る。",
                         "Label": "星"
                     },
                     "Sun": {
@@ -2418,19 +2418,19 @@
                         "Label": "太陽"
                     },
                     "Swarm": {
-                        "Description": "多数のクリーチャー群を支配する。",
+                        "Description": "あなたは多数のクリーチャーを支配する。",
                         "Label": "スウォーム"
                     },
                     "Time": {
-                        "Description": "時間の流れを支配する。",
+                        "Description": "あなたは時間の流れを支配する。",
                         "Label": "時間"
                     },
                     "Toil": {
-                        "Description": "あなたは絶えず働き、何ものにも行く手を阻ませない。",
+                        "Description": "あなたは絶えず働き、何ものにも行く手を阻まれない。",
                         "Label": "労苦"
                     },
                     "Travel": {
-                        "Description": "移動と旅路の力を持つ。",
+                        "Description": "あなたは移動と旅路の力を司る。",
                         "Label": "旅"
                     },
                     "TravelApocryphal": {
@@ -2438,31 +2438,31 @@
                         "Label": "旅（外典）"
                     },
                     "Trickery": {
-                        "Description": "他者を欺き、騒動を引き起こす。",
+                        "Description": "あなたは他者を欺き、騒ぎを起こす。",
                         "Label": "策略"
                     },
                     "Truth": {
-                        "Description": "嘘を見抜き、真実を見出す。",
+                        "Description": "あなたは嘘を見抜き、真実を見出す。",
                         "Label": "真実"
                     },
                     "Tyranny": {
-                        "Description": "支配し隷属させる力を振るう。",
+                        "Description": "あなたは他者を支配し、隷属させる力を振るう。",
                         "Label": "専制"
                     },
                     "Undeath": {
-                        "Description": "この魔法はアンデッドと密接な関係を持つ。",
+                        "Description": "あなたの魔法はアンデッドと密接に結びついている。",
                         "Label": "不死"
                     },
                     "Vigil": {
-                        "Description": "亡き者たちを見守り、その秘密を守護する。",
+                        "Description": "あなたは亡き者たちを見守り、その秘密を守護する。",
                         "Label": "警戒"
                     },
                     "Void": {
-                        "Description": "虚無から力を引き出す。",
+                        "Description": "あなたは虚無から力を引き出す。",
                         "Label": "無"
                     },
                     "Water": {
-                        "Description": "水と水域を支配する。",
+                        "Description": "あなたは水とあらゆる水域を支配する。",
                         "Label": "水"
                     },
                     "WaterApocryphal": {
@@ -2470,19 +2470,19 @@
                         "Label": "水（外典）"
                     },
                     "Wealth": {
-                        "Description": "富、交易、財宝に対する力を持つ。",
+                        "Description": "あなたは富と交易、財宝を司る。",
                         "Label": "富"
                     },
                     "Wood": {
-                        "Description": "不屈の木の力を司る。",
+                        "Description": "あなたは不屈なる木の力を司る。",
                         "Label": "木"
                     },
                     "Wyrmkin": {
-                        "Description": "あなたはドラゴンやリノームなど、強力な爬虫類の力を引き出す。",
+                        "Description": "あなたはドラゴンやリノームなど、強力な竜族の力を引き出す。",
                         "Label": "ドラゴン"
                     },
                     "Zeal": {
-                        "Description": "内なる炎が戦闘能力を高める。",
+                        "Description": "あなたの内なる炎が戦闘能力を高める。",
                         "Label": "熱意"
                     }
                 },
