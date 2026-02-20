@@ -2382,19 +2382,19 @@
                         "Label": "完全性"
                     },
                     "Plague": {
-                        "Description": "病と疫病を武器のように操る。",
+                        "Description": "あなたは病と疫病を武器のように操る。",
                         "Label": "疫病"
                     },
                     "Protection": {
-                        "Description": "自分と他者を守護する。",
+                        "Description": "あなたは自分と他者を守護する。",
                         "Label": "守護"
                     },
                     "Repose": {
-                        "Description": "精神的負担が和らいだ。",
+                        "Description": "あなたは心の重荷を和らげる。",
                         "Label": "安息"
                     },
                     "Secrecy": {
-                        "Description": "秘密を守り、隠し通す。",
+                        "Description": "あなたは秘密を守り、隠し通す。",
                         "Label": "秘密"
                     },
                     "SecrecyApocryphal": {
@@ -2406,7 +2406,7 @@
                         "Label": "悲嘆"
                     },
                     "Soul": {
-                        "Description": "霊的な力を行使する。",
+                        "Description": "あなたは霊的なものに対する力を操る。",
                         "Label": "魂"
                     },
                     "Star": {
