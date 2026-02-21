@@ -2628,10 +2628,10 @@
             },
             "Heritage": {
                 "AncestryNotFound": "参照されたアンセストリーアイテムが見つからなかった。",
-                "DragAncestryHere": "このヘリテージの前提祖先を設定するため、祖先アイテムをここにドラッグする。",
+                "DragAncestryHere": "このヘリテージの前提となるアンセストリーを設定するため、アンセストリー・アイテムをここにドラッグする。",
                 "NoneVersatile": "なし（汎用）",
                 "Plural": "出自",
-                "RemoveAncestry": "前提祖先を削除"
+                "RemoveAncestry": "前提アンセストリーを削除"
             },
             "IconLabel": "アイコン",
             "MaterialEffects": {
