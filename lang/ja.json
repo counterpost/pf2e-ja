@@ -2488,7 +2488,7 @@
                 },
                 "Domains": {
                     "Alternate": {
-                        "Hint": "クレリックは《拡張領域の導入》特技を取得して、神格の代替領域の1つにアクセスできる。",
+                        "Hint": "クレリックはエキスパンデッド・ドメイン・イニシエイトの特技を取得して、神格の代替領域の1つにアクセスできる。",
                         "Label": "オルタネイト・ドメイン"
                     },
                     "Primary": "プライマリー・ドメイン"
@@ -2628,14 +2628,14 @@
             },
             "Heritage": {
                 "AncestryNotFound": "参照されたアンセストリーアイテムが見つからなかった。",
-                "DragAncestryHere": "このヘリテージの前提となるアンセストリーを設定するため、アンセストリー・アイテムをここにドラッグする。",
+                "DragAncestryHere": "このヘリテージの前提アンセストリーを設定するには、アンセストリー・アイテムをここにドラッグする。",
                 "NoneVersatile": "なし（汎用）",
                 "Plural": "出自",
                 "RemoveAncestry": "前提アンセストリーを削除"
             },
             "IconLabel": "アイコン",
             "MaterialEffects": {
-                "Hint": "貴重素材ダメージ効果は、一部のクリーチャーの免疫・弱点・抵抗を発動させたり無視したりできる（インライン・ダメージ・ロールに適用）",
+                "Hint": "貴重素材ダメージ効果は、一部のクリーチャーの免疫・弱点・体制を発動させたり無視したりできる（テキスト内ダメージロールに適用）",
                 "Label": "素材ダメージ効果"
             },
             "NameLabel": "名称",
@@ -2668,10 +2668,10 @@
                     }
                 },
                 "Attach": {
-                    "CraftingCheck": "クラフティング・チェック",
+                    "CraftingCheck": "クラフティング判定",
                     "Detach": {
                         "Label": "アイテムを外す",
-                        "Prompt": "{attachable} を取り外してもよい？"
+                        "Prompt": "{attachable} を取り外してもよろしいですか？"
                     },
                     "Label": "装着",
                     "Outcome": {
@@ -2690,7 +2690,7 @@
                     "ShortLabel": "BT"
                 },
                 "Bulk": {
-                    "HeldOrStowed": "バルク（所持／収納）",
+                    "HeldOrStowed": "バルク（手持ち／収納）",
                     "Label": "バルク",
                     "Light": {
                         "Label": "軽装",
@@ -2710,7 +2710,7 @@
                 },
                 "Destroyed": "破壊",
                 "FromSpell": {
-                    "CantripDeck5": "{name}のカントリップ・デッキ（5個入り）",
+                    "CantripDeck5": "ハンドラップス・オブ・マイティー・ブロウス",
                     "Scroll": "{name}のスクロール（ランク{level}）",
                     "spell-gem": "{name} のスペル・ジェム (Rank {level})",
                     "Wand": "{name}のワンド（ランク{level}）"
@@ -2764,9 +2764,9 @@
                 },
                 "LevelLabel": "アイテム {level}",
                 "OtherTag": {
-                    "AlchemicalFood": "錬金食品",
-                    "AlchemicalTool": "錬金道具",
-                    "HandwrapsOfMightyBlows": "ハンドラップス・オブ・マイティー・ブロウ",
+                    "AlchemicalFood": "錬金術食品",
+                    "AlchemicalTool": "錬金術道具",
+                    "HandwrapsOfMightyBlows": "ハンドラップス・オブ・マイティー・ブロウス",
                     "Herbal": "薬草",
                     "Improvised": "即席",
                     "Shoddy": "粗悪"
@@ -2780,14 +2780,14 @@
                 },
                 "PriceLabel": "価格：{price}",
                 "Usage": {
-                    "WornParenthetical": "装着（{where}）",
+                    "WornParenthetical": "装備（{where}）",
                     "WornSlot": {
                         "amulet": "アミュレット",
-                        "anklets": "アンクレット",
+                        "anklets": "アンクル",
                         "armbands": "アームバンド",
-                        "armor": "鎧",
+                        "armor": "防具",
                         "backpack": "バックパック",
-                        "barding": "馬具",
+                        "barding": "バーディング",
                         "belt": "ベルト",
                         "beltpouch": "ベルトポーチ",
                         "bracelet": "ブレスレット",
