@@ -100,7 +100,7 @@
                     "criticalSuccess": "<strong>Critical Success</strong> You're @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} by the creature during your movement and remain undetected by the creature at the end of it.<br/><br/>See the @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak} action for details.",
                     "success": "<strong>Success</strong> You're @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} by the creature during your movement and remain undetected by the creature at the end of it.<br/><br/>See the @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak} action for details."
                 },
-                "Title": "気配を避ける"
+                "Title": "気配を消す"
             },
             "Balance": {
                 "Description": "<p>You move across a narrow surface or uneven ground, attempting an Acrobatics check against its Balance DC. You are off-guard while on a narrow surface or uneven ground.</p><p><strong>Critical Success</strong> You move up to your Speed.<br><strong>Success</strong> You move up to your Speed, treating it as difficult terrain (every 5 feet costs 10 feet of movement).<br><strong>Failure</strong> You must remain stationary to keep your balance (wasting the action) or you fall. If you fall, your turn ends.<br><strong>Critical Failure</strong> You fall and your turn ends.</p>",
@@ -214,7 +214,7 @@
                     "CraftButtonLabel": "製作",
                     "Title": "Select Spell"
                 },
-                "Title": "製作",
+                "Title": "製作する",
                 "Warning": {
                     "CantAddItem": "Could not add items",
                     "InsufficientCoins": "Insufficient coins",
@@ -312,7 +312,7 @@
                     "criticalSuccess": "<strong>Critical Success</strong> You knock the item out of the target's grasp. It falls to the ground in the target's space.",
                     "success": "<strong>Success</strong> You weaken your target's grasp on the item. Further attempts to Disarm the target of that item gain a +2 circumstance bonus, and the target takes a -2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item. The creature can end the effect by Interacting to change its grip on the item; otherwise, it lasts as long as the creature holds the item.<br>@UUID[Compendium.pf2e.other-effects.Item.PuDS0DEq0CnaSIFV]{Effect: Disarm (Success)}"
                 },
-                "Title": "武装解除"
+                "Title": "ディスアーム"
             },
             "Dismiss": {
                 "Description": "<p>You end an effect that states you can Dismiss it. Dismissing ends the entire effect unless noted otherwise.</p>",
@@ -480,7 +480,7 @@
                     "failure": "<strong>Failure</strong> You fail to grab your target. If you already had the target @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} using a Grapple, those conditions on the target end.",
                     "success": "<strong>Success</strong> Your target is @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} until the end of your next turn unless you move or your target @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapes}."
                 },
-                "Title": "組みつき"
+                "Title": "組み付き"
             },
             "Hack": {
                 "Description": "<p>You try to access, control, or make changes to an active, secured system. In most cases, this is going to be an attempt made against a local computer system that you access directly or indirectly through the use of a hacking toolkit. Attempt a Computers check to determine if you can access the targeted system. Computers with improved systems might require multiple successes to access.</p><p><strong>Critical Success</strong> You access the system, or you achieve two successes toward accessing a system requiring more than one success. You leave no trace of your tampering.<br><strong>Success</strong> You access the system, or you achieve one success toward accessing a system that requires more than one success.<br><strong>Failure</strong> You fail to access the system or achieve any success toward accessing a system that requires more than one success. Some computerized systems might have security measures that activate on a failure.<br><strong>Critical Failure</strong> You activate specially ingrained security protocols or completely lock yourself out of the system. Being locked out of a system prevents you from attempting another check to access it for the next hour.</p>",
@@ -595,7 +595,7 @@
                     "Description": "{actor} sheathes their {weapon}.",
                     "Title": "Sheathe"
                 },
-                "Title": "干渉"
+                "Title": "扱う"
             },
             "Leap": {
                 "Description": "<p>You take a short horizontal or vertical jump. Jumping a greater distance requires using the Athletics skill for a @UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{High Jump} or @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jump}.</p><ul><li><strong>Horizontal</strong> Jump up to 10 feet horizontally if your Speed is at least 15 feet, or up to 15 feet horizontally if your Speed is at least 30 feet. You land in the space where your @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap} ends (meaning you can typically clear a 5-foot gap, or a 10-foot gap if your Speed is 30 feet or more). You can't make a horizontal Leap if your Speed is less than 15 feet. </li><li><strong>Vertical</strong> Jump up to 3 feet vertically and 5 feet horizontally onto an elevated surface.</li></ul>",
@@ -691,9 +691,9 @@
                 "Title": "Palm an Object"
             },
             "Parry": {
-                "ShortTitle": "受け流し",
+                "ShortTitle": "パリィ",
                 "Content": "{actor} begins to parry.",
-                "Title": "受け流し"
+                "Title": "パリィ"
             },
             "Perform": {
                 "Description": "<p>When making a brief performance — one song, a quick dance, or a few jokes — you use the Perform action. This action is most useful when you want to prove your capability or impress someone quickly. Performing rarely has an impact on its own, but it might influence the DCs of subsequent Diplomacy checks against the observers, or even change their attitudes if the GM sees fit.</p><p><strong>Critical Success</strong> Your performance impresses the observers, and they're likely to share stories of your ability.<br><strong>Success</strong> You prove yourself, and observers appreciate the quality of your performance.<br><strong>Failure</strong> Your performance falls flat.<br><strong>Critical Failure</strong> You demonstrate only incompetence.</p>",
@@ -796,7 +796,7 @@
                     "Master": "hierarchy of a genie noble court, major extraplanar temples of a deity",
                     "Legendary": "existence of a long-lost noble heir, secret doctrines of a religion"
                 },
-                "Title": "知識想起",
+                "Title": "記憶を探る",
                 "Warning": {
                     "NoSkill": "The Recall Knowledge action can be used with different skills, and no skill was specified."
                 }
@@ -917,7 +917,7 @@
                     "criticalSuccess": "<strong>Critical Success</strong> You push your target up to 10 feet away from you. You can @UUID[Compendium.pf2e.actionspf2e.Item.Bcxarzksqt9ezrs6]{Stride} after it, but you must move the same distance and in the same direction.",
                     "success": "<strong>Success</strong> You push your target back 5 feet. You can @UUID[Compendium.pf2e.actionspf2e.Item.Bcxarzksqt9ezrs6]{Stride} after it, but you must move the same distance and in the same direction."
                 },
-                "Title": "押しやり"
+                "Title": "押し出し"
             },
             "Sneak": {
                 "Description": "<p>You attempt to move to another place while becoming or staying undetected. Stride up to half your Speed. (You can use Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type; you must move at half that Speed.)</p><p>At the end of your movement, the GM rolls your Stealth check in secret and compares the result to the Perception DC of each creature you were hidden from or undetected by at the start of your movement. If you have cover or greater cover from the creature throughout your Stride, you gain the +2 circumstance bonus from cover (or +4 from greater cover) to your Stealth check. Because you're moving, the bonus increase from Taking Cover doesn't apply. You don't get to roll against a creature if, at the end of your movement, you neither are concealed from it nor have cover or greater cover against it. You automatically become observed by such a creature.</p><p><strong>Success</strong> You're undetected by the creature during your movement and remain undetected by the creature at the end of it.</p><p>You become observed as soon as you do anything other than Hide, Sneak, or Step. If you attempt to Strike a creature, the creature remains off-guard against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check. If you speak or make a deliberate loud noise, you become hidden instead of undetected.</p><p>If a creature uses Seek and you become hidden to it as a result, you must Sneak if you want to become undetected by that creature again.</p><p><strong>Failure</strong> A telltale sound or other sign gives your position away, though you still remain unseen. You're hidden from the creature throughout your movement and remain so.</p><p><strong>Critical Failure</strong> You're spotted! You're observed by the creature throughout your movement and remain so. If you're invisible and were hidden from the creature, instead of being observed you're hidden throughout your movement and remain so.</p>",
@@ -1189,7 +1189,7 @@
             "arcana": "Arcana Check",
             "athletics": "Athletics Check",
             "computers": "Computers Check",
-            "crafting": "クラフティング・チェック",
+            "crafting": "クラフティング判定",
             "deception": "Deception Check",
             "diplomacy": "Diplomacy Check",
             "fortitude": "Fortitude Saving Throw",
