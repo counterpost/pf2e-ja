@@ -432,7 +432,7 @@
                 "Title": "飛行"
             },
             "ForceOpen": {
-                "Description": "<p>Using your body, a lever, or some other tool, you attempt to forcefully open a door, window, container or heavy gate. With a high enough result, you can even smash through walls. Without a crowbar, prying something open takes a –2 item penalty to the [[/act force-open]]{Athletics} check to Force Open.</p><hr /><p><strong>Critical Success</strong> You open the door, window, container, or gate and can avoid damaging it in the process.</p>\n<p><strong>Success</strong> You break the door, window, container, or gate open, and it gains the @UUID[Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{Broken} condition. If it's especially sturdy, the GM might have it take damage but not be broken.</p>\n<p><strong>Critical Failure</strong> Your attempt jams the door, window, container, or gate shut, imposing a –2 circumstance penalty on future attempts to Force it Open.</p>",
+                "Description": "<p>身体やテコ、その他の道具を用いて、扉、窓、容器、あるいは重い門を力ずくで開けようと試みる。十分に高い結果であれば、壁を打ち破ることさえできる。バールを使用しない場合、こじ開ける試みには [[/act force-open]]{Athletics} 判定に –2 のアイテム・ペナルティを受ける。</p><hr /><p><strong>Critical Success</strong> 扉、窓、容器、あるいは門を開ける。その過程でそれは損傷しない。</p>\n<p><strong>Success</strong> 扉、窓、容器、あるいは門を破壊して開け、それは @UUID[Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{Broken} 状態となる。特に頑丈なものであった場合、GMはそれを破損状態にはせず、ダメージのみを与えることがある。</p>\n<p><strong>Critical Failure</strong> 試みは失敗し、扉、窓、容器、あるいは門が固く閉ざされる。以後それをこじ開けようとするには–2の状況ペナルティを受ける。</p>",
                 "NoCrowbarPenalty": "バールなし",
                 "Notes": {
                     "criticalFailure": "<strong>クリティカル失敗</strong> あなたの試みはドア、窓、コンテナ、またはゲートを閉じ込め、今後の強制的に開ける試みに対して–2状況ペナルティを課す。",
@@ -538,7 +538,7 @@
                     "failure": "<strong>失敗</strong> クリーチャーはあなたが主張する人物ではないことを見抜く。",
                     "success": "<strong>成功</strong> あなたはクリーチャーを騙して、あなたが変装している人物だと思わせる。行動が変わった場合は、新しいチェックを試みる必要があるかもしれない。"
                 },
-                "Title": "Impersonate"
+                "Title": "なりすます"
             },
             "Interact": {
                 "Description": "<p>あなたは手を使って物体や地形を操作する。無人または保管された物体をつかむ、武器を引き抜く、保持しているアイテムを別のものに交換する、ドアを開ける、または同様の効果を達成することができる。稀に、あなたのインタラクトアクションが成功したかどうかを判断するためにスキルチェックを試みる必要があるかもしれない。</p>",
