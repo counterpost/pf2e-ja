@@ -1,0 +1,10 @@
+{
+  "Blinded": {
+    "name": "盲目状態/Blinded",
+    "system": {
+      "description": {
+        "value": "<p>あなたは視認できない。通常の地形はすべて、あなたにとって移動困難地形となる。あなたは視覚を用いて何かを感知できない。あなたは視認が必要な〈知覚〉判定を自動的にクリティカル失敗する。視覚があなたの唯一の精密な感覚であるなら、〈知覚〉判定に-4のステータス・ペナルティを受ける。あなたは視覚効果に対して免疫となる。盲目状態/Blindedは@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}を上書きする。</p>"
+      }
+    }
+  }
+}
