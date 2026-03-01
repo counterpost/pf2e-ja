@@ -1,22 +1,35 @@
 {
   "id": "pf2e-ja",
-  "title": "Pathfinder 2e Japanese Translation",
-  "description": "Japanese translation module for Pathfinder 2e using Babele",
-  "version": "0.1.0",
+  "title": "Pathfinder 2e 日本語化モジュール",
+  "description": "Pathfinder 2e システム用の日本語化モジュールです。",
   "authors": [
-    { "name": "pf2e-ja contributors" }
+    {
+      "name": "counterpost"
+    }
   ],
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
   "relationships": {
-    "requires": [
-      { "id": "pf2e", "type": "system" },
-      { "id": "babele", "type": "module" }
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
     ]
   },
+  "esmodules": [],
+  "styles": [],
   "languages": [
     {
       "lang": "ja",
       "name": "日本語",
       "path": "lang/ja.json"
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/counterpost/pf2e-ja/main/module.json",
+  "download": "https://github.com/counterpost/pf2e-ja/archive/refs/heads/main.zip"
 }
