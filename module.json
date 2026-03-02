@@ -7,7 +7,7 @@
       "name": "counterpost"
     }
   ],
-  "version": "0.2.0",
+  "version": "0.2.1",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -31,13 +31,15 @@
     }
   ],
 
-  "flags": {
-    "babele": {
-      "compendiums": [
-        "pf2e.conditionitems"
-      ]
-    }
+"packs": [
+  {
+    "name": "pf2e.conditionitems",
+    "label": "PF2E Condition Items (JA)",
+    "path": "babele/packs/pf2e.conditionitems.json",
+    "type": "Item",
+    "system": "pf2e"
   },
+]
 
   "manifest": "https://raw.githubusercontent.com/counterpost/pf2e-ja/main/module.json",
   "download": "https://github.com/counterpost/pf2e-ja/archive/refs/heads/main.zip"
