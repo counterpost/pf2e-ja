@@ -7,7 +7,7 @@
       "name": "counterpost"
     }
   ],
-  "version": "0.2.3",
+  "version": "0.2.4",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
