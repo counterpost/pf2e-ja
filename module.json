@@ -21,8 +21,6 @@
       }
     ]
   },
-  "esmodules": [],
-  "styles": [],
   "languages": [
     {
       "lang": "ja",
@@ -30,17 +28,13 @@
       "path": "lang/ja.json"
     }
   ],
-
-"packs": [
-  {
-    "name": "pf2e.conditionitems",
-    "label": "PF2E Condition Items (JA)",
-    "path": "babele/packs/pf2e.conditionitems.json",
-    "type": "Item",
-    "system": "pf2e"
+  "flags": {
+    "babele": {
+      "compendiums": [
+        "pf2e.conditionitems"
+      ]
+    }
   },
-]
-
   "manifest": "https://raw.githubusercontent.com/counterpost/pf2e-ja/main/module.json",
   "download": "https://github.com/counterpost/pf2e-ja/archive/refs/heads/main.zip"
 }
