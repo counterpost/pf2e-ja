@@ -3,35 +3,24 @@
   "title": "Pathfinder 2e 日本語化モジュール",
   "description": "Pathfinder 2e システム用の日本語化モジュールです。",
   "authors": [
-    {
-      "name": "counterpost"
-    }
+    { "name": "counterpost" }
   ],
-  "version": "0.2.5",
+  "version": "0.2.6",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
   },
   "relationships": {
     "systems": [
-      {
-        "id": "pf2e",
-        "type": "system",
-        "compatibility": {}
-      }
+      { "id": "pf2e", "type": "system", "compatibility": {} }
     ]
   },
- "languages": [
-    {
-      "lang": "ja",
-      "name": "日本語",
-      "path": "lang/ja.json"
-    }
+  "esmodules": [
+    "scripts/babele-register.js"
   ],
-  "babele": {
-    "lang": "ja",
-    "dir": "babele"
-  },
+  "languages": [
+    { "lang": "ja", "name": "日本語", "path": "lang/ja.json" }
+  ],
   "manifest": "https://raw.githubusercontent.com/counterpost/pf2e-ja/main/module.json",
   "download": "https://github.com/counterpost/pf2e-ja/archive/refs/heads/main.zip"
 }
