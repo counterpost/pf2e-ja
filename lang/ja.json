@@ -4160,9 +4160,9 @@
             "Piloting": "パイロッティング",
             "Religion": "レリジョン",
             "Society": "ソサイエティ",
-            "Stealth": "〈隠密〉",
+            "Stealth": "ステルス",
             "Survival": "サバイバル",
-            "Thievery": "〈盗術〉"
+            "Thievery": "シーヴァリー"
         },
         "SkillCheckWithName": "技能判定：{skillName}",
         "SkillFeatLevels": "技能特技レベル",
@@ -4227,7 +4227,7 @@
         "Starfinder": "スターファインダー",
         "StatusBonusShortLabel": "状態",
         "StatusBonusTitle": "状態ボーナス",
-        "StealthLabel": "〈隠密〉",
+        "StealthLabel": "ステルス",
         "Strike": {
             "Combined": {
                 "Description": "あなたは手にしている武器で攻撃し、間合い内の1体（近接攻撃の場合）または射程内の1体（遠隔攻撃の場合）を目標にする。使用している武器（または素手攻撃）の攻撃ロールを行い、その結果を目標のACと比較して効果を決定する。",
@@ -4806,7 +4806,7 @@
         "TraitDescriptionFinite": "この特性を持つ次元界は限られた空間で構成されている。",
         "TraitDescriptionFire": "火特性を持つ効果は火ダメージを与えるか、火を創造または操作する。火を操作する効果は、火のないエリアでは効果を持たない。この特性を持つクリーチャーは主として火で構成されているか、魔法的な火とのつながりを持つ。",
         "TraitDescriptionFleshwarp": "外的要因によって完全に変貌し、独自の祖先となったヒューマノイド。",
-        "TraitDescriptionFlexible": "この防具は十分に柔軟で、ほとんどの行動を妨げない。〈アクロバット〉や〈運動〉判定に防具の判定ペナルティを適用しない。",
+        "TraitDescriptionFlexible": "この防具は十分に柔軟で、動きをほとんど妨げない。アクロバティクスやアスレチックス判定に防具の判定ペナルティを適用しない。",
         "TraitDescriptionFlourish": "フラリッシュ特性を持つアクションは、頻繁に行うには消耗が大きい特殊技術だ。フラリッシュ特性を持つアクションは1ラウンドに1回しか使用できない。",
         "TraitDescriptionFocus": "フォーカス・スペルは、特定の学派、神格、またはその他の特定の源から直接得られる特別な種類の呪文である。フォーカス・スペルは呪文リストから選択して習得するのではなく、特定のクラスや特技によってのみ習得できる。さらに、フォーカス・スペルはフォーカス・ポイント/Focus Pointという特別なポイント・プールを使用して発動する。フォーカス・スペルを呪文スロットに準備することはできず、呪文スロットを消費してフォーカス・スペルを発動することもできない。同様に、フォーカス・スペルでない呪文を発動するためにフォーカス・ポイントを消費することもできない。",
         "TraitDescriptionFocused": "このトレイトを持つアイテムは、あなたに追加のフォーカス・ポイント/Focus Pointを1点与える。このフォーカス・ポイントはあなたのフォーカス・プールとは別扱いであり、フォーカス・プールの上限を増やすものではない。この利益を得られるのは、あなたがフォーカス・プールを持っている場合に限られる。また、このポイントの使用方法には制限がある場合もある。フォーカスド/Focusedのトレイトを持つアイテムからは、1日に1点を超えてフォーカス・ポイントを得ることはできない。\n",
@@ -4930,7 +4930,7 @@
         "TraitDescriptionNephilim": "この特性を持つクリーチャーはネフィリムの多様な血統を持つ。ネフィリムは他次元界の不死存在の子孫である次元界の落とし子だ。この特性を持つ能力はネフィリムのみが使用または選択できる。",
         "TraitDescriptionNightmare": "ナイトメア・ハザードはレンに固有の存在である。多くの点で、ナイトメア・ハザードはホーントに似ており、エクソシズムによる無力化の試みが無効であることに気付くまで、その恐るべき真実は犠牲者に明かされないかもしれない。",
         "TraitDescriptionNindoru": "Nindorus are chaotic evil fiends that rise from corruptions to the cycle of reincarnating souls and live on the Universe. Although they often have elements in their appearance that make them seem undead, they're actually living beings. Most nindorus have darkvision, are immune to death effects, have weakness to silver, and possess the power to manifest objects or creatures from their thoughts.",
-        "TraitDescriptionNoisy": "この鎧は音が大きく、《気付かれずに移動》の探索活動を使用している際に他者へ存在を気付かせやすい。この鎧の判定ペナルティは、必要な【筋力】値を満たしていても〈隠密〉判定に適用される。",
+        "TraitDescriptionNoisy": "この鎧は音が大きいため、探索活動の気配を消すを行っている間、他者にその存在を知られやすい。鎧の判定ペナルティは、必要な筋力値を満たしていてもステルス判定に適用される。",
         "TraitDescriptionNone": "この特性には説明がない。",
         "TraitDescriptionNonlethal": "この武器による攻撃は非致死であり、殺害ではなく気絶させるために用いられる。非致死武器を用いて、–2の状況ペナルティで致死攻撃を行うこともできる。",
         "TraitDescriptionNymph": "この美しいフェイの一族は、自然の地形と強い結びつきを持つ。",
@@ -6771,7 +6771,7 @@
             },
             "clumsy": {
                 "name": "ぎこちない/Clumsy",
-                "rules": "<p>君の動きは不器用で不正確になる。ぎこちない状態は常に値を伴う。ぎこちない間、【敏捷力】に基づく判定およびDC（AC、反応セーヴ、遠隔攻撃ロール、〈軽業〉〈隠密〉〈盗賊〉を用いる技能判定を含む）に、状態値に等しい状態ペナルティを受ける。</p>",
+                "rules": "<p>君の動きは不器用で不正確になる。ぎこちない状態は常に数値を伴う。ぎこちない間、敏捷力に基づく判定およびDC（AC、反応セーヴ、遠隔攻撃ロール、アクロバティクス、ステルス、シーヴァリーを用いる技能判定を含む）に、状態の数値に等しい状態ペナルティを受ける。</p>",
                 "summary": "通常よりもスムーズに移動できない。"
             },
             "concealed": {
