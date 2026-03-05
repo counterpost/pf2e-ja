@@ -1,0 +1,49 @@
+{
+  "label": "pf2e-ap200-seven-dooms-for-sandpoint",
+  "mapping": "compendium",
+  "entries": {
+    "Sandpoint Mercantile League Reputation@@0xQOVAmqAc9PMWCP": {
+      "name": "Sandpoint Mercantile League Reputation"
+    },
+    "Scarnetti Consortium Reputation@@2PhfUh9riGfC6TI3": {
+      "name": "Scarnetti Consortium Reputation"
+    },
+    "Cramped Cavern@@3Ke7DhoAo0j8J7zF": {
+      "name": "Cramped Cavern",
+      "description": "<p>While they fight in this chamber, their immense size works a bit against them and they suffer a –1 circumstance penalty on all melee strikes.</p>"
+    },
+    "Influence@@DikTEdz1yOxBenPN": {
+      "name": "Influence"
+    },
+    "Magic Pool's Curse@@NLtEU0GujzUVnka7": {
+      "name": "Magic Pool's Curse",
+      "description": "<p>@UUID[JournalEntry.pf2ap20003whistl.JournalEntryPage.03magicpool00000]{Magic Pool}</p>\n<p>The character becomes cursed, and the dreams of being chased by monsters occur nightly. As long as the curse persists, the character suffers a –2 status penalty against sleep effects, and requires 10 hours of sleep each day rather than 8. This curse is permanent until it is removed (the curse is 5th level with a DC 20 to counteract).</p>"
+    },
+    "Sandpoint Cathedral Reputation@@P9RsKS9jqxHOplRh": {
+      "name": "Sandpoint Cathedral Reputation"
+    },
+    "Bunyip Club Reputation@@gdihYvZPnBgYxFEz": {
+      "name": "Bunyip Club Reputation"
+    },
+    "Townsfolk Reputation@@mpWr0X8RFAnuLoNw": {
+      "name": "Townsfolk Reputation"
+    },
+    "Town Watch Reputation@@tcj95WKkq9Dg4rlO": {
+      "name": "Town Watch Reputation"
+    },
+    "Liralarue Disguise@@wtS7uPSfpHzRkp4K": {
+      "name": "Liralarue Disguise"
+    },
+    "Nualia’s Gratitude@@xOgdnlKm9hUfy0er": {
+      "name": "Nualia’s Gratitude",
+      "description": "<p>Nualia’s thanks remain constant. Her gratitude grants you a permanent +1 circumstance bonus to all saving throws against emotion effects</p>"
+    },
+    "Runewatchers Reputation@@xnTcOjd1JZGqA42B": {
+      "name": "Runewatchers Reputation"
+    },
+    "Putrid Scent@@yo8bojNvBHBR6G3p": {
+      "name": "Putrid Scent",
+      "description": "<p>The putrid scent in the room is remarkable. All saving throws against a ghast’s stench in this room suffer a –1 circumstance penalty.</p>"
+    }
+  }
+}
