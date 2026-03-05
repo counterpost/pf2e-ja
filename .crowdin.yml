@@ -9,4 +9,5 @@ files:
     translation: /lang/re-%two_letters_code%.json
 
   - source: /babele/en/compendium/*.json
-    translation: /babele/%two_letters_code%/compendium/%original_file_name%.json
+    translation: /babele/%two_letters_code%/compendium/%original_file_name%
+    type: json
