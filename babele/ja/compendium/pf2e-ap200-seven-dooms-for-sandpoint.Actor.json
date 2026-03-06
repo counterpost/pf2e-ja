@@ -21,10 +21,10 @@
     },
     "Arika Avertin@@1fhtRm2XWwHNoITL": {
       "name": "アリカ・アヴァーティン",
-      "description": "女性の人間のバード"
+      "description": "女性の人間バード"
     },
     "False Devil@@1yI2pitvuQkpOCBd": {
-      "name": "偽の デヴィル",
+      "name": "偽の悪魔",
       "description": "<p>These notorious predators have an undeniable thirst for blood. Chupacabras prefer to prey upon the weak and slow, often hiding in wait and watching potential prey for long periods before attacking. Spry and stealthy, they most often make their homes in areas of high grass and protective rock, their slightly reflective scales allowing them to blend in well with such surroundings.</p>\n<p>Chupacabras prefer to eat lone travelers and farm animals (particularly goats), and leave little evidence of their presence apart from the grisly, blood-drained husks of their meals. Their tendency to stay out of sight combined with their naturally nocturnal activity often leads superstitious locals to conclude the worst, imagining that a particularly reckless vampire lives in the area.</p>\n<p>A typical chupacabra measures nearly 5-1/2 feet from its muzzle to the tip of its spiny tail, and it stands just under 4 feet tall. With their slight build and lightweight bones, most weigh close to 100 pounds. They mate rarely and only during the hottest months, with the females each producing a single egg that hatches into a tiny, dehydrated creature. The mother typically leaves helpless prey in her cave so the hatchling can immediately feed.</p>\n<p>Although chupacabras are typically solitary creatures, they have been known to form small gangs in bountiful areas. Members of these groups work well together, growing bold enough to attack larger animals, small herds, and otherwise more dangerous prey. Stories of chupacabras attacking travelers or laying siege to farmhouses typically stem from the hunting practices of such gangs. Regions where chupacabra activity like this is more common often have complex and colorful myths and tall tales about chupacabra capabilities or motive-and a few of the claims, such as that some chupacabras can fly, are all too true.</p>\nVariant chupacabra"
     },
     "Jabyl Sorn@@2XJsGjz4SHsM0ywA": {
@@ -36,14 +36,14 @@
     },
     "Flesh for the Hollow Star@@32qoXC8ctWTdhbuQ": {
       "name": "空洞の星のための肉",
-      "description": "<p>アザトースの肉と革の彫刻は、表面に目が開くとともに波打ち、渦巻くように動く—目が開くと口が開き、長い触手のようなざらざらしたフィラメントを伸ばして歪んだ肉を祝福する。</p>"
+      "description": "<p>アザトースの肉と革の彫刻は、表面に目が開くとともに波打ち、渦巻くフィラメントの長い触手を伸ばして歪んだ肉で祝福する口が開く。</p>"
     },
     "Grioth Cultist@@3GHzj1U3GssgwcOm": {
       "name": "グリオス教団の信者",
       "description": "<p>Grioth cultists represent the lowest tier of their remorseless cult-worshippers of the Elder Mythos tasked with leading scouting missions into new worlds. Though ranked above scouts in the chain of command, they occupy a lowly place in the overall religious hierarchy. Though whispered rumors describe the legendary rituals needed to wrench worlds from their suns, these cultists don't learn this potent magic. Such secrets are left to grioth high priests, who are always the last to arrive in a colonized world.</p>\n<p>Most grioths worship the Outer God Nyarlathotep in one of his many incarnations, although some worship other entities of the Elder Mythos such as Azathoth, Nhimbaloth, or Yog-Sothoth. In the highly rare cases where a grioth is cut off from their society and given the opportunity to explore other religions, they still lean into faiths associated with the stars or the night, such as Desna or Zon-Kuthon. However, these grioths are loathed by others of their own kind, who view them as dangerous heretics.</p>\n<hr />\n<p>Planets that drift out of orbit from their stars grow cold and lifeless as they float through the Dark Tapestry. Such dead worlds are coveted by the horrific creatures known as grioths, who endure the awful cold on these wandering worlds and convert them into planetary temples devoted to the dark gods of the Elder Mythos. From these bastions of frozen darkness, grioths seek out warm, living worlds to tear away from their respective suns through forbidden rituals, a process that often takes numerous generations.</p>\n<p>A single cultist typically leads a grioth scouting party, and the group seeks out a disused or forgotten location on the fringe of rural settlements as their initial invasion point. Over several generations, a grioth settlement grows powerful and conquers the surrounding cultures, and eventually, powerful grioths descend from the stars to begin the next stage of planetary conquest.</p>\n<p>Grioths speak a language composed of trills and clicks. While capable of speaking other languages, they do so in dry, raspy voices. As grioths have wings, wriggling tails, and four-eyed, bat-like visages, many cultures mistakenly associate them with the evil Outer Planes, but they very much belong to this reality.</p>"
     },
     "Nisk Tander@@3PPzSwFIQf4qRXqA": {
-      "name": "Nisk Tander",
+      "name": "ナスティ・ストロー",
       "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11bottledsolut00]{Bottled Solutions}</p>\nNG男性の錬金術師"
     },
     "Isqulug@@3QsGhaof4hP2sKEt": {
@@ -70,11 +70,11 @@
       "name": "作業場"
     },
     "Fungus-Covered Sinkhole@@4jCu5kFOwySyA600": {
-      "name": "菌類-覆われた陥没穴",
-      "description": "<p>きのこのシートが陥没穴を覆い、30が <strong>H7</strong>の下に落ちる。</p>"
+      "name": "菌類に覆われた陥没穴",
+      "description": "<p>菌類のシートが陥没穴を覆い、30が <strong>H7</strong>の下に落ちる。</p>"
     },
     "Aliver \"Pillbug\" Podiker@@4ws2PCdkV5QVEJ49": {
-      "name": "アリバー \"ピルバグ\" ポディカー",
+      "name": "アリバー「ピルバグ」ポディカー",
       "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thepillbugsp00]{The Pillbug’s Pantry}</p>\nLE男性の錬金術師"
     },
     "Lockbox@@50YRFZlMkxGpxWd2": {
@@ -90,32 +90,32 @@
     },
     "Breath of Blood@@7C7Rqf8SDfcExPem": {
       "name": "血の息",
-      "description": "<p>血の渦巻く池が泡立ち、煮えたぎり、定期的に有毒な蒸気を空中に放出する。</p>"
+      "description": "<p>血の渦巻く池が泡立ち、時折有毒な蒸気を空中に放出する。</p>"
     },
     "Vizmivool@@7MqkFlpGjExseeQN": {
       "name": "ヴィズミヴール",
-      "description": "女性の蛇人 聖職者 ユデルシウスの"
+      "description": "イーダーシウスの女性蛇人族クレリック"
     },
     "Hidden Niche@@7PPZiCySz5jwpRnm": {
-      "name": "隠れた状態 ニッチ"
+      "name": "隠されたニッチ"
     },
     "Vilortho@@7QAwfH78sLvkhm7M": {
       "name": "ヴィロルト",
       "description": "<p>In naga culture, the foul-tempered, unkempt spirit naga holds a contemptible place similar to that of hags in humanoid cultures. These decrepit creatures live out lives of solitude, sought out only by those who are foolish or brave enough to think they can benefit from the spirit naga's powers without paying a heavy price-for most who dare to show such hubris, the price is their own lives.</p>\n<p>Spirit nagas seek out desolate ruins and places long associated with death and corruption. These sinister, serpentine beings can be found in abandoned graveyards, crumbled fortresses, rotting swamps, and blighted woodlands. Though they may know little of the actual history of such places, the nagas are nonetheless attracted to the psychic remnants of evil deeds and tormented spirits that remain within the earth and stones there.</p>\n<p>Despite their hideous appearance and treatment as pariahs by other nagas, spirit nagas feel a profound pride in their abilities and even in their hermetic existences. They see themselves as connected to a greater force whose mysteries are revealed only to those who can cast off the trappings and morals of \"civilized\" society. Even so, spirit nagas gleefully accept the worship of other creatures willing to bow to their capricious whims. They often form cults around themselves, using their charm spells and rituals to ensnare the minds of a few key individuals who spread the nagas' foul influence throughout a community.</p>\n<hr />\n<p>Nagas are identifiable by their serpentine bodies and strange, humanlike heads. All nagas have magical abilities and great intelligence, which they combine to advance their own agendas.</p>\nFemale Spirit Naga"
     },
     "Ghast Cultist@@8VIosAdYDYpZEoob": {
-      "name": "ガースト教団員",
+      "name": "ガーストの信者",
       "description": "カブリリのガースト神父"
     },
     "Hayliss Korvaski@@8kruV77IrYll9PNm": {
       "name": "ヘイリス・コルヴァスキ",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointbou00]{Sandpoint Boutique}</p>\nLN雌の聖職者"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointbou00]{Sandpoint Boutique}</p>\nLN女性クレリック"
     },
     "Cavern@@9WmaE0MxIyyjzMl2": {
       "name": "洞窟"
     },
     "Giant Longlegs@@9fqyb1FThMCurCnH": {
-      "name": "巨人ロングレッグ",
+      "name": "ジャイアント・ロングレッグス",
       "description": "<p>The most widespread of the longlegs is the giant longlegs, a creature with a body the size of a dog whose long, spindly legs give it a much more intimidating appearance.</p>\n<hr />\n<p>While smaller specimens of these unsettling-looking arachnids (known regionally by names like harvesters, tickle spiders, or daddy longlegs) are harmless, their larger cousins, known simply as longlegs, are anything but.</p>\n<h2>Longlegs Species</h2>\n<p>Beyond the two common types presented here, many other variants of longlegs can be found throughout Golarion, with the exception of its arctic regions, where longlegs don't thrive. They often live on the periphery of cities, lurking in sewers or ruins where the hunting is good. Swarms of sewer longlegs are particularly dangerous and infest the undercities of many Taldan settlements, while to the west in Cheliax, the much-larger executor longlegs prefer to live among the rooflines of slums where Thrune's rule has been particularly horrific. Among the largest of all longlegs, though, is the dreaded (and thankfully rare) treeleg harvester of the Mwangi Expanse.</p>"
     },
     "Shantak@@9re2xkKyxk814RKT": {
@@ -124,21 +124,21 @@
     },
     "Ripnugget@@9utTsMGFx9dkQ8mX": {
       "name": "Ripnugget",
-      "description": "<p>グレイブナイトは、呪われた鎧によって与えられた不死の戦士である。</p>\n雄のゴブリン・グレイブナイト\nMale goblin graveknight"
+      "description": "<p>グレイブナイトは呪われた鎧によって不死を与えられたアンデッドの戦士だ。</p>\n男性ゴブリン・グレイブナイト\nMale goblin graveknight"
     },
     "Kanker's Laboratory@@9wdWqOjUDWZyRXNp": {
       "name": "カンカーの実験室"
     },
     "Savah Bevaniky@@9xkAnftMLFZn4Akc": {
       "name": "サヴァ・ベヴァニキー",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11savahsarmory00]{Savah’s Armory}</p>\nNG雌のファイター/ローグ"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11savahsarmory00]{Savah’s Armory}</p>\nNG女性ファイター/ローグ"
     },
     "Nualia@@APStVdUUFqeMcpXW": {
       "name": "ヌアリア",
       "description": "<p>A beautiful woman with long silver hair, glowing violet eyes, a heavily scarred abdomen, and a demonic left arm that ends in a frightening taloned hand.</p>\n<p>@UUID[JournalEntry.pf2ap20001bonesa.JournalEntryPage.01speakingwith01]{Speaking with Nualia}</p>\nEmbittered soul in limbo"
     },
     "Red Bishop@@AsZhzcLnehIiZ4HE": {
-      "name": "Red Bishop",
+      "name": "赤い司教",
       "description": "<p>Little is known of the strange creatures known as mothmen, save that when they make themselves known, calamity is sure to follow. The mothman sees themself as an agent of fate-provided such fate is devastating and destructive. Often, those who encounter a mothman never recall the meeting, yet live on to unknowingly pursue and enable the creature's obscure plans.</p>\n<p>The name \"mothmen\" is, of course, not these creatures' own name for themselves, but an appellation granted by the fearful who glimpse them and tell harrowing tales of their sightings. They each keep their own names, or a collection for use in different situations, yet have no need for a collective word for their kind.</p>\nMale mothman agent of Pazuzu"
     },
     "Filth@@BQpav4ZJXdtzuYF9": {
@@ -161,7 +161,7 @@
     },
     "Bilivar Wheen@@CICpDz7vemyhgV5Y": {
       "name": "Bilivar Wheen",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11wheenswagons00]{Wheen’s Wagons}</p>\nN雄の車輪職人"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11wheenswagons00]{Wheen’s Wagons}</p>\nN 男性 車輪職人"
     },
     "Tiluatchek@@CILo525fbQw8b4W4": {
       "name": "ティルアチャク",
@@ -174,12 +174,12 @@
       "name": "Skeleton"
     },
     "Jesk \"Cracktooth\" Berinni@@DjXmHBIRO9LaepBJ": {
-      "name": "ジェスク「クラックトゥース」ベリーニ",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11cracktoothst00]{Cracktooth’s Tavern}</p>\nNG雄の酒場の主人"
+      "name": "ジェスク \"クラックトゥース\" ベリーニ",
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11cracktoothst00]{Cracktooth’s Tavern}</p>\nNG 男性 酒場の主人"
     },
     "Courrin Whesterwill@@E52ECiMYyL1Bab90": {
-      "name": "Courrin Whesterwill",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11scarnettimil00]{Scarnetti Mill}</p>\nNG雄の製粉業者"
+      "name": "カウリン・ウェスターウィル",
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11scarnettimil00]{Scarnetti Mill}</p>\nNG 男性 製粉業者"
     },
     "Gorlak@@ED1E48g61I2S0IwV": {
       "name": "ゴルラク",
@@ -190,15 +190,15 @@
     },
     "Bethana Corwin@@F1xttsCosnPPU5EU": {
       "name": "ベサナ・コーウィン",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11therustydrag00]{The Rusty Dragon}</p>\nNG雌の宿屋の主人"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11therustydrag00]{The Rusty Dragon}</p>\nNG 女性 宿屋の主人"
     },
     "Gaven Deverin@@FCe5VoSBvphdQdqC": {
       "name": "ゲイブン・デヴェリン",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11twoknightbre00]{Two Knight Brewery}</p>\nLG雄のパラディン"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11twoknightbre00]{Two Knight Brewery}</p>\nLG 男性 パラディン"
     },
     "Web Lurker Deadfall@@Fx3ejsNACEvul2so": {
       "name": "ウェブ・ルーカー・デッドフォール",
-      "description": "<p>ウェブのトリップワイヤーは、10-フィートの範囲内のすべてのターゲットに落ちる岩の束を放つ。</p>"
+      "description": "<p>ウェブのトリップワイヤーが、10フィートの正方形内のすべてのターゲットに落ちる岩の束を放つ。</p>"
     },
     "Hollow@@GFHe52ANogISGEnf": {
       "name": "中空"
@@ -216,11 +216,11 @@
     },
     "Ibor Thorn@@GgPTU5b4Qx0nPlwR": {
       "name": "Ibor Thorn",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointlum00]{Sandpoint Lumber Mill}</p>\nNGの男性の伐採者"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointlum00]{Sandpoint Lumber Mill}</p>\nNG 男性 伐採者"
     },
     "Daviren Hosk@@Gn3fJ2DGiKrt7Jhs": {
       "name": "ダビレン・ホスク",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11goblinsquash00]{Goblin Squash Stables}</p>\nNの男性のレンジャー"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11goblinsquash00]{Goblin Squash Stables}</p>\nN 男性 レンジャー"
     },
     "Zoduk@@Gva6wKreBT2TuuGK": {
       "name": "ゾドク",
@@ -234,7 +234,7 @@
       "description": "<p>For most demons, possessing a creature requires a ritual, magic item, or condition, but for invidiaks, who lack a body, possession is akin to donning a suit of clothing. Known also as shadow demons, invidiaks are formed from envious mortal souls.</p>\nInvidiak"
     },
     "Small Cache@@HRjk73sQR4RIOsfy": {
-      "name": "小型 キャッシュ"
+      "name": "小さなキャッシュ"
     },
     "Isphinn@@HTH5c8lddM86kcJr": {
       "name": "イスフィン",
@@ -246,7 +246,7 @@
     },
     "Vorvashali Voon@@HddbvPHH7rG4sp75": {
       "name": "ヴォルヴァシャリ・ヴーン",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thefeathered00]{The Feathered Serpent}</p>\nLNの男性の商人"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thefeathered00]{The Feathered Serpent}</p>\nLN 男性 商人"
     },
     "Xanderghul@@HiTvveiXwMnGsBzP": {
       "name": "Xanderghul"
@@ -257,13 +257,13 @@
     },
     "Tunch@@INjzun1KLttAgs0P": {
       "name": "Tunch",
-      "description": "男性ゴブリンの錬金術師"
+      "description": "男性ゴブリン錬金術師"
     },
     "Storeroom@@IgmGmwXgddaBiBJq": {
       "name": "ストレージルーム"
     },
     "Wood Golem@@Im2S1oQsSerL0H20": {
-      "name": "ウッドゴーレム",
+      "name": "木のゴーレム",
       "description": "<p>Wood golems are often given vaguely humanoid shapes, almost as if cobbled together from scraps of firewood and discarded burls. It's less common for wood golems to have artistic embellishments such as engraved patterns, or to be carved in the shapes of different types of creatures to meet the tastes of their owners. While wealthy patrons have been known to commission wood golems to be painstakingly carved to resemble themselves or their ancestors, to serve dual purposes of protection and ego bolstering, most wood golem crafters don't bother. Druids and creatures who protect woodlands, such as arboreals, typically see wood golems as an affront or an abomination, akin to the horror humanoids often feel when facing a carrion or flesh golem. As a result, it is rare to see such creatures serving as guardians for fey or druidic holy sites, despite the thematic match between the wood golem's appearance and such locations.</p>\n<hr />\n<p>The shape and structure of a golem are limited only by the power and creativity of its crafter. Over the ages, skilled minds and hands have refined the formulas for creating specific types of golems, resulting in the development of common forms. The secrets of creating the types of golems presented here may be guarded within the halls of famous golemworks or the forgotten libraries of many worlds.</p>"
     },
     "Azereza@@Isgmx66DJc0ewFkr": {
@@ -274,18 +274,18 @@
       "name": "頭蓋骨型の香炉"
     },
     "Garridan Viskalai@@ItHCtjSM6kCpMgBD": {
-      "name": "ガリダン・ヴィスカライ",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thewhitedeer00]{The White Deer}</p>\nLNの男性の宿屋の主人"
+      "name": "ガリダン・ビスカライ",
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thewhitedeer00]{The White Deer}</p>\nLN男性の宿屋の主人"
     },
     "Clockwork Songbird@@IxSLdPbVVCLYkyGi": {
-      "name": "時計仕掛けの歌鳥"
+      "name": "機械仕掛けの歌鳥"
     },
     "Cruncher@@JYNtvJddz2aG5sBf": {
-      "name": "クランチャー",
+      "name": "クラッシャー",
       "description": "<p>Because they are often described only in drunken retellings of loggers' or miners' tales, hodags are considered by many to exist only in the local folklore of remote areas. However, some individuals have actually encountered these dangerous beasts firsthand, and even fewer have lived to tell their tales.</p>\n<p>Hodags are reptilian creatures the size of bulls. These vicious predators' long claws can tear creatures apart in seconds. Their backs sport dozens of long spines that run from their snouts all the way down the length of their powerful tails. Their wide mouths are full of sharp and twisted rows of teeth not unlike those of a shark. The hodags' rough, scaly hides carry hues of green and brown, allowing them to blend into their forest surroundings where they ambush prey. Only their glowing red eyes reveal their presence, though hodags have learned to use this to their advantage by drawing attention to their eyes in one area, then closing their eyes and stealthily moving to another area to cause their prey to misconstrue their location.</p>\n<p>In the wintertime, when snow and ice blankets a region, hodags grow a foul-smelling coat of greasy, dark-brown fur that sprouts in tufts from between their scales. A typical hodag measures over 10 feet long from snout to tail and weighs upward of 700 pounds.</p>\nSickly hodag"
     },
     "Caligni Stalker@@JnXZqPxGqnbDLXfW": {
-      "name": "カリグニ語 ストーカー",
+      "name": "カリグニ・ストーカー",
       "description": "<p>Caligni stalkers are often leaders of caligni enclaves.</p>\n<hr />\n<p>Calignis lurk in subterranean cities, creeping to the surface to steal, stalk, or make mischief. Each caligni serves in a specific role and grows into a specific form as determined by supernatural traditions and influences in caligni society. Regardless of their size or role, all calignis are gaunt, with pale flesh and white eyes. Some surface dwellers call the caligni \"dark folk,\" a term they dislike because it doesn't reflect either their appearance or character, only their environment.</p>"
     },
     "Vekensvok's Lampad@@K7hvZokBDqu61Sws": {
@@ -303,38 +303,38 @@
       "name": "巣"
     },
     "Toxic Crystals@@KwPwkxi8wIqEBoox": {
-      "name": "毒性クリスタル",
+      "name": "毒の結晶",
       "description": "<p>The green crystals begin to pulse more brightly with light in the presence of living creatures. These fluctuations in illumination from different crystals eerily match the pace of the breathing and rhythm of the heartbeats of those in the room.</p>"
     },
     "Lanalee Magravi@@LKiBeCKEGvZxqktr": {
       "name": "ラナリー・マグラヴィ",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11risasplace0000]{Risa’s Place}</p>\nNGの女性ソーサラー"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11risasplace0000]{Risa’s Place}</p>\nNG女性の魔法使い"
     },
     "Lord Longfingers@@LOxxyl8BXCRJCK7Z": {
       "name": "ロングフィンガー卿"
     },
     "Shadow@@LT64INGiW2a9gz7Z": {
-      "name": "シャドウ",
+      "name": "影",
       "description": "<p>The mysterious undead known as shadows lurk in dark places and feed on those who stray too far from the light. Those who parley with shadows, typically by keeping them at bay with a glowing weapon, may learn great secrets, for they are ideal spies.</p>"
     },
     "Abstalar Zantus@@LTU4QwsWeLjdmRTg": {
       "name": "Abstalar Zantus",
-      "description": "男性人間の聖職者デスナの信者"
+      "description": "男性デスナのクレリック"
     },
     "Fear of the Devil@@M5EC1QFzJMIh9EWp": {
-      "name": "恐怖のデヴィル",
-      "description": "<p>サンドポイントのデヴィルの煙と火の具現が、悪臭を放つ煙の爆風と共に穴から現れる。</p>"
+      "name": "悪魔への恐怖",
+      "description": "<p>サンドポイントの悪魔の煙と火の具現が、悪臭の煙を伴って穴から現れる。</p>"
     },
     "Grisly Nest@@M97rkto526hCC49W": {
       "name": "グリズリーの巣"
     },
     "Clockwork Soldier@@MLsvX2POg2IllhWx": {
-      "name": "Clockwork Soldier",
+      "name": "機械仕掛けの兵士",
       "description": "<p>These diligent machines guard their assigned posts tirelessly. A typical clockwork soldier stands 6 feet tall and consists of 500 pounds of metal and magic.</p>\n<hr />\n<p>Intricate, complex machines, clockworks are built with care by highly skilled engineers. Though their creation involves some amount of magic, they're primarily mechanical, packed with precision-tuned gears and springs working in concert.</p>\n<p>The sturdy mainspring within a clockwork must be wound to provide the energy needed to power the device. Some larger clockworks contain a series of springs for different limbs that each need to be wound. A clockwork's crafter creates a unique metal key while building the clockwork; winding the clockwork usually involves inserting the key into the machine's back and turning clockwise. Larger clockworks require greater strength to turn the key, and typically have larger keys to allow for more torque-some even accommodating a team of winders rather than an individual. Programming a clockwork requires both the key and the knowledge to set the program correctly, information usually reserved for the clockwork's creator or owner.</p>"
     },
     "Turch Sterglus@@MZsx9ytKHqUmJWou": {
       "name": "Turch Sterglus",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11valdemarfish00]{Valdemar Fish Market}</p>\nLGの男性漁師"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11valdemarfish00]{Valdemar Fish Market}</p>\nLG男性漁師"
     },
     "Yellow Mold@@Mw9G6WrfHosIdBxo": {
       "name": "イエローモールド",
@@ -342,21 +342,21 @@
     },
     "Jubrayl Vhiski@@NR0RWSRrPLwMDG6I": {
       "name": "ジュブレイル・ヴィスキ",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thefeedbag0000]{The Feedbag}</p>\nNEの男性ローグ"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thefeedbag0000]{The Feedbag}</p>\nNE男性ローグ"
     },
     "Ilsoari Gandethus@@NwLDE9qsaSoV1v6m": {
       "name": "Ilsoari Gandethus",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11turandarokac00]{Turandarok Academy}</p>\nLNの男性ウィザード"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11turandarokac00]{Turandarok Academy}</p>\nLN男性ウィザード"
     },
     "Skeletal Remains@@O38jeOfXbWX1UWa4": {
-      "name": "骨の残骸"
+      "name": "骸骨の残骸"
     },
     "Sandpoint Devil@@OJF43wO0MmIThVxx": {
-      "name": "サンドポイントのデヴィル",
+      "name": "サンドポイント・デビル",
       "description": "<p>While some creatures have been fused to create a new entity that's graceful and beautiful, the Sandpoint Devil is the opposite. It has the hooves and body of a powerful horse, but it walks on its hind legs in a perverse parody of a humanoid gait. Its equine face has been distorted and elongated with skeletal, yellowed fangs and milky eyes. The pox-spotted hide along the creature's back bears a draconic tail with dark, spiny plates and two torn, bat-like wings.</p>\n<p>The legendary Sandpoint Devil appears only on moonless nights when mists gather around the coast. Most encounters end with missing livestock or children, with little left behind other than oddly placed hoofprints that reek of brimstone.</p>"
     },
     "Clockwork Serpent@@OQ4K93zWtHoK0bWF": {
-      "name": "機械の蛇",
+      "name": "時計仕掛けの蛇",
       "description": "<p>Clockwork serpents are often found serving as guardians in serpentfolk laboratories or temples.</p>\n<h2>Experimental Serpents</h2>\n<p>Even stranger clockwork serpents are rumored to exist in the heart of serpentfolk enclaves. These constructs supposedly can repair damage to themselves when they change serpent modes, activate additional forms that allow swimming or flight, or even break apart into a seething swarm of smaller clockwork serpents.</p>"
     },
     "Dero Magister@@OUI7tt1NusRTzNBK": {
@@ -364,15 +364,15 @@
     },
     "Maver Kesk@@OlchZJdkz6MAxKKJ": {
       "name": "マーヴァー・ケスク",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11ringsandthin00]{Rings and Things}</p>\nLGの男性宝石商"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11ringsandthin00]{Rings and Things}</p>\nLG男性宝石商"
     },
     "Narlo Nyrell@@OqPeRPM4fFxRKjJZ": {
       "name": "ナルロ・ニレル",
       "description": "<p>When a cleric rebels against their deity and dies in the grip of blasphemous rage, the heresies they committed in life may fuel their transformation into an undead herexen. Herexens seek vengeance against the deity they once worshipped, defiling temples, slaying the faithful, and rallying lesser undead and death cultists to aid them in their unholy quests. Though a herexen's divine gifts have mostly been corrupted into the vileness of undeath, they stubbornly cling to remnants of their former power, still wielding magic and armaments favored by the deity they so greatly despise.</p>\n<p>Groups of herexens that blasphemed against the same deity sometimes combine to form a mockery of a congregation, conducting blasphemous rites with something approaching euphoria. These congregations are more often formed from a blasphemous cult who practiced their heresy together in life and died together, though some gather independent herexens of the same former faith.</p>\nMale herexen oracle"
     },
     "Jiolan Verneeth@@PCHMNLUIgNNAmAE0": {
-      "name": "Jiolan Verneeth",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11mvashtisplac00]{Mvashti’s Place}</p>\nNの無性の魔女"
+      "name": "ジオンドリエル",
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11mvashtisplac00]{Mvashti’s Place}</p>\nN無性の魔女"
     },
     "Rhu-Chalik@@PWGt8koc1NaUAq6O": {
       "name": "ルー・チャリク",
@@ -383,7 +383,7 @@
       "description": "<p>A line of skulls adorned with black candles sit on the floor, and use darkvision to spot intruders. The red arrows on the map indicate the direction the skulls are looking.</p>"
     },
     "Animate Dream@@QI3ZSZERAIMBg2cI": {
-      "name": "アニメイト・ドリーム",
+      "name": "アニメート・ドリーム",
       "description": "<p>An animate dream coalesces from centuries of stray fragments of reverie and dream left behind as slumbering minds drift through the Dimension of Dreams. In most cases, these fragments simply disperse on their own, but when dreamers flee from nightmares back to the waking world, these fragments can take on a supernatural life of their own. They have little reasoning and intent except to seek similar fragments, absorb them, and grow. When enough of them gather together, they merge into a horrific form as an animate dream.</p>\n<p>Individually, animate dreams can hold a wide range of appearances, but most take on rudimentary shapes akin to the living forms of the minds that spawned them. Animate dreams that rise from slumbering humanoids, the most commonly encountered, thus appear humanoid, but with distorted, nightmarish shapes that incorporate additional twisted limbs and frightening features. In these forms, animate dreams find their way out of the Dreamlands and into the waking world, only to discover they have no way of returning and suffer a relentless hunger that only new nightmares can sate.</p>\n<p>An animate dream thrives on the terror fueled by nightmares and fear and uses its supernatural abilities to invoke such feelings in the minds of its victims, cursing its prey by creating a permanent link to that individual's dreams. Thereafter, the victim is subjected to all manner of reoccurring nightmares. As the nightmares continue, the victim finds it more and more difficult to remain awake. In the end, the victim plunges into an accursed slumber from which it cannot return. These victims provide the animate dream with the purest form of fear and are its preferred sustenance.</p>\n<p>An animate dream can subsist on the ambient fear generated by regular nightmares, but these lesser fears aren't as satisfying, often driving the animate dream to seek out new victims. Left without a source of fear, an animate dream won't starve to death, but it will grow increasingly violent and desperate. Famished animate dreams are the ones most often encountered, as they have been forced to abandon subtlety to pursue more blatant methods of harvesting fear. Yet such animate dreams also tend to be the least powerful of their kind. Those who have grown metaphysically fat on fear have generally done so by adopting a specific nightmare theme, such as being buried alive, being swept away by ocean waves, or being consumed by wild beasts. Such animate dreams often have similarly themed innate spells to augment their powers.</p>"
     },
     "Statue of Alaznist@@QI7gjbDGzeJDE810": {
@@ -418,14 +418,14 @@
       "name": "Hollow Haft"
     },
     "Sticky Greeter@@RQjTRJiFU2Thuqen": {
-      "name": "粘着グリッター",
-      "description": "<p>剥製の巨大なクモの腹部が開いて、前方のエリアに粘着性のクモの巣を噴霧する。</p>"
+      "name": "スティッキー・グリーター",
+      "description": "<p>剥製の巨大なクモの腹部が開き、前方のエリアに粘着性のクモの巣を噴霧する。</p>"
     },
     "Wall@@RRo2dn9QYRrZ9h69": {
       "name": "壁"
     },
     "Devil's Disciple@@RcS7Yac7UofNZE5N": {
-      "name": "悪魔の群れ",
+      "name": "悪魔の弟子",
       "description": "人間とハーフエルフのカルト信者"
     },
     "Ziradini@@RvUoZZHTvJlQrF5F": {
@@ -437,7 +437,7 @@
     },
     "The Watching Lords@@SO1SVKmIf1MGZPTz": {
       "name": "見守る領主たち",
-      "description": "<p>アルコーブにある半神の像が動いているように見え、侵入者が通り過ぎるのを見守るために頭を回す。</p>"
+      "description": "<p>アルコーブにある半神の像が動いているように見え、侵入者が通り過ぎるのを見守るために頭を向ける。</p>"
     },
     "Satchel@@STBQpHTM28CROf3t": {
       "name": "サッチェル"
@@ -446,7 +446,7 @@
       "name": "第二の水浸しの宝箱"
     },
     "Divine Warden Of Haagenti@@Sm9WfX5NCuFnORyc": {
-      "name": "Divine Warden Of Haagenti",
+      "name": "ハーゲンティの神聖な守護者",
       "description": "<p>This divine warden serves Nethys, the neutral god of magic. It uses its divine gift to defend temples or shrines of @UUID[Compendium.pf2e.deities.Item.9EKyWmjLUu42evxC]{Nethys}.</p>\n<hr />\n<p>Created through complex rituals performed by a faith's adherents, divine wardens have been imbued with a fraction of the power that courses through a champion or cleric of a particular deity. This divine spark allows the divine warden to serve as the protector for a temple, shrine, or other holy site. Such guardians aren't intrinsically bound to a fixed location, but they rarely leave the temple or site over which they watch.</p>\n<p>Most divine wardens have been crafted from clay, stone, wood, or similar materials and typically have features that resemble a deity or a deity's herald. Divine wardens often have other abilities typically exhibited by constructs, such as armor plating, the ability to disguise themselves as statues, or other similar benefits.</p>\n<p>The faithful worshippers who craft divine wardens typically animate the constructs using a special ritual in which the followers beseech their deity to empower the guardian. The divine mandate that imbues a divine warden with power also allows the sentinel to recognize enemies of its deity and prevents the construct from attacking other members of the faith, unless these patrons choose to attack it first.</p>\n<p>In rare cases or particularly dire times, a deity might create a divine warden by directly animating an existing statue or idol to aid faithful followers. These divine guardians are most likely to be found outside of their original locations, assisting displaced congregations or pursuing those who might harm the faithful.</p>\nVariant divine warden"
     },
     "Olmur Danavakus@@Sy3tF0v9nGwlRdXZ": {
@@ -466,7 +466,7 @@
       "description": "Female halfling sorcerer"
     },
     "Crates@@TXOAdv79WjE1DZou": {
-      "name": "箱"
+      "name": "木箱"
     },
     "Arika Avertin@@TkNEdb4jqFCKMSrM": {
       "name": "アリカ・アヴァーティン",
@@ -478,7 +478,7 @@
     },
     "Promise of Plagues@@Tu3fbMcuTRDKIKiT": {
       "name": "Promise of Plagues",
-      "description": "<p> buzzing fliesの雲と、腐敗した体の一部や腐った肉の塊が散らばった部屋が満たされている。</p>"
+      "description": "<p>ブンブンと飛ぶハエの雲と、腐敗した体の一部や腐った肉の塊が散らばった部屋が満たされている。</p>"
     },
     "Peg@@UQfia3yG2cHtGsZB": {
       "name": "ペグ"
@@ -491,7 +491,7 @@
     },
     "Iazmilor@@V5SJbqpQDZjWPdKo": {
       "name": "Iazmilor",
-      "description": "アザトースのグリオス 神父"
+      "description": "アザトースのグリオスの神官"
     },
     "Charn Scarnetti@@VzKqeMY6nQwXl93O": {
       "name": "Charn Scarnetti"
@@ -501,8 +501,8 @@
       "description": "<p>Although the coloxus has the hideous head of a monstrous fly, these demons are fastidious and clean, always dressing in stylish clothing without a blemish on them. Coloxuses are manipulators and schemers born from destructively vain souls. Evil mortals are fond of conjuring them to serve as emissaries or spies, but they also make excellent assassins. Even in the role of murderer, the demon remains cloyingly polite and formal, reveling in the irony of perpetuating such a horrible crime under the guise of good etiquette, as if it were a delicate bit of diplomacy.</p>\n<h2>Enemies Of Filth</h2>\n<p>Filth is often inescapable in the Abyss, and as a result, coloxus demons are particularly eager to be conjured away from that plane to work their evils in cleaner realities. When one uses <em>planar ally</em> or <em>planar binding</em> to conjure a coloxus, summoning it into a clean environment and promising you won't compel it to serve under filthy conditions may make the demon easier to bargain with. At the GM's discretion, the demon may agree to serve you for longer or at a lower cost than normal.</p>\nFemale Coloxus"
     },
     "Alma Avertin@@W0TPM7srCci57XZB": {
-      "name": "アルマ・アヴァーティン",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointsav00]{Sandpoint Savories}</p>\nLG女性のパン屋"
+      "name": "アルマ・アヴェルティン",
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointsav00]{Sandpoint Savories}</p>\nLGの女性パン屋"
     },
     "Nasty Straw@@W2lgE74jgfFhpbMj": {
       "name": "汚れ"
@@ -516,19 +516,19 @@
     },
     "Shayliss Vinder@@WLu0MFrQSKVwrcun": {
       "name": "シャイリス・ヴィンダー",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointtow00]{Sandpoint Town Hall}</p>\nCG性別流動的なソーサラー/ヴィジランテ"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointtow00]{Sandpoint Town Hall}</p>\nCGのジェンダーフルイドのソーサラー/ビジランテ"
     },
     "Kaye Tesarani@@WT7IgEOcR4wIoowE": {
       "name": "ケイ・テサラニ",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thepixieskit00]{The Pixie’s Kitten}</p>\nCG女性のローグ"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thepixieskit00]{The Pixie’s Kitten}</p>\nCGの女性ローグ"
     },
     "Cyrdak Drokkus@@WhMBN43BvhW39zmO": {
-      "name": "シルダック・ドロッカス",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointthe00]{Sandpoint Theater}</p>\nCN男性のバード"
+      "name": "シルダク・ドロッカス",
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointthe00]{Sandpoint Theater}</p>\nCNの男性バード"
     },
     "Devil's Breath@@WtOIzZASahyT7Pf3": {
-      "name": "デヴィルの息",
-      "description": "<p>剥製のモンスターが前に突進し、吠え、悪臭を放つ煙の爆風を吐き出す。</p>"
+      "name": "悪魔の群れ",
+      "description": "<p>剥製のモンスターが前に突進し、吠え、悪臭を放つ煙の噴出を吐き出す。</p>"
     },
     "First Watterlogged Treasure Chest@@X3CbNT7z1sNW47Oj": {
       "name": "最初の水浸しの宝箱"
@@ -542,12 +542,12 @@
       "description": "<p>This worm that walks was a cultist of the Great Old One Hastur in its prior life. It continues its conspiracies and strives to further its evil plots in its new life.</p>\nMale human worm that walks sorcerer"
     },
     "Hunting Spider@@XlRa8hLbEHxNzUfS": {
-      "name": "ハンティングスパイダー",
+      "name": "ハンティング・スパイダー",
       "description": "<p>Hunting spiders are the most common type of giant spider, though not the largest.</p>\n<hr />\n<p>Few everyday vermin inspire as much dread as the infamous spider.</p>"
     },
     "Aliver \"Pillbug\" Podiker@@Xrwz0r4y4wKiEZfr": {
       "name": "アリバー \"ピルバグ\" ポディカー",
-      "description": "男性の人間の錬金術師"
+      "description": "雄の人間の錬金術師"
     },
     "Lord Longfingers@@XuQSAKxTbBYP2gsm": {
       "name": "ロングフィンガー卿",
@@ -558,7 +558,7 @@
       "description": "<p>Ghouls are ravenous undead who haunt graveyards and eat corpses.</p>\n<hr />\n<p>Few creatures are more ubiquitous to sinister locations such as lonely graveyards and ruined crypts than the flesh-eating undead known as ghouls.</p>"
     },
     "Empress Bore Worm@@YCistsmLsndWz1D4": {
-      "name": "エンプレス・ボアワーム",
+      "name": "エンプレス・ボア・ワーム",
       "description": "<p>When an area lacks sufficient food, the bore worms in a swarm become increasingly agitated and desperate. Eventually, at some chemical signal, the worms begin to cannibalize each other, devouring one other in a frenzy too gruesome to behold. A single worm emerges from this melee victorious; it rapidly grows larger and more voracious until it reaches an absolutely elephantine size.</p>\n<p>This empress bore worm lives only briefly, as it sets out in search of a new feeding ground and eats everything in its path in an attempt to sustain itself. However, the empress bore worm's ravenous metabolism demands more from its body than what it can physically sustain, as it exists only as a vessel for the next generation. Most live only a few days, or weeks at best, traveling and eating nonstop before dying-and in so doing, giving birth to new swarms of bore worms.</p>\n<hr />\n<p>These Darklands vermin produce corrosive, noxious slime and deliver agonizing bites, whether as a revolting, wriggling swarm of finger-length worms or a single massive, lurching beast. Among Darklands communities, most inhabitants regard bore worms much in the same way surface cultures speak of maggots or cockroaches-with general disdain and revulsion. Children consider catching a single bore worm and using it to torment others a rite of passage, albeit a dangerous one.</p>\n<p>The humble bore worm is a small and simple creature, both biologically and magically. These qualities allow it to adapt rapidly to different environments, some of them quite extreme, and also makes it susceptible to magical radiation and experimentation. Many a Darklands apprentice takes their first steps in the school of transmutation by practicing on these worms, while variations-both natural and cultivated-are scattered about beneath Golarion's surface.</p>"
     },
     "Pthuminin@@YCllCQUEV89O6UZS": {
@@ -567,30 +567,30 @@
     },
     "Belor Hemlock@@ZgitrjqeDzZIgvDf": {
       "name": "ベロール・ヘムロック",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointgar00]{Sandpoint Garrison}</p>\nCG男性のファイター"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointgar00]{Sandpoint Garrison}</p>\nCGの男性ファイター"
     },
     "Chod Bevuk@@ZgqOnKefFyrkugPE": {
       "name": "チョド・ベヴク",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointmea00]{Sandpoint Meat Market}</p>\nNG男性の肉屋"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointmea00]{Sandpoint Meat Market}</p>\nNGの男性肉屋"
     },
     "Chertus Jheed@@Zj4cCFHz0ghJB1Ka": {
       "name": "チェルトゥス・ジード",
-      "description": "男性の人間のファイター"
+      "description": "雄の人間ファイター"
     },
     "Naffer Vosk@@ZjCgZSMMJ7Wug4aY": {
       "name": "ナファー・ヴォスク",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointbon00]{Sandpoint Boneyard}</p>\n墓掘り、NG男性の聖職者サレンレイの"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointbon00]{Sandpoint Boneyard}</p>\n墓掘り、NGのサレンレイの男性クレリック"
     },
     "Cavern Troll@@ZlHLXZ97hNlh6Cmb": {
       "name": "キャバーン・トロール",
       "description": "<p>Insatiable scavengers stalking the eternal gloom of the Darklands, cavern trolls consume all in their path-even rocks and minerals when more nourishing sustenance is scarce. These rocky goliaths can tunnel through stone with their iron-sharp claws.</p>\n<p>Cavern trolls rarely venture to the surface world, for they have a debilitating vulnerability to sunlight that petrifies them on sustained contact. Unlike common trolls, cavern trolls can regenerate wounds dealt by fire. The crystalline nature of their skin, however, permits sonic attacks to neutralize their signature regeneration.</p>\n<p>As cavern trolls age, their flinty skin becomes studded with small crystals and stones of various composition. Paragons of their kind have toothy maws replete with large, crystalline fangs. A typical cavern troll stands 14 feet in height and weighs about 2,000 pounds.</p>"
     },
     "Sandpoint Devil@@ZoxOr1T9VcQofNGL": {
-      "name": "サンドポイント デヴィル",
+      "name": "サンドポイント・デビル",
       "description": "<p>While some creatures have been fused to create a new entity that's graceful and beautiful, the Sandpoint Devil is the opposite. It has the hooves and body of a powerful horse, but it walks on its hind legs in a perverse parody of a humanoid gait. Its equine face has been distorted and elongated with skeletal, yellowed fangs and milky eyes. The pox-spotted hide along the creature's back bears a draconic tail with dark, spiny plates and two torn, bat-like wings.</p>\n<p>The legendary Sandpoint Devil appears only on moonless nights when mists gather around the coast. Most encounters end with missing livestock or children, with little left behind other than oddly placed hoofprints that reek of brimstone.</p>"
     },
     "Nithiss@@ZpoIN4KWgMvNSkiw": {
-      "name": "Nithiss",
+      "name": "ニティス",
       "description": "<p>Although the mysterious demigods known as the Forsaken disappeared eons ago, many calignis continue to follow their ancient traditions of worship.</p>\n<p>Owbs, once the Forsaken's servants, still respond to caligni prayers. Caligni callers serve as the priests of their communities, calling upon these shadowy owb patrons for guidance, favors, and power. Their most important ceremony, the blanching, determines the potential of most newborn calignis and shapes their eventual forms.</p>\n<p>Due to their close ties to the malevolent owbs, most callers exhibit cruel and inscrutable natures. They often lead caligni enclaves alongside caligni stalkers as spiritual advisors. Callers tend to be highly superstitious, seeing omens everywhere, and they avoid revealing details of their rituals even to other calignis.</p>\n<hr />\n<p>Each individual in caligni society serves a specific role. At times, certain roles so rarely find suitable candidates that a community might only see a few individuals fill them in an entire generation.</p>\nFemale Caligni Caller"
     },
     "Weedfather@@a1yVGnzO2qJ0lGqe": {
@@ -610,15 +610,15 @@
       "description": "<p>Kaleb is a dark-haired Varisian man with a dusky complexion who keeps his beard and mustache well trimmed, wears sparkling silver jewelry (he favors earrings), and dresses in bright colors, favoring shirts that are cut low to show off his chest, on which he bears several Varisian tattoos associated with luck and wealth.</p>\n<p>@UUID[JournalEntry.pf2ap20002strang.JournalEntryPage.02dinneratther00]{Dinner at the Rusty Dragon}</p>\nCE Monster posing as a human nobleman"
     },
     "Spectral Devil@@aqfPotnZF7LXzwso": {
-      "name": "デロ絞殺者"
+      "name": "スペクトラル・デビル"
     },
     "Giant Longlegs@@b4cWfz1K4SBNpfE0": {
-      "name": "巨人 ロングレッグス",
+      "name": "ジャイアント・ロングレッグス",
       "description": "<p>The most widespread of the longlegs is the giant longlegs, a creature with a body the size of a dog whose long, spindly legs give it a much more intimidating appearance.</p>\n<hr />\n<p>While smaller specimens of these unsettling-looking arachnids (known regionally by names like harvesters, tickle spiders, or daddy longlegs) are harmless, their larger cousins, known simply as longlegs, are anything but.</p>\n<h2>Longlegs Species</h2>\n<p>Beyond the two common types presented here, many other variants of longlegs can be found throughout Golarion, with the exception of its arctic regions, where longlegs don't thrive. They often live on the periphery of cities, lurking in sewers or ruins where the hunting is good. Swarms of sewer longlegs are particularly dangerous and infest the undercities of many Taldan settlements, while to the west in Cheliax, the much-larger executor longlegs prefer to live among the rooflines of slums where Thrune's rule has been particularly horrific. Among the largest of all longlegs, though, is the dreaded (and thankfully rare) treeleg harvester of the Mwangi Expanse.</p>"
     },
     "The Three Steps@@bCUbSjiybq9JrtNc": {
       "name": "三つのステップ",
-      "description": "<p>シヘドロンから魔法のエネルギーのビームが放たれ、部屋を照らす。</p>"
+      "description": "<p>シヘドロンから魔法のエネルギーのビームが放たれ、部屋を扇ぐ。</p>"
     },
     "Chertus Jheed@@bP58AMeWPHwRQYfm": {
       "name": "チェルトゥス・ジード",
@@ -629,7 +629,7 @@
       "description": "<p>This golem is a walking alchemical nightmare capable of inflicting all manner of painful wounds. Its ability to follow orders is granted by the otherwise mindless humanoid brain that floats in its dome-like head. In exceptionally rare cases, the brain used in its creation might retain fragments of memories or even actual intellect, resulting in an alchemical golem with a personality and agenda of its own.</p>\n<hr />\n<p>Crafted of base materials and then magically animated into a powerful guardian, the legendary golem is a living construct that mindlessly obeys its creator's commands-often continuing to do so for years or even centuries after its creator's death. There exist two known methods of animating a golem. The traditional method involves harvesting and implanting an elemental soul or essence within the newly crafted host statue, a procedure seen as vile and blasphemous to those who value the sanctity of the soul; evil or amoral golem crafters tend to prefer this method. The other, less disreputable technique involves siphoning pure vitality energy into the statue to artificially imitate the creation of a soul. The result does not give the golem a true soul and is generally a more costly and time-consuming method of creation. Regardless of the method used, the resulting golem functions the same. A golem's unique animating force leaves it susceptible to certain forms of magic, but apart from these few weaknesses, it is impervious to magic and difficult to damage with weapons.</p>\n<p>Golems work best in play as foes to vanquish rather than allies to accompany player characters on adventures. The process of creating a golem is time-consuming, expensive, and difficult, and only the most talented spellcasters or artisans can even hope to accomplish such an undertaking. While certain magical texts-so-called \"golem manuals\"-are said to aid golems crafters, for the most part the creation of a golem should be something left in the hands of the Game Master.</p>\n<p>Golems have components that can be harvested as trophies or magical components; the value depends on the golem in question. Examples of components that can be harvested from golems are listed in the sidebars.</p>\nAlchemical Golem"
     },
     "Hidden Sanctum@@bZVLSpVBl9hcbDiC": {
-      "name": "Hidden Sanctum"
+      "name": "隠された聖域"
     },
     "Central Table@@bbPsxJzreY1MTaZp": {
       "name": "中央のテーブル"
@@ -638,7 +638,7 @@
       "name": "カルズーグ"
     },
     "Small Chamber@@br6vF0vqIwOxYsuF": {
-      "name": "小型 室"
+      "name": "小さな部屋"
     },
     "Altar@@c0G1gy2B18C0YlkI": {
       "name": "祭壇"
@@ -648,34 +648,34 @@
     },
     "Larz Rovanky@@d0GkVdCnkXeNsd3t": {
       "name": "ラーズ・ロヴァンキー",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11rovankytanne00]{Rovanky Tannery}</p>\nLG 男性皮革職人"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11rovankytanne00]{Rovanky Tannery}</p>\nLG男性の皮革職人"
     },
     "Liralarue@@dAgKRz6HsfUtblMr": {
       "name": "リララルー"
     },
     "Sausage@@dLLvNrNyq46blA5R": {
       "name": "ソーセージ",
-      "description": "<p>These giant weasels are driven by the same hunger that plagues their smaller cousins, but because of their much larger size, they can quickly devastate the wildlife in an environment. They tend to avoid humanoids but have been known to attack if driven by hunger or fear.</p>\n<p>A megalictis uses the same constricting bite as smaller weasels, remaining attached even if other creatures attack. Given their remarkable stature, a megalictis can take down sizable prey, including horses and even the occasional bear, if the opportunity presents itself.</p>\n<p>A megalictis can grow to be 5 feet long and weighs around 150 pounds.</p>\n<hr />\n<p>Weasels are lithe, clever predators known for both their beautiful, sleek fur and their ability to crawl into tight spaces. Pound for pound, few animals are as voracious as weasels. Insatiably hungry, they eat almost half their own weight each day, leading them to constantly hunt for new prey to satisfy their hunger.</p>\nMegalictis"
+      "description": "<p>These giant weasels are driven by the same hunger that plagues their smaller cousins, but because of their much larger size, they can quickly devastate the wildlife in an environment. They tend to avoid humanoids but have been known to attack if driven by hunger or fear.</p>\n<p>A megalictis uses the same constricting bite as smaller weasels, remaining attached even if other creatures attack. Given their remarkable stature, a megalictis can take down sizable prey, including horses and even the occasional bear, if the opportunity presents itself.</p>\n<p>メガリクティスは5フィートの長さに成長し、約150ポンドの重さがある.</p>\n<hr />\n<p>Weasels are lithe, clever predators known for both their beautiful, sleek fur and their ability to crawl into tight spaces. Pound for pound, few animals are as voracious as weasels. Insatiably hungry, they eat almost half their own weight each day, leading them to constantly hunt for new prey to satisfy their hunger.</p>\nメガリクティス"
     },
     "Kaleb Valdemar’s Body@@ecqOHEl8XRfXrQUj": {
       "name": "カレブ・ヴァルデマーの遺体",
-      "description": "<p>Intellect devourers serve as advance scouts and infiltrators for the powerful force of alien beings called the Dominion of the Black. These monsters roam the Darklands, from which they mount secret invasions of the world above. When an intellect devourer infiltrates a society, its first priority is to acquire a body. It might first seek out a graveyard for a fresh corpse, as this is easier than fighting and killing someone. When the aberration compresses itself into the host's brain cavity, its real body goes dull to sensation as it connects to the nervous system of its host. If found out, an intellect devourer might quickly inhabit a new body to make its escape, preferably something inconspicuous such as a domestic animal.</p>\nMale human wizard, deceased"
+      "description": "<p>Intellect devourers serve as advance scouts and infiltrators for the powerful force of alien beings called the Dominion of the Black. These monsters roam the Darklands, from which they mount secret invasions of the world above. When an intellect devourer infiltrates a society, its first priority is to acquire a body. It might first seek out a graveyard for a fresh corpse, as this is easier than fighting and killing someone. When the aberration compresses itself into the host's brain cavity, its real body goes dull to sensation as it connects to the nervous system of its host. If found out, an intellect devourer might quickly inhabit a new body to make its escape, preferably something inconspicuous such as a domestic animal.</p>\n男性の人間の魔法使い、故人"
     },
     "Vekensvok@@efDvCH10KvXKGTZq": {
       "name": "ヴェケンスヴォク",
-      "description": "<p>Intellect devourers serve as advance scouts and infiltrators for the powerful force of alien beings called the Dominion of the Black. These monsters roam the Darklands, from which they mount secret invasions of the world above. When an intellect devourer infiltrates a society, its first priority is to acquire a body. It might first seek out a graveyard for a fresh corpse, as this is easier than fighting and killing someone. When the aberration compresses itself into the host's brain cavity, its real body goes dull to sensation as it connects to the nervous system of its host. If found out, an intellect devourer might quickly inhabit a new body to make its escape, preferably something inconspicuous such as a domestic animal.</p>\nIntellect Devourer"
+      "description": "<p>Intellect devourers serve as advance scouts and infiltrators for the powerful force of alien beings called the Dominion of the Black. These monsters roam the Darklands, from which they mount secret invasions of the world above. When an intellect devourer infiltrates a society, its first priority is to acquire a body. It might first seek out a graveyard for a fresh corpse, as this is easier than fighting and killing someone. When the aberration compresses itself into the host's brain cavity, its real body goes dull to sensation as it connects to the nervous system of its host. If found out, an intellect devourer might quickly inhabit a new body to make its escape, preferably something inconspicuous such as a domestic animal.</p>\n知性を食らう者"
     },
     "Vodger Magravi@@elZ2anBZA1SJcFEN": {
       "name": "ヴォッジャー・マグラヴィ",
-      "description": "ヴァリシア語 男性の酒場のサーバー"
+      "description": "ヴァリシアンの男性の酒場のサーバー"
     },
     "Greedspawn@@epiGV98LE0nYOvOp": {
       "name": "Greedspawn",
-      "description": "<p>Sinspawn were created by one of seven ancient wizards known collectively as runelords-each of whom embraced and embodied one of seven sins. The first sinspawn was created by the Runelord of Wrath, utilizing techniques that have since gone on to influence fleshwarping practices. It wasn't long before the technique used to create sinspawn fell into the hands of the other runelords, and while each tried their own hand at crafting variants of their own design, today sinspawn of wrath remain the most numerous and notorious of their kind. Bearing only a vague resemblance to the humanoids from whose flesh they were formed, sinspawn generally appear horrifically emaciated and have unnaturally long arms and digitigrade legs, each with a trio of stubby, taloned digits. Veins bulge across sinspawn's bodies in sanguine patterns that suspiciously resemble twisted runes, and their flesh is pale and hairless. Their heads are elongated, bearing only slits for a nose, red eyes, and disturbing lower jaws that split in half at the chin, revealing pedipalps that end in tiny, three-fingered hands and framing a long, lolling tongue. Sinspawn stand 6-1/2 feet tall and typically weigh as much as an emaciated human of their size. They behave in a manner consistent with their associated sin and have physical characteristics that hint at these qualities. For example, greedspawn's veins appear to run with gold while envyspawn appear even more wasted than the rest of their kin.</p>\n<hr />\n<p>Greedspawn are the tallest of sinspawn, often 7 feet in height, and with gold-tinged veins.</p>"
+      "description": "<p>Sinspawn were created by one of seven ancient wizards known collectively as runelords-each of whom embraced and embodied one of seven sins. The first sinspawn was created by the Runelord of Wrath, utilizing techniques that have since gone on to influence fleshwarping practices. It wasn't long before the technique used to create sinspawn fell into the hands of the other runelords, and while each tried their own hand at crafting variants of their own design, today sinspawn of wrath remain the most numerous and notorious of their kind. Bearing only a vague resemblance to the humanoids from whose flesh they were formed, sinspawn generally appear horrifically emaciated and have unnaturally long arms and digitigrade legs, each with a trio of stubby, taloned digits. Veins bulge across sinspawn's bodies in sanguine patterns that suspiciously resemble twisted runes, and their flesh is pale and hairless. Their heads are elongated, bearing only slits for a nose, red eyes, and disturbing lower jaws that split in half at the chin, revealing pedipalps that end in tiny, three-fingered hands and framing a long, lolling tongue. Sinspawn stand 6-1/2 feet tall and typically weigh as much as an emaciated human of their size. They behave in a manner consistent with their associated sin and have physical characteristics that hint at these qualities. For example, greedspawn's veins appear to run with gold while envyspawn appear even more wasted than the rest of their kin.</p>\n<hr />\n<p>貪欲の子は罪の子の中で最も背が高く、しばしば7フィートの高さで、金色の血管を持っている.</p>"
     },
     "Hannah Velerin@@etA2VA8ZBEZ9KUlu": {
       "name": "Hannah Velerin",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11hannahs0000000]{Hannah’s}</p>\nNG 女性聖職者"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11hannahs0000000]{Hannah’s}</p>\nNGの女性のクレリック"
     },
     "Kanker@@eudfZ1BTN6AvPHGj": {
       "name": "Kanker",
@@ -683,15 +683,15 @@
     },
     "Sicklefang Longlegs@@f2jCqIQI73HlmBDt": {
       "name": "シッケルファング・ロングレッグス",
-      "description": "<p>Somewhat larger than the giant longlegs, the sicklefang is named for their unusually large, curved mandibles, which they use to bleed prey with deadly efficiency.</p>\n<hr />\n<p>While smaller specimens of these unsettling-looking arachnids (known regionally by names like harvesters, tickle spiders, or daddy longlegs) are harmless, their larger cousins, known simply as longlegs, are anything but.</p>\n<h2>Longlegs Species</h2>\n<p>Beyond the two common types presented here, many other variants of longlegs can be found throughout Golarion, with the exception of its arctic regions, where longlegs don't thrive. They often live on the periphery of cities, lurking in sewers or ruins where the hunting is good. Swarms of sewer longlegs are particularly dangerous and infest the undercities of many Taldan settlements, while to the west in Cheliax, the much-larger executor longlegs prefer to live among the rooflines of slums where Thrune's rule has been particularly horrific. Among the largest of all longlegs, though, is the dreaded (and thankfully rare) treeleg harvester of the Mwangi Expanse.</p>"
+      "description": "<p>巨大なロングレッグスよりやや大きいシッケルファングは、獲物を致命的な効率で出血させるために使用する異常に大きく曲がった顎のために名付けられた.</p>\n<hr />\n<p>これらの不気味な外見のクモ(地域によっては収穫者、くすぐりクモ、またはダディ・ロングレッグスと呼ばれる)の小型の標本は無害だが、彼らの大きな親戚であるロングレッグスは全く無害ではない.</p>\n<h2>Longlegs Species</h2>\n<p>Beyond the two common types presented here, many other variants of longlegs can be found throughout Golarion, with the exception of its arctic regions, where longlegs don't thrive. They often live on the periphery of cities, lurking in sewers or ruins where the hunting is good. Swarms of sewer longlegs are particularly dangerous and infest the undercities of many Taldan settlements, while to the west in Cheliax, the much-larger executor longlegs prefer to live among the rooflines of slums where Thrune's rule has been particularly horrific. Among the largest of all longlegs, though, is the dreaded (and thankfully rare) treeleg harvester of the Mwangi Expanse.</p>"
     },
     "Scarhorn@@fXipByb1tg2IltHv": {
       "name": "スカーホーン",
-      "description": "雌の古代黒ドラゴン"
+      "description": "雌の古代の黒ドラゴン"
     },
     "Ven Vinder@@fhqQIGoxQ5ihPct6": {
       "name": "ヴェン・ヴィンダー",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11generalstore00]{General Store}</p>\nLN 男性の食料品店主"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11generalstore00]{General Store}</p>\nLNの男性の食料品店主"
     },
     "Priest’s Remains@@fsmw9bIRT4Rdc04J": {
       "name": "Priest’s Remains"
@@ -701,25 +701,25 @@
     },
     "Dero Strangler@@gGXawHv9m862ZMbc": {
       "name": "Dero Strangler",
-      "description": "<p>Dero stranglers specialize in capturing living victims, and they are often called upon to aid in abductions.</p>\n<hr />\n<p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>"
+      "description": "<p>デロ・ストラングラーは生きた犠牲者を捕らえることを専門としており、誘拐の手助けをするためにしばしば呼ばれる.</p>\n<hr />\n<p>Deros are short, wiry humanoids with milky white eyes, gray-blue skin, and wild shocks of off-white or gray hair. The descendants of a mysterious type of fey abandoned in the deepest, darkest caverns of Golarion, deros are the subject of fearful legends and folk tales to most of the world's surface races. They skulk beneath major metropolitan areas, performing cruel and twisted experiments on unwilling subjects. A dero is 3 feet tall and weighs approximately 70 pounds.</p>"
     },
     "Hryngar Body@@gQqPpWdjnm3K6y0Z": {
       "name": "フリンガーの体"
     },
     "Vrock@@h5CMdADCiAtufgIu": {
-      "name": "瓦礫",
+      "name": "ヴロック",
       "description": "<p>When the gates to the Abyss swing wide, the first demons through are often vrocks, vulture-headed scions of rage who wheel through the air on black wings or dance with the exultation of their fiendish power. Their hatred for mortals is matched only by their desire to inflict suffering through their horrible screech or their devastating dance. Vrocks form from the souls of hateful mortals who are thus given another chance to inflict their rage on the world.</p>\n<p>Vrocks often travel in small groups so as to make the best use of their dance of ruin ability, but they rarely appear in groups larger than four. Against small groups and individuals, they swoop down without fear, hoping to play with their prey before going for the kill. Against formidable foes, they are just as happy to fly above, using their dance of ruin to cast a storm of lightning down on them.</p>\n<hr />\n<p>When a sinful mortal soul is judged and sent on to the Abyss, it can become a deadly fiend-a demon. Demons are living incarnations of sin-be they classic sins like wrath or gluttony, or more \"specialized\" depravities like an obsession with torture or the act of treason or treachery. Once formed, a demon's driving goals are twofold-the amassing of personal power, and the corruption of mortal souls to cause them to become tainted by sin. In this way demons ensure a never-ending supply of new demons to bolster their ever-growing ranks in the Abyss.</p>"
     },
     "Fires of Abraxas@@h8jrLioXgvYxD5Br": {
       "name": "Fires of Abraxas",
-      "description": "<p>シヘドロンの炎の中から火の光線が放たれ、タシロン語でアブラクサスへの祈りが唱えられない限り、部屋を掃く。</p>"
+      "description": "<p>シヘドロンの内部の炎から火の光線が部屋を横切って放たれ、タッシロン語でアブラクサスへの祈りが唱えられない限り、部屋を掃く.</p>"
     },
     "Gargoyle@@hTGxPNxobPOnOpFP": {
       "name": "ガーゴイル",
       "description": "<p>Gargoyles are monstrous hunters made of elemental stone. They use their resemblance to decorative statues to hide in plain sight in cities during the day and descend upon unlucky pedestrians at night. Their most common form is that of a horned humanoid with bat-like wings, but individual gargoyles show a great deal of variation, with some appearing more or less humanoid and others resembling no known creature. A gargoyle's features are not flxed; city-dwelling gargoyles who remain in the same locale long enough slowly morph, day by day, to match the style of the local architecture. These patient monsters can stay disguised for long stretches of time as they patiently await an opportunity to strike.</p>\n<p>Gargoyles tend to be lone hunters, though sometimes they band into fearsome tribes called \"wings\" for protection or sport. On rare occasions, wings become relatively stable communities, and gargoyles in wings may even ally with other creatures such as demons and intelligent aberrations, though these alliances exist on a razor's edge. The majority of gargoyles are treacherous, vindictive, and petty-traits that preclude lasting partnerships. Many tend to be obsessive and compulsive. Some are collectors, focusing on anything from books to grim trophies, while others are ritualistic or overly passionate about niche intellectual subjects or certain artistic motifs. These tendencies often contribute to the dissolution of wings as individuals' obsessions and compulsions clash.</p>"
     },
     "Jasper Korvaski@@hdllF0qb42FCDZXk": {
-      "name": "ジャスパー・コルヴァスキー",
+      "name": "ジャスパー・コルヴァスキ",
       "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11mercantilele00]{Mercantile League}</p>\nLG男性パラディン"
     },
     "Wrapped Bundle@@hubQJYfNP7pXHNfP": {
@@ -733,7 +733,7 @@
       "description": "<p>Intellect devourers serve as advance scouts and infiltrators for the powerful force of alien beings called the Dominion of the Black. These monsters roam the Darklands, from which they mount secret invasions of the world above. When an intellect devourer infiltrates a society, its first priority is to acquire a body. It might first seek out a graveyard for a fresh corpse, as this is easier than fighting and killing someone. When the aberration compresses itself into the host's brain cavity, its real body goes dull to sensation as it connects to the nervous system of its host. If found out, an intellect devourer might quickly inhabit a new body to make its escape, preferably something inconspicuous such as a domestic animal.</p>"
     },
     "Goblin Commando@@iB07fAGoCGj4UPK5": {
-      "name": "ゴブリン語 コマンド",
+      "name": "ゴブリンコマンド",
       "description": "<p>The theoretical leaders of goblin raids are called goblin commandos. In practice, goblin commandos rarely continue to lead their comrades once a battle has begun. Most shirk their responsibilities in favor of wading into the fray and claiming more glory from their tribe-mates.</p>\n<hr />\n<p>These small humanoids have green or gray skin and large heads with wide ears. While some goblins are civilized and have worked hard to be considered upstanding members of humanoid communities, most are impetuous and vicious creatures who delight in wreaking havoc. These goblins think nothing of slaughtering livestock, stealing infants, or burning down a building purely for momentary delight. They revel in playing malicious tricks on taller humanoids, whom they call \"longshanks.\"</p>\n<p>Goblins are superstitious, with an intense awe of magic and a fascination with fire; goblins who master magic or fire earn great respect from their kin. Most other humanoids find it difficult to understand goblins' outlook: they hate canines but eagerly share their lairs with so-called \"goblin dogs,\" they fearlessly attack larger creatures but are terrified of horses, and they despise vegetables yet consider pickles a delicacy. To a goblin, of course, these are all perfectly sensible life choices.</p>"
     },
     "Brodert Quink@@iMdkjtin9G7btelf": {
@@ -741,7 +741,7 @@
       "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11brodertshous00]{Brodert’s House}</p>\nNG男性賢者"
     },
     "Tangles@@iimk7sPHXkpEyo5i": {
-      "name": "Tangles",
+      "name": "タンチ",
       "description": "<p>A gogiteth is a slavering nightmare of teeth, eyes, and hairy spiderlike legs, and its appearance is invariably seared into the minds of any who witness it. Hives of these skittering monsters haunt the lowest reaches of the Darklands, competing with cave worms and other subterranean horrors for food and resources. A gogiteth is rarely seen alone, as these oversized vermin learned long ago that the best means of survival is sticking close to others of their own kind. Even the haughty drow know to seek cover when a gogiteth is spotted, for where there is one, a swarm is sure to follow.</p>\n<p>Gogiteths make a clacking sound as they move about. The joints in their many legs pop and crack with each movement, though they can suppress this sound voluntarily so that they can hunt without giving away their presence. The odd creatures can also make a high-pitched whistling sound that echoes throughout the caverns where they live. Some Darklands natives report that groups of gogiteths sometimes join together in eerie, discordant songs.</p>\n<p>Gogiteths' alien anatomies have inspired no shortage of speculative origin stories. Some believe they are the result of a fleshwarping experiment gone horribly wrong. Others think they may be related in some way to the Dominion of the Black-possibly the distant cousins or some strange exile of that alien entity; according to this mythos, once they made their way to this planet, the gogiteths crawled into the depths of the earth, shying away from the blazing sun above.</p>\n<p>Gogiteths are a menace to every other denizen of the Darklands. Drow and duergars in gogiteth-infested regions of Sekamina or Orv frequently organize hunting parties to eradicate the terrors, even calling for temporary truces with unlikely allies in times when a gogiteth presence must be addressed. Since even an average gogiteth hive can host up to two dozen of the horrors, missions to eradicate them when they become established are dangerous quests indeed.</p>\nGogiteth"
     },
     "Myceloid@@iz665NKJI70x1Wye": {
@@ -753,7 +753,7 @@
       "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointmar00]{Sandpoint Market}</p>"
     },
     "Nithiss@@jDzf1R2CqYa2boek": {
-      "name": "Nithiss"
+      "name": "ニスク・タンダー"
     },
     "Jordus Munt@@jImEuKNqKdh4mWhT": {
       "name": "ジョーダス・ムント",
@@ -789,8 +789,8 @@
       "name": "異常なトーム"
     },
     "Corpselight Mist@@kezJnTKAyVhKZctD": {
-      "name": "死体の霧",
-      "description": "<p>光る緑の霧の渦が、30-フィートの深さの裂け目を満たしている。</p>"
+      "name": "死体の光の霧",
+      "description": "<p>光る緑の霧の渦が、30フィートの深さの亀裂を満たしている。</p>"
     },
     "Refining Lab@@kkSzLf5MSXB140xJ": {
       "name": "Refining Lab"
@@ -799,11 +799,11 @@
       "name": "ザラヴェクサス"
     },
     "Marsh Giant@@lJy00Bb3xJIEmi05": {
-      "name": "湿地巨人",
+      "name": "マーシュジャイアント",
       "description": "<p>Dwellers of brackish coastal salt marshes and fetid bogs and swamps, marsh giants are hideous in appearance indeed, with fishlike mouths, slimy gray-green skin, and dark, beady eyes. They prefer to eat the flesh of those they slay in battle, but many are also cannibals. It is perhaps this vicious behavior that keeps the creatures in check, for if a fellow marsh giant becomes too dangerous and powerful, it runs the risk of being ambushed and consumed by its clan.</p>\n<p>Marsh giants are insular and mysterious, dedicating much of their lives to zealous worship of sea-dwelling deities or stranger entities. While there is no central religion followed by all marsh giants, many are known to venerate the demon lord Dagon, while others worship even more powerful monstrosities from the Elder Mythos, such as distant, dreaming Cthulhu.</p>\n<p>Only rarely do more than a dozen marsh giants settle together in a location, but when they do it is often for a religious purpose. Whatever call from the deep draws them together also tugs at nearby creatures such as boggards or skum, who look upon marsh giants in fear and reverence. The grim, terrifying chants and screams coming from such an encampment are a sure sign of terror to come for any other residents of the area.</p>\n<p>Barely topping 11 feet tall and 1,000 pounds, marsh giants are small for giants but make up for their relatively diminutive stature with their zealotry.</p>"
     },
     "Gurlunk@@lUHNoEPF8KOkjkah": {
-      "name": "ザンダーグール",
+      "name": "ガルンク",
       "description": "オスのゴブリンレンジャー"
     },
     "Scarhorn@@lklzTwMocMrUPFXP": {
@@ -812,7 +812,7 @@
     },
     "Whispers from Long Ago@@luiHkNuQxW4Dm2Vp": {
       "name": "Whispers from Long Ago",
-      "description": "<p>扉が開かれると、不安を感じさせるささやきが外に広がり、侵入を試みた者の心に入り込む。</p>"
+      "description": "<p>扉が開くと、不安を呼び起こすささやきが外に広がり、侵入者の心に入り込む。</p>"
     },
     "Caligni Slayer@@lxakK7geKCs4Ofrb": {
       "name": "Caligni Slayer",
@@ -835,15 +835,15 @@
       "description": "<p>When a living, sentient humanoid is exposed to an extreme expression of supernatural evil, the experience can irrevocably damn the victim, crushing their mind and ripping out their soul in an appalling, unholy transformation that results in a creature that's anathema to life-the bodak.</p>\n<p>The shreds of physicality that survive this absolute corruption serve only to enhance the humanoid's profoundly disturbing appearance. The bodak's body is horrifically twisted, as though it's locked in a convulsion of agony and terror. Its desiccated and hairless flesh bears an otherworldly, pearlescent sheen, strung taut across a malformed skeleton that reduces its gait to a slow shamble. But most disturbing of all are its eyes, set in a drooping, melted visage with scant remains of its former facial structure. These eyes, sunken deep into their sockets, nevertheless glow with an unholy light, stare with unremitting malevolence, and constantly weep noxious vapor.</p>\n<p>Fragmented memories of a prior existence filtered through a vengeful hatred of the living lead the bodak to try to return to those places it once knew. If successful, it assaults former friends, acquaintances, and loved ones with its murderous gaze and an incomprehensible torrent of gibberish laced with vile curses, accusations, and threats-an assault that often leads to the victims rising as newly formed bodaks themselves.</p>"
     },
     "Striding Fire@@miM6dakmFHddq7SC": {
-      "name": "ストライディング火炎",
-      "description": "<p>広がる炎の速度と混沌の具現化であるストライディングファイアは、骨格のような枠組みの中で渦巻く色とりどりの炎で構成されたしなやかで長い手足を持つ人型として現れる。</p>"
+      "name": "ストライディングファイア",
+      "description": "<p>広がる炎の速度と混沌の具現化であるストライディングファイアは、骨格のようなフレームの中で渦巻く色の変化する炎で構成された、しなやかで長い手足を持つ人型として現れる。</p>"
     },
     "Skeletal Remains@@mtPK9vdeC2pN3veK": {
       "name": "骨の残骸"
     },
     "Titus Scarnetti@@mvz8gZhzHHkzrmaf": {
       "name": "Titus Scarnetti",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11scarnettiman00]{Scarnetti Manor}</p>\nLEオス人間貴族"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11scarnettiman00]{Scarnetti Manor}</p>\nLEオスの人間貴族"
     },
     "Merchant@@n6HLojrKxdClO46s": {
       "name": "商人",
@@ -851,10 +851,10 @@
     },
     "Veznutt Parooh@@n70CKIFaALU449F7": {
       "name": "ヴェズヌット・パルー",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thewaynorth000]{The Way North}</p>\nNGオスウィザード"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thewaynorth000]{The Way North}</p>\nNGオスのウィザード"
     },
     "Glorkus@@nADcTAmwqpYXSXvd": {
-      "name": "グロルクス",
+      "name": "ザンダーグール",
       "description": "<p>Ghouls are ravenous undead who haunt graveyards and eat corpses.</p>\n<hr />\n<p>Few creatures are more ubiquitous to sinister locations such as lonely graveyards and ruined crypts than the flesh-eating undead known as ghouls.</p>\nMale goblin ghoul cleric of Kabriri"
     },
     "Belimarius@@nJNKcEhEAHgZTXMv": {
@@ -883,7 +883,7 @@
     },
     "Shadows of Everglut@@ojO2XBOGU7vSeMk7": {
       "name": "エバーグラットの影",
-      "description": "<p>アニメーションされたインクのプールのように振る舞う渦巻く影が、この部屋に足を踏み入れすぎた者の手足にぶつかり、這い寄る。</p>"
+      "description": "<p>アニメーションされたインクの池のように振る舞う渦巻く影が、この部屋に足を踏み入れた者の手足にぶつかり、這い寄る。</p>"
     },
     "Chask Haladan@@pL48m0SxVAZwqJbs": {
       "name": "チャスク・ハラダン",
@@ -895,14 +895,14 @@
     },
     "Jargie Quinn@@qO5Roun9dXKzGhxd": {
       "name": "Jargie Quinn",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thehagfish0000]{The Hagfish}</p>\nCGの男性酒場の主人"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11thehagfish0000]{The Hagfish}</p>\nCGの男性タバーンキーパー"
     },
     "Secret Library@@qnIj3yG8JpG3f5Yj": {
-      "name": "非公開図書館"
+      "name": "秘密の図書館"
     },
     "Audrahni@@qzCWFwuTrdT9HvdE": {
       "name": "オードラーニ",
-      "description": "<p>@UUID[JournalEntry.pf2ap20001bonesa.JournalEntryPage.01theviolatedg00#audrahni]{Audrahni}</p>\n聖職者エンピリアル・ロード・アシャバの"
+      "description": "<p>@UUID[JournalEntry.pf2ap20001bonesa.JournalEntryPage.01theviolatedg00#audrahni]{Audrahni}</p>\nエンピリアル・ロード・アシャバのクレリック"
     },
     "Wolgur's Tithe@@rAgfSegC16nP6PDc": {
       "name": "Wolgur's Tithe"
@@ -932,14 +932,14 @@
       "name": "ヌアリア"
     },
     "Marsh Giant@@t3JGPzxrUqjUbR2m": {
-      "name": "湿地巨人",
+      "name": "マーシュジャイアント",
       "description": "<p>Dwellers of brackish coastal salt marshes and fetid bogs and swamps, marsh giants are hideous in appearance indeed, with fishlike mouths, slimy gray-green skin, and dark, beady eyes. They prefer to eat the flesh of those they slay in battle, but many are also cannibals. It is perhaps this vicious behavior that keeps the creatures in check, for if a fellow marsh giant becomes too dangerous and powerful, it runs the risk of being ambushed and consumed by its clan.</p>\n<p>Marsh giants are insular and mysterious, dedicating much of their lives to zealous worship of sea-dwelling deities or stranger entities. While there is no central religion followed by all marsh giants, many are known to venerate the demon lord Dagon, while others worship even more powerful monstrosities from the Elder Mythos, such as distant, dreaming Cthulhu.</p>\n<p>Only rarely do more than a dozen marsh giants settle together in a location, but when they do it is often for a religious purpose. Whatever call from the deep draws them together also tugs at nearby creatures such as boggards or skum, who look upon marsh giants in fear and reverence. The grim, terrifying chants and screams coming from such an encampment are a sure sign of terror to come for any other residents of the area.</p>\n<p>Barely topping 11 feet tall and 1,000 pounds, marsh giants are small for giants but make up for their relatively diminutive stature with their zealotry.</p>"
     },
     "Tiluatchek’s Boudoir@@t5oyBehxgnvzoFkw": {
       "name": "Tiluatchek’s Boudoir"
     },
     "Goblin Ghoul@@tBlQQcp20sWPUt6Q": {
-      "name": "Goblin Ghoul",
+      "name": "ゴブリン・グール",
       "description": "<p>Ghouls are ravenous undead who haunt graveyards and eat corpses.</p>\n<hr />\n<p>Few creatures are more ubiquitous to sinister locations such as lonely graveyards and ruined crypts than the flesh-eating undead known as ghouls.</p>\nVariant ghoul"
     },
     "Minargul@@tLg6A31Ze0lapqKg": {
@@ -975,7 +975,7 @@
       "description": "<p>Wererats tend to be selfishly opportunistic, avaricious, and paranoid as a result of their curse. Because wererats typically dwell in metropolitan areas where they can hide in plain sight, practically any city-goer could be a wererat in disguise-from the quiet shopkeep to the city's criminal mastermind. The bustle of crowds and countless rat-holes make ghettos and shantytowns favored homes for wererats, especially since in these poorer districts the wererat can kill out of greed or fear with little chance of the authorities noticing. In some cities, wererats operate entire thieves' guilds or organized crime rings, and membership requires willfully submitting to the wererat's cursed bite. Wererats look very similar to ratfolk when in hybrid form, apart from potential differences in size, but ratfolk have no love for these monsters.</p>\n<hr />\n<p>Werecreatures are humanoids doomed to transform into animals and animal-humanoid hybrids under the light of the full moon. These shapechanging creatures are the result of an ancient primal curse that they can, in turn, transmit through their own bites. Their ability to lurk unseen in the wilds as well as among people, combined with the contagiousness of their condition, makes werecreatures a perennial cause of panicked suspicion.</p>\nMale human wererat rogue"
     },
     "Goblin War Chanter@@vlU08CvB7zyJFcXQ": {
-      "name": "ゴブリン語 戦の歌い手",
+      "name": "ゴブリンの戦唱者",
       "description": "<p>While all goblins enjoy singing, goblin war chanters pride themselves on mastering the art of vocal performance. Their ballads and jingles are undeniably catchy, though whether they are actually enjoyable is entirely subjective.</p>\n<hr />\n<p>These small humanoids have green or gray skin and large heads with wide ears. While some goblins are civilized and have worked hard to be considered upstanding members of humanoid communities, most are impetuous and vicious creatures who delight in wreaking havoc. These goblins think nothing of slaughtering livestock, stealing infants, or burning down a building purely for momentary delight. They revel in playing malicious tricks on taller humanoids, whom they call \"longshanks.\"</p>\n<p>Goblins are superstitious, with an intense awe of magic and a fascination with fire; goblins who master magic or fire earn great respect from their kin. Most other humanoids find it difficult to understand goblins' outlook: they hate canines but eagerly share their lairs with so-called \"goblin dogs,\" they fearlessly attack larger creatures but are terrified of horses, and they despise vegetables yet consider pickles a delicacy. To a goblin, of course, these are all perfectly sensible life choices.</p>"
     },
     "Geist@@vmHxJ93qClHtsf6X": {
@@ -994,7 +994,7 @@
       "description": "男性の人間の幽霊"
     },
     "Goblin Dog@@wSKu8xi0vdrmnpuk": {
-      "name": "ゴブリン語 犬",
+      "name": "ゴブリンドッグ",
       "description": "<p>Goblins' eponymous pets aren't true canines at all, but rather large, blunt-nosed rodents with thin bodies and long legs. As cowardly as they are ugly, goblin dogs prefer to lurk behind bushes or in deep shadows, pouncing upon lone or wounded prey. Goblin dogs frequently lair and roam in packs, but they are likely to flee from a fight if injured, even if it means abandoning their pack-mates.</p>\n<p>Goblin dogs take their name from their long association with goblins, who breed the beasts as guard animals and mounts. Most goblins take issue with the name, as the average goblin is appalled at the suggestion that these, their favored mounts, have anything at all to do with actual dogs. Of course, being goblins, they haven't bothered to come up with their own, unique name for goblin dogs.</p>\n<p>Even the most pampered goblin dogs have itchy mange and prolific dander that tenaciously affects those who come in contact with them. This \"goblin pox\" causes itchy hives and festering sores that are as unsightly as they are irritating and distracting. Goblin dog dander causes allergic reactions in nearly all other creatures that don't share the goblin dogs' terrible hygiene-with the notable exception, of course, of goblins, who remain entirely immune to the disease regardless of cleanliness.</p>\n<p>Hunger can drive goblin dogs to bouts of uncharacteristic violence; many goblins purposefully starve their pets to make them more aggressive in battle. Goblin dogs subsist on whatever organic material they can scavenge, and they particularly enjoy fresh carrion. Although goblins are far from picky eaters, they value goblin dogs as pets because the noisome animals will consume food that even goblins won't dare to eat. \"Will it eat?\" is one of several games goblins enjoy playing with their goblin dog pets, where a wide range of mouth-sized morsels (not always edible or safe to consume) are dangled before a goblin dog's snout. \"Will it die?\" is often a game played after \"Will it eat?\" Goblin dogs who survive the second game earn renown for their digestive prowess and often become favored tribal pets treated better than most of the rank-and-file goblins.</p>"
     },
     "Das Korvut@@wTPpOJzQQsHCZgrE": {
@@ -1003,7 +1003,7 @@
     },
     "Jhalevia Stensin@@wbRHwnIctrt2dFu5": {
       "name": "ジャレヴィア・ステンシン",
-      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointshi00]{Sandpoint Shipyard}</p>\nNGの女性港長"
+      "description": "<p>@UUID[JournalEntry.pf2ap20011sandpo.JournalEntryPage.11sandpointshi00]{Sandpoint Shipyard}</p>\nNGの女性港湾管理者"
     },
     "Mnoghoth@@x9xGeHnkZweeGu6k": {
       "name": "ムノゴス",
@@ -1011,14 +1011,14 @@
     },
     "Ascended Disciple@@xPulk95h3GxE1eZN": {
       "name": "Ascended Disciple",
-      "description": "人間 サンドポイントのデヴィルの弟子"
+      "description": "サンドポイント・デビルの人間の弟子"
     },
     "Fiendish Flock@@xVbDzdOmvJjxrGka": {
       "name": "Fiendish Flock",
       "description": "<p>A flock of ravens is known as an unkindness. Certainly the name lives up to its meaning when a swarm of ravens decides to work together. In most cases, a raven swarm like the one presented here won't attack larger foes, but when manipulated by supernatural forces or simple desperation born from hunger, an unkindness of ravens can be a surprisingly dangerous foe.</p>\n<hr />\n<p>Few birds are as cunning and social as the raven.</p>\nVariant raven swarm"
     },
     "Remnant Insiroul's Gift@@y1xBl0MQPzv8Bupe": {
-      "name": "残存のインシロールの贈り物"
+      "name": "残骸インシロウルの贈り物"
     },
     "Jinkin@@ysKrAbHTbvONjrq2": {
       "name": "ジンキン",
