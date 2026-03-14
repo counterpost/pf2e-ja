@@ -14,13 +14,13 @@
       "description": "<p>あなたの健康と活力は、血液、生命力、または他の本質を失ったために減少している。消耗状態には常に値が含まれる。あなたは、頑健セーヴのような、コンスティチューションに基づくロールやDCに対して、あなたの減少値と等しい状態ペナルティを受ける。また、あなたはレベル(最低1)×減少値に等しい数のヒット・ポイントを失い、最大ヒット・ポイントも同じ量だけ減少する。例えば、あなたが3減少し、3レベルのキャラクターであれば、9 ヒット・ポイントを失い、最大ヒット・ポイントを9だけ減少させる。これらのヒット・ポイントを失うことは、ダメージを受けたことにはならない。</p>\n<p>毎晩の完全な休息を取るたびに、あなたの減少値は1減少する。これにより、最大ヒット・ポイントが増加するが、失ったヒット・ポイントをすぐに回復するわけではない。</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         },
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         },
         {
-          "key": "ヒットポイントを失う"
+          "key": "LoseHitPoints"
         }
       ]
     },
@@ -33,10 +33,10 @@
       "description": "",
       "rules": [
         {
-          "key": "アクティブ効果のような"
+          "key": "ActiveEffectLike"
         },
         {
-          "key": "アイテム付与"
+          "key": "GrantItem"
         }
       ]
     },
@@ -49,22 +49,22 @@
       "description": "<p>あなたは聞こえない。聞く必要がある知覚チェックは自動的にクリティカル失敗する。音に関する知覚チェックやイニシアティブのチェックに対して、–2の状態ペナルティを受ける。聴覚的特性を持つアクションを行う場合、@Check[flat|showDC:all|dc:5]に成功しなければそのアクションは失われる。アクションを使った後、効果が適用される前にチェックを行う。あなたは、耳が聞こえない状態では聴覚的効果に免疫である。</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         },
         {
-          "key": "免疫"
+          "key": "Immunity"
         },
         {
-          "key": "アイテム変更"
+          "key": "ItemAlteration"
         },
         {
-          "key": "アイテム変更"
+          "key": "ItemAlteration"
         },
         {
-          "key": "アイテム変更"
+          "key": "ItemAlteration"
         },
         {
-          "key": "成功度の調整"
+          "key": "AdjustDegreeOfSuccess"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "description": "<p>あなたは何かに注意を集中させるよう強制されており、周囲の出来事から気を散らされている。知覚やスキルチェックに対して–2の状態ペナルティを受け、集中アクションを使用できない。ただし、それら(またはその意図された結果)があなたの魅了の対象に関連している場合は除く。例えば、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}や@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}について話すことができるかもしれないが、異なる生物を対象にした呪文を唱えることはできない。この状態は、生物があなたやあなたの仲間に対して敵対的な行動を取ると終了する。</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         }
       ]
     },
@@ -86,7 +86,7 @@
       "description": "<p>あなたは防御に完全に注意を集中できないか、気を散らされている。ACに対して–2の状況ペナルティを受ける。いくつかの効果は、特定の生物や特定の攻撃に対してのみオフガード状態を与える。その他—特に状態—は、すべてに対してオフガード状態にすることがある。ルールがその状態が特定の状況にのみ適用されると指定していない場合、それはすべての状況に適用される。例えば、「ターゲットはオフガードである。」</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         }
       ]
     },
@@ -95,10 +95,10 @@
       "description": "<p>あなたは管理できる以上の重さを持っている。負担を抱えている間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}であり、すべての移動速度に対して10–フィートのペナルティを受ける。すべての移動速度に対するペナルティと同様に、これにより移動速度が5フィート未満になることはない。</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         },
         {
-          "key": "アイテム付与"
+          "key": "GrantItem"
         }
       ]
     },
@@ -119,10 +119,10 @@
       "description": "<p>あなたの思考と本能は曇っている。混濁状態には常に値が含まれる。あなたは、知能、知恵、魅力に基づくロールやDCに対して、この値と等しい状態ペナルティを受ける。意志のセーヴ、呪文攻撃修正、呪文DC、これらの属性修正を使用するスキルチェックも含まれる。スタン状態の間に@UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Cast a Spell}を試みるたびに、呪文は中断される。成功するには、@Check[flat|showDC:all|dc:resolve(5+@item.badge.value)]でDCが5 + あなたのスタン値と等しい必要がある。</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         },
         {
-          "key": "アイテム変更"
+          "key": "ItemAlteration"
         }
       ]
     },
@@ -135,16 +135,16 @@
       "description": "",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         },
         {
-          "key": "アイテム付与"
+          "key": "GrantItem"
         },
         {
-          "key": "アイテム付与"
+          "key": "GrantItem"
         },
         {
-          "key": "アイテム付与"
+          "key": "GrantItem"
         }
       ]
     },
@@ -153,10 +153,10 @@
       "description": "<p>@Localize[PF2E.condition.sickened.rules]</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         },
         {
-          "key": "アイテム変更",
+          "key": "ItemAlteration",
           "label": "PF2E.condition.sickened.name"
         }
       ]
@@ -170,7 +170,7 @@
       "description": "<p>あなたは疲れていて、あまりエネルギーを出せない。1の状態ペナルティをACとセーヴに受ける。移動中に行う探索行動は使用できない。</p>\n<p>完全な夜の休息を取ることで疲労から回復する。</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         }
       ]
     },
@@ -183,7 +183,7 @@
       "description": "<p>あなたの動きは不器用で不正確になる。ぎこちない状態には常に値が含まれる。状態値に等しい状態ペナルティを敏捷性に基づくロールとDCに受け、AC、反応のセーヴ、射撃攻撃ロール、アクロバティクス、ステルス、シーヴァリーを使用するスキルチェックに適用される。</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         }
       ]
     },
@@ -196,10 +196,10 @@
       "description": "<p>お前は地面に横たわっている。お前は @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} で、攻撃ロールに –2 状態ペナルティを受ける。横たわっている間に使用できる移動アクションは @UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{Crawl} と @UUID[Compendium.pf2e.actionspf2e.Item.OdIUybJ3ddfL7wzj]{Stand} のみ。立ち上がると、横たわっている状態が終了する。横たわっている間に @UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{Take Cover} を行うことで、物の後ろに隠れなくても遠距離攻撃に対してより大きなカバーを得ることができ、これにより遠距離攻撃に対する AC に +4 状態ボーナスを得る(ただし、警戒を失ったままである)。</p>\n<p>お前が @UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{Climbing} または @UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Flying} の間に倒される場合、倒れる。@UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Swimming} のときに倒されることはない。</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         },
         {
-          "key": "アイテム付与"
+          "key": "GrantItem"
         }
       ]
     },
@@ -208,19 +208,19 @@
       "description": "<p>あなたは他の生物によってその場に留められている。@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}と@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}の状態を持つ。掴まれている間に操作アクションを試みる場合、@Check[flat|showDC:all|dc:5]に成功しなければならず、そうでなければ失敗する。アクションを使った後にチェックを行うが、効果が適用される前に行う。</p>",
       "rules": [
         {
-          "key": "アイテム付与"
+          "key": "GrantItem"
         },
         {
-          "key": "アイテム付与"
+          "key": "GrantItem"
         },
         {
-          "key": "アイテム変更"
+          "key": "ItemAlteration"
         },
         {
-          "key": "アイテム変更"
+          "key": "ItemAlteration"
         },
         {
-          "key": "アイテム変更"
+          "key": "ItemAlteration"
         }
       ]
     },
@@ -233,7 +233,7 @@
       "description": "<p>あなたは肉体的に弱体化している。衰弱状態には常に値が含まれる。弱体化しているとき、状態値に等しい状態ペナルティを筋力に基づくロールとDCに受け、筋力に基づく近接攻撃ロール、筋力に基づくダメージロール、アスレチックスチェックに適用される。</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         }
       ]
     },
@@ -250,7 +250,7 @@
       "description": "<p>あなたは恐怖に襲われ、神経を制御しようと奮闘している。恐怖の状態には常に値が含まれる。この値に等しい状態ペナルティをすべてのチェックとDCに受ける。特に指定がない限り、各ターンの終了時に恐怖の状態の値は1減少する。</p>",
       "rules": [
         {
-          "key": "フラット修正"
+          "key": "FlatModifier"
         }
       ]
     },
