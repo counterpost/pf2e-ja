@@ -1,12 +1,16 @@
 files:
   - source: /lang/en.json
     translation: /lang/%two_letters_code%.json
+    type: json
 
   - source: /lang/action-en.json
     translation: /lang/action-%two_letters_code%.json
+    type: json
 
   - source: /lang/re-en.json
     translation: /lang/re-%two_letters_code%.json
+    type: json
 
   - source: /babele/en/compendium/*.json
     translation: /babele/%two_letters_code%/compendium/%original_file_name%
+    type: json
