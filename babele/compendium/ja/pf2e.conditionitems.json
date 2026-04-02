@@ -1,0 +1,179 @@
+{
+  "label": "状態項目",
+  "entries": {
+    "Observed": {
+      "name": "視認されている/Observed",
+      "description": "<p>視界にあるものはすべて観察される。生物が発見を避けるために、たとえばステルスを使って@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}ような手段を取った場合、観察される代わりに@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden}や@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected}になることがある。視覚以外に他の精密な感覚があれば、その感覚を使って生物や物を観察できるかもしれない。精密な感覚だけで生物を観察できる。非精密な感覚のみを使って生物を@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seeking}とき、その生物は観察されず、隠れたままになる。</p>"
+    },
+    "Doomed": {
+      "name": "破滅/Doomed",
+      "description": "<p>魂が死に近づく強力な力に捉えられている。破滅は常に値を伴う。あなたが死亡する@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying}の値は、あなたの破滅値によって減少する。最大のダイイング値が0まで減少した場合、即座に死亡する。死亡すると、もはや破滅ではなくなる。</p>\n<p>一晩の十分な休息を取るたびに、あなたの破滅値は1減少する。</p>"
+    },
+    "Drained": {
+      "name": "消耗/Drained",
+      "description": "<p>あなたの健康と活力が血や生命力、または他の本質を失って枯渇している。消耗は常に値を伴う。あなたは憔悴値に等しいステータス罰を、憲法に基づく判定とDC（たとえば頑健のセーヴ）に受ける。また、あなたはレベル (minimum 1) × 憔悴値に等しい数のヒット・ポイントを失い、最大のヒット・ポイントも同額減少する。例えば、あなたが憔悴3になり、あなたが3レベルのキャラクターなら、あなたは9 ヒット・ポイントを失い、最大のヒット・ポイントを9減少させる。これらのヒット・ポイントを失うことはダメージを受けることにはならない。</p>\n<p>十分な一晩の休息を取るたびに、あなたの憔悴値は1減少する。これにより最大のヒット・ポイントは増加するが、失ったヒット・ポイントは直ちには回復しない。</p>"
+    },
+    "Broken": {
+      "name": "破損/Broken",
+      "description": "<p>Brokenは物体にのみ影響する状態だ。損傷によってその物体のヒット・ポイントが破損値（BT）以下になったとき、物体は壊れている。壊れた物体は通常の機能を使えず、ボーナスも与えない—ただし鎧は例外だ。破損な鎧は依然としてアイテム・ボーナスをACに与えるが、カテゴリに応じてACに対してステータス罰を課す: 軽鎧が壊れていると–1、中鎧で–2、重鎧で–3.</p>\n<p>壊れたアイテムは、それを装備・保持・着用することで通常課されるペナルティや制限を依然として課す。たとえば壊れた鎧は依然としてその敏捷力修正上限、チェックペナルティなどを課す。ある効果がアイテムを自動的に壊すとき、もしそのアイテムがそのHPより多い破損値（BT）を持っていれば、その効果はアイテムの現在のHPも破損値（BT）まで減らす。</p>"
+    },
+    "Paralyzed": {
+      "name": "麻痺/Paralyzed",
+      "description": ""
+    },
+    "Unnoticed": {
+      "name": "気が付かれていない/Unnoticed",
+      "description": "<p>ある生物に発見されていない場合、その生物はあなたの存在に気づかない。あなたが発見されていないとき、あなたはまた@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected}でもある。これはあなたの存在に全く気づいていない対象にのみ使える能力に関係する。</p>"
+    },
+    "Deafened": {
+      "name": "聴覚喪失/Deafened",
+      "description": "<p>聞こえない。聞くことが必要な知覚判定は自動的に致命的失敗になる。イニシアティブ用の知覚判定や、音を含むが他の感覚にも依存する判定には、–2のステータス罰を受ける。聴覚特性を持つ行動を行う場合、@Check[flat|showDC:all|dc:5]に成功しなければその行動は失われる；行動を消費した後、効果が適用される前にその判定を行う。難聴の間は、聴覚効果に対して免疫である。</p>"
+    },
+    "Controlled": {
+      "name": "支配/Controlled",
+      "description": "<p>命令され、魔法的に支配されるか、その他の方法で意志を覆された。支配者はあなたの行動を指示し、攻撃や反応、あるいは@UUID[Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9]{Delay}を含む任意の行動を使わせることができる。支配者は通常、自分の行動を消費せずにあなたを操作する。</p>"
+    },
+    "Fascinated": {
+      "name": "気を取られた/Fascinated",
+      "description": ""
+    },
+    "Off-Guard": {
+      "name": "無防備/Off-Guard",
+      "description": "<p>注意をそらされて防御に集中できない。あなたはACに対して状況罰–2を受ける。ある効果は特定の生物に対して、または特定の攻撃に対してだけオフガード状態を与える。他の効果、特に状態はすべてに対してオフガードにすることがある。もしルールがその状態が特定の状況にのみ適用されると明記していなければ、それはすべてに適用される。たとえば「The target is off-guard.」のように。</p>"
+    },
+    "Encumbered": {
+      "name": "過重/Encumbered",
+      "description": "<p>あなたは扱える以上の重さ、つまり運搬中を抱えている。移動負担がある間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}で、すべての移動速度に対して10-フィートのペナルティを受ける。移動速度へのすべてのペナルティと同様に、これで移動速度が5フィート未満になることはない。</p>"
+    },
+    "Stunned": {
+      "name": "スタン/Stunned",
+      "description": "<p>あなたは意識を失っている。行動できない。スタンは通常値を含み、その値は気絶によって複数ターンにわたって失う合計行動数を示す。行動を回復するたびに、回復する行動数をあなたのスタン値で減らし、次に失った行動数だけそのスタン値を減らす。例えば、もしあなたが4のスタンであれば、ターンでの全ての3行動を失い、スタンが1になる。次のターンではさらに1行動を失い、その後残りの2行動を通常通り使える。スタンは代わりに持続時間を持つこともあり、たとえば「1分間気絶する」のように、その間全ての行動を失わせることがある。</p>\n<p>スタンは@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed}を上書きする。もしスタンの持続時間が終了した時点であなたがスローであれば、スタンで失った行動はスローで失う行動に含めて数える。したがって、もしターン開始時にあなたが1のスタンかつスロー2であれば、気絶で1行動を失い、その後スローで追加して失うのは1行動だけなので、そのターンにまだ1行動を使用できる。</p>"
+    },
+    "Concealed": {
+      "name": "視認困難/Concealed",
+      "description": "<p>濃霧やその他の遮蔽により、あなたは一部の生物にとって見えにくい状態になる。ある生物には隠れているが、別の生物にはそうでない場合がある。隠れている間でも@UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed}であり得るが、狙われにくくなる。あなたが隠れている生物に狙われる場合、その生物は攻撃、呪文、その他の効果で対象にするときに@Check[flat|showDC:all|dc:5]に成功しなければならない。判定に失敗した場合、あなたは影響を受けない。範囲効果はこのフラット判定の対象にならない。</p>"
+    },
+    "Petrified": {
+      "name": "石化/Petrified",
+      "description": ""
+    },
+    "Stupefied": {
+      "name": "混濁/Stupefied",
+      "description": ""
+    },
+    "Immobilized": {
+      "name": "移動不能/Immobilized",
+      "description": ""
+    },
+    "Unconscious": {
+      "name": "気絶/Unconscious",
+      "description": ""
+    },
+    "Sickened": {
+      "name": "不調/Sickened",
+      "description": "<p>@Localize[PF2E.condition.sickened.rules]</p>"
+    },
+    "Indifferent": {
+      "name": "無関心/Indifferent",
+      "description": ""
+    },
+    "Fatigued": {
+      "name": "疲労/Fatigued",
+      "description": "<p>疲れて十分な力を出せない。あなたはACとセーヴに–1のステータス罰を受ける。移動中に行う探索行動を使うことはできない。</p>\n<p>十分な一晩の休息を取ると疲労は回復する。</p>"
+    },
+    "Unfriendly": {
+      "name": "非友好的/Unfriendly",
+      "description": ""
+    },
+    "Clumsy": {
+      "name": "ぎこちない/Clumsy",
+      "description": "<p>動きが不器用で不正確になる。ぎこちないは常に値を含む。条件の値と同じだけのステータス罰則を敏捷性に基づく判定とDCに受ける。これにはAC、反応セーヴ、遠隔攻撃ロール、そしてアクロバティクス、ステルス、シーヴァリーを用いる技能判定が含まれる。</p>"
+    },
+    "Hidden": {
+      "name": "隠れた/Hidden",
+      "description": "<p>ある生物から隠れている間、その生物は君がどのスペースにいるかは知っているが正確な位置は特定できない。通常はステルスを使って@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}ことで隠れる。@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seeking}不正確な感覚しか持たない生物を相手にしているときは、隠れが破れず@UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed}するのではなくそのまま隠れた状態でいる。君が隠れている相手の生物は君に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}で、攻撃、呪文、その他の効果で君を目標にするときに@Check[flat|showDC:all|dc:11]に成功しなければ君に効果を及ぼせない。範囲効果はこのフラットチェックの対象外である。</p>\n<p>生物は探すアクションを使って君を観察しようとできるかもしれない。</p>"
+    },
+    "Prone": {
+      "name": "伏せている/Prone",
+      "description": "<p>地面に横たわっている。君は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}で、攻撃ロールに対して－2の状況罰則を受ける。伏せている間に使える移動アクションは@UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{Crawl}と@UUID[Compendium.pf2e.actionspf2e.Item.OdIUybJ3ddfL7wzj]{Stand}だけだ。立ち上がると伏せ状態は終了する。伏せたまま@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{Take Cover}して身を伏せることで、背後に隠れる物がなくても遠隔攻撃に対して大遮蔽を得られる。またそれは遠隔攻撃に対するACに+4の状況ボーナスを与える(ただし不意は解消されない)。</p>\n<p>君が@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{Climbing}あるいは@UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Flying}の間にノックダウンで伏せられる場合、君は倒れる。@UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Swimming}のときはノックダウンで伏せられない。</p>"
+    },
+    "Grabbed": {
+      "name": "掴まれている/Grabbed",
+      "description": "<p>別の生物に押さえつけられているか拘束されているため、君は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}と@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}の状態を受ける。掴まれている間に操作アクションを試みる場合、@Check[flat|showDC:all|dc:5]に成功しなければその操作は失われる。判定はアクションを消費した後、効果が適用される前に行う。</p>"
+    },
+    "Persistent Damage": {
+      "name": "持続する ダメージ/Persistent Damage",
+      "description": "<p>燃えているなどの継続効果によってダメージを受けている。これは \"X persistent [type] damage,\" と表記され、ここで \"X\" は与えられるダメージ量、\"[type]\" はダメージ種別を表す。通常のダメージと同様に、攻撃ロールやセーヴの結果に応じて倍増または半減する。持続ダメージは即座に受けるのではなく、条件を持っている限り各自分のターンの終了時に受け、そのたびにダメージダイスを再度振る。持続ダメージを受けた後、持続ダメージから回復するかどうかを判定するために@Check[flat|showDC:all|dc:15]を振る。成功すれば条件は終了する。</p>"
+    },
+    "Enfeebled": {
+      "name": "衰弱/Enfeebled",
+      "description": "<p>肉体的に弱化している。衰弱は常に値を含む。虚弱状態では、条件の値と同じだけのステータス罰則を筋力に基づく判定とDCに受ける。これには筋力に基づく近接攻撃ロール、筋力に基づくダメージロール、そしてアスレチックス判定が含まれる。</p>"
+    },
+    "Quickened": {
+      "name": "クイック/Quickened",
+      "description": "<p>行動が素早くなる。各ラウンドのターン開始時に1追加のアクションを得る。迅速化する多くの効果は、その追加アクションを特定の方法でのみ使用することを要求する。複数の効果で迅速化された場合、付与された追加アクションはそれらの効果のいずれかが許す単一のアクションに対して使用できる。迅速化はターン開始時に効果があるため、ターン中に迅速化されても即座にアクションを得るわけではない。</p>"
+    },
+    "Fleeing": {
+      "name": "逃走/Fleeing",
+      "description": ""
+    },
+    "Frightened": {
+      "name": "恐れている/Frightened",
+      "description": "<p>恐怖にとらわれ、神経を保つのに苦労している。恐怖の状態は常に値を含む。この値と同じだけのステータス罰則を全ての判定とDCに受ける。特に指定がない限り、各ターンの終了時に恐怖の値は1だけ減少する。</p>"
+    },
+    "Dazzled": {
+      "name": "目が眩んだ/Dazzled",
+      "description": "<p>視覚が過剰に刺激されるか視界が揺れている。視覚のみがあなたの唯一の精密な感覚である場合、すべての生物と物体はあなたから@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}とみなされる。</p>"
+    },
+    "Hostile": {
+      "name": "敵対的/Hostile",
+      "description": ""
+    },
+    "Helpful": {
+      "name": "協力的/Helpful",
+      "description": ""
+    },
+    "Friendly": {
+      "name": "友好的/Friendly",
+      "description": ""
+    },
+    "Restrained": {
+      "name": "拘束されている/Restrained",
+      "description": "<p>縛られてほとんど動けないか、生物に押さえつけられている。君は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}と@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}の状態を持ち、縛めを@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}または@UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{Force Open}しようとする場合を除き、攻撃アクションや操作アクションを使えない。拘束されているは@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}に優先する。</p>"
+    },
+    "Undetected": {
+      "name": "未探知/Undetected",
+      "description": "<p>ある生物に感知されていない場合、その生物は君をまったく見ておらず、君がどのスペースにいるか全く分からず、君を目標にできない。ただし範囲を目標にする能力の影響は受ける。ある生物に感知されていないとき、その生物は君に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}。</p>\n<p>君が感知されていない生物は、どのマスにいるか推測して狙おうとできる。生物はマスを選び攻撃を試みなければならない。これは@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden}な生物を狙う場合と同様に機能し(@Check[flat|showDC:all|dc:11|traits:secret]を要求する)、しかしフラットチェックと攻撃ロールはGMが秘匿で振り、攻撃が外れた理由（フラットチェックの失敗、攻撃ロールの失敗、間違ったマスの選択）を明かさない。彼らは君を見つけるために@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}を行える。</p>"
+    },
+    "Blinded": {
+      "name": "盲目/Blinded",
+      "description": "<p>視界がない。通常の地形はすべてあなたにとって困難地形になる。視覚で何かを検知することはできない。視覚が必要な知覚判定は自動的に致命的失敗になり、視覚が唯一の精密感覚である場合、知覚判定に対して－4のステータス罰則を受ける。視覚効果に対してあなたは免疫である。盲目は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}に優先する。</p>"
+    },
+    "Slowed": {
+      "name": "スロウ/Slowed",
+      "description": "<p>行動数が減る。スロウは常に値を含む。アクションを回復する際、回復するアクション数から減速の値だけ減らす。アクションはターン開始時に回復するため、ターン中に減速になっても即座にアクションを失うわけではない。</p>"
+    },
+    "Confused": {
+      "name": "混乱/Confused",
+      "description": ""
+    },
+    "Wounded": {
+      "name": "負傷/Wounded",
+      "description": "<p>重傷を負っている。もし@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying}の状態を失い、既に負傷の状態を持っていないなら、負傷1になる。もし死にかけの状態を失う時点で既に負傷の状態があるなら、負傷の値が1増加する。もし負傷の状態で死にかけの状態を得たなら、死にかけの値を負傷値だけ増やす.</p>\n<p>誰かが@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}を使ってあなたにヒット・ポイントを回復させることに成功した場合、または何らかの方法でヒット・ポイントに回復してから10分休息した場合、負傷の状態は終了する.</p>"
+    },
+    "Dying": {
+      "name": "瀕死/Dying",
+      "description": ""
+    },
+    "Invisible": {
+      "name": "不可視状態/Invisible",
+      "description": ""
+    },
+    "Cursebound": {
+      "name": "呪縛/Cursebound",
+      "description": "<p>あなたの神託の呪いが、秘儀の力を深く引き出しすぎたことで神罰となってあなたを締めつけている。Curseboundは神託の呪いを持つクリーチャーにのみ影響する状態で、curseboundには常に値がある。あなたの特定の神託の呪いは、cursebound値に応じて固有の負のエネルギー効果を課す。cursebound状態は再集中によってのみ解除できる。</p>"
+    }
+  },
+  "mapping": {},
+  "folders": {}
+}
