@@ -54,7 +54,7 @@
             "dex": "Dex",
             "int": "Int",
             "str": "Str",
-            "wis": "Wis"
+            "wis": "判"
         },
         "AbilityInt": "知力",
         "AbilityModifierLabel": "能力修正値",
@@ -1077,7 +1077,7 @@
                 "Rarities": "レアリティ",
                 "Sizes": "サイズ",
                 "Source": "出典",
-                "Traditions": "伝統",
+                "Traditions": "系統",
                 "WeaponFilters": "武器フィルター",
                 "SearchPlaceholder": "テキスト検索",
                 "WarnPackNotLoaded": "コンペンディウム \"{pack}\" を読み込めませんでした。"
@@ -1288,7 +1288,7 @@
                     "aging": "老化",
                     "alchemical": "錬金術",
                     "all-damage": "全ダメージ",
-                    "arcane": "秘術",
+                    "arcane": "アーケイン",
                     "area-damage": "範囲ダメージ",
                     "arrow-vulnerability": "矢への脆弱性",
                     "auditory": "聴覚",
@@ -1309,7 +1309,7 @@
                     "death-effects": "即死効果",
                     "detection": "探知",
                     "disease": "病気",
-                    "divine": "神聖",
+                    "divine": "ディバイン",
                     "djezet": "ジェゼット",
                     "doomed": "破滅",
                     "drained": "消耗",
@@ -2205,7 +2205,7 @@
                     "Label": "ディバイン・フォント"
                 },
                 "DivineSkill": {
-                    "Hint": "ほとんどの神格は1つの神格スキルを定めているが、2つの中から選択できる場合もある。",
+                    "Hint": "ほとんどの神格は1つのディバイン・スキルを定めているが、2つの中から選択できる場合もある。",
                     "Label": "神格スキル"
                 },
                 "Domain": {
@@ -2250,7 +2250,7 @@
                         "Label": "自信（外典）"
                     },
                     "Creation": {
-                        "Description": "あなたは製作と芸術に関係する神聖な能力を持つ。",
+                        "Description": "あなたは製作と芸術に関係するディヴァイン・アビリティを持つ。",
                         "Label": "創造"
                     },
                     "Darkness": {
@@ -2931,7 +2931,7 @@
                     "BasicSave": "基本",
                     "Label": "防御"
                 },
-                "Heightening": "高度化",
+                "Heightening": "高位化",
                 "LevelN": "呪文 {level}",
                 "LineSplit": ";",
                 "MeasuredTemplate": {
@@ -3216,7 +3216,7 @@
         },
         "MacroActionNoActionError": "このアクションは存在しない!",
         "MacroActionNoActorError": "このアクターは存在しない!",
-        "MagicTraditionLabel": "魔法の伝統",
+        "MagicTraditionLabel": "魔法の系統",
         "MagicTraditionUseSpellLabel": "呪文伝統を使用",
         "MasterAbility": {
             "cha": "マスター【魅力】",
@@ -3925,7 +3925,7 @@
                     "2": "+2",
                     "5": "+5"
                 },
-                "Hint": "技能がアイテムの魔法伝統と一致しない場合に、〈魔法学識〉判定DCへ追加する修正値。",
+                "Hint": "スキルと、アイテムの魔法の系統が一致しない場合、魔法の識別判定DCへ追加する修正値",
                 "Name": "魔法識別技能修正値"
             },
             "Metagame": {
@@ -4166,7 +4166,7 @@
         "Size": "サイズ",
         "SizeLabel": "サイズ",
         "Skill": {
-            "Acrobatics": "<font size=\"-5\">アクロバティクス</font>",
+            "Acrobatics": "アクロバット",
             "Arcana": "アルカナ",
             "Athletics": "アスレチック",
             "Computers": "コンピュータ",
@@ -4204,17 +4204,17 @@
         "SpellFlexibleAvailable": "フレキシブル：{value} / {max}",
         "SpellFlexibleLabel": "柔軟",
         "SpellLevelBase": "基本：{level}",
-        "SpellLevelHeightened": "高位化：＋{heightened}",
+        "SpellLevelHeightened": "高位化：+{heightened}",
         "SpellLevelLabel": "呪文ランク",
         "SpellPreparedLabel": "準備済み",
         "SpellRequirementsLabel": "要件",
         "SpellScalingInterval": {
-            "Add": "高位化を追加（間隔）",
-            "Header": "スケーリング（間隔）",
-            "Label": "間隔",
-            "Selection": "高位化（＋{interval}）"
+            "Add": "高位化を追加（一定間隔）",
+            "Header": "増加幅の感覚",
+            "Label": "一定間隔",
+            "Selection": "高位化（+{interval}）"
         },
-        "SpellScalingLabel": "スケーリング",
+        "SpellScalingLabel": "増加幅",
         "SpellScalingOverlay": {
             "Add": "高位化を追加（固定）",
             "Selection": "高位化（{level}）"
@@ -4223,7 +4223,7 @@
         "SpellSlotExpendedError": "{spell}を詠唱できない：スロットはすでに消費済み。",
         "SpellSlotNotEnoughError": "{spell} を {rank} で詠唱できない: 呪文スロットが足りない。",
         "SpellTargetLabel": "目標",
-        "SpellTraditionsLabel": "伝統",
+        "SpellTraditionsLabel": "系統",
         "SpellUnlimitedLabel": "無制限",
         "SpellUsesLabel": "使用回数",
         "SpellcastingItemCreator": {
@@ -4291,7 +4291,7 @@
         "TabInventoryLabel": "インベントリ",
         "TabManageTabsLabel": "タブ管理",
         "TabPathfinderSociety": "パスファインダー協会",
-        "TabSkillsLabel": "習熟",
+        "TabSkillsLabel": "スキル",
         "TabSpellbookLabel": "呪文発動",
         "TempHitPointsShortLabel": "Temp HP",
         "TemplateLabel": "{size}-{unit} {shape}",
@@ -4484,7 +4484,7 @@
         "TraitAquadynamic": "流体力学",
         "TraitAquatic": "水棲",
         "TraitArc": "アーク",
-        "TraitArcane": "秘術",
+        "TraitArcane": "アーケイン",
         "TraitArchaic": "アーケイック",
         "TraitArchetype": "アーキタイプ",
         "TraitArchon": "アルコン",
@@ -4672,7 +4672,7 @@
         "TraitDescriptionAmp": "Amps are special thoughtforms that modify the properties of your psi cantrips. You can apply an amp only to a psi cantrip, spending 1 Focus Point as a free action. If the next action you take is to cast a psi cantrip, you gain its amped effects. If the spell is a reaction or triggered free action, instead spend the Focus Point as part of that action to add the amped effect. The singular focus required to amp a psi cantrip means that unless otherwise noted, you can apply only one amp to a given psi cantrip, and you can't apply both an amp and a spellshape ability to a cantrip at the same time. If both an amp and the amped cantrip deal damage of the same type, combine their damage for the purpose of resistances and weaknesses. Feats with the amp trait provide different amps you can apply to psi cantrips in place of their normal amps. If an amp has its own effect, its rank is the same as the amped cantrip's.",
         "TraitDescriptionAmphibious": "両生類クリーチャーは、水中でも空気中でも呼吸できる。好適環境の外でも、通常は無期限（少なくとも数時間）呼吸できる。これらのクリーチャーはしばしば泳ぎ移動速度を持つ。これらの殴打および斬撃の素手ストライクは、水中で通常受ける－2ペナルティを受けない。",
         "TraitDescriptionAnadi": "ガランド出身の隠遁的な民で、クモに似た姿をしており、人型の姿を取ることができる。",
-        "TraitDescriptionAnalog": "この武器は高度な電子機器、コンピュータ・システム、電力源を用いずに設計されているが、高度な技術によって製造・調整されている。この武器は、テクノロジーを対象とする能力の影響を受けない。この武器がアーケイック特性も持たない限り、武器ルーンは機能しない。",
+        "TraitDescriptionAnalog": "この武器は高度な電子機器、コンピュータ・システム、電力源を用いずに設計されているが、高度な技術によって製造・調整されている。この武器は、テクノロジーを対象とする能力の影響を受けない。この武器がアーケイック特性も持たない限り、ウェポン・ルーンは機能しない。",
         "TraitDescriptionAnchoring": "アンカリング・トレイト/anchoring trait を持つ能力は、あなたのクアンタム・フィールドが起動している間のみ使用できる。あなたのターン中にその能力を使用した場合、記載されている効果に加えて、それらは自動的にあなたのクアンタム・フィールドを維持する。",
         "TraitDescriptionAndroid": "人工的手段で作られた合成人型の祖先。最も一般的なのはヌメリア。",
         "TraitDescriptionAngel": "この天界の一族は使者であり戦士だ。ほとんどのエンジェルは聖で、暗視を持ち、不浄に対する弱点を持つ。",
@@ -4684,7 +4684,7 @@
         "TraitDescriptionAquadynamic": "この鎧は水中での使用を想定して設計されており、流線形の構造と浮力素材が戦略的に配置されている。水中や類似の液体中では、〈軽業〉や〈運動〉判定に鎧の判定ペナルティを適用しない。",
         "TraitDescriptionAquatic": "水生クリーチャーは水中での活動に適している。彼らの殴打および斬撃の素手ストライクは、水中で通常受ける –2 ペナルティを受けない。水生クリーチャーは水中で呼吸できるが空気は呼吸できない。",
         "TraitDescriptionArc": "その攻撃は、最初の目標から10フィート以内で最も近い敵クリーチャーへと連鎖する。二次目標のACがあなたの攻撃ロールの結果より低い場合、そのクリーチャーに対し、武器のダメージ・ダイス1個につき1点の電撃ダメージを与える。",
-        "TraitDescriptionArcane": "この魔法は秘術伝統に由来し、論理と合理性に基づいて構築されている。この特性を持つものはすべて魔法的である。この特性を持つクリーチャーは主として秘術魔法で構成されているか、秘術魔法との強い結びつきを持つ。",
+        "TraitDescriptionArcane": "この魔法はアーケイン系統に由来し、論理と合理性に基づいて構築されている。この特性を持つものはすべて魔法的である。この特性を持つクリーチャーは主として秘術魔法で構成されているか、秘術魔法との強い結びつきを持つ。",
         "TraitDescriptionArchaic": "この武器は伝統的な製法と素材を用いて作られているが、近代的な防具を打ち破るのには適していない。パスファインダーRPGの武器はすべて、アーケイック・トレイト/archaic trait を持つ。武器ルーンは、アーケイック武器に対しても通常どおり機能する。",
         "TraitDescriptionArchetype": "このフィートはアーキタイプに属する。",
         "TraitDescriptionArchon": "この天界の一族の構成員は天界の守護者で、通常は聖である。暗視を持ち、不浄に対する弱点を持つ。",
@@ -4726,7 +4726,7 @@
         "TraitDescriptionBulwark": "この鎧は全身を完全に覆い、一部のダメージ効果に対して利益を与える。ファイアボールのようなダメージ効果を回避するための反応セーヴでは、【敏捷力】修正値の代わりに +3 の修正値を加える。",
         "TraitDescriptionCaligni": "これらの地下の民は暗視を持ち、一部は闇を生み出す力を持つ。",
         "TraitDescriptionCalling": "コーリング特性は、キャラクターが最初に神話的パワーを得たときに得る機械的選択肢を示す。各コーリングの選択肢は、神話ポイントを使用し回復する手段を与える。",
-        "TraitDescriptionCantrip": "随意で発動でき、レベルの半分（切り上げ）まで自動的に高度化される呪文。",
+        "TraitDescriptionCantrip": "随意で発動でき、レベルの半分（切り上げ）まで自動的に高位化される呪文。",
         "TraitDescriptionCapacity": "キャパシティ/Capacityのトレイトを持つ武器は、通常、弾薬を装填できる複数の銃身や薬室を備えている。キャパシティには必ず数値が併記されており、これはその武器が持つ銃身や薬室の数を示す。キャパシティ武器を発射した後、空いている手を必要としないインタラクト・アクション/Interact action として、次に装填されている銃身または薬室を選択できる。各銃身または薬室は、発射後にそれぞれ個別のインタラクト・アクションとして再装填できる。",
         "TraitDescriptionCaster": "この武器は、あなたが2アクション以上で呪文を発動（キャントリップも含む）すると、その呪文は通常通り解決され、武器の能力が変更される。呪文が発動された後、その呪文が酸、冷気、火炎、電気、音波、精神、生命力、虚無のいずれかのトレイトを持っていたなら、あなたの次のターンの終了時まで、この武器は本来のダメージの代わりにその種別のダメージを与える。武器がイーオン/Aeonのトレイトを持ち、かつスペル・ジェムが装着されている場合、この効果は1分間持続するようになる。呪文が複数のダメージ種別を与える場合、武器を発射する際にそのうち1つを選択する。\n",
         "TraitDescriptionCatalyst": "カタリスト/Catalystのトレイトを持つアイテムは、特定の呪文を変化、あるいは増幅するための物理的な呪文構成要素であり、消耗品である。カタリストの起動は、呪文の発動の一部として行われる。カタリストの起動欄に記載されている場合、呪文を発動するために必要なアクション数が増加する。さらにその呪文は、もともと持っていなかった場合でも、マニピュレイト・トレイト/Manipulate を得る。これは、カタリストが呪文の一部として扱われるためであり、呪文の発動の一部としてカタリストを取り出すことができるからである。",
@@ -4965,7 +4965,7 @@
         "TraitDescriptionNonlethal": "この武器による攻撃は非致死であり、殺害ではなく気絶させるために用いられる。非致死武器を用いて、–2の状況ペナルティで致死攻撃を行うこともできる。",
         "TraitDescriptionNymph": "この美しいフェイの一族は、自然の地形と強い結びつきを持つ。",
         "TraitDescriptionOath": "誓約はあなたの規範に追加の戒律を加える。この特性を持つ特技は通常1つしか持てない。",
-        "TraitDescriptionOccult": "この魔法は秘術伝統に由来し、奇妙で儚い神秘を呼び起こす。この特性を持つものはすべて魔法的である。この特性を持つクリーチャーは主として秘術魔法で構成されているか、秘術魔法との強い結びつきを持つ。",
+        "TraitDescriptionOccult": "この魔法はアーケイン系統に由来し、奇妙で儚い神秘を呼び起こす。この特性を持つものはすべて魔法的である。この特性を持つクリーチャーは主として秘術魔法で構成されているか、秘術魔法との強い結びつきを持つ。",
         "TraitDescriptionOil": "オイルは魔法的なジェル、軟膏、ペースト、または塗布剤で、通常は物体に塗布され、その過程で使い切られる。",
         "TraitDescriptionOlfactory": "嗅覚効果は、それを嗅げるクリーチャーにのみ影響する。これは効果の嗅覚的部分にのみ適用され、GMが判断する。",
         "TraitDescriptionOni": "オニはかつて神格だった存在に由来する、残忍で変身能力を持つ巨人の一族だ。",
@@ -5173,7 +5173,7 @@
         "TraitDisarm": "武装解除",
         "TraitDisease": "病気",
         "TraitDiv": "ディヴ",
-        "TraitDivine": "神聖",
+        "TraitDivine": "ディバイン",
         "TraitDoubleBarrel": "二連銃身",
         "TraitDowntime": "ダウンタイム",
         "TraitDragon": "ドラゴン",
@@ -5473,7 +5473,7 @@
         "TraitPrecious": "貴重",
         "TraitPrediction": "予知",
         "TraitPress": "押し出し",
-        "TraitPrimal": "原始",
+        "TraitPrimal": "プライマル",
         "TraitPrismeni": "プリズメリ",
         "TraitProcessed": "加工済み",
         "TraitProfessionalComputers": "プロフェッショナル（コンピューター）",
