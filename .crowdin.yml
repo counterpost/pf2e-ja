@@ -11,6 +11,6 @@ files:
     translation: /lang/re-%two_letters_code%.json
     type: json
 
-  - source: /babele/en/compendium/*.json
-    translation: /babele/%two_letters_code%/compendium/%original_file_name%
+  - source: /babele/compendium/en/*.json
+    translation: /babele/compendium/%two_letters_code%/%original_file_name%
     type: json

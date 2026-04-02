@@ -8,6 +8,6 @@ Hooks.once("babele.init", () => {
   game.babele.register({
     module: "pf2e-ja",
     lang: "ja",
-    dir: "babele/ja/compendium"
+    dir: "babele/compendium/ja"
   });
 });
