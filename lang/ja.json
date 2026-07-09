@@ -1,6 +1,6 @@
 {
     "COMBAT": {
-        "Begin": "遭遇を開始",
+        "Begin": "遭遇を開始【Weblate連携試験】",
         "CombatantNotInScene": "参加者{name}は、現在表示しているシーンに存在しない。",
         "CombatantRemove": "参加者を削除",
         "CombatantStatus": "参加者のステータス",
