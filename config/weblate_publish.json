@@ -1,0 +1,16 @@
+{
+  "source_repository": "https://github.com/counterpost/pf2e-ja.git",
+  "source_ref": "translator-current-job",
+  "source_commit": "4915964751c6d772415b27b2f2c39edbad9634f1b350ee2dec8ec0dfecb7dea9",
+  "input_root_candidates": [
+    "${PF2E_TRANSLATOR_CURRENT_DIR}",
+    "I:/マイドライブ/パスファインダー/Chat_GPT/pf2e_tool/pf2e_translator_current"
+  ],
+  "source_json_path": "${input_root}/lang/en.json",
+  "translated_json_path": "${input_root}/localized/en-ja.json",
+  "target_repository": "counterpost/pf2e-ja",
+  "target_branch": "main",
+  "target_source_path": "lang/en.json",
+  "target_translation_path": "lang/ja.json",
+  "syntax_report_path": "reports/weblate_syntax_issues.jsonl"
+}
