@@ -5,10 +5,10 @@
   "authors": [
     { "name": "counterpost" }
   ],
-  "version": "0.2.15",
+  "version": "0.3.0",
   "compatibility": {
-    "minimum": "12",
-    "verified": "13"
+    "minimum": "13",
+    "verified": "14"
   },
   "relationships": {
     "systems": [

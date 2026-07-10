@@ -1,0 +1,137 @@
+{
+  "label": "クラス",
+  "entries": {
+    "Sorcerer": {
+      "name": "ソーサラー",
+      "description": "<p><em>あなたは呪文の使い手になることを選んだのではない。生まれながらにしてそうなのだ。神格があなたの祖先の1人に接触したのか、先祖が原初のクリーチャーと交信したのか、あるいは強力なオカルトの儀式があなたの血統に影響を与えたのかはともかく、あなたの血には魔法が流れている。自己反省と学習によって、あなたは本来備わっている魔法の技術を磨き、新しくより強力な能力を解き放つことができる。しかし、血に宿る力には危険が伴い、あなたは熟練した呪文の使い手として立ち上がるか、それとも破滅へと転落するかという選択に常に直面している。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.ixBx2wZpnf4qUoEv]{ソーサラー}</em></p>"
+    },
+    "Guardian": {
+      "name": "ガーディアン",
+      "description": "<p><em>あらゆる敵からの死と危険が、あなたとあなたの仲間が大切にしているものすべてを脅かしている。しかし、あなたは盾であり、敵対者の大波を食い止める鋼の壁だ。あなたは第二の皮膚のように着用(着用)した鎧を身にまとっており、その角度を調整してあなた自身と味方をダメージから守り、敵を寄せ付けないようにすることができる。味方は、戦場であなたの隣に立っていようと、後方に控えていようと、あなたに守ってもらうことを期待しており、敵はあなたを堂々たる脅威として見ている。味方にとっても敵にとっても、あなたの存在を無視することは困難だ。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.SUwUvef7khs2ZlrK]{ガーディアン}</p>"
+    },
+    "Inventor": {
+      "name": "インヴェンター",
+      "description": "<p><em>どんな修繕屋でも、図面に従えば装置を作ることはできる。しかし、あなたは不可能なものを発明するのだ！あなたが夢見る奇妙な仕掛けは、どれも可能性の限界を押し広げる独自の実験であり、あなたにしか動かせないように見える神秘的な機械だ。あなたは常に次の偉大なブレイクスルーの瀬戸際に立っており、あらゆる試練や苦難は、テストして調整するための新たな機会となる。夢見ることができるなら、あなたはそれを作ることができる。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.gcRmL4Id1ggKDhvg]{インヴェンター}</em></p>"
+    },
+    "Bard": {
+      "name": "バード",
+      "description": "<p><em>あなたは芸術の達人であり、隠された秘密の学者であり、人々を魅了する説得者だ。強力なパフォーマンスを用いて、あなたは人々の心を動かし、魂を新たなレベルの英雄的行為へと高める。あなたはその力を使ってカリスマ的な指導者になるかもしれないし、あるいは相談役、扇動者、学者、悪党、あるいは巨匠になるかもしれない。あなたの多才さゆえに、一部の人々はあなたを魅力的なろくでなしや器用貧乏とみなすかもしれないが、何一つ極めていないとあなたを侮ることは危険だ。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.Tz0NWVqhZyt8EyUV]{バード}</em></p>"
+    },
+    "Investigator": {
+      "name": "インヴェスティゲーター",
+      "description": "<p><em>あなたは真実を暴くことを求め、執拗に手がかりを追って、邪悪な悪党の陰謀を明らかにし、古代の秘密を発見し、あるいはその他の謎を解き明かす。あなたの分析的な精神は複雑な問題に対する解決策を素早く導き出し、研ぎ澄まされた感覚は極めて曖昧な手がかりさえも特定する。知識を武器として振るい、あなたは遭遇したクリーチャーや危険を研究し、それらの弱点を突く。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.omDi7otL3UWLVgct]{インヴェスティゲーター}</em></p>"
+    },
+    "Druid": {
+      "name": "ドルイド",
+      "description": "<p><em>自然の力に抗うことは不可能だ。それは最も頑丈な要塞を数分で崩壊させ、いかに強力な建造物であっても瓦礫に変え、灰に帰し、雪崩の下に埋もれさせ、あるいは波の下に溺れさせることができる。自然を尊重する者には無限の恵みと息をのむような素晴らしさを提供し、軽んじる者には苦悶に満ちた死をもたらす。あなたは自然の呼び声を聞く者の一人だ。あなたはその力の威厳に畏敬の念を抱き、あなた自身をその奉仕に捧げる。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.8ElntNAGahQka70r]{ドルイド}</p>"
+    },
+    "Fighter": {
+      "name": "ファイター",
+      "description": "<p><em>名誉、強欲、忠誠、あるいは単に戦闘のスリルを求めて戦うあなたは、誰もが認める武器と戦闘技術の達人だ。敵が油断して隙を見せるたびに、あなたは開始の動き、とどめの一撃、そして反撃を巧みに組み合わせて行動を連携させる。あなたが騎士、傭兵、狙撃手、あるいは剣の達人であっても、あなたは武技を芸術の域にまで高め、敵に壊滅的な致命的攻撃を繰り出す。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.HZbrRRVzW7w17L2W]{ファイター}</em></p>"
+    },
+    "Animist": {
+      "name": "アニミスト",
+      "description": "<p><em>あなたは目に見える世界と見えない世界の対話者であり、凡人と精神世界を繋ぐ声だ。あなたは精霊と絆を結び、彼らの独特な魔法を具現化し、彼らの知識をあなたの中に流れ込ませる。あなたは回復魔法をもたらす幻影を好むかもしれないし、破壊的な力の呪文をもたらす幻影を好むかもしれない。あるいは、環境や状況の要求に応じて、異なる幻影の間で選択を行うかもしれない。あなたは自分の力を神聖な信託の一部とみなすかもしれないし、あるいは自分のユニークな能力を、2つの世界のチャンピオンとして選ばれた証とみなすかもしれない。あなたが彼方の次元で凡人のために弁護するにせよ、あるいは精霊の利益を代表するにせよ、あなたは領域の間の橋渡しをする。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.ThFPVuxGiZ2Asgyr]{アニミスト}</p>"
+    },
+    "Witch": {
+      "name": "ウィッチ",
+      "description": "<p><em>あなたは強力な魔法を操るが、それは学問や信仰によるものではなく、あなた自身でさえ完全には理解していない異世界のパトロンの代理人としてのものだ。この存在は、隠された神性、強力なフェイ、古代の精霊、あるいはその他の強力な超自然的存在かもしれないが、その本質は他者にとってと同様に、あなたにとっても謎に包まれている。特別な使い魔を通じて、パトロンはあなたに、あなたが適切と思うように使える多才な呪文と強力なヘックスを授けるが、あなたが単にパトロンのより大きな計画に仕えているだけなのかどうか、確信が持てることはない。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.fYJruhQfzs4dj0mp]{Witch}</em></p>"
+    },
+    "Cleric": {
+      "name": "クレリック",
+      "description": "<p><em>神々は無限の方法で世界にその意志を及ぼし、あなたは神々の最も忠実な凡人の従者の一人として仕える。神聖魔法の恵みを受け、あなたは自らの信仰の理想を生き、あなた自身を教会の象徴で飾り、自らの神格の好む武器を装備するために熱心に訓練する。あなたの呪文は、あなたの神格の望むままに、味方を守り癒すかもしれないし、あるいはあなたの信仰の敵や仇を罰するかもしれない。あなたの人生は献身の人生であり、言葉と行動の両方を通じて信仰の教えを広める。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.N4ABcd6CcCbqmw3x]{クレリック}</em></p>"
+    },
+    "Magus": {
+      "name": "メイガス",
+      "description": "<p><em>戦士の肉体と技術に秘術魔法を放つ能力を組み合わせ、あなたは呪文と打撃を融合させる技術を完成させようとしている。あなたが携える重い魔導書は、秘術の研究に費やした時間を反映しているが、敵にあなたの訓練を思い出させる必要はない。彼らは、あなたが彼らを倒すときにそれを認識するのだ。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.YVoyzV9v4QyP2UIC]{Magus}</em></p>"
+    },
+    "Psychic": {
+      "name": "サイキック",
+      "description": "<p><em>精神は、微調整された器具には隠された真実を感知し、いかなる魔導書よりも多くの秘密を宿し、いかなるテコよりも器用に物体や心を動かすことができる。自らの内なる自己の意識と潜在意識の両方の側面に深く入り込むことで、あなたはサイキック魔法の力に目覚め、呪文や身振りではなく、自らの意志の力だけで呪文を唱えることができるようになった。あなたの精神と現実との間の境界線が薄いことは、たった一つの誤った思考があなた自身や仲間に意図しない結果をもたらす可能性があることを意味するが、あなたがそれを想像できるなら、何でも可能であることをあなたは知っている。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.KVoEUJBAbAFUJTqw]{Psychic}</em></p>"
+    },
+    "Rogue": {
+      "name": "ローグ",
+      "description": "<p><em>あなたは技術に長け、機を見るに敏だ。鋭い知恵と素早い反応を使い、相手の過ちにつけ込み、最も痛む場所を攻撃する。あなたはスリルを求め、自らの技術を試す危険なゲームをプレイしており、邪魔になる法律など気にも留めないだろう。すべてのローグの道は独特で危険に満ちているが、あなたたち全員に共通する唯一のことは、スキルの幅広さと深さだ。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.u4qPrDRBagxG9wj8]{ローグ}</em></p>"
+    },
+    "Commander": {
+      "name": "コマンダー",
+      "description": "<p><em>あなたは、戦術と戦略が力任せの強さや数とまったく同じように重要であるという知識を持って戦いに臨む。あなたは士官学校で古典的な戦争と戦略の理論を訓練済みされたかもしれないし、あるいは軍隊や傭兵団の一員として苦労して得た経験を通じて技術を磨いたかもしれない。どのようにして知識を得たかにかかわらず、あなたには戦場の向こう側から味方に合図を送り、最も絶望的な紛争をも敗走させる命令を展開し、あなたの分隊が限界を超えて勝利を収めるように力を与える才能がある。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.BhnMSPWXfCshRvR0]{Commander}</p>"
+    },
+    "Oracle": {
+      "name": "オラクル",
+      "description": "<p><em>あなたの神聖な力への導管は、祈りと奉仕という伝統的な経路を避けている。その代わりに、あなたは複数の神々の共通点を感じ取っているか、あるいは神々の力を完全に回避しているため、包括的な概念に具現化された神聖な真実と大いなる神秘を収集する。</em></p>\n<p><em>あなたこれらの神秘の一つを探求し、その力を利用して奇跡的な呪文を唱えるが、その力には恐ろしい代償が伴う。それは、あなたがその力を引き出すほど強くなる呪いであり、あなたはそれを神聖な道具として維持するか、あるいは神々からの罰として見なすかもしれない。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.bqaqOx3naiwTozBX]{Oracle}</em></p>"
+    },
+    "Kineticist": {
+      "name": "キネティシスト",
+      "description": "<p><em>元素の力があなたの内から流れ出す。猛り狂う火、純粋な水、移り気な風、確固たる地、ねじれる木、切り裂く金属。あなたの体に密接に結びついたキネティック・ゲートは、元素界から直接力を引き出し、あなたの思いのままに元素を手に飛び跳ねさせ、体の周りを渦巻かせ、敵を爆破する。次元界とのつながりが深まるにつれ、あなたは選択した元素を真に習得する。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.lNWQPwgT4vhYCOT7]{Kineticist}</em></p>"
+    },
+    "Wizard": {
+      "name": "ウィザード",
+      "description": "<p><em>あなたは宇宙の秘密を永遠に追い求める学生であり、魔法の熟達を利用して強力な呪文を放つ。あなたは魔法を科学のように扱い、実用的な呪文作成に関する最新のテキストと古代の魔導書を相互参照して、秘術魔法を発見し理解する。しかし、魔法理論は広大であり、そのすべてを研究する方法はない。ほとんどのウィザードは正規の学校教育を通じて学び、そのカリキュラムが特定の評価基準を満たしているが、特に意欲的な研究者は時に独自の理論を組み立てることもある。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.wDukeO3euLEGn6FA]{ウィザード}</em></p>"
+    },
+    "Swashbuckler": {
+      "name": "スワッシュバックラー",
+      "description": "<p><em>多くの戦士は力任せの攻撃、重い鎧、あるいは扱いにくい武器に頼っている。あなたにとって、戦闘とは敵の間をスタイルと優雅さをもって動き回るダンスである。あなたはセンス良く戦闘員の間を飛び回り、手首の返しと刃のきらめきで強力なフィニッシュ・ムーブを繰り出し、同時に敵のバランスを崩すエレガントな受け流しで攻撃に対抗する。敵を悩ませ、妨害することで、あなたは冷静さと十分なセンスを持って、運命を魅了し、何度も死を欺くことができる。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.rsDTKu4HUuKft7fk]{Swashbuckler}</em></p>"
+    },
+    "Exemplar": {
+      "name": "エグゼンプラー",
+      "description": "<p><em>戦争の神が死んだとき、その力は創造の多くの次元界に降り注ぎ、紛争を引き起こし、それまでそれを持たなかった人々に神聖なエネルギーを吹き込んだ。あなたがこの力に直接 or接触したのか、古代の存在やアーティファクトからそれを手に入れたのか、あるいはあなたの血統に長く眠っていた何かを目覚めさせたのかはともかく、神聖な火花が今やあなたの魂の中で燃え上がり、かつては神々や伝説のみに許されていた領域に達する能力、神聖な武器、そして神聖な象徴をあなたに与えている。これらの道具をどのように装備、力を成長させるかはあなた次第である。あなたは英雄になるかもしれないし、利己的な目的に転じるかもしれない。しかし、一つだけ確かなことがある。あなたは歴史に自分の碑文を刻み、神々と凡人の両方の記憶に不滅のものとして残るつもりなのだ。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.CIQggvnSfmuLa7eH]{Exemplar}</p>"
+    },
+    "Champion": {
+      "name": "チャンピオン",
+      "description": "<p><em>あなたは神格の使者であり、重い責務を引き受けた献身的な僕であり、周囲の人々とは一線を画す規範を遵守している。あらゆる属性にチャンピオンが存在するが、善のチャンピオンとして、あなたは罪なき人々に確信と希望を与える。あなたには、味方や罪なき傍観者と自由に共有できる強力な防御力があり、悪の脅威を終わらせるために使用する聖なる力もある。あなたの献身は、旅を助けてくれる聖なる精霊の注目さえも集める。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.rebppVgBVi8J6TT2]{チャンピオン}</em></p>"
+    },
+    "Alchemist": {
+      "name": "アルケミスト",
+      "description": "<p><em>ビーカーの中で泡立つ奇妙な調合液ほど、あなたにとって美しい光景はなく、あなたは独創的な霊薬を心ゆくまで摂取する。あなたは科学と自然界の秘密を解き明かすことに魅了されており、研究室でも移動中でも、あらゆる事態に備えて独創的な調合を常に実験している。あなたはリスクを恐れず、爆発性や毒性のある創作物を敵に投げつける。偉大さへと続くあなたのユニークな小径には、あなたの心と体を限界まで押し上げる錬金術の調合液が並んでいる。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.Om4e4tsgNWrComie]{アルケミスト}</p>"
+    },
+    "Thaumaturge": {
+      "name": "ソーマタージ",
+      "description": "<p><em>世界は説明のつかないもので満ちている。古代の魔法、死んだ神々、そしてさらに奇妙なもの。それに対抗して、あなたはあらゆる魔法の系統の最良の部分をあさり、エソテリカ(壊れた聖遺物、ヤドリギの小枝など)のコレクションを築き上げた。これらを使って、敵の弱点や脆弱性を突くことで、あらゆるクリーチャーを打ち負かすことができる。あなたが携帯する神秘的な器物は、バッジであり武器でもあり、その象徴的な重みは、あなたが超自然的と交渉し、それを屈服させるのを助ける。力へのすべての小径には制限と代償があるが、あなたはそれらすべてを自分の有利に転じる。あなたはソーマタージであり、奇跡を起こす。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.qigU4oNH2KDVvhjX]{Thaumaturge}</em></p>"
+    },
+    "Barbarian": {
+      "name": "バーバリアン",
+      "description": "<p><em>戦闘中、あなたはレイジに包まれる。あなたは破壊をもたらし、強力な武器を使って敵を切り裂くことを喜び、複雑な技術や厳格な訓練を必要とせずに、驚異的な耐久力に頼る。あなたの激怒は凶暴な本能を呼び起こし、それは動物、精霊、あるいはあなた自身の一部と結びついているかもしれない。多くのバーバリアンにとって、力任せの攻撃はハンマーであり、すべての問題は釘のように見えるが、他のバーバリアンは内なる感情の嵐を抑え込み、最も重要なときにのみ怒りを解放しようとする。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.lvuutBI9BSCU6cWe]{バーバリアン}</p>"
+    },
+    "Ranger": {
+      "name": "レンジャー",
+      "description": "<p><em>文明は魂をすり減らすものだが、それでも野生の生き物から守る必要があると信じるレンジャーもいる。また、その美しさを手なずけ、その宝を略奪しようとする強欲な者たちから自然を守る必要があると言う者もいる。あなたはどちらの目標を支持することも、あるいは両方を支持することもできる。あなたは斥候、追跡者、あるいは逃亡者や獣の狩人として、文明の境界に潜んだり、荒野を探索したりするかもしれない。あなたは大自然の中で生き抜く術を知っており、好機となる獲物と憎き敵の両方を見つけ出し、仕留めることに長けている。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.gdEmPPRYhRai7I1N]{レンジャー}</em></p>"
+    },
+    "Monk": {
+      "name": "モンク",
+      "description": "<p><em>あなたの拳の強さは、あなたの精神と魂から流れ出ている。あなたは完璧を求め、自らの肉体を非の打ち所のない道具へと、自らの精神を秩序ある知恵の砦へと磨き上げる。あなたは武術の技と、独自の戦闘動作を可能にする戦闘の構えで名高い、猛烈な戦士だ。多くの戦闘スタイルを極めるという挑戦はあなたを大いなる高みへと駆り立てるが、あなたは哲学的な問いについて瞑想し、平和と悟りを得るための新たな方法を発見することも好む。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.hGKd722Kn4ZxIOJs]{モンク}</em></p>"
+    },
+    "Summoner": {
+      "name": "サモナー",
+      "description": "<p><em>あなたはエイドロンと呼ばれる強力な存在を魔法のように傍らに呼び寄せ、それを世界に繋ぎ止める定命の導管として機能することができる。あなたのエイドロンが友人であれ、従者であれ、あるいは個人的な神であれ、それとの繋がりはあなたを非凡な存在とし、あなたの人生の歩みを劇的に形作る。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.gA4Ud8oSUGkkLwAi]{Summoner}</em></p>"
+    },
+    "Gunslinger": {
+      "name": "ガンスリンガー",
+      "description": "<p><em>射出武器を恐れる者もいるが、あなたは銃撃に伴う焼けつくような閃光、荒々しい反動、そしてまとわりつく煙を、あるいはボルトが標的に命中する直前の、ケーブルが弾ける音とクロスボウの独特な鈍い音を好む。毎ターン敵に狙いを定めるために〈構える〉あなた。あなたは自らの反射神経、確かな手、そして武器に関する知識を頼りに、敵を穴だらけにする。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.88K0xjShkhkckbhv]{Gunslinger}</em></p>"
+    }
+  },
+  "mapping": {
+    "description": "system.description.value",
+    "gmnote": "system.description.gm",
+    "target": "system.target.value",
+    "range": "system.range.value",
+    "duration": "system.duration.value",
+    "time": "system.time.value",
+    "cost": "system.cost.value",
+    "requirements": "system.requirements",
+    "trigger": "system.trigger",
+    "frequency": "system.frequency.value",
+    "primarycheck": "system.primarycheck.value",
+    "secondarycasters": "system.secondarycasters.value",
+    "secondarycheck": "system.secondarycheck.value",
+    "prerequisites": {
+      "path": "system.prerequisites.value",
+      "converter": "translatePrerequisites"
+    },
+    "rules": {
+      "path": "system.rules",
+      "converter": "translateRules"
+    }
+  },
+  "folders": {}
+}
