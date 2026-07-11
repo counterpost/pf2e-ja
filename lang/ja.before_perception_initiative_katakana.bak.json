@@ -1701,7 +1701,7 @@
       "MasterLevel": "マスターのレベル",
       "MasterSpellcastingAbility": "マスターの能力値",
       "Offenses": "攻撃",
-      "Perception": "《知覚》",
+      "Perception": "Perception",
       "SelectMaster": "主人を選択する...",
       "Skills": "技能",
       "TotalNumberFamiliarAbilities": "使い魔のアビリティの総数"
@@ -1772,7 +1772,7 @@
     "IncrementEffectTitle": "効果のレベルを増加",
     "InitiativeIsNow": "{name}のイニシアチブは{value}になった！",
     "InitiativeHeader": "イニシアチブボーナス",
-    "InitiativeLabel": "イニシアチブ",
+    "InitiativeLabel": "Initiative",
     "InitiativeWithSkill": "イニシアチブ：{skillName}",
     "InlineAction": {
       "Check": {
@@ -2081,7 +2081,7 @@
             "label": "ヒット・ポイント"
           },
           "perception": {
-            "label": "《知覚》"
+            "label": "Perception"
           },
           "savingThrows": {
             "fortitude": {
@@ -3519,8 +3519,8 @@
       "untyped": "無種別ペナルティ"
     },
     "PerceptionCheck": "《知覚》判定",
-    "PerceptionHeader": "《知覚》",
-    "PerceptionLabel": "《知覚》",
+    "PerceptionHeader": "Perception",
+    "PerceptionLabel": "Perception",
     "PotencyRuneLabel": "魔力ルーン",
     "PreciousMaterialAbysium": "アビシウム",
     "PreciousMaterialAbysiumDescription": "不気味な緑色の発光を伴う青緑色の金属であるアビシウムは、生命に有害な力を放射している。この物質に不注意にさらされると、免疫系に長期的な損傷を与える可能性がある。そのため、アビシウムの採掘は危険であり、ある地域に大量のこの金属が存在すると、周囲のすべてのクリーチャーが病気となる。アビシウム製のアイテムを携帯しているクリーチャーは、軽荷重のバルクの標準グレードのアイテムであれば病気1、1バルク以上の標準グレードのアイテムまたは軽荷重のバルクの上級グレードのアイテムであれば病気2、1バルク以上の高級グレードのアイテムであれば病気3となる。これおよびアビシウムによる他のすべての病気にする効果は毒効果である。製作者はアビシウムの塊1個を使用して、最大6服分の有毒なアビシウムの粉末を作成できる。不謹慎な鍛冶職人は、アビシウムの毒性を利用して有害な武器や致命的な物質を作り出してきた。アビシウムから製作されたすべてのアイテムは、半径10フィートの半径に薄暗い光を放つ。",

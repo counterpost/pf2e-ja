@@ -30,6 +30,9 @@
   "esmodules": [
     "scripts/babele-register.js"
   ],
+  "styles": [
+    "styles/pf2e-ja.css"
+  ],
   "languages": [
     { "lang": "ja", "name": "日本語", "path": "lang/ja.json" }
   ],

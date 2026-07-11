@@ -1,0 +1,18 @@
+/*
+ * pf2e-ja: レイアウト補正用CSS
+ *
+ * PF2eシステム本体・Foundry本体は書き換えず、日本語化に伴って発生する
+ * 表示崩れ（英語より長い/短い訳語による折り返し等）だけをこのファイルで補正する。
+ */
+
+/* 感覚(Senses)欄: 「暗視」等の語が文字単位で折り返されるのを防ぐ。
+   欄自体が狭いため、単語ごとの改行は許容しつつ文字の途中では折り返さない。 */
+.pf2e.actor.sheet .senses.section-container .senses.comma-separated > * {
+  white-space: nowrap;
+}
+
+/* 感覚欄が隣の能力値修正欄に押し潰されて極端に狭くならないようにする */
+.pf2e.actor.sheet .top-sections .senses.section-container {
+  flex-shrink: 0;
+  min-width: fit-content;
+}
