@@ -1,0 +1,289 @@
+{
+  "label": "種族特徴",
+  "entries": {
+    "Awakened Mind": {
+      "name": "覚醒せし精神/Awakened Mind",
+      "description": "<p>覚醒はあなたの精神を変容させた。あなたはもはや動物ではないが、同種の動物に対して質問し、答えを受け取り、そして《交渉》スキルを使用することは依然としてできる。本能を思い出すことで、あなたはあなた自身がまるで動物であるかのように呪文やその他の効果の対象となることを許容できる。</p>"
+    },
+    "Glowing Horn": {
+      "name": "発光する角/Glowing Horn",
+      "description": "<p>あなたの角はサイキック・エネルギーに反応して淡く輝く。あなたがアンセストラル特技から得たオカルト・アクションを使用する、生得的なオカルト呪文を発動する、あるいは精神の特性を持つ〈呪文の発動〉を行うたびに、その角は@Template[emanation|distance:10]の範囲に薄暗い光をあなたの次のターン開始時まで放つ。</p>"
+    },
+    "Eyes in Back": {
+      "name": "背後の眼/Eyes in Back",
+      "description": "<p>あなたには様々な方向を向いた目があり、視界の周辺で動くものを本能的に察知する。〈見回す〉基本アクションを使用する際、あなたは1つのエリアではなく2つのエリアのクリーチャーを探すことができる。精密さが必要な場合、あなたは視線が通る範囲内の@Template[cone|distance:30]または@Template[burst|distance:15]を1つではなく2つ選択できる。</p>"
+    },
+    "Aquatic Adaptation": {
+      "name": "水棲適応/Aquatic Adaptation",
+      "description": "<p>あなたの爬虫類的な生物学的特徴により、長時間息を止めておくことができる。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.aJUXbe9HJVvv0Mxa]{Breath Control}汎用特技を得る。</p>"
+    },
+    "Sunlight Healing": {
+      "name": "日光治癒/Sunlight Healing",
+      "description": "<p>コンラスは直射日光を浴びている間、10分間の活動として瞑想的で治癒的な状態に入ることができ、その場合、彼らは@Damage[(max(1,(ceil(@actor.level/2))))d8[healing]]のヒット・ポイントを回復する。3レベル時点、およびそれ以降2レベルごとに、この治癒量は1d8増加する。</p>\n<p>コンラスがこの方法でヒット・ポイントを回復すると、彼らは1日の間、日光による治癒のさらなる使用に対して一時的な免疫となる。</p>"
+    },
+    "Constructed (Poppet)": {
+      "name": "構造体(ポペット)/Constructed (Poppet)",
+      "description": "<p>あなたの身体の素材は肉体を襲う病に抵抗する。あなたは即死効果、病気、毒に対するセーヴィング・スロー、およびあなたに@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗}、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、または@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調}状態を与える効果に対するセーヴィング・スローに+1の状況ボーナスを得る。あなたの生命の火花は、あなたが生きているクリーチャーであることを意味しており、あなたは通常通り生命エネルギーによって回復し、虚無エネルギーによってダメージを受けることができる。</p>"
+    },
+    "Sunlight": {
+      "name": "日光/Sunlight",
+      "description": "|||<p>直射日光にさらされると、あなたは即座に @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} となる。日光の中でターンを終了するたびに、このスロウ状態の値は1増加する。この方法ですべてのアクションを失った場合、あなたは破壊される。光に対するあなたの超自然的な嫌悪感のため、あなたは影を落とさず、鏡に姿も映らない。</p>|||"
+    },
+    "Aquatic Grace": {
+      "name": "水棲の優雅さ/Aquatic Grace",
+      "description": "<p>水特性を持つ効果に対するセーヴィング・スロウで成功をロールした際、代わりにクリティカル成功となる。</p>"
+    },
+    "Wanderer's Soul": {
+      "name": "放浪者の魂/Wanderer's Soul",
+      "description": "<p>あなたの魂は特に輪廻の輪へと戻りやすい。あなたが@UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{Raise Dead}、@UUID[Compendium.pf2e.spells-srd.Item.gIVaSCrLhhBzGHQY]{Reincarnate}、あるいはあなたを生き返らせる同様の儀式の対象となった際、主たる術者はそのロールの結果を1段階良いものとして扱う。儀式によってあなたが別の祖先の肉体に転生することになったとしても、あなたは常にサムサランとして生き返る。</p>"
+    },
+    "Fangs": {
+      "name": "牙/Fangs",
+      "description": "<p>あなたは狩りと自己防衛のための自然な手段を持って生まれた。あなたは1d6の刺突ダメージを与える牙の素手攻撃を得る。あなたの牙は剛腕グループに属し、フィネスおよび素手の特性を持つ。</p>"
+    },
+    "Revulsion": {
+      "name": "嫌悪/Revulsion",
+      "description": "<p>あなたはニンニクや非悪の 神格 の宗教的シンボルを突きつけられた 10フィート 以内に自発的に近づくことはできない。クリーチャーは 1ラウンド の間(〈盾を掲げる〉に似ている)、ニンニクや宗教的シンボルを突きつけるために〈扱う〉を行わなければならない。もしあなたが嫌悪の対象の 10フィート 以内に不本意ながら近づいてしまった場合、あなたは @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走} 状態となり、その嫌悪の対象から 10フィート 以上離れた場所でアクションを終了するまで逃走する。嫌悪の対象に 1ラウンド さらされた後、あなたは単一のアクションとして @Check[will|dc:25] セーヴを試みることができる。これには精神特性がある。成功すれば、あなたは [[/r 1d6 #Overcome Revulsion Duration]]{1d6ラウンド} の間、嫌悪を克服する。クリティカル成功すれば 1時間 の間克服する。</p>"
+    },
+    "Iivlar Weaving": {
+      "name": "イーヴラー織り/Iivlar Weaving",
+      "description": "<p>イヴラーと呼ばれるクリーチャーが作り出す次元の糸があなたの皮膚に織り込まれている。この糸は10フィートの放散範囲に薄暗い光を放つ。あなたは〈維持〉を行うことで、この光を消したり、再点灯したり、色を調整したりできる。</p>"
+    },
+    "Blunt Snout": {
+      "name": "鈍い鼻先/Blunt Snout",
+      "description": "<p>あなたの小さく平らな鼻と迷路のような鼻腔系は、鼻を襲う現象に対する抵抗力を与える。吸入による脅威(吸入毒など)や嗅覚効果(ズルガススの悪臭など)に対するセーヴィング・スロウをロールする際、あなたはロールの結果を1段階良いものとして扱う。</p>"
+    },
+    "Hydration (Merfolk)": {
+      "name": "水分補給(マーフォーク)/Hydration (Merfolk)",
+      "description": "<p>あなたの身体は、少なくとも24時間に1回は水棲環境に戻ることを必要とする。水から離れて最初の24時間が経過した後、あなたは頑健セーヴに–1の状況ペナルティを受ける。48時間が経過すると、あなたは空気を吸うのに苦労し、水に戻るまで窒息し始める。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Q5FUu7yhWPJlcXei]{効果: 脱水}</p>"
+    },
+    "Constructed Body": {
+      "name": "構造体の肉体/Constructed Body",
+      "description": "<p>あなたの生理的ニーズは、生きているクリーチャーのものとは異なる。あなたは食事や飲水を必要としない。睡眠も必要としないが、それでも1日1回の休息期間は必要である。この休息期間中、あなたは2時間の間、回復のための待機状態に入らなければならない。これは睡眠に似ているが、周囲を認識できており、@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態であることによるペナルティを受けない点が異なる。睡眠と同様に、待機状態に入らずに長時間経過すると、あなたは@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態となり、2時間の間待機状態に入るまで回復できない。</p>"
+    },
+    "Draconic Exemplar": {
+      "name": "ドラコニックエグゼンプラー/Draconic Exemplar",
+      "description": "<p>あなたはドラコニックなエグゼンプラーからわずかな力を引き出す。クロマティック・ドラゴンかメタリック・ドラゴンのいずれかの種類を、あなたのエグゼンプラーとして選択すること。これはあなたの鱗の色と外見を決定する。GMの判断により、ドラゴンは自分に似たコボルドに対して好意的になることがある。あなたのエグゼンプラーは、ドラコニックエグゼンプラー表を使用して、あなたが持つ他の能力の詳細を決定することもある。</p><h3><strong>表1-1ドラコニックエグゼンプラー</strong></h3><table class=\"pf2e remaster\"><thead><tr><th>ドラゴン</th><th>ブレス・武器の形状</th><th>ダメージのタイプ</th><th>セーヴィング・スロウ</th></tr></thead><tbody><tr><td>ブラック</td><td>ライン</td><td>酸</td><td>反応</td></tr><tr><td>ブルー</td><td>ライン</td><td>電撃</td><td>反応</td></tr><tr><td>グリーン</td><td>コーン</td><td>毒</td><td>頑健</td></tr><tr><td>レッド</td><td>コーン</td><td>火炎</td><td>反応</td></tr><tr><td>ホワイト</td><td>コーン</td><td>冷気</td><td>反応</td></tr><tr><td>ブラス</td><td>ライン</td><td>火炎</td><td>反応</td></tr><tr><td>ブロンズ</td><td>ライン</td><td>電撃</td><td>反応</td></tr><tr><td>カッパー</td><td>ライン</td><td>酸</td><td>反応</td></tr><tr><td>ゴールド</td><td>コーン</td><td>火炎</td><td>反応</td></tr><tr><td>シルバー</td><td>コーン</td><td>冷気</td><td>反応</td></tr></tbody></table>"
+    },
+    "Clan Dagger": {
+      "name": "一族の短剣/Clan Dagger",
+      "description": "<p>あなたは氏族から1本の@UUID[Compendium.pf2e.equipment-srd.Item.kJJvKm80KwWXPukV]{クラン・ダガー}を無料で手に入れる。これは誕生時にあなたに与えられたものだからだ。このダガーを売ることは恐ろしいタブーであり、他のドワーフたちから軽蔑されることになる。</p>"
+    },
+    "Natural Climber": {
+      "name": "生来の登攀者/Natural Climber",
+      "description": "<p>あなたは〈登攀〉を行うための《運動》判定に+2の状況ボーナスを得る。</p>"
+    },
+    "Horns (Minotaur)": {
+      "name": "角(ミノタウロス)/Horns (Minotaur)",
+      "description": "<p>あなたの鋭い角は槍と同じくらい致命的である。あなたには1d8の刺突ダメージを与える角による素手攻撃がある。あなたの角は剛腕グループに属し、素手特性を持つ。</p>"
+    },
+    "Head Gem": {
+      "name": "頭部の宝石/Head Gem",
+      "description": "<p>あなたの額には、あなたの魂を宿す宝石がある。あなたを蘇生させる呪文や儀式を詠唱する際、無傷の@UUID[Compendium.pf2e.equipment-srd.Item.FA1mAc7rEyC9vzZa]{ヘッド・ジェム}をあなたの身体の代わりに使用できる。あなたは自分のヘッド・ジェムを自由に取り外すことができるが、あなたが死亡するか永続的に無力化されない限り、他のクリーチャーが強制的にヘッド・ジェムを取り外したり破壊したりすることは通常不可能である。GMの判断により、強力な魔法や能力はこの制限を回避できる場合がある。もしヘッド・ジェムが取り外されたり破壊されたりした場合、1日がかりの儀式を行うことで再生させることができる。これが発生した際、以前の宝石の残骸は即座に塵となって崩れ去る。</p>"
+    },
+    "Awakened Form": {
+      "name": "覚醒せし姿/Awakened Form",
+      "description": "<p>覚醒によってあなたの形態は変化し、言葉を話して2本の脚で立つことが可能になった。あなたはアイテムを着用し、保持し、装備し、使用することができる。アイテムを操作するためにどの肢を使用するか、また何本使用するかはあなたとGMが決定するが、ルール上、あなたは2本の手を持つ人型生物と同様に機能する。</p>"
+    },
+    "Innate Venom": {
+      "name": "生来の毒/Innate Venom",
+      "description": "<p>あなたの血液には、あなた自身以外のすべてにとって致命的な毒が含まれている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{Envenom}アクションを得る。これは少量のヴィシュカンヤの毒を注入できる。あなたの毒のセーヴDCは、あなたのクラスDCか呪文DCのいずれか高い方と等しい。</p>"
+    },
+    "Bite": {
+      "name": "噛みつき/Bite",
+      "description": "<p>あなたの鋭い歯と強力な顎は恐るべき武器である。あなたには1d6の刺突ダメージを与える顎による素手攻撃がある。あなたの顎は剛腕グループに属する。</p>"
+    },
+    "Fangs (Nagaji)": {
+      "name": "牙(ナガジ)/Fangs (Nagaji)",
+      "description": "<p>あなたの口には、鉤状で針のように鋭い歯の列か、あるいは凶悪な蛇の牙のペアのいずれかがある。あなたには1d6の刺突ダメージを与える牙による素手攻撃がある。あなたの牙は剛腕グループに属し、フィネス特性と素手特性を持つ。</p>"
+    },
+    "Swim": {
+      "name": "〈水泳〉",
+      "description": "<p>アザルケティは30フィートの基本〈水泳〉移動速度を得る。</p>"
+    },
+    "Change Shape": {
+      "name": "姿変化/Change Shape",
+      "description": "<p>キツネとして、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.34E7k2YRcsOU5uyl]{Change Shape}能力を得る。</p>"
+    },
+    "Horns (Sarangay)": {
+      "name": "角(サランガイ)/Horns (Sarangay)",
+      "description": "<p>あなたの強力な角は恐るべき武器である。あなたには1d6の刺突ダメージを与え、〈押し出す〉特性を持つ角による素手攻撃がある。あなたの角は剛腕グループに属する。</p>"
+    },
+    "Unusual Anatomy": {
+      "name": "特異な解剖学的構造/Unusual Anatomy",
+      "description": "<p>あなたの異端的な身体は、他のクリーチャーに向けられた物理的な苦痛に抵抗する。あなたは病気や毒に対するセーヴに+1の状況ボーナスを得る。</p>"
+    },
+    "Constructed": {
+      "name": "構造体/Constructed",
+      "description": "<p>あなたの合成体は、純粋な生物学的有機体よりも病気に対する抵抗力が高い。あなたは病気、毒、放射線に対するセーヴィング・スローに+1の状況ボーナスを得る。</p>"
+    },
+    "Photosynthesis": {
+      "name": "光合成/Photosynthesis",
+      "description": "<p>あなたは光合成によって栄養を得る。通常、食費を支払う必要はない。もし1週間の間、日光を浴びなければ、あなたは飢え始める。あなたは自然の日光の代わりに、特別に調合された錬金術的な日光のボトルから栄養を得ることができるが、これらのボトルは標準的な保存食の10倍のコスト(40 sp)がかかる。</p>"
+    },
+    "Claws": {
+      "name": "鉤爪/Claws",
+      "description": "<p>あなたの鋭い爪は、他のヒューマノイドが戦いに持ち込む拳に代わるものとなる。あなたは1d4の斬撃ダメージを与え、アジャイルおよびフィネスの特性を持つ素手の爪攻撃を行うことができる。</p>"
+    },
+    "Wings": {
+      "name": "翼/Wings",
+      "description": "<p>すべてのストリクスは強力な翼を持っている。すべてのストリクスが飛行技術を磨くことに集中しているわけではないが、翼を強く羽ばたかせることで、ストリクスは跳躍時により長い距離を移動できる。</p>\n<p>水平方向に@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leaping}する際、あなたは追加で5フィート移動する。あなたは、少なくとも10フィートの〈ストライド〉を最初に行わなかったとしても、@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}や@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を行うための判定で自動的に失敗することはない。さらに、〈ロングジャンプ〉を行う際、あなたは自身の《運動》 判定の結果よりも最大で10フィート遠くまで跳ぶことができるが、その場合でもあなたの移動速度による通常の最大距離は適用される。加えて、落下距離に関係なく、落下によるダメージを受けない。</p>"
+    },
+    "Animal Attack": {
+      "name": "動物攻撃/Animal Attack",
+      "description": "<p>あなたの出自は、ヒューマノイドが通常獲得する拳の素手攻撃の代わりに、特別な素手攻撃をあなたに与える。この攻撃は剛腕 武器種に属する。あなたがどの動物であるか、そしてあなたの出自にある提案を指針として使い、どの攻撃を持っているかをGMと相談して決定すること。例えば、イーグルの場合は嘴、鉤爪、翼、モンキーの場合は拳や尾、トードの場合は舌や顎を選択するかもしれない。</p><table class=\"pf2-table remaster\"><thead><tr><th>素手攻撃</th><th>ダメージ</th><th>特性</th></tr></thead><tbody><tr><td><strong>枝角</strong></td><td>1d6 刺突</td><td>フィネス、素手</td></tr><tr><td><strong>嘴</strong></td><td>1d6 刺突</td><td>フィネス、素手</td></tr><tr><td><strong>鉤爪</strong></td><td>1d4 切り裂き</td><td>アジャイル、フィネス、素手</td></tr><tr><td><strong>牙</strong></td><td>1d6 刺突</td><td>フィネス、素手</td></tr><tr><td><strong>拳</strong></td><td>1d4 打撃</td><td>アジャイル、フィネス、非致死、素手</td></tr><tr><td><strong>角</strong></td><td>1d6 刺突</td><td>フィネス、素手</td></tr><tr><td><strong>顎</strong></td><td>1d6 刺突</td><td>フィネス、素手</td></tr><tr><td><strong>尾</strong></td><td>1d6 打撃</td><td>フィネス、〈足払い〉、素手</td></tr><tr><td><strong>鉤爪(足)</strong></td><td>1d4 刺突</td><td>アジャイル、フィネス、素手</td></tr><tr><td><strong>舌</strong></td><td>1d6 打撃</td><td>フィネス、素手</td></tr><tr><td><strong>翼</strong></td><td>1d4 打撃</td><td>アジャイル、フィネス、素手</td></tr></tbody></table>"
+    },
+    "Magiphage": {
+      "name": "魔力喰らい/Magiphage",
+      "description": "<p>あなたの体中の様々な結節が、周囲の世界から潜在的な魔法を吸収する。特に魔法が乏しい環境(マナ・ウェイストなど)にいない限り、食事や飲水は必要ない。幼生期に最も摂取した魔法の系統を選択すること。このタイプの魔法はあなたの体に深く根付き、すべてのスルキの呪文と魔法的なアクションの系統をその系統に変更する。</p>"
+    },
+    "Big Sharp Teeth": {
+      "name": "大きく鋭い歯/Big Sharp Teeth",
+      "description": "<p>あなたの口には剃刀のように鋭い歯がびっしりと生えている。あなたは1d4の刺突ダメージを与える顎の素手攻撃を得る。あなたの顎は剛腕グループに属し、フィネスと素手の特性を持つ。</p>"
+    },
+    "Prehensile Tail": {
+      "name": "把握可能な尾/Prehensile Tail",
+      "description": "<p>あなたは長く柔軟な尾を使って、両手がふさがっている場合でも、空いた手が必要な〈扱う〉アクションを行うことができる。あなたの尾は、指や高度な手先の器用さを必要とするアクション(判定判定を必要とするあらゆるアクションを含む)を行うことはできず、アイテムを保持するために使うこともできない。</p>"
+    },
+    "Sharp Beak": {
+      "name": "鋭い嘴/Sharp Beak",
+      "description": "<p>鋭い嘴を持つあなたは、武器なしで困ることはない。あなたは1d6の刺突ダメージを与える嘴の素手攻撃を持つ。あなたの嘴は剛腕武器種に属し、フィネスと素手の特性を持つ。</p>"
+    },
+    "Flammable": {
+      "name": "可燃性/Flammable",
+      "description": "<p>あなたは火炎ダメージに対する弱点を、自身のレベルの3分の1(最低1)持つ。</p>"
+    },
+    "Cryptomnesia": {
+      "name": "潜在記憶/Cryptomnesia",
+      "description": "<p>あなたは前世の知識の断片を保持している。あなたは未習熟の技能判定に+1の状況ボーナスを得る。</p>"
+    },
+    "Empathic Sense": {
+      "name": "共感的感知/Empathic Sense",
+      "description": "<p>カシュリシは、自身から15フィート以内にいる他者の現在の感情状態を漠然と感じ取ることができる。これは、幸福、怒り、恐怖といった一般的な感情として現れ、具体的な詳細はわからない。カシュリシと感情的なつながりがある者に対しては、物理的な接触によってこの感覚をより詳細に高めることができ、絆の強さに応じて理解が深まる。これはまた、範囲内の非無知性クリーチャーの存在をあなたに警告する不明瞭な感覚としても機能するが、正確な位置まではわからない。あなたは、自身の共感的な感覚の範囲内にいる非無知性クリーチャーに対する@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}の《知覚》判定に+2の状況ボーナスを得る。</p>"
+    },
+    "Wings (Dragonet)": {
+      "name": "翼(ドラゴネット)/Wings (Dragonet)",
+      "description": "<p>あなたの翼は他のドラゴンネットほど強くはないかもしれないが、制御不能な落下を防ぐことはできる。あなたは落下距離に関わらず、落下によるダメージを受けない。</p>"
+    },
+    "Automaton Core": {
+      "name": "オートマトンのコア/Automaton Core",
+      "description": "<p>あなたの身体には、様々な作業を行う力を与え、あなたの魂と生命エネルギーを宿す、次元の精髄を注入されたオートマトン・コアが含まれている。この生命エネルギーは、ヒューマノイドの血液とよく似た形であなたの中を流れている。その結果、あなたは生きているクリーチャーである。あなたはコンストラクト特有の完全耐性を持たず、生きているクリーチャーを対象とする効果の影響を受け、生命エネルギーによって通常通りヒット・ポイントを回復できる。さらに、あなたは0ヒット・ポイントになっても破壊されない。その代わり、あなたの生命エネルギーは窮地にあってもあなたを活動させ続けようと試みる。あなたは0ヒット・ポイントになった場合、気絶状態となり、瀕死状態が始まる。</p>"
+    },
+    "Robust": {
+      "name": "頑健/Robust",
+      "description": "<p>あなたの最大バルクと過重バルクの制限を2増加させる。</p>"
+    },
+    "Basic Undead Benefits": {
+      "name": "アンデッドの基本利益/Basic Undead Benefits",
+      "description": "<p><strong>ネクリル:</strong>あなたはネクリル語を知っている。</p>\n<p><strong>アンデッドの暗視:</strong>あなたは薄暗視を得る。もしあなたの祖先がすでに薄暗視を持っているなら、暗視を得る。</p>\n<p><strong>ヴォイドによる治癒:</strong>あなたは生命ダメージによってダメージを受け、生命力による回復効果では回復しない。あなたは虚無ダメージを受けず、アンデッドを回復させるヴォイドの効果によって回復する。</p>\n<p><strong>ヴォイド《生存術》:</strong>通常のアンデッドとは異なり、あなたは0ヒット・ポイントになっても破壊されない。その代わり、強力な虚無エネルギーが、窮地にあってもあなたが破壊されるのを防ごうと試みる。あなたは0ヒット・ポイントになった場合、気絶状態となり、瀕死状態が始まる。あなたはアンデッドであるため、@UUID[Compendium.pf2e.spells-srd.Item.SnjhtQYexDtNDdEg]{安定化}のような、瀕死状態から誰かを回復させる多くの方法は、あなたに恩恵をもたらさない。あなたが死亡する時、他のアンデッドと同様に、あなたは死ぬのではなく破壊される。</p>\n<p><strong>死の効果に対する完全耐性:</strong>あなたは死の効果に対して免疫である。これは、あなたが自動的に殺されたり、瀕死状態の値が自動的に上昇したりすることを防ぐが、その呪文や効果の他の部分に対して免疫になるわけではない。例えば、あなたは依然として@UUID[Compendium.pf2e.spells-srd.Item.tlcrVRqW1MSKJ5IC]{幻影殺し}によって精神ダメージを受けたり、恐れ状態になったりする可能性がある。単にそれによって即座に死亡しないだけである。</p>\n<p><strong>病気および毒の保護:</strong>あなたは病気および毒に対するセーヴィング・スロー(またはその他の防御)に+1の状況ボーナスを得る。</p>\n<p><strong>アンデッドの飢え:</strong>あなたはヒューマノイドと同じ食物を食べたり飲んだりすることはないが、グールのヒューマノイドの肉への飢え、ゾンビの脳への渇望、ヴァンパイアの血への欲求のように、通常はアンデッドの状態に関連した渇きや飢えを持っている。さらに、あなたは睡眠をとらないが、回復のために1日少なくとも4時間の間、静止状態に入る。これにより、あなたのアンデッドの肉体は再結合し、自然に回復する。多くのアンデッドは、太陽が最も高い位置にある時に休息することを選択する。</p>"
+    },
+    "Land on Your Feet": {
+      "name": "着地/Land on Your Feet",
+      "description": "<p>あなたが落下する時、あなたは通常の半分のダメージを受けるだけであり、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態で着地することはない。</p>"
+    },
+    "Plant Nourishment": {
+      "name": "植物の栄養摂取/Plant Nourishment",
+      "description": "<p>あなたは、光合成、根によるミネラルの吸収、あるいは腐敗した物質をあさる組み合わせによって、あなたの身体タイプに一致する植物や菌類が通常行うのと同じ方法で栄養を得る。あなたは通常、食料のために支払う必要はない。もしあなたが通常光合成に頼っており、1週間の間日光を浴びなければ、あなたは飢え始める。あなたは自然の日光の代わりに、特別に調合された日光の瓶から栄養を得ることができるが、これらの瓶は標準的な食料の10倍のコスト(または40 sp)がかかる。</p>"
+    },
+    "Sharp Teeth": {
+      "name": "鋭い歯/Sharp Teeth",
+      "description": "<p>あなたの目立つ門歯は、他のヒューマノイドが戦いに持ち込む拳に代わるものを提供する。あなたは顎による素手攻撃を持ち、これは1d4の刺突ダメージを与え、剛腕グループに属し、アジャイルとフィネスの特性を持つ。</p>"
+    },
+    "Magical Strikes": {
+      "name": "魔法打撃/Magical Strikes",
+      "description": "<p>あなたの生来の魔法は、あなたの全身に浸透している。素手攻撃であれ武器であれ、あなたのすべてのストライクは魔法的である。</p>"
+    },
+    "Draconic Benefactor": {
+      "name": "ドラコニックの恩人/Draconic Benefactor",
+      "description": "<p>一部の能力は、あなたの竜の恩人、竜のエグゼンプラー、または竜の本能を参照する。これらは、あなたが竜の力を引き出す特定の種類のドラゴンである。通常は、あなたが仕えている、あるいはその血があなたの血管を流れている種類のドラゴンである。あなたはキャラクターを作成する際にエグゼンプラーを選択できるが、それを必要とする特技やその他の選択肢(《Breath of the ドラゴン》など)を選択する時のみ、選択を求められる。これは、あなたの竜の力がしばらくの間謎のままであり、経験を積むにつれてその真の性質が明らかになる可能性があることを意味する。</p>\n<p>下の表は、あなたの竜とのつながりによる恩恵や、ドラゴン形態や類似の効果を使用する際に得る恩恵を決定するために使用できる。もしあなたが異なるソースからドラゴンを選択する場合、そのドラゴンにアクセスできるかどうか、そしてどのような選択肢をそれがあなたに与えるかについて、GMと相談すること。</p><h2>ドラコニックの恩人</h2><table border=\"1\" class=\"pf2e lost-omens\"><thead><tr style=\"text-align:right\"><th>ドラゴン</th><th>伝統</th><th>移動速度</th><th>ドラゴンのブレス</th><th>セーヴィング・スロウ</th></tr></thead><tbody><tr><td>アダマンティン</td><td>プライマル</td><td>〈穴掘り〉</td><td>殴打の円錐</td><td>反応</td></tr><tr><td>バラージ</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>反応</td></tr><tr><td>ボグ</td><td>プライマル</td><td>〈水泳〉</td><td>酸の円錐</td><td>反応</td></tr><tr><td>ブライン</td><td>プライマル</td><td>〈水泳〉</td><td>殴打の直線</td><td>反応</td></tr><tr><td>シンダー</td><td>プライマル</td><td>—</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>クラウド</td><td>プライマル</td><td>—</td><td>電撃の円錐</td><td>反応</td></tr><tr><td>コンスピレーター</td><td>オカルト</td><td>〈登攀〉</td><td>毒の円錐</td><td>頑健</td></tr><tr><td>コーラル</td><td>プライマル</td><td>〈水泳〉</td><td>殴打の直線</td><td>反応</td></tr><tr><td>クリスタル</td><td>プライマル</td><td>—</td><td>刺突の円錐</td><td>反応</td></tr><tr><td>ディライト</td><td>ディバイン</td><td>—</td><td>霊の円錐</td><td>反応</td></tr><tr><td>ディスペア</td><td>オカルト</td><td>—</td><td>音波の円錐</td><td>意志</td></tr><tr><td>ディアボリック</td><td>ディバイン</td><td>—</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>エンピリアル</td><td>ディバイン</td><td>—</td><td>霊の円錐</td><td>反応</td></tr><tr><td>エグゼキューター</td><td>ディバイン</td><td>—</td><td>音波の円錐</td><td>反応</td></tr><tr><td>フォレスト</td><td>プライマル</td><td>—</td><td>刺突の円錐</td><td>反応</td></tr><tr><td>幸運</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>反応</td></tr><tr><td>ホーンド</td><td>プライマル</td><td>〈水泳〉</td><td>毒の円錐</td><td>頑健</td></tr><tr><td>マグマ</td><td>プライマル</td><td>〈穴掘り〉</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>ミラージュ</td><td>アーケイン</td><td>〈登攀〉</td><td>精神の円錐</td><td>意志</td></tr><tr><td>モッキング</td><td>オカルト</td><td>—</td><td>殴打の円錐</td><td>反応</td></tr><tr><td>オース</td><td>ディバイン</td><td>—</td><td>霊の円錐</td><td>意志</td></tr><tr><td>オーメン</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>意志</td></tr><tr><td>フェイズ</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>反応</td></tr><tr><td>レクイエム</td><td>ディバイン</td><td>〈水泳〉</td><td>霊の直線</td><td>意志</td></tr><tr><td>リザレクション</td><td>ディバイン</td><td>—</td><td>負の円錐</td><td>頑健</td></tr><tr><td>ライム</td><td>プライマル</td><td>〈水泳〉</td><td>冷気の円錐</td><td>反応</td></tr><tr><td>ルーン</td><td>アーケイン</td><td>—</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>セージ</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>意志</td></tr><tr><td>シー</td><td>アーケイン</td><td>〈水泳〉</td><td>殴打の円錐</td><td>反応</td></tr><tr><td>スカイ</td><td>ディバイン</td><td>—</td><td>電撃の円錐</td><td>反応</td></tr><tr><td>ソヴリン</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>意志</td></tr><tr><td>ストームクラウン</td><td>プライマル</td><td>—</td><td>電撃の直線</td><td>反応</td></tr><tr><td>タイム</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>意志</td></tr><tr><td>アンブラル</td><td>オカルト</td><td>—</td><td>負の円錐</td><td>反応</td></tr><tr><td>アンダーワールド</td><td>アーケイン</td><td>〈穴掘り〉</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>ヴィズィア</td><td>オカルト</td><td>〈水泳〉</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>ヴォーパル</td><td>アーケイン</td><td>—</td><td>負の円錐</td><td>意志</td></tr><tr><td>ウェイリング</td><td>アーケイン</td><td>—</td><td>音波の円錐</td><td>頑健</td></tr><tr><td>ウィスパー</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>意志</td></tr><tr><td>ウィッシュ</td><td>アーケイン</td><td>〈登攀〉</td><td>精神の円錐</td><td>意志</td></tr></tbody></table>"
+    },
+    "Emotionally Unaware": {
+      "name": "感情に疎い/Emotionally Unaware",
+      "description": "<p>あなたは複雑な感情を理解し表現することが困難である。あなたは《交渉》判定と《芸能》判定、および@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}を行うための《知覚》判定に-1の状況ペナルティを受ける。</p>"
+    },
+    "Greater Darkvision": {
+      "name": "上級暗視/Greater Darkvision",
+      "description": "<p>あなたは暗闇や薄暗い光の中でも、明るい光の中と同じように見ることができる。ただし、暗闇の中での視覚は白黒になる。4レベルの@UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{闇}呪文のような、一部の魔法的な暗闇は、通常の暗視を遮る。しかし、あなたはそのような魔法的な暗闇であっても見通すことができる。</p>"
+    },
+    "Hydration": {
+      "name": "水分補給/Hydration",
+      "description": "<p>あなたは陸上でも水中でも同様に活動できる両生生物だが、その身体は少なくとも24時間に1回は水中の環境に戻ることを必要としている。水に慣れた皮膚を再水和させるためには、水中に潜らなければならない。</p>\n<p>これを行わなければ、あなたの皮膚はひび割れ始め、エラは痛み出す。水から離れて最初の24時間が経過した後、あなたは頑健セーヴに-1の状況ペナルティを受ける。48時間が経過すると、あなたは空気を吸うのに苦労し、水に戻るまで窒息し始める。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Q5FUu7yhWPJlcXei]{効果: 脱水}</p>"
+    },
+    "Mount": {
+      "name": "山/Mount",
+      "description": "<p>あなたの馬のような身体は、信頼できる仲間を乗せるのに適している。PCは、あなたよりもサイズが2段階小さい必要があるのではなく、あなたよりも1段階小さいサイズ(ほとんどのケンタウロスの場合、中型サイズ)であれば、あなたに騎乗することができる。</p>"
+    },
+    "Keen Eyes": {
+      "name": "鋭敏な眼/Keen Eyes",
+      "description": "<p>あなたの目は鋭く、他の者が見逃すような@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}や、さらには@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}クリーチャーに関する小さな詳細を見分けることができる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}アクションを使用して、あなたから30フィート以内にいる@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}や@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}のクリーチャーを見つける際、+2の状況ボーナスを得る。あなたに対して隠蔽状態にある、あるいは隠れている相手を対象とする場合、フラット・判定のDCを、隠蔽状態の対象に対しては3に、隠れている対象に対しては9に減少させる。</p>"
+    },
+    "Advanced Undead Benefits": {
+      "name": "上級アンデッドの利益/Advanced Undead Benefits",
+      "description": "<p><strong>暗視：</strong>あなたは暗視を持っていない場合、それを獲得する。</p>\n<p><strong>強力な病気および毒への防護：</strong>病気と毒に対するあなたのボーナスは+2に上昇する。あなたは自身のレベルの半分に等しい毒への抵抗を得る。</p>\n<p><strong>麻痺および睡眠への防護：</strong>あなたは、あなたを@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態にする効果や睡眠の特性を持つ効果に対するセーヴィング・スロー(またはその他の防御)に+1の状況ボーナスを得る。</p>"
+    }
+  },
+  "mapping": {
+    "description": "system.description.value",
+    "gmnote": "system.description.gm",
+    "target": "system.target.value",
+    "range": "system.range.value",
+    "duration": "system.duration.value",
+    "time": "system.time.value",
+    "cost": "system.cost.value",
+    "requirements": "system.requirements",
+    "trigger": "system.trigger",
+    "frequency": "system.frequency.value",
+    "primarycheck": "system.primarycheck.value",
+    "secondarycasters": "system.secondarycasters.value",
+    "secondarycheck": "system.secondarycheck.value",
+    "prerequisites": {
+      "path": "system.prerequisites.value",
+      "converter": "translatePrerequisites"
+    },
+    "rules": {
+      "path": "system.rules",
+      "converter": "translateRules"
+    }
+  },
+  "folders": {
+    "Anadi": "Anadi",
+    "Android": "Android",
+    "Automaton": "Automaton",
+    "Awakened Animal": "Awakened Animal",
+    "Azarketi": "Azarketi",
+    "Catfolk": "Catfolk",
+    "Centaur": "Centaur",
+    "Conrasu": "Conrasu",
+    "Dragonet": "Dragonet",
+    "Dwarf": "Dwarf",
+    "Fleshwarp": "Fleshwarp",
+    "Ghoran": "Ghoran",
+    "Goloma": "Goloma",
+    "Halfling": "Halfling",
+    "Jotunborn": "Jotunborn",
+    "Kashrishi": "Kashrishi",
+    "Kholo": "Kholo",
+    "Kitsune": "Kitsune",
+    "Kobold": "Kobold",
+    "Leshy": "Leshy",
+    "Lizardfolk": "Lizardfolk",
+    "Merfolk": "Merfolk",
+    "Minotaur": "Minotaur",
+    "Nagaji": "Nagaji",
+    "Poppet": "Poppet",
+    "Ratfolk": "Ratfolk",
+    "Samsaran": "Samsaran",
+    "Sarangay": "Sarangay",
+    "Shared": "Shared",
+    "Shoony": "Shoony",
+    "Sprite": "Sprite",
+    "Strix": "Strix",
+    "Surki": "Surki",
+    "Tengu": "Tengu",
+    "Tripkee": "Tripkee",
+    "Undead": "Undead",
+    "Vampire": "Vampire",
+    "Vanara": "Vanara",
+    "Vishkanya": "Vishkanya"
+  }
+}
