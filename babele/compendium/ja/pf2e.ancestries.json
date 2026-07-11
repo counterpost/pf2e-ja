@@ -1,339 +1,229 @@
 {
-  "label": "ancestries",
+  "label": "祖先",
   "entries": {
     "Tengu": {
-      "name": "テング語",
-      "description": "<p><em>Tengu are survivalists and conversationalists, equally at home living off the wilderness and finding a niche in dense cities. They accumulate knowledge, tools, and companions, adding them to their collection as they travel.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.YGIwmuVOJI7uNhGM]{Tengu}</p>"
+      "name": "テング/Tengu",
+      "description": "<p><em>テングは生存術に長け、会話を好む種族であり、荒野で自活することも、密集した都市で自分の居場所を見つけることも同じように得意とする。彼らは旅をする中で知識や道具、仲間を集め、それらを自身のコレクションに加えていく。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.YGIwmuVOJI7uNhGM]{テング}</p>"
     },
     "Minotaur": {
-      "name": "Minotaur",
-      "description": "<p>Minotaurs stalk complex passageways, whether natural or artificial, and are masters of stone architecture. Inquisitive and steadfast, these bovine humanoids spend their lives perfecting the pursuit that calls to them, which can sometimes lead them far from the enclaves where they were raised. Minotaurs are originally from the Iblydos archipelago but have spread far and wide across Golarion, forming close-knit communities often near mountains or beneath the surface of the earth. Though sometimes mistaken for simple brutes, minotaurs have scholars and warriors alike. Those who can look past their appearance will find an affinity for building and navigation, as well as creative problem-solving.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.D1SZXGFA8Hh4huax]{Minotaur}</em></p>"
+      "name": "ミノタウロス/Minotaur",
+      "description": "<p>ミノタウロスは自然のものであれ人工のものであれ、複雑な通路を徘徊し、石造建築の達人である。好奇心旺盛で揺るぎないこの牛頭のヒューマノイドは、自らを呼ぶ探求を完璧にすることに一生を捧げ、その結果、育った居住地から遠く離れることもある。ミノタウロスは元々イブリドス諸島の出身だが、ゴラリオン中に広く拡散しており、山岳地帯の近くや地下に緊密なコミュニティを形成していることが多い。単純な野獣と勘違いされることもあるが、ミノタウロスには学者も戦士も存在する。彼らの外見に惑わされない者は、彼らが建造や航海術、そして創造的な問題解決に対する親和性を持っていることに気づくだろう。</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.D1SZXGFA8Hh4huax]{ミノタウロス}</em></p>"
     },
     "Kitsune": {
-      "name": "Kitsune",
-      "description": "<p><em>Kitsune are a charismatic and witty people with a connection to the spiritual that grants them many magical abilities, chiefly the power to shapechange into other forms. Whether they pass unseen among other peoples or hold their tails high, kitsune are clever observers of the societies around them.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.26YL1jOPQQS6k7A9]{Kitsune}</p>",
-      "rules": [
-        {
-          "key": "ItemAlteration"
-        },
-        {
-          "key": "ItemAlteration"
-        },
-        {
-          "key": "ロールオプション",
-          "label": "PF2E.NPCAbility.ChangeShape.Label"
-        }
-      ]
+      "name": "キツネ/Kitsune",
+      "description": "<p><em>キツネはカリスマ性と機知に富んだ種族であり、霊的なものとの繋がりによって多くの魔法能力、とりわけ他の姿に変身する能力を得ている。他の種族の中に紛れて目立たずに過ごすにせよ、尻尾を高く掲げて堂々と振る舞うにせよ、キツネは周囲の社会を鋭く観察する者たちである。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.26YL1jOPQQS6k7A9]{Kitsune}</p>"
     },
     "Skeleton": {
-      "name": "Skeleton",
-      "description": "<p><em>Skeletons are considered among the lowest types of undead. They're typically mindless creatures, lacking many of the abilities that make other undead a serious threat. However, the animated bones of dragons, giants, and other great beasts make for dangerous foes. Powerful living creatures can retain some of their might and intellect upon returning as a skeleton. Some necromancers turn their strongest enemies into skeletal undead servants, assuming they can keep control of them.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.EcNSrvwIj22Jxkjz]{Skeleton}</em></p>"
+      "name": "スケルトン/Skeleton",
+      "description": "<p><em>スケルトンはアンデッドの中でも最も下位の種別と見なされている。彼らは通常マインドレスなクリーチャーであり、他のアンデッドを深刻な脅威たらしめる能力の多くを欠いている。しかし、ドラゴンやジャイアント、その他の巨大な獣の動く骨は危険な敵となる。強力な生けるクリーチャーは、スケルトンとして蘇った際にも、その力と知性の一部を保持できることがある。ネクロマンサーの中には、制御し続けられることを前提として、最強の敵をスケルトンのアンデッドの従者へと変える者もいる。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.EcNSrvwIj22Jxkjz]{Skeleton}</em></p>"
     },
     "Poppet": {
-      "name": "Poppet",
-      "description": "<p><em>Poppets are small, basic constructs that typically help their owners with simple tasks. Occasionally, poppets gain sapience, independence, and a spark of life. Elevated beyond mere helpers or playthings, these poppets are free to chart their own destinies.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.Ck8L9livQph1GFal]{Poppet}</em></p>"
+      "name": "ポペット/Poppet",
+      "description": "<p><em>ポペットは小型で基本的な構造体であり、通常は所有者の単純な作業を手伝う。時折、ポペットは知性と自立心、そして生命の火花を得ることがある。単なる手伝いや玩具の域を超えて高められたこれらのポペットは、自らの運命を自由に切り開くことができる。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.Ck8L9livQph1GFal]{Poppet}</em></p>"
     },
     "Sarangay": {
-      "name": "Sarangay",
-      "description": "<p><em>サランガイはカルバオの頭を持つ一族で、ティアン・シアの深い森の奥で長年生き延びてきた。多くの冒険者は最初彼らを怪物だと思ったが、サランガイは共同体と魂を何よりも重んじる繁栄する社会に過ぎない。彼らの文化は共同体と選ばれた指導者を守ろうとする強い願いに基づいている。角は三日月と称され、彼らのそびえ立つ体躯は先祖が父なる月に届こうと引き伸ばされたためだと伝えられるが、母なる 地 は彼らを胸にしっかりと抱いて離さなかったとされる。彼らは偉大なる父なる月、始祖を崇め、自然を何よりも守り高めようと努める。なぜなら自分たちが自然の一部であることを理解しているからだ。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.oTRP3yJNZp5KRoHK]{Sarangay}</em></p>"
+      "name": "サランガイ/Sarangay",
+      "description": "<p><em>サランガイはカラバオの頭を持つ種族であり、長い間ティエン・シア全域の深い森の中で生き延びてきた。多くの冒険者は最初彼らをモンスターだと思っていたが、サランガイはコミュニティと魂を何よりも大切にする繁栄した社会に過ぎない。彼らの文化は、コミュニティと選ばれし指導者を守ろうとする強烈な欲求の上に築かれている。彼らの角は三日月であると言われ、そのそびえ立つような巨躯は、彼らの祖先が父なる月に手を伸ばそうとして引き伸ばされた一方で、母なる大地が彼らをその胸に抱き寄せたことに由来すると言われている。彼らは最初の祖先である偉大なる父なる月を崇拝し、自分たちが自然の一部であることを理解しているため、何よりも自然を保護し、称えることに努めている。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.oTRP3yJNZp5KRoHK]{Sarangay}</em></p>"
     },
     "Kobold": {
-      "name": "Kobold",
-      "description": "<p><em>Every kobold instinctively understands the importance of power, and many are inclined to venerate those who have it, whether they be mighty dragons, cruel fiends, imperious fey, or even ancient artifacts. Kobolds seek out these alliances out of a sense of pragmatism—after all, who would dare bully a kobold who serves an ancient dragon?—but also because kobold eggs incubated near such loci of power take on physical traits (and sometimes abilities) similar to those of the warren's benefactor. On their own, kobolds are ingenious crafters and devoted allies, but outsiders who trespass into their territory find them to be inspired skirmishers and clever ambushers. However, these reptilian opportunists prove happy to cooperate with other humanoids when it's to their benefit, combining caution and cunning to make their fortunes in the wider world.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.naQrTTE7CXu5lnNt]{Kobold}</em></p>"
+      "name": "コボルド/Kobold",
+      "description": "<p><em>すべてのコボルドは本能的に力の重要性を理解しており、多くの者は力を持つ存在――それが強大なドラゴンであれ、残酷なフィーンドであれ、傲慢なフェイであれ、あるいは古代のアーティファクトであれ――を崇拝する傾向がある。コボルドがこうした同盟を求めるのは実利的な理由からである――結局のところ、古代のドラゴンに仕えるコボルドをいじめようとする者がいるだろうか？――しかし、それだけでなく、こうした力の源泉の近くで孵化したコボルドの卵は、そのウォーレンの恩人のものと似た身体的特徴(時には能力も)を帯びるからでもある。コボルドは単独では独創的な職人であり献身的な味方だが、彼らの縄張りに侵入したよそ者は、彼らが優れた散兵であり、狡猾な待ち伏せの達人であることを知ることになる。しかし、この爬虫類のような日和見主義者たちは、それが自分たちの恩恵になるのであれば、他のヒューマノイドと喜んで協力し、用心深さと狡猾さを組み合わせて広い世界で成功を収める。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.naQrTTE7CXu5lnNt]{Kobold}</em></p>"
     },
     "Wayang": {
-      "name": "Wayang",
-      "description": "<p><em>Wayangs are diasporic sojourners from the Netherworld where they lived and worked alongside their allies, lightweaving d'ziriaks. Both peoples shared affinities for artistic expression and spiritual introspection, inspiring each other's sensitivities to color, form, and function; they also bolstered each other's defense against rampaging dragons, oni, and undead. This idyll collapsed from divine meddling; some say when Abadar sentenced Zon-Kuthon to exile in the Netherworld, the Midnight Lord's deific presence distorted the plane into a nightmarish domain, while others accounts ascribe fiendish sources to this doom.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.lLXEwzxawJ3Q0tpg]{Wayang}</em></p>",
-      "rules": [
-        {
-          "key": "ActiveEffectLike"
-        }
-      ]
+      "name": "ワヤン/Wayang",
+      "description": "<p><em>ワヤンはネザーワールドからの離散した旅人であり、そこでは彼らは同盟者である光を織るジリアクと共に暮らし、働いていた。両種族は芸術的表現と精神的内省に対する親和性を共有しており、色や形、機能に対する互いの感性を刺激し合っていた。また、彼らは暴れ回るドラゴンやオニ、アンデッドに対する防御を互いに強化し合っていた。この牧歌的な日々は神々の干渉によって崩壊した。ある者は、アバダーがゾン＝クーソンをネザーワールドへ追放者した際、ミッドナイト・ロードの神としての存在がその次元界を悪夢のような領域へと歪めてしまったのだと言い、また別の説では、この破滅の原因をフィーンドに帰するものもある。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.lLXEwzxawJ3Q0tpg]{Wayang}</em></p>"
     },
     "Catfolk": {
-      "name": "Catfolk",
-      "description": "<p><em>Curious and gregarious wanderers, catfolk combine the features of felines and humanoids in both appearance and temperament. They enjoy learning new things, collecting new tales and trinkets, and ensuring their loved ones are safe and happy. Catfolk view themselves as the chosen guardians of natural places in the world and are often recklessly brave, even in the face of overwhelming opposition. They believe that strong communities, breadth of experience, and continual self-improvement aid them in this fight.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.5S1Pq3GoEzLfBbH7]{Catfolk}</em></p>"
+      "name": "キャットフォーク/Catfolk",
+      "description": "<p><em>好奇心旺盛で社交的な放浪者であるキャットフォークは、外見と気質の双方において、ネコ科動物とヒューマノイドの特徴を併せ持っている。彼らは新しいことを学び、新しい物語や小物を収集し、愛する者たちが安全で幸せであることを確認することを好む。キャットフォークは自分たちを世界の自然な場所の選ばれし守護者と見なしており、圧倒的な敵を前にしても無謀なほど勇敢であることが多い。彼らは、強固なコミュニティ、幅広い経験、そして絶え間ない自己研鑽が、この戦いにおいて彼らの〈援護〉になると信じている。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.5S1Pq3GoEzLfBbH7]{キャットフォーク}</em></p>"
     },
     "Surki": {
-      "name": "Surki",
-      "description": "<p>Surkis are an insectile species who subsist on the latent magic in the world around them. As a subterranean species native to the Darklands, surkis have rarely been seen on the surface, and always with long pauses between historical sightings. This is due to surkis' life cycle—long dormancies followed by so-called \"generation digs,\" as they migrate great distances in response to happenings underground. The healing of the Worldwound initiated one of the largest such digs in their history, bringing surkis up into the caverns and passages of the Sarkoris Scar and emerging onto the surface for the first time in many years. Since their emergence, several small surki settlements have been established in secluded corners of Sarkoris, voraciously cataloging the wildlife, magics, and various other inhabitants of the area as they explore the alien environment of the surface.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.6kuNg9Pr7LdaNPQq]{Surki}</em></p>",
-      "rules": [
-        {
-          "key": "ActiveEffectLike"
-        }
-      ]
+      "name": "スルキ/Surki",
+      "description": "<p>スルキは、周囲の世界に潜在する魔法を糧として生きる昆虫のような種族である。　ダークランズを原産とする地下種族として、スルキが地上で見られることは稀であり、歴史的な目撃例の間には常に長い空白期間がある。これはスルキのライフサイクル、すなわち長い休眠期間と、それに続く「世代の掘削」と呼ばれるものによる。彼らは地下で起こる出来事に応じて長距離を移動するのだ。ワールドウーンドの治癒は、彼らの歴史上最大級の掘削を引き起こし、スルキをサルコリス・スカーの洞窟や通路へと導き、長年ぶりに地上へと出現させた。出現以来、サルコリスの隔絶された一角にいくつかの小さなスルキの集落が築かれ、彼らは地上の異質な環境を探索しながら、その地域の野生生物、魔法、その他様々な住人たちを貪欲に記録している。</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.6kuNg9Pr7LdaNPQq]{スルキ}</em></p>"
     },
     "Dragonet": {
-      "name": "Dragonet",
-      "description": "<p><em>Dragonets are miniature dragons, complete with wings, dagger-like teeth, and magical breath. They can be fiercely independent and proud, at times protective or avaricious, and they delight in the finer things in life.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.XL2BDTsaIEDkpKj0]{Dragonet}</p>"
+      "name": "ドラゴネット/Dragonet",
+      "description": "<p><em>ドラゴネットは小型のドラゴンであり、翼、短剣のような歯、魔法のブレスを備えている。彼らは非常に独立心が強く誇り高いことがあり、時には守護的あるいは強欲になることもあり、人生におけるより洗練されたものを好む。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.XL2BDTsaIEDkpKj0]{ドラゴネット}</p>"
     },
     "Dwarf": {
-      "name": "Dwarf",
-      "description": "<p><em>Dwarves have a well-earned reputation as a stoic and stern people, ensconced within citadels and cities carved from solid rock. While some see them as dour and humorless crafters of stone and metal, dwarves and those who have spent time among them understand their unbridled zeal for their work, caring far more about quality than quantity. To a stranger, they can seem untrusting and clannish, but to their friends and family, they are warm and caring, their halls filled with the sounds of laughter and hammers hitting anvils.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.XzRv30zY3UXRbBho]{Dwarf}</em></p>"
+      "name": "ドワーフ/Dwarf",
+      "description": "<p><em>ドワーフは、固い岩を彫り込んで作られた城塞や都市に籠もる、ストイックで厳格な人々として定評がある。彼らを石や金属の無愛想でユーモアのない職人と見る者もいるが、ドワーフ自身や彼らと共に時間を過ごした人々は、彼らの仕事に対する抑えきれない熱意を理解しており、彼らが量よりも質をはるかに重視していることを知っている。見知らぬ者に対しては、彼らは人を信用せず排他的に見えるかもしれないが、友人や家族に対しては温かく思いやりがあり、彼らの広間は笑い声と金床を叩くハンマーの音で満たされている。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.XzRv30zY3UXRbBho]{ドワーフ}</em></p>"
     },
     "Goloma": {
-      "name": "Goloma",
-      "description": "<p><em>Golomas fear most other people and deliberately use their unusual biology to frighten off those they consider to be dangerous predators. Rarely seen and poorly understood, golomas' many-eyed and wooden faced visages instill terror in most they meet.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.jKglnHBFvzI80tIe]{Goloma}</em></p>"
+      "name": "ゴロマ/Goloma",
+      "description": "<p><em>ゴロマは他のほとんどの人々を恐れており、危険な捕食者と見なした相手を追い払うために、彼らの特異な生物学的特徴を意図的に利用する。目撃されることは稀で、あまり理解されていないが、ゴロマの多くの目と木のような顔立ちは、彼らが出会うほとんどの者に恐怖を植え付ける。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.jKglnHBFvzI80tIe]{ゴロマ}</em></p>"
     },
     "Leshy": {
-      "name": "Leshy",
-      "description": "<p><em>Guardians and emissaries of the environment, leshies are immortal spirits of nature temporarily granted a physical form.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.SWkwNivrfzWZqas9]{Leshy}</em></p>"
+      "name": "レーシー/Leshy",
+      "description": "<p><em>環境の守護者であり使者であるレシーは、一時的に肉体を与えられた自然の不滅の精霊である。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.SWkwNivrfzWZqas9]{レーシー}</em></p>"
     },
     "Athamaru": {
-      "name": "Athamaru",
-      "description": "<p>Athamarus are fish-like humanoids who form tight-knit undersea communities. In small settlements, they engage in the subsistence farming of seaweed, train eels to serve as mounts, and create elaborate works of coral art. Their interactions with other aquatic ancestries are strained, as athamarus have suffered mistreatment at their hands. However, they remain curious about potential connections and what new opportunities may offer.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.19pE89qVIMELrZoY]{Athamaru}</em></p>",
-      "rules": [
-        {
-          "key": "BaseSpeed"
-        }
-      ]
+      "name": "アサマル/Athamaru",
+      "description": "<p>アサマルは、結束の固い海底コミュニティを形成する魚のようなヒューマノイドである。小さな集落では、彼らは海藻の自給自足農業に従事し、ウナギを訓練して騎乗用にし、精巧なサンゴの芸術作品を制作している。アサマルは他の水棲の祖先種族の手によって虐待を受けてきたため、彼らとの交流は緊張したものとなっている。しかし、彼らは潜在的なつながりや、新しい機会が何をもたらすかについて、依然として好奇心を抱いている。</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.19pE89qVIMELrZoY]{アサマル}</em></p>"
     },
     "Vanara": {
-      "name": "Vanara",
-      "description": "<p>Vanaras are inquisitive and mischievous monkey-like humanoids with short, soft fur, expressive eyes, and long, prehensile tails. Their handlike feet and agile builds serve them well in the jungle realms where most vanaras live.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.40koksC576nYV2Tf]{Vanara}</p>"
+      "name": "ヴァナラ/Vanara",
+      "description": "<p>ヴァナラは、短く柔らかい毛、表情豊かな目、そして長く物を掴める尾を持つ、好奇心旺盛でいたずら好きなサルに似たヒューマノイドである。彼らの手のような足とアジャイルな体格は、ほとんどのヴァナラが住む密林の領域で彼らにとって大いに役立っている。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.40koksC576nYV2Tf]{ヴァナラ}</p>"
     },
     "Gnome": {
-      "name": "Gnome",
-      "description": "<p><em>Long ago, early gnome ancestors emigrated from the First World, realm of the fey. While it's unclear why the first gnomes wandered to Golarion, this lineage manifests in modern gnomes as bizarre reasoning, eccentricity, obsessive tendencies, and what some see as naivete. These qualities are further reflected in their physical characteristics, such as spindly limbs, brightly colored hair, and childlike and extremely expressive facial features that further reflect their otherworldly origins.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.qIu10HByKeRaPPvD]{Gnome}</em></p>"
+      "name": "ノーム/Gnome",
+      "description": "<p><em>遠い昔、初期のノームの祖先は、フェイの領域であるファースト・ワールドから移住してきた。最初のノームたちがなぜゴラリオンへ彷徨い込んできたのかは不明だが、この系譜は現代のノームにおいて、奇妙な論理、風変わりさ、強迫的な傾向、そして一部には世間知らずと見なされるものとして現れている。これらの性質は、彼らの身体的特徴にもさらに反映されており、例えば、細い手足、鮮やかな色の髪、そして彼らの異世界の起源をさらに反映する、子供のようで非常に表情豊かな顔立ちなどが挙げられる。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.qIu10HByKeRaPPvD]{ノーム}</em></p>"
     },
     "Yaoguai": {
-      "name": "Yaoguai",
-      "description": "<p><em>Yaoguai usually begin as simple animals, plants, or objects before finding a way to awaken to sapience, becoming strange shapeshifting creatures in the process. Often originating from an infusion of ambient energy into their original form, yaoguai attain their powers through training their innate magic. Taking care not to expose their true appearance and nature, yaoguai of the same origins or species sometimes form enclaves in which they dedicate their lives to honing their powers or engaging in hedonistic pursuits—though the two aren't mutually exclusive. Yaoguai who lack a solid community, meanwhile, feel compelled to cultivate themselves until they transcend their origin, which might allow them to join society and experience a new kind of freedom.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.OlqTCYZK9sBDeuKf]{Yaoguai}</em></p>",
-      "rules": [
-        {
-          "key": "RollOption",
-          "label": "PF2E.NPCAbility.ChangeShape.Label"
-        },
-        {
-          "key": "ItemAlteration"
-        },
-        {
-          "key": "ItemAlteration"
-        },
-        {
-          "key": "ItemAlteration"
-        },
-        {
-          "key": "アイテム付与"
-        }
-      ]
+      "name": "ヤオグアイ/Yaoguai",
+      "description": "<p><em>ヤオグアイは、通常は単純な動物、植物、あるいは物体として始まり、やがて知性を覚醒させる方法を見つけ出し、その過程で奇妙な姿を変えるクリーチャーとなる。多くの場合、本来の形態に周囲のエネルギーが注入されることに端を発し、ヤオグアイは自身の生来の魔法を訓練することで力を得る。ヤオグアイは自身の真の姿や本性をさらさないよう注意を払い、同じ起源や種族を持つヤオグアイは時に飛地を形成し、そこで力を磨くことや快楽的な追求に人生を捧げる――もっとも、この2つは相互に排他的なものではない。一方、強固なコミュニティを持たないヤオグアイは、自身の起源を超越するまで自己を研鑽しなければならないという衝動に駆られる。それができれば、社会に加わり、新たな種類の自由を経験できるかもしれない。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.OlqTCYZK9sBDeuKf]{ヤオグアイ}</em></p>"
     },
     "Kashrishi": {
-      "name": "Kashrishi",
-      "description": "<p>Kashrishi make their homes in remote areas of the world. These quiet beings have stout, durable frames and distinctive crystalline horns. Their inherent psychic abilities make them natural empaths but also occasionally burden them with the unceasing thoughts of their neighbors.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.IJOH7nk0w1IybAhp]{Kashrishi}</p>"
+      "name": "カシュリシ/Kashrishi",
+      "description": "<p>カシュリシは世界の辺境に住処を構える。これらの静かな存在は、頑丈で耐久性のある体格と特徴的な結晶質の角を持つ。彼らの生来のサイキック能力は彼らを天性の共感者にするが、同時に隣人の絶え間ない思考によって時折彼らに重荷を負わせることもある。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.IJOH7nk0w1IybAhp]{カシュリシ}</p>"
     },
     "Merfolk": {
-      "name": "Merfolk",
-      "description": "<p>Merfolk live in every ocean of Golarion, infinite in their variety and awe-inspiring in their majesty. They consider themselves, not without some merit, the rulers of the sea. Among the tropical reefs of the Fever Sea, merfolk build temples and palaces of brightly colored corals. Beneath the ice floes of the Shining Sea, merfolk hunt seals and whales for food in small, standoffish clans. In the Embaral Ocean, merfolk populate the great trading city of Alohmab, built into the shell of a titanic snail that crawls across the ocean floor.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.9hcAMLgnCAKkuyH6]{Merfolk}</em></p>",
-      "rules": [
-        {
-          "key": "BaseSpeed"
-        }
-      ]
+      "name": "マーフォーク/Merfolk",
+      "description": "<p>マーフォークはゴラリオンのあらゆる大洋に生息しており、その多様性は無限で、その威厳は畏敬の念を抱かせる。彼らは、ある程度の根拠がないわけではないが、自分たちこそが海の支配者であると考えている。フィーヴァー海の熱帯サンゴ礁の間で、マーフォークは色鮮やかなサンゴで寺院や宮殿を築く。シャイニング海の流氷の下では、マーフォークは食料としてアザラシやクジラを狩る小さな、よそよそしい氏族を形成している。エンバラル大洋では、マーフォークは海底を這う巨大なカタツムリの殻の中に築かれた偉大な交易都市アロームアブに住んでいる。</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.9hcAMLgnCAKkuyH6]{マーフォーク}</em></p>"
     },
     "Fleshwarp": {
-      "name": "Fleshwarp",
-      "description": "<p><em>Fleshwarps are people whose forms were created or radically transformed by magic, alchemy, or unnatural energies. Their unorthodox appearance can make it difficult for them to find a place for themselves in the world.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.vTB1bTYVE4onyyy1]{Fleshwarp}</em></p>",
-      "rules": [
-        {
-          "key": "ChoiceSet",
-          "prompt": "PF2E.SpecificRule.Prompt.CreatureSize"
-        },
-        {
-          "key": "CreatureSize"
-        }
-      ]
+      "name": "フレッシュワープ/Fleshwarp",
+      "description": "<p><em>フレッシュワープとは、魔法、錬金術、あるいは不自然なエネルギーによってその形態が創造された、あるいは根本的に変容させられた人々である。彼らの異端的な外見は、彼らが世界で自分の居場所を見つけることを困難にすることがある。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.vTB1bTYVE4onyyy1]{フレッシュワープ}</em></p>"
     },
     "Jotunborn": {
-      "name": "Jotunborn",
-      "description": "<p><em>According to their oldest stories, the first jotunborn were the direct creations of the earliest gods. Having just completed the majority of the creation of Golarion, these gods created several groups of people to act as stewards for this new world. Among these groups were jotunborn, beings who were formed from the remains of titans who dared rebel against the gods in the earliest days of existence. Rather than give jotunborn the full power they gave the titans, the gods instead instilled the first jotunborn with the faintest spark of creation and gave them slighter forms. These new servitors would be just as capable at helping to shape the rest of Golarion but would also be weaker and easier to strike down should they rebel like their progenitors.</em></p>"
+      "name": "ヨトゥンボーン/Jotunborn",
+      "description": "<p><em>彼らの最も古い物語によれば、最初のヨトゥンボーンは最も初期の神々による直接の創造物であった。ゴラリオンの創造の大半を終えたばかりのこれらの神々は、この新しい世界の管理者として行動させるためにいくつかの種族を創造した。これらのグループの中にヨトゥンボーンがいた。彼らは、存在の最初期に神々に反逆を企てたタイタンの残骸から形成された存在である。神々はヨトゥンボーンにタイタンに与えたような完全な力を与えるのではなく、最初のヨトゥンボーンに創造の微かな火花を吹き込み、より小さな形態を与えた。これらの新しい奉仕者は、ゴラリオンの残りの部分を形作る手助けをする能力は同等だが、彼らの祖先のように反逆した場合でも、より弱く、打ち倒しやすい存在となるはずであった。</em></p>"
     },
     "Android": {
-      "name": "Android",
-      "description": "<p><em>別の世界からの技術的驚異であるアンドロイドは、合成の身体と生きた魂を持つ。二重の性質により機転が利き、プレッシャーの下でも冷静だが、静けさや孤独の中では落ち着くことを好む。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.dyusFHHyaQOaQhZ0]{Android}</em></p>"
+      "name": "アンドロイド/Android",
+      "description": "<p><em>異世界からの技術的驚異であるアンドロイドは、合成の肉体と生きた魂を持っている。彼らの二重の性質は、彼らを素早い思考と圧力の下でも冷静でいられるようにするが、静寂と孤独の中で快適さを感じさせる。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.dyusFHHyaQOaQhZ0]{アンドロイド}</em></p>"
     },
     "Awakened Animal": {
-      "name": "Awakened Animal",
-      "description": "<p>You once enjoyed the simple and boundless pleasures of nature with an innocent, uncluttered mind. You lived from moment to moment, never questioning what comes next or pondering the ramifications of what happened before. You were at one with the wild. Then came the event that changed everything. You drank from a glowing lake, someone pulled a magical prank, a druid sought to elevate your mind. You were pulled out of the present moment of the wild and into a land of thought.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.jX3VHEFgpqqUy0aP]{Awakened Animal}</em></p>",
-      "rules": [
-        {
-          "key": "ChoiceSet",
-          "prompt": "PF2E.SpecificRule.Prompt.CreatureSize"
-        },
-        {
-          "key": "CreatureSize"
-        },
-        {
-          "key": "ActiveEffectLike"
-        },
-        {
-          "key": "BaseSpeed"
-        }
-      ]
+      "name": "覚醒した動物/Awakened Animal",
+      "description": "<p>あなたはかつて、無垢で整理されていない心で、自然の単純で無限の喜びを享受していた。あなたは次に来ることを疑問に思ったり、以前に起こったことの余波を熟考したりすることなく、瞬間瞬間を生きていた。あなたは野生と一体であった。そして、すべてを変える出来事が起こった。あなたは輝く湖の水を飲み、誰かが魔法の悪戯をし、ドルイドがあなたの精神を高めようとした。あなたは野生の現在の瞬間から引きずり出され、思考の国へと連れ込まれた。</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.jX3VHEFgpqqUy0aP]{覚醒した動物}</em></p>"
     },
     "Halfling": {
-      "name": "Halfling",
-      "description": "<p><em>Claiming no place as their own, halflings control few settlements larger than villages. Instead, they frequently live among humans within the walls of larger cities, carving out small communities alongside taller folk. Many halflings lead perfectly fulfilling lives in the shadows of their larger neighbors, while others prefer a nomadic existence, traveling the world and taking advantage of opportunities and adventures as they come.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.voI7uPS9vsG74JIn]{Halfling}</em></p>"
+      "name": "ハーフリング/Halfling",
+      "description": "<p><em>自分たちの場所を主張しないハーフリングは、村よりも大きな集落をほとんど支配していない。その代わり、彼らはしばしばより大きな都市の壁の中で人間と共に暮らし、背の高い人々と並んで小さなコミュニティを築いている。多くのハーフリングは、より大きな隣人の影で完全に充実した生活を送っているが、一方で遊牧生活を好み、世界を旅しながら機会や冒険が訪れるたびにそれを活用する者もいる。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.voI7uPS9vsG74JIn]{ハーフリング}</em></p>"
     },
     "Strix": {
-      "name": "Strix",
-      "description": "<p><em>Known as itarii in their own language, strix are reclusive avian humanoids devoted to their homelands and their tribes. They defend their precious communities with broad wingspans and razor talons.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.N8aShsDuf3ur0vZ2]{Strix}</em></p>"
+      "name": "ストリクス/Strix",
+      "description": "<p><em>彼ら自身の言語でイタリイとして知られるストリクスは、故郷と部族に献身的な、人里離れた鳥人のヒューマノイドである。彼らは広い翼幅と鋭い鉤爪で、自分たちの貴重なコミュニティを〈防御態勢〉をとる。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.N8aShsDuf3ur0vZ2]{ストリクス}</em></p>"
     },
     "Fetchling": {
-      "name": "Fetchling",
-      "description": "<p><em>かつて人間であり、今は別種となったフェッチリングは、単色の肌、光る眼、そして超自然的な影の投影を通じて、シャドウ 平面の古い影響を示している。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.RlMgeku1FNJjF7YR]{Fetchling}</em></p>",
-      "rules": [
-        {
-          "key": "ActiveEffectLike"
-        }
-      ]
+      "name": "フェッチリング/Fetchling",
+      "description": "<p><em>かつては人間であり、今は何か別の存在となったフェッチリングは、モノクロームの顔色、輝く瞳、そして超自然的な影を落とすことによって、シャドウの次元の古代の影響を示している。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.RlMgeku1FNJjF7YR]{フェッチリング}</em></p>"
     },
     "Lizardfolk": {
-      "name": "Lizardfolk",
-      "description": "<p><em>Lizardfolk are consummate survivors, heirs to empires considered ancient even by the elves.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.cbLJs37Nc8FveriK]{Lizardfolk}</em></p>"
+      "name": "リザードフォーク/Lizardfolk",
+      "description": "<p><em>リザードフォークは生粋の生存者であり、エルフでさえ古代のものと見なす帝国の継承者である。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.cbLJs37Nc8FveriK]{リザードフォーク}</em></p>"
     },
     "Tripkee": {
-      "name": "Tripkee",
-      "description": "<p><em>Tripkees are a shy and cautious people who generally seek to avoid being drawn into the affairs of others. Despite their cautious outlook and small stature, adventurous tripkees still take bold and noble action when the situation demands it.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.FhIJtKcINEe7fipX]</p>"
+      "name": "トリプキー/Tripkee",
+      "description": "<p><em>トリプキーは内気で慎重な種族であり、概して他者の事柄に巻き込まれることを避けようとする。慎重な見通しと小柄な体格にもかかわらず、冒険心のあるトリプキーは状況がそれを要求するときには、依然として大胆かつ高潔な行動をとる。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.FhIJtKcINEe7fipX]</p>"
     },
     "Human": {
-      "name": "Human",
-      "description": "<p><em>As unpredictable and varied as any of Golarion's peoples, humans have exceptional drive and the capacity to endure and expand. Though many civilizations thrived before humanity rose to prominence, humans have built some of the greatest and the most terrible societies throughout the course of history, and today they are the most populous people in the realms around the Inner Sea.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.7pU8yM7yPMw92SY3]{Human}</em></p>"
+      "name": "人間/Human",
+      "description": "<p><em>ゴラリオンのどの種族とも同じく予測不可能で多様な人間は、並外れた意欲と、耐え抜き拡大する能力を有している。人類が台頭する以前にも多くの文明が繁栄していたが、人間は歴史を通じて最も偉大かつ最も恐ろしい社会のいくつかを築き上げてきており、今日では内海周辺の領域において最も人口の多い種族となっている。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.7pU8yM7yPMw92SY3]{人間}</em></p>"
     },
     "Nagaji": {
-      "name": "ナガジ",
-      "description": "<p>With humanoid figures and serpentine heads, nagaji are heralds, companions, and servitors of powerful nagas. They hold a deep reverence for holy areas and spiritual truths, an aspect many others find as intimidating as a nagaji's appearance.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.TlTIwW61zK0dk95v]{Nagaji}</p>"
+      "name": "ナガジ/Nagaji",
+      "description": "<p>人型に近い姿と蛇のような頭部を持つナガジは、強力なナーガの使者であり、仲間であり、従者である。彼らはホーリーな場所と精神的な真理に対して深い崇敬の念を抱いており、その側面は、ナガジの外見と同じくらい威圧的であると他の多くの者には感じられている。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.TlTIwW61zK0dk95v]{ナガジ}</p>"
     },
     "Yaksha": {
-      "name": "Yaksha",
-      "description": "<p><em>Away from shining citadels and opulent palaces, reticent yakshas shelter Tian Xia's rural hinterlands from natural disasters and otherworldly depredations. Famed for resolute vows and prowess with primal magic, yakshas shield the indigent and protect the wilderness, punishing those who threaten either with bone-crushing fury. Yaksha legends recall their origins as divine spirits, overseeing the safety of roads and abodes in a primeval world of vast storm forests and titanic flame floods—the First World, a realm of boundless potentiality. During the Great Abandonment, when the gods left the First World, many yakshas rejected this exodus, instead staying to perform their duties as caretakers. Despite the realm's sudden dearth of divine power, the remaining yakshas swore primordial vows, allowing them to channel power from the nearby Creation's Forge into primal magic and transform swathes of the metamorphic First World into stable regions to provide refuge for destitute fey.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.f6IU2EGcJUzVZ4nD]{Yaksha}</em></p>"
+      "name": "ヤクシャ/Yaksha",
+      "description": "<p><em>輝く城塞や豪華な宮殿から離れた場所で、寡黙なヤクシャはティエン・シアの田舎の辺境を自然災害や異界からの略奪から守っている。確固たる誓いとプライマル・マジックの腕前で知られるヤクシャは、困窮する者を守り、荒野を保護し、そのいずれかを脅かす者を骨を砕くような怒りで罰する。ヤクシャの伝説は、彼らの起源が神聖な精霊であり、広大な嵐の森と巨大な炎の洪水に満ちた原始の世界――無限の可能性を秘めた領域である「第一世界」――において、道路と住居の安全を監督していたことを伝えている。神々が第一世界を去った「大いなる放棄」の間、多くのヤクシャはこの脱出を拒否し、代わりに留まって世話人としての義務を果たした。その領域から神の力が突然失われたにもかかわらず、残ったヤクシャは原始の誓いを立て、それによって近くにある「創造の鍛冶場」から力を引き出してプライマル・マジックへと変え、変成する第一世界の一帯を安定した地域へと変えることで、困窮したフェイに避難場所を提供した。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.f6IU2EGcJUzVZ4nD]{Yaksha}</em></p>"
     },
     "Automaton": {
-      "name": "Automaton",
-      "description": "<p><em>These intelligent constructs house actual souls and represent what remains of a dying empire's last attempt at greatness. Automatons combine technological ingenuity with magical power, creating a blended being wholly unique to Golarion.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.rsx8cRI20oEDgfQh]{Automaton}</p>",
-      "rules": [
-        {
-          "key": "ChoiceSet",
-          "prompt": "PF2E.SpecificRule.Prompt.CreatureSize"
-        },
-        {
-          "key": "CreatureSize"
-        },
-        {
-          "key": "ActiveEffectLike"
-        }
-      ]
+      "name": "オートマトン/Automaton",
+      "description": "<p><em>これらの知性ある構造体は実際の魂を宿しており、滅びゆく帝国の最後の偉大さへの試みの名残を体現している。オートマトンは技術的な創意工夫と魔法の力を組み合わせ、ゴラリオンにおいて完全に唯一無二の融合した存在を生み出している。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.rsx8cRI20oEDgfQh]{オートマトン}</p>"
     },
     "Samsaran": {
-      "name": "Samsaran",
-      "description": "<p><em>Samsarans, as the tale goes, originated with a group of scholars in Zi Ha who ventured into the mountains to find the cure for an illness ravaging their village. After weeks of peril, they found a freshwater spring filled with pure magical life essence. This water brought the scholars back from the brink of death and cured the villagers. Given a new chance at life, everyone who drank the water devoted the rest of their life to learning and experiencing the world fully. Upon death, this devotion, combined with the magical essence now infused in their bodies, transformed these people into the first samsarans.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.pwrptby8NB54A6HQ]{Samsaran}</em></p>"
+      "name": "サムサラン/Samsaran",
+      "description": "<p><em>伝承によれば、サムサランはジー・ハの学者の一団から始まった。彼らは村を荒らす病の治療法を見つけるために山へ冒険に出た。数週間の危険な旅の末、彼らは純粋な魔法の生命の精髄で満たされた真水の泉を見つけた。この水は学者たちを死の淵から引き戻し、村人たちを治癒した。新たな人生の機会を与えられたことで、その水を飲んだ者は皆、残りの人生を学び、世界を完全に経験することに捧げた。死に際して、この献身が彼らの体に注入された魔法の精髄と結びつき、これらの人々を最初のサムサランへと変えたのである。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.pwrptby8NB54A6HQ]{サムサラン}</em></p>"
     },
     "Orc": {
-      "name": "Orc",
-      "description": "<p><em>Orcs are forged in the fires of violence and conflict, often from the moment they are born. As they live lives that are frequently cut brutally short, orcs revel in testing their strength against worthy foes, whether by challenging a higher-ranking member of their community for dominance or raiding a neighboring settlement. Many orcs seek glory as soon as they can walk and carry a blade or club, taming wild beasts or hunting deadly monsters.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.GCxhDyf1ZNlLiDKZ]{Orc}</em></p>"
+      "name": "オーク/Orc",
+      "description": "<p><em>オークは暴力と紛争の炎の中で鍛えられており、多くの場合、生まれた瞬間からそうである。彼らはしばしば残酷に短く切り詰められた人生を送るため、オークは価値ある敵に対して自らの力を試すことに喜びを見出す。それは、支配権を求めてコミュニティの上位のメンバーに挑戦することであれ、近隣の入植地を襲撃することであれ同様である。多くのオークは歩いて刃物や棍棒を運べるようになるとすぐに、野生の獣を飼いならしたり、デッドリーなモンスターを狩ったりして、栄光を求める。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.GCxhDyf1ZNlLiDKZ]{Orc}</em></p>"
     },
     "Ratfolk": {
-      "name": "Ratfolk",
-      "description": "<p><em>Ysoki are beings that most surface-dwelling humanoids refer to as \"ratfolk.\" They are a communal people who prefer cramped conditions, with up to 100 individuals living in a given home. If they can't find homes in town, ratfolk may instead live in caves and cavern complexes, as these provide great storage for the many and varied goods they bring back from trading expeditions.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.zoSkNev57C8OEDYL]{Ratfolk}</p>"
+      "name": "ラットフォーク/Ratfolk",
+      "description": "<p><em>イソキは、地表に住むヒューマノイドのほとんどが「ラットフォーク」と呼ぶ存在である。彼らは狭苦しい環境を好む共同体的な種族であり、1つの住居に最大100人もの個体が暮らしている。町に住居を見つけられない場合、ラットフォークは代わりに洞窟や大洞窟の複合体に住むことがある。これらは彼らが交易の遠征から持ち帰る多種多様な品々の素晴らしい保管場所となるからである。</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.zoSkNev57C8OEDYL]{ラットフォーク}</p>"
     },
     "Elf": {
-      "name": "Elf",
-      "description": "<p><em>古代の民であるエルフは大きな変化を見てきて、歴史の弧を見守ることでしか得られない視点を持つ。古代に世界を離れた後、変わった土地へ戻り、今も先祖の地を取り戻そうと苦闘している。特にその土地の一部に侵入した恐るべき悪魔たちからの奪還に悩んでいる者が多い。ある者にはエルフは畏敬の対象であり――優雅で美しく、並外れた才能と知識を持つ存在だ。しかしエルフ自身の間では、これらの理想に応えることよりも個人の自由をはるかに重んじている。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.3cfdiId1IoxLsF9V]{Elf}</em></p>"
+      "name": "エルフ/Elf",
+      "description": "<p><em>古代の民であるエルフは、大きな変化を目の当たりにしてきており、歴史の弧を見守ることでしか得られない視点を持っている。古代に世界を去った後、彼らは変化した土地へと戻ってきたが、今もなお、彼らの祖先の故郷を取り戻そうと苦闘している。その最たるものが、彼らの土地の一部に侵攻してきた恐ろしいデーモンたちである。ある者にとって、エルフは畏敬の対象である――優雅で美しく、計り知れない才能と知識を持っているからだ。しかしエルフ自身の間では、こうした理想に従って生きることよりも、個人の自由の方がはるかに重要視されている。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.3cfdiId1IoxLsF9V]{エルフ}</em></p>"
     },
     "Tanuki": {
-      "name": "タヌキ",
-      "description": "<p><em>Tian Xia is replete with magically gifted ancestries—such as tengu, kitsune, yakshas, and yaoguai—whose powers bring them high regard and who, in turn, use their gifts for responsible ends. Tanuki aren't one of these ancestries. Instead, the shapeshifting raccoon dog–like humanoids use their powers of illusion and transformation in ways more people should: for fun! Tanuki delight in pranks and practical jokes, especially those that allow them to take the high and mighty down a notch and show them what life is like for everyone else. Where other peoples take pride in their storied histories, noble traditions, or intricate ceremonies, tanuki take pride in their simplicity and disregard for the world's many rules. Though some might claim this outlook reduces tanuki to uncouth rubes, tanuki feel it makes them more cultured; after all, one must know a rule to bend it, and one must understand a norm to break it.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.I1uEGrIhe4zLs8Ei]{Tanuki}</em></p>",
-      "rules": [
-        {
-          "key": "GrantItem"
-        },
-        {
-          "key": "RollOption",
-          "label": "PF2E.NPCAbility.ChangeShape.Label"
-        },
-        {
-          "key": "ItemAlteration"
-        },
-        {
-          "key": "ItemAlteration"
-        },
-        {
-          "key": "ItemAlteration"
-        }
-      ]
+      "name": "タヌキ/Tanuki",
+      "description": "<p><em>ティエン・シアは、テング、キツネ、ヤクシャ、ヤオグアイといった、魔法の才能を持つ種族であふれている。彼らの力は高い評価をもたらし、彼らはその力を責任ある目的のために用いる。タヌキは、こうした種族の一つではない。それどころか、この姿を変えるタヌキのような人型生物は、幻術と変身の力を、もっと多くの人がそうすべき方法、つまり「楽しみ」のために使うのだ！タヌキは悪戯やドッキリを好み、特に高慢な連中を少し懲らしめて、他の誰もがどのような生活を送っているかを思い知らせるようなものを好む。他の種族がその物語に彩られた歴史や高貴な伝統、複雑な儀式に誇りを持っているのに対し、タヌキは自分たちの単純さと、世界の多くのルールを無視することに誇りを持っている。この考え方はタヌキを無作法な田舎者にしてしまうと主張する者もいるかもしれないが、タヌキはそれこそが自分たちをより洗練されたものにしていると感じている。結局のところ、ルールを曲げるにはルールを知らなければならず、規範を破るには規範を理解していなければならないのだ。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.I1uEGrIhe4zLs8Ei]{タヌキ}</em></p>"
     },
     "Hobgoblin": {
-      "name": "ホブゴブリン",
-      "description": "<p><em>Taller and stronger than their goblin kin, hobgoblins are equals in strength and size to humans, with broad shoulders and long, powerful arms.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.DuWzeY4zugKFFthl]{Hobgoblin}</em></p>"
+      "name": "ホブゴブリン/Hobgoblin",
+      "description": "<p><em>ゴブリンの同族よりも背が高く強靭なホブゴブリンは、幅の広い肩と長く力強い腕を持ち、強さと体格において人間と対等である。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.DuWzeY4zugKFFthl]{Hobgoblin}</em></p>"
     },
     "Centaur": {
-      "name": "Centaur",
-      "description": "<p>Centaurs are proud nomads who range far and wide across their ancestral territories, protecting their lands from exploitation and intrusion. They are survivalists who forge tight bonds with family and community and stand firm in the face of danger. Many are skilled hunters, trackers, and warriors who do battle with bow, steel, and hooves. Brave and stubborn, they're willing to challenge even the fiercest foes and largest forces to protect their homes, kin, and the land within their domain.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.AhKqWjsodDXRUelE]{Centaur}</em></p>"
+      "name": "ケンタウロス/Centaur",
+      "description": "<p>ケンタウロスは誇り高き遊牧民であり、祖先の領土を広く駆け巡り、搾取や侵入から土地を守っている。彼らは家族やコミュニティと強い絆を築き、危険に直面しても毅然と立ち向かうサバイバリストである。彼らの多くは熟練した狩人、追跡者、戦士であり、弓、鋼の武器、そして蹄を用いて戦う。勇敢で頑固な彼らは、故郷、同族、そして自分たちの領域内の土地を守るためであれば、最も獰猛な敵や巨大な軍勢にさえ挑む覚悟がある。</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.AhKqWjsodDXRUelE]{Centaur}</em></p>"
     },
     "Shoony": {
-      "name": "Shoony",
-      "description": "<p><em>Diminutive humanoids who resemble squat, bipedal dogs, shoonies are sometimes mistaken for weak and insular pacifists. However, their sheer perseverance, incredible work ethic, and resourceful use of diplomacy make shoonies far from helpless.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.j2hOTtHcdu2SA8Ha]{Shoony}</em></p>"
+      "name": "シューニー/Shoony",
+      "description": "<p><em>ずんぐりとした二足歩行の犬に似た小柄な人型生物であるシューニーは、時に弱く閉鎖的な平和主義者と誤解されることがある。しかし、彼らの純然たる忍耐力、信じられないほどの労働倫理、そして外交における機知に富んだ活用は、シューニーを決して無力な存在ではないものにしている。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.j2hOTtHcdu2SA8Ha]{Shoony}</em></p>"
     },
     "Goblin": {
-      "name": "Goblin",
-      "description": "<p><em>The convoluted histories other people cling to don't interest goblins. These small folk live in the moment, and they prefer tall tales over factual records. The wars of a few decades ago might as well be from the ancient past. Misunderstood by other people, goblins are happy how they are. Goblin virtues are about being present, creative, and honest. They strive to lead fulfilled lives, rather than worrying about how their journeys will end. To tell stories, not nitpick the facts. To be small, but dream big.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.Gn0XGCWDb0N4zLE0]{Goblin}</em></p>"
+      "name": "ゴブリン/Goblin",
+      "description": "<p><em>他の人々が固執する複雑な歴史は、ゴブリンの興味を引かない。この小さな人々は「今」を生きており、事実の記録よりもほら話を好む。数十年前の戦争など、古代の過去の出来事も同然だ。他の人々から誤解されているが、ゴブリンは今のままで幸せなのだ。ゴブリンの美徳とは、今この場にいること、創造的であること、そして正直であることだ。彼らは旅がどのように終わるかを心配するよりも、充実した人生を送ることに努めている。事実をあげつらうのではなく、物語を語ること。小さくても、大きな夢を見ること。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.Gn0XGCWDb0N4zLE0]{Goblin}</em></p>"
     },
     "Anadi": {
-      "name": "Anadi",
-      "description": "<p><em>Anadi people are reclusive, sapient spiders who hail from the jungles of southern Garund. Though they act in many ways like natural-born shapeshifters, their twin forms actually stem from carefully developed magic.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.9dpHTBpL3j8ZpqTS]{Anadi}</em></p>",
-      "rules": [
-        {
-          "key": "RollOption",
-          "label": "PF2E.NPCAbility.ChangeShape.Label"
-        },
-        {
-          "key": "RollOption"
-        },
-        {
-          "key": "ItemAlteration"
-        },
-        {
-          "key": "GrantItem"
-        }
-      ]
+      "name": "アナディ/Anadi",
+      "description": "<p><em>アナディは、ガルンド南部ジャングル出身の、人里離れて暮らす知性あるクモである。彼らは生まれつきのシェイプシフターのように振る舞うことが多いが、その二つの姿は実際には注意深く開発された魔法に由来している。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.9dpHTBpL3j8ZpqTS]{アナディ}</em></p>"
     },
     "Sprite": {
-      "name": "Sprite",
-      "description": "<p><em>Sprites are diminutive, whimsical, and exuberant creatures from the fey realm known as the First World. They love playing pranks, exploring new things, and embracing everything to do with magic.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.rvbMGyBr6y5K7HDP]{Sprite}</em></p>"
+      "name": "スプライト/Sprite",
+      "description": "<p><em>スプライトは、「第一世界」として知られるフェイの領域出身の、小柄で風変わり、そして陽気なクリーチャーである。彼らは悪戯をすること、新しいものを探検すること、そして魔法に関することすべてを受け入れることを愛している。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.rvbMGyBr6y5K7HDP]{スプライト}</em></p>"
     },
     "Ghoran": {
-      "name": "Ghoran",
-      "description": "<p>長く前に死んだドルイドによって創られたこれらの知性的な植物人間は、種を通じて一種の不死性を持つ――ただしその種が単なる時の経過以外の外的事象によって破壊された場合を除く。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.kRjkrWAqQNXj3LLP]{Ghoran}</p>"
+      "name": "ゴーラン/Ghoran",
+      "description": "<p>かつて死んだドルイドによって生み出されたこれらの知性ある植物の民は、その種子を通じてある種の不死性を有している――ただし、単なる時の経過以外の外的要因によって破壊されない限りにおいて。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.kRjkrWAqQNXj3LLP]{ゴーラン}</p>"
     },
     "Conrasu": {
-      "name": "コンラス",
-      "description": "<p><em>Conrasus are shards of cosmic force given consciousness who construct intricate exoskeletons to interface with the mortal world. Both an integral part of the underlying processes of the universe and strangely set apart, conrasus look to aeons to understand their existence.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.ufWdokSN5W3Einus]{Conrasu}</em></p>",
-      "rules": [
-        {
-          "key": "〔ストライク〕",
-          "label": "PF2E.BattleForm.Attack.Claw"
-        },
-        {
-          "key": "〔ストライク〕",
-          "label": "PF2E.BattleForm.Attack.Branch"
-        }
-      ]
+      "name": "コンラス/Conrasu",
+      "description": "<p><em>コンラスは意識を与えられた宇宙の力の破片であり、定命の世界と関わるために複雑な外骨格を構築する。宇宙の根底にあるプロセスの不可欠な一部でありながら、奇妙なほど隔絶した存在であるコンラスは、自分たちの存在を理解するために永劫の時を見つめている。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.ufWdokSN5W3Einus]{Conrasu}</em></p>"
     },
     "Vishkanya": {
-      "name": "ヴィシュカーニャ",
-      "description": "<p>Vishkanyas are ophidian humanoids who carry potent venom within their blood and saliva. Largely misunderstood due to old tales of their toxicity and natural finesse, vishkanyas work to grow into more than just what stories paint them to be.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.1lCAkGgIYYkczZ28]{Vishkanya}</p>"
+      "name": "ヴィシュカニャ/Vishkanya",
+      "description": "<p>ヴィシュカニャは蛇のような人型生物であり、その血液と唾液の中に強力な毒を宿している。彼らの毒性と生まれ持ったフィネスに関する古い物語のせいで大きく誤解されているが、ヴィシュカニャは物語が彼らを描く以上の存在へと成長しようと努めている。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.1lCAkGgIYYkczZ28]{Vishkanya}</p>"
     },
     "Kholo": {
-      "name": "Kholo",
-      "description": "<p><em>Kholo have bad reputations as brutal raiders and demon-worshipers. Many believe that kholo are witches, cannibals, and worse. The truth is more complex. Kholo are eminently practical and pragmatic hunters and raiders. To them, honor is just another word for pointless risk. Any loss of a kholo affects not just the individual, but their packmates and kin as well. Wasting time on anything but victory, whether it's mercy or cruelty, is seen as little shy of immoral. Kholo are masters of ambushes, tactical feints, and psychological warfare. Equally misunderstood is the kholo practice of ancestor worship and endocannibalism. Kholo consume their dead as a sign of reverence, holding a grand feast and transforming the bones into art or weapons. Kholo extend this honor to respected foes, hoping to bring their enemy's cunning or strength into the clan.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.xBV8oGvecw7abZxc]</em></p>"
+      "name": "コロ/Kholo",
+      "description": "<p><em>コロは、ブルータルな略奪者やデーモン崇拝者として悪評高い。多くの者は、コロは魔女であり、人食いであり、それ以上の存在だと信じている。真実はもっと複雑だ。コロは極めて実用的かつ現実的な狩人であり、略奪者である。彼らにとって、名誉とは無意味な危険を指す別の言葉に過ぎない。コロの損失は、その個体だけでなく、彼らの群れの仲間や親族にも影響を及ぼす。慈悲であれ残虐行為であれ、勝利以外のことに時間を浪費することは、不道徳に近いと見なされる。コロは待ち伏せ、戦術的なフェイント、心理戦の達人である。同様に誤解されているのが、コロの祖先崇拝と内食の習慣である。コロは敬意の印として死者を食し、盛大な宴を開き、骨を芸術品や武器へと変える。コロはこの名誉を尊敬する敵にも広げ、敵の狡猾さや強さを一族に取り込もうとする。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.xBV8oGvecw7abZxc]</em></p>"
     },
     "Shisk": {
-      "name": "Shisk",
-      "description": "<p><em>Shisks are secretive mountain-dwellers, bone-feathered humanoids who lurk underground in dark tunnels and caverns. Their fascination with collecting and protecting esoteric knowledge is one of the few things that can persuade them to explore the outside world.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.qsbc1ZLCWzfl1sfZ]{Shisk}</em></p>"
+      "name": "シスク/Shisk",
+      "description": "<p><em>シスクは秘密主義の山岳居住者であり、暗いトンネルや洞窟の地下に潜む、骨のような羽毛を持つ人型生物である。難解な知識を収集し保護することへの彼らの執着は、彼らに外界を探索するよう説得できる数少ない事柄の1つである。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.qsbc1ZLCWzfl1sfZ]{Shisk}</em></p>"
     },
     "Azarketi": {
-      "name": "アザルケティ",
-      "description": "<p>Azarketis, inheritors of a shattered empire's legacy, hold their proud traditions close but still surface to interact with the rest of the world.</p>\n<p>The aquatic humanoids of the Inner Sea share a somber and burdened history. Most refer to these aquatic peoples as gillmen or sometimes Low Azlanti, though they typically refer to themselves as azarketi, an Azlanti word that translates roughly to \"people of the seas.\" After Earthfall, these proud humans were mutated into aquatic servants by their alghollthu foes. Feeling like they don't fully belong with their human brethren nor with the sea that binds them, many azarketis struggle for a sense of identity and purpose. Though they remain distrusted by the surface dwellers, azarketis celebrate their unique lineage and their descent from the venerated Azlanti culture.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.SNhp04cirQnnBTbb]{Azarketi}</p>"
+      "name": "アザルケティ/Azarketi",
+      "description": "<p>アザルケティは、崩壊した帝国のレガシーを受け継ぐ者であり、誇り高き伝統を大切にしているが、それでも世界の他の地域と〈扱う〉ために地上へ出てくる。</p>\n<p>内海の〈水棲〉人型生物は、陰鬱で重苦しい歴史を共有している。多くの者はこれらの〈水棲〉の民をギルマンや時にはロウ・アズランティと呼ぶが、彼ら自身は通常、アザルケティと自称する。これは「海の民」と訳されるアズランティ語である。アースフォールの後、これらの誇り高き人間は、敵であるアルゴルスによって〈水棲〉の召使いへと変異させられた。彼らは人間の同胞にも、自分たちを縛る海にも完全には属していないと感じており、多くのアザルケティはアイデンティティと目的を見出すのに苦労している。彼らは地上の住人から依然として不信感を抱かれているものの、アザルケティはその独自の〈系譜〉と、崇敬されるアズランティ文化からの継承を誇りに思っている。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.SNhp04cirQnnBTbb]{アザルケティ}</p>"
     }
-  }
+  },
+  "mapping": {
+    "description": "system.description.value",
+    "gmnote": "system.description.gm",
+    "target": "system.target.value",
+    "range": "system.range.value",
+    "duration": "system.duration.value",
+    "time": "system.time.value",
+    "cost": "system.cost.value",
+    "requirements": "system.requirements",
+    "trigger": "system.trigger",
+    "frequency": "system.frequency.value",
+    "primarycheck": "system.primarycheck.value",
+    "secondarycasters": "system.secondarycasters.value",
+    "secondarycheck": "system.secondarycheck.value",
+    "prerequisites": {
+      "path": "system.prerequisites.value",
+      "converter": "translatePrerequisites"
+    },
+    "rules": {
+      "path": "system.rules",
+      "converter": "translateRules"
+    }
+  },
+  "folders": {}
 }
