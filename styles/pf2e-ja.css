@@ -5,14 +5,49 @@
  * 表示崩れ（英語より長い/短い訳語による折り返し等）だけをこのファイルで補正する。
  */
 
-/* 感覚(Senses)欄: 「暗視」等の語が文字単位で折り返されるのを防ぐ。
-   欄自体が狭いため、単語ごとの改行は許容しつつ文字の途中では折り返さない。 */
+/* 感覚(Senses)欄: 「暗視」等の語や「知覚」ラベル自体が文字単位で
+   折り返されるのを防ぐ。欄自体が狭いため、単語ごとの改行は許容しつつ
+   文字の途中では折り返さない。 */
 .pf2e.actor.sheet .senses.section-container .senses.comma-separated > * {
   white-space: nowrap;
 }
 
-/* 感覚欄が隣の能力値修正欄に押し潰されて極端に狭くならないようにする */
-.pf2e.actor.sheet .top-sections .senses.section-container {
-  flex-shrink: 0;
-  min-width: fit-content;
+.pf2e.actor.sheet .senses.section-container .perception.labeled-field .attribute-label {
+  white-space: nowrap;
+}
+
+/* イニシアチブ(サイドバー): 「イニシアチブ」がラベル欄の幅に収まらず
+   折り返すため、文字サイズを少し下げて1行に収める。 */
+.pf2e.actor.sheet .sidebar .subsection.initiative header label span {
+  white-space: nowrap;
+  font-size: 0.85em;
+}
+
+/* サイドバーのドロップダウン（イニシアチブ基準スキル選択・現在の派閥選択等）:
+   日本語訳が長くtext-overflow: ellipsisで切れてしまうため、文字サイズを
+   少し下げて収まりやすくする。 */
+.pf2e.actor.sheet aside.sidebar select {
+  font-size: 0.85em;
+}
+
+/* 名声(Reputation)欄: 派閥名が文字単位で折り返されるのを防ぐ。
+   行要素は.reputations（セクション全体）ではなく.reputation（単数形、各行）。 */
+.pf2e.actor.sheet .reputations .reputation label {
+  white-space: nowrap !important;
+}
+
+/* 名声欄が画面右側の余白を使わず1列の狭いカラムに収まっているため、
+   2列グリッドにして余っている横幅を活用する。 */
+.pf2e.actor.sheet .reputations {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 1.5rem;
+  width: 100%;
+}
+
+/* 現在のHP: 「現在のHP」ラベルが原文の"Current HP"より幅を取り、
+   3桁のHP数値が入り切らなくなるため、ラベルを少し縮めて数値側の
+   スペースを確保する。 */
+.pf2e.actor.sheet .container.current-hp .sidebar_label {
+  font-size: 0.85em;
 }
