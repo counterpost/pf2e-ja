@@ -2848,10 +2848,7 @@
   "mapping": {
     "description": "system.description.value",
     "gm": "system.description.gm",
-    "name": {
-      "path": "name",
-      "converter": "translateDualLanguage"
-    },
+    "name": "name",
     "rules": {
       "path": "system.rules",
       "converter": "translateRules"
