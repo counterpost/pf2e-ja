@@ -2116,7 +2116,9 @@
   "mapping": {
     "pages": {
       "path": "pages",
-      "converter": "fromPack"
+      "converter": "document",
+      "documentType": "JournalEntryPage",
+      "cardinality": "many"
     }
   },
   "folders": {}
