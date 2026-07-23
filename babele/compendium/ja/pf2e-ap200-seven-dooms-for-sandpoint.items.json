@@ -789,11 +789,11 @@
     },
     "GcNYP2C6NZEMOdrr": {
       "name": "ウェブ/Web",
-      "description": "<p><strong>Web Hardness</strong> 5</p>\n<p><strong>Web HP</strong> 20</p>\n<p><strong>Immunities</strong> bludgeoning damage, critical hits, object immunities, piercing damage, precision damage</p>"
+      "description": "<p><strong>ウェブの硬度</strong> 5</p>\n<p><strong>ウェブのHP</strong> 20</p>\n<p><strong>完全耐性</strong> 殴打ダメージ、クリティカルヒット、物体完全耐性、刺突ダメージ、精密ダメージ</p>"
     },
     "Web": {
       "name": "ウェブ",
-      "description": "<p><strong>Web Hardness</strong> 5</p>\n<p><strong>Web HP</strong> 20</p>\n<p><strong>Immunities</strong> bludgeoning damage, critical hits, object immunities, piercing damage, precision damage</p>"
+      "description": "<p><strong>ウェブの硬度</strong> 5</p>\n<p><strong>ウェブのHP</strong> 20</p>\n<p><strong>完全耐性</strong> 殴打ダメージ、クリティカルヒット、物体完全耐性、刺突ダメージ、精密ダメージ</p>"
     },
     "AoE6IxAfyxcUD4Jo": {
       "name": "拳"
@@ -2179,7 +2179,7 @@
     },
     "Bh4tXIFDTCdh3Vzs": {
       "name": "ブレス・武器",
-      "description": "|||<p>ブリモラックは沸騰する血を@Template[type:line|distance:20]に吐き出し、@Damage[6d6[fire]]ダメージを与える(@Check[type:reflex|dc:21|basic:true]セーヴ)。</p>\n<p>ブリモラックは[[/br 1d4 #Recharge Breath Weapon]]{1d4ラウンド}の間、再びブレス武器を使用できない。</p>\n<p>この範囲内の地面は滑りやすくなり、ブリモラックが再びブレス武器を使用できるようになるか、あるいは範囲が清掃されるまでの間(いずれか早い方)、その範囲を対象とする@UUID[Compendium.pf2e.spells-srd.Item.Wu0xFpewMKRK3HG8]{Grease}呪文の効果を受ける。</p>|||"
+      "description": "<p>ブリモラクは煮えたぎる血を@Template[type:line|distance:20]に吐き出し、@Damage[6d6[fire]]ダメージを与える(@Check[type:reflex|dc:21|basic:true]セーヴ)。</p>\n<p>ブリモラクは[[/br 1d4 #Recharge Breath Weapon]]{1d4ラウンド}の間、ブレスウェポンを再び使用できない。</p>\n<p>この区域内の地面は滑りやすくなり、清掃されるか、ブリモラクが再びブレスウェポンを使用可能になるまでの間(いずれか早い方まで)、その区域を対象とした@UUID[Compendium.pf2e.spells-srd.Item.Wu0xFpewMKRK3HG8]{グリース}呪文と同様の効果を持つ。</p>"
     },
     "VRhuQIGcrHKCOyL4": {
       "name": "フレイミング・武器/Flaming Weapon",
@@ -2261,11 +2261,11 @@
     },
     "DoFn41kj4boZ6xAp": {
       "name": "煙の吐息/Exhale Smoke",
-      "description": "|||<p><strong>Trigger</strong> A non-goblin creature approaches within 10 feet of the taxidermy Sandpoint Devil</p>\n<hr />\n<p><strong>Effect</strong> The taxidermy Sandpoint Devil lurches forward, opens its jaws, and emits a blood-curdling howl and a blast of foul-smelling gray smoke. All creatures in a @Template[type:cone|distance:30] directed south of the trap (which reaches all the way to the door leading out to the Pit) must attempt a @Check[type:fortitude|dc:22] save or become @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} for 1 hour (or @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} for 8 hours on a critical failure).</p>|||"
+      "description": "<p><strong>トリガー</strong> ゴブリンでないクリーチャーが、剥製のサンドポイント・デヴィルから10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong> 剥製のサンドポイント・デヴィルが前のめりによろめき、顎を開いて、血も凍るような咆哮と悪臭を放つ灰色の煙の噴出を発する。罠の南側(ピットへ通じる扉まで届く)に向けられた@Template[type:cone|distance:30]の範囲内にいる全てのクリーチャーは@Check[type:fortitude|dc:22]セーヴを試みなければならず、失敗すると1時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となる(クリティカル失敗の場合は8時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}となる)。</p>"
     },
     "Exhale Smoke": {
       "name": "煙の吐息",
-      "description": "|||<p><strong>Trigger</strong> A non-goblin creature approaches within 10 feet of the taxidermy Sandpoint Devil</p>\n<hr />\n<p><strong>Effect</strong> The taxidermy Sandpoint Devil lurches forward, opens its jaws, and emits a blood-curdling howl and a blast of foul-smelling gray smoke. All creatures in a @Template[type:cone|distance:30] directed south of the trap (which reaches all the way to the door leading out to the Pit) must attempt a @Check[type:fortitude|dc:22] save or become @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} for 1 hour (or @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} for 8 hours on a critical failure).</p>|||"
+      "description": "<p><strong>トリガー</strong> ゴブリンでないクリーチャーが、剥製のサンドポイント・デヴィルから10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong> 剥製のサンドポイント・デヴィルが前のめりによろめき、顎を開いて、血も凍るような咆哮と悪臭を放つ灰色の煙の噴出を発する。罠の南側(ピットへ通じる扉まで届く)に向けられた@Template[type:cone|distance:30]の範囲内にいる全てのクリーチャーは@Check[type:fortitude|dc:22]セーヴを試みなければならず、失敗すると1時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となる(クリティカル失敗の場合は8時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}となる)。</p>"
     },
     "QVTpVeHrwDHEBjjt": {
       "name": "ディバイン準備呪文"
@@ -3042,7 +3042,7 @@
     },
     "Spore Domination": {
       "name": "胞子支配",
-      "description": "|||<p>マイセロイドは、60フィート60フィート以内にいる、パープル・ポックスに冒されたクリーチャー1体を対象とする。そのクリーチャーは@Check[type:will|dc:22]セーヴを行わなければならない。</p>\n<p>その後、そのクリーチャーは10分間10分の間、胞子支配に対して一時的免疫一時的な免疫を得る。</p>\n<hr />\n<p><strong>大成功クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功成功</strong> 対象は次のターンの終了時まで、マイセロイドに対して協力的@UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{協力的}になり、彼らに対して敵対的行動敵対行動をとることができない。</p>\n<p><strong>失敗失敗</strong> 成功と同様だが、1分間1分持続する。</p>\n<p><strong>大失敗クリティカル失敗</strong> 成功と同様だが、パープル・ポックスが治癒するまで持続する。</p>|||"
+      "description": "<p>マイセロイドは、60フィート以内にいる紫斑病に感染したクリーチャー1体を対象とする。そのクリーチャーは@Check[type:will|dc:22]セーヴを試みなければならない。</p>\n<p>その後、10分間は胞子支配に対して一時的な完全耐性を得る。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は次のターンの終了時まで、マイセロイドに対して@UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{協力的}になり、マイセロイドに対して敵対的な行動を取れなくなる。</p>\n<p><strong>失敗</strong> 成功と同じだが、1分間続く。</p>\n<p><strong>クリティカル失敗</strong> 成功と同じだが、紫斑病が治癒されるまで続く。</p>"
     },
     "zrycs1fp75o2l8h0": {
       "name": "噛みつき"
@@ -3057,11 +3057,11 @@
     },
     "o8cbkspx01eskehx": {
       "name": "恐るべき笑い/Terrifying Laugh",
-      "description": "|||<p><strong>Frequency</strong> once per minute</p>\n<hr />\n<p><strong>Effect</strong> The geist unleashes soul-piercing laughter in a @Template[type:emanation|distance:20], lasting until the beginning of their next turn. Any creature in the area or entering it must succeed at a @Check[type:will|dc:26] save or be overcome with panicked laughter, becoming @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} (or @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3} on a critical failure). A creature attempts only one save per Terrifying Laugh, and a creature that succeeds on its saving throw is temporarily immune for 24 hours.</p>|||"
+      "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong> ガイストは@Template[type:emanation|distance:20]の範囲に魂を貫くような哄笑を解き放ち、その効果は次のターンの開始時まで続く。この範囲内にいる、またはこの範囲に入った全てのクリーチャーは@Check[type:will|dc:26]セーヴに成功しなければ、パニックに陥った哄笑に呑まれ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる(クリティカル失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3})。クリーチャーは「テリファイング・ラフ」1回につき1度しかセーヴを試みず、セーヴに成功したクリーチャーは24時間、一時的な完全耐性を得る。</p>"
     },
     "Terrifying Laugh": {
       "name": "恐るべき笑い",
-      "description": "|||<p><strong>Frequency</strong> once per minute</p>\n<hr />\n<p><strong>Effect</strong> The geist unleashes soul-piercing laughter in a @Template[type:emanation|distance:20], lasting until the beginning of their next turn. Any creature in the area or entering it must succeed at a @Check[type:will|dc:26] save or be overcome with panicked laughter, becoming @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} (or @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3} on a critical failure). A creature attempts only one save per Terrifying Laugh, and a creature that succeeds on its saving throw is temporarily immune for 24 hours.</p>|||"
+      "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong> ガイストは@Template[type:emanation|distance:20]の範囲に魂を貫くような哄笑を解き放ち、その効果は次のターンの開始時まで続く。この範囲内にいる、またはこの範囲に入った全てのクリーチャーは@Check[type:will|dc:26]セーヴに成功しなければ、パニックに陥った哄笑に呑まれ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる(クリティカル失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3})。クリーチャーは「テリファイング・ラフ」1回につき1度しかセーヴを試みず、セーヴに成功したクリーチャーは24時間、一時的な完全耐性を得る。</p>"
     },
     "58ox9o6ljire079b": {
       "name": "ハントの憤怒/Wrath of the Haunt",
@@ -3703,7 +3703,7 @@
     "Ancient Map": {
       "name": "古代の地図",
       "gmDescription": "<p>壁に掛けられた地図は、アースフォール以前のその地域周辺の様子を示しているが、その時代には大洋が何マイルも離れていたため、PC達にはすぐにはピンとこないかもしれない。地図を調査したPCが〈思い出す〉ための適切な@Check[society|dc:20|traits:concentrate,secret,skill,action:recall-knowledge|name:Recall Knowledge](または適切な《専門知識》)の判定に成功すれば、このことに気づくことができる。地図上のラベルはすべてサーシロン語で書かれている。現在の海岸線は地図上におおまかに「ラスプ」として記されており、サンドポイントがある場所は「HFコンパウンド」――ヘルストーム・フリュームの略――とラベル付けされている。すべてが終わる直前、ジャスカーはルーンロードカーズーグが近くに拠点を築いたと疑われる場所を追跡しており、それらに対して襲撃を主導しようと企てていた。かつてシスルトップがあった場所に立っていたカーズーグのそびえ立つ歩哨の像はもちろん記されているが、地図上には隠された拠点である可能性を示す場所が他にもいくつかある。今日「ピット」として知られる地域は、ジャスカーにとって特に興味深い場所だったようで、丸で囲まれ、「捕らえたスパイが、ここにかなりの数のシャラストの分遣隊が駐留しており、リララルーという名の者が率いていると囁いている――襲撃には女主人からの許可を得なければならない」という走り書きのメモがある。</p>",
-      "unidentifiedName": "|||Unusual Treasure|||"
+      "unidentifiedName": "奇妙な宝物"
     },
     "nZj448FAXvgnsXZ9": {
       "name": "デロの〈研究〉コレクション/Dero Research Collection",

@@ -1279,7 +1279,7 @@
       "sp": "シルバー",
       "upb": "UPB"
     },
-    "CurrentHitPointsShortLabel": "現在のHP",
+    "CurrentHitPointsShortLabel": "Current HP",
     "CurrentStaminaPointsShortLabel": "現在のSP",
     "DCAdjustmentEasy": "易しい",
     "DCAdjustmentHard": "難しい",
@@ -3271,7 +3271,7 @@
       "will": "マスター意志"
     },
     "MaxHitPointsBaseLabel": "基本最大HP {base}",
-    "MaxHitPointsShortLabel": "最大HP",
+    "MaxHitPointsShortLabel": "Max HP",
     "MaxStaminaPointsShortLabel": "最大SP",
     "Migrations": {
       "Finished": "バージョン{version}へのPF2Eシステム移行が完了した！",
@@ -4333,8 +4333,8 @@
     "TabManageTabsLabel": "タブの管理",
     "TabPathfinderSociety": "Pathfinder Society",
     "TabSkillsLabel": "習熟度",
-    "TabSpellbookLabel": "スペルキャスティング",
-    "TempHitPointsShortLabel": "一時HP",
+    "TabSpellbookLabel": "呪文詠唱",
+    "TempHitPointsShortLabel": "Temp HP",
     "TemplateLabel": "{size}-{unit} {shape}",
     "TemporaryItemToolTip": "このアイテムは一時的なものであり、持続時間が経過するか、日課の準備の間に消失する。これには価値がなく、売却できない。",
     "Time": {
