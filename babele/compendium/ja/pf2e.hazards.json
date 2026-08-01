@@ -2,811 +2,774 @@
   "label": "ハザード",
   "entries": {
     "Web Lurker Deadfall": {
-      "name": "ウェブラーカー・デッドフォール",
-      "description": "<p>クモの罠のトリップワイヤーが岩塊の束を解き放ち、10-フィートの範囲内にいるすべての対象に落下する.</p>",
-      "stealth": "<p>@Check[stealth|dc:23]</p>",
-      "disable": "<p>《生存術》 (訓練済み)または《盗賊術》 (expert) DC 20を行って蜘蛛の巣を整理する。</p>",
       "items": {
-        "action->Deadfall": {
-          "name": "デッドフォール",
-          "description": "<p><strong>トリガー</strong>クリーチャーがウェブ・トリップワイヤーのある広場に足を踏み入れる。</p>\n<hr />\n<p><strong>効果</strong>トラップの10フィートの広場にいるすべてのクリーチャーは@Damage[2d6[bludgeoning]]ダメージを受ける(@Check[reflex|dc:20|basic]セーヴ)。</p>"
+        "j3QvHDCU1gvOInG4": {
+          "name": "デッドフォール/Deadfall",
+          "description": "<p><strong>トリガー</strong> クリーチャーがウェブ・トリップワイヤーのある広場に足を踏み入れる。</p>\n<hr />\n<p><strong>効果</strong> この罠の10フィートの広場にいるすべてのクリーチャーは@Damage[2d6[bludgeoning]]ダメージを受ける（@Check[reflex|dc:20|basic]セーヴ）。</p>"
         }
-      }
+      },
+      "stealth": "<p>@Check[stealth|dc:23]</p>",
+      "name": "ウェブ・ラーカー・デッドフォール/Web Lurker Deadfall",
+      "description": "<p>ウェブ・トリップワイヤーが岩塊の束を解き放ち、10フィートの広場内にいるすべての対象の上に落下する。</p>",
+      "disable": "<p>《生存術》（訓練済み）または《盗賊術》（熟練）でDC 20の判定を行って蜘蛛の巣を整理する。</p>"
     },
     "Sportlebore": {
-      "name": "スポートルボア",
-      "description": "<p>スポーツルボアは、皿の上の食料の中、または山道の携帯食のパックの中に隠れている。</p>",
-      "stealth": "<p>(熟練)</p>",
-      "disable": "<p>スポルトルボアに気づいたクリーチャーは、それが隠されている食料から、〈扱う〉アクションとして自動的にそれを取り除くことができる。</p>",
       "items": {
-        "action->Mimic Food": {
-          "name": "ミミックの餌",
-          "description": "<p><strong>トリガー</strong>クリーチャーがスポーツルボアの隠れている食料を食べる。</p>\n<hr />\n<p><strong>効果</strong>スポーツルボアは宿主の胃の中で急速に増殖し、宿主をスポーツルボア感染症にさらす。</p>"
+        "WleycA2DC7Pz8RYR": {
+          "name": "ミミック・フード/Mimic Food",
+          "description": "<p><strong>トリガー</strong> クリーチャーがスポートルボアの隠れている食料を食べる。</p>\n<hr />\n<p><strong>効果</strong> スポートルボアは宿主の胃の中で急速に増殖し、宿主をスポートルボア感染症にさらす。</p>"
         },
-        "action->Sportlebore Infestation": {
-          "name": "スポートルボアの蔓延",
-          "description": "|||<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:22|basic]</p>\n<p><strong>第1段階</strong> 悪影響のない保菌者(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}(1時間)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}(1時間)</p>\n<p><strong>第4段階</strong> @Damage[4d6[bludgeoning]]ダメージ(@Check[fortitude|dc:25|basic]セーヴ)を受け、宿主は苦痛と共にスポーツルボア・スウォームを吐き出し、第1段階に戻る</p>|||"
+        "nCcx1LK7XrbDnVXI": {
+          "name": "スポートルボア・インフェステーション/Sportlebore Infestation",
+          "description": "<p><strong>セーヴ</strong> @Check[fortitude|dc:22|basic]</p>\n<p><strong>第1段階</strong> 無症状のキャリア（1日）</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}（1時間）</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}（1時間）</p>\n<p><strong>第4段階</strong> @Damage[4d6[bludgeoning]]ダメージ（@Check[fortitude|dc:25|basic]セーヴ）。宿主は苦痛と共にスポートルボア・スウォーム/Sportlebore swarmを吐き出し、第1段階に戻る。</p>"
         }
-      }
+      },
+      "stealth": "<p>（熟練）</p>",
+      "name": "スポートルボア/Sportlebore",
+      "description": "<p>スポートルボアは、皿の上の食料の中、または山道の携帯食のパックの中に隠れている。</p>",
+      "disable": "<p>スポルトルボアに気づいたクリーチャーは、それが隠されている食料から、〈扱う〉アクションとして自動的にそれを取り除くことができる。</p>"
     },
     "Fireball Rune": {
-      "name": "ファイアーボールのルーン",
-      "description": "<p>不可視のルーンが、半径20フィートの不可視の球状魔法センサーを作り出す。</p>",
-      "stealth": "<p>(expert)</p>",
-      "disable": "<p>@Check[thievery|dc:22|name:Erase the Rune] (expert)を行ってセンサーを作動させずにルーンを消去する、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (3レベル; 打ち消し DC 20)を行ってそのルーンを打ち消しする。</p>",
-      "items": {
-        "action->Fireball": {
-          "name": "ファイアーボール",
-          "description": "<p><strong>トリガー</strong> 生きているクリーチャーがセンサー範囲内に入る。</p>\n<hr />\n<p><strong>効果</strong> ルーンは　トリガーとなったクリーチャーの広場を中心として@UUID[Compendium.pf2e.spells-srd.Item.sxQZ6yqTn0czJxVd]{ファイアーボール}を爆発させる。これは@Damage[6d6[fire]]ダメージを与える3ランクのファイアーボール呪文である(@Check[reflex|dc:22|basic]セーヴ)。</p>"
-        }
-      }
+      "stealth": "<p>（熟練）</p>",
+      "name": "ファイアーボール・ルーン/Fireball Rune",
+      "description": "<p>不可視のルーンが、半径20フィートの不可視の球形の魔法センサーを作り出す。</p>",
+      "disable": "<p>@Check[thievery|dc:22|name:Erase the Rune] (expert)を行ってセンサーを作動させずにルーンを消去する。あるいは、@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (3レベル; 打ち消し DC 20)を行ってそのルーンを打ち消しする。</p>"
     },
     "Electric Latch Rune": {
-      "name": "エレクトリック・ラッチ・ルーン",
-      "description": "<p>ドアのラッチに刻まれた不可視のルーンが、強力な電撃を放つ。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[thievery|dc:20|name:Scratch Out the Rune|traits:action:disable-a-device] (expert)を行って電撃を流さずにルーンを削り取る、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (2レベル; 打ち消し DC 18)を行ってそのルーンを打ち消しする。</p>",
       "items": {
-        "action->Electrocution": {
-          "name": "感電",
-          "description": "<p><strong>トリガー</strong>クリーチャーがドアのラッチを直接、あるいは道具を使って掴む。</p>\n<hr />\n<p><strong>効果</strong>トラップは　トリガーとなったクリーチャーに@Damage[3d12[electricity]]ダメージを与える(@Check[reflex|dc:22|basic]セーヴ)。</p>"
+        "FzfgLXTt6R8bYmTP": {
+          "name": "エレクトロキューション/Electrocution",
+          "description": "<p><strong>トリガー</strong>クリーチャーがドアのラッチを直接、あるいは道具を使って掴む。</p>\n<hr />\n<p><strong>効果</strong>この罠はトリガーとなったクリーチャーに@Damage[3d12[electricity]]ダメージを与える(@Check[reflex|dc:22|basic]セーヴ)。</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "エレクトリック・ラッチ・ルーン/Electric Latch Rune",
+      "description": "<p>ドアのラッチに刻まれた不可視のルーンが、強力な電撃を放つ。</p>",
+      "disable": "<p>@Check[thievery|dc:20|name:Scratch Out the Rune|traits:action:disable-a-device] (expert)を行って電撃を流さずにルーンを削り取る。あるいは、@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (2レベル; 打ち消し DC 18)を行ってそのルーンを打ち消しする。</p>"
     },
     "Malevolent Mannequins": {
-      "name": "悪意あるマネキン",
-      "description": "<p>凶暴な霊の群れが3体のクロックワーク・マネキンに憑依しており、それぞれが近くを歩こうとするあらゆるクリーチャーに襲いかかる。</p>",
-      "disable": "<p>@Check[thievery|dc:37|name:Jam a mannequin's clockwork mechanisms|traits:clockwork,haunt,mechanical,hazard]{《盗賊術》 (master)}を行ってマネキンのぜんまい機構を詰まらせるか、@Check[religion|dc:35|name:Exorcise a spirit from a mannequin|traits:clockwork,haunt,mechanical,hazard]{《宗教》 (expert)}を2回行ってマネキンから霊を祓う。</p>",
       "reset": "<p>このハウントは、対象となるクリーチャーがいなくなると非活性化し、通常1ラウンドかけてリセットされる。その間、マネキンは元の位置へと移動する。マネキンが元の位置から150フィート以上離れている場合、マネキンはラウンドごとに150フィートずつ戻るため、ハウントのリセットにはより長い時間がかかる。</p>",
-      "routine": "<p>(9アクション)各マネキンは各ターンにハウントのアクションを3つ使用し、ハウントは無力化または破壊されたマネキン1体につき各ターン3アクションを失う。各マネキンは最初のアクションで最大50フィート〈ストライド〉し、残りの2つのアクションでクロックワークの拳によるストライクを行う。それぞれが個別のマルチアタック・ペナルティを持つ。</p>",
       "items": {
-        "action->Awaken": {
-          "name": "目覚め",
-          "description": "<p><strong>トリガー</strong> クリーチャーがマネキンの30フィート以内に近づく。</p>\n<hr />\n<p><strong>効果</strong> マネキンはすべて　トリガーとなったクリーチャーに向かってよろめきながら最大50フィートまでストライドし、その後イニシアチブをロールする。</p>"
+        "Q2074Gj6y8XUUgAk": {
+          "name": "アウェイクン/Awaken",
+          "description": "<p><strong>トリガー</strong>クリーチャーがマネキンの30フィート以内に近づく。</p>\n<hr />\n<p><strong>効果</strong>マネキンはすべてトリガーとなったクリーチャーに向かってよろめきながら最大50フィートまでストライドし、その後イニシアチブをロールする。</p>"
+        },
+        "h1kUAmChVAo2xByF": {
+          "name": "クロックワーク・フィスト/Clockwork Fist"
         }
-      }
+      },
+      "routine": "<p>(9アクション)各マネキンは各ターンにハウントのアクションを3つ使用し、ハウントは無力化または破壊されたマネキン1体につき各ターン3アクションを失う。各マネキンは最初のアクションで最大50フィート〈ストライド〉し、残りの2つのアクションでクロックワークの拳によるストライクを行う。それぞれが個別のマルチアタック・ペナルティを持つ。</p>",
+      "name": "マレヴォレント・マネキンズ/Malevolent Mannequins",
+      "description": "<p>凶暴な霊の群れが3体のクロックワーク・マネキンに憑依しており、それぞれが近くを歩こうとするあらゆるクリーチャーに襲いかかる。</p>",
+      "disable": "<p>@Check[thievery|dc:37|name:Jam a mannequin's clockwork mechanisms|traits:clockwork,haunt,mechanical,hazard]{《盗賊術》 (master)}を行ってマネキンのクロックワークの機構を詰まらせるか、@Check[religion|dc:35|name:Exorcise a spirit from a mannequin|traits:clockwork,haunt,mechanical,hazard]{《宗教》 (expert)}を2回行ってマネキンから霊を祓う。</p>"
     },
     "Slamming Door": {
-      "name": "叩きつけられる扉",
-      "description": "<p>床にある感圧パネルが、廊下の天井に隠された石板につながっている。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[thievery|dc:15|name:Disable Floor Panel] (訓練済み)を行ってスラブが落下する前に床パネルを調べる。</p>",
       "items": {
-        "action->Slam Shut": {
-          "name": "強制閉鎖",
-          "description": "<p><strong>トリガー</strong> いずれかの床タイルに圧力がかかる。</p>\n<hr />\n<p><strong>効果</strong> ドアが落下し、廊下を閉鎖する。石板が落下した際、その下または隣接するすべての者は@Damage[3d8[bludgeoning]]ダメージを受け、ランダムな方向にそのスペースから押し出される。@Check[reflex|dc:17|traits:damaging-effect]セーヴに成功したクリーチャーはダメージを受けず、ランダムな方向に転がり出て回避する。クリティカル成功の場合、彼らはその方向を選択できる。</p>\n<p>落下した石板を持ち上げるには、@Check[athletics|dc:25|name:Lift a Slab Athletics|showDC:all]判定に成功する必要がある。</p>\n<p>床パネルを叩くとトラップが作動する。石板はトラップと同じACとセーヴを使用するが、硬度12、HP48(BT24)を持つ。</p>"
+        "34y07VryqAVeJhfG": {
+          "name": "強制閉鎖/Slam Shut",
+          "description": "<p><strong>トリガー</strong>どの床タイルにも圧力がかかる。</p>\n<hr />\n<p><strong>効果</strong>ドアが落下し、廊下を塞ぐ。石板は落下した際にその下または隣接する場所にいる誰にでも@Damage[3d8[bludgeoning]]ダメージを与え、そのスペースからランダムな方向に押し出す。@Check[reflex|dc:17|traits:damaging-effect]セーヴに成功したクリーチャーはダメージを受けず、ランダムな方向に転がり出て回避する。クリティカル成功の場合、そのクリーチャーは方向を選択できる。</p>\n<p>落下した石板を持ち上げるには、@Check[athletics|dc:25|name:Lift a Slab Athletics|showDC:all]判定に成功する必要がある。</p>\n<p>床のパネルを叩くと罠が作動する。石板は罠と同じACとセーヴを使用するが、硬度12、HP 48(BT 24)を持つ。</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "スラミング・ドア/Slamming Door",
+      "description": "<p>床にある感圧パネルが、廊下の天井に隠された石板につながっている。</p>",
+      "disable": "<p>@Check[thievery|dc:15|name:Disable Floor Panel] (訓練済み)を行って床板が落ちる前にそれに対処する</p>"
     },
     "Titanic Flytrap": {
-      "name": "タイタニック・フライトラップ",
-      "description": "<p>表面上、巨大なハエトリグサはありふれたハエトリグサの群生に見えるが、濁った水の下には、木質の枝で補強され、麻痺性の毛で覆われた、幅10フィートに達するはるかに大きな顎が隠されている。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[survival|dc:22|name:Mislead the Flytrap's Senses] (訓練済み) ハエトリグサの重量と圧力感覚を誤認させるため</p>",
       "reset": "<p>1時間 (またはそれ以上、大量の食事の後)</p>",
       "items": {
-        "action->Snap Shut": {
-          "name": "噛みつき",
-          "description": "<p><strong>トリガー</strong>小型または中型のクリーチャーが、ハエトリグサの隠れた顎のリーチ内にある広場に移動する。</p>\n<hr />\n<p><strong>効果</strong>ハエトリグサの顎が閉じ、　トリガーとなったクリーチャーに対して顎による〈ストライク〉を行う。</p>"
+        "f9aVsy30iGDJTtb4": {
+          "name": "スナップ・シャット/Snap Shut",
+          "description": "<p><strong>トリガー</strong>小型または中型のクリーチャーが、ハエトリグサの隠れた顎のリーチ内にある広場に移動する。</p>\n<hr />\n<p><strong>効果</strong>ハエトリグサの顎が閉じ、トリガーとなったクリーチャーに対して顎による〈ストライク〉を行う。</p>"
         },
-        "action->Devour": {
-          "name": "貪り食う",
-          "description": "<p>対象はハエトリグサの顎に捕らえられ、[[/act escape dc=21]]{エスケープ}するまで@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となる。さらに、葉の内側に並ぶ何百もの小さな毛から、巨大ハエトリグサの毒にさらされる。もしハエトリグサの顎による〈ストライク〉がクリティカル成功だった場合、対象はこの毒に対するセーヴィング・スローに–2の状況ペナルティを受ける。対象が捕らえられている間、その各ターンの終了時に、対象は@Damage[3d6[acid]]ダメージを受ける。</p>"
+        "Yw05wWhZB9fLdatc": {
+          "name": "顎/Jaws"
         },
-        "action->Titanic Flytrap Toxin": {
-          "name": "タイタニック・フライトラップの毒素",
-          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:21]</p>\n<p><strong>最大持続時間</strong> 4ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[4d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺} (1ラウンド)</p>"
+        "eauYGISAGprcOwH4": {
+          "name": "デヴァウアー/Devour",
+          "description": "<p>対象はハエトリグサの顎に捕らえられ、それが[[/act escape dc=21]]{脱出}するまで@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴み状態}となる。さらに、対象は葉の内側に並ぶ何百もの小さな毛からタイタニック・フライトラップ毒にさらされる。もしハエトリグサの顎による〈ストライク〉がクリティカル成功だった場合、対象はこの毒に対するセーヴィング・スローに－2の状況ペナルティを受ける。捕らえられたままである各ターンの終了時、対象は@Damage[3d6[acid]]ダメージを受ける。</p>"
+        },
+        "qBQpsAk64L9c0sJ2": {
+          "name": "タイタニック・フライトラップ・トキシン/Titanic Flytrap Toxin",
+          "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:21]</p>\n<p><strong>最大持続時間</strong> 4ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[4d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺} (1ラウンド)</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "タイタニック・フライトラップ/Titanic Flytrap",
+      "description": "<p>表面上、タイタニック・フライトラップはありふれたハエトリグサの群生に見えるが、濁った水の下には、木質の枝で補強され、麻痺性の毛で覆われた、幅10フィートに達するはるかに大きな顎が隠されている。</p>",
+      "disable": "<p>@Check[survival|dc:22|name:Mislead the Flytrap's Senses] (訓練済み)を行ってハエトリグサの重さと圧力の感知を誤認させる</p>"
     },
     "Scythe Blades": {
-      "name": "大鎌の刃",
-      "description": "<p>天井の15フィートの溝にそれぞれ隠された2本の刃は、どちらもトリップワイヤーにつながっている。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[thievery|dc:21|name:Disable a Blade] (訓練済み)を行って各刃を無力化する。</p>",
       "reset": "<p>この罠は15分後にリセットされる。</p>",
       "items": {
-        "action->Falling Scythes": {
-          "name": "落下する大鎌",
+        "0fjRyLkdj1a2kfGM": {
+          "name": "フォーリング・サイズズ/Falling Scythes",
           "description": "<p><strong>トリガー</strong>トリップワイヤーが引かれるか切断される。</p>\n<hr />\n<p><strong>効果</strong>両方の刃が振り下ろされ、それぞれが天井の溝の下にいるすべてのクリーチャーに対して攻撃(Strike)を行う。</p>"
         },
-        "melee->Scythe": {
-          "name": "大鎌",
+        "oaNkRH35bkjdSm6P": {
+          "name": "サイズ/Scythe",
           "description": "<p>マルチアタック・ペナルティなし</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "サイズ・ブレイド/Scythe Blades",
+      "description": "<p>天井の15フィートの溝にそれぞれ隠された2本の刃は、どちらもトリップワイヤーにつながっている。</p>",
+      "disable": "<p>@Check[thievery|dc:21|name:Disable a Blade] (訓練済み)を行って各刃を無効化する</p>"
     },
     "Second Chance": {
-      "name": "セカンド・チャンス",
+      "stealth": "<p>(伝説級)</p>",
+      "name": "セカンド・チャンス/Second Chance",
       "description": "<p>物体や場所に結びつけられた強力な防御魔法が、クリーチャーとその味方の年齢を退行させようとする。</p>",
-      "stealth": "<p>(legendary)</p>",
-      "disable": "<p>@Check[thievery|dc:46|name:Dismantle Spell|traits:action:disable-a-device] (legendary)を行って、目を閉じた状態で、最も古い記憶から順に鮮明な人生の記憶をすべて思い出しながら、呪文を少しずつ分解する。</p>",
-      "items": {
-        "action->In the Beginning": {
-          "name": "始まりの時",
-          "description": "<p><strong>トリガー</strong>クリーチャーがその物体を盗もうとするか、その場所に侵入しようとする。誰かが盗みや侵入のために代理人や身代わりを使った場合、罠は距離にかかわらず(次元を超えてさえも)真の実行犯を確実に標的とする。</p>\n<hr />\n<p><strong>効果</strong>トリガーとなったクリーチャーと最大5人の共謀者は即座に幼児へと戻り、人生で得たすべての記憶、クラス能力、その他の技能を失う(@Check[fortitude|dc:44]が無効化する)。この効果を逆転させることはほぼ不可能であり、@UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{ウィッシュ}のような強力な魔法を必要とする。</p>"
-        }
-      }
+      "disable": "<p>@Check[thievery|dc:46|name:Dismantle Spell|traits:action:disable-a-device] (legendary)を行って、目を閉じた状態で、最も古い記憶から順に鮮明な人生の記憶をすべて思い出しながら、呪文を一度に小さな断片ずつ分解する</p>"
     },
     "Frozen Moment": {
-      "name": "凍てついた瞬間",
-      "description": "<p>防御魔法が、侵入者や泥棒になろうとする者を乱れた時間の流れの中に閉じ込めようとする。</p>",
-      "stealth": "<p>(master)</p>",
-      "disable": "<p>@Check[thievery|dc:38|name:Disassemble Spell Components|traits:action:disable-a-device] (legendary)を行って、瞬きする間に呪文の無数の構成要素を素早く分解する。あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (9レベル; 打ち消し DC 36)を行って、罠が作動する前にその罠を打ち消しするか、罠が作動した後に1体のクリーチャーに対する効果を打ち消しする。</p>",
       "items": {
-        "action->Adrift in Time": {
-          "name": "時間の漂流",
-          "description": "<p><strong>トリガー</strong>クリーチャーが防御された物体や領域に　接触する。</p>\n<hr />\n<p><strong>効果</strong>トリガーとなったクリーチャーと30フィート以内のすべてのクリーチャーは、乱れた時間の流れの中に閉じ込められる(@Check[fortitude|dc:38]が無効化する)。クリーチャーの精神は非常に速く動き、各ラウンドが1世紀のように感じられるが、彼らの肉体と魔法のエネルギーは非常にゆっくりと動くため、〈思い出す〉以外のアクションを行うことができない。影響を受けたクリーチャーは、凍りついた瞬間に閉じ込められている間、現実の時間が1分経過するごとに、@Check[will|dc:36]セーヴィング・スロウを<em>warp mind</em>呪文に対して行わなければならない。この効果は無制限の持続時間を持つが、対抗呪文によって解除できる。</p>"
+        "SoObyOgEreU0KLDs": {
+          "name": "アドリフト・イン・タイム/Adrift in Time",
+          "description": "<p><strong>トリガー</strong> クリーチャーが防御された物体または領域に触れる。</p>\n<hr />\n<p><strong>効果</strong> トリガーとなったクリーチャーと30フィート以内にいるすべてのクリーチャーは乱れた時間の流れに閉じ込められる（@Check[fortitude|dc:38]に成功すれば無効化される）。クリーチャーの精神は非常に速く動くため、各ラウンドが1世紀にも感じられる一方で、肉体と魔力は極めてゆっくりとしか動かず、〈リコール・ナレッジ〉以外のいかなるアクションも行えない。影響を受けたクリーチャーは直ちに、そして凍りついた瞬間に閉じ込められている間、現実時間が1分経過するごとに@Check[will|dc:36]セーヴを行い、<em>ワープ・マインド</em>呪文に対して判定を行わなければならない。この効果の持続時間は無制限だが、打ち消すことができる。</p>"
         }
-      }
+      },
+      "stealth": "<p>（達人）</p>",
+      "name": "フローズン・モーメント/Frozen Moment",
+      "description": "<p>防御魔法が、侵入者や泥棒になろうとする者を乱れた時間の流れの中に閉じ込めようとする。</p>",
+      "disable": "<p>@Check[thievery|dc:38|name:Disassemble Spell Components|traits:action:disable-a-device] (legendary)を行って、瞬きする間に呪文の無数の構成要素を急速に分解する。あるいは、@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (9レベル; 打ち消し DC 36)を行って、罠が作動する前にそれを打ち消しするか、罠が作動した後に1体のクリーチャーに対する効果を打ち消しする。</p>"
     },
     "Hampering Web": {
-      "name": "妨害のウェブ",
-      "description": "<p>半透明の蜘蛛の巣のシートが入り口に張り巡らされており、小さな虫を捕らえたり、通り抜ける大きなクリーチャーを妨害したりする準備ができている。</p>",
-      "stealth": "<p>(熟練)</p>",
-      "disable": "<p>@Check[survival|dc:17|name:Dislodge Web] (訓練済み)を行ってそれを取り外す。</p>",
       "items": {
-        "action->Ensnare": {
-          "name": "罠にかける",
-          "description": "|||<p><strong>トリガー</strong> 蜘蛛ではないクリーチャーが蜘蛛の巣の中を歩く。</p>\n<hr />\n<p><strong>効果</strong> 蜘蛛の巣が　トリガーとなったクリーチャーの体に巻き付き、四肢にまとわりつく。トリガーとなったクリーチャーは@Check[reflex|dc:20]セーヴに成功しなければ、蜘蛛の巣を@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するまで、すべての移動速度に－10フィートの状況ペナルティを受ける(DC 20)。大失敗した場合、蜘蛛の巣はクリーチャーの顔にもまとわりつき、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となり、蜘蛛の巣を〈エスケープ〉するまでこの状態を軽減しようと試みることはできない。</p>|||"
+        "CHZ0RRKgpq6eI2AS": {
+          "name": "エンスネア/Ensnare",
+          "description": "<p><strong>トリガー</strong> 蜘蛛ではないクリーチャーが蜘蛛の巣の中へ歩いて入る</p>\n<hr />\n<p><strong>効果</strong> 蜘蛛の巣がトリガーとなったクリーチャーの体に巻き付き、その四肢にまとわりつく。トリガーとなったクリーチャーは@Check[reflex|dc:20]セーヴに成功しなければならず、失敗すると、その蜘蛛の巣から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するまで、すべての移動速度に–10フィートの状況ペナルティを受ける (DC 20)。大失敗した場合、蜘蛛の巣はそのクリーチャーの顔にもまとわりつき、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となり、その蜘蛛の巣から〈エスケープ〉するまでこの状態を軽減することはできない。</p>"
         }
-      }
+      },
+      "stealth": "<p>（上級）</p>",
+      "name": "ハンパリング・ウェブ/Hampering Web",
+      "description": "<p>半透明の蜘蛛の巣のシートが入り口に張り巡らされており、小さな虫を捕らえたり、通り抜ける大きなクリーチャーを妨害したりする準備ができている。</p>",
+      "disable": "<p>@Check[survival|dc:17|name:Dislodge Web] (訓練済み)を行ってそれを取り外す</p>"
     },
     "Yellow Mold": {
-      "name": "イエロー・モールド",
-      "description": "<p>有毒なカビの胞子が近くのクリーチャーを襲う。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[survival|dc:26|name:Remove the Mold] (expert)を行って胞子を作動させずにカビを取り除く。</p>",
       "items": {
-        "action->Spore Explosion": {
-          "name": "胞子爆発",
-          "description": "<p><strong>トリガー</strong>クリーチャーがカビの占める空間に移動するか、カビにダメージを与える。カビが直射日光の下にある場合、またはダメージが火炎ダメージであった場合、カビはこのリアクションを使用できない。</p>\n<hr />\n<p><strong>効果</strong>トリガーとなったクリーチャーと@Template[emanation|distance:10]{10フィート}以内のすべてのクリーチャーは、イエロー・モールドの胞子にさらされる。</p>"
+        "eTpo3PPNbe4sFYhD": {
+          "name": "スポア・エクスプロージョン/Spore Explosion",
+          "description": "<p><strong>トリガー</strong> クリーチャーがこのカビのスペースに移動するか、このカビにダメージを与える。このカビが直射日光の下にある場合、あるいはそのダメージが火炎ダメージであった場合、このカビはこのリアクションを使用できない。</p>\n<hr />\n<p><strong>効果</strong> トリガーとなったクリーチャーと、@Template[emanation|distance:10]{10フィート}以内にいるすべてのクリーチャーは、イエロー・モールドの胞子にさらされる。</p>"
         },
-        "action->Yellow Mold Spores": {
-          "name": "イエロー・モールドの胞子",
-          "description": "<p>胞子によるdrained状態は、毒の持続時間が終了した後も持続する。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:26]</p>\n<hr />\n<p><strong>　最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 3} (1ラウンド)</p>"
+        "tyAeSBnHmP9Nuh2k": {
+          "name": "イエロー・モールド・スポアーズ/Yellow Mold Spores",
+          "description": "<p>胞子によって生じた消耗は、毒の持続時間が終了した後も残る。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:26]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d8[poison]]ダメージおよび @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d8[poison]]ダメージおよび @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 3} (1ラウンド)</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "イエロー・モールド/Yellow Mold",
+      "description": "<p>有毒なカビの胞子が近くのクリーチャーを襲う。</p>",
+      "disable": "<p>@Check[survival|dc:26|name:Remove the Mold] (expert)を行って胞子を作動させずにカビを取り除く</p>"
     },
     "Telekinetic Swarm Trap": {
-      "name": "テレキネティック・スウォームトラップ",
-      "description": "<p>念動術の魔力を宿した無害に見える飾りが三つ、部屋の物や部屋そのものの破片を引き寄せて回転する破片の雲にし、部屋のすべての生物を攻撃する.</p>",
-      "hp": "テレキネティック・クラウドと同様",
       "hpDetails": "テレキネティック・クラウドと同様",
-      "stealth": "<p>(expert)</p>",
-      "disable": "<p>@Check[thievery|dc:27|name:Take Apart Cloud|traits:action:disable-a-device] (expert)を行ってテレキネティック・クラウドを分解する、@Check[thievery|dc:32|name:Disable Telekinetic Decoration|traits:action:disable-a-device] (master)を行って各テレキネティック・デコレーションを無力化する、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (6レベル; 打ち消し DC 30)を行って各テレキネティック・デコレーションを打ち消しする。</p>",
       "reset": "<p>この罠は、対象となるクリーチャーがいなくなってから (クリーチャーが遠くに移動したか死亡したため) 10分後に非活性化し、リセットされる。</p>",
-      "routine": "<p>(9アクション)各装飾は毎ターン、この罠のアクションのうち3つを使用する。また、この罠は無力化された装飾1つにつき、毎ターン　3アクションを失う。装飾は1つ目のアクションを使用して自身の物体雲を最大200フィート移動させ、2つ目のアクションを使用してその物体で〈ストライク〉を行い、3つ目のアクションを使用して雲にさらに物体を追加し、ダメージを1d12増加させる(最大で4d12+10まで)。装飾の雲がすでに最大ダメージに達している場合、その装飾は3つ目のアクションで何もしない。</p>\n<p>装飾の雲が破壊されていた場合、その装飾は代わりに1つ目のアクションを消費して部屋の中に新しい物体雲を作成し(開始時のダメージ値を使用する)、その後2つ目と3つ目のアクションを使用してその雲を移動させ、攻撃させる。</p>",
       "items": {
-        "action->Agitate": {
-          "name": "アジテイト",
+        "SvVSBExFgbjDrBvW": {
+          "name": "アジテイト/Agitate",
           "description": "<p><strong>トリガー</strong>クリーチャーがその部屋に6秒以上留まる。</p>\n<hr />\n<p><strong>効果</strong>各念動力の装飾品はその部屋に物体で構成された雲を作り出し(合計3つの雲)、その罠はイニシアチブをロールする。罠が作動した時点で部屋にいたクリーチャーは、その後部屋を離れたか、あるいは他のクリーチャーが後から部屋に入ってきたかに関わらず、その罠の対象となる。各装飾品は可能であれば異なるクリーチャーを対象とする。対象となったクリーチャーが罠から1マイル以上離れると対象であることをやめ、その時点で装飾品は新たな対象を指定する。</p>"
+        },
+        "aJouqXgwCGFTWYHD": {
+          "name": "オブジェクツ/Objects"
         }
-      }
+      },
+      "routine": "<p>(9アクション)各装飾は毎ターン、この罠のアクションのうち3つを使用する。また、この罠は無力化された装飾1つにつき、毎ターン3アクションを失う。装飾は1つ目のアクションを使用して自身の物体雲を最大200フィート移動させ、2つ目のアクションを使用してその物体で〈ストライク〉を行い、3つ目のアクションを使用して雲にさらに物体を追加し、ダメージを1d12増加させる(最大で4d12+10まで)。装飾の雲がすでに最大ダメージに達している場合、その装飾は3つ目のアクションで何もしない。</p>\n<p>装飾の雲が破壊されていた場合、その装飾は代わりに1つ目のアクションを消費して部屋の中に新しい物体雲を作成し(開始時のダメージ値を使用する)、その後2つ目と3つ目のアクションを使用してその雲を移動させ、攻撃させる。</p>",
+      "stealth": "<p>(熟練)</p>",
+      "name": "テレキネティック・スウォーム・トラップ/Telekinetic Swarm Trap",
+      "description": "<p>念動術の魔力を宿した無害に見える飾りが三つ、部屋の物や部屋そのものの破片を引き寄せて回転する破片の雲にし、部屋のすべての生物を攻撃する。</p>",
+      "disable": "<p>@Check[thievery|dc:27|name:Take Apart Cloud|traits:action:disable-a-device] (達人)でテレキネティック・クラウドを分解する、@Check[thievery|dc:32|name:Disable Telekinetic Decoration|traits:action:disable-a-device] (大家)で念動力の装飾品をそれぞれ無効化する、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (6ランク; 打ち消し DC 30)で念動力の装飾品をそれぞれ打ち消す</p>"
     },
     "Poisonous Mold": {
-      "name": "有毒なカビ",
-      "description": "<p>このグロテスクな菌類は、クリーチャーが近づくと有毒な胞子を放出する。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[survival|dc:18] (訓練済み)を行い、そのカビを安全に除去する</p>",
       "reset": "<p>完全に根絶(通常は酸または火炎を使用する)しない限り、そのカビは2週間かけて再生する。</p>",
       "items": {
-        "action->Feed on Decay": {
-          "name": "腐敗を食らう",
-          "description": "<p>このカビは血液や腐敗物を与えられると拡大する。もしクリーチャーがこのカビに隣接している間に出血ダメージを受けるか、あるいは瀕死または死亡した死体がこのカビに隣接した場合、このカビは成長し、現在の自身の占める広場に隣接するすべての広場へと拡大する。これは1日1回しか発生しない。</p>"
+        "748inOlksdAeFB0A": {
+          "name": "フィード・オン・ディケイ/Feed on Decay",
+          "description": "<p>このカビは血液や腐敗物を与えられると拡大する。クリーチャーがこのカビに隣接している間に出血ダメージを受けるか、あるいは瀕死または死亡した死体がこのカビに隣接した場合、このカビは成長し、現在の自身の占める広場に隣接するすべての広場へと拡大する。これは1日1回しか発生しない。</p>"
         },
-        "action->Spore Burst": {
-          "name": "胞子の爆発",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>クリーチャーがそのカビに接触する、攻撃を命中させる、あるいはダメージを与える</p>\n<hr />\n<p><strong>効果</strong>そのカビは胞子とカビの塊を爆発的に飛散させ、自身から10フィート以内のクリーチャーに@Damage[(2d6+6)[poison]]のダメージを与える。これには@Check[fortitude|dc:18|basic]セーヴが必要となる。</p>"
+        "ZN34eJalpkCoNMeM": {
+          "name": "スポア・バースト/Spore Burst",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>クリーチャーがこのカビに接触する、攻撃を命中させる、あるいはダメージを与える</p>\n<hr />\n<p><strong>効果</strong>このカビは胞子とカビの塊を爆発させ、周囲10フィート以内のクリーチャーに@Damage[(2d6+6)[poison]]ダメージを与える(@Check[fortitude|dc:18|basic]セーヴ)。</p>"
         },
-        "action->Floating Spores": {
-          "name": "浮遊する胞子",
-          "description": "<p>5フィート。そのオーラに入った、あるいはそのオーラ内で自身のターンを開始したクリーチャーは@Damage[2d6[poison]]のダメージを受ける。</p>"
+        "h7tMZClq2efB1OYA": {
+          "name": "フローティング・スポアーズ/Floating Spores",
+          "description": "<p>5フィート。そのオーラに入った、あるいはそのオーラ内で自身のターンを開始したクリーチャーは@Damage[2d6[poison]]ダメージを受ける。</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "ポイズナス・モールド/Poisonous Mold",
+      "description": "<p>このグロテスクなカビは、クリーチャーが近づくと有毒な胞子を放出する。</p>",
+      "disable": "<p>@Check[survival|dc:18] (訓練済み)を行い、そのカビを安全に除去する</p>"
     },
     "Hidden Pit": {
-      "name": "隠れているピット",
-      "description": "<p>木製の落とし戸が、10フィート四方で深さ20フィートの穴を覆っている。</p>",
-      "stealth": "<p>(もしそのトラップドアが無力化されているか壊れているなら0)</p>",
-      "disable": "@Check[thievery|dc:12|name:Remove the Trapdoor]を行い、トラップドアを除去する",
-      "reset": "<p>クリーチャーは依然としてその罠に落ちる可能性があるが、その罠が再び隠された状態になるためには、トラップドアを手動でリセットしなければならない。</p>",
+      "reset": "<p>クリーチャーは依然として罠に落ちる可能性があるが、罠が再び隠れた状態に戻るには、落とし戸を手動でリセットする必要がある。</p>",
       "items": {
-        "action->Pitfall": {
-          "name": "ピットフォール",
-          "description": "<p><strong>トリガー</strong>クリーチャーが落とし戸の上を歩く。</p>\n<hr />\n<p><strong>効果</strong>作動させたクリーチャーは落下し、落下ダメージ(通常は@Damage[10[bludgeoning]|options:fall-damage]ダメージ)を受ける。そのクリーチャーは落下を避けるために@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{〈縁にしがみつく〉}リアクションを使用できる。</p>"
+        "lY83oUjx0DLxDByK": {
+          "name": "ピット・フォール/Pitfall",
+          "description": "<p><strong>トリガー</strong> クリーチャーがトラップドアの上を歩く。</p>\n<hr />\n<p><strong>効果</strong> トリガーとなったクリーチャーは穴に落ち、落下ダメージ（通常は@Damage[10[bludgeoning]|options:fall-damage]ダメージ）を受ける。そのクリーチャーは落下を回避するために、@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{〈縁にしがみつく〉}リアクションを使用できる。</p>"
         }
-      }
+      },
+      "stealth": "<p>(トラップドアが無力化されているか壊れている場合は0)</p>",
+      "name": "隠れている・ピット/Hidden Pit",
+      "description": "<p>木製のトラップドアが、10フィート四方で深さ20フィートの穴を覆っている。</p>",
+      "disable": "@Check[thievery|dc:12|name:Remove the Trapdoor]を行い、トラップドアを取り除く"
     },
     "Armageddon Orb": {
-      "name": "アルマゲドン・オーブ",
-      "description": "<p>神ローヴァググの血の一滴から鍛造された、渦巻く赤い宝珠が、指定された条件が満たされると空から火炎を降らせる。</p>",
-      "stealth": "または<em>ディテクト・マジック</em>",
-      "disable": "<p>@Check[thievery|dc:48|name:Imbue Thieves' Tools|traits:action:disable-a-device] (伝説的)を行って盗賊道具にアスモデウスとサーレンレイを象徴する側面を吹き込み、それらを使用して10分かけてオーブの力を吸い出す。この判定を試みるキャラクターは、オーブが枯渇するまでラウンドごとに@Damage[5[fire]]のダメージを受ける。</p>",
       "items": {
-        "action->Burn It All": {
-          "name": "すべてを焼き払え",
-          "description": "<p><strong>トリガー</strong>罠の作成者が設定した特別な条件が発生する。通常は彼らの死というイベントである。</p>\n<hr />\n<p><strong>効果</strong> 100マイルの半径にわたって空から火炎が降り注ぎ、範囲内のクリーチャーと物体に@Damage[10d6[fire]]のダメージを与える。各クリーチャーや物体は@Check[reflex|dc:46|basic]セーヴを試みることができる。このダメージによってヒット・ポイントが0になったクリーチャーは即座に死亡する。これは森を完全に焼き尽くしたり、山や都市を丸ごと平らにするほどのダメージではないが、通常は範囲内のほとんどのクリーチャーを殺害する。</p>"
+        "KaYeYfefttO5X9OF": {
+          "name": "バーン・イット・オール/Burn It All",
+          "description": "<p><strong>トリガー</strong>トラップの作成者が設定した特殊な条件が発生する(通常はその作成者の死亡)。</p>\n<hr />\n<p><strong>効果</strong> 100マイルの半径で空から火炎が降り注ぎ、範囲内のクリーチャーと物体に@Damage[10d6[fire]]ダメージを与える。各クリーチャーや物体は@Check[reflex|dc:46|basic]セーヴを行うことができる。このダメージによって0ヒット・ポイントになったクリーチャーは即座に死亡する。これは森を完全に焼き払ったり、山や都市を完全に平らにしたりするほどのダメージではないが、通常は範囲内のほとんどのクリーチャーを殺害する。</p>"
         }
-      }
+      },
+      "stealth": "または<em>ディテクト・マジック</em>",
+      "name": "アルマゲドン・オーブ/Armageddon Orb",
+      "description": "<p>神ローヴァググの血の一滴から鍛造された、渦巻く赤い宝珠が、指定された条件が満たされると空から火炎を降らせる。</p>",
+      "disable": "<p>@Check[thievery|dc:48|name:Imbue Thieves' Tools|traits:action:disable-a-device] (伝説)を行い、盗賊道具にアスモデウスとサーレンレイを象徴する側面を吹き込み、それらを使って10分かけてオーブの力を吸い出す。これを試みるキャラクターは、オーブの力が尽きるまで毎ラウンド@Damage[5[fire]]のダメージを受ける。</p>"
     },
     "Quicksand": {
-      "name": "流砂",
-      "description": "<p>幅15フィートの水と砂の区画が、その上に足を踏み入れたクリーチャーを沈めようとする。</p>",
-      "stealth": "<p>(訓練済み) (もし表面が乱されているなら-10かつ習熟度の最低値なし)</p>",
-      "disable": "<p>@Check[survival|dc:18|name:Safely Disturb the Surface] (訓練済み)を行い、表面を乱す</p>",
       "reset": "<p>このハザードは依然として中に入った者を沈めるが、表面は24時間かけて落ち着くまで、再び隠された状態にはならない。</p>",
-      "routine": "<p>(1アクション)クイックサンドは自身のイニシアチブにおいて、中にいる各クリーチャーを引きずり込む。腰まで沈んでいたクリーチャーは首まで沈んだ状態となり、首まで沈んでいたクリーチャーは完全に引きずり込まれ、窒息を避けるために息を止めなければならなくなる。クイックサンドの中にいるクリーチャーは@Check[athletics|dc:20|traits:action:swim]判定を行って〈水泳〉を試みることができる。これにより、首まで沈んでいるかそれ以上であれば自身を1段階引き上げることができ、腰までしか沈んでいないのであれば5フィート移動することができる。大失敗した場合、そのクリーチャーは1段階引きずり込まれる。クイックサンドから泳ぎ出たクリーチャーはそのハザードから脱出し、クイックサンドの区画に隣接するスペースで@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}となる。他のクリーチャーは、通常はロープや同様の補助具を使用してそのクリーチャーに対して〈援護〉を行うか、自身の@Check[athletics|dc:20|name:Aid Another Creature in Quicksand]判定を行ってそのクリーチャーを引きずり出そうと試みることができる。その結果は、そのクリーチャー自身が判定を試みた場合と同じである。</p>",
       "items": {
-        "action->Submerge": {
-          "name": "水没",
-          "description": "<p><strong>トリガー</strong>超大型以下のクリーチャーが流砂の上を歩く</p>\n<hr />\n<p><strong>効果</strong>作動させたクリーチャーは腰まで流砂に沈む。流砂はまだイニシアチブをロールしていなければ、イニシアチブをロールする。</p>"
+        "Ey8CknllSG5csxdG": {
+          "name": "サブマージ/Submerge",
+          "description": "<p><strong>トリガー</strong> 超大型以下のクリーチャーが流砂の上を歩く</p>\n<hr />\n<p><strong>効果</strong> トリガーしたクリーチャーは腰まで流砂に沈む。流砂がまだイニシアチブをロールしていない場合、イニシアチブをロールする。</p>"
         }
-      }
+      },
+      "routine": "<p>(1アクション) イニシアチブにおいて、流砂はその中にいる各クリーチャーを引きずり込む。腰まで沈んでいたクリーチャーは首まで沈み、首まで沈んでいたクリーチャーは完全に引きずり込まれ、窒息を避けるために息を止めていなければならなくなる。流砂の中にいるクリーチャーは @Check[athletics|dc:20|traits:action:swim] 判定 を 〈水泳〉 に対して行い、首まで沈んでいるかそれ以上の状態なら自分を1段階浮上させるか、腰までしか沈んでいないなら 5フィート 移動することができる。大失敗すると、そのクリーチャーは1段階引きずり込まれる。流砂から 〈水泳〉 で脱出したクリーチャーはハザードから脱出し、流砂の場所の隣接するマスで @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている} 状態となる。他のクリーチャーは、通常はロープや同様の補助具を使用するか、自身の @Check[athletics|dc:20|name:Aid Another Creature in Quicksand] 判定 を行ってそのクリーチャーを引き抜こうと試みることで、そのクリーチャーに対して 〈援護〉 を行うことができる。この結果は、そのクリーチャー自身が 判定 を試みた場合と同じである。</p>",
+      "stealth": "<p>(訓練済み) (もし表面が乱されているなら-10かつ習熟度の最低値なし)</p>",
+      "name": "クイックサンド/Quicksand",
+      "description": "<p>幅15フィートの水と砂の区画が、その上に足を踏み入れたクリーチャーを沈めようとする。</p>",
+      "disable": "<p>@Check[survival|dc:18|name:Safely Disturb the Surface] (訓練済み)を行い、表面を乱す</p>"
     },
     "Ghostly Choir": {
-      "name": "幽霊の聖歌隊",
-      "description": "<p>失われた魂の聖歌隊が床から立ち上がり、聞く者を恐怖させ、音の壁でその肉体を打ち据える不気味な詠唱を歌う。</p>",
-      "stealth": "<p>(熟練)</p>",
-      "disable": "<p>@Check[performance|dc:28|name:Sing a Different Tune|traits:haunt] (訓練済み)を行い、別の旋律でその歌の共鳴を妨害する。あるいは@Check[religion|dc:28|name:Ritually Silence the Haunt|traits:haunt] (訓練済み)を行い、儀式的にその霊を沈黙させる</p>",
       "items": {
-        "action->Profane Chant": {
-          "name": "冒涜的な詠唱",
-          "description": "<p><strong>トリガー</strong>クリーチャーが、聖歌隊が出現できる床の区画から10フィート以内に移動する</p><hr /><p><strong>効果</strong>聖歌隊が立ち上がり、その歌は魂の霊的な姿から30フィート以内の生きているクリーチャーに@Damage[(4d8+18)[mental]]のダメージを与える。影響を受けたクリーチャーはそれぞれ@Check[will|dc:24|traits:damaging-effect]セーヴを試みなければならない。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受けるし、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるし、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは2倍のダメージを受けるする。さらにそのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}状態となり、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}状態となる。</p>"
+        "oZGdTS4jvoAj1myH": {
+          "name": "プロフェイン・チャント/Profane Chant",
+          "description": "<p><strong>トリガー</strong> クリーチャーが聖歌隊が出現する床の区画から10フィート以内に移動する。</p>\n<hr />\n<p><strong>効果</strong> 聖歌隊が立ち上がり、その歌は魂の霊的な姿から30フィート以内にいる生きているクリーチャーに@Damage[(4d8+18)[mental]]ダメージを与える。影響を受けた各クリーチャーは@Check[will|dc:24|traits:damaging-effect]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong> クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong> クリーチャーは半分のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{怖がっている 1}状態となる。</p>\n<p><strong>失敗</strong> クリーチャーは全てのダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{怖がっている 2}状態となる。</p>\n<p><strong>クリティカル失敗</strong> クリーチャーは2倍のダメージを受ける。さらに、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{怖がっている 3}状態と@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}状態になり、1ラウンド続く。</p>"
         }
-      }
+      },
+      "stealth": "<p>(熟練)</p>",
+      "name": "ゴーストリー・クワイア/Ghostly Choir",
+      "description": "<p>失われた魂の聖歌隊が床から立ち上がり、聞く者を恐怖させ、音の壁でその肉体を打ち据える不気味な詠唱を歌う。</p>",
+      "disable": "<p>@Check[performance|dc:28|name:Sing a Different Tune|traits:haunt] (訓練済み)を行い、別の旋律で歌の共鳴を妨害する、あるいは@Check[religion|dc:28|name:Ritually Silence the Haunt|traits:haunt] (訓練済み)を行い、儀式的に霊を沈黙させる</p>"
     },
     "Flensing Blades": {
-      "name": "皮剥ぎの刃",
-      "description": "<p>霊的に推進されるガラスと鋼鉄の渦巻く竜巻が、それが接触するものすべてを切り刻んでリボン状にする。</p>",
-      "stealth": "<p>(熟練)</p>",
-      "disable": "<p>@Check[thievery|dc:35|name:Adjust Blades|traits:action:disable-a-device] (達人)を行い、刃が互いを破壊するように精密に調整する。あるいは@Check[religion|dc:38|name:Weaken the Haunt] (熟練)を行い、そのハウントを弱体化させる。これを無力化するには4回の成功が必要である。</p>",
-      "reset": "<p>そのハウントは1時間かけてギザギザの破片を自身のエリア内に引き戻し、その後再び作動できるようになる。</p>",
-      "routine": "<p>(3アクション)刃の竜巻は3アクションを使用して移動し、各アクションで最大30フィート移動し、 @Damage[(2d10+10)[slashing]]ダメージを与える。その小径にいる各クリーチャーは@Check[reflex|dc:33]を行わなければならない。</p>\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるに加えて@Damage[1d10[bleed]]を受ける。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは2倍のダメージを受けるし、 @Damage[1d10[bleed]] 。また、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷 1}となる(すでに負傷状態である場合、負傷状態の値を1増加させる)。</p>\n<p>このハザードを無力化するための判定が成功するたびに、そのハウントの移動速度が30フィート減少し、4回目の成功で完全に無力化される。</p>",
+      "reset": "<p>そのハウントは1時間かけてギザギザの破片をそのエリアに引き戻し、その後再び作動できる。</p>",
       "items": {
-        "action->Whirling Blades": {
-          "name": "回転する刃",
+        "jSBfyDGUXAPbIJTT": {
+          "name": "ワーリング・ブレイズ/Whirling Blades",
           "description": "<p><strong>トリガー</strong> 3体以上のクリーチャーがそのハウントの範囲内に入る</p>\n<hr />\n<p><strong>効果</strong>鋭い破片が地面から浮き上がり、5フィートの広場1つ分を占める急速な円を描いて回転し始める。そのハウントはイニシアチブをロールする。</p>"
         }
-      }
+      },
+      "routine": "<p>(3アクション) 刃の竜巻は3アクションを使用して移動し、1アクションごとに最大30フィート移動して@Damage[(2d10+10)[slashing]]のダメージを与える。進路上にいる各クリーチャーは@Check[reflex|dc:33]を行わなければならない。</p>\n<p><strong>クリティカル成功</strong> そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong> そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong> そのクリーチャーは全てのダメージを受けるとともに@Damage[1d10[bleed]]を受ける。</p>\n<p><strong>クリティカル失敗</strong> そのクリーチャーは2倍のダメージと@Damage[1d10[bleed]]を受ける。さらに@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷 1}状態になる（すでに負傷している場合は負傷の値が1増加する）。</p>\n<p>このハザードを無力化する判定が1回成功するごとに、ハウントの移動が30フィート減少し、4回目の成功で完全に無力化される。</p>",
+      "stealth": "<p>(エキスパート)</p>",
+      "name": "フレンシング・ブレイド/Flensing Blades",
+      "description": "<p>幽霊の力で推進されるガラスと鋼の渦が、触れたものをすべて細長いリボンのように切り裂く。</p>",
+      "disable": "<p>@Check[thievery|dc:35|name:Adjust Blades|traits:action:disable-a-device] (名人)を行い、刃が互いを破壊するように精密に調整する、あるいは@Check[religion|dc:38|name:Weaken the Haunt] (熟練)を行い、ハウントを弱体化させる。無力化するには4回の成功が必要である</p>"
     },
     "Plummeting Doom": {
-      "name": "墜落の破滅/Plummeting Doom",
-      "description": "<p>4体の復讐に燃える霊が侵入者をつかみ、近くにある高さ120フィートの崖の縁から彼らを投げ落とす。</p>",
-      "stealth": "<p>(達人)を行い、遠くの物体が地面に激突する残響を聞く</p>",
-      "disable": "<p>@Check[athletics|dc:40|name:Forcefully Push Spirits Back] (訓練済み)を行い、スピリットが崖から投げ出されることを恐れるほど強力に押し戻すか、あるいは@Check[religion|dc:40|name:Seal the Spirits] (expert)を行い、一時的にスピリットを封印する</p>",
       "reset": "<p>1時間</p>",
       "items": {
-        "action->Call of the Ground": {
-          "name": "大地の呼び声",
+        "i9qsvHuq9IdeRohO": {
+          "name": "コール・オブ・ザ・グラウンド/Call of the Ground",
           "description": "<p><strong>トリガー</strong>クリーチャーが崖の縁から15フィート以内に近づく。</p>\n<hr />\n<p><strong>効果</strong>各スピリットは、崖の縁から60フィート以内にいるクリーチャーを崖から投げ落とそうと試みる。これには、対象の頑健 DCに対して+26の修正値で判定を行う。このハウントが成功した場合、対象は崖の縁から投げ落とされ、その後地面まで120フィート落下する。このハウントが打ち負かされるまで、崖の縁から60フィート以内にいる各クリーチャーは、〈落下を和らげる〉、〈飛行〉、〈縁にしがみつく〉、あるいはその他の方法で落下を回避するためにアクションやリアクションを消費しようとするたびに、@Check[will|dc:40]セーヴを行わなければならない。セーヴに失敗した場合、そのアクションは妨害される。このハウントは、落下を遅くしたり、落下の影響を軽減したりする呪文(<em>フェザー・フォール</em>など)を、+32の打ち消し修正値で自動的に打ち消ししようと試みる。</p>"
         }
-      }
+      },
+      "stealth": "<p>(名人)を行い、遠くの物体が地面に激突する残響を聞く</p>",
+      "name": "プラメティング・ドゥーム/Plummeting Doom",
+      "description": "<p>4体の復讐に燃える霊が侵入者を捕らえ、近くにある高さ120フィートの崖の縁から投げ落とす。</p>",
+      "disable": "<p>@Check[athletics|dc:40|name:Forcefully Push Spirits Back] (訓練済み)で、霊たちが崖から突き落とされることを恐れるほど強く押し返す、あるいは@Check[religion|dc:40|name:Seal the Spirits] (達人)で、一時的に霊を封印する</p>"
     },
     "Treacherous Scree": {
-      "name": "危険な岩屑",
-      "description": "<p>この傾斜地の足場は一見安定しているように見えるが、表面を覆う小石は緩く詰まっており滑りやすい.</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[survival|dc:20|name:Navigate Safe Path] (訓練済み)を行い、安全な小径を進む</p>",
       "items": {
-        "action->Rockslide": {
-          "name": "落石",
-          "description": "<p><strong>トリガー</strong>クリーチャーが不安定な地面に足を踏み入れる。</p>\n<hr />\n<p><strong>効果</strong>岩が転がり、足元が滑る。トリガーとなったクリーチャーは、転がり落ちる岩に対して@Check[reflex|dc:21|traits:damaging-effect]セーヴを行わなければならない。岩は@Damage[(2d10+13)[bludgeoning]]ダメージを与える。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーはダメージを受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受けるし、自身のスペースで伏せ状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるし、自身のスペースで伏せ状態となり、斜面の下まで転がり落ちる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、ダメージは2倍になる。</p>"
+        "DE7tTstJaGz9oAi4": {
+          "name": "ロックスライド/Rockslide",
+          "description": "<p><strong>トリガー</strong>クリーチャーが不安定な地面に足を踏み入れる。</p>\n<hr />\n<p><strong>効果</strong>岩が足元で崩れ、滑り落ちる。作動させたクリーチャーは、岩にぶつかりながら転がり落ちる際に@Check[reflex|dc:21|traits:damaging-effect]セーヴを行わなければならない。岩は@Damage[(2d10+13)[bludgeoning]]ダメージを与える。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーはダメージを受けない。</p>\n<p><strong>成功</strong>クリーチャーは半分のダメージを受けるし、自身のスペースで伏せ状態になる。</p>\n<p><strong>失敗</strong>クリーチャーは全てのダメージを受けるし、自身のスペースで伏せ状態になり、斜面の底まで転がり落ちる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、ダメージは2倍になる。</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "トレチャラス・スクリー/Treacherous Scree",
+      "description": "<p>この傾斜地の足場は一見安定しているように見えるが、表面を覆う小石は緩く詰まっており滑りやすい。</p>",
+      "disable": "<p>@Check[survival|dc:20|name:Navigate Safe Path] (訓練済み)で、安全な小径を進む</p>"
     },
     "Wheel Of Misery": {
-      "name": "惨劇の車輪",
-      "description": "<p>壁にはめ込まれた華やかな車輪(6つのセグメントに分かれており、それぞれに色付きのルーンが刻まれている)は、その正面100フィート以内にいるクリーチャーを検知する魔法のセンサーによって制御されている。</p>",
-      "stealth": "<p>(熟練)で魔法のセンサーを感知できる；車輪がDCを0</p>持っていることに気づく",
-      "disable": "<p>@Check[thievery|dc:26|name:Stop Wheel from Spinning|traits:action:disable-a-device] (expert)をホイールに対して行い回転を止めるか、@Check[thievery|dc:22|name:Erase Rune|traits:action:disable-a-device] (master)を行い各ルーンを消去するか、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (4レベル; 打ち消し DC 22)を行い各ルーンを打ち消しする</p>",
-      "reset": "<p>クリーチャーがセンサーの射程内のを移動することなく1分が経過した場合、その罠は作動を停止しリセットされる。</p>",
-      "routine": "<p>(2アクション)自身のイニシアチブにおいて、この罠は1つ目のアクションを使用して回転し、その後停止する。ホイールの回転が止まったときにどのセグメントが一番上にあるかを決定するために1d6をロールする。ホイールは2つ目のアクションを使用して、そのセグメントに記載された呪文を再現する(3レベル、DC 24、呪文攻撃修正+14)。この呪文の対象は、そのエリア内の最も近いクリーチャーを中心に据えるか、あるいはそのクリーチャーを含まなければならない。必要であれば、これにより呪文の射程は100フィートに増加する。この罠によって発動される呪文はすべて秘術呪文である。</p>\n<p><strong>1</strong> @UUID[Compendium.pf2e.spells-srd.Item.o4lRVTwSxnOOn5vl]{スリープ}</p>\n<p><strong>2</strong> @UUID[Compendium.pf2e.spells-srd.Item.DCQHaLrYXMI37dvW]{パラライズ}</p>\n<p><strong>3</strong> @UUID[Compendium.pf2e.spells-srd.Item.9AAkVUCwF6WVNNY2]{ライトニング・ボルト} (100フィートの直線)</p>\n<p><strong>4</strong> @UUID[Compendium.pf2e.spells-srd.Item.VosLNn2M8S7JH67D]{ブラインドネス}</p>\n<p><strong>5</strong> @UUID[Compendium.pf2e.spells-srd.Item.thAHF1zxNplLCJPO]{コースティック・ブラスト}</p>\n<p><strong>6</strong> @UUID[Compendium.pf2e.spells-srd.Item.J7Y7tl0bbdz7TcCc]{エンフィーブル}</p>",
+      "reset": "<p>クリーチャーがセンサーの射程内を移動することなく1分が経過した場合、その罠は作動を停止してリセットされる。</p>",
       "items": {
-        "action->Wheel Spin": {
-          "name": "車輪の回転",
-          "description": "<p><strong>トリガー</strong>クリーチャーがセンサーの検知範囲に入る。</p>\n<hr />\n<p><strong>効果</strong>車輪が回転し始め、イニシアチブをロールする。</p>"
+        "ZS4b3rYv9jOgbMzm": {
+          "name": "ウィール・スピン/Wheel Spin",
+          "description": "<p><strong>トリガー</strong> クリーチャーがセンサーの検知範囲に入る。</p>\n<hr />\n<p><strong>効果</strong> 車輪が回転し始め、イニシアチブをロールする。</p>"
         }
-      }
+      },
+      "routine": "<p>(2アクション)イニシアチブにおいて、この罠は1つ目のアクションを使用して回転し、その後停止する。車輪の回転が止まったときにどのセグメントが一番上になるかを決定するために1d6をロールする。車輪は2つ目のアクションを使用して、そのセグメントに記載された呪文(3レベル、DC 24、呪文攻撃修正+14)を再現する。この呪文の対象は、エリア内で最も近いクリーチャーを中心とするか、あるいはそのクリーチャーを含むものとする。必要であれば、この呪文の射程は100フィートに増加する。この罠によって発動される呪文はすべて秘術である。</p>\n<p><strong>1</strong> @UUID[Compendium.pf2e.spells-srd.Item.o4lRVTwSxnOOn5vl]{スリープ}</p>\n<p><strong>2</strong> @UUID[Compendium.pf2e.spells-srd.Item.DCQHaLrYXMI37dvW]{パラライズ}</p>\n<p><strong>3</strong> @UUID[Compendium.pf2e.spells-srd.Item.9AAkVUCwF6WVNNY2]{ライトニング・ボルト}（100フィート直線）</p>\n<p><strong>4</strong> @UUID[Compendium.pf2e.spells-srd.Item.VosLNn2M8S7JH67D]{ブラインドネス}</p>\n<p><strong>5</strong> @UUID[Compendium.pf2e.spells-srd.Item.thAHF1zxNplLCJPO]{コースティック・ブラスト}</p>\n<p><strong>6</strong> @UUID[Compendium.pf2e.spells-srd.Item.J7Y7tl0bbdz7TcCc]{エンフィーブル}</p>",
+      "stealth": "<p>(熟練)で魔法のセンサーを感知する；（魔法のセンサーの）判定難易度（DC）が0であることに気づく</p>",
+      "name": "ホイール・オブ・ミザリー/Wheel Of Misery",
+      "description": "<p>壁にはめ込まれた華やかな車輪(6つのセグメントに分かれており、それぞれに色付きのルーンが刻まれている)は、その正面100フィート以内にいるクリーチャーを検知する魔法のセンサーによって制御されている。</p>",
+      "disable": "<p>@Check[thievery|dc:26|name:Stop Wheel from Spinning|traits:action:disable-a-device] (熟練)を車輪に対して行い、回転を止める、@Check[thievery|dc:22|name:Erase Rune|traits:action:disable-a-device] (達人)を各ルーンに対して行い、消去する、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (4レベル；打ち消し DC 22)を各ルーンに対して行い、打ち消す</p>"
     },
     "Polymorph Trap": {
-      "name": "ポリモーフ トラップ/Polymorph Trap",
-      "description": "<p>ドルイドのグリフが、侵入者を動物に変えようとする。</p>",
       "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[thievery|dc:32|name:Drain Glyph's Power|traits:action:disable-a-device] (master)を行いグリフの力を無害に吸い出すか、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (6レベル; 打ち消し DC 30)を行いそのグリフを打ち消しする</p>",
-      "items": {
-        "action->Cursed Metamorphosis": {
-          "name": "カースド・メタモルフォシス",
-          "description": "<p><strong>トリガー</strong>クリーチャーがドルイド語で合言葉を唱えずにグリフの30フィート以内に移動する。</p>\n<hr />\n<p><strong>効果</strong>そのクリーチャーは@UUID[Compendium.pf2e.spells-srd.Item.dN8QBNuTiaBHCKUe]{カースド・メタモルフォシス}の対象となる(@Check[will|dc:32]セーヴ)。</p>"
-        }
-      }
+      "name": "ポリモーフ・トラップ/Polymorph Trap",
+      "description": "<p>ドルイドのグリフが、侵入者を動物に変えようとする。</p>",
+      "disable": "<p>@Check[thievery|dc:32|name:Drain Glyph's Power|traits:action:disable-a-device] (達人)をグリフに対して行い、その魔力を無害化して吸い出す、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (6レベル；打ち消し DC 30)をグリフに対して行い、打ち消す</p>"
     },
     "Spinning Blade Pillar": {
-      "name": "回転刃の柱/Spinning Blade Pillar",
-      "description": "<p>3枚の剃刀のように鋭い回転刃を備えた金属製のポールが床に隠されており、最大8枚の床タイルにあるトリガープレートと、30フィート以内にある隠されたコントロールパネルに接続されている。</p>",
-      "hp": "パネル硬度: 5、パネル HP: 20 (BT 10)",
-      "hpDetails": "パネル硬度: 5、パネル HP: 20 (BT 10)",
-      "stealth": "<p>(訓練済み)または@Check[perception|dc:26|traits:action:seek] (expert)を行い、コントロールパネルに気づく</p>",
-      "disable": "<p>@Check[thievery|dc:21|name:Disable Pillar|traits:action:disable-a-device] (訓練済み)を柱に対して2回行うか、@Check[thievery|dc:19|name:Disable Trap (Control Panel)|traits:action:disable-a-device] (expert)をコントロールパネルに対して1回行うことで、罠全体が作動を停止する。コントロールパネルを破壊すると、コントロールパネルを使用して罠を無力化することができなくなり、罠が自動的に作動を停止することもなくなる。</p>",
-      "reset": "<p>その罠は1分後に作動を停止しリセットされる。</p>",
-      "routine": "<p>(3アクション)この罠は1つ目のアクションを使用して隣接する各クリーチャーに対して回転刃による〈ストライク〉を行い、2つ目のアクションを使用してランダムな方向に直進し(方向を決定するために[[/gmr 1d4 #Direction]]をロールする)、3つ目のアクションを使用して隣接する各クリーチャーに対して回転刃による〈ストライク〉を行う。この罠はマルチアタック・ペナルティを受けない。</p>",
+      "hpDetails": "パネル硬度: 5、パネルHP: 20 (BT 10)",
+      "reset": "<p>この罠は1分後に無効化されリセットされる。</p>",
       "items": {
-        "action->Rising Pillar": {
-          "name": "隆起する柱",
+        "F0I1pLJQm1AQtXPH": {
+          "name": "ライジング・ピラー/Rising Pillar",
           "description": "<p><strong>トリガー</strong>クリーチャーが罠の仕掛けられた床タイルの1つに足を踏み入れる。</p>\n<hr />\n<p><strong>効果</strong>罠がグリッドの交差点に飛び出し、隣接するクリーチャー1体(もし存在すれば)に対して回転刃で〈ストライク〉を行い、その後イニシアチブをロールする。</p>"
         },
-        "action->Speed": {
-          "name": "移動速度",
+        "6wV9i41Jd4HThaAi": {
+          "name": "移動速度/Speed",
           "description": "<p>10フィート</p>"
+        },
+        "vS5xxWVCLY1BNE4O": {
+          "name": "スピニング・ブレイド/Spinning Blade"
         }
-      }
+      },
+      "routine": "<p>(3アクション)この罠は1つ目のアクションを使用して隣接する各クリーチャーに対して回転刃による〈ストライク〉を行い、2つ目のアクションを使用してランダムな方向に直進し(方向を決定するために[[/gmr 1d4 #Direction]]をロールする)、3つ目のアクションを使用して隣接する各クリーチャーに対して回転刃による〈ストライク〉を行う。この罠はマルチアタック・ペナルティを受けない。</p>",
+      "stealth": "<p>(訓練済み)または@Check[perception|dc:26|traits:action:seek](熟練)でコントロールパネルに気づく</p>",
+      "name": "スピニング・ブレイド・ピラー/Spinning Blade Pillar",
+      "description": "<p>3枚の剃刀のように鋭い回転刃を備えた金属製のポールが床に隠されており、最大8枚の床タイルにあるトリガープレートと、30フィート以内にある隠されたコントロールパネルに接続されている。</p>",
+      "disable": "<p>@Check[thievery|dc:21|name:Disable Pillar|traits:action:disable-a-device](訓練済み)を柱に対して2回行うか、@Check[thievery|dc:19|name:Disable Trap (Control Panel)|traits:action:disable-a-device](熟練)をコントロールパネルに対して1回行うと、罠全体が無効化される。コントロールパネルを破壊すると、コントロールパネルを使用して罠を無効化することができなくなり、罠が自動的に無効化されることもなくなる。</p>"
     },
     "Jealous Abjurer": {
-      "name": "嫉妬深き防御術師",
-      "description": "<p>ローブをまとったスピリットが床から現れ、非難するように指をさす。</p>",
-      "stealth": "<p>(master)</p>",
-      "disable": "<p>@Check[arcana|dc:36|name:Convince the Spirit]、@Check[nature|dc:36|name:Convince the Spirit]、@Check[occultism|dc:36|name:Convince the Spirit]、または@Check[religion|dc:36|name:Convince the Spirit] (master)を行い、対象の魔法に関する知識は侮るにはあまりに偉大であることをスピリットに納得させる</p>",
       "reset": "<p>1時間</p>",
       "items": {
-        "action->Rend Magic": {
-          "name": "魔法引き裂き",
-          "description": "<p><strong>トリガー</strong>現在有益な呪文の効果を受けているクリーチャーが、アブジュラーの30フィート以内に近づく。</p>\n<hr />\n<p><strong>効果</strong>他者の名声と魔法の腕前を妬むその嫉妬深いアブジュラーは、対象が現在受けている最も高レベルの有益な呪文に壊滅的な失敗を引き起こそうと試みる。アブジュラーは+26の修正値で打ち消し判定を行う。打ち消し判定が成功した場合、その呪文は解除され、呪文が激しく内破することで、その呪文の影響を受けていたクリーチャーは@Damage[(4d12+30)[force]]ダメージを受ける(@Check[reflex|dc:32|basic]セーヴ)。</p>"
+        "e90G0Brsf6uhlGp6": {
+          "name": "レンド・マジック/Rend Magic",
+          "description": "<p><strong>トリガー</strong> 有益な呪文の影響を現在受けているクリーチャーが、そのアブジュラーから30フィート以内に近づく。</p>\n<hr />\n<p><strong>効果</strong> 他者の名声と魔法の腕前を妬むその嫉妬深いアブジュラーは、対象が現在受けている最もレベルの高い有益な呪文に壊滅的な失敗を引き起こそうと画策する。それは+26の修正で打ち消し判定を行う。もしその打ち消し判定が成功すれば、呪文は打ち消され、呪文が影響を及ぼしていたクリーチャーは、呪文が激しく崩壊することで@Damage[(4d12+30)[force]]のダメージを受ける（@Check[reflex|dc:32|basic] セーヴ）。</p>"
         }
-      }
+      },
+      "stealth": "<p>(達人)</p>",
+      "name": "ジェラス・アブジュラー/Jealous Abjurer",
+      "description": "<p>ローブをまとったスピリットが床から現れ、非難するように指をさす。</p>",
+      "disable": "<p>@Check[arcana|dc:36|name:Convince the Spirit]、@Check[nature|dc:36|name:Convince the Spirit]、@Check[occultism|dc:36|name:Convince the Spirit]、または@Check[religion|dc:36|name:Convince the Spirit] (master)で、対象の魔法に関する知識は侮るにはあまりに深いと霊を説得する</p>"
     },
     "Vorpal Executioner": {
-      "name": "ヴォーパルの処刑人/Vorpal Executioner",
-      "description": "<p>非常に鋭い鋸刃が降りてきて、部屋全体に複雑な小径として刻まれた溝に沿って移動し、室内にいる全員を斬首しようとする。</p>",
-      "hp": "分岐点ごとに",
       "hpDetails": "ジャンクションごとに",
-      "stealth": "<p>(expert)</p>",
-      "disable": "<p>@Check[thievery|dc:41|name:Jam Saw Blade|traits:action:disable-a-device] (expert)を4つの異なるジャンクションで行い、回転刃のすべての移動経路を塞ぎ、部屋の中を移動できないようにする</p>",
       "reset": "<p>その罠はラウンドの間にリセットされ、1ラウンド後に再び作動させることができる。</p>",
       "items": {
-        "action->Total Decapitation": {
-          "name": "完全斬首",
+        "4QF1yNgj2FX7rO4C": {
+          "name": "トータル・デキャピテーション/Total Decapitation",
           "description": "<p><strong>トリガー</strong>クリーチャーが部屋から出ようとする。</p>\n<hr />\n<p><strong>効果</strong>鋸刃はその小径に沿って移動し、部屋にいる各クリーチャーに対して〈ストライク〉を1回行う。その際、標的を斬首する可能性を最大化するために、ねじれたり高さを変えたりする。</p>"
         },
-        "melee->Saw Blade": {
-          "name": "鋸刃",
+        "T0k2Rnyz49qG1Gkv": {
+          "name": "ソー・ブレイド/Saw Blade",
           "description": "<p>マルチアタック・ペナルティなし</p>"
         },
-        "action->Decapitation": {
-          "name": "斬首",
-          "description": "<p>クリティカルヒットの場合、対象は@Check[fortitude|dc:39|traits:damaging-effect]セーヴに成功しなければならず、失敗すると斬首され、頭部なしで生存できる場合を除き即座に死亡する。</p>"
+        "mPVesRXUMN4Ws9IR": {
+          "name": "ディキャピテーション/Decapitation",
+          "description": "<p>クリティカルヒットの場合、対象は@Check[fortitude|dc:39|traits:damaging-effect]セーヴに成功しなければならず、失敗すれば斬首され、頭なしで生存できるのでない限り即座に死亡する。</p>"
         }
-      }
+      },
+      "stealth": "<p>(expert)</p>",
+      "name": "ヴォーパル・エグゼキューショナー/Vorpal Executioner",
+      "description": "<p>凶悪に鋭いノコギリの刃が降りてきて、部屋全体に張り巡らされた溝に沿って複雑な経路で移動し、室内にいる全員の首を切り落とそうとする。</p>",
+      "disable": "<p>@Check[thievery|dc:41|name:Jam Saw Blade|traits:action:disable-a-device](熟練)を4つの異なるジャンクションで行い、回転刃のすべての移動経路を塞ぎ、部屋の中を移動できないようにする</p>"
     },
     "Perilous Flash Flood": {
-      "name": "危険な突発洪水/Perilous Flash Flood",
-      "description": "<p>通りを駆け抜けて危険な瓦礫を巻き込む水であれ、容器から溢れ出したより不自然な物質であれ、この容赦ない洪水はその小径にあるすべてのものを打ちのめす。</p>",
-      "stealth": "<p>(expert)</p>",
-      "disable": "<p>洪水から避難場所を作るのに十分な強度を持つバリケードを移動させるかコンストラクトするための、3回の@Check[athletics|dc:35|name:Move Barricade]、@Check[crafting|dc:35|name:Construct Barricade]、または@Check[survival|dc:35|name:Construct Barricade]による判定。これにより安全に留まれる場所が作られるが、バリケードで囲まれたエリアの外にいるクリーチャーは、洪水の性質や発生源によっては依然として危険にさらされる可能性がある。</p>",
-      "routine": "<p>(1 action) The flood advances forward 60フィート, crashing into all creatures within its area. Each creature must attempt a @Check[fortitude|dc:30] save as the floodwaters pummel them and pull them downstream. The amount and type of damage dealt are based on the nature of the flood, and certain types of floods impose additional effects. The turbulent waters mean creatures within the area of the flood must attempt a @Check[athletics|dc:20|name:Swim|traits:action:swim] 判定 to Swim in order to move, and those who do not succeed at a 判定 to Swim each ラウンド may drown.</p>\n<hr>\n<p><strong>クリティカル成功</strong> The creature takes no damage.</p>\n<p><strong>成功</strong> The creature 半分のダメージを受ける.</p>\n<p><strong>失敗</strong> The creature 全てのダメージを受ける and is moved 10フィート along with the water.</p>\n<p><strong>クリティカル失敗</strong> The creature 2倍のダメージを受ける and is moved 20フィート along with the water.</p>\n<hr>\n<ul>\n<li><strong>Acidic Runoff</strong> This caustic flood dissolves flesh as it moves, dealing @Damage[1d12[bludgeoning],(1d12+8)[acid]]{1d12 殴打ダメージ and 1d12+8 酸ダメージ}. Additionally, it deals @Damage[2d6[persistent,acid]] damage to creatures who critically fail their 頑健 saves.</li>\n<li><strong>Battering Waves</strong> This flood of rushing water deals @Damage[(2d12+10)[bludgeoning]] damage.</li>\n<li><strong>Repulsive Refuse</strong> This flood has picked up tainted or disease-ridden objects like sewer runoff or rotting food. It deals @Damage[(2d12+8)[bludgeoning]] damage. Each creature exposed to the flood must attempt a @Check[fortitude|dc:29] save, becoming @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} on a failure or @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2} on a critical failure. Additionally, creatures who come into contact with the flood waters are exposed to filth fever (@Check[fortitude|dc:20]).</li>\n<li><strong>Sharp Debris</strong> The waters have picked up various objects, some of which are particularly sharp. The flood deals @Damage[1d12[bludgeoning]] damage and @Damage[(1d12+12)[piercing]] damage.</li>\n<li><strong>Sticky Goo</strong> The substance is particularly sticky. It deals @Damage[(2d12+6)[bludgeoning]] damage. Additionally, each creature in the flood must attempt a @Check[reflex|dc:29] save at the beginning of their turn each ラウンド. On a failed セーヴィング・スロウ, they take a –10-foot circumstance penalty to all their Speeds for 1ラウンド. On a critical failure, they are instead @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能} for 1ラウンド.</li>\n</ul><p>(1 action) The flood advances forward 60フィート, crashing into all creatures within its area. Each creature must attempt a @Check[fortitude|dc:30] save as the floodwaters pummel them and pull them downstream. The amount and type of damage dealt are based on the nature of the flood, and certain types of floods impose additional effects. The turbulent waters mean creatures within the area of the flood must attempt a @Check[athletics|dc:20|name:Swim|traits:action:swim] 判定 to Swim in order to move, and those who do not succeed at a 判定 to Swim each ラウンド may drown.</p>\n<hr>\n<p><strong>クリティカル成功</strong> The creature takes no damage.</p>\n<p><strong>成功</strong> The creature 半分のダメージを受ける.</p>\n<p><strong>失敗</strong> The creature 全てのダメージを受ける and is moved 10フィート along with the water.</p>\n<p><strong>クリティカル失敗</strong> The creature 2倍のダメージを受ける and is moved 20フィート along with the water.</p>\n<hr>\n<ul>\n<li><strong>Acidic Runoff</strong> This caustic flood dissolves flesh as it moves, dealing @Damage[1d12[bludgeoning],(1d12+8)[acid]]{1d12 殴打ダメージ and 1d12+8 酸ダメージ}. Additionally, it deals @Damage[2d6[persistent,acid]] damage to creatures who critically fail their 頑健 saves.</li>\n<li><strong>Battering Waves</strong> This flood of rushing water deals @Damage[(2d12+10)[bludgeoning]] damage.</li>\n<li><strong>Repulsive Refuse</strong> This flood has picked up tainted or disease-ridden objects like sewer runoff or rotting food. It deals @Damage[(2d12+8)[bludgeoning]] damage. Each creature exposed to the flood must attempt a @Check[fortitude|dc:29] save, becoming @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} on a failure or @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2} on a critical failure. Additionally, creatures who come into contact with the flood waters are exposed to filth fever (@Check[fortitude|dc:20]).</li>\n<li><strong>Sharp Debris</strong> The waters have picked up various objects, some of which are particularly sharp. The flood deals @Damage[1d12[bludgeoning]] damage and @Damage[(1d12+12)[piercing]] damage.</li>\n<li><strong>Sticky Goo</strong> The substance is particularly sticky. It deals @Damage[(2d12+6)[bludgeoning]] damage. Additionally, each creature in the flood must attempt a @Check[reflex|dc:29] save at the beginning of their turn each ラウンド. On a failed セーヴィング・スロウ, they take a –10-foot circumstance penalty to all their Speeds for 1ラウンド. On a critical failure, they are instead @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能} for 1ラウンド.</li>\n</ul>",
       "items": {
-        "action->Burst Free": {
-          "name": "爆発解放",
-          "description": "<p><strong>トリガー</strong>クリーチャーまたは効果が洪水の封じ込めを破る。</p>\n<hr />\n<p><strong>効果</strong>洪水が押し寄せ、このハザードはイニシアチブをロールする。</p>"
+        "gxjS3APksgflCuua": {
+          "name": "バースト・フリー/Burst Free",
+          "description": "<p><strong>トリガー</strong> クリーチャーまたは効果が洪水の封じ込めを破る。</p>\n<hr />\n<p><strong>効果</strong> 洪水が押し寄せ、このハザードはイニシアチブをロールする。</p>"
         },
-        "action->Filth Fever": {
-          "name": "汚物熱",
-          "description": "<p>汚物熱による悪心状態と@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}は、その病気が治癒するまで自然には改善しない。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:20]</p>\n<p><strong>　第1段階</strong>悪影響のない保菌者 ([[/gmr 1d4 #hours]]{1d4時間})</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} (1日)</p>\n<p><strong>第3段階</strong>悪心1および、悪心状態が続く限り{@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}} (1日)</p>\n<p><strong>第4段階</strong>気絶 (1日)</p>\n<p><strong>第5段階</strong>死亡</p>"
+        "Pz2JfI4HEqH5iEwA": {
+          "name": "フィルス・フィーヴァー/Filth Fever",
+          "description": "<p>フィルス・フィーヴァーによる不調および@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態は、その病気が治癒するまで自然には回復しない。</p>\n<p><strong>セーヴィングスロー</strong> @Check[fortitude|dc:20]</p>\n<p><strong>第1段階</strong> 保菌者(無症状)([[/gmr 1d4 #hours]]{1d4時間})</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} (1日)</p>\n<p><strong>第3段階</strong> 不調 1 かつ、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1日)</p>\n<p><strong>第4段階</strong> 気絶 (1日)</p>\n<p><strong>第5段階</strong> 死亡</p>"
         }
-      }
+      },
+      "routine": "<p>(1アクション)洪水は前方へ60フィート進み、その範囲内のすべてのクリーチャーに衝突する。洪水がクリーチャーを打ちのめし、下流へと引きずり込むため、各クリーチャーは@Check[fortitude|dc:30]セーヴを行わなければならない。与えるダメージの量と種類は洪水の性質に基づき、特定の種類の洪水は追加の効果を課す。荒れ狂う水のため、洪水の範囲内にいるクリーチャーは移動するために〈水泳〉の@Check[athletics|dc:20|name:Swim|traits:action:swim]判定を行わなければならず、各ラウンドに〈水泳〉の判定に成功しなかった者は溺れる可能性がある。</p>\n<hr>\n<p><strong>クリティカル成功</strong>：そのクリーチャーはダメージを受けない。</p>\n<p><strong>成功</strong>：そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>：そのクリーチャーは全てのダメージを受けるとともに、水と共に10フィート移動させられる。</p>\n<p><strong>クリティカル失敗</strong>：そのクリーチャーは2倍のダメージを受けるとともに、水と共に20フィート移動させられる。</p>\n<hr>\n<ul>\n<li><strong>酸性の流出物</strong>：この腐食性の洪水は移動しながら肉を溶かし、@Damage[1d12[bludgeoning],(1d12+8)[acid]]{1d12 殴打ダメージおよび1d12+8 酸ダメージ}を与える。さらに、頑健セーヴでクリティカルに失敗したクリーチャーには@Damage[2d6[persistent,acid]]ダメージを与える。</li>\n<li><strong>打ち寄せる波</strong>：この押し寄せる水の洪水は@Damage[(2d12+10)[bludgeoning]]ダメージを与える。</li>\n<li><strong>不快な廃棄物</strong>：この洪水は下水の流出物や腐った食べ物のような汚染された、あるいは病気を媒介する物体を巻き込んでいる。これは@Damage[(2d12+8)[bludgeoning]]ダメージを与える。洪水にさらされた各クリーチャーは@Check[fortitude|dc:29]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{気分が悪い 1}状態となり、クリティカル失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{気分が悪い 2}状態となる。さらに、洪水の水に接触したクリーチャーは汚物熱(@Check[fortitude|dc:20])にさらされる。</li>\n<li><strong>鋭利な瓦礫</strong>：水は様々な物体を巻き込んでおり、その中には特に鋭利なものもある。この洪水は@Damage[1d12[bludgeoning]]ダメージと@Damage[(1d12+12)[piercing]]ダメージを与える。</li>\n<li><strong>粘着性のグー</strong>：この物質は特に粘着性が高い。これは@Damage[(2d12+6)[bludgeoning]]ダメージを与える。さらに、洪水の中にいる各クリーチャーは、各ラウンドの自身のターンの開始時に@Check[reflex|dc:29]セーヴを行わなければならない。セーヴに失敗すると、1ラウンドの間、すべての移動速度に–10フィートの状況ペナルティを受ける。クリティカル失敗すると、代わりに@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態になり、1ラウンドの間続く。</li>\n</ul>",
+      "stealth": "<p>(熟練)</p>",
+      "name": "ペリラス・フラッシュ・フラッド/Perilous Flash Flood",
+      "description": "<p>通りを駆け抜け、途中で危険な瓦礫を巻き上げる水であれ、容器から勢いよく飛び出した人工的な物質であれ、この容赦ない洪水は進路上のすべてのものを打ちのめす。</p>",
+      "disable": "<p>洪水から身を守る避難所を作るのに十分な強度のバリケードを移動または構築するための3回の@Check[athletics|dc:35|name:Move Barricade]、@Check[crafting|dc:35|name:Construct Barricade]、または@Check[survival|dc:35|name:Construct Barricade]判定。これが安全な立ち位置を作り出す一方で、バリケードの外側にいるクリーチャーは洪水の性質や発生源によっては依然として危険にさらされる可能性がある。</p>"
     },
     "Green Slime": {
-      "name": "緑のスライム/Green Slime",
-      "description": "<p>腐食性の緑色の膜が頭上の天井に張り付いており、獲物がその下を通り過ぎるのを待ち構えている。</p>",
-      "stealth": "<p>(熟練)</p>",
-      "disable": "<p>@Check[survival|dc:33|name:Peel the Slime Off the Ceiling] (熟練)を行い、接触せずに天井からスライムを慎重に剥がす</p>",
       "reset": "<p>1時間。スライムは食事を終えると、ゆっくりと天井へ這い戻っていく</p>",
       "items": {
-        "action->Dissolving Ambush": {
-          "name": "溶解の待ち伏せ",
-          "description": "<p><strong>トリガー</strong>クリーチャーがスライムの下を歩く。</p>\n<hr />\n<p><strong>効果</strong>緑色のスライムがクリーチャーの上に落下し、栄養のある泥状に溶かそうとする。対象は@Check[reflex|dc:28]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は跳び退き、影響を受けない。</p>\n<p><strong>成功</strong>少量のスライムが対象に飛び散る。対象はドレイン1となる。</p>\n<p><strong>失敗</strong>スライムが対象の上に落下する。対象はドレイン1となり、スライムが取り除かれるまで、各ラウンドの終了時にこの状態の値が1増加する。対象がドレイン4に達した場合、次にドレイン値が増加する際、対象は死亡し、栄養の泥へと崩れ落ちる。対象を覆っているスライムは、もはや《生存術》判定によって取り除くことはできず、スライムに与えられたダメージは対象にも与えられる(緑色のスライムの免疫、弱点、抵抗力ではなく、対象のものを適用する)。</p>\n<p><strong>クリティカル失敗</strong>スライムが対象を完全に覆う。これは失敗と同じ効果を持つが、対象は即座にドレイン2となり、1ラウンド後にドレイン4となり、2ラウンド後に死亡する。</p>"
+        "aNYeaG5N3o5PQ9IB": {
+          "name": "ディゾルヴィング・アンブッシュ/Dissolving Ambush",
+          "description": "<p><strong>トリガー</strong>クリーチャーがスライムの下を歩く。</p>\n<hr />\n<p><strong>効果</strong>緑色のスライムがクリーチャーの上に落下し、栄養のある泥状に溶かそうとする。対象は@Check[reflex|dc:28]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は跳び退き、影響を受けない。</p>\n<p><strong>成功</strong>少量のスライムが対象に飛び散る。対象はドレイン1となる。</p>\n<p><strong>失敗</strong>スライムが対象の上に落下する。対象はドレイン1となり、スライムが取り除かれるまで、各ラウンドの終了時にこの状態の値が1増加する。対象がドレイン4に達した場合、次にドレイン値が増加する際、対象は死亡し、栄養の泥へと崩れ落ちる。対象を覆っているスライムは、もはや《生存術》判定によって取り除くことはできず、スライムに与えられたダメージは対象にも与えられる(緑色のスライムの完全耐性、弱点、および耐性ではなく、対象のものを適用する)。</p>\n<p><strong>クリティカル失敗</strong>スライムが対象を完全に覆う。これは失敗と同じ効果を持つが、対象は即座にドレイン2となり、1ラウンド後にドレイン4となり、2ラウンド後に死亡する。</p>"
         }
-      }
+      },
+      "stealth": "<p>(熟練)</p>",
+      "name": "グリーン・スライム/Green Slime",
+      "description": "<p>腐食性の緑色の膜が頭上の天井に張り付いており、獲物がその下を通り過ぎるのを待ち構えている。</p>",
+      "disable": "<p>@Check[survival|dc:33|name:Peel the Slime Off the Ceiling](熟練)を行い、接触せずに注意深く天井からスライムを剥がす</p>"
     },
     "Poisoned Dart Gallery": {
-      "name": "毒の投げ矢ギャラリー",
-      "description": "<p>毒矢を発射するための無数の穴が長い廊下に並んでおり、その突き当たりには隠された操作パネルがある。</p>",
-      "hp": "コントロールパネルを破壊して罠を無効化する",
-      "hpDetails": "コントロールパネルを破壊して罠を無効化する",
-      "stealth": "<p>(熟練)または@Check[perception|dc:31|traits:action:seek] (達人)を行い、コントロールパネルに気づく</p>",
-      "disable": "<p>@Check[thievery|dc:21|name:Disable Trap (Control Panel)|traits:action:disable-a-device] (熟練)をコントロールパネルに対して行い、罠を解除する。</p>",
-      "reset": "<p>罠は1分経過すると解除され、リセットされる。</p>",
-      "routine": "<p>(1アクション)この罠は1アクションとして、ギャラリー内のすべてのクリーチャーに対してダーツを1本発射する。この罠は継続的にダーツを発射するため、持続的な弾幕フリー・アクション (下記参照)を使用して、各クリーチャーのターン中にそのクリーチャーに対してダーツを発射することもできる。</p>",
+      "hpDetails": "コントロールパネルを破壊して罠を無効化する。",
+      "reset": "<p>この罠は1分後に無効化され、リセットされる。</p>",
       "items": {
-        "action->Dart Volley": {
-          "name": "投げ矢ボレー",
-          "description": "<p><strong>トリガー</strong>クリーチャーが廊下に進入する、または廊下でターンを終了する。</p>\n<hr />\n<p><strong>効果</strong>トラップはトリガーとなったクリーチャーに対して毒矢で〈ストライク〉を行い、その後イニシアチブをロールする。</p>"
+        "KFCwJINs8Uu4riRs": {
+          "name": "ダート・ヴォリー/Dart Volley",
+          "description": "<p><strong>トリガー</strong> クリーチャーが廊下に進入する、または廊下でターンを終了する。</p>\n<hr />\n<p><strong>効果</strong> トラップはトリガーとなったクリーチャーに対して毒矢で〈ストライク〉を行い、その後イニシアチブをロールする。</p>"
         },
-        "melee->Poisoned Dart": {
-          "name": "毒の投げ矢",
-          "description": "<p>マルチアタック・ペナルティなし</p>"
+        "3oSIIlS5PZwciZ3k": {
+          "name": "ポイズンド・投げ矢/Poisoned Dart",
+          "description": "<p>マルチアタック・ペナルティを受けない</p>"
         },
-        "action->Continuous Barrage": {
-          "name": "連続弾幕",
-          "description": "<p><strong>トリガー</strong>アクティブな回廊内にいるクリーチャーがアクションを終了する。</p>\n<hr />\n<p><strong>効果</strong>トラップはトリガーとなったクリーチャーに対して毒矢で〈ストライク〉を行う。</p>"
+        "hkSWLZaKG41zef8w": {
+          "name": "コンティニュアス・バラージ/Continuous Barrage",
+          "description": "<p><strong>トリガー</strong> アクティブな回廊内にいるクリーチャーがアクションを終了する</p>\n<hr />\n<p><strong>効果</strong> トラップはトリガーとなったクリーチャーに対して毒矢で〈ストライク〉を行う。</p>"
         },
-        "action->Flesset Poison": {
-          "name": "フレセットの毒",
-          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:22]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 3} (1ラウンド)</p>"
+        "eY731rvsYJZ2o5Sh": {
+          "name": "フレセット・毒/Flesset Poison",
+          "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:22]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 3} (1ラウンド)</p>"
         }
-      }
+      },
+      "routine": "<p>(1アクション) この罠はギャラリー内のすべてのクリーチャーそれぞれに対してダーツを1本発射する。継続的にダーツを発射するため、コンティニュアス・バラージのフリー・アクション（下記参照）を使用して、各クリーチャーのターン中にそのクリーチャーへダーツを発射することもできる。</p>",
+      "stealth": "<p>@Check[perception|dc:31|traits:action:seek]（熟練）または（達人）で、コントロールパネルに気づく</p>",
+      "name": "ポイズンド・投げ矢・ギャラリー/Poisoned Dart Gallery",
+      "description": "<p>毒矢を発射するための無数の穴が長い廊下に並んでおり、その突き当たりには隠された操作パネルがある。</p>",
+      "disable": "<p>@Check[thievery|dc:21|name:Disable Trap (Control Panel)|traits:action:disable-a-device](熟練)をコントロールパネルに対して行い、罠を無効化する。</p>"
     },
     "Pharaoh's Ward": {
-      "name": "ファラオの区",
-      "description": "<p>入口の敷居に呪いが吹き込まれている。</p>",
-      "stealth": "<p>(熟練)</p>",
-      "disable": "<p>@Check[thievery|dc:27|name:Remove the Lintel] (達人)を行い、魔法を誘発させずに慎重にまぐさを取り除くか、または@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (第4ランク; 打ち消し DC 25)を行い、ルーンを打ち消しする</p>",
       "reset": "<p>扉が閉まると罠はリセットされる。</p>",
-      "items": {
-        "action->Curse the Intruders": {
-          "name": "侵入者を呪い",
-          "description": "<p><strong>トリガー</strong>墓所の封印が外側から破られる。</p>\n<hr />\n<p><strong>効果</strong> 60フィート以内にいる各生きているクリーチャーは、@Check[will|dc:23]セーヴに成功しなければ、ファラオの呪いを受ける。呪われたクリーチャーは頑健セーヴに-2の状況ペナルティを受け、受けるあらゆる自然治癒または魔法的な治癒が半分になる。この呪いは、@UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{クレンズ・アフリクション}または同様の魔法によって取り除かれるまで持続する。</p>"
-        }
-      }
+      "stealth": "<p>(専門家)</p>",
+      "name": "ファラオズ・ウォード/Pharaoh's Ward",
+      "description": "<p>入口の敷居に呪いが吹き込まれている。</p>",
+      "disable": "<p>@Check[thievery|dc:27|name:Remove the Lintel](達人)を行い、魔法を誘発させずに注意深くまぐさを取り除くか、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第4ランク；打ち消し DC 25)でルーンを打ち消す</p>"
     },
     "Banshee's Symphony": {
-      "name": "バンシーの交響曲",
-      "description": "<p>魔法的に伝染する<em>《バンシーの叫び》</em>呪文が、透明なミイラ化したエルフの喉頭に閉じ込められている。</p>",
-      "stealth": "<p>(伝説的)</p>",
-      "disable": "<p>@Check[thievery|dc:42|name:Pierce Larynx|traits:action:disable-a-device] (達人)を行い、罠が作動する前に魔法が少しずつ放出されるよう、不可視の喉頭を正確に貫くか、罠が作動している間に@Check[thievery|dc:44|name:Deconstruct Larynx|traits:action:disable-a-device] (伝説的)を3回行い、呪文を引き裂くように喉頭を解体するか、あるいは呪文 DC 38 (第9レベル)を行い、罠が作動する前にバンシーの<em>叫びを打ち消しする</em></p>",
-      "reset": "<p>罠がクリーチャーを叫ばせることができなくなると(通常は前のターンにセーヴィング・スローに失敗したクリーチャーがいなかったか、すべてのクリーチャーが過去にクリティカル成功したため)、罠は終了する。その後、ミイラ化した喉頭の中で新たな叫びが蓄積され、24時間かけてリセットされる。</p>",
-      "routine": "<p>(1 行動) 罠はその行動を使って、前のターンに<em>バンシーの嘆き</em>に対するセーヴに失敗したランダムな1体の生物を、元のものと同じ統計を持つ<em>バンシーの嘆き</em>を放たせるよう強制する。たとえその生物が死亡しているか発声できなくても、罠からどれだけ離れていても嘆く。呪文の詠唱とは異なり、この罠の<em>バンシーの嘆き</em>によるドレインは対象のドレイン値を増加させる。任意のセーヴでクリティカル成功した生物は将来のラウンドで罠の影響を受ける可能性はあるが、罠によって嘆かされることはない.</p>",
+      "reset": "<p>罠がクリーチャーを叫ばせることができなくなると(通常は前のターンにセーヴに失敗したクリーチャーがいなかったか、すべてのクリーチャーが過去にクリティカル成功したため)、罠は終了する。その後、ミイラ化した喉頭の中で新たな叫びが蓄積され、24時間かけてリセットされる。</p>",
       "items": {
-        "action->Scream": {
-          "name": "叫び",
-          "description": "<p><strong>トリガー</strong> 3体以上の生きたクリーチャーが、6秒間以上、トラップの100フィート以内にとどまる。</p>\n<hr />\n<p><strong>効果</strong> トラップは、40フィートの代わりに100フィートの半径エマナシオンを持つ、秘術の<em>《バンシーの叫び》</em> (DC 40) を放ち、範囲内のすべての生きたクリーチャーを対象とし、イニシアチブをロールする。</p>"
+        "nqcgUfOiRWy6Kti7": {
+          "name": "スクリーム/Scream",
+          "description": "<p><strong>トリガー</strong> 3体以上の生きたクリーチャーが、6秒間以上、トラップの100フィート以内にとどまる。</p>\n<hr />\n<p><strong>効果</strong>トラップは、40フィートの代わりに100フィートの半径エマナシオンを持つ、秘術の<em>バンシーの叫び</em> (DC 40)を放ち、範囲内のすべての生きたクリーチャーを対象とし、イニシアチブをロールする。</p>"
         }
-      }
+      },
+      "routine": "<p>(1アクション)この罠はそのアクションを使用して、前のターンに<em>バンシーの叫び</em>に対するセーヴに失敗したランダムなクリーチャー1体を、元のものと同じ統計を持つ<em>バンシーの叫び</em>を放つよう強制する。そのクリーチャーは、たとえ死亡していても、あるいは話すことができなくても、罠からどれだけ離れていようと叫ぶ。呪文の詠唱とは異なり、この罠の<em>バンシーの叫び</em>呪文によるドレイン状態は、対象のドレイン状態の値を増加させる。いずれかのセーヴにクリティカル成功したクリーチャーは、将来のラウンドで罠の影響を受ける可能性はあるが、罠によって叫ぶことを強制されることはない。</p>",
+      "stealth": "<p>(伝説)</p>",
+      "name": "バンシー・シンフォニー/Banshee's Symphony",
+      "description": "<p>魔法的に伝染する<em>バンシーの嘆き</em>呪文が、不可視でミイラ化したエルフの喉頭に閉じ込められている。</p>",
+      "disable": "<p>@Check[thievery|dc:42|name:Pierce Larynx|traits:action:disable-a-device] (達人)で不可視の喉頭を正確に貫き、罠が作動する前に魔法を少量ずつ解放する。あるいは@Check[thievery|dc:44|name:Deconstruct Larynx|traits:action:disable-a-device] (伝説的)を3回行い、罠が作動している間に喉頭を分解して呪文を引き裂く。もしくは呪文 DC 38 (9レベル)で罠が作動する前に<em>バンシーの嘆き</em>を打ち消す。</p>"
     },
     "Insistent Privacy Fence": {
-      "name": "執拗なプライバシーフェンス",
-      "description": "<p>隠されたスタシアン・コイルによって、フェンスの一部が帯電している。</p>",
-      "stealth": "<p>(熟練)</p>",
-      "disable": "<p>@Check[thievery|dc:28|name:Disconnect the coil from the fence|traits:electricity,hazard,trap,mechanical] (熟練)でコイルをフェンスから慎重に切り離す、または@Check[crafting|dc:30|name:Jury-rig a grounding device|traits:electricity,hazard,trap,mechanical] (達人)で応急の接地装置を組み付けてショックを無効化する</p>",
-      "reset": "<p>罠は1分経過すると解除され、リセットされる。</p>",
+      "reset": "<p>この罠は1分後に無効化されリセットされる。</p>",
       "items": {
-        "action->Shock": {
-          "name": "ショック",
-          "description": "<p><strong>トリガー</strong>クリーチャーが直接、あるいは道具や武器を用いてフェンスに　接触する。</p>\n<hr />\n<p><strong>効果</strong>フェンスはトリガーとなったクリーチャーに@Damage[7d12[electricity]]ダメージを与える(@Check[reflex|dc:26|basic|traits:electricity,mechanical,trap,hazard]セーヴ)。</p>"
+        "HhzDfHd26GkdqhME": {
+          "name": "ショック/Shock",
+          "description": "<p><strong>トリガー</strong>クリーチャーが接触する(直接、または道具や武器を介して)</p>\n<hr />\n<p><strong>効果</strong>フェンスはトリガーとなったクリーチャーに@Damage[7d12[electricity]]ダメージを与える(@Check[reflex|dc:26|basic|traits:electricity,mechanical,trap,hazard]セーヴ)。</p>"
         }
-      }
+      },
+      "stealth": "<p>(熟練)</p>",
+      "name": "インシステント・プライバシー・フェンス/Insistent Privacy Fence",
+      "description": "<p>隠されたスタシアン・コイルがフェンスの一部に通電している。</p>",
+      "disable": "<p>@Check[thievery|dc:28|name:Disconnect the coil from the fence|traits:electricity,hazard,trap,mechanical] (熟練)でフェンスからコイルを慎重に取り外すか、@Check[crafting|dc:30|name:Jury-rig a grounding device|traits:electricity,hazard,trap,mechanical] (達人)で接地装置を即席で作って電撃を無効化する。</p>"
     },
     "Summoning Rune": {
-      "name": "召喚のルーン",
-      "description": "<p>召喚されるクリーチャーのサイズと同じ大きさの不可視の壁または床のルーンを、10フィートの半径の不可視の魔法のセンサーの雲が取り囲んでいる。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[acrobatics|dc:15|name:Approach Rune]を行い、罠を誘発させずに接近し、続いて@Check[thievery|dc:17|name:Erase Rune|traits:action:disable-a-device] (訓練済み)を行ってルーンを消去するか、または@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (第1ランク; 打ち消し DC 15)を行い、ルーンを打ち消しする</p>",
       "reset": "<p>罠は毎日夜明けにリセットされる。</p>",
       "items": {
-        "action->Summon Monster": {
-          "name": "モンスター召喚",
-          "description": "<p><strong>トリガー</strong>クリーチャーが魔法のセンサーの雲の中に入る。</p>\n<hr />\n<p><strong>効果</strong>この罠は、罠が作成された時に決定された特定の1レベルのクリーチャーを召喚する。そのクリーチャーはイニシアチブをロールし、[[/br 2d6 #rounds]]{2d6ラウンド}の間留まる。その後、呪文は終了し、クリーチャーは消滅する。持続時間が終了する前に誰かが罠を無力化した場合も、クリーチャーは消滅する。召喚されたクリーチャーは、ほとんどの召喚されたクリーチャーとは異なり、各ラウンドに3アクションを使用でき、リアクションも使用できる。</p>"
+        "1M9OasbKWAPME9IC": {
+          "name": "サモン・モンスター/Summon Monster",
+          "description": "<p><strong>トリガー</strong>クリーチャーが魔法のセンサーの雲の中に入る</p>\n<hr />\n<p><strong>効果</strong>この罠は、罠が作成された時に決定された特定の1レベルのクリーチャーを召喚する。そのクリーチャーはイニシアチブをロールし、[[/br 2d6 #rounds]]{2d6ラウンド}の間留まる。その後、呪文は終了し、クリーチャーは消滅する。持続時間が終了する前に誰かが罠を無力化した場合も、クリーチャーは消滅する。召喚されたクリーチャーは、ほとんどの召喚されたクリーチャーとは異なり、各ラウンドに3アクションを使用でき、リアクションも使用できる。</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "サモニング・ルーン/Summoning Rune",
+      "description": "<p>召喚されるクリーチャーのサイズと同じ大きさの不可視の壁または床のルーンを、10フィートの半径の不可視の魔法のセンサーの雲が取り囲んでいる。</p>",
+      "disable": "<p>@Check[acrobatics|dc:15|name:Approach Rune]で罠を作動させずに接近し、続いて@Check[thievery|dc:17|name:Erase Rune|traits:action:disable-a-device] (訓練済み)でルーンを消去する。あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック} (1ランク; 打ち消し DC 15)でルーンを打ち消す。</p>"
     },
     "Eternal Flame": {
-      "name": "永遠の炎",
-      "description": "<p>荒れ狂う幽霊の業火が何もない空間から発生し、その範囲内にいるすべてのアンデッド・クリーチャーを強化する。このハウントは多くの場合、恐ろしい事故であれ意図的な処刑であれ、焼死した3人のグループの焦げた遺骸から発生し、彼らの復讐を果たされていない魂が怒りで燃え盛っている。</p>",
-      "stealth": "<p>(熟練)</p>",
-      "disable": "<p>@Check[diplomacy|dc:27|name:Calm the Spirit's Rage] (熟練)を行い、3体の霊のうち1体の怒りを一時的に鎮めるか、または@Check[religion|dc:30|name:Exorcise Spirit] (訓練済み)を行い、霊のうち1体を祓う。このハウントを無効化するには合計3回の成功が必要である</p>",
-      "reset": "<p>その炎はすべての生きている生物が区域を離れてから1分で消えるが、1時間後には怒りと痛みが再び煮え返り、怨念は再び発動する準備が整う.</p>",
-      "routine": "<p>(1アクション)ファントムの炎がハウントされたエリア全体に燃え広がり、エリア内の各生きているクリーチャーに@Damage[4d6[fire]]のダメージを与える(@Check[will|dc:23|basic]セーヴ)。エリア内のアンデッド・クリーチャーは、続くラウンドの間、炎を注入される。それらは火炎の特性と火炎への完全耐性を獲得し、すべての攻撃が追加で@Damage[1d6[fire]]のダメージを与えるようになる。エリア内の物体は影響を受けない。</p>",
+      "reset": "<p>すべての生きている生物がその区域を離れてから1分で炎は消えるが、1時間後には怒りと痛みが再び煮え返り、怨念は再び発動する準備が整う。</p>",
       "items": {
-        "action->Searing Agony": {
-          "name": "焼けつく苦痛",
-          "description": "<p><strong>トリガー</strong>生きているクリーチャーが、最初の火災の犠牲者の遺骸から10フィート以内に近づく。</p>\n<hr />\n<p><strong>効果</strong>火災の過去の犠牲者が受けた痛みの記憶が、トリガーとなったクリーチャーの精神を襲う。そのクリーチャーは@Check[will|dc:25]セーヴを行わなければならず、その後ハウントがイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 3}となり、ハウントの範囲内に留まっている間およびその後3ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。</p>"
+        "E8X8ETVNwXuUF08C": {
+          "name": "シアリング・アゴニー/Searing Agony",
+          "description": "<p><strong>トリガー</strong>生きているクリーチャーが、かつての火災の犠牲者の遺骸から10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>火災の過去の犠牲者が受けた苦痛の記憶が、トリガーとなったクリーチャーの精神を襲う。そのクリーチャーは@Check[will|dc:25]セーヴを行わなければならず、その後ハウントがイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 3}状態となり、そのハウントのエリア内に留まっている間およびその後3ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         }
-      }
+      },
+      "routine": "<p>(1アクション)ファントムの炎が怨念の宿る区域全体に猛威を振るい、区域内の各生きているクリーチャーに@Damage[4d6[fire]]ダメージを与える (@Check[will|dc:23|basic]セーヴ)。区域内のアンデッドのクリーチャーは、次のラウンドの間、炎を吹き込まれる。それらは火炎の特性と火炎に対する完全耐性を獲得し、すべての攻撃が追加で@Damage[1d6[fire]]ダメージを与える。区域内の物体は影響を受けない。</p>",
+      "stealth": "<p>(熟練)</p>",
+      "name": "エターナル・フレイム/Eternal Flame",
+      "description": "<p>荒れ狂う幽霊の業火が何もない空間から発生し、その範囲内にいるすべてのアンデッド・クリーチャーを強化する。このハウントは多くの場合、恐ろしい事故であれ意図的な処刑であれ、焼死した3人のグループの焦げた遺骸から発生し、彼らの復讐を果たされていない魂が怒りで燃え盛っている。</p>",
+      "disable": "<p>@Check[diplomacy|dc:27|name:Calm the Spirit's Rage] (達人)で3体の霊のうち1体の怒りを一時的に鎮めるか、@Check[religion|dc:30|name:Exorcise Spirit] (訓練済み)で霊のうち1体を祓う。怨念を無力化するには合計3回の成功が必要である。</p>"
     },
     "Drowning Pit": {
-      "name": "溺死のピット",
-      "description": "<p>落とし戸が、深さ30フィートで底に5フィートの水がある10フィート四方の穴を覆っている。壁にある4つの噴水口は、隠された水槽につながっている。各噴水口は、穴の上部から6インチの場所で、それぞれ異なる壁から突き出ている。</p>",
-      "hp": "スパウト硬度8、スパウト HP 32 (BT 16)",
       "hpDetails": "スパウト硬度8、スパウト HP 32 (BT 16)",
-      "stealth": "<p>(訓練済み); 穴が開いた後に@Check[perception|dc:22|traits:action:seek] (熟練)を行い、水の噴出口に気づく</p>",
-      "disable": "<p>@Check[thievery|dc:18] (訓練済み)を行い各水の噴出口を塞ぐか、@Check[thievery|dc:22] (訓練済み)を行いトラップドアを開くか、または@Check[athletics|dc:22]を行い、トラップドアに対して@UUID[Compendium.pf2e.action-macros.Macro.yMTKMnaYSGtDz4wk]{〈こじ開ける〉: 《運動》}を行う</p>",
       "reset": "<p>扉を手動で再係合し、水タンクを補充すれば罠をリセットできる。穴の水を抜かずにリセットすることも可能だが、そうすると穴の効果は低下する。</p>",
-      "routine": "<p>(4アクション)この罠は、無力化された噴水口1つにつき、毎ターン1アクションを失う。この罠がアクションを行うたびに、噴水口から水が噴き出し、水位が5フィート上昇する。穴が水で満たされると、この穴はアクションの使用を停止するが、穴の中にいるクリーチャーは溺れ始める。</p>",
       "items": {
-        "action->Pitfall": {
-          "name": "ピットフォール",
-          "description": "|||<p><strong>トリガー</strong> クリーチャーが落とし戸の上を歩く。</p>\n<hr />\n<p><strong>効果</strong> トリガーとなったクリーチャーは中に落下し、落下によるダメージを受けるを受ける。水の中に落下したため、このダメージは5フィート分軽減される(通常は@Damage[12[bludgeoning]|options:fall-damage]ダメージ)。クリーチャーは落下を避けるために@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{〈縁にしがみつく〉}ことができる。その後、落とし戸はバタンと閉まり、ハザードがイニシアチブをロールする。</p>|||"
+        "iji2yCS44gpqc5p3": {
+          "name": "ピット・フォール/Pitfall",
+          "description": "<p><strong>トリガー</strong> クリーチャーが落とし戸の上を歩く</p>\n<hr />\n<p><strong>効果</strong> トリガーとなったクリーチャーは落下し、落下によるダメージを受ける。水の中に落下するため、このダメージは5フィート分軽減される(通常は@Damage[12[bludgeoning]|options:fall-damage]ダメージ)。クリーチャーは落下を避けるために@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{〈縁つかみ〉}ことができる。その後、落とし戸はバタンと閉まり、ハザードがイニシアチブをロールする。</p>"
         }
-      }
+      },
+      "routine": "<p>(4アクション)この罠は、無力化された噴水口1つにつき、毎ターン1アクションを失う。この罠がアクションを行うたびに、噴水口から水が噴き出し、水位が5フィート上昇する。穴が水で満たされると、この穴はアクションの使用を停止するが、穴の中にいるクリーチャーは溺れ始める。</p>",
+      "stealth": "<p>(trained); @Check[perception|dc:22|traits:action:seek] (熟練者)で穴が開いた際に噴水口に気づく。</p>",
+      "name": "ドラウニングピット/Drowning Pit",
+      "description": "<p>落とし戸が、深さ30フィートで底に5フィートの水がある10フィート四方の穴を覆っている。壁にある4つの噴水口は、隠された水槽につながっている。各噴水口は、穴の上部から6インチの場所で、それぞれ異なる壁から突き出ている。</p>",
+      "disable": "<p>@Check[thievery|dc:18] (訓練済み)で各噴水口を封印するか、@Check[thievery|dc:22] (訓練済み)で落とし戸を開けるか、あるいは@Check[athletics|dc:22]で落とし戸を@UUID[Compendium.pf2e.action-macros.Macro.yMTKMnaYSGtDz4wk]{〈こじ開ける〉: 《運動》}する。</p>"
     },
     "Lava Flume Tube": {
-      "name": "溶岩水路管",
-      "description": "<p>石に彫られた四つの門付きの水路が溶岩を15-フィートの高さの部屋へ流し込み、床は引き下げて硬化した溶岩を下の室へ落とすことができる.</p>",
-      "hp": "水路の門を破壊する(これにより、その水路を無力化できなくなり、罠がリセットされるのを防ぐ)。<strong>床硬度</strong> 18。<strong>床 HP</strong> 72(BT 36)",
-      "hpDetails": "水路の門を破壊する(これにより、その水路を無力化できなくなり、罠がリセットされるのを防ぐ)。<strong>床硬度</strong> 18。<strong>床 HP</strong> 72(BT 36)",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[thievery|dc:29|name:Block a Channel|traits:action:disable-a-device] (熟練)で水路を塞ぐか、@Check[thievery|dc:31|name:Release Floor Latch|traits:action:disable-a-device] (達人)で床のラッチを解除して下の部屋へ脱出する</p>",
-      "reset": "<p>この罠は1時間後に床を引き込み、硬化した溶岩(および内部に閉じ込められたあらゆるクリーチャー)を砕いて部屋に投棄することで、非活性化しリセットされる。クリーチャーは40フィート落下し、落下ダメージ(通常は@Damage[17[bludgeoning]|options:fall-damage]ダメージ)を受ける。</p>",
-      "routine": "<p>(4アクション) この罠は、無力化された水路1つにつき、毎ターン　1アクションを失う。各アクションで、異なる水路が溶岩を噴出し、その水路から10フィート以内にいる各クリーチャーに@Damage[4d6[fire]]ダメージを与え(@Check[reflex|dc:27|basic]セーヴ)、部屋の溶岩の深さを1フィート上昇させる(すべての水路が活性化している場合は、ラウンドごとに4フィート)。</p><p>溶岩の中で自分のターンを開始したクリーチャーは、@Damage[8d6[fire]]ダメージを受け、硬化する溶岩から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{エスケープ}する(DC 27)まで@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。そのクリーチャーは溶岩に覆われると窒息する可能性がある。</p><p>前のラウンドからの溶岩は、罠のターンの開始時に完全に硬化し、実質的に部屋の床を上昇させる。部屋が溶岩で満たされると、罠はアクションの使用を停止するが、部屋の中にいるクリーチャーは床が開いて罠がリセットされるまで動けなくなる。</p>",
+      "hpDetails": "水路の門を破壊する（これにより、その水路が無効化されるのを防ぎ、罠のリセットが停止する）；<strong>床硬度</strong> 18; <strong>床 HP</strong> 72 (BT 36)",
+      "reset": "<p>罠は1時間後に床が引き込まれて、固まった溶岩（および内部に閉じ込められたあらゆるクリーチャー）がひび割れて下の部屋に落ちることで停止してリセットされる。クリーチャーは40フィート落下し、落下ダメージ（通常@Damage[17[bludgeoning]|options:fall-damage]ダメージ）を受ける。</p>",
       "items": {
-        "action->Flume Activation": {
-          "name": "水路起動",
+        "slQb54KbvJ8vJpRb": {
+          "name": "フルーム・アクティベーション/Flume Activation",
           "description": "<p><strong>トリガー</strong>クリーチャーが部屋から出ようとする。</p>\n<hr />\n<p><strong>効果</strong>出口が即座に封鎖され、罠がイニシアチブをロールする。</p>"
         }
-      }
+      },
+      "routine": "<p>(4アクション)この罠は、無力化された通路1つにつき、毎ターン　1アクションを失う。各アクションで、異なる通路が溶岩を噴出し、その通路から10フィート以内にいる各クリーチャーに@Damage[4d6[fire]]ダメージを与え(@Check[reflex|dc:27|basic]セーヴ)、部屋の溶岩の深さを1フィート増加させる(すべての通路が活性化している場合はラウンドごとに4フィート)。</p><p>溶岩の中でターンを開始したクリーチャーは、@Damage[8d6[fire]]ダメージを受け、硬化する溶岩から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{エスケープ}(DC 27)するまで@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。そのクリーチャーは、溶岩に覆われると窒息する可能性がある。</p><p>前回のラウンドの溶岩は、罠のターンの開始時に完全に硬化し、実質的に部屋の床を上昇させる。部屋が溶岩で満たされると、罠はアクションを行うのを停止するが、床が開いて罠がリセットされるまで、部屋にいるクリーチャーは動けないままである。</p>",
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "ラヴァ・フルーム・チューブ/Lava Flume Tube",
+      "description": "<p>石に彫られた四つの門付きの水路が溶岩を15-フィートの高さの部屋へ流し込み、床は引き下げて硬化した溶岩を下の室へ落とすことができる。</p>",
+      "disable": "<p>@Check[thievery|dc:29|name:Block a Channel|traits:action:disable-a-device]（エキスパート）を行って水路を塞ぐか、@Check[thievery|dc:31|name:Release Floor Latch|traits:action:disable-a-device]（マスター）を行って床の掛け金を外し、下の部屋へ脱出する</p>"
     },
     "Web Lurker Noose": {
-      "name": "ウェブ潜伏者の投げ縄",
-      "description": "<p>喉の高さにある目立たないクモの巣が、そこを歩いて通ったクリーチャーを引っ掛ける。</p>",
-      "disable": "<p>@Check[survival|dc:18|name:Rearrange the Webbing|traits:mechanical,trap] (訓練済み)または@Check[thievery|dc:18|name:Rearrange the Webbing|traits:mechanical,trap] (熟練)で蜘蛛の巣を再配置する。</p>",
       "items": {
-        "action->Web Noose": {
-          "name": "ウェブ投げ縄",
-          "description": "<p><strong>トリガー</strong>クリーチャーがクモの巣の仕掛け糸がある広場に足を踏み入れる。</p>\n<hr />\n<p><strong>効果</strong>ウェブ・ラーカーの輪縄は、トリガーとなったクリーチャーに対して輪縄の〈ストライク〉を行う。</p>"
+        "LZTjCUaLv54zwB8W": {
+          "name": "ウェブ・ヌース/Web Noose",
+          "description": "<p><strong>トリガー</strong> クリーチャーがクモの巣の仕掛け糸のあるマスに足を踏み入れる。</p>\n<hr />\n<p><strong>効果</strong> ウェブ・ラーカーの輪縄は、トリガーとなったクリーチャーに対して輪縄の〈ストライク〉を行う。</p>"
         },
-        "melee->Noose": {
-          "name": "投げ縄",
-          "description": "<p>ストライクが成功すると、対象は@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}となり、地面から引き上げられる([[/act escape dc=22]])。</p>\n<p>対象が輪縄に捕らわれている間、対象は各ターンの終了時に@Damage[1d6[bludgeoning]]ダメージを受ける。</p>"
+        "VNaaW87S24zzxXZh": {
+          "name": "ヌース/Noose",
+          "description": "<p>ストライクが成功すると、対象は@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり、地面から引き離される([[/act escape dc=22]])。</p>\n<p>対象は、輪縄に捕らわれている間、自身の各ターンの終了時に@Damage[1d6[bludgeoning]]ダメージを受ける。</p>"
         }
-      }
+      },
+      "name": "ウェブ・ラーカー・ヌース/Web Lurker Noose",
+      "description": "<p>喉の高さにある目立たないクモの巣が、そこを歩いて通ったクリーチャーを引っ掛ける。</p>",
+      "disable": "<p>@Check[survival|dc:18|name:Rearrange the Webbing|traits:mechanical,trap](訓練済み)または@Check[thievery|dc:18|name:Rearrange the Webbing|traits:mechanical,trap](エキスパート)を行って蜘蛛の巣を再配置する。</p>"
     },
     "Steam Vents": {
-      "name": "蒸気噴出口",
-      "description": "<p>仕掛け糸に接続された大型加圧パイプは、侵入者に蒸気の噴射を浴びせるように仕掛けられている。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[thievery|dc:22|name:Disconnect the trip wire|traits:mechanical,trap,hazard]{《盗賊術》 (訓練済み)}でトリップワイヤーを切断するか、@Check[crafting|dc:24|name:Reduce the pressure|traits:mechanical,trap,hazard]{《製作》 (熟練)}で慎重に圧力を下げて爆発を防ぐ</p>",
       "items": {
-        "action->Steam Blast": {
-          "name": "蒸気噴出",
-          "description": "<p><strong>トリガー</strong>仕掛け糸が引かれるか切断される。これは通常、クリーチャーが仕掛け糸のある広場を通り抜けたことによる。</p>\n<hr />\n<p><strong>効果</strong>パイプから蒸気が噴出し、15フィート以内のすべてのクリーチャーに@Damage[3d6[bludgeoning],3d6[fire]]{3d6 殴打ダメージおよび3d6 火炎ダメージ}(@Check[reflex|dc:24|basic|name:Avoid the erupting steam|traits:mechanical,trap,hazard])を与える。セーヴに大失敗したクリーチャーは、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}となる。</p>"
+        "SvqJNCRH2eI1jZk1": {
+          "name": "スチーム・ブラスト/Steam Blast",
+          "description": "<p><strong>トリガー</strong>：仕掛け糸が引っ張られるか切断される。これは通常、クリーチャーが仕掛け糸のあるマスを通り抜けたことによって起こる</p>\n<hr />\n<p><strong>効果</strong>：パイプから蒸気が噴出し、15フィート以内にいるすべてのクリーチャーに@Damage[3d6[bludgeoning],3d6[fire]]{3d6 殴打ダメージおよび3d6 火炎ダメージ}(@Check[reflex|dc:24|basic|name:Avoid the erupting steam|traits:mechanical,trap,hazard])を与える。セーヴにクリティカル失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏臥状態}となる。</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "スチーム・ベンツ/Steam Vents",
+      "description": "<p>仕掛け糸に接続された大型加圧パイプは、侵入者に蒸気の噴射を浴びせるように仕掛けられている。</p>",
+      "disable": "<p>@Check[thievery|dc:22|name:Disconnect the trip wire|traits:mechanical,trap,hazard]{《盗賊術》 (訓練済み)}を行ってトリップワイヤーを外すか、@Check[crafting|dc:24|name:Reduce the pressure|traits:mechanical,trap,hazard]{《製作》 (エキスパート)}を行って慎重に圧力を下げ、爆発を防ぐ</p>"
     },
     "Brown Mold": {
-      "name": "褐色カビ",
-      "description": "<p>この一見平凡な菌は空気中の熱を吸い取る.</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[survival|dc:18|name:Remove Brown Mold|traits:environmental,fungus] (訓練済み)で安全にカビを除去する</p>",
       "reset": "<p>拡大した後、茶色のカビは1日の間、再び成長できない。</p>",
       "items": {
-        "action->Emit Cold": {
-          "name": "冷気放射",
+        "NcyiM0WihYrncbSF": {
+          "name": "エミット・コールド/Emit Cold",
           "description": "<p>5フィート。ブラウン・モールドは近くのクリーチャーに@Damage[2d6[cold]]ダメージを与える。</p>"
         },
-        "action->Leech Warmth": {
-          "name": "温もり奪い",
-          "description": "<p><strong>トリガー</strong>火炎がブラウン・モールドから5フィート以内に近づく。</p>\n<hr />\n<p><strong>効果</strong>ブラウン・モールドは自身の占める空間に隣接するすべての広場へと拡大する。成長するにつれて、それは周囲からさらに熱を奪い、拡大した後に10フィート以内にいるクリーチャーに対して@Damage[(2d6+6)[cold]]ダメージ(@Check[fortitude|dc:18|basic]セーヴ)を与える。</p>"
+        "MQ3CKYIdF6zrMg0x": {
+          "name": "リーチ・ウォームス/Leech Warmth",
+          "description": "<p><strong>トリガー</strong>：火炎がブラウン・モールドの5フィート以内に入る。</p>\n<hr />\n<p><strong>効果</strong>：ブラウン・モールドはそのスペースに隣接するすべてのマスへ拡大する。成長すると周囲からさらに熱を奪い、拡大した後に10フィート以内にいるクリーチャーに@Damage[(2d6+6)[cold]]ダメージを与える（@Check[fortitude|dc:18|basic] セーヴィング・スロー）。</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "ブラウン・モールド/Brown Mold",
+      "description": "<p>この一見平凡な菌は空気中の熱を吸い取る。</p>",
+      "disable": "<p>@Check[survival|dc:18|name:Remove Brown Mold|traits:environmental,fungus] (訓練済み)で安全にカビを除去する</p>"
     },
     "Confounding Betrayal": {
-      "name": "当惑の裏切り",
-      "description": "<p>味方が変装を解き、邪悪な怪物であることが明らかになる。</p>",
-      "stealth": "<p>(熟練)</p>",
-      "disable": "<p>@Check[deception|dc:28|name:Confound the Haunt] (熟練)を2回行ってあなた自身の欺瞞でハウントを混乱させるか、@Check[occultism|dc:28|name:Create a Ward Against Influence] (訓練済み)を2回行ってハウントの精神的影響に対する区画を作成する</p>",
-      "reset": "<p>このハウントは、すべてのクリーチャーがエリアから離れてから1分後に非活性化するが、その直後にリセットされる。</p>",
-      "routine": "<p>(1アクション; 幻術, 無力化, オカルト)このハウントは犠牲者の感覚を混乱させ続け、互いに暴力を振るうよう唆す。ハウントのエリア内にいる各クリーチャーは、@Check[will|dc:26]セーヴを行わなければならない。</p>\n<hr>\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、1分の間、一時的な免疫となる。</p>\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは1分の間、混乱状態となる。</p>",
+      "reset": "<p>このハウントは、すべてのクリーチャーがそのエリアを離れてから1分後に非活性化し、その直後にリセットされる。</p>",
       "items": {
-        "action->Unmask": {
-          "name": "仮面剥ぎ",
-          "description": "<p><strong>トリガー</strong> 2体以上のクリーチャーがハウントのエリア内に侵入する。</p>\n<hr />\n<p><strong>効果</strong>各クリーチャーは、近くにいるクリーチャーの姿が歪み、変化し、血に飢えたフィーンドや異形の存在へと変身していくように見える。エリア内にいる各クリーチャーは@Check[will|dc:30]セーヴを行わなければならない。その後、ハウントはイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは幻影を完全に見抜き、1分の間、ハウントのルーチンに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>そのクリーチャーは奇妙な幻影の影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは幻影が真実であると信じ込む。もしそのクリーチャーがハウントのルーチンによって@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態になった場合、ダメージを受けても混乱状態を終了させるためのフラット・チェックを試みることはできない。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、そのクリーチャーは他者に対する疑念を抱き続け、24時間の間、〈援護〉リアクションから恩恵を得ることができない。</p>"
+        "QrgnumULVnz8pWfK": {
+          "name": "アンマスク/Unmask",
+          "description": "<p><strong>トリガー</strong> 2体以上のクリーチャーがそのハウントのエリアに侵入する。</p>\n<hr />\n<p><strong>効果</strong>各クリーチャーは、近くのクリーチャーの姿が歪んで変化し、血に飢えた悪魔的または異形の存在に変身するように見える。エリア内の各クリーチャーは@Check[will|dc:30]意志セーヴを行わなければならない。その後、ハウントはイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは幻影を完全に見抜き、1分間、そのハウントのルーチンに対して一時的な免疫を得る。</p>\n<p><strong>成功</strong>そのクリーチャーは奇妙なイメージの影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは幻影が真実であると信じ込む。もしハウントのルーチンによって@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態になった場合、ダメージを受けても混乱状態を終了させるためのフラット・チェックを行うことはできない。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、そのクリーチャーは他者に対する疑念を抱き続け、24時間の間、〈援護〉リアクションから恩恵を得ることができない。</p>"
         }
-      }
+      },
+      "routine": "<p>(1アクション; 幻術、無力化、秘術)このハウントは犠牲者の感覚を混乱させ続け、互いに暴力を振るうよう仕向ける。ハウントのエリア内にいる各クリーチャーは、@Check[will|dc:26]セーヴを行わなければならない。</p>\n<hr>\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、1分間、そのハウントのルーチンに対して一時的な免疫を得る。</p>\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは1分間、混乱状態となる。</p>",
+      "stealth": "<p>(エキスパート)</p>",
+      "name": "コンファウンディング・ビトレイアル/Confounding Betrayal",
+      "description": "<p>味方が変装を解き、邪悪な怪物であることが明らかになる。</p>",
+      "disable": "<p>@Check[deception|dc:28|name:Confound the Haunt] (エキスパート)を2回行って自身の欺瞞でハウントを混乱させるか、@Check[occultism|dc:28|name:Create a Ward Against Influence] (訓練済み)を2回行って、ハウントの精神的影響に対する結界を作成する</p>"
     },
     "Grasp Of The Damned": {
-      "name": "呪われし者の掌握",
-      "description": "<p>これらの絶望的な霊は、邪悪な神の名の下に大いなる残虐行為を犯した人々の残響である。今や彼らに残されているのは、自らの魂が呪われたという知識と、邪悪な主人たちに強力な生け贄を捧げることで自らの運命を改善できるという揺るぎない信念だけである。</p>",
-      "stealth": "<p>(達人)</p>",
-      "disable": "<p>@Check[religion|dc:46|name:Call For Divine Intervention] (達人)で神格に介入を促し、儀式を打ち消しする</p>",
       "reset": "<p>1日</p>",
       "items": {
-        "action->Mark for Damnation": {
-          "name": "破滅の刻印",
-          "description": "<p><strong>トリガー</strong> 13レベル以上の意識を持つ生きたクリーチャーが3体以上、ハウントのエリア内に侵入する。</p>\n<hr />\n<p><strong>効果</strong>ハウントはハウントのエリア内にいる各クリーチャーに@Damage[(6d12+35)[void]]ダメージを与え、各クリーチャーは@Check[will|dc:40|traits:damaging-effect]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーはダメージを受けず、ドゥームド1となる。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受けるし、ドゥームド1となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるし、ドゥームド2となり、破滅の刻印を刻まれる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは2倍のダメージを受けるし、ドゥームド3となり、破滅の刻印を刻まれる。</p>\n<p>破滅の刻印を刻まれたクリーチャーが次の24時間以内に死亡した場合(ハウントのダメージによるものを含む)、その魂は直ちに、破滅の霊たちが仕えていた邪悪な神格の次元界へと引きずり込まれ、そこでそのクリーチャーの魂はその神格の強力な下僕の1人によって捕らえられ続ける。<em>ウィッシュ</em>や同様に強力な効果のみが、失われた魂を直接取り戻すことができる。しかし、邪悪な次元界へ旅をし、魂の捕らえ手を打ち倒すことによって魂を取り戻すことも可能である。</p>"
+        "hK2a0NJwqQgjs15q": {
+          "name": "マーク・フォー・ダムネイション/Mark for Damnation",
+          "description": "<p><strong>トリガー</strong> 13レベル以上の意識を持つ生きたクリーチャーが3体以上、そのハウントのエリアに侵入する。</p>\n<hr />\n<p><strong>効果</strong> ハウントはエリア内の各クリーチャーに@Damage[(6d12+35)[void]]ダメージを与え、各クリーチャーは@Check[will|dc:40|traits:damaging-effect]意志セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong> そのクリーチャーはダメージを受けず、破滅1となる。</p>\n<p><strong>成功</strong> そのクリーチャーは半分のダメージを受け、破滅1となる。</p>\n<p><strong>失敗</strong> そのクリーチャーは全てのダメージを受け、破滅2となり、マーク・フォー・ダムネイションを付与される。</p>\n<p><strong>クリティカル失敗</strong> そのクリーチャーは2倍のダメージを受け、破滅3となり、マーク・フォー・ダムネイションを付与される。</p>\n<p>マーク・フォー・ダムネイションを付与されたクリーチャーが、ハウントによるダメージを含め、次の24時間以内に死亡した場合、その魂は直ちにその呪われた霊たちが仕えていた邪悪な神格の次元界へと引きずり込まれ、そこでその神格の強力な下僕の1人によって魂を捕らえられる。失われた魂を直接取り戻すことができるのは、<em>ウィッシュ</em>や同様に強力な効果のみである。ただし、その邪悪な次元界へ旅をし、魂の捕らえ手を打ち倒すことでも魂を取り戻すことは可能である。</p>"
         }
-      }
+      },
+      "stealth": "<p>(master)</p>",
+      "name": "グラスプ・オブ・ザ・ダムド/Grasp Of The Damned",
+      "description": "<p>これらの絶望的な霊は、邪悪な神の名の下に大いなる残虐行為を犯した人々の残響である。今や彼らに残されているのは、自らの魂が呪われたという知識と、邪悪な主人たちに強力な生け贄を捧げることで自らの運命を改善できるという揺るぎない信念だけである。</p>",
+      "disable": "<p>@Check[religion|dc:46|name:Call For Divine Intervention] (master) を行って神格に介入を促し、儀式を打ち消す</p>"
     },
     "Bloodthirsty Urge": {
-      "name": "血への渇望",
-      "description": "<p>邪悪な精神の残響に取り憑かれた物体が、近づいてきた者を殺そうと試みる。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[religion|dc:29|name:Exorcise Spirit] (達人)で霊を祓うか、@Check[diplomacy|dc:31|name:Talk Down the Spirit] (熟練)で説得して落ち着かせる</p>",
       "items": {
-        "action->Quietus": {
-          "name": "静寂",
-          "description": "<p><strong>トリガー</strong>クリーチャーが取り憑かれた物体から10フィート以内に移動する。</p>\n<hr />\n<p><strong>効果</strong>ハウントはトリガーとなったクリーチャーを支配し、自身を攻撃するように強制する。そのクリーチャーは@Check[will|dc:29]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は自身に対して〈ストライク〉を行い、自動的に命中する。また、対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}となる。</p>\n<p><strong>失敗</strong>対象は自身に対して〈ストライク〉を行い、自動的にクリティカルヒットとなる。また、対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる。</p>\n<p><strong>クリティカル失敗</strong>対象は頑健セーヴを行う。対象が成功した場合、代わりに失敗の効果を受ける。対象が失敗した場合、0 HPまで減少し、死亡する。</p>"
+        "0FpzSygcs7G688GT": {
+          "name": "クワイエタス/Quietus",
+          "description": "<p><strong>トリガー</strong> トリガーとなったクリーチャーがその取り憑かれた物体から10フィート以内に移動する</p>\n<hr />\n<p><strong>効果</strong> ハウントはトリガーとなったクリーチャーを支配し、自分自身を攻撃させる。そのクリーチャーは@Check[will|dc:29]意志セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は自分自身に対して〈ストライク〉を行い、自動的に命中する。対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態になる。</p>\n<p><strong>失敗</strong> 対象は自分自身に対して〈ストライク〉を行い、自動的にクリティカルヒットとなる。対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態になる。</p>\n<p><strong>クリティカル失敗</strong> 対象は頑健セーヴを行う。対象が成功した場合は代わりに失敗の効果を受ける。対象が失敗した場合、HPが0になり死亡する。</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "ブラッドサースティ・アージ/Bloodthirsty Urge",
+      "description": "<p>邪悪な精神の残響に取り憑かれた物体が、近づいてきた者を殺そうと試みる。</p>",
+      "disable": "<p>@Check[religion|dc:29|name:Exorcise Spirit](マスター)を行って霊を祓うか、@Check[diplomacy|dc:31|name:Talk Down the Spirit](エキスパート)を行って説得する</p>"
     },
     "Hammer Of Forbiddance": {
-      "name": "禁忌の槌",
-      "description": "<p>大建造物の入り口にある巨大なハンマーが、エリアに侵入しようとするクリーチャーにダメージを与え、押し戻し、それ以上進めないようにするために振り下ろされる。</p>",
-      "hp": "Joint 硬度:16, Joint HP: 64 (BT 32)",
-      "hpDetails": "接合部硬度: 16、接合部 HP: 64(BT 32)",
-      "stealth": "<p>(熟練)</p>",
-      "disable": "<p>@Check[thievery|dc:28|name:Prevent Hammer from Swinging|traits:action:disable-a-device] (expert)ハンマーそのものに1回、そしてハンマーが揺れるのを防ぐためにその継ぎ目に1回</p>",
-      "reset": "<p>罠はラウンドの間にリセットされ、1 ラウンド後に再び振り下ろす準備ができる.</p>",
+      "hpDetails": "接合部硬度：16、接合部HP：64(BT 32)",
+      "reset": "<p>罠はラウンドの間にリセットされ、1ラウンド後に再び振り下ろす準備ができる。</p>",
       "items": {
-        "action->Forbid Entry": {
-          "name": "立ち入り禁止",
-          "description": "<p><strong>トリガー</strong>クリーチャーが入り口から侵入しようと試みる。</p>\n<hr />\n<p><strong>効果</strong>ハンマーが振り下ろされ、トリガーとなったクリーチャーに対して〈ストライク〉を行う。</p>"
+        "caUgV11OydLsLw1j": {
+          "name": "フォービド・エントリー/Forbid Entry",
+          "description": "<p><strong>トリガー</strong> トリガーとなったクリーチャーが入口から侵入しようと試みる。</p>\n<hr />\n<p><strong>効果</strong> ハンマーが振り下ろされ、トリガーとなったクリーチャーに対して〈ストライク〉を行う。</p>"
         },
-        "melee->Hammer": {
-          "name": "槌",
-          "description": "<p>命中した場合、対象は10フィート押し戻され、@Check[will|dc:30]に成功しなければならない。失敗した場合、24時間の間、どの入り口からもその大建造物に入ることができなくなる(クリティカルヒットの場合、対象は自動的に意志セーヴに失敗する)。複数攻撃ペナルティなし</p>"
+        "pLuxXYKq1Wi28Czn": {
+          "name": "槌/Hammer",
+          "description": "<p>命中した場合、対象は10フィート押し戻され、@Check[will|dc:30]意志セーヴに成功しなければならない。失敗した場合、24時間の間、どの入り口からもその大建造物に入ることができなくなる(クリティカルヒットの場合、対象は自動的に意志セーヴに失敗する)；複数攻撃ペナルティなし</p>"
         }
-      }
+      },
+      "stealth": "<p>(expert)</p>",
+      "name": "槌・オブ・フォービダンス/Hammer Of Forbiddance",
+      "description": "<p>大建造物の入口に設えられた巨大なハンマーが、エリアに侵入しようとするクリーチャーにダメージを与えて押し戻し、それ以上の侵入を阻止するために振り下ろされる。</p>",
+      "disable": "<p>@Check[thievery|dc:28|name:Prevent Hammer from Swinging|traits:action:disable-a-device](エキスパート)をハンマー本体に1回、その接合部に1回行って、ハンマーが振り下ろされるのを防ぐ</p>"
     },
     "Hallucination Powder Trap": {
-      "name": "ハルシネーションパウダートラップ",
-      "description": "<p>小型の爆発物を備えた幻覚剤のチューブが、ドアノブや同様の掛け金に接続されている。</p>",
-      "stealth": "<p>(expert)</p>",
-      "disable": "<p>@Check[thievery|dc:26|name:Disable Hammer|traits:action:disable-a-device] (expert)雷管を叩くハンマーを使用不能にするために</p>",
       "items": {
-        "action->Powder Burst": {
-          "name": "パウダー爆発",
-          "description": "<p><strong>トリガー</strong>ラッチが開けられるか、チューブが破壊される。</p>\n<hr />\n<p><strong>効果</strong>チューブが爆発し、@Template[cone|distance:30]に幻覚性の粉末を撒き散らす。その円錐の範囲内にいるクリーチャーはすべて、@Check[will|dc:24]セーヴに成功しなければ、1ラウンドの間混乱状態となり、さらに[[/gmr 1d4 #hours]]{1d4時間}の間、《知覚》判定と精神効果に対するセーヴに-2の状況ペナルティを受ける。大失敗した場合、ペナルティは代わりに-4となる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6OpwHz0f55wPawHI]{効果: 粉末の爆発}</p>"
+        "NjmHPcx6IEA14Yul": {
+          "name": "パウダー・爆発/Powder Burst",
+          "description": "<p><strong>トリガー</strong> ラッチが開けられるか、チューブが壊される。</p>\n<hr />\n<p><strong>効果</strong> チューブが爆発し、@Template[cone|distance:30]の範囲に幻覚性の粉末を撒き散らす。コーン内のクリーチャーは@Check[will|dc:24]のセーヴに成功しなければならず、失敗すると1ラウンドの間混乱状態となり、[[/gmr 1d4 #hours]]{1d4時間}の間、《知覚》判定と精神効果に対するセーヴに-2の状況ペナルティを受ける。クリティカル失敗の場合、ペナルティは代わりに-4となる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6OpwHz0f55wPawHI]{効果: 粉末の爆発}</p>"
         }
-      }
+      },
+      "stealth": "<p>(エキスパート)</p>",
+      "name": "ハルシネーション・パウダー・トラップ/Hallucination Powder Trap",
+      "description": "<p>幻覚性の粉末を詰めたチューブに小型の爆発物が仕込まれ、ドアノブや類似の掛け金に取り付けられている。</p>",
+      "disable": "<p>@Check[thievery|dc:26|name:Disable Hammer|traits:action:disable-a-device](エキスパート)を行って雷管を叩くハンマーを無力化する</p>"
     },
     "Spectral Reflection": {
-      "name": "霊的反射",
-      "description": "<p>鏡の中のリフレクションは微妙にねじれ歪み、その表情は不気味な悪意の嘲笑を浮かべる。</p>",
-      "stealth": "<p>(expert)</p>",
-      "disable": "<p>@Check[religion|dc:23|name:Exorcise Spirit] (訓練済み)で霊を祓うか、または@Check[thievery|dc:23|name:Cover the Mirror|traits:action:disable-a-device] (訓練済み)で鏡を素早く覆う</p>",
-      "reset": "<p>このハウントは1分後に再形成され、その注入範囲内にあるあらゆる鏡の中に顕現する(以下の「特殊」を参照)。</p>",
+      "reset": "<p>このハウントは1分後に再形成され、その注入範囲内にあるあらゆる鏡の中に顕現する(以下の特殊を参照)。</p>",
       "items": {
-        "action->Spectral Impale": {
-          "name": "霊的串刺し",
+        "hEtVGo9EpKcXlhPI": {
+          "name": "スペクトラル・インペイル/Spectral Impale",
           "description": "<p><strong>トリガー</strong>生きているクリーチャーが鏡から15フィート以内に近づき、かつ鏡が薄暗い光以上の光で照らされている。</p>\n<hr />\n<p><strong>効果</strong>このハウントがシャドウ・バーブによる〈ストライク〉を行う際、影の棘がリフレクションされたクリーチャーの身体を突き刺す。</p>"
         },
-        "action->Sap Vitality": {
-          "name": "生命力奪取",
-          "description": "<p>リフレクションの影の棘によってヒットされたクリーチャーは、ハウントがその生命の本質の一部を鏡の中に引き込もうとするため、@Check[fortitude|dc:22]セーヴを行わなければならない。対象は、セーヴィング・スロウに失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}状態となり、大失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}状態となる。</p>"
+        "wdA0nAhiSTY7znrs": {
+          "name": "シャドウ・バーブス/Shadow Barbs"
         },
-        "action->Special": {
-          "name": "特殊",
+        "17gJOHIRtWXfYMKa": {
+          "name": "サップ・バイタリティ/Sap Vitality",
+          "description": "<p>リフレクションの影の棘によってヒットされたクリーチャーは、ハウントがその生命の本質の一部を鏡の中に引き込もうとするため、@Check[fortitude|dc:22]セーヴを行わなければならない。対象はセーヴィング・スロウに失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}となり、大失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}となる。</p>"
+        },
+        "V7tWWuB9NSEsMEae": {
+          "name": "スペシャル/Special",
           "description": "<p>スペクトラル・リフレクションはしばしば建物全体に浸透し、十分に大きな鏡であればどこにでも現れる。提示されたヒット・ポイントと硬度は、ハウントによって強化された典型的な鏡を表している。あなたの判断で、ハウントは破壊するのがより困難な反射面に現れるようにしてもよい。ダメージを与えて顕現を打ち負かすと、その表面は破壊され、ハウントは二度とそれを使用できなくなる。もしこのハウントが多くの鏡がある場所に現れるなら、PC達に通常の単純なハザードの2倍、あるいは3倍のXPを与えることを検討せよ。</p>"
         }
-      }
+      },
+      "stealth": "<p>(エキスパート)</p>",
+      "name": "スペクトラル・リフレクション/Spectral Reflection",
+      "description": "<p>鏡の中のリフレクションは微妙にねじれ歪み、その表情は不気味な悪意の嘲笑を浮かべる。</p>",
+      "disable": "<p>@Check[religion|dc:23|name:Exorcise Spirit](訓練済み)を行って霊を祓うか、@Check[thievery|dc:23|name:Cover the Mirror|traits:action:disable-a-device](訓練済み)を行って素早く鏡を覆う</p>"
     },
     "Poisoned Lock": {
-      "name": "毒を受けたロック",
-      "description": "<p>バネ仕掛けの毒針が、錠前の鍵穴の近くに隠されている。この罠を解除または破壊しても、錠前は解除または破壊されない。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[thievery|dc:17|name:Disarm Lock Trap|traits:mechanical,trap] (訓練済み)泉の機構に対して</p>",
       "items": {
-        "action->Spring": {
-          "name": "泉",
-          "description": "<p><strong>トリガー</strong>クリーチャーがロックを解錠しようとするか、つるはししようとする。</p>\n<hr />\n<p><strong>効果</strong>針が伸びてトリガーとなったクリーチャーに対して〈ストライク〉を行う。</p>"
+        "1bvXbELRBoJTBqsR": {
+          "name": "スプリング/Spring",
+          "description": "<p><strong>トリガー</strong> クリーチャーがロックを解錠しようとするか、ピッキングしようとする。</p>\n<hr />\n<p><strong>効果</strong> 針が伸びてトリガーとなったクリーチャーに対して〈ストライク〉を行う。</p>"
         },
-        "action->Cladis Poison": {
-          "name": "クラディス毒",
-          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:19]</p>\n<p><strong>最大持続時間</strong> 4時間</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}状態(1時間)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}状態(1時間)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよびdrained 2状態(1時間)</p>"
+        "vFBoAHwlrVTu9wKm": {
+          "name": "スパイン/Spine"
+        },
+        "HoWRGPkBlJjsL9zl": {
+          "name": "クラディス・毒/Cladis Poison",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:19]</p>\n<p><strong>最大持続時間</strong> 4時間</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1} (1時間)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2} (1時間)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよびdrained 2 (1時間)</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "ポイズンド・ロック/Poisoned Lock",
+      "description": "<p>バネ仕掛けの毒針が、錠前の鍵穴の近くに隠されている。この罠を解除または破壊しても、錠前は解除または破壊されない。</p>",
+      "disable": "<p>@Check[thievery|dc:17|name:Disarm Lock Trap|traits:mechanical,trap](訓練済み)をばね機構に対して行う</p>"
     },
     "Snowfall": {
-      "name": "降雪/Snowfall",
-      "description": "<p>木の枝や屋根の上など、高い場所に緩い雪と氷が積み重なっている。表面への固着は弱く、表面が動けば落下する可能性が高い。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[survival|dc:19|name:Safely Dislodge the Snow] (訓練済み)雪を安全に取り除く、あるいは、ハザードを誘発させずに破壊するために任意の量の火炎ダメージを与える</p>",
       "items": {
-        "action->Snowdrop": {
-          "name": "スノードロップ",
-          "description": "<p><strong>トリガー</strong>クリーチャーが積雪が乗っている場所の下を移動する。</p>\n<hr />\n<p><strong>効果</strong>氷と雪がトリガーとなったクリーチャーの上に落下し、@Damage[(2d6+3)[bludgeoning]]ダメージを与え(@Check[reflex|dc:18|basic]セーヴ)、衣服を濡らす。新しい衣服に着替えるか、通常の気温以上の場所に少なくとも1時間滞在するまで、そのクリーチャーは寒冷環境を1段階厳しいものとして扱う(例えば、軽度の寒冷を過酷な寒冷として扱う)。</p>"
+        "hoSnbd89PgLy85mP": {
+          "name": "スノードロップ/Snowdrop",
+          "description": "<p><strong>トリガー</strong> クリーチャーが積雪の下を移動する。</p>\n<hr />\n<p><strong>効果</strong> 氷と雪がそのクリーチャーの上に落下し、@Damage[(2d6+3)[bludgeoning]]ダメージを与え(@Check[reflex|dc:18|basic]セーヴ)、そのクリーチャーの衣服を濡らす。そのクリーチャーが新しい衣服に着替えるか、通常の温度以上の場所に少なくとも1時間留まるまで、そのクリーチャーは寒冷環境を1段階厳しいものとして扱う(例えば、軽度の寒冷を過酷な寒冷として扱う)。</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "スノーフォール/Snowfall",
+      "description": "<p>木の枝や屋根の上など、高い場所に緩い雪と氷が積み重なっている。表面への固着は弱く、表面が動けば落下する可能性が高い。</p>",
+      "disable": "<p>@Check[survival|dc:19|name:Safely Dislodge the Snow](訓練済み)を行って安全に雪を落とすか、任意の量の火炎ダメージを与えて、罠を作動させることなくハザードを破壊する。</p>"
     },
     "Spear Launcher": {
-      "name": "槍ランチャー",
-      "description": "<p>槍が装填された壁のソケットが、5フィートの広場1つ分の床タイルに接続されている。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[thievery|dc:18|name:Disable Thievery] (訓練済み)床タイルまたは壁のソケットに対して</p>",
       "items": {
-        "action->Spear": {
-          "name": "槍",
-          "description": "<p><strong>トリガー</strong>床タイルに圧力がかかる。</p>\n<hr />\n<p><strong>効果</strong>この罠は槍を発射し、床タイル上のクリーチャーまたは物体に対して〈ストライク〉を行う。</p>"
+        "0KrOaCLFSEcIdcej": {
+          "name": "スピア/Spear",
+          "description": "<p><strong>トリガー</strong> 床タイルに圧力がかかる。</p>\n<hr />\n<p><strong>効果</strong> この罠は槍を発射し、床タイル上のクリーチャーまたは物体に対して〈ストライク〉を行う。</p>"
+        },
+        "B486xwl3ZYYCqNyw": {
+          "name": "スピア/Spear"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "槍ランチャー/Spear Launcher",
+      "description": "<p>槍が装填された壁のソケットが、5フィート四方の床タイル1枚に接続されている。</p>",
+      "disable": "<p>@Check[thievery|dc:18|name:Disable Thievery](訓練済み)を床タイルまたは壁のソケットに対して行う</p>"
     },
     "Shrieker": {
-      "name": "シュリーカー",
-      "description": "<p>この人間サイズの紫色のキノコは、邪魔されると刺突叫び声を上げる。</p>",
-      "disable": "<p>@Check[survival|dc:18|name:Disable Air Sac|traits:environmental,fungus]シュリーカーを誘発させずに慎重に接近し、キノコの空気袋を切断するために</p>",
       "reset": "<p>1分</p>",
       "items": {
-        "action->Shriek": {
-          "name": "叫び",
-          "description": "<p><strong>トリガー</strong> クリーチャーまたは光源がシュリーカーの10フィート以内に近づくか、シュリーカーがダメージを受ける。</p>\n<hr />\n<p><strong>効果</strong> シュリーカーは耳をつんざくような叫び声を上げ、@Template[emanation|distance:30]{30フィート}以内にいるクリーチャーに@Damage[1d6[sonic]]ダメージを与える(@Check[fortitude|dc:16|basic|traits:auditory]セーヴ。このセーヴィング・スロウに大失敗したクリーチャーは、1分の間@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態となる)。</p>"
+        "sBSa8YzXeDYM0ODl": {
+          "name": "シュリーク/Shriek",
+          "description": "<p><strong>トリガー</strong> クリーチャーまたは光源がシュリーカーから10フィート以内に近づくか、シュリーカーがダメージを受ける。</p>\n<hr />\n<p><strong>効果</strong> シュリーカーは耳をつんざく甲高い叫び声を発し、@Template[emanation|distance:30]{30フィート}以内のクリーチャーに@Damage[1d6[sonic]]ダメージを与える(@Check[fortitude|dc:16|basic|traits:auditory]セーヴ；このセーヴに大失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚障害}状態となる、持続時間1分)。</p>"
         }
-      }
+      },
+      "name": "シュリーカー/Shrieker",
+      "description": "<p>この人間サイズの紫色のキノコは、邪魔されると耳をつんざく甲高い叫び声を上げる。</p>",
+      "disable": "<p>@Check[survival|dc:18|name:Disable Air Sac|traits:environmental,fungus]慎重に接近し、シュリーカーを起動させずにキノコの風の袋を切断する</p>"
     },
     "Gravehall Trap": {
-      "name": "グレイヴホールトラップ",
-      "description": "<p>生きているクリーチャーが罠の仕掛けられたトンネルの中間地点を横切ると、壁や天井に埋められた死体が死霊術の魔法によって部分的に動き出す。</p>",
-      "disable": "<p>@Check[thievery|dc:24|name:Disrupt Magical Trigger|traits:action:disable-a-device] (expert)ハザードがイニシアチブをロールする前に魔法のトリガーを妨害する、あるいは、@Check[religion|dc:18|name:Overwhelm the Area with Vitality Energy] (訓練済み)範囲内に生命エネルギーを溢れさせてハザードが1ラウンドの間ルーチンを使用するのを防ぐ。3回目の成功した《宗教》判定で、死霊術的なエネルギーは妨害され、ハザードは破壊される。</p>",
-      "routine": "<p>(1アクション)アンデッドの拳が館内のすべてのクリーチャーを襲い、@Damage[4d6[bludgeoning]]ダメージを与える。館内のクリーチャーは@Check[reflex|dc:21]を行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は半分のダメージを受ける。</p>\n<p><strong>失敗</strong>対象は全てのダメージを受けるし、その移動速度は1ラウンドの間、10フィート減少する(最低でも5フィート)。</p>\n<p><strong>クリティカル失敗</strong>対象は2倍のダメージを受けるし、1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。</p>",
       "items": {
-        "action->Lunging Dead": {
-          "name": "飛びかかる死者",
-          "description": "<p><strong>トリガー</strong> 生きているクリーチャーがトンネルの中間地点を横切る</p>\n<hr />\n<p><strong>効果</strong> 死者が壁や天井から手を伸ばし、うめき声を上げ、身悶えするウジを吐き出す。部屋にいるクリーチャーは@Check[will|dc:21]セーヴを行わなければならない。その後、この罠はイニシアチブをロールする。</p>\n<hr />\n<p><strong>大成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れ}</p>となる。\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れ 2}となる。対象は罠のエリア内にいる間、自身の恐れ状態を1未満に減少させることはできない。</p>\n<p><strong>大失敗</strong> 失敗と同様。さらに、対象は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態で1ラウンドの間、麻痺状態となる。</p>"
+        "8yNeU3TLczTIlFjP": {
+          "name": "ランジング・デッド/Lunging Dead",
+          "description": "<p><strong>トリガー</strong> 生きているクリーチャーがトンネルの中間地点を横切る。</p>\n<hr />\n<p><strong>効果</strong> 死者たちが壁や天井から手を伸ばし、うめき声を上げながら、のたうち回るウジ虫を吐き出す。部屋にいるクリーチャーは@Check[will|dc:21]セーヴを行わなければならない。その後、この罠はイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐怖}状態となる。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐怖 2}状態となる。対象は罠のエリア内にいる間、自身の恐怖の値を1未満に減らすことはできない。</p>\n<p><strong>クリティカル失敗</strong> 失敗時と同様の効果に加え、対象は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となり、1ラウンドの間持続する。</p>"
         }
-      }
+      },
+      "routine": "<p>(1アクション)アンデッドの拳が広間内のすべてのクリーチャーを襲い、@Damage[4d6[bludgeoning]]ダメージを与える。広間内のクリーチャーは@Check[reflex|dc:21]を行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は半分のダメージを受ける。</p>\n<p><strong>失敗</strong>対象は全てのダメージを受ける。さらに、対象の移動速度は1ラウンドの間、10フィート減少する(最低でも5フィート)。</p>\n<p><strong>クリティカル失敗</strong>対象は2倍のダメージを受けるし、1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}となる。</p>",
+      "name": "グレイヴホール・トラップ/Gravehall Trap",
+      "description": "<p>生きているクリーチャーが罠の仕掛けられたトンネルの中間地点を横切ると、死霊術の魔法が壁や天井に埋められた死体を部分的に動かす。</p>",
+      "disable": "<p>@Check[thievery|dc:24|name:Disrupt Magical Trigger|traits:action:disable-a-device](熟練)を行ってハザードがイニシアチブをロールする前に魔法のトリガーを妨害する。あるいは、@Check[religion|dc:18|name:Overwhelm the Area with Vitality Energy](訓練済み)を行ってそのエリアを生命エネルギーで圧倒し、ハザードが1ラウンドの間ルーチンを使用するのを防ぐ。3回目の《宗教》判定に成功すると、死霊術的なエネルギーは妨害され、ハザードは破壊される。</p>"
     },
     "Bottomless Pit": {
-      "name": "底なし　ピット",
-      "description": "<p>鉄の落とし蓋が無限に深い10-フィートの正方形の穴を覆っている.</p>",
-      "stealth": "<p>(落とし戸が無効化されているか壊れている場合は0)または<em>ディテクト・マジック</em></p>",
-      "disable": "<p>@Check[thievery|dc:28|name:Remove Trapdoor|traits:action:disable-a-device] (訓練済み)落とし戸を取り除くために</p>",
-      "reset": "<p>この罠は依然として、クリーチャーが落ちれば永遠に落下させるが、罠が再び隠れている状態になるためには、落とし戸を手動でリセットしなければならない。</p>",
+      "reset": "<p>この罠は依然として、クリーチャーが落ちれば永遠に落下させるが、罠が再び隠れた状態になるためには、落とし戸を手動でリセットしなければならない。</p>",
       "items": {
-        "action->Infinite Pitfall": {
-          "name": "無限のピット落下",
-          "description": "<p><strong>トリガー</strong> クリーチャーが落とし戸の上を歩く</p>\n<hr />\n<p><strong>効果</strong> トリガーとなったクリーチャーは穴に落ち、そのまま落下し続ける(永遠に続く可能性がある)。そのクリーチャーは落下を避けるために@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{〈縁にしがみつく〉}を試みることができる。壁を〈登攀〉する、あるいは〈縁にしがみつく〉ためのDCは26である。その穴には多くの掴まる場所があるため、落下しているクリーチャーは6秒ごとに再び〈縁にしがみつく〉を試みることができる。クリーチャーが成功した場合、その地点から〈登攀〉して脱出を開始できる(ただし、どれだけ落下したかによっては、非常に長い登攀になる可能性がある)。クリーチャーは無限に落下し続けるため、落下中に休息したり呪文を準備したりすることさえできるが、落下中に落としたアイテムは通常、永遠に失われる。</p>"
+        "WJtDPJzNrJO19H6k": {
+          "name": "インフィニットピットフォール/Infinite Pitfall",
+          "description": "<p><strong>トリガー</strong>クリーチャーが落とし蓋の上を歩く</p>\n<hr />\n<p><strong>効果</strong>トリガーとなったクリーチャーは穴の中に落下し、永遠に落下し続ける可能性がある。そのクリーチャーは落下を避けるために@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{〈縁にしがみつく〉}を試みることができる。壁を〈登攀〉する、または〈縁にしがみつく〉ためのDCは26である。穴には多くの掴まる場所があるため、落下しているクリーチャーは6秒ごとに再び〈縁にしがみつく〉を試みることができる。クリーチャーが成功すれば、その地点から〈登攀〉して脱出を開始できる(ただし、どれだけ落下したかによっては、非常に長い登攀になる可能性がある)。クリーチャーは際限なく落下し続けるため、落下中に休息したり呪文を準備したりすることさえできるが、落下中に落としたアイテムは通常永遠に失われる。</p>"
         }
-      }
+      },
+      "stealth": "<p>(落とし戸が無効化されているか壊れている場合は0)または<em>ディテクト・マジック</em></p>",
+      "name": "ボトムレスピット/Bottomless Pit",
+      "description": "<p>鉄の落とし戸が、無限に深い10フィート四方の穴を覆っている。</p>",
+      "disable": "<p>@Check[thievery|dc:28|name:Remove Trapdoor|traits:action:disable-a-device](訓練済み)を行って落とし蓋を取り除く/Bottomless Pit</p>"
     },
     "Planar Rift": {
-      "name": "次元の裂け目/Planar Rift",
-      "description": "<p>裂け目はクリーチャーを別の次元界(特定の次元界はGMが選択する)へ引きずり込もうとする。</p>",
-      "stealth": "<p>(訓練済み)</p>",
-      "disable": "<p>@Check[thievery|dc:33|name:Assemble a Rift Seal|traits:action:disable-a-device] (master)あなたの次元界に強く根ざした物体を使用して裂け目の封印を組み立てる、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(7レベル；打ち消し DC 31)を使用して裂け目を打ち消しする</p>",
       "items": {
-        "action->Into the Great Beyond": {
-          "name": "大いなる彼方へ",
-          "description": "<p><strong>トリガー</strong> クリーチャーが裂け目から10フィート以内に移動する。</p>\n<hr />\n<p><strong>効果</strong> トリガーとなったクリーチャーと、裂け目から30フィート以内にいるすべてのクリーチャーは、別の次元界へ引きずり込まれる。各クリーチャーはこの運命を避けるために@Check[reflex|dc:33]セーヴを行うことができる。</p>"
+        "K7Ya0U5jerfvH0vw": {
+          "name": "イントゥ・ザ・グレート・ビヨンド/Into the Great Beyond",
+          "description": "<p><strong>トリガー</strong>クリーチャーが裂け目から10フィート以内に移動する。</p>\n<hr />\n<p><strong>効果</strong>トリガーとなったクリーチャーと、裂け目から30フィート以内にいるすべてのクリーチャーは、別の次元界へ引きずり込まれる。各クリーチャーはこの運命を避けるために@Check[reflex|dc:33]セーヴを行うことができる。/Into the Great Beyond</p>"
         }
-      }
+      },
+      "stealth": "<p>(訓練済み)/Planar Rift</p>",
+      "name": "プレイナー・リフト/Planar Rift",
+      "description": "<p>裂け目はクリーチャーを別の次元界へ引きずり込もうとする(特定の次元界はGMが選択する)。/Planar Rift</p>",
+      "disable": "<p>@Check[thievery|dc:33|name:Assemble a Rift Seal|traits:action:disable-a-device](達人)を行って、あなたの次元界に強く結びついた物体を使用して裂け目の封印を組み立てる。あるいは、@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第7ランク、打ち消し DC 31)を行って裂け目を打ち消す。/Planar Rift</p>"
     },
     "Dance Of Death": {
-      "name": "死の舞踏",
-      "description": "<p>不気味なオーケストラは、それを聞いたすべての者に、疲労で倒れるまで踊るよう強制する。</p>",
-      "stealth": "<p>(master)</p>",
-      "disable": "<p>@Check[intimidation|dc:42|name:Frighten the Orchestra|traits:action:demoralize] (expert) 3回行って、ダンサーや幽霊の音楽家たちが死のパフォーマンスに参加するのを怖がらせて遠ざける、@Check[performance|dc:40|name:Disrupt Compulsion] (master) 2回行って、強制を妨害するのに十分な不協和音の旋律を生み出す、あるいは@Check[religion|dc:42|name:Banish Spirits] (master) 3回行って、祈りによって霊を追放する</p>",
-      "reset": "<p>不気味なオーケストラは1時間を費やしてその幻影の楽器を再調律し、その後、再びルーチンを開始する準備が整う。</p>",
-      "routine": "<p>(1アクション; auditory, incapacitation, mental, occult)オーケストラは騒々しい旋律を演奏し、それを聞くことができるすべてのクリーチャーにダンスにアクションを費やすよう強制する。各ラウンド、クリーチャーは@Check[will|dc:37]セーヴを行わなければならない。このセーヴの結果は、そのクリーチャーが各ラウンドにダンスに費やさなければならないアクションの数を修正する。もしこれが原因で、クリーチャーが自分のターンに使用できる以上のアクションをダンスに費やすことになった場合、そのクリーチャーは体が耐えられるよりも速く動いたことによる@Damage[10d6]ダメージ(大失敗した場合はその2倍)を受ける。</p>\n<hr>\n<p><strong>クリティカル成功</strong>クリーチャーはダンスに費やさなければならないアクションの数を1減らす。</p>\n<p><strong>成功</strong>効果なし。</p>\n<p><strong>失敗</strong>クリーチャーはダンスに費やさなければならないアクションの数を1増やす。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーはダンスに費やさなければならないアクションの数を2増やす。</p>",
+      "reset": "<p>不気味なオーケストラは1時間を費やしてその幻影の楽器を再調律し、その後、再びルーチンを開始する準備が整う。/Dance Of Death</p>",
       "items": {
-        "action->Prelude": {
-          "name": "前奏曲",
-          "description": "<p><strong>トリガー</strong> クリーチャーがオーケストラから30フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong> オーケストラは、それを聞くことができるすべてのクリーチャーに踊り始めるよう強制する。各クリーチャーは@Check[will|dc:41]セーヴを行わなければならず、以下の効果を受ける。その後、このハウントはイニシアチブをロールする。</p>\n<hr />\n<p><strong>大成功</strong> クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong> クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{油断状態}となり、リアクションを使用できなくなる。さらに、各ラウンドに1回のアクションを踊るために費やさなければならない。踊ることは移動アクションであり、クリーチャーは自身の移動速度の半分まで〈ストライド〉することができる。</p>\n<p><strong>失敗</strong> 成功と同様。ただし、クリーチャーは各ラウンドに2回のアクションを踊るために費やさなければならない。</p>\n<p><strong>大失敗</strong> 失敗と同様。ただし、クリーチャーは各ラウンドに3回のアクションを踊るために費やさなければならない。</p>"
+        "Bov9feGVYpn5nmUl": {
+          "name": "プレリュード/Prelude",
+          "description": "<p><strong>トリガー</strong>クリーチャーがオーケストラから30フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>オーケストラは、それを聞くことができるすべてのクリーチャーに踊り始めるよう強制する。各クリーチャーは以下の効果を伴う@Check[will|dc:41]セーヴを行わなければならない。その後、ハウントはイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となり、リアクションを使用できなくなる。さらに、各ラウンドに1アクションを踊ることに費やさなければならない。踊ることは、クリーチャーが自身の移動速度の半分まで〈ストライド〉することを可能にする移動アクションである。</p>\n<p><strong>失敗</strong>成功と同様だが、クリーチャーは各ラウンドに2アクションを踊ることに費やさなければならない。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、クリーチャーは各ラウンドに3アクションを踊ることに費やさなければならない。</p>"
         }
-      }
+      },
+      "routine": "<p>(1アクション; 聴覚、無力化、精神、オカルト)オーケストラは騒々しい曲を演奏し、それを聞くことができるすべてのクリーチャーにダンスにアクションを費やすよう強いる。各ラウンド、クリーチャーは@Check[will|dc:37]セーヴを行わなければならない。このセーヴの結果は、そのクリーチャーが各ラウンドにダンスに費やさなければならないアクションの数を修正する。もしこれが原因で、そのクリーチャーが自分のターンに使用できる以上のアクションをダンスに費やすことになった場合、そのクリーチャーは体が耐えられるよりも速く動いたことによる@Damage[10d6]ダメージ(大失敗した場合はその2倍)を受ける。</p>\n<hr>\n<p><strong>クリティカル成功</strong>クリーチャーはダンスに費やさなければならないアクションの数を1減らす。</p>\n<p><strong>成功</strong>効果なし。</p>\n<p><strong>失敗</strong>クリーチャーはダンスに費やさなければならないアクションの数を1増やす。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーはダンスに費やさなければならないアクションの数を2増やす。</p>",
+      "stealth": "<p>(達人)</p>",
+      "name": "ダンス・オブ・デス/Dance Of Death",
+      "description": "<p>不気味なオーケストラは、それを聞いたすべての者に、疲労で倒れるまで踊るよう強制する。</p>",
+      "disable": "<p>@Check[intimidation|dc:42|name:Frighten the Orchestra|traits:action:demoralize] (熟練)を3回行って、ダンサーと幽霊の音楽家の両方が致命的な踊りに参加しないよう怯ませる。あるいは、@Check[performance|dc:40|name:Disrupt Compulsion] (達人)を2回行って、強制を妨げるのに十分な不協和音の曲を奏でる。あるいは、@Check[religion|dc:42|name:Banish Spirits] (達人)を3回行って、祈りで霊を追放する。</p>"
     }
   },
   "mapping": {
-    "tokenName": "prototypeToken.name",
-    "languages": "system.traits.languages",
-    "senses": "system.perception.senses",
-    "speed": "system.attributes.speed",
-    "publicNotes": "system.details.publicNotes",
-    "privateNotes": "system.details.privateNotes",
-    "blurb": "system.details.blurb",
     "description": "system.details.description",
-    "ac": "system.attributes.ac.details",
-    "hp": "system.attributes.hp.details",
-    "acDetails": "system.attributes.ac.details",
     "hpDetails": "system.attributes.hp.details",
-    "allSaves": "system.attributes.allSaves.value",
     "stealth": "system.attributes.stealth.details",
     "disable": "system.details.disable",
     "reset": "system.details.reset",
     "routine": "system.details.routine",
-    "di": "system.traits.di.custom",
-    "dr": "system.traits.dr.custom",
-    "dv": "system.traits.dv.custom",
-    "ci": "system.traits.ci.custom",
-    "skillSpecialAcrobatics": "system.skills.acrobatics.special",
-    "skillSpecialAthletics": "system.skills.athletics.special",
-    "skillSpecialCrafting": "system.skills.crafting.special",
-    "skillSpecialDeception": "system.skills.deception.special",
-    "skillSpecialDiplomacy": "system.skills.diplomacy.special",
-    "skillSpecialStealth": "system.skills.stealth.special",
-    "skillSpecialSurvival": "system.skills.survival.special",
-    "gender": "system.details.gender.value",
-    "ethnicity": "system.details.ethnicity.value",
-    "familiarType": "system.details.creature.value",
-    "appearance": "system.details.biography.appearance",
-    "backstory": "system.details.biography.backstory",
     "items": {
       "path": "items",
       "converter": "fromPack"

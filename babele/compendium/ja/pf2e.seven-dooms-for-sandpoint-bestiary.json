@@ -1,0 +1,2008 @@
+{
+  "label": "サンドポイントの七つの破滅のベスティアリ",
+  "entries": {
+    "Coloxus": {
+      "items": {
+        "xJ1kXZKQd3CHwaW6": {
+          "name": "ディバイン・インネイト・スペルズ/Divine Innate Spells"
+        },
+        "epWtYy96M47uFp91": {
+          "name": "顎/Jaws"
+        },
+        "IEHdZbH446oOUzmo": {
+          "name": "テレパシー（100フィート）/Telepathy 100 feet"
+        },
+        "yGDzFyrHnXKouelg": {
+          "name": "コンスタント・スペルズ/Constant Spells"
+        },
+        "kRAsvR2IfhJOlWUd": {
+          "name": "+1ステイタス・トゥ・オール・セーヴズ・バーサス・マジック/+1 Status to All Saves vs. Magic"
+        },
+        "GvoKoHBt3t01OxuS": {
+          "name": "汚物弱点/Filth Vulnerability",
+          "description": "<p>コロクスは不浄や汚れに触れることをひどく嫌う。手に持った少量の不浄は、投擲：5フィートの系統を持ち、命中時に@Damage[2d6[mental]]ダメージを与える〈ストライク〉として、コロクスに対して使用できる。コロクスを不浄の中に落下させたり、浸からせたりすると、1ラウンドごとに@Damage[6d6[mental]]ダメージを与える。</p>"
+        },
+        "9KHwXUjSzKnP6AIN": {
+          "name": "唸る翼/Droning Wings",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>コロクスは、きらめく薄い絹のような羽を羽ばたかせ、音を和らげるブーンという羽音とともに、魅惑的な色彩のディスプレイを作り出す。コロクスが@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}状態である場合、その効果は終了し、コロクスは視認できるようになる。@Template[emanation|distance:30]内のすべてのクリーチャーは、@Check[will|dc:29]セーヴに成功しなければ、コロクスの次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}(大失敗時は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 2})となる。この羽音を立てる羽が持続している限り、コロクスは完全耐性(音波ダメージ)を得る。コロクスは羽音を立てる羽を最大1分の間〈維持〉できる。</p>"
+        },
+        "5VeD2S9TsGfOspa9": {
+          "name": "吸い上げ/Siphon",
+          "description": "<p>コロクスが顎の〈ストライク〉でクリーチャーにダメージを与えたとき、対象の肉体的な生命力を吸い取り、その自尊心と自信を吸い取る。コロクスは10の一時的ヒット・ポイントを獲得し、そのクリーチャーは@Check[will|dc:32]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}となる。コロクスによってさらにダメージを与えられた場合、セーヴに失敗すると、このぼんやり状態の値は1増加し、最大で@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁4}となる。</p>"
+        },
+        "RcIcrCVQ8ltkLlSn": {
+          "name": "スニーク・アタック/Sneak Attack",
+          "description": "<p>このクリーチャーのストライクは、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーに対して2d6の追加の精密ダメージを与える。</p>"
+        }
+      },
+      "name": "コロクサス/Coloxus",
+      "publicNotes": "<p>Although the coloxus has the hideous head of a monstrous fly, these demons are fastidious and clean, always dressing in stylish clothing without a blemish on them. Coloxuses are manipulators and schemers born from destructively vain souls. Evil mortals are fond of conjuring them to serve as emissaries or spies, but they also make excellent assassins. Even in the role of murderer, the demon remains cloyingly polite and formal, reveling in the irony of perpetuating such a horrible crime under the guise of good etiquette, as if it were a delicate bit of diplomacy.</p>\n<h2>Enemies Of Filth</h2>\n<p>Filth is often inescapable in the Abyss, and as a result, coloxus demons are particularly eager to be conjured away from that plane to work their evils in cleaner realities. When one uses <em>planar ally</em> or <em>planar binding</em> to conjure a coloxus, summoning it into a clean environment and promising you won't compel it to serve under filthy conditions may make the demon easier to bargain with. At the GM's discretion, the demon may agree to serve you for longer or at a lower cost than normal.</p>",
+      "allSaves": "魔法に対するすべてのセーヴに＋1の状況ボーナス"
+    },
+    "Iazmilor": {
+      "items": {
+        "2aIdIgZQ7tj5przJ": {
+          "name": "ディバイン・プリペアード・スペルズ/Divine Prepared Spells"
+        },
+        "whlboTcr3gsKOqn9": {
+          "name": "オカルト・インネイト・スペルズ/Occult Innate Spells"
+        },
+        "Ti9xWi45f5bcewn2": {
+          "name": "ウォーハンマー/Warhammer"
+        },
+        "blLDoje0pPc7JmTv": {
+          "name": "顎"
+        },
+        "MPMO36ymeL7wYT3L": {
+          "name": "テレパシー（30フィート）/Telepathy 30 feet"
+        },
+        "Iga3pCP5cVOGmSfg": {
+          "name": "エコーロケーション（精密）30フィート/Echolocation (Precise) 30 feet",
+          "description": "<p>グリオスは、記載された射程内において、自身の聴覚を明瞭な感覚として使用できる。</p>"
+        },
+        "fyjVaDYLzXwwSJt2": {
+          "name": "ライト・ブラインドネス/Light Blindness"
+        },
+        "uATa8vPXhj7r8fDr": {
+          "name": "ノー・ブレス/No Breath",
+          "description": "<p>グリオスは話すとき以外は呼吸をせず、呼吸を必要とする効果(吸入毒など)に対して免疫である。</p>"
+        },
+        "YHkXKmipljWLHYIU": {
+          "name": "アザトースの過酷な呪い/Grim Curse of Azathoth",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>イアズミロールは、30フィート以内にいる視認できるクリーチャーを凝視しながら、アクロ語でアザトースの名を唱える。彼の目はオレンジ色に輝き、対象は物質界の中心で渦巻く混沌の短い幻視に耐え、その瞬間、宇宙における自分自身の無意味さを目撃する。対象は@Check[will|dc:26]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは1時間の間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}となる。</p>\n<p><strong>失敗</strong>クリーチャーはぼんやり1となり、毎夜初めて夜空を見上げたとき、@Check[will|dc:26]セーヴを行わなければならない。失敗するとぼんやり状態の値が1増加する(最大で@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁4}まで。この状態になっていない場合はぼんやり1となる)。ぼんやり状態が取り除かれたとしても、対象は呪いが解けるまで、毎夜1回、夜空を見上げたときにセーヴを行い続けなければならない。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、対象は物質界や大いなる彼方のどこにいようとも、故郷の地で太陽が沈むときに宇宙の重みを感じる。この場合、夜空を見上げる必要はない。</p>"
+        },
+        "F4ycjKNXdW1hYrZO": {
+          "name": "グリオス・ヴェノム/Grioth Venom",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:26]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3} (1ラウンド)</p>"
+        },
+        "XeDbTFaMNm2WneCP": {
+          "name": "ショック・マインド/Shock Mind",
+          "description": "<p>グリオスはヴォイドグラス製の武器で〈ストライク〉を行う。</p>\n<p>〈ストライク〉が命中した場合、追加で@Damage[4d6[mental]]ダメージを与え、対象は@Check[will|dc:26|traits:incapacitation]セーヴ(これには無力化系統がある)に成功しなければ、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となる。</p>"
+        }
+      },
+      "blurb": "アザトースのグリオスの神官",
+      "name": "イアズミロール/Iazmilor"
+    },
+    "Sticky Greeter": {
+      "reset": "<p>この粘着性の出迎えは手動でリセットしなければならない。</p>",
+      "items": {
+        "GcNYP2C6NZEMOdrr": {
+          "name": "ウェブ/Web",
+          "description": "<p><strong>ウェブ硬度</strong> 5</p>\n<p><strong>ウェブ HP</strong> 20</p>\n<p><strong>免疫</strong>殴打ダメージ、致命打、オブジェクトの完全耐性、刺突ダメージ、精密ダメージ</p>"
+        },
+        "f33ibm0weYFRsbLf": {
+          "name": "噴霧ウェブ/Spray Webbing",
+          "description": "<p><strong>トリガー</strong>クリーチャーがスティッキー・グリーターに隣接する圧力板を踏む。</p>\n<hr />\n<p><strong>効果</strong>スティッキー・グリーターは腹部を前方に急激に突き出して開き、トリガーとなったクリーチャーに厚い錬金術の蜘蛛の巣のシートを吹き付けながら、前方に傾く。同時に、スティッキー・グリーターは甲高い口笛のような音を出す。そのクリーチャーは@Check[reflex|dc:26]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}(不動)状態になってその場に留め置かれ、大失敗すると@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}(拘束)状態になる。この効果は、そのクリーチャーが[[/act escape dc=22]]{脱出}するか、自身を縛っている蜘蛛の巣が破壊されるまで持続する。</p>"
+        }
+      },
+      "name": "スティッキー・グリーター/Sticky Greeter",
+      "description": "<p>剥製のジャイアント・スパイダーの腹部が開き、前方のエリアに粘着性のある蜘蛛の巣を吹き付ける。</p>",
+      "disable": "<p>@Check[thievery|dc:23](粘着性の出迎えを起動する感圧板を無効化する)</p>"
+    },
+    "Gurlunk": {
+      "items": {
+        "tu4969xemiMROmKn": {
+          "name": "ドッグスライサー/Dogslicer"
+        },
+        "cd8w8IFgL2CHHKSl": {
+          "name": "コンポジット・ショートボウ/Composite Shortbow"
+        },
+        "0kAM1wiAEBu8bCer": {
+          "name": "ゴブリン・スカトル/Goblin Scuttle",
+          "description": "<p><strong>トリガー</strong> ゴブリンの味方が、このゴブリンに隣接する位置で移動アクションを終了する。</p>\n<hr />\n<p><strong>効果</strong> このゴブリンは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{ステップ}を行う。</p>"
+        },
+        "SAZgCyar8SLZFJ6B": {
+          "name": "ディスオリエンティング・ショット/Disorienting Shot",
+          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n⟦<hr />\n<p><strong>効果</strong> ガールンクは狩りの獲物に対してショートボウで2回の〈ストライク〉を行う。両方が同じクリーチャーにヒットした場合、そのクリーチャーは@Check[will|dc:21]セーヴに成功しなければ、自身の次のターンの開始時まで(大失敗の場合はガールンクの次のターンの開始時まで)@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(体勢崩し)状態となる。</p>"
+        },
+        "jcZnVOWY1j6tfCoM": {
+          "name": "ハント・プレイ/Hunt Prey",
+          "description": "<p>ガールンクは自身が見るか聞くことができる単一のクリーチャーを指定し、その獲物を@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}および@UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{〈追跡〉}するための《知覚》判定に+2の状況ボーナス(状況ボーナス)を得る。彼が同時に指定できるクリーチャーは1体のみであり、新しい狩りの獲物を選んだ場合、前の指定は終了する。</p>"
+        },
+        "YEsJHX7iw3DjQjHH": {
+          "name": "ハンターズ・エッジ/Hunter's Edge",
+          "description": "<p>ガールンクは、1ラウンド(ラウンド)中に初めて狩りの獲物にヒットを与えたとき、追加で1d8の精密ダメージ(急所ダメージ)を与える。</p>"
+        },
+        "LNrD5BuON3DvjDr3": {
+          "name": "口笛の脅威/Whistling Threat",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ガールンクは、30フィート(フィート)以内に見えている中型(中型)以上の動物またはビーストに向かって鋭く口笛を吹き、その声を使ってクリーチャーの知性を鈍らせ、防御を下げさせる。対象は@Check[will|dc:21]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている(恐れ)1}状態となる。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている(恐れ)2}状態となる。</p>\n<p><strong>クリティカル失敗</strong>対象は恐怖で震え、1ラウンド(1ラウンド)の間、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている(恐れ)3}状態および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ(減速)1}状態となる。</p>"
+        }
+      },
+      "blurb": "男性のゴブリンのレンジャー",
+      "name": "グルンク/Gurlunk"
+    },
+    "Ziondriel": {
+      "items": {
+        "Pzp98zZ3p4aGYxb9": {
+          "name": "アーケイン・プリペアード・スペルズ/Arcane Prepared Spells"
+        },
+        "VvP0ZSRzKT00Cbi0": {
+          "name": "アーケイン・インネイト・スペルズ/Arcane Innate Spells"
+        },
+        "PnjPOFzXArj4iNtS": {
+          "name": "ブレスレット・アンド・ネックレス/Bracelets and Necklaces"
+        },
+        "GB4t0y9suPOQZ9o5": {
+          "name": "ファングズ/Fangs"
+        },
+        "ZgpdfTBdMYYRwcfP": {
+          "name": "ウェブ/Web"
+        },
+        "xJS067Cit7hBh7yK": {
+          "name": "コンポジット・ショートボウ"
+        },
+        "dZJ67fQHX1jc4FRl": {
+          "name": "+1ステイタス・トゥ・オール・セーヴズ・バーサス・マジック/+1 Status to All Saves vs. Magic"
+        },
+        "aZNmBtBro1xYaubO": {
+          "name": "ドライダー・ヴェノム/Drider Venom",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:28]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱(虚弱)1}状態</p>"
+        },
+        "mhBBm02GHgEZ30NR": {
+          "name": "ウェブ・トラップ/Web Trap",
+          "description": "<p>ドライダーの蜘蛛の巣攻撃にヒットしたクリーチャーは、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}(不動)状態になり、最も近い表面([[/act escape dc=28]])に貼り付く。</p>"
+        }
+      },
+      "blurb": "女性の変種ドライダー",
+      "name": "ジォンドリエル/Ziondriel",
+      "publicNotes": "<p>The first fleshwarping process mastered by the drow remains both their most successful and most infamous: the drider. Fusing the body of a drow with that of a giant spider, driders are a sexually dimorphic fleshwarp-the only fleshwarp known to be able to produce young. While female driders have the upper torsos of elegant drow women with mouths featuring sharp poisoned fangs, male driders have hideous, mutated countenances that further blend the humanoid form with that of a spider; the difference in appearance is perhaps a reflection on the matriarchal nature of drow society. In combat, all driders are equally dangerous.</p>\n<p>Although the fleshwarping process was originally intended to be a punishment for drow who fell from grace, the significant powers and strengths gained from the horrifying transformation are attractive to some drow, and an increasing number of lower-ranking citizens in drow cities volunteer themselves for the painful procedure. In return for mandatory time serving as a guardian, soldier, or other public servant, such volunteer driders are later allowed to lead their own lives, typically in caverns located in a city's periphery. The painful truth is that for most driders, they do not live long enough to see this reward, for the drow have a penchant for working their fleshwarped slaves to death or deploying them in deadly war missions in which survival is a only a remote possibility.</p>\n<p>Most driders use arcane magic, but driders who use divine magic are well known, while a rare few use occult or primal magic. A drider's innate spells remain the same regardless of the magical tradition, but those who use different types of magic as prepared spells may well have entirely different spells prepared than the drider presented below.</p>\n<hr />\n<p>Some creatures, notably drow, are not happy with merely killing their enemies. They revel in the total degradation of their foes through the horrifying transformative technique known as fleshwarping. Though the fleshwarping process was not created by the drow, many believe they perfected it. The drow torture their enemies in vats of churning magical reagents, reshaping their flesh and psyche alike into horrid and monstrous things. The reconstitution of flesh results in countless variations of fleshwarps, and the following are just a couple of examples of these horrors.</p>",
+      "allSaves": "魔法に対するすべてのセーヴに＋1の状況ボーナス"
+    },
+    "Scarhorn": {
+      "items": {
+        "BMRz951juyBwJNqu": {
+          "name": "アーケイン・プリペアード・スペルズ/Arcane Prepared Spells"
+        },
+        "60QhhdNyLpF2h4bx": {
+          "name": "アーケイン・インネイト・スペルズ/Arcane Innate Spells"
+        },
+        "qeZfMzOwr8GL4Lbh": {
+          "name": "顎"
+        },
+        "PAN3R11XOGsaiIbK": {
+          "name": "爪/Claw"
+        },
+        "2hjq0oo2EsTcXPJe": {
+          "name": "尾/Tail"
+        },
+        "oXZ9gBxLTC4PuQec": {
+          "name": "ホーンズ/Horns"
+        },
+        "ComzTzx9Gu4QDQxN": {
+          "name": "+1ステイタス・トゥ・オール・セーヴズ・バーサス・マジック/+1 Status to All Saves vs. Magic"
+        },
+        "cC853WQiGJtDTkRc": {
+          "name": "フライトフル・プレゼンス/Frightful Presence",
+          "description": "<p>90フィート。 @Check[will|dc:31|options:area-effect,inflicts:frightened]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        "D4C1yHkCqpQckxgr": {
+          "name": "テイル・ラッシュ/Tail Lash",
+          "description": "<p><strong>トリガー</strong>ドラゴン(ドラゴン)の尾の攻撃範囲内にいるクリーチャーが、〈ストライク〉を行うか、スキル判定を行おうとしてアクションを費やす。</p>\n<hr />\n<p><strong>効果</strong>ドラゴンは-2のペナルティを伴って、トリガーとなったクリーチャーに対して尾で〈ストライク〉を行う。ヒットした場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: 尾の一払い}</p>"
+        },
+        "GeAJNEdtRdXSvZvk": {
+          "name": "ブレス・ウェポン/Breath Weapon",
+          "description": "<p>スカーホーンは酸(酸)のブレスを吹き、@Template[line|distance:80]内の全員に@Damage[15d6[acid]|options:area-damage]ダメージを与える(@Check[reflex|dc:34|basic|options:area-effect]セーヴ)。彼女はブレス・武器(兵器)を[[/gmr 1d4 #Recharge Breath Weapon]]{1d4ラウンド}の間、再び使用することはできない。</p>"
+        },
+        "SRv8Gjga6DHY4U8G": {
+          "name": "コラプト・ウォーター/Corrupt Water",
+          "description": "<p><strong>使用制限</strong> 1日に1回</p>\n<hr />\n<p><strong>効果</strong>ドラゴン(ドラゴン)は、90フィート(フィート)以内にある10立方フィートの液体を永久に汚染する。その液体は飲めなくなり、水中で呼吸する生物が生存できなくなる。</p>\n<p>これにより、液体の魔法アイテムや錬金術アイテムのレベルがドラゴンのレベルより低い場合、それらは破壊される(クリーチャーは、自身が所持している液体を守るために@Check[will|dc:31]セーヴを行うことができる)。これはクリーチャーの体内にある液体には影響しない。</p>"
+        },
+        "hxUuVqQu31iQwmv1": {
+          "name": "ドラコニック・フレンジー/Draconic Frenzy",
+          "description": "<p>ドラゴン(ドラゴン)は、任意の順序で2回の爪のストライクと1回の角による〈ストライク〉を行う。</p>"
+        },
+        "0oICLdGDJMUmfVhn": {
+          "name": "ドラコニック・モメンタム/Draconic Momentum",
+          "description": "<p>ドラゴンは〈ストライク〉でクリティカルヒットを得るたびに、そのBreath武器を再チャージする。</p>"
+        },
+        "rxM7QnS5cmVzgU5P": {
+          "name": "サーシロン・ロア/Thassilon Lore"
+        }
+      },
+      "blurb": "女性の老齢のブラック・ドラゴン",
+      "name": "スカーホーン/Scarhorn",
+      "allSaves": "魔法に対するすべてのセーヴに＋1の状況ボーナス"
+    },
+    "Nualia": {
+      "hpDetails": "虚無の回復、若返り",
+      "items": {
+        "IdEhDB8IY49fW6vH": {
+          "name": "ディバイン・インネイト・スペルズ/Divine Innate Spells"
+        },
+        "1TeUoHVS0bkCD9jX": {
+          "name": "ゴーストリー・ハンド/Ghostly Hand"
+        },
+        "SzaJgzszNSa3qiDA": {
+          "name": "サイト・バウンド/Site Bound",
+          "description": "<p>一般的なゴーストは、自身が殺された場所や、自身が出没する場所から短い距離しか離れることができない。一般的な制限は120フィートである。一部のゴーストは、特定の場所ではなく、自身にとって特別であった部屋、建造物、アイテム、またはクリーチャーに縛られている。</p>"
+        },
+        "huAbJHogJo4HKgXV": {
+          "name": "リジュヴェネーション/Rejuvenation",
+          "description": "<p>ゴーストの魔道士の計画を完了させることで、そのゴーストは死後の世界へと旅立つことができる。</p>\n<hr />\n<p>ゴーストが破壊されたとき、それは自身が縛られている場所の中で[[/br 2d4 #days]]{2d4 days}後に再形成され、完全に回復する。ゴーストを永久に破壊できるのは、誰かがその存在の理由を突き止め、その魂が安息を得るのを妨げている原因を解決した場合のみである。</p>"
+        },
+        "juKKPoneZ4x5mqlo": {
+          "name": "ヴォイド・ヒーリング/Void Healing"
+        },
+        "YqWqB6EYv3yk0LPh": {
+          "name": "フライトフル・モーン/Frightful Moan",
+          "description": "<p>ゴーストは自らの運命を嘆き悲しみ、@Template[emanation|distance:30]{30フィート}以内にいる各生きているクリーチャーに@Check[will|dc:29|options:area-effect,inflicts:frightened]セーヴを行わせる。失敗すると、クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}(大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3})となる。成功すると、クリーチャーは1分の間、このゴーストの恐るべき嘆きに対して一時的な免疫となる。</p>"
+        },
+        "M7mGcRgzVr9C3wsW": {
+          "name": "テレキネティック・アサルト/Telekinetic Assault",
+          "description": "<p>小さな物体や瓦礫が@Template[emanation|distance:30]内を飛び交う中、ゴーストは痛みと苦悶の叫び声を上げる。このエリア内のクリーチャーは@Damage[6d6[bludgeoning]|options:area-damage]ダメージを受け、これには@Check[reflex|dc:29|basic|options:area-effect]セーヴが適用される。</p>"
+        }
+      },
+      "name": "ヌアリア/Nualia"
+    },
+    "Wolgur Wrabs": {
+      "hpDetails": "虚無の回復",
+      "items": {
+        "phoQ0yOkbf9saI2l": {
+          "name": "顎"
+        },
+        "OcYo8NrM7fSjcymh": {
+          "name": "爪"
+        },
+        "dALR9L0wlW2puqiD": {
+          "name": "ステンチ/Stench",
+          "description": "<p>10フィート。このオーラに入るか、このオーラの中で自身のターンを開始したクリーチャーは、@Check[fortitude|dc:19|options:area-effect,inflicts:sickened,inflicts:slowed]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}(大失敗の場合は、病気状態である限りさらに@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1})となる。</p>\n<p>このオーラの中にいる間、クリーチャーは病気に対するセーヴと、病気状態から回復するための判定に-2の状況ペナルティを受ける。セーヴに成功したクリーチャーは、1分の間一時的な免疫となる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.wX9L6fbqVMLP05hn]{効果: 悪臭}</p>"
+        },
+        "Qb7bNn98jqqwe6S8": {
+          "name": "ヴォイド・ヒーリング"
+        },
+        "mkwN7Fgq3DRnThOV": {
+          "name": "コンシューム・フレッシュ/Consume Flesh",
+          "description": "<p><strong>必要条件</strong>ガストが、過去1時間以内に死亡したクリーチャーの死体に隣接している。</p>\n<hr />\n<p><strong>効果</strong>ガストは死体の一部を貪り食い、@Damage[4d6[healing]]のヒット・ポイントを回復する。</p>\n<p>ガストが任意の1つの死体からヒット・ポイントを回復できるのは1回のみである。</p>"
+        },
+        "IdfK6A7UpGkscuOG": {
+          "name": "ガスト・フィーヴァー/Ghast Fever",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:22]</p>\n<hr />\n<p><strong> structure_preservation第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージ、およびすべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同じ(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージ、および回復から恩恵を得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同じ(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{ガスト}として立ち上がる</p>"
+        },
+        "GBiarRqqq8qwyZtJ": {
+          "name": "パラリシス/Paralysis",
+          "description": "<p>ガストの攻撃が命中したすべての生きているクリーチャーは、@Check[fortitude|dc:22|options:inflicts:paralyzed]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}となる。対象は自身の各ターンの終了時に新しいセーヴを行うことができ、そのようなセーヴを行うたびにDCは累積的に1減少する。</p>"
+        },
+        "e7CxhtU5yoASkey8": {
+          "name": "スウィフト・リープ/Swift Leap",
+          "description": "<p>ガストは自身の移動速度の半分までジャンプする。この移動はリアクションを誘発しない。</p>"
+        }
+      },
+      "blurb": "男性の変種ガスト",
+      "name": "ウォルガー・ラップス/Wolgur Wrabs",
+      "publicNotes": "<p>Ghasts-feral, foul-smelling, and constantly hungry-are the more powerful kin of ghouls. They are relentless in the pursuit of their prey.</p>\n<hr />\n<p>Few creatures are more ubiquitous to sinister locations such as lonely graveyards and ruined crypts than the flesh-eating undead known as ghouls.</p>"
+    },
+    "Promise of Plagues": {
+      "reset": "<p>このハザードは、すべてのクリーチャーが部屋を出てから1ラウンド後に落ち着きを取り戻し、次のラウンドの開始時に再び起動できるようになる。</p>",
+      "items": {
+        "IGWtUVFJMumVeibR": {
+          "name": "スウォーミング・バイツ/Swarming Bites",
+          "description": "<p><strong>トリガー</strong>クリーチャーが北側の階段の先にある部屋に移動する</p>\n<hr />\n<p><strong>効果</strong>刺すハエと貪欲な這い虫の群れがトリガーとなったクリーチャーに群がる。そのクリーチャーは@Damage[6d6[piercing]]ダメージを受ける(@Check[reflex|dc:30|basic]セーヴ)。クリーチャーが少しでもダメージを受けた場合、自動的にガスト熱に晒される。その後、このハザードはイニシアチブをロールする。</p>"
+        },
+        "jBG6xbHHK21Ic2Ls": {
+          "name": "ガスト・フィーヴァー",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:30]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージ、およびすべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同じ(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージ、および回復から恩恵を得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同じ(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{ガスト}として立ち上がる</p>"
+        }
+      },
+      "routine": "<p>(2アクション)部屋の中の害虫の雲が空気を満たし、壁や天井から降り注ぎ、下の床から群がって湧き上がる。部屋の中のすべてのクリーチャーは、ハザードの最初のアクションで群れなす噛みつきの対象となる。2番目のアクションでは、群れなす害虫が特に密集し、エリア<strong>J3c</strong>内のランダムに決定された1体のクリーチャーに対して熱心に襲いかかる。そのクリーチャーがガスト熱に罹患しており、かつ段階4以下である場合、そのクリーチャーは直ちに@Check[fortitude|dc:30]セーヴを行わなければならない。失敗すると、そのガスト熱の段階が1ステップ進行する。</p>",
+      "stealth": "<p>(達人)</p>",
+      "name": "プロミス・オブ・プレイグズ/Promise of Plagues",
+      "description": "<p>羽音を立てるハエの雲と這い回る虫の絨毯が、腐敗しかけた切り落とされた体の一部や悪臭を放つ肉塊が散乱する部屋を満たしている。</p>",
+      "disable": "<p>害虫に静かにするよう命じるか、あるいは不潔物や腐敗物を洗い流してハザードを無害にするための3回の@Check[arcana|dc:33]または@Check[nature|dc:33]判定、カブリーリへの神聖なつながりを断ち切るための祈りを捧げる@Check[religion|dc:36]判定、あるいはハザードを10分の間不活性化させるための@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第6階位、打ち消しDC29)</p>"
+    },
+    "Geist": {
+      "hpDetails": "虚無の回復",
+      "items": {
+        "zrycs1fp75o2l8h0": {
+          "name": "噛みつき/Bite"
+        },
+        "qVmgf9hKv2Wt0x9f": {
+          "name": "テレパシー（100フィート）"
+        },
+        "1mqppqclycua1e1x": {
+          "name": "ハントの力/Power of the Haunt",
+          "description": "<p>ガイストが、無効化も破壊もされていないハウントから100フィート以内にいる場合、ガイストはACとセーヴィング・スローに+2のステータス・ボーナスを得て、噛みつきのストライクで追加の@Damage[1d6[void]]ダメージを与える。ガイストについて〈見回す〉または〈思い出す〉ための@Check[perception|dc:20|traits:action:seek]の判定に成功したクリーチャーは、ガイストのクロークから伸びる触手が、ハウントに近づくほど太くなり、激しく動くのを目にする。</p>"
+        },
+        "B2lJQF6Y6o4hnBeL": {
+          "name": "ヴォイド・ヒーリング"
+        },
+        "o8cbkspx01eskehx": {
+          "name": "恐るべき笑い/Terrifying Laugh",
+          "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong>ガイストは@Template[emanation|distance:20]の中に魂を刺突切り裂くような笑い声を放ち、これはガイストの次のターンの開始時まで持続する。このエリアの中にいる、またはエリアに入るすべてのクリーチャーは、@Check[will|dc:26]セーヴに成功しなければならず、失敗するとパニックに陥った笑いに圧倒され、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3})となる。クリーチャーは恐るべき哄笑1回につき1回しかセーヴを行わず、セーヴィング・スロウに成功したクリーチャーは24時間の間、一時的な免疫となる。</p>"
+        },
+        "58ox9o6ljire079b": {
+          "name": "ハントの憤怒/Wrath of the Haunt",
+          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件</strong>ガイストが活動中のハウントから100フィート以内にいること</p>\n<hr />\n<p><strong>効果</strong>ハウントはガイストに死霊術のパワーを送り込み、ガイストの次のターンの終了時まで不活性状態になり、ハウントが再び活性化するまでハウント・オーラのパワーを停止させる。ガイストのクロークの端は、炎と煙でできているように見える鞭のような触手に変化し、周囲のクリーチャーを激しく打ち据える。ガイストから10フィート以内にいるすべての生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10の火炎ダメージに加えて4d6の虚無ダメージ}を受ける(@Check[reflex|dc:28|basic]セーヴ)。</p>"
+        }
+      },
+      "blurb": "変種ガイスト",
+      "name": "ガイスト/Geist",
+      "publicNotes": "<p>A geist is an ever-shifting mass of black sack cloth, teeth, and mouths, folding in and out of itself and cackling like a thousand frenzied and doomed souls. Created when a haunt kills an evil person, a geist rises from a soul trapped on the plane of their demise, now connected to the dark energy radiating from haunts everywhere. They wander the world, looking for solace and never finding it. In frustration, they turn their malice back onto the living, antagonizing any nearby creatures, hoping to fatally lure their victims into the clutches of a haunt to be turned into another geist and share the torment.</p>\n<p>Geists are occasionally mistaken for other incorporeal undead, such as wraiths and ghosts, but their proximity to haunts is one of the surest ways to determine the nature of the undead being encountered.</p>"
+    },
+    "Ascended Disciple": {
+      "items": {
+        "kSLR9GpuDdJaVlbF": {
+          "name": "マチェーテ/Machete"
+        },
+        "Y9tUZJUt9GfFtFiD": {
+          "name": "コンポジット・ショートボウ"
+        },
+        "lKCBlYHM1b1jr4kU": {
+          "name": "デヴィルズ・ブレス/Devil's Breath",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>昇華せし弟子は、手に持っている斬撃武器で自分の舌を切り(@Damage[1[slashing]]ダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[reflex|dc:22|options:area-effect,damaging-effect]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[2d8[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[4d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによってシックンド1となり、煙によって1分の間@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}となる。</p>"
+        },
+        "QaupL7Xcp6m5YmUB": {
+          "name": "スニーク・アタック",
+          "description": "<p>このクリーチャーのストライクは、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーに対して追加で1d6の精密ダメージを与える。</p>"
+        },
+        "9PgsgSs2FeaigRls": {
+          "name": "サンドポイント・デヴィル・ロア/Sandpoint Devil Lore"
+        }
+      },
+      "blurb": "サンドポイント・デヴィルの人間の信徒",
+      "name": "アセンデッド・ディサイプル/Ascended Disciple"
+    },
+    "The Watching Lords": {
+      "reset": "<p>監視する君主たちが一度起動すると、この罠はエネルギーを再充填するのに1時間を必要とし、その後再び起動できるようになる。</p>",
+      "items": {
+        "Zk9jd1JV2SF2rRTh": {
+          "name": "守護者召喚/Conjure the Guardians",
+          "description": "<p><strong>トリガー</strong>混沌にして悪ではないクリーチャーが、エリア<strong>G4</strong>への扉から20フィート以内に近づく。</p><hr /><p><strong>効果</strong>彫像がシューシューと音を立てて唸るように見え、その直後、4体の@UUID[Compendium.pf2e.pathfinder-monster-core.Actor.6UrgCT8MwC8CeGbu]{ブリモラック}・デーモンが廊下に現れる。2体はエリア<strong>G1</strong>の入り口付近に、もう2体はエリア<strong>G4</strong>の入り口付近に現れる。4体のデーモンは即座に攻撃し、通常通りイニシアチブをロールする。彼らは死ぬまで戦うが、1分が経過すると消滅する。</p>"
+        }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "ザ・ウォッチング・ラーズ/The Watching Lords",
+      "description": "<p>壁の凹みにある半神の彫像が動き、侵入者が通り過ぎるのを見守るように頭を巡らせているように見える。</p>",
+      "disable": "<p>@Check[thievery|dc:31](彫像に監視能力を与えている隠されたルーンを削り取る)、@Check[religion|dc:28](アビスの君主たちの注目から保護されるよう祈る)、または罠を打ち消しするための@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第4階位、打ち消しDC26)</p>"
+    },
+    "Serpentfolk Cultist": {
+      "items": {
+        "tnNDPmIcvI7gDNNU": {
+          "name": "ディバイン・スポンティニアス・スペルズ/Divine Spontaneous Spells"
+        },
+        "55nE5ly8P6bNoKsI": {
+          "name": "オカルト・インネイト・スペルズ/Occult Innate Spells"
+        },
+        "AGZBKBnJMkp5NrlX": {
+          "name": "ファングズ/Fangs"
+        },
+        "UDq6DQC7aa80MDDu": {
+          "name": "ダガー/Dagger"
+        },
+        "GjmjXrm0BYOCXs5E": {
+          "name": "テレパシー（100フィート）"
+        },
+        "3c01H24sjgfJHyvI": {
+          "name": "+1ステイタス・トゥ・オール・セーヴズ・バーサス・マジック/+1 Status to All Saves vs. Magic"
+        },
+        "o4iEKaEBIwAr18XF": {
+          "name": "+4ステイタス・トゥ・ウィル・セーヴズ・バーサス・メンタル/+4 Status to Will Saves vs. Mental"
+        },
+        "VRDZl6y3aAge5VyP": {
+          "name": "サーペント召喚/Raise Serpent",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ボーン・プロフェットは、@Template[emanation|distance:30]以内に存在する蛇、サーペントフォーク、または同様の蛇のようなクリーチャーの死体をアニメイトする。死体にある肉はすべて剥がれ落ち、それらはスケルトンとして立ち上がる。ボーン・プロフェットは、1体の大型クリーチャーを@UUID[Compendium.pf2e.pathfinder-monster-core.Actor.sEgjgitJmwYYa4mV]{スケルタル・ジャイアント}として、または最大3体の中型クリーチャーを@UUID[Compendium.pf2e.pathfinder-monster-core.Actor.FH58AcRBZIfrHKvv]{スケルタル・チャンピオン}として蘇らせることができる。死体が所持していたものによって、装備や攻撃が異なる場合がある。</p>\n<p>これらのスケルトンはミニオン特徴を持ち、ボーン・プロフェットの制御下にある。ボーン・プロフェットは、精神集中特徴を持つ単一のアクションによって、これらすべてのミニオンに同じ命令を与えることができる。10分経過してもまだ残っているスケルトンのミニオンは、崩れて塵になる。</p>"
+        },
+        "pkqZFkDwe6SFvUXX": {
+          "name": "サーペントフォーク・ヴェノム/Serpentfolk Venom",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:25]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d4[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d4[poison]]ダメージ、およびエンフィーブルド1(1ラウンド)</p>"
+        },
+        "Z9o0w0dnDFg7Nxqg": {
+          "name": "スニーク・アタック",
+          "description": "<p>このクリーチャーのストライクは、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーに対して追加で1d6の精密ダメージを与える。</p>"
+        }
+      },
+      "blurb": "変種サーペントフォークのボーン・プロフェット",
+      "name": "サーペントフォーク・カルティスト/Serpentfolk Cultist",
+      "publicNotes": "<p>The speakers for the dead known as bone prophets hold an esteemed place as voices for their decapitated god. Burial rites, necromantic rituals, and the delivery of cryptic utterances supposedly whispered to them by Ydersius all fall under the dominion of these priests. Bone prophets often raise fallen aapophs as skeletons.</p>",
+      "allSaves": "精神に対する意志セーヴに＋4の状況ボーナス"
+    },
+    "Skulls of Fear and Flame": {
+      "hpDetails": "髑髏",
+      "reset": "<p>視線が通る対象がいない場合、この罠は自身のターンの終了時に非活性化し、その後自動的にリセットされる。</p>",
+      "items": {
+        "c3gUtrnAh1QoPfD4": {
+          "name": "恐るべき叫び/Fearful Cry",
+          "description": "<p><strong>トリガー</strong>クリーチャーが頭蓋骨の視界に入り、頭蓋骨に発見される。</p>\n<hr />\n<p><strong>効果</strong> 6つすべての頭蓋骨の上にあるろうそくが燃え上がり、頭蓋骨は恐ろしく精神を麻痺させるような遠吠えを上げる。エリア<strong>F6</strong>、階段、または東の桶にいるすべてのクリーチャーは、@Check[will|dc:25]セーヴを行わなければならない。その後、この罠はイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態となる。</p>\n<p><strong>失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態となり、恐れ状態である限り@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}状態となる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、クリーチャーが恐れ状態ではなくなると、過去1分間の記憶が消去される。これにより、エリア<strong>E7a</strong>の階段の最上部にある隠し扉の知識がおそらく失われる。残るのは、そのエリアに戻ることに対する奇妙で長引く恐怖だけである。</p>"
+        },
+        "W9IiKDTv9Q49e7Hh": {
+          "name": "ファイアー・ビーム/Fire Beam"
+        }
+      },
+      "routine": "<p>(6アクション)イニシアチブの時点で、この罠は最初のアクションを使用して、対象を視認できない髑髏を丸々360度回転させ、その髑髏が対象を発見した時点で停止する。このアクションを6つすべての髑髏が対象を見るまで繰り返し、残りのアクションを使用してそれらの眼から火炎の光線を放つ。この罠はクリーチャー1体を1ラウンドにつき1回しか対象にできないため、対象の数がアクション数より少ない場合、罠が持つ追加のアクションは失われる。髑髏が1つ破壊されるたびに、この罠は1アクションを失う。</p>",
+      "stealth": "<p>(専門家)(髑髏の上の火のついていない蝋燭から、小さな煙が立ち上り始めるのに気づく)</p>",
+      "name": "スカルズ・オブ・フィアー・アンド・フレイム/Skulls of Fear and Flame",
+      "description": "<p>黒いろうそくで飾られた頭蓋骨の列が床に置かれており、侵入者を発見するために暗視を使用する。地図上の赤い矢印は、頭蓋骨が向いている方向を示している。</p>",
+      "disable": "<p>髑髏に見つからずに部屋を移動するための@Check[stealth|dc:27](これは罠を無効化しないが、起動を防ぐことはできる)、眼窩の内側から隠されたルーンを巧みに削り取って隣接する髑髏を「盲目」にするための3回の@Check[thievery|dc:27]、または罠を打ち消しするための@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第4階位、打ち消しDC25)</p>"
+    },
+    "Divine Warden Of Haagenti": {
+      "items": {
+        "le8d6e5N7Wjb7Rgo": {
+          "name": "ディバイン・インネイト・スペルズ/Divine Innate Spells"
+        },
+        "g4EAOBnH3VEiBpbj": {
+          "name": "ディバイン・ドメイン・スペルズ/Divine Domain Spells"
+        },
+        "IHOuTsF6IFHLpF32": {
+          "name": "バトル・アックス/Battle Axe"
+        },
+        "TfuU5hGVxuHHePT2": {
+          "name": "ホーンズ/Horns"
+        },
+        "qppBAh5FNr8f4f2X": {
+          "name": "ディヴァイン・デストラクション/Divine Destruction",
+          "description": "<p>ディヴァイン・ワーデンが0 HPに減少したとき、それは神聖なエネルギーを放って@Template[emanation|distance:30]で爆発し、@Damage[4d6[void]|options:area-damage]ダメージを与える。エリア内の各クリーチャーは、以下の結果を伴う@Check[will|dc:17|options:area-effect,damaging-effect]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>成功</strong>そのクリーチャーは全てのダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受ける、かつ信仰する神格によって一時的に呪われる。そのクリーチャーは1日の間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}状態となる。これは呪い効果であり、その意志セーヴのDCを打ち消しのDCとして使用する。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁2}状態となる。</p>"
+        },
+        "MKArQIqeRcZmRwMf": {
+          "name": "フェイス・バウンド/Faith Bound",
+          "description": "<p>ディヴァイン・ワーデンは、自身が信仰する神格の聖印を公然と身につけている、または表示しているクリーチャーを攻撃できない。ただし、そのクリーチャーが最初にディヴァイン・ワーデンに対して敵対的アクションを使用した場合を除く。ディヴァイン・ワーデンに知性がある場合、自身の神格に対して不誠実であると信じるクリーチャーや、欺瞞として聖印を身につけているクリーチャーを攻撃することもできる(通常は、@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}を行うための《知覚》判定に成功した後)。</p>"
+        },
+        "7NvFdNeBt7AssuX2": {
+          "name": "フェイスフル・ウェポン/Faithful Weapon",
+          "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.War0uyLBx1jA0Ge7]{バトル・アックス}、<em>ストライキング</em>・ルーン</p>\n<hr />\n<p>ディヴァイン・ワーデンは常に、自身が信仰する神格の好む武器を振るう。その武器が遠隔武器である場合、ディヴァイン・ワーデンは攻撃のたびに自動的に新しい弾薬を生成する。4レベル以上のディヴァイン・ワーデンの場合、ディヴァイン・ワーデンがそれを振るっている間、その神格の好む武器は<em>@UUID[Compendium.pf2e.equipment-srd.Item.DxCuJKynlnMQZHgp]{ストライキング}</em>・ルーンの効果を得る。12レベルではこれらの効果は<em>@UUID[Compendium.pf2e.equipment-srd.Item.KCQRFvUgbyclvOGi]{グレーター・ストライキング}</em>・ルーンのものとなり、19レベルでは代わりに<em>@UUID[Compendium.pf2e.equipment-srd.Item.woxl2FrrgAcJDu0t]{メジャー・ストライキング}</em>・ルーンのものとなる。</p>"
+        },
+        "J3Ldbu2TKyrPVZBY": {
+          "name": "インストゥルメント・オヴ・フェイス/Instrument of Faith",
+          "description": "<p>ディヴァイン・ワーデンは、自身が信仰する神格の信仰の標識である。ディヴァイン・ワーデンが信仰する神格のクレリックは、60フィート以内に見えているディヴァイン・ワーデンを通して、@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}呪文を投射できる。そのクレリックは、自身がディヴァイン・ワーデンのマスに立っているかのように、呪文の対象やエリアを決定する。</p>"
+        },
+        "xPL02bnMAFxTXpE0": {
+          "name": "ノックダウン/Knockdown"
+        }
+      },
+      "blurb": "変種ディヴァイン・ウォーデン",
+      "name": "ディバイン・ウォーデン・オブ・ハジェンタイ/Divine Warden Of Haagenti",
+      "publicNotes": "<p>This divine warden serves Nethys, the neutral god of magic. It uses its divine gift to defend temples or shrines of @UUID[Compendium.pf2e.deities.Item.9EKyWmjLUu42evxC]{Nethys}.</p>\n<hr />\n<p>Created through complex rituals performed by a faith's adherents, divine wardens have been imbued with a fraction of the power that courses through a champion or cleric of a particular deity. This divine spark allows the divine warden to serve as the protector for a temple, shrine, or other holy site. Such guardians aren't intrinsically bound to a fixed location, but they rarely leave the temple or site over which they watch.</p>\n<p>Most divine wardens have been crafted from clay, stone, wood, or similar materials and typically have features that resemble a deity or a deity's herald. Divine wardens often have other abilities typically exhibited by constructs, such as armor plating, the ability to disguise themselves as statues, or other similar benefits.</p>\n<p>The faithful worshippers who craft divine wardens typically animate the constructs using a special ritual in which the followers beseech their deity to empower the guardian. The divine mandate that imbues a divine warden with power also allows the sentinel to recognize enemies of its deity and prevents the construct from attacking other members of the faith, unless these patrons choose to attack it first.</p>\n<p>In rare cases or particularly dire times, a deity might create a divine warden by directly animating an existing statue or idol to aid faithful followers. These divine guardians are most likely to be found outside of their original locations, assisting displaced congregations or pursuing those who might harm the faithful.</p>"
+    },
+    "Fear of the Devil": {
+      "reset": "<p>このハウントは、すべてのクリーチャーがエリアから離れてから1分後に非活性化するが、その直後にリセットされる。</p>",
+      "items": {
+        "dyzYm3GYzX3zWWr0": {
+          "name": "硫黄の雲/Brimstone Cloud",
+          "description": "<p><strong>トリガー</strong> 生きているクリーチャーが穴の縁から10フィート以内に近づく。</p>\n<hr />\n<p><strong>効果</strong> 穴からサンドポイント・デヴィルの煙を帯びて燃え盛る幻影が立ち上るように現れ、硫黄の臭いがする煙の柱が部屋に立ち込める。エリア<strong>H6</strong>にいるすべてのクリーチャーは@Check[fortitude|dc:28]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態（大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態）となる。その後、この怪異はイニシアチブをロールする。</p>"
+        }
+      },
+      "routine": "<p>(1アクション；力術、火炎、オカルト)サンドポイント・デヴィルの煙を上げる幻視が穴の上に浮かび、火炎の翼を羽ばたかせ、頭を下げて部屋の中に火炎の@Template[cone|distance:30]を吐き出し、できるだけ多くのクリーチャーを標的にする。ガイストもこの火炎の爆発の標的になり得るが、その耐性が火炎に適用されることを忘れないこと。エリア内のすべてのクリーチャーは@Damage[7d6[fire]]ダメージを受ける(@Check[reflex|dc:28|basic|traits:fire,occult]セーヴ)。このセーヴィング・スロウに大失敗したクリーチャーは、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態にもなる。この効果は感情、恐怖、精神の特性を持つ。</p>",
+      "stealth": "<p>(熟練)</p>",
+      "name": "フィアー・オブ・ザ・デヴィル/Fear of the Devil",
+      "description": "<p>サンドポイント・デヴィルの煙と火炎の幻影が、悪臭を放つ煙の突風とともに穴から出現する。</p>",
+      "disable": "<p>@Check[diplomacy|dc:30](達人)で、殺害された冒険者たちが残した不穏な恐怖をなだめて落ち着かせるか、あるいは@Check[religion|dc:30](達人)で、守護の祈りによってこのハザードを妨害する(どちらかの技能で2回成功すると、このハザードは無効化される)</p>"
+    },
+    "Flesh for the Hollow Star": {
+      "reset": "<p>アザトースの信者がその前で祈りを捧げて1時間を過ごすと、この罠は作動を停止し、再充填される。</p>",
+      "items": {
+        "XBiFbokC9xNtRiK5": {
+          "name": "開眼/Open Eyes",
+          "description": "<p><strong>トリガー</strong>アザトースの信者ではない者が5フィート以内に近づくか、アザトースの信者ではない者がこの部屋にいるジラディニを攻撃する</p>\n<hr />\n<p><strong>効果</strong>球体の上に1ダースの目がまばたきながら開き、トリガーとなったクリーチャーを睨みつける。対象は@Check[will|dc:22]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}(大失敗なら@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2})となる。その後、この罠はイニシアチブをロールする。</p>"
+        }
+      },
+      "routine": "<p>(2アクション；死霊術、オカルト)目が口のように開き、鞭打つように絡み合う繊維を押し出し、エリア<strong>F19</strong>内、または部屋への入り口から10フィート以内にいる標的1体を攻撃する。この繊維は、単一の標的に対して1ラウンドにつき1回。を超えて攻撃することはできない。繊維の標的となったクリーチャーは、@Check[fortitude|traits:necromancy,occult|dc:22]セーヴを行わなければならない。このハザードによる毒ダメージで死亡したクリーチャーの体は溶けて山となり、その後裂けて開き、ギバリング・ムーサーが滑り出てくる。このクリーチャーは目に入ったアザトースの信者以外の者を攻撃するか、さもなければエリア<strong>F20</strong>へと滑り去り、湖の水の中で水しぶきを上げて旋回する。</p>\n<hr>\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[2d6[poison]]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[(2d6+7)[poison]]ダメージを受け、肉体と筋肉が弛緩してたるむため、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、@Damage[(4d6+14)[poison]]ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}状態となる。</p>",
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "フレッシュ・フォー・ザ・ホロウ・スター/Flesh for the Hollow Star",
+      "description": "<p>アザトースの肉と革の彫刻は、その表面全体に目が開く前に、うねり、かき混ぜられているように見える。その目はやがて口へと開き、ざらざらした繊維の長い鞭のような触手を伸ばして、歪んだ肉で祝福を授ける。</p>",
+      "disable": "<p>@Check[thievery|dc:23]を2回行うことで、彫刻の2つの主要な固定点の1つを引き剥がし、革と骨を床に無害に崩れ落ちさせる。または、秩序か善の信仰の信者が@Check[religion|dc:26]を行うことで、ハザードからアザトースの影響を追放する。あるいは、@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第3階位、打ち消し DC20)でハザードを打ち消しする。</p>"
+    },
+    "Mnoghoth": {
+      "items": {
+        "ZnFe1AJx67Diyerp": {
+          "name": "オカルト・インネイト・スペルズ/Occult Innate Spells"
+        },
+        "nzWpj7yo8PguGBFG": {
+          "name": "噛みつき"
+        },
+        "htwDT7obXSlNmWpU": {
+          "name": "ロングソード/Longsword"
+        },
+        "cj3wll0YeOYjYWaL": {
+          "name": "振動感知（不明瞭、30フィート）/Tremorsense (Imprecise) 30 feet"
+        },
+        "1lJU8hzSml2TMM3M": {
+          "name": "テレパシー（100フィート）"
+        },
+        "j1CfaIqiOES2OC3Y": {
+          "name": "+1ステイタス・トゥ・オール・セーヴズ・バーサス・マジック/+1 Status to All Saves vs. Magic"
+        },
+        "VkmU3zCSF1tm61N6": {
+          "name": "コマンド・コンフュージョン/Command Confusion",
+          "description": "<p><strong>トリガー</strong>クリーチャーがムノゴス(Mnoghoth)のマインドフォッグ(精神の霧)オーラに対するセーヴに失敗する</p>\n<hr />\n<p><strong>効果</strong> @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態のクリーチャーがそのラウンドに誰を攻撃するかを、GMがランダムに決定する代わりに、ムノゴスが決定する。選択された対象が混乱状態のクリーチャーの味方である場合、そのクリーチャーは即座に@Check[will|dc:25]セーヴを試みることができる。成功すると、その対象は混乱の通常ルール通りランダムに決定され、大成功すると、対象はもはや混乱状態ではなくなる。</p>"
+        },
+        "7tCu8SPq0TpF1lJX": {
+          "name": "マインドフォッグ・オーラ/Mindfog Aura",
+          "description": "<p>20フィート。このオーラの中でターンを開始したクリーチャーは、@Check[will|dc:25|options:area-effect,inflicts:confused]セーヴに成功しなければならず、失敗すると1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となる。成功した場合、そのクリーチャーは1分の間一時的な免疫となる。ムノゴスは、精神集中(concentrate)の特性を持つ単一のアクションとして、このオーラを抑制または起動できる。</p>"
+        },
+        "tNfhf1JnOxOHfY86": {
+          "name": "エンヴェノム・ウェポン/Envenom Weapon",
+          "description": "<p>ムノゴスは自身のロングソードにセウガシの毒を塗布する。</p>"
+        },
+        "MnAW3prtfTZxnv7T": {
+          "name": "マジック・アイテム・マスタリー/Magic Item Mastery",
+          "description": "<p>ムノゴスは、呪文が自身の呪文リストにない場合でも、魔法のアイテムから〈呪文の発動〉を行うことができる。このような呪文はすべてオカルト呪文であり、ムノゴスの生得呪文のDCと攻撃修正値を使用する。</p>"
+        },
+        "1tb7DMhGgvu0yKi2": {
+          "name": "スーガシ・ヴェノム/Seugathi Venom",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:28]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}、および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁2}(1ラウンド)</p>"
+        }
+      },
+      "blurb": "性別なき変種ソーガシ",
+      "name": "ムノゴス/Mnoghoth",
+      "publicNotes": "<p>The most common seugathis spawned by neothelids are seugathi servants. Their masters equip them with tools useful in their tasks (often a wand and a weapon), and they rarely value other material things beyond their usefulness in completing their imprinted mission.</p>\n<hr />\n<p>The wicked, alien @UUID[Compendium.pf2e.pathfinder-bestiary-2.Actor.wxBQsGLdti2xcGVT]{Neothelids} impregnate themselves through ritualistic magic to produce wormlike servitor creatures called seugathis. These creatures spawn with a strong psychic drive to complete some task on behalf of the neothelids' far-reaching plans. These directives are diverse, strange, and usually cruel toward humanoid life.</p>",
+      "allSaves": "魔法に対するすべてのセーヴに＋1の状況ボーナス"
+    },
+    "Fungus-Covered Sinkhole": {
+      "items": {
+        "fiU8SLNdNuWWwPbm": {
+          "name": "ピットフォール/Pitfall",
+          "description": "<p><strong>トリガー</strong>クリーチャーが菌類のシートの上に歩いて入る</p>\n<hr />\n<p><strong>効果</strong>トリガーとなったクリーチャーは下のエリア<strong>H7</strong>へ30フィート落下し、着地した多数の石筍から@Damage[15[bludgeoning]|options:fall-damage]{15}落下ダメージと追加の@Damage[6d6[piercing]]ダメージ(@Check[reflex|dc:24|basic]セーヴ)を受ける。そのクリーチャーは、落下を避けるために@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{〈縁にしがみつく〉}のリアクションを使用できる(DC24)。</p>"
+        }
+      },
+      "stealth": "<p>(または、穴を覆っている菌類のシートが破壊されている場合はDC0)</p>",
+      "name": "ファンガス・カバード・シンクホール/Fungus-Covered Sinkhole",
+      "description": "<p>菌類のシートが、下のエリア<strong>H7</strong>へと30フィート落ちる陥没穴を覆っている。</p>",
+      "disable": "<p>@Check[thievery|dc:19]を行って、繊維状の菌類のいくつかの重要な糸を素早く切断し、シート全体を自由につり下げさせる。</p>"
+    },
+    "Lightlock": {
+      "reset": "<p>ライトロックがエネルギーを回復するまでに1分かかり、その後は再び誘発させることができる。</p>",
+      "stealth": "<p>(熟練)</p>",
+      "name": "ライトロック/Lightlock",
+      "description": "<p>壁の上の奇妙な霧の層が渦を巻いて激しく揺れ、突然、暗い霧の光線を部屋の中に数本発射する。</p>",
+      "disable": "<p>@Check[thievery|dc:27](達人)で、罠のエネルギーを集中させている隠されたルーンの一部を乱すか、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第4階位、打ち消し DC25)またはライト特性を持つ呪文で罠を打ち消しする。</p>"
+    },
+    "Minargul": {
+      "items": {
+        "v7agxY0R6n0z3py9": {
+          "name": "ディバイン・プリペアード・スペルズ/Divine Prepared Spells"
+        },
+        "8HVEjcEPg8G21AfH": {
+          "name": "ヘクセズ/Hexes"
+        },
+        "AWsXyQ4WUwNC1Hry": {
+          "name": "スレンダー・ブラス・キー/Slender Brass Key",
+          "gmnote": "<p>この汚れた真鍮の鍵は、その歌声でエリア<strong>H16</strong>への扉を開くことができるクロックワークの歌鳥の、ぜんまい鍵である。</p>"
+        },
+        "AOY0EwvhkOcqIV89": {
+          "name": "シックル/Sickle"
+        },
+        "kjp81ieDPJnUJjXK": {
+          "name": "ゴブリン・スカトル",
+          "description": "|||<p><strong>トリガー</strong> ゴブリンの味方が、このゴブリンに隣接する位置で移動アクションを終了する。</p>\n<hr />\n<p><strong>効果</strong> このゴブリンは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]ステップを行う。</p>|||"
+        },
+        "zAINumOCEOZSUfFs": {
+          "name": "ファミリア/Familiar",
+          "description": "<p>ホイッスルウィング(コウモリ)</p>"
+        },
+        "8qZTg70ZjxEYRUO4": {
+          "name": "守護者/Patron",
+          "description": "<p>熱意</p>"
+        },
+        "EZC0vt7I7K0Cu0Vy": {
+          "name": "呪われた炎を呼び寄せる口笛/Whistle Up Cursed Flames",
+          "description": "<p>ミナルグルは甲高い鋭い音で口笛を吹き、そうしながら炎と悪臭を放つ煙の突風を吐き出す。@Template[cone|distance:15]内のすべてのクリーチャーは@Check[reflex|dc:24|options:area-effect,damaging-effect,inflicts:sickened]セーヴを試みなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d6[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[6d6[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d6[fire]|options:area-damage]ダメージを受け、呪われる。炎によって引き起こされた火傷は残り、焦げた肉は水ぶくれのままである。呪われたクリーチャーは、絶え間ない痛みからすべての判定に－1のステータス・ペナルティを受ける。治癒によって火傷の外見が変わったりペナルティが軽減されたりすることはないが、呪いを取り除くことで解消される。</p>"
+        }
+      },
+      "blurb": "女性のゴブリンのウィッチ",
+      "name": "ミナルグル/Minargul"
+    },
+    "Adimar Scarnetti": {
+      "items": {
+        "D0dA7Llm6Jjm67wp": {
+          "name": "レイピア/Rapier"
+        },
+        "3HYKTXN4Uc5PvqKw": {
+          "name": "ショートボウ/Shortbow"
+        },
+        "TTpnkaK9B6Lsytya": {
+          "name": "ラット・エンパシー/Rat Empathy",
+          "description": "<p>ウェアラットは齧歯類と意思疎通できる。</p>"
+        },
+        "E11uRLNnDwbjSmiw": {
+          "name": "チェンジ・シェイプ/Change Shape",
+          "description": "<p>拳 ＋18(ダメージ 1d4+5 殴打)を持つ人間、または移動速度 30フィート、登攀移動速度 10フィートを持つ小型のネズミ</p>\n<hr />\n<p>この獣化生物は、人型生物、ハイブリッド、または動物の形態に変化する。それぞれの形態は、特定の永続的な外見を持つ。真の獣化生物の自然な形態は、そのハイブリッド形態である。</p>\n<p>人型生物形態において、獣化生物は元の人間としてのサイズを使用し、あごと爪の〈ストライク〉を失い、爪によって与えられる斬撃ダメージに等しい殴打ダメージを与える近接の拳〈ストライク〉を得る。</p>\n<p>動物形態において、その移動速度とサイズはその動物のものに変化し、まだ持っていなかったその動物の特別な〈ストライク〉効果(「掴み」など)を獲得し、武器による〈ストライク〉を失う。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        "pK7TW7mAgEFfJu0Q": {
+          "name": "カース・オブ・ザ・ウェアラット/Curse of the Wererat",
+          "description": "<p>この呪いは人型生物にのみ影響を与える。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:26]</p>\n<hr />\n<p>満月のたびに、呪われたクリーチャーは別の頑健セーヴに成功しなければならず、失敗すると夜明けまでウェアラットに変身する。</p>\n<p>そのクリーチャーはGMの制御下に置かれ、夜の半分にわたって大暴れした後、夜明けまで気絶状態になる。</p>"
+        },
+        "rBKIlYFoV3vW1kEN": {
+          "name": "ムーン・フレンジー/Moon Frenzy",
+          "description": "<p>夜空に満月が現れたとき、獣化生物はハイブリッド形態にならなければならず、その後は形態変化を行うことができなくなり、サイズが1段階大きくなり、リーチが5フィート増加し、あごの〈ストライク〉のダメージが2増加する。</p>\n<p>月が沈むか太陽が昇ると、獣化生物は人型生物形態に戻り、[[/br 2d4 #Fatigued duration]]{2d4時間}の間@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}となる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.dRe8n1nBWMIXd8jh]{効果：ムーン・フレンジー}</p>"
+        },
+        "KiBIFxCCOgpsuMvK": {
+          "name": "スニーク・アタック",
+          "description": "<p>アディマールの〈ストライク〉は、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーに対して2d6の追加の精密ダメージを与える。</p>"
+        },
+        "yoLhSOyU34Z2GfQh": {
+          "name": "予期せぬ変身/Unexpected Transformation",
+          "description": "<p><strong>必要条件</strong> アディマールが人間またはネズミの形態であること</p>\n<hr />\n<p><strong>効果</strong> アディマールは「形態変化」を使用してハイブリッド形態に変身し、30フィート以内にいる1体の対象を@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}ことを試みる。その際、そうするための《威圧》の判定に＋2の状況ボーナスを得る。アディマールが「不意の変身」を使用するのを目撃したすべてのクリーチャーは、24時間の間、その後の「不意の変身」によって〈怯ませる〉を試みられることはない。</p>"
+        }
+      },
+      "blurb": "男性のヒューマンのウェアラットのローグ",
+      "name": "アディマール・スカルネッティ/Adimar Scarnetti",
+      "publicNotes": "<p>Wererats tend to be selfishly opportunistic, avaricious, and paranoid as a result of their curse. Because wererats typically dwell in metropolitan areas where they can hide in plain sight, practically any city-goer could be a wererat in disguise-from the quiet shopkeep to the city's criminal mastermind. The bustle of crowds and countless rat-holes make ghettos and shantytowns favored homes for wererats, especially since in these poorer districts the wererat can kill out of greed or fear with little chance of the authorities noticing. In some cities, wererats operate entire thieves' guilds or organized crime rings, and membership requires willfully submitting to the wererat's cursed bite. Wererats look very similar to ratfolk when in hybrid form, apart from potential differences in size, but ratfolk have no love for these monsters.</p>\n<hr />\n<p>Werecreatures are humanoids doomed to transform into animals and animal-humanoid hybrids under the light of the full moon. These shapechanging creatures are the result of an ancient primal curse that they can, in turn, transmit through their own bites. Their ability to lurk unseen in the wilds as well as among people, combined with the contagiousness of their condition, makes werecreatures a perennial cause of panicked suspicion.</p>"
+    },
+    "Sicklefang Longlegs": {
+      "items": {
+        "JmuRA829JB0gzcYz": {
+          "name": "顎"
+        },
+        "ypWp6uGnqnV1xtpi": {
+          "name": "ボブ/Bob",
+          "description": "<p>シックルファング・ロングレッグズは上下に揺れ始め、脚をまるでバネのように使って体を不気味に弾ませ、揺らす。シックルファング・ロングレッグズの次のターンの開始時まで、これは自身のアーマー・クラスに＋2のステータス・ボーナスを得る。</p>"
+        },
+        "o0zcolRXYCvgYOGA": {
+          "name": "有害な噴霧/Noxious Spray",
+          "description": "<p>シックルファング・ロングレッグズは隣接する単一の対象に有害な化学物質を吹きかけ、対象は@Check[fortitude|dc:24]セーヴィング・スローを行わなければならない。シックルファング・ロングレッグズは1分の間、有害な霧吹きを使用できない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けず、1分の間、有害な霧吹きに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}となり、その病気が持続する限り@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となる。</p>"
+        }
+      },
+      "name": "シックルファング・ロングレッグズ/Sicklefang Longlegs",
+      "publicNotes": "<p>Somewhat larger than the giant longlegs, the sicklefang is named for their unusually large, curved mandibles, which they use to bleed prey with deadly efficiency.</p>\n<hr />\n<p>While smaller specimens of these unsettling-looking arachnids (known regionally by names like harvesters, tickle spiders, or daddy longlegs) are harmless, their larger cousins, known simply as longlegs, are anything but.</p>\n<h2>Longlegs Species</h2>\n<p>Beyond the two common types presented here, many other variants of longlegs can be found throughout Golarion, with the exception of its arctic regions, where longlegs don't thrive. They often live on the periphery of cities, lurking in sewers or ruins where the hunting is good. Swarms of sewer longlegs are particularly dangerous and infest the undercities of many Taldan settlements, while to the west in Cheliax, the much-larger executor longlegs prefer to live among the rooflines of slums where Thrune's rule has been particularly horrific. Among the largest of all longlegs, though, is the dreaded (and thankfully rare) treeleg harvester of the Mwangi Expanse.</p>"
+    },
+    "Isphinn": {
+      "items": {
+        "vgW6UmniZ0N09eeE": {
+          "name": "アーケイン・インネイト・スペルズ/Arcane Innate Spells"
+        },
+        "8B4xwRLas4rp2NnR": {
+          "name": "ファルシオン/Falchion"
+        },
+        "zxrTBcJcqEnRKZyA": {
+          "name": "拳/Fist"
+        },
+        "gxq2qiGUPuQ5wCW9": {
+          "name": "振動感知（不明瞭、60フィート）/Tremorsense (Imprecise) 60 feet"
+        },
+        "fctwwJ6S2jeNgFwD": {
+          "name": "コンスタント・スペルズ/Constant Spells"
+        },
+        "ztr88bB5WvLP8Ykt": {
+          "name": "アース・グライド/Earth Glide",
+          "description": "<p>シャイタンは、自身の穴掘り移動速度の全速力で、土や石を通り抜けて@UUID[Compendium.pf2e.actionspf2e.Item.H6v1VgowHaKHnVlG]{〈穴掘り〉}を行うことができ、トンネルや通過した痕跡を残さない。</p>"
+        },
+        "pV2kE2wYrZjLyBiR": {
+          "name": "プッシュ・10フィート/Push 10 feet"
+        }
+      },
+      "blurb": "精鋭の女性のシャイターン",
+      "name": "イスフィン/Isphinn",
+      "publicNotes": "<p>Hailing from the Plane of Earth, shaitans are proud and brazen genies. They value physical skill and love bargaining, games of chance, and working with metal and stone. Immense gemstones and veins of precious metal crisscross their home plane, and the industrious shaitans have built a vast mercantile empire from these abundant natural resources.</p>\n<hr />\n<p>A unique type of genie exists for each Elemental Plane, and the bodies of genies are formed out of elemental matter corresponding to their native plane: djinn are formed from wind, clouds, and storms; efreet are fire made flesh; marids are beings of water; and shaitans are composed of metal, gems, and stone. Lastly, the jann are formed out of all four elements, and are the weakest of geniekind.</p>"
+    },
+    "Aliver \"Pillbug\" Podiker": {
+      "items": {
+        "pghMZcYGdJjhZszr": {
+          "name": "ダガー"
+        },
+        "vJMZPIWizpsmg2Od": {
+          "name": "ダガー"
+        },
+        "RvTTsSh2ATln5uyZ": {
+          "name": "ハンド・クロスボウ/Hand Crossbow"
+        },
+        "YggqyY2peimpRqaF": {
+          "name": "フロスト・バイアル(モデレート)/Frost Vial (Moderate)"
+        },
+        "6YM2jfprXQum0dox": {
+          "name": "クイック・ボマー/Quick Bomber",
+          "description": "<p>アリヴァーは「「相互作用」」を行って爆弾を取り出し、その後それを使って〈ストライク〉を行う。</p>"
+        }
+      },
+      "blurb": "男性のヒューマンのアルケミスト",
+      "name": "アリヴァー・“ダンゴムシ”・ポディカー/Aliver \"Pillbug\" Podiker"
+    },
+    "Jordus Munt": {
+      "items": {
+        "LbyjlFXEAvz0E46K": {
+          "name": "オカルト・スポンティニアス・スペルズ/Occult Spontaneous Spells"
+        },
+        "1UhsJhAOlrA17Q51": {
+          "name": "バード・コンポジション・スペルズ/Bard Composition Spells"
+        },
+        "nM1EG1DQLI3Wtgrz": {
+          "name": "ショートソード/Shortsword"
+        },
+        "q9qnT4OPhxU6cbs9": {
+          "name": "デヴィルズ・カースト・ブレス/Devil's Cursed Breath",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ジョルダスは自身の舌を噛み切り(@Damage[1[slashing]]ダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[reflex|dc:26|options:area-effect,damaging-effect]セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d8[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[7d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[10d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって病気1となり、呪われる。犠牲者の火傷が完全に消えることはなく、呪われたクリーチャーは絶え間ない痛みからすべての攻撃に－2のステータス・ペナルティを受ける。治癒によって火傷の外見が変わったりペナルティが軽減されたりすることはないが、呪いを取り除くことで解消される。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果：デヴィルズ・カースド・ブレス}</p>"
+        }
+      },
+      "blurb": "男性のヒューマンのバード",
+      "name": "ジョーダス・ムント/Jordus Munt"
+    },
+    "Corpselight Mist": {
+      "reset": "<p>このハザードはターンの終了時に自動的に再充填され、次のラウンドに再び誘発させることができる。</p>",
+      "items": {
+        "6ky9vFs9TJfMmwvv": {
+          "name": "肉体腐敗/Decay Flesh",
+          "description": "<p><strong>トリガー</strong>クリーチャーが霧の中でターンを終了する。</p>\n<hr />\n<p><strong>効果</strong>霧は穴の中のすべての生きたクリーチャーの肉を急速に腐敗させ、@Damage[10d6[void]]ダメージを与える(@Check[fortitude|dc:27|basic]セーヴ)。</p>"
+        }
+      },
+      "name": "コープスライト・ミスト/Corpselight Mist",
+      "description": "<p>緑色に光る霧の激しく渦巻く蒸気が、深さ30フィートの裂け目を満たしている。</p>",
+      "disable": "<p>@Check[religion|dc:28]を行って、悪ではない任意の神格に祈りを捧げて霧を霧散させることで、ここにおけるカブリーリの影響を打ち消しする。または、@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第3階位；打ち消し DC23)で、霧を24時間の間打ち消しする。</p>"
+    },
+    "Stickfoot": {
+      "skillSpecialAthletics": [
+        {
+          "base": 9,
+          "label": "〈登攀〉を行う",
+          "predicate": [
+            "action:climb"
+          ]
+        }
+      ],
+      "items": {
+        "JUlSpx5USh1nfM12": {
+          "name": "顎"
+        },
+        "VMzhTqEkTw0QRQvq": {
+          "name": "アンキャニー・クライマー/Uncanny Climber",
+          "description": "<p>ジャイアント・ゲッコーの足は、どんなに滑りやすかったり切り立っていたりしても、事実上あらゆる表面を登ることを可能にする。ジャイアント・ゲッコーが@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{〈登攀〉}するために《運動》の判定を試みて大失敗した場合、代わりに失敗となる。</p>"
+        }
+      },
+      "name": "スティックフット/Stickfoot",
+      "publicNotes": "<p>These roughly human-sized reptiles have amazing feet capable of clinging tenaciously to any surface. Giant geckos are typically docile and shy but can be aggressive when cornered or defending their territory. These large-eyed lizards are found in a wide variety of habitats, from rainforests and deserts to mountain slopes or even underground caverns. They spend most of their time climbing around in large trees or on rocky cliffs, whether hunting for small animals or hiding from predators. A giant gecko's scales are often quite brightly colored or decorated in intricate patterns. Giant geckos span nearly 8 feet in length from head to tail, and they weigh about 120 pounds.</p>\n<p>Giant geckos are sometimes used by smaller humanoids as guardians or mounts, as their docile nature makes them relatively easy to tame and train. Their superior climbing skills make giant geckos particularly popular within societies that dwell underground or near cliffs, such as goblins and kobolds. Their bright coloration also makes them favorite exotic pets in high society.</p>\n<hr />\n<p>Lizards have a wide range of appearances and abilities, but most share a basic reptilian shape-long tails, wide toothy mouths, and four legs. While a few species are capable of movement on two legs for short periods of time, most are strictly quadrupedal. The three species presented here represent the most common and well-known of the larger species.</p>"
+    },
+    "Chertus Jheed": {
+      "skillSpecialAthletics": [
+        {
+          "base": 16,
+          "label": "〈ハイジャンプ〉と〈ロングジャンプ〉を行う"
+        }
+      ],
+      "items": {
+        "Ebi7QcLacpjZZ6uc": {
+          "name": "クロックワーク・ソングバード・コンポーネント(レッグズ・アンド・テイル)/Clockwork Songbird Component (Legs & Tail)"
+        },
+        "WbPhmdrha2uMdnAQ": {
+          "name": "拳"
+        },
+        "Jbq7hsT36dALx0Xx": {
+          "name": "アタック・オブ・オポチュニティ/Attack of Opportunity"
+        },
+        "RxuVaegbFA1GpMH8": {
+          "name": "ブルータル・ブローラー/Brutal Brawler",
+          "description": "<p>チェルタスは素手で致死ダメージを与えることを選択でき、素手攻撃のダメージ・ダイスのサイズを1d6に増加させる。そうした場合、クリティカルヒット時に、攻撃が命中した対象は@Check[fortitude|dc:25]セーヴに成功しなければならず、成功しない場合、よろめかせる一撃によって@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}状態となる。</p>"
+        },
+        "Dbj7DLRcQmqE1h1Z": {
+          "name": "精密〈ストライク〉/Exacting Strike",
+          "description": "<p>チェルタスは〈ストライク〉を行う。彼がこの〈ストライク〉で失敗の出目を出した場合、この攻撃は彼のマルチアタック・ペナルティにはカウントされない。</p>"
+        },
+        "0kFvLnwknjQuvKn6": {
+          "name": "ランジ/Lunge",
+          "description": "<p>チェルタスは素手で〈ストライク〉を行い、この〈ストライク〉の間、自身の間合いを5フィート増加させる。</p>"
+        },
+        "KJpdd8KkjcqEPnoa": {
+          "name": "パメリング・フラリー/Pummeling Flurry",
+          "description": "<p>チェルタスは拳を叩きつけるような弧を描いて振り、素手の〈ストライク〉を行って、その攻撃ロールの結果を最大2体までの隣接する敵のACと比較する。その後、彼はダメージをロールし、命中した各クリーチャーに適用する。これは彼のマルチアタック・ペナルティにおいて2回の攻撃としてカウントされる。</p>"
+        },
+        "CXVQlp8TsdJY16il": {
+          "name": "スナッチ武器/Snatch Weapon",
+          "description": "<p>チェルタスはクリーチャーに@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}を試みる。相手の握りから武器を叩き落とした場合、チェルタスはその武器を構え、その武器で相手に対して〈ストライク〉を試みる。これは彼のマルチアタック・ペナルティにおいて2回の攻撃としてカウントされる。</p>"
+        }
+      },
+      "blurb": "男性のヒューマンのファイター",
+      "name": "チェルタス・ジード/Chertus Jheed"
+    },
+    "Vekensvok's Lampad": {
+      "items": {
+        "LCYVlQZcfJT8AY75": {
+          "name": "プライマル・インネイト・スペルズ/Primal Innate Spells"
+        },
+        "Dpji6q4R6gQMLALe": {
+          "name": "アースン・フィスト/Earthen Fist"
+        },
+        "5iH51KTA8CfAOS08": {
+          "name": "ライト・ウィスプ/Light Wisp"
+        },
+        "zZdlKoZukVTRu2lC": {
+          "name": "キャヴァーン・ディペンデント/Cavern Dependent",
+          "description": "<p>ランパードは単一の大洞窟またはその他の独立した地下エリアに神秘的に結びつけられており、そこから300フィート以内に留まらなければならない。</p>\n<p>その範囲を超えて移動した場合、彼らは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態になり、回復できなくなる。彼らは1時間ごとに@Check[fortitude|dc:19]セーヴを試みなければならず、失敗すると病気値が1増加する(最大で病気4まで)。</p>\n<p>24時間後、彼らは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態になり、この値はさらに24時間が経過するごとに1増加する。ランパードは新しい大洞窟と結びつくために、24時間の儀式を行うことができる。</p>"
+        },
+        "Mq1buiTxEF2rhIx8": {
+          "name": "嘆き/Weep",
+          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>ランパードは胸が張り裂けるような号泣を始め、周囲のクリーチャーに同情的なすすり泣きを呼び起こす。ランパードの泣き声を聞いた@Template[emanation|distance:30]{30フィート}以内にいるランパード以外の各クリーチャーは、@Check[will|dc:20]セーヴに成功しなければならず、失敗すると、制御できずにすすり泣くため、1ラウンドの間リアクションを使用できなくなり、次のターンに@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となる。</p>"
+        }
+      },
+      "blurb": "変種ランパス",
+      "name": "ヴェケンスヴォクス・ランパード/Vekensvok's Lampad",
+      "publicNotes": "<p>Lampads protect dark, hidden places underground. Not only do they defend subterranean caverns from threats, but they also safeguard well-meaning innocents from the dangers that lurk below the surface. Lampads are so-named for the wisps of magic light they often carry, guiding the lost to safety while luring threats to their doom. Lampads' mercurial nature makes their reactions difficult to predict, though they rarely demonstrate outright malice without sufficient provocation.</p>\n<hr />\n<p>Nymphs are fey guardians of nature possessed of great beauty and forms that meld breathtaking humanoid features with the natural elements they guard. Nymph queens are powerful nymphs who rule over and protect a much greater territory of untouched wilderness. For instance, a lampad might guard a beautiful underground cavern, but a lampad queen might call an entire system of caves their domain.</p>"
+    },
+    "Breath of Blood": {
+      "reset": "<p>このハザードは、すべてのクリーチャーが部屋を出てから1ラウンド後に落ち着きを取り戻し、次のラウンドの開始時に再び起動できるようになる。</p>",
+      "items": {
+        "zgELFho6zK0oOi9X": {
+          "name": "毒素放出/Vent Toxins",
+          "description": "<p><strong>トリガー</strong>クリーチャーが北の階段の先にある部屋に移動する。</p>\n<hr />\n<p><strong>効果</strong>床の上の血が激しく泡立ち、泡がはじけると同時に、有害なガスの波がトリガーとなったクリーチャーの周囲に噴き出す。そのクリーチャーは、息を止めているか呼吸する必要がない場合を除き、@Check[fortitude|dc:30]セーヴを試みなければならない。その後、このハザードはイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは悪臭を放つガスによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>失敗</strong>成功と同様だが、クリーチャーは毒ガスによって@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態にもなる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}状態となる。</p>"
+        }
+      },
+      "routine": "<p>(2アクション)泡は、このハザードの最初の1アクション目で激しく音を立てて弾け、空気を有毒な蒸気で満たす。これにより、エリア<strong>J3b</strong>内のすべてのクリーチャーに@Damage[6d6[poison]]ダメージ(@Check[fortitude|dc:30|basic]セーヴ)を与える。息を止めているクリーチャーは、このセーヴに+4の状況ボーナスを得る。このハザードの2アクション目に、泡はエリア<strong>J3b</strong>内のランダムな対象に毒素放出を行う。</p>",
+      "stealth": "<p>(達人)</p>",
+      "name": "ブレス・オブ・ブラッド/Breath of Blood",
+      "description": "<p>激しく渦巻く血の池が泡立ち沸き立っており、定期的に有害な蒸気を空気中に放出している。</p>",
+      "disable": "<p>血液からその魔力を引き出し、凝固させて不活性化させるための3回の@Check[nature|dc:33]または@Check[occultism|dc:33]判定、カブリーリへの神聖なつながりを断ち切るための祈りを捧げる@Check[religion|dc:36]判定、あるいはこのハザードを10分の間不活性化させるための@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第6ランク、打ち消し DC29)</p>"
+    },
+    "Arika Avertin": {
+      "items": {
+        "FMRGhFFwuabyDZda": {
+          "name": "オカルト・スポンティニアス・スペルズ/Occult Spontaneous Spells"
+        },
+        "9uo0Id0sq9y3J5an": {
+          "name": "バード・コンポジション・スペルズ/Bard Composition Spells"
+        },
+        "T7ZgvnkmcKX572Xk": {
+          "name": "ショートソード"
+        },
+        "dIeexMmpe4i3998m": {
+          "name": "コンポジット・ショートボウ"
+        }
+      },
+      "blurb": "女性、人間、バード",
+      "name": "アリカ・アヴァーティン/Arika Avertin"
+    },
+    "Zalavexus": {
+      "hpDetails": "ファスト・ヒーリング10",
+      "items": {
+        "2eo2SrNYyTRvRLJL": {
+          "name": "プライマル・スポンテニアス・スペルズ/Primal Spontaneous Spells"
+        },
+        "bLXWzurNyPADtPA3": {
+          "name": "プライマル・フォーカス・スペルズ/Primal Focus Spells"
+        },
+        "5hqdjh4Jn5wtzqGs": {
+          "name": "テンドリル/Tendril"
+        },
+        "RjfMaoY3Fp7Ouab8": {
+          "name": "振動感知（30フィート）/Tremorsense 30 feet"
+        },
+        "TKjiZlqXKYAz5MTX": {
+          "name": "全方位視覚/All-Around Vision"
+        },
+        "2hG90mAiBnKHWoxc": {
+          "name": "ファストヒーリング10/Fast Healing 10"
+        },
+        "lP5ul9ZfSW3FEFpa": {
+          "name": "スウォーム・マインド/Swarm Mind"
+        },
+        "49xv61tdfV6J6P29": {
+          "name": "ディスコーポレート/Discorporate",
+          "description": "<p>ワーム・ザット・ウォークスが0 HPに減少したとき、それは肉体を解体し、その体を構成する虫たちが四方八方に散り散りになる。もし一匹の虫でも逃げ延びたなら、ワーム・ザット・ウォークスは通常[[/gmr 1d10 #Re-Form]]{1d10日}かかるプロセスを経て、最終的に再形成される。</p>\n<p>正確な状況や周囲の環境によって、ワーム・ザット・ウォークスの敵が逃げる虫たちを逃げ切る前に仕留めるためにどれだけの時間があるかが決まるが、通常、敵にはわずか1ラウンドしか与えられない。一般的に、これにはワーム・ザット・ウォークスが倒れたスペースに対して、1ラウンド以内に範囲効果またはスプラッシュ武器を適用する必要がある。そのスペースに任意の量の範囲ダメージまたはスプラッシュ・ダメージが与えられた後、ダメージを与えたキャラクターは@Check[flat|dc:15]判定を行わなければならない。そのエリアに対して行われるその後の範囲ダメージまたはスプラッシュ・ダメージ効果ごとに、この難易度判定の DCは2減少し、最低で DC 5になる。これらの判定のいずれかに成功した場合、虫は一匹も逃げられず、ワーム・ザット・ウォークスは永久に破壊される。</p>\n<p>GMの裁量により、虫を罠にかけるなどの賢い手段によって、ワーム・ザット・ウォークスにとどめを刺すための猶予時間が延長される場合がある。</p>"
+        },
+        "ssgjITHPLsYfGEn3": {
+          "name": "クイックンド・キャスティング/Quickened Casting",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ザラヴェクサスの次のアクションが第3ランク以下の呪文または変得(キャントリップ)の発動である場合、それを発動するためのアクション数を1減らす(最低1アクション)。</p>"
+        },
+        "zNeDe02hwHzcyE1s": {
+          "name": "スクワーミング・エンブレイス/Squirming Embrace",
+          "description": "<p>ワーム・ザット・ウォークスは歩行し、クリーチャーとスペースを共有して移動を終了し、そのクリーチャーに@Damage[4d8[piercing]]ダメージを与える。そのクリーチャーは@Check[reflex|dc:27|basic]セーヴを行うことができる。</p>"
+        },
+        "Gqr0UFpNbBT1bhtg": {
+          "name": "ステディ・スペルキャスティング/Steady Spellcasting",
+          "description": "<p>もしリアクションによってザラヴェクサスの呪文発動アクションが妨害される場合、彼は@Check[flat|dc:15]を行う。成功すると、そのアクションは妨害されない。</p>"
+        },
+        "DfyikbxEMRuzW77m": {
+          "name": "スウォーム・シェイプ/Swarm Shape",
+          "description": "<p>ワーム・ザット・ウォークスは形のない虫の群れへと崩れ落ちる。それは保持している、着用、および運んでいるすべてのアイテムを落とす。肉体を解体している間、ワーム・ザット・ウォークスは攻撃アクションを使用できず、呪文をキャストすることもできないが、個々の虫が収まるほど小さなエリアを、@UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{〈無理矢理入り込む〉}を行うことなく移動することができる。それは同じアクションを使用して、通常の形態に再合体することができる。</p>"
+        },
+        "gtOkDtVWUdeFtEg0": {
+          "name": "ジーニー・ロア/Genie Lore"
+        }
+      },
+      "blurb": "男性、人間、ワーム・ザット・ウォークス、ソーサラー",
+      "name": "ザラヴェクサス/Zalavexus",
+      "publicNotes": "<p>This worm that walks was a cultist of the Great Old One Hastur in its prior life. It continues its conspiracies and strives to further its evil plots in its new life.</p>"
+    },
+    "Red Bishop": {
+      "items": {
+        "02pBeq8P75cKQxk4": {
+          "name": "ディバイン・プリペアード・スペルズ/Divine Prepared Spells"
+        },
+        "6ECx15oiWKxtjGVu": {
+          "name": "オカルト・インネイト・スペルズ/Occult Innate Spells"
+        },
+        "VdKAGQI4ZZFDhZeL": {
+          "name": "爪"
+        },
+        "wd7tQL03aQtetU9k": {
+          "name": "ロングソード"
+        },
+        "ODB8H9ordvDj9MK8": {
+          "name": "テレパシー（100フィート）"
+        },
+        "sCv6nwuflODCdMaO": {
+          "name": "前兆の眼差し/Portentous Gaze",
+          "description": "<p>30フィート。クリーチャーがこのオーラの中でターンを終了したとき、それは@Check[will|dc:31]セーヴを行わなければならない。失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}(大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2})となる。</p>\n<p>モスマンは、精神集中特性を持つ単一のアクションで、このオーラを起動または停止できる。</p>"
+        },
+        "OhL4iYLf0PKLjM4R": {
+          "name": "チェンジ・シェイプ",
+          "description": "<p>レッド・ビショップは、超小型赤色のカモメまたは赤色のタカの姿になる。これにより彼の速度は変化しないが、この形態では打撃を行うことができない。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        "ZZeKvjZOeEkU4d1b": {
+          "name": "憎悪の空を支配する/Command the Hateful Skies",
+          "description": "<p>レッド・ビショップのテレパシーによる言葉は、飛行能力を持つすべての悪のクリーチャーに語りかけられるとき、不穏な重みと罰の約束を帯びる。そのようなクリーチャーに対して、レッド・ビショップは@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉}、@UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{〈要請する〉}、@UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{〈強要する〉}、および@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}を行う際に+3の状況ボーナスを得て、さらにそのようなクリーチャーに対して使用するあらゆる精神効果の DCを3増加させる。これらのボーナスがなくても、悪の飛行クリーチャーはレッド・ビショップを、完全な恐怖とまではいかなくとも、敬意を交えて扱う傾向がある。</p>"
+        },
+        "Wm8dymSLkG00xtyc": {
+          "name": "恐怖を抽出する/Extract Fear",
+          "description": "<p>レッド・ビショップは30フィート以内にいる視認できる@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態のクリーチャーに片手を伸ばし、そのクリーチャーの恐怖を引き抜いて喰らうために掴み取るような動作をする。レッド・ビショップは自身のヒット・ポイントを@Damage[(7d8+8)[healing]]回復し、対象のクリーチャーは怯え状態を失うが、他の感情も心から引き出されて無駄に消え去るため、精神的トラウマと心自体に奇妙な麻痺が生じ、@Check[will|dc:34]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@Damage[3d6[mental]]ダメージを受ける。</p>\n<p><strong>失敗</strong>対象は@Damage[6d6[mental]]ダメージを受け、自身の次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}となる。</p>\n<p><strong>クリティカル失敗</strong>対象は@Damage[12d6[mental]]ダメージを受け、レストレーションなどの効果によって状態が取り除かれるまで愚鈍1となる。</p>"
+        },
+        "iommO8SU4yNamwC1": {
+          "name": "フォーカス・ゲイズ/Focus Gaze",
+          "description": "<p>モスマンは、自分が30フィート以内に視認できるクリーチャー1体に視線を固定する。対象は直ちに、モスマンの不吉な凝視に対して意志セーヴを行わなければならない。</p>\n<p>このセーヴを行う時点で、そのクリーチャーがすでに@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態である場合、セーヴに失敗すると、恐怖効果に加えて24時間の間@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}状態になる。</p>\n<p>セーヴを行った後、そのクリーチャーは1分の間一時的な免疫となる。</p>"
+        },
+        "2k3vYCrNQk60rNaP": {
+          "name": "エンジニアリング・ロア/Engineering Lore"
+        }
+      },
+      "blurb": "男性、モスマン、パズズのエージェント",
+      "name": "レッド・ビショップ/Red Bishop",
+      "publicNotes": "<p>Little is known of the strange creatures known as mothmen, save that when they make themselves known, calamity is sure to follow. The mothman sees themself as an agent of fate-provided such fate is devastating and destructive. Often, those who encounter a mothman never recall the meeting, yet live on to unknowingly pursue and enable the creature's obscure plans.</p>\n<p>The name \"mothmen\" is, of course, not these creatures' own name for themselves, but an appellation granted by the fearful who glimpse them and tell harrowing tales of their sightings. They each keep their own names, or a collection for use in different situations, yet have no need for a collective word for their kind.</p>"
+    },
+    "Pthuminin": {
+      "items": {
+        "Jqh53awrV2X4sb81": {
+          "name": "オカルト・インネイト・スペルズ/Occult Innate Spells"
+        },
+        "2YDmS6mB4lt2kYvF": {
+          "name": "顎"
+        },
+        "HHRUhEQ6DJPe6kyX": {
+          "name": "爪"
+        },
+        "AU14pBO1YZPWAEH5": {
+          "name": "テレパシー（100フィート）"
+        },
+        "WKWzTrWyiPJNihmZ": {
+          "name": "ソートセンス（60フィート）/Thoughtsense 60 feet",
+          "description": "<p>ゴスレグは、記載された射程内のクリーチャーの精神的本質を明瞭な感覚として感知する。思考感知でマインドレス・クリーチャーを感知することはできない。</p>"
+        },
+        "qoqJdxMXA4DPeMal": {
+          "name": "+1ステイタス・トゥ・オール・セーヴズ・バーサス・マジック/+1 Status to All Saves vs. Magic"
+        },
+        "UIgdlwmkkFjjq6Kl": {
+          "name": "不安のオーラ/Unsettled Aura",
+          "description": "<p>30フィート。ゴスレグは、思考するクリーチャーの心を不安にさせる不協和エネルギーのフィールドを投影する。ゴスレグから30フィート以内にいるマインドレスではないクリーチャーは、意志セーヴに-1の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.aOpSI5tApXF5xHCM]{効果：不穏なオーラ}</p>"
+        },
+        "Fp4obYTKAlnrpeFi": {
+          "name": "チェンジ・シェイプ",
+          "description": "<p>ゴスレグは、任意の小型または中型の人型生物の外見をとる。これによってゴスレグの移動速度や、そのストライクの攻撃およびダメージ修正値が変更されることはないが、ストライクが与えるダメージ種別が変更される場合がある(通常は殴打)。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        "pTowxMM6c9JCvVGF": {
+          "name": "マインド・ボルト/Mind Bolt",
+          "description": "<p>ゴスレグは不協和な精神エネルギーのフィールドを集中させ、60フィート以内にいる敵の精神に投影する。対象は@Damage[6d6[mental]]ダメージを受ける(@Check[will|dc:30|basic]セーヴ)。大失敗の場合、そのクリーチャーはさらに[[/gmr 1d4 #rounds]]{1d4ラウンド}の間@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態になる。</p>"
+        }
+      },
+      "blurb": "ゴスレグの異能個体",
+      "name": "プシュミニン/Pthuminin",
+      "publicNotes": "<p>Gosregs are agents of the Dominion of the Black that insinuate themselves into humanoid societies to foster the goals of their sinister alien masters. They act as spies and special forces that can mingle with humanoid society while enacting plans for the rest of the Dominion in secret.</p>\n<p>In their natural forms, gosregs dart about in a jerky gallop due to their stumpy legs and gangly arms. They take on the appearances of humanoids to infiltrate societies, and they drop their disguises only when they feel they are ultimately compromised and must resort to physical violence to protect their agendas. Their brain-like heads and bestial legs suggest a potential link with a similar Dominion of the Black agent: the dreaded intellect devourer.</p>",
+      "allSaves": "魔法に対するすべてのセーヴに＋1の状況ボーナス"
+    },
+    "Vizmivool": {
+      "items": {
+        "YOHXAqAPe9LoHm9f": {
+          "name": "ディバイン・プリペアード・スペルズ/Divine Prepared Spells"
+        },
+        "k5HH9VPoPUSAcnGb": {
+          "name": "オカルト・インネイト・スペルズ/Occult Innate Spells"
+        },
+        "Y3yLYEFM38NVlHac": {
+          "name": "クレリック・ドメイン・スペルズ/Cleric Domain Spells"
+        },
+        "AGZBKBnJMkp5NrlX": {
+          "name": "ファングズ/Fangs"
+        },
+        "UDq6DQC7aa80MDDu": {
+          "name": "ダガー"
+        },
+        "GjmjXrm0BYOCXs5E": {
+          "name": "テレパシー（100フィート）"
+        },
+        "3c01H24sjgfJHyvI": {
+          "name": "+1ステイタス・トゥ・オール・セーヴズ・バーサス・マジック/+1 Status to All Saves vs. Magic"
+        },
+        "o4iEKaEBIwAr18XF": {
+          "name": "+4ステイタス・トゥ・ウィル・セーヴズ・バーサス・メンタル/+4 Status to Will Saves vs. Mental"
+        },
+        "voG8n2irt09cUOF7": {
+          "name": "サクリファイス・ポーン/Sacrifice Pawn",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ヴィズミヴールは味方に対してダガーによる〈ストライク〉を行い、この〈ストライク〉の結果を1段階高い成功度に変更する。この〈ストライク〉によってその味方が死亡した場合、犠牲になった味方の生命力が傷口から赤い炎のように流れ出してヴィズミヴールの体に流れ込み、彼女のヒット・ポイントを@Damage[10d6[healing]]回復させ、1分の間彼女を@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}状態にする。彼女はこの追加のアクションを〈ストライク〉または〈ストライド〉に使用できる。</p>"
+        },
+        "pkqZFkDwe6SFvUXX": {
+          "name": "サーペントフォーク・ヴェノム",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:28]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d4[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d4[poison]]ダメージ、および弱体化1(1ラウンド)</p>"
+        }
+      },
+      "blurb": "女性、サーペントフォーク、イェデルシウスのクレリック",
+      "name": "ヴィズミヴール/Vizmivool",
+      "allSaves": "精神に対する意志セーヴに＋4の状況ボーナス"
+    },
+    "Ghast Cultist": {
+      "hpDetails": "虚無の回復",
+      "items": {
+        "02zqmateYddSep9z": {
+          "name": "ディバイン・プリペアード・スペルズ/Divine Prepared Spells"
+        },
+        "phoQ0yOkbf9saI2l": {
+          "name": "顎"
+        },
+        "OcYo8NrM7fSjcymh": {
+          "name": "爪"
+        },
+        "fZdMFwzKPZLVsPJ6": {
+          "name": "フレイル/Flail"
+        },
+        "dALR9L0wlW2puqiD": {
+          "name": "ステンチ",
+          "description": "<p>10フィート。このオーラに入るか、オーラ内でターンを開始したクリーチャーは、@Check[fortitude|dc:22|options:area-effect,inflicts:sickened,inflicts:slowed]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態(大失敗の場合はさらに、病気状態である限り@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態)になる。</p>\n<p>このオーラの中にいる間、クリーチャーは病気状態から回復するためのセーヴおよび病気に対するセーヴに-2の環境ペナルティを受ける。セーヴに成功したクリーチャーは、1分の間一時的な免疫となる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.wX9L6fbqVMLP05hn]{効果：悪臭}</p>"
+        },
+        "Qb7bNn98jqqwe6S8": {
+          "name": "ヴォイド・ヒーリング"
+        },
+        "mkwN7Fgq3DRnThOV": {
+          "name": "コンシューム・フレッシュ",
+          "description": "<p><strong>必要条件</strong>ガストが、過去1時間以内に死亡したクリーチャーの死体に隣接している。</p>\n<hr />\n<p><strong>効果</strong>ガストは死体の一部を貪り食い、@Damage[5d6[healing]]ヒット・ポイントを回復する。</p>\n<p>ガストが特定の死体からヒット・ポイントを回復できるのは1回だけである。</p>\n<p>ガストの狂信者は、エリア<strong>J1</strong>の中央にある大きな鉢に隣接している場合、一握りのウジ虫をすくい上げて食べることもできる。</p>"
+        },
+        "IdfK6A7UpGkscuOG": {
+          "name": "ガスト・フィーヴァー",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:25]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリア(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージ、およびすべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同じ(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージ、および回復から何の恩恵も得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同じ(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{ガスト}として這い上がる</p>"
+        },
+        "GBiarRqqq8qwyZtJ": {
+          "name": "パラリシス",
+          "description": "<p>ガストの攻撃が命中した生きているクリーチャーは、@Check[fortitude|dc:25|options:inflicts:paralyzed]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態になる。そのクリーチャーは自身のターンの終了時に毎回新しいセーヴを行うことができ、セーヴを行うたびにDCは累積的に1減少する。</p>"
+        },
+        "e7CxhtU5yoASkey8": {
+          "name": "スウィフト・リープ",
+          "description": "<p>ガストは自身の移動速度の半分までジャンプする。この移動はリアクションを誘発しない。</p>"
+        }
+      },
+      "blurb": "ガスト、カブリーリの神官",
+      "name": "ガスト・カルティスト/Ghast Cultist"
+    },
+    "Fungus Tyrant": {
+      "items": {
+        "N11WnXUJ0p9pheGn": {
+          "name": "ディバイン・インネイト・スペルズ/Divine Innate Spells"
+        },
+        "Gk1nMrx6NNO1AcKk": {
+          "name": "触手/Tentacle"
+        },
+        "SE3Kkb5f3EdsOZd7": {
+          "name": "爪"
+        },
+        "lKgqki1FdxrUgsXV": {
+          "name": "テレパシー（100フィート）"
+        },
+        "lgB1MU6GHJHRtB1m": {
+          "name": "菌の舌/Fungaltongue",
+          "description": "<p>ファンガス・タイラントは、菌類のクリーチャーであるかどうかにかかわらず、あらゆる形態の菌類と会話ができる。ほとんどの通常の菌類は、クリーチャーの詳細を認識しておらず、自身のすぐ近く以外の世界については何も知らない。ファンガス・タイラントは、菌類クリーチャーに対して行うすべての《欺瞞》、《交渉》、《威圧》判定に+3の状況ボーナスを得る。</p>"
+        },
+        "0FsvKpwHU0l0t09W": {
+          "name": "コンスタント・スペルズ/Constant Spells"
+        },
+        "zJCueH0fOZ2t2FMH": {
+          "name": "+1ステイタス・トゥ・オール・セーヴズ・バーサス・マジック/+1 Status to All Saves vs. Magic"
+        },
+        "SIGvsx61oNnyWzLT": {
+          "name": "クリエイト・スポーン/Create Spawn",
+          "description": "<p>クリーチャーがファンガス・タイラントの精神を吸い取る口づけによってHPが0に減少した後に死亡した場合、ファンガス・タイラントは自身の菌類物質の一部をその犠牲者に分け与え、菌類の群生の中で24時間の間「成熟させる」ことで、この犠牲者をスポア・スロール(胞子の奴隷)に変えることができる。この時間が経過した後、そのクリーチャーは生き返るが、菌類特徴を得てスポア・スロールとなる。これは、アンデッドがその循環から外されるのと同様の方法で、クリーチャーの魂が死後の世界へ進むのを防ぐ。そのため、その循環を神聖なものとみなす者たち(特にファラズマの信者)は、スポア・スロールが生きているクリーチャーであるにもかかわらず、アンデッドと同じくらい邪悪なものとみなす。新しいスポア・スロールのレベルがその創造者よりも低い場合、それは創造者の支配下に入る。ファンガス・タイラントが一度にあまりに多くのスポア・スロールを支配しすぎた場合(GMの判断によって)、意志の強いスポア・スロールは@Check[will|dc:28]セーヴに成功することで自らを解放できる。通常、ファンガス・タイラントは、支配するには強力すぎる倒れた敵からスポア・スロールを創造することを避ける。なぜなら、自分たちを死後の世界から引きずり出した者に対して、そのような犠牲者が抱くであろう復讐への衝動をあまりにもよく理解しているからである。</p>"
+        },
+        "zTUk285orSz8VuBR": {
+          "name": "胞子嚢成長/Grow Sporepod",
+          "description": "<p>ファンガス・タイラントは、60フィート以内の自身が見通せる任意の地点の地面から、人間サイズの菌類物質の鞘(スポアポッド)を破裂させて出現させる。一度作成されると、スポアポッドは1分の間、ファンガス・タイラントがそこから120フィートより遠くに離れるまで、またはそれが破壊されるまで(AC28、硬度10、20HP)持続する。ファンガス・タイラントは[[/gmr 1d4 #Recharge Grow Sporepod]]{1d4ラウンド}の間、再びスポアポッド育成を行うことはできないが、これとスポアポッドの1分の寿命を除けば、単一のファンガス・タイラントが同時にアクティブにできるスポアポッドの数に厳密な制限はない。</p>"
+        },
+        "mGQswZHQ8ZgVEJWy": {
+          "name": "スポアストライド/Sporestride",
+          "description": "<p>ファンガス・タイラントは隣接するスポアポッドの中にステップし、自身が作成した他のアクティブなスポアポッドへと即座にテレポートし、対象のスポアポッドから飛び出して、その過程でそれを破壊する。</p>"
+        },
+        "DE2HiFd3EjYr3JoX": {
+          "name": "スポアワープ/Sporewarp",
+          "description": "<p>ファンガス・タイラントは触手による〈ストライク〉を試みるが、自身が見通せる120フィート以内の任意のスポアポッド1つを、その触手〈ストライク〉の起点として扱う。</p>"
+        },
+        "H0jCOnnhcKA0P999": {
+          "name": "掴み/Grab"
+        }
+      },
+      "name": "ファンガス・タイラント/Fungus Tyrant",
+      "publicNotes": "<p>Hundreds of years ago, a cadre of powerful succubus assassins invaded the Abyssal realm of the demon lord of disease and fungus, Cyth-V'sug. These succubi sought to slay a powerful witch who had befouled a profane temple the assassins served. The succubi failed at their mission, but from their corpses grew the first fungus tyrants. Pleased with this development, the witch then seeded numerous worlds on the Material Plane with fungus tyrant spores, who have since grown and thrived in their new environments as rot thrives in a corpse. Today, hundreds of fungus tyrants inhabit the fouler locales of the Material Plane. They're particularly fond of large cave systems and ruined cities, but also can be found in corrupted woodlands where blighted fey rule or in the sewers of active cities that spew vast amounts of magical waste.</p>\n<p>An encounter with a normally unintelligent plant monster acting with methodical intent can be evidence of a fungus tyrant's manipulations, but fungus tyrants are equally fond of keeping other types of creatures as pets and thralls—particularly attractive humanoids. Especially favored minions are given the gift of the fungus tyrant's embrace and are transformed into fungoid minions forever loyal to their pallid ruler. Yet most fungus tyrants realize that a diverse array of guardians is best, and they often choose to keep some non-fungus minions on hand to protect their lair.</p>\n<p>Fungus tyrants are violently jealous. Any who attempt to lure away their dominated pets or cure those who have been infected by them earns their eternal ire. Yet it's succubi who enrage fungus tyrants the most. In these demons, the fungus tyrant sees a former glamour and power they no longer have access to, and only the brutal destruction of these mocking memories can salve a fungus tyrant's anger. A fungus tyrant faced with someone whom they suspect might be a succubus is terrible indeed, for in such battles, the fiendish fungal beings abandon their normal approach of subtle mental trickery and bring all of their power to bear in an attempt to rip the offending creature apart. Fungus tyrants also take great delight in transforming succubi into fungoid creatures under their control.</p>\n<p>While their jealousy doesn't compel them to do battle with other fungus tyrants, they're always careful to maintain their own territories apart from any nearby kin, and they take great pains not to \"poach\" other tyrant's charmed and infested pets.</p>\n<p>A fungus tyrant is 6 feet tall and weighs 150 pounds.</p>\n<h2>Spore Thralls</h2>\n<p>When a creature becomes a spore thrall, it rises from death with the same statistics it had in life, but gains the fungus trait, as well as immunity to death effects, disease, @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed}, and poison, and its alignment switches to match that of the fungus tyrant who created them. When a spore thrall is slain, its soul finally travels to the Boneyard for judgment, but the fungus-encrusted physical remains often spawn new fungal creatures, such as myceloids, violet fungi, or drakauthixes. These fungal spawn are not controlled by the fungus tyrant but generally regard them as an ally or, more often, a divinity.</p>",
+      "allSaves": "魔法に対するすべてのセーヴに＋1の状況ボーナス"
+    },
+    "Whispers from Long Ago": {
+      "reset": "<p>この罠は1ラウンドかけて再装填され、1ラウンド後に次に扉を開けようとした者に対して囁く準備が整う。</p>",
+      "items": {
+        "Aow1y5tVJE1v7Dng": {
+          "name": "石を守る/Protect the Stone",
+          "description": "<p><strong>トリガー</strong>クリーチャーが扉を開けようとするか、〈ストライク〉や呪文で扉にダメージを与える</p>\n<hr />\n<p><strong>効果</strong>扉はトリガーとなったクリーチャーの耳元で囁き、次の3つの言語のいずれかで話しかける：ショアンティ、サーシロン、またはヴァリシア。対象のクリーチャーがこれらの言語のいずれかを話す場合、最も話し慣れている言語で囁きを聞く。対象がこれらの言語を話さない場合、罠の囁きは効果を持たない。対象が囁きを理解した場合、罠は対象にサジェスチョンをキャストし(@Check[will|dc:25]セーヴ)、女主人であるリララルーが到着するまで、「扉の前で衛兵として立ち、その先にある部屋に入ろうと通り抜けようとする者と戦う」よう提案する。かつては、この囁きはリララルーにも警告を送っていたが、彼女はとうの昔に去っているため、PC達は強力なルーンロードの弟子の到来を恐れる必要はない。</p>"
+        }
+      },
+      "stealth": "<p>(熟練)</p>",
+      "name": "ウィスパーズ・フロム・ロング・アゴー/Whispers from Long Ago",
+      "description": "<p>扉が開けられると、不穏な囁きが外に向かって広がり、侵入を企てた者の精神に入り込む。</p>",
+      "disable": "<p>扉の周囲に巧妙に隠されたトリガーのルーンを削り取るための@Check[thievery|dc:27](マスター)、または罠を打ち消しするための@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第4ランク、打ち消し DC23)</p>"
+    },
+    "Devil's Breath": {
+      "reset": "<p>デヴィルズ・ブレスは1時間後に自動的に再装填される。</p>",
+      "items": {
+        "DoFn41kj4boZ6xAp": {
+          "name": "煙の吐息/Exhale Smoke",
+          "description": "<p><strong>トリガー</strong>ゴブリン以外のクリーチャーが、剥製のサンドポイント・デヴィルから10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>剥製のサンドポイント・デヴィルが前方に突進し、顎を開け、血も凍るような遠吠えと悪臭を放つ灰色の煙を吐き出す。罠の南側(ピットへと通じる扉まで届く範囲)に向けられた@Template[cone|distance:30]の中にいるすべてのクリーチャーは、@Check[fortitude|dc:22|options:area-effect,inflicts:enfeebled]セーヴを行わなければならず、失敗すると1時間の間@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}となり(大失敗の場合は8時間の間@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}となる)。</p>"
+        }
+      },
+      "name": "デヴィルズ・ブレス",
+      "description": "<p>剥製のモンスターは前方に突進し、遠吠えを上げ、悪臭を放つ煙を吐き出す。</p>",
+      "disable": "<p>剥製の宝石の目を取り外すための@Check[thievery|dc:23]判定</p>"
+    },
+    "Tiluatchek": {
+      "items": {
+        "thUgsKsxXe3g6Gxb": {
+          "name": "アーケイン・プリペアード・スペルズ/Arcane Prepared Spells"
+        },
+        "EnABwRI89akDKIv8": {
+          "name": "オカルト・インネイト・スペルズ/Occult Innate Spells"
+        },
+        "BXp3Iqh8AykJCF9i": {
+          "name": "鉤爪/Talon"
+        },
+        "NZhUsB0mdsYLr6UX": {
+          "name": "テレパシー（100フィート）"
+        },
+        "MY7iImbmJzLQjtsK": {
+          "name": "ライフセンス（60フィート）/Lifesense 60 feet"
+        },
+        "GCGNJYiHP5GMdDAQ": {
+          "name": "エグジット・ボディ/Exit Body",
+          "description": "<p><strong>必要条件</strong>インテレクチュアル・ディヴァウラーが肉体泥棒で肉体を支配している</p>\n<hr />\n<p><strong>効果</strong>インテレクチュアル・ディヴァウラーは宿主の肉体から離脱する。宿主は即座に死亡し、もはやいかなる肉体泥棒能力の適切な宿主にもならなくなる。インテレクチュアル・ディヴァウラーは隣接するスペースに元のサイズで出現する。</p>"
+        },
+        "pHckdhGspQesS1nl": {
+          "name": "ラヴィッジ/Ravage",
+          "description": "<p>インテレクト・ディヴァウラーは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャー1体に対して、自身の最も高い攻撃修正と同じ攻撃修正を使用して、爪による〈ストライク〉を2回行う。</p>\n<p>これらの〈ストライク〉は即死特性を得る。「貪り食い」によって対象が死亡した場合、インテレクト・ディヴァウラーは対象に対して「肉体泥棒」をフリー・アクションとして使用できる。</p>"
+        },
+        "wHsOiFn1P7QcaaJ2": {
+          "name": "ストールン・アイデンティティ/Stolen Identity",
+          "description": "<p>インテレクト・ディヴァウラーが肉体泥棒を使用している間、宿主が知っているすべての言語を理解して話す能力と、宿主の肉体の能力、正体、社会における役割、人格に関する知識を得る。しかし、宿主の肉体の具体的な記憶や知識は得られない。</p>"
+        }
+      },
+      "skillSpecialDeception": [
+        {
+          "base": 24,
+          "label": "ライアーズ・レキシコン携行",
+          "predicate": [
+            "action:嘘をつく"
+          ]
+        }
+      ],
+      "blurb": "ジェンダーフルイド、インテレクト・ディヴァウラー、トランスミューター",
+      "name": "ティルアトチェク/Tiluatchek",
+      "publicNotes": "<p>Intellect devourers serve as advance scouts and infiltrators for the powerful force of alien beings called the Dominion of the Black. These monsters roam the Darklands, from which they mount secret invasions of the world above. When an intellect devourer infiltrates a society, its first priority is to acquire a body. It might first seek out a graveyard for a fresh corpse, as this is easier than fighting and killing someone. When the aberration compresses itself into the host's brain cavity, its real body goes dull to sensation as it connects to the nervous system of its host. If found out, an intellect devourer might quickly inhabit a new body to make its escape, preferably something inconspicuous such as a domestic animal.</p>"
+    },
+    "Ziradini": {
+      "items": {
+        "HPQNAkjNVVXiK85j": {
+          "name": "ディバイン・プリペアード・スペルズ/Divine Prepared Spells"
+        },
+        "KbQwkvmbDMZZQzF5": {
+          "name": "オカルト・インネイト・スペルズ/Occult Innate Spells"
+        },
+        "oCCrlGhLfiFdbjaF": {
+          "name": "クレリック・ドメイン・スペルズ/Cleric Domain Spells"
+        },
+        "rAh66dOMZHF8WF6h": {
+          "name": "ウォーハンマー"
+        },
+        "6BFQljbOQZkiMjjS": {
+          "name": "ヴァルネラブル・トゥ・サンライト/Vulnerable to Sunlight",
+          "description": "<p>ジラディニは、日光にさらされている時間1時間ごとに@Damage[16[untyped]]ダメージを受ける。</p>"
+        },
+        "yIgMRyJRd4jIcbTr": {
+          "name": "アザトースの過酷な呪い",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ジラディニは30フィート以内に見えているクリーチャー1体を凝視しながら、アクロでアザトースの名を唱える。彼の目はオレンジ色に輝き、対象は物質界の中心で渦巻く混沌の短い幻視に耐え、その瞬間、宇宙における自分自身の無意味さを目撃する。対象は@Check[will|dc:26]セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは1時間の間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態となる。</p>\n<p><strong>失敗</strong>クリーチャーは stupefied 1状態となる。また、毎夜初めて夜空を見上げたとき、@Check[will|dc:26]セーヴィング・スローを行わなければならず、失敗すると stupefied状態の値を1増加させる(最大で@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 4}状態まで、またはこの状態になっていない場合は stupefied 1状態となる)。たとえ stupefied状態が取り除かれても、対象は呪いが解けるまで、1晩に1回夜空を見上げたときにセーヴィング・スローを行い続けなければならない。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、対象は物質界や大いなる彼方のどこにいようとも、故郷の国で太陽が沈むときに宇宙の重みを感じる。夜空を見上げる必要はない。</p>"
+        }
+      },
+      "blurb": "男性、デロ、クレリック",
+      "name": "ジラディニ/Ziradini"
+    },
+    "Abstalar Zantus": {
+      "items": {
+        "YKMhnP1EdwHEZCR9": {
+          "name": "ディバイン・プリペアード・スペルズ/Divine Prepared Spells"
+        },
+        "ENSfoum4LqpZxdam": {
+          "name": "ディバイン・フォーカス・スペルズ/Divine Focus Spells"
+        },
+        "rlShBHupxysV7DY9": {
+          "name": "スター・ナイフ/Starknife"
+        },
+        "Qs5UJCew4Wb1rmiR": {
+          "name": "スター・ナイフ"
+        },
+        "fDh9aDZjXdxE0h0h": {
+          "name": "サンドポイント・ロア/Sandpoint Lore"
+        }
+      },
+      "blurb": "男性、人間、デズナのクレリック",
+      "name": "アブスタラー・ザンタス/Abstalar Zantus"
+    },
+    "Kanker": {
+      "hpDetails": "虚無の回復",
+      "items": {
+        "diUQ5iqT4031oD5S": {
+          "name": "ポーチ・オブ・ブラック・オニキス/Pouch of Black Onyx"
+        },
+        "tJeYjZkCu1IfRWM0": {
+          "name": "インセンス・アンド・オファリングズ・フォー・プレイナー・アライ/Incense and Offerings for Planar Ally"
+        },
+        "mKfbPi8doLiDCIvB": {
+          "name": "フレイル"
+        },
+        "MW8aGX2GqAlzVwmv": {
+          "name": "顎"
+        },
+        "keCftqO4kZ2XTnEi": {
+          "name": "爪"
+        },
+        "8YsGDoOVFggFkDuw": {
+          "name": "グレーター・酸・フラスコ/Greater Acid Flask"
+        },
+        "v4EIN0u2dz13wyEs": {
+          "name": "グレーター・アルケミストズ・ファイア/Greater Alchemist's Fire"
+        },
+        "XjM9W9eFLgbHpeKN": {
+          "name": "グレーター・サンダーストーン/Greater Thunderstone"
+        },
+        "0Fov7JFb1MdJaHxP": {
+          "name": "イヴェイジョン/Evasion",
+          "description": "<p>カンカーが反応セーヴで成功をロールしたとき、彼は代わりに大成功を得る。</p>"
+        },
+        "DU4FmtvzdaEohExI": {
+          "name": "ステンチ",
+          "description": "<p>10フィート。このオーラに入るか、オーラ内でターンを開始したクリーチャーは、@Check[fortitude|dc:29|options:area-effect,inflicts:sickened,inflicts:slowed]セーヴィング・スローに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる(大失敗した場合は、sickened状態である限りさらに@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態となる)。</p>\n<p>このオーラの中にいる間、クリーチャーは病気に対するセーヴィング・スローと、sickened状態から回復するための判定に-2の状況ペナルティを受ける。セーヴィング・スローに成功したクリーチャーは、1分の間一時的な免疫となる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.wX9L6fbqVMLP05hn]{効果:悪臭}</p>"
+        },
+        "gfMJhKC18BGS96q4": {
+          "name": "ヴォイド・ヒーリング"
+        },
+        "ZubWYb6PT8rbs6ap": {
+          "name": "コンシューム・フレッシュ",
+          "description": "<p><strong>必要条件</strong>ガーストが、過去1時間以内に死亡したクリーチャーの死体に隣接していること。</p>\n<hr />\n<p><strong>効果</strong>ガーストは死体の一部を貪り食い、@Damage[7d6[healing]]のヒット・ポイントを回復する。</p>\n<p>任意の1体の死体からヒット・ポイントを回復できるのは1回だけである。</p>\n<p>カンカーは、自身の研究所(エリア<strong>J12</strong>)の北のアルコーブにある血の桶に隣接しているなら、そこから肉体喰らいを行うことができる。</p>"
+        },
+        "2Rx5xfHSw4p6TGgP": {
+          "name": "エクスパンデッド・スプラッシュ/Expanded Splash",
+          "description": "<p>カンカーが爆弾を投げるとき、彼は爆弾の爆発力を最大化させることができ、爆弾が通常の量ではなく7の範囲ダメージを与えるようにし、その範囲ダメージは対象から10フィート以内のすべてのクリーチャーに影響を及ぼす。</p>"
+        },
+        "0uKRwcXWl9CqbtjY": {
+          "name": "ガスト・フィーヴァー",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:32]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同じ(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージを受け、回復から何の恩恵も得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同じ(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中にガーストとして感知する@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{Ghast}</p>"
+        },
+        "gcFxm6W1omvdDARf": {
+          "name": "パラリシス",
+          "description": "<p>ガーストの攻撃に命中した生きているクリーチャーは、@Check[fortitude|dc:32|options:inflicts:paralyzed]セーヴィング・スローに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる。対象は自身の各ターンの終了時に新しいセーヴィング・スローを試みることができ、そのセーヴィング・スローごとにDCが累積的に1減少する。</p>"
+        },
+        "lmYi8tBleAX8ZpOu": {
+          "name": "クイック・ボマー",
+          "description": "<p>カンカーは〈扱う〉アクションで錬金術の爆弾を取り出し、それを遠隔〈ストライク〉として投げる。</p>"
+        },
+        "rvduLjRyFYWYXuDU": {
+          "name": "スウィフト・リープ",
+          "description": "<p>ガストは自身の移動速度の半分までジャンプする。この移動はリアクションを誘発しない。</p>"
+        },
+        "DD1VjmyNLGVF3IHp": {
+          "name": "有毒な流出物/Toxic Effluvium",
+          "description": "<p>カンカーは長年にわたり非常に多くの毒素や毒に身をさらしてきたため、それらすべてが彼のアンデッドの肉体に染み込んでいる。彼が毒の流出を起動すると、これらの悪臭を放つ液体が肉体からにじみ出て、彼のあごと爪から不快な緑色の毒の細流が滴り落ち、彼の歯や爪、そして彼が振るうあらゆる武器を覆う。彼の次のターンの開始時まで、カンカーの近接ストライクは追加で2d6の毒ダメージを与える。</p>"
+        }
+      },
+      "blurb": "男性、ガスト、アルケミスト",
+      "name": "カンカー/Kanker"
+    },
+    "Fires of Abraxas": {
+      "reset": "<p>この罠は1時間後に自動的に再装填される。</p>",
+      "items": {
+        "3JlyScGStT5wN9NV": {
+          "name": "火炎光線/Fiery Beam",
+          "description": "<p><strong>トリガー</strong>エリア<strong>B3</strong>の扉が開かれるか、ダメージを受ける。</p>\n<hr />\n<p><strong>効果</strong>北側と西側のシヘドロンから2本の火炎光線が放たれ、部屋の中を薙ぎ払う。エリア<strong>B2</strong>にいるすべてのクリーチャーは@Damage[6d10[fire]]ダメージを受ける(@Check[reflex|dc:22|basic]セーヴ)。</p>"
+        }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "ファイアズ・オブ・アブラクザス/Fires of Abraxas",
+      "description": "<p>サーシロン語でアブラクザスへの祈りを唱えない限り、シヘドロンの中の炎から火炎光線が放たれ、部屋を薙ぎ払う。</p>",
+      "disable": "<p>壁にある小さなトリガー・ルーンの1つを削り取るための@Check[thievery|dc:23]、または善の神格への祈りで罠を圧倒するための@Check[religion|dc:23]</p>\n<p><strong>バイパス</strong>サーシロン語で書かれたアブラクザスへの祈りが壁に刻まれている。この祈りの1つを唱えることで、罠を1時間の間無効化できる。</p>"
+    },
+    "Narlo Nyrell": {
+      "hpDetails": "虚無の回復",
+      "items": {
+        "Gg1vzGnyrVe5OP7Y": {
+          "name": "ディバイン・スポンティニアス・スペルズ/Divine Spontaneous Spells"
+        },
+        "Ta6kpFXFZX3VgULt": {
+          "name": "啓示・スペルズ/Revelation Spells"
+        },
+        "Nsi0TI869eSxAybS": {
+          "name": "スタッフ/Staff"
+        },
+        "9kiCgRcrTLqrvzAj": {
+          "name": "ヴォイド・ヒーリング"
+        },
+        "l5DvOnScyCXWCLxu": {
+          "name": "群がる呪い/Swarming Curse",
+          "description": "<p>何百匹もの噛みつくハエがナルロの骨の上を這い回り、かつて彼の肉体がそうであったかのように彼の鎧を満たしている。これらのハエが燃えるとき、それらはナルロにも害を及ぼし、彼に火炎に対する弱点5を与える。ナルロが呪文を詠唱するたびに、これらのハエは彼の体から噴き出し、彼の次のターンの開始時まで、彼の周囲の@Template[emanation|distance:10]を羽音を立てて噛みつく雲で満たす。この間、彼は火炎に対する弱点を失い、この放出の中でターンを終了したクリーチャーは、噛みつくハエから@Damage[4d6[piercing]|options:area-damage]ダメージを受ける(@Check[reflex|dc:23|basic|options:area-effect]セーヴ)。</p>"
+        }
+      },
+      "blurb": "男性、ヘレクセン、オラクル",
+      "name": "ナルロ・ナイレル/Narlo Nyrell",
+      "publicNotes": "<p>When a cleric rebels against their deity and dies in the grip of blasphemous rage, the heresies they committed in life may fuel their transformation into an undead herexen. Herexens seek vengeance against the deity they once worshipped, defiling temples, slaying the faithful, and rallying lesser undead and death cultists to aid them in their unholy quests. Though a herexen's divine gifts have mostly been corrupted into the vileness of undeath, they stubbornly cling to remnants of their former power, still wielding magic and armaments favored by the deity they so greatly despise.</p>\n<p>Groups of herexens that blasphemed against the same deity sometimes combine to form a mockery of a congregation, conducting blasphemous rites with something approaching euphoria. These congregations are more often formed from a blasphemous cult who practiced their heresy together in life and died together, though some gather independent herexens of the same former faith.</p>"
+    },
+    "Kaleb Valdemar's Body": {
+      "items": {
+        "thUgsKsxXe3g6Gxb": {
+          "name": "アーケイン・プリペアード・スペルズ/Arcane Prepared Spells"
+        },
+        "EnABwRI89akDKIv8": {
+          "name": "オカルト・インネイト・スペルズ/Occult Innate Spells"
+        },
+        "NCPX39Zyys1CneL4": {
+          "name": "ダガー"
+        },
+        "NZhUsB0mdsYLr6UX": {
+          "name": "テレパシー（100フィート）"
+        },
+        "MY7iImbmJzLQjtsK": {
+          "name": "ライフセンス（60フィート）"
+        }
+      },
+      "skillSpecialDeception": [
+        {
+          "base": 24,
+          "label": "ライアーズ・レキシコン携行",
+          "predicate": [
+            "action:嘘をつく"
+          ]
+        }
+      ],
+      "blurb": "男性、人間、ウィザード(故人)",
+      "name": "カレブ・ヴァルデマールズ・ボディ/Kaleb Valdemar's Body",
+      "publicNotes": "<p>Intellect devourers serve as advance scouts and infiltrators for the powerful force of alien beings called the Dominion of the Black. These monsters roam the Darklands, from which they mount secret invasions of the world above. When an intellect devourer infiltrates a society, its first priority is to acquire a body. It might first seek out a graveyard for a fresh corpse, as this is easier than fighting and killing someone. When the aberration compresses itself into the host's brain cavity, its real body goes dull to sensation as it connects to the nervous system of its host. If found out, an intellect devourer might quickly inhabit a new body to make its escape, preferably something inconspicuous such as a domestic animal.</p>"
+    },
+    "Fiendish Flock": {
+      "items": {
+        "AFv5FWlpT2zyryiG": {
+          "name": "スウォーム・マインド/Swarm Mind"
+        },
+        "WVChw6DFgtcfsrAf": {
+          "name": "嘴と鉤爪/Beaks and Talons",
+          "description": "<p>この悪魔的な群れの怒れるつつきと引っかきは、スウォームのスペースにいる各敵に@Damage[2d6[piercing],2d6[slashing]]ダメージを与える(@Check[reflex|dc:25|basic]セーヴ)。セーヴに大失敗したクリーチャーは、鳥たちが対象の顔に攻撃を集中させるため、[[/gmr 1d4 #rounds]]{1d4ラウンド}の間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる。</p>"
+        }
+      },
+      "blurb": "レイヴン・スウォームの異能個体",
+      "name": "フィーンディッシュ・フロック/Fiendish Flock",
+      "publicNotes": "<p>A flock of ravens is known as an unkindness. Certainly the name lives up to its meaning when a swarm of ravens decides to work together. In most cases, a raven swarm like the one presented here won't attack larger foes, but when manipulated by supernatural forces or simple desperation born from hunger, an unkindness of ravens can be a surprisingly dangerous foe.</p>\n<hr />\n<p>Few birds are as cunning and social as the raven.</p>"
+    },
+    "Statue of Alaznist": {
+      "items": {
+        "lptCsZTdH2pTyzf3": {
+          "name": "ランスール/Ranseur"
+        },
+        "dkfqFFDoPeLbQKNp": {
+          "name": "構造体の装甲（硬度7）/Construct Armor (Hardness 7)",
+          "description": "<p>通常の物体と同様に、生命を吹き込まれた像は硬度を持つ。この硬度は、自身が受けるあらゆるダメージを硬度と等しい値だけ減少させる。</p>\n<p>生命を吹き込まれた像のヒット・ポイントが半分未満に減少するか、あるいはクリティカルヒットによってダメージを受けると直ちに、そのコンストラクトの鎧が壊れ、そのアーマー・クラスは19に減少する。</p>"
+        }
+      },
+      "blurb": "アニメイテッド・スタチューの異能個体",
+      "name": "スタチュー・オブ・アラズニスト/Statue of Alaznist",
+      "publicNotes": "<p>Animated statues are often used to guard crypts, small shrines, or areas in government buildings where they can be positioned amid normal statues to hide their true nature until an intruder arouses their ire. Adventurers' suspicions regarding statues suddenly animating and attacking has led many less scrupulous adventurers to automatically attack any statues they encounter, ruining harmless, ancient relics.</p>\n<hr />\n<p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>"
+    },
+    "False Devil": {
+      "items": {
+        "t8m638wy4P8pa4PZ": {
+          "name": "顎"
+        },
+        "npIgzch2HZkhFifI": {
+          "name": "爪"
+        },
+        "abGmJgduMKED2VeX": {
+          "name": "吸血/Chupar",
+          "description": "<p><strong>必要条件</strong>チュパカブラがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態にしている。</p>\n<hr />\n<p><strong>効果</strong>チュパカブラは掴んでいるクリーチャーから血を吸う。チュパカブラは1分の間@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}状態となり、その追加のアクションは〈ストライク〉および〈ストライド〉アクションにのみ使用できる。チュパカブラはこの方法で加速状態になっている間は、再び吸血を使用できない。</p>\n<p>チュパカブラによって血を吸い取られたクリーチャーは、回復(種類や量を問わない)を受けるまで@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態となる。</p>"
+        },
+        "UmF9ATrgifYyt9He": {
+          "name": "パウンス/Pounce",
+          "description": "<p>チュパカブラは〈ストライド〉を行い、その移動の終了時に〈ストライク〉を1回行う。チュパカブラがこのアクションを@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態で開始した場合、この能力の〈ストライク〉が終了するまで隠れた状態を維持する。</p>"
+        },
+        "cqrFa6Vv4ysyzmgT": {
+          "name": "翼の乱舞/Wing Flurry",
+          "description": "<p>この偽のデヴィルの棘だらけの翼は、典型的な近接の選択肢を提供しないが、飛びながら敵を引っかいたり切り裂いたりするために使用できる。この翼のあるチュパカブラは、敵のスペースを@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}ことを試みる。そうする際、翼を猛烈に羽ばたかせ、その《軽業》判定に+2の状況ボーナスを得る。成功した場合、すり抜けたクリーチャーに@Damage[4d6[slashing]]ダメージを与える(大成功の場合は@Damage[8d6[slashing]]ダメージ)。</p>"
+        },
+        "hegoW9J1eMFWn0I6": {
+          "name": "掴み"
+        }
+      },
+      "blurb": "チュパカブラの異能個体",
+      "name": "フォルス・デヴィル/False Devil",
+      "publicNotes": "<p>These notorious predators have an undeniable thirst for blood. Chupacabras prefer to prey upon the weak and slow, often hiding in wait and watching potential prey for long periods before attacking. Spry and stealthy, they most often make their homes in areas of high grass and protective rock, their slightly reflective scales allowing them to blend in well with such surroundings.</p>\n<p>Chupacabras prefer to eat lone travelers and farm animals (particularly goats), and leave little evidence of their presence apart from the grisly, blood-drained husks of their meals. Their tendency to stay out of sight combined with their naturally nocturnal activity often leads superstitious locals to conclude the worst, imagining that a particularly reckless vampire lives in the area.</p>\n<p>A typical chupacabra measures nearly 5-1/2 feet from its muzzle to the tip of its spiny tail, and it stands just under 4 feet tall. With their slight build and lightweight bones, most weigh close to 100 pounds. They mate rarely and only during the hottest months, with the females each producing a single egg that hatches into a tiny, dehydrated creature. The mother typically leaves helpless prey in her cave so the hatchling can immediately feed.</p>\n<p>Although chupacabras are typically solitary creatures, they have been known to form small gangs in bountiful areas. Members of these groups work well together, growing bold enough to attack larger animals, small herds, and otherwise more dangerous prey. Stories of chupacabras attacking travelers or laying siege to farmhouses typically stem from the hunting practices of such gangs. Regions where chupacabra activity like this is more common often have complex and colorful myths and tall tales about chupacabra capabilities or motive-and a few of the claims, such as that some chupacabras can fly, are all too true.</p>"
+    },
+    "Glorkus": {
+      "hpDetails": "虚無の回復",
+      "items": {
+        "QVTpVeHrwDHEBjjt": {
+          "name": "ディバイン・プリペアード・スペルズ/Divine Prepared Spells"
+        },
+        "tlCeAbjxXcsolOo1": {
+          "name": "クレリック・ドメイン・スペルズ/Cleric Domain Spells"
+        },
+        "XJHXZOImLOORwInT": {
+          "name": "顎"
+        },
+        "A97t9GcQF8k7V7By": {
+          "name": "爪"
+        },
+        "dSMYHVMIltxeN4ms": {
+          "name": "ヴォイド・ヒーリング"
+        },
+        "7RTjFlVzsxhjtwX4": {
+          "name": "コンシューム・フレッシュ",
+          "description": "<p><strong>必要条件</strong>グールが、過去1時間以内に死亡したクリーチャーの死体に隣接している。</p>\n<hr />\n<p><strong>効果</strong>グールは死体の一部を貪り食い、@Damage[3d6[healing]]のヒット・ポイントを回復する。</p>\n<p>グールが特定の死体からヒット・ポイントを回復できるのは1回のみである。</p>"
+        },
+        "oa6JQCeL4B2WQMPI": {
+          "name": "グール・フィーヴァー/Ghoul Fever",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:21]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響なしのキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]]ダメージ、およびすべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[2d6[void]]ダメージ、および回復から恩恵を得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.LHHgGSs0ELCR4CYK]{グール}として立ち上がる。</p>"
+        },
+        "9TCF9GcaMoTKkPSj": {
+          "name": "パラリシス",
+          "description": "<p>グールの攻撃が命中したエルフ以外のすべての生きたクリーチャーは、@Check[fortitude|dc:21|options:inflicts:paralyzed]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態になる。対象は自身のターンの終了時に毎回新しいセーヴを試みることができ、そのようなセーヴを行うたびに、そのDCは累積的に1減少する。</p>"
+        },
+        "rvraBop9oOSwcjkq": {
+          "name": "スウィフト・リープ",
+          "description": "<p>グールは自身の移動速度の半分まで跳躍する。この移動はリアクションを誘発しない。</p>"
+        }
+      },
+      "blurb": "男性、ゴブリン、グール、カブリーリのクレリック",
+      "name": "グローカス/Glorkus",
+      "publicNotes": "<p>Ghouls are ravenous undead who haunt graveyards and eat corpses.</p>\n<hr />\n<p>Few creatures are more ubiquitous to sinister locations such as lonely graveyards and ruined crypts than the flesh-eating undead known as ghouls.</p>"
+    },
+    "Ripnugget": {
+      "hpDetails": "虚無の回復、若返り",
+      "items": {
+        "lSaBid4nIDRHfUAh": {
+          "name": "ドッグスライサー"
+        },
+        "0Pe1uBGVehRLhBim": {
+          "name": "アタック・オブ・オポチュニティ"
+        },
+        "oKuYToU9Nv9ALIIv": {
+          "name": "リジュヴェネーション",
+          "description": "<p>グレイヴナイトが破壊されたとき、その鎧は[[/gmr 1d10 #days]]{1d10日}かけてその肉体を再構築する。生きた宿主が鎧を着用している場合は、より早く再構築される。それ以前に肉体が破壊された場合、このプロセスは再スタートする。</p>\n<p>グレイヴナイトを完全に破壊するには、鎧を消滅させる(@UUID[Compendium.pf2e.spells-srd.Item.r7ihOgKv19eJQnik]{ディスインテグレイト}など)、鎧をクリエイションのフォージに運ぶ、あるいは火山の中心部に投げ込むしかない。</p>"
+        },
+        "xH6NrBw4bYEHU7e3": {
+          "name": "サクリリジャス・オーラ/Sacrilegious Aura",
+          "description": "<p>30フィート。このオーラの中にいるクリーチャーが生命力呪文や能力を使用したとき、グレイヴナイトは自動的にそれを打ち消ししようと試みる。この時の打ち消し修正値は[[/r 1d20+13 #Counteract]]{+13}である。</p>"
+        },
+        "8R3jmOcyIfgNNdKr": {
+          "name": "ヴォイド・ヒーリング"
+        },
+        "1UmNfowZ4HWxS9rx": {
+          "name": "デヴァステイティング・ブラスト/Devastating Blast",
+          "description": "<p>グレイヴナイトはエネルギーの@Template[cone|distance:30]を放出する。エリア内のクリーチャーは@Damage[4d12[fire]|options:area-damage]ダメージを受ける(@Check[reflex|dc:24|basic|options:area-effect]セーヴ)。</p>\n<p>グレイヴナイトはこの能力を[[/gmr 1d4 #Recharge Devastating Blast]]{1d4ラウンド}に1回使用できる。</p>"
+        },
+        "oVn3oZARiqT7Hf3P": {
+          "name": "ドッグスライサーの残虐/Dogslicer Cruelty",
+          "description": "<p>ドッグスライサーによるクリティカルヒット時、リプナゲットは刃を引き抜く際に犠牲者の肉体をむしり取る。標的はその痛みから@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態になり、病気状態である限り@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になる。</p>"
+        },
+        "snOrUVs5f8v8gtuP": {
+          "name": "グレイヴナイツ・カース/Graveknight's Curse",
+          "description": "<p>この呪いは、グレイヴナイトの鎧を少なくとも1時間着用した者に影響を与える。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[will|dc:24]セーヴ</p>\n<hr />\n<p><strong>潜伏期</strong> 1時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}、かつ鎧を外せない(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 2}、クリーチャーの移動速度が10減少し、かつ鎧を外せない(1日)</p>\n<p><strong>第3段階</strong>死亡し、鎧のグレイヴナイトへと変化する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6rnB7nK6J6zF4vea]{効果: グレイヴナイトの呪い}</p>"
+        },
+        "cYzNZC3Tju4useHD": {
+          "name": "ファントム・マウント/Phantom Mount",
+          "description": "<p>リプナゲットの騎乗獣は、スティックフットという名のジャイアント・ゲッコー(HP 37、AC 19、頑健+11、反応+8、意志+7)である。</p>\n<hr />\n<p>グレイヴナイトは@UUID[Compendium.pf2e.spells-srd.Item.WPKJOhEihhcIm2uQ]{マーベラス・マウント}に準じて超自然的な騎乗獣を召喚する。この呪文の効果はグレイヴナイトのレベルの半分に等しいレベルまで上昇したものとして扱う。</p>\n<p><em>ファントム・スティード</em>とは異なり、その騎乗獣のACとセーヴィング・スロウ・ボーナスはすべてグレイヴナイトよりも4低く、騎乗獣のヒット・ポイントはグレイヴナイトの3分の1(端数切り捨て)となる。</p>\n<p>騎乗獣が破壊された場合、グレイヴナイトはこの能力を再度使用するまでに1時間待たなければならない。</p>"
+        },
+        "t6KHJCiZXdNJnqxB": {
+          "name": "ウェポン・マスター/Weapon Master",
+          "description": "<p>グレイヴナイトは、自身が使用するあらゆる武器のクリティカル・スペシャライゼーション効果を適用できる。</p>"
+        }
+      },
+      "blurb": "男性、ゴブリン、グレイヴナイト",
+      "name": "リプナゲット/Ripnugget",
+      "publicNotes": "<p>Graveknights are undead warriors granted unlife by a cursed suit of armor.</p>"
+    },
+    "Tunch": {
+      "items": {
+        "jXA5HoAgw4h7Xg7Y": {
+          "name": "ドッグスライサー"
+        },
+        "KaLpUrID57pYarsV": {
+          "name": "アルケミスト・ファイア(モデレート)/Alchemist's Fire (Moderate)"
+        },
+        "vSegcSzM8la3mXdx": {
+          "name": "+1ステイタス vs. 毒/+1 Status vs. Poison"
+        },
+        "z985acw3zCTHxcoN": {
+          "name": "ゴブリン・スカトル",
+          "description": "|||<p><strong>トリガー</strong> ゴブリンの味方が、このゴブリンに隣接する位置で移動アクションを終了する。</p>\n<hr />\n<p><strong>効果</strong> このゴブリンは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]ステップを行う。</p>|||"
+        },
+        "6ua72XUFQZVIkpXd": {
+          "name": "カリキュレイテッド・スプラッシュ/Calculated Splash",
+          "description": "<p>タンチがスプラッシュ特性を持つ爆弾を投げるとき、自身の知力修正値に等しいスプラッシュ・ダメージを与える。</p>"
+        },
+        "JRw4yyJi23UZoHax": {
+          "name": "注意を逸らす口笛/Distracting Whistle",
+          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>タンチは口笛を吹き、その音を別の場所に発生させることで、敵の気をそらす。タンチが視認できる30フィート以内の対象1体は、@Check[will|dc:22]セーヴを試みなければならない。失敗すると、背後から聞こえる気が散る口笛の音によって、タンチの次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になる。その後、対象は一時的な免疫(気をそらす口笛に対して一時的免疫)に1時間の間なる。</p>"
+        },
+        "PhDx2NxQaVTrJgx5": {
+          "name": "クイック・ボマー",
+          "description": "<p>タンチは相互作用して爆弾を取り出し、それを使って一撃を行う。</p>"
+        }
+      },
+      "blurb": "男性、ゴブリン、アルケミスト",
+      "name": "タンチ/Tunch",
+      "allSaves": "毒に対する+1(状態)"
+    },
+    "Toxic Crystals": {
+      "reset": "<p>有毒な結晶は、範囲内に生存しているクリーチャーがいなくなると休止状態になるが、別の生きているクリーチャーが範囲内に入るとすぐに再び起動する。</p>",
+      "items": {
+        "aTL1rhGZBmPfUbXX": {
+          "name": "吐き気を催す波動/Nauseating Pulse",
+          "description": "<p><strong>トリガー</strong>生きているクリーチャーが緑色の結晶から20フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>結晶が吐き気を催すような光で明滅する。エリア<strong>E14</strong>内、またはこのエリアから出る2つの通路のいずれかの最初の10フィート以内にいる全てのクリーチャーは、@Check[fortitude|dc:25]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる(大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 3})。</p>"
+        }
+      },
+      "routine": "<p>(1アクション)(光、毒)各ラウンドの自身の行動時、有毒な結晶は鋭いハミング音を発し、緑色の光で明るく点滅する。エリア<strong>E14</strong>内、またはこのエリアから外に通じるいずれかの通路の最初の10フィート以内にいるすべてのクリーチャーは、@Check[fortitude|traits:light,poison|dc:25]セーヴを行わなければならない。</p>\n<hr>\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[2d8[poison]]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[4d8[poison]]ダメージを受け、1分の間@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[4d8[poison]]ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となり、1分の間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる。</p>",
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "トキシック・クリスタルズ/Toxic Crystals",
+      "description": "<p>生きたクリーチャーが存在すると、緑の結晶はより明るく光を放ち始める。さまざまな結晶からのこの照度の変動は、不気味なことに、部屋にいる者たちの呼吸のペースや心拍の鼓動と一致している。</p>",
+      "disable": "<p>結晶の正確な場所を叩いて粉々に砕き、そのエネルギーを無害に放出させることで、結晶の間に連鎖リアクションを引き起こすための@Check[thievery|dc:30](エキスパート)、または楽器や歌唱を用いて結晶を共鳴させ、その有毒なエネルギーを無害に放出させるための@Check[performance|dc:27](エキスパート)</p>"
+    },
+    "Zoog Swarm": {
+      "items": {
+        "Ato9TlsXs5ZZrvM9": {
+          "name": "プライマル・インネイト・スペルズ/Primal Innate Spells"
+        },
+        "AyJLn3Nhlv3NipOn": {
+          "name": "呪文視覚/Spell Sight",
+          "description": "<p>ズーグの目は、@Template[emanation|distance:15]の範囲に明るい光を放つ(そしてその次の15フィートに薄暗い光を放つ)。このエリア内にあるすべての魔法効果はかすかに光る。ズーグは自身のターンの間、フリー・アクションとしてこの光を消したり、再び灯したりできる。</p>"
+        },
+        "qtp69uvxQxclU9gE": {
+          "name": "噛み砕き切り裂く/Gnash and Slash",
+          "description": "<p>スウォームのスペースにいる各敵は@Damage[2d6[piercing],2d6[slashing]]{2d6の刺突ダメージ、2d6の斬撃ダメージ}と、@Damage[1d6[persistent,bleed]]のダメージを受ける(@Check[reflex|dc:26|basic]セーヴ)。セーヴに成功すると出血ダメージは無効になる。この斬撃ダメージは、あたかもゴーストの接触のプロパティ・ルーンによって強化されているかのように、非実体クリーチャーにダメージを与えることができる。</p>"
+        },
+        "wg7JDTgWdHrE6TrJ": {
+          "name": "圧倒的な掴み/Overwhelming Clutches",
+          "description": "<p>ズーグのスウォームは、自身のスペースにいる中型以下のクリーチャーに対して@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を試みる。スウォームがそのクリーチャーを掴みまたは拘束状態にした場合、ズーグのスウォームはその後2回〈ストライド〉し、移動しながら@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態のクリーチャーを引きずることができる。</p>"
+        }
+      },
+      "name": "ズーグ・スウォーム/Zoog Swarm",
+      "publicNotes": "<p>If a family of zoogs avoids infighting and locates a reliable enough food source, their numbers can swell into truly massive swarms.</p>\n<hr />\n<p>Furry, tentacle-snouted, and prone to chittering, zoogs dwell in the shadowy parts of the world where dreams have an uncanny knack for coming true. They typically gather in small families, and while zoogs normally eat fungi and plants, some have developed a taste for sentient beings.</p>\n<h2>Zoogs Vs. Cats</h2>\n<p>Zoogs and cats have a storied hatred, though neither side can remember the original cause. Zoogs have been known to prey on kittens, but their courage fails quickly when confronted by a full-grown cat. Cats, on the other hand, are always quick to pounce, chase, and attack zoogs on sight.</p>"
+    },
+    "Charn Scarnetti": {
+      "items": {
+        "iGam6RcKFAl2V9TI": {
+          "name": "シルバー・フラスク/Silver Flask"
+        },
+        "n6mv4Y0jGccZlwmK": {
+          "name": "シグネット・リング/Signet Ring"
+        },
+        "Eq3KajvZR0XWgw2w": {
+          "name": "レイピア"
+        },
+        "9OxsjzXYOnydXvcb": {
+          "name": "拳"
+        },
+        "Dnj3b3WSmAAK2lyS": {
+          "name": "ゴーストリー・ハチェット/Ghostly Hatchet"
+        },
+        "h0oO1nc9v9yl5OgB": {
+          "name": "読唇術/Lip Reader",
+          "description": "<p>長年にわたり、関わりのない事柄に首を突っ込んできた結果、この貴族は遠くから唇を読むことを学び、@UUID[Compendium.pf2e.feats-srd.Item.yUuU9xyotrpwpTyC]{リード・リップス}の特技の効果を得ている。</p>"
+        },
+        "UQoNtmlZuh2NnKd0": {
+          "name": "貴族の策略/Noble's Ruse",
+          "description": "<p><strong>使用制限</strong> 1ラウンドに1回</p>\n<hr />\n<p><strong>効果</strong>貴族は@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{フェイント}を行う。成功すると、貴族は対象にストライクを行う。</p>"
+        },
+        "EHw3qV7vYGDQdfPB": {
+          "name": "スニーク・アタック",
+          "description": "<p>貴族は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーに対して、1d6の追加の精密ダメージを与える。</p>"
+        },
+        "rBpjP1zIiLXuu1XU": {
+          "name": "ギャンブリング・ロア/Gambling Lore"
+        }
+      },
+      "blurb": "男性、人間、貴族",
+      "name": "チャーン・スカルネッティ/Charn Scarnetti",
+      "publicNotes": "<p>Envied by many and detested by still others, nobles exude confidence and gentility. Gossip and gambling are often nobles' favorite pastimes. Day-to-day life for a noble is often a mixture of business and leisure, and to an onlooker, such a lifestyle can appear to be nothing more than a string of meals, parties, and game halls. However, despite what some might believe, life as a noble is often quite dangerous and requires far more intellect than it would appear-along with a healthy dose of suspicion.</p>\n<hr />\n<p>Though adventurers travel through perilous dungeons and across treacherous wilderness, sometimes the most dangerous place they can end up is in a noble court.</p>"
+    },
+    "Gorlak": {
+      "items": {
+        "tMW1KoD5PBzeqT7X": {
+          "name": "オウガー・フック/Ogre Hook"
+        },
+        "OLPncUcxmvWRlCrU": {
+          "name": "フック埋め込み/Embed Hook",
+          "description": "<p><strong>必要条件</strong>ゴーラックの直前の活動は、自身のオーガ・フックによるクリーチャーへの成功した〈ストライク〉であった。</p>\n<hr />\n<p><strong>効果</strong>ゴーラックはフックをひねってクリーチャーに埋め込むため、対象の頑健のDCに対して@Check[athletics|defense:fortitude]判定を行う。成功すると、そのクリーチャーは@Damage[(1d10+9)[piercing]]のダメージを受け(@Check[fortitude|dc:25|basic]セーヴ)、ゴーラックが自身のオーガ・フックで別の〈ストライク〉を試みるか、そのクリーチャーに敵投げを試みるまで@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。</p>"
+        },
+        "OCQJPv0SiHaB7c4b": {
+          "name": "敵投げ/Fling Foe",
+          "description": "<p><strong>必要条件</strong> ゴーラックの直前の活動は、中型以下のクリーチャーに対して「フック埋め込み」を行うことであった。</p>\n<hr />\n<p><strong>効果</strong> ゴーラックは、フックに埋め込まれたクリーチャーの頑健のDCに対して@Check[athletics|defense:fortitude]判定を行うことで、そのクリーチャーを空気中に放り投げようと試みる。</p>\n<hr />\n<p><strong>クリティカル成功</strong> フックが引きちぎれる際に、クリーチャーは@Damage[(2d10+9)[piercing]]のダメージを受け(@Check[fortitude|dc:25|basic]セーヴ)、15フィート遠くへ投げ飛ばされ、ゴーラックが選んだスペースで@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になる。</p>\n<p><strong>成功</strong> フックが引きちぎれる際に、クリーチャーは@Damage[(1d10+9)[piercing]]のダメージを受け(@Check[fortitude|dc:25|basic]セーヴ)、5フィート遠くへ投げ飛ばされ、伏せ状態になる。</p>\n<p><strong>失敗</strong> フックが引きちぎれる際に、クリーチャーは@Damage[1d10[piercing]]のダメージを受け(@Check[fortitude|dc:25|basic]セーヴ)、ゴーラックに隣接するスペースに立ったまま残される。</p>\n<p><strong>クリティカル失敗</strong> フックが引きちぎれる際、クリーチャーはダメージを受けない。ゴーラックに隣接するスペースに立ったまま残され、ゴーラックは自身の失敗にひどく不満を感じるため、次のターンの最初の活動を、呪い、叫び、空中で拳を振るうことに費やさなければならない。</p>"
+        }
+      },
+      "blurb": "オーガの衛兵",
+      "name": "ゴーラック/Gorlak"
+    },
+    "Goblin Ghoul": {
+      "hpDetails": "虚無の回復",
+      "items": {
+        "XJHXZOImLOORwInT": {
+          "name": "顎"
+        },
+        "A97t9GcQF8k7V7By": {
+          "name": "爪"
+        },
+        "dSMYHVMIltxeN4ms": {
+          "name": "ヴォイド・ヒーリング"
+        },
+        "7RTjFlVzsxhjtwX4": {
+          "name": "コンシューム・フレッシュ",
+          "description": "<p><strong>必要条件</strong>グールが、過去1時間以内に死亡したクリーチャーの死体に隣接している。</p>\n<hr />\n<p><strong>効果</strong>グールは死体の一部をむさぼり食い、@Damage[1d6[healing]]のヒット・ポイントを回復する。</p>\n<p>特定の死体からヒット・ポイントを回復できるのは、1回限りである。</p>"
+        },
+        "oa6JQCeL4B2WQMPI": {
+          "name": "グール・フィーヴァー",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:15]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[2d6[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.LHHgGSs0ELCR4CYK]{グール}として立ち上がる。</p>"
+        },
+        "9TCF9GcaMoTKkPSj": {
+          "name": "パラリシス",
+          "description": "<p>グールの攻撃によって命中を受けた、エルフ以外のすべての生きたクリーチャーは、@Check[fortitude|dc:15|options:inflicts:paralyzed]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態になる。そのクリーチャーは自身の各ターンの終了時に新しいセーヴを試みることができ、そのようなセーヴを行うたびにDCは累積的に1ずつ減少する。</p>"
+        },
+        "rvraBop9oOSwcjkq": {
+          "name": "スウィフト・リープ",
+          "description": "<p>グールは自身の移動速度の半分まで跳躍する。この移動はリアクションを誘発しない。</p>"
+        }
+      },
+      "blurb": "変種グール",
+      "name": "ゴブリン・グール/Goblin Ghoul",
+      "publicNotes": "<p>Ghouls are ravenous undead who haunt graveyards and eat corpses.</p>\n<hr />\n<p>Few creatures are more ubiquitous to sinister locations such as lonely graveyards and ruined crypts than the flesh-eating undead known as ghouls.</p>"
+    },
+    "Jervis Stoot": {
+      "hpDetails": "虚無の回復、若返り",
+      "items": {
+        "8aUvp0YTTAu76APB": {
+          "name": "ゴーストリー・ハチェット/Ghostly Hatchet"
+        },
+        "CfzB5r8CSHETuXfA": {
+          "name": "トリンケット・バウンド/Trinket Bound",
+          "description": "|||<p>ジャーヴィス・ストゥートは通常、サンドポイントのすぐ北にあるチョッパーの島の上にある地下室から短い距離しか離れることができないが、クロックワークの歌鳥の頭部がそのエリアの外に持ち出されたとき、ストゥートは追跡することができる。彼が憑依したクリーチャーがその頭部を運んでいる限り、彼は望むままに移動できるが、サンドポイントの町から5マイルより遠くへ行くことはできない。</p>|||"
+        },
+        "5wn9E54A8t21UNkb": {
+          "name": "鳥類の脆弱性/Avian Vulnerability",
+          "description": "<p>ジャーヴィスのすべてのダメージに対する耐性は、鳥または鳥類クリーチャー(翼で飛行するクリーチャーを含むが、魔法のみによって飛行するクリーチャーは含まない)からのストライクによっても無視される。</p>"
+        },
+        "HvOzFzF3j47WTzIv": {
+          "name": "リジュヴェネーション",
+          "description": "<p>ジャーヴィスが破壊された場合、彼はチョッパーの島の下にある地下室で復活し、彼らがサンドポイントの5マイル以内に留まっている限り、@UUID[Compendium.pf2e.equipment-srd.Item.mnEj7ll9WffO8WLu]{クロックワーク・ソングバード}の頭部の運搬人を探し出す。彼の破滅の設計者であるレッド・ビショップが殺害された場合、ストゥートはあの世へと旅立つことができる。</p>\n<hr />\n<p>ゴーストが破壊されたとき、それは束縛されている場所の中で[[/br 2d4 #days]]{2d4日}後に完全に回復して再形成される。ゴーストを永久に破壊できるのは、誰かがその存在の理由を突き止め、その魂が安息を得るのを妨げている原因を解決した場合のみである。</p>"
+        },
+        "gdGHPerbX8DzQ8D5": {
+          "name": "ヴォイド・ヒーリング"
+        },
+        "ikgvETyW4jWL1kPC": {
+          "name": "亡霊の殺人/Ghostly Murder",
+          "description": "<p>ジャーヴィス・ストゥートは手を高く掲げ、彼の彼の手の上に渦巻くゴーストの親ガラスの群れを出現させる。その後、彼は手を下ろして方向を指し示し、ゴーストの親ガラスの群れが@Template[cone|distance:20]の中に群がって飛び出す。このエリアに巻き込まれたすべてのクリーチャーは、@Check[reflex|dc:30|options:area-effect,damaging-effect]セーヴを行わなければならない。ジャーヴィスはゴーストリー・マーダーを[[/gmr 1d4 #Recharge Ghostly Murder]]{1d4ラウンド}の間、再び使用することはできない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[6d6[slashing]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[10d6[slashing],2d6[bleed]|options:area-damage]{10d6の斬撃ダメージおよび2d6の出血}ダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[15d6[slashing],5d6[bleed]|options:area-damage]{15d6の斬撃ダメージ、5d6の出血}ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となる。この盲目は、レストア・センシズのような効果によって回復するまで持続する。</p>"
+        },
+        "p3wALK5n6w2qlNFL": {
+          "name": "マレヴォレント・ポゼッション/Malevolent Possession",
+          "description": "<p>このゴーストは、自身の身の回りのどこかに@UUID[Compendium.pf2e.equipment-srd.Item.mnEj7ll9WffO8WLu]{クロックワーク・ソングバードズ}の頭部を携帯している、隣接する実体を持つクリーチャーに憑依することを試みる。これは@UUID[Compendium.pf2e.spells-srd.Item.wU6hNzK8Yfqdmc8m]{ポゼッション}の呪文と同様の効果を持つが、ゴーストは肉体を持たないため、その呪文の制限による影響を受けない。</p>"
+        },
+        "Lgen1ZJ8QQ9zjGgc": {
+          "name": "血の涙/Tears of Blood",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ジャーヴィス・ストゥートは指でむしり取るような動作をする。彼が30フィート以内に感知できるクリーチャー1体は、自身の両眼をむしり取られる苦痛を味わい、その痛みから@Damage[12d6[mental]]ダメージを受ける(@Check[fortitude|dc:30|basic]セーヴ、さらに大失敗した場合は1分の間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となる)。</p>"
+        },
+        "RTuXiZNrznILlhxU": {
+          "name": "サンドポイント・ロア/Sandpoint Lore"
+        }
+      },
+      "skillSpecialCrafting": [
+        {
+          "base": 23,
+          "label": "木彫り",
+          "predicate": [
+            "action:craft:woodworking"
+          ]
+        }
+      ],
+      "blurb": "男性の人間、ゴースト",
+      "name": "ジャーヴィス・ストゥート/Jervis Stoot"
+    },
+    "The Three Steps": {
+      "reset": "<p>各罠は10分で自動的に再装填される。</p>",
+      "items": {
+        "iKBkndIrL6R367bc": {
+          "name": "憤怒の爆発/Wrathful Blast",
+          "description": "<p><strong>トリガー</strong>クリーチャーがこの部屋でターンを終了する。</p>\n<hr />\n<p><strong>効果</strong>東と西の壁にあるシヘドロンからエネルギーの光線が扇状に放射され、部屋の中のすべてのクリーチャーに9d6のエネルギーダメージ(@Check[reflex|dc:22|basic]セーヴ)を与える。エリア<strong>B4a</strong>の罠は@Damage[9d6[fire]]ダメージ、<strong>B4b</strong>の罠は@Damage[9d6[cold]]ダメージ、<strong>B4c</strong>の罠は@Damage[9d6[poison]]ダメージを与える。</p>"
+        }
+      },
+      "stealth": "<p>(訓練済み)</p>",
+      "name": "ザ・スリー・ステップス/The Three Steps",
+      "description": "<p>魔法のエネルギー光線がシヘドロンから発射され、部屋を扇状に一掃する。</p>",
+      "disable": "<p>@Check[thievery|dc:23](ドアノブのバスケットに適切なビーズが入っていると誤認させるため)、または罠に感知されるのを避けるための毎ラウンドの@Check[stealth|dc:18]</p>"
+    },
+    "Shadows of Everglut": {
+      "reset": "<p>このハザードは、すべてのクリーチャーが部屋を出てから1ラウンド後に落ち着きを取り戻し、次のラウンドの開始時に再び起動できるようになる。</p>",
+      "items": {
+        "gK66sagQ0GhtdfqV": {
+          "name": "筋力減退/Sap Strength",
+          "description": "<p><strong>トリガー</strong>クリーチャーが北の階段を越えて部屋の中に移動する。</p>\n<hr />\n<p><strong>効果</strong>下方の暗闇から影のような触手が立ち上り、トリガーとなったクリーチャーの体に触れる。そのクリーチャーは@Check[fortitude|dc:30]セーヴを行わなければならず、失敗すると体から筋力を奪われる。その後、このハザードはイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーの移動速度は1ラウンドの間、10フィート減少する。</p>\n<p><strong>失敗</strong>成功時と同様だが、クリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}となる。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、クリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}となる。このクリーチャーは自身のターンの終了時に新しいセーヴを行うことができ、そのようなセーヴを行うたびにDCは累積的に1減少する。</p>"
+        }
+      },
+      "routine": "<p>(1アクション)床でのたうち回る影が、煙と闇からなるインクのような触手の嵐を突き出し、部屋中で鞭打ち、のたうち回り、苦悶の叫びや悲鳴という不穏な音で空気を満たす。エリア<strong>J3a</strong>内のすべてのクリーチャーは@Damage[8d6[void]]ダメージを受ける(@Check[fortitude|dc:30|basic]セーヴ)。</p>",
+      "stealth": "<p>(達人)</p>",
+      "name": "シャドウズ・オブ・エヴァーグラット/Shadows of Everglut",
+      "description": "<p>意思を持つインクの溜まりのように振る舞う渦巻く影が、この部屋の奥へと足を踏み入れすぎた者の手足に飛び散り、這い上がる。</p>",
+      "disable": "<p>負のエネルギーエネルギーをそれ自体へと逆流させて危険の動力源を乱すための3回の@Check[arcana|dc:33]または@Check[occultism|dc:33]判定、カブリーリへの神聖な繋がりを断ち切る祈りを捧げるための@Check[religion|dc:36]判定、あるいは危険を10分不活性化するための@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第6階位、打ち消しDC29)</p>"
+    },
+    "Cruncher": {
+      "items": {
+        "9atqlz9j100vC4uo": {
+          "name": "顎"
+        },
+        "Dbrk210Q9t44P8vP": {
+          "name": "爪"
+        },
+        "CuMZTwnGZC3P7sm5": {
+          "name": "スパイクド・テイル/Spiked Tail"
+        },
+        "VzMnFSYbgzk4CXes": {
+          "name": "トラクレス/Trackless",
+          "description": "<p>ホダグは移動する際、尾で背後の地面を掃き、自身の足跡を覆い隠す。ホダグを@UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{〈追跡〉}するための判定のDCは10増加する。</p>"
+        },
+        "IRXDgrccWGdvA4YK": {
+          "name": "フェロシティ/Ferocity"
+        },
+        "Od1YX31hXRHCzHS3": {
+          "name": "リップ・アンド・テア/Rip and Tear",
+          "description": "<p>ホダグは任意の順序で2回の爪のストライクと1回の顎の〈ストライク〉を行う。</p>"
+        },
+        "mP5Cg1iQrikWq4cw": {
+          "name": "病弱/Sickly",
+          "description": "<p>クランチャーはゴブリンたちから虐待を受けていたため、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態になっている。さらに、彼の目は目やにで覆われて目脂がこびりついており、視覚に基づく《知覚》判定に–4の状況ペナルティを受け、さらに5フィートの射程を超えると@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態になる。もし彼が野生に逃げ出した場合、数日間の休息と十分な食事の後に回復する。あるいは、PCは@Check[medicine|dc:20]の判定を行うことで彼の回復を早めることができる。結果は以下に詳述する。これを行うには10分かかり、そのためクランチャーは無力状態であるか、手当てを受けることに同意していなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クランチャーの視界がクリアになり、弱体化状態を失う。</p>\n<p><strong>成功</strong>クランチャーの視界がクリアになり、8時間の休息の後に弱体化状態を失う。</p>\n<p><strong>失敗</strong>この試みは何の助けにもならない。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、クランチャーはさらに@Damage[2d6]ポイントのダメージも受け、それによってPC達への信頼を失い、攻撃してくる可能性がある。</p>"
+        },
+        "x3sRV0Fub8ixWfBV": {
+          "name": "放り投げ/Toss",
+          "description": "<p>ホダグは歩行し、その後リーチ内の対象に対して〈ストライク〉を1回行う。少なくとも20フィート移動し、かつその〈ストライク〉に成功した場合、ホダグは通常通りダメージを与えるし、その後、敵を空中に放り投げるために、そのクリーチャーの頑健のDCに対して@Check[athletics|defense:fortitude]の判定を試みる。</p>\n<p>成功すると、放り投げられたクリーチャーはホダグが選んだ方向の直線上に10フィート投げ飛ばされ、その後@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態で着地する。そのクリーチャーが固い物体にぶつかった場合、伏せ状態で着地する前に@Damage[1d6[bludgeoning]]のダメージも受ける。ホダグは代わりに、クリーチャーを真上に放り投げることもできる。そのクリーチャーは開始したのと同じマスに着地し、@Damage[1d6[bludgeoning]]のダメージを受け、伏せ状態で着地する。</p>"
+        },
+        "CwNuoWOgc2U8qCLd": {
+          "name": "ノックダウン"
+        }
+      },
+      "skillSpecialStealth": [
+        {
+          "base": 16,
+          "label": "森の中",
+          "predicate": [
+            "terrain:forest"
+          ]
+        }
+      ],
+      "blurb": "病弱なホーダッグ",
+      "name": "クランチャー/Cruncher",
+      "publicNotes": "<p>Because they are often described only in drunken retellings of loggers' or miners' tales, hodags are considered by many to exist only in the local folklore of remote areas. However, some individuals have actually encountered these dangerous beasts firsthand, and even fewer have lived to tell their tales.</p>\n<p>Hodags are reptilian creatures the size of bulls. These vicious predators' long claws can tear creatures apart in seconds. Their backs sport dozens of long spines that run from their snouts all the way down the length of their powerful tails. Their wide mouths are full of sharp and twisted rows of teeth not unlike those of a shark. The hodags' rough, scaly hides carry hues of green and brown, allowing them to blend into their forest surroundings where they ambush prey. Only their glowing red eyes reveal their presence, though hodags have learned to use this to their advantage by drawing attention to their eyes in one area, then closing their eyes and stealthily moving to another area to cause their prey to misconstrue their location.</p>\n<p>In the wintertime, when snow and ice blankets a region, hodags grow a foul-smelling coat of greasy, dark-brown fur that sprouts in tufts from between their scales. A typical hodag measures over 10 feet long from snout to tail and weighs upward of 700 pounds.</p>"
+    },
+    "Giant Longlegs": {
+      "items": {
+        "JmuRA829JB0gzcYz": {
+          "name": "顎"
+        },
+        "C5gIFtKzBDGuKOyi": {
+          "name": "集団/Cluster",
+          "description": "<p>ジャイアント・ロングレッグズは、別のジャイアント・ロングレッグズと同じスペースを共有できるが、同じスペースを占有できるジャイアント・ロングレッグズは3体までである。</p>"
+        },
+        "ypWp6uGnqnV1xtpi": {
+          "name": "ボブ",
+          "description": "<p>ジャイアント・ロングレッグズは上下に揺れ始め、脚をまるでバネのように使って体を不気味に弾ませたり揺らしたりする。ジャイアント・ロングレッグズの次のターンの開始時まで、これは自身のアーマー・クラスに+2のステータス・ボーナスを得る。</p>"
+        },
+        "o0zcolRXYCvgYOGA": {
+          "name": "有害な噴霧",
+          "description": "<p>ジャイアント・ロングレッグズは、隣接する単一の対象に有害な化学物質を吹き付ける。対象は@Check[fortitude|dc:20]のセーヴィング・スローを行わなければならない。ジャイアント・ロングレッグズは1分、有害な霧吹きを使用できない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けず、1分、有害な霧吹きに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となり、病気状態である限り@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となる。</p>"
+        }
+      },
+      "name": "ジャイアント・ロングレッグス/Giant Longlegs",
+      "publicNotes": "<p>The most widespread of the longlegs is the giant longlegs, a creature with a body the size of a dog whose long, spindly legs give it a much more intimidating appearance.</p>\n<hr />\n<p>While smaller specimens of these unsettling-looking arachnids (known regionally by names like harvesters, tickle spiders, or daddy longlegs) are harmless, their larger cousins, known simply as longlegs, are anything but.</p>\n<h2>Longlegs Species</h2>\n<p>Beyond the two common types presented here, many other variants of longlegs can be found throughout Golarion, with the exception of its arctic regions, where longlegs don't thrive. They often live on the periphery of cities, lurking in sewers or ruins where the hunting is good. Swarms of sewer longlegs are particularly dangerous and infest the undercities of many Taldan settlements, while to the west in Cheliax, the much-larger executor longlegs prefer to live among the rooflines of slums where Thrune's rule has been particularly horrific. Among the largest of all longlegs, though, is the dreaded (and thankfully rare) treeleg harvester of the Mwangi Expanse.</p>"
+    },
+    "Zoog": {
+      "items": {
+        "Ato9TlsXs5ZZrvM9": {
+          "name": "プライマル・インネイト・スペルズ/Primal Innate Spells"
+        },
+        "MqMQXPinikiAvTn0": {
+          "name": "顎"
+        },
+        "95w2cPRAbJySeRFv": {
+          "name": "爪"
+        },
+        "AyJLn3Nhlv3NipOn": {
+          "name": "呪文視覚",
+          "description": "<p>ズーグの目は、@Template[cone|distance:15]に明るい光を放ち(そしてその先の15フィートに薄暗い光を放つ)。このエリア内にある魔法の効果はかすかに光る。ズーグは自身のターンにフリー・アクションとして、この光を消したり再び灯したりできる。</p>"
+        }
+      },
+      "name": "ズーグ/Zoog",
+      "publicNotes": "<p>Furry, tentacle-snouted, and prone to chittering, zoogs dwell in the shadowy parts of the world where dreams have an uncanny knack for coming true. They typically gather in small families, and while zoogs normally eat fungi and plants, some have developed a taste for sentient beings.</p>\n<h2>Zoogs Vs. Cats</h2>\n<p>Zoogs and cats have a storied hatred, though neither side can remember the original cause. Zoogs have been known to prey on kittens, but their courage fails quickly when confronted by a full-grown cat. Cats, on the other hand, are always quick to pounce, chase, and attack zoogs on sight.</p>"
+    },
+    "Asmerelli": {
+      "items": {
+        "VUIR8AuxoT6oOLsx": {
+          "name": "ディバイン・スポンティニアス・スペルズ/Divine Spontaneous Spells"
+        },
+        "tpZ7O3XHhRQMb0oB": {
+          "name": "ソーサラー・ブラッドライン・スペルズ/Sorcerer Bloodline Spells"
+        },
+        "sL2obEwV3OQCPtoX": {
+          "name": "マチェーテ"
+        },
+        "MlAd5sDc7bjqhQKc": {
+          "name": "ショートボウ"
+        },
+        "uxi7mZBlBZgzITyC": {
+          "name": "デヴィルズ・カースト・ブレス",
+          "description": "<p><strong>使用制限</strong> 㚛1日1回</p>\n⟦\n<hr />\n<p><strong>効果</strong>アスメレリは自分の舌を噛み切り(@Damage[1[slashing]]のダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[reflex|dc:24|options:area-effect,damaging-effect]のセーヴィング・スローを行わなければならない。</p>\n⟦\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d8[fire]|options:area-damage]のダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[6d8[fire]|options:area-damage]のダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d8[fire]|options:area-damage]のダメージを受け、火傷の激しい痛みによって病気1状態となり、さらに呪われる。犠牲者の火傷が完全に消えることはなく、呪われたクリーチャーは絶え間ない痛みによってすべての攻撃に–2の状況ペナルティを受ける。治癒によって火傷の見た目が変わったりペナルティが軽減されたりすることはないが、呪いを取り除くことで回復する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果:悪魔の呪いの息}</p>"
+        },
+        "zrZA50r5Dh8VELO4": {
+          "name": "リーチ・スペル/Reach Spell",
+          "description": "<p>アスメレリが次に行うアクションが、射程を持つ〈呪文の発動〉である場合、その呪文の射程を30フィート増加させる。</p>"
+        },
+        "fvcPV8pRjXHnp40l": {
+          "name": "サンドポイント・デヴィル・ロア/Sandpoint Devil Lore"
+        }
+      },
+      "blurb": "女性のハーフリングのソーサラー",
+      "name": "アスメレリ/Asmerelli"
+    },
+    "Greedspawn": {
+      "items": {
+        "lOGhyEufGuD2T8aX": {
+          "name": "顎"
+        },
+        "El6yEwdcVoYxSpbv": {
+          "name": "爪"
+        },
+        "hk7qH9BpvzM7rFGe": {
+          "name": "シン・セント（不明瞭、30フィート）/Sin Scent (Imprecise) 30 feet",
+          "description": "<p>シンスポーンは、嗅覚能力と同様に、自身の罪を反映するクリーチャーの臭いを嗅ぎ取ることができる。どのクリーチャーが適切に罪深いかはGMが決定する。</p>"
+        },
+        "BsoxzxmGvzcKefKT": {
+          "name": "+1ステイタス・トゥ・オール・セーヴズ・バーサス・マジック/+1 Status to All Saves vs. Magic"
+        },
+        "vr6e0VYbUOGnEU3M": {
+          "name": "+4ステイタス to All Saves vs. Mental/+4 Status to All Saves vs. Mental"
+        },
+        "WH7tGqprqYb1tk4C": {
+          "name": "アタック・オブ・オポチュニティ"
+        },
+        "MpNlJrdPvv9bECNE": {
+          "name": "シンフル・バイト/Sinful Bite",
+          "description": "<p>シンスポーンの顎による攻撃が命中したクリーチャーは、罪深い思考に襲われるため、@Check[will|dc:18]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>影響を受けない</p>\n<p><strong>成功</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}</p>\n<p><strong>失敗</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}</p>\n<p><strong>クリティカル失敗</strong> sickened 2、かつ1分の間@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}</p>"
+        }
+      },
+      "name": "グリードスポーン/Greedspawn",
+      "publicNotes": "<p>Sinspawn were created by one of seven ancient wizards known collectively as runelords-each of whom embraced and embodied one of seven sins. The first sinspawn was created by the Runelord of Wrath, utilizing techniques that have since gone on to influence fleshwarping practices. It wasn't long before the technique used to create sinspawn fell into the hands of the other runelords, and while each tried their own hand at crafting variants of their own design, today sinspawn of wrath remain the most numerous and notorious of their kind. Bearing only a vague resemblance to the humanoids from whose flesh they were formed, sinspawn generally appear horrifically emaciated and have unnaturally long arms and digitigrade legs, each with a trio of stubby, taloned digits. Veins bulge across sinspawn's bodies in sanguine patterns that suspiciously resemble twisted runes, and their flesh is pale and hairless. Their heads are elongated, bearing only slits for a nose, red eyes, and disturbing lower jaws that split in half at the chin, revealing pedipalps that end in tiny, three-fingered hands and framing a long, lolling tongue. Sinspawn stand 6-1/2 feet tall and typically weigh as much as an emaciated human of their size. They behave in a manner consistent with their associated sin and have physical characteristics that hint at these qualities. For example, greedspawn's veins appear to run with gold while envyspawn appear even more wasted than the rest of their kin.</p>\n<hr />\n<p>Greedspawn are the tallest of sinspawn, often 7 feet in height, and with gold-tinged veins.</p>",
+      "allSaves": "魔法に対するすべてのセーヴに＋1の状況ボーナス、精神に対するすべてのセーヴに＋4の状況ボーナス"
+    },
+    "Devil's Disciple": {
+      "items": {
+        "YERSbU2Jbl8N1AEr": {
+          "name": "マチェーテ"
+        },
+        "ZKPWBWKyUiKnPxTj": {
+          "name": "ダガー"
+        },
+        "dyNhPooeY6ACzEdg": {
+          "name": "デヴィルズ・ブレス",
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>デヴィルズ・ディサイプルは手に持っている斬撃武器で自身の舌を切り(@Damage[1[slashing]]ダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。範囲内の各クリーチャーは@Check[reflex|dc:18|options:area-effect,damaging-effect]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[1d8[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[2d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[4d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによってsickened 1状態となり、さらに1分の間、煙によって@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態となる。</p>"
+        },
+        "wLSyDiWVFxcv4ShC": {
+          "name": "サンドポイント・デヴィル・ロア/Sandpoint Devil Lore"
+        }
+      },
+      "blurb": "人間とハーフエルフの信者たち",
+      "name": "デヴィルズ・ディサイプル/Devil's Disciple"
+    },
+    "Clockwork Serpent": {
+      "items": {
+        "i6s8MKsoJG84mY47": {
+          "name": "顎"
+        },
+        "SDhkyVMBVMBEctke": {
+          "name": "巻きつき/Coils",
+          "description": "<p><strong>必要条件</strong>クロックワーク・サーペントがコンストリクター・モード(締め付け形態)であること</p>"
+        },
+        "djIV45njqtZPf85k": {
+          "name": "ワインドアップ/Wind-Up",
+          "description": "<p>24時間、[[/act disable-device dc=26]]{DC 26 《盗賊術》}、待機</p>\n<hr />\n<p>クロックワークが活動するには、別のクリーチャーが専用のキーでネジを巻かなければならない。これには1分かかる。ネジを巻かれると、クロックワークは記載された時間(通常は24時間)の間、稼働状態を維持する。その時間が経過すると、周囲の状況を感知できなくなり、再びネジを巻かれるまで行動できなくなる。一部のクロックワークの能力は、残りの稼働時間を消費する必要がある。残りの稼働時間より多く消費することはできず、残り時間が0になると即座に停止する。クロックワークが最後にいつネジを巻かれたか不明な場合、ほとんどのクロックワークの管理者は、決まった時間(通常は午前8時)にすべてのクロックワークのネジを巻く。</p>\n<p>ネジ巻きの項目に待機と記載されているクロックワークは、3アクションアクティビティとして待機モードに入ることができる。待機モード中、稼働時間は減少しないが、周囲の状況を感知できる(《知覚》に-2ペナルティを受ける)。待機モード中は行動できないが、1つだけ例外がある。クリーチャーを感知したとき、リアクションとして待機モードを終了できる(必要に応じてイニシアチブをロールする)。</p>\n<p>クリーチャーは、クロックワークのネジを巻き戻すために〈装置無力化〉を試みることができる(難易度はネジ巻きの項目に記載されているDC)。成功するたびに、クロックワークは稼働時間を1時間失う。これはクロックワークが待機モードであっても行うことができる。</p>"
+        },
+        "co4QqqzbDABHUIAu": {
+          "name": "起動サーペント・モード/Activate Serpent Mode",
+          "description": "<p><strong>トリガー</strong>クロックワーク・サーペントが自身のターンを開始する</p>\n<hr />\n<p><strong>効果</strong>クロックワーク・サーペントは別のモードに変形する。1d3をロールし、以下の選択肢を参照すること。現在起動できないモードの出目が出た場合、クロックワーク・サーペントは自身の次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}状態となる。自身のターンの終了時に、サーペント・モードは自動的に解除される。</p>\n<p><strong>1コブラ・モード</strong>クロックワーク・サーペントは威嚇のフードを使用できる。</p>\n<p><strong>2コンストリクター・モード</strong>クロックワーク・サーペントはとぐろによる〈ストライク〉を使用でき、締め付けを行うことができる。</p>\n<p><strong>3ガラガラヘビ・モード</strong>クロックワーク・サーペントは粉砕のガラガラ音を使用できる。</p>"
+        },
+        "dh0Wmrxx4eTODFrz": {
+          "name": "クリティカル停止/Critical Deactivation",
+          "description": "<p>クロックワーク・サーペントが精密ダメージを受けるか、またはクリティカルヒットを受け、かつサーペント・モードが起動している場合、@Check[flat|dc:16]を行わなければならない。失敗すると、通常通りクリティカルヒットによるダメージを受け、さらに@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}状態となり、サーペント・モードが解除される。</p>"
+        },
+        "vifFDe9xdMiljKzm": {
+          "name": "クロックワーク・サーペントの毒/Clockwork Serpent Venom",
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:26]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}、およびoff-guard(1ラウンド)</p>"
+        },
+        "UBS0sNTttXtjVkf8": {
+          "name": "絞め付け/Constrict",
+          "description": "<p>@Damage[(2d10+6)[bludgeoning]], @Check[fortitude|dc:26|basic]</p>\n<p><strong>必要条件</strong>クロックワーク・サーペントがコンストリクター・モード(締め付け形態)であること</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+        },
+        "J7cCWQ1eDSYDRFmV": {
+          "name": "威圧のフード/Intimidating Hood",
+          "description": "<p><strong>必要条件</strong> クロックワーク・サーペントがコブラ・モード(コブラ形態)であること</p>\n<hr />\n<p><strong>効果</strong> クロックワーク・サーペントはコブラのフードを広げる。@Template[emanation|distance:15]内のすべてのクリーチャーは@Check[will|dc:26]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態（大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態）となる。</p>"
+        },
+        "TnRX0VH540FcF5oy": {
+          "name": "粉砕のガラガラ/Shattering Rattle",
+          "description": "<p><strong>必要条件</strong>クロックワーク・サーペントがガラガラヘビ・モードであること。</p>\n<hr />\n<p><strong>効果</strong>クロックワーク・サーペントは尾をガラガラと鳴らし、その後、鞭のようにしならせて、@Template[cone|distance:30]に壊滅的な音波エネルギーの爆発を引き起こす。エリア内のクリーチャーは@Damage[9d6[sonic]|options:area-damage]ダメージを受ける(@Check[fortitude|dc:26|basic|options:area-effect]セーヴ)。</p>"
+        },
+        "rJMIG4bhvad8PL3N": {
+          "name": "掴み"
+        }
+      },
+      "name": "クロックワーク・サーペント/Clockwork Serpent",
+      "publicNotes": "<p>Clockwork serpents are often found serving as guardians in serpentfolk laboratories or temples.</p>\n<h2>Experimental Serpents</h2>\n<p>Even stranger clockwork serpents are rumored to exist in the heart of serpentfolk enclaves. These constructs supposedly can repair damage to themselves when they change serpent modes, activate additional forms that allow swimming or flight, or even break apart into a seething swarm of smaller clockwork serpents.</p>"
+    },
+    "Angry Townsfolk": {
+      "hpDetails": "トループの防御能力",
+      "items": {
+        "Lx5Q366mof1O0MPp": {
+          "name": "フォーム・アップ/Form Up"
+        },
+        "4vjdVbvQ2cPvkxA1": {
+          "name": "〈見回す〉採石場/Seek Quarry",
+          "description": "<p>怒れる町の人々は、身体的特徴を把握している単一のクリーチャーを獲物として指定するために1分を費やすことができる。彼らは自身の獲物に対する《知覚》に+2の状況ボーナスを得る。</p>"
+        },
+        "9X9mEo92lODvZP6d": {
+          "name": "トループ・ディフェンス/Troop Defenses",
+          "description": "<p><strong>閾値</strong> 50(3セグメント)、25(2セグメント)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>"
+        },
+        "BCsGqHil1Dziu3FX": {
+          "name": "ピットチフォークと松明/Pitchforks and Torches",
+          "description": "<p><span class=\"action-glyph\">1</span>〜<span class=\"action-glyph\">3</span></p>\n<p><strong>使用制限</strong> 1ラウンドにつき1回。</p><hr /><p><strong>効果</strong>怒れる町の人々は、@Template[emanation|distance:10]{10フィート}以内にいる各敵に対して連携した近接攻撃を行い、これには@Check[reflex|dc:19|basic|options:area-effect]セーヴを伴う。ダメージはアクションの数によって異なる。</p>\n<p><span class=\"action-glyph\">1</span> @Damage[1d10[untyped]|options:area-damage]ダメージ</p>\n<p><span class=\"action-glyph\">2</span> @Damage[(1d10+7)[untyped]|options:area-damage]ダメージ</p>\n<p><span class=\"action-glyph\">3</span> @Damage[(1d10+10)[untyped]|options:area-damage]ダメージ</p>"
+        },
+        "aKXQLekTbiAqj1Id": {
+          "name": "トループ・ムーヴメント/Troop Movement",
+          "description": "<p>都市の衛兵隊が〈ストライド〉するときはいつでも、彼らはまずフリー・アクションとして@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.OvqohW9YuahnFaiX]{フォーム・アップ}を行って20フィート×20フィートのエリア(欠けているマスを除く)に凝縮し、その後自身の移動速度まで移動する。</p>\n<p>これは巨大クリーチャーの移動とまったく同じように機能する。例えば、衛兵隊のいずれかのマスが困難地形に入った場合、追加の移動コストはすべての衛兵に適用される。</p>"
+        },
+        "pePRN91wJ0Dpe7pM": {
+          "name": "都市の追跡者/Urban Chasers",
+          "description": "<p>怒れる町の人々は、群衆、あるいは路地裏などの狭いスペースを通る移動によって生じる困難地形(超困難地形は除く)を無視する。</p>"
+        },
+        "LK5MP99wRhzbl0Py": {
+          "name": "セットルメント・ロア/Settlement Lore"
+        }
+      },
+      "blurb": "変種都市衛兵分隊",
+      "name": "アングリー・町の住民/Angry Townsfolk"
+    }
+  },
+  "mapping": {
+    "publicNotes": "system.details.publicNotes",
+    "blurb": "system.details.blurb",
+    "description": "system.details.description",
+    "hpDetails": "system.attributes.hp.details",
+    "allSaves": "system.attributes.allSaves.value",
+    "stealth": "system.attributes.stealth.details",
+    "disable": "system.details.disable",
+    "reset": "system.details.reset",
+    "routine": "system.details.routine",
+    "skillSpecialAthletics": "system.skills.athletics.special",
+    "skillSpecialCrafting": "system.skills.crafting.special",
+    "skillSpecialDeception": "system.skills.deception.special",
+    "skillSpecialStealth": "system.skills.stealth.special",
+    "items": {
+      "path": "items",
+      "converter": "fromPack"
+    }
+  },
+  "folders": {}
+}

@@ -11,6 +11,40 @@ Hooks.once("babele.init", () => {
     dir: "babele/compendium/ja"
   });
 
+  // Actorの埋め込みアイテム（items）翻訳キーは "type->Name" 形式
+  // （同名衝突時は "type->Name->_id"）。翻訳ツール側の抽出ロジック
+  // （extract_babele_from_packs_v4_2_14_monster.py の build_embedded_item_key()）
+  // がこの形式でキーを組み立てている。Babele標準の識別ストラテジー
+  // （_id/name/sourceId、translation-entries.jsの#defaultStrategies()）は
+  // この複合キーを一切マッチできず、埋め込みアイテムの翻訳が構造的に
+  // 常にスキップされていた（2026-07-31発覚）。Python側と同じキー組み立てを
+  // ここで再現し、カスタム識別ストラテジーとして登録する。
+  // 参照: script/translation/translation-entries.js の TranslationStrategy、
+  //       script/babele.js の registerTranslationMatchStrategies()。
+  // カスタムストラテジーはBabele標準より先に評価されるが、他パック
+  // （entries が素のname/_idでキーされているもの）ではここで組み立てた
+  // "type->Name"文字列がそのentries内に存在しない限りマッチしないため、
+  // 既存の翻訳には影響しない。
+  game.babele.registerTranslationMatchStrategies([
+    {
+      name: "pf2eJaTypeName",
+      keyFor: (data) => {
+        if (typeof data?.name !== "string" || !data.name) return null;
+        const type = typeof data?.type === "string" && data.type ? data.type : "item";
+        return `${type}->${data.name}`;
+      },
+    },
+    {
+      name: "pf2eJaTypeNameId",
+      keyFor: (data) => {
+        if (typeof data?.name !== "string" || !data.name) return null;
+        if (typeof data?._id !== "string" || !data._id) return null;
+        const type = typeof data?.type === "string" && data.type ? data.type : "item";
+        return `${type}->${data.name}->${data._id}`;
+      },
+    },
+  ]);
+
   // pf2e.system.jsonのマッピングが参照する動的コンバータ。
   // 未登録のままだと Babele が "missing converter" 警告を出し、
   // 対象フィールドを英語のまま出力してスキップする（rules/prerequisites/
