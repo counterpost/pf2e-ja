@@ -92,7 +92,7 @@
         },
         "f33ibm0weYFRsbLf": {
           "name": "噴霧ウェブ/Spray Webbing",
-          "description": "<p><strong>トリガー</strong>クリーチャーがスティッキー・グリーターに隣接する圧力板を踏む。</p>\n<hr />\n<p><strong>効果</strong>スティッキー・グリーターは腹部を前方に急激に突き出して開き、トリガーとなったクリーチャーに厚い錬金術の蜘蛛の巣のシートを吹き付けながら、前方に傾く。同時に、スティッキー・グリーターは甲高い口笛のような音を出す。そのクリーチャーは@Check[reflex|dc:26]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}(不動)状態になってその場に留め置かれ、大失敗すると@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}(拘束)状態になる。この効果は、そのクリーチャーが[[/act escape dc=22]]{脱出}するか、自身を縛っている蜘蛛の巣が破壊されるまで持続する。</p>"
+          "description": "<p><strong>トリガー</strong>クリーチャーがスティッキー・グリーターに隣接する圧力板を踏む。</p>\n<hr />\n<p><strong>効果</strong>スティッキー・グリーターは腹部を前方に急激に突き出して開き、トリガーとなったクリーチャーに厚い錬金術の蜘蛛の巣のシートを吹き付けながら、前方に傾く。同時に、スティッキー・グリーターは甲高い口笛のような音を出す。そのクリーチャーは@Check[reflex|dc:26]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態になってその場に留め置かれ、大失敗すると@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態になる。この効果は、そのクリーチャーが[[/act escape dc=22]]{脱出}するか、自身を縛っている蜘蛛の巣が破壊されるまで持続する。</p>"
         }
       },
       "name": "スティッキー・グリーター/Sticky Greeter",
@@ -113,19 +113,19 @@
         },
         "SAZgCyar8SLZFJ6B": {
           "name": "ディスオリエンティング・ショット/Disorienting Shot",
-          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n⟦<hr />\n<p><strong>効果</strong> ガールンクは狩りの獲物に対してショートボウで2回の〈ストライク〉を行う。両方が同じクリーチャーにヒットした場合、そのクリーチャーは@Check[will|dc:21]セーヴに成功しなければ、自身の次のターンの開始時まで(大失敗の場合はガールンクの次のターンの開始時まで)@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(体勢崩し)状態となる。</p>"
+          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong> ガールンクは狩りの獲物に対してショートボウで2回の〈ストライク〉を行う。両方が同じクリーチャーにヒットした場合、そのクリーチャーは@Check[will|dc:21]セーヴに成功しなければ、自身の次のターンの開始時まで(大失敗の場合はガールンクの次のターンの開始時まで)@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         },
         "jcZnVOWY1j6tfCoM": {
           "name": "ハント・プレイ/Hunt Prey",
-          "description": "<p>ガールンクは自身が見るか聞くことができる単一のクリーチャーを指定し、その獲物を@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}および@UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{〈追跡〉}するための《知覚》判定に+2の状況ボーナス(状況ボーナス)を得る。彼が同時に指定できるクリーチャーは1体のみであり、新しい狩りの獲物を選んだ場合、前の指定は終了する。</p>"
+          "description": "<p>ガールンクは自身が見るか聞くことができる単一のクリーチャーを指定し、その獲物を@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}および@UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{〈追跡〉}するための《知覚》判定に+2の状況ボーナスを得る。彼が同時に指定できるクリーチャーは1体のみであり、新しい狩りの獲物を選んだ場合、前の指定は終了する。</p>"
         },
         "YEsJHX7iw3DjQjHH": {
           "name": "ハンターズ・エッジ/Hunter's Edge",
-          "description": "<p>ガールンクは、1ラウンド(ラウンド)中に初めて狩りの獲物にヒットを与えたとき、追加で1d8の精密ダメージ(急所ダメージ)を与える。</p>"
+          "description": "<p>ガールンクは、1ラウンド中に初めて狩りの獲物にヒットを与えたとき、追加で1d8の精密ダメージを与える。</p>"
         },
         "LNrD5BuON3DvjDr3": {
           "name": "口笛の脅威/Whistling Threat",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ガールンクは、30フィート(フィート)以内に見えている中型(中型)以上の動物またはビーストに向かって鋭く口笛を吹き、その声を使ってクリーチャーの知性を鈍らせ、防御を下げさせる。対象は@Check[will|dc:21]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている(恐れ)1}状態となる。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている(恐れ)2}状態となる。</p>\n<p><strong>クリティカル失敗</strong>対象は恐怖で震え、1ラウンド(1ラウンド)の間、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている(恐れ)3}状態および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ(減速)1}状態となる。</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ガールンクは、30フィート以内に見えている中型以上の動物またはビーストに向かって鋭く口笛を吹き、その声を使ってクリーチャーの知性を鈍らせ、防御を下げさせる。対象は@Check[will|dc:21]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態となる。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態となる。</p>\n<p><strong>クリティカル失敗</strong>対象は恐怖で震え、1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3}状態および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態となる。</p>"
         }
       },
       "blurb": "男性のゴブリンのレンジャー",
@@ -156,11 +156,11 @@
         },
         "aZNmBtBro1xYaubO": {
           "name": "ドライダー・ヴェノム/Drider Venom",
-          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:28]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱(虚弱)1}状態</p>"
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:28]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態</p>"
         },
         "mhBBm02GHgEZ30NR": {
           "name": "ウェブ・トラップ/Web Trap",
-          "description": "<p>ドライダーの蜘蛛の巣攻撃にヒットしたクリーチャーは、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}(不動)状態になり、最も近い表面([[/act escape dc=28]])に貼り付く。</p>"
+          "description": "<p>ドライダーの蜘蛛の巣攻撃にヒットしたクリーチャーは、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態になり、最も近い表面([[/act escape dc=28]])に貼り付く。</p>"
         }
       },
       "blurb": "女性の変種ドライダー",
@@ -197,19 +197,19 @@
         },
         "D4C1yHkCqpQckxgr": {
           "name": "テイル・ラッシュ/Tail Lash",
-          "description": "<p><strong>トリガー</strong>ドラゴン(ドラゴン)の尾の攻撃範囲内にいるクリーチャーが、〈ストライク〉を行うか、スキル判定を行おうとしてアクションを費やす。</p>\n<hr />\n<p><strong>効果</strong>ドラゴンは-2のペナルティを伴って、トリガーとなったクリーチャーに対して尾で〈ストライク〉を行う。ヒットした場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: 尾の一払い}</p>"
+          "description": "<p><strong>トリガー</strong>ドラゴンの尾の攻撃範囲内にいるクリーチャーが、〈ストライク〉を行うか、スキル判定を行おうとしてアクションを費やす。</p>\n<hr />\n<p><strong>効果</strong>ドラゴンは-2のペナルティを伴って、トリガーとなったクリーチャーに対して尾で〈ストライク〉を行う。ヒットした場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: 尾の一払い}</p>"
         },
         "GeAJNEdtRdXSvZvk": {
           "name": "ブレス・ウェポン/Breath Weapon",
-          "description": "<p>スカーホーンは酸(酸)のブレスを吹き、@Template[line|distance:80]内の全員に@Damage[15d6[acid]|options:area-damage]ダメージを与える(@Check[reflex|dc:34|basic|options:area-effect]セーヴ)。彼女はブレス・武器(兵器)を[[/gmr 1d4 #Recharge Breath Weapon]]{1d4ラウンド}の間、再び使用することはできない。</p>"
+          "description": "<p>スカーホーンは酸のブレスを吹き、@Template[line|distance:80]内の全員に@Damage[15d6[acid]|options:area-damage]ダメージを与える(@Check[reflex|dc:34|basic|options:area-effect]セーヴ)。彼女はブレス・ウェポンを[[/gmr 1d4 #Recharge Breath Weapon]]{1d4ラウンド}の間、再び使用することはできない。</p>"
         },
         "SRv8Gjga6DHY4U8G": {
           "name": "コラプト・ウォーター/Corrupt Water",
-          "description": "<p><strong>使用制限</strong> 1日に1回</p>\n<hr />\n<p><strong>効果</strong>ドラゴン(ドラゴン)は、90フィート(フィート)以内にある10立方フィートの液体を永久に汚染する。その液体は飲めなくなり、水中で呼吸する生物が生存できなくなる。</p>\n<p>これにより、液体の魔法アイテムや錬金術アイテムのレベルがドラゴンのレベルより低い場合、それらは破壊される(クリーチャーは、自身が所持している液体を守るために@Check[will|dc:31]セーヴを行うことができる)。これはクリーチャーの体内にある液体には影響しない。</p>"
+          "description": "<p><strong>使用制限</strong> 1日に1回</p>\n<hr />\n<p><strong>効果</strong>ドラゴンは、90フィート以内にある10立方フィートの液体を永久に汚染する。その液体は飲めなくなり、水中で呼吸する生物が生存できなくなる。</p>\n<p>これにより、液体の魔法アイテムや錬金術アイテムのレベルがドラゴンのレベルより低い場合、それらは破壊される(クリーチャーは、自身が所持している液体を守るために@Check[will|dc:31]セーヴを行うことができる)。これはクリーチャーの体内にある液体には影響しない。</p>"
         },
         "hxUuVqQu31iQwmv1": {
           "name": "ドラコニック・フレンジー/Draconic Frenzy",
-          "description": "<p>ドラゴン(ドラゴン)は、任意の順序で2回の爪のストライクと1回の角による〈ストライク〉を行う。</p>"
+          "description": "<p>ドラゴンは、任意の順序で2回の爪のストライクと1回の角による〈ストライク〉を行う。</p>"
         },
         "0oICLdGDJMUmfVhn": {
           "name": "ドラコニック・モメンタム/Draconic Momentum",
@@ -276,7 +276,7 @@
         },
         "IdfK6A7UpGkscuOG": {
           "name": "ガスト・フィーヴァー/Ghast Fever",
-          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:22]</p>\n<hr />\n<p><strong> structure_preservation第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージ、およびすべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同じ(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージ、および回復から恩恵を得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同じ(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{ガスト}として立ち上がる</p>"
+          "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:22]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージ、およびすべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同じ(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージ、および回復から恩恵を得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同じ(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{ガスト}として立ち上がる</p>"
         },
         "GBiarRqqq8qwyZtJ": {
           "name": "パラリシス/Paralysis",
@@ -366,7 +366,7 @@
       "items": {
         "Zk9jd1JV2SF2rRTh": {
           "name": "守護者召喚/Conjure the Guardians",
-          "description": "<p><strong>トリガー</strong>混沌にして悪ではないクリーチャーが、エリア<strong>G4</strong>への扉から20フィート以内に近づく。</p><hr /><p><strong>効果</strong>彫像がシューシューと音を立てて唸るように見え、その直後、4体の@UUID[Compendium.pf2e.pathfinder-monster-core.Actor.6UrgCT8MwC8CeGbu]{ブリモラック}・デーモンが廊下に現れる。2体はエリア<strong>G1</strong>の入り口付近に、もう2体はエリア<strong>G4</strong>の入り口付近に現れる。4体のデーモンは即座に攻撃し、通常通りイニシアチブをロールする。彼らは死ぬまで戦うが、1分が経過すると消滅する。</p>"
+          "description": "<p><strong>トリガー</strong>混沌にして悪ではないクリーチャーが、エリア<strong>G4</strong>への扉から20フィート以内に近づく。</p><hr /><p><strong>効果</strong>彫像がシューシューと音を立てて唸るように見え、その直後、4体の@UUID[Compendium.pf2e.pathfinder-monster-core.Actor.6UrgCT8MwC8CeGbu]{ブリモラク}・デーモンが廊下に現れる。2体はエリア<strong>G1</strong>の入り口付近に、もう2体はエリア<strong>G4</strong>の入り口付近に現れる。4体のデーモンは即座に攻撃し、通常通りイニシアチブをロールする。彼らは死ぬまで戦うが、1分が経過すると消滅する。</p>"
         }
       },
       "stealth": "<p>(訓練済み)</p>",
@@ -536,7 +536,7 @@
           "description": "<p>ムノゴスは、呪文が自身の呪文リストにない場合でも、魔法のアイテムから〈呪文の発動〉を行うことができる。このような呪文はすべてオカルト呪文であり、ムノゴスの生得呪文のDCと攻撃修正値を使用する。</p>"
         },
         "1tb7DMhGgvu0yKi2": {
-          "name": "スーガシ・ヴェノム/Seugathi Venom",
+          "name": "セウガシ・ヴェノム/Seugathi Venom",
           "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:28]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}、および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁2}(1ラウンド)</p>"
         }
       },
@@ -581,7 +581,7 @@
         },
         "kjp81ieDPJnUJjXK": {
           "name": "ゴブリン・スカトル",
-          "description": "|||<p><strong>トリガー</strong> ゴブリンの味方が、このゴブリンに隣接する位置で移動アクションを終了する。</p>\n<hr />\n<p><strong>効果</strong> このゴブリンは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]ステップを行う。</p>|||"
+          "description": "<p><strong>トリガー</strong> ゴブリンの味方が、このゴブリンに隣接する位置で移動アクションを終了する。</p>\n<hr />\n<p><strong>効果</strong> このゴブリンは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{ステップ}を行う。</p>"
         },
         "zAINumOCEOZSUfFs": {
           "name": "ファミリア/Familiar",
@@ -643,14 +643,14 @@
         },
         "ypWp6uGnqnV1xtpi": {
           "name": "ボブ/Bob",
-          "description": "<p>シックルファング・ロングレッグズは上下に揺れ始め、脚をまるでバネのように使って体を不気味に弾ませ、揺らす。シックルファング・ロングレッグズの次のターンの開始時まで、これは自身のアーマー・クラスに＋2のステータス・ボーナスを得る。</p>"
+          "description": "<p>シックルファング・ロングレッグスは上下に揺れ始め、脚をまるでバネのように使って体を不気味に弾ませ、揺らす。シックルファング・ロングレッグスの次のターンの開始時まで、これは自身のアーマー・クラスに＋2のステータス・ボーナスを得る。</p>"
         },
         "o0zcolRXYCvgYOGA": {
           "name": "有害な噴霧/Noxious Spray",
-          "description": "<p>シックルファング・ロングレッグズは隣接する単一の対象に有害な化学物質を吹きかけ、対象は@Check[fortitude|dc:24]セーヴィング・スローを行わなければならない。シックルファング・ロングレッグズは1分の間、有害な霧吹きを使用できない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けず、1分の間、有害な霧吹きに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}となり、その病気が持続する限り@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となる。</p>"
+          "description": "<p>シックルファング・ロングレッグスは隣接する単一の対象に有害な化学物質を吹きかけ、対象は@Check[fortitude|dc:24]セーヴィング・スローを行わなければならない。シックルファング・ロングレッグスは1分の間、有害な霧吹きを使用できない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けず、1分の間、有害な霧吹きに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}となり、その病気が持続する限り@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となる。</p>"
         }
       },
-      "name": "シックルファング・ロングレッグズ/Sicklefang Longlegs",
+      "name": "シックルファング・ロングレッグス/Sicklefang Longlegs",
       "publicNotes": "<p>Somewhat larger than the giant longlegs, the sicklefang is named for their unusually large, curved mandibles, which they use to bleed prey with deadly efficiency.</p>\n<hr />\n<p>While smaller specimens of these unsettling-looking arachnids (known regionally by names like harvesters, tickle spiders, or daddy longlegs) are harmless, their larger cousins, known simply as longlegs, are anything but.</p>\n<h2>Longlegs Species</h2>\n<p>Beyond the two common types presented here, many other variants of longlegs can be found throughout Golarion, with the exception of its arctic regions, where longlegs don't thrive. They often live on the periphery of cities, lurking in sewers or ruins where the hunting is good. Swarms of sewer longlegs are particularly dangerous and infest the undercities of many Taldan settlements, while to the west in Cheliax, the much-larger executor longlegs prefer to live among the rooflines of slums where Thrune's rule has been particularly horrific. Among the largest of all longlegs, though, is the dreaded (and thankfully rare) treeleg harvester of the Mwangi Expanse.</p>"
     },
     "Isphinn": {
@@ -1163,15 +1163,15 @@
         },
         "GCGNJYiHP5GMdDAQ": {
           "name": "エグジット・ボディ/Exit Body",
-          "description": "<p><strong>必要条件</strong>インテレクチュアル・ディヴァウラーが肉体泥棒で肉体を支配している</p>\n<hr />\n<p><strong>効果</strong>インテレクチュアル・ディヴァウラーは宿主の肉体から離脱する。宿主は即座に死亡し、もはやいかなる肉体泥棒能力の適切な宿主にもならなくなる。インテレクチュアル・ディヴァウラーは隣接するスペースに元のサイズで出現する。</p>"
+          "description": "<p><strong>必要条件</strong>インテレクチュアル・デヴァウラーが肉体泥棒で肉体を支配している</p>\n<hr />\n<p><strong>効果</strong>インテレクチュアル・デヴァウラーは宿主の肉体から離脱する。宿主は即座に死亡し、もはやいかなる肉体泥棒能力の適切な宿主にもならなくなる。インテレクチュアル・デヴァウラーは隣接するスペースに元のサイズで出現する。</p>"
         },
         "pHckdhGspQesS1nl": {
           "name": "ラヴィッジ/Ravage",
-          "description": "<p>インテレクト・ディヴァウラーは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャー1体に対して、自身の最も高い攻撃修正と同じ攻撃修正を使用して、爪による〈ストライク〉を2回行う。</p>\n<p>これらの〈ストライク〉は即死特性を得る。「貪り食い」によって対象が死亡した場合、インテレクト・ディヴァウラーは対象に対して「肉体泥棒」をフリー・アクションとして使用できる。</p>"
+          "description": "<p>インテレクト・デヴァウラーは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャー1体に対して、自身の最も高い攻撃修正と同じ攻撃修正を使用して、爪による〈ストライク〉を2回行う。</p>\n<p>これらの〈ストライク〉は即死特性を得る。「貪り食い」によって対象が死亡した場合、インテレクト・デヴァウラーは対象に対して「肉体泥棒」をフリー・アクションとして使用できる。</p>"
         },
         "wHsOiFn1P7QcaaJ2": {
           "name": "ストールン・アイデンティティ/Stolen Identity",
-          "description": "<p>インテレクト・ディヴァウラーが肉体泥棒を使用している間、宿主が知っているすべての言語を理解して話す能力と、宿主の肉体の能力、正体、社会における役割、人格に関する知識を得る。しかし、宿主の肉体の具体的な記憶や知識は得られない。</p>"
+          "description": "<p>インテレクト・デヴァウラーが肉体泥棒を使用している間、宿主が知っているすべての言語を理解して話す能力と、宿主の肉体の能力、正体、社会における役割、人格に関する知識を得る。しかし、宿主の肉体の具体的な記憶や知識は得られない。</p>"
         }
       },
       "skillSpecialDeception": [
@@ -1183,7 +1183,7 @@
           ]
         }
       ],
-      "blurb": "ジェンダーフルイド、インテレクト・ディヴァウラー、トランスミューター",
+      "blurb": "ジェンダーフルイド、インテレクト・デヴァウラー、トランスミューター",
       "name": "ティルアトチェク/Tiluatchek",
       "publicNotes": "<p>Intellect devourers serve as advance scouts and infiltrators for the powerful force of alien beings called the Dominion of the Black. These monsters roam the Darklands, from which they mount secret invasions of the world above. When an intellect devourer infiltrates a society, its first priority is to acquire a body. It might first seek out a graveyard for a fresh corpse, as this is easier than fighting and killing someone. When the aberration compresses itself into the host's brain cavity, its real body goes dull to sensation as it connects to the nervous system of its host. If found out, an intellect devourer might quickly inhabit a new body to make its escape, preferably something inconspicuous such as a domestic animal.</p>"
     },
@@ -1525,7 +1525,7 @@
         },
         "z985acw3zCTHxcoN": {
           "name": "ゴブリン・スカトル",
-          "description": "|||<p><strong>トリガー</strong> ゴブリンの味方が、このゴブリンに隣接する位置で移動アクションを終了する。</p>\n<hr />\n<p><strong>効果</strong> このゴブリンは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]ステップを行う。</p>|||"
+          "description": "<p><strong>トリガー</strong> ゴブリンの味方が、このゴブリンに隣接する位置で移動アクションを終了する。</p>\n<hr />\n<p><strong>効果</strong> このゴブリンは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{ステップ}を行う。</p>"
         },
         "6ua72XUFQZVIkpXd": {
           "name": "カリキュレイテッド・スプラッシュ/Calculated Splash",
@@ -1674,7 +1674,7 @@
         },
         "CfzB5r8CSHETuXfA": {
           "name": "トリンケット・バウンド/Trinket Bound",
-          "description": "|||<p>ジャーヴィス・ストゥートは通常、サンドポイントのすぐ北にあるチョッパーの島の上にある地下室から短い距離しか離れることができないが、クロックワークの歌鳥の頭部がそのエリアの外に持ち出されたとき、ストゥートは追跡することができる。彼が憑依したクリーチャーがその頭部を運んでいる限り、彼は望むままに移動できるが、サンドポイントの町から5マイルより遠くへ行くことはできない。</p>|||"
+          "description": "<p>ジャーヴィス・ストゥートは通常、サンドポイントのすぐ北にあるチョッパーの島の上にある地下室から短い距離しか離れることができないが、クロックワークの歌鳥の頭部がそのエリアの外に持ち出されたとき、ストゥートは追跡することができる。彼が憑依したクリーチャーがその頭部を運んでいる限り、彼は望むままに移動できるが、サンドポイントの町から5マイルより遠くへ行くことはできない。</p>"
         },
         "5wn9E54A8t21UNkb": {
           "name": "鳥類の脆弱性/Avian Vulnerability",
@@ -1796,15 +1796,15 @@
         },
         "C5gIFtKzBDGuKOyi": {
           "name": "集団/Cluster",
-          "description": "<p>ジャイアント・ロングレッグズは、別のジャイアント・ロングレッグズと同じスペースを共有できるが、同じスペースを占有できるジャイアント・ロングレッグズは3体までである。</p>"
+          "description": "<p>ジャイアント・ロングレッグスは、別のジャイアント・ロングレッグスと同じスペースを共有できるが、同じスペースを占有できるジャイアント・ロングレッグスは3体までである。</p>"
         },
         "ypWp6uGnqnV1xtpi": {
           "name": "ボブ",
-          "description": "<p>ジャイアント・ロングレッグズは上下に揺れ始め、脚をまるでバネのように使って体を不気味に弾ませたり揺らしたりする。ジャイアント・ロングレッグズの次のターンの開始時まで、これは自身のアーマー・クラスに+2のステータス・ボーナスを得る。</p>"
+          "description": "<p>ジャイアント・ロングレッグスは上下に揺れ始め、脚をまるでバネのように使って体を不気味に弾ませたり揺らしたりする。ジャイアント・ロングレッグスの次のターンの開始時まで、これは自身のアーマー・クラスに+2のステータス・ボーナスを得る。</p>"
         },
         "o0zcolRXYCvgYOGA": {
           "name": "有害な噴霧",
-          "description": "<p>ジャイアント・ロングレッグズは、隣接する単一の対象に有害な化学物質を吹き付ける。対象は@Check[fortitude|dc:20]のセーヴィング・スローを行わなければならない。ジャイアント・ロングレッグズは1分、有害な霧吹きを使用できない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けず、1分、有害な霧吹きに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となり、病気状態である限り@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となる。</p>"
+          "description": "<p>ジャイアント・ロングレッグスは、隣接する単一の対象に有害な化学物質を吹き付ける。対象は@Check[fortitude|dc:20]のセーヴィング・スローを行わなければならない。ジャイアント・ロングレッグスは1分、有害な霧吹きを使用できない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けず、1分、有害な霧吹きに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となり、病気状態である限り@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となる。</p>"
         }
       },
       "name": "ジャイアント・ロングレッグス/Giant Longlegs",
@@ -1845,7 +1845,7 @@
         },
         "uxi7mZBlBZgzITyC": {
           "name": "デヴィルズ・カースト・ブレス",
-          "description": "<p><strong>使用制限</strong> 㚛1日1回</p>\n⟦\n<hr />\n<p><strong>効果</strong>アスメレリは自分の舌を噛み切り(@Damage[1[slashing]]のダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[reflex|dc:24|options:area-effect,damaging-effect]のセーヴィング・スローを行わなければならない。</p>\n⟦\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d8[fire]|options:area-damage]のダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[6d8[fire]|options:area-damage]のダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d8[fire]|options:area-damage]のダメージを受け、火傷の激しい痛みによって病気1状態となり、さらに呪われる。犠牲者の火傷が完全に消えることはなく、呪われたクリーチャーは絶え間ない痛みによってすべての攻撃に–2の状況ペナルティを受ける。治癒によって火傷の見た目が変わったりペナルティが軽減されたりすることはないが、呪いを取り除くことで回復する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果:悪魔の呪いの息}</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>アスメレリは自分の舌を噛み切り(@Damage[1[slashing]]のダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[reflex|dc:24|options:area-effect,damaging-effect]のセーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d8[fire]|options:area-damage]のダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[6d8[fire]|options:area-damage]のダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d8[fire]|options:area-damage]のダメージを受け、火傷の激しい痛みによって病気1状態となり、さらに呪われる。犠牲者の火傷が完全に消えることはなく、呪われたクリーチャーは絶え間ない痛みによってすべての攻撃に–2の状況ペナルティを受ける。治癒によって火傷の見た目が変わったりペナルティが軽減されたりすることはないが、呪いを取り除くことで回復する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果:悪魔の呪いの息}</p>"
         },
         "zrZA50r5Dh8VELO4": {
           "name": "リーチ・スペル/Reach Spell",
