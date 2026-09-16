@@ -99,7 +99,7 @@
     },
     "Ooze Form": {
       "name": "ウーズ・フォーム/Ooze Form",
-      "description": "<p>あなたは染み出し滲み出るすべてのものを呼び出し、身体をどろりとしたスラリーへと溶解させ、その後、中型(中型)のウーズの戦闘形態へと再構成する。この呪文を最初に発動したとき、ブラック・プディング、ジェラティナス・キューブ、グレイ・ウーズ、またはオークル・ジェリーのいずれかを選択する。この形態の間、あなたはウーズの特性を得る。あなたはこの呪文を〈解除〉できる。どの戦闘形態を選択したかに関わらず、あなたは以下の能力値と能力を得る：</p><ul><li>AC＝7＋あなたのレベル。あなたの鎧の判定ペナルティと移動速度減少を無視する。</li><li>20一時的ヒット・ポイント。</li><li>あなたはクリティカル・ヒット、精密ダメージ、視覚効果に対して免疫である。</li><li>酸、刺突、斬撃ダメージに対する抵抗5。</li><li>視覚はなく、移動感知30フィートを持つ。あなたは振動と空気の動きを通じて、近くの動きを明瞭な感覚として感知できる。</li><li>あなたが選択した戦闘形態に固有の1つ以上の素手による近接攻撃。これらはあなたが〈ストライク〉を行える唯一の攻撃である。あなたはそれらに対して訓練済みである。あなたの攻撃修正値は+14であり、記載されたダメージを使用する。これらの攻撃は(例えばエンフィーブル状態の目的のために)筋力に基づいている。もしあなたの素手攻撃修正値の方が高いなら、代わりにそれを使用できる。</li><li>《運動》修正値は+14。ただし、あなた自身の修正値の方が高い場合はそちらを使用する。</li></ul><p>また、ウーズに基づいて特定の能力を得る：</p><ul><li><p><strong>ブラック・プディング</strong>移動速度15フィート、登攀15フィート；</p><ul><li><strong>近接</strong> <span class=\"action-glyph\">1</span>つの偽足、<strong>ダメージ</strong> 2d6+5殴打および1d8酸。</li></ul></li><li><p><strong>ジェラティナス・キューブ</strong>移動速度15フィート；</p><ul><li><strong>近接</strong> <span class=\"action-glyph\">1</span>つのキューブの面、<strong>ダメージ</strong> 1d6+5酸；</li><li>あなたのキューブの面による〈ストライク〉でヒットしたクリーチャーは、あなたの呪文DCに対して頑健セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}(クリティカル失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺} 1ラウンド)となる。このセーヴは無力化特性を持つ。</li></ul></li><li><p><strong>グレイ・ウーズ</strong>移動速度15フィート、登攀15フィート、水泳15フィート</p><ul><li><strong>近接</strong> <span class=\"action-glyph\">1</span>つの偽足、<strong>ダメージ</strong> 1d6+5殴打および1d6酸。また、ヒットした後に1アクションを消費して対象を@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Grab}できる。</li></ul></li></ul><ul><li><p><strong>オークル・ジェリー</strong>移動速度15フィート、登攀10フィート；電撃に対する耐性5；</p><ul><li><strong>近接</strong> <span class=\"action-glyph\">1</span>つの偽足、<strong>ダメージ</strong> 1d8+5殴打および1d8酸。また、ヒットした後に1アクションを消費して対象を@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Grab}できる。</li></ul></li></ul><p>@UUID[Compendium.pf2e.spell-effects.Item.ciQhlQbQcarzRYzf]{呪文 効果: ウーズ・フォーム}</p><hr /><p><strong>高位化 (+4)</strong>あなたの戦闘形態は大型となり、あなたの攻撃は10フィートのリーチを持つ。展開するための十分な空間がなければ、呪文は無効になる。代わりに30のHP(一時的)を得る。酸、刺突、斬撃に対する耐性7。攻撃修正値+16、ダメージ・ボーナス+9、《運動》+16。あなたの移動感知の範囲は40フィートである。</p>\n<p><strong>高位化 (+5)</strong>あなたの戦闘形態は超大型となり、あなたの攻撃は15フィートのリーチを持つ。展開するための十分な空間がなければ、呪文は無効になる。代わりに40のHP(一時的)を得る。酸、刺突、斬撃に対する耐性10。攻撃修正値+18、ダメージ・ボーナス+6およびダメージ・ダイス2倍、《運動》+20。あなたの移動感知の範囲は60フィートである。</p>\n<p><strong>高位化 (+8)</strong>あなたの戦闘形態は巨大(20フィート×20フィートの空間)となり、あなたの攻撃は20フィートのリーチを持つ。展開するための十分な空間がなければ、呪文は無効になる。代わりに60のHP(一時的)を得る。酸、刺突、斬撃に対する耐性12。攻撃修正値+28、ダメージ・ボーナス+13およびダメージ・ダイス2倍、《運動》+29。あなたの移動感知の範囲は60フィートである。</p>",
+      "description": "<p>あなたは染み出し滲み出るすべてのものを呼び出し、身体をどろりとしたスラリーへと溶解させ、その後、中型(中型)のウーズの戦闘形態へと再構成する。この呪文を最初に発動したとき、ブラック・プディング、ジェラティナス・キューブ、グレイ・ウーズ、またはオークル・ジェリーのいずれかを選択する。この形態の間、あなたはウーズの特性を得る。あなたはこの呪文を〈解除〉できる。どの戦闘形態を選択したかに関わらず、あなたは以下の能力値と能力を得る：</p><ul><li>AC＝7＋あなたのレベル。あなたの鎧の判定ペナルティと移動速度減少を無視する。</li><li>20一時的ヒット・ポイント。</li><li>あなたはクリティカル・ヒット、精密ダメージ、視覚効果に対して免疫である。</li><li>酸、刺突、斬撃ダメージに対する抵抗5。</li><li>視覚はなく、移動感知30フィートを持つ。あなたは振動と空気の動きを通じて、近くの動きを明瞭な感覚として感知できる。</li><li>あなたが選択した戦闘形態に固有の1つ以上の素手による近接攻撃。これらはあなたが〈ストライク〉を行える唯一の攻撃である。あなたはそれらに対して訓練済みである。あなたの攻撃修正値は+14であり、記載されたダメージを使用する。これらの攻撃は(例えばエンフィーブル状態の目的のために)筋力に基づいている。もしあなたの素手攻撃修正値の方が高いなら、代わりにそれを使用できる。</li><li>《運動》修正値は+14。ただし、あなた自身の修正値の方が高い場合はそちらを使用する。</li></ul><p>また、ウーズに基づいて特定の能力を得る：</p><ul><li><p><strong>ブラック・プディング</strong>移動速度15フィート、登攀15フィート；</p><ul><li><strong>近接</strong> <span class=\"action-glyph\">1</span>つの偽足、<strong>ダメージ</strong> 2d6+5殴打および1d8酸。</li></ul></li><li><p><strong>ジェラティナス・キューブ</strong>移動速度15フィート；</p><ul><li><strong>近接</strong> <span class=\"action-glyph\">1</span>つのキューブの面、<strong>ダメージ</strong> 1d6+5酸；</li><li>あなたのキューブの面による〈ストライク〉でヒットしたクリーチャーは、あなたの呪文DCに対して頑健セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}(クリティカル失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺} 1ラウンド)となる。このセーヴは無力化特性を持つ。</li></ul></li><li><p><strong>グレイ・ウーズ</strong>移動速度15フィート、登攀15フィート、水泳15フィート</p><ul><li><strong>近接</strong> <span class=\"action-glyph\">1</span>つの偽足、<strong>ダメージ</strong> 1d6+5殴打および1d6酸。また、ヒットした後に1アクションを消費して対象を@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Grab}できる。</li></ul></li></ul><ul><li><p><strong>オークル・ジェリー</strong>移動速度15フィート、登攀10フィート；電撃に対する耐性5；</p><ul><li><strong>近接</strong> <span class=\"action-glyph\">1</span>つの偽足、<strong>ダメージ</strong> 1d8+5殴打および1d8酸。また、ヒットした後に1アクションを消費して対象を@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Grab}できる。</li></ul></li></ul><p>@UUID[Compendium.pf2e.spell-effects.Item.ciQhlQbQcarzRYzf]{呪文 効果: ウーズ・フォーム}</p><hr /><p><strong>高位化 (4th)</strong>あなたの戦闘形態は大型となり、あなたの攻撃は10フィートのリーチを持つ。展開するための十分な空間がなければ、呪文は無効になる。代わりに30のHP(一時的)を得る。酸、刺突、斬撃に対する耐性7。攻撃修正値+16、ダメージ・ボーナス+9、《運動》+16。あなたの移動感知の範囲は40フィートである。</p>\n<p><strong>高位化 (5th)</strong>あなたの戦闘形態は超大型となり、あなたの攻撃は15フィートのリーチを持つ。展開するための十分な空間がなければ、呪文は無効になる。代わりに40のHP(一時的)を得る。酸、刺突、斬撃に対する耐性10。攻撃修正値+18、ダメージ・ボーナス+6およびダメージ・ダイス2倍、《運動》+20。あなたの移動感知の範囲は60フィートである。</p>\n<p><strong>高位化 (8th)</strong>あなたの戦闘形態は巨大(20フィート×20フィートの空間)となり、あなたの攻撃は20フィートのリーチを持つ。展開するための十分な空間がなければ、呪文は無効になる。代わりに60のHP(一時的)を得る。酸、刺突、斬撃に対する耐性12。攻撃修正値+28、ダメージ・ボーナス+13およびダメージ・ダイス2倍、《運動》+29。あなたの移動感知の範囲は60フィートである。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -534,7 +534,7 @@
     },
     "Life Link": {
       "name": "ライフ・リンク/Life Link",
-      "description": "<p>あなたはあなたと対象との間に生命エネルギーのつながりを鍛造し、両者の間で危害を分配する。この呪文を最初に発動したとき、対象は1d4のヒット・ポイントを回復する。</p>\n<p>対象がダメージを受けるする各ラウンドの最初の1回、その対象が受けるダメージを3軽減する(最低0ダメージまで)。あなたは毎回3のヒット・ポイントを失う。もし合計ダメージが3未満なら、そのダメージを失う。このダメージはあなたが持ついかなる完全耐性や抵抗も無視し、他のいかなる方法でも軽減できない。</p>\n<p>あなたが@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態になると、この呪文は即座に終了する。あなたはこの呪文を〈解除〉できる。</p><hr /><p><strong>高位化 (+3)</strong>あなたは自分以外のクリーチャー2体を対象にできる。初期の回復量は3d4のヒット・ポイントに増加し、軽減される最大ダメージと失われるヒット・ポイントは5に増加する。</p>\n<p><strong>高位化 (+6)</strong>あなたは自分以外のクリーチャー3体を対象にできる。初期の回復量は6d4のヒット・ポイントに増加し、軽減される最大ダメージと失われるヒット・ポイントは10に増加する。</p>\n<p><strong>高位化 (+9)</strong>あなたは自分以外のクリーチャー4体を対象にできる。初期の回復量は9d4のヒット・ポイントに増加し、軽減される最大ダメージと失われるヒット・ポイントは15に増加する。</p>",
+      "description": "<p>あなたはあなたと対象との間に生命エネルギーのつながりを鍛造し、両者の間で危害を分配する。この呪文を最初に発動したとき、対象は1d4のヒット・ポイントを回復する。</p>\n<p>対象がダメージを受けるする各ラウンドの最初の1回、その対象が受けるダメージを3軽減する(最低0ダメージまで)。あなたは毎回3のヒット・ポイントを失う。もし合計ダメージが3未満なら、そのダメージを失う。このダメージはあなたが持ついかなる完全耐性や抵抗も無視し、他のいかなる方法でも軽減できない。</p>\n<p>あなたが@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態になると、この呪文は即座に終了する。あなたはこの呪文を〈解除〉できる。</p><hr /><p><strong>高位化 (3rd)</strong>あなたは自分以外のクリーチャー2体を対象にできる。初期の回復量は3d4のヒット・ポイントに増加し、軽減される最大ダメージと失われるヒット・ポイントは5に増加する。</p>\n<p><strong>高位化 (6th)</strong>あなたは自分以外のクリーチャー3体を対象にできる。初期の回復量は6d4のヒット・ポイントに増加し、軽減される最大ダメージと失われるヒット・ポイントは10に増加する。</p>\n<p><strong>高位化 (9th)</strong>あなたは自分以外のクリーチャー4体を対象にできる。初期の回復量は9d4のヒット・ポイントに増加し、軽減される最大ダメージと失われるヒット・ポイントは15に増加する。</p>",
       "target": "あなた以外の1体のクリーチャー",
       "range": "30フィート",
       "duration": "1分",
@@ -586,7 +586,7 @@
     },
     "Humanoid Form": {
       "name": "ヒューマノイド・フォーム/Humanoid Form",
-      "description": "<p>あなたは自身の外見を、ドワーフ、エルフ、ゴブリン、ハーフリング、人間、オークといった、小型または中型のヒューマノイドに変身させる。この形態の間、あなたは他の特性に加えてヒューマノイド特性を得る。また、そのクリーチャーの種類に関連する特性(ゴブリンや人間など)も得る。この変身によってサイズが小さくなる場合、それに応じてリーチも減少する(通常は5フィートになる)。この変身はあなたの能力値をいかなる形でも変更せず、仮定したヒューマノイド形態の特殊能力を得ることもない。あなたは引き続き着用および道具を使用でき、それらは新しい形態に合わせて(必要であれば)サイズが変化する。アイテムがあなたの身から離れると、それらは通常のサイズに戻る。</p>\n<p>人型形態は、選択した祖先の一般的なメンバーとして通用するための《欺瞞》判定に+4の状況ボーナスを与え、あなたが未修練であってもレベルを加算できる。しかし、あなた自身を特定の人物のように見せることはできない。もし特定の個人に〈なりすます〉のであれば、依然として変装を作成する必要がある。ただし、GMはあなたの《欺瞞》判定のDCを決定する際、祖先の違いを考慮に入れない。あなたはこの呪文を〈解除〉できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.B9Hzt4ki8eqlXxyh]{呪文 効果: ヒューマノイド・フォーム}</p><hr /><p><strong>高位化 (+3)</strong>仮定した形態がその能力を持っている場合、あなたは暗視または微光視覚を得る。</p>\n<p><strong>高位化 (+5)</strong>あなたは大型のヒューマノイドの外見を取ることができる。これによってサイズが増大する場合、あなたはenlarge呪文の効果を得る。</p>",
+      "description": "<p>あなたは自身の外見を、ドワーフ、エルフ、ゴブリン、ハーフリング、人間、オークといった、小型または中型のヒューマノイドに変身させる。この形態の間、あなたは他の特性に加えてヒューマノイド特性を得る。また、そのクリーチャーの種類に関連する特性(ゴブリンや人間など)も得る。この変身によってサイズが小さくなる場合、それに応じてリーチも減少する(通常は5フィートになる)。この変身はあなたの能力値をいかなる形でも変更せず、仮定したヒューマノイド形態の特殊能力を得ることもない。あなたは引き続き着用および道具を使用でき、それらは新しい形態に合わせて(必要であれば)サイズが変化する。アイテムがあなたの身から離れると、それらは通常のサイズに戻る。</p>\n<p>人型形態は、選択した祖先の一般的なメンバーとして通用するための《欺瞞》判定に+4の状況ボーナスを与え、あなたが未修練であってもレベルを加算できる。しかし、あなた自身を特定の人物のように見せることはできない。もし特定の個人に〈なりすます〉のであれば、依然として変装を作成する必要がある。ただし、GMはあなたの《欺瞞》判定のDCを決定する際、祖先の違いを考慮に入れない。あなたはこの呪文を〈解除〉できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.B9Hzt4ki8eqlXxyh]{呪文 効果: ヒューマノイド・フォーム}</p><hr /><p><strong>高位化 (3rd)</strong>仮定した形態がその能力を持っている場合、あなたは暗視または微光視覚を得る。</p>\n<p><strong>高位化 (5th)</strong>あなたは大型のヒューマノイドの外見を取ることができる。これによってサイズが増大する場合、あなたはenlarge呪文の効果を得る。</p>",
       "duration": "10分",
       "time": "2"
     },
@@ -759,7 +759,7 @@
     },
     "Spirit Sense": {
       "name": "スピリット・センス/Spirit Sense",
-      "description": "<p>あなたは精神を形而上学的なものへと開放し、近くの霊を感知できるようになる。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.TiNDYUGlMmxzxBYU]{探索}していなくても、範囲内のハウントや霊を見つけるための判定を行える。あなたはハウントや霊に関する以下の判定に+1の状況ボーナスを得る：@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}のための《知覚》判定、〈思い出す〉試行、彼らの存在理由を特定するための技能判定、そしてハウントを無力化するための技能判定。また、ハウントや霊に対するACとセーヴィング・スローに+1の状況ボーナスを得る。</p><hr /><p><strong>高位化 (+6)</strong>この呪文の持続時間は次に日課の準備を行うまでとなる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.uHUcP59Z5fAdomda]{呪文 効果: スピリット・センス}</p>",
+      "description": "<p>あなたは精神を形而上学的なものへと開放し、近くの霊を感知できるようになる。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.TiNDYUGlMmxzxBYU]{探索}していなくても、範囲内のハウントや霊を見つけるための判定を行える。あなたはハウントや霊に関する以下の判定に+1の状況ボーナスを得る：@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}のための《知覚》判定、〈思い出す〉試行、彼らの存在理由を特定するための技能判定、そしてハウントを無力化するための技能判定。また、ハウントや霊に対するACとセーヴィング・スローに+1の状況ボーナスを得る。</p><hr /><p><strong>高位化 (6th)</strong>この呪文の持続時間は次に日課の準備を行うまでとなる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.uHUcP59Z5fAdomda]{呪文 効果: スピリット・センス}</p>",
       "duration": "10分",
       "time": "2"
     },
@@ -1189,7 +1189,7 @@
     },
     "Dragon Form": {
       "name": "ドラゴン・フォーム/Dragon Form",
-      "description": "|||<p>Calling upon powerful magic, you gain a Large dragon battle form. When you Cast this Spell, choose one type of common dragon or another type to which your GM allows access. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You can Dismiss the spell.</p>\n<p>You gain the following statistics and abilities regardless of which battle form you choose:</p><ul><li><p>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</p></li><li><p>10 temporary Hit Points.</p></li><li><p>Speed 40 feet, fly 100 feet. You gain any of the following Speeds the chosen dragon has, but with the listed amount: burrow 20 feet, climb 40 feet, swim 60 feet.</p></li><li><p>Resistance 10 against the damage type of your Dragon Breath (see below).</p></li><li><p>Darkvision and imprecise scent 60 feet.</p></li><li><p>The following unarmed melee attacks, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +22, and your damage bonus is +6. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead. See below for more on these attacks.</p><ul><li><p><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 damage of the same damage type as your Dragon Breath (see below);</p></li><li><p><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw (agile), <strong>Damage</strong> 3d10 slashing;</p></li><li><p><strong>Melee</strong> <span class=\"action-glyph\">1</span> tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning.</p></li></ul></li><li><p>Athletics modifier of +23, unless your own is higher.</p></li><li><p><strong>Dragon Breath</strong> <span class=\"action-glyph\">2</span> You exhale deadly magical energy in an area, dealing 10d6 damage to each creature in the area with a basic save against your spell DC. The shape, damage type, and save type match that of your chosen dragon's breath. If the chosen dragon's breath can deal more than one type of damage, choose one when you cast <em>dragon form</em>. The shape is a 30-foot cone or a 100-foot line. Once activated, Dragon Breath can't be used again for 1d4 rounds. Dragon Breath has the tradition trait matching the type of dragon and the damage trait matching the type of damage it deals, if applicable.</p></li><li>|||<p><strong>伝統の抵抗</strong>もしそのドラゴンの魔法の系統が、あなたのドラゴンフォーム呪文のそれと一致するなら、あなたは記載された能力を得る。 <strong>アーケイン</strong>魔法に対する耐性5；<strong>神聖</strong>霊、生命力、虚無に対する耐性10；<strong>オカルト</strong>精神に対する耐性10；<strong>自然</strong>物理ダメージに対する耐性5。</p></li></ul><p>@UUID[Compendium.pf2e.spell-effects.Item.1pC1qjvCuAKzjYo8]{呪文 効果: ドラゴン・フォーム}</p><table border=\"1\" class=\"pf2e lost-omens\"><thead><tr style=\"text-align:right\"><th>ドラゴン</th><th>伝統</th><th>移動速度</th><th>ドラゴン・ブレス</th><th>セーヴィング・スロウ</th></tr></thead><tbody><tr><td>アダマンティン</td><td>プライマル</td><td>〈穴掘り〉</td><td>殴打の円錐</td><td>反応</td></tr><tr><td>バラージ</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>反応</td></tr><tr><td>ボグ</td><td>プライマル</td><td>〈水泳〉</td><td>酸の円錐</td><td>反応</td></tr><tr><td>ブライン</td><td>プライマル</td><td>〈水泳〉</td><td>殴打の直線</td><td>反応</td></tr><tr><td>シンダー</td><td>プライマル</td><td>—</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>クラウド</td><td>プライマル</td><td>—</td><td>電撃の円錐</td><td>反応</td></tr><tr><td>コンスピレーター</td><td>オカルト</td><td>〈登攀〉</td><td>毒の円錐</td><td>頑健</td></tr><tr><td>コーラル</td><td>プライマル</td><td>〈水泳〉</td><td>殴打の直線</td><td>反応</td></tr><tr><td>クリスタル</td><td>プライマル</td><td>—</td><td>刺突の円錐</td><td>反応</td></tr><tr><td>ディライト</td><td>ディバイン</td><td>—</td><td>霊の円錐</td><td>反応</td></tr><tr><td>デスペア</td><td>オカルト</td><td>—</td><td>音波の円錐</td><td>Will</td></tr><tr><td>ディアボリック</td><td>ディバイン</td><td>—</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>エンピリアル</td><td>ディバイン</td><td>—</td><td>霊の円錐</td><td>反応</td></tr><tr><td>エグゼキューター</td><td>ディバイン</td><td>—</td><td>音波の円錐</td><td>反応</td></tr><tr><td>フォレスト</td><td>プライマル</td><td>—</td><td>刺突の円錐</td><td>反応</td></tr><tr><td>幸運</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>反応</td></tr><tr><td>ホーンド</td><td>プライマル</td><td>〈水泳〉</td><td>毒の円錐</td><td>頑健</td></tr><tr><td>マグマ</td><td>プライマル</td><td>〈穴掘り〉</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>ミラージュ</td><td>アーケイン</td><td>〈登攀〉</td><td>精神の円錐</td><td>Will</td></tr><tr><td>モッキング</td><td>オカルト</td><td>—</td><td>殴打の円錐</td><td>反応</td></tr><tr><td>オース</td><td>ディバイン</td><td>—</td><td>霊の円錐</td><td>Will</td></tr><tr><td>オーメン</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>Will</td></tr><tr><td>フェイズ</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>反応</td></tr><tr><td>レクイエム</td><td>ディバイン</td><td>〈水泳〉</td><td>霊の直線</td><td>Will</td></tr><tr><td>レザレクション</td><td>ディバイン</td><td>—</td><td>虚無の円錐</td><td>頑健</td></tr><tr><td>ライム</td><td>プライマル</td><td>〈水泳〉</td><td>冷気の円錐</td><td>反応</td></tr><tr><td>ルーン</td><td>アーケイン</td><td>—</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>セージ</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>Will</td></tr><tr><td>シー</td><td>アーケイン</td><td>〈水泳〉</td><td>殴打の円錐</td><td>反応</td></tr><tr><td>スカイ</td><td>ディバイン</td><td>—</td><td>電撃の円錐</td><td>反応</td></tr><tr><td>ソヴリン</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>Will</td></tr><tr><td>ストームクラウン</td><td>プライマル</td><td>—</td><td>電撃の直線</td><td>反応</td></tr><tr><td>タイム</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>Will</td></tr><tr><td>アンブラル</td><td>オカルト</td><td>—</td><td>虚無の円錐</td><td>反応</td></tr><tr><td>アンダーワールド</td><td>アーケイン</td><td>〈穴掘り〉</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>ヴィズィア</td><td>オカルト</td><td>〈水泳〉</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>ヴォーパル</td><td>アーケイン</td><td>—</td><td>虚無の円錐</td><td>Will</td></tr><tr><td>ウェイリング</td><td>アーケイン</td><td>—</td><td>音波の円錐</td><td>頑健</td></tr><tr><td>ウィスパー</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>Will</td></tr><tr><td>ウィッシュ</td><td>アーケイン</td><td>〈登攀〉</td><td>精神の円錐</td><td>Will</td></tr></tbody></table><hr /><p><strong>高位化 (+8)</strong>あなたの戦闘形態は超大型となり、あなたの飛行移動速度に+20フィートの状況ボーナスを得る。また、あなたの攻撃は10フィートのリーチを持つ(以前に10フィートのリーチを持っていた場合は15フィートのリーチとなる)。代わりに、あなたはAC = 21 + あなたのレベル、15のテンポラリーHP、+28の攻撃修正値、+12のダメージボーナス、そして《運動》+28を得る。あなたのドラゴン・ブレスは追加で4d6ダメージを与える。</p>",
+      "description": "|||<p>Calling upon powerful magic, you gain a Large dragon battle form. When you Cast this Spell, choose one type of common dragon or another type to which your GM allows access. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You can Dismiss the spell.</p>\n<p>You gain the following statistics and abilities regardless of which battle form you choose:</p><ul><li><p>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</p></li><li><p>10 temporary Hit Points.</p></li><li><p>Speed 40 feet, fly 100 feet. You gain any of the following Speeds the chosen dragon has, but with the listed amount: burrow 20 feet, climb 40 feet, swim 60 feet.</p></li><li><p>Resistance 10 against the damage type of your Dragon Breath (see below).</p></li><li><p>Darkvision and imprecise scent 60 feet.</p></li><li><p>The following unarmed melee attacks, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +22, and your damage bonus is +6. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead. See below for more on these attacks.</p><ul><li><p><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 damage of the same damage type as your Dragon Breath (see below);</p></li><li><p><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw (agile), <strong>Damage</strong> 3d10 slashing;</p></li><li><p><strong>Melee</strong> <span class=\"action-glyph\">1</span> tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning.</p></li></ul></li><li><p>Athletics modifier of +23, unless your own is higher.</p></li><li><p><strong>Dragon Breath</strong> <span class=\"action-glyph\">2</span> You exhale deadly magical energy in an area, dealing 10d6 damage to each creature in the area with a basic save against your spell DC. The shape, damage type, and save type match that of your chosen dragon's breath. If the chosen dragon's breath can deal more than one type of damage, choose one when you cast <em>dragon form</em>. The shape is a 30-foot cone or a 100-foot line. Once activated, Dragon Breath can't be used again for 1d4 rounds. Dragon Breath has the tradition trait matching the type of dragon and the damage trait matching the type of damage it deals, if applicable.</p></li><li>|||<p><strong>伝統の抵抗</strong>もしそのドラゴンの魔法の系統が、あなたのドラゴンフォーム呪文のそれと一致するなら、あなたは記載された能力を得る。 <strong>アーケイン</strong>魔法に対する耐性5；<strong>神聖</strong>霊、生命力、虚無に対する耐性10；<strong>オカルト</strong>精神に対する耐性10；<strong>自然</strong>物理ダメージに対する耐性5。</p></li></ul><p>@UUID[Compendium.pf2e.spell-effects.Item.1pC1qjvCuAKzjYo8]{呪文 効果: ドラゴン・フォーム}</p><table border=\"1\" class=\"pf2e lost-omens\"><thead><tr style=\"text-align:right\"><th>ドラゴン</th><th>伝統</th><th>移動速度</th><th>ドラゴン・ブレス</th><th>セーヴィング・スロウ</th></tr></thead><tbody><tr><td>アダマンティン</td><td>プライマル</td><td>〈穴掘り〉</td><td>殴打の円錐</td><td>反応</td></tr><tr><td>バラージ</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>反応</td></tr><tr><td>ボグ</td><td>プライマル</td><td>〈水泳〉</td><td>酸の円錐</td><td>反応</td></tr><tr><td>ブライン</td><td>プライマル</td><td>〈水泳〉</td><td>殴打の直線</td><td>反応</td></tr><tr><td>シンダー</td><td>プライマル</td><td>—</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>クラウド</td><td>プライマル</td><td>—</td><td>電撃の円錐</td><td>反応</td></tr><tr><td>コンスピレーター</td><td>オカルト</td><td>〈登攀〉</td><td>毒の円錐</td><td>頑健</td></tr><tr><td>コーラル</td><td>プライマル</td><td>〈水泳〉</td><td>殴打の直線</td><td>反応</td></tr><tr><td>クリスタル</td><td>プライマル</td><td>—</td><td>刺突の円錐</td><td>反応</td></tr><tr><td>ディライト</td><td>ディバイン</td><td>—</td><td>霊の円錐</td><td>反応</td></tr><tr><td>デスペア</td><td>オカルト</td><td>—</td><td>音波の円錐</td><td>Will</td></tr><tr><td>ディアボリック</td><td>ディバイン</td><td>—</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>エンピリアル</td><td>ディバイン</td><td>—</td><td>霊の円錐</td><td>反応</td></tr><tr><td>エグゼキューター</td><td>ディバイン</td><td>—</td><td>音波の円錐</td><td>反応</td></tr><tr><td>フォレスト</td><td>プライマル</td><td>—</td><td>刺突の円錐</td><td>反応</td></tr><tr><td>幸運</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>反応</td></tr><tr><td>ホーンド</td><td>プライマル</td><td>〈水泳〉</td><td>毒の円錐</td><td>頑健</td></tr><tr><td>マグマ</td><td>プライマル</td><td>〈穴掘り〉</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>ミラージュ</td><td>アーケイン</td><td>〈登攀〉</td><td>精神の円錐</td><td>Will</td></tr><tr><td>モッキング</td><td>オカルト</td><td>—</td><td>殴打の円錐</td><td>反応</td></tr><tr><td>オース</td><td>ディバイン</td><td>—</td><td>霊の円錐</td><td>Will</td></tr><tr><td>オーメン</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>Will</td></tr><tr><td>フェイズ</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>反応</td></tr><tr><td>レクイエム</td><td>ディバイン</td><td>〈水泳〉</td><td>霊の直線</td><td>Will</td></tr><tr><td>レザレクション</td><td>ディバイン</td><td>—</td><td>虚無の円錐</td><td>頑健</td></tr><tr><td>ライム</td><td>プライマル</td><td>〈水泳〉</td><td>冷気の円錐</td><td>反応</td></tr><tr><td>ルーン</td><td>アーケイン</td><td>—</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>セージ</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>Will</td></tr><tr><td>シー</td><td>アーケイン</td><td>〈水泳〉</td><td>殴打の円錐</td><td>反応</td></tr><tr><td>スカイ</td><td>ディバイン</td><td>—</td><td>電撃の円錐</td><td>反応</td></tr><tr><td>ソヴリン</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>Will</td></tr><tr><td>ストームクラウン</td><td>プライマル</td><td>—</td><td>電撃の直線</td><td>反応</td></tr><tr><td>タイム</td><td>アーケイン</td><td>—</td><td>フォースの円錐</td><td>Will</td></tr><tr><td>アンブラル</td><td>オカルト</td><td>—</td><td>虚無の円錐</td><td>反応</td></tr><tr><td>アンダーワールド</td><td>アーケイン</td><td>〈穴掘り〉</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>ヴィズィア</td><td>オカルト</td><td>〈水泳〉</td><td>火炎の円錐</td><td>反応</td></tr><tr><td>ヴォーパル</td><td>アーケイン</td><td>—</td><td>虚無の円錐</td><td>Will</td></tr><tr><td>ウェイリング</td><td>アーケイン</td><td>—</td><td>音波の円錐</td><td>頑健</td></tr><tr><td>ウィスパー</td><td>オカルト</td><td>—</td><td>精神の円錐</td><td>Will</td></tr><tr><td>ウィッシュ</td><td>アーケイン</td><td>〈登攀〉</td><td>精神の円錐</td><td>Will</td></tr></tbody></table><hr /><p><strong>高位化 (8th)</strong>あなたの戦闘形態は超大型となり、あなたの飛行移動速度に+20フィートの状況ボーナスを得る。また、あなたの攻撃は10フィートのリーチを持つ(以前に10フィートのリーチを持っていた場合は15フィートのリーチとなる)。代わりに、あなたはAC = 21 + あなたのレベル、15のテンポラリーHP、+28の攻撃修正値、+12のダメージボーナス、そして《運動》+28を得る。あなたのドラゴン・ブレスは追加で4d6ダメージを与える。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -2286,7 +2286,7 @@
     },
     "Tomorrow's Dawn": {
       "name": "トゥモローズ・ドーン/Tomorrow's Dawn",
-      "description": "<p>新たな夜明けの黄金の光と、死を超えた生の約束があなたの身体から放射される。あなたは20フィートの半径で明るい光を(そして次の20フィートで薄暗い光を)放射し、精神への抵抗5を得る。あなたの隣接するマスでターンの開始を迎えるフィーンドまたはアンデッドは、以下の結果を伴う意志セーヴを行わなければならない。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.SyF5kpZlZuBF4lMf]{呪文 効果: トゥモローズ・ドーン}</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、この呪文の持続時間の間、この呪文の効果に対して免疫となる。</p>\n<p><strong>成功</strong>そのクリーチャーは自身のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる。</p>\n<p><strong>失敗</strong>そのクリーチャーはsickened 1となる。さらに、そのクリーチャーは自身の次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}となる。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}となり、この呪文の持続時間の残り期間中、slowed 1の状態が継続する。</p><hr /><p><strong>高位化 (+6)</strong>あなたは精神への抵抗10を得る。</p>\n<p><strong>高位化 (+8)</strong>あなたは精神への抵抗15を得る。</p>",
+      "description": "<p>新たな夜明けの黄金の光と、死を超えた生の約束があなたの身体から放射される。あなたは20フィートの半径で明るい光を(そして次の20フィートで薄暗い光を)放射し、精神への抵抗5を得る。あなたの隣接するマスでターンの開始を迎えるフィーンドまたはアンデッドは、以下の結果を伴う意志セーヴを行わなければならない。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.SyF5kpZlZuBF4lMf]{呪文 効果: トゥモローズ・ドーン}</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、この呪文の持続時間の間、この呪文の効果に対して免疫となる。</p>\n<p><strong>成功</strong>そのクリーチャーは自身のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる。</p>\n<p><strong>失敗</strong>そのクリーチャーはsickened 1となる。さらに、そのクリーチャーは自身の次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}となる。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}となり、この呪文の持続時間の残り期間中、slowed 1の状態が継続する。</p><hr /><p><strong>高位化 (6th)</strong>あなたは精神への抵抗10を得る。</p>\n<p><strong>高位化 (8th)</strong>あなたは精神への抵抗15を得る。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -2306,7 +2306,7 @@
     },
     "Fly": {
       "name": "〔飛行〕/Fly",
-      "description": "<p>対象は空中を舞い上がることができ、自身の移動速度または20フィートのいずれか大きい方に等しい飛行移動速度を得る。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.MuRBCiZn5IKeaoxi]{呪文 効果: 〈飛行〉}</p>\n<hr />\n<p><strong>高位化 (+7)</strong>持続時間が1時間に増加する。</p>",
+      "description": "<p>対象は空中を舞い上がることができ、自身の移動速度または20フィートのいずれか大きい方に等しい飛行移動速度を得る。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.MuRBCiZn5IKeaoxi]{呪文 効果: 〈飛行〉}</p>\n<hr />\n<p><strong>高位化 (7th)</strong>持続時間が1時間に増加する。</p>",
       "target": "1体のクリーチャー",
       "range": "接触",
       "duration": "5分",
@@ -2355,7 +2355,7 @@
     },
     "Mystic Armor": {
       "name": "ミスティック・アーマー/Mystic Armor",
-      "description": "<p>あなたはきらめく魔法のエネルギーであなた自身を守り、ACへの+1のアイテム・ボーナスと、最大敏捷力修正値+5を得る。<em>mystic armor</em>を着用している間、あなたは自身のACを算出するために鎧なしの習熟度を使用する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.qkwb5DD3zmKwvbk0]{呪文 効果: ミスティック・アーマー}</p>\n<hr />\n<p><strong>高位化 (+4)</strong>あなたはセーヴィング・スローに+1のアイテム・ボーナスを得る。</p>\n<p><strong>高位化 (+6)</strong> ACへのアイテム・ボーナスが+2に増加し、セーヴィング・スローに+1のアイテム・ボーナスを得る。</p>\n<p><strong>高位化 (+8)</strong> ACへのアイテム・ボーナスが+2に増加し、セーヴィング・スローに+2のアイテム・ボーナスを得る。</p>\n<p><strong>高位化 (+10)</strong> ACへのアイテム・ボーナスが+3に増加し、セーヴィング・スローに+3のアイテム・ボーナスを得る。</p>",
+      "description": "<p>あなたはきらめく魔法のエネルギーであなた自身を守り、ACへの+1のアイテム・ボーナスと、最大敏捷力修正値+5を得る。<em>mystic armor</em>を着用している間、あなたは自身のACを算出するために鎧なしの習熟度を使用する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.qkwb5DD3zmKwvbk0]{呪文 効果: ミスティック・アーマー}</p>\n<hr />\n<p><strong>高位化 (4th)</strong>あなたはセーヴィング・スローに+1のアイテム・ボーナスを得る。</p>\n<p><strong>高位化 (6th)</strong> ACへのアイテム・ボーナスが+2に増加し、セーヴィング・スローに+1のアイテム・ボーナスを得る。</p>\n<p><strong>高位化 (8th)</strong> ACへのアイテム・ボーナスが+2に増加し、セーヴィング・スローに+2のアイテム・ボーナスを得る。</p>\n<p><strong>高位化 (10th)</strong> ACへのアイテム・ボーナスが+3に増加し、セーヴィング・スローに+3のアイテム・ボーナスを得る。</p>",
       "duration": "次の日課の準備まで",
       "time": "2"
     },
@@ -2681,7 +2681,7 @@
     },
     "Summon Lesser Servitor": {
       "name": "サモン・レッサー・サーヴィター",
-      "description": "<p>神々は、信仰に深く根ざしていない者による召喚呪文から最も強力な従僕を守ろうと躍起になるものだが、この呪文を使えば、神格の許可の有無にかかわらず、アウター・スフィアの住人を召喚できる。君はレベル–1の一般的なセレスティアル、フィーンド、またはモニターを召喚する。代わりにアウター・スフィア出身のレベル–1の一般的な動物を召喚することもできる。その際、この動物にセレスティアルの特性とホーリーの特性、フィーンドの特性とアンホーリーの特性、あるいはモニターの特性のいずれかを得させることを選択できる。君の神格の聖別で許可されていないホーリーやアンホーリーの特性を持つ従僕を召喚することは、不敬な行為である。例えば、サーレンレイの聖別は「ホーリーを選択できる」であるため、アンホーリーのクリーチャーを召喚することはできない。また、ファラズマの聖別は「なし」であるため、ホーリーやアンホーリーのクリーチャーを召喚することはできない。GMは、君の神格が特定の種類のクリーチャーをさらに制限しており、それらを召喚することも不敬な行為であると判断するかもしれない。</p><hr /><p><strong>高位化 (+2)</strong>そのクリーチャーはレベル1以下であってもよい。</p>\n<p><strong>高位化 (+3)</strong>そのクリーチャーはレベル2以下であってもよい。</p>\n<p><strong>高位化 (+4)</strong>そのクリーチャーはレベル3以下であってもよい。</p>",
+      "description": "<p>神々は、信仰に深く根ざしていない者による召喚呪文から最も強力な従僕を守ろうと躍起になるものだが、この呪文を使えば、神格の許可の有無にかかわらず、アウター・スフィアの住人を召喚できる。君はレベル–1の一般的なセレスティアル、フィーンド、またはモニターを召喚する。代わりにアウター・スフィア出身のレベル–1の一般的な動物を召喚することもできる。その際、この動物にセレスティアルの特性とホーリーの特性、フィーンドの特性とアンホーリーの特性、あるいはモニターの特性のいずれかを得させることを選択できる。君の神格の聖別で許可されていないホーリーやアンホーリーの特性を持つ従僕を召喚することは、不敬な行為である。例えば、サーレンレイの聖別は「ホーリーを選択できる」であるため、アンホーリーのクリーチャーを召喚することはできない。また、ファラズマの聖別は「なし」であるため、ホーリーやアンホーリーのクリーチャーを召喚することはできない。GMは、君の神格が特定の種類のクリーチャーをさらに制限しており、それらを召喚することも不敬な行為であると判断するかもしれない。</p><hr /><p><strong>高位化 (2nd)</strong>そのクリーチャーはレベル1以下であってもよい。</p>\n<p><strong>高位化 (3rd)</strong>そのクリーチャーはレベル2以下であってもよい。</p>\n<p><strong>高位化 (4th)</strong>そのクリーチャーはレベル3以下であってもよい。</p>",
       "range": "30フィート",
       "duration": "1分",
       "time": "3"
@@ -2886,7 +2886,7 @@
     },
     "Burrow Ward": {
       "name": "〔穴掘り〕・ウォード/Burrow Ward",
-      "description": "<p>あなたは周囲の土を固め、穴掘りを行うクリーチャーを妨害する。石を掘り進むことができないクリーチャーは、このエリア内を掘り進むことはできない。このエリア内の地下にすでにいるそのようなクリーチャーは、頑健セーヴに成功しなければならず、失敗した場合はエリアから地表に向かって追い出される。成功した者はエリアから強制的に追い出されるが、地下にとどまることはできる。石を掘り進むことができるクリーチャーは、このエリアを移動困難地形として扱う。</p>\n<hr />\n<p><strong>高位化 (+5)</strong>あなたは@Template[emanation|distance:30]を作成する。</p>",
+      "description": "<p>あなたは周囲の土を固め、穴掘りを行うクリーチャーを妨害する。石を掘り進むことができないクリーチャーは、このエリア内を掘り進むことはできない。このエリア内の地下にすでにいるそのようなクリーチャーは、頑健セーヴに成功しなければならず、失敗した場合はエリアから地表に向かって追い出される。成功した者はエリアから強制的に追い出されるが、地下にとどまることはできる。石を掘り進むことができるクリーチャーは、このエリアを移動困難地形として扱う。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>あなたは@Template[emanation|distance:30]を作成する。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -3861,7 +3861,7 @@
     },
     "Mending": {
       "name": "メンディング/Mending",
-      "description": "<p>あなたは対象のアイテムを修理する。あなたは対象の呪文ランクごとに5のヒット・ポイントを回復させ、もしこれがアイテムの破損値(BT)を超えて修理できたなら、@UUID[Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{破損}状態を取り除く可能性がある。失われた部品を交換したり、完全に破壊されたオブジェクトを修理することはできない。</p>\n<hr />\n<p><strong>高位化 (+2)</strong>あなたは1バルク以下の非魔法的なオブジェクトを対象にできる。</p>\n<p><strong>高位化 (+3)</strong>あなたは2バルク以下の非魔法的なオブジェクト、または1バルク以下の魔法的なオブジェクトを対象にできる。</p>",
+      "description": "<p>あなたは対象のアイテムを修理する。あなたは対象の呪文ランクごとに5のヒット・ポイントを回復させ、もしこれがアイテムの破損値(BT)を超えて修理できたなら、@UUID[Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{破損}状態を取り除く可能性がある。失われた部品を交換したり、完全に破壊されたオブジェクトを修理することはできない。</p>\n<hr />\n<p><strong>高位化 (2nd)</strong>あなたは1バルク以下の非魔法的なオブジェクトを対象にできる。</p>\n<p><strong>高位化 (3rd)</strong>あなたは2バルク以下の非魔法的なオブジェクト、または1バルク以下の魔法的なオブジェクトを対象にできる。</p>",
       "target": "光バルク以下の非魔法のオブジェクト",
       "range": "接触",
       "time": "10分"
@@ -3955,7 +3955,7 @@
     },
     "Seize Identity": {
       "name": "シーズ・アイデンティティー",
-      "description": "<p>歓喜の笑い声を上げながら、あなたは個人の声を奪い取り、飲み込む。持続時間中、あなたは対象のような見た目と声になり、対象は話すことができなくなる。効果は対象の意志セーヴィング・スロウの結果に依存する。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>あなたは対象の見た目になり、3レベルの@UUID[Compendium.pf2e.spells-srd.Item.i35dpZFI7jZcRoBo]{イリュージョリー・ディスガイズ}呪文と同じ効果を得る。また、対象は話すことができなくなり、2レベルの@UUID[Compendium.pf2e.spells-srd.Item.gIdDLrbswTV3OBJy]{サイレンス}呪文と同じ効果を受ける。</p>\n<p><strong>失敗</strong>成功時と同様だが、対象は変身によって4d6の精神ダメージも受ける。</p>\n<p><strong>クリティカル失敗</strong>成功時と同様だが、対象は変身によって8d6の精神ダメージも受ける。</p>\n<p>あなたがこの呪文を詠唱した後、各ラウンドで最初にこの呪文を〈維持〉する際、対象は急速に老化し、@Damage[(ternary(gte(@item.rank,9),3,2))d8[void]]ダメージを受ける(@Check[will|basic]セーヴ)。失敗すると、対象はさらに@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態になるか、そのenfeebled状態の値を1増加させる。</p><hr /><p><strong>高位化 (+9)</strong>精神ダメージが4d6増加し、虚無ダメージが1d8増加する。</p>",
+      "description": "<p>歓喜の笑い声を上げながら、あなたは個人の声を奪い取り、飲み込む。持続時間中、あなたは対象のような見た目と声になり、対象は話すことができなくなる。効果は対象の意志セーヴィング・スロウの結果に依存する。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>あなたは対象の見た目になり、3レベルの@UUID[Compendium.pf2e.spells-srd.Item.i35dpZFI7jZcRoBo]{イリュージョリー・ディスガイズ}呪文と同じ効果を得る。また、対象は話すことができなくなり、2レベルの@UUID[Compendium.pf2e.spells-srd.Item.gIdDLrbswTV3OBJy]{サイレンス}呪文と同じ効果を受ける。</p>\n<p><strong>失敗</strong>成功時と同様だが、対象は変身によって4d6の精神ダメージも受ける。</p>\n<p><strong>クリティカル失敗</strong>成功時と同様だが、対象は変身によって8d6の精神ダメージも受ける。</p>\n<p>あなたがこの呪文を詠唱した後、各ラウンドで最初にこの呪文を〈維持〉する際、対象は急速に老化し、@Damage[(ternary(gte(@item.rank,9),3,2))d8[void]]ダメージを受ける(@Check[will|basic]セーヴ)。失敗すると、対象はさらに@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態になるか、そのenfeebled状態の値を1増加させる。</p><hr /><p><strong>高位化 (9th)</strong>精神ダメージが4d6増加し、虚無ダメージが1d8増加する。</p>",
       "target": "1体の知性あるクリーチャー",
       "range": "30フィート",
       "duration": "1分",
@@ -3971,7 +3971,7 @@
     },
     "Call to Arms": {
       "name": "コール・トゥ・アームズ",
-      "description": "<p><strong>トリガー</strong>あなたがイニシアチブ・ロールを行おうとしている。</p>\n<hr />\n<p>あなたは鬨の声を上げ、味方を鼓舞して戦いに参加させる。エリア内の各味方は、イニシアチブ・ロールに+2の状況ボーナスを得て、呪文レベルに等しい　一時的ヒット・ポイントを得る。これらの一時的ヒット・ポイントは呪文の持続時間中持続する。</p>\n<hr />\n<p><strong>高位化 (+6)</strong>ボーナスが+3に増加する。</p>\n<p><strong>高位化 (+9)</strong>ボーナスが+4に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.PNEGSVYhMKf6kQZ6]{呪文 効果: コール・トゥ・アームズ}</p>",
+      "description": "<p><strong>トリガー</strong>あなたがイニシアチブ・ロールを行おうとしている。</p>\n<hr />\n<p>あなたは鬨の声を上げ、味方を鼓舞して戦いに参加させる。エリア内の各味方は、イニシアチブ・ロールに+2の状況ボーナスを得て、呪文レベルに等しい　一時的ヒット・ポイントを得る。これらの一時的ヒット・ポイントは呪文の持続時間中持続する。</p>\n<hr />\n<p><strong>高位化 (6th)</strong>ボーナスが+3に増加する。</p>\n<p><strong>高位化 (9th)</strong>ボーナスが+4に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.PNEGSVYhMKf6kQZ6]{呪文 効果: コール・トゥ・アームズ}</p>",
       "duration": "1分",
       "time": "リアクション"
     },
@@ -3998,7 +3998,7 @@
     },
     "Ancestral Memories": {
       "name": "アンセストラル・メモリーズ",
-      "description": "<p>長い年月を経て死んだ呪文の使い手たちの記憶があなたに知識を授け、あなたの呪文をより強力なものにする。あなたは、自分のターンの終了までに試みる次の呪文攻撃ロールに+1の状況ボーナスを得るか、あるいは60フィート以内の敵が、あなたのターンの終了までにあなたが唱える呪文に対して試みる次のセーヴィング・スロウに-1の状況ペナルティを受けるかのいずれかを選択する。</p><hr /><p><strong>高位化 (+5)</strong>ボーナスが+2に増加するか、ペナルティが-2に増加する。</p>\n<p><strong>高位化 (+8)</strong>ボーナスが+3に増加するか、ペナルティが-3に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.FlmR5n228jLHuLQG]{呪文 効果: アンセストラル・メモリーズ}</p>",
+      "description": "<p>長い年月を経て死んだ呪文の使い手たちの記憶があなたに知識を授け、あなたの呪文をより強力なものにする。あなたは、自分のターンの終了までに試みる次の呪文攻撃ロールに+1の状況ボーナスを得るか、あるいは60フィート以内の敵が、あなたのターンの終了までにあなたが唱える呪文に対して試みる次のセーヴィング・スロウに-1の状況ペナルティを受けるかのいずれかを選択する。</p><hr /><p><strong>高位化 (5th)</strong>ボーナスが+2に増加するか、ペナルティが-2に増加する。</p>\n<p><strong>高位化 (8th)</strong>ボーナスが+3に増加するか、ペナルティが-3に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.FlmR5n228jLHuLQG]{呪文 効果: アンセストラル・メモリーズ}</p>",
       "time": "1"
     },
     "Waking Nightmare": {
@@ -4052,7 +4052,7 @@
     },
     "Elemental Gift": {
       "name": "エレメンタル・ギフト",
-      "description": "<p>エレメンタルの力が対象を満たし、あなたが選択したエレメントに応じて、対象に風の敏捷さ、大地の頑強さ、火の刺すような痛み、あるいは水の柔軟性を与える。この呪文を発動する際にエレメントを1つ選択すること。対象は以下に記述されるそのエレメントの恩恵を得て、この呪文はそのエレメントの特性を得る。</p>\n<ul>\n<li><strong>風</strong>対象は陸上移動速度に＋30フィートの状況ボーナスを得て、さらに陸上移動速度(状況ボーナスを含まない)に等しい飛行移動速度を得る。</li>\n<li><strong>大地</strong>地面にいる間、対象は自身を@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}しようとする効果に対する頑健セーヴおよび反応セーヴ、ならびに自身を@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}にしようとする効果に対するセーヴに＋2の状況ボーナスを得る。さらに、対象に隣接する地面は移動困難な地形となり、その移動困難な地形は対象と共に移動する。ただし、対象自身の移動においてはこの移動困難な地形を無視する。</li>\n<li><strong>火</strong>対象の近接素手攻撃および近接武器攻撃は、命中時に1d6の持続火炎ダメージを与える。</li>\n<li><strong>金属</strong>金属製の武器または素手攻撃を使用した対象の攻撃は、命中時に追加で1d4の電撃ダメージを与え、対象が金属製であるか金属製の鎧を着用している場合、攻撃ロールに＋1の状況ボーナスを得る。</li>\n<li><strong>水</strong>対象は水のような光沢を帯び、火に対する耐性5と、陸上移動速度に等しい水泳移動速度を得る。</li>\n<li><strong>木</strong>対象は呪文のランクに等しい一時的ヒット・ポイントを得て、その後、各ターンの開始時にその半分の数値の一時的HPを得る。</li>\n</ul>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.AF4vQ1xoOiJ1ewH1]{呪文 効果: エレメンタル・ギフト}</p>\n<hr />\n<p><strong>高位化 (+8)</strong>最大5体の同意するクリーチャーを対象にできる。</p>",
+      "description": "<p>エレメンタルの力が対象を満たし、あなたが選択したエレメントに応じて、対象に風の敏捷さ、大地の頑強さ、火の刺すような痛み、あるいは水の柔軟性を与える。この呪文を発動する際にエレメントを1つ選択すること。対象は以下に記述されるそのエレメントの恩恵を得て、この呪文はそのエレメントの特性を得る。</p>\n<ul>\n<li><strong>風</strong>対象は陸上移動速度に＋30フィートの状況ボーナスを得て、さらに陸上移動速度(状況ボーナスを含まない)に等しい飛行移動速度を得る。</li>\n<li><strong>大地</strong>地面にいる間、対象は自身を@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}しようとする効果に対する頑健セーヴおよび反応セーヴ、ならびに自身を@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}にしようとする効果に対するセーヴに＋2の状況ボーナスを得る。さらに、対象に隣接する地面は移動困難な地形となり、その移動困難な地形は対象と共に移動する。ただし、対象自身の移動においてはこの移動困難な地形を無視する。</li>\n<li><strong>火</strong>対象の近接素手攻撃および近接武器攻撃は、命中時に1d6の持続火炎ダメージを与える。</li>\n<li><strong>金属</strong>金属製の武器または素手攻撃を使用した対象の攻撃は、命中時に追加で1d4の電撃ダメージを与え、対象が金属製であるか金属製の鎧を着用している場合、攻撃ロールに＋1の状況ボーナスを得る。</li>\n<li><strong>水</strong>対象は水のような光沢を帯び、火に対する耐性5と、陸上移動速度に等しい水泳移動速度を得る。</li>\n<li><strong>木</strong>対象は呪文のランクに等しい一時的ヒット・ポイントを得て、その後、各ターンの開始時にその半分の数値の一時的HPを得る。</li>\n</ul>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.AF4vQ1xoOiJ1ewH1]{呪文 効果: エレメンタル・ギフト}</p>\n<hr />\n<p><strong>高位化 (8th)</strong>最大5体の同意するクリーチャーを対象にできる。</p>",
       "target": "1体の同意するクリーチャー",
       "range": "30フィート",
       "duration": "1分",
@@ -4080,7 +4080,7 @@
     },
     "Fate's Travels": {
       "name": "フェイツ・トラベルズ/Fate's Travels",
-      "description": "<p>あなたはクリーチャーが生存していた時の姿と、その最後の10分の移動の様子を幻視する。この幻視は、そのクリーチャーが辿った経路や訪れた場所(もしあれば)についての明確な印象をあなたに与えるが、それらの場所にいたクリーチャーや危険については与えない。この情報は、その距離にわたってそのクリーチャーを追跡(Tracking)する際に自動的に成功するために十分なものである。</p>\n<hr />\n<p><strong>高位化 (+6)</strong>あなたの幻視はクリーチャーの最後の1時間の移動をカバーし、その道中で遭遇した危険、クリーチャーの種類、クリーチャーの数についての印象、そしてそれがどのように死んだかについての明確な印象を得る。</p>",
+      "description": "<p>あなたはクリーチャーが生存していた時の姿と、その最後の10分の移動の様子を幻視する。この幻視は、そのクリーチャーが辿った経路や訪れた場所(もしあれば)についての明確な印象をあなたに与えるが、それらの場所にいたクリーチャーや危険については与えない。この情報は、その距離にわたってそのクリーチャーを追跡(Tracking)する際に自動的に成功するために十分なものである。</p>\n<hr />\n<p><strong>高位化 (6th)</strong>あなたの幻視はクリーチャーの最後の1時間の移動をカバーし、その道中で遭遇した危険、クリーチャーの種類、クリーチャーの数についての印象、そしてそれがどのように死んだかについての明確な印象を得る。</p>",
       "target": "1体の死体",
       "range": "接触",
       "time": "1分"
@@ -4093,7 +4093,7 @@
     },
     "Movanic Glimmer": {
       "name": "モヴァニック・グリマー/Movanic Glimmer",
-      "description": "<p>あなたは対象の動物にわずかな意識を与え、真に覚醒させるわけではないが、周囲をよりよく理解できるようにする。対象は《知覚》判定と意志セーヴに＋2の状況ボーナスを得て、対象である動物をコマンドするためのあらゆる《自然》判定は、その理解力の向上により＋1の状況ボーナスを得る。さらに、対象の動物がミニオン特性を持っている場合、その主人がコマンドするためのアクションを使用しなくても、毎ターン1回アクションを行うことができ、それを知っている基本的なアクションの実行に使用できる。これは、召喚者が〈呪文の維持〉を行わなかった場合に召喚された対象が消滅することを防ぐものではないが、消滅する前に1回アクションを行うことを可能にする。</p>\n<hr />\n<p><strong>高位化 (+8)</strong>最大5匹の動物を対象にできる。</p>",
+      "description": "<p>あなたは対象の動物にわずかな意識を与え、真に覚醒させるわけではないが、周囲をよりよく理解できるようにする。対象は《知覚》判定と意志セーヴに＋2の状況ボーナスを得て、対象である動物をコマンドするためのあらゆる《自然》判定は、その理解力の向上により＋1の状況ボーナスを得る。さらに、対象の動物がミニオン特性を持っている場合、その主人がコマンドするためのアクションを使用しなくても、毎ターン1回アクションを行うことができ、それを知っている基本的なアクションの実行に使用できる。これは、召喚者が〈呪文の維持〉を行わなかった場合に召喚された対象が消滅することを防ぐものではないが、消滅する前に1回アクションを行うことを可能にする。</p>\n<hr />\n<p><strong>高位化 (8th)</strong>最大5匹の動物を対象にできる。</p>",
       "target": "1体の動物",
       "range": "接触",
       "duration": "あなたが次に日課の準備を行うまで",
@@ -4190,7 +4190,7 @@
     },
     "Synchronize Steps": {
       "name": "シンクロナイズ・ステップス",
-      "description": "<p>あなたは2つの対象の精神をリンクさせ、彼らが連携して移動できるようにする。対象の1人がステップしたとき、もう1人の対象はリアクションを使用して〈ステップ〉できる。対象の1人がストライドしたとき、もう1人の対象はリアクションを使用して〈ストライド〉できる。</p>\n<hr />\n<p><strong>高位化 (+5)</strong>射程は60フィートに増加し、あなたは最大10体までの同意するクリーチャーを対象にできる。</p>",
+      "description": "<p>あなたは2つの対象の精神をリンクさせ、彼らが連携して移動できるようにする。対象の1人がステップしたとき、もう1人の対象はリアクションを使用して〈ステップ〉できる。対象の1人がストライドしたとき、もう1人の対象はリアクションを使用して〈ストライド〉できる。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>射程は60フィートに増加し、あなたは最大10体までの同意するクリーチャーを対象にできる。</p>",
       "target": "志願するクリーチャー2体",
       "range": "30フィート",
       "duration": "1分",
@@ -4394,7 +4394,7 @@
     },
     "Instant Pottery": {
       "name": "インスタント・ポッタリー/Instant Pottery",
-      "description": "<p>あなたは周囲から土の素材を引き寄せ、それを1つ以上の土器の物体へと成形する。それらを組み合わせた合計のバルクは「軽量」までとすることができる。あるいは、この呪文を以前にこの呪文で作成した物体に唱えることで、その持続時間を延長することもできる。いかなる物体も、精巧な芸術性や複雑な可動部品を持つことはできず、コストやそれに類するものを満たすこともできず、粘土や土以外の素材で作ることもできない。それぞれの物体は明らかに一時的な魔法の産物であるため、売却したり、価値のあるアイテムとして通用させたりすることはできない。</p>\n<hr />\n<p><strong>高位化 (+2)</strong>あなたは最大1バルクまでの物体を作成できる。それらは8時間持続する。</p>\n<p><strong>高位化 (+3)</strong>あなたは最大2バルクまでの物体を作成できる。それらは24時間持続する。</p>",
+      "description": "<p>あなたは周囲から土の素材を引き寄せ、それを1つ以上の土器の物体へと成形する。それらを組み合わせた合計のバルクは「軽量」までとすることができる。あるいは、この呪文を以前にこの呪文で作成した物体に唱えることで、その持続時間を延長することもできる。いかなる物体も、精巧な芸術性や複雑な可動部品を持つことはできず、コストやそれに類するものを満たすこともできず、粘土や土以外の素材で作ることもできない。それぞれの物体は明らかに一時的な魔法の産物であるため、売却したり、価値のあるアイテムとして通用させたりすることはできない。</p>\n<hr />\n<p><strong>高位化 (2nd)</strong>あなたは最大1バルクまでの物体を作成できる。それらは8時間持続する。</p>\n<p><strong>高位化 (3rd)</strong>あなたは最大2バルクまでの物体を作成できる。それらは24時間持続する。</p>",
       "range": "10フィート",
       "duration": "1時間",
       "time": "1分"
@@ -5633,7 +5633,7 @@
     },
     "Telepathy": {
       "name": "テレパシー/Telepathy",
-      "description": "<p>あなたは30フィート以内のクリーチャーとテレパシーで意思疎通できる。一度クリーチャーと意思疎通して接続を確立すると、その意思疎通は双方向になる。あなたは共通の言語を持つクリーチャーとしか意思疎通できない。</p>\n<hr />\n<p><strong>高位化 (+6)</strong>あなたは共通の言語を持たない場合でも、共有された精神的イメージを用いてクリーチャーとテレパシーで意思疎通できる。<em>テレパシー</em>は言語(linguistic)特性を失う。</p>",
+      "description": "<p>あなたは30フィート以内のクリーチャーとテレパシーで意思疎通できる。一度クリーチャーと意思疎通して接続を確立すると、その意思疎通は双方向になる。あなたは共通の言語を持つクリーチャーとしか意思疎通できない。</p>\n<hr />\n<p><strong>高位化 (6th)</strong>あなたは共通の言語を持たない場合でも、共有された精神的イメージを用いてクリーチャーとテレパシーで意思疎通できる。<em>テレパシー</em>は言語(linguistic)特性を失う。</p>",
       "duration": "10分",
       "time": "2"
     },
@@ -5679,7 +5679,7 @@
     },
     "Status": {
       "name": "ステイタス",
-      "description": "<p>あなたと対象が同じ次元界に存在し両者とも生きている限り、あなたはその対象の現在の状態を把握している。あなたは対象があなたから見てどの方向にいるか、あなたからの距離、そして対象に影響しているいかなる状態も知っている。</p>\n<hr />\n<p><strong>高位化高位化 (+4)</strong>呪文の射程は30フィートに増加し、あなたは最大10体を対象にできる。</p>",
+      "description": "<p>あなたと対象が同じ次元界に存在し両者とも生きている限り、あなたはその対象の現在の状態を把握している。あなたは対象があなたから見てどの方向にいるか、あなたからの距離、そして対象に影響しているいかなる状態も知っている。</p>\n<hr />\n<p><strong>高位化高位化 (4th)</strong>呪文の射程は30フィートに増加し、あなたは最大10体を対象にできる。</p>",
       "target": "1体の同意する生きているクリーチャー",
       "range": "接触",
       "duration": "次に日課の準備を行うまで",
@@ -5728,7 +5728,7 @@
     },
     "Dragon Wings": {
       "name": "ドラゴン・ウィングス/Dragon Wings",
-      "description": "<p>あなたの背中から革のような翼が生え、あなたに移動速度の飛行能力を与える。その速度は60フィートまたはあなたの移動速度のうち速い方になる。もし呪文の持続時間が切れるときにまだ飛行中なら、@UUID[Compendium.pf2e.spells-srd.Item.TTwOKGqmZeKSyNMH]{ジェントル・ランディング}の効果と同様に地面にゆっくり降りる。</p><hr /><p><strong>高位化高位化 (+8)</strong>持続時間は10分に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.jy4edd6pvJvJgOSP]{呪文 効果: ドラゴン・ウィングス}</p>",
+      "description": "<p>あなたの背中から革のような翼が生え、あなたに移動速度の飛行能力を与える。その速度は60フィートまたはあなたの移動速度のうち速い方になる。もし呪文の持続時間が切れるときにまだ飛行中なら、@UUID[Compendium.pf2e.spells-srd.Item.TTwOKGqmZeKSyNMH]{ジェントル・ランディング}の効果と同様に地面にゆっくり降りる。</p><hr /><p><strong>高位化高位化 (8th)</strong>持続時間は10分に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.jy4edd6pvJvJgOSP]{呪文 効果: ドラゴン・ウィングス}</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -5921,7 +5921,7 @@
     },
     "Redact": {
       "name": "リダクト/Redact",
-      "description": "<p>あなたは1つ以上の文書から特定の名前への言及を抹消する。あなたがこの呪文を詠唱する際、クリーチャー、場所、物体のいずれであれ、固有名詞を1つ指定する。文書内のその名前への言及はすべて、ぼやけたり、汚れたり、あるいは完全に判読不能になる。その名前に対する異名や明確な言及も同様に編集される。例えば、本から女神サーレンレイの名前を編集すると、彼女の称号である「暁の華(the Dawnflower)」への言及も削除される。この参照資料を使用して指定された固有名詞について〈思い出す〉試みは自動的に失敗する。</p><hr /><p><strong>高位化 (+3)</strong>指定された名前を抹消する代わりに、あなたが選択した別の名前に置き換えることができる。異名や言及は、置き換え後の名前に関連する同様のものに差し替えられる。テキストを読む者は誰でも、変更されたテキストに気づくために、あなたの呪文のDCに対して《知覚》または《社会》の判定を行うことができるが、それによって元のテキストが何であったかを知ることはできない。</p>\n<p><strong>高位化 (+4)</strong>あなたの選択により、持続時間は無制限となる。</p>",
+      "description": "<p>あなたは1つ以上の文書から特定の名前への言及を抹消する。あなたがこの呪文を詠唱する際、クリーチャー、場所、物体のいずれであれ、固有名詞を1つ指定する。文書内のその名前への言及はすべて、ぼやけたり、汚れたり、あるいは完全に判読不能になる。その名前に対する異名や明確な言及も同様に編集される。例えば、本から女神サーレンレイの名前を編集すると、彼女の称号である「暁の華(the Dawnflower)」への言及も削除される。この参照資料を使用して指定された固有名詞について〈思い出す〉試みは自動的に失敗する。</p><hr /><p><strong>高位化 (3rd)</strong>指定された名前を抹消する代わりに、あなたが選択した別の名前に置き換えることができる。異名や言及は、置き換え後の名前に関連する同様のものに差し替えられる。テキストを読む者は誰でも、変更されたテキストに気づくために、あなたの呪文のDCに対して《知覚》または《社会》の判定を行うことができるが、それによって元のテキストが何であったかを知ることはできない。</p>\n<p><strong>高位化 (4th)</strong>あなたの選択により、持続時間は無制限となる。</p>",
       "target": "保持していないの、バルクが1以下の記述された素材",
       "range": "30フィート",
       "duration": "1日",
@@ -6139,7 +6139,7 @@
     },
     "Deep Sight": {
       "name": "ディープ・サイト/Deep Sight",
-      "description": "<p>あなたの瞳は完全に真っ黒になるまで暗くなる。あなたはあなた自身に暗闇を見通す能力を与える。あなたは暗視を得る。すでに暗視を持っている場合、あなたは上級暗視を得る。</p>\n<hr />\n<p><strong>高位化 (+7)</strong>持続時間は次に日課の準備を行うまでである。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.UAiaJYUDLtLToRUU]{呪文 効果: ディープ・サイト}</p>",
+      "description": "<p>あなたの瞳は完全に真っ黒になるまで暗くなる。あなたはあなた自身に暗闇を見通す能力を与える。あなたは暗視を得る。すでに暗視を持っている場合、あなたは上級暗視を得る。</p>\n<hr />\n<p><strong>高位化 (7th)</strong>持続時間は次に日課の準備を行うまでである。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.UAiaJYUDLtLToRUU]{呪文 効果: ディープ・サイト}</p>",
       "duration": "1時間",
       "time": "2"
     },
@@ -6568,7 +6568,7 @@
     },
     "See the Unseen": {
       "name": "シー・ザ・アンシーン/See the Unseen",
-      "description": "<p>あなたの視線は幻影を貫き、@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}なクリーチャーや霊を見つけ出す。あなたは透明なクリーチャーを、まるで透明ではないかのように見ることができる。ただし、その姿はぼやけており、そのため彼らは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となり、識別が困難になる。また、あなたは幽霊のような非実体なクリーチャーが、物体の表面から10フィート以内の場所で物体をすり抜けているのを、それらの物体越しにぼやけた形として見ることもできる。より微細な手がかりによって、あなたは幻影を見破るために行う判定に+2の状況ボーナスを得る。</p>\n<hr />\n<p><strong>高位化 (+5)</strong>この呪文の持続時間は8時間である。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.T5bk6UH7yuYog1Fp]{呪文 効果: シー・ザ・アンシーン}</p>",
+      "description": "<p>あなたの視線は幻影を貫き、@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}なクリーチャーや霊を見つけ出す。あなたは透明なクリーチャーを、まるで透明ではないかのように見ることができる。ただし、その姿はぼやけており、そのため彼らは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となり、識別が困難になる。また、あなたは幽霊のような非実体なクリーチャーが、物体の表面から10フィート以内の場所で物体をすり抜けているのを、それらの物体越しにぼやけた形として見ることもできる。より微細な手がかりによって、あなたは幻影を見破るために行う判定に+2の状況ボーナスを得る。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>この呪文の持続時間は8時間である。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.T5bk6UH7yuYog1Fp]{呪文 効果: シー・ザ・アンシーン}</p>",
       "duration": "10分",
       "time": "2"
     },
@@ -6698,7 +6698,7 @@
     },
     "Unblinking Flame Emblem": {
       "name": "アンブリンキング・フレイム・エンブレム",
-      "description": "<p><strong>トリガー</strong>あなたの最後のアクションは、敵に対する成功した〈ストライク〉であった。</p>\n<hr />\n<p>あなたは対象に、あなたの視覚と炎を投影する燃えるようなシギルを刻み込む。これにより、あなたとあなたの味方は対象の動きを追跡できるようになり、対象にヒットさせやすくなる。対象に対する攻撃ロールは+1状況ボーナスを得る。そして対象に対する成功したストライクは@Damage[1d6[fire]]ダメージを与え、クリティカルヒット時には@Damage[1d10[persistent,fire]]ダメージを与える。しかし、エンブレムからの情報があなたの注意をそらすため、あなたは他の敵に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。このエンブレムはあなたの全注意を必要とする。もし元の持続時間が終了する前に再度<em>unblinking flame emblem</em>を使用した場合、新しい発動が前の発動に取って代わる。</p>\n<hr />\n<p><strong>高位化 (+9)</strong>火炎ダメージは@Damage[1d8[fire]]ダメージに増加し、クリティカルヒット時の持続的な火炎ダメージは@Damage[1d12[persistent,fire]]に増加する。</p>",
+      "description": "<p><strong>トリガー</strong>あなたの最後のアクションは、敵に対する成功した〈ストライク〉であった。</p>\n<hr />\n<p>あなたは対象に、あなたの視覚と炎を投影する燃えるようなシギルを刻み込む。これにより、あなたとあなたの味方は対象の動きを追跡できるようになり、対象にヒットさせやすくなる。対象に対する攻撃ロールは+1状況ボーナスを得る。そして対象に対する成功したストライクは@Damage[1d6[fire]]ダメージを与え、クリティカルヒット時には@Damage[1d10[persistent,fire]]ダメージを与える。しかし、エンブレムからの情報があなたの注意をそらすため、あなたは他の敵に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。このエンブレムはあなたの全注意を必要とする。もし元の持続時間が終了する前に再度<em>unblinking flame emblem</em>を使用した場合、新しい発動が前の発動に取って代わる。</p>\n<hr />\n<p><strong>高位化 (9th)</strong>火炎ダメージは@Damage[1d8[fire]]ダメージに増加し、クリティカルヒット時の持続的な火炎ダメージは@Damage[1d12[persistent,fire]]に増加する。</p>",
       "target": "1体のクリーチャー",
       "duration": "3ラウンド",
       "time": "1"
@@ -6735,7 +6735,7 @@
     },
     "Tailwind": {
       "name": "テイルウィンド",
-      "description": "<p>背中を押す風が、あなたを新たな地平へと駆り立てる。あなたは自身の移動速度に+10フィートの状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.PQHP7Oph3BQX1GhF]{呪文 効果: テイルウィンド}</p>\n<hr />\n<p><strong>高位化 (+2)</strong>持続時間は8時間に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.7vIUF5zbvHzVcJA0]{呪文 効果: テイルウィンド (8時間)}</p>",
+      "description": "<p>背中を押す風が、あなたを新たな地平へと駆り立てる。あなたは自身の移動速度に+10フィートの状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.PQHP7Oph3BQX1GhF]{呪文 効果: テイルウィンド}</p>\n<hr />\n<p><strong>高位化 (2nd)</strong>持続時間は8時間に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.7vIUF5zbvHzVcJA0]{呪文 効果: テイルウィンド (8時間)}</p>",
       "duration": "1時間",
       "time": "2"
     },
@@ -6976,13 +6976,13 @@
     },
     "Angelic Wings": {
       "name": "エンジェリック・ウィングズ",
-      "description": "<p>純粋な光の翼があなたの背中から広がり、あなたの移動速度に等しい飛行移動速度をあなたに与える。あなたの翼は30フィートの半径に明るい光を放つ。この呪文の持続時間が終了する時点で、あなたがまだ飛行中であれば、あなたは@UUID[Compendium.pf2e.spells-srd.Item.TTwOKGqmZeKSyNMH]{ジェントル・ランディング}のように地面へと浮かび降りる。</p>\n<hr />\n<p><strong>高位化 (+5)</strong>持続時間が1分に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.iZYjxY0qYvg5yPP3]{呪文 効果: エンジェリック・ウィングズ}</p>",
+      "description": "<p>純粋な光の翼があなたの背中から広がり、あなたの移動速度に等しい飛行移動速度をあなたに与える。あなたの翼は30フィートの半径に明るい光を放つ。この呪文の持続時間が終了する時点で、あなたがまだ飛行中であれば、あなたは@UUID[Compendium.pf2e.spells-srd.Item.TTwOKGqmZeKSyNMH]{ジェントル・ランディング}のように地面へと浮かび降りる。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>持続時間が1分に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.iZYjxY0qYvg5yPP3]{呪文 効果: エンジェリック・ウィングズ}</p>",
       "duration": "3ラウンド",
       "time": "2"
     },
     "Wind Jump": {
       "name": "ウィンド・ジャンプ/Wind Jump",
-      "description": "<p>あなたは自身の移動速度に等しい飛行移動速度を得る。あなたはターン終了時に固い地面の上にいなければならず、さもなくば落下する。</p><hr /><p><strong>高位化 (+6)</strong>あなたはターン終了時に、空中で足場を見つけるための@Check[acrobatics|dc:30]判定を行うことができる。成功すれば、あなたは落下しない。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.5MI2c9IgxfSeGZQo]{呪文 効果: ウィンド・ジャンプ}</p>",
+      "description": "<p>あなたは自身の移動速度に等しい飛行移動速度を得る。あなたはターン終了時に固い地面の上にいなければならず、さもなくば落下する。</p><hr /><p><strong>高位化 (6th)</strong>あなたはターン終了時に、空中で足場を見つけるための@Check[acrobatics|dc:30]判定を行うことができる。成功すれば、あなたは落下しない。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.5MI2c9IgxfSeGZQo]{呪文 効果: ウィンド・ジャンプ}</p>",
       "duration": "1分",
       "time": "1"
     },
@@ -7025,7 +7025,7 @@
     },
     "Fire Seeds": {
       "name": "ファイア・シーズ/Fire Seeds",
-      "description": "<p>4つのドングリがあなたの手の中で成長し、その殻には脈動する赤とオレンジの模様が走る。あなたやドングリを持っている者は誰でも、〈扱う〉アクションでそれを最大30フィートまで投げることができる。それは5フィートの範囲で爆発し、4d6の火炎ダメージを与える。セーヴには、たとえ他の誰かがドングリを投げたとしても、あなたの呪文DCを使用する。爆発範囲内の地面では炎が1分の間燃え続け、その炎の中に入った、あるいはその中でターンを終了したクリーチャーに@Damage[2d6[fire]]ダメージを与える。クリーチャーは、異なるドングリによって作られた炎の範囲が重なっていたとしても、継続する炎からダメージを受けるのは1ラウンドにつき1回のみである。呪文が終了すると、残っているドングリは腐敗し、ただの土に変わる。</p>\n<hr />\n<p><strong>高位化 (+8)</strong>爆発のダメージは5d6に増加し、継続する炎のダメージは@Damage[3d6[fire]]ダメージに増加する。</p>\n<p><strong>高位化 (+9)</strong>爆発のダメージは6d6に増加し、継続する炎のダメージは3d6に増加する。</p>",
+      "description": "<p>4つのドングリがあなたの手の中で成長し、その殻には脈動する赤とオレンジの模様が走る。あなたやドングリを持っている者は誰でも、〈扱う〉アクションでそれを最大30フィートまで投げることができる。それは5フィートの範囲で爆発し、4d6の火炎ダメージを与える。セーヴには、たとえ他の誰かがドングリを投げたとしても、あなたの呪文DCを使用する。爆発範囲内の地面では炎が1分の間燃え続け、その炎の中に入った、あるいはその中でターンを終了したクリーチャーに@Damage[2d6[fire]]ダメージを与える。クリーチャーは、異なるドングリによって作られた炎の範囲が重なっていたとしても、継続する炎からダメージを受けるのは1ラウンドにつき1回のみである。呪文が終了すると、残っているドングリは腐敗し、ただの土に変わる。</p>\n<hr />\n<p><strong>高位化 (8th)</strong>爆発のダメージは5d6に増加し、継続する炎のダメージは@Damage[3d6[fire]]ダメージに増加する。</p>\n<p><strong>高位化 (9th)</strong>爆発のダメージは6d6に増加し、継続する炎のダメージは3d6に増加する。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -7279,7 +7279,7 @@
     },
     "Day's Weight": {
       "name": "デイズ・ウェイト/Day's Weight",
-      "description": "<p>あなたは単一のクリーチャーの時間を早送りし、丸1日分の疲労と痛みを負わせ、一時的に疲れさせ弱らせる。そのクリーチャーは頑健セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態となり、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態に1ラウンドの間なる。</p>\n<p><strong>失敗</strong>対象は持続時間の間、疲労状態および脆弱1状態となる。</p>\n<p><strong>クリティカル失敗</strong>対象は持続時間の間、疲労状態および@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}状態となる。疲労状態は呪文の持続時間が終了しても終了しない(ただし、夜の休息や同様の手段によって取り除くことはできる)。</p>\n<hr />\n<p><strong>高位化 (+6)</strong>あなたは最大10体までのクリーチャーを対象にできる。</p>",
+      "description": "<p>あなたは単一のクリーチャーの時間を早送りし、丸1日分の疲労と痛みを負わせ、一時的に疲れさせ弱らせる。そのクリーチャーは頑健セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態となり、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態に1ラウンドの間なる。</p>\n<p><strong>失敗</strong>対象は持続時間の間、疲労状態および脆弱1状態となる。</p>\n<p><strong>クリティカル失敗</strong>対象は持続時間の間、疲労状態および@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}状態となる。疲労状態は呪文の持続時間が終了しても終了しない(ただし、夜の休息や同様の手段によって取り除くことはできる)。</p>\n<hr />\n<p><strong>高位化 (6th)</strong>あなたは最大10体までのクリーチャーを対象にできる。</p>",
       "target": "1体の生きているクリーチャー",
       "range": "120フィート",
       "duration": "1分",
@@ -7384,7 +7384,7 @@
     },
     "Traveler's Transit": {
       "name": "トラベラーズ・トランジット",
-      "description": "<p>あなたは筋肉に力を加え、容易に壁を登ったり泳いだりできるようにする。この呪文を発動した時、あなたは登攀移動速度または水泳移動速度のいずれかを得る。その移動速度はあなたの陸上移動速度と等しい。</p>\n<hr />\n<p><strong>高位化 (+5)</strong>あなたは飛行飛行移動速度を得ることを選択できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.Ig9p2rDXGYHpEuTx]{呪文 効果: トラベラーズ・トランジット}</p>",
+      "description": "<p>あなたは筋肉に力を加え、容易に壁を登ったり泳いだりできるようにする。この呪文を発動した時、あなたは登攀移動速度または水泳移動速度のいずれかを得る。その移動速度はあなたの陸上移動速度と等しい。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>あなたは飛行飛行移動速度を得ることを選択できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.Ig9p2rDXGYHpEuTx]{呪文 効果: トラベラーズ・トランジット}</p>",
       "duration": "5分",
       "time": "2"
     },
@@ -7398,7 +7398,7 @@
     },
     "Reclined Apport": {
       "name": "リクラインド・アポート",
-      "description": "<p>アイテムを拾うために歩いていくのは非常に骨が折れる。それがあなたの呪文の書であれ、試薬であれ、あるいはグラスワインであれ、それを自分の手に呼び寄せる方が単純に効率的だ。あなたは対象をあなたの開いた手に瞬間移動させる。もし空いている手がない場合、それはあなたの足元の地面に落ちる。</p><hr /><p><strong>高位化 (+3)</strong>あなたはバルクが1以下の誰も保持していない物体を対象にできる。</p>\n<p><strong>高位化 (+5)</strong>射程が120フィートに増加し、あなたはバルクが1以下の誰も保持していない物体を対象にできる。</p>\n<p><strong>高位化 (+7)</strong>射程が120フィートに増加し、あなたはバルクが2以下の誰も保持していない物体を対象にできる。</p>",
+      "description": "<p>アイテムを拾うために歩いていくのは非常に骨が折れる。それがあなたの呪文の書であれ、試薬であれ、あるいはグラスワインであれ、それを自分の手に呼び寄せる方が単純に効率的だ。あなたは対象をあなたの開いた手に瞬間移動させる。もし空いている手がない場合、それはあなたの足元の地面に落ちる。</p><hr /><p><strong>高位化 (3rd)</strong>あなたはバルクが1以下の誰も保持していない物体を対象にできる。</p>\n<p><strong>高位化 (5th)</strong>射程が120フィートに増加し、あなたはバルクが1以下の誰も保持していない物体を対象にできる。</p>\n<p><strong>高位化 (7th)</strong>射程が120フィートに増加し、あなたはバルクが2以下の誰も保持していない物体を対象にできる。</p>",
       "target": "軽バルク以下の誰も保持していない物体1つ",
       "range": "60フィート",
       "time": "1"
@@ -7412,7 +7412,7 @@
     },
     "Song of Marching": {
       "name": "ソング・オブ・マーチング/Song of Marching",
-      "description": "<p>あなたは味方を移動させ続ける活発な演舞を維持する。あなたと範囲内にいる味方は、この呪文の持続時間中、他の探索行動に加えて@UUID[Compendium.pf2e.actionspf2e.Item.JuqmIAnkL9hVGai8]{〈急いで進む〉}ことができる(あなたの探索活動は、この呪文を維持することである)。その後、あなたとあなたの味方は1日の間、一時的な免疫となる。</p>\n<p>この歌を演じている間に遭遇に突入した場合、イニシアチブ・ロールにあなたの《芸能》修正値を使用できる。あなたと影響を受けた味方は、そのイニシアチブ・ロールに+1の状況ボーナスも得る。</p>\n<hr />\n<p><strong>高位化 (+6)</strong>あなたは最大2時間まで〈呪文の維持〉を行える。</p>\n<p><strong>高位化 (+9)</strong>あなたは最大4時間まで〈呪文の維持〉を行える。</p>",
+      "description": "<p>あなたは味方を移動させ続ける活発な演舞を維持する。あなたと範囲内にいる味方は、この呪文の持続時間中、他の探索行動に加えて@UUID[Compendium.pf2e.actionspf2e.Item.JuqmIAnkL9hVGai8]{〈急いで進む〉}ことができる(あなたの探索活動は、この呪文を維持することである)。その後、あなたとあなたの味方は1日の間、一時的な免疫となる。</p>\n<p>この歌を演じている間に遭遇に突入した場合、イニシアチブ・ロールにあなたの《芸能》修正値を使用できる。あなたと影響を受けた味方は、そのイニシアチブ・ロールに+1の状況ボーナスも得る。</p>\n<hr />\n<p><strong>高位化 (6th)</strong>あなたは最大2時間まで〈呪文の維持〉を行える。</p>\n<p><strong>高位化 (9th)</strong>あなたは最大4時間まで〈呪文の維持〉を行える。</p>",
       "duration": "1時間",
       "time": "1"
     },
@@ -7497,7 +7497,7 @@
     },
     "Glowing Trail": {
       "name": "グローイング・トレイル/Glowing Trail",
-      "description": "<p>あなたの動きは、あなたの存在の霧のような残響のように、背後にぼんやりと光る小径を残す。あなたの姿は判別できないが、サイズは判別できる。この小径は空間に浮かんでおり、どの表面にも固定されていないため、空中でのあなたの動きを追跡する。この小径は10分後に消える。あなたはいつでもこの呪文を〈解除〉できるが、小径は通常通り消える。小径は可視状態にも、@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}状態にもできる。可視状態の間、それはあなたが選んだ色の微かに光る霧として現れるが、その範囲外に光を放つことはない。不可視状態の間、あなたはその小径を感知できるが、それは光を放たない。</p>\n<hr />\n<p><strong>高位化 (+3)</strong>この光る小径は1日後に消える。</p>\n<p><strong>高位化 (+5)</strong>この光る小径は1週間後に消える。</p>\n<p><strong>高位化 (+7)</strong>この光る小径は1ヶ月後に消える。</p>\n<p><strong>高位化 (+9)</strong>この光る小径は1年後に消える。</p>",
+      "description": "<p>あなたの動きは、あなたの存在の霧のような残響のように、背後にぼんやりと光る小径を残す。あなたの姿は判別できないが、サイズは判別できる。この小径は空間に浮かんでおり、どの表面にも固定されていないため、空中でのあなたの動きを追跡する。この小径は10分後に消える。あなたはいつでもこの呪文を〈解除〉できるが、小径は通常通り消える。小径は可視状態にも、@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}状態にもできる。可視状態の間、それはあなたが選んだ色の微かに光る霧として現れるが、その範囲外に光を放つことはない。不可視状態の間、あなたはその小径を感知できるが、それは光を放たない。</p>\n<hr />\n<p><strong>高位化 (3rd)</strong>この光る小径は1日後に消える。</p>\n<p><strong>高位化 (5th)</strong>この光る小径は1週間後に消える。</p>\n<p><strong>高位化 (7th)</strong>この光る小径は1ヶ月後に消える。</p>\n<p><strong>高位化 (9th)</strong>この光る小径は1年後に消える。</p>",
       "duration": "1時間",
       "time": "2"
     },
@@ -7525,7 +7525,7 @@
     },
     "Power Word Kill": {
       "name": "パワー・ワード・キル/Power Word Kill",
-      "description": "<p>あなたは最も強力な秘術のパワー・ワードを唱える。対象が選ばれると、その対象は10分の間、一時的な免疫となる。この呪文の効果は対象のレベルに依存する。</p><ul>\n<li><strong>14レベル以下</strong>対象は即座に死亡する。</li>\n<li><strong>15レベル</strong>対象のヒット・ポイントが50以下であれば、対象は即座に死亡する。そうでなければ、対象のヒット・ポイントは0になり、@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死 1}状態となる。もし既に瀕死状態であれば、その瀕死状態の値が1増加する。</li>\n<li><strong>16レベル以上</strong>対象は50ダメージを受ける。もしこれにより対象のヒット・ポイントが0になった場合、対象は即座に死亡する。</li>\n</ul>\n<hr />\n<p><strong>高位化 (+10)</strong>各結果が適用されるレベルが2増加する。</p>",
+      "description": "<p>あなたは最も強力な秘術のパワー・ワードを唱える。対象が選ばれると、その対象は10分の間、一時的な免疫となる。この呪文の効果は対象のレベルに依存する。</p><ul>\n<li><strong>14レベル以下</strong>対象は即座に死亡する。</li>\n<li><strong>15レベル</strong>対象のヒット・ポイントが50以下であれば、対象は即座に死亡する。そうでなければ、対象のヒット・ポイントは0になり、@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死 1}状態となる。もし既に瀕死状態であれば、その瀕死状態の値が1増加する。</li>\n<li><strong>16レベル以上</strong>対象は50ダメージを受ける。もしこれにより対象のヒット・ポイントが0になった場合、対象は即座に死亡する。</li>\n</ul>\n<hr />\n<p><strong>高位化 (10th)</strong>各結果が適用されるレベルが2増加する。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
       "duration": "様々",
@@ -7548,7 +7548,7 @@
     },
     "Healing Plaster": {
       "name": "ヒーリング・プラスター/Healing Plaster",
-      "description": "<p>あなたは土や泥を浄化し、血液凝固や治癒を助けることができる、しなやかな粘土のような膏薬に変える。この回復物質は、〈応急手当〉や〈傷の手当て〉を行うための《医術》判定において、ヒーラーズ・ツール(治療用具)の代わりに使用できる。もしこの膏薬が呪文の持続時間内に使用されなかった場合、あるいは膏薬を使用する前にあなたが再びこの呪文を発動した場合、それは通常の非魔法的な土に戻る。</p>\n<hr />\n<p><strong>高位化 (+3)</strong>この膏薬は、〈応急手当〉や〈傷の手当て〉を行うためにそれを使用する誰に対しても、《医術》判定に+1のアイテム・ボーナスを与える。</p>",
+      "description": "<p>あなたは土や泥を浄化し、血液凝固や治癒を助けることができる、しなやかな粘土のような膏薬に変える。この回復物質は、〈応急手当〉や〈傷の手当て〉を行うための《医術》判定において、ヒーラーズ・ツール(治療用具)の代わりに使用できる。もしこの膏薬が呪文の持続時間内に使用されなかった場合、あるいは膏薬を使用する前にあなたが再びこの呪文を発動した場合、それは通常の非魔法的な土に戻る。</p>\n<hr />\n<p><strong>高位化 (3rd)</strong>この膏薬は、〈応急手当〉や〈傷の手当て〉を行うためにそれを使用する誰に対しても、《医術》判定に+1のアイテム・ボーナスを与える。</p>",
       "target": "一握りの土か泥",
       "range": "5フィート",
       "duration": "10分",
@@ -7598,7 +7598,7 @@
     },
     "Fey Disappearance": {
       "name": "フェイ・ディサピアランス/Fey Disappearance",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}となり、自然の移動困難な地形(下草など)を無視する。あなたが行ういかなる敵対的なアクションもこの不可視状態を終了させるが、あなたは依然として自然の移動困難な地形を無視する。</p>\n<hr />\n<p><strong>高位化 (+5)</strong>もしあなたが敵対的なアクションを行っても、不可視状態は終了しない。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}となり、自然の移動困難な地形(下草など)を無視する。あなたが行ういかなる敵対的なアクションもこの不可視状態を終了させるが、あなたは依然として自然の移動困難な地形を無視する。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>もしあなたが敵対的なアクションを行っても、不可視状態は終了しない。</p>",
       "duration": "あなたの次のターン終了時まで",
       "time": "1"
     },
@@ -7817,7 +7817,7 @@
     },
     "Pave Ground": {
       "name": "ペイブ・グラウンド/Pave Ground",
-      "description": "<p>あなたは地面を平らにし、低い障害物を押し退ける。エリア内の土、瓦礫、砂などで構成された非魔法の移動困難な地形やより困難な地形は、通常の地形になる。また、エリア内の土の素材で構成された魔法の移動困難な地形やより困難な地形に対して、打ち消し判定を行うこともできる。成功すれば、持続時間の間、それは通常の地形になる。地面は誰かの足場を失わせるほど急速には変化せず、隠蔽をもたらす特徴を非隠蔽にするほど取り除くこともない。GMの判断により、湖の表面の氷のように、平らにしたり取り除いたりするための下地がない「地面」にこの呪文を使用した場合、呪文は失敗する。</p>\n<hr />\n<p><strong>高位化 (+4)</strong>エリアは地面に沿って@Template[line|distance:120]に拡大する。</p>\n<p><strong>高位化 (+6)</strong>エリアは地面に沿って@Template[line|distance:500]に拡大する。</p>",
+      "description": "<p>あなたは地面を平らにし、低い障害物を押し退ける。エリア内の土、瓦礫、砂などで構成された非魔法の移動困難な地形やより困難な地形は、通常の地形になる。また、エリア内の土の素材で構成された魔法の移動困難な地形やより困難な地形に対して、打ち消し判定を行うこともできる。成功すれば、持続時間の間、それは通常の地形になる。地面は誰かの足場を失わせるほど急速には変化せず、隠蔽をもたらす特徴を非隠蔽にするほど取り除くこともない。GMの判断により、湖の表面の氷のように、平らにしたり取り除いたりするための下地がない「地面」にこの呪文を使用した場合、呪文は失敗する。</p>\n<hr />\n<p><strong>高位化 (4th)</strong>エリアは地面に沿って@Template[line|distance:120]に拡大する。</p>\n<p><strong>高位化 (6th)</strong>エリアは地面に沿って@Template[line|distance:500]に拡大する。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -7925,7 +7925,7 @@
     },
     "Water Breathing": {
       "name": "ウォーター・ブリージング/Water Breathing",
-      "description": "<p>対象は水中で呼吸できる。</p>\n<hr />\n<p><strong>高位化 (+3)</strong>持続時間は8時間に増加する。</p>\n<p><strong>高位化 (+4)</strong>持続時間は　次の日課の準備までに増加する。</p>",
+      "description": "<p>対象は水中で呼吸できる。</p>\n<hr />\n<p><strong>高位化 (3rd)</strong>持続時間は8時間に増加する。</p>\n<p><strong>高位化 (4th)</strong>持続時間は　次の日課の準備までに増加する。</p>",
       "target": "最大5体のクリーチャー",
       "range": "30フィート",
       "duration": "1時間",
@@ -7948,7 +7948,7 @@
     },
     "Draw the Lightning": {
       "name": "ドロー・ザ・ライトニング/Draw the Lightning",
-      "description": "<p>空に向かって呼びかけ、あなたは稲妻を召喚し、頭上の敵を貫いてあなたの武器または身体へと落とし、電気の力で帯電させる。あなたはこの呪文の動作構成の一部として、武器または空の手を高く掲げなければならない。そうすると、あなたの頭上の空にある嵐の雲から稲妻が降り注ぎ、対象を貫通して3d12の電撃ダメージを与える(基本反応セーヴ)。この呪文の持続時間中、あなたが高く掲げた武器(空の手を掲げたなら素手攻撃)で行う各ラウンドの最初の〈ストライク〉は、追加で1d12の電撃ダメージを与える。</p>\n<p>この呪文は必要であれば独自の嵐の雲を作り出すため、あなたは地下であってもどこででも<em>draw the lightning</em>を詠唱できる。もし<em>draw the lightning</em>を屋外の曇り空や嵐の空の下で詠唱したなら、その稲妻のダメージを@Damage[2d12[electricity]]増加させる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.fCIT9YgGUwIc3Z9G]{呪文 効果: ドロー・ザ・ライトニング}</p>\n<hr />\n<p><strong>高位化 (+8)</strong>最初の対象に与えるダメージが4d12増加し、各ターンの最初の〈ストライク〉に与える追加ダメージが1d12増加する。</p>",
+      "description": "<p>空に向かって呼びかけ、あなたは稲妻を召喚し、頭上の敵を貫いてあなたの武器または身体へと落とし、電気の力で帯電させる。あなたはこの呪文の動作構成の一部として、武器または空の手を高く掲げなければならない。そうすると、あなたの頭上の空にある嵐の雲から稲妻が降り注ぎ、対象を貫通して3d12の電撃ダメージを与える(基本反応セーヴ)。この呪文の持続時間中、あなたが高く掲げた武器(空の手を掲げたなら素手攻撃)で行う各ラウンドの最初の〈ストライク〉は、追加で1d12の電撃ダメージを与える。</p>\n<p>この呪文は必要であれば独自の嵐の雲を作り出すため、あなたは地下であってもどこででも<em>draw the lightning</em>を詠唱できる。もし<em>draw the lightning</em>を屋外の曇り空や嵐の空の下で詠唱したなら、その稲妻のダメージを@Damage[2d12[electricity]]増加させる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.fCIT9YgGUwIc3Z9G]{呪文 効果: ドロー・ザ・ライトニング}</p>\n<hr />\n<p><strong>高位化 (8th)</strong>最初の対象に与えるダメージが4d12増加し、各ターンの最初の〈ストライク〉に与える追加ダメージが1d12増加する。</p>",
       "target": "あなたより背が高いか、あなたより高い位置にいる1体のクリーチャー",
       "range": "120フィート",
       "duration": "1分",
@@ -7993,7 +7993,7 @@
     },
     "Blazing Blade": {
       "name": "ブレイジング・ブレイド/Blazing Blade",
-      "description": "<p>あなたの空いている手から、シミターの形をした火炎の光のビームが飛び出す。この呪文が持続している間、あなたは1つのアクション(攻撃特性と精神集中特性を持つ)を使用して、<em>blazing blade</em>で敵を焼き払うことができる。そうする際、呪文攻撃ロールを行う。成功すると、<em>blazing blade</em>は1d6の火炎ダメージに加え、1d6の精神ダメージとあなたの呪文発動能力修正値を与える。大成功すると、通常の2倍のダメージを与える。</p>\n<hr />\n<p><strong>高位化 (+4)</strong>刃の火炎ダメージが2d6に増加する。大成功すると、対象は@Damage[(ternary(gte(@item.level,8),3,ternary(gte(@item.level,6),2,1)))d6[persistent,spirit]]ダメージを受ける。</p>\n<p><strong>高位化 (+6)</strong>刃の火炎ダメージが3d6に増加する。大成功すると、対象は2d6の持続精神ダメージを受ける。</p>\n<p><strong>高位化 (+8)</strong>刃の火炎ダメージが4d6に増加する。大成功すると、対象は3d6の持続精神ダメージを受ける。</p>",
+      "description": "<p>あなたの空いている手から、シミターの形をした火炎の光のビームが飛び出す。この呪文が持続している間、あなたは1つのアクション(攻撃特性と精神集中特性を持つ)を使用して、<em>blazing blade</em>で敵を焼き払うことができる。そうする際、呪文攻撃ロールを行う。成功すると、<em>blazing blade</em>は1d6の火炎ダメージに加え、1d6の精神ダメージとあなたの呪文発動能力修正値を与える。大成功すると、通常の2倍のダメージを与える。</p>\n<hr />\n<p><strong>高位化 (4th)</strong>刃の火炎ダメージが2d6に増加する。大成功すると、対象は@Damage[(ternary(gte(@item.level,8),3,ternary(gte(@item.level,6),2,1)))d6[persistent,spirit]]ダメージを受ける。</p>\n<p><strong>高位化 (6th)</strong>刃の火炎ダメージが3d6に増加する。大成功すると、対象は2d6の持続精神ダメージを受ける。</p>\n<p><strong>高位化 (8th)</strong>刃の火炎ダメージが4d6に増加する。大成功すると、対象は3d6の持続精神ダメージを受ける。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -8361,7 +8361,7 @@
     },
     "Empathic Link": {
       "name": "エンパシック・リンク/Empathic Link",
-      "description": "<p>あなたはあなた自身と対象との間に絆を築き、互いの感情を感じ取れるようにする。あなたと対象は、最大1マイルの距離で、感情を共有し、共感的に意思疎通を行うことができる。</p>\n<hr />\n<p><strong>高位化 (+4)</strong>あなたは最大4体までの同意するクリーチャーを対象とすることができ、持続時間は8時間に増加する。</p>",
+      "description": "<p>あなたはあなた自身と対象との間に絆を築き、互いの感情を感じ取れるようにする。あなたと対象は、最大1マイルの距離で、感情を共有し、共感的に意思疎通を行うことができる。</p>\n<hr />\n<p><strong>高位化 (4th)</strong>あなたは最大4体までの同意するクリーチャーを対象とすることができ、持続時間は8時間に増加する。</p>",
       "target": "1体の同意するクリーチャー",
       "range": "接触",
       "duration": "1時間",
@@ -8405,7 +8405,7 @@
     },
     "Read Aura": {
       "name": "リード・オーラ",
-      "description": "<p>対象の物体に意識を集中し、魔法のオーラを知覚するために心を開く発動が完了すると、そのアイテムが魔法のものかどうかわかる。あなた、またはあなたがオーラについて助言した人物は、そのアイテムに対する@UUID[Compendium.pf2e.actionspf2e.Item.eReSHVEPCsdkSL4G]{〈魔法の識別〉}判定に+2の状況ボーナスを得る。対象が幻術である場合、その効果のランクがあなたの<em>read aura</em>呪文のランクよりも低い場合にのみ、それを探知できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.J6OhRNSN23KzOPRL]{呪文 効果: リード・オーラ}</p><hr /><p><strong>高位化 (+3)</strong>最大10個の物体を対象にできる。</p>\n<p><strong>高位化 (+6)</strong>任意の数の物体を対象にできる。</p>",
+      "description": "<p>対象の物体に意識を集中し、魔法のオーラを知覚するために心を開く発動が完了すると、そのアイテムが魔法のものかどうかわかる。あなた、またはあなたがオーラについて助言した人物は、そのアイテムに対する@UUID[Compendium.pf2e.actionspf2e.Item.eReSHVEPCsdkSL4G]{〈魔法の識別〉}判定に+2の状況ボーナスを得る。対象が幻術である場合、その効果のランクがあなたの<em>read aura</em>呪文のランクよりも低い場合にのみ、それを探知できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.J6OhRNSN23KzOPRL]{呪文 効果: リード・オーラ}</p><hr /><p><strong>高位化 (3rd)</strong>最大10個の物体を対象にできる。</p>\n<p><strong>高位化 (6th)</strong>任意の数の物体を対象にできる。</p>",
       "target": "1つのオブジェクト",
       "range": "30フィート",
       "time": "1分"
@@ -8503,7 +8503,7 @@
     },
     "Fungal Hyphae": {
       "name": "ファンガル・ハイファイ/Fungal Hyphae",
-      "description": "<p>あなたの足から細い菌糸が伸びて大地に潜り込み、共生的な菌類ネットワークを作り出す。これは30フィート以内の植物に付着し、あなたをそれらの根系と接続する。あなたは不正確な振動感知を得て、その距離以内で接触している植物を感知できるようになる。あなたが移動すると菌糸は断ち切られ、呪文は終了する。</p><hr /><p><strong>高位化 (+4)</strong>あなたはその範囲内の植物をわずかな程度に制御でき、木の枝、露出した根、あるいは同様に硬い植物を使ってストライクを行えるようになる。これを行うには〈ストライク〉アクションを使用するが、あなたの振動感知で探知できるクリーチャーであれば誰にでも〈ストライク〉できる。これらは呪文攻撃であり、@Damage[3d8[bludgeoning]]ダメージを与える。棘のあるつるのような特殊な植物は、GMの判断により異なる種類のダメージを与える可能性がある。あなたはこれらの植物を通じて他の攻撃を行ったり、これらのストライク以外の他のアクションを行ったりすることはできない。</p>\n<p><strong>高位化 (+6)</strong> 4レベルと同様だが、植物を通じて他の単純な操作アクションを行えるようになる。これには枝で物体を拾い上げたり、扉を開けたりすることが含まれるが、鍵開けや罠解除のようなより複雑なアクションは不可能なままである。</p>",
+      "description": "<p>あなたの足から細い菌糸が伸びて大地に潜り込み、共生的な菌類ネットワークを作り出す。これは30フィート以内の植物に付着し、あなたをそれらの根系と接続する。あなたは不正確な振動感知を得て、その距離以内で接触している植物を感知できるようになる。あなたが移動すると菌糸は断ち切られ、呪文は終了する。</p><hr /><p><strong>高位化 (4th)</strong>あなたはその範囲内の植物をわずかな程度に制御でき、木の枝、露出した根、あるいは同様に硬い植物を使ってストライクを行えるようになる。これを行うには〈ストライク〉アクションを使用するが、あなたの振動感知で探知できるクリーチャーであれば誰にでも〈ストライク〉できる。これらは呪文攻撃であり、@Damage[3d8[bludgeoning]]ダメージを与える。棘のあるつるのような特殊な植物は、GMの判断により異なる種類のダメージを与える可能性がある。あなたはこれらの植物を通じて他の攻撃を行ったり、これらのストライク以外の他のアクションを行ったりすることはできない。</p>\n<p><strong>高位化 (6th)</strong> 4レベルと同様だが、植物を通じて他の単純な操作アクションを行えるようになる。これには枝で物体を拾い上げたり、扉を開けたりすることが含まれるが、鍵開けや罠解除のようなより複雑なアクションは不可能なままである。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -9342,7 +9342,7 @@
     },
     "Detect Poison": {
       "name": "毒探知ディテクト・ポイズン",
-      "description": "<p>あなたはクリーチャーが有毒であるか毒を持っているか、あるいは物体が毒であるか毒を塗られているかを感知する。対象が複数の方法で有毒であるかどうかを突き止めることはできず、毒の種類を知ることもできない。鉛やアルコールのような特定の物質は毒であるため、他の毒を仮面する。</p>\n<hr />\n<p><strong>高位化 (+2)</strong>あなたは毒の数と種類を知ることができる。</p>",
+      "description": "<p>あなたはクリーチャーが有毒であるか毒を持っているか、あるいは物体が毒であるか毒を塗られているかを感知する。対象が複数の方法で有毒であるかどうかを突き止めることはできず、毒の種類を知ることもできない。鉛やアルコールのような特定の物質は毒であるため、他の毒を仮面する。</p>\n<hr />\n<p><strong>高位化 (2nd)</strong>あなたは毒の数と種類を知ることができる。</p>",
       "target": "1つのオブジェクトまたはクリーチャー",
       "range": "30フィート",
       "time": "2"
@@ -9654,7 +9654,7 @@
     },
     "Forceful Hand": {
       "name": "フォースフル・ハンド/Forceful Hand",
-      "description": "<p>魔法の力でできた、実体のない浮遊する手があなたの隣の占有されていないスペースに出現し、戦場を追従して敵の攻撃からあなたを遮蔽する。あなたが〈呪文の維持〉を行うたびに、その手はあなたの隣のあなたが選んだ占有されていないスペースに移動する。あなたが〈呪文の維持〉を行う際、その手は味方を守るために、その味方の隣のあなたが選んだ占有されていないスペースへ〈飛行〉するように指示できる。その手の移動は、クリーチャーの移動に基づくリアクションを誘発しない。<em>フォースフル・ハンド</em>はそのスペースを占有するが、クリーチャーはその手を自由に通り抜けることができる。</p>\n<p>その手に対する攻撃が成功すればダメージを与えられるし、クリーチャーを対象にできるダメージを与える効果はその手を対象にできる。その手はAC25、ヒット・ポイント50を持ち、いかなる手段でもHPを回復できない。<em>ディスインテグレイト</em>呪文や類似の効果によるヒットは、その手を破壊する。</p>\n<p>その手のアクションとそれが提供する遮蔽は、あなたのターン中に行うアクションによって決まる。あなたのターンの終了時に、その手が何を行うかは、あなたのターンに使用したアクションのいずれかの特性と一致するこのリストの最初の項目によって決定される。例えば、あなたが〈ステップ〉、〈ストライド〉、〈呪文の維持〉を行った場合、移動アクションの項目を使用するため、その手は通常遮蔽を提供する。</p><ul><li><strong>手作業または攻撃</strong>その手はあなたと敵の間に割り込む。その手は、その手のスクエアを通過するすべての攻撃に対して、小遮蔽(ACへの状況ボーナス+1)を提供する。</li><li><strong>移動</strong>その手は、その手のスクエアを通過するすべての攻撃に対して、通常遮蔽(AC、反応、および《隠密》判定への状況ボーナス+2)を提供する。</li><li><strong>精神集中</strong>その手は、その手のスクエアを通過するすべての攻撃に対して、大遮蔽(AC、反応、および《隠密》判定への状況ボーナス+4)を提供する。</li></ul><hr /><p><strong>高位化(6レベル)</strong>その手はAC27とヒット・ポイント60を持つ。この呪文を発動する際、その手の手作業または攻撃の選択肢をSwatに置き換えることを選択できる。</p><ul><li><strong>Swat</strong>その手は射程内のあなたが選んだ敵の元へ飛行し、その敵をPushしようと試みる。Pushの結果を決定するには、《運動》判定の代わりにあなたの呪文攻撃ロールを使用する。</li></ul><p><strong>高位化(7レベル)</strong>その手はAC30とヒット・ポイント70を持ち、大型である。この呪文を発動する際、その手の手作業または攻撃の選択肢をGraspまたはSwatに置き換えることを選択できる。</p><ul><li><strong>Grasp</strong>その手は射程内のあなたが選んだ敵の元へ飛行し、その敵を〈組み付き〉しようと試みる。〈組み付き〉の結果を決定するには、《運動》判定の代わりにあなたの呪文攻撃ロールを使用する。</li></ul><p><strong>高位化 (+8)</strong>その手はAC32とヒット・ポイント80を持ち、大型である。この呪文を発動する際、その手の手作業または攻撃の選択肢をGrasp、Punch、またはSwatに置き換えることを選択できる。</p><ul><li><strong>Punch</strong>その手は射程内のあなたが選んだ敵の元へ飛行し、その敵を圧倒的な力で〈ストライク〉しようと試みる。その手のストライクはあなたの近接呪文攻撃修正値を使用し、@Damage[7d8[force]]ダメージを与える。その手のストライクはあなたのマルチアタック・ペナルティを使用せず、またそれに寄与もしない。</li></ul><p><strong>高位化 (+9)</strong>その手はAC35とヒット・ポイント90を持ち、大型である。この呪文を発動する際、その手の手作業または攻撃の選択肢をCrush、Grasp、Punch、またはSwatに置き換えることを選択できる。</p><ul><li><strong>Crush</strong>その手がターゲットを組み付いていない場合、射程内のあなたが選んだ敵の元へ飛行し、その敵を致命的な圧倒的力で〈ストライク〉しようと試みる。その手のストライクは近接呪文攻撃であり、@Damage[6d8[force]]ダメージを与える。その手のストライクはあなたのマルチアタック・ペナルティを受けず、またそれに寄与もしない。〈ストライク〉が成功した場合、その手が移動するか、ターゲットがあなたの呪文DCに対してEscapeに成功しない限り、ターゲットはあなたの次のターン終了時までその手に組み付かれる。しかし、その手がCrushを使用する際にターゲットを組み付いている場合、代わりにそのターゲットを@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.g26YiEIfSHCpLocV]{Constricts}し、基本頑健セーヴで@Damage[6d8[force]]ダメージを与える。</li></ul>",
+      "description": "<p>魔法の力でできた、実体のない浮遊する手があなたの隣の占有されていないスペースに出現し、戦場を追従して敵の攻撃からあなたを遮蔽する。あなたが〈呪文の維持〉を行うたびに、その手はあなたの隣のあなたが選んだ占有されていないスペースに移動する。あなたが〈呪文の維持〉を行う際、その手は味方を守るために、その味方の隣のあなたが選んだ占有されていないスペースへ〈飛行〉するように指示できる。その手の移動は、クリーチャーの移動に基づくリアクションを誘発しない。<em>フォースフル・ハンド</em>はそのスペースを占有するが、クリーチャーはその手を自由に通り抜けることができる。</p>\n<p>その手に対する攻撃が成功すればダメージを与えられるし、クリーチャーを対象にできるダメージを与える効果はその手を対象にできる。その手はAC25、ヒット・ポイント50を持ち、いかなる手段でもHPを回復できない。<em>ディスインテグレイト</em>呪文や類似の効果によるヒットは、その手を破壊する。</p>\n<p>その手のアクションとそれが提供する遮蔽は、あなたのターン中に行うアクションによって決まる。あなたのターンの終了時に、その手が何を行うかは、あなたのターンに使用したアクションのいずれかの特性と一致するこのリストの最初の項目によって決定される。例えば、あなたが〈ステップ〉、〈ストライド〉、〈呪文の維持〉を行った場合、移動アクションの項目を使用するため、その手は通常遮蔽を提供する。</p><ul><li><strong>手作業または攻撃</strong>その手はあなたと敵の間に割り込む。その手は、その手のスクエアを通過するすべての攻撃に対して、小遮蔽(ACへの状況ボーナス+1)を提供する。</li><li><strong>移動</strong>その手は、その手のスクエアを通過するすべての攻撃に対して、通常遮蔽(AC、反応、および《隠密》判定への状況ボーナス+2)を提供する。</li><li><strong>精神集中</strong>その手は、その手のスクエアを通過するすべての攻撃に対して、大遮蔽(AC、反応、および《隠密》判定への状況ボーナス+4)を提供する。</li></ul><hr /><p><strong>高位化(6レベル)</strong>その手はAC27とヒット・ポイント60を持つ。この呪文を発動する際、その手の手作業または攻撃の選択肢をSwatに置き換えることを選択できる。</p><ul><li><strong>Swat</strong>その手は射程内のあなたが選んだ敵の元へ飛行し、その敵をPushしようと試みる。Pushの結果を決定するには、《運動》判定の代わりにあなたの呪文攻撃ロールを使用する。</li></ul><p><strong>高位化(7レベル)</strong>その手はAC30とヒット・ポイント70を持ち、大型である。この呪文を発動する際、その手の手作業または攻撃の選択肢をGraspまたはSwatに置き換えることを選択できる。</p><ul><li><strong>Grasp</strong>その手は射程内のあなたが選んだ敵の元へ飛行し、その敵を〈組み付き〉しようと試みる。〈組み付き〉の結果を決定するには、《運動》判定の代わりにあなたの呪文攻撃ロールを使用する。</li></ul><p><strong>高位化 (8th)</strong>その手はAC32とヒット・ポイント80を持ち、大型である。この呪文を発動する際、その手の手作業または攻撃の選択肢をGrasp、Punch、またはSwatに置き換えることを選択できる。</p><ul><li><strong>Punch</strong>その手は射程内のあなたが選んだ敵の元へ飛行し、その敵を圧倒的な力で〈ストライク〉しようと試みる。その手のストライクはあなたの近接呪文攻撃修正値を使用し、@Damage[7d8[force]]ダメージを与える。その手のストライクはあなたのマルチアタック・ペナルティを使用せず、またそれに寄与もしない。</li></ul><p><strong>高位化 (9th)</strong>その手はAC35とヒット・ポイント90を持ち、大型である。この呪文を発動する際、その手の手作業または攻撃の選択肢をCrush、Grasp、Punch、またはSwatに置き換えることを選択できる。</p><ul><li><strong>Crush</strong>その手がターゲットを組み付いていない場合、射程内のあなたが選んだ敵の元へ飛行し、その敵を致命的な圧倒的力で〈ストライク〉しようと試みる。その手のストライクは近接呪文攻撃であり、@Damage[6d8[force]]ダメージを与える。その手のストライクはあなたのマルチアタック・ペナルティを受けず、またそれに寄与もしない。〈ストライク〉が成功した場合、その手が移動するか、ターゲットがあなたの呪文DCに対してEscapeに成功しない限り、ターゲットはあなたの次のターン終了時までその手に組み付かれる。しかし、その手がCrushを使用する際にターゲットを組み付いている場合、代わりにそのターゲットを@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.g26YiEIfSHCpLocV]{Constricts}し、基本頑健セーヴで@Damage[6d8[force]]ダメージを与える。</li></ul>",
       "range": "60フィート",
       "duration": "1分",
       "time": "2"
@@ -9938,7 +9938,7 @@
     },
     "Tame": {
       "name": "テイム/Tame",
-      "description": "<p>あなたは慰めるような音と身振りを行い、慎重さと自信を組み合わせて友好的な態度で対象に近づく。対象が意志セーヴに成功しない限り、呪文の持続時間中、対象のあなたに対する態度を1段階改善する(非友好的から中立へ、中立から友好的へ、友好的から協力的へ)。その後、対象は1日の間、一時的な免疫となる。</p>\n<p>この呪文は家畜化された動物にのみ作用する。例えば、番犬や野良犬には使用できるが、野生の犬や狼には使用できない。その動物が社会化されているかどうかが疑問である場合、その判断はGMに委ねられる。</p>\n<hr />\n<p><strong>高位化 (+3)</strong>持続時間が10分になる。</p>\n<p><strong>高位化 (+6)</strong>持続時間が1時間になる。</p>",
+      "description": "<p>あなたは慰めるような音と身振りを行い、慎重さと自信を組み合わせて友好的な態度で対象に近づく。対象が意志セーヴに成功しない限り、呪文の持続時間中、対象のあなたに対する態度を1段階改善する(非友好的から中立へ、中立から友好的へ、友好的から協力的へ)。その後、対象は1日の間、一時的な免疫となる。</p>\n<p>この呪文は家畜化された動物にのみ作用する。例えば、番犬や野良犬には使用できるが、野生の犬や狼には使用できない。その動物が社会化されているかどうかが疑問である場合、その判断はGMに委ねられる。</p>\n<hr />\n<p><strong>高位化 (3rd)</strong>持続時間が10分になる。</p>\n<p><strong>高位化 (6th)</strong>持続時間が1時間になる。</p>",
       "target": "1体の非敵対的な家畜",
       "range": "10フィート",
       "duration": "1分",
@@ -10025,7 +10025,7 @@
     },
     "Water Walk": {
       "name": "ウォーター・ウォーク/Water Walk",
-      "description": "<p>対象は水やその他の液体の表面を沈むことなく歩くことができる。対象は望めば水中に潜ることができるが、その場合は通常通り〈水泳〉を行わなければならない。この呪文は水中呼吸の能力を付与しない。</p>\n<hr />\n<p><strong>高位化 (+4)</strong>呪文の射程が30フィートに増加し、持続時間が1時間に増加し、最大10体までのクリーチャーを対象にできる。</p>",
+      "description": "<p>対象は水やその他の液体の表面を沈むことなく歩くことができる。対象は望めば水中に潜ることができるが、その場合は通常通り〈水泳〉を行わなければならない。この呪文は水中呼吸の能力を付与しない。</p>\n<hr />\n<p><strong>高位化 (4th)</strong>呪文の射程が30フィートに増加し、持続時間が1時間に増加し、最大10体までのクリーチャーを対象にできる。</p>",
       "target": "1体のクリーチャー",
       "range": "接触",
       "duration": "10分",
@@ -10211,7 +10211,7 @@
     },
     "Keen Smell": {
       "name": "キーン・スメル/Keen Smell",
-      "description": "<p>あなたの鼻は野生の匂いに対してより敏感になり、採石場を追跡しやすくなる。呪文の持続時間中、あなたは射程30フィートの不明瞭な感覚として「嗅覚」を得る。あなたのハント・プレイがあなたの嗅覚の射程内にいる限り、それはあなたに対して「未検知」状態になることはできない。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.VzokjUa8RMYo5Id6]{呪文 効果: キーン・スメル}</p>\n<hr />\n<p><strong>高位化 (+3)</strong>あなたの嗅覚の射程は60フィートに増加する。</p>",
+      "description": "<p>あなたの鼻は野生の匂いに対してより敏感になり、採石場を追跡しやすくなる。呪文の持続時間中、あなたは射程30フィートの不明瞭な感覚として「嗅覚」を得る。あなたのハント・プレイがあなたの嗅覚の射程内にいる限り、それはあなたに対して「未検知」状態になることはできない。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.VzokjUa8RMYo5Id6]{呪文 効果: キーン・スメル}</p>\n<hr />\n<p><strong>高位化 (3rd)</strong>あなたの嗅覚の射程は60フィートに増加する。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -10229,7 +10229,7 @@
     },
     "Sky Signs": {
       "name": "スカイ・サインズ/Sky Signs",
-      "description": "<p>あなたは空そのものにメッセージを刻み込む。この儀式を発動するには、送りたいメッセージのための一連のシンボルを選択する必要があり、それはあなたが選んだ大気現象によって伝えることができる。コモンな選択肢には、日中の注意深く形作られた雲や夜のオーロラが含まれる。風の次元界の多くの住人や星を観測するアイラクシスのような一部の文化は、<em>空の徴(スカイ・サイン)</em>を使用して明確に意思疎通するための複雑な象徴体系を発達させている。</p>\n<p>メッセージはあなたの頭上の空に現れ、地平線まで見える。この方法で伝えるためには、メッセージは非常に単純でなければならない。典型的には5語以下で表現できるものである。シンボルは、それを見る誰にとっても同じに見える。メッセージを隠したい場合、あなたが選んだ対象には意味が通じるが、他の観衆には通じないようなシンボルを選ぶ必要がある。</p>\n<hr />\n<p><strong>クリティカル成功</strong>あなたは選んだ徴を表示し、メッセージはそれを見る誰にとっても明確である。</p>\n<p><strong>成功</strong>あなたはメッセージのいくぶん混乱したバージョンを表示する。徴は完全には明確ではなく、それを見る者による解釈を必要とする。そして多くの者がそれらを誤って解釈する。</p>\n<p><strong>失敗</strong>あなたはメッセージを表示できない。</p>\n<p><strong>クリティカル失敗</strong>風の精霊たちはあなたのメッセージを厚かましく、不快なものとみなす。罰として、彼らはあなたの意図したメッセージの反対を空に刻み込み、そのメッセージはそれを見る誰にとっても明確である。</p>\n<hr />\n<p><strong>高位化 (+10)</strong>あなたのメッセージの範囲は真に驚異的であり、惑星全体で見ることができる。</p>",
+      "description": "<p>あなたは空そのものにメッセージを刻み込む。この儀式を発動するには、送りたいメッセージのための一連のシンボルを選択する必要があり、それはあなたが選んだ大気現象によって伝えることができる。コモンな選択肢には、日中の注意深く形作られた雲や夜のオーロラが含まれる。風の次元界の多くの住人や星を観測するアイラクシスのような一部の文化は、<em>空の徴(スカイ・サイン)</em>を使用して明確に意思疎通するための複雑な象徴体系を発達させている。</p>\n<p>メッセージはあなたの頭上の空に現れ、地平線まで見える。この方法で伝えるためには、メッセージは非常に単純でなければならない。典型的には5語以下で表現できるものである。シンボルは、それを見る誰にとっても同じに見える。メッセージを隠したい場合、あなたが選んだ対象には意味が通じるが、他の観衆には通じないようなシンボルを選ぶ必要がある。</p>\n<hr />\n<p><strong>クリティカル成功</strong>あなたは選んだ徴を表示し、メッセージはそれを見る誰にとっても明確である。</p>\n<p><strong>成功</strong>あなたはメッセージのいくぶん混乱したバージョンを表示する。徴は完全には明確ではなく、それを見る者による解釈を必要とする。そして多くの者がそれらを誤って解釈する。</p>\n<p><strong>失敗</strong>あなたはメッセージを表示できない。</p>\n<p><strong>クリティカル失敗</strong>風の精霊たちはあなたのメッセージを厚かましく、不快なものとみなす。罰として、彼らはあなたの意図したメッセージの反対を空に刻み込み、そのメッセージはそれを見る誰にとっても明確である。</p>\n<hr />\n<p><strong>高位化 (10th)</strong>あなたのメッセージの範囲は真に驚異的であり、惑星全体で見ることができる。</p>",
       "duration": "8時間",
       "time": "1日",
       "cost": "合計300gp相当のレンズと上質な鉱石の粉末",
@@ -10279,7 +10279,7 @@
     },
     "Connective Current": {
       "name": "コネクティヴ・カレント",
-      "description": "<p>あなたは自身と敵との間に魔法的な繋がりを作り出す。まるで両者が同じ海流に巻き込まれたかのように。対象が移動アクションを行うとき、あなたはリアクションとして、対象と同じ方向へ自身の移動速度の半分まで〈ストライド〉できる。</p><hr /><p><strong>高位化 (+4)</strong>あなたは自身の移動速度まで〈ストライド〉できる。</p>\n<p><strong>高位化 (+6)</strong> 4レベルと同様。さらに、あなたはこの呪文を発動した時と、各ターンの開始時に、この移動を行うためだけに使用できる追加のリアクションを1つ得る。</p>",
+      "description": "<p>あなたは自身と敵との間に魔法的な繋がりを作り出す。まるで両者が同じ海流に巻き込まれたかのように。対象が移動アクションを行うとき、あなたはリアクションとして、対象と同じ方向へ自身の移動速度の半分まで〈ストライド〉できる。</p><hr /><p><strong>高位化 (4th)</strong>あなたは自身の移動速度まで〈ストライド〉できる。</p>\n<p><strong>高位化 (6th)</strong> 4レベルと同様。さらに、あなたはこの呪文を発動した時と、各ターンの開始時に、この移動を行うためだけに使用できる追加のリアクションを1つ得る。</p>",
       "target": "敵1体",
       "range": "30フィート",
       "time": "2",
@@ -10883,7 +10883,7 @@
     },
     "Discern Secrets": {
       "name": "ディサーン・シークレッツ/Discern Secrets",
-      "description": "<p>あなたのパトロンは慈悲深くもいくつかの秘密を囁く。対象はフリー・アクションとして@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}、@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}を行える。あなたがこの呪文を〈維持〉している限り、対象はそのロールに使用する能力値(技能または《知覚》)に+1の状況ボーナスを得る。対象は1分の間、<em>discern secrets</em>に対して一時的な免疫となる。</p>\n<hr />\n<p><strong>高位化 (+5)</strong>あなたは1体ではなく2体のクリーチャーを対象にできる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.pzbU0cdyRvE66XBi]{呪文 効果：ディサーン・シークレッツ}</p>",
+      "description": "<p>あなたのパトロンは慈悲深くもいくつかの秘密を囁く。対象はフリー・アクションとして@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}、@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}を行える。あなたがこの呪文を〈維持〉している限り、対象はそのロールに使用する能力値(技能または《知覚》)に+1の状況ボーナスを得る。対象は1分の間、<em>discern secrets</em>に対して一時的な免疫となる。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>あなたは1体ではなく2体のクリーチャーを対象にできる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.pzbU0cdyRvE66XBi]{呪文 効果：ディサーン・シークレッツ}</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
       "duration": "1分",
@@ -11704,7 +11704,7 @@
     },
     "Animal Form": {
       "name": "アニマル・フォーム/Animal Form",
-      "description": "|||<p>あなたは原始のエネルギーを呼び出し、あなた自身を中型の動物の戦闘形態に変身させる。この呪文を発動する際、リストにある戦闘形態を1つ選択すること。動物の具体的な種類(ネコ科ならライオンやユキヒョウなど)を決めることはできるが、これはその形態のサイズや能力値には影響しない。この形態の間、あなたは動物の特性を得る。あなたは呪文を〈解除〉できる。</p>\n<p>あなたは、どの動物を選択したかに関わらず、以下の能力値と能力を得る：</p><ul><li>AC ＝ 16 ＋ あなたのレベル。鎧の判定ペナルティと移動速度減少を無視する。</li><li>5 一時的ヒット・ポイント。</li><li>微光視覚と、30フィートの不正確な嗅覚。</li><li>あなたの戦闘形態に固有の1つ以上の素手の近接攻撃。これらはあなたが〈ストライク〉を行える唯一の攻撃である。あなたはそれらに対して訓練済みである。あなたの攻撃修正値は＋9であり、ダメージ・ボーナスは＋1である。これらの攻撃は筋力に基づいている(例えば、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱}状態の目的において)。もしあなたの素手攻撃ボーナスの方が高いなら、代わりにそれを使用できる。</li><li>《運動》修正値は＋9である(あなた自身の修正値の方が高い場合を除く)。</li></ul><hr /><p>あなたは選択した動物の種類に基づいて、さらに特定の能力を得る：</p><ul><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.tk3go5Cl6Qt130Dk]{エイプ}</strong></p><ul><li>移動速度 25フィート、登攀移動速度 20フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span> 拳、<strong>ダメージ</strong> 2d6 殴打。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.gQnDKDeBTtjwOWAk]{ベア}</strong></p><ul><li>移動速度 30フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span> 顎、<strong>ダメージ</strong> 2d8 刺突；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span> 爪(アジャイル)、<strong>ダメージ</strong> 1d8 斬撃。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.BT1ofB6RvRocQOWO]{ブル}</strong></p><ul><li>移動速度 30フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span> 角、<strong>ダメージ</strong> 2d8 刺突。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.sN3mQ7YrPBogEJRn]{キャナイン}</strong></p><ul><li>移動速度 40フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span> 顎、<strong>ダメージ</strong> 2d8 刺突。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.ptOqsN5FS0nQh7RW]{キャット}</strong></p><ul><li>移動速度 40フィート；</li>|||<li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎、<strong>ダメージ</strong> 2d6刺突；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>爪(アジャイル)、<strong>ダメージ</strong> 1d10斬撃。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.1Gax900IAwhLCi4q]{クラブ}</strong></p><ul><li>移動速度25フィート、水泳移動速度15フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>大きな爪、<strong>ダメージ</strong> 2d8刺突；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>小さな爪(アジャイル)、<strong>ダメージ</strong> 2d4刺突。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.0B3noZtrBfeHC7ye]{クロコダイル}</strong></p><ul><li>移動速度25フィート、水泳移動速度30フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎、<strong>ダメージ</strong> 2d8刺突；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>尾(アジャイル)、<strong>ダメージ</strong> 1d8殴打。</li><li>変身の持続時間中、息を止めておくことができる。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.F4DTpDXNu5IliyhJ]{ディア}</strong></p><ul><li>移動速度50フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>角、<strong>ダメージ</strong> 2d6刺突。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.j2LhQ7kEQhq3J3zZ]{フロッグ}</strong></p><ul><li>移動速度25フィート、水泳移動速度25フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎、<strong>ダメージ</strong> 2d6殴打；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>舌(リーチ15フィート)、<strong>ダメージ</strong> 2d4殴打。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.rmtCkBCEwyg919N0]{オルカ}</strong></p><ul><li>水泳移動速度35フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎、<strong>ダメージ</strong> 2d8刺突；</li><li>変身の持続時間中、息を止めておくことができる。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.tUelWvSaNZBng42K]{シール}</strong></p><ul><li>移動速度20フィート、水泳移動速度30フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎(組み付き)、<strong>ダメージ</strong> 2d6刺突；</li><li>変身の持続時間中、息を止めておくことができる。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.qPaEEhczUWCQo6ux]{シャーク}</strong></p><ul><li>水泳移動速度35フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎、<strong>ダメージ</strong> 2d8刺突；</li><li>水中で呼吸できるが、空気中ではできない。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.kz3mlFwb9tV9bFwu]{スネーク}</strong></p><ul><li>移動速度20フィート、登攀移動速度20フィート、水泳移動速度20フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>牙、<strong>ダメージ</strong> 2d4刺突に加え1d6の毒。</li></ul></li></ul><hr /><p><strong>高位化 (+3)</strong>あなたは代わりに10の一時的HPを得る。AC＝17＋あなたのレベル、攻撃修正値＋14、ダメージ・ボーナス＋5、《運動》＋14。</p>\n<p><strong>高位化 (+4)</strong>あなたの戦闘形態は大型であり、あなたの攻撃は10フィートのリーチを持つ。展開するための十分な空間がなければ、呪文は無効になる。あなたは代わりに15の一時的HPを得る。AC＝18＋あなたのレベル、攻撃修正値＋16、ダメージ・ボーナス＋9、《運動》＋16。</p>\n<p><strong>高位化 (+5)</strong>あなたの戦闘形態は超大型であり、あなたの攻撃は15フィートのリーチを持つ。展開するための十分な空間がなければ、呪文は無効になる。あなたは代わりに20の一時的HPを得る。AC＝18＋あなたのレベル、攻撃修正値＋18、ダメージ・ボーナス＋7、ダメージ・ダイスの数が2倍になり、《運動》＋20。</p>",
+      "description": "|||<p>あなたは原始のエネルギーを呼び出し、あなた自身を中型の動物の戦闘形態に変身させる。この呪文を発動する際、リストにある戦闘形態を1つ選択すること。動物の具体的な種類(ネコ科ならライオンやユキヒョウなど)を決めることはできるが、これはその形態のサイズや能力値には影響しない。この形態の間、あなたは動物の特性を得る。あなたは呪文を〈解除〉できる。</p>\n<p>あなたは、どの動物を選択したかに関わらず、以下の能力値と能力を得る：</p><ul><li>AC ＝ 16 ＋ あなたのレベル。鎧の判定ペナルティと移動速度減少を無視する。</li><li>5 一時的ヒット・ポイント。</li><li>微光視覚と、30フィートの不正確な嗅覚。</li><li>あなたの戦闘形態に固有の1つ以上の素手の近接攻撃。これらはあなたが〈ストライク〉を行える唯一の攻撃である。あなたはそれらに対して訓練済みである。あなたの攻撃修正値は＋9であり、ダメージ・ボーナスは＋1である。これらの攻撃は筋力に基づいている(例えば、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱}状態の目的において)。もしあなたの素手攻撃ボーナスの方が高いなら、代わりにそれを使用できる。</li><li>《運動》修正値は＋9である(あなた自身の修正値の方が高い場合を除く)。</li></ul><hr /><p>あなたは選択した動物の種類に基づいて、さらに特定の能力を得る：</p><ul><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.tk3go5Cl6Qt130Dk]{エイプ}</strong></p><ul><li>移動速度 25フィート、登攀移動速度 20フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span> 拳、<strong>ダメージ</strong> 2d6 殴打。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.gQnDKDeBTtjwOWAk]{ベア}</strong></p><ul><li>移動速度 30フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span> 顎、<strong>ダメージ</strong> 2d8 刺突；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span> 爪(アジャイル)、<strong>ダメージ</strong> 1d8 斬撃。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.BT1ofB6RvRocQOWO]{ブル}</strong></p><ul><li>移動速度 30フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span> 角、<strong>ダメージ</strong> 2d8 刺突。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.sN3mQ7YrPBogEJRn]{キャナイン}</strong></p><ul><li>移動速度 40フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span> 顎、<strong>ダメージ</strong> 2d8 刺突。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.ptOqsN5FS0nQh7RW]{キャット}</strong></p><ul><li>移動速度 40フィート；</li>|||<li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎、<strong>ダメージ</strong> 2d6刺突；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>爪(アジャイル)、<strong>ダメージ</strong> 1d10斬撃。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.1Gax900IAwhLCi4q]{クラブ}</strong></p><ul><li>移動速度25フィート、水泳移動速度15フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>大きな爪、<strong>ダメージ</strong> 2d8刺突；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>小さな爪(アジャイル)、<strong>ダメージ</strong> 2d4刺突。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.0B3noZtrBfeHC7ye]{クロコダイル}</strong></p><ul><li>移動速度25フィート、水泳移動速度30フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎、<strong>ダメージ</strong> 2d8刺突；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>尾(アジャイル)、<strong>ダメージ</strong> 1d8殴打。</li><li>変身の持続時間中、息を止めておくことができる。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.F4DTpDXNu5IliyhJ]{ディア}</strong></p><ul><li>移動速度50フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>角、<strong>ダメージ</strong> 2d6刺突。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.j2LhQ7kEQhq3J3zZ]{フロッグ}</strong></p><ul><li>移動速度25フィート、水泳移動速度25フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎、<strong>ダメージ</strong> 2d6殴打；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>舌(リーチ15フィート)、<strong>ダメージ</strong> 2d4殴打。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.rmtCkBCEwyg919N0]{オルカ}</strong></p><ul><li>水泳移動速度35フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎、<strong>ダメージ</strong> 2d8刺突；</li><li>変身の持続時間中、息を止めておくことができる。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.tUelWvSaNZBng42K]{シール}</strong></p><ul><li>移動速度20フィート、水泳移動速度30フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎(組み付き)、<strong>ダメージ</strong> 2d6刺突；</li><li>変身の持続時間中、息を止めておくことができる。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.qPaEEhczUWCQo6ux]{シャーク}</strong></p><ul><li>水泳移動速度35フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>顎、<strong>ダメージ</strong> 2d8刺突；</li><li>水中で呼吸できるが、空気中ではできない。</li></ul></li><li><p><strong>@UUID[Compendium.pf2e.spell-effects.Item.kz3mlFwb9tV9bFwu]{スネーク}</strong></p><ul><li>移動速度20フィート、登攀移動速度20フィート、水泳移動速度20フィート；</li><li><strong>近接</strong> <span class=\"action-glyph\">a</span>牙、<strong>ダメージ</strong> 2d4刺突に加え1d6の毒。</li></ul></li></ul><hr /><p><strong>高位化 (3rd)</strong>あなたは代わりに10の一時的HPを得る。AC＝17＋あなたのレベル、攻撃修正値＋14、ダメージ・ボーナス＋5、《運動》＋14。</p>\n<p><strong>高位化 (4th)</strong>あなたの戦闘形態は大型であり、あなたの攻撃は10フィートのリーチを持つ。展開するための十分な空間がなければ、呪文は無効になる。あなたは代わりに15の一時的HPを得る。AC＝18＋あなたのレベル、攻撃修正値＋16、ダメージ・ボーナス＋9、《運動》＋16。</p>\n<p><strong>高位化 (5th)</strong>あなたの戦闘形態は超大型であり、あなたの攻撃は15フィートのリーチを持つ。展開するための十分な空間がなければ、呪文は無効になる。あなたは代わりに20の一時的HPを得る。AC＝18＋あなたのレベル、攻撃修正値＋18、ダメージ・ボーナス＋7、ダメージ・ダイスの数が2倍になり、《運動》＋20。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -11888,7 +11888,7 @@
     },
     "Hologram Cage": {
       "name": "ホログラム・ケージ/Hologram Cage",
-      "description": "<p><strong>範囲</strong>各辺20フィートの立方体</p><hr /><p>あなたは光を織りなして、鮮やかで幻想的な模様の立方体を作り出す。その壁は10フィートまで明るい光を放ち(その先の20フィートは薄暗い光となる)、視線を完全に遮断する。檻の中にいるクリーチャーは檻の外のクリーチャーからは見えず、檻の中にいる者同士は見ることができる。また、檻の外のクリーチャーは檻の中を見ることができない。あなたは呪文を@UUID[Compendium.pf2e.actionspf2e.Item.AjLSHZSWQ90exdLo]{〈解除〉}することができ、再びこの呪文を発動した場合、以前の<em>ホログラム・ケージ</em>は終了する。</p><hr /><p><strong>高位化 (+7)</strong>この呪文の射程は80フィートに増加し、立方体を各辺25フィートまで拡大できる。</p>",
+      "description": "<p><strong>範囲</strong>各辺20フィートの立方体</p><hr /><p>あなたは光を織りなして、鮮やかで幻想的な模様の立方体を作り出す。その壁は10フィートまで明るい光を放ち(その先の20フィートは薄暗い光となる)、視線を完全に遮断する。檻の中にいるクリーチャーは檻の外のクリーチャーからは見えず、檻の中にいる者同士は見ることができる。また、檻の外のクリーチャーは檻の中を見ることができない。あなたは呪文を@UUID[Compendium.pf2e.actionspf2e.Item.AjLSHZSWQ90exdLo]{〈解除〉}することができ、再びこの呪文を発動した場合、以前の<em>ホログラム・ケージ</em>は終了する。</p><hr /><p><strong>高位化 (7th)</strong>この呪文の射程は80フィートに増加し、立方体を各辺25フィートまで拡大できる。</p>",
       "range": "60フィート",
       "duration": "1分",
       "time": "3"
@@ -12014,7 +12014,7 @@
     },
     "Earthquake": {
       "name": "アースクエイク/Earthquake",
-      "description": "<p>あなたは地面を揺らし、クリーチャーを亀裂に転落させ、建造物を崩壊させる。GMは特定のエリアで追加の効果を加えるかもしれない。崖が崩れてクリーチャーが落下したり、湖の底に亀裂が開いて水が抜け、流砂の沼地が残ったりする可能性がある。</p><ul><li><strong>揺れる地面</strong>地面は移動困難地形となり、その上にいるクリーチャーは攻撃ロール、AC、技能判定に-2の状況ペナルティを受ける。 @UUID[Compendium.pf2e.spell-effects.Item.09rtx50laDw68FGT]{呪文 効果: アースクウェイク (揺れる地面)}</li><li><strong>亀裂</strong>地面にいる各クリーチャーは、足場を維持し、足元に開く深さ40フィートの亀裂への落下を避けるため、自身のターンの開始時に反応セーヴを行わなければならない。亀裂は永続的であり、その側面を登るには〈登攀〉の@Check[athletics|dc:15|traits:action:climb]に成功する必要がある。</li><li><strong>崩壊</strong>建造物や天井が崩壊する可能性がある。GMはそれぞれについてフラットな判定をロールする(頑丈な建造物なら@Check[flat|dc:16]、平均的な建造物やほとんどの自然地形なら@Check[flat|dc:14]、粗悪品な建造物なら@Check[flat|dc:9]。これらはすべてGMの判断で高くも低くも調整される)。崩壊は、巻き込まれた各クリーチャーに基本反応セーヴで11d6の殴打ダメージを与える。クリーチャーはクリティカル成功しない限り@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となり、クリティカル失敗した場合は亀裂の中に落下する。</li></ul><hr /><p><strong>高位化 (+10)</strong>あなたは入植地を壊滅させうる巨大な地震を引き起こす。射程は半マイルに、範囲は4分の1マイルのバーストに増加する。</p>",
+      "description": "<p>あなたは地面を揺らし、クリーチャーを亀裂に転落させ、建造物を崩壊させる。GMは特定のエリアで追加の効果を加えるかもしれない。崖が崩れてクリーチャーが落下したり、湖の底に亀裂が開いて水が抜け、流砂の沼地が残ったりする可能性がある。</p><ul><li><strong>揺れる地面</strong>地面は移動困難地形となり、その上にいるクリーチャーは攻撃ロール、AC、技能判定に-2の状況ペナルティを受ける。 @UUID[Compendium.pf2e.spell-effects.Item.09rtx50laDw68FGT]{呪文 効果: アースクウェイク (揺れる地面)}</li><li><strong>亀裂</strong>地面にいる各クリーチャーは、足場を維持し、足元に開く深さ40フィートの亀裂への落下を避けるため、自身のターンの開始時に反応セーヴを行わなければならない。亀裂は永続的であり、その側面を登るには〈登攀〉の@Check[athletics|dc:15|traits:action:climb]に成功する必要がある。</li><li><strong>崩壊</strong>建造物や天井が崩壊する可能性がある。GMはそれぞれについてフラットな判定をロールする(頑丈な建造物なら@Check[flat|dc:16]、平均的な建造物やほとんどの自然地形なら@Check[flat|dc:14]、粗悪品な建造物なら@Check[flat|dc:9]。これらはすべてGMの判断で高くも低くも調整される)。崩壊は、巻き込まれた各クリーチャーに基本反応セーヴで11d6の殴打ダメージを与える。クリーチャーはクリティカル成功しない限り@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となり、クリティカル失敗した場合は亀裂の中に落下する。</li></ul><hr /><p><strong>高位化 (10th)</strong>あなたは入植地を壊滅させうる巨大な地震を引き起こす。射程は半マイルに、範囲は4分の1マイルのバーストに増加する。</p>",
       "range": "500フィート",
       "duration": "1ラウンド",
       "time": "2"
@@ -12091,7 +12091,7 @@
     },
     "Crusade": {
       "name": "クルセイド/Crusade",
-      "description": "<p>あなたは対象に対して神聖な使命を命じるか、大義を宣言する。それはアイテムの獲得、土地の領有、クリーチャーの殺害、集団との戦争、あるいは完全に平和的なものであってもよい。あなたの大義は、対象に互いを傷つけさせたり、自らを傷つけさせたりすることを強制することはできない。対象はそのレベルに応じて、その大義に完全に献身するようになる。彼らは自身のアクションを選択するが、何もしないことや間接的な行動よりも直接的な行動を優先する。</p>\n<ul>\n<li><strong>13レベル以下</strong>対象はその大義に深く献身し、(あなたが別段の指示をしない限り)死ぬまでその大義を追求する。</li>\n<li><strong>14レベル</strong>対象はその大義に献身するが、対象の最大ヒット・ポイントの半分以下に減少した場合、その対象に対するこの呪文は終了する。</li>\n<li><strong>15レベル</strong> 14レベルの場合と同様だが、さらに対象は自身のターンの終了時に、自身に対するこの呪文を終了させるために意志セーヴを行うことができる。</li>\n</ul>\n<p>あなたまたはあなたの味方の1人が対象に対して敵対的なアクションを行った場合、あるいは大義が達成された場合、すべてのクリーチャーに対してこの呪文は終了する。GMは、この呪文が大義にふさわしい属性特性を持つと判断するかもしれない。</p>\n<hr />\n<p><strong>高位化 (+10)</strong>各カテゴリーのレベルが2増加する。</p>",
+      "description": "<p>あなたは対象に対して神聖な使命を命じるか、大義を宣言する。それはアイテムの獲得、土地の領有、クリーチャーの殺害、集団との戦争、あるいは完全に平和的なものであってもよい。あなたの大義は、対象に互いを傷つけさせたり、自らを傷つけさせたりすることを強制することはできない。対象はそのレベルに応じて、その大義に完全に献身するようになる。彼らは自身のアクションを選択するが、何もしないことや間接的な行動よりも直接的な行動を優先する。</p>\n<ul>\n<li><strong>13レベル以下</strong>対象はその大義に深く献身し、(あなたが別段の指示をしない限り)死ぬまでその大義を追求する。</li>\n<li><strong>14レベル</strong>対象はその大義に献身するが、対象の最大ヒット・ポイントの半分以下に減少した場合、その対象に対するこの呪文は終了する。</li>\n<li><strong>15レベル</strong> 14レベルの場合と同様だが、さらに対象は自身のターンの終了時に、自身に対するこの呪文を終了させるために意志セーヴを行うことができる。</li>\n</ul>\n<p>あなたまたはあなたの味方の1人が対象に対して敵対的なアクションを行った場合、あるいは大義が達成された場合、すべてのクリーチャーに対してこの呪文は終了する。GMは、この呪文が大義にふさわしい属性特性を持つと判断するかもしれない。</p>\n<hr />\n<p><strong>高位化 (10th)</strong>各カテゴリーのレベルが2増加する。</p>",
       "target": "最大4体のクリーチャー",
       "range": "60フィート",
       "duration": "10分",
@@ -12265,7 +12265,7 @@
     },
     "Fiery Body": {
       "name": "ファイアリー・ボディ/Fiery Body",
-      "description": "<p>あなたは生ける炎となり、火炎に対する完全耐性、精密ダメージに対する耐性10、冷気と水に対する弱点5を得る。あなたに接触した、あるいは素手攻撃や間合いの長くない近接武器であなたにダメージを与えたクリーチャーは、@Damage[3d6[fire]]ダメージを受ける。</p>\n<p>あなたの素手攻撃は追加で1d4の火炎ダメージを与え、あなたの火炎呪文は(その呪文が使用するダメージ・ダイスと同じ種類の)追加のダメージ・ダイスを1個、火炎ダメージとして与える。あなたは@UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{イグニション}を生得呪文として発動できる。その発動は2アクションから1アクションに短縮される。</p>\n<p>炎の形態では、あなたは40フィートの飛行移動速度を持ち、呼吸を必要としない。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.uIMaMzd6pcKmMNPJ]{呪文 効果: ファイアリー・ボディ}</p>\n<hr />\n<p><strong>高位化 (+9)</strong>あなたに　接触しているクリーチャーは3d6の代わりに@Damage[4d6[fire]]ダメージを受け、あなたの素手攻撃は追加で2d4の火炎ダメージを与え、あなたは60フィートの飛行移動速度を持つ。</p>",
+      "description": "<p>あなたは生ける炎となり、火炎に対する完全耐性、精密ダメージに対する耐性10、冷気と水に対する弱点5を得る。あなたに接触した、あるいは素手攻撃や間合いの長くない近接武器であなたにダメージを与えたクリーチャーは、@Damage[3d6[fire]]ダメージを受ける。</p>\n<p>あなたの素手攻撃は追加で1d4の火炎ダメージを与え、あなたの火炎呪文は(その呪文が使用するダメージ・ダイスと同じ種類の)追加のダメージ・ダイスを1個、火炎ダメージとして与える。あなたは@UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{イグニション}を生得呪文として発動できる。その発動は2アクションから1アクションに短縮される。</p>\n<p>炎の形態では、あなたは40フィートの飛行移動速度を持ち、呼吸を必要としない。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.uIMaMzd6pcKmMNPJ]{呪文 効果: ファイアリー・ボディ}</p>\n<hr />\n<p><strong>高位化 (9th)</strong>あなたに　接触しているクリーチャーは3d6の代わりに@Damage[4d6[fire]]ダメージを受け、あなたの素手攻撃は追加で2d4の火炎ダメージを与え、あなたは60フィートの飛行移動速度を持つ。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -12759,7 +12759,7 @@
     },
     "Ventriloquism": {
       "name": "ヴェントリロクイズム/Ventriloquism",
-      "description": "<p>あなたが話すか、その他の声による音を発するたびに、あなたは自分の発声を60フィート以内の別の場所から聞こえるようにすることができ、発声している間はその見かけ上の位置を自由に変更できる。その音を聞いたクリーチャーは誰でも幻影を見破ることを試みられる。</p>\n<hr />\n<p><strong>高位化 (+2)</strong>この呪文の持続時間は1時間に増加し、あなたは声のトーン、音質、その他の側面も変更できる。クリーチャーがあなたの幻影を見破ることを試みる前に、そのクリーチャーは能動的に《知覚》判定を行うか、あるいはその他の方法でその音に対してアクションを使用して扱う必要がある。</p>",
+      "description": "<p>あなたが話すか、その他の声による音を発するたびに、あなたは自分の発声を60フィート以内の別の場所から聞こえるようにすることができ、発声している間はその見かけ上の位置を自由に変更できる。その音を聞いたクリーチャーは誰でも幻影を見破ることを試みられる。</p>\n<hr />\n<p><strong>高位化 (2nd)</strong>この呪文の持続時間は1時間に増加し、あなたは声のトーン、音質、その他の側面も変更できる。クリーチャーがあなたの幻影を見破ることを試みる前に、そのクリーチャーは能動的に《知覚》判定を行うか、あるいはその他の方法でその音に対してアクションを使用して扱う必要がある。</p>",
       "duration": "10分",
       "time": "2"
     },
@@ -12992,7 +12992,7 @@
     },
     "Plant Form": {
       "name": "プラント・フォーム/Plant Form",
-      "description": "<p>豊かな緑のクリーチャーから着想を得て、あなたは大型な植物の戦闘形態に変身する。この呪文を発動する際、リストにある戦闘形態を1つ選択する。変身する植物を、似た特定の植物(ハエトリグサの代わりにウツボカズラなど)に置き換えることができるが、これはその形態のサイズや能力値には影響しない。この形態の間、あなたは植物の特性を得る。あなたは呪文を〈解除〉できる。</p>\n<p>どの戦闘形態を選択しても、以下の能力値と能力を得る。</p>\n<ul>\n<li>AC＝19＋あなたのレベル。鎧の判定ペナルティと移動速度減少を無視する。</li>\n<li>12一時的ヒット・ポイント。</li>\n<li>毒に対する抵抗10。</li>\n<li>薄暗い視覚。</li>\n<li>選択した戦闘形態に固有の1つ以上の素手による近接攻撃。これらはあなたが〈ストライク〉を行える唯一の攻撃である。あなたはそれらに対して訓練済みである。あなたの攻撃修正値は＋17、ダメージボーナスは＋11である。これらの攻撃は筋力に基づいている(例えば、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱}状態の目的において)。もしあなたの素手攻撃修正値の方が高いなら、代わりにそれを使用できる。</li>\n<li>《運動》修正値は＋19。ただし、あなた自身の修正値の方が高い場合はそちらを用いる。</li>\n</ul>\n<p>また、選択した植物の種類に基づいて特定の能力を得る：</p>\n<ul>\n<li><strong>@UUID[Compendium.pf2e.spell-effects.Item.tu8FyCtmL3YYR2jL]{アーボリアル}</strong>\n<ul>\n<li>移動速度30フィート</li>\n<li><strong>近接</strong>枝1本(リーチ15フィート)、<span class=\"action-glyph\"></span><strong>ダメージ2d10殴打；</strong></li>\n<li><strong>近接</strong>足1本、<span class=\"action-glyph\"></span><strong>ダメージ2d8殴打；</strong></li>\n<li>この形態でも会話できる</li>\n</ul>\n</li>\n<li><strong>@UUID[Compendium.pf2e.spell-effects.Item.JrNHFNxJayevlv2G]{Flytrap}</strong>\n<ul>\n<li>移動速度15フィート；耐性10酸；</li>\n<li><strong>近接</strong>葉1枚(リーチ10フィート)、<span class=\"action-glyph\"></span><strong>ダメージ2d8刺突。また、命中後にアクションを消費して対象を掴むことができる。</strong></li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>高位化 (+6)あなたの戦闘形態は超大型になり、攻撃のリーチが5フィート増加する。代わりに、AC＝22＋あなたのレベル、24のテンポラリーHP、攻撃修正値＋21、ダメージボーナス＋16、《運動》＋22を得る。</strong></p>",
+      "description": "<p>豊かな緑のクリーチャーから着想を得て、あなたは大型な植物の戦闘形態に変身する。この呪文を発動する際、リストにある戦闘形態を1つ選択する。変身する植物を、似た特定の植物(ハエトリグサの代わりにウツボカズラなど)に置き換えることができるが、これはその形態のサイズや能力値には影響しない。この形態の間、あなたは植物の特性を得る。あなたは呪文を〈解除〉できる。</p>\n<p>どの戦闘形態を選択しても、以下の能力値と能力を得る。</p>\n<ul>\n<li>AC＝19＋あなたのレベル。鎧の判定ペナルティと移動速度減少を無視する。</li>\n<li>12一時的ヒット・ポイント。</li>\n<li>毒に対する抵抗10。</li>\n<li>薄暗い視覚。</li>\n<li>選択した戦闘形態に固有の1つ以上の素手による近接攻撃。これらはあなたが〈ストライク〉を行える唯一の攻撃である。あなたはそれらに対して訓練済みである。あなたの攻撃修正値は＋17、ダメージボーナスは＋11である。これらの攻撃は筋力に基づいている(例えば、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱}状態の目的において)。もしあなたの素手攻撃修正値の方が高いなら、代わりにそれを使用できる。</li>\n<li>《運動》修正値は＋19。ただし、あなた自身の修正値の方が高い場合はそちらを用いる。</li>\n</ul>\n<p>また、選択した植物の種類に基づいて特定の能力を得る：</p>\n<ul>\n<li><strong>@UUID[Compendium.pf2e.spell-effects.Item.tu8FyCtmL3YYR2jL]{アーボリアル}</strong>\n<ul>\n<li>移動速度30フィート</li>\n<li><strong>近接</strong>枝1本(リーチ15フィート)、<span class=\"action-glyph\"></span><strong>ダメージ2d10殴打；</strong></li>\n<li><strong>近接</strong>足1本、<span class=\"action-glyph\"></span><strong>ダメージ2d8殴打；</strong></li>\n<li>この形態でも会話できる</li>\n</ul>\n</li>\n<li><strong>@UUID[Compendium.pf2e.spell-effects.Item.JrNHFNxJayevlv2G]{Flytrap}</strong>\n<ul>\n<li>移動速度15フィート；耐性10酸；</li>\n<li><strong>近接</strong>葉1枚(リーチ10フィート)、<span class=\"action-glyph\"></span><strong>ダメージ2d8刺突。また、命中後にアクションを消費して対象を掴むことができる。</strong></li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>高位化 (6th)あなたの戦闘形態は超大型になり、攻撃のリーチが5フィート増加する。代わりに、AC＝22＋あなたのレベル、24のテンポラリーHP、攻撃修正値＋21、ダメージボーナス＋16、《運動》＋22を得る。</strong></p>",
       "duration": "1分",
       "time": "2"
     },
