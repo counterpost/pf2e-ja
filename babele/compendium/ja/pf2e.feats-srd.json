@@ -2442,7 +2442,7 @@
       ]
     },
     "Divine Presence": {
-      "name": "ディヴァイン・プレゼンス/Divine Presence",
+      "name": "ディバイン・プレゼンス/Divine Presence",
       "description": "<p>あなたの精神はあなたの神格と一体となり、神のような威厳を与える。この姿勢にいる限り、あなたはオーラ特性を持つ5フィートの発生を持つ。行動を取るたびに、その発生内の任意のスペースから、あなたが占めているスペースのように行動を取ることができる。発生内に完全に位置してターンを終了した敵は、 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}あなたの攻撃に対して。あなたは発生を〔維持〕して、その半径を5フィート増加させることができ、最大で15フィートにまで達する。</p>",
       "selfEffect": "構え: ディバインの存在",
       "source": "Pathfinder Lost Omens Divine Mysteries",
@@ -2877,7 +2877,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Channel Divine Spark": {
-      "name": "チャンネル・ディヴァイン・スパーク/Channel Divine Spark",
+      "name": "チャンネル・ディバイン・スパーク/Channel Divine Spark",
       "description": "<p><strong>使用制限</strong>1時間に1回</p><hr /><p>あなたは神聖な火花を抱きしめ、あなたの全ての潜在能力を解放する。あなたのニンバスは自動的に発動し(まだ発動していない場合)、ニンバスの範囲は2倍になる。あなたは明るい光を60フィートのために放出し(そして薄暗い光を次の60フィートに放出する)。あなたはディバインスパークをチャネリング中にニンバスを抑制することはできない。あなたはあなたのレベルと等しい数の一時的なヒット・ポイントを得て、あなたのレベルの半分に等しい耐性を物理ダメージに得る。あなたは@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}状態になり、各ラウンドにおいて得られる追加のアクションを〔ストライク〕および〔ストライド〕アクションのみに使用できる。あなたが近接の〔ストライク〕でクリーチャーにダメージを与えるたびに、あなたはそのクリーチャーに対して@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}を試みることができる、これはフリー・アクションとして行う。これらの効果は1分の間持続する。</p>",
       "selfEffect": "効果: チャンネルディバインスパーク",
       "source": "Pathfinder War of Immortals",
@@ -3685,7 +3685,7 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Enter Divine Realm": {
-      "name": "エンター・ディヴァイン・レルム/Enter Divine Realm",
+      "name": "エンター・ディバイン・レルム/Enter Divine Realm",
       "description": "<p>あなたは自身の神格の領域へのアクセスを許可され、そこへ素早く移動できる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.5bTt2CvYHPvaR7QQ]{インタープラナル・テレポート}を　1日1回、わずか1分の詠唱時間を持つ生得の神聖呪文として発動できる。あなたは目的地への次元の鍵として機能し、自身の神格の領域にのみ移動できる。あなたと呪文の他の対象は常にその神格の領域の中心に出現し、あなた(必ずしも味方ではない)はそこにいる間、その領域のすべての有害な状態(有毒な空気や極端な気温など)に対して免疫となる。あなたは目的地を思い浮かべながら1分を費やすことで、以前の場所に戻ることができる。この方法で最大8体までの同意するクリーチャーを連れ帰ることができ、彼らは以前の次元間テレポートの対象と同じである必要はない。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
@@ -15318,7 +15318,7 @@
       ]
     },
     "Wrath Against the Divine": {
-      "name": "ラス・アゲインスト・ザ・ディヴァイン/Wrath Against the Divine",
+      "name": "ラス・アゲインスト・ザ・ディバイン/Wrath Against the Divine",
       "description": "<p>あなたは定命の理を唱えることで、世界から神聖なるものを排除するという決意を注ぎ込む。神聖呪文を発動できる敵1体に対して〈ストライク〉を行う。この〈ストライク〉は武器ダメージダイスを2個余分に与える。対象はさらに、あなたのクラスのDCに対して@Check[will|against:class]セーヴを行わなければならない。失敗した場合、対象は準備している神聖呪文のうち最も高いランクのもの、または神聖呪文を発動するために使用する最も高い未使用の呪文スロットを失う。もし利用可能な最も高いランクに複数の呪文がある場合、どの呪文が失われるかをランダムに決定する。大失敗した場合、対象はさらに、あなたの次のターン開始時まで神聖呪文を発動できなくなる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -23860,7 +23860,7 @@
       ]
     },
     "Divine Infusion": {
-      "name": "ディヴァイン・インフュージョン/Divine Infusion",
+      "name": "ディバイン・インフュージョン/Divine Infusion",
       "description": "<p>あなたは癒しの対象にエネルギーを注ぎ、その攻撃を強化する。次のアクションが@UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz]{ハーム}または@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}を使って単一のクリーチャーにヒット・ポイントを回復する場合、対象はその次のターンの終了まで近接武器や格闘攻撃で追加の1d6ダメージを与える。ダメージ種別は、あなたが<em>ハーム</em>を唱えた場合は無効になり、あなたが<em>ヒール</em>を唱えた場合は活力になる。</p>\n<p>もし詠唱した呪文が少なくとも5レベルであるなら、このダメージは2d6に増加し、もし呪文が少なくとも8レベルであるなら、このダメージは3d6に増加する。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -25603,7 +25603,7 @@
     },
     "Divine Declaration": {
       "name": "ディバイン・デクラレーション/Divine Declaration",
-      "description": "<p>あなたは聖なる言葉または邪悪な言葉を外界から呼び出し、敵を罰することができる。1日に1回、あなたは@UUID[Compendium.pf2e.spells-srd.Item.sX2o0HH4RjJDAZ8C]{ディヴァイン・ディクリー}を7レベルの神聖な固有呪文として発動することができる。</p>",
+      "description": "<p>あなたは聖なる言葉または邪悪な言葉を外界から呼び出し、敵を罰することができる。1日に1回、あなたは@UUID[Compendium.pf2e.spells-srd.Item.sX2o0HH4RjJDAZ8C]{ディバイン・ディクリー}を7レベルの神聖な固有呪文として発動することができる。</p>",
       "source": "Pathfinder Player Core"
     },
     "Diverse Lore": {
@@ -32474,7 +32474,7 @@
     },
     "Major Deific Power": {
       "name": "マジャー・ディーイフィック・パワー/Major Deific Power",
-      "description": "<p>生ける神性への神格化が近づくにつれ、あなたは最強の神聖な力を蓄積する。コモン・ディヴァイン・スペルを3つ選択せよ。1つはランク6、1つはランク7、もう1つはランク8のものとする。あなたはこれらの各呪文を、ディヴァイン・イネイト・スペルとして1日1回発動できる。</p>",
+      "description": "<p>生ける神性への神格化が近づくにつれ、あなたは最強の神聖な力を蓄積する。コモン・ディバイン・スペルを3つ選択せよ。1つはランク6、1つはランク7、もう1つはランク8のものとする。あなたはこれらの各呪文を、ディバイン・イネイト・スペルとして1日1回発動できる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -44770,7 +44770,7 @@
       ]
     },
     "Throttle the Divine": {
-      "name": "スロットル・ザ・ディヴァイン/Throttle the Divine",
+      "name": "スロットル・ザ・ディバイン/Throttle the Divine",
       "description": "|||<p>あなたは神聖な者の喉を掴み、彼らの神々との繋がりを損なう。あなたがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}している間、そのクリーチャーは〈神聖〉の特性を持つ操作アクションを使用するためのフラット判定を2回ロールし、悪い方の結果を採用しなければならない。あなたがそれを掴んでいる間にそのクリーチャーがそのようなアクションを試みるたび、あなたは締め付けを強め、その対象に@Damage[(2d6 + @actor.abilities.str.mod)[bludgeoning]]{2d6 + あなたの筋力修正値}に等しい殴打ダメージを与える。</p>|||",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -49782,7 +49782,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Traces of the Divine": {
-      "name": "トレイシズ・オブ・ザ・ディヴァイン/Traces of the Divine",
+      "name": "トレイシズ・オブ・ザ・ディバイン/Traces of the Divine",
       "description": "<p>あなたは神聖魔法を使用する者を、追加の感覚のように探知できる。あなたは神聖呪文を発動できるクリーチャーを[[/act seek]]するための《知覚》判定と、[[/act track]]するための《生存術》判定に+2の状況ボーナスを得る。加えて、あなたは神聖呪文を発動できる@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}クリーチャーを対象とするためのフラット・判定に自動的に成功し、神聖呪文を発動できる@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}クリーチャーを対象とするためのフラット・判定はDC 5に減少する。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [

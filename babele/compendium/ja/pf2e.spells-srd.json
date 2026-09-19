@@ -893,7 +893,7 @@
       "time": "2",
       "spellVariants": {
         "Fs08rHTZAfROKKzu": {
-          "name": "クライシス・オブ・フェイス (ヴァーサス・ディヴァイン)/Crisis of Faith (Vs. Divine)"
+          "name": "クライシス・オブ・フェイス (ヴァーサス・ディバイン)/Crisis of Faith (Vs. Divine)"
         }
       }
     },
@@ -2299,7 +2299,7 @@
       "time": "3"
     },
     "Divine Immolation": {
-      "name": "ディヴァイン・イモレイション",
+      "name": "ディバイン・イモレイション",
       "description": "<p>ディバインの炎が範囲内のクリーチャーを焼き尽くす。クリーチャーは6d6の火ダメージと@Damage[(@item.level -3)d6[persistent,fire]]ダメージを受ける。炎に宿る神の力は精神も焼き焦がす；そのクリーチャーにとってより有害であれば、そのクリーチャーは神聖焼灼の火ダメージの代わりにスピリットダメージを受ける(GMの判断によって)。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受けるし、持続ダメージはない。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるし、持続ダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは2倍のダメージを受けるし、持続ダメージが2倍になる。</p>\n<hr />\n<p><strong>高位化(+1)</strong>ダメージが1d6増加し、持続ダメージが1d6増加する。</p>",
       "range": "120フィート",
       "time": "2"
@@ -2608,8 +2608,8 @@
       "time": "2"
     },
     "Diadem of Divine Radiance": {
-      "name": "ディアデム・オブ・ディヴァイン・レイディアンス/Diadem of Divine Radiance",
-      "description": "<p>あなたは光輝くティアラをかぶる。それは半径60フィートまで明るい光を放ち、さらに60フィートまで薄暗い光を放つ。あなたが呪文を唱えるとき、あるいは効果時間中にそれを〔維持〕するとき、あなたはティアラから渦巻く光の円盤を引き出して120フィート内のクリーチャーに向かって投げることができる。対象のACに対して、あなたは神話熟練度での射撃呪文攻撃を行う。この行動は攻撃とスピリットの特徴を持つ。命中した場合、あなたは4d8のスピリットダメージと1d4の持続スピリットダメージを与え、対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}の状態になり、期間は1ラウンド(クリティカルなら3ラウンド)。持続ダメージはクリティカルで倍にならない。</p>\n<p>円盤が魔法の闇の領域を通過するか、魔法の闇の影響を受けているクリーチャーを標的にする場合、円盤の光はその闇を打ち消ししようと試みる。その際、あなたのレリジョンまたはオカルティズムの技能修正値を打ち消しの判定修正値として使用し、あなたのレベルの半分を打ち消しのランクとして扱う。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.Hc8e3aU9yLKPSw8o]{呪文 効果: ディアデム・オヴ・ディヴァイン・レイディアンス}</p><hr /><p><strong>高位化 (+2)</strong>円盤のスピリットダメージが2d8増加し、持続ダメージが1d4増加する。</p>",
+      "name": "ディアデム・オブ・ディバイン・レイディアンス/Diadem of Divine Radiance",
+      "description": "<p>あなたは光輝くティアラをかぶる。それは半径60フィートまで明るい光を放ち、さらに60フィートまで薄暗い光を放つ。あなたが呪文を唱えるとき、あるいは効果時間中にそれを〔維持〕するとき、あなたはティアラから渦巻く光の円盤を引き出して120フィート内のクリーチャーに向かって投げることができる。対象のACに対して、あなたは神話熟練度での射撃呪文攻撃を行う。この行動は攻撃とスピリットの特徴を持つ。命中した場合、あなたは4d8のスピリットダメージと1d4の持続スピリットダメージを与え、対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}の状態になり、期間は1ラウンド(クリティカルなら3ラウンド)。持続ダメージはクリティカルで倍にならない。</p>\n<p>円盤が魔法の闇の領域を通過するか、魔法の闇の影響を受けているクリーチャーを標的にする場合、円盤の光はその闇を打ち消ししようと試みる。その際、あなたのレリジョンまたはオカルティズムの技能修正値を打ち消しの判定修正値として使用し、あなたのレベルの半分を打ち消しのランクとして扱う。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.Hc8e3aU9yLKPSw8o]{呪文 効果: ディアデム・オヴ・ディバイン・レイディアンス}</p><hr /><p><strong>高位化 (+2)</strong>円盤のスピリットダメージが2d8増加し、持続ダメージが1d4増加する。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -2831,8 +2831,8 @@
       "time": "リアクション"
     },
     "Divine Dragon's Watch": {
-      "name": "ディヴァイン・ドラゴンズ・ウォッチ/Divine Dragon's Watch",
-      "description": "<p>あなたは対象を見守らせるために目に見えない神聖な竜の霊を召喚する。呪文が完了すると、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Zt9bo3FYLQihmpAz]{ドラゴン's プロテクション}リアクションを得る；一度リアクションを使用すると、呪文は終了する。</p><hr /><p><strong>ドラゴンのプロテクション</strong> <span class=\"action-glyph\">R</span> (集中, 聖別, スピリット)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.Zt9bo3FYLQihmpAz inline]</p><hr /><p><strong>高位化 (+1)</strong>ダメージが1d4増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.yCDQ8lW7e01maOXc]{呪文 効果: ディヴァイン・ドラゴンズ・ウォッチ}</p>",
+      "name": "ディバイン・ドラゴンズ・ウォッチ/Divine Dragon's Watch",
+      "description": "<p>あなたは対象を見守らせるために目に見えない神聖な竜の霊を召喚する。呪文が完了すると、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Zt9bo3FYLQihmpAz]{ドラゴン's プロテクション}リアクションを得る；一度リアクションを使用すると、呪文は終了する。</p><hr /><p><strong>ドラゴンのプロテクション</strong> <span class=\"action-glyph\">R</span> (集中, 聖別, スピリット)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.Zt9bo3FYLQihmpAz inline]</p><hr /><p><strong>高位化 (+1)</strong>ダメージが1d4増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.yCDQ8lW7e01maOXc]{呪文 効果: ディバイン・ドラゴンズ・ウォッチ}</p>",
       "target": "1体のクリーチャー",
       "range": "接触",
       "duration": "24時間",
@@ -5527,8 +5527,8 @@
       "time": "3"
     },
     "Divine Vessel": {
-      "name": "ディヴァイン・ヴェッセル/Divine Vessel",
-      "description": "<p>あなたは異界のエネルギーを自身の身体に受け入れる。あなたがまだ識別可能なあなた自身である間、あなたは自分の神格のサービターの特徴のひとつを得る。あなたは自分の神格が持つアライメント(カオティック、イーヴル、グッド、またはローフル)を選ぶ。あなたは神格を持っていないか、またはあなたの神格が真中立である場合、この呪文を唱えることができない。この呪文は選んだアライメントの特性を得る。</p>\n<p>もしあなたが中型以下であれば、@UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{エンラージ}の効果としてあなたは大型になる。拡張するための空間が必要で、空間がない場合は呪文は失われる。あなたは次の恩恵も得る。</p>\n<ul>\n<li>40の一時的なヒット・ポイント。</li>\n<li>飛行移動速度があなたの移動速度と等しい。</li>\n<li>選んだアライメントの反対のアライメントに対して弱点10を受ける。</li>\n<li>呪文に対するセーブに＋1の状態ボーナスを得る。</li>\n<li>暗視。</li>\n<li>あなたの素手攻撃と武器は選んだアライメント種類の追加ダメージを1与える。</li>\n<li>1つ以上の素手の近接攻撃を得る。あなたがグッドまたはローフルを選んだ場合、あなたの拳攻撃は2d8のダメージを与える。あなたがカオティックを選んだ場合、あなたは2d10の刺突ダメージを与える噛みつき素手攻撃を得る。あなたがイーヴルを選んだ場合、あなたは2d8の斬撃ダメージを与える爪の素手攻撃を得、これはアジャイルとフィネスの特性を持つ。</li>\n</ul>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.GDzn5DToE62ZOTrP]{呪文 効果: ディヴァイン・ヴェッセル}</p>\n<hr />\n<p><strong>高位化(9th)</strong>一時的なヒット・ポイントは60に増加し、弱点は15に増加し、継続時間は10分に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.dIftJU6Ki2QSLCOD]{呪文 効果: ディヴァイン・ヴェッセル (9th level)}</p>",
+      "name": "ディバイン・ヴェッセル/Divine Vessel",
+      "description": "<p>あなたは異界のエネルギーを自身の身体に受け入れる。あなたがまだ識別可能なあなた自身である間、あなたは自分の神格のサービターの特徴のひとつを得る。あなたは自分の神格が持つアライメント(カオティック、イーヴル、グッド、またはローフル)を選ぶ。あなたは神格を持っていないか、またはあなたの神格が真中立である場合、この呪文を唱えることができない。この呪文は選んだアライメントの特性を得る。</p>\n<p>もしあなたが中型以下であれば、@UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{エンラージ}の効果としてあなたは大型になる。拡張するための空間が必要で、空間がない場合は呪文は失われる。あなたは次の恩恵も得る。</p>\n<ul>\n<li>40の一時的なヒット・ポイント。</li>\n<li>飛行移動速度があなたの移動速度と等しい。</li>\n<li>選んだアライメントの反対のアライメントに対して弱点10を受ける。</li>\n<li>呪文に対するセーブに＋1の状態ボーナスを得る。</li>\n<li>暗視。</li>\n<li>あなたの素手攻撃と武器は選んだアライメント種類の追加ダメージを1与える。</li>\n<li>1つ以上の素手の近接攻撃を得る。あなたがグッドまたはローフルを選んだ場合、あなたの拳攻撃は2d8のダメージを与える。あなたがカオティックを選んだ場合、あなたは2d10の刺突ダメージを与える噛みつき素手攻撃を得る。あなたがイーヴルを選んだ場合、あなたは2d8の斬撃ダメージを与える爪の素手攻撃を得、これはアジャイルとフィネスの特性を持つ。</li>\n</ul>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.GDzn5DToE62ZOTrP]{呪文 効果: ディバイン・ヴェッセル}</p>\n<hr />\n<p><strong>高位化(9th)</strong>一時的なヒット・ポイントは60に増加し、弱点は15に増加し、継続時間は10分に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.dIftJU6Ki2QSLCOD]{呪文 効果: ディバイン・ヴェッセル (9th level)}</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -5705,7 +5705,7 @@
       "time": "3"
     },
     "Divine Wrath": {
-      "name": "ディヴァイン・ラス/Divine Wrath",
+      "name": "ディバイン・ラス/Divine Wrath",
       "description": "<p>あなたは神聖な怒りを敵に向けて放つ。あなたは範囲内の敵に4d10の精神ダメージを与える。これは敵の頑健セーヴによって変化する。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるし、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは全てのダメージを受けるし、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる。そのクリーチャーは病気状態である間、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態でもある。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>ダメージが1d10増加する。</p>",
       "range": "120フィート",
       "time": "2"
@@ -6156,7 +6156,7 @@
       "time": "2"
     },
     "Divine Armageddon": {
-      "name": "ディヴァイン・アーマゲドン/Divine Armageddon",
+      "name": "ディバイン・アーマゲドン/Divine Armageddon",
       "description": "<p>あなたは神格から神聖な大異変を呼び起こし、範囲内の生けるクリーチャーとアンデッドのクリーチャーを等しく破壊する。範囲内のクリーチャーは10d6の虚無ダメージと、あなたの神格が持つ属性から選択された10d6の属性ダメージ(善、悪、秩序、混沌)を受ける。あなたの神格が真なる中立である場合、属性ダメージを与える代わりに虚無ダメージを4d6増加させる。虚無治癒を持つクリーチャーのように、生命ダメージによって害を受けるクリーチャーは、この呪文から虚無ダメージの代わりに生命ダメージを受ける。</p>\n<p>あなたが神格を持っていない場合、この呪文を詠唱することはできない。この呪文は、与えられた属性ダメージに対応する特性を得る。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>ダメージは1d6の虚無ダメージ、1d6の属性ダメージ、そして真なる中立の神格の場合は追加で1d6の虚無ダメージおよび生命ダメージ増加する。</p>\n<hr />\n<p>@Damage[(@item.level+2)d6[void],(@item.level+2)d6[spirit]|traits:spirit]{レベル依存の虚無 + スピリット ダメージ}</p>\n<p>@Damage[(@item.level+2)d6[vitality],(@item.level+2)d6[spirit]|traits:spirit]{レベル依存の生命力 + スピリット ダメージ}</p>\n<hr />\n<p>@Damage[((@item.level*2)-2)d6[void]]{レベル依存の虚無ダメージ}</p>\n<p>@Damage[((@item.level*2)-2)d6[vitality]]{レベル依存の生命ダメージ}</p>",
       "range": "120フィート",
       "time": "2"
@@ -6788,7 +6788,7 @@
     },
     "Summon Dragon": {
       "name": "サモン・ドラゴン/Summon Dragon",
-      "description": "<p>あなたはドラゴン特性を持ちレベル5以下のクリーチャーを召喚して戦わせる。もしドラゴンが魔法の系統特性(アルカナ、ディヴァイン、オカルト、プリマル)を持つなら、あなたがその系統を使って召喚ドラゴンを唱えている場合にのみ召喚できる。</p>\n<hr />\n<p><strong>高位化</strong>@UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.8gcp880pEWZ9VPnF]{summon}特性に記載されている通りだ。</p>",
+      "description": "<p>あなたはドラゴン特性を持ちレベル5以下のクリーチャーを召喚して戦わせる。もしドラゴンが魔法の系統特性(アルカナ、ディバイン、オカルト、プリマル)を持つなら、あなたがその系統を使って召喚ドラゴンを唱えている場合にのみ召喚できる。</p>\n<hr />\n<p><strong>高位化</strong>@UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.8gcp880pEWZ9VPnF]{summon}特性に記載されている通りだ。</p>",
       "range": "30フィート",
       "duration": "1分",
       "time": "3"
@@ -6816,7 +6816,7 @@
     },
     "Summon Deific Herald": {
       "name": "サモン・ディーフィック・ヘラルド/Summon Deific Herald",
-      "description": "<p>あなたは信仰が強いため、あなたの神格を直接代表する存在、たとえば神格の使者を短時間召喚できる。使者は超大型クリーチャーのスペースを占め、移動速度は60フィートである。この呪文の効果はあなたの神格のアラインメントに依存する。</p>\n<ul>\n<li><strong>秩序善</strong> <strong>Arrive</strong> (enchantment, good, lawful) <em>Aura of Retribution</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.EAP98XaChJEbgKcK]{Retributive Strike}リアクションを得る; <strong>Depart</strong> <em>Holy Smite</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディヴァイン・ラス}を唱える(善を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral善</strong> <strong>Arrive</strong> (enchantment, good) <em>Aura of Redemption</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.tuZnRWHixLArvaIf]{Glimpse of Redemption}リアクションを得る; <strong>Depart</strong> <em>Mercifulヒーリング</em>使者は3アクション版の5ランク@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}を唱え、半径は100フィートである。この呪文はあなたとあなたの仲間のみを対象とする。</li>\n<li><strong>混沌善</strong> <strong>Arrive</strong> (chaotic, enchantment, good) <em>Aura of Liberation</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.IX1VlVCL5sFTptEE]{Liberating Step}リアクションを得る; <strong>Depart</strong> <em>Radiating フリーダム</em>使者はあなたと100フィート内のすべての仲間に@UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]{アンフェタード・ムーブメント}の効果を与える。持続時間は3ラウンドに短縮される。</li>\n<li><strong>秩序 Neutral</strong> <strong>Arrive</strong> (abjuration, lawful) <em>Defy Chaos</em>あなたはあなたの仲間とともに使者の100フィート内にいる間、スピリットダメージに対する耐性が20増加する; <strong>Depart</strong> <em>Order's Wrath</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディヴァイン・ラス}を唱える(法を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral</strong> <strong>Arrive</strong> (transmutation) <em>Quickening Ripple</em>あなたはあなたの仲間とともに使者の100フィート内にいる間は@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}であり、追加のアクションを使って〔ステップ〕、〔ストライド〕、または〔ストライク〕を行える; <strong>Depart</strong> <em>Sapping Beam</em>使者は6ランクの@UUID[Compendium.pf2e.spells-srd.Item.eexkxcqnkXazsGfK]{エナヴェイション}を唱える、100-フィートの直線で。</li>\n<li><strong>混沌 Neutral</strong> <strong>Arrive</strong> (abjuration, chaotic) <em>Defy Law</em>あなたはあなたの仲間とともに使者の100フィート内にいる間、スピリットダメージに対する耐性が20増加する; <strong>Depart</strong> <em>Chaos槌</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディヴァイン・ラス}を唱える(混沌を選ぶ)、100-フィートの放射で。</li>\n<li><strong>秩序悪</strong> <strong>Arrive</strong> <em>Aura of Iron</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.M8RCbthRhB4bxO9t]{Iron コマンド}リアクションを得る; <strong>Depart</strong> <em>Unholy ブライト</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディヴァイン・ラス}を唱える(悪を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral悪</strong> <strong>Arrive</strong> <em>Aura of Selfishness</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.enQieRrITuEQZxx2]{Selfish シールド}リアクションを得る; <strong>Depart</strong> <em>Infinite Despair</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.GaRQlC9Yw1BGKHfN]{ウェーブ・オヴ・ディスペア}を唱える、100-フィートの円錐で。</li>\n<li><strong>混沌悪</strong> <strong>Arrive</strong> <em>Aura of Vengeance</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.r5Uth6yvCoE4tr9z]{Destructive Vengeance}リアクションを得る; <strong>Depart</strong> <em>武器Hurricane</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.8M03UxGXjYyDFAoy]{ウェポン・ストーム}を唱える、100-フィートの円錐で、ダイス目はd12を使用する。</li>\n</ul><p>あなたは信仰が強いため、あなたの神格を直接代表する存在、たとえば神格の使者を短時間召喚できる。使者は超大型クリーチャーのスペースを占め、移動速度は60フィートである。この呪文の効果はあなたの神格のアラインメントに依存する。</p>\n<ul>\n<li><strong>秩序善</strong> <strong>Arrive</strong> (enchantment, good, lawful) <em>Aura of Retribution</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.EAP98XaChJEbgKcK]{Retributive Strike}リアクションを得る; <strong>Depart</strong> <em>Holy Smite</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディヴァイン・ラス}を唱える(善を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral善</strong> <strong>Arrive</strong> (enchantment, good) <em>Aura of Redemption</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.tuZnRWHixLArvaIf]{Glimpse of Redemption}リアクションを得る; <strong>Depart</strong> <em>Mercifulヒーリング</em>使者は3アクション版の5ランク@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}を唱え、半径は100フィートである。この呪文はあなたとあなたの仲間のみを対象とする。</li>\n<li><strong>混沌善</strong> <strong>Arrive</strong> (chaotic, enchantment, good) <em>Aura of Liberation</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.IX1VlVCL5sFTptEE]{Liberating Step}リアクションを得る; <strong>Depart</strong> <em>Radiating フリーダム</em>使者はあなたと100フィート内のすべての仲間に@UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]{アンフェタード・ムーブメント}の効果を与える。持続時間は3ラウンドに短縮される。</li>\n<li><strong>秩序 Neutral</strong> <strong>Arrive</strong> (abjuration, lawful) <em>Defy Chaos</em>あなたはあなたの仲間とともに使者の100フィート内にいる間、スピリットダメージに対する耐性が20増加する; <strong>Depart</strong> <em>Order's Wrath</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディヴァイン・ラス}を唱える(法を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral</strong> <strong>Arrive</strong> (transmutation) <em>Quickening Ripple</em>あなたはあなたの仲間とともに使者の100フィート内にいる間は@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}であり、追加のアクションを使って〔ステップ〕、〔ストライド〕、または〔ストライク〕を行える; <strong>Depart</strong> <em>Sapping Beam</em>使者は6ランクの@UUID[Compendium.pf2e.spells-srd.Item.eexkxcqnkXazsGfK]{エナヴェイション}を唱える、100-フィートの直線で。</li>\n<li><strong>混沌 Neutral</strong> <strong>Arrive</strong> (abjuration, chaotic) <em>Defy Law</em>あなたはあなたの仲間とともに使者の100フィート内にいる間、スピリットダメージに対する耐性が20増加する; <strong>Depart</strong> <em>Chaos槌</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディヴァイン・ラス}を唱える(混沌を選ぶ)、100-フィートの放射で。</li>\n<li><strong>秩序悪</strong> <strong>Arrive</strong> <em>Aura of Iron</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.M8RCbthRhB4bxO9t]{Iron コマンド}リアクションを得る; <strong>Depart</strong> <em>Unholy ブライト</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディヴァイン・ラス}を唱える(悪を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral悪</strong> <strong>Arrive</strong> <em>Aura of Selfishness</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.enQieRrITuEQZxx2]{Selfish シールド}リアクションを得る; <strong>Depart</strong> <em>Infinite Despair</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.GaRQlC9Yw1BGKHfN]{ウェーブ・オヴ・ディスペア}を唱える、100-フィートの円錐で。</li>\n<li><strong>混沌悪</strong> <strong>Arrive</strong> <em>Aura of Vengeance</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.r5Uth6yvCoE4tr9z]{Destructive Vengeance}リアクションを得る; <strong>Depart</strong> <em>武器Hurricane</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.8M03UxGXjYyDFAoy]{ウェポン・ストーム}を唱える、100-フィートの円錐で、ダイス目はd12を使用する。</li>\n</ul>",
+      "description": "<p>あなたは信仰が強いため、あなたの神格を直接代表する存在、たとえば神格の使者を短時間召喚できる。使者は超大型クリーチャーのスペースを占め、移動速度は60フィートである。この呪文の効果はあなたの神格のアラインメントに依存する。</p>\n<ul>\n<li><strong>秩序善</strong> <strong>Arrive</strong> (enchantment, good, lawful) <em>Aura of Retribution</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.EAP98XaChJEbgKcK]{Retributive Strike}リアクションを得る; <strong>Depart</strong> <em>Holy Smite</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディバイン・ラス}を唱える(善を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral善</strong> <strong>Arrive</strong> (enchantment, good) <em>Aura of Redemption</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.tuZnRWHixLArvaIf]{Glimpse of Redemption}リアクションを得る; <strong>Depart</strong> <em>Mercifulヒーリング</em>使者は3アクション版の5ランク@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}を唱え、半径は100フィートである。この呪文はあなたとあなたの仲間のみを対象とする。</li>\n<li><strong>混沌善</strong> <strong>Arrive</strong> (chaotic, enchantment, good) <em>Aura of Liberation</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.IX1VlVCL5sFTptEE]{Liberating Step}リアクションを得る; <strong>Depart</strong> <em>Radiating フリーダム</em>使者はあなたと100フィート内のすべての仲間に@UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]{アンフェタード・ムーブメント}の効果を与える。持続時間は3ラウンドに短縮される。</li>\n<li><strong>秩序 Neutral</strong> <strong>Arrive</strong> (abjuration, lawful) <em>Defy Chaos</em>あなたはあなたの仲間とともに使者の100フィート内にいる間、スピリットダメージに対する耐性が20増加する; <strong>Depart</strong> <em>Order's Wrath</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディバイン・ラス}を唱える(法を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral</strong> <strong>Arrive</strong> (transmutation) <em>Quickening Ripple</em>あなたはあなたの仲間とともに使者の100フィート内にいる間は@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}であり、追加のアクションを使って〔ステップ〕、〔ストライド〕、または〔ストライク〕を行える; <strong>Depart</strong> <em>Sapping Beam</em>使者は6ランクの@UUID[Compendium.pf2e.spells-srd.Item.eexkxcqnkXazsGfK]{エナヴェイション}を唱える、100-フィートの直線で。</li>\n<li><strong>混沌 Neutral</strong> <strong>Arrive</strong> (abjuration, chaotic) <em>Defy Law</em>あなたはあなたの仲間とともに使者の100フィート内にいる間、スピリットダメージに対する耐性が20増加する; <strong>Depart</strong> <em>Chaos槌</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディバイン・ラス}を唱える(混沌を選ぶ)、100-フィートの放射で。</li>\n<li><strong>秩序悪</strong> <strong>Arrive</strong> <em>Aura of Iron</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.M8RCbthRhB4bxO9t]{Iron コマンド}リアクションを得る; <strong>Depart</strong> <em>Unholy ブライト</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディバイン・ラス}を唱える(悪を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral悪</strong> <strong>Arrive</strong> <em>Aura of Selfishness</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.enQieRrITuEQZxx2]{Selfish シールド}リアクションを得る; <strong>Depart</strong> <em>Infinite Despair</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.GaRQlC9Yw1BGKHfN]{ウェーブ・オヴ・ディスペア}を唱える、100-フィートの円錐で。</li>\n<li><strong>混沌悪</strong> <strong>Arrive</strong> <em>Aura of Vengeance</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.r5Uth6yvCoE4tr9z]{Destructive Vengeance}リアクションを得る; <strong>Depart</strong> <em>武器Hurricane</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.8M03UxGXjYyDFAoy]{ウェポン・ストーム}を唱える、100-フィートの円錐で、ダイス目はd12を使用する。</li>\n</ul><p>あなたは信仰が強いため、あなたの神格を直接代表する存在、たとえば神格の使者を短時間召喚できる。使者は超大型クリーチャーのスペースを占め、移動速度は60フィートである。この呪文の効果はあなたの神格のアラインメントに依存する。</p>\n<ul>\n<li><strong>秩序善</strong> <strong>Arrive</strong> (enchantment, good, lawful) <em>Aura of Retribution</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.EAP98XaChJEbgKcK]{Retributive Strike}リアクションを得る; <strong>Depart</strong> <em>Holy Smite</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディバイン・ラス}を唱える(善を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral善</strong> <strong>Arrive</strong> (enchantment, good) <em>Aura of Redemption</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.tuZnRWHixLArvaIf]{Glimpse of Redemption}リアクションを得る; <strong>Depart</strong> <em>Mercifulヒーリング</em>使者は3アクション版の5ランク@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}を唱え、半径は100フィートである。この呪文はあなたとあなたの仲間のみを対象とする。</li>\n<li><strong>混沌善</strong> <strong>Arrive</strong> (chaotic, enchantment, good) <em>Aura of Liberation</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.IX1VlVCL5sFTptEE]{Liberating Step}リアクションを得る; <strong>Depart</strong> <em>Radiating フリーダム</em>使者はあなたと100フィート内のすべての仲間に@UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]{アンフェタード・ムーブメント}の効果を与える。持続時間は3ラウンドに短縮される。</li>\n<li><strong>秩序 Neutral</strong> <strong>Arrive</strong> (abjuration, lawful) <em>Defy Chaos</em>あなたはあなたの仲間とともに使者の100フィート内にいる間、スピリットダメージに対する耐性が20増加する; <strong>Depart</strong> <em>Order's Wrath</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディバイン・ラス}を唱える(法を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral</strong> <strong>Arrive</strong> (transmutation) <em>Quickening Ripple</em>あなたはあなたの仲間とともに使者の100フィート内にいる間は@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}であり、追加のアクションを使って〔ステップ〕、〔ストライド〕、または〔ストライク〕を行える; <strong>Depart</strong> <em>Sapping Beam</em>使者は6ランクの@UUID[Compendium.pf2e.spells-srd.Item.eexkxcqnkXazsGfK]{エナヴェイション}を唱える、100-フィートの直線で。</li>\n<li><strong>混沌 Neutral</strong> <strong>Arrive</strong> (abjuration, chaotic) <em>Defy Law</em>あなたはあなたの仲間とともに使者の100フィート内にいる間、スピリットダメージに対する耐性が20増加する; <strong>Depart</strong> <em>Chaos槌</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディバイン・ラス}を唱える(混沌を選ぶ)、100-フィートの放射で。</li>\n<li><strong>秩序悪</strong> <strong>Arrive</strong> <em>Aura of Iron</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.M8RCbthRhB4bxO9t]{Iron コマンド}リアクションを得る; <strong>Depart</strong> <em>Unholy ブライト</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J]{ディバイン・ラス}を唱える(悪を選ぶ)、100-フィートの放射で。</li>\n<li><strong>Neutral悪</strong> <strong>Arrive</strong> <em>Aura of Selfishness</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.enQieRrITuEQZxx2]{Selfish シールド}リアクションを得る; <strong>Depart</strong> <em>Infinite Despair</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.GaRQlC9Yw1BGKHfN]{ウェーブ・オヴ・ディスペア}を唱える、100-フィートの円錐で。</li>\n<li><strong>混沌悪</strong> <strong>Arrive</strong> <em>Aura of Vengeance</em>使者の100フィート内にいる間、あなたはあなたの仲間とともにチャンピオンの@UUID[Compendium.pf2e.actionspf2e.Item.r5Uth6yvCoE4tr9z]{Destructive Vengeance}リアクションを得る; <strong>Depart</strong> <em>武器Hurricane</em>使者は5ランクの@UUID[Compendium.pf2e.spells-srd.Item.8M03UxGXjYyDFAoy]{ウェポン・ストーム}を唱える、100-フィートの円錐で、ダイス目はd12を使用する。</li>\n</ul>",
       "range": "100フィート",
       "duration": "あなたの次のターン終了時まで",
       "time": "3",
@@ -7017,7 +7017,7 @@
       "time": "3"
     },
     "Divine Inspiration": {
-      "name": "ディヴァイン・インスピレーション",
+      "name": "ディバイン・インスピレーション",
       "description": "<p>あなたは対象に霊的エネルギーを注入し、対象はその魔力を回復する。対象が呪文を準備するなら、対象はその日に既に唱えた6ランク以下の呪文を1つ回復し、再びその呪文を唱えられる。対象が自発的に呪文を唱えるなら、対象は6ランク以下の呪文スロットを1つ回復する。対象がフォーカスプールを持つなら、対象は再集中したかのようにフォーカスポイントを回復する。</p>",
       "target": "1体の同意するクリーチャー",
       "range": "接触",
@@ -8082,7 +8082,7 @@
       "secondarycheck": "ウォーフェアロア"
     },
     "Divine Plagues": {
-      "name": "ディヴァイン・プレイグス/Divine Plagues",
+      "name": "ディバイン・プレイグス/Divine Plagues",
       "description": "<p>あなたの神格は激しい疫病を放つ。対象は頑健セーヴを行わなければならない。あなたが呪文を詠唱する際、病気が不器用、弱体、または呆然のどの状態を与えるかを決める。</p>\n<p><strong>成功</strong>対象は影響を受けない。</p>\n<p><strong>失敗</strong>対象は段階1の神聖疫病に冒される。</p>\n<p><strong>クリティカル失敗</strong>対象は段階2の神聖疫病に冒される。</p><hr /><p><strong>ディバイン Plague</strong> (disease)レベル1</p>\n<p><strong>段階1</strong> @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}, @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}, または@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1ラウンド)</p>\n<p><strong>段階2</strong> @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}と不器用1、弱体1、または呆然1(1ラウンド)</p>\n<p><strong>段階3</strong>不器用1、弱体1、または呆然1で、対象は治療されるまでその状態から回復できない(1日)</p><hr /><p><strong>高位化 (5th)</strong>その神聖疫病は猛毒特性を得る。不器用、弱体、または呆然の状態値は1ではなく2になる。</p>",
       "target": "1体のクリーチャー",
       "range": "15フィート",
@@ -8172,7 +8172,7 @@
       "areadetails": "あなたを中心とする30-フィート-半径の放射"
     },
     "Divine Aura": {
-      "name": "ディヴァイン・オーラ",
+      "name": "ディバイン・オーラ",
       "description": "<p>ディバインの力が対象を守り、各対象にそのエリア内にいる間ACとセーヴに+1のステータスボーナスを与える。</p>\n<p>あなたはあなたの神格が持つアラインメント(混沌、悪、善、秩序)の中から1つを選ぶ。あなたは神格を持っていないか、あなたの神格が真の中立である場合、この呪文を唱えられない。この呪文はあなたが選んだアラインメントの特性を得る。呪文によって与えられるボーナスは、呪文と反対のアラインメントを持つクリーチャー(あなたが混沌を選んだ場合は秩序、あなたが善を選んだ場合は悪)による攻撃やそのクリーチャーが作る効果に対して+2に増加する。これらのボーナスは、あなたの神聖オーラの対象に対して@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}状態を付与しようとするそのようなクリーチャーが作る効果、およびあなたの神聖オーラと反対のアラインメントの何かによって召喚されたクリーチャーによる攻撃に対して+4に増加する。</p>\n<p>そのクリーチャーは近接攻撃で対象に命中させたとき、意志セーヴに成功しなければならない。失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}されて1分の間その状態になる。それからそれは一時的な免疫で1分の間である。</p>\n<p>あなたが各ラウンドの〔呪文の維持〕を最初に行うと、その神聖オーラの半径が10フィート成長する。</p>",
       "target": "範囲内の味方",
       "duration": "1分",
@@ -9420,7 +9420,7 @@
       "time": "2"
     },
     "Divine Lance": {
-      "name": "ディヴァイン・ランス/Divine Lance",
+      "name": "ディバイン・ランス/Divine Lance",
       "description": "<p>あなたは神聖なエネルギーの光線を放つ。対象のACに対して遠隔呪文攻撃を行う。 命中した場合、対象は2d4の精神ダメージを受ける(クリティカルヒットの場合はダメージが2倍になる)。</p>\n<hr />\n<p><strong>高位化 (+1)</strong> ダメージが1d4増加する。</p>",
       "target": "1体のクリーチャー",
       "range": "60フィート",
@@ -10204,7 +10204,7 @@
       "time": "2"
     },
     "Divine Decree": {
-      "name": "ディヴァイン・ディクリー/Divine Decree",
+      "name": "ディバイン・ディクリー/Divine Decree",
       "description": "<p>あなたは信仰から強力な典礼文を唱え、理想に反する者に害を与える命令を発する。あなたは範囲内の敵に7d10のスピリットダメージを与える；各敵は頑健セーヴを試みなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるになり、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}の影響を受けて1分の間続く。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは2倍のダメージを受けるになり、1分の間弱体化2になる。もしあなたが自分のホーム次元界にいてそのクリーチャーがそうでないなら、そのクリーチャーはホーム次元界に送り返される。レベル10以下のクリーチャーはさらに意志セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}されて1分の間続く；クリティカルに失敗した場合、それは死亡する(これは死の効果である)。</p>\n<hr />\n<p><strong>高位化高位化 (+1)</strong>ダメージは1d10増加し、クリティカル失敗時に二度目のセーヴを試みなければならないクリーチャーのレベルが2上がる。</p>",
       "duration": "様々",
       "time": "2"
@@ -12159,8 +12159,8 @@
       "secondarycheck": "《生存術》"
     },
     "Divine Keystone": {
-      "name": "ディヴァイン・キーストーン/Divine Keystone",
-      "description": "<p>あなたは集落の中心にある建物か廃墟の礎石を魔法的に取り外して奉献し、その石を構造物に戻して周囲の集落にその神聖な保護を広げる。最後の金槌の一撃で石が構造物に戻されると、聖別された石によって保護される領域は聖域になり、生きている者をアンデッドから守る。保護領域内では、奉献された場所は聖なる場所になり、アンデッドのクリーチャーは創造も蘇生もできず、生きているクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}アンデッド。</p>\n<p>成功した@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}が特定の効果に使用された場合、それはその効果のみを除去する(例えば不可視化の効果)。ただし、礎石を破壊または取り除くと儀式全体とそのすべての効果は終了する。</p><hr /><p><strong>クリティカル成功</strong>あなたは上記の効果を作成し、礎石の奉献効果はその半径を二倍にする。</p>\n<p><strong>成功</strong>あなたは上記の効果を作成する。</p>\n<p><strong>失敗</strong>儀式は効果を持たない。</p>\n<p><strong>クリティカル失敗</strong>その領域は次の1か月間アンデッドの力の泉になる。儀式の範囲内にいるすべてのアンデッドのクリーチャーはファスト・ヒーリング3と耐性3を聖性に対して得る。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.LiQDQYAYYE6Qg4yI]{呪文 効果: ディヴァイン・キーストーン (クリティカル失敗)}</p><hr /><p><strong>高位化(+1)</strong>礎石が保護するエマネーションは20フィートだけ増加する。</p>",
+      "name": "ディバイン・キーストーン/Divine Keystone",
+      "description": "<p>あなたは集落の中心にある建物か廃墟の礎石を魔法的に取り外して奉献し、その石を構造物に戻して周囲の集落にその神聖な保護を広げる。最後の金槌の一撃で石が構造物に戻されると、聖別された石によって保護される領域は聖域になり、生きている者をアンデッドから守る。保護領域内では、奉献された場所は聖なる場所になり、アンデッドのクリーチャーは創造も蘇生もできず、生きているクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}アンデッド。</p>\n<p>成功した@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}が特定の効果に使用された場合、それはその効果のみを除去する(例えば不可視化の効果)。ただし、礎石を破壊または取り除くと儀式全体とそのすべての効果は終了する。</p><hr /><p><strong>クリティカル成功</strong>あなたは上記の効果を作成し、礎石の奉献効果はその半径を二倍にする。</p>\n<p><strong>成功</strong>あなたは上記の効果を作成する。</p>\n<p><strong>失敗</strong>儀式は効果を持たない。</p>\n<p><strong>クリティカル失敗</strong>その領域は次の1か月間アンデッドの力の泉になる。儀式の範囲内にいるすべてのアンデッドのクリーチャーはファスト・ヒーリング3と耐性3を聖性に対して得る。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.LiQDQYAYYE6Qg4yI]{呪文 効果: ディバイン・キーストーン (クリティカル失敗)}</p><hr /><p><strong>高位化(+1)</strong>礎石が保護するエマネーションは20フィートだけ増加する。</p>",
       "duration": "1週間",
       "time": "4日",
       "cost": "200gp相当の聖水、銀の粉末、精製されたチョーク",

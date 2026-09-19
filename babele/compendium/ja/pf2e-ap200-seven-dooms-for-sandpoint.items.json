@@ -2074,11 +2074,11 @@
       "name": "角"
     },
     "qppBAh5FNr8f4f2X": {
-      "name": "ディヴァイン・デストラクション/Divine Destruction",
+      "name": "ディバイン・デストラクション/Divine Destruction",
       "description": "<p>神聖なる守護者が HP 0に減少したとき、神聖なエネルギーが@Template[type:emanation|distance:30]で噴出し、@Damage[4d6[void]]ダメージを与える。エリア内の各クリーチャーは@Check[type:will|dc:17|traits:damaging-effect]セーヴを行わなければならず、その結果は以下の通りとなる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは半分のダメージを受ける。</p>\n<p><strong>成功</strong>クリーチャーは全てのダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは全てのダメージを受ける、かつ信奉する神格によって一時的に呪われる。そのクリーチャーは1日の間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態となる。これは呪い効果であり、その意志セーヴ DCを打ち消し DCとして使用する。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる。</p>"
     },
     "Divine Destruction": {
-      "name": "ディヴァイン・デストラクション",
+      "name": "ディバイン・デストラクション",
       "description": "<p>神聖なる守護者が HP 0に減少したとき、神聖なエネルギーが@Template[type:emanation|distance:30]で噴出し、@Damage[4d6[void]]ダメージを与える。エリア内の各クリーチャーは@Check[type:will|dc:17|traits:damaging-effect]セーヴを行わなければならず、その結果は以下の通りとなる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは半分のダメージを受ける。</p>\n<p><strong>成功</strong>クリーチャーは全てのダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは全てのダメージを受ける、かつ信奉する神格によって一時的に呪われる。そのクリーチャーは1日の間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態となる。これは呪い効果であり、その意志セーヴ DCを打ち消し DCとして使用する。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる。</p>"
     },
     "MKArQIqeRcZmRwMf": {
