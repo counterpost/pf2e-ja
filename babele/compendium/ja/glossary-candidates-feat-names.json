@@ -1081,7 +1081,7 @@
       "name": "オーラ・エンハンスメント/Aura Enhancement"
     },
     "Aura Expertise": {
-      "name": "オーラ・エキスパティーズ/Aura Expertise"
+      "name": "オーラ・エキスパーティス/Aura Expertise"
     },
     "Aura of Confidence": {
       "name": "オーラ・オブ・コンフィデンス/Aura of Confidence"
@@ -1240,7 +1240,7 @@
       "name": "アザルケティ・ウェポン・アプティテュード/Azarketi Weapon Aptitude"
     },
     "Azarketi Weapon Expertise": {
-      "name": "アザーケティ・ウェポン・エキスパティーズ/Azarketi Weapon Expertise"
+      "name": "アザーケティ・ウェポン・エキスパーティス/Azarketi Weapon Expertise"
     },
     "Azarketi Weapon Familiarity": {
       "name": "アザーケティ・ウェポン・ファミリアリティ/Azarketi Weapon Familiarity"
@@ -3001,7 +3001,7 @@
       "name": "コンラスー・ロア/Conrasu Lore"
     },
     "Conrasu Weapon Expertise": {
-      "name": "コンラスー・ウェポン・エキスパティーズ/Conrasu Weapon Expertise"
+      "name": "コンラスー・ウェポン・エキスパーティス/Conrasu Weapon Expertise"
     },
     "Conrasu Weapon Familiarity": {
       "name": "コンラスー・ウェポン・ファミリアリティ/Conrasu Weapon Familiarity"
@@ -5293,7 +5293,7 @@
       "name": "エグゼンプラー・デディケーション/Exemplar Dedication"
     },
     "Exemplar Expertise": {
-      "name": "エグゼンプラー・エキスパティーズ/Exemplar Expertise"
+      "name": "エグゼンプラー・エキスパーティス/Exemplar Expertise"
     },
     "Exemplar Resiliency": {
       "name": "エグゼンプラー・レジリエンシー/Exemplar Resiliency"
@@ -6625,7 +6625,7 @@
       "name": "ジェネレーション・ディガー/Generation Digger"
     },
     "Genie Weapon Expertise": {
-      "name": "ジーニー・ウェポン・エキスパティーズ/Genie Weapon Expertise"
+      "name": "ジーニー・ウェポン・エキスパーティス/Genie Weapon Expertise"
     },
     "Genie Weapon Familiarity": {
       "name": "ジーニー・ウェポン・ファミリアリティ/Genie Weapon Familiarity"
@@ -6658,7 +6658,7 @@
       "name": "ゴーラン・ロア/Ghoran Lore"
     },
     "Ghoran Weapon Expertise": {
-      "name": "ゴーラン・ウェポン・エキスパティーズ/Ghoran Weapon Expertise"
+      "name": "ゴーラン・ウェポン・エキスパーティス/Ghoran Weapon Expertise"
     },
     "Ghoran Weapon Familiarity": {
       "name": "ゴーラン・ウェポン・ファミリアリティ/Ghoran Weapon Familiarity"
@@ -8692,7 +8692,7 @@
       "name": "キツネ・ロア/Kitsune Lore"
     },
     "Kitsune Spell Expertise": {
-      "name": "キツネ・スペル・エキスパティーズ/Kitsune Spell Expertise"
+      "name": "キツネ・スペル・エキスパーティス/Kitsune Spell Expertise"
     },
     "Kitsune Spell Familiarity": {
       "name": "キツネ・スペル・ファミリアリティ/Kitsune Spell Familiarity"
@@ -10270,7 +10270,7 @@
       "name": "ナガジ・ロア/Nagaji Lore"
     },
     "Nagaji Spell Expertise": {
-      "name": "ナガジ・スペル・エキスパティーズ/Nagaji Spell Expertise"
+      "name": "ナガジ・スペル・エキスパーティス/Nagaji Spell Expertise"
     },
     "Nagaji Spell Familiarity": {
       "name": "ナガジ・スペル・ファミリアリティ/Nagaji Spell Familiarity"
@@ -10612,7 +10612,7 @@
       "name": "オフィサーズ・エデュケーション/Officer's Education"
     },
     "Officer's Expertise": {
-      "name": "オフィサーズ・エキスパティーズ/Officer's Expertise"
+      "name": "オフィサーズ・エキスパーティス/Officer's Expertise"
     },
     "Officer's Mastery": {
       "name": "オフィサーズ・マスタリー/Officer's Mastery"
@@ -13900,7 +13900,7 @@
       "name": "シグネチャー・ウェポン/Signature Weapon"
     },
     "Signifer Armor Expertise": {
-      "name": "シグナファー・アーマー・エキスパティーズ/Signifer Armor Expertise"
+      "name": "シグナファー・アーマー・エキスパーティス/Signifer Armor Expertise"
     },
     "Signifer's Sight": {
       "name": "シグナファーズ・サイト/Signifer's Sight"
@@ -15793,7 +15793,7 @@
       "name": "テレイン・アドヴァンテージ/Terrain Advantage"
     },
     "Terrain Expertise": {
-      "name": "テレイン・エキスパティーズ/Terrain Expertise"
+      "name": "テレイン・エキスパーティス/Terrain Expertise"
     },
     "Terrain Form": {
       "name": "テレイン・フォーム/Terrain Form"
@@ -16624,7 +16624,7 @@
       "name": "アンキャニー・ヴィタエ/Uncanny Vitae"
     },
     "Unconventional Expertise": {
-      "name": "アンコンベンショナル・エクスペルティーズ/Unconventional Expertise"
+      "name": "アンコンベンショナル・エキスパーティス/Unconventional Expertise"
     },
     "Unconventional Weaponry": {
       "name": "アンコンベンショナル・ウェポナリー/Unconventional Weaponry"
@@ -16903,7 +16903,7 @@
       "name": "ヴァナーラ・ロア/Vanara Lore"
     },
     "Vanara Weapon Expertise": {
-      "name": "ヴァナーラ・ウェポン・エキスパティーズ/Vanara Weapon Expertise"
+      "name": "ヴァナーラ・ウェポン・エキスパーティス/Vanara Weapon Expertise"
     },
     "Vanara Weapon Familiarity": {
       "name": "ヴァナーラ・ウェポン・ファミリアリティ/Vanara Weapon Familiarity"
@@ -17164,7 +17164,7 @@
       "name": "ヴィシュカーニャ・ウェポン・アーツ/Vishkanya Weapon Arts"
     },
     "Vishkanya Weapon Expertise": {
-      "name": "ヴィシュカーニャ・ウェポン・エキスパティーズ/Vishkanya Weapon Expertise"
+      "name": "ヴィシュカーニャ・ウェポン・エキスパーティス/Vishkanya Weapon Expertise"
     },
     "Vishkanya Weapon Familiarity": {
       "name": "ヴィシュカーニャ・ウェポン・ファミリアリティ/Vishkanya Weapon Familiarity"
