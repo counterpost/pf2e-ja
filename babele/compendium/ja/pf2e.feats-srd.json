@@ -352,7 +352,7 @@
       ]
     },
     "Sprite's Spark": {
-      "name": "スプライト・スパーク/Sprite's Spark",
+      "name": "スプライトズ・スパーク/Sprite's Spark",
       "description": "<p>あなたは自身の魔法の一部を敵に投げつけることができる。あなたはスリング武器種に属する、最大射程20フィートで1d4ダメージを与える遠隔素手攻撃を得る。(ダメージ・ロールに能力修正値は加算されない。)その素手攻撃のダメージ種別と名称は、以下に記述されているあなたのヘリテージに依存する。本書に記載されていないほとんどのスプライトのヘリテージも、ルミナス・スパークを使用する。他の素手攻撃と同様に、あなたは@UUID[Compendium.pf2e.equipment-srd.Item.FNDq4NFSN0g2HKWO]{Handwraps of Mighty Blows}でこの攻撃を強化できる。</p><hr /><p><strong>ドラクシー</strong>ユーフォリック・スパーク(精神)</p>\n<p><strong>ファイアフライスプライト</strong>ルミナス・スパーク(火炎)</p>\n<p><strong>グリッグ</strong>ディソナント・ノート(音波)</p>\n<p><strong>メリクシー</strong>スティング・ショット(毒)</p>\n<p><strong>ニクテラ</strong>ウルトラソニック・パルス(音波)</p>\n<p><strong>ピクシー</strong>ピクシー・ダスト(精神)</p>\n<p><strong>ディージャン</strong>プライモーディアル・パルス(霊)</p>\n<p><strong>ガンダルヴァ</strong>セレスティアル・ソング(音波)</p>\n<p><strong>カンチル</strong>パズリング・ボルト(精神)</p>\n<p><strong>リョンリ</strong>サージング・スプラッシュ(殴打)</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -6276,7 +6276,7 @@
       ]
     },
     "Yamaraj's Grandeur": {
-      "name": "ヤマラージ・グランデュール/Yamaraj's Grandeur",
+      "name": "ヤマラージズ・グランデュール/Yamaraj's Grandeur",
       "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p>あなたは、ダスウォーカーの存在を認めた死者の裁判官たるヤマラージの力の一片を与えられた。あなたは氷の風と飢えた昆虫の噴流を吐き出す。これは@Template[cone|distance:30]で、@Damage[14d6[slashing],4d6[persistent,slashing]|options:area-damage]のダメージを与える (@Check[reflex|against:class-spell|basic|options:area-effect]セーヴのクラスまたは呪文DC、高い方を使用)。クリティカル失敗の場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}となる。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -8693,7 +8693,7 @@
       "source": "Pathfinder Rage of Elements"
     },
     "Kraken's Call": {
-      "name": "クラーケン・コール/Kraken's Call",
+      "name": "クラーケンズ・コール/Kraken's Call",
       "description": "|||<p><strong>Frequency</strong> once per day</p><hr /><p>You call forth the sleeping krakens of the deep to crush your enemies. You open a dozen small portals to some lightless, watery abyss in a @Template[burst|distance:30] within 120 feet. The powerful tentacles of a kraken reach through to grab at each creature in the area. Each affected creature takes @Damage[8d6[untyped]|options:area-damage] damage depending on its @Check[fortitude|against:class-spell|options:area-effect,damaging-effect] save against the higher of your class DC or spell DC. You can Sustain the call up to 1 minute. The first time you Sustain it on each subsequent turn, each creature in the area not already @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} by the tentacles must attempt the save.</p><hr /><p><strong>Success</strong> The creature is unaffected.</p>\n<p><strong>Failure</strong> The creature takes full damage and is grabbed by a tentacle. A creature that's still grabbed by a tentacle at the end of its turn takes @Damage[3d6[bludgeoning]] damage. The tentacles' @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} DC and AC are both equal to the higher of your class DC or spell DC. A creature can attack a tentacle to attempt to free the creature trapped by it; a tentacle is destroyed if it takes 30 or more damage in a single round.</p>\n<p><strong>Critical Failure</strong> As failure, but double damage.</p>|||",
       "source": "Pathfinder Howl of the Wild"
     },
@@ -9869,7 +9869,7 @@
       "source": "Pathfinder Season of Ghosts Hardcover Compilation"
     },
     "Culvert's Collapse": {
-      "name": "カルバート・コラプス/Culvert's Collapse",
+      "name": "カルバートズ・コラプス/Culvert's Collapse",
       "description": "<p><strong>必要条件</strong>あなたは洪水の構えにおり、前のターン以降に敵にダメージを受けた。</p><hr /><p>敵の猛攻のもとで、あなたの激しい血の中の水が揺れ動く。あなたの殺意が膨らみ、苦しみが避けられない復活を引き寄せる。あなたにダメージを与えた敵に対して洪水の川の〔ストライク〕を行う。その〔ストライク〕は追加で1d8の出血ダメージを与える。</p>",
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
@@ -12852,7 +12852,7 @@
       ]
     },
     "Hierophant's Power": {
-      "name": "ヒエロファント・パワー/Hierophant's Power",
+      "name": "ヒエロファントズ・パワー/Hierophant's Power",
       "description": "<p>あなたは自然界とあなた自身を結びつけ、その完全な力があなたを通じて流れる。あなたは追加の10レベルの呪文スロットを得る。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -13632,7 +13632,7 @@
       "source": "Pathfinder Player Core"
     },
     "Axuma's Awakening": {
-      "name": "アクスマ・アウェイクニング/Axuma's Awakening",
+      "name": "アクスマズ・アウェイクニング/Axuma's Awakening",
       "description": "<p>あなたは魔法の呪文リストから2つの暗示を選ぶ。これらの暗示を自由に魔法の固有呪文として唱えることができる。暗示はあなたのレベルの半分を切り上げた呪文ランクに高位化される。それから、アーケインの呪文リストから1つの1ランクの呪文と1つの2ランクの呪文を選ぶこと。これらの呪文は、あなたの魔法の固有呪文として1日1回唱えることができる。この特技から得た呪文は、一般的な呪文またはあなたがアクセス可能な呪文でなければならない。</p>",
       "source": "Pathfinder #191: The Destiny War",
       "prerequisites": [
@@ -16044,7 +16044,7 @@
       ]
     },
     "Prophet's Lockbox": {
-      "name": "プロフェット・ロックボックス/Prophet's Lockbox",
+      "name": "プロフェットズ・ロックボックス/Prophet's Lockbox",
       "description": "<p>あなたは他の誰も手が届かない場所に貴重品を保管する秘密の方法を学んだ。あなたは1日に1回、5レベルの自発的オカルト呪文として@UUID[Compendium.pf2e.spells-srd.Item.PERUlvKPtF7dMzN4]{イマジナリー・ロックボックス}を発動できる。12レベルおよびその後の2レベルごとに、この呪文で対象にできる最大量が1バルク増加する。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
@@ -19884,7 +19884,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Gardener's Resolve": {
-      "name": "ガーデナー・リゾルヴ/Gardener's Resolve",
+      "name": "ガーデナーズ・リゾルヴ/Gardener's Resolve",
       "description": "<p><strong>使用制限</strong>1日1回</p>\n<p><strong>トリガー</strong>あなたは恐怖効果に対して失敗(しかしクリティカル失敗ではない)をロールする。意志セーヴに対して失敗した場合、対象は</p><hr /><p>グレイ・ガーデナーは鋼の神経と壊れない決意を持つことで知られている。あなたが恐怖によって圧倒される時、この決意を利用して冷静さを保ち、ひるむことなくいることができる。あなたは@Damage[(@actor.level*2)[mental]]{精神ダメージ}自分のレベルの2倍を受け取り、対象はセーヴィング・スロウに成功する。</p>",
       "source": "Pathfinder Adventure: Night of the Gray Death",
       "prerequisites": [
@@ -22504,7 +22504,7 @@
       ]
     },
     "Empiricist's Eye": {
-      "name": "エンピリシスト・アイ/Empiricist's Eye",
+      "name": "エンピリシストズ・アイ/Empiricist's Eye",
       "description": "<p>鋭くて刺突、あなたの目はすべてを見抜き、より多くのことを伝える。あなたの@UUID[Compendium.pf2e.actionspf2e.Item.sn2hIy1iIJX9Vpgj]{Point Out}の行動は聴覚特性を失い、あなたは仲間に情報を伝えるために聞かれる必要がない。さらに、あなたが〔指し示す〕クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}あなたの仲間にあなたの次のターン開始時まで。</p><hr /><p><strong>特別</strong>あなたが@UUID[Compendium.pf2e.feats-srd.Item.y2XeMe1F18lIyo59]{Blind-Fight}の特技を持っている場合、あなたの仲間はEmpiricist's Eyeによって不意を突かれているクリーチャーに対してその特技の恩恵を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -23215,7 +23215,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Crusader's Masquerade": {
-      "name": "クルセイダー・マスカレード/Crusader's Masquerade",
+      "name": "クルセイダーズ・マスカレード/Crusader's Masquerade",
       "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.GByIIkeHN3JWkZIZ]{Mask Familiar}を仮面の形で着用しており、@UUID[Compendium.pf2e.familiar-abilities.Item.jevzf9JbJJibpqaI]{Skilled}(レリジョン)の使い魔能力を持っている。</p><hr /><p>あなたの仮面はあなたをアンデッドから隠すことができる。あなたは視覚やライフセンスを使用するアンデッドに対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}となり、他の隠蔽やカバーの源なしに@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}や@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak}を行うことができる。この効果は、あなたが〔隠れる〕、〔忍び歩き〕、@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}、@UUID[Compendium.pf2e.actionspf2e.Item.q9nbyIF0PEBqMtYe]{コマンド an 動物}に従ってあなたの仮面使い魔を指示するか、または他のひそかな行動を行わない限りのみ続く。GMが効果を終了させる行動を決定するが、攻撃、呪文を唱える、アイテムを起動するなどは常に効果を終了させる。</p>",
       "source": "Pathfinder Claws of the Tyrant",
       "prerequisites": [
@@ -23489,7 +23489,7 @@
       "source": "Pathfinder Treasure Vault (Remastered)"
     },
     "Talmandor's Shout": {
-      "name": "タルマンダー・シャウト/Talmandor's Shout",
+      "name": "タルマンダーズ・シャウト/Talmandor's Shout",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong>あなたは前回のあなたのターン以降に、あるクリーチャーが30フィート以内の味方にダメージを与えるのを目撃した。</p><hr /><p>敵があなたの味方の1人を傷つけるのを見た後、あなたはセレスティアルのタルマンドールの名において正義の叫びを上げる。@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}ために《威圧》判定を行い、その結果を@Template[type:emanation|distance:60]以内の各敵の意志 DCと比較する。この〈怯ませる〉試みは、言語を共有していないことによるペナルティを受けない。対象ごとに異なる成功度を得る可能性がある。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
@@ -31360,7 +31360,7 @@
       ]
     },
     "Mastermind's Eye": {
-      "name": "マスターマインド・アイ/Mastermind's Eye",
+      "name": "マスターマインドズ・アイ/Mastermind's Eye",
       "description": "<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}を使ってクリーチャーを特定することに成功すると、そのクリーチャーはあなたの攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}になるあなたの次のターン開始時まで; 重大に成功した場合、それはあなたの攻撃に対して1分になる。この特技は、要件を満たす目的でローグの@UUID[Compendium.pf2e.classfeatures.Item.RyOkmu0W9svavuAB]{Mastermind}ラケットとして機能する。</p>",
       "source": "Pathfinder #166: Despair on Danger Island",
       "prerequisites": [
@@ -34236,7 +34236,7 @@
       ]
     },
     "Westyr's Wayfinder Repository": {
-      "name": "ウェスティア・ウェイファインダー・リポジトリ/Westyr's Wayfinder Repository",
+      "name": "ウェスティアズ・ウェイファインダー・リポジトリ/Westyr's Wayfinder Repository",
       "description": "<p><strong>必要条件</strong>あなたは少なくとも1つの1レベル呪文スロットとウェイファインダーを持っている。</p>\n<hr />\n<p>あなたはウェイファインダーを使って、最も必要なときに少し余分な魔法を貯めることができる。あなたの日課の準備を作成するとき、あなたは呪文書または呪文レパートリーから任意の1つの1レベル呪文を選び、それをウェイファインダーに貯めることができる。この呪文をウェイファインダーからキャストする際は、通常必要なアクションを使用する。呪文がキャストされた後、それは消費され、次回の日課の準備を作成するためには、別の呪文をウェイファインダーに貯める必要がある。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
@@ -40782,7 +40782,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Mariner's Fire": {
-      "name": "マリナー・ファイア/Mariner's Fire",
+      "name": "マリナーズ・ファイア/Mariner's Fire",
       "description": "<p>あなたは水面の上または下に浮かぶ神秘的な炎の玉を召喚する。あなたは@UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{イグニション}のカンtripを意のままにプライマルの固有呪文として唱えることができ、高位化はあなたのレベルの半分に相当する呪文ランクに丸められる。あなたの点火呪文は炎の玉の形を取り、水中で唱えることができる。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -41302,7 +41302,7 @@
       ]
     },
     "Axuma's Vigor": {
-      "name": "アクスマ・ヴィガー/Axuma's Vigor",
+      "name": "アクスマズ・ヴィガー/Axuma's Vigor",
       "description": "<p>あなたの活力は、あなたに対して〈応急手当〉を行うために《医術》判定を使用する者、あるいはあなたに対して「治療」アクションのいずれかを使用する者に、彼らの判定への+2の状況ボーナスを与える。〈長期休息〉活動の間、あなたは通常の2倍の速度で回復する。</p>",
       "source": "Pathfinder #191: The Destiny War"
     },
@@ -47506,7 +47506,7 @@
       ]
     },
     "Let's Try That Again": {
-      "name": "レット・トライ・ザット・アゲイン/Let's Try That Again",
+      "name": "レットズ・トライ・ザット・アゲイン/Let's Try That Again",
       "description": "<p><strong>使用制限</strong>1日1回</p>\n<p><strong>トリガー</strong>あなたは技能判定に失敗する。</p>\n<hr />\n<p>あなたは、自分が間違いを犯した時に既視感を感じる。まるで過去の人生でそれほど不注意ではなく、別の機会が与えられれば、確実にもっと良いことができるかのようだ。発動される技能判定を再ロールし、新しい結果を使用する。たとえそれが最初のロールよりも悪いものであっても。</p>",
       "source": "Pathfinder Season of Ghosts Hardcover Compilation"
     },
