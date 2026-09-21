@@ -2228,7 +2228,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Sinbladed Spell": {
-      "name": "シンブレイデッド・スペル/Sinbladed Spell",
+      "name": "シンブレーデッド・スペル/Sinbladed Spell",
       "description": "<p><strong>必要条件</strong>あなたはポールアームまたは槍の種を持っている。</p><hr /><p>あなたはあなたの武器の振りを行使し、魔法に物理的な力を与える。次にあなたが唱える呪文が単体対象に影響を与える非キャントリップの罪またはカリキュラム呪文で、攻撃ロールに成功するか、対象が呪文に対してセーヴィング・スロウを失敗した場合、対象にはあなたの個人のルーンの形をした傷が現れ、その呪文のランクに等しい追加の持続的出血ダメージが発生し、通常の効果に加わる。</p>",
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
@@ -8618,7 +8618,7 @@
       ]
     },
     "Ever-Vigilant Senses": {
-      "name": "エバービジラン・センシズ/Ever-Vigilant Senses",
+      "name": "エバーヴィジラント・センシズ/Ever-Vigilant Senses",
       "description": "<p>あなたのエイドロンは感覚が向上する。対象は知覚に+2の状況ボーナスを得て、より高いレベルのクリーチャーによってのみ挟撃されることができない。</p>\n<p>それは@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}のクリーチャーや物体を見ることができる。それらは半透明に見え、@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}である。</p>\n<p>あなたのエイドロンが、信じることができる幻想の30フィート以内に移動すると、GMはそれを信じないためのシークレット判定を振る。たとえあなたのエイドロンが〔扱う〕のアクションを費やしていなくても。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -14224,7 +14224,7 @@
       ]
     },
     "Mercenary Reversal": {
-      "name": "マーセナリー・リヴァーサル/Mercenary Reversal",
+      "name": "マーセナリー・リバーサル/Mercenary Reversal",
       "description": "<p><strong>必要条件</strong>あなたはあなたの仲間と共に戦場で敵に数で劣っている。</p><hr /><p>戦闘があなたとあなたの仲間に逆転しているように見えても、あなたは重要な味方が常に流れを変えられることを知っている。現在観察している対象を選ぶ。あなたはその対象に、参加するべき理由と、そうしなかった場合の敗北が確実である理由のリストを攻撃する。その対象はあなたのクラス DCに対して@Check[will|against:commander|options:inflicts:controlled,inflicts:stunned]セーヴを試み、結果は以下の通りである。</p><hr /><p><strong>クリティカル成功</strong>対象はあなたに参加することに興味がなく、一時的な免疫であるため、この能力のさらなる使用には24時間である。</p>\n<p><strong>成功</strong>対象はあなたの提案のメリットを考慮することを余儀なくされ、@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}となる。</p>\n<p><strong>失敗</strong>対象は側を替え、戦闘の間あなたに参加する。対象は@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}状態を得るが、あなたが行動を指示する度に自分の本質に反する行動を取る場合、またはダメージを受けるの時に@Check[will|against:commander]セーヴを試みることができる。成功した場合、効果は終了し、対象は元の仲間に戻る。</p>\n<p><strong>クリティカル失敗</strong>失敗として、しかし対象はあなたの指導に感銘を受け、あなたと共に戦う特権に感謝する。戦闘終了時にまだ生きている場合、対象は自身の持っている任意のコインや財宝、他の金銭的所有物を献納として渡してくる。</p>",
       "source": "Pathfinder Battlecry!"
     },
@@ -16009,7 +16009,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Springsoul": {
-      "name": "スプリーンソウル/Springsoul",
+      "name": "スプリングソウル/Springsoul",
       "description": "<p>あなたの元素の木とのつながりは新鮮な花、春の果実、新しい生命の種として現れ、この力を利用して活力と豊かさを広める。あなたはいつでも@UUID[Compendium.pf2e.spells-srd.Item.uZK2BYzPnxUBnDjr]{タングル・ヴァイン}カントリップを秘術または神聖な呪文として唱えることができる。カントリップはあなたのレベルの半分を切り上げた値の呪文ランクに高位化される。</p>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -16976,7 +16976,7 @@
       ]
     },
     "Steelhoof": {
-      "name": "スティールフ/Steelhoof",
+      "name": "スティールフーフ/Steelhoof",
       "description": "<p>あなたは鋼またはその他の補強材で蹄を強化し、最大限のダメージを与えることができる。あなたの蹄攻撃は1d8の殴打ダメージを与える代わりに、1d6を与える。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
@@ -20669,7 +20669,7 @@
       ]
     },
     "Lengthy Diversion": {
-      "name": "レンクシー・ダイヴァージョン/Lengthy Diversion",
+      "name": "レングシー・ダイヴァージョン/Lengthy Diversion",
       "description": "<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{Create a Diversion}においてクリティカルに成功した場合、あなたはターンの終了後も@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}であり続ける。この効果は、状況や気を散らすことによって影響される時間の量に依存する、 GMの判断によって(最小1回の追加のラウンド)。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -21158,7 +21158,7 @@
       ]
     },
     "Pummeling Whirlpool": {
-      "name": "パメリング・ウィルプール/Pummeling Whirlpool",
+      "name": "パメリング・ワールプール/Pummeling Whirlpool",
       "description": "<p><strong>使用制限</strong>一日一回</p><hr /><p>あなたは周囲から水を引き出し、あなたの周りに荒々しい渦を巻いて敵を懲らしめる。@Template[emanation|distance:10]内の各クリーチャーは(または水の中にいる場合は@Template[emanation|distance:15]{15フィート})@Damage[8d6[bludgeoning]|options:area-damage]ダメージを受け、@Check[reflex|against:class-spell|basic|options:area-effect]セーヴに対してあなたのクラスのDCまたは呪文のDCの高い方で振る。セーヴに失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}される。17レベルで、ダメージは11d6に増加する。</p>",
       "source": "Pathfinder Howl of the Wild"
     },
@@ -27992,7 +27992,7 @@
       ]
     },
     "Runescarred Dedication": {
-      "name": "ルーンスカー・デディケーション/Runescarred Dedication",
+      "name": "ルーンスカード・デディケーション/Runescarred Dedication",
       "description": "<p><strong>アクセス</strong>あなたはサガの土地から来ている。</p><hr /><p>血(あなたがヴァリシア語、ショアンティ語、またはニューサシロンである場合)によって、またはルーン魔法にさらされることによって、あなたはルーンサカードとなり、体に入れ墨や傷の形で目に見える、光るルーンを持つことになる。あなたはこのアーキタイプを獲得する前にこれらの印を持っていたかもしれないが、ルーンの力を学び、活用することを選んだときに真にルーンサカードとなる。あなたはアルカナの専門家になり、さらに訓練済みにおいてサシロンロアの専門家となる、またはすでに訓練済みであるならばサシロンロアにおいて専門家になる。</p>\n<p>魔法のリストからカントリップを一つ選ぶ。身体上のルーンの一つは選んだカントリップに対応しており、あなたは選んだカントリップを内在的な魔法としてキャストできる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.j5uZbCwoHOOEO1bC]{Runescarred}</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
@@ -39340,7 +39340,7 @@
       ]
     },
     "Quick Reversal": {
-      "name": "クイック・リヴァーサル/Quick Reversal",
+      "name": "クイック・リバーサル/Quick Reversal",
       "description": "<p><strong>必要条件</strong>あなたは少なくとも2人の敵に挟まれている。</p>\n<hr />\n<p>あなたは素早い反転で敵の挟みを逆手にとる。挟んでいる敵の一体に対して近接 〔ストライク〕 を行い、あなたを挟んでいる別の敵に対して同じ武器または素手の攻撃で二回目の 〔ストライク〕 を行う。この二回目の 〔ストライク〕 は初期攻撃と同じマルチアタック・ペナルティを持ち、あなたのマルチアタック・ペナルティにカウントされない。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -40321,7 +40321,7 @@
       ]
     },
     "Wind-Tossed Spell": {
-      "name": "ウィンドトスド・スペル/Wind-Tossed Spell",
+      "name": "ウィンドトスト・スペル/Wind-Tossed Spell",
       "description": "<p>あなたは呪文を風の元素で強化し、風を使って対象を見つけ出し、遮蔽を迂回して魔法を届ける。もしあなたが次に行うアクションが呪文攻撃ロールを必要とする〈呪文の発動〉であるなら、あなたは対象の@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態と、対象があなたに対して得ているあらゆる遮蔽を無視する。その呪文は風の特性を得る。</p>",
       "source": "Pathfinder Rage of Elements",
       "prerequisites": [
@@ -45316,7 +45316,7 @@
       ]
     },
     "Disengaging Twist": {
-      "name": "ディスイングェイジング・ツイスト/Disengaging Twist",
+      "name": "ディスエンゲイジング・ツイスト/Disengaging Twist",
       "description": "<p><strong>トリガー</strong>あるクリーチャーがあなたに@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}の状態を与える。</p><hr /><p>あなたの相手の体を痛みを伴うロックやホールドにねじり上げる能力は、こうした窮地から逃れるのに特に優れている。あなたはアスレチックス判定を試みて、トリガー条件を@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}する。あなたはこの判定に+2の状況ボーナスを得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -48860,7 +48860,7 @@
       "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Inherit the Dreaming Heirloom": {
-      "name": "インヘリット・ザ・ドリーミング・エアローム/Inherit the Dreaming Heirloom",
+      "name": "インヘリット・ザ・ドリーミング・エアルーム/Inherit the Dreaming Heirloom",
       "description": "<p>あなたは常にそれを持ち歩いていたか、最近相続したのか、あなたはプサカを持っている—夢の中でコミュニケーションをとる精霊を含む家宝。あなたのプサカとして、軽いバルクのアイテムを一つ選ぶ。それはオカルト特性を持つ魔法のアイテムになる。このアイテムを手の届くところに置いて眠り、10分をあなたの日課の準備の間に使って精霊を甘やかす限り、あなたはその日にプサカを起動することができる。</p>\n<p><strong>起動—先祖の回想</strong> <span class=\"action-glyph\">1</span> (集中)</p>\n<p><strong>使用制限</strong>1日に1回</p><hr /><p><strong>効果</strong>プサカ内の精霊が、彼らが生前に知っていた対象に関してあなたに助言する。この特技を獲得したとき、あなたは職業に関する1つのロアスキルと、会計ロアや森林ロアなどの環境に関する1つのスキルを選択する。あなたがプサカを起動するとき、これらのスキルのうちの1つを使って〔思い出す〕を試みる(この判定の間、これらのスキルは一時的に訓練済みになる)。ロアスキルの選択をした後は、変更できなくなる。</p><hr /><p><strong>起動—私の夢を導いて</strong> <span class=\"action-glyph\">2</span> (集中)</p><hr /><p><strong>効果</strong>あなたはプサカ内の精霊に道を示してもらうよう頼む。あなたは@UUID[Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs]{ガイダンス}をオカルトのキャントリップとして詠唱する。キャントリップは、レベルの半分を切り上げたものに等しい呪文ランクに高位化される。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },

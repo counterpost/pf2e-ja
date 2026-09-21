@@ -359,7 +359,7 @@
       "description": "<p>堅いものや砕けたものなど、様々な骨が長い棒の端にある金属製の鎖に取り付けられており、強力なフレイルを形成している。多くのコロの戦士たちは、この武器が命中した時に発する凶悪な破裂音は、穀物から籾殻が打ち落とされるように、魂の断片を解き放つのだと主張する。</p>"
     },
     "Tradecraft Tattoo (Greater)": {
-      "name": "トゥレイドクラフト・タトゥー（グレーター）/Tradecraft Tattoo (Greater)",
+      "name": "トレードクラフト・タトゥー（グレーター）/Tradecraft Tattoo (Greater)",
       "description": "<p>製作者は、自身の選んだ分野における献身と技術を象徴するタトゥーを選ぶ。そのようなタトゥーは腕、指、あるいは目を飾ることもあり、芸術的な模様の形をとったり、金床、絵筆、こてといった商売道具を描いたりする。あなたは《製作》判定に+3アイテム・ボーナスを得る。さらに、@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}のための《製作》判定で大失敗をロールした際、代わりに失敗として扱う。</p>\n<p><strong>起動</strong> 1分 (精神集中、操作)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>そのタトゥーは@UUID[Compendium.pf2e.spells-srd.Item.TUj8eugNqAvB1vVR]{クリエイション}を発動する。あなたはアイテムとその外見、そして呪文が4レベルか5レベルかを選択する。この呪文の持続時間は無制限だが、あなたが再びそのタトゥーを起動すると終了する。</p>"
     },
     "Deck of illusions": {
@@ -446,7 +446,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">3</span> (操作)</p><hr /><p>これらのコーティングにはさまざまな色があり、それぞれ異なる特殊効果を持つ。カラフル・コーティングのボトルには、あなたのリーチ内またはスペース内にある5フィートの広場1つを覆うのに十分な量が入っており、片手だけで表面をコーティングできる特別なディスペンサーで作られている。塗装可能なあらゆる表面にこのコーティングを使用できる(GMの判断に従う)。カラフル・コーティングは即座に乾燥し、コーティングした広場での効果は1分持続する。その時間が経過すると、コーティングは微細で不活性な粉末に変わり、特に記載がない限り、その広場は元の状態に戻る。</p>\n<p>赤いカラフル・コーティングにはゴム状の化合物が含まれており、覆った表面をトランポリンに変える。赤いカラフル・コーティングで覆われた広場に落下したクリーチャーや物体は、落下ダメージを受けず、元の落下の1.5倍の高さまで跳ね返る。クリーチャーが真下に落下した場合、何度か跳ね返った後、安全に停止する。水平に移動していた場合、その跳ね返りは同じ方向に続き、距離はGMによって決定される。コーティングが壁にある場合、壁に押されたり突き飛ばされたりしたクリーチャーは、1.5倍の距離を跳ね返り、壁に押し付けられることによるダメージを回避する。天井にある場合、赤いカラフル・コーティングは、重力が逆転している場所など、特殊な状況でのみ有用である。</p>"
     },
     "Gearblade": {
-      "name": "ギアーブレイド/Gearblade",
+      "name": "ギアブレード/Gearblade",
       "description": "<p>回転する歯車でできた刃のような形状をした、この<em>+2グレーター・ストライキング</em>武器は、敵の武器を捕らえ、敵を粉砕することができる。機能させるためには、この<em>ギアブレード</em>は24時間に1回、10分かけて巻き上げなければならない。この過程の間、あなたはこの武器を再構成して、バスタード・ソード、グレートソード、ロングソード、ショートソードのいずれかに変形させることができる。その後、その武器は選択した武器のすべての特徴を得るが、そのバルクは常に2であり、ディスアーム武器特性とバーサタイルB武器特性(これはその武器が持っている可能性のある他のバーサタイル特性を置き換える)を得る。ギアブレードを巻き上げない場合、それは不活性となり、グレートクラブの統計値を持つ。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span>想起</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong>あなたは過去24時間以内に10分かけてギアブレードを巻き上げている</p>\n<p><strong>トリガー</strong>あなたがギアブレードで対象に対して@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}を行うための判定で大成功した</p>\n<hr />\n<p><strong>効果</strong>対象の武器はギアブレードの歯車を通って引き抜かれ、反対側に飛び出し、あなたの選択した方向に20フィート離れた場所に落ちる。対象は@Check[reflex|dc:36]セーヴを行わなければならない。失敗した場合、武器を持っている四肢も<em>ギアブレード</em>に引き込まれ、そのクリーチャーは@Damage[3d12[bludgeoning]]ダメージを受ける。大失敗した場合、彼らは@Damage[6d12[bludgeoning]]ダメージを受け、その四肢は@UUID[Compendium.pf2e.spells-srd.Item.2Vkd1IxylPceUAAF]{リジェネレイト}呪文や同様の効果によって回復されるまで使用不能となる。</p>"
     },
     "Pheromone Flare (Moderate)": {
@@ -1314,7 +1314,7 @@
       "description": "<p>忘れ去られた王の物語がある。彼はかつて臣民を深く愛し、彼らのために自らの生命エネルギーを捧げることを厭わなかった。その際、<em>crown of the companion</em>のような品を用いたという。真偽はともかく、この威厳ある木製の冠には、その物語を描いた精巧な彫刻が施されており、困窮する臣民の群れに自らを捧げ続ける王者の姿が刻まれている。この冠を着用している間、あなたは《交渉》判定に+1のアイテム・ボーナスを得る。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">2</span> (concentrate, manipulate)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>あなたは30フィート以内にいる味方に向かってお辞儀をし、その味方を対象として@UUID[Compendium.pf2e.spells-srd.Item.d7Lwx6KAs47MtF0q]{シェア・ライフ}を唱えたかのように、あなたと味方の間に魔法的な絆を作り出す。この絆は、あなたがその味方から30フィート以上離れても持続する。呪文の持続時間が終了した時点で、あなたの味方は@Damage[4d8[healing]]ヒット・ポイントを回復し、あなたは彼らが回復した量の半分を回復する。</p>"
     },
     "Dragonclaw Scutcheon": {
-      "name": "ドゥラゴンクロー・スクチェオン/Dragonclaw Scutcheon",
+      "name": "ドラゴンクロー・スクチェオン/Dragonclaw Scutcheon",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">f</span> (concentrate)</p>\n<p><strong>前提条件</strong>あなたは取り付けられた盾を掲げている。</p>\n<p><strong>トリガー</strong>あなたが、そのタリスマンのドラゴンの種類に応じたタイプのダメージを受ける。</p><hr /><p>この装飾的な盾のエンブレムには、高グレードなアダマンティン合金の台座に架台された、ドラゴンの金メッキされた爪が収められている。これは、その爪の由来となったドラゴンの種類に応じたダメージ種別から保護する(サイドバーを参照)。あなたがこの盾の紋章を起動すると、あなたと、あなたが運搬、装備、または着用しているすべてのアイテムは、そのタイプのすべてのダメージに対する完全耐性を　あなたの次のターン終了時まで得る。</p>\n<p>もしあなたがドラゴンクロー・スキャッチョン、ドラゴン・スケール・カメオ、ドラゴン・トゥース・トロフィーをアイテムに取り付けており、それらがすべて同じ種類のドラゴンに対応している場合、あなたは追加の恩恵を得る。あなたがこれらのタリスマンのいずれかを起動した際、次のターンの終了時までに1回、8レベルの@UUID[Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE]{ドラゴン・ブレス}フォーカス呪文(@Check[reflex|dc:35|basic])を内在呪文として唱える能力を得る。タリスマンと一致するドラゴンの種類を使用すること。この方法で呪文を唱える場合、フォーカス・ポイントを消費する必要はない。各タリスマンは使用時に崩壊するため、交換品を取り付けるまで、この恩恵を再び得ることはできない。</p><hr /><p><strong>〈製作する〉必要条件</strong>成体以上のドラゴンの爪を1つ提供すること。</p>"
     },
     "Aetheric Irritant (Lesser)": {
@@ -1392,7 +1392,7 @@
       "description": "<p>何千年もの間、これらの神秘的で複雑にカットされた宝石は、その秘密を発見しようとする神秘家や狂信者たちによって蓄えられてきた。その無数の形態や機能にもかかわらず、これらの石はすべて、太古の昔に異世界の存在が宇宙を構築するために使用した結晶の道具の破片であるとされている。</p>\n<p>あなたがこれらの精密に形作られた結晶の1つを装着(invest)すると、その石はあなたの体に着用される代わりに、あなたの頭の周りを軌道を描いて回る。あなたは〈扱う〉アクションで<em>アイオン・ストーン</em>を収納することができ、軌道を描いている石は、あなたに対する〈ディスアーム〉アクションの成功によって空中で奪い取られる可能性がある。収納された、あるいは取り外された石は同調状態のままだが、あなたが再びそれを頭の周りの軌道に戻すまで、その効果は抑制される。</p>\n<p>様々な種類の<em>アイオン・ストーン</em>が存在し、それぞれ異なる外見と魔法効果を持っている。各<em>アイオン・ストーン</em>は、<em>ウェイファインダー</em>と呼ばれる特別な魔法のアイテムにスロットインされた際にも、共鳴する力を得る。</p>\n<hr />\n<p>この球形の銀色の石は、あなたが些細な問題を無視する助けとなる。あなたは、その状態の値が1である限り、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}、および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}の状態による技能判定への状況ペナルティを無視できる。</p>\n<p>その共鳴する力により、あなたは@UUID[Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs]{ガイダンス}をオカルトの生得キャントリップとして発動できる。</p>"
     },
     "Four-Ways Dogslicer": {
-      "name": "フォウルワイス・ドッグスライサー/Four-Ways Dogslicer",
+      "name": "フォーウェイズ・ドッグスライサー/Four-Ways Dogslicer",
       "description": "<p>この<em>+2ストライキング・ドッグスライサー</em>は、明らかに安全性よりも汎用性を重視した、優秀だが無鉄砲な職人の手によるものだ。刃の切っ先には4つの歯のような宝石が並んでおり、そのうち3つは輝いている。1つは燃えるような赤い光、1つは冷たい青い光、そして1つは火花を散らしている。最後の1つはきらめく黒色だ。これらの宝石はそれぞれ武器のプロパティ・ルーンを体現しているが、一度に有効にできるルーンは1つだけである。</p><hr /><p><strong>起動-宝石の捻り</strong> <span class=\"action-glyph\">1</span> (操作)</p>\n<p><strong>効果</strong>あなたは刃に沿って、望む武器ルーンに対応する宝石を捻る。赤は<em>フレイミング</em>、青は<em>フロスト</em>、黄色は<em>ショック</em>に対応する。あなたは選択したルーンが与えるのと同じ種類のダメージを@Damage[1d6[untyped]]受ける。代わりに黒い宝石を捻ることで、有効になっているプロパティ・ルーンを無効化することもでき、その場合はダメージを受けない。</p>"
     },
     "Staff of Healing": {
@@ -1544,7 +1544,7 @@
       "description": "<p>この単純な木のワンドの木目には、鋭い爪、噛みつく顎、そして数え切れないほどのクリーチャーの姿が変化し続けている。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉; この起動には、呪文の発動に通常<span class=\"action-glyph\">1</span>かかる場合は<span class=\"action-glyph\">2</span>かかり、呪文の発動に通常<span class=\"action-glyph\">2</span>かかる場合は<span class=\"action-glyph\">3</span>かかる。</p>\n<p><strong>使用制限</strong> 1日1回, 加えてオーバーチャージ</p>\n<p><strong>効果</strong> あなたは呪文を発動し、通常選択できるものの中から2つの形態を選択する。あなたは両方の形態の恩恵を得る。例えば、一方の形態が空気中で呼吸でき、もう一方が水中で呼吸できる場合、あなたは両方の状況で呼吸できる。能力に重複がある場合、より優れた方を得る。例えば、両方が飛行移動速度を持つ場合、より高い方を得る。また、両方の形態が爪を持つ場合、あなたが好む方の爪による〈ストライク〉のみを得る。どの能力が重複し、どれが累積するかはGMが決定する。</p><hr /><p><strong>〈製作する〉 必要条件</strong> 適切なランクの呪文の発動を供給すること。その呪文は発動時間が<span class=\"action-glyph\">1</span>または<span class=\"action-glyph\">2</span>でなければならず、ポリモーフ特性を持っていなければならず、かつ戦闘形態を複数選択できなければならない。</p>"
     },
     "Dragonplate": {
-      "name": "ドゥラゴンプレイト/Dragonplate",
+      "name": "ドラゴンプレート/Dragonplate",
       "description": "<p>この+2 <em>グレーター・レジリエント・ドラゴンハイド・フル・プレート</em>は、あなたを恐るべきドラゴンのように見せる。この鎧は、作成に使用されたドラゴンの種類に応じて多くの異なる種類が存在するが、通常は4つの魔法の伝統のいずれかに準拠している。</p><hr /><p><strong>起動—ドラゴン・ブレス</strong> <span class=\"action-glyph\">2</span> (manipulate)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは、その鎧の作成に使用されたドラゴンの系統に対応するダメージ種別とセーヴィング・スロウを持つ@Template[cone|distance:15]のエネルギーを解き放つ(下の表を参照)。この円錐は14d6のダメージを与える。範囲内の各クリーチャーはDC 36の基本的なセーヴィング・スロウを行わなければならない。</p><hr /><p><strong>〈製作する〉必要条件</strong>最初の生の素材には1,250gp分のドラゴンハイドを含めなければならない。</p><table class=\"pf2e remaster\"><thead><tr><th>ドラゴン伝統</th><th>ダメージ</th></tr></thead><tbody><tr><td>アーケイン</td><td>@Damage[14d6[force]|options:area-damage]{フォース} (@Check[reflex|dc:36|basic|options:area-effect]{反応})</td></tr><tr><td>ディバイン</td><td>@Damage[14d6[spirit]|options:area-damage]{スピリット} (@Check[reflex|dc:36|basic|options:area-effect]{反応})</td></tr><tr><td>オカルト</td><td>@Damage[14d6[mental]|options:area-damage]{精神} (@Check[will|dc:36|basic|options:area-effect]{意志})</td></tr><tr><td>プライマル</td><td>@Damage[14d6[poison]|options:area-damage]{毒} (@Check[fortitude|dc:36|basic|options:area-effect]{頑健})</td></tr></tbody></table>"
     },
     "Drop of Convergent Waters": {
@@ -1694,7 +1694,7 @@
       "gmnote": "<p>「錆の角笛」の力はザル=アズマクの死から時を経て衰えているが、それを携える者は依然としてその明白な混沌の影響を受ける。もしあなたが混沌悪でなければ、「錆の角笛」を携行または使用している間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態となる。もしあなたが秩序または善であれば、代わりに@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}かつ@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態となる。ザル=アズマクの非崇拝者が「錆の角笛」を長く携えるほど、ヴロリアクやその他のデーモン（あるいはデーモンの集団）が彼らを探し出し、殺害してアーティファクトを奪還しようとする可能性が高まる。これらの襲撃の頻度はGMが決定するが、少なくとも月に1回は発生させるべきである。これらの襲撃は常に少なくとも中程度の遭遇であるべきだ。もしPCたちがそれらを真剣に受け止めなければ、襲撃は最終的に手強い遭遇へとエスカレートする可能性がある。</p>\n<hr />\n<p><strong>ザル=アズマクの復活</strong> デーモンロードであるザル=アズマクが復活した場合、「錆の角笛」は20レベルのアイテムとなる。その錆びた金属片の渦巻くオーラはACに+3のアイテムボーナスを与え、@Damage[20d6[slashing]]ダメージ（@Check[reflex|dc:43|basic]セーヴ）、および破傷風に対して@Check[fortitude|dc:43]セーヴを必要とする。それは病気に対して[[/r 1d20+31 #Counteract]]{+31}の打ち消し修正値を持つ。あなたはこのアーティファクトのチャージを使用して、以下の追加呪文を発動できる。</p>\n<ul>\n<li><strong>4th</strong> @UUID[Compendium.pf2e.spells-srd.Item.0fYE64odlKqISzft]{ラスティング・グラスプ}</li>\n<li><strong>5th</strong> @UUID[Compendium.pf2e.spells-srd.Item.MlpbeZ61Euhl0d60]{トキシック・クラウド}</li>\n<li><strong>6th</strong> @UUID[Compendium.pf2e.spells-srd.Item.r7ihOgKv19eJQnik]{ディスインテグレイト}</li>\n<li><strong>7th</strong> @UUID[Compendium.pf2e.spells-srd.Item.sX2o0HH4RjJDAZ8C]{ディバイン・ディクリー} (混沌または悪のみ)</li>\n<li><strong>8th</strong> @UUID[Compendium.pf2e.spells-srd.Item.M0jQlpQYUr0pp2Sv]{デシケイト}</li>\n<li><strong>9th</strong> @UUID[Compendium.pf2e.spells-srd.Item.ihbRf964JDXztcy3]{ディスジャンクション}</li>\n<li><strong>10th</strong> @UUID[Compendium.pf2e.spells-srd.Item.wLIvH0AT1u7oa64N]{カタクリズム}</li>\n</ul>\n<hr />\n<p><strong>破壊</strong> 「錆の角笛」は、不死の樹木から摘み取った新鮮な桃の果汁で洗い、次に溶けたドーンシルバーの泉に浸し、最後に悔恨するデーモンの涙で冷やさなければならない。あるいは、GMはPC達のために独自のクエストのシリーズを考案し、この古代のアーティファクトを破壊するよう彼らを向かわせることもできる。角笛が破壊されれば、ザル=アズマクは二度と復活できない。</p>"
     },
     "Stonethroat Ammunition": {
-      "name": "ストウンスロウト・アミュニション/Stonethroat Ammunition",
+      "name": "ストーンスロート・アミュニション/Stonethroat Ammunition",
       "description": "<p><strong>矢弾</strong>矢、ボルト</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<hr />\n<p>ストーンスロート・アミュニションは、それぞれ珍しい黄色の石が先端についている。起動したストーンスロート・アミュニションが対象に命中した際、その対象は@Check[fortitude|dc:30]を行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>このアミュニションは対象の喉に浅く突き刺さる。1ラウンドの間、対象は自身の顎や牙による攻撃ロール、および《運動》判定に-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.AJx8i8QX35vsG5Q4]{効果: ストーンスロート 矢弾 (成功)}</p>\n<p><strong>失敗</strong>このアミュニションは対象の喉の奥深くに突き刺さる。対象は自身の次のターンの終了時まで、自身の顎や牙による〈ストライク〉(もし持っていれば)や、“丸呑み”能力を使用できない。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、対象は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}状態に1ラウンドの間なる。</p>"
     },
     "Lucky Silver": {
@@ -2023,7 +2023,7 @@
       "description": "<p>このバトンは約1フィートの長さで、単一の呪文を内包している。　外見は通常、内部にある呪文に関連している。</p>\n<p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回, plus overcharge</p>\n<hr />\n<p><strong>効果</strong>あなたは指定されたランクでその呪文を発動する。</p>\n<p><strong>〈製作する〉必要条件</strong>リストされたランクでその呪文を1回分提供すること。</p>\n<hr />\n<p><em>注: 特定の呪文のスクロールまたは杖を作成するには、コンペンディアまたはコンペンディアブラウザから呪文をPC、NPC、または戦利品アクターのインベントリへドラッグする。</em></p>"
     },
     "Sparkblade": {
-      "name": "スパークブレイド/Sparkblade",
+      "name": "スパークブレード/Sparkblade",
       "description": "<p>この+1コールド・アイアン・ショートソードの刃には、稲妻の淡く繊細なエッチングが施されている。コールド・アイアンは特に純度の高い鉄源から作られ、熱をほとんどあるいは全く加えずに成形されるため、デーモンやフェイに対して致命的な武器となる。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">A</span> 〈扱う〉</p>\n<p>1日1回、あなたは1アクションを消費して、スパークブレードをあなたから30フィート以内にいる敵に向け、刃から稲妻の弧を放つことができる。この稲妻は、あなたが選択した敵から、30フィート以内にいるあなたが選択した別のクリーチャーへと飛び移り、各クリーチャーに@Damage[(2d4+4)[electricity]]ダメージを与える(@Check[reflex|dc:19|basic])。</p>"
     },
     "Wandering Pipe": {
@@ -2088,7 +2088,7 @@
       "description": "<p>ダイモンの粉末状の魂の宝石から作られたか、アバドンの川の水から精製されたオブリヴィオン・エッセンスは、犠牲者を急速に老化させ腐敗させる。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">A</span> 〈扱う〉 (致傷型)</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:42]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[8d6[poison]]ダメージと@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{遅鈍 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[10d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}、および遅鈍 1 (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[12d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 3}、遅鈍 1 (1ラウンド)</p>"
     },
     "Dragonaut's Wingsuit": {
-      "name": "ドラゴナウトウィングズ・スート/Dragonaut's Wingsuit",
+      "name": "ドラゴノーツ・ウィングスート/Dragonaut's Wingsuit",
       "description": "<p>この<em>+1 resilient leather armor</em>はドレイクの皮から作られており、四肢を互いに繋ぐ翼のような膜が含まれている。元々は空飛ぶ騎乗生物の乗り手が、必要が生じた際に安全に降車できるように設計されたものであり、このようなウィングスーツは一般的ではないが、スリルを求める冒険者や一部の山岳地帯のコミュニティの間でいくらか人気を得ている。</p><hr /><p><strong>起動—ドレイク's Glide</strong> <span class=\"action-glyph\">1</span> (manipulate)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは2回の移動アクションを行う。そのそれぞれは〈飛行〉または〈ストライド〉であり得る。もしあなたが飛行移動速度を持っていないなら、この起動による〈飛行〉アクションのために20フィートの飛行移動速度を得る。</p><hr /><p><strong>起動—Descend</strong> <span class=\"action-glyph\">r</span> (concentrate, manipulate)</p>\n<p><strong>使用制限</strong> 10分に1回10分</p>\n<p><strong>トリガー</strong>あなたが落下している</p><hr /><p><strong>効果</strong>あなたの落下速度は1分の間、ラウンドごとに60フィートまで減速し、もしこの時間中に地面に到達したなら、落下によるダメージを受けない。</p>"
     },
     "Clinging Bubbles (Lesser)": {
@@ -2353,7 +2353,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<hr />\n<p>この6インチの長さの灰緑色の香の棒は、不気味で油っぽい見た目をしている。燃焼させると、<em>デヴィルズ・ブレス・インセンス</em>の棒は硫黄のような悪臭を放ち、10分の間燃え続ける。ヴァリシアの伝承によれば、この香の悪臭はサンドポイント・デヴィルの吐息の臭いに酷似しているとされるが、その炎の吐息が放つ完全な悪臭には遠く及ばない。燃えている<em>デヴィルズ・ブレス・インセンス</em>の棒から10フィート以内のクリーチャーは、@Check[fortitude|dc:23|options:area-effect,inflicts:sickened]セーヴィング・スローを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}(クリティカル失敗なら@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2})状態となる。その後、そのクリーチャーは1時間の間、この香に対して一時的な免疫となる。</p>\n<p><em>デヴィルズ・ブレス・インセンス</em>の棒が燃えている間、隣接するクリーチャーは〈扱う〉アクションとして、棒の上に身を乗り出して強く吸い込むことができる。そうすると棒は即座にすべて消費され、そのクリーチャーは自動的に@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 3}状態となる。しかし、そのクリーチャーが次の息を吐き出す際、吐き出された煙の雲は、そのクリーチャーが苦しんでいる呪いを1つ運び出そうと試みる。この香は打ち消しレベル4であり、判定には[[/r 1d20+12 #Counteract]]{+12}の修正値を用いる。サンドポイント・デヴィルの「呪われた吐息」(またはゴブリンのウィッチであるミナルグルが作り出せる「呪われた炎」のような類似の効果)の影響を取り除くために使用した場合、<em>デヴィルズ・ブレス・インセンス</em>は、呪い自体のレベルに関係なく、自動的に呪いの除去に成功する。</p>"
     },
     "Fire-Jump Ring": {
-      "name": "ファイアージャンプ・リング/Fire-Jump Ring",
+      "name": "ファイアジャンプ・リング/Fire-Jump Ring",
       "description": "<p>この黒い金属製の指輪にはルビーがはめ込まれており、時折煙の筋を立ち上らせる。これはあなたに《運動》判定への+2のアイテム・ボーナスを与える。</p>\n<p><strong>起動—Fireジャンプ</strong> <span class=\"action-glyph\">2</span> (concentrate, manipulate, テレポーテーション)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは自分を収められる大きさのあらゆる火(魔法の火を含む)の中へ〈ストライド〉(または、対応する移動速度を持っているなら〈穴掘り〉か〈飛行〉)を行う。あなたはその火の中に消え、その火からダメージを受けない。あなたは自分が消えた場所から100フィート以内にある、十分に大きいすべての火を感知でき、それらの火のいずれかから、火の中または火に隣接する場所に再び現れることができる。もし火の中で移動を終了した場合、その火は通常通りあなたに影響を及ぼす。</p>"
     },
     "Poisonous Cloak Type I": {
@@ -2459,7 +2459,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<p>このピリピリする溶液は、あなたの脚の筋肉の弾力性と収縮性を高める。このエリクサーを飲んでから1分の間、あなたは2アクションの代わりに1アクションとして@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}または@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を行える。これを行う場合、あなたは最初の〈ストライド〉を行わない(また、〈ストライド〉で10フィート移動しなくても失敗にはならない)。</p>\n<p>〈ハイジャンプ〉で跳躍できる最大垂直距離は、〈ロングジャンプ〉で跳躍できる水平距離と同じになる。</p>"
     },
     "Final Scalecloak": {
-      "name": "ファイナル・スケイルクロウク/Final Scalecloak",
+      "name": "ファイナル・スケールクローク/Final Scalecloak",
       "description": "<p>モガルの赤と黒の獣皮の切れ端から作られ、アギラの緑、青、白の粗い鱗で縁取られたこのクロークは、両方の怪獣の力を引き出すが、かなりの代償を伴う。<em>ファイナル・スケールクローク</em>の半径5マイル以内にいる怪獣は、このアイテムの存在と性質を感知でき、またそれが定命の者に着用されているかどうかも判断できる。この感知はアイテムと怪獣が近づくにつれて強まり、最終的には怪獣がそのクロークがどこにあり、誰が現在所持しているかを正確に突き止めることができるようになる。</p>\n<p>着用時、<em>ファイナル・スケールクローク</em>はあなたに物理ダメージおよび精密ダメージに対する耐性15、電撃に対する完全耐性、そして60フィートの〈飛行〉移動速度を与える。飛行中、あなたは強風の影響を受けない。</p><hr /><p><strong>起動—コミューン with Kaiju</strong> <span class=\"action-glyph\">2</span> (concentrate, manipulate, primal)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>ミシック・ポイントを1点消費する。あなたは6レベルの@UUID[Compendium.pf2e.spells-srd.Item.HqTI6wRrck1YXp3F]{テレパシー}呪文の効果を得るが、これは巨大な動物や野獣と意思疎通するためにしか使用できない。しかし、ほとんどの怪獣はあなたが<em>ファイナル・スケールクローク</em>を身につけていることに対して敵対的であり、会話ができるほど落ち着かせるには多大な努力を要する。</p><hr /><p><strong>起動—Embody the Storm</strong> <span class=\"action-glyph\">2</span> (concentrate, manipulate, primal)</p>\n<p><strong>使用制限</strong> 1時間に1回</p>\n<p><strong>効果</strong>ミシック・ポイントを1点消費する。パチパチと音を立てる電撃の光輪が1分の間、あなたを取り囲む。あなたは少なくとも部分的に金属で作られた遠隔投射物に対して、ACへの+4のステータス・ボーナスを得る。敵が素手攻撃、または少なくとも部分的に金属で作られた武器による近接攻撃であなたに〈ストライク〉を試みた場合、そのクリーチャーは@Damage[3d10[electricity]]ダメージを受ける(@Check[reflex|dc:40|basic|traits:concentrate,manipulate,primal]セーヴ)。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.VGSHg5UEqgp5WhjV]{効果: Embody the Storm}</p><hr /><p><strong>破壊</strong>装着者が同じラウンドの間にアギラとモガルの両方からの攻撃や効果を受けた場合、<em>ファイナル・スケールクローク</em>は切り裂かれてしまう。</p>"
     },
     "Sanguine Pendant (Greater)": {
@@ -2831,7 +2831,7 @@
       "description": "<p>@Embed[Compendium.pf2e.classfeatures.Item.DhdLzrcMvB93Rjmt inline]</p>"
     },
     "Heavy Rondache": {
-      "name": "ヘヴィ・ロンダチェ/Heavy Rondache",
+      "name": "ヘビー・ロンダチェ/Heavy Rondache",
       "description": "<p>バックラーと同等のサイズのこの鋼鉄製の盾は、攻撃を偏向させるのではなく、可能な限り多くの打撃を吸収することを意図している。これは金属の層を重ねた構造をしており、さらに木材で補強されている。</p>"
     },
     "Gloaming Arc": {
@@ -2866,7 +2866,7 @@
       "description": "<p>アンデッドの多いウスタラヴなどで人気の<em>ファラスミン・バイザー</em>は、カリファスのような都市の催しへ赴く洒落者の貴族にとって価値ある装備である。金属製の頭蓋帽型兜の両側から金属アームが伸び、青水晶のレンズをそれぞれ独立して目の前へ下ろしたり退けたりできる。兜は輝く銀または艶消しの黒に見え、着用するたび外見を変更できる。</p><hr /><p><strong>起動—ファラズマズ・ディスデイン</strong> <span class=\"action-glyph\">2</span> (操作、精神)</p>\n<p><strong>使用制限</strong> 1日1回</p><p><strong>効果</strong> 両方のバイザーを下ろす。視界が遮られて@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ状態}になる。同時にファラズマの注意のごく一部が@Template[type:emanation|distance:30]へ漏れ出し、範囲内の全アンデッドへ@Damage[12d6[spirit]]ダメージを与える(@Check[will|dc:30|basic]基本セーヴ)。ターン終了時に両バイザーは自動的に上がるが、次のターン開始時まで目が眩んだ状態である。</p><hr /><p><strong>起動—ピアース・ザ・ナイト</strong> <span class=\"action-glyph\">1</span> (操作)</p>\n<p><strong>効果</strong> 左のバイザーだけを下ろす。再び調整するか着用しなくなるまで暗視を得る。</p><hr /><p><strong>起動—リヴィール・ジ・アンシーン</strong> <span class=\"action-glyph\">1</span> (操作)</p><p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong> 右のバイザーだけを下ろす。@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視状態}のクリーチャーを不可視でないかのように見られるが、姿はぼやけて@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態で識別しにくい。物体表面から10フィート以内なら、物体をすり抜けたゴーストなどの非実体クリーチャーも、物体越しのぼやけた形として見える。この効果は8時間、再調整、または着用終了のうち最初に起きるまで続く。</p><hr /><p><strong>起動—シー・スルー・デス</strong> <span class=\"action-glyph\">1</span> (操作)</p>\n<p>両方のバイザーを上げる。<em>ファラスミン・バイザー</em>は［即死］特性を持つ効果への全セーヴに＋2のアイテム・ボーナスを与える。</p>"
     },
     "Tideplate": {
-      "name": "タイドプレイト/Tideplate",
+      "name": "タイドプレート/Tideplate",
       "description": "<p>さざ波の意匠が、このシンプルな+1 <em>レジリエント・フル・プレート</em>を飾っている。このプレートは水中での使用に合わせて改造されており、水や類似の液体の中での《軽業》や《運動》判定には、その判定ペナルティが適用されない。この鎧を着用している間、あなたは〈水泳〉を行うための《運動》判定に+2のアイテム・ボーナスを得て、水中呼吸ができるようになる。</p>\n<p><strong>起動—波に乗る</strong> <span class=\"action-glyph\">2</span> (精神集中、操作)</p>\n<p><strong>使用制限</strong> 1時間に1回</p>\n<hr />\n<p><strong>効果</strong>鎧のさざ波がうねり始め、近くにある水の動きと同期する。この鎧はあなたに@UUID[Compendium.pf2e.spells-srd.Item.Seaah9amXg70RKw2]{ウォーター・ウォーク}をかける。</p>\n<p><strong>起動—潜水</strong> <span class=\"action-glyph\">2</span> (精神集中、操作、ポリモーフ)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong>あなたは身体の半分以上が水に浸かっている。</p>\n<hr />\n<p><strong>効果</strong>あなたは10分の間、水と融合する。融合している間、あなたは移動できず、水が十分に澄んでいれば水の中を見ることができ、水の外で何が起きているかを聞くことができる。通常、水はダメージを受けないが、あなたが融合している水が電撃ダメージや、水を破壊または乾燥させる能力や効果の対象となった場合、あなたは水から追い出され、@Damage[10d6]ダメージを受ける。<em>コントロール・ウォーター</em>は、ダメージを与えることなくあなたを追い出す。</p>",
       "rules": [
         {
@@ -3218,7 +3218,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">3</span> (manipulate)</p><hr /><p>グールやその他の人食いクリーチャーの骨を粉砕し、緑灰色のペーストに加工して作られたナボーン・トキシンは、知性あるクリーチャーの肉を食らいたいという飽くなき欲求を植え付ける。被害者がヒューマノイドの肉を少なくとも一口食べれば、1分の間、ナボーン・トキシンによるenfeebled状態を無視する。ナボーン・トキシンの影響下にある被害者は、直近1分間にヒューマノイドの肉を少なくとも一口食べていない限り、回復効果によって回復するヒット・ポイントが半分になる。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:30]</p>\n<p><strong>発症</strong> 1分</p>\n<p><strong>最大持続時間</strong> 6分</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2} (1分)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 3} (1分)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 4} ([[/gmr 1d4]]分)</p>"
     },
     "Twigjack Sack (Major)": {
-      "name": "トゥィッグジャック・サック（メジャー）/Twigjack Sack (Major)",
+      "name": "トゥイッグジャック・サック（メジャー）/Twigjack Sack (Major)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p>\n<hr />\n<p>複雑に絡み合った植物繊維で作られたこの袋からは、鋭く柔軟な茨が突き出ている。袋の中身は、きつく圧縮された束の圧力で軋んでいる。</p>\n<p>投げられると、トゥイグジャック・サックは破裂し、周囲のクリーチャーをえぐり切り裂く茨を四方八方に撒き散らす。トゥイグジャック・サックは記載された刺突ダメージ、持続出血ダメージ、およびスプラッシュ・ダメージを与える。</p>\n<p>あなたは攻撃ロールに+3のアイテム・ボーナスを得る。この爆弾は4d6の刺突ダメージ、5の持続出血ダメージ、および4の刺突スプラッシュ・ダメージを与える。</p>"
     },
     "Ring Of Recalcitrant Wishes": {
@@ -3489,7 +3489,7 @@
       "description": "<p><strong>起動</strong> 〈呪文の発動〉</p><hr /><p>ドラゴンの鎧の最も強固な部分を形成する厚い板は、強力な防御の触媒として使用できる。これらの鱗の1つを使用して@UUID[Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt]{マウンテン・レジリエンス}を発動すると、対象の皮膚に厚いドラゴンの鱗の層が生える。呪文の通常の効果の代わりに、対象は鱗の種類とドラゴンの系統に基づいたダメージ耐性を得る。</p>\n<p>この鱗は10ランク以上の<em>マウンテン・レジリエンス</em>とともに使用できる。</p>\n<p><strong>アーケイン</strong> 呪文によるすべてのダメージに対する耐性 10</p>\n<p><strong>ディバイン</strong> 精神、生命力、虚無に対する耐性 20</p>\n<p><strong>オカルト</strong> 精神に対する耐性 20</p>\n<p><strong>プライマル</strong> 殴打、刺突、斬撃、および毒に対する耐性 15</p>"
     },
     "Floorbell": {
-      "name": "フロアーベル/Floorbell",
+      "name": "フロアベル/Floorbell",
       "description": "<p>この驚くほど頑丈な3フィート四方の粘土タイルは、厚い感圧板に似ている。それらは破壊されるまで、最大500ポンドの重量を支えることができる。<em>フロアベル</em>の性質は一目瞭然だが、非魔法的または魔法的な手段(落ち葉で覆う、あるいは@UUID[Compendium.pf2e.spells-srd.Item.2oH5IufzdESuYxat]{イリュージョリー・オブジェクト}呪文を発動するなど)によって、タイルを隠蔽や偽装し、探知を困難にすることができる。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">2</span>命令、〈扱う〉</p>\n<p><strong>効果</strong> <em>フロアベル</em>は平らな地面で起動しなければならない。起動する際、<em>フロアベル</em>の警報システムを作動させる重量を指定する。指定した重量(以上)が<em>フロアベル</em>の上に置かれると、それは150フィートの範囲まで明確に聞こえる、耳を刺突叫び声を上げる。<em>フロアベル</em>は、指定した重量が<em>フロアベル</em>から取り除かれた場合にも警報を鳴らすことができる(例えば、重い袋が載っている状態で起動した場合など)。</p>"
     },
     "Overloaded Brain Grenade": {
@@ -3677,7 +3677,7 @@
       "description": "<p>この重厚な太鼓は、側面全体に激しい戦闘を繰り広げるケンタウロスの姿が彫り込まれている。この太鼓は、それを使用して行う《芸能》判定に+3のアイテム・ボーナスを与える。さらに、この太鼓に接触した瞬間、2つの曲のリズムがあなたの心に刻み込まれる。1つは速い行進曲、もう1つは熱狂的な儀式の舞曲である。それぞれの曲には異なる起動方法がある。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">2</span> 〈扱う〉</p>\n<p><strong>使用制限</strong> 1分に1回</p>\n<p><strong>効果</strong>太鼓から何十もの幽霊のケンタウロスが飛び出し、@Template[cone|distance:60]の範囲を蹂躙する。この蹂躙は@Damage[7d10[force]|options:area-damage]ダメージを与える(@Check[reflex|dc:43|basic|name:Spectral Centaur Stampede|showDC:all|options:area-effect])。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">2</span> 〈扱う〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>この太鼓は@Check[reflex|dc:43|name:Earthquake|options:area-effect,damaging-effect|showDC:all] @UUID[Compendium.pf2e.spells-srd.Item.x7SPrsRxGb2Vy2nu]{アースクウェイク}呪文を発動する。</p><hr /><p><strong>〈製作する〉必要条件</strong>あなたはケンタウロスであること。</p>"
     },
     "Flawed Orb of Gold Dragonkind": {
-      "name": "フロード・オーブ・オブ・ゴールド・ドゥラゴンカインド/Flawed Orb of Gold Dragonkind",
+      "name": "フロード・オーブ・オブ・ゴールド・ドラゴンカインド/Flawed Orb of Gold Dragonkind",
       "description": "<p>伝説的な<em>Orbs of Dragonkind</em>はそれぞれ、強力なドラゴンの本質と人格を宿している。<em>Orb of Gold Dragonkind</em>はそれらの中で最も強力だったが、メンカレの竜のブレスによって粉砕された。スカーレット・トライアドの監視下で酷使された奴隷の呪文の使い手たちによって多大な費用をかけて再構築された<em>Flawed Orb of Gold Dragonkind</em>は、かつての姿の影に過ぎないが、あらゆる種類のドラゴンに対する強力な武器であり続けている。</p>\n<p>携帯している間、<em>Flawed Orb of Gold Dragonkind</em>はその所有者にゴールド・ドラゴンのブレス・ウェポンに対する耐性30を与える。また所有者は、10マイル以内にドラゴンがいるか、あるいは100マイル以内にゴールド・ドラゴンがいるかを感知できる。ドラゴンの1マイル以内にいる時、そのドラゴンへの方向と、そのドラゴンの年齢カテゴリー(ヤング、エンシェント、ワームなど)を特定できる。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span>想像する、〈扱う〉</p>\n<p><strong>使用制限</strong> 1日3回</p>\n<p><strong>効果</strong>あなたはドラゴンの精神を圧倒しようと試みる。そのドラゴンを操ることはできないが、短時間の間、それを移動不能にすることができる。60フィート以内のドラゴンを1体選ぶ。そのドラゴンは@Check[will|dc:30]セーヴィング・スロウ(<em>orb shards</em>を使用すれば、より高い値)を行ってオーブに抵抗を試みることができる。ゴールド・ドラゴンはこのセーヴィング・スロウに-4の状況ペナルティを受ける。この起動によるスタンは、そのドラゴンが攻撃されたり、オーブによるもの以外の敵対行為の対象となったりした場合に終了する。</p>\n<hr />\n<p><strong>クリティカル成功</strong>ドラゴンは影響を受けない。</p>\n<p><strong>成功</strong>ドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 3}。</p>\n<p><strong>失敗</strong>ドラゴンは、オーブの使い手がその起動を維持(Sustain)している間、スタン状態となる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、敵対行動ではドラゴンのスタンは終了しない。</p>\n<hr />\n<p><strong>破壊</strong> <em>Flawed Orb of Gold Dragonkind</em>は耐久力があるが、その不完全な性質ゆえに脆弱でもある。これは通常の攻撃によってダメージを受けたり、破壊されたりすることさえある(硬度40、HP 200、BT 100)。これにはゴールド・ドラゴンのブレス・ウェポンとストライクに対する弱点30がある。</p>"
     },
     "Assassin's Bracers (Type III)": {
@@ -3790,7 +3790,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p><hr /><p>風のエレメンタル界では、色の異なる小さな雲が他の雲の形成物から離れて浮遊していることがある。賢い人々はこれらの雲を小さな一握りに紡ぎ合わせ、元素の力の魔法の束を作り出す。ほとんどのボトルド・ブレスとは異なり、<em>紡がれた雲</em>は、肺の中に保持している間はあなたに何の効果も及ぼさないが、あなたは1つのアクションとしてその雲を吐き出すことができる。吐き出されると、雲は流れ出し、あなたから60フィート以内の場所に広がる@Template[burst|distance:20]。雲は1分後に消散する。</p>\n<p>白い雲は移動を加速させる風と共に渦巻く。雲の中で自分のターンを開始したクリーチャーは、そのターンの終了時まで、自身の陸上移動速度と(もし持っていれば)飛行移動速度に+10フィートのアイテム・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.vrQeNhy3M48RBH4B]{効果: 紡がれた雲 (白)}</p>"
     },
     "Dawnfire Beacon (Major)": {
-      "name": "ドーンファイアー・ビーコン（メジャー）/Dawnfire Beacon (Major)",
+      "name": "ドーンファイア・ビーコン（メジャー）/Dawnfire Beacon (Major)",
       "description": "<p>太陽の温かく思いやりのある光がこの魔法のバナーの中心から輝き、夜明けを映し出している。この魔法のバナーはバナーのオーラ内で明るい光を放ち(バナーのオーラの2倍の範囲で薄暗い光を放つ)。この効果は、あなたがバナーを保持していないか、それが取り付けられた武器を振るっていない場合には抑制される。</p>\n<p>この魔法のバナーはまた、バナーのオーラ内にいるすべてのクリーチャーに対し、アンホーリーの効果に対するセーヴィング・スローに+1のステータス・ボーナスを与える。</p>"
     },
     "Ball": {
@@ -4170,7 +4170,7 @@
       "description": "<p>この輝く銀のネックレスには、数個のサファイアが全長にわたって嵌め込まれている。このネックレスは、狼の頭の形をした精巧な彫刻のペンダントが特徴である。あなたは《欺瞞》判定と《交渉》判定に+2のアイテム・ボーナスを得る。あなたがこのネックレスを装着(invest)する際、あなたは自身の魅力修正値を1増加させるか、+4に増加させるかのいずれかを行い、より高い値になる方を選択する。</p>\n<p><strong>起動—彼らを味方につける</strong> <span class=\"action-glyph\">2</span> (精神集中)</p>\n<p><strong>使用制限</strong> 1時間に1回</p>\n<hr />\n<p><strong>効果</strong> あなたは@Check[will|dc:38]を伴う第4ランクの@UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{チャーム}呪文を発動する。</p>"
     },
     "Nevercold (Refined)": {
-      "name": "ネバーコウルド（リファインド）/Nevercold (Refined)",
+      "name": "ネバーコールド（リファインド）/Nevercold (Refined)",
       "description": "<p><strong>起動</strong> 〈呪文の発動〉</p><hr /><p>ネヴァーコールド(時折誤ってネヴァーコールと呼ばれる)は、第一世界での山火事の後に残る木炭である。その名の通り、ネヴァーコールドは接触すると温かい。もしあなたがネヴァーコールドを使用して@UUID[Compendium.pf2e.spells-srd.Item.YrzBLPLd3r9m6t1p]{ファイアー・シールド}を発動した場合、その呪文の持続時間は5分に増加し、それによって得る冷気への抵抗は1時間持続し、あなたは8時間の間、軽度および重度の冷気に対して免疫となる。</p>\n<p>この触媒は第8ランク以下の<em>fire shield</em>に影響し、軽度および重度の冷気に対する完全耐性は24時間持続する。</p>"
     },
     "Elixir of Life (Major)": {
@@ -4835,7 +4835,7 @@
       "description": "<p>元々はオリアドによる身体改造として開発された、<em>フレッシュジェム</em>は、あらゆる種族のクリーチャーの皮膚に埋め込むことができる結晶である。<em>フレッシュジェム</em>は装飾目的で体のどこにでも適用できるが、冒険者の間で最も一般的な使用法は、指の付け根に埋め込み、ブラスナックルのように使用することである。</p>\n<p>あなたは自身の<em>フレッシュジェム</em>の力を吸い上げ、あなたの周囲の地面から結晶の石筍が噴出する。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span>～<span class=\"action-glyph\">2</span>コマンド</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong>あなたは地面に立っている。</p>\n<hr />\n<p><strong>効果</strong>あなたの周囲の地面から膝の高さの結晶の破片が噴出し、@Template[burst|distance:10]1ラウンド(2アクション消費した場合は1分)の間残る。あなた以外のすべてのクリーチャーにとって、このエリアは移動困難な地形であると同時に危険な地形でもある。結晶の破片を含む空間を移動するクリーチャーは@Damage[2[piercing]]ダメージを受ける。</p>"
     },
     "Oathbow": {
-      "name": "オウスバウ/Oathbow",
+      "name": "オースボウ/Oathbow",
       "description": "<p>柔軟な白い木で作られ、表面には華麗でねじれた意匠が彫り込まれたこの+2ストライキング・コンポジット・ロングボウは、エルフによって作られたもののように見える。時折、あなたが矢を放つと、飛行中のその唸りは、あなたの敵の迅速な敗北を願う、エルフで囁く声のように聞こえる。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">A</span> command</p>\n<hr />\n<p><strong>効果</strong>あなたは目視できるクリーチャー1体を滅ぼすという誓約を立てる。次の7日間、またはそのクリーチャーが殺されるまで、そのクリーチャーに対するこの弓での攻撃は1d6の追加ダメージを与え、さらにそのクリーチャーを〈追跡〉するための《生存術》判定に+2の状況ボーナスを得る。</p>\n<p>対象に対するあなたのクリティカルヒットは、この弓のクリティカルスペシャライゼーション効果を得る。もしすでにその効果を得ている場合、代わりにクリティカルヒットした際の〈エスケープ〉のための《運動》判定のDCをDC 20に上昇させる。</p>\n<p>この弓を起動した後、7日の間は再び起動することはできない。もしあなたが誓約を立てたクリーチャーを殺した場合、その誓約は終了し、再び起動できるようになるまで10分待つだけでよい。</p>",
       "rules": [
         {
@@ -4966,7 +4966,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">A</span> 〈扱う〉</p>\n<p>魔法を強化する性質を求め、ジェゼットの小瓶を携帯するメイジもいる。<em>ジェゼット・ドーズ</em>を飲んだ直後のアクションが〈呪文の発動〉である場合、@UUID[Compendium.pf2e.feats-srd.Item.BWomK7EVY0WXxWgh]{《リーチ・スペル》}または@UUID[Compendium.pf2e.feats-srd.Item.FoWO4RnHRwfEIC7Q]{《ワイドゥン・スペル》}の呪文修正特技の効果を適用できる。</p>\n<hr />\n<p><strong>〈製作する〉必要条件</strong> 300gp以上のジェゼット。</p>"
     },
     "Dragontooth Leiomano": {
-      "name": "ドゥラゴントゥース・レイオマノ/Dragontooth Leiomano",
+      "name": "ドラゴントゥース・レイオマノ/Dragontooth Leiomano",
       "description": "<p>この＋2グレーター・ストライキング・レイオマノの刃にはドラゴンの歯が並ぶ。歯を得たドラゴンの体系に応じ、秘術なら［力場］、信仰なら［霊魂］、伝承なら［精神］、始原なら［火炎］の追加@Damage[1d6[untyped]|options:area-damage]ダメージを与え、対応する特性も得る(例：アダマンティン・ドラゴンの歯なら［火炎］)。</p><p><strong>起動</strong> <span class=\"action-glyph\">2</span> (魔法、操作)</p><p><strong>使用制限</strong> 1分に1回</p><hr /><p><strong>効果</strong> レイオマノを振り、エネルギー噴流に乗せて複数の歯を@Template[type:cone|distance:15]へ射出する。歯は@Damage[3d6[piercing]|options:area-damage]ダメージと、体系に対応する@Damage[3d6[untyped]|options:area-damage]ダメージを与える(@Check[reflex|dc:29|basic]基本セーヴ)。歯は空中で軌道修正して標的を追うため、遮蔽による状況ボーナスを2減少させる。</p><hr /><p><strong>〈製作する〉必要条件</strong> 初期原材料にドラゴンの歯を含める。</p>"
     },
     "Spangled Rider's Suit": {
@@ -5019,7 +5019,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>木の次元界で見つかる特に渋い果実の酸性の果肉から作られたこの爆弾の中身は、それが接触したものすべてを柔らかくし、酸化させ、味付けする。あなたは攻撃ロールに+3のアイテム・ボーナスを得る。</p>\n<p>〈ストライク〉が成功すると、テンダライザー・グレネードは対象に4d6の酸ダメージと4の酸の飛散ダメージを与える。対象が持つ殴打、刺突、斬撃ダメージに対するあらゆる耐性は、爆弾の種類に基づいた量だけ減少する。さらに、対象は食欲をそそるエステル、オイル、塩を浴びせられ、噛みつきのストライク、牙によるストライク、またはクリーチャーの口による同様のストライクに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になる。これらの追加効果はあなたの次のターン終了時まで持続する。クリティカルヒットした場合は1分持続する。</p>"
     },
     "Crimson Godsblood Serum (Lesser)": {
-      "name": "クリムゾン・ゴッズセラム・セラム（レッサー）/Crimson Godsblood Serum (Lesser)",
+      "name": "クリムゾン・ゴッズブラッド・セラム（レッサー）/Crimson Godsblood Serum (Lesser)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p><hr /><p>わずか一滴のゴルムの血しか含まれていないが、このどろりとして渦巻くポーションを飲むと、使用者は神聖な怒りと回復力で満たされる。ポーションの効果を受けている間、あなたは1分の間、物理ダメージロールに+2のステータス・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.m942gdWRO19p0QS8]{効果: クリムゾン・ゴッズブラッド・セラム}</p>\n<p>その1分間に初めて0ヒット・ポイントまで減少したが即座には死亡しなかった場合、あなたは気絶することを免れ、@Damage[(2d8+5)[healing]]ヒット・ポイントを回復し、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態になり、あなたの@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷}状態の値が1増加する。</p>"
     },
     "Collar of the Eternal Bond": {
@@ -5039,7 +5039,7 @@
       "description": "<p>この<em>+1レジリエント・チェイン・シャツ</em>は、注意深く編み込まれた小さな風の流れが組み合わさってできている。空気の環はチェインの環のように互いにぶつかって音を立てることはないが、それでも小さなサイクロンが嵐の中心に立っているかのような激しい唸りを生み出している。あなたの隣接するマスでターンの終了を迎えたクリーチャーは、@Check[fortitude|dc:23|options:inflicts:deafened]セーヴを行わなければならない。失敗すると、そのクリーチャーはあなたから離れるまで@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態となる。</p>\n<p><strong>起動—切り裂く環</strong> <span class=\"action-glyph\">2</span> (精神集中)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>あなたは自身の鎧を形成している風の流れを解き放ち、@Template[cone|distance:60]内のクリーチャーを切り裂く風の渦として放出する。範囲内のクリーチャーは@Damage[6d6[slashing]|options:area-damage]ダメージを受け、@Check[fortitude|dc:25|basic|options:area-effect,forced-movement]セーヴを行う。セーヴに失敗したクリーチャーは、さらに10フィート押しやられる(大失敗した場合は20フィート)。あなたは鎧のACボーナスをあなたのターン終了時まで失う。その後、風の流れがあなたの周囲でウィスプ・チェインを再形成する。</p>"
     },
     "Repeating Heavy Crossbow": {
-      "name": "リピーティング・ヘヴィ・クロスボウ/Repeating Heavy Crossbow",
+      "name": "リピーティング・ヘビー・クロスボウ/Repeating Heavy Crossbow",
       "description": "<p>この大型クロスボウは、最大5本のボルトを装填できる内部チャンバーを備えている。他の連発クロスボウと同じ自動キャッチ機構を使用しているが、連発ヘヴィ・クロスボウの設計には重大なトレードオフがある。射程とダメージが増加しており、使い方の習得も容易だが、再装填にはわずかな労力を要する。</p>"
     },
     "Dagger Pistol": {
@@ -5273,7 +5273,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (manipulate)</p><hr /><p>ウェポン・ウィアード・オイルの各用量は、アックス、剛腕、クラブ、フレイル、ハンマー、短剣、ピック、ポールアーム、シールド、スピア、ソードの中から選択された、特定の近接武器種に対応している。このオイルは技能と武器の間に相乗効果を生み出し、あなたがその武器を予期せぬ方法で装備できるようにする。あなたがこのオイルから恩恵を得るには、元の武器に対する習熟が必要である。ただし、あなたは武器の本来のグループの代わりに、オイルが対応するグループの習熟ランクを使用する。また、あなたは武器の通常のクリティカルスペシャライゼーション効果の代わりに、オイルが対応するグループのクリティカルスペシャライゼーション効果を適用する。オイルの効果が持続している間、@UUID[Compendium.pf2e.equipment-srd.Item.qUnDHEXteUQGE8yp]{グリーバス}ルーンや類似の魔法は、その武器がオイルのグループに属しているかのように反応する。武器は一度に1種類のウェポン・ウィアード・オイルしか塗布できない。このオイルを新たに塗布すると、以前のものはすべて上書きされる。これらの効果は1時間持続する。</p>"
     },
     "Broadspear": {
-      "name": "ブロウドスピアー/Broadspear",
+      "name": "ブロードスピア/Broadspear",
       "description": "<p>この武器の穂先は長い葉の形をしている。</p>"
     },
     "Coral Armor": {
@@ -5608,7 +5608,7 @@
       "description": "<p><strong>起動</strong>詳細は後述</p><hr /><p>あなたが衝撃吸収フォームのシャーシを身体に巻きつけて装着している間、あなたが少なくとも10フィート落下するたびに自動的に起動し、柔らかく柔軟な衝撃吸収フォームの層があなたの身体の下および周囲に展開して落下を和らげる。衝撃吸収フォームは落下ダメージを記載された量まで減少させ、フォームが軽減した落下ダメージと同量のダメージを受ける。もしこれでフォームを破壊するのに十分であれば、フォームは即座に飛散する。しかし、フォームにヒット・ポイントが残っていれば、それは最大1分の間、あなたの周囲に留まる。</p>\n<p>フォームに囲まれている間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となり、他のクリーチャーに対して通常遮蔽を得る。また、他のクリーチャーはあなたに対して通常遮蔽を得る。このフォームは@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉} DCが15である。クリーチャーは3回の〈扱う〉アクションを費やすことでもこれを取り除くことができる。あなたや他者はフォームを攻撃することもできる(フォームのACは12である)。フォームはヒット・ポイントが0になると飛散する。</p>\n<p>上級衝撃吸収フォーム・シャーシは最大100の落下ダメージを防ぎ、100のヒット・ポイントを持つ。</p>"
     },
     "Shatterstone (Greater)": {
-      "name": "シャターストウン（グレーター）/Shatterstone (Greater)",
+      "name": "シャターストーン（グレーター）/Shatterstone (Greater)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>シャッターストーンは小さな陶器の球体である。中には反応性の薬剤が入っており、石が割れると激しい音波振動の領域を作り出す。この爆弾は攻撃ロールに+3のアイテム・ボーナスを与え、4d6の音波ダメージと4の音波の飛散ダメージを与える。音の大部分は超音波であり、この爆弾からダメージを受けた音波に対する弱点を持つクリーチャーは、@Check[fortitude|dc:40]セーヴに成功しなければ、次の自分のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態となる。</p>"
     },
     "Wand of Slaughter (7th-Rank Spell)": {
@@ -6168,7 +6168,7 @@
       "description": "<p>この<em>+2ストライキング・アーキバス</em>は、加工された銀でメッキされたトネリコの木製の銃床を持ち、金属に刻まれた苦悶する頭蓋骨のモザイクが特徴である。ガルトの悪名高い「ファイナル・ブレード」という言葉を聞くだけで、どんな定命のクリーチャーも身震いする。この国の絶え間ない内戦で政敵を処刑するために使用されたこれらのギロチンは、処刑された者の魂を保持し、彼らが自然な死後の世界に到達するのを妨げる。4710年にファイナル・ブレードの1つが破壊された際、その残骸から金属の一部がアルケンスターに渡り、ギロチンの魂を奪う特性を保持した致命的な銃器として再鍛造された。</p>\n<p>Whenever the <em>リーパーズ・グラスプ</em>が知性ある生者またはアンデッドクリーチャーを殺すたび、そのクリーチャーの魂の一部が武器の中に容赦なく引き込まれ、見えない手によって書き殴られたかのようにモザイクに別の頭蓋骨が追加される(最大10魂まで)。リッチのソウル・ケージのような外部の力によって魂が守られているクリーチャーは、この効果に対して免疫である。ただし、そのプロセスは苦痛を伴うものの、魂が死後の世界へ行くことや蘇生されることを妨げるものではない。リーパーズ・グラスプに魂が保存されている各クリーチャーのレベルを追跡すること。</p><hr /><p><strong>起動—ソウル・ショット</strong> <span class=\"action-glyph\">1</span>(精神集中)</p>\n<p><strong>必要条件</strong>リーパーズ・グラスプに少なくとも1つの魂が保存されている</p>\n<p><strong>効果</strong>君は武器に保存された魂の死霊術的エネルギーを次の攻撃に注ぎ込み、攻撃の破壊力を高める。武器に保存された魂を1つ選ぶ。君のターンの終了前にリーパーズ・グラスプで行う次の〈ストライク〉は、選んだ魂のクリーチャーのレベルの2倍に等しい追加の虚無ダメージを与える。この能力を使用すると選んだ魂は解放され、モザイク上の頭蓋骨が1つ消える。</p><hr /><p><strong>起動—ディヴァウア・キャプチャード・ソウル</strong> <span class=\"action-glyph\">1</span>(精神集中)</p>\n<p><strong>必要条件</strong>リーパーズ・グラスプに少なくとも1つの魂が保存されている</p>\n<p><strong>効果</strong>君は武器に保存された魂の死霊術的エネルギーを君の周囲のマントルに注ぎ込み、危害から君を守る。武器に保存された魂を1つ選ぶ。君は選んだ魂のクリーチャーのレベルの3倍に等しい　一時的ヒット・ポイントを得る。これはあなたの次のターン終了時まで持続する。この能力を使用すると選んだ魂は解放され、モザイク上の頭蓋骨が1つ消える。</p>"
     },
     "Nevercold": {
-      "name": "ネバーコウルド/Nevercold",
+      "name": "ネバーコールド/Nevercold",
       "description": "<p><strong>起動</strong> 〈呪文の発動〉</p><hr /><p>ネヴァーコールド(時折誤ってネヴァーコールと呼ばれる)は、第1世界での山火事の後に残る木炭である。その名の通り、ネヴァーコールドは接触すると温かいままである。もしネヴァーコールドを使用して@UUID[Compendium.pf2e.spells-srd.Item.YrzBLPLd3r9m6t1p]{ファイアー・シールド}を発動する場合、呪文の持続時間は5分に増加し、それによって得る冷気への抵抗は1時間持続し、そして君は8時間の間、軽度および重度の冷気に対して免疫となる。</p>\n<p>この触媒は4ランクの<em>ファイアー・シールド</em>に影響する。</p>"
     },
     "Wand of Rolling Flames (4th-Rank)": {
@@ -6255,7 +6255,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>この密閉された金属製の容器は、爆発して強力な衝撃波を放つ高圧ガスで満たされている。圧力爆弾は@Damage[3d4[bludgeoning]]ダメージと@Damage[(3[splash])[bludgeoning]]{3の殴打飛散ダメージ}を与える。クリティカルヒット時、対象は@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}になる。</p>\n<p>中型以下の対象は、あなたから5フィート押しやられる。</p>\n<p>あなたは攻撃ロールに+2のアイテム・ボーナスを得る。</p>"
     },
     "Shobhad Longrifle": {
-      "name": "ショバドロング・ライフル/Shobhad Longrifle",
+      "name": "ショバド・ロングライフル/Shobhad Longrifle",
       "description": "<p>ショブハド・ロングライフルは、長いライフリング(施条)が施された銃身を持つ火器である。さまざまな射程での標的捕捉のためのマルチレンズ・スコープや、各射撃の速度と貫通力を調整できる薬室機構が架台として取り付けられていることが多く、多くのショブハドの戦士に愛用されている武器である。</p>\n<p>ショブハド・ロングライフルには内蔵型の@UUID[Compendium.pf2e.equipment-srd.Item.0BEbpOMBo7ET8NsR]{消音器}が装備されており、発砲時の音はクロスボウよりも大きくならない。</p>\n<p>ショブハド・ロングライフルは軍用武器である。</p>"
     },
     "Ferrofluid Urchin (Greater)": {
@@ -6705,7 +6705,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p><hr /><p>この飲み物は、あなたの精神状態をリセットする助けとなる感情の奔流を解き放つ。あなたがこのエリクサーを飲むと、そのエリクサーは1ランクで打ち消しを試み、[[/r 1d20+6 #Counteract]]{+6}の打ち消し修正値を持つ。対象は、感情の特性を持つか、あなたに@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁}状態を与えている、あなたに対する各効果である。記載された打ち消しランクと修正値を使用すること。</p>"
     },
     "Crimson Godsblood Serum (Moderate)": {
-      "name": "クリムゾン・ゴッズセラム・セラム（モデレート）/Crimson Godsblood Serum (Moderate)",
+      "name": "クリムゾン・ゴッズブラッド・セラム（モデレート）/Crimson Godsblood Serum (Moderate)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p><hr /><p>ゴルムの血をほんのわずかしか含んでいないものの、このどろりとした渦巻くポーションを飲むと、使用者は神聖な怒りと回復力で満たされる。このポーションの効果を受けている間、あなたは1分の間、物理ダメージロールに＋3のステータス・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.m942gdWRO19p0QS8]{効果: Crimson Godsblood Serum}</p>\n<p>その1分間の間に初めて0ヒット・ポイントまで減少したが即座には死亡しなかった場合、あなたは気絶することを免れ、@Damage[(3d8+10)[healing]]ヒット・ポイントを回復し、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドの間なり、あなたの@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷}状態が1増加する。</p>"
     },
     "Explosive Mine (Greater)": {
@@ -6836,7 +6836,7 @@
       "name": "檻/Cage"
     },
     "Silverscrap Bomb (Greater)": {
-      "name": "シルヴァースクラップ・ボム（グレーター）/Silverscrap Bomb (Greater)",
+      "name": "シルバースクラップ・ボム（グレーター）/Silverscrap Bomb (Greater)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>シルバースクラップ・ボムは、衝撃で爆発し、周囲のすべてを切り裂く銀の破片のコンパクトな塊である。この爆弾は攻撃ロールに+3のアイテム・ボーナスを与え、4d4の刺突ダメージと4の刺突の爆風ダメージを与える。この爆弾によるすべてのダメージは、弱点、耐性、その他同様の目的において、銀として扱われる。</p>"
     },
     "Boots of Bounding": {
@@ -7066,7 +7066,7 @@
       "description": "<p>この魔法のバナーは、黒から赤へのグラデーションで浸染されており、まだらで不均一である。あなたまたはそのバナーのオーラ内にいる味方が、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}対象に対して〈ストライク〉でクリティカル成功するたびに、その〈ストライク〉は追加で1d6の精密ダメージを与える。</p>"
     },
     "Dragontooth Trophy": {
-      "name": "ドゥラゴントゥース・トロフィー/Dragontooth Trophy",
+      "name": "ドラゴントゥース・トロフィー/Dragontooth Trophy",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">f</span> (集中)</p>\n<p><strong>トリガー</strong>あなたが取り付けられた武器で〈ストライク〉に成功した。</p><hr /><p>この威圧的な牙には、シンボル、グリフ、パターンの複雑な配置が刻まれており、取り付けられた武器の柄に結び付けられた革紐からぶら下がっている。あなたがこのトロフィーを起動すると、あなたの武器は一時的に竜の怒りの魔法のコンストラクトへと変身する。トリガーとなった〈ストライク〉とあなたの次のターン終了時まで、取り付けられた武器のダメージ種別は、その爪の由来となったドラゴンと一致するタイプに変更される。この変更は、バーサタイル特性や類似の能力を上書きする。</p><hr /><p><strong>〈製作する〉必要条件</strong>アダルト以上のドラゴンの歯を1本供給する。</p>"
     },
     "Knight Captain's Lance": {
@@ -7074,7 +7074,7 @@
       "description": "<p>この美しく作られた<em>+2ディスラプティング・グレーター・ストライキング・ランス</em>の外見は、装備者の鎧に合わせて変化する。これにはランスの穂先の後ろに布製の旗が取り付けられており、装備者が望む紋章を表示する。</p>\n<p>@UUID[Compendium.pf2e.feats-srd.Item.CAaXGhHDMRM3Pt4J]{キャバリアズ・バナー}の特技を持つキャヴァリアが<em>ナイト・キャプテンズ・ランス</em>を手にした場合、代わりにそれは自動的に彼らの誓いのバナーを表示する。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">R</span> 〈扱う〉</p>\n<p><strong>トリガー</strong>あなたのナイト・キャプテンズ・ランスによる攻撃ロールがクリティカル成功した。</p>\n<hr />\n<p><strong>効果</strong>あなたはランスを掲げ、周囲の者たちを鼓舞する。あなたを見ることができる30フィート以内の味方は、1ラウンドの間、攻撃ロールとダメージ・ロールに+1のステータス・ボーナスを得る。</p>"
     },
     "Enigma-Sight Potion": {
-      "name": "イニイグマサイト・ポーション/Enigma-Sight Potion",
+      "name": "エニグマサイト・ポーション/Enigma-Sight Potion",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p><hr /><p>この<em>enigma-sight potion</em>の小瓶には、心を揺さぶる光景を映し出す万華鏡のような結晶の破片が入っているように見える。しかし、これらの「結晶」は、注いだり飲んだりすると液体のように振る舞う。このポーションを飲むと、@UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{トゥルーサイト}呪文の効果を得る。ただし、通常の打ち消し修正値や呪文ランクの代わりに、秘密の打ち消し判定を行う際には、あなたの《知覚》修正値とあなたのレベルの半分(端数切り上げ)を使用する。しかし、この効果が与える秘密の打ち消し判定に大失敗した場合、あなたの心は偽りの悪夢のような情報で満たされる。脳が目にしたものを処理しようと苦闘するため、あなたは@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態に[[/gmr 1d4 #rounds]]{1d4ラウンド}間なり、さらに@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}状態となる。</p>"
     },
     "Spiritsight Tea": {
@@ -7194,7 +7194,7 @@
       "description": "<p>このアイテムは、落下した際にあなたを受け止める小さな空気のクッションを作り出す。あなたは落下距離を10フィート短いものとして扱う。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">r</span> envision</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたが落下し始める</p>\n<hr />\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.TTwOKGqmZeKSyNMH]{ジェントル・ランディング}の効果を1分の間、または落下が止まるまでのいずれか早い方まで得る。</p>"
     },
     "Pyrefeather Cloak": {
-      "name": "パイアーフェザー・クローク/Pyrefeather Cloak",
+      "name": "パイアフェザー・クローク/Pyrefeather Cloak",
       "description": "<p>パイアファウルの赤と暗いオレンジ色の羽が、美しいクロークに織り込まれている。</p>\n<p><strong>起動—〈炎の偏向〉</strong> <span class=\"action-glyph\">r</span> (操作)</p>\n<p><strong>トリガー</strong> あなたが火炎の効果を受ける。</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> あなたはそのクロークを翻し、羽を使って迫りくる熱を軽減する。あなたは火炎への抵抗 5を得て、トリガーとなった効果に対するセーヴィング・スローに+1の状況ボーナスを得るあなたの次のターン開始時まで。もしあなたが持続的な火炎ダメージを受けているなら、その持続ダメージを終了させるために、直ちにフラットな判定を行うことができる。</p>"
     },
     "Grounding Spike": {
@@ -7206,7 +7206,7 @@
       "description": "<p>レイジーボーンズ・ペンダントは、生前は異常なほど勤勉で、死後には長らく待ち望んだ休息を埋め合わせていると言われるゴブリン、“働きすぎのワッパ”の悔恨の骨から彫り出された6面ダイスのペンダントである。この6面ダイスの5つの面には、様々な怠惰な悪戯に興じるワッパの姿が描かれているが、残りの1面は完全に空白である。どうやら彼は怠惰に没頭するあまり、その面には自分の姿さえも現れるのを忘れてしまったらしい。</p>\n<p>あなたがこのペンダントを着用し、投資した時、あなたが〈専門家にならう〉を行う際の判定に+1のアイテム・ボーナスを得る。</p>\n<p><strong>起動—〈誰か他の人がやってくれないか？〉</strong> <span class=\"action-glyph\">3</span> (精神集中、操作、オカルト)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> あなたは@UUID[Compendium.pf2e.spells-srd.Item.xqmHD8JIjak15lRk]{ファンタズマル・ミニオン}を発動し、あなた自身の儚い姿を召喚する。あなたがこのペンダントを起動した時、およびその呪文を〈維持〉するたびに、あなたのファンダズマル・ミニオンは、味方を〈援護〉するためにのみ使用できるリアクションを1つ得る。それはあらゆる技能判定にあなたの技能を使用し、攻撃を〈援護〉することはできない。</p>"
     },
     "Dragonfire Halfbow": {
-      "name": "ドゥラゴンファイアー・ハーフバウ/Dragonfire Halfbow",
+      "name": "ドラゴンファイア・ハーフバウ/Dragonfire Halfbow",
       "description": "<p>火を吹くドラゴンから採取した鱗の断片を竹と重ね合わせて作られたこの弓は、非常に強い引きの力を持つ。この設計はホンガルでよく見られるもので、短いリムは馬上で扱いやすい。この<em>+2ストライキング・コンポジット・ショートボウ</em>の使い手が騎乗している間、彼らはそのマウントをコマンドするための《自然》判定に、この弓のアイテム・ボーナスを加えることができる。</p>\n<p><strong>起動—〈ドラゴン・アロー〉</strong> <span class=\"action-glyph\">2</span> (精神集中、操作)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> あなたは矢をつがえずに弓を最大まで引き絞り、弦を放つと、ドラゴンファイア・ハーフボウは(5レベルに高められた、@Check[reflex|dc:29]セーヴを行う)@UUID[Compendium.pf2e.spells-srd.Item.sxQZ6yqTn0czJxVd]{ファイアーボール}を発動し、呪文の射程内のあなたが選んだ地点を目標とする。あなたとあなたのマウントは、この<em>fireball</em>の効果に対して免疫である。</p>"
     },
     "Animal Pheromones (Moderate)": {
@@ -7368,7 +7368,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">F</span> (concentrate)</p>\n<p><strong>トリガー</strong>あなたは恐怖効果に対する意志セーヴを行うが、まだダイスを振っていない</p>\n<hr />\n<p>この小さなメダルは盾の形をしている。これを起動すると、あなたはそのトリガーとなったセーヴおよび恐怖に対する他のセーヴに、1分の間+2のステータス・ボーナスを得る。トリガーとなったセーヴにおいて、あなたのロールの結果が失敗であれば、代わりに成功となる。結果が大失敗であれば、代わりに失敗となる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.xV9rME2l1f10mnF9]{効果: アイアン・メダリオン}</p>"
     },
     "Worldscale Shield": {
-      "name": "ワールドスケイル・シールド/Worldscale Shield",
+      "name": "ワールドスケール・シールド/Worldscale Shield",
       "description": "<p>4つの<em>ワールドスケール・シールド</em>(硬度9、HP 60、BT 30)が存在すると信じられている。それぞれは、世界の中心を掘り進むと噂される4匹のワールドスケール・サーペントのうちの1匹の鱗から作られている。英雄神がこれらのサーペントの1匹を討伐しに行った際、彼らはその下に隠された脆弱な肉を露わにするために、まず獣の体から鱗を引き剥がす必要があることを知った。こうして剥がされた4枚の鱗が、4つの<em>ワールドスケール・シールド</em>となったのである。</p>\n<p><strong>起動—打撃吸収</strong> <span class=\"action-glyph\">f</span></p>\n<p><strong>トリガー</strong>あなたが攻撃から物理ダメージ(殴打、刺突、または斬撃)を受けようとしており、かつあなたの<em>ワールドスケール・シールド</em>が「盾を掲げる」状態である。</p><hr /><p><strong>効果</strong>ミシック・ポイントを1点消費する。その<em>ワールドスケール・シールド</em>はその打撃を完全に吸収し、あなたがその攻撃から受けるはずだったすべてのダメージを防ぐ。その<em>ワールドスケール・シールド</em>は「壊れた」状態になる。もしすでに「壊れた」状態であったなら、それは破壊される。</p>"
     },
     "Arcane Standard (Greater)": {
@@ -7465,7 +7465,7 @@
       "description": "<p>この<em>+2グレーター・ストライキング・ペッパーボックス</em>は、いくつかの魔法のコアを循環させ、前のコアが冷却される間に新しいコアと入れ替える。この銃は火炎ダメージまたは電撃ダメージを与え、コアが回転するたびに攻撃ごとに交互に入れ替わる。アルカディアのガンスリンガーたちは、回転するコアをスポットライトを分け合うダンサーのグループに例える。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> (操作)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> スパーク・ダンサーは、現在のコアが火炎ダメージを与えるか電撃ダメージを与えるかに応じて、7レベルの秘術呪文(@Check[reflex|dc:30|basic])として<em>@UUID[Compendium.pf2e.spells-srd.Item.sxQZ6yqTn0czJxVd]{ファイアーボール}</em>または<em>@UUID[Compendium.pf2e.spells-srd.Item.9AAkVUCwF6WVNNY2]{ライトニング・ボルト}</em>を発動する。</p>"
     },
     "The Lens of the Outreaching Eye": {
-      "name": "ザ・レンズ・オブ・ジ・オウトレアチング・アイ/The Lens of the Outreaching Eye",
+      "name": "ザ・レンズ・オブ・ジ・アウトリーチング・アイ/The Lens of the Outreaching Eye",
       "description": "<p>あなたが<em>レンズ・オヴ・ジ・アウトリーチング・アイ</em>を同調している限り、ハローの領域(Harrowed Realm)の魔法に対する障害はあなたには適用されず、占術効果を解決するために行われるすべての判定に+3のアイテム・ボーナスを得る。</p>\n<hr />\n<p><strong>起動</strong> 10分 (命令、心象、〈扱う〉)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>レンズ・オヴ・ジ・アウトリーチング・アイを通して覗き込むことで、1時間の間、あなたはデッキ・オヴ・ハロー・テイルズ(Deck of Harrowed Tales)が多元宇宙のどこにあろうとも、それをあなたの聴覚と視覚の源として扱うことができる。あなたはデッキから全方向に視認でき、通常の視覚感覚を使用しているかのようにデッキから聞くことができる。あなたは起動を〈解除〉できる。</p>\n<hr />\n<p><strong>起動</strong> 10分 (命令、心象、〈扱う〉)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>レンズ・オヴ・ジ・アウトリーチング・アイはデッキ・オヴ・ハロー・テイルズに対して@UUID[Compendium.pf2e.spells-srd.Item.CeSh8QcVnqP5OlLj]{ピンポイント}を発動する。</p>\n<hr />\n<p><strong>破壊</strong>デッキ・オヴ・ハロー・テイルズが破壊された場合、レンズ・オヴ・ジ・アウトリーチング・アイは破壊される。</p>"
     },
     "Spider Lily Tattoo": {
@@ -7485,7 +7485,7 @@
       "gmnote": "<p>The <em>ガイディング・スター Orb</em>は、キョニンの安全と保護に焦点を合わせている。このアーティファクトは、その使い手に以下の教義と禁忌を課す。これらに違反した場合、使い手が贖罪の儀式を用いるか、あるいはあなたが独自に作成した短いサイドクエストや影響力エンカウンターを通じて償いを行うまで、このアーティファクトは非アーティファクト形態に戻る。</p><p><strong>信条</strong>ツリーレイザーを殺すこと、エルフの命を守ること、タングルブライアーの境界を押し戻すこと</p><p><strong>禁忌</strong>ツリーレイザーを助けること、キョニンを自ら裏切ること</p><h2>エイペックス能力値を選択する</h2><p>The <em>ガイディング・スター Orb</em>は強力なエイペックスアイテムだが、付与されるエイペックスボーナスは他のほとんどのものよりも強力である。すべてのエイペックスアイテムと同様に、PCは一度に1つのエイペックスアイテムからしか恩恵を得ることができない。あなたのキャラクターがこのアーティファクトを作成する際、1つの能力値修正値を選択する。あなたがこのアーティファクトを装着する際、その能力値修正値を+2増加させるか、+5に増加させるかのいずれか高い方の値を得る。一度この選択を行うと、後で変更することはできない。</p><hr /><p><em>注：このアイテムの詳細タブでエイペックス能力値を選択すること。</em></p><h2>英雄的なスキルを選択する</h2><p>The <em>ガイディング・スター Orb</em>は、あなたの選択した1つの技能も強化する。あなたのキャラクターがこのアーティファクトを作成する際、アーティファクトに記載されている3つの技能のうち1つを選択する。このアーティファクトがあなたによって同調されている限り、その技能を用いた判定に+4のアイテム・ボーナスを得る。</p><h2>英雄的回復</h2><p>最後に、The <em>ガイディング・スター Orb</em>は1点の回復ポイントを保持している。このポイントは、その同調パートナーが日課の準備を行う際に1日1回補充される。アーティファクトのパートナーの@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死}値が、彼らを死に至らしめるのに十分な量(通常は4)に達しそうになった場合、アーティファクトはその回復ポイントを消費し、代わりにパートナーは@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅}値が1増加し、0ヒット・ポイントで安定化する。</p>"
     },
     "Repeating Heavy Crossbow Magazine": {
-      "name": "リピーティング・ヘヴィ・クロスボウ・マガジン/Repeating Heavy Crossbow Magazine"
+      "name": "リピーティング・ヘビー・クロスボウ・マガジン/Repeating Heavy Crossbow Magazine"
     },
     "Revealing Mist (Lesser)": {
       "name": "暴露の霧（レッサー）/Revealing Mist (Lesser)",
@@ -7951,7 +7951,7 @@
       "description": "<p>この白い+1ストライキング・ランスは、ユニコーンがその生涯の終わりに自ら授けた角から作られている。このランスで行うストライクはホーリーの特性を得て、追加で1のスピリット・ダメージを与える。アクションを使用することで、ランスを松明のように輝かせたり、その光を抑えたりすることができる。このアクションは精神集中の特性を持つ。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> (魔法、操作)</p>\n<p><strong>使用制限</strong> 1時間に1回</p><hr /><p><strong>効果</strong>あなたはアライコーン・ランスの角を授けたユニコーンの精神を呼び出し、輝く突撃に乗る。あなたの移動速度の2倍まで移動し、アライコーン・ランスで〈ストライク〉を行う。この〈ストライク〉において、あなたはこのランスの騎槍特性の効果を得る。あなたがこの角を起動した時点で既に騎乗していた場合、ユニコーンの精神があなたの乗騎の周囲に形を成し、その突撃の間、乗騎の移動速度に+10フィートのステータス・ボーナスを与える。</p><hr /><p><strong>〈製作する〉必要条件</strong>最初の未加工の素材には、ユニコーンが自ら贈った角が含まれていなければならない。稀な例として、強制的に奪った角からアライコーン・ランスが作られることもある。しかし、この忌まわしい行為は角の魔法を汚染し、病的な赤色の光を放つようになる。その場合、ホーリーの特性を取り除き、ストライクにホーリーの代わりにアンホーリーの特性を加え、突撃で呼び出されるユニコーンの精神が苦痛に満ちた嘶きを上げるようにする。</p>"
     },
     "Ring of Stoneshifting": {
-      "name": "リング・オブ・ストウンシフティング/Ring of Stoneshifting",
+      "name": "リング・オブ・ストーンシフティング/Ring of Stoneshifting",
       "description": "<p>この単純な鉄の指輪には、明るい紫色の結晶が並んだ球状の晶洞がはめ込まれている。<em>ストーンシフティング・リング</em>は、石や土でできた瓦礫や不整地による移動困難地形を無視する能力をあなたに与える。</p>\n<p><strong>起動</strong> 1分</p>\n<p><strong>使用制限</strong> 1日3回</p>\n<p><strong>必要条件</strong>あなたは少なくとも5フィートの土の素材(石、土、粘土、砂など)の上に立っている。</p>\n<hr />\n<p><strong>効果</strong>あなたは地面に沈み込み、100マイル以内の別の場所に現れる。その場所には少なくとも5フィートの深さの土の表面がなければならず、あなたは出発地点に対する位置と、外見やその他の識別可能な特徴の両方によって、その場所を正確に特定できなければならない。あなたは次元外空間を目的地まで持ち運ぶことはできず、そうしようと試みた場合、起動は失敗する。</p>"
     },
     "Ooze Ammunition (Lesser)": {
@@ -8069,7 +8069,7 @@
       "description": "<p>この金の織物のケープは、元々数世紀前にゴーカの皇帝の一人に贈られたものである。それ以来、多くの模造品が作られたが、それらはすべて、ゴーカの宮殿と七竜橋の両脇にドレイクが描かれた精巧な印章で染められているという点で共通している。この美しいケープは、@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}および@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉}の判定に+3のアイテム・ボーナスをあなたに与える。このケープを着用している間、天候(風や霧を含む)はあなたの移動や視界に影響を与えない。さらに、ケープ・オブ・ジ・オープン・スカイを着用中に落下したときはいつでも、このケープは自動的にあなたに@UUID[Compendium.pf2e.spells-srd.Item.TTwOKGqmZeKSyNMH]{ジェントル・ランディング}をかける。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> 〈扱う〉</p>\n<hr />\n<p><strong>効果</strong>このケープは一対の黄金のドレイクの翼となり、1時間の間、30フィートの飛行移動速度をあなたに与える。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.UzSrsR9S2pgMDbbp]{効果: ケープ・オブ・ジ・オープン・スカイ}</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈命令〉</p>\n<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong>このクロークはあなたを前へ押し出す。あなたは自身の移動速度まで〈ストライド〉または〈飛行〉できるが、直線的にしか移動できない。この移動の間、あなたは自身の移動速度および飛行移動速度に+15フィートのステータス・ボーナスを得る。</p>"
     },
     "Miraculous Paintbrush": {
-      "name": "ミラキュラス・パイントブルシュ/Miraculous Paintbrush",
+      "name": "ミラキュラス・ペイントブラシ/Miraculous Paintbrush",
       "description": "<p><strong>起動</strong> 10分 (〈精神集中〉, 〈操作〉)</p><hr /><p>奇跡の絵筆の穂先は虹色に変化し、魔法的に描かれた物体を作り出すことができる。あなたが奇跡の絵筆を起動すると絵の具が流れ出し、描いている間、あなたの気まぐれで色が変わる。この絵の具は10フィート四方の二次元の表面を覆うことができる。描き終えたら、@Check[crafting|dc:30]判定を行う。</p><hr /><p><strong>クリティカル成功</strong>あなたが描いた物体は表面から出現し、どの次元においても10フィートを超えない、本物の永続的な物体となる。それは非魔法的で無生物であり、特定の美術品収集家以外には価値がない。もしクリーチャー、機械、あるいはエネルギーの形態(キャンプファイヤーなど)を描いた場合、それらの描写は無生物の彫刻としてのみ現れる。作り出された物体は、その普通ではない起源を明確に示す絵画のような外見をしているが、他のあらゆるものと同様に本物である。</p>\n<p><strong>成功</strong>大成功と同様だが、その物体は絶えず絵の具の破片を剥がれ落とし、24時間後に崩れ落ちて破壊される。</p>\n<p><strong>失敗</strong>顔料は、何かがおかしく、物体にならない絵画を残す。</p>\n<p><strong>クリティカル失敗</strong>これは犬か？あなたが何を作ったにせよ、それは非常にひどい絵であり、あなたが作ろうとしたものには似ていない。</p>"
     },
     "Mind's Light Circlet": {
@@ -8211,7 +8211,7 @@
       "description": "<p>この絹のロープは長さ50フィートで、最大3,000ポンドまで支えることができる。もしロープが切断された場合、魔法の性質を維持するのは残った部分のうち最も長いものだけである。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>あなたはロープの端を1つ持ち、目的地を指し示す。ロープは1分の間アニメートし、目的地に到達するか長さが足りなくなるまで、ラウンドごとに10フィート移動する。ロープはダメージを与えない水平または垂直の面であればどこでも移動できるが、支える面がなければ上方に伸びることはできない。ロープがアニメートしている間はいつでも、〈扱う〉アクションを使用してロープを揺らし、以下のいずれかの命令を与えることができる：その場に停止する、最も近い利用可能な物体にしっかりと固定する、物体から取り外す、あるいは結び目を作るか解く。</p>"
     },
     "Thousand-Blade Thesis": {
-      "name": "サウザンドブレイド・スィーシス/Thousand-Blade Thesis",
+      "name": "サウザンドブレード・スィーシス/Thousand-Blade Thesis",
       "description": "<p>柔軟な竹に取り付けられた漆塗りの和紙の巻物のこのコレクションには、兵法に関する書道のエッセイや絵画が豊富に含まれており、特に戦時における様々な武器の使用法や、それらの武器を使用して戦士を最大限に有利に配置する戦術的な方法に焦点を当てている。この論文を調べることで、〈戦争学〉《専門知識》判定に+2のアイテム・ボーナスを得る。ほとんどの学術的な要覧と同様に、この使用には片手で論文を保持する必要がある。</p>\n<p>この論文は、武器や弾薬のための次元を超えた武器庫としても機能する。この論文の容量は5 バルクであり、内部には武器と弾薬のみを収納できる。あなたや他の者は、この論文に対して〈扱う〉を行うことで、一般的な容器のように武器や弾薬を収納したり取り出したりできる。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong> 千刃の論文が劇的に広がり、中に収められていた武器が飛び出して空中に印象的に整列し、簡単に手が届く範囲に浮遊する。1分の間、あなたはフリー・アクションを使用して〈扱う〉を行い、浮遊している武器を1つ引き抜くことができる。他者が空中の武器を奪おうと試みることもできるが、そのためには〈ディスアーム〉 判定で大成功しなければならない。1分が経過するまで、武器を論文の中に戻すことはできない。</p>"
     },
     "Palstave": {
@@ -8371,7 +8371,7 @@
       "description": "<p>この長く無地の鉛の杖は魔法を妨害できる。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> 〈扱う〉</p>\n<hr />\n<p><strong>効果</strong> この杖は呪文や魔法のアイテムを無効化する細い灰色の光線を放ち、打ち消し修正値[[/r 1d20+23]]で6ランクの@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}呪文を発動する。一度起動すると、この杖は[[/r 2d6]]時間の間、再び起動することはできない。</p>"
     },
     "Bladesweeper": {
-      "name": "ブレイドスイーパー/Bladesweeper",
+      "name": "ブレードスイーパー/Bladesweeper",
       "description": "<p>1つの柄に3本の剣を取り付けただけの代物であるブレードスウィーパーは、ヨトゥンボーンの戦士の手にかかれば壊滅的な武器となる。</p>"
     },
     "Compass of Transpositional Awareness": {
@@ -8407,7 +8407,7 @@
       "description": "<p>ドレイクライフルは、ドレイクの唾液腺から作られた火器である。この火器は、通常の弾薬の代わりに、強化された唾液の小さな塊を発射する。ドレイクライフルは+1武器である。これは1d10の火炎ダメージを与え、射程単位が150フィート、装填1を持つ特殊な軍用火器である。クリティカルヒット時には、唾液が対象に付着し、武器と同じ種類の持続ダメージを@Damage[(1d4 + @item.system.damage.dice)[persistent,@item.system.damage.damageType]]{1d4 + 武器ダメージダイスの数}だけ受ける。ドレイクライフルは、クリティカル時のスペシャライゼーション効果を加えない。</p><hr /><p><strong>起動—ドレイクショット</strong> <span class=\"action-glyph\">3</span> (操作)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong> あなたは敵を妨害するために設計された、大きく特殊な塊を発射する。ドレイクライフルで遠隔〈ストライク〉を行う。その〈ストライク〉が大失敗でない限り、ドレイクライフルは対象と対象から@Template[burst|distance:5]{5フィート}以内のクリーチャーに、@Damage[(1 * @item.system.damage.dice[splash])[@item.system.damage.damageType]]{武器ダメージダイス1個につき1の飛散ダメージ}を与える。この飛散ダメージは、通常のダメージと同じ種類である。</p>\n<p>命中時、ドレイクライフルは、そのダメージ種別に基づいて以下の追加効果のいずれか1つを提供する：</p><ul><li><strong>火炎</strong> 巨大な爆発が対象を押し戻す。対象はあなたから10フィート押しやられ、もし対象が地面にいるならば、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</li></ul><hr /><p><strong>〈製作する〉 必要条件</strong> 最初の未加工の素材には、ドレイクライフルに適したダメージ種別を与えるブレス・ウェポンを持つ、儀式的に狩られたドレイクの唾液腺が含まれていなければならない。</p>"
     },
     "Vampire-Fang Morningstar": {
-      "name": "ヴァンパイアーファング・モーニングスター/Vampire-Fang Morningstar",
+      "name": "ヴァンパイアファング・モーニングスター/Vampire-Fang Morningstar",
       "description": "<p>この<em>+1ストライキング・ウウンディング・モーニングスター</em>には、ヴァンパイアから抜いた歯が埋め込まれている。ヴァンパイアは破壊されると灰になる傾向があるため、これには通常、生きている提供者が必要である。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p>\n<p><strong>使用制限</strong> 1分に1回</p>\n<p><strong>必要条件</strong>あなたの最後のアクションがこの武器による成功した〈ストライク〉であり、かつあなたが直射日光の下にいないこと</p>\n<p><strong>効果</strong> <em>ヴァンパイア・ファング・モーニングスター</em>は対象から血液を吸収し、使い手を@Damage[10[healing]]ヒット・ポイント回復させる。</p><hr /><p><strong>〈製作する〉必要条件</strong>最初の未加工の素材には、ヴァンパイアの歯が含まれていなければならない。</p>"
     },
     "Tales in Timber": {
@@ -8446,7 +8446,7 @@
       "description": "<p>摘み取られた日と同じくらい鮮やかに見えるこの花の束は、小さなスプレー状にアレンジされ、赤いサテンのリボンで結ばれている。このアイテムを起動することで発動する呪文の呪文DCは28である。</p><ul><li><strong>鎧</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.qvwIwJ9QBihy8R0t]{スピーク・ウィズ・プラント}のように、植物と会話する能力を得る。</li><li><strong>武器</strong> (病気)あなたがこのポージーを起動して植物の呪文を発動した後、花粉があなたの武器を覆う。あなたの次の〈ストライク〉は、命中すると対象を@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}にし(クリティカルヒットの場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}にする)。クリーチャーが回復を試みる場合、それは吐き気ではなくくしゃみをする(スペルハートの呪文DCに対してロールを行う)。あなたの次のターンの終了までに〈ストライク〉を行わなかった場合、花粉は不活性になる。植物クリーチャーは免疫である。</li></ul><p><strong>起動</strong> 〈呪文の発動〉</p><hr /><p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.uZK2BYzPnxUBnDjr]{タングル・ヴァイン}を発動する。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.5XUn9NADr05IyiVw]{スーシング・ブロッサムズ}を発動する。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.D31YX7zvRBvenTAz]{ペタル・ストーム}を発動する。</p>"
     },
     "Dawnfire Beacon": {
-      "name": "ドーンファイアー・ビーコン/Dawnfire Beacon",
+      "name": "ドーンファイア・ビーコン/Dawnfire Beacon",
       "description": "<p>太陽の暖かく慈愛に満ちた光が、この魔法のバナーの中心から輝き出し、夜明けを映し出している。この魔法のバナーは、バナーのオーラ内に明るい光を放つ(そしてバナーのオーラの2倍の範囲に薄暗い光を放つ)。この効果は、あなたがバナーを保持していないか、それが取り付けられた武器を装備していない間は抑制される。</p>"
     },
     "Sanitizing Pin": {
@@ -8461,7 +8461,7 @@
       "description": "<p>あなたの脚の腱は並外れて伸縮性がある。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{〈跳躍〉}を行う際、その〈跳躍〉の水平距離を5フィート、垂直距離を3フィート増加させる。</p>"
     },
     "Peachwood Talisman": {
-      "name": "ウッド・タリスマン/Peachwood Talisman",
+      "name": "ピーチウッド・タリスマン/Peachwood Talisman",
       "description": "<p><strong>アクセス</strong>ティエン・シア出身</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (精神集中)</p><hr /><p>この薄い四角い木製の銘板には、幸運と福の象徴が刻まれている。それには、施された祝福による白檀の香りがする。起動後、次の1分間、あなたはアンデッドの攻撃を感知できる。あなたは、あなたのレベル以下のアンデッド、あるいは奇襲攻撃を使用するあなたのレベル以下のアンデッドに対して、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態にならず、それらが@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}、@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}、または挟撃状態であっても同様である。しかし、それらは依然として味方の挟撃を助けることはできる。</p>"
     },
     "Monster Suit": {
@@ -8469,7 +8469,7 @@
       "description": "<p>モンスターの着ぐるみは、俳優が怪物を演じる手の込んだ、しばしば安っぽい公演で使用される。こうしたショーは過剰な特殊効果を特徴とすることが多く、観客を喜ばせるために、着ぐるみを着た俳優たちが舞台上で模擬戦を繰り広げて幕となる。</p>\n<p>モンスターの着ぐるみは、動物、ビースト、ドラゴン、フィーンド、ジャイアント、植物、アンデッドのいずれかの特性を持つ特定のクリーチャーに似せて作られている。あなたは、自身のサイズと同じか1段階大きいクリーチャーに似せたモンスターの着ぐるみを着用できるが、これによって実際のサイズが変わることはない。モンスターの着ぐるみを着用するには10分かかり、着用中は着ぐるみの扱いにくさから、移動速度に–10フィートのアイテム・ペナルティを受け、移動アクションの技能判定に–4の状況ペナルティを受ける。しかし、そのモンスターの着ぐるみは、関連するクリーチャーに@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{変装}する際の変装用具としてカウントされ、その活動における《欺瞞》の判定とDCに+2のアイテム・ボーナスを得る。</p>"
     },
     "Heavy Crossbow": {
-      "name": "ヘヴィ・クロスボウ/Heavy Crossbow",
+      "name": "ヘビー・クロスボウ/Heavy Crossbow",
       "description": "<p>この大型クロスボウは通常のクロスボウよりも装填が難しく、より頑丈だが、その分威力は大きい。</p>"
     },
     "Bottled Screams": {
@@ -8537,7 +8537,7 @@
       "description": "<p>アブラクザスは、目には目をが法の基礎であると説く。このとぐろを巻いた毒蛇のタトゥーは、《社会》判定に+1のアイテム・ボーナスを与える。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span>想像する</p>\n<hr />\n<p><strong>効果</strong>アブラクザスはタトゥーをあなたの復讐の武器へと変える。復讐の腕はあなたの手に這い上がり、@UUID[Compendium.pf2e.equipment-srd.Item.q6ZvspNDkzJSP6dg]{リトゥリビューション・アックス}となる。あなたはこの斧を手に持った状態でこの起動を再度使用することで、復讐の腕をタトゥーに戻すことができる。他のレトリビューション・アックスと同様に、あなたは復讐の腕のレトリビューション・アックスに基本ルーンを彫刻して、その効力を高めたり、ストライキングを追加したりできる。</p>"
     },
     "Mindfog Mist": {
-      "name": "マインドフォッグの霧/Mindfog Mist",
+      "name": "マインドフォグの霧/Mindfog Mist",
       "description": "<p>マインドフォグ・ミストは、犠牲者の精神機能に対する効果が迅速かつ強力であるため、呪文の使い手を弱体化させるために使用できる。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">A</span> (操作)</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:35]</p>\n<p><strong>発現</strong> 1ラウンド</p>\n<p><strong>　最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2} (1ラウンド)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 3} (1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 4} (1ラウンド)</p>"
     },
     "Testudo Shield (Greater)": {
@@ -8784,7 +8784,7 @@
       "description": "<p>この緑と青の茎の頂部には、ブロッコリーに似た小さな花の塊がある。それは肉、毛皮、装備に付着する軽度の毒性樹脂で覆われており、影響を受けたクリーチャーにかゆみを伴う発疹を生じさせる。</p>\n<hr />\n<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:16]</p>\n<p><strong>発症</strong> 1日</p>\n<p><strong>最大持続時間</strong> 2週間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}、この病的な状態は1未満にはならない(1日)</p>\n<p><strong>第2段階</strong> 第1段階と同様だが、さらに@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}状態となる(1日)</p>"
     },
     "Flashblade (Major)": {
-      "name": "フラッシュブレイド（メジャー）/Flashblade (Major)",
+      "name": "フラッシュブレード（メジャー）/Flashblade (Major)",
       "description": "<p>稲妻が刻まれた柄に取り付けられた、滑らかで信じられないほど軽量な刃が、この<em>+3グレーター・ストライキング・野太刀</em>を構成している。</p>\n<p><strong>起動—閃光の準備</strong> <span class=\"action-glyph\">2</span> (精神集中)</p>\n<p><strong>使用制限</strong> 10分に1回</p><hr /><p><strong>効果</strong>あなたは周囲に完全に意識を集中し、フラッシュブレードの魔法を吸い込むことで、自身をより軽く、より速くし、剣の刃をより柔軟にする。あなたは近接〈ストライク〉を〈構える〉。その〈ストライク〉の間、フラッシュブレードのリーチは25フィートに増加する。トリガーが発生しなかった場合、これはフラッシュブレードの頻度を消費しない。</p>"
     },
     "Mortal Chronicle": {
@@ -9887,7 +9887,7 @@
       "gmnote": "<p><strong>エピトーム</strong>ハロウハートに新しい部屋が出現する。それは召喚術の間である。この部屋に保管されている書物や巻物には、@UUID[Compendium.pf2e.spells-srd.Item.vgy00hnqxN9VoeoF]{プレイナー・サーヴィター}と@UUID[Compendium.pf2e.spells-srd.Item.2ykmAVKrsAWcazcC]{バインディング・サークル}の儀式を習得するために必要なすべての情報が含まれており、召喚術の間の床に刻まれた碑文は、これらの儀式のいずれかを行うための技能判定に+2のアイテム・ボーナスを与える。召喚されるクリーチャーがフィーンドである場合、このボーナスは+3のアイテム・ボーナスに増加する。</p>"
     },
     "Bellflower Toolbelt": {
-      "name": "ベルフラワー・トゥールベルト/Bellflower Toolbelt",
+      "name": "ベルフラワー・ツールベルト/Bellflower Toolbelt",
       "description": "<p>ベルフラワー・ツールベルトの異なるバージョンは、特定の職業に適するようにカスタマイズされているため、大工仕事用のベルトはパン作り用のベルトとは見た目が異なる。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> (精神集中、操作)</p>\n<p><strong>効果</strong>あなたは最大1バルクの物体をベルトの中に入れ、その物体をそのベルトが作成された職業にふさわしい道具へと変形させる。各物体は、ベルトから取り出されて24時間が経過するか、誰かが単一の〈扱う〉アクションを使用して元の形に戻すまで、変形したままである。変形したアイテムが十分に入っていれば、そのベルトはその職業用の@UUID[Compendium.pf2e.equipment-srd.Item.y34yjumCFakrbtdw]{職人用具}として使用できる。</p>"
     },
     "Basic Face Mask": {
@@ -10003,7 +10003,7 @@
       "description": "<p>このアダマンティンの輪は鎖に通してネックレスとして着用できるが、その恩恵を得るには手に持たなければならない。アルケイン呪文もオカルト呪文も発動できないクリーチャーは、このアイテムを拾い上げただけで8d6の精神ダメージを受け、持ち続けている場合は毎ターンの開始時に再びそのダメージを受ける。</p>\n<p>使い手がアルケイン呪文またはオカルト呪文を発動できる場合、スフィア・オヴ・アナイアレイションをより容易に制御するためにこのタリスマン・オヴ・ザ・スフィアを使用できる。これによって、スフィアを制御する、あるいは起動を〈維持〉するための判定のDCが10減少する。</p>\n<p><strong>破壊</strong>このタリスマン・オヴ・ザ・スフィアは、スフィア・オヴ・アナイアレイションに接触されると破壊される。</p>"
     },
     "Tradecraft Tattoo": {
-      "name": "トゥレイドクラフト・タトゥー/Tradecraft Tattoo",
+      "name": "トレードクラフト・タトゥー/Tradecraft Tattoo",
       "description": "<p>作り手は、自身の選んだ分野への献身と技術を象徴するタトゥーを選ぶ。そのようなタトゥーは腕、指、あるいは目を飾ることがあり、芸術的な模様の形をとるか、金床、絵筆、こてといった商売道具を描く。あなたはこの《製作》判定に+2のアイテム・ボーナスを得る。さらに、〈収入を得る〉ための《製作》判定で大失敗した際、代わりに失敗として扱う。@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}、 treat it as a failure instead.</p>\n<p><strong>起動</strong> 1分 (精神集中、操作)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> そのタトゥーは@UUID[Compendium.pf2e.spells-srd.Item.TUj8eugNqAvB1vVR]{クリエイション}を発動する。あなたはそのアイテムとその外見、そしてその呪文が4レベルか5レベルかを選択する。</p>"
     },
     "Summoning Handscroll": {
@@ -10031,7 +10031,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>このバイアルに入った明るい青色の液体試薬は、空気に触れると急速に熱を吸収する。フロスト・バイアルは3d6の冷気ダメージと3の冷気スプラッシュ・ダメージを与える。命中すると、対象は次のターンの終了時まで、自身の移動速度に-10フィートの状況ペナルティを受ける。あなたは攻撃ロールに+2のアイテム・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{効果: フロスト・バイアル}</p>"
     },
     "Dragonprism Staff (Greater)": {
-      "name": "ドゥラゴンプリズム・スタッフ（グレーター）/Dragonprism Staff (Greater)",
+      "name": "ドラゴンプリズム・スタッフ（グレーター）/Dragonprism Staff (Greater)",
       "description": "<p>多色の鱗の配列がドラゴン・プリズム・スタッフを覆い、色のグラデーションを形成しており、スタッフの頭部にはドラゴンの爪が宝石を掴んでいる。ドラゴンは、敬意の印として同盟者にこれらのスタッフを贈る。ドラゴン・プリズム・スタッフを手にしている間、あなたはより獰猛に見え、@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}ための《威圧》判定に+1の状況ボーナスを得る。</p>\n<p><strong>起動</strong> 〈呪文の発動〉</p><hr /><p><strong>効果</strong>あなたはスタッフからチャージを消費して、そのリストにある呪文を発動する。</p><ul><li><strong>キャントリップ</strong> @UUID[Compendium.pf2e.spells-srd.Item.MPxbKoR54gkYkqLO]{ガウジング・クロー}、@UUID[Compendium.pf2e.spells-srd.Item.D7ZEhTNIDWDLC2J4]{パフ・オブ・ポイズン}</li><li><strong>1</strong> @UUID[Compendium.pf2e.spells-srd.Item.y6rAdMK6EFlV6U0t]{ブレス・ファイア}、@UUID[Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D]{フィアー}</li><li><strong>2</strong> @UUID[Compendium.pf2e.spells-srd.Item.9h9YCncqah6VNsKf]{アシッド・グリップ}、@UUID[Compendium.pf2e.spells-srd.Item.Fr58LDSrbndgld9n]{レジスト・エナジー}</li><li><strong>3</strong> @UUID[Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D]{フィアー}、@UUID[Compendium.pf2e.spells-srd.Item.9AAkVUCwF6WVNNY2]{ライトニング・ボルト}</li><li><strong>4</strong> @UUID[Compendium.pf2e.spells-srd.Item.A2JfEKe6BZcTG1S8]{〈飛行〉}、@UUID[Compendium.pf2e.spells-srd.Item.Mv5L4201uk8hnAtD]{リフレクティブ・スケールズ}</li><li><strong>5</strong> @UUID[Compendium.pf2e.spells-srd.Item.xxWhyl81w3ckslAU]{ハウリング・ブリザード}、@UUID[Compendium.pf2e.spells-srd.Item.kghwmH3tQjMIhdH1]{サモン・ドラゴン}</li><li><strong>6</strong> @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{ドラゴン・フォーム}、@UUID[Compendium.pf2e.spells-srd.Item.Mv5L4201uk8hnAtD]{リフレクティブ・スケールズ}、@UUID[Compendium.pf2e.spells-srd.Item.kghwmH3tQjMIhdH1]{サモン・ドラゴン}</li><li><strong>7</strong> @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{ドラゴン・フォーム}</li><li><strong>8</strong> @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{ドラゴン・フォーム}、@UUID[Compendium.pf2e.spells-srd.Item.kghwmH3tQjMIhdH1]{サモン・ドラゴン}</li><li><strong>9</strong> @UUID[Compendium.pf2e.spells-srd.Item.2EIUqc8TCTQimggQ]{サモン・ドラコニック・リージョン}、@UUID[Compendium.pf2e.spells-srd.Item.kghwmH3tQjMIhdH1]{サモン・ドラゴン}</li></ul><hr /><p><strong>〈製作する〉必要条件</strong>リストされているすべての呪文の、リストされているすべてのランクを1回ずつ発動すること。</p>"
     },
     "Glowing Lantern Fruit": {
@@ -10137,7 +10137,7 @@
       "description": "<p>この白く細いロッドには、見えない指揮官に向かってお辞儀をし、踊る壮大な動物たちの精巧なレリーフが彫られている。このバトンは、あなたがコンストラクトを指揮することを可能にする。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> command, 〈扱う〉 (enchantment, incapacitation)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>あなたはコンストラクトを支配する。これはDC 39の9ランクの@UUID[Compendium.pf2e.spells-srd.Item.OsOhx3TGIZ7AhD0P]{ドミネイト}の効果を持つが、コンストラクトにのみ影響する。これは精神特性を持たず、マインドレスなコンストラクトにも機能する。また、対象が持つ可能性のあるゴーレムの対魔法能力を無視する。バトンが破壊されるか、少なくとも1分の間あなたの所持から離れると、効果の持続時間は終了する。また、あなたはバトンを保持している間のみ、対象に命令を下すことができる。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>あなたは、自分が制御しており、かつ60フィート以内に見えているコンストラクト1体の行動を密接に指示する。そのコンストラクトは、攻撃ロール、ダメージ・ロール、およびセーヴィング・スロー(アイボリー・バトンに対するセーヴィング・スローを除く)に+1のステータス・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.WXsWkFosSGBrptwF]{効果: Ivory Baton}</p>"
     },
     "Pyrefeather Token": {
-      "name": "パイアーフェザー・トークン/Pyrefeather Token",
+      "name": "パイアフェザー・トークン/Pyrefeather Token",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">f</span> (concentrate)</p>\n<p><strong>トリガー</strong>あなたが@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死}1状態の間に、回復判定に成功、失敗、または大失敗する。</p><hr /><p>ビーズ細工で装飾されたこのパイアファウルの羽は、その鳥の自己治癒力の火花を蓄えている。あなたがトークンを起動すると、トリガーとなった回復判定のDCを1減少させ、あなたの判定の成功度を向上させる可能性がある。あなたはまた、1分持続する5の　一時的ヒット・ポイントを得る。あなたは@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態であっても、このタリスマンを起動できる。</p>"
     },
     "Standard of the Primeval Howl": {
@@ -10238,7 +10238,7 @@
       "description": "<p>この金属製のグローブのペアは、フル・プレート、ハーフ・プレート、スプリント・アーマーに付属している。これらは別々に購入して他の種類の鎧と一緒に着用することもできる。これらは手を保護するだけでなく、あなたの手を致命的な武器へと変える。</p>"
     },
     "Twigjack Sack (Moderate)": {
-      "name": "トゥィッグジャック・サック（モデレート）/Twigjack Sack (Moderate)",
+      "name": "トゥイッグジャック・サック（モデレート）/Twigjack Sack (Moderate)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p>\n<hr />\n<p>鋭く柔軟な茨が、複雑に絡み合った植物繊維で作られたこの袋から突き出ている。袋の中身は、きつく圧縮された束の圧力で軋んでいる。</p>\n<p>投げられると、トゥイグジャックの袋は破裂し、周囲のクリーチャーを切り裂く茨を四方八方に撒き散らす。トゥイグジャックの袋は記載された刺突ダメージ、持続的な出血ダメージ、およびスプラッシュ・ダメージを与える。</p>\n<p>あなたは攻撃ロールに+1のアイテム・ボーナスを得る。この爆弾は2d6の刺突ダメージ、3の持続的な出血ダメージ、および2の刺突スプラッシュ・ダメージを与える。</p>"
     },
     "Brooch of Inspiration (Major)": {
@@ -10525,7 +10525,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p><hr /><p>デュラキシリスの祭りの夜には、露天商がこのローストペッパーの串を売っている。その辛さは深夜に人気の脂っこい肉の味を引き立て、ペッパーから出る火花はパーティーの活力を維持するための気付け薬となる。スパーキング・ペッパーの串を食べると、あなたの体はあなたの次のターン終了時まで電撃を帯びる。あなたが素手攻撃または金属製の武器で対象に対して〈ストライク〉を成功させた時、フリー・アクションとしてこの効果を終了させ、その攻撃に1d6の電撃ダメージを追加で与えることができる。効果時間が終了するまでに消費されなかった場合、電撃は害を及ぼすことなく消散する。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.DlG2V9RklmeukTvF]{効果: スパーキング・ペッパーの串}</p>"
     },
     "Deepdread Claw": {
-      "name": "ディープドゥレッド・クロー/Deepdread Claw",
+      "name": "ディープドレッド・クロー/Deepdread Claw",
       "description": "<p>「ディープドレッドの四爪」として知られる4本の同一の槍のうちの1本であるこの武器は、つなぎ目のない艶消し黒の金属の塊から作られており、刃は銀で鋭く研がれている。明るい光では+1ストライキング・スピアとして機能するが、暗闇や薄暗い光では+2グレーター・ストライキング・スピアとなる。あなたは特定の武器として通常通りその基本ルーンを強化できる(+2グレーター・ストライキング・スピアから開始する)。ただし、その基本ルーンは明るい光では常に1段階低いものとして扱われる。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span>コマンド</p>\n<hr />\n<p><strong>効果</strong>あなたはディープドレッド・クローを装備している他の誰かとテレパシーによるリンクを確立する。これにより、あなたが同じ次元界にいる限り、そのクリーチャーがディープドレッド・クローを所持している間、テレパシーで意思疎通を行えるようになる。あなたが作成した、またはあなたが参加しているテレパシー・リンクは、アクションとして終了させることができる。このアクションは精神集中特性を持つ。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span>コマンド, 〈扱う〉</p>\n<hr />\n<p><strong>効果</strong>あなたは4レベルのダークネスを詠唱する。あなたはこの暗闇の中をはっきりと見ることができる。</p>"
     },
     "Porcelain vase inlaid with gold": {
@@ -10640,7 +10640,7 @@
       "description": "<p>鮮やかな色の絹や洒落た刺繍のパネルで飾られた布袋のように見えるが、この <em>スペーシャス・ポーチ</em>は、外側の寸法よりも大きな魔法の空間へと開いている。袋の中に入っているバルクは、その <em>スペーシャス・ポーチ</em>自体のバルクを変化させない。この袋の次元を超えた空間が保持できるバルクの量は、その種類によって異なる。</p>\n<p>あなたは普通の袋と同じように、<em>スペーシャス・ポーチ</em>を〈扱う〉ことで、アイテムを収納したり取り出したりできる。この袋は大量の物質を保持できるが、アイテムを中に収納するには、その袋の開口部を通り抜けられる必要がある。</p>\n<p>もし袋が過積載になったり破壊されたりすると、袋は破裂して台無しになり、中のアイテムは永遠に失われる。袋を裏返すと、中のアイテムは無傷でこぼれ落ちるが、再び使用するには袋を元に戻さなければならない。袋の中に入れられた生きているクリーチャーは、窒息し始めるまで10分分の空気を有しており、難易度13のDCに対して〈エスケープ〉を試みることができる。袋の中にあるアイテムは、最初に取り出さない限り、いかなる恩恵も提供しない。袋の中にあるアイテムは、同じ次元界にあるものだけを探知する魔法では探知できない。</p>\n<hr />\n<p><strong>装弾</strong> 100 バルク</p>"
     },
     "Crimson Godsblood Serum (Greater)": {
-      "name": "クリムゾン・ゴッズセラム・セラム（グレーター）/Crimson Godsblood Serum (Greater)",
+      "name": "クリムゾン・ゴッズブラッド・セラム（グレーター）/Crimson Godsblood Serum (Greater)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p><hr /><p>わずか一滴のゴルムの血しか含まれていないが、このどろりとして渦巻くポーションを飲むと、使用者は神聖な怒りと回復力で満たされる。ポーションの効果を受けている間、あなたは1分の間、物理ダメージロールに+4のステータス・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.m942gdWRO19p0QS8]{効果: クリムゾン・ゴッズブラッド・セラム}</p>\n<p>その1分間の間に初めてヒット・ポイントが0になったが即座に死亡しなかった場合、あなたは気絶することを免れ、@Damage[(6d8+20)[healing]]ヒット・ポイントを回復し、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となり、あなたの@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷}状態が1増加する。</p>"
     },
     "Oxygen Ooze": {
@@ -10691,7 +10691,7 @@
       "description": "<p>この刃やスパイクはクロスボウや火器に取り付けることができるが、他の取り付け型武器とは異なり、それ自体を武器として片手で振るうことができる。別の武器として使用する場合、取り付け型武器にのみ機能するルーンや能力による恩恵を得ることはできない。</p>"
     },
     "Jahan Waystone": {
-      "name": "ジャハン・ウェイストウン/Jahan Waystone",
+      "name": "ジャハン・ウェイストーン/Jahan Waystone",
       "description": "<p>この巨大な石は淡い光を放ち、静かなハミング音を発している。各<em>ジャハン・ウェイストーン</em>は、対となるリンクの一部である。対となる石は、発する光の色と、ハミングする特定の音調が一致している。</p>\n<hr />\n<p><strong>起動</strong> (1分)想像する、〈扱う〉</p>\n<hr />\n<p><strong>効果</strong>あなたは石に手を置き、石の光に集中する。石の輝きは10フィートの半径内にいるすべてのクリーチャーを光で包み込み、そのクリーチャーを対となる石へテレポートさせようと試みる。対象のウェイストーンの30フィート以内に空きスペースがない場合、テレポーテーションの試みは失敗する。クリーチャーは@Check[will|dc:45]に成功することで、そのテレポーテーションに抵抗できる。</p>"
     },
     "Vine Baton": {
@@ -10913,7 +10913,7 @@
       "name": "白金貨/Platinum Pieces"
     },
     "Heavy Barding (Small or Medium)": {
-      "name": "ヘヴィ・バーディング（スモール・オア・ミーディアム）/Heavy Barding (Small or Medium)"
+      "name": "ヘビー・バーディング（スモール・オア・ミーディアム）/Heavy Barding (Small or Medium)"
     },
     "Butterfly Sword": {
       "name": "バタフライ・ソード/Butterfly Sword",
@@ -11005,7 +11005,7 @@
       "description": "<p>このクロークは、肉を渇望し、このクロークの着用者を守ろうとする、千枚の生きた葉から織られているように見える。</p>\n<p><strong>起動—噛みつき返し</strong> <span class=\"action-glyph\">r</span> (concentrate)</p>\n<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>トリガー</strong>あなたが隣接するクリーチャーからの近接攻撃によってダメージを受けた時</p><hr /><p><strong>効果</strong>葉が攻撃者に向かって激しく打ち付け、邪悪な棘でできた噛みつく顎を現す。トリガーとなったクリーチャーは@Check[reflex|dc:30|options:damaging-effect]セーヴィング・スロウを行わなければならない。</p>\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは@Damage[2d6[piercing]]ダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@Damage[4d6[piercing],3[bleed]]ダメージを受ける。</p>"
     },
     "Coldstar Pistols": {
-      "name": "コウルドスター・ピストルス/Coldstar Pistols",
+      "name": "コールドスター・ピストルス/Coldstar Pistols",
       "description": "<p>このペアのデュエリング・ピストルのうち一丁は銃身に炎が、もう一丁はつららが刻まれている。これらの分離した形態において、<em>コールドスター・ピストルズ</em>を構成する一丁は<em>+3グレーター・ストライキング・グレーター・フレイミング・デュエリング・ピストル</em>として機能し、もう一丁は<em>+3グレーター・ストライキング・グレーター・フロスト・デュエリング・ピストル</em>として機能する。結合すると、この銃は二連式の武器となり、<em>+4メジャー・ストライキング・グレーター・フレイミング・グレーター・フロスト・デュエリング・ピストル</em>として機能する。結合形態は120フィートの射程単位を持つ。いずれの形態であっても、<em>コールドスター・ピストルズ</em>はアジャイル、隠匿、衝撃、フェイタルd10の特性を持つ。スター・ガンであるため、<em>コールドスター・ピストルズ</em>は魔法で駆動し、弾薬や黒色火薬を使用しない。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">1</span> (manipulate)</p>\n<p><strong>効果</strong>あなたはコールドスター・ピストルズを一方の形態からもう一方の形態へ切り替える。+4の状況ボーナスを得て、@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行うための《欺瞞》判定を行う。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">1</span> (manipulate)</p>\n<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>効果</strong> 1体の対象に対して2回のストライクを行い、2回の攻撃ロールのうち高い方を両方の攻撃に適用する。あなたのマルチアタック・ペナルティは、これらのストライクの後にのみ増加する。</p><hr /><p><strong>破壊</strong>デフト・オンキの名と功績が完全に人々の記憶から消え去った場合、コールドスター・ピストルズは通常の物体と同様に破壊できる。</p>"
     },
     "Amphora with lavish scenes": {
@@ -11325,7 +11325,7 @@
       "description": "<p>この衣服は着用するまでは普通のローブのように見えるが、着用すると、様々な形や色の奇妙で異質な目が布地全体に現れ、瞬きをする。このローブを着用している間、君は《知覚》判定に+3のアイテム・ボーナスを得る。また、君は常に2レベルの@UUID[Compendium.pf2e.spells-srd.Item.jwK43yKsHTkJQvQ9]{シー・ザ・アンシーン}呪文の効果の恩恵を得る。</p>\n<p>君は強力な魔法のオーラを見ることもできる。君から30フィート以内にある最もレベルの高い魔法のオーラは、その学派を君に明らかにする色で輝き、その効果がどこから発生しているかを特定できるようにする。これは効果の発生点を5フィート・キューブまで絞り込めるが、それ以上正確には特定できない。</p>\n<p>この<em>ローブ・オヴ・アイズ</em>には危険も伴う。このローブを着用している間に〈光〉の特性を持つ呪文が君または君の広場に対して発動された場合、君はその呪文のレベルに等しいラウンドの間、盲目状態となる。ただし、その呪文のDCに対する頑健セーヴに成功すればこの限りではない。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">A</span> 〈扱う〉</p>\n<hr />\n<p><strong>効果</strong> 君はローブから目を1つ引き抜き、空中に放り投げる。その目は不可視状態となり、君が選んだ目的地まで浮遊していく。これは5レベルの@UUID[Compendium.pf2e.spells-srd.Item.Ek5XI0aEdZhBgm21]{スカウティング・アイ}呪文と同じ効果を持つ。君は〈呪文の維持〉ができるのと同様に、この起動を〈維持〉できる。</p>"
     },
     "Firestarter Pellets (Major)": {
-      "name": "ファイアースターター・ペレッツ（メジャー）/Firestarter Pellets (Major)",
+      "name": "ファイアスターター・ペレッツ（メジャー）/Firestarter Pellets (Major)",
       "description": "<p><strong>起動</strong> 〈呪文の発動〉(1アクションを追加)</p><hr /><p>コウモリの糞、硫黄、魔法の促進剤を圧縮したこれらのペレットは、戦場における呪文の使い手にとって長らく必需品であった。ファイヤースターター・ペレットを@UUID[Compendium.pf2e.spells-srd.Item.sxQZ6yqTn0czJxVd]{ファイアーボール}呪文に加えると、付着する炎が発生し、その効果に対するセーヴィング・スロウに失敗したすべての者に@Damage[3d6[persistent,fire]]ダメージを与える(大失敗した場合は@Damage[6d6[persistent,fire]]ダメージ)。</p>"
     },
     "Star Grenade (Moderate)": {
@@ -11967,7 +11967,7 @@
       "name": "優美な布人形/Elegant cloth doll"
     },
     "Orb of Dragonkind": {
-      "name": "オーブ・オブ・ドゥラゴンカインド/Orb of Dragonkind",
+      "name": "オーブ・オブ・ドラゴンカインド/Orb of Dragonkind",
       "description": "<p>伝説的な<em>ドラゴンカインド・オーブ</em>のそれぞれは、強力なドラゴンのエッセンスと人格を内包しており、最も高名な10個のオーブはそれぞれ、異なる種類の金属竜または色竜であるドラゴンの精神を保存している。他の種類の真竜のオーブも存在すると信じられているが、その説はまだ確認されていない。</p>\n<p><em>ドラゴンカインド・オーブ</em>を保持している間、あなたはそのオーブに関連する種類のドラゴンのブレス・ウェポンに対して免疫を持つ。<em>ドラゴンカインド・オーブ</em>はさらにいくつかの追加の感覚も与える。あなたは他のオーブの保持者と、まるで同じ部屋にいるかのように言葉と視覚で意思疎通できる。あなたは常に、10マイル以内にドラゴンがいるかどうかを知ることができる。この範囲は、そのオーブに関連する種類のドラゴンに対しては100マイルまで拡大する。関連するドラゴンが1マイル以内にいる場合、あなたはそのドラゴンがあなたから見てどの方向にいるか、そしてそのドラゴンの年齢(ヤング、アダルト、エンシェントなど)を知ることができる。各オーブは、特定のオーブによって決定される、あなたが回数無制限で発動できる10レベルの秘術の生得呪文を授ける。</p>\n<p><em>ゴールド・ドラゴンカインド・オーブ</em>は、他のどのオーブの生得呪文や起動能力も伝えることができるが、個々の能力はそれぞれ1日1回しか付与できない。さらに、ゴールド・オーブの保持者は、その3アクション起動を使用して、1マイル以内にいる別のオーブの保持者に対してドミネイトを発動しようと試みることができる。これは、その保持者が500フィート以内にいる関連する種類のドラゴンであるかのように扱う。しかし、ゴラリオンにおける<em>ゴールド・ドラゴンカインド・オーブ</em>に関する最後の報告は、そのオーブが破壊されたことを示している。「失われた予言の時代」以外のセッティングでキャンペーンを運営するGMは、自身のキャンペーンではゴールド・オーブがまだ無傷であると決定してもよい。</p>\n<p><em>ドラゴンカインド・オーブ</em>を保持することは、たとえ後にそのオーブを失ったとしても、オーブの中に囚われたドラゴンの奴隷化から利益を得たという理由で、すべてのドラゴン種族から永遠の敵意を買うことになる。</p>\n<p><strong>呪文付与</strong> (DC 40)ブラックドラゴン(ダークネス)、ブルードラゴン(ハルシネイトリー・テレイン)、ブラスドラゴン(スピーク・ウィズ・アニマルズ)、ブロンズドラゴン(コントロール・ウォーター)、カッパードラゴン(ヒディアス・ラフター)、グリーンドラゴン(エントングル)、レッドドラゴン(ウォール・オヴ・ファイア)、シルバードラゴン(ディテクト・アライメント[spirit only])、ホワイトドラゴン(ウォール・オヴ・アイス)</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">3</span>コマンド</p>\n<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr /><p><strong>効果</strong>あなたは500フィート以内にいる、そのオーブに関連する種類のドラゴンに対して10レベルの<em>ドミネイト</em>呪文(DC 40)を発動する。ただし、その効果は無制限ではなく1ヶ月持続する。そのドラゴンは魔法に対するセーヴィング・スローへのステータス・ボーナスを得ない。その後、そのドラゴンは24時間の間、そのオーブによるさらなる支配に対して一時的な免疫を得る。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span>エンヴィジョン、〈扱う〉</p>\n<p><strong>使用制限</strong> 1日3回</p>\n<hr />\n<p><strong>効果</strong>あなたは25d6ダメージ(@Check[reflex|dc:40|basic]セーヴ)を与えるエレメンタル・ブラストを、@Template[cone|distance:60]または@Template[line|distance:100](選択可能)の形で吐き出す。そのブレスのダメージ種別は、その<em>ドラゴンカインド・オーブ</em>に関連する種類のドラゴンのブレス・武器と一致する(ブラック・オーブなら酸、ブルー・オーブなら電撃、など)。</p>\n<p><strong>破壊</strong> <em>ドラゴンカインド・オーブ</em>は、内部に囚われたドラゴンの子孫であるドラゴンのブレス・武器にさらされると、激しく砕け散って爆発する。その爆発は、90フィート以内にいるすべてのクリーチャーに対して、上記の2アクション起動と同様にダメージを与える。</p>"
     },
     "Lover's Knot": {
@@ -11990,7 +11990,7 @@
       "description": "<p>この高グレードな銀製のバックラー(硬度6、HP24、BT12)は鏡のように磨き上げられている。この盾は@UUID[Compendium.pf2e.equipment-srd.Item.OqDAx4HJ39ojVtvg]{スペル・ガード・シールド}として機能し、さらに呪文を反射することもできる。</p>\n<p><strong>起動—呪文反射</strong> <span class=\"action-glyph\">R</span> (精神集中)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong> あなたが呪文の対象になった</p>\n<p><strong>必要条件</strong> <em>反射の盾</em>を掲げている</p>\n<hr />\n<p><strong>効果</strong> あなたはその呪文を術者に反射しようと試みる。この盾は、9レベルの打ち消しランクと[[/r 1d20+30 #Counteract]]{+30}の打ち消し修正値を用いて、その呪文を打ち消ししようと試みる。その呪文の相殺に成功した場合、呪文は術者へと跳ね返される。</p>\n<hr />\n<p><strong>〈製作する〉 必要条件</strong> 初期段階の未加工の素材には、少なくとも2,750gp分の銀が含まれていなければならない。</p>"
     },
     "Oathlamp of Accord": {
-      "name": "オウスランプ・オブ・アコード/Oathlamp of Accord",
+      "name": "オースランプ・オブ・アコード/Oathlamp of Accord",
       "description": "<p>このフード付きランタンは半透明のプリズムの形をしている。これは通常の@UUID[Compendium.pf2e.equipment-srd.Item.dIRZ0LL7G31fJNYz]{フード付きランタン}として機能するが、燃料は油ではなく誓いである。あなたがこのランタンを持っている間、あなたは《交渉》判定に+1のアイテム・ボーナスを得る。</p>\n<p><strong>起動—誓いの宣言</strong> <span class=\"action-glyph\">r</span> (光、精神)</p>\n<p><strong>トリガー</strong>あなたが誠実に約束をする</p><hr /><p><strong>効果</strong> <em>調和の誓いのランプ</em>は、あなたが交わした約束が破られるか果たされるまで、燃料を消費することなく光を放つ。口頭での約束が破られたか果たされたかは、GMが判定する。この光とそれを隠すためのシャッターは、通常のフード付きランタンと同様に機能する。この誓いのランプの光の中にいるクリーチャーは、誰がいつその誓約を立てたかとともに、その内容を知ることになる。</p>"
     },
     "Extra Lung": {
@@ -12094,7 +12094,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p><hr /><p>レピッドシュタット大学から生み出された奇妙な装置の1つで、電撃を帯びて唸りを上げる歪んだガラス製の機械である。この振動はほとんどの者には無害だが、非実体クリーチャーの移動を著しく阻害する。起動すると、15フィート以内にいる非実体クリーチャー1体は@Check[fortitude|dc:19]セーヴィング・スロウを行わなければならない。一度使用すると、振動によってガラスが砕け散る。</p><hr /><p><strong>成功</strong>対象は影響を受けない。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となり、1ラウンドの間移動できない。</p>\n<p><strong>クリティカル失敗</strong>対象は移動不能状態かつ@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となり、1ラウンドの間その状態が続く。</p>"
     },
     "Backfire Mantle (Greater)": {
-      "name": "バクフィレ・マントル（グレーター）/Backfire Mantle (Greater)",
+      "name": "バックファイア・マントル（グレーター）/Backfire Mantle (Greater)",
       "description": "<p>この頑丈な布で作られた鮮やかな赤色のクロークは、攻撃的なバトル・アルケミストや魔術師、そして爆発を好む後衛よりも先に戦火へ飛び込む必要がある慎重な戦士たちに愛用されている。このマントはあなた自身や味方の魔法からあなたを守るために介入し、あなた自身の呪文や味方の呪文に対する反応セーヴに+2の状況ボーナスを与える。また、あなた自身や味方の錬金術アイテムによる飛散ダメージに対する耐性10を得る。</p>"
     },
     "Ring of Sigils (Greater)": {
@@ -12876,7 +12876,7 @@
       "description": "<p>この<em>+1ストライキング・フリントロック・マスケト</em>は、ティグリディアの花びらのように銃床から展開できる複数の三角形のパネルを備えており、それが日光を集めてスパークガンのコアに供給する。<em>ソーラー・シェルフラワー</em>が与えるすべてのダメージは火炎ダメージである。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p>\n<p><strong>使用制限</strong> 1日1回(ただし下記参照)</p><hr /><p><strong>効果</strong> <em>ソーラー・シェルフラワー</em>のパネルの1つが分離し、ティグリディアの形をした火炎のコンストラクトとなって広がる。次の1分の間、あなたが<em>ソーラー・シェルフラワー</em>で敵に〈ストライク〉を行うたび、そのコンストラクトは自動的に対象に命中する小さな火炎の噴流を放ち、@Damage[3d4[persistent,fire]]{3d4の追加の持続火炎ダメージ}、またはクリティカルヒットならその2倍のダメージを与える。<em>ソーラー・シェルフラワー</em>がこの起動を再充填するのに十分な太陽エネルギーを補充するには通常1日を要するが、砂漠、雲の上の崖、夏至の近くなど、特に強い日光のある環境で使用された場合、代わりに1時間で再充填できる。</p>"
     },
     "Silversoul Bomb (Greater)": {
-      "name": "シルヴァーソウル・ボム（グレーター）/Silversoul Bomb (Greater)",
+      "name": "シルバーソウル・ボム（グレーター）/Silversoul Bomb (Greater)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>この希少な錬金術爆弾は、何世代にもわたる愛する先祖が埋葬された墓地に残る感情を集めて凝縮し、その強力な感情エネルギーを爆弾内に蓄えられた錬金術的に調合された銀の粉末に注入する。このエネルギーは柔らかな銀色の輝きを放ち、透明な容器に保管されていれば、シルヴァーソウル・ボムを領域を照らす松明として使用できる。</p>\n<p>あなたは攻撃ロールに+2のアイテム・ボーナスを得る。この爆弾は3d4の精神ダメージを与え、ニンドルに対しては2d6の持続精神ダメージと3の精神スプラッシュ・ダメージを与える。この爆弾からスプラッシュ・ダメージを受け、@Check[fortitude|dc:28]セーヴに失敗したクリーチャーは、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となり、その後1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p>ニンドルはシルヴァーソウル・ボムによって特に大きな被害を受け、2d6の持続精神ダメージを受ける。ニンドルに対しては、この爆弾のアイテム・ボーナスは、幻惑状態や盲目状態への抵抗を試みる際のセーヴDCにも適用される。銀に対する弱点を持つクリーチャー(ほとんどのニンドルを含む)は、内部のエネルギーに注入された銀のために、シルヴァーソウル・ボムによって引き起こされる精神ダメージに対しても同量の弱点を持つ。</p>"
     },
     "Energy-Absorbing": {
@@ -12909,7 +12909,7 @@
       "description": "<p>この奇妙な機械は、フラスコ、チューブ、その他の錬金術用装備の複雑な配置物である。<em>賢者の抽出器</em>は、究極の錬金術調合品を作成するために設計されている。この抽出器は極めて優れた錬金術師の道具一式として機能し、錬金術に関連する《製作》判定に+4のアイテム・ボーナスを与える。抽出器を使用して錬金術アイテムを〈製作する〉際、またはあなたの日課の準備の一環として注入試薬を使用する際、あなたは完璧な錬金術アイテムを作成できる。完璧な錬金術アイテムは、それが必要とするあらゆるロールにおいて常に可能な最大数値を使用する。例えば、アルケミスト・ファイアで最大ダメージを与える、あるいはエリクサー・オヴ・ライフで最大数のヒット・ポイントを回復するといった具合である。その完璧なアイテムに持続時間がある場合、それは通常の2倍持続する。最後に、完璧な錬金術アイテムには決して欠点がない。</p>\n<p><strong>起動—加速合成</strong> <span class=\"action-glyph\">3</span> (操作)</p>\n<p><strong>使用制限</strong> 　1分に1回</p>\n<hr />\n<p><strong>効果</strong>あなたは抽出器を使用して、あなたのレベル以下の、処方を知っている錬金術アイテムを生成する。抽出器はこの方法で1日につき合計56レベル分のアイテムを作成できる。例えば、抽出器はトゥルー・エリクサー・オヴ・ライフ(19レベル)2つとモデレート・エリクサー・オヴ・ライフ(9レベル)2つ、あるいはコンプリヘンション・エリクサー(7レベル)8つなどを作成できる。</p>\n<p><strong>起動—本質変容</strong> 1時間 (操作)</p>\n<hr />\n<p><strong>効果</strong>あなたはクリーチャーのかなりの部分(元の質量の少なくとも3分の2)を取り、抽出器の機構を通して濾過する。プロセスの終了後、<em>賢者の抽出器</em>は、飲用者にそのクリーチャーの本質を付与する変容ミュータジェンを作成する。十分な質量が一度に提供されれば、抽出器は同じ起動を使用して複数の変容ミュータジェンを同時に作成でき、最大で10個のミュータジェンを同時に作成できる。変容ミュータジェンを飲むと、1時間の間、そのクリーチャーのユニークな能力の1つがあなたに付与される。これにより、ドラゴンのブレス、暗視、飛行、恐るべき威圧、あるいは睡眠に対する完全耐性といった、いくつかの能力のいずれかが付与される可能性がある。その能力は元のクリーチャーの場合と同様に機能するが、クリーチャーのDCの代わりに、あなたのクラスDCまたは呪文DC(いずれか高い方)を使用する。このミュータジェンはクリーチャーの生理機能に基づく能力のみを付与し、生得呪文や呪文発動能力のような魔法に関連する能力を決して付与しない。変容ミュータジェンがどの能力を付与するかは、最終的にGMが決定する。</p>\n<p>ミュータジェンやポリモーフ効果としては通常と異なり、あなたは複数の変容ミュータジェンを飲むことができ、それぞれから恩恵を得られる。異なるクリーチャーから作成された変容ミュータジェンを飲む場合、あなたは各クリーチャーの能力を得る。トロールから作成された複数のミュータジェンのように、同じ種類のクリーチャーから作成された複数の変容ミュータジェンを飲む場合、あなたは飲む変容ミュータジェンごとに能力を1つ追加で得て、そのクリーチャーの種類の能力の持続時間が、追加で飲む調合品1つにつき1時間増加する。</p>\n<p>しかし、これらの追加の恩恵にはリスクが伴う。もしあなたが少なくとも他の1つが有効な状態で変容ミュータジェンを飲んだ場合、それを飲んだ後、あなたは消費した有効な変容ミュータジェンの合計数に等しいDCで、フラットな判定に成功しなければならない。失敗した場合、あなたは最後に飲んだ変容ミュータジェンの種のメンバーへと完全に変身し、その変化によってほぼ確実に狂乱状態になる。GMの判断により、変身してもあなたの人格や記憶がある程度残る場合がある。</p>\n<p><strong>破壊</strong> <em>賢者の抽出器</em>に、それぞれ少なくとも14レベルのイーオン、エンジェル、アルコン、アザータ、ダイモン、デーモン、デヴィル、プロティアン、サイコポンプのかなりの部分を、賢者の石とともに同時に投入すると、装置が詰まり、過熱し、爆発する。爆発の60フィート以内にいるクリーチャーは、@Check[reflex|dc:55]セーヴに成功しなければならず、失敗すると錬金術の泥状物質に覆われ、その機械を破壊するために使用されたクリーチャーのうち少なくとも2体の恐ろしい融合体へと変身してしまう。</p>"
     },
     "Falconsight Eye": {
-      "name": "フォルカンサイト・アイ/Falconsight Eye",
+      "name": "ファルコンサイト・アイ/Falconsight Eye",
       "description": "<p>この義眼は猛禽類のそれに似ている。@UUID[Compendium.pf2e.equipment-srd.Item.20LwBpDPRaLv0dGt]{マジカル・プロスゼティック・アイ}の能力に加え、これはより遠い距離の敵を、印象的な精度でストライクすることを可能にする。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (精神集中)</p>\n<p><strong>使用制限</strong> 1時間に1回</p><hr /><p><strong>効果</strong>あなたは敵、たとえ手が届かないように見える敵であっても、鋭く認識するようになる。1分の間、あなたはフリー・アクションとして目を閉じ、自分が装備している遠隔武器を通して見ることができる。これにより、武器の第2射程単位への射撃に対するペナルティが-2から0に減少する。この効果は@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態を無効化しない。</p>"
     },
     "Cloister Robe (Major)": {
@@ -13274,7 +13274,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (manipulate)</p><hr /><p>フューリー・カクテルは、ラム酒とミキサーで風味付けされた、滋養強壮効果のあるジンジャービアである。錬金術飲料を専門とする人気のあるミードホールでのバーバリアンをテーマにしたフェスティバルが起源であると噂されている。</p>\n<p><strong>利益</strong>あなたは近接攻撃ロールに+4のアイテム・ボーナスを得る。さらに、この醸造酒が作成された際に選択された添加に応じて追加効果を得る。これらの効果は1時間持続する。</p><ul><li><strong>獣性</strong>レモン果汁と粉末状の爪や鉤爪がカクテルに加えられる。あなたは、1d6の刺突ダメージを与える顎攻撃か、アジャイルの特性を持ち1d4の斬撃ダメージを与える鉤爪攻撃のいずれかを選択し、その剛腕グループの素手攻撃を得る。</li><li><strong>ダブル</strong>このカクテルは単により強力で、生姜とラム酒がより多く含まれている。あなたは物理ダメージに対する耐性5を得る。</li><li><strong>哀愁</strong>数枚の花びらが飲み物に力強い香りを加える。あなたは虚無ダメージに対する耐性10を得る。もしあなたがヴォイド・ヒーリング能力を持っているなら、代わりに生命ダメージに対する耐性10を得る。</li><li><strong>懐疑</strong>ビターズをひと振りすることで、飲み物に複雑な風味を与える。あなたは魔法に対するセーヴに+3のアイテム・ボーナスを得る。</li><li><strong>タイタニック</strong>ゆず果汁と粉末状の巨人の髪がこのカクテルに加えられる。あなたが中型以下である場合、以下の効果を得る：あなたは大型になり、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}状態となり、リーチが5フィート増加する(もし元が超小型であれば、10フィート増加する)。</li><li><strong>ワームハイド</strong>ザクロ果汁と元素の試薬がカクテルに加えられる。あなたは酸、冷気、電撃、火炎、および毒ダメージに対する耐性10を得る。</li></ul><p><strong>欠点</strong>あなたはACに–1のペナルティを受け、反応セーヴに–2のペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.6lzmzeWRo6mv6g2C]{効果: フューリー・カクテル(上級)}</p>"
     },
     "Heavy Barding (Large)": {
-      "name": "ヘヴィ・バーディング（ラージ）/Heavy Barding (Large)"
+      "name": "ヘビー・バーディング（ラージ）/Heavy Barding (Large)"
     },
     "Starknife": {
       "name": "スターナイフ/Starknife",
@@ -13366,7 +13366,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (manipulate)</p><hr /><p>ヴァイアの至福は、高級ワインのような見た目と味を持つ毒である。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:43]</p>\n<p><strong>最大持続時間</strong> 24時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1ラウンド)</p>\n<p><strong>第2段階</strong>油断状態、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}、および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2} (1ラウンド)</p>\n<p><strong>第3段階</strong>油断状態、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}、および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 3} (1ラウンド)</p>\n<p><strong>第4段階</strong>不器用状態㛞2、朦朧状態㛞3、および@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶} (8時間)</p>"
     },
     "Eye of the Moonwarden": {
-      "name": "アイ・オブ・ザ・ムーンウォードゥン/Eye of the Moonwarden",
+      "name": "アイ・オブ・ザ・ムーンウォーデン/Eye of the Moonwarden",
       "description": "<p>ライルーン＝クアのシャーマンが製作したこのビーズ付きペンダントには、危険を着用者に警告するカットされていないムーンストーンがはめ込まれている。敵対的なクリーチャーがあなたから30フィート以内に近づくと、その石はあなたにしか見えない月光で輝く。</p>\n<p><strong>起動—月光の照光</strong> <span class=\"action-glyph\">1</span> (concentrate)</p>\n<p><strong>使用制限</strong> 1時間に1回</p><hr /><p><strong>効果</strong>宝石から明るい月光が@Template[type:emanation|distance:30]に放たれ、範囲内の敵対的なクリーチャーは@Check[fortitude|dc:26]セーヴを行わなければならず、失敗すると1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となる。</p>"
     },
     "Missive Mint": {
@@ -13796,7 +13796,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (manipulate)</p><hr /><p>ヴァニシング・ショッカーは、各角に突き出したスパイクがある立方体である。この不可解な装置は、それが生成する電撃を通じてオカルトのエネルギーを導き、不可視の照明という結果を生み出す。起動すると、その立方体はあなたの頭上に浮かび、@Template[type:emanation|distance:10]に不可視の電撃の野原を作り出し、それが1ラウンド持続する。あなたと放射範囲内のクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}となる。そのエリア内に進入するか、そのエリア内でターンを開始するクリーチャーは、@Check[reflex|dc:27]セーヴを行わなければならない。</p><hr /><p><strong>成功</strong>対象は影響を受けない。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる(1ラウンド)。</p>\n<p><strong>クリティカル失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}となり、off-guardとなる(1ラウンド)。</p>"
     },
     "Traveler's Any-Tool": {
-      "name": "トラベラーズ・エニートゥール/Traveler's Any-Tool",
+      "name": "トラベラーズ・エニーツール/Traveler's Any-Tool",
       "description": "<p>起動する前、このアイテムは両端に鋼鉄のキャップが被せられたトネリコの杖のように見える。</p>\n<p><strong>起動—タップ</strong> <span class=\"action-glyph\">2</span> (concentrate, manipulate)</p>\n<hr />\n<p><strong>効果</strong>あなたは特定の単純な道具を想像し、エニィ・ツールはその道具に変身する。(通常、あなたは『Player Core』の道具にリストされている道具から選択できる)。これらにより、木の部分はあらゆる柄に変身し、金属のキャップはシャベル、ハンマーの頭、または同様のものに変身し、ほとんどの基本的な道具を可能にするが、それより複雑なものは不可能である。あなたは〈扱う〉アクションでそのアイテムを杖の形態に戻すことができる。</p>"
     },
     "Deployable Cover": {
@@ -14373,7 +14373,7 @@
       "description": "<p>この特殊な@UUID[Compendium.pf2e.equipment-srd.Item.hcoBRMF0zIA986Of]{レイザー・ディスク}は、元々ハイヘルムの兵士が使用するためにモルグレード氏族のメンバーによって設計されたものである。内蔵された刃にはルーンが刻まれており、<em>+3メジャー・ストライキング・ウェポン</em>となっている。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">R</span>精神集中</p>\n<p><strong>トリガー</strong>あなたがその盾の内蔵された刃でクリティカルヒットした</p>\n<hr />\n<p><strong>効果</strong>その盾の刃が伸び、敵に突き刺さる。そのクリーチャーは盾のスパイクに突き刺さることで@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となる。このようにクリーチャーを掴んでいる間、あなたはシールドを掲げることができないが、そのクリーチャーはダメージ・ダイスの数に等しい量の持続的な出血ダメージをラウンドごとに受ける。この持続的な出血は、そのクリーチャーが盾に突き刺さっている限り終了しない。あなたは盾を〈手放す〉ことで、それをクリーチャーに埋め込んだままにすることができる。これにより掴みは終了するが、持続的な出血ダメージは終了しない。そのクリーチャーは、@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行うための判定を試みることで、盾を取り除き、掴みを終了させることができる。これは通常、あなたの《運動》のDCを使用して〈エスケープ〉を行うが、もしあなたがもはや盾を保持していない場合、その〈エスケープ〉のDCは43となる。</p>"
     },
     "Sparkwarden": {
-      "name": "スパークウォードゥン/Sparkwarden",
+      "name": "スパークウォーデン/Sparkwarden",
       "description": "<p>この<em>@UUID[Compendium.pf2e.equipment-srd.Item.vx5bG5YNeC78u49n]{ウォーディング・タットゥー}</em>の幾何学的なデザインは、あなたの腕の長さにまで伸び、鎧の袖のように見える。あなたが興奮している時や新しい何かを建造している時、その深紅のインクは温かい石炭のように柔らかく輝くことがある。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">r</span>精神集中</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>敵、ハザード、または環境があなたのACに対して攻撃を行う、あなたにセーヴィング・スロウを試みることを要求する、あるいはあなたに自動的にダメージを与える</p>\n<hr />\n<p><strong>効果</strong>現在のターンの終了時まで、そのトリガーとなった効果に対して、あなたはACとセーヴィング・スローに+1のステータス・ボーナスを得て、ダメージに対して2の耐性を得る。</p>",
       "gmnote": "<p><strong>側面</strong>鍛冶場、影</p>\n<p><strong>絆の形成</strong>トゥオム・モルグレードを打ち倒し、クラン・モルグレードの祝福を受けて彼女のタトゥー・ガーディアンと親しくなる。</p>\n<p><strong>絆の発展</strong>名声を得るような並外れた品々を創造する。多大な個人的リスクを冒してでも、罪なき者たちとあなたの仲間を保護する。</p>\n<p><strong>下位の贈り物</strong> @UUID[Compendium.pf2e.adventure-specific-actions.Item.bweyCSaXUjmcSTAO]{Creative Spark}、@UUID[Compendium.pf2e.adventure-specific-actions.Item.hi80qyUsXbaq2Wf4]{Obscure}、@UUID[Compendium.pf2e.adventure-specific-actions.Item.LuUOQ5HvoFK9xUs4]{シャドウ・スミス}</p>\n<p><strong>上位の贈り物</strong> @UUID[Compendium.pf2e.adventure-specific-actions.Item.y6qvt8ac3fF4snwU]{ダンシング シャドウ}、@UUID[Compendium.pf2e.adventure-specific-actions.Item.URZRO1ROM9VOS1nN]{クリエイションの元素}。ダンシング・シャドウのストライクは、レリックの呪文攻撃修正値を使用する。</p>"
     },
@@ -14397,7 +14397,7 @@
       "description": "<p>演劇を宣伝するために制作された<em>幻影のプログラム</em>は、小さな魔法が吹き込まれた薄いパンフレットである。これらのパンフレットの1つを開くと、読者は各ページに立ち上がる一連の小さな幻影を楽しむことができ、通常は公演のハイライトやキャストのプロフィールが紹介される。各ページに織り込まれた魔法は安価で短命な種類のものであり、プログラムが開かれてから24時間で消えてしまう。</p>"
     },
     "Silversoul Bomb": {
-      "name": "シルヴァーソウル・ボム/Silversoul Bomb",
+      "name": "シルバーソウル・ボム/Silversoul Bomb",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>この希少な錬金術の爆弾は、愛する先祖たちが何世代にもわたって埋葬されてきた墓地に漂う感情を集めて凝縮し、その強力な感情エネルギーを爆弾の中に蓄えられた錬金術的に調合された銀の粉末に注入する。このエネルギーは柔らかな銀色の輝きを放ち、透明な容器に保管されていれば、シルヴァーソウル・ボムをエリアを照らす松明として使用することができる。</p>\n<p>あなたは攻撃ロールに+1のアイテム・ボーナスを得る。この爆弾は2d4の精神ダメージ、ニンドールに対して1d6の持続的な精神ダメージ、そして2の精神スプラッシュ・ダメージを与える。この爆弾からスプラッシュ・ダメージを受け、かつ@Check[fortitude|dc:17]セーヴに失敗したクリーチャーは、輝く銀の粒子が顔に付着するため、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態に1ラウンドなる。</p>\n<p>ニンドールはシルヴァーソウル・ボムによって特に大きな害を受け、1d6の持続的な精神ダメージを受ける。ニンドールに対しては、この爆弾のアイテム・ボーナスは、幻惑状態や盲目状態になることに抵抗するためのセーヴのDCにも適用される。銀に対する弱点を持つクリーチャー(ほとんどのニンドールを含む)は、内部のエネルギーに注入された銀のために、シルヴァーソウル・ボムによって引き起こされる精神ダメージに対して同量の弱点を持つ。</p>"
     },
     "Smoldering Armor": {
@@ -15238,7 +15238,7 @@
       "description": "<p>この白いベストには、決して消すことのできない大きな深紅の血痕がある。作成者の腕の中で失血死した仲間の苦悩が染み込んでいるこの血染めのウェストコートは、あなたやあなたの仲間の兵士が同じ運命をたどるのを防ぐ助けとなる。持続的な出血ダメージを除去するためのあなたのフラット判定は、DC 15の代わりにDC 10となる。他のクリーチャーが助けるために特に適切なアクションを使用した場合は、さらにDC 5に減少する。</p><hr /><p><strong>起動—出血を止める</strong> <span class=\"action-glyph\">1</span> (操作)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたが味方の代わりに血を流すと、血染めのウェストコートの染みがわずかに大きくなる。このウェストコートは30フィート以内の味方1人の持続的な出血状態を終了させるが、あなたはその状態を同じパラメータで得る。</p><hr /><p><em>PFS注：このアイテムによるDCの変更は、着用者にとって有益か有害かを問わず、フラット・チェックに対する他のあらゆる変更を上書きする。</em></p>"
     },
     "Dread Blindfold": {
-      "name": "ドレッド・ブリンドフォルド/Dread Blindfold",
+      "name": "ドレッド・ブラインドフォールド/Dread Blindfold",
       "description": "<p>目に巻きつけると、このぼろぼろの黒い麻の帯は、あなたに《威圧》判定への+3のアイテム・ボーナスと暗視を与える。あなたは目隠し越しに見ることができるが、暗視を使用する場合のみである。</p>\n<p>あるクリーチャーが1日に初めてあなたを見たとき、そのクリーチャーは@Check[will|dc:37]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態となる。これは感情、恐怖、精神の効果であり、あなたの味方は約1週間後にこれに対して免疫となる。</p>\n<hr />\n<p><strong>起動—恐怖の幻視</strong> <span class=\"action-glyph\">F</span> (精神集中)</p>\n<p><strong>使用制限</strong> 　1分に1回</p>\n<p><strong>トリガー</strong>あなたが〈ストライク〉でクリーチャーにダメージを与える</p>\n<hr />\n<p><strong>効果</strong>あなたの対象は強烈な恐怖に捕らわれる。これはDC 37の<em>vision of death</em>呪文の効果を持つ。その後、そのクリーチャーは24時間の間、一時的な免疫となる。</p>"
     },
     "Elven Chain (Standard-Grade)": {
@@ -16030,7 +16030,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">A</span> (manipulate)</p><hr /><p>生命のエリクサーは、生きているクリーチャーの自然治癒プロセスと免疫システムを加速させる。このエリクサーを飲むと、あなたは@Damage[(10d6+27)[healing]]ヒット・ポイントを回復し、病気や毒に対するセーヴィング・スローに+4のアイテム・ボーナスを10分の間得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{効果: 生命のエリクサー}</p>"
     },
     "Flashblade": {
-      "name": "フラッシュブレイド/Flashblade",
+      "name": "フラッシュブレード/Flashblade",
       "description": "<p>稲妻が刻まれた柄に取り付けられた、滑らかで信じられないほど軽量な刃が、この<em>+1ストライキング・ノダチ</em>を構成している。</p>\n<p><strong>起動—閃光の準備</strong> <span class=\"action-glyph\">2</span> (concentrate)</p>\n<p><strong>使用制限</strong> 10分に1回</p><hr /><p><strong>効果</strong> あなたは周囲に完全に集中し、フラッシュブレードの魔法を吸い込むことで、自分自身をより軽く、より速くし、剣の刃をより柔軟にする。あなたは近接の〈ストライク〉を〈構える〉。その〈ストライク〉の間、フラッシュブレードのリーチは15フィートに増加する。トリガーが発生しなかった場合、これはフラッシュブレードの頻度を消費しない。</p>"
     },
     "Lady's Blessing Oil": {
@@ -16282,11 +16282,11 @@
       "description": "<p>この頑丈な棒は、一端に輪になったロープが取り付けられており、もう一端はハンドルまで伸びている。あなたはロープのハンドル側を引くことで輪を締められる。この輪を使用することで、あなたは空いた手を持たずに@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を行える。この方法で掴まれたクリーチャーは、素手攻撃でストライクを行う際の攻撃ロールに-2の状況ペナルティを受ける。輪のサイズの制限により、キャッチ・ポールは中型以下のサイズのクリーチャーに対してのみ使用できる。</p>\n<p>ジャイアント・キャッチ・ポールは、より太い鋼鉄とより重いロープで作られている。これはキャッチ・ポールと同じように機能するが、あなたの通常のサイズ制限までのクリーチャーに対して〈組み付き〉を行うために使用できる。しかし、この道具は非常に扱いにくいため、あなたはそれを装備している間、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}状態となる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.BJLvQd1xCagDFxwy]{効果: Catch Pole}</p>"
     },
     "Dawnsilver Tree": {
-      "name": "ドーンシルヴァー・ツリー/Dawnsilver Tree",
+      "name": "ドーンシルバー・ツリー/Dawnsilver Tree",
       "description": "<p>ドーンシルバーでも木でもないこの長銃は、ジニンのエルフの伝説からその名を取っており、その国の中で最も一般的に見られる。優雅な武器であるミスラルツリーは、いくぶん木に似ている。その扇状の銃床と金属の輪で補強された長く湾曲した銃身により、使い手は安全な射程距離へ戻りながら近接攻撃をパリィできる。</p>"
     },
     "Starless Scope Lens": {
-      "name": "スタルレス・スコープ・レンズ/Starless Scope Lens",
+      "name": "スターレス・スコープ・レンズ/Starless Scope Lens",
       "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.TYdFnzhhTlpUdtty]{スタルレス・スコウプ}用の交換レンズ。もしあなたが<em>スターレス・スコープ</em>の公式を知っているなら、あなたは@Check[crafting|dc:25](熟練)の判定を行って新しいレンズを〈製作する〉ことができる。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> 〈扱う〉 (manipulate); あなたは<em>スターレス・スコープ</em>の壊れたレンズを、損傷していないものと交換できる。</p>"
     },
     "Wand of Shrouded Step": {
@@ -16384,7 +16384,7 @@
       "description": "<p>このズルガス製の水っぽいミントグリーンの催吐剤は、繊細な黒曜石の小瓶やその他の壊れやすい容器に入れて持ち運ばれることが多い。</p>\n<p>クリーチャーが別のクリーチャーに「丸呑み」されたという不幸な状況において、飲み込まれたクリーチャーはグリーンガットの小瓶を割って、即座に嘔吐を誘発させることができる。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">A</span> 〈扱う〉</p>\n<p>飲み込んだクリーチャーは@Check[fortitude|dc:40]セーヴに成功しなければならず、失敗すると@Damage[18d6[poison]]ダメージを受け、胃の中身を吐き出す可能性がある。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるし、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となり、次のターンに「丸呑み」していたあらゆるクリーチャー(1アクション。このアクションにより、sickened状態に対する頑健セーヴも行える)と、飲み込んでいた石やその他の物体をすべて吐き出す。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、そのクリーチャーは2倍のダメージを受けるし、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる。</p>"
     },
     "Silverscrap Bomb (Lesser)": {
-      "name": "シルヴァースクラップ・ボム（レッサー）/Silverscrap Bomb (Lesser)",
+      "name": "シルバースクラップ・ボム（レッサー）/Silverscrap Bomb (Lesser)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>シルバー・スクラップ・ボムは、衝撃で爆発し、周囲のあらゆるものを切り裂く銀の破片のコンパクトな塊である。この爆弾は攻撃ロールに+1のアイテム・ボーナスを与え、2d4の刺突ダメージと2の刺突スプラッシュ・ダメージを与える。この爆弾によるすべてのダメージは、弱点、耐性、その他同様の目的において銀として扱われる。</p>"
     },
     "Flying Blade Wheel Snare": {
@@ -16556,7 +16556,7 @@
       "description": "<p><strong>矢弾</strong>ラウンド</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span>(操作)</p><hr /><p>ライフ・ショットは、少量の生命の霊薬を運ぶ特殊なカートリッジである。起動されたライフ・ショットで攻撃を受けたクリーチャーは、その成功した攻撃からダメージを受けず、代わりに@Damage[(8d4+11)[healing]]回復し、病気と毒に対するセーヴィング・スローに+3のアイテム・ボーナスを1分の間得る。クリティカルヒットの場合、受けた回復量を2回ロールし、良い方の結果を採用する(これは幸運効果である)。この攻撃を受けることを望む対象は、それに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.GPWMktaOERQIx83M]{効果: ライフ・ショット}</p>"
     },
     "Silversoul Bomb (Major)": {
-      "name": "シルヴァーソウル・ボム（メジャー）/Silversoul Bomb (Major)",
+      "name": "シルバーソウル・ボム（メジャー）/Silversoul Bomb (Major)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>この希少な錬金術爆弾は、愛する先祖たちが何世代にもわたって埋葬されてきた墓地に漂う感情を集めて凝縮し、その強力な感情エネルギーを爆弾の中に蓄えられた錬金術的に調合された銀の粉末に注入する。このエネルギーは柔らかな銀色の輝きを放ち、透明な容器に保管されていれば、シルバーソウル・ボムを周囲を照らす松明として使用できる。</p>\n<p>あなたは攻撃ロールに+3のアイテム・ボーナスを得る。この爆弾は4d4の精神ダメージ、ニンドルに対して3d6の持続する精神ダメージ、そして4の精神の飛散ダメージを与える。この爆弾から飛散ダメージを受けたクリーチャーは、@Check[fortitude|dc:37]セーヴに失敗しない限り、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}となる。失敗した場合、そのクリーチャーは永続的に@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となる。</p>\n<p>ニンドルはシルバーソウル・ボムによって特に大きな被害を受け、3d6の持続する精神ダメージを受ける。ニンドルに対しては、この爆弾のアイテム・ボーナスが、幻惑状態や盲目状態になることを抵抗するためのセーヴのDCにも適用される。銀に対する弱点を持つクリーチャー(ほとんどのニンドルを含む)は、シルバーソウル・ボムによって引き起こされる精神ダメージに対しても同量の弱点を持つ。これは、エネルギー内に注入された銀によるものである。</p>"
     },
     "Alabaster idol": {
@@ -16595,7 +16595,7 @@
       "description": "<p>ダスクウッドは、主にアヴィスタン南中央部の原生林で見られる非常に軽量な木材である。黒檀のように暗いが、わずかに紫がかった色合いをしている。ダスクウッドアイテムのバルクは1減少する(通常のバルクが1の場合は軽量バルクになり、通常軽量バルクのアイテムには効果がない)。ダスクウッド製のアイテムの価格は、そのアイテムの通常のバルクに基づいて決定される(ダスクウッド製であることによる減少後のバルクではない)。ただし、アイテムのサイズ調整によるさらなるバルク調整を行う前に、そのバルクを減少させること。</p>\n<h2>ダスクウッド製アイテム</h2>\n<table class=\"pf2e remaster\">\n<thead>\n<tr>\n<th>ダスクウッド製アイテム</th>\n<th>硬度</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>薄いアイテム</strong></td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>標準グレード</td>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n<tr>\n<td>高グレード</td>\n<td>8</td>\n<td>32</td>\n<td>16</td>\n</tr>\n<tr>\n<td><strong>アイテム</strong></td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>標準グレード</td>\n<td>7</td>\n<td>28</td>\n<td>14</td>\n</tr>\n<tr>\n<td>高グレード</td>\n<td>10</td>\n<td>40</td>\n<td>20</td>\n</tr>\n<tr>\n<td><strong>構造物</strong></td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>標準グレード</td>\n<td>14</td>\n<td>56</td>\n<td>28</td>\n</tr>\n<tr>\n<td>高グレード</td>\n<td>20</td>\n<td>80</td>\n<td>40</td>\n</tr>\n</tbody>\n</table>"
     },
     "Trollhound Pick": {
-      "name": "トゥロールハウンド・ピック/Trollhound Pick",
+      "name": "トロールハウンド・ピック/Trollhound Pick",
       "description": "<p>この<em>+1 ストライキング・グレートピック</em>は、トロールハウンドの牙が埋め込まれた頭部を持つ。</p><hr /><p><strong>起動—貪欲なる〈ストライク〉</strong> <span class=\"action-glyph\">2</span> (魔法、操作)</p>\n<p><strong>効果</strong> あなたは<em>トロールハウンド・ピック</em>で〈ストライク〉を行い、トロールハウンドの伝説的な食欲の一部を対象に移す。この攻撃でダメージを受けるを受けた生きた敵は、@Check[will|dc:19]セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong> そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong> そのクリーチャーは空腹感に襲われ、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる(1ラウンド間)。</p>\n<p><strong>失敗</strong> そのクリーチャーは激しい空腹を覚え、無防備状態となる(1ラウンド間)とともに、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態となる(1分間)。もしそのクリーチャーが何らかの食物や飲み物を摂取した場合(ポーションを飲むことを含む)、その脆弱状態は終了する。</p>\n<p><strong>クリティカル失敗</strong> 失敗と同様だが、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}状態となり、食物や飲み物を摂取するたびにそのペナルティが1減少する。</p><hr /><p><strong>〈製作する〉 必要条件</strong> 最初の原材料には、トロールハウンドの歯と舌が含まれていなければならない。</p>"
     },
     "Eroding Bullet": {
@@ -16677,7 +16677,7 @@
       "description": "<p>アブレイティブ・アーマー・プレイティングは、追加の装甲板にバネ、巧妙なクロックワーク、即席の詰め物を組み合わせたものであり、追加の部品を脱落させることでダメージを吸収する。部品は時間と移動に伴い、自然とゆっくりと外れていく。この装甲板を取り付ける過程には10分かかり、防具の着用者に1時間の間、あるいは失われるまで、40一時的ヒット・ポイントを与える。装甲板を早期に取り外すと、それは破壊される。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.yt8meGTS7wLa6Fg2]{効果: アブレイティブ・鎧・プレイティング(真)}</p>"
     },
     "Grudgestone (Greater)": {
-      "name": "グラッジストウン（グレーター）/Grudgestone (Greater)",
+      "name": "グラッジストーン（グレーター）/Grudgestone (Greater)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">f</span> (concentrate)</p>\n<p><strong>トリガー</strong>クリーチャーがあなたにクリティカル・ヒットを与える。</p><hr /><p>この鈍い黒色の小石は、接触すると不吉なほど冷たく、その大きさの割に奇妙なほど重く、通常はグリップに巻き付けた布切れの中に固定された武器に結び付けられている。あなたが<em>グラッジストーン</em>を起動すると、トリガーとなったクリーチャーに対するその固定された武器でのストライクは、1分の間、または対象が死亡するまでのいずれか早い方まで、ダメージ・ロールに+5のステータス・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.Hq1FthmyHvDDuESp]{効果: グラッジストーン}</p>"
     },
     "Double-Barreled Musket": {
@@ -17111,7 +17111,7 @@
       "description": "<p>この重厚な+1ストライキング・カカラは、堅牢な鋼鉄から鋳造され、黄鉄鉱でメッキされている。にやりと笑う偶像の形をした金属製の魔除けが、その大きなアーチ状の輪を飾っており、戦闘中、黄鉄鉱から小さな炎の触手が飛び散るにつれて、これらのぶら下がった人形は戦いの衝突や喧騒に合わせておしゃべりしているように見える。</p>\n<p>あなたが自分のターン中に移動アクションを完了するたびに、移動終了時にあなたに隣接しているクリーチャーを1体選ぶ。あなたのターンの終了まで、そのクリーチャーはあなたの心術呪文および幻術呪文に対する意志セーヴに-1の状況ペナルティを受ける。あなたが心術呪文や幻術呪文を発動するたび、そのターンの残り時間中、あなたは移動アクションの間、@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.mQJk8R0vHzvpTz0e]{効果: 愚行のおしゃべり屋}</p>"
     },
     "Motion-Seeking Lenses": {
-      "name": "モウションシーキング・レンジズ/Motion-Seeking Lenses",
+      "name": "モーションシーキング・レンジズ/Motion-Seeking Lenses",
       "description": "<p>あなたがこれらの緑がかった眼鏡を着用している間、周囲のあらゆる動きが飛び込んでくるように見える。あなたは、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}または@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}を行うための《隠密》判定に対するあなたの《知覚》DCに+1のアイテム・ボーナスを得る。また、〈忍び歩き〉を試みる者は誰であれ、あなたの《知覚》DCに対して、遮蔽による状況ボーナスの恩恵を得られない。</p>\n<p><strong>起動—隠れているを探す</strong> <span class=\"action-glyph\">1</span> (探知、操作)</p><hr /><p>あなたは@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}誰かを探す際、眼鏡のレンズをひねる。あなたは+1のアイテム・ボーナスを得て@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}を行う。もし隠れているクリーチャーや物体を見つけたなら、あなたはフリー・アクションとして〈指し示す〉ことができる。</p>"
     },
     "Flaming (Greater)": {
@@ -17207,7 +17207,7 @@
       "description": "<p>このクロークは、肉を渇望し、このクロークの着用者を守ろうと躍起になっている、千枚の生きた葉から織られているようだ。</p>\n<p><strong>起動—噛みつき返し</strong> <span class=\"action-glyph\">r</span> (精神集中)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたが隣接するクリーチャーからの近接攻撃によってダメージを受けた。</p><hr /><p><strong>効果</strong>葉が攻撃者に向かって激しく打ち付け、邪悪な棘でできた噛みつく顎を現す。トリガーとなったクリーチャーは@Check[reflex|dc:17|options:damaging-effect]セーヴィング・スロウを行わなければならない。</p>\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは@Damage[1d4[piercing]]ダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@Damage[2d4[piercing],1[bleed]]ダメージを受ける。</p>"
     },
     "Dimensional Cleavestone": {
-      "name": "ディメンショナル・クリーブストウン/Dimensional Cleavestone",
+      "name": "ディメンショナル・クリーブストーン/Dimensional Cleavestone",
       "description": "<p>この不規則な黒曜石の塊の縁はきらめいているようだ。<em>ディメンジョナル・クリーヴストーン</em>の効果下にある武器を手にしている間、あなたは1分「ティア・リフト」アクションを得る。</p>\n<p><strong>ティア・リフト</strong> <span class=\"action-glyph\">2</span> (魔法、操作、テレポーテーション)</p><hr /><p>あなたは隣接する1つの広場に空間の裂け目を作り出し、あなたの裂け目と接続するために30フィート以内の別の広場を選択する。両方の場所に目に見える切り傷が現れ、反対側の景色が映し出される。</p>\n<p>あなたの次のターンの終了時まで、これら2つの広場は互いに隣接しているものとして扱われる。例えば、クリーチャーは〈ストライド〉したり、裂け目を通って反対側に押しやられたりすることができ、一方の裂け目に隣接するクリーチャーは、もう一方の裂け目に隣接するクリーチャーに対して〈ストライク〉を行うことができる。</p>\n<p>ティア・リフトを行う際、あなたはそのアクティビティの一部として、裂け目を通って〈ステップ〉することを選択できる。裂け目はクリーチャーや物体を自動的に引き込むことはない。なぜなら、それらは広場内のわずかな空間しか占有しておらず、裂け目と同じ広場にいるクリーチャーは、隣接関係の決定以外には影響を受けないからである。一度にアクティブにできる裂け目は1つだけである。</p>"
     },
     "Vexing Vapor (Major)": {
@@ -17391,7 +17391,7 @@
       "description": "<p>この指輪には、少量の毒を保持することを目的とした、ベゼルの下に隠し場所がある。あなたはこの指輪の真の目的を、成功した@Check[perception|dc:20] 判定によって見抜くことができる。指輪を着用している間にこの隠し場所を見つけることはより困難であり、通常は指輪を着用している人物の《隠密》のDCに対して成功した《知覚》 判定を必要とする。あなたは武器に毒を塗るのと同じ方法を用いて、指輪の中に毒を仕込む。あなたは空いている手があれば、〈扱う〉アクションを使用して指輪の毒を放出するか、摂取することができる。指輪の隠し場所はほとんどの毒の有効量を保持するのに十分な大きさだが、ポーションや魔法のオイルを含む、他の液体のかなりの量を保持するには小さすぎる。</p>"
     },
     "Shatterstone": {
-      "name": "シャターストウン/Shatterstone",
+      "name": "シャターストーン/Shatterstone",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>シャッターストーンは小さな陶器製の球体である。内部には、石が割れた際に強烈な音波振動の場を作り出す反応剤が入っている。この爆弾は攻撃ロールに+2のアイテム・ボーナスを与え、3d6の音波ダメージと3の音波スプラッシュ・ダメージを与える。音の大部分は超音波であり、音波に対する弱点を持つクリーチャーがこの爆弾からダメージを受けた場合、そのクリーチャーは@Check[fortitude|dc:30]セーヴィング・スローに成功しなければならず、失敗すると次の自身のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態となる。</p>"
     },
     "Black Adder Venom": {
@@ -17504,7 +17504,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">A</span> 〈ストライク〉</p>\n<hr />\n<p>この腐食性の酸で満たされたフラスコは、1の酸ダメージ、2d6の持続的な酸ダメージ、そして2の酸スプラッシュ・ダメージを与える。あなたは攻撃ロールに+1のアイテム・ボーナスを得る。</p>"
     },
     "Grudgestone": {
-      "name": "グラッジストウン/Grudgestone",
+      "name": "グラッジストーン/Grudgestone",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">f</span> (concentrate)</p>\n<p><strong>トリガー</strong>クリーチャーがあなたに対してクリティカル・ヒットした。</p><hr /><p>この鈍い黒色の小石は、　接触すると不吉なほど冷たく、その大きさの割に奇妙なほど重く、通常はグリップに巻き付けられた布切れの中に固定された武器に結び付けられている。あなたが起動して<em>グラッジストーン</em>を使用すると、トリガーとなったクリーチャーに対する、その固定された武器を用いたストライクは、1分の間、あるいは対象が死亡するまでのいずれか早い方まで、ダメージ・ロールに+3のステータス・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.Hq1FthmyHvDDuESp]{効果: Grudgestone}</p>"
     },
     "Resonating Fork (Major)": {
@@ -17642,7 +17642,7 @@
       "name": "シェリンが作った神聖な芸術品/Divine art piece created by Shelyn"
     },
     "Nevercold (Compressed)": {
-      "name": "ネバーコウルド（コンプレスド）/Nevercold (Compressed)",
+      "name": "ネバーコールド（コンプレスド）/Nevercold (Compressed)",
       "description": "<p><strong>起動</strong> 〈呪文の発動〉</p><hr /><p>ネヴァーコールド(時折誤ってネヴァーコールと呼ばれる)は、第一世界で山火事の後に残る木炭である。その名の通り、ネヴァーコールドは　接触しても温かいままである。あなたがネヴァーコールドを使用して@UUID[Compendium.pf2e.spells-srd.Item.YrzBLPLd3r9m6t1p]{ファイアー・シールド}を発動した場合、その呪文の持続時間は5分に増加し、それによってあなたが得る冷気への抵抗は1時間持続し、あなたは8時間の間、軽度および重度の冷気に対して免疫となる。</p>\n<p>この触媒は6レベル以下の<em>fire shield</em>に影響し、軽度および重度の冷気に対する完全耐性は24時間持続する。</p>"
     },
     "Fluid Form Staff (Major)": {
@@ -17735,7 +17735,7 @@
       "description": "<p>クリーチャーがこのスネアのマスに入ると、ギザギザの鉤がついた数本の強力なワイヤーがそのクリーチャーに絡みつき、地面に引き倒す。このスネアは@Damage[2d6[piercing]]ダメージを与え、対象となったクリーチャーは@Check[reflex|showDC:all|dc:28]セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるし、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態かつ@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態に1ラウンドの間なる([[/act escape show-dc=all dc=28]])。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは2倍のダメージを受けるし、転倒するし、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態に1ラウンドの間なる(〈エスケープ〉 DC 28)。</p>"
     },
     "Dragontooth Club": {
-      "name": "ドゥラゴントゥース・クラブ/Dragontooth Club",
+      "name": "ドラゴントゥース・クラブ/Dragontooth Club",
       "description": "<p>ドラゴンの歯が、この<em>+2グレーター・ストライキング・レイオマノ</em>の縁に並んでいる。このレイオマノはまた、その歯が取られたドラゴンに応じて、フレイミング、フロスト、ショック、またはコロッシヴのルーンを有しており、それにより武器に関連するエネルギーの特性も付与される(例えば、レッドドラゴンから取った歯で作られた棍棒なら火炎の特性)。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> 〈扱う〉 (evocation, magical)</p>\n<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong>あなたはレイオマノを振り回し、エネルギーの噴流に乗せてドラゴンの歯を数本、空中に射出する。そのドラゴンの歯は、@Damage[3d6[piercing]]および武器に対応するエネルギー・タイプのダメージを3d6、@Template[cone|distance:15](@Check[reflex|dc:29|basic])の範囲に与える。歯は標的を追跡し、空中で飛行を修正するため、遮蔽によるあらゆる状況ボーナスを2減少させる。</p>\n<hr />\n<p><strong>〈製作する〉必要条件</strong>最初の未加工の素材には、酸、冷気、電撃、火炎、または毒ダメージを与えるブレス・ウェポンを持つドラゴンの歯が含まれていなければならない。</p>"
     },
     "Heartening Missive (Turtle)": {
@@ -17775,7 +17775,7 @@
       "description": "<p>この帽子は、カラフルなターバンや、つばのあるとんがり帽子など、さまざまな形状をしており、記号やルーンで飾られている。これはあなたに《秘術》判定への＋1のアイテム・ボーナスを与え、@UUID[Compendium.pf2e.spells-srd.Item.Qw3fnUlaUbnn7ipC]{プレスティディジテイション}キャントリップを、秘術の生得キャントリップとして発動できるようにする。</p>"
     },
     "Firestarter Pellets (Greater)": {
-      "name": "ファイアースターター・ペレッツ（グレーター）/Firestarter Pellets (Greater)",
+      "name": "ファイアスターター・ペレッツ（グレーター）/Firestarter Pellets (Greater)",
       "description": "<p><strong>起動</strong> 〈呪文の発動〉 (add 1アクション)</p><hr /><p>コウモリの糞、硫黄、魔法の促進剤を固めたこれらのペレットは、戦場における呪文の使い手の定番として長らく親しまれてきた。@UUID[Compendium.pf2e.spells-srd.Item.sxQZ6yqTn0czJxVd]{ファイアーボール}呪文にファイアスターター・ペレットを加えると、まとわりつく炎が生み出される。この炎は、その効果に対するセーヴィング・スロウに失敗したすべての者に@Damage[2d6[persistent,fire]]ダメージを与える(大失敗時には@Damage[4d6[persistent,fire]]ダメージ)。</p>"
     },
     "Spectral Opera Glasses": {
@@ -18138,7 +18138,7 @@
       "description": "<p><strong>使用法</strong>盾に貼り付ける</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">f</span>想像する</p>\n<p><strong>トリガー</strong>あなたはこのお札が貼り付けられた盾を用いて〈シールド・ブロック〉リアクションを使用する。</p>\n<hr />\n<p>この青銅色のインクで描かれた淡く銀色のタリスマンは光を鋭く反射し、まるで発光しているかのように見える。このお札を起動すると、それは敵の暴力を彼ら自身に跳ね返す。〈シールド・ブロック〉リアクションを誘発した敵は、あなたの盾の硬度と、彼らが〈シールド・ブロック〉リアクションの前に与えるはずだったダメージのうち、少ない方の値に等しいダメージを受ける。</p>"
     },
     "Dragonprism Staff": {
-      "name": "ドゥラゴンプリズム・スタッフ/Dragonprism Staff",
+      "name": "ドラゴンプリズム・スタッフ/Dragonprism Staff",
       "description": "<p>色とりどりの鱗の配列がドラゴンプリズム・スタッフを覆い、色のグラデーションを形成している。また、杖の頭部にはドラゴンの爪が宝石を掴んでいる。ドラゴンは敬意の印として、味方にこの杖を贈る。ドラゴンプリズム・スタッフを手に持っている間、あなたはより獰猛に見え、《威圧》判定に@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}ための+1の状況ボーナスを得る。</p>\n<p><strong>起動</strong> 〈呪文の発動〉</p><hr /><p><strong>効果</strong>あなたは杖からチャージを消費して、そのリストにある呪文を発動する。</p><ul><li><strong>キャントリップ</strong> @UUID[Compendium.pf2e.spells-srd.Item.MPxbKoR54gkYkqLO]{ガウジング・クロー}, @UUID[Compendium.pf2e.spells-srd.Item.D7ZEhTNIDWDLC2J4]{パフ・オブ・ポイズン}</li><li><strong>1</strong> @UUID[Compendium.pf2e.spells-srd.Item.y6rAdMK6EFlV6U0t]{ブレス・ファイア}, @UUID[Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D]{フィアー}</li><li><strong>2</strong> @UUID[Compendium.pf2e.spells-srd.Item.9h9YCncqah6VNsKf]{アシッド・グリップ}, @UUID[Compendium.pf2e.spells-srd.Item.Fr58LDSrbndgld9n]{レジスト・エナジー}</li><li><strong>3</strong> @UUID[Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D]{フィアー}, @UUID[Compendium.pf2e.spells-srd.Item.9AAkVUCwF6WVNNY2]{ライトニング・ボルト}</li><li><strong>4</strong> @UUID[Compendium.pf2e.spells-srd.Item.A2JfEKe6BZcTG1S8]{〈飛行〉}, @UUID[Compendium.pf2e.spells-srd.Item.Mv5L4201uk8hnAtD]{リフレクティブ・スケールズ}</li><li><strong>5</strong> @UUID[Compendium.pf2e.spells-srd.Item.xxWhyl81w3ckslAU]{ハウリング・ブリザード}, @UUID[Compendium.pf2e.spells-srd.Item.kghwmH3tQjMIhdH1]{サモン・ドラゴン}</li><li><strong>6</strong> @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{ドラゴン・フォーム}, @UUID[Compendium.pf2e.spells-srd.Item.Mv5L4201uk8hnAtD]{リフレクティブ・スケールズ}, @UUID[Compendium.pf2e.spells-srd.Item.kghwmH3tQjMIhdH1]{サモン・ドラゴン}</li></ul><hr /><p><strong>〈製作する〉必要条件</strong>リストされたすべての呪文の、リストされたすべてのランクの呪文を1回ずつ発動する。</p>"
     },
     "Obsidian Goggles (Greater)": {
@@ -18345,7 +18345,7 @@
       "description": "<p>これらのアミュレットはかつて、ルーンロードとそのお気に入りのエージェントとの間の忠誠の証として機能していた。外見は様々だが、それらはすべて共通のデザインを共有している。それは、シヘドロンとして知られる七芒星が銘刻された金属製の円盤に、革製または金属製の紐が取り付けられたものである。アースフォール以前に作成されたオリジナルの<em>シヘドロン・メダリオン</em>の場合、古のルーンロードサーシロン(ルーンロードのアーキタイプを持つキャラクターではない)は、<em>シヘドロン・メダリオン</em>を着用しているクリーチャーに対して自身が発動するいかなる@UUID[Compendium.pf2e.spells-srd.Item.r784cIz17eWujtQj]{スクライング}呪文のDCも減少させない。たとえそのルーンロードが対象と一度も会ったことがない場合や、対象の正体を知らない場合であっても同様である。そのようなルーンロードが、オリジナルの<em>シヘドロン・メダリオン</em>を着用しているクリーチャーに対してうまくスキャイングを行えた場合、その着用者の声を使って周囲の者にメッセージを伝えることができる。<em>シヘドロン・メダリオン</em>をより現代に作成されたものには、この欠点はない。</p>\n<p><em>シヘドロン・メダリオン</em>を着用している死体は腐敗せず、虫やその他の害虫(ウジなど)が遺体を食らうことも防がれる。しかし、@UUID[Compendium.pf2e.spells-srd.Item.xRgU9rrhmGAgG4Rc]{ピースフル・レスト}の効果とは異なり、これはアンデッド化に対するいかなる保護も提供せず、また、死後一定時間以内の死体を必要とする呪文に対しても影響を与えない。</p>\n<p><strong>起動—肉体の強化(Bolster Flesh)</strong> <span class=\"action-glyph\">2</span>(精神集中、操作)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> あなたの肉体は魔法の生命力によって強化される。あなたは8時間の間、10の一時的ヒット・ポイントを得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.gKnoF5VKTCyl4JaN]{効果: 肉体の強化}</p>"
     },
     "Celestial Peachwood Sword": {
-      "name": "セレスティアル・ウッド・ソード/Celestial Peachwood Sword",
+      "name": "セレスティアル・ピーチウッド・ソード/Celestial Peachwood Sword",
       "description": "<p>刃から柄頭に至るまで、この剣は今や絶滅したセレスティアル・ピーチの木の枝から彫り出されている。この<em>+3グレーター・ストライキング・ホーリー・ヴァイタライジング・ピーチウッドショートソード</em>の刃には、最も強力なアンデッドさえも永久に滅ぼすことができる古代のルーンが刻まれている――もしあなたが代償を支払う覚悟があるならば。</p>\n<p>この剣による〈ストライク〉でダメージを受けるする12レベル以下のアンデッドクリーチャーは、@Check[fortitude|dc:35|basic]セーヴを行って@Damage[10d6[vitality]]ダメージを受ける。このダメージは〈ストライク〉自体とは別のものであり、〈ストライク〉のダメージに基づくいかなる効果にも含まれない。</p>\n<p><strong>起動—激しき悪魔祓い(Violent Exorcism)</strong> <span class=\"action-glyph\">r</span>(精神集中)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong> あなたがこの剣でアンデッドクリーチャーにクリティカルヒットを与えた</p><hr /><p><strong>効果</strong> そのクリーチャーは@Check[fortitude|dc:35]セーヴに成功しなければならず、失敗すると滅ぼされる。そのアンデッドがセーヴィング・スロウに失敗して滅ぼされた場合、あなたは反動を受け、滅ぼされたアンデッドのレベルごとに1d6の虚無ダメージを受ける。</p>"
     },
     "What Doors We Open": {
@@ -18377,7 +18377,7 @@
       "description": "<p><strong>起動</strong> 〈呪文の発動〉 (追加1アクション)</p>\n<hr />\n<p>このピンク色の花は、茎に長く細い棘がある。この花は@UUID[Compendium.pf2e.spells-srd.Item.J6vNvrUT3b1hx2iA]{エンタングリング・フローラ}呪文を発動する際の触媒として使用でき、影響を受けた植物から長い棘と鮮やかなピンク色の花を芽吹かせる。このエリアは危険な地形となり、敵が影響を受けたマスに入るたびに@Damage[5[piercing]]ダメージを与える。</p>"
     },
     "Twigjack Sack (Lesser)": {
-      "name": "トゥィッグジャック・サック（レッサー）/Twigjack Sack (Lesser)",
+      "name": "トゥイッグジャック・サック（レッサー）/Twigjack Sack (Lesser)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p>\n<hr />\n<p>複雑に絡み合った植物繊維で作られたこの袋からは、鋭くしなやかな茨が突き出している。袋の中身は、きつく圧縮された束の圧力で軋んでいる。</p>\n<p>投擲されると、トゥイグジャック・サックは破裂し、あらゆる方向に茨を撒き散らして近くのクリーチャーを切り裂く。トゥイグジャック・サックはリストされた刺突ダメージ、持続的な出血ダメージ、および飛散ダメージを与える。</p>\n<p>この爆弾は1d6の刺突ダメージ、1の持続的な出血ダメージ、および1の刺突飛散ダメージを与える。</p>"
     },
     "Lawbringer's Lasso": {
@@ -18396,7 +18396,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">A</span> (精神集中)</p><hr /><p>あなたの肉体は頑強かつ鈍重になる。</p>\n<p><strong>利点</strong>あなたは頑健セーヴに+3アイテム・ボーナスと30の一時的ヒット・ポイントを得る。あなたが少なくとも1分間、最大ヒット・ポイントの状態にあるたびに、その一時的ヒット・ポイントを回復する。あなたが頑健セーヴで成功をロールしたなら、代わりに大成功となる。</p>\n<p><strong>欠点</strong>あなたは〈意志〉セーヴ、《知覚》判定、イニシアチブ・ロールに-2のペナルティを受ける。</p>\n<p><strong>持続時間</strong> 1時間。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.xLilBqqf34ZJYO9i]{効果: ジャガーノート・ミュータジェン(上級)}</p>"
     },
     "Thrice-Fried Mudwings": {
-      "name": "スライスフライド・ムドウィングス/Thrice-Fried Mudwings",
+      "name": "スライスフライド・マッドウィングズ/Thrice-Fried Mudwings",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<hr />\n<p>マッドウィング(荒廃した沼地で見つかる魔法的な有翼クリーチャーの残骸)を揚げるのは繊細なバランスが必要だ。長く調理しすぎると効力を失い、短すぎると体内の毒素が食べた者に害を及ぼす可能性がある。完璧に調理されたタパスを消費すると、あなたは2組のマッドウィングを生やし、10分の間、30フィートまたはあなたの移動速度のいずれか低い方の飛行移動速度を得る。また、以下の起動を使用できる。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">r</span> 〈扱う〉</p>\n<p><strong>トリガー</strong>あなたが物理攻撃によってダメージを受ける場合</p>\n<hr />\n<p><strong>効果</strong>あなたは翼の一組で攻撃を遮る。あなたはそのトリガーとなった攻撃に対してのみ、物理ダメージに対する耐性15を得るが、その過程で翼の一組が砕け散る。この起動を最初に使用した時、その持続時間の間、あなたの飛行移動速度は15フィートまたはあなたの移動速度の半分、いずれか低い方になる。2回目以降、マッドウィングは完全に砕け散り、効果は終了する。</p>"
     },
     "Omnidirectional Spear Snare": {
@@ -18686,7 +18686,7 @@
       "description": "<p>三脚は反動武器での使用を想定して設計されており、筋力の低いガンスリンガーが、代わりに機動性を犠牲にすることで、これらのより強力な武器を正確に使用するための手段である。三脚は片手で1回の〈扱う〉アクションを行うことで設置し、火器に取り付けることができ、その際、あなたのいる広場に三脚を設置する。もしその反動武器が両手を必要とするなら、このアクションの一部として武器の持ち方を変更できる。この頑丈な装置が使用されている間、たとえあなたの筋力がペナルティを回避するのに十分でなくても、あなたは反動武器を発射する際の-2のペナルティを受けない。しかし、火器を別の位置に移動させる前に、1回の〈扱う〉アクションで三脚を回収しなければならない。通常、あなたが@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}または@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}である場合、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}、@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}、または〈ステップ〉以外のことを行うと、あなたは発見状態になる。しかし、〈扱う〉アクションで三脚を展開または回収しても、クリーチャーが三脚自体を見ることができる場所に設置または撤去しない限り、自動的に発見状態になることはない。</p>"
     },
     "Starless Scope": {
-      "name": "スタルレス・スコープ/Starless Scope",
+      "name": "スターレス・スコープ/Starless Scope",
       "description": "<p>サーシロンの時代でさえ、〈星なき夜の騎士団〉がまだ存在していた頃、<em>スターレス・スコープ</em>は珍しいものだった。今日、この最後のスコープは、時の流れを生き延びた最後の1つである可能性が高い。</p>\n<p><em>スターレス・スコープ</em>は、銀と上質な木材で作られた手持ち式の望遠鏡である。<em>スターレス・スコープ</em>を通して空を覗くと、常に晴れた夜のような空が見える。<em>スターレス・スコープ</em>は、空を観測するために行う天文学の《専門知識》判定と《知覚》判定に+2のアイテム・ボーナスを与える。これは、直接観測していないすべての天体を暗くすることで、使用者が意図した対象をより容易に観測できるようにするためである。また、@UUID[Compendium.pf2e.actionspf2e.Item.eReSHVEPCsdkSL4G]{〈魔法の識別〉}を行うためのすべての《神秘学》判定に+2のアイテム・ボーナスを与える。</p>\n<p><em>スターレス・スコープ</em>は、デズナの崇拝者にとってはディバイン・フォーカスとしても機能する。<em>スターレス・スコープ</em>の魔法が機能するには特別に準備されたレンズが必要であり、<em>スターレス・スコープ</em>を起動する際にロールの結果が悪ければ、レンズが砕ける可能性がある。</p>\n<p>機能するレンズがなければ、<em>スターレス・スコープ</em>は機能しない。あなたは「操作」特性を持つ2アクションの活動を行うことで、砕けたレンズを機能するレンズに交換できる。もしあなたが<em>スターレス・スコープ</em>の公式を知っているなら、@Check[crafting|dc:25|name:Craft New Lens](熟練)判定を行うことで新しいレンズを〈製作する〉ことができる。</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.QRtsLdNvTs2C1oI2]{スターレス・スコープ・レンズ}</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">R</span> 〈扱う〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong> あなたはデズナを崇拝している</p>\n<p><strong>トリガー</strong> あなたが<em>スターレス・スコープ</em>をディバイン・フォーカスとして使用する</p>\n<hr />\n<p><strong>効果</strong> あなたは呪文を発動する際、その呪文のDC(レベルと希少度によって設定されるDC)に対して《宗教》判定を行うことで、呪文の効果の強化を試みる。</p>\n<hr />\n<p><strong>クリティカル成功</strong> その呪文で行う攻撃ロールは+2のステータス・ボーナスを得て、その呪文に対して敵が行うあらゆるセーヴィング・スロウは-2の状況ペナルティを受ける。もしあなたが通常通り呪文スロットからその呪文を発動しようとしており、かつその呪文が5レベル以下であるなら、あなたはその呪文スロットを消費せず、代わりに<em>スターレス・スコープ</em>からその呪文を発動する。</p><p><strong>成功</strong> その呪文で行う攻撃ロールは+1のステータス・ボーナスを得て、その呪文に対して敵が行うあらゆるセーヴィング・スロウは-1の状況ペナルティを受ける。</p>\n<p><strong>失敗</strong> その呪文は通常通り発動する。判定を行うこと@Check[flat|dc:11]。失敗した場合、<em>スターレス・スコープ</em>のレンズが砕ける。</p>\n<p><strong>クリティカル失敗</strong> その呪文は妨害され、<em>スターレス・スコープ</em>のレンズが砕ける。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> (防御術、神聖) 〈扱う〉</p>\n<p><strong>使用制限</strong> 1時間に1回</p>\n<hr />\n<p><strong>効果</strong> あなたはスコープを目に当て、30フィート以内のクリーチャーを観測する。あなたは〈思い出す〉ことでそのクリーチャーの識別を試みることができる。<em>スターレス・スコープ</em>はこの判定に+2のアイテム・ボーナスを加える。そのクリーチャーが〈ドミニオン・オブ・ザ・ブラック〉や〈古き神々の神話〉に関連している場合、あるいはその行動がデズナに対する冒涜となっているクリーチャーである場合、そのクリーチャーは@Check[will|dc:27|name:Starless Scope Recall Knowledge|traits:abjuration]セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong> そのクリーチャーは影響を受けず、<em>スターレス・スコープ</em>のレンズが砕ける。</p>\n<p><strong>成功</strong> そのクリーチャーは1ラウンドの間、星明かりで輝く。この間、そのクリーチャーが可視状態であれば、隠密状態になることはできない。もし不可視状態であれば、探知不能ではなく隠密状態となる。そのクリーチャーは星明かりで輝いている間、神聖な効果に対するセーヴィング・スローに-1の状況ペナルティを受ける。</p>\n<p><strong>失敗</strong> 成功時と同様だが、そのクリーチャーは追加の効果も受ける。非実体クリーチャーは、星明かりで輝いている間、その非実体特性を失う。その他のクリーチャーは、星明かりで輝いている間、スロー1状態となる。</p>\n<p><strong>クリティカル失敗</strong> 失敗時と同様だが、星明かりの持続時間は1分となり、神聖な効果に対するセーヴィング・スローへの状況ペナルティは-2に増加する。</p>",
       "rules": [
         {
@@ -18715,7 +18715,7 @@
       "description": "<p>この木製のピストルのような装置は、細い金属製のコードが100フィート巻き付けられた大きなリールを備えており、最大100フィート先までグラップリング・フックを発射できる。グラップリング・ガンの再装填を行うには、リールのクランクを回してコードを手動で巻き戻し、その後グラップリング・フックをロックしなければならない。グラップリング・ガンの再装填には1分かかる。</p>\n<p>このクロックワーク・グラップリング・ガンはリールがぜんまい仕掛けで制御されており、レバーを引くとグラップリング・フックが巻き戻される。クロックワーク・グラップリング・ガンの再装填には3回の〈扱う〉アクションが必要である。</p>"
     },
     "Trollhound Vest": {
-      "name": "トゥロールハウンド・ベスト/Trollhound Vest",
+      "name": "トロールハウンド・ベスト/Trollhound Vest",
       "description": "<p>この<em>+1ハイド・アーマー</em>は病的な緑色をしており、厚いイボや結節に覆われている。これはトロルハウンドの皮から作られており、その獣の生命力がいくらか吹き込まれている。この鎧を着用している間、トロルと相互作用するために行うすべての《交渉》判定に–1の状況ペナルティを受け、トロルの襲撃に伝統的に悩まされているコミュニティで@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉}を行うために使用する《交渉》判定に+1の状況ボーナスを得る。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">r</span>(操作)</p>\n<p><strong>トリガー</strong>あなたが通常の最大ヒット・ポイントの半分以下である状態で、近接攻撃からダメージを受けた。</p>\n<p><strong>効果</strong>あなたの肉体が自らを結合し直し、@Damage[3d8[healing]]ヒット・ポイントを回復する。</p><hr /><p><strong>〈製作する〉必要条件</strong>初期の生の素材には、少なくとも2頭のトロルハウンドの皮が含まれていなければならない。</p>"
     },
     "Thorn of Milani (Lesser)": {
@@ -18887,7 +18887,7 @@
       "description": "<p>アブレイティブ・アーマー・プレイティングは、追加の装甲板にバネ、巧妙なクロックワーク、即席の詰め物を組み合わせたもので、追加の部品を脱落させることでダメージを吸収する。部品は時間と動きとともに、自然とゆっくりと外れていく。装甲板を取り付ける過程には10分かかり、その鎧の着用者に1分の間、あるいは失われるまで、5一時的ヒット・ポイントを与える。装甲板を早期に取り外すと、それは破壊される。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.jlVYoiPVRRVGBj5G]{効果: アブレイティブ・鎧・プレイティング(下級)}</p>"
     },
     "Gamepiece Chariot": {
-      "name": "ゲイムピース・チャリオット/Gamepiece Chariot",
+      "name": "ゲームピース・チャリオット/Gamepiece Chariot",
       "description": "<p>2頭の馬に引かれた戦車のこの石製の小像は、テクリタニンの大人が戦略ゲームの競技中に使用していたものだ。しかし時折、いたずら好きな若者が、乗り回すためにこのような駒をくすねることがあった。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> 〈扱う〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>あなたは小像を地面に置き、前方に転がす。戦車が動き始めると、それは急速に拡大し、2頭の動く石の軍馬に引かれた大型サイズの重戦車となる。あなたは戦車に乗り込み、直線状に最大80フィートまで操縦することができる。あなたは中型以下のサイズのクリーチャーが占めているスペースを移動でき、それらのクリーチャーに@Damage[(4d8+10)[bludgeoning]]ダメージを与える。影響を受けたクリーチャーは@Check[reflex|dc:28|basic]セーヴを行わなければならない。失敗すると、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になる。戦車は移動を停止すると、小像の形態に戻る。</p>"
     },
     "Herald's Ring": {
@@ -18934,7 +18934,7 @@
       "description": "<p>頭蓋骨、怪物、そしてあらゆる種類の暴力の彫刻がこの黒ずんだ骨のワンドを飾っているが、起動すると、クラクションの音、狂気じみた笑い声、夢見心地の溜息といった、不条理な音を発する。</p>\n<hr />\n<p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回、およびオーバーチャージ</p>\n<p><strong>効果</strong> あなたは8ランクの@UUID[Compendium.pf2e.spells-srd.Item.rfFZKfeCSweFv7P3]{インペンディング・ドゥーム}を発動し、対象に恐ろしくも不条理な潜在的な死を見せる。もし対象がこの呪文によって@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態になった場合、その対象は、その恐怖状態の値よりも1高い値の@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁}状態にもなる。これは呪文の持続時間中続く。</p>\n<hr />\n<p><strong>〈製作する〉 必要条件</strong> 適切なランクの<em>impending doom</em>の呪文発動を供給すること。</p>"
     },
     "Backfire Mantle": {
-      "name": "バクフィレ・マントル/Backfire Mantle",
+      "name": "バックファイア・マントル/Backfire Mantle",
       "description": "<p>この頑丈な布で作られた鮮やかな赤色のクロークは、攻撃的なバトル・アルケミストやメイジ、そして爆発を好む後衛よりも先に戦場へ進む必要がある慎重な戦士たちに愛用されている。このマントはあなたをあなた自身や味方の魔法から保護するために介入し、あなた自身の呪文や味方の呪文に対する反応セーヴに+1の状況ボーナスを与える。また、あなた自身や味方の錬金術アイテムによる飛散ダメージに対する耐性3も得る。</p>"
     },
     "Sling": {
@@ -19236,7 +19236,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p><hr /><p>金属製の小さなインゴットが革紐にぶら下がっており、その表面には武器をはめ込むための深い溝がある。これを適用した武器は、その種類に応じて、1分の間、それが与える物理ダメージにおいて銀製として扱われる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.VECHAM3D71GWHw3A]{効果: 変化のインゴット}</p>"
     },
     "Flashblade (Greater)": {
-      "name": "フラッシュブレイド（グレーター）/Flashblade (Greater)",
+      "name": "フラッシュブレード（グレーター）/Flashblade (Greater)",
       "description": "<p>稲妻が刻まれた柄に取り付けられた、滑らかで信じられないほど軽量な刃が、この<em>+2グレーター・ストライキング・野太刀</em>を構成している。</p>\n<p><strong>起動—閃光の準備</strong> <span class=\"action-glyph\">2</span> (精神集中)</p>\n<p><strong>使用制限</strong> 10分に1回</p><hr /><p><strong>効果</strong> あなたは周囲に完全に意識を集中させ、フラッシュブレードの魔法を吸い込むことで、自分自身をより軽く、より速くし、剣の刃をより柔軟にする。あなたは近接 〈ストライク〉を〈構える〉。その〈ストライク〉の間、フラッシュブレードのリーチは20フィートに増加する。もしトリガーが発生しなかった場合、これはフラッシュブレードの頻度を消費しない。</p>"
     },
     "Cayden's Brew (Triple)": {
@@ -19313,7 +19313,7 @@
       "description": "<p>合図用の笛を鳴らすと、開けた地形であれば最大半マイル先まで明瞭に聞こえる。</p>"
     },
     "Dragon-Lotus Drum": {
-      "name": "ドゥラゴンロータス・ドラム/Dragon-Lotus Drum",
+      "name": "ドラゴンロータス・ドラム/Dragon-Lotus Drum",
       "description": "<p>この伝統的な樽太鼓は、ファンゴットの古い軍事様式で鋲打ちされた革面を持ち、長く記憶されることの象徴である白とピンクの蓮に絡みつく多色の皇帝ドラゴンが描かれている。そのドラゴンは前足で巻物を掴んでおり、そこには「戦争の記憶が真実に回想されるために」という碑文が記されている。</p>\n<p>この太鼓を起動したクリーチャーは、死後、その軍勢に加わる義務を負う。その魂が101の戦いを戦い抜けば、彼らは自らの魂が獲得した運命に向かうために解放される。しかし、この義務が果たされるまで、その死んだクリーチャーは復活できず、また他のいかなる手段によってもその魂を捕らえることはできない。</p><hr /><p><strong>起動—サモン・ドラゴン-ロータス・アーミー</strong> <span class=\"action-glyph\">3</span> (精神集中、インカーネイト、操作)</p>\n<p><strong>使用制限</strong> 20年に1回</p>\n<p><strong>効果</strong>ミシック・ポイントを1点消費する。太鼓を叩くことで、あなたが指定した500フィート以内のエリアに幽体の軍勢を召喚する。あなたが演奏を終えると、その軍勢は「到着」アクションを行う。あなたの次のターンの終了時に、その軍勢は最大60フィートまで「移動」し、その後「出発」アクションを行う。ドラゴン-ロータス・アーミーはあなたの命令に従い、可能な限りあなたやあなたの味方に危害を加えないように努める。この幽体の軍勢は完全なクリーチャーではない。これはいかなる他のアクションも行えず、また「ストライク」や呪文、その他の効果が呪文効果を対象に取ったり終了させたりできる場合(@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}など)を除き、それらによって対象にされたり危害を加えられたりすることはない。この軍勢は巨大だが、移動を妨げることはない。</p>\n<p><strong>到着</strong> (感情、恐怖、精神、音波) <em>雷鳴の響き</em>太鼓の打音が増幅され、何百ものブーツを履いた足の踏み鳴らしのようになる。ドラゴン-ロータス・アーミーが完璧な隊形で現れ、短くスタッカートの効いた鬨の声を上げる。軍勢の周囲の@Template[type:emanation|distance:60]にいるすべての敵は@Damage[16d10[sonic]|options:area-damage]ダメージを受け(@Check[fortitude|dc:48|basic|traits:emotion,fear,mental,sonic|options:area-effect]セーヴ)、セーヴに失敗した各クリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 4}状態となる)。</p><p><strong>出発</strong> <em>壊滅的な突撃</em> 軍勢は寄せ集めの武器を構え、直線状に最大100フィートまで「移動」する。軍勢が通過した各クリーチャーは、20d8の@Damage[20d8[bludgeoning]|options:area-damage]{殴打}、@Damage[20d8[piercing]|options:area-damage]{刺突}、または@Damage[20d8[slashing]|options:area-damage]{斬撃}ダメージ(GMの判断で最も有害となるもの)を受け、@Check[reflex|dc:48|basic|options:area-effect,inflicts:prone]セーヴを行う。セーヴに大失敗したクリーチャーは、さらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p><hr /><p><strong>破壊</strong> もし<em>ドラゴン-ロータス・ドラム</em>がファンゴットの敵(交戦中の敵対国家など)に奪われ、ファンゴットとその指導者を貶める賛歌を歌いながら1週間の間絶え間なく演奏され続けた場合、太鼓は粉々に砕け散り、それに縛り付けられていた魂は消滅する。</p>"
     },
     "Barricade Stone (Cylinder)": {
@@ -19414,7 +19414,7 @@
       "description": "<p>この箱には、言葉を発せないキャラクターが思考を音声に変換することを可能にする小さな魔法の増幅器が入っており、その音声はネックレスから発せられる。生成される音声は、あなたが理解しているあらゆる言語と一致する。</p>"
     },
     "Candlecap": {
-      "name": "キャンドゥルキャップ/Candlecap",
+      "name": "キャンドルキャップ/Candlecap",
       "description": "<p><em>キャンドルキャップ</em>の頂部は、小さなボウルの形に縫い合わされた革製である。そのボウルの内側には、小さな黒い芯のついた溶けた蝋の塊が固定されている。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p>\n<p><strong>効果</strong>あなたが頭を振ると、キャンドルの芯に火がつく。その<em>キャンドルキャップ</em>は20フィートの半径で薄暗い光を放つ。このキャンドルは酸素を必要とせず、窒息させたり消したりすることはできない。<em>キャンドルキャップ</em>を再度起動すると、光は消える。</p>"
     },
     "Ichthyosis Mutagen": {
@@ -19490,7 +19490,7 @@
       "description": "<p>ゴラリオンの多くの文化には災いを退けるためのタトゥーが存在する。そのため、魔除けのタトゥーは、野生のビーストやシャックルズの荒海における渦潮のように、その文化にとって最も一般的な危険を模したものが多い。あなたはフィーンドが発動した呪文およびフィーンドによる魔法的な攻撃に対する耐性2を得る。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">r</span>精神集中</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>敵、ハザード、または環境があなたのACに対して攻撃を行う、あなたにセーヴィング・スロウを行わせる、あるいは自動的にあなたにダメージを与える</p>\n<hr />\n<p><strong>効果</strong>現在のターンの終了時まで、トリガーとなった効果に対して、あなたはACとセーヴィング・スローに+1のステータス・ボーナスを得て、ダメージに対する耐性2を得る。フィーンドからのダメージおよびフィーンドによる魔法的な攻撃に対するあなたの耐性は耐性5となる。</p>"
     },
     "Detonating Gears Snare": {
-      "name": "デトネイティング・ギアーズ・スネア/Detonating Gears Snare",
+      "name": "デトネイティング・ギアズ・スネア/Detonating Gears Snare",
       "description": "<p>このスネアは限界寸前まで負荷のかかったクロックワークを使用しており、強力な爆発とともに作動して、スネアの広場に最初に入ったクリーチャーに@Damage[3d8[piercing]]ダメージを与える。そのクリーチャーは@Check[reflex|dc:19]セーヴィング・スロウを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受ける、さらに@Damage[3[bleed]]ダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは2倍のダメージを受ける、さらに@Damage[6[bleed]]ダメージを受ける。</p>"
     },
     "Retrieval Belt (Major)": {
@@ -19950,7 +19950,7 @@
       "description": "<p>このスペルハートの中心からは、編み込まれた藁によって固定された同一の羽が放射状に伸びている。このアイテムを起動して発動した呪文の呪文攻撃ロールは+19であり、呪文のDCは29である。</p><ul><li><strong>鎧</strong>あなたは《軽業》判定に+2のアイテム・ボーナスを得、落下ダメージに対する耐性10を得る。</li><li><strong>武器</strong>この<em>リース</em>を起動して風の呪文を発動した後、あなたは単一のアクションとして〈飛行〉 5フィートを行うことができる。あるいは、発動した呪文がキャントリップでなかった場合、フリー・アクションとして〈飛行〉 40フィートを行うことができる。これはあなたのアクションとして次に行わなければならず、もしあなたが飛行移動速度を持たない場合、飛行を固い地面の上で終了しなければならず、さもなくば落下する。</li></ul><p>@UUID[Compendium.pf2e.equipment-effects.Item.nQ6vM1CRLyvQdGLG]{効果: 五羽のリース - 鎧}</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.dDiOnjcsBFbAvP6t]{ゲイル・ブラスト}を発動する。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>あなたは4レベルの@UUID[Compendium.pf2e.spells-srd.Item.it4ZsAi6XgvGcodc]{ウォール・オブ・ウィンド}を発動する。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.b5sGjGlBf58f8jn0]{エア・ウォーク}を発動する。</p>"
     },
     "Firestarter Pellets": {
-      "name": "ファイアースターター・ペレッツ/Firestarter Pellets",
+      "name": "ファイアスターター・ペレッツ/Firestarter Pellets",
       "description": "<p><strong>起動</strong> 〈呪文の発動〉 (追加1アクション)</p><hr /><p>これらのコウモリの糞、硫黄、魔法の促進剤を固めたペレットは、戦場における呪文の使い手にとって長らく定番となっている。ファイアスターター・ペレットを@UUID[Compendium.pf2e.spells-srd.Item.sxQZ6yqTn0czJxVd]{ファイアーボール}呪文に加えると、その効果に対するセーヴィング・スロウに失敗したすべての者に@Damage[1d6[persistent,fire]]のダメージを与える付着性の炎が発生する(大失敗した場合は@Damage[2d6[persistent,fire]]のダメージ)。</p>"
     },
     "Bottled Catharsis (Greater)": {
@@ -20078,7 +20078,7 @@
       "description": "<p>携行型ラムは、扉、門、その他類似の障害物を打ち破るために設計された、手持ち式の鉄で補強された木製の梁である。あなたはこれらの障害物に対して@UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{〈こじ開ける〉}を行う判定に+1のアイテム・ボーナスを得る。</p>"
     },
     "Polytool": {
-      "name": "ポリトゥール/Polytool",
+      "name": "ポリツール/Polytool",
       "description": "<p>ポリツールは、内部にいくつかの単純な道具が折りたたまれている小さな金属製の棒である。使用者は長いセラミック製の刃、ならびに錐、鑿、やすり、火打ち石と鋼鉄、鉤、インクペン、拡大鏡、ペンチ、鋏、小さな鋸を伸ばすことができる。火打ち石と鋼鉄は、交換が必要になるまで最大10回使用できる。高度なヌメリアの技術に触発されたものではあるが、ポリツールはどんな鍛冶屋でも製作できるほど単純な金属加工の偉業であり、女神@UUID[Compendium.pf2e.deities.Item.soiVh53y9RAeSLEk]{カサンダリー}が実際のヌメリアの技術が到達できるよりも遠くまで革新を広めるのに最適である。</p>"
     },
     "Euphoric Loop (Greater)": {
@@ -20426,7 +20426,7 @@
       "name": "テント（小型）/Tent (Pup)"
     },
     "Silverscrap Bomb (Moderate)": {
-      "name": "シルヴァースクラップ・ボム（モデレート）/Silverscrap Bomb (Moderate)",
+      "name": "シルバースクラップ・ボム（モデレート）/Silverscrap Bomb (Moderate)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>シルバースクラップ・ボムは銀の破片のコンパクトな塊であり、衝撃で爆発し、周囲のすべてを切り刻む。この爆弾は攻撃ロールに+2のアイテム・ボーナスを与え、3d4の刺突ダメージと3の刺突の飛散ダメージを与える。この爆弾によるすべてのダメージは、弱点、耐性、その他同様のものの目的において、銀として扱われる。</p>"
     },
     "Wyvern Nafir": {
@@ -21278,7 +21278,7 @@
       "description": "<p>この武器は、湾曲した刃を持つシミターの、より重い両手用バージョンである。刃の先端側に重心があるため、強力な斬撃武器となっている。</p>"
     },
     "Spraysling": {
-      "name": "スプレイスリング/Spraysling",
+      "name": "スプレースリング/Spraysling",
       "description": "<p>スプレイ・スリングは標準的なスリングに似ているが、カップがより広く、その縁に薄い刃が取り付けられている。特別に用意されたスプレー弾のパケットを使って攻撃を行う際、その刃がパケットを切り裂き、武器は刺すような弾の塊を発射する。</p>"
     },
     "Goz Mask (Greater)": {
@@ -21426,7 +21426,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p><hr /><p>この小石がクリーチャーや硬い表面に当たると、耳をつんざくような轟音を立てて爆発する。ブラスティング・ストーンは1d4の音波ダメージと1の音波スプラッシュ・ダメージを与え、その石が爆発した空間から10フィート以内にいる各クリーチャーは、記載されたDCで@Check[fortitude|dc:17|name:Lesser Blasting Stone|showDC:all]セーヴィング・スロウを行わなければならない。失敗すると、次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態となる。</p>"
     },
     "Rounds (Dawnsilver Tree)": {
-      "name": "ラウンズ（ドーンシルヴァー・ツリー）/Rounds (Dawnsilver Tree)",
+      "name": "ラウンズ（ドーンシルバー・ツリー）/Rounds (Dawnsilver Tree)",
       "description": "<p>火器は弾頭と黒色火薬からなる弾薬を必要とする。 1発分の弾薬構成は様々だが、通常はあらかじめ緩衝材・弾丸・黒色火薬を一緒に梱包する紙製薬包か、手作業で詰める散弾のどちらかである。ハンド・キャノンやブランダーバスのような一部の武器は、他のものを発射することもできるが、黒色火薬の費用がかかるため、それらの弾薬の価格は同じである。火器用弾薬を作成するには黒色火薬を作り出す必要があるため、それらを作成するには@UUID[Compendium.pf2e.feats-srd.Item.is3Oz9wt11lNq62K]{アルケミカル・クラフティング}技能特技が必要となる。火器用弾丸も、矢やボルトと同様に魔法弾薬として選択できる。《製作》魔法の火器用弾薬を作成するには、あなたには錬金術アイテムと魔法のアイテムの両方を作成できる能力が必要である。</p>"
     },
     "Archivist's Gaze": {
@@ -21615,7 +21615,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (manipulate)</p><hr /><p>非常に深い黒色をしたサイトレス・チンキは、通常、ワイン、ブラックプディング、その他の暗い色の食品に{@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}}されている。この油は最初、犠牲者の視界をかすかに暗くし、その後完全に真っ暗にする。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:28]</p>\n<p><strong>発症</strong> 10分</p>\n<p><strong>最大持続時間</strong> 14時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}および視覚的な《知覚》判定への－2状況ペナルティ(1時間)</p>\n<p><strong>第2段階</strong>目が眩んだおよび視覚的な《知覚》判定への－4状況ペナルティ(1時間)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}(2d6時間)。第3段階は無力化効果であり、毒の効果が終了した時点で犠牲者がまだ毒による盲目状態である場合、その盲目はその後さらに24時間続く。</p>"
     },
     "Thousand-Year Dragonroot": {
-      "name": "サウザンドイヤー・ドゥラゴンルート/Thousand-Year Dragonroot",
+      "name": "サウザンドイヤー・ドラゴンルート/Thousand-Year Dragonroot",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (操作)</p>\n<p>ドラゴンルートは、ティエン・シア全域に自生する、根が青白い黄金色の植物である。マンドレイクの根や朝鮮人参の根が時に人型に近い形をしていると見なされるのと同様に、これらの根はまるでドラゴンのように見える。これらは一般的に治癒ポーションの調合に使用されるが、最も求められているのは数世紀かけて成長したものであり、それらは<em>千年ドラゴンルート</em>へのエンチャントに適している。</p>\n<p>あなたが<em>千年ドラゴンルート</em>を起動すると、あなたの身体は黄金の光で輝き、松明のように周囲を照らす。あなたは1分間、40フィートの〈飛行移動速度〉と5の〈火炎抵抗〉を得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.p1pxUzwgWZ9l9jmD]{効果: 千年ドラゴンルート}</p>"
     },
     "Iron Cudgel": {
@@ -21659,7 +21659,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (manipulate)</p><hr /><p>ピリッとしたタマリンドとチリライムの風味が、アンデッドと戦う人々を助けるために最初に作られた銀の三日月(シルバー・クレセント)に染み込んでいる。1時間の間、あなたは松明のように冷たい白色の光を放ち、嗅覚効果に対するセーヴィング・スローに+3のアイテム・ボーナスを得る。この光を放っている間、あなたが可視状態であれば、あなたは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態になることはできない。また、あなたが@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}状態である場合、あなたは未発見状態になる代わりに、隠蔽状態となる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.KFq5wnjdzyrycEnB]{効果: シルバー Crescent}</p><hr /><p><strong>Secondary効果</strong> <span class=\"action-glyph\">2</span></p>\n<p><strong>効果</strong> 120フィート以内のあなたが選んだ5フィートの広場に光の奔流が降り注ぐ。その空間にいるクリーチャーは、セーヴに失敗すると@Damage[9d6[vitality]|options:area-damage](@Check[reflex|dc:35|basic|options:area-effect]を伴う)を受け、次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。これは弱点、耐性などに関しては銀として扱われる。この銀の三日月は不活性となる。</p>"
     },
     "Dreadsmoke Thurible": {
-      "name": "ドゥレッドスモウク・シューリブル/Dreadsmoke Thurible",
+      "name": "ドレッドスモーク・シューリブル/Dreadsmoke Thurible",
       "description": "<p>この黒と灰色の香炉にはスケルトンの意匠が施されている。装飾された頭蓋骨の1つの顎が外れ、アクションとして香を詰めることができる。香炉の頂部には長く細い鎖がつながっている。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> 〈扱う〉; <strong>コスト</strong>少なくとも5gp相当の香</p>\n<hr />\n<p><strong>効果</strong>あなたは香炉を自分の周囲で振り回し、@Template[emanation|distance:20]にインクのような黒い煙を広げる。この煙は@UUID[Compendium.pf2e.spells-srd.Item.9XHmC2JgTUIQ1CCm]{ミスト}の効果を持つ。アンデッドのクリーチャーは、この煙が存在しないかのように見通すことができる。また、虚無エネルギーはこの煙の魔法を乱す。虚無の効果を使用する者は誰でも、虚無の効果を受けているクリーチャーと共に、1ラウンドの間、この煙を見通すことができる。</p>"
     },
     "Aeon Stone (Preserving)": {
@@ -21875,7 +21875,7 @@
       "description": "<p>A <em>skittering仮面</em>は、手彫りの木製フルヘッド仮面であり、顔の両側にいくつかの穴が開いている。毎日、あなたが気絶状態で敵から25フィート以内にいて自分のターンを開始する最初の時、金属製の昆虫の脚が仮面の穴から現れ、最も近い敵から15フィート〈ステップ〉し、あなたの体を仮面と共に引きずる。1分の間、あなたが気絶状態で敵から25フィート以内にいて自分のターンを開始するたびに、仮面は再び最も近い敵から15フィートステップする。味方は1つのアクションで仮面に合図を送ることができる。このアクションは聴覚特性と精神集中特性を持つ。もし仮面がその合図を聞いたなら、最も近い敵からステップする際、あなたをその味方の方へ移動させようと試みる。</p>\n<p>もし複数の敵が等距離にいる場合、仮面はランダムにそのうちの1体から離れるようにステップする。仮面は特殊な感覚を持たず、@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}や@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}の敵には反応しない。また、公然と敵対行動をとっていないクリーチャーを敵であると識別することもできない。</p>"
     },
     "Dragonbone Arrowhead": {
-      "name": "ドゥラゴンボーン・アローヘッド/Dragonbone Arrowhead",
+      "name": "ドラゴンボーン・アローヘッド/Dragonbone Arrowhead",
       "description": "<p><strong>使用法</strong>近接武器、または投擲特性を持つ遠隔武器に装着する</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<p><strong>必要条件</strong>あなたはその装着した武器の習熟ランクがエキスパートである。</p>\n<hr />\n<p>ドラゴンの骨から彫られたこの矢尻は、あなたの武器の縦坑からぶら下がっている。あなたがこのタリスマンを起動すると、　現在のターン終了時まで、装着した武器は投擲20フィート武器特性を得る。そして、あなたがその武器で投擲〈ストライク〉を行うと、その〈ストライク〉が完了した後に武器はあなたの手に飛んで戻ってくる。武器が戻ってきたときにあなたの手がふさがっている場合、それはあなたのいる広場の地面に落ちる。</p>"
     },
     "Inubrix Ingot": {
@@ -22293,7 +22293,7 @@
       "description": "<p>この象牙のワンドの柄には赤い羽がぶら下がっている。それを手に持つと、穏やかな落ち着きを感じる。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回、加えてオーバーチャージ</p>\n<p><strong>効果</strong>あなたは第2ランクの@UUID[Compendium.pf2e.spells-srd.Item.szIyEsvihc5e1w8n]{スーズ}を発動し、同じ対象にかかっている1つの精神効果を打ち消ししようと試みることができる。この打ち消し判定において、その@UUID[Compendium.pf2e.spells-srd.Item.szIyEsvihc5e1w8n]{スーズ}呪文のランクは1高いものとして扱う。</p><hr /><p><strong>〈製作する〉必要条件</strong>適切なランクの<em>soothe</em>の呪文発動を供給すること。</p>"
     },
     "Twigjack Sack (Greater)": {
-      "name": "トゥィッグジャック・サック（グレーター）/Twigjack Sack (Greater)",
+      "name": "トゥイッグジャック・サック（グレーター）/Twigjack Sack (Greater)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈ストライク〉</p>\n<hr />\n<p>複雑に絡み合った植物繊維で作られたこの袋からは、鋭く柔軟な茨が突き出している。袋の中身は、きつく圧縮された束の圧力で軋んでいる。</p>\n<p>投げられると、ツイグジャックの袋は破裂し、周囲のクリーチャーをえぐり切り裂く茨を四方八方に撒き散らす。ツイグジャックの袋は、記載された刺突ダメージ、持続的な出血ダメージ、およびスプラッシュ・ダメージを与える。</p>\n<p>あなたは攻撃ロールに+2のアイテム・ボーナスを得る。この爆弾は3d6の刺突ダメージ、4の持続的な出血ダメージ、および3の刺突スプラッシュ・ダメージを与える。</p>"
     },
     "Faith Tattoo (True)": {
@@ -22897,7 +22897,7 @@
       "description": "<p>この淡く展性のある金属の特異な分子構造により、鉄や鋼鉄と接触することなく、それらを部分的に通り抜けることができる。この特性は金属製の鎧を回避する武器を作るのに役立つが、イナブリックスは鉛よりわずかに頑丈な程度である。合金状態であっても、このスカイメタルは非常に脆いため、信頼できる盾を作成するのには困難であり、鎧を作成するのにも理想的とは言えない。</p>\n<h2>イヌブリックス製のアイテム</h2>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>イヌブリックス製のアイテム</th>\n<th>硬度</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>薄いアイテム</strong></td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>標準グレード</td>\n<td>4</td>\n<td>16</td>\n<td>8</td>\n</tr>\n<tr>\n<td>高グレード</td>\n<td>7</td>\n<td>28</td>\n<td>14</td>\n</tr>\n<tr>\n<td><strong>アイテム</strong></td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>標準グレード</td>\n<td>8</td>\n<td>32</td>\n<td>16</td>\n</tr>\n<tr>\n<td>高グレード</td>\n<td>11</td>\n<td>44</td>\n<td>22</td>\n</tr>\n<tr>\n<td><strong>構造物</strong></td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>標準グレード</td>\n<td>17</td>\n<td>68</td>\n<td>34</td>\n</tr>\n<tr>\n<td>高グレード</td>\n<td>23</td>\n<td>92</td>\n<td>46</td>\n</tr>\n</tbody>\n</table>"
     },
     "Tripline Arrow": {
-      "name": "トゥリップライン・アロー/Tripline Arrow",
+      "name": "トリップライン・アロー/Tripline Arrow",
       "description": "<p><strong>矢弾</strong>矢</p>\n<hr />\n<p>この矢は標的に向かって飛ぶ際、ワイヤーの線を繰り出す。ワイヤーは標的に命中すると動き出し、一瞬後に消える前にその脚に巻き付こうとする。もしあなたがその弓のクリティカル時のスペシャライゼーション効果を適用できるなら、標的をピン留めする代わりに、標的を@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}にすることを選択できる。もしあなたがその弓のクリティカル時のスペシャライゼーション効果を適用できないなら、その弓が足払い武器特性を持っているかのように、代わりに《運動》技能を用いてその矢で@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を試みることができる。この矢の扱いにくさにより、武器の射程単位は半分になる。</p>"
     },
     "Bravo's Brew (Lesser)": {
