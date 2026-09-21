@@ -1237,7 +1237,7 @@
       "description": "<p>5レベルおよびその後5レベルごとに、4つの異なる能力値を上昇させる。あなたはこれらの上昇を使って、能力値を18より高くすることができる。能力値を上昇させる際、その値がすでに18以上であれば1上昇させ、18未満であれば2上昇させる。</p>\n<p>あなたのエイドロンも、これらのレベルで4つの能力値上昇を得る。エイドロンの能力値上昇は、あなたのものと同じルールに従う。</p>"
     },
     "Bravery": {
-      "name": "ブレイヴァリー/Bravery",
+      "name": "ブレイバリー/Bravery",
       "description": "<p>数え切れないほどの敵と戦場の混沌に直面してきたあなたは、恐怖に直面しても強く立ち続ける方法を学んだ。あなたの意志セーヴの習熟ランクはエキスパートに上昇する。恐怖効果に対する意志セーヴで成功をロールしたとき、代わりに大成功となる。さらに、あなたが@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態になるたび、その値を1減少させる。</p>"
     },
     "Battle": {
@@ -1733,7 +1733,7 @@
       "description": "<p>あなたのアミュレットは継続的な守護を提供する。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.Or6RLXeoZkN8CLdi]{Amulet's Abeyance}を使用する際、あなたまたはあなたの味方は、トリガーとなった攻撃によって与えられたダメージのタイプを1つ選択し、そのダメージ種別に対する耐性5をあなたの次のターン開始時まで得る。15レベルになると、この持続する耐性は5から10に増加する。</p>"
     },
     "Improved Evasion": {
-      "name": "インプルーヴド・イヴェイジョン/Improved Evasion",
+      "name": "インプルーブド・イヴェイジョン/Improved Evasion",
       "description": "<p>危険を回避するあなたの能力は比類なきものだ。あなたの反応セーヴの習熟ランクはレジェンダリーになる。あなたが反応セーヴで大失敗をロールした際、代わりに失敗となる。ダメージを与える効果に対する反応セーヴで失敗をロールした際、あなたはそのダメージを半減する。</p>"
     },
     "School of Mentalism": {
@@ -2211,7 +2211,7 @@
       "description": "<p>頭上の空は、電撃があなたの魂を打つことで、あなたが支配するものとなる。あなたは電撃か音波のいずれかを選択して@UUID[Compendium.pf2e.feats-srd.Item.9rHQn9Hn8JhY2e4V]{帯電する火花}の特技を得る。あなたが〈ストライク〉でクリティカル成功したとき、雷鳴が轟く！対象はあなたのクラスDCに対して@Check[fortitude|against:exemplar|traits:sonic]セーヴィング・スロウを行わなければならない。失敗した場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となり、1分の間@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態となる。これは音波の伝播である。</p>\n<p>あなたが　スパーク・トランセンデンスを行うとき、あなたの次のターン開始時までの間、電撃を帯びることを選択できる。あなたが帯電している間、あなたに接触した、あるいは素手攻撃や間合いのない近接武器であなたにダメージを与えたクリーチャーは、電撃が彼らに逆流するため、@Damage[1d6[electricity]]ダメージを受ける。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.nP3k4N52NzrR3KKf]{効果: 雷鳴の叫び}</p>"
     },
     "Victor's Wreath": {
-      "name": "ヴィクターズ・リース/Victor's Wreath",
+      "name": "ビクターズ・リース/Victor's Wreath",
       "description": "<p><strong>使用法</strong>着用ヘッドウェアまたはベルト(通常はサッシュ)</p><hr /><p>この勝利の象徴は――頭に着用する月桂冠であれ、首から下げるメダルであれ――勝利こそが唯一受け入れられる結果であることを、あなたとあなたの味方に思い出させる。</p>\n<p><strong>内在</strong> (オーラ、感情、精神)あなたは味方をより大きな栄光へと鼓舞する。15フィートの放射内にいるあなたとすべての味方は、攻撃ロールに+1の状況ボーナスを得る。</p>\n<p><strong>超越――</strong>@UUID[Compendium.pf2e.actionspf2e.Item.IEBBHnI7wWRt44KG]{栄光までの一瞬} <span class=\"action-glyph\">1</span> (精神集中、感情、精神、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.IEBBHnI7wWRt44KG inline]</p>"
     },
     "Second Skin": {

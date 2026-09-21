@@ -134,7 +134,7 @@
       "description": "<p>モボゴは、舌で@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{つかみ状態}のクリーチャーを移動させようと試みる。モボゴは@Check[type:athletics|defense:fortitude] 判定を行い、そのクリーチャーの頑健 DCと比べる。</p>\n<p>成功すると、モボゴはそのクリーチャーを舌のリーチ内の任意のマスへ移動させる。モボゴは望むなら、つかみ状態のクリーチャーを自身の顎へ移すことができる。</p>"
     },
     "tetpWKxbpwLYXdRP": {
-      "name": "インプルーヴド・グラブ/Improved Grab"
+      "name": "インプルーブド・グラブ/Improved Grab"
     },
     "Improved Grab": {
       "name": "インプルーヴド・グラブ"
@@ -1104,7 +1104,7 @@
       "description": "<p>サンドポイント・デヴィルは@Damage[6d10[fire]]のダメージを与える火炎の@Template[type:cone|distance:30]を吐き出す。エリア内の各クリーチャーは@Check[type:reflex|dc:26|traits:damaging-effect]セーヴを行わなければならない。</p>\n<p>サンドポイント・デヴィルは[[/br 1d4 #Recharge Accursed Breath]]{1d4ラウンド}の間、Accursed Breathを使用できない。</p>\n<hr />\n<p><strong>クリティカル成功</strong> そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong> そのクリーチャーは半分のダメージを受ける。</p>\n<p>失敗 そのクリーチャーは全てのダメージを受けるし、火傷の激痛により@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる。</p>\n<p><strong>クリティカル失敗</strong> そのクリーチャーは全てのダメージを受けるし、呪われる。被害者の肉体は黒焦げに焼けたように見え、生きたまま焼かれる苦痛は完全には消え去らない。呪われたクリーチャーは、絶え間ない苦痛により、すべての判定に-2の状況ペナルティを受ける。治癒を行っても火傷の外見が変わったりペナルティが軽減されたりすることはないが、呪いを取り除けば軽減される。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果: Devil's Cursed Breath}</p>"
     },
     "1gwUpyZY3w0LloLq": {
-      "name": "デヴィルの遠吠え/Devil's Howl",
+      "name": "デビルの遠吠え/Devil's Howl",
       "description": "<p>サンドポイント・デヴィルは数マイル先まで聞こえるような身の毛もよだつ遠吠えを放つ。@Template[type:emanation|distance:100]内の各クリーチャーは@Check[type:will|dc:26]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}状態となり、frightened状態である限りfleeing状態となる)。</p>\n<p>この意志セーヴを行ったクリーチャーは、その後24時間の間、Devil's Howlに対して免疫となる。</p>"
     },
     "Devil's Howl": {
@@ -1722,7 +1722,7 @@
       "name": "テレパシー(30フィート)"
     },
     "Iga3pCP5cVOGmSfg": {
-      "name": "エコーロケーション(精密)30フィート/Echolocation (Precise) 30 feet",
+      "name": "エコーロケーション（精密、30フィート）/Echolocation (Precise) 30 feet",
       "description": "<p>グリオスは、記載された射程内において、自身の聴覚を明瞭な感覚として使用できる。</p>"
     },
     "Echolocation (Precise) 30 feet": {
@@ -1934,7 +1934,7 @@
       "name": "テレパシー(30フィート)"
     },
     "To0rnGkFKHIi4i3T": {
-      "name": "エコーロケーション(正確、20フィート)/Echolocation (Precise) 20 feet",
+      "name": "エコーロケーション（精密、20フィート）/Echolocation (Precise) 20 feet",
       "description": "<p>グライオスは、記載された射程において、聴覚を明瞭な感覚として使用できる。</p>"
     },
     "Echolocation (Precise) 20 feet": {
@@ -2622,7 +2622,7 @@
       "description": "<p>ドッグスライサーによるクリティカルヒット時、リプナゲットは刃を引き抜く際に犠牲者の肉片を引きちぎる。その対象は痛みにより@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となり、その状態が続いている間は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
     },
     "snOrUVs5f8v8gtuP": {
-      "name": "グレイヴナイツ・カース/Graveknight's Curse",
+      "name": "グレイブナイツ・カース/Graveknight's Curse",
       "description": "<p>この呪いは、グレイヴナイトの鎧を少なくとも1時間着用した者に影響を与える。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:will|dc:24]セーヴ</p>\n<hr />\n<p><strong>潜伏期間</strong> 1時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 2}、そのクリーチャーの移動速度が10減少し、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第3段階</strong>死亡し、その鎧のグレイヴナイトへと変貌する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6rnB7nK6J6zF4vea]{効果：グレイヴナイトの呪い}</p>"
     },
     "Graveknight's Curse": {
@@ -2743,7 +2743,7 @@
       "name": "テレパシー(60フィート)"
     },
     "MzHIjOVqhOXnluws": {
-      "name": "エクスティングウィッシング・アヴァージョン/Extinguishing Aversion",
+      "name": "エクスティングイッシング・アヴァージョン/Extinguishing Aversion",
       "description": "<p>ブリモラックに水を浴びせる(普通の水であれ、水の効果によるものであれ)ことは、このフィーンドに物理的な害を与えないが、@Damage[3d6[mental]]ダメージを与える。ブリモラックを完全に水に浸すと、ラウンドごとに@Damage[5d6[mental]]ダメージを与える。</p>"
     },
     "Extinguishing Aversion": {
@@ -3005,7 +3005,7 @@
       "name": "振動感知(不明瞭、60フィート)"
     },
     "9uDPkhvDHQvs18xG": {
-      "name": "ヴィヴィパラス・バース/Viviparous Birth",
+      "name": "ビビパラス・バース/Viviparous Birth",
       "description": "<p>殺された時、エンプレス・ボア・ワームは宿している幼体を激しく排出する。これらの幼体はエンプレス・ボア・ワームの占める空間に@UUID[Compendium.pf2e.pathfinder-bestiary-3.Actor.aQusm2Uh1tw00IVb]{ボア・ワーム・スウォーム}として噴出する。</p>\n<p>さらに、腐食性の内臓が飛び散ることにより、@Template[type:emanation|distance:20]{20フィート}以内のすべてのクリーチャーは@Damage[5d10[acid]]ダメージを受ける(@Check[type:reflex|dc:25|basic:true]セーヴ)。</p>"
     },
     "Viviparous Birth": {
@@ -3073,7 +3073,7 @@
       "description": "<p>24時間, @Check[type:thievery|traits:action:disable-a-device|dc:22], スタンバイ</p>\n<hr />\n<p>クロックワークが行動するためには、別のクリーチャーによって専用の鍵でゼンマイを巻かれなければならない。これには1分かかる。一度巻かれると、記載された時間(通常は24時間)の間稼働し続ける。その時間が経過すると、周囲の状況を認識できなくなり、再度ゼンマイを巻かれるまで行動できなくなる。一部のクロックワークの能力は、残りの稼働時間を消費する必要がある。クロックワークは持っている時間以上を消費することはできず、残り時間が0になると直ちに停止する。クロックワークが最後にいつ巻かれたかが不明な場合、ほとんどのクロックワークの管理者は、すべてのクロックワークを定時に、通常は午前8時に巻く。</p>\n<p>ゼンマイ巻きの項目に「スタンバイ」と記載されているクロックワークは、3アクションのアクティビティとしてスタンバイ・モードに入ることができる。スタンバイ中、稼働時間は減少しないが、周囲を感知することはできる(《知覚》に-2のペナルティを受ける)。スタンバイ中は行動できない。ただし1つだけ例外がある。クリーチャーを感知したとき、リアクションとしてスタンバイを終了できる(必要であればイニシアチブをロールする)。</p>\n<p>クリーチャーは、クロックワークのゼンマイを緩めるために(ゼンマイ巻きの項目に記載されたDCで)@UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{〈装置無力化〉}を行うことができる。成功するたびに、そのクロックワークは1時間の稼働時間を失う。これはクロックワークがスタンバイ・モードであっても行うことができる。</p>"
     },
     "co4QqqzbDABHUIAu": {
-      "name": "起動サーペント・モード/Activate Serpent Mode",
+      "name": "サーペント・モード起動/Activate Serpent Mode",
       "description": "<p><strong>トリガー</strong>クロックワーク・サーペントが自身のターンを開始する</p>\n<hr />\n<p><strong>効果</strong>クロックワーク・サーペントは異なるモードに変形する。1d3をロールし、以下の選択肢を参照すること。現在起動できないモードをロールした場合、クロックワーク・サーペントは次の自身のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}となる。自身のターンの終了時に、それは自動的にサーペント・モードを解除する。</p>\n<p><strong>1コブラ・モード</strong>クロックワーク・サーペントは「威圧的なフード」を使用できる。</p>\n<p><strong>2コンストリクター・モード</strong>クロックワーク・サーペントは自身のコイルによる〈ストライク〉を使用でき、また「締め付け」を行える。</p>\n<p><strong>3ラトルスネーク・モード</strong>クロックワーク・サーペントは「粉砕のガラガラ」を使用できる。</p>"
     },
     "Activate Serpent Mode": {
@@ -3275,7 +3275,7 @@
       "name": "爪"
     },
     "8YsGDoOVFggFkDuw": {
-      "name": "グレーター・酸・フラスコ/Greater Acid Flask"
+      "name": "グレーター・アシッド・フラスク/Greater Acid Flask"
     },
     "Greater Acid Flask": {
       "name": "グレーター・酸・フラスコ"
@@ -3449,7 +3449,7 @@
       "description": "<p>チェルタスは拳を打ちのめす弧を描くように振り回し、拳による〈ストライク〉を行い、攻撃ロールの結果を隣接する最大2体の敵のACと比較する。その後、彼はダメージをロールし、命中した各クリーチャーにそのダメージを適用する。これは彼のマルチアタック・ペナルティにおいて2回の攻撃として数える。</p>"
     },
     "CXVQlp8TsdJY16il": {
-      "name": "スナッチ武器/Snatch Weapon",
+      "name": "スナッチ・ウェポン/Snatch Weapon",
       "description": "<p>チェルタスはクリーチャーに対して@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}を行う。もし相手の手から武器を叩き落としたなら、チェルタスはその武器を手に取り、その武器を使って相手に対して〈ストライク〉を行う。これは彼のマルチアタック・ペナルティにおいて2回の攻撃として数える。</p>"
     },
     "Snatch Weapon": {
@@ -3485,7 +3485,7 @@
       "name": "テレパシー/Telepathy"
     },
     "WKWzTrWyiPJNihmZ": {
-      "name": "思考感知/Thoughtsense",
+      "name": "ソートセンス/Thoughtsense",
       "description": "<p>ゴスレグはクリーチャーの精神的本質を、記載された射程を持つ明瞭な感覚として感知する。ゴスレグは思考感知(thoughtsense)を用いてマインドレスなクリーチャーを感知することはできない。</p>"
     },
     "Thoughtsense": {
@@ -3538,7 +3538,7 @@
       "description": "<p><strong>必要条件</strong>インテレクト・ディヴァウラーがBody Thiefを用いて肉体を操っている。</p>\n<hr />\n<p><strong>効果</strong>インテレクト・ディヴァウラーは宿主の肉体から離れる。その肉体は即座に死亡し、Body Thief能力の宿主として適さなくなる。インテレクト・ディヴァウラーは隣接するスペースに本来のサイズで出現する。</p>"
     },
     "pHckdhGspQesS1nl": {
-      "name": "ラヴィッジ/Ravage",
+      "name": "ラビッジ/Ravage",
       "description": "<p>そのインテレクト・ディヴァウラーは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャーに対して、自身の最も高い攻撃修正値と同じ攻撃修正値を用いて2回のタロン・ストライクを行う。</p>\n<p>これらのストライクは〈即死〉の特性を得る。もしRavageが対象を殺害したなら、そのインテレクト・ディヴァウラーはそれに対してフリー・アクションとしてBody Thiefを使用できる。</p>"
     },
     "Ravage": {
@@ -3563,7 +3563,7 @@
       "name": "グレーター・暗視/Greater Darkvision"
     },
     "swAJMaqujVUFqFKT": {
-      "name": "宿主感知/Host Scent",
+      "name": "ホスト・セント/Host Scent",
       "description": "<p>イスクルグは、30フィート以内にいるイスクルギアに感染したあらゆるクリーチャーを正確に感知でき、その病気の現在の段階を知ることができる。</p>"
     },
     "Host Scent": {
@@ -3819,7 +3819,7 @@
       "name": "テレパシー(100フィート)"
     },
     "1mqppqclycua1e1x": {
-      "name": "ハントの力/Power of the Haunt",
+      "name": "ホーントの力/Power of the Haunt",
       "description": "<p>ガイストが、無力化も破壊もされていないハウントから100フィート以内にいる場合、彼らはACとセーヴィング・スローに+2の状況ボーナスを得て、噛みつきによるストライクで追加の@Damage[1d6[void]]ダメージを与える。そのガイストについて@Check[type:perception|dc:20|traits:action:seek]判定に成功したクリーチャーは、ガイストの外套クロークから伸びる巻きひげが、ハウントに近づくほど太く、より激しく動くようになるのを目にする。</p>"
     },
     "Power of the Haunt": {
@@ -3838,7 +3838,7 @@
       "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong> ガイストは@Template[type:emanation|distance:20]の範囲に魂を貫くような哄笑を解き放ち、その効果は次のターンの開始時まで続く。この範囲内にいる、またはこの範囲に入った全てのクリーチャーは@Check[type:will|dc:26]セーヴに成功しなければ、パニックに陥った哄笑に呑まれ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる(クリティカル失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3})。クリーチャーは「テリファイング・ラフ」1回につき1度しかセーヴを試みず、セーヴに成功したクリーチャーは24時間、一時的な完全耐性を得る。</p>"
     },
     "58ox9o6ljire079b": {
-      "name": "ハントの憤怒/Wrath of the Haunt",
+      "name": "ホーントの憤怒/Wrath of the Haunt",
       "description": "<p><strong>頻度使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件必要条件</strong>ガイストが活動中のハウントから100フィート100フィート以内にいること。</p>\n<hr />\n<p><strong>効果効果</strong>ハウントはネクロマンシーの力をガイストに送り込み、ガイストの次のターンの終了時まで非活動状態となり、ハウントが再び活動するまでハウントのオーラの力を無効化する。ガイストの外套クロークの縁が、炎と煙でできているように見える鞭のような巻きひげに変貌し、近くのクリーチャーに襲いかかる。ガイストから10フィート10フィート以内にいるすべての生きたクリーチャー生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10 火炎ダメージ火炎ダメージに加え4d6 虚無ダメージ虚無ダメージ}を受ける(@Check[type:reflex|dc:28|basic:true]セーヴ)。</p>"
     },
     "Wrath of the Haunt": {
@@ -3858,7 +3858,7 @@
       "name": "ボム"
     },
     "TpEz65tv1dwJ91cy": {
-      "name": "アルケミカル・チェインバーズ/Alchemical Chambers",
+      "name": "アルケミカル・チェンバーズ/Alchemical Chambers",
       "description": "<p>アルケミカル・ゴーレムの身体には、異なる物質で満たされた6つの錬金術的チャンバーが含まれている。アルケミカル・ゴーレムの能力がランダムに決定される錬金術的効果を呼び出す場合、1d6をロールし、以下を参照すること：</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>[[/br 1d6 #Alchemical Chambers]]</th>\n<th>錬金術的錬金術効果効果</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>\n<p>酸ダメージ酸ダメージ</p>\n</td>\n</tr>\n<tr>\n<td>2</td>\n<td>冷気ダメージ冷気ダメージ</td>\n</tr>\n<tr>\n<td>3</td>\n<td>電撃ダメージ電撃ダメージ</td>\n</tr>\n<tr>\n<td>4</td>\n<td>火炎ダメージ火炎ダメージ</td>\n</tr>\n<tr>\n<td>5</td>\n<td>毒ダメージ毒ダメージ</td>\n</tr>\n<tr>\n<td>6</td>\n<td>病気：セーヴ@Check[type:fortitude|dc:26|name:Alchemical Sickness|traits:disease]に失敗すると吐き気状態@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}(大失敗すると吐き気状態@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2})</td>\n</tr>\n</tbody>\n</table>"
     },
     "Alchemical Chambers": {
@@ -4750,7 +4750,7 @@
       "name": "フォーム・アップ/Form Up"
     },
     "4vjdVbvQ2cPvkxA1": {
-      "name": "〈見回す〉採石場/Seek Quarry",
+      "name": "獲物を〈見回す〉/Seek Quarry",
       "description": "<p>Angry townsfolkは、身体的特徴を知っているクリーチャー1体を標的として指定するために1分を費やすことができる。彼らはその標的に対する《知覚》判定に+2の状況ボーナスを得る。</p>"
     },
     "Seek Quarry": {
@@ -4766,7 +4766,7 @@
       "description": "<p><strong>閾値</strong> 50(12マス)、25(8マス)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>"
     },
     "BCsGqHil1Dziu3FX": {
-      "name": "ピットチフォークと松明/Pitchforks and Torches",
+      "name": "ピッチフォークと松明/Pitchforks and Torches",
       "description": "<p><span class=\"action-glyph\">1</span>から<span class=\"action-glyph\">3</span></p>\n<p><strong>使用制限</strong> 1ラウンドにつき1回。</p>\n<hr />\n<p><strong>効果</strong> Angry townsfolkは、@Template[type:emanation|distance:10]{10フィート}以内の各敵に対して協調した近接攻撃を行い、@Check[type:reflex|dc:19|basic:true]セーヴを要求する。ダメージはアクション数に依存する。</p>\n<p><span class=\"action-glyph\">1</span> @Damage[1d10[piercing]]ダメージまたは@Damage[1d10[fire]]ダメージ</p>\n<p><span class=\"action-glyph\">2</span> @Damage[(1d10+7)[piercing]]ダメージまたは@Damage[(1d10+7)[fire]]ダメージ</p>\n<p><span class=\"action-glyph\">3</span> @Damage[(1d10+10)[piercing]]ダメージまたは@Damage[(1d10+10)[fire]]ダメージ</p>"
     },
     "Pitchforks and Torches": {

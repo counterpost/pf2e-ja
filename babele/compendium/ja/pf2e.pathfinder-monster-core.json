@@ -260,7 +260,7 @@
           "description": "<p>ラミア・マイトリアークは中型のヒューマノイドの姿を取ることができる。これは彼らの移動速度や、ストライクによる攻撃およびダメージ修正値を変更するものではないが、彼らが呪われた接触を使用することは妨げる。各ラミア・マイトリアークは、本来の姿である時の上半身に似た固定されたヒューマノイドの姿を持つ。これが、この能力を使用して彼らが取ることのできる唯一のヒューマノイドの姿である。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "PycbJPVh46UXYc9R": {
-          "name": "メイトリアークス・カレス/Matriarch's Caress",
+          "name": "マトリアークス・カレス/Matriarch's Caress",
           "description": "<p>ラミア・マイトリアークはクリーチャー1体を接触し、そのクリーチャーは@Check[will|dc:28]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 4}状態となる)。対象がこの能力に対する追加のセーヴに失敗するたび、この状態の値は1増加する(大失敗した場合は2増加し、最大で@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 4}となる)。この状態の値は24時間ごとに1減少する。</p>"
         },
         "TyonmqwWHejYuBAN": {
@@ -665,7 +665,7 @@
       ],
       "items": {
         "7P4VEdy4KccmQ5Gp": {
-          "name": "エコーロケーション(正確、20フィート)/Echolocation (Precise) 20 feet",
+          "name": "エコーロケーション（精密、20フィート）/Echolocation (Precise) 20 feet",
           "description": "<p>バット・スウォームは記載された射程において、聴覚を明瞭な感覚として使用できる。</p>"
         },
         "bjF022r2jEalWdPs": {
@@ -804,7 +804,7 @@
           "name": "尾"
         },
         "7XIYM7XKRyeIRUn6": {
-          "name": "スノー・ヴィジョン/Snow Vision",
+          "name": "スノー・ビジョン/Snow Vision",
           "description": "<p>雪はフロストドレイクの視界を妨げない。彼らは降雪による@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealment}を無視する。</p>"
         },
         "RAFn5P8tJAjf5eEe": {
@@ -1033,7 +1033,7 @@
           "name": "インプルーヴド・グラブ"
         }
       },
-      "name": "シェムハザ/Shemhazian",
+      "name": "シェムハジアン/Shemhazian",
       "publicNotes": "<p>Shemhazians rise from the souls of torturers and those who reveled in mutilating the physical bodies of their victims. Standing 35 feet tall, a shemhazian is well equipped with a wide range of claws, pincers, and fangs to continue inflicting such torments on those they encounter.</p>\n<p>Shemhazians delight in tormenting mortals, of course, but more than most demons, they revel in sharing the pain with their own kind. Other demons fear and hate shemhazians for this reason, with only the most powerful willing to work with a shemhazian to achieve a shared goal. Even then, the shemhazian is always on the watch for an opportunity to bring pain and suffering to their allies along with any foe.</p>\n<hr />\n<p>When a sinful mortal soul is judged and sent on to the Outer Rifts, it can become a deadly fiend—a demon. Demons are living incarnations of sin—be they classic sins like wrath or gluttony, or more \"specialized\" depravities like an obsession with torture or the act of treason or treachery. Once formed, a demon's driving goals are twofold—the amassing of personal power, and the corruption of mortal souls to cause them to become tainted by sin. In this way demons ensure a never-ending supply of new demons to bolster their ever-growing ranks in the Outer Rifts.</p>\n<p>Demons are selfish and self-absorbed creatures, and most firmly believe that mortals only play at being more virtuous than fiends. They enjoy tempting mortals into damnation to both indulge their egos and swell their armies. Like many other fiends, one of the great rewards of this manipulation is fulfilling their hunger for souls. In their eyes, the primary use for these souls is to spawn new demons, who can serve as soldiers, slaves, pawns, or even currency for their more powerful masters.</p>",
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
@@ -1269,7 +1269,7 @@
           "name": "リアクティヴ・ストライク"
         },
         "R8f6nx9jMnFB03qP": {
-          "name": "サヴェージ/Savage",
+          "name": "サベージ/Savage",
           "description": "<p><strong>トリガー</strong>そのワイバーンによって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態にされているクリーチャーが、@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行うための技能判定にクリティカル失敗した</p>\n<hr />\n<p><strong>効果</strong>そのワイバーンはトリガーとなったクリーチャーに対して毒針による〈ストライク〉を行う。</p>"
         },
         "kq0boAEZsA01NsEH": {
@@ -1498,7 +1498,7 @@
           "description": "<p>ジャイアント・ワスプは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態の隣接するクリーチャーに卵を産み付け、ワスプ・ラーヴァ病に曝露させる。</p>"
         },
         "Crv6pRa77FWxBY6M": {
-          "name": "ワスプ・ラーヴァ/Wasp Larva",
+          "name": "ワスプ・ラーバ/Wasp Larva",
           "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:21]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のない保菌者([[/gmr 1d6 #days]]{1d6日})</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}([[/gmr 1d4 #days]]{1d4日})</p>\n<p><strong>第3段階</strong> @Damage[5d6[untyped]]ダメージ、幼虫が這い出る(病気は終了する)</p>"
         }
       },
@@ -1781,7 +1781,7 @@
           "name": "テレパシー(60フィート)/Telepathy 60 feet"
         },
         "MzHIjOVqhOXnluws": {
-          "name": "エクスティングウィッシング・アヴァージョン/Extinguishing Aversion",
+          "name": "エクスティングイッシング・アヴァージョン/Extinguishing Aversion",
           "description": "<p>ブリモラックに水を浴びせることは(通常の水であれ、水に関連する効果であれ)、そのフィーンドに物理的な害を与えないが、@Damage[3d6[mental]]ダメージを与える。ブリモラックを完全に水に浸すと、ラウンドごとに@Damage[5d6[mental]]ダメージを与える。</p>"
         },
         "EViJHho1D7U93moQ": {
@@ -2363,7 +2363,7 @@
           "description": "<p>クリーチャーがノルンによる幸運効果と、ノルン以外の源からの不運効果(あるいはその逆)の対象となった場合、ノルンの効果はもう一方の効果を自動的に対抗して通常通り発生する。両方の効果が互いに打ち消し合うことはない。幸運効果と不運効果の両方がノルンによるものである場合、その2つは通常通り互いに打ち消し合う。GMの判断により、デズナ、マグド、ファラズマのような運命や幸運に関連する強力な存在は、この能力によって効果を無効化されない。</p>"
         },
         "TNAO4qk6h9SrlrOP": {
-          "name": "セヴァー・フェイト/Sever Fate",
+          "name": "セバー・フェイト/Sever Fate",
           "description": "<p>ノルンが〈ストライク〉で虚無ダメージを与えた時、彼女は@Damage[10[healing]]{10 ヒット・ポイント}を回復する。対象は@Check[fortitude|dc:39]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}状態となる)。</p>\n<p>ノルンがさらに与える虚無ダメージは、セーヴに失敗した場合はドレイン状態の値を1(大失敗した場合は2)増加させ、最大で@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 4}まで増加する。</p>"
         },
         "EPXehWRhcO5caYov": {
@@ -2441,7 +2441,7 @@
           "description": "<p>下水道のウーズは、振動と空気の動きを通じて近くの動きを感知できる。</p>"
         },
         "mdqK7RuSjtezVyS8": {
-          "name": "フィルス・ウェイヴ/Filth Wave",
+          "name": "フィルス・ウェイブ/Filth Wave",
           "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong>下水道のウーズは汚物の波を解き放ち、@Template[emanation|distance:20]内のすべてのクリーチャーを覆う。範囲内の各クリーチャーは@Check[reflex|dc:17|options:area-effect,damaging-effect]セーヴに成功しなければ、@Damage[1d4[acid]|options:area-damage]ダメージを受け、1分の間、移動速度に–10フィートのペナルティを受ける(大失敗した場合、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になる)。</p>\n<p>クリーチャーは〈扱う〉アクションを消費して誰かの汚れを落とすことができ、1回のアクションごとに移動速度ペナルティを5フィート減少させる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.Qomp2EujVCbzJb4X]{効果: Filth Wave}</p>"
         }
       },
@@ -2454,7 +2454,7 @@
           ]
         }
       ],
-      "name": "スューアー・ウーズ/Sewer Ooze",
+      "name": "スーアー・ウーズ/Sewer Ooze",
       "publicNotes": "<p>These amorphous masses of sewage and other detritus make their way through filthy culverts beneath cities large and small.</p>\n<hr />\n<p>Slimes, molds, and other oozes can be found in dank dungeons and shadowed forests. While not necessarily evil, some grow to enormous sizes and have insatiable appetites.</p>"
     },
     "Cassisian": {
@@ -3341,7 +3341,7 @@
           "name": "+2ステイタス・トゥ・オール・セーヴズ・ヴァーサス・プライマル"
         },
         "eiF3caXCeUyEeCyp": {
-          "name": "アバンダン・アーマー/Abandon Armor",
+          "name": "アバンドン・アーマー/Abandon Armor",
           "description": "<p>アダマンティンドラゴンのヒット・ポイントが半分未満になると、その耐性は10減少し、移動速度に+10の状況ボーナスを得る。</p>"
         },
         "2Fy5iLD2TzN5Y4ks": {
@@ -3577,7 +3577,7 @@
           "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:43]</p>\n<p><strong>最大持続時間</strong> 10ラウンド</p>\n<p><strong>第1段階</strong> @Damage[6d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[7d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[8d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 3}(1ラウンド)</p>"
         },
         "YpgcfJpD1jMhcu1X": {
-          "name": "シェイプ・デヴィルズ/Shape Devils",
+          "name": "シェイプ・デビルズ/Shape Devils",
           "description": "<p>ネッサリは、600フィートの放射内にいる大量のオルトを、地獄の軍勢を増強するために、より強力なデヴィルへと作り変える。ネッサリは以下の表に記載された数のオルトを利用できなければならない。</p><table class=\"pf2e remaster\"><thead><tr><th>デヴィル レベル</th><th>オルトの数</th></tr></thead><tbody><tr><td>4以下</td><td>4</td></tr><tr><td>5-6</td><td>8</td></tr><tr><td>7-8</td><td>16</td></tr><tr><td>9-10</td><td>32</td></tr><tr><td>11-12</td><td>64</td></tr><tr><td>13-14</td><td>128</td></tr><tr><td>15-16</td><td>256</td></tr><tr><td>17-18</td><td>512</td></tr><tr><td>19-20</td><td>1,024</td></tr></tbody></table><p>ネッサリは1日につき100体のオルトを形成でき、11日間で最大1,100体まで形成できる。この方法で作成されたデヴィルはネッサリの支配下にあり、その命令に従う。ただし、作成されたネッサリや同等の力を持つ他のデヴィルは例外であり、常に独立している。その結果、仲間となるデヴィルを作成することを選ぶネッサリはほとんどいない。〈デヴィル形成〉アクティビティの終了時に、ネッサリは目的のデヴィルのレベルに対する信じがたい難易度の@Check[religion] 判定を行い、結果は以下の通りとなる。</p><hr /><p><strong>クリティカル成功</strong> ネッサリは集められたオルトから、1体ではなく2体のデヴィルを形成する。</p>\n<p><strong>成功</strong> ネッサリは目的のタイプとレベルのデヴィルを形成する。</p>\n<p><strong>失敗</strong> オルトから形成されたデヴィルは、意図したデヴィルより2レベル低い。</p>\n<p><strong>クリティカル失敗</strong> ネッサリはデヴィルの形成に失敗し、資源を浪費したとしてアークデヴィルの怒りを買う。</p>"
         },
         "uT4KswZKvsTixIVs": {
@@ -3651,7 +3651,7 @@
           "description": "<p>ファンガス・レシーのスポア・ポッド〈ストライク〉からダメージを受けたクリーチャーは、その胞子の雲能力と同じDC(@Check[fortitude|dc:16])と効果を持つセーヴィング・スロウを行わなければならない。</p>"
         }
       },
-      "name": "菌類 レッシー/Fungus Leshy",
+      "name": "ファンガス・レシー/Fungus Leshy",
       "publicNotes": "<p>Fungus leshies guard caves, bogs, and damp, dark places. Their fungus gardens are bizarre by most standards, but fungus leshies are extremely proud of their works.</p>\n<hr />\n<p>Leshies are intelligent plant creatures who guard areas of primeval wilderness or earthly power. Originally created by powerful fey, they manifest when a skilled practitioner of primal magic—typically a druid—combines a nature spirit with a body carefully grown and crafted from local vegetation. The rites and materials required to create a leshy vary depending on the type of leshy. They are typically given life in an area of great natural significance, such as an arboreal's grove, a druidic circle, a fairy ring, or a great natural wonder.</p>"
     },
     "Guthallath": {
@@ -3944,7 +3944,7 @@
           "name": "+1・ステイタス・トゥ・オール・セーヴズ・ヴァーサス・マジック"
         },
         "EXFfGINJSbHmcAki": {
-          "name": "リジデュアル・フォース/Residual Force",
+          "name": "レジデュアル・フォース/Residual Force",
           "description": "<p><strong>必要条件</strong>ヴェネデーモンの直前のアクションが呪文の発動であった。</p>\n<hr />\n<p><strong>効果</strong>消えかかるルーンがヴェネデーモンの触手にまとわりつく。ヴェネデーモンはリーチ20フィートを持ち、2d4の追加のフォース・ダメージを与える触手による〈ストライク〉を行う。</p>"
         },
         "1E0sdxKyksdPrnuZ": {
@@ -3988,7 +3988,7 @@
           "name": "ハンド・クロスボウ"
         },
         "YS1lNceoORGTpa2L": {
-          "name": "アルケミカル・グレネイズ/Alchemical Grenades",
+          "name": "アルケミカル・グレネーズ/Alchemical Grenades",
           "description": "<p>グレネーディアは、酸、冷気、または火炎ダメージのいずれかを与え、さらに同タイプの持続ダメージ2と爆風ダメージ2を与える錬金術爆弾を6個携帯している(通常は各タイプ2個ずつである)。グレネーディアは毎日、回収した素材を使用してこれらを補充する。</p>"
         },
         "MVS8VVm9BG19yQpr": {
@@ -4008,7 +4008,7 @@
           "description": "<p>ラットフォークのグレネーディアは、この能力を持つ味方と同じ広場で移動を終了できる。このようなクリーチャーは2体までしか同じ空間を共有できない。</p>"
         }
       },
-      "name": "ラットフォーク・グレネーディア/Ratfolk Grenadier",
+      "name": "ラットフォーク・グレナディア/Ratfolk Grenadier",
       "publicNotes": "<p>Grenadiers use alchemical techniques and stealth to defend their communities.</p>\n<hr />\n<p>True to their name, ratfolk are rodent-like humanoids well suited to living on the outskirts of mainstream society. Despite common misconceptions that they are dirty or diseased, ratfolk, or ysoki, as they call themselves, keep impeccably clean. Ratfolk are also sometimes mistaken for wererats and initially treated with fear until they can correct the mistaken identification—if they get the chance to do so.</p>\n<p>In general, ratfolk have a keen understanding of pathological and alchemical sciences, which they employ in trade and self-defense. They make accomplished alchemists and inventors, and they often protect their lairs with traps, bombs, and other creations. Ratfolk merchants regularly dispatch large trade caravans that travel widely for a year or more before returning to their home community. During this time, they make an effort to learn new things from the people they encounter and collect interesting materials and goods that they can bring back to their warrens.</p>\n<p>In their warrens, on the road, and in cities, ratfolk are extremely communal, thriving on proximity to and contact with one another even in relatively tight spaces. In addition, ratfolk are excellent at fighting in cramped spaces alongside their kin. Threatening one ratfolk or their allies is a surefire way to rally the whole community.</p>"
     },
     "Tomb Jelly": {
@@ -4025,7 +4025,7 @@
           "description": "<p>トゥーム・ジェリーは、そのリーチ内の同意するアンデッドクリーチャーに自身の物質の一部を飛び散らせる。対象は@Damage[5[void,healing]|shortLabel] HPを回復し、次の自身のターンの終了時まで、その　近接ストライクは墓所の呪いの恩恵を得る。</p>"
         },
         "snySLSbjtHjATjFS": {
-          "name": "フレッシュディゾルヴィング・アシッド/Flesh-dissolving Acid",
+          "name": "フレッシュディゾルビング・アシッド/Flesh-dissolving Acid",
           "description": "<p>トゥーム・ジェリーの酸は肉体のみにダメージを与える。</p>"
         }
       },
@@ -4248,7 +4248,7 @@
           "description": "<p>シンスポーンの顎による攻撃を受けたクリーチャーは、罪深い思考に襲われるため、@Check[will|dc:18]セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>効果なし</p>\n<p><strong>成功</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}</p>\n<p><strong>失敗</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}</p>\n<p><strong>クリティカル失敗</strong> sickened 2状態に加え、1分の間、移動速度に–10フィートの状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.9Qyu0HN5j6DO8Izc]{効果: Sinful Bite}</p>"
         }
       },
-      "name": "スロススポーン/Slothspawn",
+      "name": "スロースポーン/Slothspawn",
       "publicNotes": "<p>Sinspawn were created by one of seven ancient wizards known collectively as runelords—each of whom embraced and embodied one of seven sins. The first sinspawn was created by the Runelord of Wrath, utilizing techniques that have since gone on to influence fleshwarping practices. It wasn't long before the technique used to create sinspawn fell into the hands of the other runelords, and while each tried their own hand at crafting variants of their own design, today, sinspawn of wrath remain the most numerous and notorious of their kind.</p>\n<p>Bearing only a vague resemblance to the humanoids from whose flesh they were formed, sinspawn generally appear horrifically emaciated and have unnaturally long arms and digitigrade legs, each with a trio of stubby, taloned digits. Veins bulge across sinspawn's bodies in sanguine patterns that suspiciously resemble twisted runes, and their flesh is pale and hairless. Their heads are elongated, with slits for a nose, red eyes, and disturbing lower jaws that split in half at the chin, revealing pedipalps that end in tiny, three-fingered hands and framing a long, lolling tongue.</p>\n<p>Sinspawn stand 6-1/2 feet tall and typically weigh as much as an emaciated human of their size. They behave in a manner consistent with their associated sin and have physical characteristics that hint at these qualities. For example, greedspawn's veins appear to run with gold, while envyspawn appear even more gaunt than the rest of their kin.</p>",
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1、精神に対するすべてのセーヴに状況ボーナス+4"
     },
@@ -4348,7 +4348,7 @@
           "description": "<p>ヴォイドワームの尾による〈ストライク〉で攻撃を受けたクリーチャーは、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態に1ラウンドの間なる(@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態にクリティカルヒット時はなる)。成功した@Check[will|dc:16]セーヴはこの効果を無効化し、1分の間、当惑させる一撃に対する一時的な完全耐性を与える。</p>"
         }
       },
-      "name": "ヴォイドワーム/Voidworm",
+      "name": "ボイドワーム/Voidworm",
       "publicNotes": "<p>Other proteans don't consider the flying, iridescent beings known as voidworms to be part of a protean caste at all, but instead merely a shameful side effect of the Maelstrom's constantly churning energy. To call a voidworm a protean in the presence of a more powerful protean is a sure a way to instigate combat.</p>\n<p>Voidworms themselves have little interest in whether anyone sees them as proteans. They maintain a thriving ecology in the Maelstrom, frolicking in schools of up to 20 and playing in the chaos of constantly shifting realities. Elsewhere (such as in the Universe), voidworms are mesmerized by the principle of object permanence; many latch onto specific features of a region (such as a hillside or pond) and flit through the air around it for months or even years as they wait for the object of their curiosity to change. Minor changes—such as a tree's change of color in the fall, a corpse's slow decay, or periodic venting of steam from a geyser—all fascinate voidworms. A voidworm is about 2 feet long and weighs 2 pounds.</p>\n<hr />\n<p>Guardians of disorder and natives of the primal plane of chaos known as the Maelstrom, proteans consider it their calling to spread bedlam and hasten entropic ends. The most powerful proteans are demigods known collectively as the protean lords, although they are mysterious entities whose cults in the Universe tend to be obscure and secretive.</p>\n<p>Proteans divide themselves into a loose caste system and possess a dizzying variety of powers. Most proteans have a serpentine body with the head of a primeval beast. Scholars have long been intrigued by this fact—that scions of dissolution and disorder would share so many features—pointing out that there is some semblance of order even in the purest chaos. Others note that the serpentine form is one of the most primeval shapes, perhaps suggesting that in a reality at the dawn of time, such shapes were all that could exist. The proteans themselves have little to say on the matter, which, perhaps ironically, only adds to the confusion and lack of consensus surrounding their kind. After all, if even chaos cannot be trusted to be chaotic, would that not be the purest form of entropy?</p>"
     },
     "Snow Oni": {
@@ -4396,7 +4396,7 @@
           "description": "<p>スノー・オニは降り積もった雪のように白い、氷の稲妻を呼び寄せる。この稲妻は60フィート以内の地点に命中し、空気を凍らせて雪の雲を作り出し、その雲は@Template[burst|distance:20]を満たし、1分の間持続する。</p>\n<p>雪の中にいるすべてのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となり、雪の外にいるすべてのクリーチャーは雪の中にいるクリーチャーから見て隠蔽状態となる。雪の中に入るか、雪の中で自身のターンを開始したクリーチャーは@Damage[15[cold]|options:area-damage]ダメージを受け、@Check[fortitude|dc:33|basic|options:area-effect]セーヴを行う。</p>"
         }
       },
-      "name": "スノウ・オニ/Snow Oni",
+      "name": "スノー・オニ/Snow Oni",
       "publicNotes": "<p>Snow oni maintain their seething temperaments even in their icy homes. The isolation of their environment gives them trappings of asceticism, and many snow oni pursue physical perfection, reveling in the process of turning their bodies into powerful fighting machines. They are just as hedonistic and brutal as any of their brethren, however, and eager to indulge in warm baths, strong drink, and humanoid flesh.</p>\n<p>Like many oni, snow oni possess a third eye in the center of their forehead. This eye gives snow oni a mystical sense that allows them to peer through even the thickest flurries of snow.</p>\n<hr />\n<p>Oni are large, brutal creatures originating in Tian Xia who resemble humanoids with brightly colored skin, tusks, and horns. Though commonly mistaken for fiends, the first oni were originally kami, tutelary nature spirits. These kami suffered a terrible trauma, losing their sacred wards to dramatic disasters or the callousness of others, and as a result transformed into the violent creatures they are today. While some believe that oni can be spiritually placated through proper ritual worship that transforms them back into kami, many of these would-be saviors fall to oni's notorious brute strength, flesh-rending teeth, and command of storms.</p>\n<p>Oni possess the ability to disguise themselves as other humanoids. They are rarely creative in their disguises, often choosing a specific appearance similar to their oni form and sticking with it. This simplicity catches many by surprise, however, as people assume oni are limited to a single alternate form, which is by no means the case.</p>"
     },
     "Tengu Sneak": {
@@ -4427,7 +4427,7 @@
           "description": "<p>戦闘の最初のラウンドにおいて、まだ行動していないクリーチャーは、そのテングに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         }
       },
-      "name": "天狗・スニーク/Tengu Sneak",
+      "name": "テング・スニーク/Tengu Sneak",
       "publicNotes": "<p>Tengu are an adaptable people originally from the continent of Tian Xia, but whose travels have taken them across all of Golarion. As a people in diaspora, tengu are almost always found within larger kingdoms and communities of other peoples, with the exception of their home nation of Kwanlai. As a result, tengu tend to gather in close-knit social groups both with other tengu as well as with other peoples of non-majority ancestries, collecting words and customs from other cultures the way a bird collects trinkets for its nest.</p>\n<p>Although humanoid, tengu have very distinct, birdlike features, and many would say that they resemble crows more than they do humans. They have strong, thick beaks, as well as sharp talons at the ends of their arms and legs. Most of a tengu's body is covered in small feathers that range in color from dark brown and midnight blue to glossy black, with lighter colors being rare but not unheard of. Like many avian creatures, tengu have hollow bones, making them much lighter than other humanoids of their size, and some tengu even possess wings that allow them to fly.</p>\n<p>Tengu have a strong cultural focus on the sky, considering tall mountaintops sacred places and worshipping gods associated with nature and storms, like Gozreh or Hei Feng. They have a long and proud tradition of both martial arts and smithing, and many aspiring Tian heroes have sought out a tengu mentor or swordsmith. Tengu magic revolves around using tengu feathers, bound into a fan, as a medium to command wind and lightning, and some tengu even have the power to \"eat\" misfortune—skills that only help tengu as they continue expanding across Golarion to new lands.</p>"
     },
     "Riding Horse": {
@@ -4662,7 +4662,7 @@
           "name": "ファストヒーリング2/Fast Healing 2"
         },
         "QOTAHN3u4KDHAUOH": {
-          "name": "プロティアン・アナトミー8/Protean Anatomy 8",
+          "name": "プロティアン・アナトミー（8）/Protean Anatomy 8",
           "description": "<p>アズレッツィの生命維持器官は常に形と位置を変え続けている。アズレッツィが酸、電撃、または音波ダメージのダメージを受けた直後、そのアズレッツィは、そのダメージ種別に対する記載された量の耐性を得る。これは1時間持続するか、プロティアンが他のタイプのダメージをダメージを受けるするまで(その場合、その耐性はそのタイプに合うように変化する)のいずれか早い方まで持続する。</p>\n<p>アズレッツィは、自ら望んで対象となる場合を除き、ポリモーフ効果に対して免疫である。もし@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態または@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態になった場合、アズレッツィは次のターンの終了時に、損傷した感覚器官に代わる新しい感覚器官が生えてくることで自動的に回復する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.c6SiBB3mzV8lZUQr]{効果: プロティアンの解剖学}</p>"
         },
         "czBySBdDeH7WSORn": {
@@ -5034,7 +5034,7 @@
           "name": "掴み"
         }
       },
-      "name": "ヴァンパイア・サーヴィター/Vampire Servitor",
+      "name": "ヴァンパイア・サービター/Vampire Servitor",
       "publicNotes": "<p>Vampires use their servitor pawns for infiltration and reconnaissance.</p>\n<hr />\n<p>Vampires are undead creatures that feed on the blood of the living.</p>"
     },
     "Witchwarg": {
@@ -5158,7 +5158,7 @@
           "description": "<p>パキケファロサウルスはその移動速度までストライドを行う。もし移動をターゲットの近接リーチ内で終了させたなら、そのターゲットに対して頭蓋骨の〈ストライク〉を行うことができる。もしパキケファロサウルスがこの〈ストライク〉でクリティカル・ヒットしたなら、ヒットしたクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}状態となる。</p>"
         },
         "aFiPts0pbbuzRaLf": {
-          "name": "サドン・ショーヴ/Sudden Shove",
+          "name": "サドゥン・シャヴ/Sudden Shove",
           "description": "<p><strong>トリガー</strong>パキケファロサウルスが中型以下の敵に頭蓋骨の〈ストライク〉でダメージを与える。</p>\n<hr />\n<p><strong>効果</strong>パキケファロサウルスは踏ん張って頭を跳ね上げ、敵を突き飛ばす。それはターゲットの頑健 DCに対して@Check[athletics|defense:fortitude]判定を行う。</p>\n<hr />\n<p><strong>クリティカル成功</strong>パキケファロサウルスは相手を自身から最大10フィート押しやり、ターゲットを@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にする。</p>\n<p><strong>成功</strong>パキケファロサウルスは相手を5フィート押し戻す。</p>\n<p><strong>失敗</strong>パキケファロサウルスは相手を押しやることに失敗する。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、この試みの失敗により、パキケファロサウルスは1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         }
       },
@@ -5602,7 +5602,7 @@
           "name": "ボム/Bomb"
         },
         "TpEz65tv1dwJ91cy": {
-          "name": "アルケミカル・チェインバーズ/Alchemical Chambers",
+          "name": "アルケミカル・チェンバーズ/Alchemical Chambers",
           "description": "<p>ノクシャス・ニードラーの身体には、異なる物質で満たされた6つの錬金術の小部屋がある。ノクシャス・ニードラーの能力が無作為に決定される錬金術の効果を求める場合、1d6をロールし、以下を参照すること(破壊された小部屋の結果をロールした場合、錬金術の効果は発生しない)：</p><table class=\"pf2e remaster\"><thead><tr><th>[[/gmr 1d6 #Alchemical Chambers]]</th><th>錬金術効果</th></tr></thead><tbody><tr><td>1</td><td><p>酸ダメージ</p></td></tr><tr><td>2</td><td>冷気ダメージ</td></tr><tr><td>3</td><td>電撃ダメージ</td></tr><tr><td>4</td><td>火炎ダメージ</td></tr><tr><td>5</td><td>毒ダメージ</td></tr><tr><td>6</td><td>病気：@Check[fortitude|dc:26|name:Alchemical Sickness|traits:disease]セーヴを行わなければならない。失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2})。</td></tr></tbody></table>"
         },
         "N0g5xdIF3LC3JDxP": {
@@ -5678,7 +5678,7 @@
           "description": "<p>シー・ハグは自身のコーヴンの呪文に@UUID[Compendium.pf2e.spells-srd.Item.2qGqa33E4GPUCbMV]{ヒューマノイド・フォーム}、@UUID[Compendium.pf2e.spells-srd.Item.z2mfh3oPnfYqXflY]{マリナーズ・カース}、そして@UUID[Compendium.pf2e.spells-srd.Item.Seaah9amXg70RKw2]{ウォーター・ウォーク}を加える。コーヴンを率いる際の呪文DCは20である。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
         },
         "ydbvsWl1BoVazVZj": {
-          "name": "シー・ハグズ・バーゲン/Sea Hag's Bargain",
+          "name": "シー・ハッグズ・バーゲイン/Sea Hag's Bargain",
           "description": "<p>シー・ハグは、正気である同意するクリーチャーと取引を行うことができる。そのクリーチャーは、勇気、美しさ、声といった、特別で大切な性質を差し出す。その対価として、シー・ハグは1分を費やして、そのクリーチャーを対象が望む姿へとポリモーフさせる。</p>\n<p>これは@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}として機能する。これは完全な変身であることもあれば、対象の身体の1つ以上の側面を変えるだけであることもあり、クリーチャーのサイズを1段階より大きく変更することはできない。クリーチャーはその新しい姿にふさわしい移動速度に変更する。ストライクによる攻撃ボーナスやダメージボーナスは変更しないが、ストライクが与えるダメージ種別は変更される可能性がある。これは無制限の持続時間を持ち、変身している間、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となり、病気状態を2未満に減少させることはできない。そのクリーチャーは病気状態であっても、ゆっくりと注意深く飲食することができる。対価として使用された失われた性質を回復する唯一の方法は、シー・ハグを倒すか、返還のために別の取引を行うことである。この方法で取引を終了すると、変身も解除される。</p>"
         },
         "R3u6nnIK33qXVJNK": {
@@ -5995,7 +5995,7 @@
           "description": "<p>ユーゴソルが@UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{スクイーズ}に成功したとき、それは狭い空間を全速で移動する。ユーゴソルにとって、狭い場所は移動困難な地形ではない。</p>"
         },
         "yxQPTCjmsUlWSm7n": {
-          "name": "リヴァート・フォーム/Revert Form",
+          "name": "リバート・フォーム/Revert Form",
           "description": "<p><strong>必要条件</strong>ウゴソールが想定した姿になっていること。</p>\n<hr />\n<p><strong>効果</strong>ウゴソールは真の姿に戻る。次のターンの開始時まで、攻撃ロール、ダメージロール、セーヴィング・スロー、技能判定に＋2のステータス・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.SA5f54t1dVah5fJm]{効果: Revert Form}</p>"
         },
         "KjBveNLcC22szBCP": {
@@ -6033,7 +6033,7 @@
           "name": "ファストヒーリング10"
         },
         "7XdX39vruCh59MIe": {
-          "name": "ディバイン・リヴァルション/Divine Revulsion",
+          "name": "ディバイン・リバルション/Divine Revulsion",
           "description": "<p>レッドキャップが、クリーチャーが神格の聖印をブランディッシュするのを目撃した(これにはそのクリーチャーによる〈扱う〉アクションが必要である)か、聖印を身につけたまま神聖呪文を発動するのを目撃した場合、レッドキャップは@Check[will|dc:19]セーヴを行わなければならない。その後、彼らは10分の間、ブランディッシュされたすべての聖印に対して一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>レッドキャップは影響を受けない。</p>\n<p><strong>成功</strong>レッドキャップは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となる。</p>\n<p><strong>失敗</strong>レッドキャップは@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}状態を1ラウンドの間得て、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 4}状態となる。</p>"
         },
         "ivsgBmmJjZW5Wr5S": {
@@ -6434,7 +6434,7 @@
           "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>レイスは隣接する生きているクリーチャーに自身のローブを巻き付け、虚無の抱擁にさらす。何らかのクリーチャーがレイスの虚無の抱擁によって呪われている場合、レイスは他のクリーチャーに虚無の抱擁を課すことはできない。</p>"
         },
         "UHqRmL7WFwTZuFam": {
-          "name": "ヴォイドズ・エンブレイス/Void's Embrace",
+          "name": "ボイドズ・エンブレイス/Void's Embrace",
           "description": "|||<p>日光の下で犠牲者がこの呪いに対するセーヴィング・スロウに成功した場合、呪いは終了する。この呪いを受けている間、あなたを呪ったレイスの耐性を無視する。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[will|dc:24]</p><hr /><p><strong>第1段階</strong> 犠牲者はあらゆる光の下で@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる (1時間)</p>\n<p><strong>第2段階</strong> 犠牲者は生命感知(lifesense)30フィートを得るが、あらゆる光の下で@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる (1時間)</p>\n<p><strong>第3段階</strong> 第2段階と同様だが、そのクリーチャーはさらに@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.TTCw5NusiSSkJU1x]{虚無 治癒}を持つ (1時間)</p>\n<p><strong>第4段階</strong> 犠牲者は@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態となり、目覚めることができなくなる (1日)</p>\n<p><strong>第5段階</strong> そのクリーチャーは死亡してレイスとなり、その体は灰となって崩れ去る</p>|||"
         }
       },
@@ -7468,7 +7468,7 @@
           "name": "シールド・ブロック"
         },
         "jb9E7ZFU9kKOnFns": {
-          "name": "ドワーフィン・ダフティネス/Dwarven Doughtiness",
+          "name": "ドワーヴン・ダウティネス/Dwarven Doughtiness",
           "description": "<p>ドワーフは差し迫った危険に直面しても、冷静沈着であることが多い。このドワーフのターンの終了時に、彼らの恐れ状態を1ではなく2減少させる。</p>"
         },
         "cpqUwml8DxSmjuyw": {
@@ -7808,7 +7808,7 @@
           "description": "<p><strong>必要条件</strong>対象は水中に完全に沈んでおり、マーフォーク・ウェイヴコーラーから30フィート以内で、息を止めていること。</p>\n<hr />\n<p><strong>効果</strong>マーフォーク・ウェイヴコーラーは潮を操って敵の喉を締め上げ、対象をその場に固定し、貴重な空気を吐き出させる。対象は@Check[fortitude|dc:18]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}となり、1ラウンドの間、直ちに[[/gmr 1d4 #rounds]]{1d4 rounds}分の空気を失う(大失敗した場合はその2倍)。</p>"
         }
       },
-      "name": "マーフォーク・ウェイヴコーラー/Merfolk Wavecaller",
+      "name": "マーフォーク・ウェイブコーラー/Merfolk Wavecaller",
       "publicNotes": "<p>Merfolk wavecallers use their primal magic to defend their people. Their ability to asphyxiate airbreathers makes them crucial when surface dwellers invade.</p>\n<hr />\n<p>Elegant, mysterious, and graceful; all this and more can be said of merfolk. These enigmatic people resemble humanoids with delicate features from the waist up but with the fins and tail of a massive fish from the waist down. Found in nearly all of Golarion's oceans, merfolk are as varied in appearance as humans, their skin ranging from pale to umber and all shades in between, while their gleaming scales shimmer with the majesty of the sea.</p>"
     },
     "Vrolikai": {
@@ -8034,7 +8034,7 @@
           "description": "<p>30フィート。@Check[fortitude|dc:27|options:area-effect,inflicts:sickened,inflicts:slowed]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Stench]</p>"
         },
         "cFtfekZXzWpLtSzL": {
-          "name": "アムニージア・ヴェノム/Amnesia Venom",
+          "name": "アムネジア・ヴェノム/Amnesia Venom",
           "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:29]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態 (1ラウンド)</p>\n<p><strong>第2段階</strong>油断状態および@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}状態 (1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態、油断状態、および@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}状態 (1ラウンド)</p>\n<p><strong>第4段階</strong>第3段階と同様。さらに最後の1時間を永久に忘れる (1ラウンド)</p>"
         },
         "IL3VPaw5B0JI2Rce": {
@@ -8933,11 +8933,11 @@
           "description": "<p>カッコウハグは、あらゆる中型の女性ヒューマノイドの姿をとることができる。これは彼らの移動速度や、ストライクの攻撃ボーナスおよびダメージボーナスを変化させることはないが、ストライクが与えるダメージ種別を変化させる可能性がある(通常は殴打になる)。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "4aNVURqHi7XpEN03": {
-          "name": "ククーズ・レア/Cuckoo's Lair",
+          "name": "カッコーズ・レア/Cuckoo's Lair",
           "description": "<p>カッコウ・ハグは、彼らの本拠地となるポケット・ディメンションと本質的に繋がっている。その隠れ家は、幅40フィート、奥行き40フィート、高さ30フィートの次元を超越した空間である。そこにはカッコウ・ハグが望むあらゆるありふれた食料、建物、風景、物体が含まれているが、カッコウの隠れ家から持ち出されたものは何であれ即座に無へと消滅する。</p>\n<p>その次元界に出入りするために、カッコウ・ハグは1アクションとして物理世界に扉を作成しなければならず、これには精神集中特性と操作特性がある。その扉はデフォルトでは@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}だが、カッコウ・ハグは扉を通常通り知覚できる対象のクリーチャーを選択できる。カッコウ・ハグは、自身(および他のいかなるクリーチャーもいない)が隠れ家の中にいて一人である場合に限り、この扉を現実から@UUID[Compendium.pf2e.actionspf2e.Item.AjLSHZSWQ90exdLo]{〈解除〉}できる。</p>"
         }
       },
-      "name": "クックー・ハッグ/Cuckoo Hag",
+      "name": "カッコー・ハッグ/Cuckoo Hag",
       "publicNotes": "<p>Cuckoo hags seek out youths who are unhappy with their lives, disguising themselves as a trusted figure such as a friend or family member. These hags then weave magical, idealized worlds out of illusions and dream stuff to trap their victims. Once they convince a mortal to stay in their magical world forever, the cuckoo hag drains their prey of life force and imprisons their soul.</p>\n<p>A cuckoo hag's true form is a creature with the cracked pale skin of a broken porcelain doll and an almost impossibly thin neck and limbs.</p>\n<hr />\n<p>Hags are malevolent predators who use magic and manipulation to lure children and young adults into their clutches. Though their true forms are eldritch and horrifying, hags spend much of their lives disguised as ordinary women. They seek out targets who are unhappy, innocent, or otherwise vulnerable, preying on their weaknesses before snatching them up. The typical hag is abusive, controlling, and narcissistic. Though less malicious hags possibly exist, they rarely reveal their true forms, making them nearly impossible to find.</p>",
       "allSaves": "対魔法のすべてのセーヴに状態ボーナス+1"
     },
@@ -8950,7 +8950,7 @@
           "name": "グレーター・暗視"
         },
         "Wsl0Qe07OtlNGmr0": {
-          "name": "サブサーヴィエンス/Subservience",
+          "name": "サブサービエンス/Subservience",
           "description": "<p>オートは自らの意志をほとんど持たないが、他のデヴィルは彼らを指揮することができる。非オートのデヴィルは、1回のアクションで、自身から60フィート以内にいるすべてのオートに命令を下すことができる。このアクションは聴覚および精神集中特性を持つ。デヴィルはオートが理解できる以下の命令のうち1つを選択し、オートはその命令に従う。この命令とその効果は、指揮者がオートの視界から外れたとき、同じまたは別のデヴィルによって新しい命令が下されたとき、あるいはオートが死亡したときに終了する。</p>\n<ul>\n<li><strong>攻撃</strong>オートは指揮者が指定した1体の対象を攻撃し、その対象に対する攻撃ロールに+1の状況ボーナスを得る。</li>\n<li><strong>〈防御態勢〉</strong>オートは指揮者の周囲を旋回し、近づいてくるあらゆるクリーチャーを攻撃する。オートは ACとセーヴに+1の状況ボーナスを得る。</li>\n<li><strong>回収</strong>オートは自身の移動速度に+10フィートの状況ボーナスを得て、指揮者が指定した物体や人物の確保を試みる。オートは邪魔をするあらゆる者や物を攻撃する。</li>\n<li><strong>作業</strong>オートは指揮者に命じられた雑用を行う。\n\n</li>\n</ul>"
         }
       },
@@ -8967,7 +8967,7 @@
           "description": "<p>スウォームは足元の地面を食い荒らす。スウォームは移動(Stride)を行う。彼らが移動中に占めるすべてのマスは移動困難地形となる。彼らが通過するすべてのクリーチャーは@Check[reflex|dc:21]セーヴに成功しなければ、 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
         },
         "4yvGfMCIeRQHkhLP": {
-          "name": "マドニング・ギバーズ/Maddening Gibbers",
+          "name": "マッドニング・ギバーズ/Maddening Gibbers",
           "description": "<p>スウォームのスペース内にいる各ステュピファイド状態のクリーチャーは、スウォームがアウター・リフトの終わりのない合唱をわめき立てる中、 @Check[will|dc:21]セーヴィング・スロウを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>対象は影響を受けず、 1分の間、マッドニング・ギバーズに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>対象は影響を受けず、 1ラウンドの間、マッドニング・ギバーズに対して免疫となる。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となり、 1ラウンドの間持続する。</p>\n<p><strong>クリティカル失敗</strong>対象は1ラウンドの間コンフューズド状態となり、この方法でコンフューズド状態である間はフィーンドを対象に取ることができない。</p>"
         },
         "1IPpNFHT1dgYNnrz": {
@@ -9156,7 +9156,7 @@
           ]
         }
       ],
-      "name": "ラーヴァル・オファルス/Larval Ofalth",
+      "name": "ラーバル・オファルス/Larval Ofalth",
       "publicNotes": "<p>Ofalths reproduce asexually. When they first hatch from their leathery eggs, larval ofalths resemble a tendril of flesh supported by spindly legs, but they soon cocoon themselves in trash, to serve as both armor and camouflage.</p>\n<hr />\n<p>Found in castle dung heaps, city dumps, and sewers, ofalths are living amalgamations of wet detritus, sewage, and rubbish. They carry a disease called wretched weeps that causes the victim's blood to seep from its pores.</p>"
     },
     "Warsworn": {
@@ -9404,7 +9404,7 @@
           "description": "<p>グレイヴナイトはエネルギーの@Template[cone|distance:30]を解き放つ。範囲内にいるクリーチャーは@Damage[11d6[cold]|options:area-damage]を受け、@Check[reflex|dc:29|basic|options:area-effect]を行わなければならない。</p>\n<p>グレイヴナイトはこの能力を[[/gmr 1d4 #Recharge Devastating Blast]]ラウンドに1回使用できる。</p>"
         },
         "snOrUVs5f8v8gtuP": {
-          "name": "グレイヴナイツ・カース/Graveknight's Curse",
+          "name": "グレイブナイツ・カース/Graveknight's Curse",
           "description": "<p>この呪いは、グレイヴナイトの鎧を少なくとも1時間着用したすべての者に影響する。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[will|dc:33]セーヴ</p>\n<p><strong>発症</strong> 1時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 2}、移動速度への–10フィートの状況ペナルティ、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第3段階</strong>死亡し、その鎧のグレイヴナイトへと変身する。</p>"
         },
         "cYzNZC3Tju4useHD": {
@@ -9419,7 +9419,7 @@
           "name": "ウォーフェア・ロア"
         }
       },
-      "name": "グレイヴナイト/Graveknight",
+      "name": "グレイブナイト/Graveknight",
       "publicNotes": "<p>Graveknights are undead warriors granted unlife by a cursed suit of armor.</p>"
     },
     "Succubus": {
@@ -9444,7 +9444,7 @@
           "description": "<p>サキュバスは純粋な情欲の存在であるため、その情欲を拒絶するクリーチャーは彼女たちを形而上学的に傷つけることができる。サキュバスが抱擁のための《交渉》判定、または〈要請する〉に失敗した時、あるいはクリーチャーがサキュバスの精神呪文や能力に対するセーヴに成功した時、サキュバスは@Damage[2d6[mental]]ダメージを受ける。</p>\n<p>このようにしてサキュバスに精神ダメージを与えた後、1時間の間、クリーチャーは自身の拒絶を組み込んだ成功した@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}アクションによって、サキュバスに@Damage[2d6[mental]]ダメージを与えることができる。</p>"
         },
         "b3OSC1hy3efFqhm7": {
-          "name": "セダクティヴ・プレゼンス/Seductive Presence",
+          "name": "セダクティブ・プレゼンス/Seductive Presence",
           "description": "<p>10フィート。</p>\n<p>このオーラの中にいて、サキュバスに対して性的魅力を感じうるクリーチャーは、サキュバスの精神呪文、《欺瞞》、および《交渉》に対する抵抗判定およびDCに－2の状況ペナルティを受ける。</p>"
         },
         "ghngQIhTKh6viVvP": {
@@ -9632,7 +9632,7 @@
           "description": "<p><strong>必要条件</strong>ゾーリアンがボディ・シーフで肉体を制御している</p>\n<hr />\n<p><strong>効果</strong>ゾーリアンは宿主の肉体から飛び出し、宿主の肉体は即座に死亡し、ボディ・シーフ能力の宿主として適さなくなる。ゾーリアンは隣接するマスで本来の大きさにまで伸びる。</p>"
         },
         "ojtISzFdLgIDxKCO": {
-          "name": "ラヴィッジ/Ravage",
+          "name": "ラビッジ/Ravage",
           "description": "<p>ゾーリアンは、単一の@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャーに対して、触手によるストライクを2回行う。Ravageの後で対象のヒット・ポイントが0である場合、ゾーリアンは即死の特性を持つフリー・アクションを使用して対象を殺害し、Body Thiefによってその身体を乗っ取ることができる。</p>"
         }
       },
@@ -10016,7 +10016,7 @@
           "name": "波動感知 (インプレサイス) 30フィート"
         },
         "7WqmKOuf1bKUnKdR": {
-          "name": "スピーカーズ・プリヴィレッジ/Speaker's Privilege",
+          "name": "スピーカーズ・プリビレッジ/Speaker's Privilege",
           "description": "<p><strong>トリガー</strong>セダクシー・スピーカーがダメージを受ける。</p>\n<p><strong>必要条件</strong>セダクシー・スピーカーが動物の味方から遮蔽を得ている。</p>\n<hr />\n<p><strong>効果</strong>代わりにその動物がダメージを受ける。</p>"
         },
         "hHrQ4WSEOgLDG3sS": {
@@ -10267,7 +10267,7 @@
           "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:14]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d4[poison]]ダメージ (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d4[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[1d4[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}、および@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労} (1ラウンド)</p>"
         }
       },
-      "name": "ジャイアント・センティピード/Giant Centipede",
+      "name": "ジャイアント・センチピード/Giant Centipede",
       "publicNotes": "<p>Most giant centipedes (known as sewer centipedes when found in cities) nest in small groups but hunt alone when they seek out food. Attempts to domesticate giant centipedes for use as guardians or pets generally end poorly, but some communities of goblins, kobolds, and mitflits have developed effective methods of utilizing these vermin as guardians. Other groups roast and eat centipedes, often with pungent peppers as a savory delicacy, although care must be taken in preparing the meal to avoid tainting the flesh with the creature's venom.</p>\n<hr />\n<p>Hunters and scavengers that live amid dung and detritus, centipedes are a relatively common and often reviled threat faced by adventurers. Scurrying about with surprising speed on the scores of legs attached to their long, segmented bodies, centipedes strike with poisoned mandibles to slow and torment their prey with a vicious toxin before they settle down to feed in slow and disgusting leisure.</p>"
     },
     "Hobgoblin Soldier": {
@@ -10383,7 +10383,7 @@
           "name": "クラッシング・ウィンド/Crashing Wind"
         },
         "MzGAwDy4a9P00NOn": {
-          "name": "クラウド・オブ・ヴィジョンズ/Cloud of Visions",
+          "name": "クラウド・オブ・ビジョンズ/Cloud of Visions",
           "description": "<p>60フィート。</p>\n<p>ジャーザームは@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.kdhbPaBMK1d1fpbA]{テレパシー} 60フィートを持つが、話すことはできず、イメージを見せることしかできない。</p>"
         },
         "W70HmW8TK21V8pWA": {
@@ -10955,7 +10955,7 @@
           "description": "<p>ヴァンパイアは自身の動物形態の1つに変身するか、通常の姿に戻る。ほとんどのヴァンパイアはコウモリに変身できるが、ラットや狼のような別のクリーチャーに変身できる者もいる。</p>\n<ul>\n<li><strong>ジャイアントバット</strong>\n<ul>\n<li><strong>感覚</strong>エコーロケーション40フィート、</li>\n<li><strong>移動速度</strong> 20フィート、飛行30フィート、</li>\n<li><strong>近接</strong>牙 +15、<strong>ダメージ</strong> 1d8+9刺突</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "jnZDE6piOq3rzmdg": {
-          "name": "クリエイト・サーヴィター/Create Servitor",
+          "name": "クリエイト・サービター/Create Servitor",
           "description": "<p>クリーチャーが〈Drink Blood〉によって0 HPまで減少した後に死亡した場合、ヴァンパイアは自身の血の一部をその犠牲者に与え、3夜の間その犠牲者を地中に埋めることで、その犠牲者をヴァンパイアの従者へと変えることができる。</p>\n<p>ヴァンパイアの従者はその創造者に従うことを強制されるが、ヴァンパイアが一度にあまりにも多くのヴァンパイアの従者を制御している場合(GMの判断によって)、あるいは従者がそれを創造したヴァンパイアよりも高いレベルである場合、意志の強い従者はヴァンパイアの意志 DCに対する @Check[will|defense:will] セーヴィング・スロウに成功することで、自らを解放できる。</p>"
         },
         "AWS8p85NHI3IGL2n": {
@@ -11214,7 +11214,7 @@
           "name": "スリング/Sling"
         },
         "ax2RVnLzNrdfglxj": {
-          "name": "ロード・サシェイ/Load Sachet",
+          "name": "ロード・サシェ/Load Sachet",
           "description": "<p><strong>必要条件</strong> ケンタウロスのハーバリストは少なくとも1つのハーブの小袋を持っている。</p>\n<hr />\n<p><strong>効果</strong> ケンタウロスのハーバリストは〈扱う〉を行ってスリングにハーブの小袋を装填する。彼女がスリングで行う次の遠隔 〈ストライク〉は、追加で1d6の毒ダメージを与える。</p>"
         },
         "ihI9TF3YdNJFYytf": {
@@ -11407,7 +11407,7 @@
           "description": "<p>ドラゴネットは@Template[cone|distance:15]に多幸感のガスを吐き出す。エリア内の各クリーチャーは@Check[fortitude|dc:18]セーヴに成功しなければならず、失敗すると[[/gmr 1d4 #rounds]]{1d4ラウンド}の間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}かつ@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となる。大失敗した場合、持続時間は1分となる。</p>\n<p>フェイ・ドラゴネットは[[/gmr 1d4 #Recharge Euphoric Breath]]{1d4ラウンド}の間、ユーフォリック・ブレスを再び使用できない。</p>"
         }
       },
-      "name": "フェイ語 ドラゴネット/Fey Dragonet",
+      "name": "フェイ・ドラゴネット/Fey Dragonet",
       "publicNotes": "<p>Although they are much smaller than their larger dragon cousins, fey dragonets have many of the same physiological attributes, including long necks, toothy maws, sinuous tails, and sharp claws. They flit about on iridescent butterfly wings, the coloring of which changes based on where they live, giving them a natural camouflage. Unlike their larger kin, an adult fey dragonet remains the same size throughout their lifespan. The only visual clue to the age of a fey dragonet is the sheen on their scales, a glimmer that becomes more lustrous the older they get.</p>\n<p>Fey dragonets usually exhibit pleasant and good-natured temperaments, though they have a mischievous streak that leads them to play tricks on those around them. In search of amusement, they prefer harmless annoyances over wounding malice. While often spontaneous, they may also spend months, if not years, planning the perfect prank. Especially responsive targets endear themselves to fey dragonets and may create a lifelong bond. A fey dragonet's reputation as a trickster leads many to associate them with fey, with whom the tiny dragons have cordial relationships, and this association gives them their name.</p>\n<p>Peaceful by nature, fey dragonets don't enjoy confrontation. If faced with hostility, they prefer to remain at a distance and breathe euphoric gas at their foes, diffusing the skirmish by creating an atmosphere of bliss. If conflict escalates, they target their opponents with spells, using their renowned trickery to escape. If their companions are in danger, however, their desire to remain out of combat changes. Fey dragonets protect their friends by any means available, including physical combat.</p>\n<p>Sometimes, as fey dragonets grow older, their connection to the First World grows stronger. In addition to growing more lustrous and vibrant in appearance, these fey dragonets gain an increasing amount of magical primal power. Such fey dragonets increase in strength as appropriate—a fey dragonet of 20th level or even higher is possible, but it's exceptionally unusual to encounter a fey dragonet of 9th level or higher beyond the most remote regions of the First World. When creating a more powerful fey dragonet, change their spellcasting tradition to primal and grant them primal spells appropriate for a druid of their level. Fey dragonets don't grow much larger, regardless of how powerful they become. It's often difficult to tell how powerful one of these tiny dragons truly is at a glance!</p>"
     },
     "Qarna": {
@@ -11994,7 +11994,7 @@
           "description": "<p>マミー・ファラオが破壊された場合、死霊術的なエネルギーが[[/gmr 1d10 #Days to Rejuvenate]]{1d10日}かけてその墓所で身体を再構築する。その期間中に身体が破壊された場合、プロセスは最初からやり直しとなる。再構築中のマミー・ファラオは、その墓所が聖別された場合、完全に破壊される。</p>"
         },
         "vrMnLtRbLyTqsiGV": {
-          "name": "セイクレッド・ラッピングス/Sacred Wrappings",
+          "name": "セイクレッド・ラッピングズ/Sacred Wrappings",
           "description": "<p>クリーチャーがファラオに物理ダメージを与えたか、ファラオの弱点のいずれかを作動させた場合、そのクリーチャーは@Check[will|dc:28]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}状態となる。</p>\n<p>セーヴの結果にかかわらず、そのクリーチャーはその後24時間の間、そのマミーの神聖な包帯に対して免疫となる。</p>"
         },
         "OaKZ88EQ5UVii9xw": {
@@ -12199,7 +12199,7 @@
           "name": "チェンジ・シェイプ"
         },
         "LZTLNHZnYh3Eg4aU": {
-          "name": "インディスペンサブル・サヴィ/Indispensable Savvy",
+          "name": "インディスペンサブル・サビー/Indispensable Savvy",
           "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>ギロウが技能判定を行おうとしているが、まだロールしていない</p>\n<hr />\n<p><strong>効果</strong>ギロウは、現在行おうとしている作業に対して超自然的な能力を発揮する。ギロウは、トリガーとなった判定およびその後同じ技能を使用するすべての技能判定において、自身の《欺瞞》修正値を使用する。これは、ギロウが次にこの能力を使用するまで、あるいは24時間が経過するまでのいずれか早い方まで持続する。</p>"
         },
         "eTAHPb22Vfb1ZIIA": {
@@ -12238,7 +12238,7 @@
           "description": "<p>ロックは、対象が自身の鉤爪で@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}である場合、その嘴による〈ストライク〉の命中判定に+2の状況ボーナスを得る。</p>"
         },
         "ZfVwcTmrbWAVaOCX": {
-          "name": "インプルーヴド・グラブ/Improved Grab"
+          "name": "インプルーブド・グラブ/Improved Grab"
         },
         "yrKXLmbaekza05cd": {
           "name": "インプルーヴド・プッシュ・10フィート/Improved Push 10 feet"
@@ -12260,7 +12260,7 @@
           "description": "<p><strong>トリガー</strong>ゴブリンの味方が、ゴブリンに隣接する位置で移動アクションを終了した。</p>\n<hr />\n<p><strong>効果</strong>ゴブリン・コマンドは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{ステップ}を行う。</p>"
         }
       },
-      "name": "ゴブリン・コマンド/Goblin Commando",
+      "name": "ゴブリン・コマンドー/Goblin Commando",
       "publicNotes": "<p>The theoretical leaders of goblin raids are called goblin commandos. In practice, goblin commandos rarely continue to lead their comrades once a battle has begun. Most shirk their responsibilities in favor of wading into the fray and claiming more glory from their tribe-mates.</p>\n<hr />\n<p>These small humanoids typically have green or gray skin and large heads with wide ears. While some goblins are civilized and have worked hard to be considered upstanding members of humanoid communities, many are impetuous and vicious creatures who delight in wreaking havoc. These goblins think nothing of slaughtering livestock, stealing, or burning down a building purely for momentary delight. They revel in playing malicious tricks on taller humanoids, whom they call \"longshanks.\"</p>\n<p>Goblins are superstitious, with an intense awe of magic and a fascination with fire; goblins who master magic or fire earn great respect from their kin. Most other humanoids find it difficult to understand goblins' outlook: they hate canines but eagerly share their lairs with so-called \"goblin dogs,\" they fearlessly attack larger creatures but are terrified of horses, and they despise vegetables yet consider pickles a delicacy. To a goblin, of course, these are all perfectly sensible life choices.</p>"
     },
     "Zephyr Hawk": {
@@ -12456,7 +12456,7 @@
           "name": "スウォーム・マインド"
         },
         "wYcs9eIcJSh0thsP": {
-          "name": "センティピード・スウォーム・ヴェノム/Centipede Swarm Venom",
+          "name": "センチピード・スウォーム・ヴェノム/Centipede Swarm Venom",
           "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:20]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d8[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}、および油断状態(1ラウンド)</p>"
         },
         "e6gQA5jXDMbCKyDj": {
@@ -12464,7 +12464,7 @@
           "description": "<p>そのスウォームの占める空間にいる各敵は、@Damage[1d8[piercing]|options:area-damage]ダメージ(@Check[reflex|dc:20|basic|options:area-effect]セーヴ)に加え、センチピード・スウォームの毒を受ける。</p>"
         }
       },
-      "name": "センティピード・スウォーム/Centipede Swarm",
+      "name": "センチピード・スウォーム/Centipede Swarm",
       "publicNotes": "<p>Swarms of centipedes are dangerous indeed, ravenous carpets of skittering hunger capable of devouring a traveler whole in a matter of minutes. Kobolds and mitflits are both known to incorporate swarms of centipedes into cunning traps.</p>\n<hr />\n<p>Hunters and scavengers that live amid dung and detritus, centipedes are a relatively common and often reviled threat faced by adventurers. Scurrying about with surprising speed on the scores of legs attached to their long, segmented bodies, centipedes strike with poisoned mandibles to slow and torment their prey with a vicious toxin before they settle down to feed in slow and disgusting leisure.</p>"
     },
     "Lich": {
@@ -13510,7 +13510,7 @@
           "name": "ラーヴァル・スピット/Larval Spit"
         },
         "exg8Iba4z6oaCjn4": {
-          "name": "リヴォルティング・オーラ/Revolting Aura",
+          "name": "リボルティング・オーラ/Revolting Aura",
           "description": "<p>20フィート。</p>\n<p>このオーラに進入した、あるいはこのオーラ内で自身のターンを開始したクリーチャーは、@Check[fortitude|dc:20|options:area-effect,inflicts:sickened]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる)。成功したクリーチャーは、1分の間、このオーラに対して一時的な免疫となる。</p>"
         },
         "66T3Q6Azf009sHhc": {
@@ -13715,7 +13715,7 @@
           "description": "<p>ジャイアントは自身のリーチ内にいる隣接する2体の敵に対して、爪によるストライクを2回行う。両方の攻撃はジャイアントのマルチアタック・ペナルティに数えられるが、ペナルティは両方の攻撃が終わるまで増加しない。</p>"
         },
         "TGIpZcekBlTtMIW2": {
-          "name": "マッシヴ・ラッシュ/Massive Rush",
+          "name": "マッシブ・ラッシュ/Massive Rush",
           "description": "<p>ハルクは移動(Stride)し、ダメージに+4の状況ボーナスを得て爪による〈ストライク〉を行う。もしそのストライクが命中すれば、ハルクは自動的に対象を10フィート押しやる。</p>"
         }
       },
@@ -13815,7 +13815,7 @@
     "Orc Veteran": {
       "items": {
         "mHS7Uj0GKGKhQiNo": {
-          "name": "オーク・ネック・スプリター/Orc Necksplitter"
+          "name": "オーク・ネックスプリッター/Orc Necksplitter"
         },
         "54j0gybWlIAueFkZ": {
           "name": "ショートソード"
@@ -14250,7 +14250,7 @@
           "description": "<p>ゼクイの唾液攻撃を受けたクリーチャーは、幼虫が蔓延る粘液によって@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となり、最も近い面に貼り付けられて、それが[[/act escape dc=25]]{Escapes}するまで動けなくなる。そのクリーチャーが移動不能状態にある間、そのクリーチャーは自身のターンの終了時にゼクイの幼虫にさらされる。</p>"
         },
         "BKL2zhQ7nn8sYC4b": {
-          "name": "ゼクイ・ラーヴィー/Zecui Larvae",
+          "name": "ゼクイ・ラービー/Zecui Larvae",
           "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:25]</p>\n<hr />\n<p><strong>第1段階</strong>幼虫が動くことによる目に見える隆起があるが、悪影響はない(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}(1日)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}(1日)</p>\n<p><strong>第4段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 3}状態となり、ゼクイの幼虫に操られる(1日)</p>\n<p><strong>第5段階</strong>そのクリーチャーは死亡し、成体のゼクイが〈扱う〉アクションとして死体から出現できる。</p>"
         }
       },
@@ -14604,7 +14604,7 @@
           "name": "リアクティヴ・ストライク"
         },
         "86jSQWC4Tonfbjye": {
-          "name": "ストーク・ザ・ヴォルケーノ/Stoke the Volcano",
+          "name": "ストーク・ザ・ボルケーノ/Stoke the Volcano",
           "description": "<p>カルデラ・オニがクリティカル・ヒットを受けた時、彼らの内で怒りの炎が燃え上がる。彼らはアッシュ・フォームかダンス・オヴ・バーニング・ウォーのいずれかを選択してリチャージする。</p>"
         },
         "J0ri0JZTtI3g3kxN": {
@@ -14650,7 +14650,7 @@
           "description": "<p>出血しているクリーチャーは、デイノニクスに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         }
       },
-      "name": "デイノンイチュス/Deinonychus",
+      "name": "デイノニクス/Deinonychus",
       "publicNotes": "<p>Deinonychuses are wily hunters that attack in groups of up to a dozen individuals, ripping apart prey with sharp talons and powerful jaws. They are lean, muscular, and have two powerful legs and a long tail that helps them maintain balance. Although deinonychuses don't use their dexterous clawed forelimbs to attack, the dinosaurs can use them to pull aside small barriers. Although some of these dinosaurs have scaly skin, most have thatches of vibrantly colored feathers as well. A deinonychus is about 6 feet tall and weighs about 150 pounds.</p>\n<hr />\n<p>Remnants from the world's primeval era, these enormous reptilian animals still exist in large numbers in remote wildernesses or underground in magical Darklands caverns. Lizardfolk, orcs, giants, and other humanoids who live near dinosaurs use the animals as mounts, guards, or hunting beasts. Occasionally, rich nobles will collect dinosaurs to display them in menageries, which almost inevitably leads to cast-offs being nursed back to health by druids and other champions of nature. When dinosaurs establish themselves in regions outside their normal habitats, it's often the result of a large collection being released.</p>"
     },
     "Poracha": {
@@ -14757,7 +14757,7 @@
           "description": "<p>超大型以下、足、@Check[reflex|dc:29|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         "bzNpoAXw0BCP1dGK": {
-          "name": "インプルーヴド・ノックダウン/Improved Knockdown"
+          "name": "インプルーブド・ノックダウン/Improved Knockdown"
         }
       },
       "name": "ブロントサウルス/Brontosaurus",
@@ -14923,7 +14923,7 @@
           "name": "掴み"
         }
       },
-      "name": "オーガ・グラットン/Ogre Glutton",
+      "name": "オーガ・グラトン/Ogre Glutton",
       "publicNotes": "<p>Ogre gluttons take the act of feeding to a horrific extreme, capable of extending their already cavernous mouths wide enough to gulp down a halfling. Stories of ogre gluttons being tricked into eating razor-edged shields or barrels filled with poisoned meat are common, but such tales are of little consolation to those who have been gobbled whole by these ravenous giants. In addition to their sadistic table manners, ogre gluttons have a disturbing knack for coming up with violent \"games\" that are little more than drawn-out torments, yet those who somehow manage to beat a glutton at the rules of their own game can often enrage the ogre enough that the resulting tantrum provides an opportunity for the captives to escape.</p>\n<hr />\n<p>For many societies, ogres embody brutish, amoral violence and greedy cruelty. Standing 10 feet tall and densely muscled, ogres are usually as strong as they are vicious. The worst ogres are sadists, enjoying remorseless murder, torture, and violence in all of its forms. Although they prefer to vent their violent urges on other humanoids—the smaller the better—ogre captivity can end in a horrifying fate for anyone unlucky enough to fall within their meaty grasp: becoming dinner. But for all their creativity in inflicting pain, ogres often forget that their playthings lack their own robust fortitude and high pain tolerance, and many of their captives die sooner than the ogres might prefer. Meanwhile, those who manage to survive captivity in an ogre's larder often emerge with lasting mental scars. A captive able to keep their wits about them, however, can sometimes trick the brutes by promising treasure, more plentiful food sources, or other crude amusements, taking advantage of an ogre's often-limited intellect to engineer opportunities to escape or gain revenge.</p>\n<p>Ogres are social creatures only in the most debased sense. They gather together in groups called families, though members are not always related by blood. The most powerful ogre in any family is the \"boss\"—usually the family's patriarch or matriarch—whom the other ogres in the family learn to quickly obey or risk being brutalized by the boss's loyal kin. Ogres lair in caves, crumbling ruins, or dilapidated shacks close enough to humanoid settlements or animal trails to make raiding easy. Their lairs are filthy and frequently contain all-too-recognizable evidence of their depravity, along with assorted treasures stolen from past captives.</p>"
     },
     "Deinosuchus": {
@@ -15083,7 +15083,7 @@
           "name": "ハンド"
         },
         "cXH3rtQJHLu0xATa": {
-          "name": "ヒアーズ・ハートビーツ/Hears Heartbeats",
+          "name": "ヒアズ・ハートビーツ/Hears Heartbeats",
           "description": "<p>バンシーは、不明瞭な感覚として、自身から60フィート以内の心音を聞き取ることができる。</p>"
         },
         "gqEF4zsvNcNJ7MVP": {
@@ -15128,7 +15128,7 @@
           "name": "ウィング"
         },
         "8cb0jB7NP8JMjdkx": {
-          "name": "エコーロケーション(正確、40フィート)/Echolocation (Precise) 40 feet",
+          "name": "エコーロケーション（精密、40フィート）/Echolocation (Precise) 40 feet",
           "description": "<p>コウモリは記載された射程において、聴覚を明瞭な感覚として使用できる。</p>"
         },
         "UufKTkmVCcXkrBVb": {
@@ -15248,7 +15248,7 @@
           "description": "<p>シュルンが近接〈ストライク〉でクリティカルヒットを出すたびに、それは対象の鎧にも同量のダメージを与え、アダマンティンのような10未満のあらゆる硬度を無視する。</p>"
         },
         "2V1LMw2K5gNCyFjF": {
-          "name": "シュルン・サライヴァ/Shuln Saliva",
+          "name": "シュルン・サライバ/Shuln Saliva",
           "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:32]</p>\n<hr />\n<p><strong>　最大持続時間</strong> 6ラウンド</p>\n<p><strong>　第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}(1ラウンド)</p>\n<p><strong>　第2段階</strong> @Damage[3d6[poison]]ダメージ、およびスロウ1(1ラウンド)</p>\n<p><strong>　第3段階</strong> @Damage[4d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態([[/br 2d6 #Paralysis Duration]]{2d6時間})。シュルンの唾液は容赦なき能力を克服する。</p>"
         },
         "gzVcZTMtslepZxcC": {
@@ -15312,7 +15312,7 @@
           "description": "<p>コイル・スパイは負傷から回復するのが遅い。クリティカルヒットから物理ダメージを受けた場合、彼らは@Damage[1d4[persistent,bleed]]ダメージを得る。彼らは持続ダメージから回復するためのフラット・チェックおよび苦痛に対するセーヴィング・スローに-2の状況ペナルティを受ける。</p>"
         },
         "0jpjkgun2zt97YLL": {
-          "name": "ディセプティヴ・リポジション/Deceptive Reposition",
+          "name": "ディセプティブ・リポジション/Deceptive Reposition",
           "description": "<p>コイルのスパイは自身の移動速度の半分まで〈ストライド〉し、@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行う。この2つはどちらの順序で行ってもよい。</p>"
         },
         "WLcykyc9hp2QiTO4": {
@@ -15560,7 +15560,7 @@
           "description": "<p>ルー＝チャリクの触手は激しい痛みをもたらす酵素を分泌する。触手による〈ストライク〉でヒットされた生きているクリーチャーは、@Check[fortitude|dc:24]セーヴに成功しなければならず、失敗するとその痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる。</p>"
         },
         "JCVCYsMSue62ekID": {
-          "name": "レイベル・メモリーズ/Label Memories",
+          "name": "ラベル・メモリーズ/Label Memories",
           "description": "<p>ルー・チャリックは100フィート以内の対象の精神に侵入し、記憶を伝達のために異質な構造へと整理する。対象は@Check[will|dc:24]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象のクリーチャーは影響を受けず、1分の間、ラベル・メモリーズに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>対象は影響を受けない。</p>\n<p><strong>失敗</strong>対象の精神はルー・チャリックのニーズに合わせて再構成され、1分の間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる。もしこの効果によってすでにステューピファイド状態である場合、対象は代わりに1分の間、あるいはダメージを受けて回復するまで、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となる。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、対象がすでにラベル・メモリーズによってステューピファイド状態である場合、対象は混乱状態になる代わりに1分の間、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる。</p>"
         },
         "vJiApMctVhXsoq99": {
@@ -16143,7 +16143,7 @@
           "description": "<p>@Damage[(1d10+15)[bludgeoning]]、@Check[fortitude|dc:42|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
         },
         "BudK3JDDVjbWqw8G": {
-          "name": "ワープウェイヴ・ストライク/Warpwave Strike",
+          "name": "ワープウェイブ・ストライク/Warpwave Strike",
           "description": "<p>ケケターの顎または爪による〈ストライク〉で攻撃されたクリーチャーは、@Check[fortitude|dc:36]セーヴに成功しなければ、@UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.HKFoOZZV4WdjkeeJ]{ワープウェーヴ}の影響を受ける。</p>"
         },
         "QblhIHkvSph67WTI": {
@@ -16325,7 +16325,7 @@
           "description": "<p>@Damage[(2d10+7)[bludgeoning]], @Check[fortitude|dc:29|basic|options:inflicts:unconscious]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
         },
         "FIBgwJl6ghhZJB6Y": {
-          "name": "ケツ・コアトル・ヴェノム/Quetz Couatl Venom",
+          "name": "ケッツ・コアトル・ヴェノム/Quetz Couatl Venom",
           "description": "<p>アンホーリーのクリーチャーに対しては、これは毒ではなく呪いであり、毒ダメージではなく精神ダメージを与える</p>\n<hr />\n<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:29];</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d8[poison]]ダメージ、脆弱状態1、および@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[2d10[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}、および油断状態 (1ラウンド)</p>"
         },
         "XMbOWL8A6tcWyW18": {
@@ -16340,7 +16340,7 @@
           "name": "掴み"
         }
       },
-      "name": "ケツ・コアトル/Quetz Coatl",
+      "name": "ケッツ・コアトル/Quetz Coatl",
       "publicNotes": "<p>These sacred feathered serpents tirelessly serve the powers of knowledge and justice. Some operate directly as messengers and intermediaries of the deities, while others operate independently in aiding the cause of righteousness. Either way, they watch over mortals and try to influence and aid them from the shadows, shifting from plane to plane to spread wisdom and healing where they are needed. Some quetz coatls are worshipped as divinities in remote or isolated societies, and while they do not encourage such veneration, they use the trust placed in them to foster peace and cooperation with others.</p>\n<p>Quetz coatls are typically 10 to 20 feet long and weigh nearly a ton, with iridescent blue and green scales. Their glorious wings of rainbow-hued feathers span 15 feet. They are carnivorous, feeding on birds, mammals, and even the occasional malicious humanoid.</p>"
     },
     "Manticore (Quill Tail)": {

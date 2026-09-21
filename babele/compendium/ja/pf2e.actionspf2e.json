@@ -759,7 +759,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Steel Your Resolve": {
-      "name": "スティール・ユア・リゾルヴ/Steel Your Resolve",
+      "name": "スティール・ユア・リゾルブ/Steel Your Resolve",
       "description": "<p><strong>コスト</strong> 1 決意ポイント</p>\n<hr />\n<p>自身の最大スタミナ・ポイントの半分に等しいスタミナ・ポイントを回復する。</p>",
       "source": "Pathfinder Gamemastery Guide"
     },
@@ -2601,7 +2601,7 @@
       "source": "Pathfinder GM Core"
     },
     "Plummeting Roll": {
-      "name": "プラメティング・ロール/Plummeting Roll",
+      "name": "プラメッティング・ロール/Plummeting Roll",
       "description": "<p><strong>トリガー</strong>あなたが少なくとも10フィート落下し、その落下によるダメージを受けなかった時</p><hr /><p><strong>効果</strong>あなたはその動きに合わせて身を丸めて転がる。あなたは足から着地し、あなたの移動速度の半分まで〈ストライド〉する。</p>",
       "source": "Pathfinder Player Core 2"
     },

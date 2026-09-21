@@ -57,7 +57,7 @@
           "name": "テレパシー（30フィート）/Telepathy 30 feet"
         },
         "Iga3pCP5cVOGmSfg": {
-          "name": "エコーロケーション（精密）30フィート/Echolocation (Precise) 30 feet",
+          "name": "エコーロケーション（精密、30フィート）/Echolocation (Precise) 30 feet",
           "description": "<p>グリオスは、記載された射程内において、自身の聴覚を明瞭な感覚として使用できる。</p>"
         },
         "fyjVaDYLzXwwSJt2": {
@@ -319,7 +319,7 @@
           "name": "テレパシー（100フィート）"
         },
         "1mqppqclycua1e1x": {
-          "name": "ハントの力/Power of the Haunt",
+          "name": "ホーントの力/Power of the Haunt",
           "description": "<p>ガイストが、無効化も破壊もされていないハウントから100フィート以内にいる場合、ガイストはACとセーヴィング・スローに+2のステータス・ボーナスを得て、噛みつきのストライクで追加の@Damage[1d6[void]]ダメージを与える。ガイストについて〈見回す〉または〈思い出す〉ための@Check[perception|dc:20|traits:action:seek]の判定に成功したクリーチャーは、ガイストのクロークから伸びる触手が、ハウントに近づくほど太くなり、激しく動くのを目にする。</p>"
         },
         "B2lJQF6Y6o4hnBeL": {
@@ -330,7 +330,7 @@
           "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong>ガイストは@Template[emanation|distance:20]の中に魂を刺突切り裂くような笑い声を放ち、これはガイストの次のターンの開始時まで持続する。このエリアの中にいる、またはエリアに入るすべてのクリーチャーは、@Check[will|dc:26]セーヴに成功しなければならず、失敗するとパニックに陥った笑いに圧倒され、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3})となる。クリーチャーは恐るべき哄笑1回につき1回しかセーヴを行わず、セーヴィング・スロウに成功したクリーチャーは24時間の間、一時的な免疫となる。</p>"
         },
         "58ox9o6ljire079b": {
-          "name": "ハントの憤怒/Wrath of the Haunt",
+          "name": "ホーントの憤怒/Wrath of the Haunt",
           "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件</strong>ガイストが活動中のハウントから100フィート以内にいること</p>\n<hr />\n<p><strong>効果</strong>ハウントはガイストに死霊術のパワーを送り込み、ガイストの次のターンの終了時まで不活性状態になり、ハウントが再び活性化するまでハウント・オーラのパワーを停止させる。ガイストのクロークの端は、炎と煙でできているように見える鞭のような触手に変化し、周囲のクリーチャーを激しく打ち据える。ガイストから10フィート以内にいるすべての生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10の火炎ダメージに加えて4d6の虚無ダメージ}を受ける(@Check[reflex|dc:28|basic]セーヴ)。</p>"
         }
       },
@@ -791,7 +791,7 @@
           "description": "<p>チェルタスは拳を叩きつけるような弧を描いて振り、素手の〈ストライク〉を行って、その攻撃ロールの結果を最大2体までの隣接する敵のACと比較する。その後、彼はダメージをロールし、命中した各クリーチャーに適用する。これは彼のマルチアタック・ペナルティにおいて2回の攻撃としてカウントされる。</p>"
         },
         "CXVQlp8TsdJY16il": {
-          "name": "スナッチ武器/Snatch Weapon",
+          "name": "スナッチ・ウェポン/Snatch Weapon",
           "description": "<p>チェルタスはクリーチャーに@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}を試みる。相手の握りから武器を叩き落とした場合、チェルタスはその武器を構え、その武器で相手に対して〈ストライク〉を試みる。これは彼のマルチアタック・ペナルティにおいて2回の攻撃としてカウントされる。</p>"
         }
       },
@@ -1166,7 +1166,7 @@
           "description": "<p><strong>必要条件</strong>インテレクチュアル・デヴァウラーが肉体泥棒で肉体を支配している</p>\n<hr />\n<p><strong>効果</strong>インテレクチュアル・デヴァウラーは宿主の肉体から離脱する。宿主は即座に死亡し、もはやいかなる肉体泥棒能力の適切な宿主にもならなくなる。インテレクチュアル・デヴァウラーは隣接するスペースに元のサイズで出現する。</p>"
         },
         "pHckdhGspQesS1nl": {
-          "name": "ラヴィッジ/Ravage",
+          "name": "ラビッジ/Ravage",
           "description": "<p>インテレクト・デヴァウラーは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャー1体に対して、自身の最も高い攻撃修正と同じ攻撃修正を使用して、爪による〈ストライク〉を2回行う。</p>\n<p>これらの〈ストライク〉は即死特性を得る。「貪り食い」によって対象が死亡した場合、インテレクト・デヴァウラーは対象に対して「肉体泥棒」をフリー・アクションとして使用できる。</p>"
         },
         "wHsOiFn1P7QcaaJ2": {
@@ -1253,7 +1253,7 @@
           "name": "爪"
         },
         "8YsGDoOVFggFkDuw": {
-          "name": "グレーター・酸・フラスコ/Greater Acid Flask"
+          "name": "グレーター・アシッド・フラスク/Greater Acid Flask"
         },
         "v4EIN0u2dz13wyEs": {
           "name": "グレーター・アルケミストズ・ファイア/Greater Alchemist's Fire"
@@ -1496,7 +1496,7 @@
           "description": "<p>ドッグスライサーによるクリティカルヒット時、リプナゲットは刃を引き抜く際に犠牲者の肉体をむしり取る。標的はその痛みから@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態になり、病気状態である限り@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になる。</p>"
         },
         "snOrUVs5f8v8gtuP": {
-          "name": "グレイヴナイツ・カース/Graveknight's Curse",
+          "name": "グレイブナイツ・カース/Graveknight's Curse",
           "description": "<p>この呪いは、グレイヴナイトの鎧を少なくとも1時間着用した者に影響を与える。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[will|dc:24]セーヴ</p>\n<hr />\n<p><strong>潜伏期</strong> 1時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}、かつ鎧を外せない(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 2}、クリーチャーの移動速度が10減少し、かつ鎧を外せない(1日)</p>\n<p><strong>第3段階</strong>死亡し、鎧のグレイヴナイトへと変化する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6rnB7nK6J6zF4vea]{効果: グレイヴナイトの呪い}</p>"
         },
         "cYzNZC3Tju4useHD": {
@@ -1921,7 +1921,7 @@
           "description": "<p>24時間、[[/act disable-device dc=26]]{DC 26 《盗賊術》}、待機</p>\n<hr />\n<p>クロックワークが活動するには、別のクリーチャーが専用のキーでネジを巻かなければならない。これには1分かかる。ネジを巻かれると、クロックワークは記載された時間(通常は24時間)の間、稼働状態を維持する。その時間が経過すると、周囲の状況を感知できなくなり、再びネジを巻かれるまで行動できなくなる。一部のクロックワークの能力は、残りの稼働時間を消費する必要がある。残りの稼働時間より多く消費することはできず、残り時間が0になると即座に停止する。クロックワークが最後にいつネジを巻かれたか不明な場合、ほとんどのクロックワークの管理者は、決まった時間(通常は午前8時)にすべてのクロックワークのネジを巻く。</p>\n<p>ネジ巻きの項目に待機と記載されているクロックワークは、3アクションアクティビティとして待機モードに入ることができる。待機モード中、稼働時間は減少しないが、周囲の状況を感知できる(《知覚》に-2ペナルティを受ける)。待機モード中は行動できないが、1つだけ例外がある。クリーチャーを感知したとき、リアクションとして待機モードを終了できる(必要に応じてイニシアチブをロールする)。</p>\n<p>クリーチャーは、クロックワークのネジを巻き戻すために〈装置無力化〉を試みることができる(難易度はネジ巻きの項目に記載されているDC)。成功するたびに、クロックワークは稼働時間を1時間失う。これはクロックワークが待機モードであっても行うことができる。</p>"
         },
         "co4QqqzbDABHUIAu": {
-          "name": "起動サーペント・モード/Activate Serpent Mode",
+          "name": "サーペント・モード起動/Activate Serpent Mode",
           "description": "<p><strong>トリガー</strong>クロックワーク・サーペントが自身のターンを開始する</p>\n<hr />\n<p><strong>効果</strong>クロックワーク・サーペントは別のモードに変形する。1d3をロールし、以下の選択肢を参照すること。現在起動できないモードの出目が出た場合、クロックワーク・サーペントは自身の次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}状態となる。自身のターンの終了時に、サーペント・モードは自動的に解除される。</p>\n<p><strong>1コブラ・モード</strong>クロックワーク・サーペントは威嚇のフードを使用できる。</p>\n<p><strong>2コンストリクター・モード</strong>クロックワーク・サーペントはとぐろによる〈ストライク〉を使用でき、締め付けを行うことができる。</p>\n<p><strong>3ガラガラヘビ・モード</strong>クロックワーク・サーペントは粉砕のガラガラ音を使用できる。</p>"
         },
         "dh0Wmrxx4eTODFrz": {
@@ -1958,7 +1958,7 @@
           "name": "フォーム・アップ/Form Up"
         },
         "4vjdVbvQ2cPvkxA1": {
-          "name": "〈見回す〉採石場/Seek Quarry",
+          "name": "獲物を〈見回す〉/Seek Quarry",
           "description": "<p>怒れる町の人々は、身体的特徴を把握している単一のクリーチャーを獲物として指定するために1分を費やすことができる。彼らは自身の獲物に対する《知覚》に+2の状況ボーナスを得る。</p>"
         },
         "9X9mEo92lODvZP6d": {
@@ -1966,7 +1966,7 @@
           "description": "<p><strong>閾値</strong> 50(3セグメント)、25(2セグメント)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>"
         },
         "BCsGqHil1Dziu3FX": {
-          "name": "ピットチフォークと松明/Pitchforks and Torches",
+          "name": "ピッチフォークと松明/Pitchforks and Torches",
           "description": "<p><span class=\"action-glyph\">1</span>〜<span class=\"action-glyph\">3</span></p>\n<p><strong>使用制限</strong> 1ラウンドにつき1回。</p><hr /><p><strong>効果</strong>怒れる町の人々は、@Template[emanation|distance:10]{10フィート}以内にいる各敵に対して連携した近接攻撃を行い、これには@Check[reflex|dc:19|basic|options:area-effect]セーヴを伴う。ダメージはアクションの数によって異なる。</p>\n<p><span class=\"action-glyph\">1</span> @Damage[1d10[untyped]|options:area-damage]ダメージ</p>\n<p><span class=\"action-glyph\">2</span> @Damage[(1d10+7)[untyped]|options:area-damage]ダメージ</p>\n<p><span class=\"action-glyph\">3</span> @Damage[(1d10+10)[untyped]|options:area-damage]ダメージ</p>"
         },
         "aKXQLekTbiAqj1Id": {
