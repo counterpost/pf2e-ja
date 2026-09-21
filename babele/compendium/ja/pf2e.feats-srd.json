@@ -1011,7 +1011,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Pierce the Eye": {
-      "name": "ピアース・ザ・アイ/Pierce the Eye",
+      "name": "ピアース・ジ・アイ/Pierce the Eye",
       "description": "<p><strong>必要条件</strong>あなたは 遠隔武器を操っている。</p><hr /><p>あなたは武器から敵の目に狙いを定めて発射し、その過程で相手を盲目にする。遠隔 〔ストライク〕を行う。ヒットした場合、対象はさらに2d8の持続的出血ダメージを受ける。対象はまた、あなたのクラスの DCに対して@Check[fortitude|against:class]セーヴを試みる必要があり、以下の効果がある。</p><hr /><p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}になる。</p>\n<p><strong>失敗</strong>対象は持続的出血ダメージを受けている限り盲目であり、その後さらに1回のラウンド持続する。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、対象は持続的出血ダメージを取り除くための平常判定に –2の状況ペナルティを受ける。この持続的出血ダメージを止めるために First 〔援護〕 を施すクリーチャーはメディスン判定に –2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.QjIiY4ofmhCspUJb]{効果: Pierce the Eye}</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
@@ -2164,7 +2164,7 @@
       ]
     },
     "Voice of the Elements": {
-      "name": "ヴォイス・オブ・ザ・エレメンツ/Voice of the Elements",
+      "name": "ヴォイス・オブ・ジ・エレメンツ/Voice of the Elements",
       "description": "<p>あなたは原始的なドラゴンが持つ基本元素との絆を受け継いでいる。あなたは元素の特性を持つクリーチャーに対して[[/act make-an-impression]]を行うための《交渉》判定に+1の状況ボーナスを得る。また、言語を話さないエレメンタルに対して質問を行い、回答を得て、それらに対して《交渉》技能を使用することもできる。</p>",
       "source": "Pathfinder Lost Omens Draconic Codex",
       "prerequisites": [
@@ -3302,7 +3302,7 @@
       "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Oath of the Avenger": {
-      "name": "オース・オブ・ザ・アヴェンジャー/Oath of the Avenger",
+      "name": "オース・オブ・ジ・アヴェンジャー/Oath of the Avenger",
       "description": "<p>あなたは目撃した悪行を罰するための誓約を誓った。あなたは「無実の者を傷つけた者や、凶悪な大罪を犯した者を追い詰める」という掟を得る。あなたがクリーチャーが味方、無実の者、あるいは非戦闘員を傷つけるのを見ると、そのクリーチャーに対して誓約を発動できる。話すのと同様に、これにはアクションを必要としない。ほとんどのチャンピオンは可能であれば声に出してこの誓いを発動する。発動は無期限に続くが、対象が改心した、贖罪した、あるいは許されたと満足した場合に終了することを選べる。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.zNN9212H2FGfM7VS]{レイ・オン・ハンズ}を使用して、あなたが誓約を発動したクリーチャーに対してそのクリーチャーがアンデッドであるかのようにダメージを与えることができる。この場合、<em>手を寝かせる</em>は霊的ダメージを与え、生命ダメージの代わりに霊的特性を得て、活力特性を失う。このことは、あなたが望むならそのようなクリーチャーを<em>手を寝かせる</em>で癒すのを妨げない。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
@@ -3657,7 +3657,7 @@
       ]
     },
     "Invoke the Elements": {
-      "name": "インヴォーク・ザ・エレメンツ/Invoke the Elements",
+      "name": "インヴォーク・ジ・エレメンツ/Invoke the Elements",
       "description": "<p> <strong>使用制限</strong> 1日1回</p> <hr /> <p>あなたは輝く熱、吹雪の雪、砕ける波、渦巻く風と雷のオーラを呼び出す。</p>\n<p> 1分の間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealment}を得て、 5フィート以上離れたクリーチャーに対して、あなたから5フィート以内にターンを終えたクリーチャーは@Damage[(ternary(gte(@actor.level,17),3,ternary(gte(@actor.level,13),2,1)))d12[@item.flags.system.rulesSelections.changelingType]]ダメージを受ける(@Check[reflex|against:class-spell|basic]セーヴあなたのクラス DCまたは呪文 DCのいずれか高い方)。</p>\n<p>13レベルと17レベルで、このダメージは1d12増加する。</p>\n<p>ヴェールは火炎ダメージを与え、雪の変身者は冷気ダメージを与え、塩水の変身者は殴打ダメージを与え、その効果は水の属性を持ち、バージャの変身者は電撃ダメージを与える。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
@@ -4449,7 +4449,7 @@
       "source": "Pathfinder Player Core"
     },
     "Even the Odds": {
-      "name": "イーブン・ザ・オッズ/Even the Odds",
+      "name": "イーブン・ジ・オッズ/Even the Odds",
       "description": "<p> <strong>使用制限</strong>を1日1回10分</p>\n<p> <strong>トリガー</strong>あなたのターンが始まる。</p>\n<p> <strong>必要条件</strong>あなたは挟まれている。</p> <hr /> <p>あなたは絶望的な瞬間に最も輝く。自信に満ちた笑顔やポーズを見せ、あなたは@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{Panache}あなたのターン終了時まで。</p>",
       "selfEffect": "効果: 偶然を均す",
       "source": "Pathfinder Player Core 2"
@@ -4576,7 +4576,7 @@
       ]
     },
     "Patronize the Arts": {
-      "name": "パトロナイズ・ザ・アーツ/Patronize the Arts",
+      "name": "パトロナイズ・ジ・アーツ/Patronize the Arts",
       "description": "|||<p><strong>トリガー</strong> あなたから30フィート以内にいる味方が、攻撃ロールまたは技能判定でクリティカル成功する。</p><hr /><p>真の貴族は、雇い人の忠誠心と将来の卓越性を確実にするため、彼らをどのように励ますかを知っている。あなたはトリガーとなった味方を称賛し、以下の恩恵の1つを与える。その味方はその後、1日の間、この能力に対して免疫となる。</p>\n<p><strong>熱意：</strong> 称賛によって活力を得たその味方は、リアクションとして、[[/act feint]]、近くの物体に対して〈扱う〉、[[/act leap]]、装填、または〈ステップ〉を行うことができる。</p>\n<p><strong>持続：</strong> 1分の間、その味方はあなたのレベルの半分＋あなたの魅力修正値に等しい一時的ヒット・ポイントを得る。</p>\n<p><strong>承認：</strong> もしその味方がパナッシュのクラス特徴を持っているなら、彼らはパナッシュを得る。</p>|||",
       "source": "Pathfinder Adventure Path: Hell's Destiny",
       "prerequisites": [
@@ -5824,12 +5824,12 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Arms That Cut the Waves": {
-      "name": "アームズ・ザット・カット・ザ・ウェイヴズ/Arms That Cut the Waves",
+      "name": "アームズ・ザット・カット・ジ・ウェイヴズ/Arms That Cut the Waves",
       "description": "<p>川、湖、海、または大海、そこに水が呼ぶ存在であり、あなたはその深みを恐れない。アスレチックス判定を〔水泳〕に対して試みる時、あなたはミシック・ポイントを消費して神話的な熟練度で判定を試みることができる。空気が不足して窒息し始めるとき、あなたは代わりにミシック・ポイントを消費して10ラウンド以上息を止めることができる。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Cut From the Air": {
-      "name": "カット・フロム・ザ・エア/Cut From the Air",
+      "name": "カット・フロム・ジ・エア/Cut From the Air",
       "description": "<p><strong>トリガー</strong>あなたは物理的な 遠隔 〔ストライク〕の対象である。</p>\n<p><strong>必要条件</strong>あなたは攻撃を認識しているが、それに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}ではなく、片手が空いているか、あるいは近接の武器を振るっている。</p>\n<hr />\n<p>あなたは 遠隔攻撃を払いのけることができる。あなたはトリガー攻撃に対してACに+4の状況ボーナスを得る。その攻撃が外れた場合、あなたはそれを空中で払いのけたか切り裂いたことになる。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -6033,7 +6033,7 @@
       ]
     },
     "Smash from the Air": {
-      "name": "スマッシュ・フロム・ザ・エア/Smash from the Air",
+      "name": "スマッシュ・フロム・ジ・エア/Smash from the Air",
       "description": "<p>あなたの専門知識により、呪文を跳ね返すことができる。あなたは遠距離呪文攻撃に対して@UUID[Compendium.pf2e.feats-srd.Item.6xBu4BewIkOIt9M0]{Cut From the Air}を使うことができる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -6570,7 +6570,7 @@
       ]
     },
     "Blood in the Air": {
-      "name": "ブラッド・イン・ザ・エア/Blood in the Air",
+      "name": "ブラッド・イン・ジ・エア/Blood in the Air",
       "description": "<p><strong>必要条件</strong>あなたが最後の1分間に対距離武器でダメージを与えた敵は、現在あなたから@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}または@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}である。</p><hr /><p>あなたが対象をロックオンすると、あなたの狙いを覆すものはほとんどない。必要な対象に対して対距離武器の〔ストライク〕を行う。この〔ストライク〕は対象の隠れ状態を無視し、隠れ状態に対するフラット判定を11から5に減少させる。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -7248,7 +7248,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Lotus Above the Wind": {
-      "name": "ロータス・アバブ・ザ・ウィンド/Lotus Above the Wind",
+      "name": "ロータス・アバブ・ジ・ウィンド/Lotus Above the Wind",
       "description": "<p>あなたの気が、耕作のために熱心に踊り、世界の泥やぬかるみから逃れる。あなたがあなたの@UUID[Compendium.pf2e.spells-srd.Item.GUnw9YXaW3YyaCAU]{アダプト・セルフ}または@UUID[Compendium.pf2e.spells-srd.Item.UGJzJRJDoonfWqqI]{アスレティック・ラッシュ}フォーカス呪文を発動するとき、あなたは難所を無視するあなたの次のターン終了時まで。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -9676,7 +9676,7 @@
       "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Whisper on the Wind": {
-      "name": "ウィスパー・オン・ザ・ウィンド/Whisper on the Wind",
+      "name": "ウィスパー・オン・ジ・ウィンド/Whisper on the Wind",
       "description": "<p>あなたはささやくように話し、柔らかな風が運搬中あなたの言葉を遠くに運ぶ。これは@UUID[Compendium.pf2e.spells-srd.Item.vLzFcIaSXs7YTIqJ]{メッセージ}呪文の効果で、範囲は500フィートであり、対象は空気に囲まれたクリーチャーのみ選べる。あなたがメッセージを対象の名前で始めると、あなたと対象はお互いを見る必要がなく、効果の通路も必要ない。</p>\n<hr />\n<p><strong>レベル (4th)</strong>範囲は1マイル。</p>\n<p><strong>レベル (14th)</strong>範囲は惑星規模に加えて空気の次元である。</p>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -10728,7 +10728,7 @@
       ]
     },
     "Read the Wind": {
-      "name": "リード・ザ・ウィンド/Read the Wind",
+      "name": "リード・ジ・ウィンド/Read the Wind",
       "description": "<p>あなたは敵を追跡する際、ごくわずかな詳細から意味を導き出すことができる。神話的習熟度で@UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{〈追跡〉}を行うための判定に成功するたびに、あなたは即座に、追跡しているクリーチャーについて〈思い出す〉ための判定を行うことができる。これも神話的習熟度で行い、GMが決定した適切な技能を使用する。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
@@ -11407,7 +11407,7 @@
       ]
     },
     "Final Shot Knows the Way": {
-      "name": "ファイナル・ショット・ノウズ・ザ・ウェイ/Final Shot Knows the Way",
+      "name": "ファイナル・ショット・ノウズ・ジ・ウェイ/Final Shot Knows the Way",
       "description": "<p><strong>必要条件</strong>あなたは遠隔ウォーシャード武器を装備しており、このラウンドにその武器を使用して敵に対して遠隔〈ストライク〉を行っている。</p><hr /><p>あなたは攻撃した後に敵の防御を見極め、その知識をウォーシャード武器とその弾薬に注ぎ込む。ミシック・ポイントを消費し、その後〈ストライド〉を2回行う。この移動中の任意の時点で、このラウンドにすでに攻撃したのと同じ敵に対して、ウォーシャード武器を用いた神話的習熟度での遠隔〈ストライク〉を試みる。この〈ストライク〉は、弾薬が空中で不可能とも思える飛行でうねり曲がるため、対象が持つ遮蔽や隠蔽による修正をすべて無視する。この〈ストライク〉の間、射程によるすべてのペナルティは無効化される。この射撃が命中した場合、対象はその射撃に驚愕し、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}あなたの次のターン終了時までとなる。</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star",
       "prerequisites": [
@@ -12495,7 +12495,7 @@
       ]
     },
     "See the Unseen": {
-      "name": "シー・ザ・アンシーン/See the Unseen",
+      "name": "シー・ジ・アンシーン/See the Unseen",
       "description": "<p>あなたは他の者には全く見えないものを観察する。あなたが同じレベルまたはそれ以下の@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}クリーチャーの隣にいるとき、それは代わりにあなたから@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}だけになる。隠れているクリーチャーを標的にするには成功した@Check[flat|dc:5|showDC:all]だけが必要である。</p>",
       "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
@@ -12527,7 +12527,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Ceremony of the Evened Hand": {
-      "name": "セレモニー・オブ・ザ・イーヴンド・ハンド/Ceremony of the Evened Hand",
+      "name": "セレモニー・オブ・ジ・イーヴンド・ハンド/Ceremony of the Evened Hand",
       "description": "<p>あなたは近接戦闘のために外骨格の形状を育て、結び目、渦、強化された枝を用いる。この特技を選択する際、あなたは1d4斬撃ダメージを与える爪の素手攻撃を得るか、1d6殴打ダメージを与え、バックスイング特性を持つ枝の素手攻撃を得る。これらの素手攻撃は剛腕武器種にあり、あなたの手の一方を使用する。</p>\n<p><strong>特別</strong>あなたはこの特技を二回選択でき、二回目に選択する際には別の素手攻撃を選んで良い。</p>",
       "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
@@ -12616,7 +12616,7 @@
       ]
     },
     "Even the Odds (Eagle Knight)": {
-      "name": "イーブン・ザ・オッズ（イーグル・ナイト）/Even the Odds (Eagle Knight)",
+      "name": "イーブン・ジ・オッズ（イーグル・ナイト）/Even the Odds (Eagle Knight)",
       "description": "<p><strong>使用制限</strong>1日1回</p><hr /><p>たとえ圧倒されても、イーグルの騎士は希望を捨てない。次の行動が@UUID[Compendium.pf2e.feats-srd.Item.TMwqXqqggiblvEGZ]{Commitment to Equality}を使用する場合、あなたはディプロマシー判定を2回振り、高い結果を取る。成功した場合、対象は25の一時的なヒット・ポイントを得て、それは1分持続する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xxkCSwizAu2wC7Fo]{効果: Even the Odds (イーグル Knight)}</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
@@ -12689,7 +12689,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Transcend the Azimuth": {
-      "name": "トランセンド・ザ・アジマス/Transcend the Azimuth",
+      "name": "トランセンド・ジ・アジマス/Transcend the Azimuth",
       "description": "<p>大地が太陽と月の光を吸収するように、あなたの堅い誓いは超光的な力を取り入れ、瞬間的なマントラとともに解き放たれる準備が整っている。あなたは1日1回、7ランクの原始的先天的呪文として@UUID[Compendium.pf2e.spells-srd.Item.IHUs4qn27RrdFQ5Y]{コズミック・フォーム}をあなた自身に唱えることができ、影が伸び、基本エネルギーの曼荼羅になる。呪文の通常の効果に加え、あなたは呪文を〔維持〕することで、サン・バトルフォームとムーン・バトルフォームをターンごとに切り替えることができる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
@@ -12998,7 +12998,7 @@
       "source": "Pathfinder #218: Titanbane"
     },
     "Living for the Applause": {
-      "name": "リヴィング・フォー・ザ・アプライズ/Living for the Applause",
+      "name": "リヴィング・フォー・ジ・アプライズ/Living for the Applause",
       "description": "|||<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong> 観客がいる戦闘遭遇中に、あなたが0ヒット・ポイント(ただし即座に死亡はしない)まで減少する。</p>\n<hr />\n<p>あなたを応援する観客がいる限り、何ものもあなたを止めることはできない。その注目はあなたを再活性化させ、気絶するのを防ぐ。あなたは1ヒット・ポイントの状態で踏みとどまり、あなたの@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷}状態が1増加する。</p>\n<p>加えて、@Check[performance|dc:@self.dc] 判定を行うこと。そのDCはGMが決定するが、通常はあなたのレベルに対する標準的なDCか、観客に対して@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉}を行うためのDCのいずれか高い方となる。成功すると、観客はあなたの復活に拍手喝采し、敵を大いに落胆させる。もし対戦相手がとどめの一撃を放った場合、観客のリアクションを気にかけることで、あなたはACに+1の状況ボーナスを得るあなたの次のターン終了時まで。大成功すると、あなたはLiving for the Applauseの1日1回の使用回数を消費せず、同じ日にそのリアクションをもう一度使用できる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.YMdRmEcOlM3uU9Em]{効果: Living for the Applause}</p>|||",
       "source": "Pathfinder Lost Omens Firebrands",
       "prerequisites": [
@@ -14660,7 +14660,7 @@
       ]
     },
     "Sense the Unseen": {
-      "name": "センス・ザ・アンシーン/Sense the Unseen",
+      "name": "センス・ジ・アンシーン/Sense the Unseen",
       "description": "<p><strong>トリガー</strong>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}ための判定に失敗する。</p><hr /><p>敵を探す際、あなたは彼らの微細な動きや肌に感じる空気の流れの変化といった、ごくわずかな手がかりさえも捉えることができる。トリガーとなった判定に失敗したにもかかわらず、あなたは「見回す」を行っているエリア内の@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}クリーチャーを自動的に感知し、それらをあなたに対して単なる@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態にする。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -15695,7 +15695,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Sash of the Wind": {
-      "name": "サッシュ・オブ・ザ・ウィンド/Sash of the Wind",
+      "name": "サッシュ・オブ・ジ・ウィンド/Sash of the Wind",
       "description": "<p><strong>アクセス</strong>ティエン・シア出自</p><hr /><p>あなたの要求に応じて、空気と風の自然霊があなたの肩にゆったりと掛けられた虹色の帯を回転させ、空を飛ばせる。あなたは1日1回、4ランクの固有の原始呪文としてあなた自身に@UUID[Compendium.pf2e.spells-srd.Item.A2JfEKe6BZcTG1S8]{フライ}を唱えることができる。この特技によって作成された帯が取り外されると、呪文は即座に終了する。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
@@ -17196,7 +17196,7 @@
       ]
     },
     "Wiles on the Wind": {
-      "name": "ワイルズ・オン・ザ・ウィンド/Wiles on the Wind",
+      "name": "ワイルズ・オン・ジ・ウィンド/Wiles on the Wind",
       "description": "<p>嘘を語り、漂う風にそれらを解き放つ。あなたは、500フィート内の正方形から発せられる聴覚の幻影を作成する。音は4人の通常の人間が話すのと同じくらい大きくすることができ、複雑なものであり、言葉や音楽を含むことができる。ただし、GMはあなたに判定を試みさせたり、納得のいくものであるために言語を知っていることを要求する場合がある。この幻影はあなたの次のターン終了時まで持続し、あなたは〔維持〕の衝動を持つことができる。</p>\n<p>あなたは、幻影の40フィート内にいる任意のクリーチャー、または持続中に40フィート内に入ってくるクリーチャーに、あなたのクラスDCに対して@Check[will|against:kineticist]セーヴを試みさせる。これは精神的な効果である。</p>\n<hr />\n<p><strong>成功</strong>そのクリーチャーは影響を受けず、幻影を否定し、一時的な免疫となり1時間の間は無効である。</p>\n<p><strong>失敗</strong>そのクリーチャーは音の出所に@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}し、次のターンの終了までそうである。魅了が終了すると、そのクリーチャーは一時的な免疫となり1時間の間は無効である。</p>\n<p><strong>クリティカル失敗</strong>失敗として、しかしそのクリーチャーは1分の間魅了されているか、否定するまでそうである。</p>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -17459,7 +17459,7 @@
       ]
     },
     "Contact With the Enemy": {
-      "name": "コンタクト・ウィズ・ザ・エネミー/Contact With the Enemy",
+      "name": "コンタクト・ウィズ・ジ・エネミー/Contact With the Enemy",
       "description": "<p>あなたは、最も計画的な計画でさえ敵との接触では生き残ることがまれであることを知っており、あなたは味方が適応できるように多様な条件を用意している。@UUID[Compendium.pf2e.feats-srd.Item.44pzixSVmRQiUoba]{Adaptive Stratagem}を使用するとき、あなたは準備したマスタTACTICSまたはレジェンダリーTACTICSを、フォリオ内の他のTACTICSに置き換えることができる。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
@@ -17469,7 +17469,7 @@
       ]
     },
     "Watcher on the Wall": {
-      "name": "ウォッチャー・オン・ザ・ウォール/Watcher on the Wall",
+      "name": "ウォッチャー・オン・ジ・ウォール/Watcher on the Wall",
       "description": "<p>あなたは、パトロンのシンボルを彫刻できる。このシンボルを隣接する表面に刻むことで、あなたは同じ次元界にいる限り、シンボルの位置から見ることができるし、聞くこともできる。この効果は、別のシンボルを置くか、表面が破壊されるまで持続する。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
@@ -18667,7 +18667,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "The Immortal Attains the Summit": {
-      "name": "ザ・イモータル・アテインズ・ザ・サミット/The Immortal Attains the Summit",
+      "name": "ジ・イモータル・アテインズ・ザ・サミット/The Immortal Attains the Summit",
       "description": "<p>あなたの修行が実を結び、あなたは天の意志を見出す。聖なる山のビジョンから戻り、あなたは風と水の terrestrial realmsに対する神秘的な力を持つ不死者となる。</p>\n<p>あなたは老化をやめ、あなたの実際の存在状態に関係なく、今では生きている生物として効果によって感知される(ライフセンスやスピリットセンスなど)。</p>\n<p>さらに、あなたは@UUID[Compendium.pf2e.spells-srd.Item.XkDCzMIyc0YOjw05]{コントロール・ウェザー}と@UUID[Compendium.pf2e.spells-srd.Item.ZhJ8d9Uk4lwIx86b]{プラント・グロウス}の儀式を学ぶ。あなたはこれらの儀式のためにオカルティズムをネイチャーの代わりに使用できる。これらの儀式の成功では、あなたはクリティカル成功の効果を得る。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -19609,7 +19609,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "All of the Animal": {
-      "name": "オール・オブ・ザ・アニマル/All of the Animal",
+      "name": "オール・オブ・ジ・アニマル/All of the Animal",
       "description": "<p>あなたは狩りによって得た動物の死骸を最も効率的に活用する方法を知っている。過去1日以内に死亡した動物の大型以上の死骸を選択する。サバイバルを使用して@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{Subsist}を行う際、あなたは常にあなた自身と追加の1体の中型クリーチャーのための十分な食料を得るために死骸から肉を使い切る。他の者が死骸の肉を他の目的で使用することはできない。動物の使用も含む。</p>",
       "source": "Pathfinder #175: Broken Tusk Moon",
       "prerequisites": [
@@ -19654,7 +19654,7 @@
       ]
     },
     "Clear the Way": {
-      "name": "クリア・ザ・ウェイ/Clear the Way",
+      "name": "クリア・ジ・ウェイ/Clear the Way",
       "description": "<p><strong>必要条件</strong>あなたは両手で近接武器を振るっている。</p><hr /><p>あなたは巨大な武器を使って体を使って振り、敵を押しのけて広い道を作ることを試みる。あなたはあなたの隣接する最大五体のクリーチャーを@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}しようとし、それぞれの対象に対して別々のアスレチックス判定を振り、片手が空いているという要件を無視する。その後、あなたは自分の移動速度の半分まで 〔ストライド〕 する。この移動は、あなたが成功裏に押しのけたクリーチャーからの反応を引き起こさない。各攻撃はあなたのマルチアタック・ペナルティにカウントされるが、すべての攻撃を終えるまでペナルティは増加しない。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -20962,7 +20962,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "To the Ends of the Earth": {
-      "name": "トゥ・ザ・エンズ・オブ・ザ・アース/To the Ends of the Earth",
+      "name": "トゥ・ジ・エンズ・オブ・ジ・アース/To the Ends of the Earth",
       "description": "<p>あなたは獲物を追跡する能力が説明を超え、獲物の動きを追い、それを予測することができる。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.JYi4MnsdFu618hPm]{Hunt Prey}を使用する際、そのクリーチャーが100フィート内にいる場合、そのクリーチャーの動きを追跡でき、その獲物である限り、どれだけ遠くなっても正確な位置を知ることができる。あなたはネイチャーにおいて伝説的でなければ、獲物の位置をテレポーテーションまたはプラーナトラベルにわたって追跡することはできない。このフィートは、あなたがネイチャーにおいて伝説的である場合、検出と原初の特性を得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -22244,7 +22244,7 @@
       "source": "Pathfinder Rage of Elements"
     },
     "Repulse the Wicked": {
-      "name": "リパルス・ザ・ウィキッド/Repulse the Wicked",
+      "name": "リパルス・ジ・ウィキッド/Repulse the Wicked",
       "description": "<p><strong>トリガー</strong>あなたのターゲットを狙った攻撃ロールでアンデッドがクリティカル失敗をする。</p>\n<hr />\n<p>あなたは敵の失敗を利用して、彼らを押し出そうとする。あなたはアンデッドを@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}しようとする。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
@@ -22803,7 +22803,7 @@
       ]
     },
     "Gift of the Immortal Herb": {
-      "name": "ギフト・オブ・ザ・イモータル・ハーブ/Gift of the Immortal Herb",
+      "name": "ギフト・オブ・ジ・イモータル・ハーブ/Gift of the Immortal Herb",
       "description": "<p><strong>使用法</strong>体内の像に宿る</p><hr /><p>あなたの血は、流れた瞬間に光り輝き、新しい命を生み出す神聖な金色に変わる。宿った像は次の効果を得る。</p>\n<p><strong>不在</strong>あなたの神聖な火花があなたの体内の像に10分間連続して留まっているとき、損傷した四肢または器官を再生する。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.rU3CE5niG8vHc5x4]{Shed the Mortal Skin}</strong> <span class=\"action-glyph\">1</span> (回復、光、超越、活力)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.rU3CE5niG8vHc5x4 inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
@@ -28641,7 +28641,7 @@
       ]
     },
     "I am the Weapon": {
-      "name": "アイ・アム・ザ・ウェポン/I am the Weapon",
+      "name": "アイ・アム・ジ・ウェポン/I am the Weapon",
       "description": "<p>あなたは超自然的武器との絆によって武器に力強いあなたの意識、記憶、そしてあなたの魂の断片が宿る。あなたがウォーシャード武器を持っている状態で致命傷を受けると、あなたは消え、ウォーシャード武器が地面に落ちる。いずれかの知性を持つクリーチャーがそれを拾うと、あなたはそのウォーシャード武器の隣に再出現する。もしそのクリーチャーが親しい仲間(他のPCなど)であれば、あなたは1ヒットポイントのみで復活する。しかし、見知らぬ者がそれを拾った場合、あなたは満タンのヒット・ポイントで復活する。あなたの裁量で、クリーチャーが武器を拾ってから最大24時間まで復活を遅らせることができるが、それでもあなたは武器の隣(またはできるだけ近く)に復活する。もしあなたの死後1週間以内に誰も武器を拾わなければ、あなたの魂はソウルの川に入って、他の手段で復活することができる。どのように復活しても、意識を取り戻したらすぐにウォーシャード武器をフリー・アクションとして呼び出すことができる。</p>\n<p>そうでなければ、あなたの死後1週間以内に誰もウォーシャード武器を拾わなければ、あなたはソウルの川に入る代わりに武器と融合することを選択できる。あなたはもはや復活できないが、あなたの魂は武器に束縛され、その結果、あなたは知性を持つアイテムとなり、同じ知覚修正値、感覚、コミュニケーション、言語、属性修正値、および意志セーヴを得る。あなたは同じ知性、判断力、及び魅力に基づく技能を保持する。あなたは依然として持ち運ばれ、扱われなければならず、あなたの選択肢は知性を持つアイテムとして取ることができるアクションに限られる。あなたはもはやミシックポイントを得たり使ったりすることができないが、武器としてあなたは神話的である。あなたは生前に持っていたウォーシャード武器を使って攻撃するためにアクションを使うことができるが、ダメージボーナスは持ち手の筋力修正値を使用し、生前の筋力修正値は使わない。あなたは以下の「武道の知恵を授ける」アクションを得ることができ、GMの裁量で持ち手を影響を及ぼしたり、制御したりする能力などの他の力を得る場合もある。この武器形態で破壊されると、あなたの魂はソウルの川に移動し、他の手段で復活することができるが、その後、あなたは通常の手段で新しいウォーシャード武器を指定しなければならない。</p>\n<p><strong>起動—武道の知恵を授ける</strong> <span class=\"action-glyph\">2</span>(集中、神話的、予測)</p>\n<p><strong>使用制限</strong>1回の10分ごとに</p><hr /><p><strong>効果</strong>あなたは戦闘の経験を呼び覚まし、敵を攻撃する最善の方法を見極め、その知識を持ち手に提供する。あなたの持ち手は、あなたの届く範囲内または最初の射程限界内のクリーチャーに対して神話的な熟練度で〔ストライク〕を行う。この〔ストライク〕は攻撃ロールに対する状況ペナルティと対象が@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}または@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}であるために必要なフラット判定を無視する。</p><p>あなたは超自然的武器との絆によって武器に力強いあなたの意識、記憶、そしてあなたの魂の断片が宿る。あなたがウォーシャード武器を持っている状態で致命傷を受けると、あなたは消え、ウォーシャード武器が地面に落ちる。いずれかの知性を持つクリーチャーがそれを拾うと、あなたはそのウォーシャード武器の隣に再出現する。もしそのクリーチャーが親しい仲間(他のPCなど)であれば、あなたは1ヒットポイントのみで復活する。しかし、見知らぬ者がそれを拾った場合、あなたは満タンのヒット・ポイントで復活する。あなたの裁量で、クリーチャーが武器を拾ってから最大24時間まで復活を遅らせることができるが、それでもあなたは武器の隣(またはできるだけ近く)に復活する。もしあなたの死後1週間以内に誰も武器を拾わなければ、あなたの魂はソウルの川に入って、他の手段で復活することができる。どのように復活しても、意識を取り戻したらすぐにウォーシャード武器をフリー・アクションとして呼び出すことができる。</p>\n<p>そうでなければ、あなたの死後1週間以内に誰もウォーシャード武器を拾わなければ、あなたはソウルの川に入る代わりに武器と融合することを選択できる。あなたはもはや復活できないが、あなたの魂は武器に束縛され、その結果、あなたは知性を持つアイテムとなり、同じ知覚修正値、感覚、コミュニケーション、言語、属性修正値、および意志セーヴを得る。あなたは同じ知性、判断力、及び魅力に基づく技能を保持する。あなたは依然として持ち運ばれ、扱われなければならず、あなたの選択肢は知性を持つアイテムとして取ることができるアクションに限られる。あなたはもはやミシックポイントを得たり使ったりすることができないが、武器としてあなたは神話的である。あなたは生前に持っていたウォーシャード武器を使って攻撃するためにアクションを使うことができるが、ダメージボーナスは持ち手の筋力修正値を使用し、生前の筋力修正値は使わない。あなたは以下の「武道の知恵を授ける」アクションを得ることができ、GMの裁量で持ち手を影響を及ぼしたり、制御したりする能力などの他の力を得る場合もある。この武器形態で破壊されると、あなたの魂はソウルの川に移動し、他の手段で復活することができるが、その後、あなたは通常の手段で新しいウォーシャード武器を指定しなければならない。</p>\n<p><strong>起動—武道の知恵を授ける</strong> <span class=\"action-glyph\">2</span>(集中、神話的、予測)</p>\n<p><strong>使用制限</strong>1回の10分ごとに</p><hr /><p><strong>効果</strong>あなたは戦闘の経験を呼び覚まし、敵を攻撃する最善の方法を見極め、その知識を持ち手に提供する。あなたの持ち手は、あなたの届く範囲内または最初の射程限界内のクリーチャーに対して神話的な熟練度で〔ストライク〕を行う。この〔ストライク〕は攻撃ロールに対する状況ペナルティと対象が@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}または@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}であるために必要なフラット判定を無視する。</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star",
       "prerequisites": [
@@ -29504,7 +29504,7 @@
       ]
     },
     "Walk on the Wind": {
-      "name": "ウォーク・オン・ザ・ウィンド/Walk on the Wind",
+      "name": "ウォーク・オン・ジ・ウィンド/Walk on the Wind",
       "description": "<p>あなたの後を軽快な風が追いかけ、あなたの行動に劇的な雰囲気を与えている。あなたは足取りが軽く、声は空の性質を帯びていて通常よりも遠くまで響き渡り、衣服や髪は常にあなたの周りで静かに揺れている。あなたは穏やかな空中で地上の移動速度の半分の範囲で〔ストライド〕することができる。空中を歩いているときに他のクリーチャーを運搬しようとすると、たとえそれが異次元空間にあっても、あなたは落下する。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
@@ -32534,7 +32534,7 @@
       ]
     },
     "Aegis for the Innocent": {
-      "name": "イージス・フォー・ザ・イノセント/Aegis for the Innocent",
+      "name": "イージス・フォー・ジ・イノセント/Aegis for the Innocent",
       "description": "<p><strong>必要条件</strong>あなたはニンバスがアクティブになっている。</p><hr /><p>あなたは神聖な火花の一部を仲間に移し、ニンバスを一時的に暗くして仲間を攻撃者をはじく光の障壁に包む。あなたのニンバスの明るい光内の同意するクリーチャーを選ぶ。あなたは対象を光の保護障壁で囲む。これは対象を中心にした@Template[type:emanation|distance:10]である。この障壁は1分またはあなたが〔解除〕するまで持続する。アエギス・オブ・ジ・イノセントがアクティブな間、あなたのニンバスの範囲は半分になる。</p>\n<p>対象はACに+1の状況ボーナスを得る。障壁内の敵、または障壁に入る敵は、あなたのクラスDCまたはあなたの呪文DCに対して@Check[fortitude|against:class-spell|options:area-effect,damaging-effect]セーヴィング・スロウを試みなければならない。クリーチャーはこのセーヴをラウンドにつき1回だけ試みる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.dFNh66uyI5yxVKbt]{効果: Aegis for the Innocent}</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}になり1ラウンドの間、障壁内の空間を困難な地形として扱う。</p>\n<p><strong>失敗</strong>そのクリーチャーは1分の間、まばゆい光に困惑し、10フィートに押し出され、障壁内の空間を困難な地形として扱う。もしクリーチャーが固体の障壁や他のクリーチャーに押し出される場合、その時点で止まり@Damage[2d6[bludgeoning]|options:area-damage]のダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong>失敗として扱うが、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}になり1ラウンドの間そうである。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
@@ -32953,7 +32953,7 @@
       "source": "Pathfinder Player Core"
     },
     "Eye of the Arclords": {
-      "name": "アイ・オブ・ザ・アークロード/Eye of the Arclords",
+      "name": "アイ・オブ・ジ・アークロード/Eye of the Arclords",
       "description": "<p><strong>使用制限</strong>日に1回</p>\n<p><strong>アクセス</strong>あなたはネックスのアルクローズのメンバーである。</p>\n<hr />\n<p>あなたはおでこに輝く第三の目を開く。</p>\n<p>その目は1分の間開いたままでいることができ、あなたは集中特性の1アクションでそれを閉じることができる。あなたがアルカナのマスターであれば2分間、伝説的であれば5分の間開いていることができる。</p>\n<p>目が開いている間、あなたは次の恩恵を得る：</p>\n<ul>\n<li>あなたは毎ターンの開始時に、呪文を発動する必要なく、あなたのアーケイン感覚から detect magicの秘術の効果を得る；</li>\n<li>あなたはダークビジョンを得る；</li>\n<li>あなたは〔見回す〕のための知覚チェックに+2の状況ボーナスを得て、〔隠れる〕と〔忍び歩き〕に対する知覚 DCに+2の状況ボーナスを得る。</li>\n</ul>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.5IGz4iheaiUWm5KR]{効果: Eye of the Arclords}</p>\n<p>あなたの第三の目が閉じた後、あなたは目を開けていた時間と同じ量の間眩惑を受ける。</p>",
       "selfEffect": "効果: アークローズの目",
       "source": "Pathfinder Lost Omens World Guide",
@@ -35043,7 +35043,7 @@
       ]
     },
     "The Thousand Lashes of the Weeping Willow": {
-      "name": "ザ・サウザンド・ラッシュズ・オブ・ザ・ウィーピング・ウィロウ/The Thousand Lashes of the Weeping Willow",
+      "name": "ザ・サウザンド・ラッシュズ・オブ・ジ・ウィーピング・ウィロウ/The Thousand Lashes of the Weeping Willow",
       "description": "|||<p>You conjure a massive willow tree, which lashes your foes with a thousand branches. The trunk of the weeping willow tree is 10-feet in diameter and appears in an unoccupied space within 500 feet. The tree whips its branches at all your enemies within a @Template[emanation|distance:30]{30-foot-radius emanation} centered on the willow's trunk, dealing @Damage[(10 + floor(@actor.level/20)*4)d8[slashing]|options:area-damage] damage with a @Check[reflex|against:kineticist|basic|options:area-effect,inflicts:slowed] save against your class DC. A creature that fails its save is also overcome with sorrow, becoming @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} for as long as the willow remains, as it weeps uncontrollably. The willow doesn't target you or your allies.</p>\n<p>The willow tree remains until the end of your next turn, but you can Sustain it up to 1 minute. The first time you Sustain the impulse each round, the weeping willow attacks again, dealing @Damage[floor(@actor.level/4)d8[slashing]|options:area-damage] damage to all enemies in the area with a basic reflex save. If you use this impulse again, the previous one ends.</p><hr /><p><strong>Level (20th)</strong> The initial damage is 14d8, and the Sustained damage is 5d8.</p>|||",
       "source": "Pathfinder #202: Severed at the Root"
     },
@@ -41325,7 +41325,7 @@
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Lead the Way": {
-      "name": "レッド・ザ・ウェイ/Lead the Way",
+      "name": "レッド・ジ・ウェイ/Lead the Way",
       "description": "<p>あなたは前進し、他の者が続くための隙を作り出す。リアクションを使用可能な隣接する味方を1人選ぶ。あなたは〈ストライド〉を行い、その味方は自身のリアクションを使用して即座に〈ストライド〉を行うことができる。その味方は〈ストライド〉をあなたに隣接した状態で終了しなければならない。その味方がこの方法でストライドを行った場合、その味方は通常なら移動によって誘発されるリアクションを誘発しない。しかし、あなた自身は通常通りそれらのリアクションを誘発する。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
@@ -41661,7 +41661,7 @@
       ]
     },
     "Rattle the Earth": {
-      "name": "ラトル・ザ・アース/Rattle the Earth",
+      "name": "ラトル・ジ・アース/Rattle the Earth",
       "description": "<p>最も深い岩の重力で地面を打ちつけ、地震を引き起こす。これは@UUID[Compendium.pf2e.spells-srd.Item.x7SPrsRxGb2Vy2nu]{アースクウェイク}の効果があるが、あなたから生じ、あなたの運動オーラと同じ大きさの範囲の@Template[cone|distance:60]か、同じサイズの放出効果となる。あなたとあなたの空間は地震の影響を受けない。ひび割れは10フィート深さであり、崩壊のための平坦な判定の DCは4高い。</p>\n<hr />\n<p><strong>レベル (16th) </strong>ひび割れは20フィート深さであり、平坦な判定の DCは2高い。</p>\n<p><strong>レベル (20th) </strong>ひび割れと平坦な判定は呪文から変わらない。</p>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -44193,7 +44193,7 @@
       ]
     },
     "Symphony of the Unfettered Heart": {
-      "name": "シンフォニー・オブ・ザ・アンフェタード・ハート/Symphony of the Unfettered Heart",
+      "name": "シンフォニー・オブ・ジ・アンフェタード・ハート/Symphony of the Unfettered Heart",
       "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.ZAX0OOcKtYMQlquR]{シンフォニー・オヴ・ザ・アンフェタード・ハート}構成呪文を学ぶ。この呪文は、味方を無力化する状態から守ることができる。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -47169,7 +47169,7 @@
       ]
     },
     "Awaken the Obake": {
-      "name": "アウェイクン・ザ・オバケ/Awaken the Obake",
+      "name": "アウェイクン・ジ・オバケ/Awaken the Obake",
       "description": "<p>すべての道具がよく手入れされているわけではなく、適切に扱われない道具は悪意のある精霊として目覚めるかもしれない。あなたは近くの扱われていない道具の中にある精霊を一時的に呼び起こし、@UUID[Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D]{フィアー}を5レベルの内在的な呪文として1日1回唱えることができる。そうする際、呪文の恐ろしい魔法はあなたではなく、あなたから30フィート以内にある単一の誰も保持していない物体から発生し、その物体から呪文の射程を測定する。対象が呪文の結果として@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}になった場合、彼らはその物体から逃げていることになる。彼らの心は、その物体が生命を持ち、悪意を持って彼らを攻撃するという絶対的な確信で満たされる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
