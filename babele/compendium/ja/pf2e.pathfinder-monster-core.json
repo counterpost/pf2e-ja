@@ -184,7 +184,7 @@
           "name": "インプルーヴド・グラブ"
         }
       },
-      "name": "トール・リノーム/Tor Linnorm",
+      "name": "トール・リンノーム/Tor Linnorm",
       "publicNotes": "<p>Tor linnorms dwell in the tallest volcanic mountains, either within naturally formed caverns or molten craters. A tor linnorm's temper can be as hot and destructive as the magma the creature resembles.</p>\n<hr />\n<p>Immense, primeval dragons of the northern reaches of the world, linnorms hate those they deem to be lesser creatures and seek to inflict as much suffering as possible upon their unfortunate victims. While these serpentine monstrosities might not be the powerful winged dragons most imagine, they nonetheless possess incredible strength and deadly powers that often rival more notorious dragons' brutality.</p>",
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
@@ -361,7 +361,7 @@
           "description": "<p>カウチューは、近くのクリーチャーを制御不能な状態で激しく暴れさせる、奇妙な遠吠えのような叫び声を上げる。カウチューの声を聞くことができる@Template[emanation|distance:120]内の各クリーチャーは、その効果に抵抗するために@Check[will|dc:32]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けず、1分の間、一時的な免疫となる。</p>\n<p><strong>成功</strong>対象は影響を受けない。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドなる。</p>\n<p><strong>クリティカル失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドなり、直ちに自分自身を攻撃する(混乱状態で自分自身を攻撃する際の通常の手順に従う)。この〈ストライク〉は、そのクリーチャーが混乱状態から回復するためのフラット・判定を可能にするものではない。</p>"
         }
       },
-      "name": "コーソージ/Cauthooj",
+      "name": "カウソジ/Cauthooj",
       "publicNotes": "<p>These large, flightless birds are deceptively agile, considering their long bodies and awkward, hopping gait. Solitary predators, they use their hypnotic warbling song to drive prey into a wild frenzy, manipulating them into attacking one another so that the cauthooj can then feast on the remains.</p>\n<p>Known to some scholars as the puppet master bird, and to others as the shrill shrike, cauthoojs are widely reviled by most intelligent humanoids, in part because they seem to prefer humanoids as prey. Sightings typically lead to the creation of hunting parties to track the creature down before it can kill again, with would-be hunters typically stuffing their ears full of wax in an effort to avoid being affected by its cry. Those who have survived the creature's song report that the experience is uniquely unnerving, and almost all accounts agree that there is no other sound as terrible.</p>\n<p>While one might assume the cauthooj is an unintelligent animal, these creatures are smarter than they look. Cauthoojs stalk the perimeter of remote settlements in hopes of finding a lone traveler they can feast upon. They can even understand a few rudimentary words in Fey, although they are incapable of clearly speaking themselves. This doesn't stop the cauthooj from attempting to mimic the sounds it hears, but when it does so, its eerie primal nature enhances the attempt, leading to the bird's signature ability to manipulate minds and encourage conflict, a trait the cauthooj is just barely smart enough to understand—and enjoy</p>"
     },
     "Living Waterfall": {
@@ -410,7 +410,7 @@
           "name": "ノックダウン"
         }
       },
-      "name": "ヒアエノドン/Hyaenodon",
+      "name": "ハイエノドン/Hyaenodon",
       "publicNotes": "<p>Hyaenodons are ferocious primeval creatures that resemble hyenas. Looming, shaggy-furred animals nearly the size of a horse, hyaenodons are truly formidable predators to be reckoned with, due both to their size and to their flesh-shearing jaws. Hyaenodons prey on small horses, camels, and even young rhinoceroses. Kholo clans find these creatures particularly useful as mounts and guardians.</p>\n<hr />\n<p>Hyenas are pack-hunting scavengers known for their unnerving, laughterlike cries. The most well-known hyenas are the socially gregarious spotted hyenas, who travel in packs and work together to hunt or drive off larger creatures. Hyenas are typically nocturnal creatures who scavenge meat, insects, and fruit, though they aren't above supplementing their carrion diets with fresh prey.</p>"
     },
     "Viper": {
@@ -1552,7 +1552,7 @@
           "name": "スロー・ロック"
         }
       },
-      "name": "ストーン・バルワーク/Stone Bulwark",
+      "name": "ストーン・ブルワーク/Stone Bulwark",
       "publicNotes": "<p>Stone bulwarks are slow and steady constructs typically carved from marble or granite. They're often made to serve as works of art when at rest, so some magical crafters employ master sculptors to ensure their constructs make beautiful statues. Older stone bulwarks might be weathered, with scuffed or cracked surfaces or missing noses and digits, but this weathering is largely cosmetic and doesn't adversely impact the bulwark's functionality.</p>"
     },
     "Empyreal Dragon (Young)": {
@@ -1699,7 +1699,7 @@
           "name": "エニイ・ワン・ロア/Any One Lore"
         }
       },
-      "name": "グレート・サイクロプス/Great Cyclops",
+      "name": "グレイト・サイクロプス/Great Cyclops",
       "publicNotes": "<p>Gigantic loners, the great cyclopes are their lesser kin writ large. They're stronger and more violent, but their uncontrolled vision of possible futures has driven them beyond reason. They see every moment as a potential storm of uncontrollable fury and, out of a desperate desire for peace, quiet, and an end to their hunger, lash out at any who come near. Wise creatures avoid great cyclopes at all cost. It's fortunate for humanoids that great cyclopes prefer to dwell far from settlements.</p>\n<p>Debate has long raged over the origins of these massive, destructive giants. They are so large that it had long been assumed they were used as beasts of burden by their lesser kin, now free to hunt and kill without restraint. Other scholars believe the great cyclops is the ultimate fate of the entire cyclops species. Whatever foolish decision or wayward curse caused the end of their civilization is still playing out, occasionally causing a cyclops to withdraw from their own kind, lose all semblance of intellect, and mutate into a lumbering, feral colossus.</p>\n<hr />\n<p>The cyclopes are violent giants with a tragic past. Although they possess only one eye, they could once see far more than most, possessing occult wisdom and divinatory magic that gave them the mystic ability of foresight. But their legendary oracular powers failed to prevent the fall of their society, and the vast kingdoms of the cyclops long ago collapsed into ruin. Today, cyclopes have forgotten much of what they once knew, and they skulk among the crumbling remains of their fallen cities like forgotten kings and queens of their own fallen kingdoms.</p>"
     },
     "Horned Dragon (Ancient, Spellcaster)": {
@@ -2428,7 +2428,7 @@
           "description": "<p>バグベア・プラウラーは、自身が@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}しているクリーチャーに対するダメージ・ロールに+3の状況ボーナスを得る。</p>"
         }
       },
-      "name": "バグベア・プラウラー/Bugbear Prowler",
+      "name": "バグベア・プロウラー/Bugbear Prowler",
       "publicNotes": "<p>Bugbear prowlers specialize in the art of lurking in the shadows.</p>\n<hr />\n<p>These stealthy and cruel goblinoid creatures delight in spreading fear and tormenting their victims. Bugbears are the monsters lurking in the closet and hiding under the bed. Preying on remote farmsteads, bugbears reveal their presence with thumps in the night or creaks of boards to build lurking dread and arouse suspicion and fear.</p>"
     },
     "Sewer Ooze": {
@@ -2491,7 +2491,7 @@
           "name": "ノックダウン"
         }
       },
-      "name": "カシジアン/Cassisian",
+      "name": "カシシアン/Cassisian",
       "publicNotes": "<p>The weakest of angels, cassisians usually serve as lackey messengers for more powerful angels or as spiritual guides for mortals. Despite their limited intellect, cassisians have a knack for precise recollection, particularly with scripture. Most cassisians are formed from the souls of trustworthy mortals, but some arise from fragments of greater angels destroyed in service to the celestial realms.</p>\n<hr />\n<p>The celestial hosts of angels are messengers and warriors, divided into choirs based on their abilities and purviews. Angels were one of the first creations of the gods, and many still assist their righteous creators throughout the cosmos. Most angels in modern times are not direct creations of the divine, however, instead consisting of ascended mortal souls drawn from the celestial planes.</p>\n<p>The majority of unaffiliated angels live in Nirvana, the plane of virtue and enlightenment. Angels who are affiliated with deities dwell in those deities' domains or other areas where that god holds influence. Regardless of residence or service, angels remain benevolent messengers possessed with magical auras to aid their allies.</p>",
       "allSaves": "アンホーリー・クリーチャーに対するすべてのセーヴに状況ボーナス+1"
     },
@@ -2573,7 +2573,7 @@
           "description": "<p>トウィグジャックはその体から破片と茨の弾幕を@Template[cone|distance:15]に噴射し、@Damage[4d6[piercing]|options:area-damage]ダメージを与える(@Check[reflex|dc:20|basic|options:area-effect]セーヴ)。</p>\n<p>トウィグジャックは[[/gmr 1d4 #Recharge Splinter Spray]]{1d4ラウンド}の間、スプリンター・スプレーを再び使用することはできない。</p>"
         }
       },
-      "name": "トゥイッグジャック/Twigjack",
+      "name": "トゥィッグジャック/Twigjack",
       "publicNotes": "<p>\"True\" twigjacks, as they consider themselves, are found in wild forests alongside the fey they idolize.</p>\n<hr />\n<p>Maladjusted forest denizens, twigjacks form from the cruel and prankish combination of fey and the very woods in which they reside. A twigjack's body is made up of prickly brambles woven with vines. Shaggy, mossy growth, not unlike hair, tops a twigjack's head. Its mouth is just a canyon of splintered and broken sticks bisecting its face. Leaves and sprigs of new growth randomly sprout from the creature's body. Many dense forests on Golarion have at least a handful of twigjacks living in the undergrowth.</p>\n<p>While truculent and violent, twigjacks care deeply for what they consider to be their forests. These creatures harass outsiders who delve deep into their wooded domains, forcing back even the most determined explorers, foresters, and travelers, especially when those intruders cut roads through the forest. However, they are not terribly territorial when it comes to other forest creatures. When sylvan creatures, especially fey, rally against an outside threat, twigjacks in the area eagerly arrive to fight, even if they were not invited.</p>"
     },
     "Choral": {
@@ -2901,7 +2901,7 @@
           "description": "<p>20フィート。</p>\n<p>アニマル、グレムリン、またはコーロではないクリーチャーがこのオーラに入った時、そのクリーチャーは不運になる可能性がある。そのクリーチャーは@Check[will|dc:16]セーヴを行う。そのクリーチャーは2回ロールし、悪い方の結果を採用しなければならない。成功した場合、そのクリーチャーは24時間の間、パグワンピの不運オーラに対して一時的な免疫となる。失敗した場合、そのクリーチャーはオーラ内にいる限り、すべてのチェックにおいて2回ロールし、悪い方の結果を採用しなければならない。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.yxgHWK2rTZKKAzDN]{効果: 不運オーラ}</p>"
         }
       },
-      "name": "パグワンピ/Pugwampi",
+      "name": "プグワムピ/Pugwampi",
       "publicNotes": "<p>Mean, dog-faced, and craven, pugwampis take disproportionate enjoyment from the accidents and missteps of other creatures—something that happens often due to the supernatural aura of ill fortune these gremlins project. They enjoy preparing pranks involving spikes, excrement, pits full of spiders, and similar twisted torments. Pugwampis are somewhat deaf and thus often yell loudly to each other when not hiding. Many pugwampis worship kholos as gods and aspire to be more like them. Kholos, on the other hand, hate pugwampis because of their sycophantic fawning.</p>\n<hr />\n<p>Gremlins are cruel fey tricksters and saboteurs who have fully acclimated to life in the Universe, finding distinct niches for their inventive destructiveness. Nearly all gremlins delight in ruining or breaking things, whether it's something physical like a device or vehicle or something intangible such as an alliance or relationship. A gremlin's greatest joy is watching the collapse of complex creations, preferably after the slightest, carefully targeted nudge from the gremlin. Gremlins tend to denigrate, bully, or even slaughter their lesser kin, particularly mitflits, whom stronger gremlins derisively call \"baggies.\"</p>"
     },
     "Dire Wolf": {
@@ -3512,7 +3512,7 @@
           ]
         }
       ],
-      "name": "ヒュドラ/Hydra",
+      "name": "ヒドラ/Hydra",
       "publicNotes": "<p>Hydras are multiheaded, foul-tempered serpentine beasts with voracious appetites, widely feared for their regeneration abilities.</p>"
     },
     "Nessari": {
@@ -3584,7 +3584,7 @@
           "name": "インプルーヴド・グラブ"
         }
       },
-      "name": "ネッサリ/Nessari",
+      "name": "ネサリ/Nessari",
       "publicNotes": "<p>When an army of devils invades to bathe a region in bloodshed and hellfire, it is likely that one of the nessaris masterminded the incursion. Cunning, powerful, and ruthless, nessaris often serve the archdevils directly. They rule infernal duchies, subjugate mortal worlds, and usurp infernal rivals using unparalleled despotism and calculated ferocity. To realize their tyrannical machinations, nessaris claim mortal souls that they corrupt into ort servants, which can then be shaped and transformed through infernal manipulation into the terrifying devils that form Hell's formidable legions. They often select the most wicked and vicious orts for their armies, drawing upon these lesser devils' depravity during powerful magical ceremonies to create hideous and terrifying abominations that can cow and eviscerate the nessari's enemies.</p>\n<p>Each nessari is crafted deep within the nightmarish bowels of Nessus, the ninth layer of Hell, to serve the whims of archdevils and infernal dukes. Those nessaris that don't leave Nessus to command infernal legions in the upper layers of Hell often form the courts of Hell's elite, gathering cronies and sects that shape Hell's political landscape through subterfuge and manipulation. But many nessaris see themselves as living embodiments of hellfire, the all-encompassing wrath of Hell, and thus prefer to dwell in realms consumed by fire. In Avernus, Dis, Malebolge, Nessus, and Phlegethon, nessaris build vast citadels of brimstone wreathed in flame to lord over.</p>\n<p>Rather than being above the constant power struggles of the diabolic ranks, nessaris are in the thick of it. Even apocalyptic schemes to conquer or despoil mortal worlds usually begin from a desire to claw a single rank up the immortal hierarchy of Hell. For this reason, the best, yet also most dangerous, ally against a nessari is the nessari next to them.</p>\n<p>Nessaris tower over other devils, standing at least 16 feet tall, weighing over 1,000 pounds, and brandishing wingspans in excess of 20 feet.</p>\n<h2>Infernal Dukes</h2>\n<p>Elite members of Hell's political infrastructure and leadership hierarchy, the dukes of Hell are chosen from among the most tyrannical, oppressive, and conniving devils. While not all infernal dukes are nessaris, a nessari's natural disposition toward conquest and oppression often makes them an ideal candidate for this position. To create an infernal duke, adjust the nessari to be between 21st and 25th level. Because of their physical prowess, manipulative nature, and powerful spellcasting abilities, infernal dukes make excellent villains for long-running campaigns.</p>\n<hr />\n<p>Masters of corruption and architects of conquest, devils seek both to tempt mortal life to join in their pursuit of all things profane and to spread tyranny throughout all worlds. The temptations they offer mortals range from great powers granted by the signing of an infernal contract to twisted favors following a whispered pledge to a diabolic patron, or any number of even subtler exchanges. Those who succumb to these temptations find themselves consigned to an afterlife of endless torment in the pits of Hell, wherein the only hope of escape lies in the chance of being promoted to become a devil in the infernal ranks.</p>\n<p>Every devil has a specific role to play in the upkeep of the remorseless bureaucratic machine that is Hell, from soldiers and scholars to inquisitors, lawyers, judges, and executioners. Lowly orts perform subservient labor to more powerful and specialized devils, such as infantry and contract devils, while the greatest nessaris command entire infernal armies.</p>\n<p>Asmodeus stands at the apex of the structure he created, but the layers below him are marked by a constant jockeying for position. Most diabolic plans ultimately serve to improve the schemer's place in the hierarchy.</p>",
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
@@ -3739,7 +3739,7 @@
           "name": "掴み"
         }
       },
-      "name": "レヴナント/Revenant",
+      "name": "レヴェナント/Revenant",
       "publicNotes": "<p>Revenants are obsessed, undead stalkers who arise from their own murders and are driven by only one thing: revenge against their killers. The common wisdom is that revenants arise only from individuals who have been utterly betrayed or abandoned to die a grueling death, but even then, such victims might not rise from their graves. In other cases, revenants might even rise from what might legitimately be considered an accident if the revenant doesn't understand the full circumstances of their demise. In such cases, it doesn't matter that the \"murderer\" may not have intended to kill, for revenants understands no pity and can never forgive. Revenants have little memory of their lives other than anything they might need to recall in order to achieve their goal of vengeance.</p>"
     },
     "Dhampir Wizard": {
@@ -5689,7 +5689,7 @@
           "description": "<p>ハグはクリーチャーを凝視し、差し迫った破滅の蝕むような感覚を植え付ける。結果は対象の@Check[will|dc:20]セーヴによって決まる。対象はシー・ハグを見ることができなくてもよい。</p><hr /><p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}となる。</p>\n<p><strong>失敗</strong>クリーチャーは恐怖状態1となり、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態に1ラウンドの間なる。もし対象が@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死}状態であったなら、@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のまま1日の間過ごす。その日の終わりに、対象は同じDCに対して@Check[fortitude|dc:20]セーヴを行わなければならない。失敗すると、死亡する。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となり、減速状態1に1分の間なる。</p>"
         }
       },
-      "name": "シー・ハグ/Sea Hag",
+      "name": "シー・ハッグ/Sea Hag",
       "publicNotes": "<p>Sea hags specialize in transformation magic, preying on those who are desperate to change some aspect of their physical appearance. Targets often include those suffering from insecurity about their bodies or those desperate to reside in a different environment, such as aquatic creatures who wish to live on land. These hags are known for tempting desperate victims into tragic and excruciating bargains, though they're also happy to drown and eat mariners who stray too close to their dwellings.</p>\n<p>A sea hag has the upper half of a humanoid and the lower half of an octopus, with translucent skin and glowing lights visible beneath their flesh. Sea hags can join covens, but their aquatic nature often prevents them from joining mixed covens with other kinds of hags.</p>\n<hr />\n<p>Hags are malevolent predators who use magic and manipulation to lure children and young adults into their clutches. Though their true forms are eldritch and horrifying, hags spend much of their lives disguised as ordinary women. They seek out targets who are unhappy, innocent, or otherwise vulnerable, preying on their weaknesses before snatching them up. The typical hag is abusive, controlling, and narcissistic. Though less malicious hags possibly exist, they rarely reveal their true forms, making them nearly impossible to find.</p>",
       "allSaves": "対魔法のすべてのセーヴに状態ボーナス+1"
     },
@@ -5824,7 +5824,7 @@
           "description": "<p>ゴード・レシーが拳または種による〈ストライク〉でクリーチャーにダメージを与えたとき、そのレシー(または種)からつるが飛び出し、対象の手足に巻き付く。</p>\n<p>対象は@Check[reflex|dc:17]セーヴを行わなければならない。失敗すると、対象は1ラウンドの間、その移動速度に－10フィートの状況ペナルティを受ける。大失敗すると、対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}となり、移動速度へのペナルティは1分続く。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.fPhbDSTPuT01f0Kn]{効果: Ensnare}</p>"
         }
       },
-      "name": "ヒョウタン・レシー/Gourd Leshy",
+      "name": "ゴード・レーシー/Gourd Leshy",
       "publicNotes": "<p>Gourd leshies are guardians of fields, gardens, and farms. Many villages benefit from the protection of a gourd leshy, even if they are unaware of it.</p>\n<hr />\n<p>Leshies are intelligent plant creatures who guard areas of primeval wilderness or earthly power. Originally created by powerful fey, they manifest when a skilled practitioner of primal magic—typically a druid—combines a nature spirit with a body carefully grown and crafted from local vegetation. The rites and materials required to create a leshy vary depending on the type of leshy. They are typically given life in an area of great natural significance, such as an arboreal's grove, a druidic circle, a fairy ring, or a great natural wonder.</p>"
     },
     "Giant Frilled Lizard": {
@@ -6463,7 +6463,7 @@
           "description": "<p><strong>必要条件</strong>そのチャーネル・クリエイションが暴走状態であること</p>\n<hr />\n<p><strong>効果</strong>そのチャーネル・クリエイションは–1の状況ペナルティを受けて拳でストライクを行う。命中した場合、1d6の追加ダメージを与え、対象を@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にする。</p>"
         }
       },
-      "name": "チャーネル・クリエーション/Charnel Creation",
+      "name": "チャーネル・クリエイション/Charnel Creation",
       "publicNotes": "<p>Made of odd scraps of skin and muscle, a charnel creation is a grotesque parody of life. Though it has no mind, it can still go into a berserk rage when harmed, giving it a faint semblance of emotion. These constructs are often fashioned to guard the secret laboratories, unhallowed funerary grounds, and bloody charnel houses of fleshwarpers and necromancers who feel no compunctions about desecrating corpses for their own ends. Though the first charnel creation is believed to have been a misguided attempt to create life from simple base elements, these monstrosities are far from human. In isolated cases, echoes of a personality might rise in a charnel creation if the brain used as part of its construction belonged to a particularly powerful personality, but such tragic instances are (thankfully) rare in the extreme.</p>"
     },
     "Griffon": {
@@ -7310,7 +7310,7 @@
           "name": "掴み"
         }
       },
-      "name": "ジャイアント・アニメイテッド・ステイチュー/Giant Animated Statue",
+      "name": "ジャイアント・アニメイテッド・スタチュー/Giant Animated Statue",
       "publicNotes": "<p>Giant animated statues' increased size and power make them most useful in large vaults, spacious chambers, or outdoor locations. Tasks beyond their capabilities typically require a more advanced construct, not an animated object.</p>\n<hr />\n<p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>"
     },
     "Empyreal Dragon (Adult)": {
@@ -8113,7 +8113,7 @@
           "name": "インプルーヴド・グラブ"
         }
       },
-      "name": "クラッグ・リノーム/Crag Linnorm",
+      "name": "クラグ・リンノーム/Crag Linnorm",
       "publicNotes": "<p>Despite being among the weakest linnorms, the crag linnorm is a devastating predator, capable of quickly cooking their foes with their magma breath.</p>\n<hr />\n<p>Immense, primeval dragons of the northern reaches of the world, linnorms hate those they deem to be lesser creatures and seek to inflict as much suffering as possible upon their unfortunate victims. While these serpentine monstrosities might not be the powerful winged dragons most imagine, they nonetheless possess incredible strength and deadly powers that often rival more notorious dragons' brutality.</p>",
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
@@ -8294,7 +8294,7 @@
           "name": "インプルーヴド・グラブ"
         }
       },
-      "name": "ターン・リノーム/Tarn Linnorm",
+      "name": "ターン・リンノーム/Tarn Linnorm",
       "publicNotes": "<p>Although more powerful linnorms exist, the multi-headed tarn linnorm can wreak an awe-inspiring amount of devastation.</p>\n<hr />\n<p>Immense, primeval dragons of the northern reaches of the world, linnorms hate those they deem to be lesser creatures and seek to inflict as much suffering as possible upon their unfortunate victims. While these serpentine monstrosities might not be the powerful winged dragons most imagine, they nonetheless possess incredible strength and deadly powers that often rival more notorious dragons' brutality.</p>",
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
@@ -8937,7 +8937,7 @@
           "description": "<p>カッコウ・ハグは、彼らの本拠地となるポケット・ディメンションと本質的に繋がっている。その隠れ家は、幅40フィート、奥行き40フィート、高さ30フィートの次元を超越した空間である。そこにはカッコウ・ハグが望むあらゆるありふれた食料、建物、風景、物体が含まれているが、カッコウの隠れ家から持ち出されたものは何であれ即座に無へと消滅する。</p>\n<p>その次元界に出入りするために、カッコウ・ハグは1アクションとして物理世界に扉を作成しなければならず、これには精神集中特性と操作特性がある。その扉はデフォルトでは@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}だが、カッコウ・ハグは扉を通常通り知覚できる対象のクリーチャーを選択できる。カッコウ・ハグは、自身(および他のいかなるクリーチャーもいない)が隠れ家の中にいて一人である場合に限り、この扉を現実から@UUID[Compendium.pf2e.actionspf2e.Item.AjLSHZSWQ90exdLo]{〈解除〉}できる。</p>"
         }
       },
-      "name": "クックー・ハグ/Cuckoo Hag",
+      "name": "クックー・ハッグ/Cuckoo Hag",
       "publicNotes": "<p>Cuckoo hags seek out youths who are unhappy with their lives, disguising themselves as a trusted figure such as a friend or family member. These hags then weave magical, idealized worlds out of illusions and dream stuff to trap their victims. Once they convince a mortal to stay in their magical world forever, the cuckoo hag drains their prey of life force and imprisons their soul.</p>\n<p>A cuckoo hag's true form is a creature with the cracked pale skin of a broken porcelain doll and an almost impossibly thin neck and limbs.</p>\n<hr />\n<p>Hags are malevolent predators who use magic and manipulation to lure children and young adults into their clutches. Though their true forms are eldritch and horrifying, hags spend much of their lives disguised as ordinary women. They seek out targets who are unhappy, innocent, or otherwise vulnerable, preying on their weaknesses before snatching them up. The typical hag is abusive, controlling, and narcissistic. Though less malicious hags possibly exist, they rarely reveal their true forms, making them nearly impossible to find.</p>",
       "allSaves": "対魔法のすべてのセーヴに状態ボーナス+1"
     },
@@ -9090,7 +9090,7 @@
           "name": "掴み"
         }
       },
-      "name": "アイアン・ハグ/Iron Hag",
+      "name": "アイアン・ハッグ/Iron Hag",
       "publicNotes": "<p>Iron hags are kidnappers, targeting those too young to even remember to fight back. They most often snatch babies from their cradles, though they sometimes target fearful children or youths who suffer from anxiety. They then imprison their new wards in towers or enchanted dungeons, terrifying their victims with stories of the outside world to discourage them from even trying to escape. If these methods fail to be effective, iron hags become more straightforward in their methods of imprisonment, insisting it's for their captives' own good.</p>\n<p>An iron hag's true form has unnaturally long arms. True to their name, they have teeth made of iron, as well as long iron toenails and claws.</p>\n<hr />\n<p>Hags are malevolent predators who use magic and manipulation to lure children and young adults into their clutches. Though their true forms are eldritch and horrifying, hags spend much of their lives disguised as ordinary women. They seek out targets who are unhappy, innocent, or otherwise vulnerable, preying on their weaknesses before snatching them up. The typical hag is abusive, controlling, and narcissistic. Though less malicious hags possibly exist, they rarely reveal their true forms, making them nearly impossible to find.</p>",
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
@@ -9111,7 +9111,7 @@
           "description": "<p>中型以下、足、@Check[reflex|dc:18|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         }
       },
-      "name": "ライノセロス/Rhinoceros",
+      "name": "ライノセラス/Rhinoceros",
       "publicNotes": "<p>Rhinoceroses are short-tempered, territorial, and easily startled, and these traits combined with their innate ferocity means their natural instinct when disturbed is to attack. When intruders disturb or surprise rhinoceroses, they respond by charging directly at the interlopers and then lashing out with their mighty horns.</p>\n<hr />\n<p>This hefty animal is easily recognizable by the distinctive upward-thrusting horn on its snout. Rhinoceroses are herbivorous and, in spite of their hulking size, can run at considerable speed. While rhinos have good hearing and a keen sense of smell, their eyesight is relatively poor.</p>"
     },
     "Larval Ofalth": {
@@ -9853,7 +9853,7 @@
           "description": "<p>バジリスクは30フィート以内で自身が見ることのできるクリーチャーを凝視する。そのクリーチャーは@Check[fortitude|dc:22|options:inflicts:slowed,inflicts:petrified]セーヴを行わなければならない。失敗し、かつ石化の凝視またはこの能力によってすでに減速状態になっていない場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となる。そのクリーチャーがすでにこの能力または石化の凝視によって減速状態になっていた場合、セーヴに失敗するとそのクリーチャーは永続的に@UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{石化}状態となる。</p>\n<p>このように石化されたクリーチャーに、採取から1時間以内の新鮮なバジリスクの血を(単に浴びせるだけでなく)塗りつけると、即座に肉体に戻る。1体のバジリスクには、この方法で[[/gmr 1d4 #Medium Creatures]]体の中型サイズのクリーチャーに塗りつけるのに十分な血が含まれている。</p>"
         }
       },
-      "name": "バジリスク/Basilisk",
+      "name": "バシリスク/Basilisk",
       "publicNotes": "<p>The basilisk is a reptile with a nasty disposition and the ability to turn creatures to stone with its gaze. Folklore holds that, much like the cockatrice, the first basilisks hatched from leathery eggs laid by snakes and incubated by roosters, but little in the basilisk's physiology lends any credence to this claim.</p>\n<p>A basilisk prefers to eat petrified flesh. Once a victim has been turned to stone, the basilisk crunches the fossilized corpse with its powerful jaws and lets its potent stomach acids do the rest. This digestive process is extremely slow and inefficient, causing the basilisk to move so lethargically that it appears as if in mid-petrification itself. This has even led to the saying \"as slow as a well-fed basilisk.\" Certainly, basilisks are well-known for their slow gait and slothful nature, but a predator that can turn its prey to stone with a glance hardly has much need for speed.</p>\n<p>An adult basilisk is 13 feet long from head to tail and weighs roughly 300 pounds. These reptiles make hissing sounds when moving about that turn to a guttural gurgle when they're agitated.</p>\n<p>Though they are normally solitary creatures that come together only to mate and lay eggs, there are periodic reports of regions being infested with unusual numbers of basilisks. What causes these unusual congregations of basilisk activity is a mystery.</p>\n<p>For unknown reasons, weasels and ferrets are immune to the basilisk's stare, and they sometimes sneak into basilisk lairs while a parent is hunting in order to consume eggs or freshly hatched young. Some legends suggest that a basilisk's blood can transmute common stones into other materials, but this is likely a case of witnesses misinterpreting the magical restoration of previously petrified creatures or body parts.</p>"
     },
     "Aapoph Granitescale": {
@@ -10225,7 +10225,7 @@
           "name": "インプルーヴド・グラブ"
         }
       },
-      "name": "アイス・リノーム/Ice Linnorm",
+      "name": "アイス・リンノーム/Ice Linnorm",
       "publicNotes": "<p>The ice linnorm dwells amid glacial crevasses, atop wind-blasted mountain peaks, or within glittering caverns carved from the hearts of the mightiest of icebergs.</p>\n<hr />\n<p>Immense, primeval dragons of the northern reaches of the world, linnorms hate those they deem to be lesser creatures and seek to inflict as much suffering as possible upon their unfortunate victims. While these serpentine monstrosities might not be the powerful winged dragons most imagine, they nonetheless possess incredible strength and deadly powers that often rival authentic dragon brutality.</p>",
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
@@ -10517,7 +10517,7 @@
           "description": "<p>プスクは、見つけたあらゆる弱点を最大限に利用する。プスクが爪による〈ストライク〉でクリティカルヒットを達成するたび、対象は追加で@Damage[1d6[bleed]]{1d6の持続出血}ダメージを受ける。</p>"
         }
       },
-      "name": "パスク/Pusk",
+      "name": "プスク/Pusk",
       "publicNotes": "<p>Among the lowest and least powerful of all demons, the wretched pusks are just as vicious and cruel as their more powerful brethren. They happily vent their frustrations on anything weaker than themselves.</p>\n<p>Born from the souls of the slothful, these demons appear vaguely humanoid in appearance with awkward limbs and slack lumps of skin hanging from their frames. Supposedly, a single slothful soul of sufficient depravity and strength can spawn an entire horde of these creatures. However, as weaker demons, their lot in life is to suffer at the hands of more powerful Abyssal predators, and only a tiny number of pusks ever manage to become something more. For this reason, pusks are quite accommodating when summoned by mortals. They're usually content to work under conditions few other fiends would accept, although they'll still gladly turn on even the kindest of masters who show even the slightest hint of weakness.</p>\n<hr />\n<p>When a sinful mortal soul is judged and sent on to the Outer Rifts, it can become a deadly fiend—a demon. Demons are living incarnations of sin—be they classic sins like wrath or gluttony, or more \"specialized\" depravities like an obsession with torture or the act of treason or treachery. Once formed, a demon's driving goals are twofold—the amassing of personal power, and the corruption of mortal souls to cause them to become tainted by sin. In this way demons ensure a never-ending supply of new demons to bolster their ever-growing ranks in the Outer Rifts.</p>\n<p>Demons are selfish and self-absorbed creatures, and most firmly believe that mortals only play at being more virtuous than fiends. They enjoy tempting mortals into damnation to both indulge their egos and swell their armies. Like many other fiends, one of the great rewards of this manipulation is fulfilling their hunger for souls. In their eyes, the primary use for these souls is to spawn new demons, who can serve as soldiers, slaves, pawns, or even currency for their more powerful masters.</p>"
     },
     "Elemental Avalanche": {
@@ -11202,7 +11202,7 @@
           "description": "<p>アサマルのハンターは水棲の地形特徴によって引き起こされる移動困難な地形を無視する。</p>"
         }
       },
-      "name": "アタマル・ハンター/Athamaru Hunter",
+      "name": "アサマル・ハンター/Athamaru Hunter",
       "publicNotes": "<p>Deep in the sea, schools of athamarus—piscine humanoids armed with spears and specialized crossbows—stalk sharks, sea serpents, and giant squid from the backs of their giant moray eel mounts. The first hunters to strike are armed with barbed harpoons that deploy large fans of seaweed, slowing and exhausting their prey. A daring few athamarus use the embedded harpoon as a handle to ride prey for a short time. Once the creature is tired, remaining hunters finish it with longspears. Athamarus developed this hunting tradition to forge skilled warriors and deter potential attackers, partially in response to centuries of oppression and mistreatment from other aquatic cultures.</p>\n<p>Athamarus rarely hunt land-dwellers, instead offering to trade their services as guides in exchange for metal and ceramic items they can't build underwater—and for tubers, which they consider earthy delicacies. They render aid to damaged sailing ships and rescue shipwrecked sailors, providing food and guidance.</p>\n<p>Athamaru communities—usually villages of 200 individuals or fewer—are matriarchal. The ruler of a given community is also the primary egg-layer, providing each generation with powerful familial bonds. The communities are tight-knit and loyal. Matriarchs are advised and assisted by primal spellcasters and healers.</p>"
     },
     "Centaur Herbalist": {
@@ -11254,7 +11254,7 @@
           "description": "<p><strong>必要条件</strong>バリースは@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}状態である。</p>\n<hr />\n<p><strong>効果</strong>バリースはアンホーリーの特性を持たない隣接する定命の者に霊的に自身を付着させる。彼らはその定命の者の肉体と融合し、その定命の者と相互作用すること以外、自身の呪文や能力を一切使用できなくなる。彼らはその定命の者から離れるために、この効果を@UUID[Compendium.pf2e.actionspf2e.Item.AjLSHZSWQ90exdLo]{〈解除〉}できる。融合している間、バリースはその定命の者にしか聞こえない肉体のない声を使って意思疎通を行うか、あるいはその定命の者にしか見えない任意の姿(定命の者の肩に乗った小さなエンジェルなど)を取ることができる。</p>"
         }
       },
-      "name": "バリス/Balisse",
+      "name": "バリセ/Balisse",
       "publicNotes": "<p>Balisses, or confessor angels, seek to assist mortals ensnared by moral dilemmas or crises of faith. They prefer to guide people to their own decisions rather than demand obedience to a higher cause, as intrinsic belief is even more powerful than unquestioning obedience. While most balisses are fundamentally honest, they use their guiding angel ability to seem less intimidating and decrease the chance the mortal will simply acquiesce to the opinion of an obviously divine being.</p>\n<p>While balisses can spring from any soul with suitable patience and strong counsel, they often form from souls of those who performed evil acts but were redeemed. These souls recognize the struggle and shame of those in similar situations, and can offer advice from the heart rather than from rote sympathy. Many serve the goddess Sarenrae, but they can serve other good deities and empyreal lords as well.</p>\n<hr />\n<p>The celestial hosts of angels are messengers and warriors, divided into choirs based on their abilities and purviews. Angels were one of the first creations of the gods, and many still assist their righteous creators throughout the cosmos. Most angels in modern times are not direct creations of the divine, however, instead consisting of ascended mortal souls drawn from the celestial planes.</p>\n<p>The majority of unaffiliated angels live in Nirvana, the plane of virtue and enlightenment. Angels who are affiliated with deities dwell in those deities' domains or other areas where that god holds influence. Regardless of residence or service, angels remain benevolent messengers possessed with magical auras to aid their allies.</p>",
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
@@ -11371,7 +11371,7 @@
           "description": "<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:25]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}(1ラウンド)</p>"
         }
       },
-      "name": "メデューサ/Medusa",
+      "name": "メドゥーサ/Medusa",
       "publicNotes": "<p>Monstrous humanoids that resemble humans with snakes instead of hair, medusas are best known for their petrifying gazes that—if lingered upon—can permanently transform mortals to stone. Medusas are shrewd and manipulative adversaries who collect and covet secrets, and who use threats and guile to exploit the fears of weaker creatures. A medusa may seek out powerful magic items, use divining magic to discover secret knowledge and unlock forbidden power, or infiltrate a society to beguile influential politicians. Their ability to worm their way into powerful organizations makes them natural leaders of criminal outfits and thieves' guilds, and their interest in magical phenomena leads some to pursue careers as oracles who offer to help adventurers find what they seek—for a price. Of course, if wit and deception prove insufficient, a medusa can always simply turn rivals into ornate stone decorations with little more than a glare. Many medusas build elaborate lairs to call home, often decorated with the statues of their foes turned into macabre trophies on prominent display.</p>\n<p>Exceptionally agile and surprisingly hardy, a medusa rarely backs down from a conflict, even when cornered. Many adventurers who thought themselves readied to resist the effects of a medusa's gaze have nevertheless fallen to a medusa, as these creatures are also often deadly archers able to riddle their foes with venom-coated arrows from a distance. Still, a medusa may barter for their life if no alternatives remain, and the secrets carried by these powerful villains often make it more than worth sparing their lives.</p>"
     },
     "Soulbound Homunculus": {
@@ -11740,7 +11740,7 @@
           "description": "<p>ハイヴ・マザーは@Template[cone|distance:60]に酸を噴き出し、@Damage[8d6[acid],1d6[persistent,acid]|options:area-damage]{8d6の酸ダメージと1d6の持続酸ダメージ}を与える(@Check[reflex|dc:26|basic|options:area-effect]セーヴ)。</p>\n<p>ハイヴ・マザーは[[/gmr 1d4 #Recharge Spray Acid]]{1d4ラウンド}の間、再び酸を噴き出すことはできない。</p>"
         }
       },
-      "name": "アンクラブ・ハイヴ・マザー/Ankhrav Hive Mother",
+      "name": "アンクラヴ・ハイヴ・マザー/Ankhrav Hive Mother",
       "publicNotes": "<p>Ankhrav hive mothers are fearsome predators that one can easily distinguish from the typical ankhrav not only by their greater size, but the presence of a large pair of razor-sharp, mantis-like arms.</p>\n<hr />\n<p>Ankhravs are immense, burrowing, and insectile predators, considered by inhabitants of the rural areas of the world to be an all-too-common plague.</p>"
     },
     "String Slime": {
@@ -12260,7 +12260,7 @@
           "description": "<p><strong>トリガー</strong>ゴブリンの味方が、ゴブリンに隣接する位置で移動アクションを終了した。</p>\n<hr />\n<p><strong>効果</strong>ゴブリン・コマンドは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{ステップ}を行う。</p>"
         }
       },
-      "name": "ゴブリン・コマンドー/Goblin Commando",
+      "name": "ゴブリン・コマンド/Goblin Commando",
       "publicNotes": "<p>The theoretical leaders of goblin raids are called goblin commandos. In practice, goblin commandos rarely continue to lead their comrades once a battle has begun. Most shirk their responsibilities in favor of wading into the fray and claiming more glory from their tribe-mates.</p>\n<hr />\n<p>These small humanoids typically have green or gray skin and large heads with wide ears. While some goblins are civilized and have worked hard to be considered upstanding members of humanoid communities, many are impetuous and vicious creatures who delight in wreaking havoc. These goblins think nothing of slaughtering livestock, stealing, or burning down a building purely for momentary delight. They revel in playing malicious tricks on taller humanoids, whom they call \"longshanks.\"</p>\n<p>Goblins are superstitious, with an intense awe of magic and a fascination with fire; goblins who master magic or fire earn great respect from their kin. Most other humanoids find it difficult to understand goblins' outlook: they hate canines but eagerly share their lairs with so-called \"goblin dogs,\" they fearlessly attack larger creatures but are terrified of horses, and they despise vegetables yet consider pickles a delicacy. To a goblin, of course, these are all perfectly sensible life choices.</p>"
     },
     "Zephyr Hawk": {
@@ -13631,7 +13631,7 @@
           "description": "<p><strong>使用制限</strong> 1時間に1回</p>\n<hr />\n<p><strong>効果</strong>アンクラーヴは@Template[cone|distance:30]に酸を吐き出し、@Damage[3d6[acid],1d6[persistent,acid]|options:area-damage]{3d6の酸ダメージと1d6の持続酸ダメージ}を与える(@Check[reflex|dc:20|basic|options:area-effect]セーヴ)。</p>"
         }
       },
-      "name": "アンクラブ/Ankhrav",
+      "name": "アンクラヴ/Ankhrav",
       "publicNotes": "<p>These horse-sized, burrowing monsters generally avoid heavily settled areas like cities, but ankhravs' predilection for livestock and humanoid flesh ensures that the creatures do not remain in the deep wilderness for long. Desperate farmers whose fields become infested by ankhravs often have little recourse but to seek the aid of adventurers.</p>\n<hr />\n<p>Ankhravs are immense, burrowing, and insectile predators, considered by inhabitants of the rural areas of the world to be an all-too-common plague.</p>"
     },
     "Leaf Leshy": {
@@ -13665,7 +13665,7 @@
           "description": "<p>レシーは空を優雅に滑空し、地面に向かって5フィート、前方へ最大25フィート移動する。レシーが各ラウンドに少なくとも1アクションを滑空に費やす限り、彼らは各ターンの終了時に空中に留まる。落下によるダメージを決定する際、リーフ・レシーは常に落下距離が20フィート短いものとして扱う。</p>"
         }
       },
-      "name": "リーフ・レシー/Leaf Leshy",
+      "name": "リーフ・レーシー/Leaf Leshy",
       "publicNotes": "<p>Leaf leshies are diminutive protectors of forests clad in armor and hats made of fruit, flowers, or leaves. They enjoy mock battles but act cautiously in real ones.</p>\n<hr />\n<p>Leshies are intelligent plant creatures who guard areas of primeval wilderness or earthly power. Originally created by powerful fey, they manifest when a skilled practitioner of primal magic—typically a druid—combines a nature spirit with a body carefully grown and crafted from local vegetation. The rites and materials required to create a leshy vary depending on the type of leshy. They are typically given life in an area of great natural significance, such as an arboreal's grove, a druidic circle, a fairy ring, or a great natural wonder.</p>"
     },
     "Soulbound Doll (Sassy)": {
@@ -13833,7 +13833,7 @@
           "name": "リアクティヴ・ストライク"
         }
       },
-      "name": "オーク・ヴェテラン/Orc Veteran",
+      "name": "オーク・ベテラン/Orc Veteran",
       "publicNotes": "<p>Orc veterans have survived several bloody and chaotic conflicts, coming out the other side with scars and experience that make them even more dangerous opponents.</p>\n<hr />\n<p>Many orcs are forged in the fires of violence and conflict, often from the moment they're born. As they live lives that are frequently cut brutally short, orcs revel in testing their strength against worthy foes, whether by challenging a higher-ranking member of their community for dominance, taming a powerful beast, or slaying a fearsome monster.</p>\n<p>Tall and powerful, with long arms and thickly muscled legs, many orcs top 7 feet in height. Their heavy limbs and broad, almost bow-legged stances combine with a tendency to slouch forward to create an almost contradictory set of circumstances where an orc can tower over other humanoids while simultaneously staring them in the eye. These features, alongside a tendency to scar easily, can make them seem quite intimidating.</p>\n<p>The half-orc dromaars, most commonly born of unions between orcs and humans, are often tested even more harshly than their full orc kin, but those who endure these tests can rise to positions of authority. \"An orc can have what an orc can hold\" is a saying that not only applies to an individual's ability to secure their own destiny and position, but is also likely the root of orcs referring to their communities as holds.</p>"
     },
     "Coarti": {
@@ -14650,7 +14650,7 @@
           "description": "<p>出血しているクリーチャーは、デイノニクスに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         }
       },
-      "name": "デイノニクス/Deinonychus",
+      "name": "デイノンイチュス/Deinonychus",
       "publicNotes": "<p>Deinonychuses are wily hunters that attack in groups of up to a dozen individuals, ripping apart prey with sharp talons and powerful jaws. They are lean, muscular, and have two powerful legs and a long tail that helps them maintain balance. Although deinonychuses don't use their dexterous clawed forelimbs to attack, the dinosaurs can use them to pull aside small barriers. Although some of these dinosaurs have scaly skin, most have thatches of vibrantly colored feathers as well. A deinonychus is about 6 feet tall and weighs about 150 pounds.</p>\n<hr />\n<p>Remnants from the world's primeval era, these enormous reptilian animals still exist in large numbers in remote wildernesses or underground in magical Darklands caverns. Lizardfolk, orcs, giants, and other humanoids who live near dinosaurs use the animals as mounts, guards, or hunting beasts. Occasionally, rich nobles will collect dinosaurs to display them in menageries, which almost inevitably leads to cast-offs being nursed back to health by druids and other champions of nature. When dinosaurs establish themselves in regions outside their normal habitats, it's often the result of a large collection being released.</p>"
     },
     "Poracha": {
@@ -15229,7 +15229,7 @@
           "name": "クロスボウ"
         }
       },
-      "name": "ロウブリンガー・ウォープリースト/Lawbringer Warpriest",
+      "name": "ローブリンガー・ウォープリースト/Lawbringer Warpriest",
       "publicNotes": "<p>Mortals whose ancestry has been influenced by archons are called lawbringers. They may have mortal ancestors who fought alongside archons against the forces of evil and entropy, or they may have been born from a union between an archon and a mortal. Many lawbringers seek adventure to bringing order to the world.</p>\n<hr />\n<p>Many immortals dwell upon the other planes of the Great Beyond. Some are benevolent and kind, like angels. Others are cruel and destructive, like demons. And some fit roles outside of morality, like psychopomps. It's far from unheard of for mortals and immortals alike to become entangled romantically, and the children of such engagements carry a supernatural element in their bloodlines for generations to follow. After the first generation, this otherworldly influence usually lies dormant, but now and then, the influence can manifest strongly in descendants many years later. These inheritors of extraplanar legacies are known collectively as planar scions.</p>\n<h2>Nephilim</h2>\n<p>Nephilim are planar scions with a connection to the planes of the Outer Sphere. Some are obviously tied to realms such as Heaven or Hell, while others are cryptic amalgams of metaphysical traits.</p>"
     },
     "Shuln": {
@@ -15728,7 +15728,7 @@
           "name": "掴み"
         }
       },
-      "name": "アニメイテッド・ステイチュー/Animated Statue",
+      "name": "アニメイテッド・スタチュー/Animated Statue",
       "publicNotes": "<p>Animated statues are often used to guard crypts, small shrines, or areas in government buildings where they can be positioned amid normal statues to hide their true nature until an intruder arouses their ire. Many less scrupulous adventurers, fueled by paranoia that statues will animate and attack, smash any statues they encounter, ruining harmless, ancient relics.</p>\n<hr />\n<p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>"
     },
     "Orc Scrapper": {
@@ -16360,7 +16360,7 @@
           "description": "<p>マンティコアは尾から最大2本のスパイクを放ち、2体の異なるクリーチャー、または単一のクリーチャーを対象とする。マンティコアが2体の異なるクリーチャーを対象とする場合、これらのクリーチャーは互いに20フィート以内でなければならず、マンティコアはそれぞれに対して個別に〈ストライク〉を行う。これはマンティコアのマルチアタック・ペナルティにおいては1回の〈ストライク〉としてのみ数えられ、ペナルティは両方の攻撃が終わるまで増加しない。</p>\n<p>マンティコアが両方のスパイクを同じクリーチャーに放つ場合、1回の〈ストライク〉を行う。攻撃がヒットした場合、単一のスパイクのダメージを与えるが、対象は釘付けにされ、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。クリーチャーは、そのスパイクを[[/act force-open dc=23]]{Forces Open}するか、[[/act escape dc=23]]{Escapes}することで自由になることができる。どちらの選択肢もDCは23である。</p>\n<p>マンティコアは24時間の間に12本を超えるスパイクを放つことはできない。</p>"
         }
       },
-      "name": "マンティコア（クィル・テイル）/Manticore (Quill Tail)",
+      "name": "マンティコア（クイル・テイル）/Manticore (Quill Tail)",
       "publicNotes": "<p>A manticore is a monstrous amalgamation of lion, dragon, and human with a penchant for feasting on human flesh. Its distinctive tail is festooned with large quills like those of a porcupine, which the manticore flings at prey by whipping its tail like a sling. These deadly spikes give the manticore the power to slaughter even well-armed warriors from the safety of the sky.</p>\n<p>Although the anthropomorphic face of the manticore suggests a keen intellect, most creatures of its kind are single-minded killers. They can be clever liars, however, and their voices have a strangely musical sound that has lured many unwitting travelers into an ambush. A manticore discovered by uneducated or spiteful humanoids can sometimes become the center of adoration and even worship. A manticore in this situation swiftly gives in to its laziness and allows its acolytes to bring it tribute in the form of food and treasure, feasting upon its own followers when offerings become scarce. Stronger humanoids who encounter a manticore can cow it through intimidation and violence, sometimes even forcing it into service as a mount. As long as the manticore is well fed with human flesh and its master leads it to victory, a manticore mount can prove surprisingly loyal.</p>\n<p>A manticore enjoys taking plunder from the corpses of its prey as trophies that flatter its vanity and testify to its strength. It has little interest in money, but sometimes accepts gold and jewels as tribute. Because manticores prefer lonely places in the wilderness far from humanoids, they remain content to enjoy their spoils alone rather than show them off to visitors.</p>"
     },
     "Skulltaker": {
@@ -16545,7 +16545,7 @@
           "description": "<p>スウィート・ハグの爪でダメージを受けたクリーチャーは、@Check[fortitude|dc:20]セーヴに成功しなければならず、失敗すると1日の間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となる。</p>\n<p>そのクリーチャーがソポリフィック・ストライクによってすでにエンフィーブル状態である間にこのセーヴに大失敗または失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}となり、美味しい菓子を食べる夢を見る。これは精神の睡眠効果である。1分が経過する前に起こされなければ、そのクリーチャーは自動的に目を覚ます。</p>"
         }
       },
-      "name": "スウィート・ハグ/Sweet Hag",
+      "name": "スウィート・ハッグ/Sweet Hag",
       "publicNotes": "<p>Sweet hags use bright colors, pleasant visages, and sugary treats to draw in children and the young at heart. Their favorite prey is impoverished youngsters who are unlikely to be missed—sweet hags offer them food and a veneer of kindness before devouring the hapless child. Sweet hags also enchant their food to magically charm others, often using these bespelled servitors to handle all of their busywork. Though they present a lovely and generous face to the world, they turn vicious when insulted or defied. A sweet hag's true form is a dribbling mass of flesh with gumdrop eyes, often resembling melting taffy.</p>\n<hr />\n<p>Hags are malevolent predators who use magic and manipulation to lure children and young adults into their clutches. Though their true forms are eldritch and horrifying, hags spend much of their lives disguised as ordinary women. They seek out targets who are unhappy, innocent, or otherwise vulnerable, preying on their weaknesses before snatching them up. The typical hag is abusive, controlling, and narcissistic. Though less malicious hags possibly exist, they rarely reveal their true forms, making them nearly impossible to find.</p>",
       "allSaves": "〈魔法〉に対するすべてのセーヴに+1"
     },
