@@ -357,7 +357,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Expeditious Advance": {
-      "name": "エクスペディシャス・アドヴァンス/Expeditious Advance",
+      "name": "エクスペディシャス・アドバンス/Expeditious Advance",
       "description": "<p> <strong>必要条件</strong>あなたは無防備または軽装の鎧を着ている。</p>\n<hr />\n<p>あなたは素早く進み、後退する。あなたは速度に+10フィートの状態ボーナスを得る。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
@@ -916,7 +916,7 @@
       ]
     },
     "Defensive Advance": {
-      "name": "ディフェンシヴ・アドヴァンス/Defensive Advance",
+      "name": "ディフェンシヴ・アドバンス/Defensive Advance",
       "description": "<p>あなたの盾の保護を受けて、戦闘に飛び込む！あなたは盾を上げ、〔ストライド〕を行う。もしあなたが少なくとも1体の敵の近接の距離内に移動を終えたなら、あなたはその敵に対して近接の〔ストライク〕を行うことができる。</p>\n<p>あなたは、対応する移動タイプを持っている場合、ストライドの代わりに、トンネル掘り、登攀、飛行、または水泳中に防御的進軍を使用できる。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -1031,7 +1031,7 @@
       ]
     },
     "Aggressive Block": {
-      "name": "アグレッシヴ・ブロック/Aggressive Block",
+      "name": "アグレッシブ・ブロック/Aggressive Block",
       "description": "<p><strong>トリガー</strong>あなたは 〔シールド・ブロック〕 リアクションを使用し、 〔シールド・ブロック〕 をトリガーした相手があなたの隣にいて、あなたと同じサイズかそれより小さい場合。</p>\n<hr />\n<p>あなたはブロックしつつ押し返し、敵を押しのけたり、バランスを崩させる。あなたはシールドを使ってトリガーとなったクリーチャーを押し、5フィートによって自動的に押し出すか、またはあなたの次のターン開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}にする。トリガーとなったクリーチャーは、移動するかオフガードになるかを選ぶ。移動することを選んだ場合、あなたが方向を選ぶ。もし@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}によって固い物体にぶつかるか、困難な地形のマスに入るか、別のクリーチャーのスペースに入る場合、移動する代わりにオフガードになる。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -1734,7 +1734,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Invigorating Breath": {
-      "name": "インヴィゴレイティング・ブレス/Invigorating Breath",
+      "name": "インビゴレイティング・ブレス/Invigorating Breath",
       "description": "<p><strong>使用制限</strong>1時間に1回</p>\n<p><strong>必要条件</strong>あなたはあなたの精霊ガイドに隣接しているか、あなたの空間を共有している。</p>\n<hr />\n<p>あなたの精霊ガイドは、あなたに甘い香りの息を吐きかけ、痛みを乗り越える力を与える。あなたはヒット・ポイントのために20の一時的な10分を得る。15レベルでは、あなたは代わりに10分のために30の一時的なヒット・ポイントを得る。</p>",
       "selfEffect": "効果: 活力の息",
       "source": "Pathfinder Adventure Path: Gatewalkers",
@@ -2164,7 +2164,7 @@
       ]
     },
     "Voice of the Elements": {
-      "name": "ヴォイス・オブ・ジ・エレメンツ/Voice of the Elements",
+      "name": "ボイス・オブ・ジ・エレメンツ/Voice of the Elements",
       "description": "<p>あなたは原始的なドラゴンが持つ基本元素との絆を受け継いでいる。あなたは元素の特性を持つクリーチャーに対して[[/act make-an-impression]]を行うための《交渉》判定に+1の状況ボーナスを得る。また、言語を話さないエレメンタルに対して質問を行い、回答を得て、それらに対して《交渉》技能を使用することもできる。</p>",
       "source": "Pathfinder Lost Omens Draconic Codex",
       "prerequisites": [
@@ -2203,7 +2203,7 @@
       ]
     },
     "Vacate Vision": {
-      "name": "ヴェイケート・ヴィジョン/Vacate Vision",
+      "name": "ヴェイケート・ビジョン/Vacate Vision",
       "description": "<p><strong>トリガー</strong>あなたは視覚トレイトを持つ効果に対してセーヴィング・スロウに失敗(しかしクリティカル失敗はしない)する。</p>\n<hr />\n<p>あなたは目が液体化して目のくぼみから流れ出し、空になる。あなたは発動した効果に対してセーヴで成功するが、効果が失敗した場合の持続時間の間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}になる。その時に目が再生し、普通の視力が戻る。</p>",
       "source": "Pathfinder Adventure: The Slithering",
       "prerequisites": [
@@ -2292,7 +2292,7 @@
       ]
     },
     "Invoke Disaster": {
-      "name": "インヴォーク・ディザスター/Invoke Disaster",
+      "name": "インボーク・ディザスター/Invoke Disaster",
       "description": "<p>あなたは敵に自然の furyを呼び寄せることができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.XYhU3Wi94n1RKxTa]{ストーム・ロード}の命令呪文を得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -2619,7 +2619,7 @@
       ]
     },
     "It's Not Over": {
-      "name": "イッツ・ノット・オーヴァー/It's Not Over",
+      "name": "イッツ・ノット・オーバー/It's Not Over",
       "description": "|||<p><strong>Trigger</strong> You're reduced to 0 Hit Points</p>\n<p><strong>Frequency</strong> once per day</p><hr /><p>In the world of drama, the finale of any performance doesn't have to be the end, and for you, this now extends to life itself. When damage reduces you to 0 Hit Points, you can use this reaction to suddenly spring back into action. Instead of gaining the dying condition and falling @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, you regain a number of Hit Points equal to @Damage[(10+@actor.level+@actor.system.abilities.con.mod)[healing]]{10 + your level + your Constitution modifier}.</p>|||",
       "source": "Pathfinder #204: Stage Fright",
       "prerequisites": [
@@ -2707,7 +2707,7 @@
       ]
     },
     "Punishing Shove": {
-      "name": "パニッシング・シャヴ/Punishing Shove",
+      "name": "パニッシング・シャブ/Punishing Shove",
       "description": "<p>あなたが敵を押し戻すとき、あなたは自分の鎧を着た体全体の力を注ぎ込む。クリーチャーを成功裏に@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}した場合、そのクリーチャーは@Damage[(@actor.abilities.str.mod + @actor.skills.athletics.rank*(@actor.skills.athletics.rank - 1))[bludgeoning]]{殴打ダメージ equal to your Strength modifier}の量のダメージを受ける(クリティカル成功の場合は@Damage[(2*(@actor.abilities.str.mod + @actor.skills.athletics.rank*(@actor.skills.athletics.rank - 1)))[bludgeoning]]{double that amount})。このダメージは、あなたがアスレチックスの専門家になると2増加し、マスターになると6増加し、レジェンダリーになると12増加する。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
@@ -2722,7 +2722,7 @@
       "source": "Pathfinder Player Core"
     },
     "Reactive Dismissal": {
-      "name": "リアクティヴ・ディスミッサル/Reactive Dismissal",
+      "name": "リアクティブ・ディスミッサル/Reactive Dismissal",
       "description": "<p><strong>トリガー</strong>あなたのエイドロンはダメージを受ける。</p>\n<p>あなたは突然あなたのエイドロンを解散させ、受けるダメージを減少させるが、これにより再召喚が困難になる。トリガーされたダメージをあなたのエイドロンからあなたのレベルの2倍だけ減少させ、あなたのエイドロンは消失する。あなたは次のターン終了後までエイドロンを再現化できない。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -2923,7 +2923,7 @@
       "source": "Pathfinder Season of Ghosts Hardcover Compilation"
     },
     "Flames of Vision": {
-      "name": "フレイムズ・オブ・ヴィジョン/Flames of Vision",
+      "name": "フレイムズ・オブ・ビジョン/Flames of Vision",
       "description": "<p><strong>アクセス</strong>ドッカエビゴブリンの遺産またはティエン・シアの起源</p><hr /><p>ドッカエビは、炎を通しての視界を開拓した最初のゴブリンの一種であり、物理的またはスペクトル的に感覚を広げることができた。あなたは@UUID[Compendium.pf2e.spells-srd.Item.zvKWclOZ7A53DObE]{クレアヴォイアンス}を4レベルの内在型オカルト呪文として1日2回唱えることができる。呪文の目を見るためには、火の源を見つめている必要がある。</p><hr /><p><strong>特別</strong>あなたが@UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{イグニション}を唱えることができる場合、@UUID[Compendium.pf2e.feats-srd.Item.gRa4bvQn7rI1LoRl]{Dokkaebi Fire}の特技からも含まれる場合、その呪文を<em>クレアボイアンス</em>を唱えることの一部として唱えることができる。通常のキャントリップ効果の代わりに、あなたの手に炎を conjureし、それがあなたの<em>クレアボイアンス</em>呪文の持続時間中、あなたが見るためのものとして持続する。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
@@ -3214,7 +3214,7 @@
       ]
     },
     "Robust Recovery": {
-      "name": "ロバスト・リカヴァリー/Robust Recovery",
+      "name": "ロバスト・リカバリー/Robust Recovery",
       "description": "<p>あなたは病気や毒から回復するために民間療法を学び、それを勤勉に使用することで特に強靭になった。あなたが病気または毒を治療する場合、または誰かがあなたに対してこれらの行動の1つを使用する場合、成功時の状況ボーナスを+4に増加させる。患者のセーヴィング・スロウの結果が成功であれば、患者は致命的成功を得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -3244,7 +3244,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Adaptive Stratagem": {
-      "name": "アダプティヴ・ストラタジェム/Adaptive Stratagem",
+      "name": "アダプティブ・ストラタジェム/Adaptive Stratagem",
       "description": "<p><strong>トリガー</strong>あなたはイニシアチブを振る。</p><hr /><p>あなたの継続的な訓練と仲間との強い絆により、あなたは瞬時に戦術を変えることができる。あなたのフォリオにある準備された専門、機動、または攻撃戦術の一つを別の戦術に置き換える。</p>",
       "source": "Pathfinder Battlecry!"
     },
@@ -3657,7 +3657,7 @@
       ]
     },
     "Invoke the Elements": {
-      "name": "インヴォーク・ジ・エレメンツ/Invoke the Elements",
+      "name": "インボーク・ジ・エレメンツ/Invoke the Elements",
       "description": "<p> <strong>使用制限</strong> 1日1回</p> <hr /> <p>あなたは輝く熱、吹雪の雪、砕ける波、渦巻く風と雷のオーラを呼び出す。</p>\n<p> 1分の間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealment}を得て、 5フィート以上離れたクリーチャーに対して、あなたから5フィート以内にターンを終えたクリーチャーは@Damage[(ternary(gte(@actor.level,17),3,ternary(gte(@actor.level,13),2,1)))d12[@item.flags.system.rulesSelections.changelingType]]ダメージを受ける(@Check[reflex|against:class-spell|basic]セーヴあなたのクラス DCまたは呪文 DCのいずれか高い方)。</p>\n<p>13レベルと17レベルで、このダメージは1d12増加する。</p>\n<p>ヴェールは火炎ダメージを与え、雪の変身者は冷気ダメージを与え、塩水の変身者は殴打ダメージを与え、その効果は水の属性を持ち、バージャの変身者は電撃ダメージを与える。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
@@ -3715,7 +3715,7 @@
       ]
     },
     "Elven Instincts": {
-      "name": "エルヴン・インスティンクツ/Elven Instincts",
+      "name": "エルブン・インスティンクツ/Elven Instincts",
       "description": "<p>あなたの感覚は迅速に反応する。あなたはイニシアティブロールとして行った知覚チェックに+2の状況ボーナスを得る。さらに、あなたのイニシアティブロールの結果が対戦相手のものと並んでいる場合、あなたは先に行動し、あなたが知覚を振ったかどうかに関係なく行動する。</p>",
       "source": "Pathfinder Lost Omens Character Guide"
     },
@@ -3787,7 +3787,7 @@
       ]
     },
     "Elven Weapon Familiarity": {
-      "name": "エルヴン・ウェポン・ファミリアリティ/Elven Weapon Familiarity",
+      "name": "エルブン・ウェポン・ファミリアリティ/Elven Weapon Familiarity",
       "description": "<p>あなたは弓と他の優雅な武器を好む。あなたはエルフの特性を持つ全ての非標準武器にアクセスする。あなたはエルフの特性を持つ武器に精通しており、@UUID[Compendium.pf2e.equipment-srd.Item.MVAWttmT0QDa7LsV]{Longbows}、@UUID[Compendium.pf2e.equipment-srd.Item.dUC8Fsa6FZtVikS3]{Composite Longbows}、@UUID[Compendium.pf2e.equipment-srd.Item.tH5GirEy7YB3ZgCk]{Rapiers}、@UUID[Compendium.pf2e.equipment-srd.Item.hIgqLgH3YcLZBeoT]{Shortbows}、@UUID[Compendium.pf2e.equipment-srd.Item.e4NwsnPnpQKbDZ9F]{Composite Shortbows}を含む—熟練度の目的上、これらの武器のうち武闘武器であるものは全て単純武器として扱い、高度武器であるものは全て武闘武器として扱う。</p>\n<p>5レベルの時、これらの武器でクリティカルヒットを得た時、そのクリティカルスペシャライゼーション効果を得る。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -3853,7 +3853,7 @@
       "source": "Pathfinder Player Core"
     },
     "Reactive Transformation": {
-      "name": "リアクティヴ・トランスフォーメーション/Reactive Transformation",
+      "name": "リアクティブ・トランスフォーメーション/Reactive Transformation",
       "description": "<p><strong>トリガー</strong>様々</p><hr /><p>あなたは危険にさらされると反射的に変身する。あなたはトリガーに応じて、持っている前提特技のうちの1つによって与えられる形に変身するために@UUID[Compendium.pf2e.spells-srd.Item.8RWfKConLYFZpQ9X]{アンテイムド・フォーム}を唱える。あなたの形の抵抗と弱点は、トリガーのダメージに対して適用される。</p><hr /><p><strong>トリガー</strong>あなたは10フィート以上のダメージを受ける</p>\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.NzXpEzcZAjuDTZjK]{エアリアル・フォーム}から形を選ぶ。</p><hr /><p><strong>トリガー</strong>あなたは殴打または毒ダメージを受ける</p>\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{ドラゴン・フォーム}からトリガーのダメージを抵抗する原始的なドラゴンの形を選ぶ。</p><hr /><p><strong>トリガー</strong>あなたは火炎ダメージを受ける</p>\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.1K6AYGisvo9gqdhs]{エレメンタル・フォーム}から火のエレメンタル形を選ぶ。</p><hr /><p><strong>トリガー</strong>あなたは毒ダメージを受ける</p>\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.zCcfPS4y5SrZzU2x]{プラント・フォーム}から形を選ぶ。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -3941,7 +3941,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Voice of Elements": {
-      "name": "ヴォイス・オブ・エレメンツ/Voice of Elements",
+      "name": "ボイス・オブ・エレメンツ/Voice of Elements",
       "description": "<p>あなたは自分が導く元素の秘密の音色で話すことができ、炎のパチパチという音や石の擦れる音の中に言葉を見出す。あなたのキネティック・オーラは、それが有効な間、あなたにこれら3つの恩恵を与える。</p>\n<ul>\n<li>あなたは自分のキネティック元素のすべての言語(空気にはサッスラン、地にはペトラン、火にはパイリック、金属にはTalican、水にはサラシック、木にはMuan)を話すことができる。</li>\n<li>もしマインドレスなエレメンタルがあなたのキネティック元素のいずれかと一致する特性を持っているか、それらの元素で構成されている場合、あなたは基本的なレベルで彼らと意思疎通できる。これにより、あなたは《交渉》を使用して彼らに対して@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉}を行い、非常に単純な@UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{要求}を行うことができる。</li>\n<li>あなたは自分のキネティック元素のいずれかを持つエレメンタルに対して行う魅力に基づく技能判定に+2の状況ボーナスを得る。</li>\n</ul>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -4171,7 +4171,7 @@
       ]
     },
     "Cantorian Rejuvenation": {
-      "name": "キャントリアン・リジュヴェネーション/Cantorian Rejuvenation",
+      "name": "キャントリアン・リジュベネーション/Cantorian Rejuvenation",
       "description": "<p><strong>使用制限</strong>1日に1回</p><hr /><p>あなたの血の中に流れる生命力があなたを活性化させる。あなたは@Damage[ternary(gte(@actor.level,15),6,4)d6[healing]]ヒット・ポイントを回復し、ヒット・ポイントの10の一時的な値を得る。1分で、15レベルになると、代わりに6d6のHPを回復し、15の一時的なHPを得る。</p>",
       "selfEffect": "効果: カントリアンの再生",
       "source": "Pathfinder Player Core 2"
@@ -4899,7 +4899,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Voice of the Night": {
-      "name": "ヴォイス・オブ・ザ・ナイト/Voice of the Night",
+      "name": "ボイス・オブ・ザ・ナイト/Voice of the Night",
       "description": "<p>あなたは闇を共有するクリーチャーの言葉を聞き、理解する。あなたはコウモリ、ネズミ、オオカミに対して質問をし、回答を受け取り、ディプロマシースキルを使用することができる。また、これらの動物に対する@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression}に+1の状況ボーナスを得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -5268,7 +5268,7 @@
       "source": "Pathfinder #202: Severed at the Root"
     },
     "Explosive Savant": {
-      "name": "エクスプローシヴ・サヴァント/Explosive Savant",
+      "name": "エクスプローシブ・サヴァント/Explosive Savant",
       "description": "<p><strong>アクセス</strong>あなたはドンガン砦またはアルケンスタール出身である。</p><hr /><p>あなたは銃器と爆薬の取り扱いに生涯を費やしてきた。爆弾と銃器に精通しており、習熟度の観点から爆弾と武道銃器は単純武器として扱い、高度な銃器は武道武器として扱う。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -5283,7 +5283,7 @@
       ]
     },
     "Offensive Subroutine": {
-      "name": "オフェンシヴ・サブルーチン/Offensive Subroutine",
+      "name": "オフェンシブ・サブルーチン/Offensive Subroutine",
       "description": "<p>ナノ粒子があなたの攻撃を強化する。攻撃ロールを試みる時、あなたは@UUID[Compendium.pf2e.feats-srd.Item.JS24EjgLYcHB9E3T]{Nanite Surge}を発動することを選ぶことができ、スキル判定を試みる時ではなくする。それを行った場合、トリガーとなる攻撃ロールに+1のステータスボーナスを得る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
@@ -5641,7 +5641,7 @@
       "source": "Pathfinder Player Core"
     },
     "Supreme Invigorating Elixir": {
-      "name": "スプリーム・インヴィゴレイティング・エリクサー/Supreme Invigorating Elixir",
+      "name": "スプリーム・インビゴレイティング・エリクサー/Supreme Invigorating Elixir",
       "description": "<p>活力を与えるエリクサーで効果に対抗するために、あなたのレベルを2高いものとして扱う。あなたが生成する活力を与えるエリクサーのために選べる状態として、リストに記載されている条件を追加する：打ち消し：@UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{石化}、@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン}。あなたはまた、課す条件に関係なく、病気を選ぶこともできる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -5824,7 +5824,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Arms That Cut the Waves": {
-      "name": "アームズ・ザット・カット・ジ・ウェイヴズ/Arms That Cut the Waves",
+      "name": "アームズ・ザット・カット・ザ・ウェイヴズ/Arms That Cut the Waves",
       "description": "<p>川、湖、海、または大海、そこに水が呼ぶ存在であり、あなたはその深みを恐れない。アスレチックス判定を〔水泳〕に対して試みる時、あなたはミシック・ポイントを消費して神話的な熟練度で判定を試みることができる。空気が不足して窒息し始めるとき、あなたは代わりにミシック・ポイントを消費して10ラウンド以上息を止めることができる。</p>",
       "source": "Pathfinder War of Immortals"
     },
@@ -5933,7 +5933,7 @@
       ]
     },
     "Lightning Rings' Intervention": {
-      "name": "ライトニング・リングズ・インターヴェンション/Lightning Rings' Intervention",
+      "name": "ライトニング・リングズ・インターベンション/Lightning Rings' Intervention",
       "description": "<p>あなたの使い魔は、電気放電で呪文を強化することを学ぶ。あなたの使い魔は@UUID[Compendium.pf2e.familiar-abilities.Item.0R18Nd0CotPo9KD7]{Lightning Needles}の能力を得る。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -5953,7 +5953,7 @@
       "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Reflexive Grapple": {
-      "name": "リフレクシヴ・グラップル/Reflexive Grapple",
+      "name": "リフレクシブ・グラップル/Reflexive Grapple",
       "description": "<p>あなたは反射神経を磨いたため、どんなターゲットに対しても接触するやいなや鞭が締め付け始める。鞭で〔ストライク〕を行う; その〔ストライク〕がヒットした場合、あなたは即座に対象を@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple}する試みを行うことができる。両方のアクションはあなたのマルチアタック・ペナルティにカウントされるが、両方の攻撃を行うまでペナルティは増加しない。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
@@ -6160,7 +6160,7 @@
       ]
     },
     "Protective Cycle": {
-      "name": "プロテクティヴ・サイクル/Protective Cycle",
+      "name": "プロテクティブ・サイクル/Protective Cycle",
       "description": "<p><strong>トリガー</strong>あなたは攻撃からダメージを受ける。 </p>\n<p><strong>必要条件</strong>あなたは元素の姿勢にいる。 </p><hr /><p>あなたはダメージに応じて元素の姿勢に流れ込み、新たな利点を得る。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Oh6H1fuXC6jK4Hcp]{Cycle エレメンタル 構え}を行い、あなたの ACに +2の状況ボーナスを得るあなたの次のターン終了時まで。 </p>",
       "selfEffect": "効果: 保护のサイクル",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
@@ -6212,7 +6212,7 @@
       ]
     },
     "Grave Strength": {
-      "name": "グレイヴ・ストレングス/Grave Strength",
+      "name": "グレイブ・ストレングス/Grave Strength",
       "description": "<p>あなたがグールとしての存在の過程で消費した肉はあなたを強くし、あなたが捕食した知性のあるクリーチャーの精神から奇妙な洞察を与え、あなたをアンデッドの完璧な状態に近づけた。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{Advanced Undead Benefits}を得る。さらに、あなたは満腹のときに移動速度に +5フィートの状態ボーナスを得る。 </p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
@@ -6758,7 +6758,7 @@
       ]
     },
     "Leshy Familiar": {
-      "name": "レーシー・ファミリア/Leshy Familiar",
+      "name": "レシー・ファミリア/Leshy Familiar",
       "description": "<p>あなたは植物の体に小さな自然の精霊を呼び込むことで、あなたの呪文詠唱を助けるレシーの仲間を作る。あなたは、植物か菌の仲間のいずれかの能力を選択して得る；これはあなたの通常の仲間の能力の制限(通常は2)にはカウントされない。あなたが呼び出す精霊は、他の独立したレシーよりも植物の体へのつながりが希薄であるため、サイズは超小型である。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -6793,7 +6793,7 @@
       ]
     },
     "Volcanic Escape": {
-      "name": "ヴォルカニック・エスケープ/Volcanic Escape",
+      "name": "ボルカニック・エスケープ/Volcanic Escape",
       "description": "<p><strong>トリガー</strong>あなたのキネティックオーラ内の敵があなたにダメージを与える。</p>\n<hr />\n<p>溶岩があなたの下で反射的に爆発し、あなたを傷つけたクリーチャーに影響を与える。トリガーとなる敵は@Damage[(floor((@actor.level -6)/4)+1)d6[fire]]ダメージを受け、@Check[reflex|against:kineticist|basic]セーヴに対してあなたのクラス DCへの@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap}により半分の移動速度までの距離に移動する。この移動は反応を引き起こさない。</p>\n<hr />\n<p><strong>レベル (+4)</strong>ダメージが1d6増加する。</p>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -6813,7 +6813,7 @@
       "source": "Pathfinder Player Core"
     },
     "Invoke Movement": {
-      "name": "インヴォーク・ムーヴメント/Invoke Movement",
+      "name": "インボーク・ムーブメント/Invoke Movement",
       "description": "<p><strong>必要条件</strong>あなたはエンタースピリットトランスの効果を受けている。</p><hr /><p>あなたは、動物の精霊の翼や自然精霊の水の流れのように、周囲の精霊の運動形態を具現化する。移動タイプを選択する：埋る、登る、飛ぶ、または泳ぐ。選んだ移動タイプに対して、あなたの基本移動速度 (埋まるを選んだ場合はあなたの移動速度の半分)と等しい移動速度を得る。再度動きを呼び起こすと別の移動タイプを選べるが、前の移動の形態は失われる。</p>",
       "selfEffect": "効果: 動きを呼び起こす",
       "source": "Pathfinder Lost Omens Divine Mysteries",
@@ -6934,7 +6934,7 @@
       ]
     },
     "Ubiquitous Overdrive": {
-      "name": "ユビキタス・オーヴァードライヴ/Ubiquitous Overdrive",
+      "name": "ユビキタス・オーバードライブ/Ubiquitous Overdrive",
       "description": "<p>あなたは仲間それぞれに驚くべきギズモを用意し、慎重な改造を通じてそれらをリンクさせ、一度にパワーアップできるようにする。あなたの日課の準備中に、最大6人の意志のある仲間を選択する。あなたがオーバードライブするたびに、あなたが選ぶこれらの仲間の中で、あなたから30フィート以内にいる仲間にオーバードライブの恩恵を与える。仲間は専門、マスター、または伝説的なオーバードライブからの増加したダメージを得ない。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
@@ -7205,7 +7205,7 @@
       ]
     },
     "Discordant Voice": {
-      "name": "ディスコーダント・ヴォイス/Discordant Voice",
+      "name": "ディスコーダント・ボイス/Discordant Voice",
       "description": "<p>あなたの@UUID[Compendium.pf2e.spells-srd.Item.IAjvwqgiDr3qGYxY]{カレイジャス・アンセム}は不協和音の悲鳴を放ち、あなたの仲間の攻撃に強力な音響の反響を与える。あなたの仲間があなたの<em>勇敢なアンセム</em>の影響を受けている間、彼らの武器のストライクと非武装攻撃は追加で1d6の音波ダメージを与える。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -7248,7 +7248,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Lotus Above the Wind": {
-      "name": "ロータス・アバブ・ジ・ウィンド/Lotus Above the Wind",
+      "name": "ロータス・アバブ・ザ・ウィンド/Lotus Above the Wind",
       "description": "<p>あなたの気が、耕作のために熱心に踊り、世界の泥やぬかるみから逃れる。あなたがあなたの@UUID[Compendium.pf2e.spells-srd.Item.GUnw9YXaW3YyaCAU]{アダプト・セルフ}または@UUID[Compendium.pf2e.spells-srd.Item.UGJzJRJDoonfWqqI]{アスレティック・ラッシュ}フォーカス呪文を発動するとき、あなたは難所を無視するあなたの次のターン終了時まで。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -8049,7 +8049,7 @@
       ]
     },
     "Traveler's Counsel": {
-      "name": "トラヴェラーズ・カウンセル/Traveler's Counsel",
+      "name": "トラベラーズ・カウンセル/Traveler's Counsel",
       "description": "<p>旅の途上で、あなたは数え切れないほどの論争を解決し、助けを必要とする人々に助言を与えてきた。あなたは《交渉》において訓練済みである。もし(背景やクラスなどから)自動的に《交渉》で訓練済みになるはずであれば、代わりにあなたが選択した技能で訓練済みになる。毎日、最初に@UUID[Compendium.pf2e.actionspf2e.Item.plBGdZhqq5JBl1D8]{情報収集}または@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{印象操作}を行って大失敗を振るはずだった時、代わりに失敗となる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -8668,7 +8668,7 @@
       "source": "Pathfinder Player Core"
     },
     "Protective Pose": {
-      "name": "プロテクティヴ・ポーズ/Protective Pose",
+      "name": "プロテクティブ・ポーズ/Protective Pose",
       "description": "|||<p><strong>Access</strong> Tian Xia origin</p>\n<p><strong>Requirements</strong> You and your eidolon are within 30 feet of one another.</p><hr /><p>Many physical poses can fortify one's health, but some poses need more than one body to accomplish. As you and your eidolon pose in tandem, you each channel qi into a protective barrier in a @Template[type:emanation|distance:30] until the start of your next turn. Creatures within range of either you or you eidolon gain resistance to your choice of acid, cold, electricity, fire, or sonic damage equal to half your level. In addition, any Medicine check targeting a creature with this resistance gets a +1 status bonus (or a +2 status bonus if you're a master in Medicine).</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.qIPl31SfvT993Lyz]{Effect: Protective Pose}</p>|||",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -8751,12 +8751,12 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Quick Recovery": {
-      "name": "クイック・リカヴァリー/Quick Recovery",
+      "name": "クイック・リカバリー/Quick Recovery",
       "description": "<p><strong>使用制限</strong>1日1回</p>\n<p><strong>トリガー</strong>あなたのターンが始まり、あなたは負傷状態を持っている。</p><hr /><p>あなたは、自分の形を操る力を使って、生命を脅かす傷を修復する。負傷状態を1減少させる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Sunlit Vitality": {
-      "name": "サンリット・ヴァイタリティ/Sunlit Vitality",
+      "name": "サンリット・バイタリティ/Sunlit Vitality",
       "description": "<p>あなたは、木々や他の緑の植物のように光合成によって栄養を得る。通常、食べ物にお金を払う必要はないが、あなたは1週間日光なしでは餓死し始める。自然の光の代わりに特別に調合された日光の瓶から栄養を得ることもできるが、これらの瓶は標準的な口糧の10倍の値段(週に4gp)である。</p>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -8973,7 +8973,7 @@
       "source": "Pathfinder Season of Ghosts Hardcover Compilation"
     },
     "Lead the Pack": {
-      "name": "レッド・ザ・パック/Lead the Pack",
+      "name": "リード・ザ・パック/Lead the Pack",
       "description": "<p>あなたは、同時に最大2体の動物の仲間をアクティブに持つことができる。しかし、その場合、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.q9nbyIF0PEBqMtYe]{コマンド}するのは少し難しくなる。どちらの仲間にも指示を出さない場合、一方(あなたの選択)は、成熟したビーストマスターコンパニオンに従い、あなたのターンで1アクションを使って〔ストライド〕または〔ストライク〕を行うことができるが、両方はできない。</p>\n<p>あなたが〔動物に命令する〕場合、通常通り、仲間の一体を選んで2アクションを取らせるか、両方の仲間が1アクションを取って〔ストライド〕または〔ストライク〕を行うことができる。どちらにせよ、あなたの次のターンまで、どちらの仲間にも再度〔動物に命令する〕ことはできない。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -9171,7 +9171,7 @@
       "source": "Pathfinder Rage of Elements"
     },
     "Invigorating Elixir": {
-      "name": "インヴィゴレイティング・エリクサー/Invigorating Elixir",
+      "name": "インビゴレイティング・エリクサー/Invigorating Elixir",
       "description": "<p>あなたは、癒し特性を持つエリクサーに香料の塗布を混ぜて、肉体的な疾患を和らげることができる。通常の効果に加えて、エリクサーは(@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調}クリーチャーのように)使用を妨げられたクリーチャーによって摂取されることができる。</p>\n<p>他の効果に加え、エリクサーは飲み手が選択する以下の条件のいずれかを強いる効果を打ち消ししようとする：@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない}、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱}、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調}、または@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁}。レベルの半分を切り上げて打ち消しランクに使用し、クラスの DCから10を引いたものを打ち消し修正値として使用する。その後、飲み手はこの添加の効果に一時的な免疫され、 10分の間続く。この添加は、クリーチャーの通常状態の一部である呪い、病気、または条件を打ち消しできない。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -9437,7 +9437,7 @@
       ]
     },
     "Malleable Movement": {
-      "name": "マリアブル・ムーヴメント/Malleable Movement",
+      "name": "マリアブル・ムーブメント/Malleable Movement",
       "description": "<p><strong>トリガー</strong>あなたは 〔跳躍〕 する。</p>\n<hr />\n<p>あなたは武器の形を変えて、さらに遠く、速く 〔跳躍〕 するのを助ける。武器を長い柔軟な棒、クライミングフック、またはそのような援助に変え、あなたができる 〔跳躍〕 の距離に追加で5フィートを加える。通常通り、これによりあなたの 〔跳躍〕 の距離を移動速度を超えることはできない。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
@@ -9671,12 +9671,12 @@
       ]
     },
     "Miraculous Intervention": {
-      "name": "ミラキュラス・インターヴェンション/Miraculous Intervention",
+      "name": "ミラキュラス・インターベンション/Miraculous Intervention",
       "description": "<p><strong>トリガー</strong>隣接している邪悪な者またはアンデッドがリアクションを使い始める。</p>\n<hr />\n<p>あなたは神の介入またはささやかれた祈りを通じて、敵の反応を妨害する。もしトリガーとなったクリーチャーのレベルがあなたのレベルと等しいかそれ以下なら、あなたはトリガーとなったリアクションを妨害する。もしトリガーとなったクリーチャーのレベルがあなたのレベルより高ければ、あなたはその ACに対して攻撃ロールまたは呪文攻撃ロールを行わなければならない(あなたの選択)。成功した場合、あなたはリアクションを妨害する。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Whisper on the Wind": {
-      "name": "ウィスパー・オン・ジ・ウィンド/Whisper on the Wind",
+      "name": "ウィスパー・オン・ザ・ウィンド/Whisper on the Wind",
       "description": "<p>あなたはささやくように話し、柔らかな風が運搬中あなたの言葉を遠くに運ぶ。これは@UUID[Compendium.pf2e.spells-srd.Item.vLzFcIaSXs7YTIqJ]{メッセージ}呪文の効果で、範囲は500フィートであり、対象は空気に囲まれたクリーチャーのみ選べる。あなたがメッセージを対象の名前で始めると、あなたと対象はお互いを見る必要がなく、効果の通路も必要ない。</p>\n<hr />\n<p><strong>レベル (4th)</strong>範囲は1マイル。</p>\n<p><strong>レベル (14th)</strong>範囲は惑星規模に加えて空気の次元である。</p>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -9939,7 +9939,7 @@
       ]
     },
     "Rejuvenation": {
-      "name": "リジュヴェネーション/Rejuvenation",
+      "name": "リジュベネーション/Rejuvenation",
       "description": "<p>あなたの未完の仕事の呼びかけは、破壊された後にあなたを再生させる。あなたが破壊されると、あなたは[[/r 2d4 #Days]]{2d4 days}においてあなたの束縛された場所の中で完全に回復した状態で再形成される。もしあなたの未完の仕事が解決されている間に待機している場合、あなたは即座に通り過ぎる、ただしあなたとGMが新しい未完の仕事があると判断しない限り。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
@@ -9997,7 +9997,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Liberating Dive": {
-      "name": "リベレイティング・ダイヴ/Liberating Dive",
+      "name": "リベレイティング・ダイブ/Liberating Dive",
       "description": "<p>あなたは鋼の羽を持つ翼を生やす。セレスティアルであるタルマンドールの翼に似ている。力強い羽ばたきにより、その翼はあなたを戦場全体へと推進させ、経路上の敵や拘束を切り裂く。あなたのターンの終了時まで、あなたは自身の陸上移動速度と40フィートのうち高い方の飛行移動速度を得る。その後、あなたは自身の移動速度まで〈飛行〉する。この移動はリアクションを誘発しない。</p>\n<p>この移動中の任意の時点で隣接している敵1体と味方1体を選択する。片方の翼の鋭い刃を用いて、あなたはその敵に対して金属の属性を使用した近接〈ストライク〉として1アクションエレメンタル・ブラストを使用できる。もう片方の翼で、あなたはその味方が自身を掴んでいる、拘束している、移動不能にしている、あるいは麻痺させている効果から抜け出す手助けをできる。その味方は、セーヴを許容するそのような効果1つに対して新たなセーヴを行うか、あるいはフリー・アクションとして〈エスケープ〉を行う。その味方は、自身の素手攻撃修正値や技能判定修正値の代わりに、あなたのインパルス攻撃修正値を使用できる。</p>",
       "source": "Pathfinder Adventure Path: Hell's Destiny"
     },
@@ -10120,7 +10120,7 @@
       ]
     },
     "Five Breaths, One Death": {
-      "name": "ファイヴ・ブレス・ワン・デス/Five Breaths, One Death",
+      "name": "ファイブ・ブレス・ワン・デス/Five Breaths, One Death",
       "description": "<p><strong>使用制限</strong>1回10分</p>\n<p><strong>必要条件</strong>あなたは元素的スタンスにいて、対象はバランスを崩す効果の影響下にある。</p><hr /><p>あなたは元素を巡り、壊滅的な組み合わせ攻撃を行う。〔ストライク〕対象に対して、あなたの現在の元素的スタンスに関連する徒手攻撃を使用し、その後@UUID[Compendium.pf2e.actionspf2e.Item.Oh6H1fuXC6jK4Hcp]{Cycle エレメンタル 構え}。次に、〔ストライク〕対象に対して新しい元素的スタンスに関連する徒手攻撃を行う。あなたは、知っているすべての元素的スタンスの徒手攻撃を使用して〔ストライク〕を行うまで、サイクルエレメンタル構え及び〔ストライク〕を続けることができ、その際通常通りマルチアタック・ペナルティを適用する。あなたがこの能力を使用してすべての元素のストライクで対象に成功裏にヒットさせた場合、対象はあなたのクラスのDCに対して@Check[fortitude|against:class|traits:death]セーヴを試みる必要があり、各元素に関連する器官がその体内で機能しなくなることで死ぬ。この効果は死亡効果である。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -10274,7 +10274,7 @@
       ]
     },
     "Protective Strike": {
-      "name": "プロテクティヴ・ストライク/Protective Strike",
+      "name": "プロテクティブ・ストライク/Protective Strike",
       "description": "<p><strong>トリガー</strong>クリーチャーがあなたの指定した味方に隣接するか、あなたの指定した味方に対して近接 〔ストライク〕を試みる。</p><hr /><p>あなたは危害を防ぐ。トリガーとなったクリーチャーに対して近接 〔ストライク〕を行う。クリティカル成功の場合、あなたはトリガーとなった行動を中断する。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
@@ -10575,7 +10575,7 @@
       ]
     },
     "Brilliant Vision": {
-      "name": "ブリリアント・ヴィジョン/Brilliant Vision",
+      "name": "ブリリアント・ビジョン/Brilliant Vision",
       "description": "<p>あなたは雲、塵、霧、もや、煙および同様の緩い物質からの隠蔽を無視することができる。あなたはまた、@UUID[Compendium.pf2e.spells-srd.Item.jwK43yKsHTkJQvQ9]{シー・ザ・アンシーン}を1日に1回、固有のオカルティスト呪文として唱えることができる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
@@ -10683,7 +10683,7 @@
       ]
     },
     "Leshy Familiar Secrets": {
-      "name": "レーシー・ファミリア・シークレッツ/Leshy Familiar Secrets",
+      "name": "レシー・ファミリア・シークレッツ/Leshy Familiar Secrets",
       "description": "<p>葉の秩序の秘密は、あなたのファミリアがそのレシーの姿を利用できるようにする。あなたは毎日追加のファミリア能力を1つ選択でき、その選択肢は以下のいずれかのレシーのファミリア能力でなければならない。この特技から同時に選択できる能力は1つまでである。</p>\n<ul>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.LUBS9csNNgRTui4p]{Grasping Tendrils}</strong>あなたのファミリアはつるやそれに類似した触手を伸ばし、リーチを15フィートまで増加させる。</li>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.43xB5UnexISlfRa5]{Purify Air}</strong>あなたのファミリアは空気を再生し、密閉された部屋や異次元空間のような新鮮でない空気の場所で、中型クリーチャーに十分な酸素を提供する。レシーから@Template[emanation|distance:15]の範囲内にいるクリーチャーは、吸入毒効果、嗅覚効果、または呼吸に依存する他の効果(有毒な霧など)に対して、GMの裁定により+2の状況ボーナスを得る。</li>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.SKIS1xexaOvrecdV]{Verdant 爆発}</strong>あなたのファミリアが死ぬと、その原初のエネルギーを放出して3アクションバージョンの@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}をキャストする。この呪文は、あなたの最高レベルの呪文スロットより1ランク低く高位化される。<em>heal</em>呪文は、植物に回復させるヒット・ポイントに対して呪文のランクの2倍に等しい状態ボーナスを得る。あなたは2ndランクの呪文を呪文スロットを使ってキャストできる必要がある。</li>\n</ul>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -10693,7 +10693,7 @@
       ]
     },
     "Bolstered Recovery": {
-      "name": "ボルステッド・リカヴァリー/Bolstered Recovery",
+      "name": "ボルステッド・リカバリー/Bolstered Recovery",
       "description": "<p>あなたは休息するたびに、驚異的な速さで回復する。完全な一晩の休息から回復するヒット・ポイントの数と、その条件値が減少する量を2倍にする。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.8UJaVPsT5FA8XH87]{Instant Recovery}アクションを得る。</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star",
       "prerequisites": [
@@ -10728,7 +10728,7 @@
       ]
     },
     "Read the Wind": {
-      "name": "リード・ジ・ウィンド/Read the Wind",
+      "name": "リード・ザ・ウィンド/Read the Wind",
       "description": "<p>あなたは敵を追跡する際、ごくわずかな詳細から意味を導き出すことができる。神話的習熟度で@UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{〈追跡〉}を行うための判定に成功するたびに、あなたは即座に、追跡しているクリーチャーについて〈思い出す〉ための判定を行うことができる。これも神話的習熟度で行い、GMが決定した適切な技能を使用する。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
@@ -10977,7 +10977,7 @@
       ]
     },
     "Pyrophilic Recovery": {
-      "name": "パイロフィリック・リカヴァリー/Pyrophilic Recovery",
+      "name": "パイロフィリック・リカバリー/Pyrophilic Recovery",
       "description": "<p>あなたは火と極度の熱に依存して成長と再生を行う。あなたが火炎ダメージを受けたとき、次のあなたのターンの開始時に、あなたはあなたのキャラクターレベルの半分(最低1)に等しいヒット・ポイントを回復する。こうして回復するヒット・ポイントの合計数は、回復の効果を増加させる調整を含めて、あなたが火炎ダメージから受けたヒット・ポイントの半分を超えることはできない。例えば、効果が15の火のダメージを与え、あなたが火炎への抵抗5の場合、あなたは10の火のダメージを受け、パイロフィリックリカバリーによって回復できるのは最大5ヒット・ポイントとなる。他の回復を増加させる効果に関係なく、これは変わらない。あなたが次のターンの前に火炎ダメージを複数回受けた場合、パイロフィリックリカバリーから回復したヒット・ポイントは累積されるが、それでも毎回受けた火炎ダメージの半分を超えることはない。</p>",
       "source": "Pathfinder #176: Lost Mammoth Valley"
     },
@@ -11167,7 +11167,7 @@
       ]
     },
     "Drain Vitality": {
-      "name": "ドレイン・ヴァイタリティ/Drain Vitality",
+      "name": "ドレイン・バイタリティ/Drain Vitality",
       "description": "<p><strong>使用制限</strong>1分に1回</p>\n<p><strong>必要条件</strong>あなたはあなたの結びついたビーストガンを所持している。</p><hr /><p>あなたはあなたの結びついたビーストガンにある野生の魔法エネルギーを引き出し、あなた自身を強化し、進行中の害を浄化し、渦巻く生命の本質の鞘であなたの命の力を強化する。あなたはあなたのレベルに等しい一時的なヒット・ポイントを得て、進行中の持続的ダメージに対してフラットな判定を試み、特に効果的な援助に適した DCを使用する。この能力を使用するとあなたの結びついたビーストガンの魔法が枯渇し、あなたはあなたの次のターン終了時までその発動した能力を使用できなくなる。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
@@ -11227,7 +11227,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Death Dive": {
-      "name": "デス・ダイヴ/Death Dive",
+      "name": "デス・ダイブ/Death Dive",
       "description": "|||<p><strong>必要条件</strong> あなたはドラゴンの相棒に騎乗しており、空中にある。</p><hr /><p>あなたは騎乗動物を急降下させ、単体の敵に向かって真っ逆さまに突撃させる。あなたは騎乗動物に〈飛行〉を2回行うよう命じる。騎乗動物はこの移動を、ターンを開始した時よりも低い高度で終了しなければならない。あなたと騎乗動物は、この移動によって誘発されたリアクションに対して、ACに+4の状況ボーナスを得る。この移動の終了時、騎乗動物は自身のリーチ内にいるクリーチャー1体を対象として、近接〈ストライク〉を試みる。もしその〈ストライク〉が命中し、かつ対象があなたの騎乗動物よりも小さい場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せ状態}となる。もしそれがクリティカルヒットであったなら、対象があなたの騎乗動物と同じサイズ以下であれば、対象は転倒する状態となる。</p>|||",
       "source": "Pathfinder Lost Omens Draconic Codex",
       "prerequisites": [
@@ -11407,7 +11407,7 @@
       ]
     },
     "Final Shot Knows the Way": {
-      "name": "ファイナル・ショット・ノウズ・ジ・ウェイ/Final Shot Knows the Way",
+      "name": "ファイナル・ショット・ノウズ・ザ・ウェイ/Final Shot Knows the Way",
       "description": "<p><strong>必要条件</strong>あなたは遠隔ウォーシャード武器を装備しており、このラウンドにその武器を使用して敵に対して遠隔〈ストライク〉を行っている。</p><hr /><p>あなたは攻撃した後に敵の防御を見極め、その知識をウォーシャード武器とその弾薬に注ぎ込む。ミシック・ポイントを消費し、その後〈ストライド〉を2回行う。この移動中の任意の時点で、このラウンドにすでに攻撃したのと同じ敵に対して、ウォーシャード武器を用いた神話的習熟度での遠隔〈ストライク〉を試みる。この〈ストライク〉は、弾薬が空中で不可能とも思える飛行でうねり曲がるため、対象が持つ遮蔽や隠蔽による修正をすべて無視する。この〈ストライク〉の間、射程によるすべてのペナルティは無効化される。この射撃が命中した場合、対象はその射撃に驚愕し、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}あなたの次のターン終了時までとなる。</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star",
       "prerequisites": [
@@ -11740,7 +11740,7 @@
       ]
     },
     "Never Tire": {
-      "name": "ネヴァー・タイヤ/Never Tire",
+      "name": "ネバー・タイヤ/Never Tire",
       "description": "<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態を得る。</p>\n<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{視認されている}から少なくとも3体の敵でないクリーチャーに見守られている。</p><hr /><p>あなたには観客がいる限り、崩壊の危機にあるときでも演技を続けることができる。確かに、あなたはやらなければならない—あなたはファンへの義務があるのだ！あなたは@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態の効果を1分または、少なくとも3体の敵でないクリーチャーに見守られていない限り発揮を遅延させる。遅延が最初に来る。疲労状態に持続時間がある場合、その持続時間は遅延の後にのみ経過を始める。この能力が終了した後に疲労状態のさらなる遅延や防止はできない。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -11986,7 +11986,7 @@
       ]
     },
     "Invisible Hand": {
-      "name": "インヴィジブル・ハンド/Invisible Hand",
+      "name": "インビジブル・ハンド/Invisible Hand",
       "description": "<p>時には、あなたの神格があなたに影の中で行動することを必要とし、注意を引かずに物事を達成することが求められる、あなた自身—または彼らのために。 </p>\n<p>1日1回、戦闘の開始時にイニシアチブのためにステルスを振るとき、あなたは@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}として1分のために選択することができる。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn]{Avoid Notice}の探索活動を開始する際にミシック・ポイントを費やすと、あなたは〔気配を消す〕を続ける限り、透明になる。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
@@ -12267,7 +12267,7 @@
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Grievous Blow": {
-      "name": "グリーヴァス・ブロウ/Grievous Blow",
+      "name": "グリーバス・ブロウ/Grievous Blow",
       "description": "<p>あなたは敵の抵抗を無視する集中した強力な一撃を繰り出す方法を知っている。素手の近接〔ストライク〕を行う。この〔ストライク〕が当たると、さらに2つの武器ダメージダイスを加え、あなたのレベルに等しい耐性から物理ダメージ(または特定の物理ダメージタイプ)を無視する。この〔ストライク〕はあなたのマルチアタック・ペナルティを計算する際に2回の攻撃としてカウントされる。</p>\n<p>あなたが少なくとも18レベルの時、追加のダメージを3つの武器ダメージダイスに増加させる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -12427,7 +12427,7 @@
       "source": "Pathfinder Player Core"
     },
     "Continual Recovery": {
-      "name": "コンティニュアル・リカヴァリー/Continual Recovery",
+      "name": "コンティニュアル・リカバリー/Continual Recovery",
       "description": "<p>あなたは患者の進行を熱心に監視して、治療を早める。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}すると、患者は免疫になり、 10分だけの間で、 1時間になることはない。この効果はあなたの〔傷の手当て〕活動にのみ適用され、患者が受ける他の治療には適用されない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -12983,7 +12983,7 @@
       ]
     },
     "Tap Vitality": {
-      "name": "タップ・ヴァイタリティ/Tap Vitality",
+      "name": "タップ・バイタリティ/Tap Vitality",
       "description": "<p><strong>使用制限</strong> 1時間に1回</p><hr /><p>あなたは存在の生命力にアクセスして傷を癒すが、その代償として存在の人格が自分に流れ込む。あなたは@Damage[(4*@actor.level)[healing]]{ヒット・ポイント equal to four times your level}を回復する。毎回《生命力を引き出す》を使用するたびに、あなたは存在の人格と本能がますます自分の中に流れ込んでくるのを感じ、次回1時間以上その存在をなだめるまで自分の心を取り戻せない。</p><hr /><p><strong>特別</strong>このアクションはあなたの存在に適した系統の特性を持ち、通常はデーモンに対しては神聖、異常体または外的存在に対してはオカルト、フェイに対しては原始的である。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
@@ -13088,7 +13088,7 @@
       ]
     },
     "Blessing of the Five": {
-      "name": "ブレッシング・オブ・ザ・ファイヴ/Blessing of the Five",
+      "name": "ブレッシング・オブ・ザ・ファイブ/Blessing of the Five",
       "description": "<p><strong>使用制限</strong>1日1回</p><hr /><p>あなたは@UUID[Compendium.pf2e.deities.Item.JndhOIHnQoMwnsw3]{ゴッドクロウ}に呼びかけて仲間を癒す。あなたは@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}の3アクションバージョンを投げ、あなたのレベルの半分から切り上げた数値より1低い位まで高位化させることができる。あなたはエリア内の最大4体のクリーチャーを、その呪文の影響を受けないように選択できる。この能力を使用して、最近30フィートしたクリーチャーをラウンド以内に蘇生させることもできる。その場合、クリーチャーは1ヒットポイントに回復し、@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}の24時間になる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -13249,7 +13249,7 @@
       "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Reactive Charm": {
-      "name": "リアクティヴ・チャーム/Reactive Charm",
+      "name": "リアクティブ・チャーム/Reactive Charm",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたは呪文または攻撃の対象である。</p>\n<hr />\n<p>あなたは魅力的で気を引く存在であり、追い込まれるときには、攻撃者を挫くために間に合うようにシンプルな魅了をかけることができる。あなたは各自の1レベルの魅惑呪文の中で、通常2アクション以下で詠唱できるものを唱える。これはトリガーとなる呪文または攻撃の前に発動し、もし攻撃者があなたの呪文の影響を受けた場合、それはその効果に基づいて異なる決断を行うことができる(たとえば、攻撃者を魅了し、それがあなたにフレンドリーになると、攻撃や呪文の対象をあなた以外に選ぶことができる)。攻撃するクリーチャーはあなたが選んだ呪文の範囲内にいなければならず、もし呪文が対象を必要とする場合、攻撃するクリーチャーは有効な対象でなければならない。あなたの呪文は攻撃するクリーチャーのみに影響し、たとえ通常はより多くの対象やエリアに影響を与える場合でも、対象はその攻撃するクリーチャーに限られる。</p>",
       "source": "Pathfinder Lost Omens The Grand Bazaar",
       "prerequisites": [
@@ -13728,7 +13728,7 @@
       ]
     },
     "Great Cleave": {
-      "name": "グレイト・クリーヴ/Great Cleave",
+      "name": "グレイト・クリーブ/Great Cleave",
       "description": "<p>あなたの怒りがあなたの武器を複数の敵に貫かせる。あなたが@UUID[Compendium.pf2e.feats-srd.Item.GE96a0UGPYM74qjI]{Cleave}したとき、もしあなたの〔ストライク〕が対象を0HPに減少させる場合、あなたは0近接ストライクを続けることができる。次の〔ストライク〕がクリーチャーを0HPに減少させない限り、またはクリーヴィング中に最後に攻撃したクリーチャーの隣に他のクリーチャーが存在しない限り、どちらか早い方が先に適用される。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -13794,7 +13794,7 @@
       "source": "Pathfinder Player Core"
     },
     "Defensive Recovery": {
-      "name": "ディフェンシヴ・リカヴァリー/Defensive Recovery",
+      "name": "ディフェンシヴ・リカバリー/Defensive Recovery",
       "description": "<p>あなたの信仰は癒しに加えて一時的な保護を提供する。あなたの次の行動が単一対象に対して@UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz]{ハーム}または@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}をキャストすることであり、対象が呪文からヒット・ポイントを回復した場合、それはACと1ラウンドに対して+2の状態ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.jwxurN6JPQm9wXug]{効果: Defensive Recovery}</p>",
       "source": "Pathfinder Player Core"
     },
@@ -13944,7 +13944,7 @@
       ]
     },
     "Flinging Shove": {
-      "name": "フリンギング・シャヴ/Flinging Shove",
+      "name": "フリンギング・シャブ/Flinging Shove",
       "description": "<p>あなたはシールドや大型武器で対戦相手を押し出す際、さらに遠くに押し込むことを学んだ。 増加あなたが対戦相手を@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}する距離は@UUID[Compendium.pf2e.feats-srd.Item.19OLlTrxvEtDAOHc]{Aggressive Block}または@UUID[Compendium.pf2e.feats-srd.Item.gt9pvIicabSOe6pB]{Brutish Shove}により成功時に10フィートし、クリティカル成功時に20フィートする。アグレッシブブロックを使用する際、対象が@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}か押し出されるかを選ぶことができる。あなたがブルータリッシュ 〔押し出す〕 を行うと、失敗時に対象を5フィートも 〔押し出す〕 ことができる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -14181,7 +14181,7 @@
       ]
     },
     "Adaptive Adept": {
-      "name": "アダプティヴ・アデプト/Adaptive Adept",
+      "name": "アダプティブ・アデプト/Adaptive Adept",
       "description": "<p>あなたは魔法を適応させ、クラスの系統と適応した系統を融合させ続けている。アダプテッドキャントリップからのキャントリップまたは1ランクの呪文を選ぶ。同じ魔法の系統からのあなたのキャントリップを選ぶ。あなたはその呪文を得て、アダプテッドキャントリップからのキャントリップのように呪文の選択肢に追加する。この呪文はあなたのクラスの魔法の系統の呪文として唱えることができる。もし1ランクの呪文を選んだ場合、その呪文の高位化されたバージョンにはアクセスしないため、呪文を準備する場合はそれを準備できず、呪文レパートリーがある場合はそれを学ぶことや署名呪文として選択することはできない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -14504,7 +14504,7 @@
       ]
     },
     "Reflexive Shield": {
-      "name": "リフレクシヴ・シールド/Reflexive Shield",
+      "name": "リフレクシブ・シールド/Reflexive Shield",
       "description": "<p>あなたは盾を使って爆発などをかわすことができる。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]{Raise your シールド}すると、あなたは盾の状況ボーナスを反応セーブに加える。</p>\n<hr />\n<p><strong>特別</strong>あなたが@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{シールド Block}リアクションを持っている場合、反応セーヴの結果として受けたダメージは、そのリアクションを引き起こすことができる。たとえダメージが物理ダメージでなくても。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -14670,7 +14670,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Emblazon Divinity": {
-      "name": "エンブレイゾン・ディヴィニティ/Emblazon Divinity",
+      "name": "エンブレイゾン・ディビニティ/Emblazon Divinity",
       "description": "|||<p>あなたの聖なる刻印は物体に力を吹き込む。《武具刻印》を使用してシンボルを刻印するのにかかる時間はわずか1分であり、一度に刻印できるシンボルは最大4つまでである。各アイテムには1つのシンボルしか刻印できず、4つの上限を超えた場合、最も古いシンボルが消失する。これらのシンボルは、その神格を崇拝していない者であっても、(GMの判断によって)直接対立していない限り、恩恵をもたらすことができる。</p>\n<p>あなたは刻印された各シンボルに対して、異なる恩恵を選択できる。これは《武具刻印》や、《エネルギー刻印》や《対抗魔法刻印》といった他の特技から得られるものの中から選ぶ。</p>|||",
       "source": "Pathfinder #150: Broken Promises",
       "prerequisites": [
@@ -14830,7 +14830,7 @@
       ]
     },
     "Protective Subroutine": {
-      "name": "プロテクティヴ・サブルーチン/Protective Subroutine",
+      "name": "プロテクティブ・サブルーチン/Protective Subroutine",
       "description": "<p>あなたのナノ粒子があなたの防御を強化する。あなたはスキル判定を試みるとき、@UUID[Compendium.pf2e.feats-srd.Item.JS24EjgLYcHB9E3T]{Nanite Surge}を起動することを選ぶことができる。そうでなければ、スキルセーヴィング・スロウを試みるときに発動する。もしそうした場合、あなたはトリガーとなるセーヴィング・スロウに+2のステータスボーナスを得る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
@@ -14926,7 +14926,7 @@
       ]
     },
     "Devil You Know": {
-      "name": "デヴィル・ユー・ノウ/Devil You Know",
+      "name": "デビル・ユー・ノウ/Devil You Know",
       "description": "<p>あなたは敵に関する知識がその敵に対しての利点を与え、彼らの悪事に対して迅速なリアクションを授ける。出会いの開始時にデヴィルやヘルナイトと戦っていることが分かる場合、あなたはそのための_ロアスキルをダイスロールすることができる。</p>\n<p>さらに、デヴィルのロアまたはヘルナイトロアに関してクリーチャーに成功して 〔思い出す〕 ことができれば、次の自分以外の同じクリーチャーへのスキル判定に +1状況ボーナスを得る。あなたがデヴィルのロアまたはヘルナイトロアの達人であれば、ボーナスは +2になる。</p>\n<p> @UUID[Compendium.pf2e.feat-effects.Item.3Qej6bMkgJ5ntllg]{効果: Devil You Know} </p>",
       "source": "Pathfinder Adventure Path: Hellbreakers",
       "prerequisites": [
@@ -15368,7 +15368,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Destructive Block": {
-      "name": "デストラクティヴ・ブロック/Destructive Block",
+      "name": "デストラクティブ・ブロック/Destructive Block",
       "description": "<p>あなたはあなた自身をより効果的に守ることができるが、その代償としてあなたの盾が必要である。</p>\n<p>あなたが〔シールド・ブロック〕を行うと、ダメージをあなた自身に対して盾の硬度の倍に減少することができるが、そうした場合は盾が受ける通常のダメージの倍の量のダメージを受ける(その硬度を適用する前のこと)。</p>\n<p>あなたの盾が通常壊れないまたは破壊されない場合、破壊的ブロックを使用することはできない。@UUID[Compendium.pf2e.equipment-srd.Item.SUbYk6B1iPoGyyjh]{Indestructible シールド}。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -15695,7 +15695,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Sash of the Wind": {
-      "name": "サッシュ・オブ・ジ・ウィンド/Sash of the Wind",
+      "name": "サッシュ・オブ・ザ・ウィンド/Sash of the Wind",
       "description": "<p><strong>アクセス</strong>ティエン・シア出自</p><hr /><p>あなたの要求に応じて、空気と風の自然霊があなたの肩にゆったりと掛けられた虹色の帯を回転させ、空を飛ばせる。あなたは1日1回、4ランクの固有の原始呪文としてあなた自身に@UUID[Compendium.pf2e.spells-srd.Item.A2JfEKe6BZcTG1S8]{フライ}を唱えることができる。この特技によって作成された帯が取り外されると、呪文は即座に終了する。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
@@ -15751,7 +15751,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Reflexive Devotion": {
-      "name": "リフレクシヴ・ディヴォーション/Reflexive Devotion",
+      "name": "リフレクシブ・ディヴォーション/Reflexive Devotion",
       "description": "<p><strong>トリガー</strong>あなたはイニシアティブを振る。</p><hr /><p>ドラゴンの力が最小の思考であなたを流れる。あなたはドラコニック語エッセンスをチャネルする。</p>",
       "source": "Pathfinder Lost Omens Draconic Codex",
       "prerequisites": [
@@ -15920,7 +15920,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Elven Verve": {
-      "name": "エルヴン・ヴァーヴ/Elven Verve",
+      "name": "エルブン・ヴァーヴ/Elven Verve",
       "description": "<p>すべてのエルフは免疫に対して麻痺する接触を受けるが、あなたはあらゆる種類の肉を麻痺させる魔法を振り払うことができる。あなたは、あなたに@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}, @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}, または@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}状態を課す効果に対するセーヴに+1の状況ボーナスを得る。あなたが少なくとも2ラウンドの間、移動不能、麻痺、または減速することになる場合、その期間を1ラウンド減少させる。</p>",
       "source": "Pathfinder Lost Omens Character Guide"
     },
@@ -15993,7 +15993,7 @@
       ]
     },
     "Invoke Offense": {
-      "name": "インヴォーク・オフェンス/Invoke Offense",
+      "name": "インボーク・オフェンス/Invoke Offense",
       "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.djULKW76BbSoN3zb]{Enter スピリット Trance}の効果を受けている。</p><hr /><p>あなたは周囲の精霊から物理的な攻撃を具現化する。動物の精霊の爪や自然の精霊のしなりのツタのようなものだ。あなたは精神のトランスの間、1d8の精神ダメージを与える無武装の攻撃を得る。この無武装の攻撃は剛腕武器種であり、敏捷、巧妙、魔法の特性を持つ。</p>\n<p>5レベルに達すると、この無武装の攻撃は打撃ルーンの恩恵を得る。12レベルに達すると、この無武装の攻撃は大きな打撃ルーンの恩恵を得る。20レベルに達すると、この無武装の攻撃は主要な打撃ルーンの恩恵を得る。</p>",
       "selfEffect": "効果: 攻撃を呼び起こす",
       "source": "Pathfinder Lost Omens Divine Mysteries",
@@ -16770,7 +16770,7 @@
       ]
     },
     "Guarded Advance": {
-      "name": "ガーデッド・アドヴァンス/Guarded Advance",
+      "name": "ガーデッド・アドバンス/Guarded Advance",
       "description": "<p>あなたは慎重に戦場をゆっくり進む。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]{Raise a シールド}と〔ステップ〕を2回、任意の順序で行う。</p>",
       "source": "Pathfinder Battlecry!"
     },
@@ -16991,7 +16991,7 @@
       "source": "Pathfinder #220: Crypt of Runes"
     },
     "Grave Sense": {
-      "name": "グレイヴ・センス/Grave Sense",
+      "name": "グレイブ・センス/Grave Sense",
       "description": "|||<p>アンデッドを狩ることに費やした時間は、あなたに彼らを感知する能力をもたらす。あなたはアンデッドを、人間の嗅覚に似た曖昧な感覚として感知する。それは、甘ったるく腐った何かを嗅いだ時のような不快な感覚である。アンデッドの近くにいる時、あなたは最終的にその存在を感知するが、即座に感知できるとは限らず、その位置を特定することはできない。変装を使用している、あるいはその他の方法でその存在を隠そうとしているアンデッドは、あなたからその存在を隠すために、あなたの《知覚》 DCに対して《欺瞞》判定を行わなければならない。そのクリーチャーがその《欺瞞》判定に成功した場合、それは1日の間、あなたの墓の感知に対して一時的な免疫となる。</p>|||",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
@@ -17196,7 +17196,7 @@
       ]
     },
     "Wiles on the Wind": {
-      "name": "ワイルズ・オン・ジ・ウィンド/Wiles on the Wind",
+      "name": "ワイルズ・オン・ザ・ウィンド/Wiles on the Wind",
       "description": "<p>嘘を語り、漂う風にそれらを解き放つ。あなたは、500フィート内の正方形から発せられる聴覚の幻影を作成する。音は4人の通常の人間が話すのと同じくらい大きくすることができ、複雑なものであり、言葉や音楽を含むことができる。ただし、GMはあなたに判定を試みさせたり、納得のいくものであるために言語を知っていることを要求する場合がある。この幻影はあなたの次のターン終了時まで持続し、あなたは〔維持〕の衝動を持つことができる。</p>\n<p>あなたは、幻影の40フィート内にいる任意のクリーチャー、または持続中に40フィート内に入ってくるクリーチャーに、あなたのクラスDCに対して@Check[will|against:kineticist]セーヴを試みさせる。これは精神的な効果である。</p>\n<hr />\n<p><strong>成功</strong>そのクリーチャーは影響を受けず、幻影を否定し、一時的な免疫となり1時間の間は無効である。</p>\n<p><strong>失敗</strong>そのクリーチャーは音の出所に@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}し、次のターンの終了までそうである。魅了が終了すると、そのクリーチャーは一時的な免疫となり1時間の間は無効である。</p>\n<p><strong>クリティカル失敗</strong>失敗として、しかしそのクリーチャーは1分の間魅了されているか、否定するまでそうである。</p>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -17256,7 +17256,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Reactive Resilience": {
-      "name": "リアクティヴ・レジリエンス/Reactive Resilience",
+      "name": "リアクティブ・レジリエンス/Reactive Resilience",
       "description": "<p><strong>使用制限</strong>1日につき1回</p>\n<p><strong>トリガー</strong>あなたはダメージを受ける。</p>\n<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Ce9vzE3XWn0u5NcL]{Channeling ドラコニック Essence}。</p><hr /><p>あなたの力は刃を鈍らせ、最も頑丈なドラゴンの鱗のように呪文を弱体化させる。あなたはその triggeringダメージに対してあなたのレベルに等しい耐性を得る。チャネルドラコニック語エッセンスは終了する。</p>",
       "source": "Pathfinder Lost Omens Draconic Codex",
       "prerequisites": [
@@ -17409,7 +17409,7 @@
       ]
     },
     "Feed the Void": {
-      "name": "フィード・ザ・ヴォイド/Feed the Void",
+      "name": "フィード・ザ・ボイド/Feed the Void",
       "description": "<p>あなたの内なる虚無が自身を一時的に具現化する。心の上に黒い穴が開き、すべてを引き寄せる脅威をもたらす。あなたに向かって、叫び声を上げる風で満たされた@Template[type:cone|distance:60]が現れる。円錐内のすべてのクリーチャーは頑健セーヴィング・スロウを試みなければならない。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーはあなたに向かって10フィート引き寄せられる。</p>\n<p><strong>失敗</strong>そのクリーチャーはあなたに向かって20フィート引き寄せられる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーはあなたに向かって30フィート引き寄せられる。</p>\n<p>あなたのマスに引き寄せられるクリーチャーは虚無に接触し、@Damage[5d6[spirit]|options:area-damage]のダメージを受け、セーヴィング・スロウなしであなたの選択した隣接マスに戻される。12レベルおよびその後2レベルごとにダメージは1d6増加する。</p>\n<p><strong>覚醒</strong>虚無はそのクリーチャーの精霊を食び、あなたに彼らの生命力を移す。引き寄せられた1体以上のクリーチャーがいる場合、あなたは引き寄せられた中で最高レベルのクリーチャーのレベルに等しい一時的なヒット・ポイントを得る。これらの一時的なヒット・ポイントは10分の間持続する。</p>\n<p><strong>覚醒</strong>虚無の吸引は熱と光も引き込む。円錐の最初の30フィートは温度が下がるにつれて氷に覆われ、難所となり、また暗闇に沈められ、暗闇の効果はあなたのレベルの半分に高位化される。両方の効果はあなたの次のターン開始時まで持続する。</p>",
       "source": "Gatewalkers Player's Guide (Remastered)"
     },
@@ -17419,7 +17419,7 @@
       "source": "Pathfinder #217: Death Sails a Wine-Dark Sea"
     },
     "Protective Claws": {
-      "name": "プロテクティヴ・クロウズ/Protective Claws",
+      "name": "プロテクティブ・クロウズ/Protective Claws",
       "description": "<p>あなたの爪の甲羅は非常に硬いため、攻撃をそれで防ぐことができる。残忍なゴロマ遺伝の爪の素手攻撃は、パリィ武器特性を持つようになる。</p>",
       "source": "Pathfinder Lost Omens The Mwangi Expanse",
       "prerequisites": [
@@ -17469,7 +17469,7 @@
       ]
     },
     "Watcher on the Wall": {
-      "name": "ウォッチャー・オン・ジ・ウォール/Watcher on the Wall",
+      "name": "ウォッチャー・オン・ザ・ウォール/Watcher on the Wall",
       "description": "<p>あなたは、パトロンのシンボルを彫刻できる。このシンボルを隣接する表面に刻むことで、あなたは同じ次元界にいる限り、シンボルの位置から見ることができるし、聞くこともできる。この効果は、別のシンボルを置くか、表面が破壊されるまで持続する。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
@@ -17634,7 +17634,7 @@
       ]
     },
     "Improved Reflexive Shield": {
-      "name": "インプルーヴド・リフレクシヴ・シールド/Improved Reflexive Shield",
+      "name": "インプルーヴド・リフレクシブ・シールド/Improved Reflexive Shield",
       "description": "<p>あなたの盾は近くの味方を危険から救う助けとなる。あなたが反応セーヴの結果生じるダメージに対して@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{〈シールド・ブロック〉}を使用する際、同じ効果に対する反応セーヴによってダメージを受ける可能性のある隣接する味方も、そのダメージ減少の恩恵を得る。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
@@ -17930,7 +17930,7 @@
       ]
     },
     "Windborne Shove": {
-      "name": "ウィンドボーン・シャヴ/Windborne Shove",
+      "name": "ウィンドボーン・シャブ/Windborne Shove",
       "description": "<p>ファランクスと風の英雄神、偉大なるコネブリスは、数十の軍勢を率いて、数千の軍に立ち向かった。彼らは兵士たちを緊密に整列させて、風に逆らって進み、敵を不意打ちにした。突風が敵を押し戻したとき、彼らは勝利の一撃を放った。</p>\n<p>あなたは小規模な力を強大な敵に対して押し出すコネブリスの戦術を模倣する。あなたが同盟者の隣にいる時、あなたのスペースに侵入しようとするクリーチャーは、そのアクロバティクス判定に–2の状況ペナルティを受ける。@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{Tumble Through}\n</p>\n<p>あなたが敵への近接〔ストライク〕でクリティカル成功した時、あなたはすぐに対象を@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}として、フリー・アクションのアクションを行うことができる。この〔押し出す〕の試みには、神話的な熟練度で行うためにミシック・ポイントを支払うことができる。</p>",
       "source": "Pathfinder #218: Titanbane",
       "prerequisites": [
@@ -17994,7 +17994,7 @@
       ]
     },
     "Adaptive Mask Familiar": {
-      "name": "アダプティヴ・マスク・ファミリア/Adaptive Mask Familiar",
+      "name": "アダプティブ・マスク・ファミリア/Adaptive Mask Familiar",
       "description": "<p>あなたの仮面の使い魔は、物質的な形に迅速に適応し、より多くの使い魔と主人の能力を得る。あなたは毎日、2つの代わりに4つの主人と使い魔の能力を選ぶ。</p>",
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
@@ -18195,7 +18195,7 @@
       ]
     },
     "Guarded Movement": {
-      "name": "ガーデッド・ムーヴメント/Guarded Movement",
+      "name": "ガーデッド・ムーブメント/Guarded Movement",
       "description": "<p>あなたの守りは、移動中でも整っている。あなたは移動によって引き起こされる反応に対して ACに +4の状況ボーナスを得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -18712,7 +18712,7 @@
       ]
     },
     "Leshy Superstition": {
-      "name": "レーシー・スーパースティション/Leshy Superstition",
+      "name": "レシー・スーパースティション/Leshy Superstition",
       "description": "<p><strong>トリガー</strong>あなたは呪文または魔法効果に対してセーヴィング・スロウを試みるが、まだロールしていない。</p>\n<hr />\n<p>あなたは物体に宿る精霊に気付き、どれが幸運をもたらし、どれが不運であるかを知る。あなたは幸運な物体の力に集中し、発生した効果に対してセーヴィング・スロウに+1の状況ボーナスを与える。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -19178,7 +19178,7 @@
       ]
     },
     "Cleave": {
-      "name": "クリーヴ/Cleave",
+      "name": "クリーブ/Cleave",
       "description": "<p><strong>トリガー</strong>あなたの近接 〔ストライク〕が敵を0ヒット・ポイントに減らし、別の敵がそのクリーチャーに隣接している。</p><hr /><p>あなたは一体の敵を通り抜けて別の敵に打ち込む。二番目の敵に対して近接 〔ストライク〕を行う。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -19198,7 +19198,7 @@
       ]
     },
     "Ashen Veil": {
-      "name": "アッシェン・ヴェール/Ashen Veil",
+      "name": "アッシェン・ベール/Ashen Veil",
       "description": "<p>灰や汚染された土をあなたの肌や鎧に塗り付けることで、あなたはあなた自身を死者から隠す。あなたは視覚や生命感知を使用するアンデッドに対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}となり、他の隠蔽や隠しのソースなしで〔隠れる〕や@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak}を行うことができる。この効果は、あなたが〔隠れる〕、〔忍び歩き〕、または他の密かに行動するアクション以外のアクションを行わない限り持続する。GMがどのアクションが効果を終了するかを決定するが、攻撃、呪文を唱える、アイテムを発動させるなどは常に効果を終了させる。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
@@ -19654,7 +19654,7 @@
       ]
     },
     "Clear the Way": {
-      "name": "クリア・ジ・ウェイ/Clear the Way",
+      "name": "クリア・ザ・ウェイ/Clear the Way",
       "description": "<p><strong>必要条件</strong>あなたは両手で近接武器を振るっている。</p><hr /><p>あなたは巨大な武器を使って体を使って振り、敵を押しのけて広い道を作ることを試みる。あなたはあなたの隣接する最大五体のクリーチャーを@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}しようとし、それぞれの対象に対して別々のアスレチックス判定を振り、片手が空いているという要件を無視する。その後、あなたは自分の移動速度の半分まで 〔ストライド〕 する。この移動は、あなたが成功裏に押しのけたクリーチャーからの反応を引き起こさない。各攻撃はあなたのマルチアタック・ペナルティにカウントされるが、すべての攻撃を終えるまでペナルティは増加しない。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -19874,7 +19874,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Brutish Shove": {
-      "name": "ブルティッシュ・シャヴ/Brutish Shove",
+      "name": "ブルティッシュ・シャブ/Brutish Shove",
       "description": "<p><strong>必要条件</strong>あなたは両手で近接武器を持っている。</p>\n<hr />\n<p>最後の攻撃の勢いを利用して、あなたの体重をもう一度投げつけ、相手が後退する。両手で近接武器で〔ストライク〕を行う。あなたがサイズと同じかそれ以下のクリーチャーに当たった場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}され、ターンの終了まで、あなたは自動的に@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}を行うことができ、その際、〔押し出す〕アクションと同じ恩恵を適用する(あなたの〔ストライク〕がクリティカルヒットであった場合、クリティカル成功効果も含む)。ターゲットを追いかけて移動する場合、その移動は反応を引き起こさない。</p>\n<p>この〔ストライク〕には次の失敗効果がある。</p>\n<p><strong>失敗</strong>対象は、あなたのターンが終わるまで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}される。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -20604,7 +20604,7 @@
       ]
     },
     "Offensive Analysis": {
-      "name": "オフェンシヴ・アナリシス/Offensive Analysis",
+      "name": "オフェンシブ・アナリシス/Offensive Analysis",
       "description": "<p>あなたはあなたの感覚と精神状態を高め、攻撃のあらゆる側面を考慮することができる。あなたは一日に一度、神聖な固有の呪文として@UUID[Compendium.pf2e.spells-srd.Item.Gb7SeieEvd0pL2Eh]{シュア・ストライク}を発動することができる。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -21078,7 +21078,7 @@
       ]
     },
     "Fortune's Favor": {
-      "name": "フォーチュンズ・フェイヴァー/Fortune's Favor",
+      "name": "フォーチュンズ・フェイバー/Fortune's Favor",
       "description": "<p> <strong>使用制限</strong> 1日に1回</p>\n<p> <strong>トリガー</strong>あなたは運の影響により失敗したスキル判定またはセーヴィング・スロウを再ロールしようとしている。 </p> <hr /> <p>あなたは、あなたに対する投資が実を結ぶチャンスを理解する。あなたはその発生したロールに+2の状況ボーナスを得る。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
@@ -21882,12 +21882,12 @@
       "source": "Pathfinder Rage of Elements"
     },
     "Leshy Lore": {
-      "name": "レーシー・ロア/Leshy Lore",
+      "name": "レシー・ロア/Leshy Lore",
       "description": "<p>あなたは自分の民族の文化的伝統と天賦の強さを深く理解している。あなたは訓練済みの熟練度ランクをネイチャーとステルスに得る。それらのスキルの一つにおいて自動的に訓練済みになる場合(例えば背景やクラスから)、あなたは代わりに選んだスキルで訓練済みになる。</p>\n<p>あなたは@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{追加ロア}汎用特技をレーシーロアのために得る。</p>",
       "source": "Pathfinder Player Core"
     },
     "Explosive Entry": {
-      "name": "エクスプローシヴ・エントリー/Explosive Entry",
+      "name": "エクスプローシブ・エントリー/Explosive Entry",
       "description": "<p>あなたは印象的な登場の仕方を正確に知っている...もちろん、爆弾を炸裂させて壊滅的な爆発を引き起こすことだ！あなたはドア、窓、容器、または重いゲートに爆薬を設置する。爆薬が炸裂するとき、あなたはターゲットを@UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{Force Open}するためにエンジニアリングロア判定を試みることができる。爆弾が攻撃ロールにアイテム・ボーナスを追加する場合、そのアイテム・ボーナスをあなたのエンジニアリングロア判定に追加する。あなたが突入するので、対象の物体や構造を壊さずに済むことはない。クリティカル成功を出した場合、あなたは代わりに成功を得る。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
@@ -22128,7 +22128,7 @@
       ]
     },
     "Invoke Defense": {
-      "name": "インヴォーク・ディフェンス/Invoke Defense",
+      "name": "インボーク・ディフェンス/Invoke Defense",
       "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.djULKW76BbSoN3zb]{Enter スピリット Trance}の影響を受けている。</p><hr /><p>あなたは動物の霊の厚い皮や自然の霊の頑丈な樹皮のような防御的な特性を現す。殴打、刺突、または斬撃を選択する。あなたはそのダメージ種別に対して自分のレベルの半分に等しい耐性を得る。霊的トランスの持続時間中。</p>\n<p>あなたがInvoke Defenseを再度使用する場合、異なるタイプのダメージを選択できるが、以前の耐性を失う。</p>",
       "selfEffect": "効果：防御を召喚する",
       "source": "Pathfinder Lost Omens Divine Mysteries",
@@ -22167,7 +22167,7 @@
       "source": "Pathfinder Rage of Elements"
     },
     "Aura of Vengeance": {
-      "name": "オーラ・オブ・ヴェンジャンス/Aura of Vengeance",
+      "name": "オーラ・オブ・ベンジャンス/Aura of Vengeance",
       "description": "<p>あなたが他者に報いを求めるとき、彼らの狙いをも導く。あなたが報復の〔ストライク〕を使用すると、ストライクを行う味方は-2のペナルティを受け、-5のペナルティを受けない。</p>",
       "source": "Pathfinder Core Rulebook",
       "prerequisites": [
@@ -22244,7 +22244,7 @@
       "source": "Pathfinder Rage of Elements"
     },
     "Repulse the Wicked": {
-      "name": "リパルス・ジ・ウィキッド/Repulse the Wicked",
+      "name": "リパルス・ザ・ウィキッド/Repulse the Wicked",
       "description": "<p><strong>トリガー</strong>あなたのターゲットを狙った攻撃ロールでアンデッドがクリティカル失敗をする。</p>\n<hr />\n<p>あなたは敵の失敗を利用して、彼らを押し出そうとする。あなたはアンデッドを@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}しようとする。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
@@ -22484,7 +22484,7 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Explosive Metamorphosis": {
-      "name": "エクスプローシヴ・メタモルフォシス/Explosive Metamorphosis",
+      "name": "エクスプローシブ・メタモルフォシス/Explosive Metamorphosis",
       "description": "<p>あなたは追加の原始エネルギーを使って変身し、変身を補完するエレメンタルエネルギーの爆発を生み出す。次の行動が非キャントリップの変身またはポリモーフ呪文を唱える場合、酸、冷気、電気、または火を選択する。あなたの変身は、呪文のランクごとにそのタイプの1d6ダメージを与える@Template[emanation|distance:5]を新しい形の周囲に作り出す。そのエリアにいる各クリーチャーは、あなたの呪文DCに対して基本の反応セーヴを行う。</p>\n<p>あなたのポリモーフ行動にエネルギータイプに対応する特性があった場合、可能であればその特性を選ばなければならない。この行動は選んだエネルギータイプに対応する特性を獲得する。</p>",
       "source": "Pathfinder Howl of the Wild"
     },
@@ -22524,7 +22524,7 @@
       ]
     },
     "Along the Deep River": {
-      "name": "アロング・ザ・ディープ・リヴァー/Along the Deep River",
+      "name": "アロング・ザ・ディープ・リバー/Along the Deep River",
       "description": "<p><strong>アクセス</strong>ティエン・シアの起源、あるいはあなたがサングポトシの信者である場合。</p><hr /><p>年に一度、あなたが死ぬとき、あなたは無形の光の球に変わる。一週間後、あなたは成功した(しかしクリティカル成功ではない)9レベルの@UUID[Compendium.pf2e.spells-srd.Item.gIVaSCrLhhBzGHQY]{リインカーネイト}儀式の効果で生き返る。あなたは常にスプライトに再生されるが、あなたは<em>再生する</em>ランダムに選ばれたスプライトの系譜として。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
@@ -22753,7 +22753,7 @@
       ]
     },
     "Rapid Pheromone Recovery": {
-      "name": "ラピッド・フェロモン・リカヴァリー/Rapid Pheromone Recovery",
+      "name": "ラピッド・フェロモン・リカバリー/Rapid Pheromone Recovery",
       "description": "<p>あなたのフェロモンの供給は非常に速く補充される。あなたは1日に1回ではなく、1時間に1回防御的な悪臭を放つことができる。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
@@ -22874,7 +22874,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Reflexive Catch": {
-      "name": "リフレクシヴ・キャッチ/Reflexive Catch",
+      "name": "リフレクシブ・キャッチ/Reflexive Catch",
       "description": "<p><strong>必要条件</strong>アイテムまたは投げられた武器は、あなたがジャグリングできるバルクのものである。トリガーがあなたを狙った投げ攻撃であった場合、その攻撃に対してあなたは不意を突かれてはならない。すでにジャグリングをしている場合、最大のアイテム数をジャグリングしている状態ではない。</p>\n<p><strong>トリガー</strong>アイテムがあなたの届く範囲内に落ちるか、攻撃者があなたまたはあなたの届く範囲内のクリーチャーに投げ武器で攻撃を当てることに失敗した場合。</p>\n<hr />\n<p>あなたはトリガーのアイテムをつかむ。ジャグリングをしている場合、そのアイテムをあなたのジャグリング中のオブジェクトに即座に追加できる。これはフリー・アクションであり、集中と操作の特性を持つ。</p>",
       "source": "Pathfinder #151: The Show Must Go On",
       "prerequisites": [
@@ -23169,7 +23169,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Conduit of Void and Vitality": {
-      "name": "コンデュイット・オブ・ヴォイド・アンド・ヴァイタリティ/Conduit of Void and Vitality",
+      "name": "コンデュイット・オブ・ボイド・アンド・バイタリティ/Conduit of Void and Vitality",
       "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}または@UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz]{ハーム}を署名呪文として持ち、それを使うための呪文スロットがある。</p><hr /><p>あなたは呪いの不安定なエネルギーを使って、最も基本的な神聖魔法を操る。あなたは3アクション<em>ヒール</em>または<em>ダメージ</em>呪文を唱え、通常通りスロットを消費する。この呪文が1体以上のクリーチャーにヒット・ポイントを回復させた場合、その呪文により回復した1体のクリーチャーは1d8 × あなたの@UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{カースバウンド}値に等しい追加のヒット・ポイントを得る; この呪文が1体以上のクリーチャーにダメージを与えた場合、その呪文により被害を受けた1体のクリーチャーは、呪い値に等しい追加のダメージを受ける。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -23228,7 +23228,7 @@
       ]
     },
     "Swift River": {
-      "name": "スウィフト・リヴァー/Swift River",
+      "name": "スウィフト・リバー/Swift River",
       "description": "<p><strong>トリガー</strong>あなたのターンが終了し、あなたの移動速度にステータスペナルティがあるか、あなたが@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}または@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}である。</p>\n<hr />\n<p>あなたは水のように流れ、すべての制約を回避する。あなたの移動速度に対する1つのステータスペナルティを終了させるか、あなたに影響を与える1つの行動不能または鈍足の状態を終了させる。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -23512,7 +23512,7 @@
       ]
     },
     "Devil in Plain Sight": {
-      "name": "デヴィル・イン・プレイン・サイト/Devil in Plain Sight",
+      "name": "デビル・イン・プレイン・サイト/Devil in Plain Sight",
       "description": "<p>あなたは邪悪な本性を小さな腐敗の玉として引き寄せ、それを魂の中に隠すことを学んだ。あなたの明らかな邪悪な特性は消え、尾や角、二股のひづめなどが含まれるが、ヒントは残る(爪が鋭い爪に変わったり、目が奇妙な色合いを保ったりする)。あなたは依然として認識可能なあなた自身であるが、今は自己の基本の先祖に属する典型的な非ティーフリングの姿に見える。普通の《目立たない悪魔》を使用する際、ディセプションを用いて〔なりすます〕する場合、これは変装を作成することと見なされ、あなたの変身は自動的にあなたの基本の先祖の通常のメンバーであるかどうかを判定するための知覚 DCを打ち勝つ。知覚を使ってあなたを調べるクリーチャーだけが、この変装に気づく可能性がある。変身した形態では、非武装攻撃、内在する呪文、またはティーフリングのアンセストラル特技から受ける特徴を必要とするその他の能力を使用することはできない。例えば、@UUID[Compendium.pf2e.feats-srd.Item.aVRuchEAJIvnd70k]{Skillful Tail}特技を使用することはできない。あなたは無期限に代替形態に留まることができ、このアクションを再び使用することで自分のティーフリングの形に戻ることができる。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -23669,7 +23669,7 @@
       ]
     },
     "Improved Invigorating Elixir": {
-      "name": "インプルーヴド・インヴィゴレイティング・エリクサー/Improved Invigorating Elixir",
+      "name": "インプルーヴド・インビゴレイティング・エリクサー/Improved Invigorating Elixir",
       "description": "<p>身体的活力または精神的活力を選択し、それにリストされた状態をあなたが作成する活力のエリクサーに選べる条件として追加する。打ち消し:</p>\n<p><strong>身体的活力</strong> @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}, @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}, @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗}, @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}, @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}</p>\n<p><strong>精神的活力</strong> @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}, controlled, @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}, @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}, @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}, @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}.</p><hr /><p><strong>特別</strong>あなたはこの特技を二回選ぶことができ、別の種類の活力を選択し、そのオプションを選べるものに追加する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -23729,7 +23729,7 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Reflexive Grip": {
-      "name": "リフレクシヴ・グリップ/Reflexive Grip",
+      "name": "リフレクシブ・グリップ/Reflexive Grip",
       "description": "<p>あなたは倒れても武器を手放さない。あなたはあなたに対して 〔ディスアーム〕 されるチェックを防ぐための反応 DCに +2の状況ボーナスを得る。さらに、あなたが気絶した場合、現在持っている武器を手放さないが、他の誰かがそれをあなたから取り去ることはできる。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
@@ -25075,7 +25075,7 @@
       ]
     },
     "Cooperative Crafting": {
-      "name": "コオペラティヴ・クラフティング/Cooperative Crafting",
+      "name": "コオペラティブ・クラフティング/Cooperative Crafting",
       "description": "<p>あなたはクラフトのプロジェクトで他者と協力することの重要性を学んだ。これは、ハイヘルムの様々なギルドと関わる際に必要なことだ。もし味方があなたのクラフティングを〔援護〕している場合、彼らがクリティカル失敗をした際に–1の状況ペナルティを無視する。さらに、味方がCooperativeクラフティングのフィートを持っている場合、あなたはリソースをプールして同じアイテムに一緒に取り組むことができる。このようにして1体の味方とだけ作業することができる。どちらも同じアイテムに対してクラフティング判定を試みる; もし両方が成功すれば、アイテムを製作するための最小時間を1日だけ短縮する。あなたと味方が製作できるアイテムのレベルを決定する際、あなたのレベルまたは味方のレベル+1の高い方を使用する。もしあなたがどちらかのレベルより高いアイテムを〔製作する〕試みて、一方が失敗すると、両方のチェッキングはクリティカル失敗となる。</p>",
       "source": "Pathfinder Lost Omens Highhelm",
       "prerequisites": [
@@ -25238,7 +25238,7 @@
       ]
     },
     "Vicious Vengeance": {
-      "name": "ヴィシャス・ヴェンジャンス/Vicious Vengeance",
+      "name": "ヴィシャス・ベンジャンス/Vicious Vengeance",
       "description": "<p>あなたの復讐はあなたにも敵にも痛みを伴うが、あなたの敵がより苦しむことに疑いの余地はない。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.r5Uth6yvCoE4tr9z]{Destructive Vengeance}から与えるダメージに、 リアクションのダメージダイスの数に等しい状況ボーナスを得る。これは、敵が受けるダメージのみに適用され、あなた自身やリアクションを使用した後に得る追加ダメージには適用されない。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -25726,7 +25726,7 @@
       ]
     },
     "Protective Bond": {
-      "name": "プロテクティヴ・ボンド/Protective Bond",
+      "name": "プロテクティブ・ボンド/Protective Bond",
       "description": "<p><strong>トリガー</strong>あなたとあなたのエイドロンは有害な効果の範囲内にいる。</p>\n<p>あなたとあなたのエイドロンを守る力がある。あなたとあなたのエイドロンがその範囲効果から異なる量のダメージを受ける場合、あなたは大きいダメージの代わりに小さい方のダメージを受ける。</p>\n<hr />\n<p><strong>特別</strong>この特技はあなたのエイドロンの系統に一致する特性を持つ(アルケイン、ディバイン、オカルト、またはプライマル)。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -25948,7 +25948,7 @@
       "source": "Pathfinder Lost Omens High Seas"
     },
     "Offensive Odor": {
-      "name": "オフェンシヴ・オドー/Offensive Odor",
+      "name": "オフェンシブ・オドー/Offensive Odor",
       "description": "<p>あなたは防御的なフェロモンを習得し、ほぼ完全に制御できるようになった。あなたが防御的な匂いを放つとき、単一の対象に与えるダメージをd8に変更して増加させるか(@Damage[(floor((@actor.level +1)/2)+1)d8[poison]|options:area-damage])、ダメージをそのままにしてフェロモンを@Template[cone|distance:15]に噴霧することを選べる。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
@@ -25989,7 +25989,7 @@
       "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Heroic Recovery": {
-      "name": "ヒロイック・リカヴァリー/Heroic Recovery",
+      "name": "ヒロイック・リカバリー/Heroic Recovery",
       "description": "<p>あなたの治癒の回復力は、受取人を活気づける。あなたが使う次のアクションが単一の生きているクリーチャーを対象とした@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}を唱えることであり、対象が呪文からヒット・ポイントを回復した場合、対象は次のターンの終了までの間、+5フィートの状態ボーナスを移動速度に、+1の状態ボーナスを攻撃ロールに、+1の状態ボーナスをダメージロールに得る。また、対象が@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}であれば、反応を引き起こさないフリー・アクションとして直ちに〔立ち上がる〕ことができる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.7ogytOgDmh4h2g5d]{効果: Heroic Recovery}</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -26282,7 +26282,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Grave Mummification": {
-      "name": "グレイヴ・マミフィケーション/Grave Mummification",
+      "name": "グレイブ・マミフィケーション/Grave Mummification",
       "description": "<p>元素、魔法、錬金術、その他の現象への曝露は、あなたのミイラ化からの変化を強めた。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{Advanced Undead Benefits}を得る。</p>\n<p>さらに、あなたは自分のレベルの半分に等しい耐性を、束縛された地形から受けるいかなるダメージに対して得る。これには、その危険な温度、天候、危険な地形、環境的危険が含まれる。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
@@ -26916,7 +26916,7 @@
       ]
     },
     "Reactive Distraction": {
-      "name": "リアクティヴ・ディストラクション/Reactive Distraction",
+      "name": "リアクティブ・ディストラクション/Reactive Distraction",
       "description": "<p><strong>トリガー</strong>あなたは攻撃を受けたり、効果の対象になったり、効果の範囲内にいる。</p>\n<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.MjhCcwGKyI5dpNIY]{Perfect Distraction}を使用できるように準備している。</p>\n<hr />\n<p>あなたは反応的に囮と入れ替わり、敵の妨害を防ぐ。あなたは完璧な気をそらしを使用し、観察されていても、@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak}の移動を@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}で終えるか、または隠れ場所や大遮蔽のある場所にいる限り使用できる。攻撃または効果の対象はあなたではなく囮になる。範囲効果の場合、あなたの〔忍び歩き〕があなたを範囲外に移動させなければ、あなたと囮の両方が効果の対象になる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -27217,7 +27217,7 @@
       ]
     },
     "Reflexive Stance": {
-      "name": "リフレクシヴ・スタンス/Reflexive Stance",
+      "name": "リフレクシブ・スタンス/Reflexive Stance",
       "description": "<p><strong>トリガー</strong>あなたはイニシアチブを振る。</p>\n<hr />\n<p>あなたは考えずに姿勢に入る。姿勢の特性を持つアクションを使用する。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -27886,7 +27886,7 @@
       ]
     },
     "Grave Sight": {
-      "name": "グレイヴ・サイト/Grave Sight",
+      "name": "グレイブ・サイト/Grave Sight",
       "description": "<p>あなたのアンデッドを感知する能力が向上した。あなたは不明瞭な感覚としてアンデッドを感知し、範囲は60フィート：不快な感覚があなたの精神に触れ、腐敗の匂いがする。アンデッドに近接しているとき、あなたはその存在を感知することができるが、それは@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態を持ち、 @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{視認されている}状態ではない。なにか変装しているアンデッドや、存在を隠そうとしている場合は、あなたの知覚 DCに対して、ディセプションまたはステルス判定を試みなければならない。クリーチャーが成功すれば、認識されず、あなたはそのクリーチャーを感知するために@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}基本アクションを使用する必要がある。聴覚やその他の不正確な感覚と同様に、発見されていないクリーチャーを見つけるためには、あなたは 〔見回す〕 を行う必要がある。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
@@ -27919,7 +27919,7 @@
       ]
     },
     "Retributive Focus": {
-      "name": "リトリビューティヴ・フォーカス/Retributive Focus",
+      "name": "リトリビューティブ・フォーカス/Retributive Focus",
       "description": "<p> <strong>使用制限</strong> 1日に1回</p>\n<p> <strong>必要条件</strong>あなたの集中プールは現在空である。</p> <hr /> <p>あなたの敵の攻撃はあなたの正義の力を高める。敵があなたのチャンピオンのリアクションを引き起こすと、あなたは1フォーカスポイントを回復する。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
@@ -28097,7 +28097,7 @@
       ]
     },
     "Magpie Manor Recovery": {
-      "name": "マグパイ・マナー・リカヴァリー/Magpie Manor Recovery",
+      "name": "マグパイ・マナー・リカバリー/Magpie Manor Recovery",
       "description": "<p>社交生活から引退する準備など到底できていないかもしれないが、あなたはアブサロムのペタル地区にあるマグパイ・マナーという私的な社交クラブで、年長の富裕層エリートが享受している贅沢を高く評価している。そして、あなたはその贅沢を世界の荒野にさえ持ち込もうとする。もしあなたが4人用テントを所持しており、8時間の休息をとる前に少なくとも10分かけて自分の快適さのレベルに合わせて設営したなら、あなたはレベルの2倍に等しい追加のヒット・ポイントを回復し、ドレイン状態の深刻度を1ではなく2軽減する。あなた以外に最大3体までの中型以下のクリーチャーがあなたとテントを共有し、これらの恩恵を得ることができる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -28107,7 +28107,7 @@
       ]
     },
     "Cooperative Nature": {
-      "name": "コオペラティヴ・ネイチャー/Cooperative Nature",
+      "name": "コオペラティブ・ネイチャー/Cooperative Nature",
       "description": "<p>短い人間の寿命は視野を広げ、異なる点を脇に置き、他者と協力して偉大さを達成することを学ばせてくれた。あなたは〔援護〕に対するチェックに+4の状況ボーナスを得る。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -28476,7 +28476,7 @@
       "source": "Pathfinder Lost Omens High Seas"
     },
     "Elucidating Vision": {
-      "name": "エルシデイティング・ヴィジョン/Elucidating Vision",
+      "name": "エルシデイティング・ビジョン/Elucidating Vision",
       "description": "<p>あなたの目は過去の生命で多くのものを見ており、視力は生涯を通じてより強力になったようだ。あなたはダークビジョンを得る。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
@@ -28538,7 +28538,7 @@
       ]
     },
     "Perfect Dive": {
-      "name": "パーフェクト・ダイヴ/Perfect Dive",
+      "name": "パーフェクト・ダイブ/Perfect Dive",
       "description": "<p>あなたは卓越したスキルと波とのつながりを持って水中に飛び込み、水がそれ自身を使ってあなたの落下をクッションするように促す。あなたは意図的に〔跳躍〕するか、または他の方法で水中に落ちるため、距離に関わらず落下ダメージを受けない。</p>",
       "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
@@ -28641,7 +28641,7 @@
       ]
     },
     "I am the Weapon": {
-      "name": "アイ・アム・ジ・ウェポン/I am the Weapon",
+      "name": "アイ・アム・ザ・ウェポン/I am the Weapon",
       "description": "<p>あなたは超自然的武器との絆によって武器に力強いあなたの意識、記憶、そしてあなたの魂の断片が宿る。あなたがウォーシャード武器を持っている状態で致命傷を受けると、あなたは消え、ウォーシャード武器が地面に落ちる。いずれかの知性を持つクリーチャーがそれを拾うと、あなたはそのウォーシャード武器の隣に再出現する。もしそのクリーチャーが親しい仲間(他のPCなど)であれば、あなたは1ヒットポイントのみで復活する。しかし、見知らぬ者がそれを拾った場合、あなたは満タンのヒット・ポイントで復活する。あなたの裁量で、クリーチャーが武器を拾ってから最大24時間まで復活を遅らせることができるが、それでもあなたは武器の隣(またはできるだけ近く)に復活する。もしあなたの死後1週間以内に誰も武器を拾わなければ、あなたの魂はソウルの川に入って、他の手段で復活することができる。どのように復活しても、意識を取り戻したらすぐにウォーシャード武器をフリー・アクションとして呼び出すことができる。</p>\n<p>そうでなければ、あなたの死後1週間以内に誰もウォーシャード武器を拾わなければ、あなたはソウルの川に入る代わりに武器と融合することを選択できる。あなたはもはや復活できないが、あなたの魂は武器に束縛され、その結果、あなたは知性を持つアイテムとなり、同じ知覚修正値、感覚、コミュニケーション、言語、属性修正値、および意志セーヴを得る。あなたは同じ知性、判断力、及び魅力に基づく技能を保持する。あなたは依然として持ち運ばれ、扱われなければならず、あなたの選択肢は知性を持つアイテムとして取ることができるアクションに限られる。あなたはもはやミシックポイントを得たり使ったりすることができないが、武器としてあなたは神話的である。あなたは生前に持っていたウォーシャード武器を使って攻撃するためにアクションを使うことができるが、ダメージボーナスは持ち手の筋力修正値を使用し、生前の筋力修正値は使わない。あなたは以下の「武道の知恵を授ける」アクションを得ることができ、GMの裁量で持ち手を影響を及ぼしたり、制御したりする能力などの他の力を得る場合もある。この武器形態で破壊されると、あなたの魂はソウルの川に移動し、他の手段で復活することができるが、その後、あなたは通常の手段で新しいウォーシャード武器を指定しなければならない。</p>\n<p><strong>起動—武道の知恵を授ける</strong> <span class=\"action-glyph\">2</span>(集中、神話的、予測)</p>\n<p><strong>使用制限</strong>1回の10分ごとに</p><hr /><p><strong>効果</strong>あなたは戦闘の経験を呼び覚まし、敵を攻撃する最善の方法を見極め、その知識を持ち手に提供する。あなたの持ち手は、あなたの届く範囲内または最初の射程限界内のクリーチャーに対して神話的な熟練度で〔ストライク〕を行う。この〔ストライク〕は攻撃ロールに対する状況ペナルティと対象が@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}または@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}であるために必要なフラット判定を無視する。</p><p>あなたは超自然的武器との絆によって武器に力強いあなたの意識、記憶、そしてあなたの魂の断片が宿る。あなたがウォーシャード武器を持っている状態で致命傷を受けると、あなたは消え、ウォーシャード武器が地面に落ちる。いずれかの知性を持つクリーチャーがそれを拾うと、あなたはそのウォーシャード武器の隣に再出現する。もしそのクリーチャーが親しい仲間(他のPCなど)であれば、あなたは1ヒットポイントのみで復活する。しかし、見知らぬ者がそれを拾った場合、あなたは満タンのヒット・ポイントで復活する。あなたの裁量で、クリーチャーが武器を拾ってから最大24時間まで復活を遅らせることができるが、それでもあなたは武器の隣(またはできるだけ近く)に復活する。もしあなたの死後1週間以内に誰も武器を拾わなければ、あなたの魂はソウルの川に入って、他の手段で復活することができる。どのように復活しても、意識を取り戻したらすぐにウォーシャード武器をフリー・アクションとして呼び出すことができる。</p>\n<p>そうでなければ、あなたの死後1週間以内に誰もウォーシャード武器を拾わなければ、あなたはソウルの川に入る代わりに武器と融合することを選択できる。あなたはもはや復活できないが、あなたの魂は武器に束縛され、その結果、あなたは知性を持つアイテムとなり、同じ知覚修正値、感覚、コミュニケーション、言語、属性修正値、および意志セーヴを得る。あなたは同じ知性、判断力、及び魅力に基づく技能を保持する。あなたは依然として持ち運ばれ、扱われなければならず、あなたの選択肢は知性を持つアイテムとして取ることができるアクションに限られる。あなたはもはやミシックポイントを得たり使ったりすることができないが、武器としてあなたは神話的である。あなたは生前に持っていたウォーシャード武器を使って攻撃するためにアクションを使うことができるが、ダメージボーナスは持ち手の筋力修正値を使用し、生前の筋力修正値は使わない。あなたは以下の「武道の知恵を授ける」アクションを得ることができ、GMの裁量で持ち手を影響を及ぼしたり、制御したりする能力などの他の力を得る場合もある。この武器形態で破壊されると、あなたの魂はソウルの川に移動し、他の手段で復活することができるが、その後、あなたは通常の手段で新しいウォーシャード武器を指定しなければならない。</p>\n<p><strong>起動—武道の知恵を授ける</strong> <span class=\"action-glyph\">2</span>(集中、神話的、予測)</p>\n<p><strong>使用制限</strong>1回の10分ごとに</p><hr /><p><strong>効果</strong>あなたは戦闘の経験を呼び覚まし、敵を攻撃する最善の方法を見極め、その知識を持ち手に提供する。あなたの持ち手は、あなたの届く範囲内または最初の射程限界内のクリーチャーに対して神話的な熟練度で〔ストライク〕を行う。この〔ストライク〕は攻撃ロールに対する状況ペナルティと対象が@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}または@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}であるために必要なフラット判定を無視する。</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star",
       "prerequisites": [
@@ -29028,7 +29028,7 @@
       ]
     },
     "Invigorating Surge": {
-      "name": "インヴィゴレイティング・サージ/Invigorating Surge",
+      "name": "インビゴレイティング・サージ/Invigorating Surge",
       "description": "<p><strong>必要条件</strong>あなたの@UUID[Compendium.pf2e.spells-srd.Item.XIgvCPaSy5WXStVD]{スペルサージ}オーラはアクティブである。</p><hr /><p>あなたは周囲の魔法のオーラを変えて近くの味方を保護する。あなたはあなたの<em>spellsurge</em>オーラ内の1体のクリーチャーに、あなたのレベルに等しい一時的なヒット・ポイントを与える。この一時的なヒット・ポイントは、対象がオーラにいる限り持続する。この能力を再度使用すると、以前の使用からの一時的なヒット・ポイントはキャンセルされる。このアクションの一部としてミシック・ポイントを消費すると、オーラ内にいる半分のレベルまでのクリーチャーに一時的なヒット・ポイントを与える。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.iGJ6C4AUQZcSEx1W]{効果: Invigorating Surge}</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
@@ -29504,7 +29504,7 @@
       ]
     },
     "Walk on the Wind": {
-      "name": "ウォーク・オン・ジ・ウィンド/Walk on the Wind",
+      "name": "ウォーク・オン・ザ・ウィンド/Walk on the Wind",
       "description": "<p>あなたの後を軽快な風が追いかけ、あなたの行動に劇的な雰囲気を与えている。あなたは足取りが軽く、声は空の性質を帯びていて通常よりも遠くまで響き渡り、衣服や髪は常にあなたの周りで静かに揺れている。あなたは穏やかな空中で地上の移動速度の半分の範囲で〔ストライド〕することができる。空中を歩いているときに他のクリーチャーを運搬しようとすると、たとえそれが異次元空間にあっても、あなたは落下する。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
@@ -30197,7 +30197,7 @@
       ]
     },
     "Fast Recovery": {
-      "name": "ファスト・リカヴァリー/Fast Recovery",
+      "name": "ファスト・リカバリー/Fast Recovery",
       "description": "<p>あなたの身体は素早く病苦から回復する。あなたは休息から得るヒット・ポイントの数が2倍になる。継続中の病気や毒に対して頑健セーヴに成功するたびに、そのステージを2減少させるか、感染力の強い病気や毒に対しては1減少させる。継続中の病気や毒に対してクリティカル成功を達成すると、そのステージを3減少させるか、感染力の強い病気や毒に対しては2減少させる。さらに、あなたは夜の休息をとるとき、失われた状態の重篤度を2減少させる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -30328,7 +30328,7 @@
       ]
     },
     "Guarded Advance (Knight Vigilant)": {
-      "name": "ガーデッド・アドヴァンス（ナイト・ヴィジラント）/Guarded Advance (Knight Vigilant)",
+      "name": "ガーデッド・アドバンス（ナイト・ヴィジラント）/Guarded Advance (Knight Vigilant)",
       "description": "<p>あなたは最大限の注意を払いながら、戦場をゆっくりと前進する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{〈ステップ〉}を行ってから@UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]{〈盾を構える〉}か、あるいは〈盾を構える〉を行ってから〈ステップ〉を行う。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
@@ -30374,7 +30374,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Overdrive Ally": {
-      "name": "オーヴァードライヴ・アライ/Overdrive Ally",
+      "name": "オーバードライブ・アライ/Overdrive Ally",
       "description": "<p><strong>必要条件</strong>あなたは現在オーバードライブ中である。</p>\n<hr />\n<p>あなたは充電されたメカニズムの一部を急いで仲間に投げ渡し、あなたの恩恵を一時的に共有する。30フィート以内の仲間を選ぶ。次のターンの終わりまで、その仲間のストライクはあなたの知性修正値の半分に等しい追加ダメージを与える。もしあなたがクリティカルオーバードライブにある場合は、あなたの全知性修正値が適用される。仲間は専門、マスター、またはレジェンダリーオーバードライブからの追加ダメージを得ない。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.a4C89wVlcwV6Uxx4]{効果: Overdrive Ally}</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
@@ -30502,7 +30502,7 @@
       ]
     },
     "Explosive Maneuver": {
-      "name": "エクスプローシヴ・マニューヴァー/Explosive Maneuver",
+      "name": "エクスプローシブ・マニューヴァー/Explosive Maneuver",
       "description": "<p> <strong>必要条件</strong>あなたの最後の行動は、あなたの武器のイノベーションを使用した敵に対する成功した〔ストライク〕であった。</p> <hr /> <p>あなたの武器に隠された実験的機能のおかげで、武器は爆発的にレバー、引っ掛け、または類似のメカニズムを展開し、戦闘操作を実行する際に大きな支援を提供する。あなたが爆発的な操作を使用する際、〔組み付き〕、〔押し出す〕、または〔足払い〕の中から選択する。あなたの武器のイノベーションは、選択した行動に一致する武器の特性を持っている必要がある(たとえば、〔組み付き〕を選ぶには、あなたの武器は捕獲特性を持っている必要がある)。選択した行動を、前回の成功した〔ストライク〕と同じ敵に対して行う。あなたは前回の成功した〔ストライク〕と同じマルチアタック・ペナルティを使用する。通常通り、〔組み付き〕、〔押し出す〕、または〔足払い〕の後にマルチアタック・ペナルティを増加させる。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
@@ -30590,7 +30590,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Reflexive Courage": {
-      "name": "リフレクシヴ・カレイジ/Reflexive Courage",
+      "name": "リフレクシブ・カレイジ/Reflexive Courage",
       "description": "<p><strong>トリガー</strong>あなたの手の届く範囲にいるクリーチャーが聴覚効果、操作アクション、または移動アクションを使用する; 遠隔攻撃を行う; もしくは移動アクション中にマスを離れる。</p>\n<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.IAjvwqgiDr3qGYxY]{カレイジャス・アンセム}の影響を受ける。</p>\n<hr />\n<p>あなたは獰猛な呼びかけを行い、あなた自身を奮い立たせて敵に襲いかからせる。トリガーとなったクリーチャーに対して近接〔ストライク〕を行う。その攻撃がクリティカルヒットであり、トリガーが操作アクションであった場合、そのアクションは妨害される。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -30898,7 +30898,7 @@
       ]
     },
     "Lead by Example": {
-      "name": "レッド・バイ・エグザンプル/Lead by Example",
+      "name": "リード・バイ・エグザンプル/Lead by Example",
       "description": "<p>あなたは次の攻撃を味方に知らせるために、次の攻撃を予告する。-2の状況ペナルティを伴う近接または射撃の 〔ストライク〕 を行う。命中した場合、同じクリーチャーをターゲットにした次の味方の 〔ストライク〕 は攻撃ロールに+2の状況ボーナスを得る。クリティカルヒットした場合、このボーナスはあなたの次のターンが始まる前に行動する味方全てに適用される。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.TVWgsv3ypaqh5Y8T]{効果: Lead by Example}</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
@@ -31009,7 +31009,7 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Reactive Strike": {
-      "name": "リアクティヴ・ストライク/Reactive Strike",
+      "name": "リアクティブ・ストライク/Reactive Strike",
       "description": "<p><strong>トリガー</strong>あなたの範囲内のクリーチャーが操作行動または移動行動を使用した場合、遠隔攻撃を行った場合、または移動行動中に正方形を離れた場合。</p>\n<hr />\n<p>あなたは隙を作っている敵を叩く。トリガーとなったクリーチャーに対して近接 〔ストライク〕を行う。もしあなたの攻撃がクリティカルヒットで、トリガーが操作行動だった場合、その行動を妨害する。この〔ストライク〕はあなたのマルチアタック・ペナルティにカウントされず、あなたのマルチアタック・ペナルティはこの〔ストライク〕には適用されない。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -31044,7 +31044,7 @@
       ]
     },
     "Protective Spirit Mask": {
-      "name": "プロテクティヴ・スピリット・マスク/Protective Spirit Mask",
+      "name": "プロテクティブ・スピリット・マスク/Protective Spirit Mask",
       "description": "<p>あなたの仮面はホワイトブル、ホーンフォージャーの守護本能を持ち、あなたが何かを言う限り、あなたの仲間は傷つくことがない。あなたが単一の仲間のみを対象とした非呪文の呪文を発動した直後、そのクリーチャーに対して+1の状況ボーナスを ACあなたの次のターン開始時まで与えることを選択できる。@UUID[Compendium.pf2e.feat-effects.Item.kzSjzK72CQ67wfBH]{効果: Protective スピリット Mask}</p>\n<p>あなたはまた、@UUID[Compendium.pf2e.adventure-specific-actions.Item.KIU5eDZP9VyQIfas]{Protector's Interdiction}リアクションを得る。</p>",
       "source": "Pathfinder #174: Shadows of the Ancients",
       "prerequisites": [
@@ -31554,7 +31554,7 @@
       ]
     },
     "Impossible Volley": {
-      "name": "インポッシブル・ヴォリー/Impossible Volley",
+      "name": "インポッシブル・ボレー/Impossible Volley",
       "description": "<p><strong>必要条件</strong>あなたはリロード0のボレー特性を持つ遠距離武器を扱っている。</p><hr /><p>あなたはエリア内のすべての敵に対してボレーを発射する。あなたの武器のボレー範囲の中心またはそれを超えた@Template[burst|distance:10]内の各敵に対して -2のペナルティを伴う1回の〔ストライク〕を行う。すべてのターゲットに対してダメージは一度だけロールする。</p>\n<p>各攻撃はあなたのマルチアタック・ペナルティにカウントされるが、すべての攻撃を行うまでペナルティは増加しない。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -32099,7 +32099,7 @@
       ]
     },
     "Thrown Voice": {
-      "name": "スローン・ヴォイス/Thrown Voice",
+      "name": "スローン・ボイス/Thrown Voice",
       "description": "<p>あなたは風を通して声を投げる方法を学び、他者を欺いてあなたの位置を隠すことができる。あなたは、天賦の性質を持つ呪文@UUID[Compendium.pf2e.spells-srd.Item.yV7Ouzaoe7DHLESI]{ヴェントリロキズム}を1日1回キャストできる。もしあなたがソングバードのストリックスであれば、代わりに1日2回キャストできる。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -32109,7 +32109,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Explosive Death Drop": {
-      "name": "エクスプローシヴ・デス・ドロップ/Explosive Death Drop",
+      "name": "エクスプローシブ・デス・ドロップ/Explosive Death Drop",
       "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.rbiMK71SvGZGRLJ1]{Rain of Embers 構え}にいて、対象@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}がある。</p>\n<hr />\n<p>あなたは敵を空中に持ち上げ、炎の爆風で叩き落とす。@Check[athletics|defense:fortitude]判定を目標の頑健 DCに対して振る。ターゲットがあなたより1サイズ大きい場合、あなたの判定に-1状況ペナルティを得て、さらに大きい場合は-3状況ペナルティを得る。ターゲットがあなたより1サイズ小さい場合、あなたは判定に+1状況ボーナスを得て、さらに小さい場合は+3状況ボーナスを得る。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は@Damage[12d6[fire]]ダメージを受け、あなたの選択した空いている隣接マスに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}落下する。対象はもはや捕まえられていない。対象とその隣接するクリーチャーもそれぞれ@Damage[1d6[persistent,fire]]ダメージを受ける。</p>\n<p><strong>成功</strong>クリティカル成功として、ただし対象は12d6の代わりに@Damage[6d6[fire]]ダメージを受け、クリーチャーは持続的火炎ダメージを受けない。</p>\n<p><strong>失敗</strong>対象はもはや捕まえられていない。</p>\n<p><strong>クリティカル失敗</strong>失敗として、ただしあなたはうつ伏せになる。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
@@ -32214,7 +32214,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Favored Prey": {
-      "name": "フェイヴァード・プレイ/Favored Prey",
+      "name": "フェイバード・プレイ/Favored Prey",
       "description": "<p>あなたは特定のタイプの野生のクリーチャーを研究しており、それをより簡単に狩ることができる。この特技を得たとき、動物、獣、ドラゴン、またはきのこや植物のいずれかを優先対象として選ぶ。イニシアティブを振り、選んだカテゴリーに属する敵が見えるとき、あなたはフリー・アクションとして対象を狩ることができ、その敵を指定する。</p>\n<p>あなたはまだそのクリーチャーを〔思い出す〕で識別していなくても、このフリー・アクションを使用できる。恩恵は、他のクリーチャーとして偽装された優先敵に対しては適用されず、GMが優先対象として偽装されたクリーチャーに適用されるかどうかを決定する。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -32292,7 +32292,7 @@
       ]
     },
     "Powerful Shove": {
-      "name": "パワフル・シャヴ/Powerful Shove",
+      "name": "パワフル・シャブ/Powerful Shove",
       "description": "<p>あなたは攻撃でより大きな敵を押し出すことができる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.19OLlTrxvEtDAOHc]{Aggressive Block}または@UUID[Compendium.pf2e.feats-srd.Item.gt9pvIicabSOe6pB]{Brutish Shove}を、あなたよりも2つサイズが大きいクリーチャーに対して使用できる。</p>\n<p>クリーチャーが 〔押し出す〕 または、シールド、ポールアーム、クラブのクリティカルスペシャライゼーション効果でノックバックされ、動き続けられない場合、そのクリーチャーはあなたの筋力修正値に等しい@Damage[@actor.abilities.str.mod]{damage} (最低1)を受ける。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -32810,7 +32810,7 @@
       ]
     },
     "Reactive Striker": {
-      "name": "リアクティヴ・ストライカー/Reactive Striker",
+      "name": "リアクティブ・ストライカー/Reactive Striker",
       "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{Reactive Strike}リアクションを獲得する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -33175,7 +33175,7 @@
       ]
     },
     "Furious Vengeance": {
-      "name": "フューリアス・ヴェンジャンス/Furious Vengeance",
+      "name": "フューリアス・ベンジャンス/Furious Vengeance",
       "description": "<p><strong>トリガー</strong>あなたの近接の射程内にいる敵が、近接 〔ストライク〕であなたにクリティカルヒットを与えた。</p><hr /><p>敵の一撃はあなたの怒りを煽り、即座の報復を誘発する。あなたは、トリガーとなった敵に対して近接 〔ストライク〕を行う。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -33657,7 +33657,7 @@
       ]
     },
     "Veil May": {
-      "name": "ヴェール・メイ/Veil May",
+      "name": "ベール・メイ/Veil May",
       "description": "<p>血の魔女、偽りの皮の裏に隠れた燃え盛る血を飲む者から生まれたあなたは、1つの血のように赤い目と、外見を一瞬で脱ぎ捨てる能力を持っている。</p>\n<p>あなたは@UUID[Compendium.pf2e.feats-srd.Item.Dvz54d6aPhjsmUux]{Lie to Me}スキル特技を得て、外皮の外層を剥がすことで素早く変装を解くことができる。</p>\n<p> @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Impersonate}から真の姿に戻るのはあなたにとって3アクション活動であり、もしあなたがディセプションの専門家であればそれは2アクション活動であり、またディセプションにおいて伝説的であれば、それはたった1回のアクションで済む。これは、鎧やその他の装備を早く着たり脱いだりすることを許可しないが、物理的な外見はそれ以外は通常の状態に戻る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -33697,7 +33697,7 @@
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Spectral Advance": {
-      "name": "スペクトラル・アドヴァンス/Spectral Advance",
+      "name": "スペクトラル・アドバンス/Spectral Advance",
       "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.VNAOHrWhNYX3jKdy]{スペクトラル・アドバンス}の献身呪文を獲得し、敵に移動して妨害を回避することができる。 </p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -35043,7 +35043,7 @@
       ]
     },
     "The Thousand Lashes of the Weeping Willow": {
-      "name": "ザ・サウザンド・ラッシュズ・オブ・ジ・ウィーピング・ウィロウ/The Thousand Lashes of the Weeping Willow",
+      "name": "ザ・サウザンド・ラッシュズ・オブ・ザ・ウィーピング・ウィロウ/The Thousand Lashes of the Weeping Willow",
       "description": "|||<p>You conjure a massive willow tree, which lashes your foes with a thousand branches. The trunk of the weeping willow tree is 10-feet in diameter and appears in an unoccupied space within 500 feet. The tree whips its branches at all your enemies within a @Template[emanation|distance:30]{30-foot-radius emanation} centered on the willow's trunk, dealing @Damage[(10 + floor(@actor.level/20)*4)d8[slashing]|options:area-damage] damage with a @Check[reflex|against:kineticist|basic|options:area-effect,inflicts:slowed] save against your class DC. A creature that fails its save is also overcome with sorrow, becoming @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} for as long as the willow remains, as it weeps uncontrollably. The willow doesn't target you or your allies.</p>\n<p>The willow tree remains until the end of your next turn, but you can Sustain it up to 1 minute. The first time you Sustain the impulse each round, the weeping willow attacks again, dealing @Damage[floor(@actor.level/4)d8[slashing]|options:area-damage] damage to all enemies in the area with a basic reflex save. If you use this impulse again, the previous one ends.</p><hr /><p><strong>Level (20th)</strong> The initial damage is 14d8, and the Sustained damage is 5d8.</p>|||",
       "source": "Pathfinder #202: Severed at the Root"
     },
@@ -35431,7 +35431,7 @@
       ]
     },
     "Pack Movement": {
-      "name": "パック・ムーヴメント/Pack Movement",
+      "name": "パック・ムーブメント/Pack Movement",
       "description": "<p>あなたとあなたの仲間は共通の敵を倒すために動く。あなたとあなたの動物の仲間は両方とも〔ストライド〕をする。あなたたち二人が同じクリーチャーのリーチ内で動きを終えた場合、あなたとあなたの動物の仲間はそのクリーチャーに対してそれぞれ近接の〔ストライク〕を行うことができる。あなたはパックムーブを使用して、〔穴掘り〕、〔登攀〕、〔飛行〕、または〔水泳〕を〔ストライド〕の代わりに使用することができる。ただし、あなたとあなたの動物の仲間がそれぞれの移動タイプを所有している必要がある。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
@@ -35983,7 +35983,7 @@
       ]
     },
     "Tandem Movement": {
-      "name": "タンデム・ムーヴメント/Tandem Movement",
+      "name": "タンデム・ムーブメント/Tandem Movement",
       "description": "<p>あなたとあなたのエイドロンは共に移動する。あなたは1アクションを使用して〔ストライド〕を行う。いずれかが対応する移動タイプを持っている場合、〔穴掘り〕、〔登攀〕、〔飛行〕、または〔水泳〕を行うこともできる。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -36467,7 +36467,7 @@
       ]
     },
     "Deep Vision": {
-      "name": "ディープ・ヴィジョン/Deep Vision",
+      "name": "ディープ・ビジョン/Deep Vision",
       "description": "<p>あなたの視力は夜間や地下に適している。あなたは暗視を得る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -36666,7 +36666,7 @@
       "source": "Pathfinder Player Core"
     },
     "Vengeance Strike": {
-      "name": "ヴェンジャンス・ストライク/Vengeance Strike",
+      "name": "ベンジャンス・ストライク/Vengeance Strike",
       "description": "|||<p><strong>トリガー</strong> 敵があなたにダメージを与え、かつその敵があなたのリーチ内にいる。</p><hr /><p>あなたは攻撃してきた敵に反撃する。トリガーとなった敵に対して〈近接〉〈ストライク〉を行う。ヒットしてダメージを与えた場合、その敵は　あなたの次のターン終了時まで、あなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>|||",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -37284,7 +37284,7 @@
       ]
     },
     "Swift Intervention": {
-      "name": "スウィフト・インターヴェンション/Swift Intervention",
+      "name": "スウィフト・インターベンション/Swift Intervention",
       "description": "<p><strong>トリガー</strong>あなたのオーバーウォッチフィールド内の味方が、対象に対して@UUID[Compendium.pf2e.actionspf2e.Item.qm7xptMSozAinnPS]{Arrest a Fall}、@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{Balance}、@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{Grab an Edge}、または@UUID[Compendium.pf2e.actionspf2e.Item.Qf1ylAbdVi1rkc8M]{Maneuver in Flight}の試みを失敗した。</p>\n<p><strong>必要条件</strong>あなたは射撃武器を持っている。</p><hr /><p>あなたは常に潜在的な脅威に気づかなければならないという負担を抱えている。このため、あなたは良い位置からの射撃が災害を防ぐことができることを学んだ。あなたは味方の衣服をピン留めして落下を防ぐか、崖に固定させるために射撃するか、または攻撃をその装甲にバウンドさせて、つまずきながらバランスを取る際に進路を修正させる。トリガーとなる判定のDCに対して単一の射撃攻撃ロールを行う；あなたの味方はあなたの射撃攻撃の結果を元のロールの代わりに使用する必要がある。あなたは味方への効果のラインを持っていなければならず、あなたの攻撃ロールにはその武器を用いた射撃攻撃の通常のボーナスまたはペナルティ(例えば、最初の射程増分を越えて射撃することに対するペナルティ)が含まれる。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
@@ -37811,7 +37811,7 @@
       "source": "Pathfinder Rage of Elements"
     },
     "Grave Threat": {
-      "name": "グレイヴ・スレット/Grave Threat",
+      "name": "グレイブ・スレット/Grave Threat",
       "description": "<p>あなたは自身の威圧的な態度を用いて、アンデッドを敗北へと追い込む。あなたが習熟度「達人」を持つ武器を使用して、アンデッドクリーチャーに対して〈ストライク〉を行う。ヒットした場合、そのクリーチャーに対するすべてのストライクは、1ラウンドの間、@UUID[Compendium.pf2e.feats-srd.Item.xmccXo6U7P0IMM3z]{Reaper of Repose}の恩恵を得る。</p>",
       "source": "Pathfinder Claws of the Tyrant",
       "prerequisites": [
@@ -38046,7 +38046,7 @@
       ]
     },
     "River Adaptation": {
-      "name": "リヴァー・アダプテーション/River Adaptation",
+      "name": "リバー・アダプテーション/River Adaptation",
       "description": "<p>あなたの脚と尾に網が生え、より水生的な形態に移行する。あなたは1日に1回、固有神聖呪文として@UUID[Compendium.pf2e.spells-srd.Item.RvBlSIJmxiqfCpR9]{フィート・トゥ・フィンズ}を唱えることができる。この固有魔法はあなたのマカリの血統に依存しており、効果をあなた自身に制限しているが、一般的な魔法使いよりもより容易に唱えることができる；あなたはこの呪文でのみあなた自身を対象にすることができるが、水中で唱える時には呪文をフリー・アクションとして唱えることができる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -38905,7 +38905,7 @@
       ]
     },
     "Favored Terrain": {
-      "name": "フェイヴァード・テレイン/Favored Terrain",
+      "name": "フェイバード・テレイン/Favored Terrain",
       "description": "<p>あなたは特定の地形を研究し、その課題を克服する。水中、極寒、砂漠、森林、山岳、平原、空、湿地、または地下から好きな地形を選ぶ。その地形にいる間、非魔法の難地形の影響を無視できる。もしあなたが妨げのない旅のクラス機能を持っていれば、選択に応じて好みの地形にいる間に第二の恩恵を得る。</p>\n<ul>\n<li><strong>水中</strong>あなたは水泳移動速度をあなたの移動速度と等しいものとして得る。もしすでに水泳移動速度を持っていれば、あなたは代わりにあなたの水泳移動速度に+10フィートの状態ボーナスを得る。</li>\n<li><strong>極寒</strong>あなたは通常の十分の一の食べ物と水しか必要なく、厳しいまたは極端な寒さの影響を受けず、氷や雪の上をフル移動速度で歩ける。@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{Balance}を必要としない。</li>\n<li><strong>砂漠</strong>あなたは通常の十分の一の食べ物と水しか必要なく、厳しいまたは極端な暑さの影響を受けず、砂の上をフル移動速度で歩ける。〔バランスを取る〕を必要としない。</li>\n<li><strong>森林、山岳、または地下</strong>あなたはあなたの移動速度と等しい登攀移動速度を得る。もしすでに登攀移動速度を持っていれば、代わりにあなたの登攀移動速度に+10フィートの状態ボーナスを得る。</li>\n<li><strong>平原</strong>あなたはあなたの地上移動速度に+10フィートの状態ボーナスを得る。</li>\n<li><strong>空</strong>あなたは飛行移動速度に+10フィートの状態ボーナスを得る、もしそれを持っているなら。</li>\n<li><strong>湿地</strong>あなたは、たとえそれがより困難な地形であったり、通常はあなたを〔水泳〕をさせる深さであったとしても、フル移動速度で沼地を移動できる。</li>\n</ul>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.sDftJWPPSUeSZD3A]{効果: Favored Terrain (Gain Climb 移動速度)}</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.IpRfT9lL3YR6MH6w]{効果: Favored Terrain (増加 Climb 移動速度)}</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.OhLcaJeQy4Nf5Mwo]{効果: Favored Terrain (Gain Swim 移動速度)}</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.HKPmrxkZwHRND5Um]{効果: Favored Terrain (増加 Swim 移動速度)}</p>",
       "source": "Pathfinder Player Core"
     },
@@ -38925,7 +38925,7 @@
       ]
     },
     "Grave's Voice": {
-      "name": "グレイヴズ・ヴォイス/Grave's Voice",
+      "name": "グレイヴズ・ボイス/Grave's Voice",
       "description": "<p>あなたはスピリットロアまたはハントロアを使用して、非実体クリーチャーのものを〔印象の改善〕または〔要請する〕ことができる。GMの裁量により、非実体の精霊があなたの話を聞くかもしれない。</p>",
       "source": "Pathfinder #163: Ruins of Gauntlight",
       "prerequisites": [
@@ -38940,7 +38940,7 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Leshy Glide": {
-      "name": "レーシー・グライド/Leshy Glide",
+      "name": "レシー・グライド/Leshy Glide",
       "description": "<p>自分の葉を使うことで、降下を制御できる。あなたはゆっくりと地面に向かって滑空し、空中で5フィート下降し、最大25フィート前進する。各ラウンドに少なくとも1アクションを滑空に費やし、まだ地面に到達していない限り、あなたのターンの終了時にも空中に留まる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -39296,7 +39296,7 @@
       ]
     },
     "Eclipsed Vitality": {
-      "name": "エクリプスド・ヴァイタリティ/Eclipsed Vitality",
+      "name": "エクリプスド・バイタリティ/Eclipsed Vitality",
       "description": "<p>あなたは灰の中にあなた自身を包み、生きている感知を持つアンデッドが求める vital essenceを隠す。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn]{Avoiding Notice}、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hiding}、@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneaking}を行う際に常に注意を払っており、あらゆるクリーチャーに対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を持つ。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
@@ -39498,7 +39498,7 @@
       "source": "Pathfinder Season of Ghosts Hardcover Compilation"
     },
     "Inventive Offensive": {
-      "name": "インベントイブ・オフェンシヴ/Inventive Offensive",
+      "name": "インベントイブ・オフェンシブ/Inventive Offensive",
       "description": "<p>あなたは武器を即席で調整し、予想外の方法で機能させることができる。この能力を使うと、あなたが装備する近接武器に対して次の武器特性の1つを追加する：デッドリーd6、武器解除、非致死、押し出し、三角、バラエティB、バラエティP、またはバラエティS。武器がすでに持っている特性を追加することはできない。武器は、あなたが攻撃を成功させてダメージを与えるまでこの特性を保持する。武器は、あなたが装備している間のみこの特性を保持し、同時に1つの武器のみをこの方法で修正することができる。</p>\n<p>あなたがクラフティングに対して専門的な習熟度を持っている場合、この特技を2アクションのアクティビティとして使用することができる。あなたがクラフティングにおいて伝説の習熟度を持っている場合、この特技を使用する際にリストから2つの武器特性を適用することができる。</p>",
       "selfEffect": "効果: 創意ある攻撃",
       "source": "Pathfinder Lost Omens Character Guide",
@@ -39582,7 +39582,7 @@
       ]
     },
     "Protective Sheath": {
-      "name": "プロテクティヴ・シース/Protective Sheath",
+      "name": "プロテクティブ・シース/Protective Sheath",
       "description": "<p>あなたが@UUID[Compendium.pf2e.equipment-srd.Item.kJJvKm80KwWXPukV]{Clan Dagger}で攻撃する際、あなたはその鞘を手元に保つ。あなたが@UUID[Compendium.pf2e.feats-srd.Item.X7wFUWjYjYhzpejU]{Clan's Edge}を使用する時、あなたがナイフを持っていない手が空であれば、あなたの一族のナイフの鞘を使って攻撃を防ぐこともできる。このターンに〔ストライク〕で打撃を与えた対象に対して、パリーから得られるACへの状況ボーナスは+2に増加する。</p>\n<p> @UUID[Compendium.pf2e.equipment-effects.Item.fRlvmul3LbLo2xvR]{効果: Parry} </p>",
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
@@ -39681,7 +39681,7 @@
       ]
     },
     "Courageous Advance": {
-      "name": "カレイジャス・アドヴァンス/Courageous Advance",
+      "name": "カレイジャス・アドバンス/Courageous Advance",
       "description": "<p>あなたは元気づける呼びかけで、味方に前進するよう促す。あなたの次のアクションが@UUID[Compendium.pf2e.spells-srd.Item.IAjvwqgiDr3qGYxY]{カレイジャス・アンセム}の作曲キャントリップを唱えることである場合、あなたが選んだ味方はその呪文から状態ボーナスを得ることができ、すぐに彼らのリアクションを使用して〔ストライド〕することができる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -39827,7 +39827,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Void Siphon": {
-      "name": "ヴォイド・サイフォン/Void Siphon",
+      "name": "ボイド・サイフォン/Void Siphon",
       "description": "<p>虚無の生のエネルギーは生きている者の本質を吸収する。あなたの放った生きているクリーチャーがセーヴに対してクリティカル失敗した場合は、 @UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz]{ハーム}は@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -40026,7 +40026,7 @@
       ]
     },
     "Rejuvenation Token": {
-      "name": "リジュヴェネーション・トークン/Rejuvenation Token",
+      "name": "リジュベネーション・トークン/Rejuvenation Token",
       "description": "<p>あなたは武器、鎧、またはあなたにとって大切な他のアイテムに意識の一部を植え付けることで、物質界にあなた自身を結びつける。この物体が無傷である限り、あなたの体が破壊されても、最後にこの物体を所持していた時の正確な状態に戻ることができる。魂に結びついた物体は、日課の準備の特別な焦点として使用できる。@UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{レイズ・デッド}、@UUID[Compendium.pf2e.spells-srd.Item.kqhPt9344UkcGVYO]{リザレクト}、または類似の魔法。この魔法は、あなたを生き返らせるのではなく、骸骨のアンデッドの状態で戻すように変形する。ファラスマは、このように魔法が修正されるとき、あなたの戻ることを防ぐことはできない。</p>\n<p>あなたが戻ったとき、あなたはその物体に再度あなた自身を固定するために1週間のダウンタイムを費やすまで、あなたにとって大切な記憶を永久に失い、他の魔法によってもたらされる副作用に加えられる。あなたの魂に結びついた物体は無効になり、さらにあなたの心が断片化される。</p>",
       "source": "Pathfinder Book of the Dead"
     },
@@ -40142,7 +40142,7 @@
       ]
     },
     "Reactive Tangle": {
-      "name": "リアクティヴ・タングル/Reactive Tangle",
+      "name": "リアクティブ・タングル/Reactive Tangle",
       "description": "<p><strong>トリガー</strong>あなたのリーチ内にいる中型以下のクリーチャーが、移動アクションを使用する、または移動アクションの最中に広場から離れる。</p>\n<p><strong>必要条件</strong>あなたはネットを手に持っている。</p><hr /><p>あなたはネットをそのクリーチャーの足に巻き付け、逃げられないようにする。ネットを使用して[[/act grapple]]トリガーとなったクリーチャーを行う。これはロープに取り付けられたネットを使用して〈組み付き〉を行う効果を持つ。ただし、あなたがそのクリーチャーに対して〈組み付き〉を継続するためには、そのクリーチャーは10フィート以内ではなく、あなたのリーチ内に留まらなければならない。</p>",
       "source": "Pathfinder Lost Omens High Seas",
       "prerequisites": [
@@ -40459,7 +40459,7 @@
       ]
     },
     "Survey Wildlife": {
-      "name": "サーヴェイ・ワイルドライフ/Survey Wildlife",
+      "name": "サーベイ・ワイルドライフ/Survey Wildlife",
       "description": "<p>あなたは野生での詳細を調査して、近くのクリーチャーの存在を特定することができる。あなたは10分を使って、巣、糞、植物の傷跡に基づいて周囲のエリアを評価することで、近くにいるクリーチャーを探し出すことができる。GMによって明示的な標識の明白さに基づいて決定された DCに対してサバイバル判定を試みる。成功した場合、これらの標識からだけでクリーチャーについてさらに学ぶために、-2のペナルティ付きで 〔思い出す〕 判定を試みることができる。あなたがサバイバルの達人である場合、ペナルティは適用されない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -40489,7 +40489,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Invoke the Crimson Oath": {
-      "name": "インヴォーク・ザ・クリムゾン・オース/Invoke the Crimson Oath",
+      "name": "インボーク・ザ・クリムゾン・オース/Invoke the Crimson Oath",
       "description": "<p>あなたはクリムゾンの誓いを発動して武器からルビーのエネルギーの爆風を解き放つことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.AsKLseOo8hwv5Jha]{インヴォーク・ザ・クリムゾン・オース}フォーカス呪文を得る。もしすでに持っていない場合、あなたは1つのフォーカスポイントを持つフォーカスプールを得ることができ、クリムゾンの誓いを唱えてその教えを瞑想するために 〔再フォーカス〕 アクティビティを使ってフォーカスポイントを取り戻すことができる。すでにフォーカスプールがある場合は、フォーカスポイントの数を1増加させる。あなたの騎士の回収者のフォーカス呪文は神聖な呪文である。この特技を得ると、あなたは神聖な呪文攻撃と呪文DCにおいて訓練済みとなる。これらの呪文のためのあなたの主要な呪文発動能は魅力である。</p>",
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
@@ -41325,7 +41325,7 @@
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Lead the Way": {
-      "name": "レッド・ジ・ウェイ/Lead the Way",
+      "name": "リード・ザ・ウェイ/Lead the Way",
       "description": "<p>あなたは前進し、他の者が続くための隙を作り出す。リアクションを使用可能な隣接する味方を1人選ぶ。あなたは〈ストライド〉を行い、その味方は自身のリアクションを使用して即座に〈ストライド〉を行うことができる。その味方は〈ストライド〉をあなたに隣接した状態で終了しなければならない。その味方がこの方法でストライドを行った場合、その味方は通常なら移動によって誘発されるリアクションを誘発しない。しかし、あなた自身は通常通りそれらのリアクションを誘発する。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
@@ -41482,7 +41482,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Explosive Expert": {
-      "name": "エクスプローシヴ・エキスパート/Explosive Expert",
+      "name": "エクスプローシブ・エキスパート/Explosive Expert",
       "description": "<p><strong>アクセス</strong>あなたはドンガンホールドまたはアルケンスタール出身である。</p><hr /><p>揮発性武器に関する広範な訓練を通じて、自分の火薬爆発に対する相当な耐性を構築してきた。あなたは自分の爆弾や火器の攻撃によるスプラッシュダメージに対して免疫である(スプラッシュダメージは散布特性から)。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
@@ -41618,7 +41618,7 @@
       ]
     },
     "Shared Overdrive": {
-      "name": "シェアード・オーヴァードライヴ/Shared Overdrive",
+      "name": "シェアード・オーバードライブ/Shared Overdrive",
       "description": "<p>あなたはチームメイトに対して十分な実験を行い、強化されたガジェットを彼らに多数譲渡したことで、味方の1人があなたのオーバードライブの完全な効果と持続時間から恩恵を得られるようになった。特定のオーバードライブ中に初めて「オーバードライブ・アライ」を使用した場合、その効果は、対象の次のターン終了時までではなく、あなたのオーバードライブの残りの持続時間中持続する。同じオーバードライブ中に「オーバードライブ・アライ」をさらに使用した場合、その持続時間は「オーバードライブ・アライ」ごとの通常の持続時間となる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.EEujvJ9UzzK7fvqG]{効果: オーバードライブ・アライ(共有オーバードライブ)}</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
@@ -42094,7 +42094,7 @@
       ]
     },
     "Core Rejuvenation": {
-      "name": "コア・リジュヴェネーション/Core Rejuvenation",
+      "name": "コア・リジュベネーション/Core Rejuvenation",
       "description": "<p><strong>使用制限</strong>1日に1回</p>\n<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死}の状態にあり、回復判定を試みようとしている。</p><hr /><p>あなたの魂はコアの力にアクセスし、死の手から押し返し意識を回復させる。あなたは1ヒットポイントに回復し、ダイイングと@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}の状態を失い、このターンに通常通り行動できる。あなたはこの方法でダイイングの状態を失ったとき、通常通り負傷状態を得るか、増加させる。</p>\n<p><strong>強化</strong>あなたの魂はコアからさらに多くの力を引き出し、追加の恩恵を与える。コアリジュビネーションを使用する際、あなたはレベルの3倍に等しい一時的なヒット・ポイントも得る。これらのヒット・ポイントは1分の間持続する。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -42329,7 +42329,7 @@
       ]
     },
     "Dedication to the Five": {
-      "name": "デディケーション・トゥ・ザ・ファイヴ/Dedication to the Five",
+      "name": "デディケーション・トゥ・ザ・ファイブ/Dedication to the Five",
       "description": "<p>あなたの@UUID[Compendium.pf2e.deities.Item.JndhOIHnQoMwnsw3]{ゴッドクロウ}に対する献身はクレリックに近い。あなたはクレリックの@UUID[Compendium.pf2e.feats-srd.Item.hT4INKGtly4QY8KN]{Domain Initiate}特技を得るが、領域として「完全」「保護」「暴政」「熱意」のいずれかを選ぶ必要がある。さらに、あなたは@UUID[Compendium.pf2e.deities.Item.d56paSkcwvll2OhR]{アバダー}、@UUID[Compendium.pf2e.deities.Item.QRkcFciCOmFoxF1B]{アスモデウス}、@UUID[Compendium.pf2e.deities.Item.eErEiVmBqltYXFJ6]{アイオーメデイ}、@UUID[Compendium.pf2e.deities.Item.qqqrbq4uCrelQvgH]{イローリ}、または@UUID[Compendium.pf2e.deities.Item.sZrdzh0ANQnZGXJb]{トラグ}のいずれかの宗教的なシンボルをあなたのディバイン・フォーカスとして使用できる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -42782,7 +42782,7 @@
       ]
     },
     "Reflexive Riposte": {
-      "name": "リフレクシヴ・リポスト/Reflexive Riposte",
+      "name": "リフレクシブ・リポスト/Reflexive Riposte",
       "description": "<p>あなたはほぼ無意識に反撃することができる。あなたのターンの開始時にアクションを回復すると、追加のリアクションを得て、それは@UUID[Compendium.pf2e.actionspf2e.Item.EfjoIuDmtUn4yiow]{Opportune Riposte}を行うためだけに使用できる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -43005,7 +43005,7 @@
       ]
     },
     "Voice of Authority": {
-      "name": "ヴォイス・オブ・オーソリティ/Voice of Authority",
+      "name": "ボイス・オブ・オーソリティ/Voice of Authority",
       "description": "<p>あなたは他者の注意を簡単に引きつけ、脅威を行動に変えるとき、あなたの権威ある声が敵をためらわせる。</p>\n<p>あなたの声は、あなたが望むなら、300フィート以内のすべてのクリーチャーに聞こえるが、環境の音のレベルに関わらず、あなたの声は@UUID[Compendium.pf2e.spells-srd.Item.gIdDLrbswTV3OBJy]{サイレンス}や類似の効果を通り抜けることはできない。もし戦闘の初めにイニシアティブのためにインティミデーションを振った場合、戦闘の最初のラウンドにおいて、まだ行動していないクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}あなたの方を向く。</p>",
       "source": "Pathfinder Adventure: Night of the Gray Death",
       "prerequisites": [
@@ -43193,7 +43193,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Explosive Leap": {
-      "name": "エクスプローシヴ・リープ/Explosive Leap",
+      "name": "エクスプローシブ・リープ/Explosive Leap",
       "description": "<p>あなたは自らの革新から爆発を下方に向けて発射し、あなた自身を空中に投げ出す。あなたは地面に接触せずに、任意の方向に30フィートまで跳び上がる必要がある。あなたは固い地面の上に着地しなければならず、そうでない場合、次のアクションを使用した後に落下する。次のアクションを使用した後に落ちる効果については、たとえそのターンに他のアクションを使用しなくても、ターンの終了時に落ちることになる。</p><hr /><p><strong>特別</strong>あなたの革新が従者である場合、その従者がこのアクションを行うことができる。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -43271,7 +43271,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Swan Dive": {
-      "name": "スワン・ダイヴ/Swan Dive",
+      "name": "スワン・ダイブ/Swan Dive",
       "description": "<p>あなたは空中から水中に飛び込み、勢いを利用してあなた自身を前方に推進させる。あなたは意図的に[[/act leap]]するか、あるいは水域に落下し、距離に関係なく落下ダメージを受けず、その後あなたの移動速度まで〈水泳〉を行う。あなたのターンの終了時まで、〈水泳〉を行うための《運動》判定で成功をロールした時、あなたは代わりに大成功を得て、大失敗をロールした時は代わりに失敗となる。</p>",
       "source": "Pathfinder Lost Omens High Seas"
     },
@@ -43291,7 +43291,7 @@
       "source": "Pathfinder Player Core"
     },
     "Mind Over Matter": {
-      "name": "マインド・オーヴァー・マター/Mind Over Matter",
+      "name": "マインド・オーバー・マター/Mind Over Matter",
       "description": "<p>あなたの心の限界は、あなた自身が想像するものだけである。あなたは追加の10レベルの呪文スロットを得る。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
@@ -43875,7 +43875,7 @@
       ]
     },
     "Favor of Heaven": {
-      "name": "フェイヴァー・オブ・ヘブン/Favor of Heaven",
+      "name": "フェイバー・オブ・ヘブン/Favor of Heaven",
       "description": "<p>あなたはヘイ・フェンの選ばれし者であり、天界の法院の権威を持っている。1日1回、6段階の@UUID[Compendium.pf2e.spells-srd.Item.PHVHBbdHeQRfjLmE]{スピリット・ブラスト}を神聖な内在の呪文として唱えることができる。さらに、あなたは耐性に対して聖と邪悪の両方で5を得る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -43944,7 +43944,7 @@
       ]
     },
     "Veil of Bugs": {
-      "name": "ヴェール・オブ・バグズ/Veil of Bugs",
+      "name": "ベール・オブ・バグズ/Veil of Bugs",
       "description": "<p>あなたの群れは密度が高く、視界を遮る。あなたとあなたの仲間は、あなたの群れの空間にいる間、小遮蔽を得る。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
@@ -43992,7 +43992,7 @@
       ]
     },
     "Draconic Veil": {
-      "name": "ドラコニック・ヴェール/Draconic Veil",
+      "name": "ドラコニック・ベール/Draconic Veil",
       "description": "<p>いくつかのドラゴンのように、あなたの先祖は人型の間を歩くために変身する超自然的の能力を持っていた。あなたはこの能力を模倣する方法を学んだ。あなたは@UUID[Compendium.pf2e.spells-srd.Item.2qGqa33E4GPUCbMV]{ヒューマノイド・フォーム}を1日に1回5レベルの内在呪文として唱えることができるが、その持続時間は1時間に延長される。呪文の系統はあなたのドラゴニック・エグザンプラーと同じである。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -44012,7 +44012,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Quick Vengeance": {
-      "name": "クイック・ヴェンジャンス/Quick Vengeance",
+      "name": "クイック・ベンジャンス/Quick Vengeance",
       "description": "<p>あなたやあなたの仲間を攻撃しようとする者に対して怒りを抱き、復讐を果たす。@UUID[Compendium.pf2e.actionspf2e.Item.vhO1f7oTD2s3Ncg9]{Intercept 攻撃}または@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{シールド Block}を使用した時、次のターンに@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}になる。追加のアクションは、その攻撃によって引き起こされたリアクションの対象に近づくために〔ストライド〕するか、その敵を〔ストライク〕するためにのみ使用できる。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
@@ -44022,7 +44022,7 @@
       ]
     },
     "Solar Rejuvenation": {
-      "name": "ソーラー・リジュヴェネーション/Solar Rejuvenation",
+      "name": "ソーラー・リジュベネーション/Solar Rejuvenation",
       "description": "<p><strong>ゴーラン</strong> - 太陽の温もりと光はあなたに命を与える。昼間に10分の間屋外で休むと、あなたはヒット・ポイントを回復する。これはあなたの@Damage[(floor(@actor.level/2)*@actor.abilities.con.mod)[healing]]{Constitution modifier × half your level}に等しい。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}からの治療に加えてこの恩恵を得る。</p>\n<p><strong>レーシー</strong> - 昼間に10分の間屋外で休むと、あなたはヒット・ポイントを回復する。これはあなたの@Damage[(floor(@actor.level/2)*@actor.abilities.con.mod)[healing]]{Constitution modifier × half your level}に等しい。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}からの治療に加えてこの恩恵を得る。レシーは光合成に頼らない植物栄養を持つ場合、同様に適した環境を必要とする。たとえば、キノコレシーは暗く湿った環境と腐敗した植物の堆積物が必要である。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -44198,7 +44198,7 @@
       "source": "Pathfinder Player Core"
     },
     "Lead Climber": {
-      "name": "レッド・クライマー/Lead Climber",
+      "name": "リード・クライマー/Lead Climber",
       "description": "<p>登攀中、あなたは他の者が従うためのルートを準備でき、仲間を引き上げて災厄を避けることができる。仲間があなたが設定したルートを〔登攀〕しようと試みる際に、彼らが 〔専門家にならう〕 探索アクティビティを使用した場合、もし彼らのうち誰かが〔登攀〕のチェックでクリティカル失敗をした場合、あなたは同じ DCに対してアスレチックス判定を試みることができる。成功した場合、あなたの仲間はクリティカル失敗ではなく失敗するだけで済む。あなたもクリティカル失敗した場合、あなたたちは双方がクリティカル失敗の結果を経験する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -44877,7 +44877,7 @@
       ]
     },
     "Reactive Pursuit": {
-      "name": "リアクティヴ・パースート/Reactive Pursuit",
+      "name": "リアクティブ・パースート/Reactive Pursuit",
       "description": "<p><strong>トリガー</strong>隣接した敵があなたから離れ、あなたはその敵の隣接したスペースの1つに〔ストライド〕アクションで到達できる。</p>\n<hr />\n<p>あなたは撤退する敵と並走する。あなたは〔ストライド〕するが、移動を終了する位置はトリガーした敵の隣接場所でなければならない。この移動はトリガーした敵からリアクションを引き起こさない。あなたはリアクティブパシュートを使用して〔穴掘り〕、〔登攀〕、〔飛行〕、または〔水泳〕を〔ストライド〕の代わりに使用でき、その移動タイプに応じたものを持っている場合。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -45306,7 +45306,7 @@
       ]
     },
     "Devil Allies": {
-      "name": "デヴィル・アライズ/Devil Allies",
+      "name": "デビル・アライズ/Devil Allies",
       "description": "<p>あなたはデヴィルを呼び出して、あなたの努力を助けさせることができる。あなたは選択した系統の固有の呪文を@UUID[Compendium.pf2e.spells-srd.Item.29ytKctjg7qSW2ff]{サモン・フィーンド}として得て、これを1日1回使用できる。この呪文を使うと、デヴィル特性を持つクリーチャーだけを召喚できる。16レベルおよびその後の2レベルごとに、呪文は1ランク高位化される(20レベルに達した時、最大で8ランク)。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -45349,7 +45349,7 @@
       ]
     },
     "Reactive Shield": {
-      "name": "リアクティヴ・シールド/Reactive Shield",
+      "name": "リアクティブ・シールド/Reactive Shield",
       "description": "<p><strong>トリガー</strong>敵があなたを近接 〔ストライク〕で攻撃する。</p>\n<p><strong>必要条件</strong>あなたは盾を掲げている。</p><hr /><p>あなたは攻撃を受ける寸前に盾をすばやく構えて、攻撃を避ける。あなたはすぐに@UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]{Raise a シールド}のアクションを使用し、あなたの盾のボーナスをACに加える。盾からの状況ボーナスは、トリガー攻撃の結果を決定する際にあなたのACに適用される。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -45776,7 +45776,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Strix Vengeance": {
-      "name": "ストリクス・ヴェンジャンス/Strix Vengeance",
+      "name": "ストリクス・ベンジャンス/Strix Vengeance",
       "description": "<p><strong>使用制限</strong>1度につき10分</p>\n<p><strong>トリガー</strong>あなた、またはあなたが見えるストリックスの仲間は、敵のクリティカルヒットによってダメージを受ける。</p><hr /><p>あなたはあなた自身をあなたの親族を傷つける者を滅ぼすことに捧げる。あなたは次のターンの終了まで、トリガーした敵に対するストライクで追加の+1d6ダメージを与える。このボーナスは、ストライキング武器または素手攻撃を使用した場合は+2d6ダメージに、ストライキング(メジャー)武器または素手攻撃を使用した場合は+3d6ダメージに増加する。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -46211,7 +46211,7 @@
       ]
     },
     "Voice Cold as Death": {
-      "name": "ヴォイス・コールド・アズ・デス/Voice Cold as Death",
+      "name": "ボイス・コールド・アズ・デス/Voice Cold as Death",
       "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}ではない。</p>\n<hr />\n<p>『クリムゾン誓い』のエネルギーを声に注入し、あなたは血を凍らせるほど冷たいトーンで脅威を発する。 インティミデーション判定を試みて@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize}; あなたが話している言語を対象が理解していない場合、ペナルティを受けず、これ以外は通常通り機能する。あなたは『恐喝じろめ』や、この特技の使用の一部としてあなたの 〔怯ませる〕 試みが聴覚特性を失う原因となる他の効果を使用することはできない。あなたがインティミデーション判定においてクリティカル成功を収めた場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}になり、または対象がアンデッドであれば@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 2}になる。この特技を使用した後、あなたはあなたの次のターン終了時まで疲労状態となり、あなたの次のターン終了時までこの特技を再度使用することはできない。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
@@ -46448,7 +46448,7 @@
       ]
     },
     "Wing Shove": {
-      "name": "ウィング・シャヴ/Wing Shove",
+      "name": "ウィング・シャブ/Wing Shove",
       "description": "<p><strong>必要条件</strong>あなたは少なくとも二人の敵に挟まれている。</p>\n<hr />\n<p>あなたは翼を広げ、敵を押し出す。挟んでいる敵の一体に対して@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}を試み、別の挟んでいる敵に対して二回目の〔押し出す〕の試みを行う。片手は空いている必要はない。二回目の〔押し出す〕の試みは最初と同じマルチアタック・ペナルティを持ち、あなたのマルチアタック・ペナルティには含まれない。成功またはクリティカル成功した場合、あなたはターゲットの後を追って〔ストライド〕することはできないが、そのターゲットは次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}とする。クリティカル失敗した場合、あなたは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}に転倒するのではなく、あなたの次のターン開始時までオフガード状態になる。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
@@ -46659,7 +46659,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Solid Lead": {
-      "name": "ソリッド・レッド/Solid Lead",
+      "name": "ソリッド・リード/Solid Lead",
       "description": "<p>時々、あなたの事件は小さな謎に分かれてしまうが、大きな絵を見失うことはない。1日に1回、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.xTK2zsWFyxSJvYbX]{Pursue a Lead}を再度使用することによってリードの主題を放棄する際、追跡をやめたリードをその日の確かなリードとして指定できる。確かなリードの追跡をやめたとしても、集中行動の特性を持つ単一のアクションを使用することにより、いつでも確かなリードに戻ることができる。その場合、通常通り現在のリードの1つが終了する。</p>\n<p>次の日課の準備において、あなたは確かなリードを維持するか、それを外すことができる；外すことで、その日の後に新しい確かなリードを指定できる。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -47056,7 +47056,7 @@
       ]
     },
     "Reactive Interference": {
-      "name": "リアクティヴ・インターフィアランス/Reactive Interference",
+      "name": "リアクティブ・インターフィアランス/Reactive Interference",
       "description": "<p><strong>トリガー</strong>隣接している敵がリアクションを使い始める。</p><hr /><p><strong>コマンダー</strong>あなたの戦術的専門知識により、敵の反応を迅速に特定し防ぐことができる。もしトリガーとなったクリーチャーのレベルがあなたのレベル以下であれば、トリガーしたリアクションを妨害する。もしトリガーとなったクリーチャーのレベルがあなたのレベルより高ければ、そのクリーチャーの ACに対して攻撃ロールを行う。成功した場合、あなたはリアクションを妨害する。</p>\n<p><strong>ローグ</strong>袖をつかみ、武器で払うか、他の妨害を作り出すことで、あなたは反射的に敵の反応を防ぐ。もしトリガーとなったクリーチャーのレベルがあなたのレベル以下であれば、トリガーしたリアクションを妨害する。もしトリガーとなったクリーチャーのレベルがあなたのレベルより高ければ、そのクリーチャーの ACに対して攻撃ロールを行わなければならない。成功した場合、あなたはリアクションを妨害する。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -47360,7 +47360,7 @@
       ]
     },
     "Shielded Recovery": {
-      "name": "シールデッド・リカヴァリー/Shielded Recovery",
+      "name": "シールデッド・リカバリー/Shielded Recovery",
       "description": "<p>あなたは盾を持つのと同じ手で傷を包帯することができる。あなたは装備するために使っている手で@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}するか、@UUID[Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt]{Battle Medicine}を使うことができ、もしその手に持っているものが盾だけであれば、他のメディスンの使用のためにその手が空いているとみなされる。あなたが盾を持ちながら仲間にバトルメディスンを使用すると、彼らは ACと反応のセーヴに＋1の状況ボーナスを得る。それはあなたの次のターン開始時までまたは彼らがあなたの近くにいなくなるまでのいずれか早い方の間続く。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.KOVUFiN6nkttuiRb]{効果: Shielded Recovery}</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
@@ -47588,7 +47588,7 @@
       ]
     },
     "Vision of Foresight": {
-      "name": "ヴィジョン・オブ・フォーサイト/Vision of Foresight",
+      "name": "ビジョン・オブ・フォーサイト/Vision of Foresight",
       "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.5LW1k5DUkzbbYuYL]{Daydream Trance}</p><hr /><p>でいる。あなたは夢想を使って行動の成功を予測し、可能性を素早く思い描く。次のターンの終わり前の一度、あなたはセーヴィング・スロウまたはスキル判定を振る前にこれらの予測を呼び出すことができる。あなたはセーヴィング・スロウまたはスキル判定を二回振って、より良い結果を取ることができる。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
@@ -47618,7 +47618,7 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Never!": {
-      "name": "ネヴァー！/Never!",
+      "name": "ネバー！/Never!",
       "description": "<p>たとえ理性を失ったとしても、仲間を傷つけるなど考えられないことだ。@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態や操られていることが原因で味方を攻撃しようとするたびに、あなたはその混乱や支配の原因となった効果に対して、セーヴに+4の状況ボーナスを得て、もう一度セーヴィング・スロウを行うことができる。成功すれば、その攻撃は行わない(ただし、その攻撃に必要だったアクションは消費する)。もしそのセーヴによって混乱や支配の効果が終了したなら、あなたは自分のターンの残りのアクションを通常通りに行うことができる。この追加のセーヴに失敗または大失敗しても、その効果の持続時間は増加せず、悪化することもない。</p>",
       "source": "Pathfinder Battlecry!"
     },
@@ -47769,7 +47769,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Steal Vitality": {
-      "name": "スティール・ヴァイタリティ/Steal Vitality",
+      "name": "スティール・バイタリティ/Steal Vitality",
       "description": "<p>あなたが@UUID[Compendium.pf2e.spells-srd.Item.N1Z1oLPdBxaSgrEE]{ヴァンピリック・フィースト}を行使する時、標準的な効果を以下のように修正できる：対象がセーヴィング・スロウを失敗またはクリティカル失敗した場合、一時的なヒット・ポイントを得る代わりに、あなたは打ち消し判定を試みて@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}または@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}の状態をあなた自身から取り除くことができ、その状態の源を使用して打ち消しのランクとDCを決定する。もしその状態が継続的な効果によって引き起こされたものであり、その効果を取り除かない場合、その状態はあなたの次のターンの終わりに戻る。</p>",
       "source": "Pathfinder Lost Omens The Grand Bazaar",
       "prerequisites": [
@@ -48361,7 +48361,7 @@
       ]
     },
     "Invisible Trickster": {
-      "name": "インヴィジブル・トリックスター/Invisible Trickster",
+      "name": "インビジブル・トリックスター/Invisible Trickster",
       "description": "<p>あなたは透明になる方法を学び、それを維持することができる。あなたは1時間に1回、4ランクの@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{インヴィジビリティ}をプリマル固有の呪文として唱える。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -48399,7 +48399,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Elven Persistence": {
-      "name": "エルヴン・パーシステンス/Elven Persistence",
+      "name": "エルブン・パーシステンス/Elven Persistence",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたは少なくとも訓練済みであるスキル判定に失敗する。</p><hr /><p>エルフはその追求を容易には諦めない。トリガーとなるスキル判定の結果の代わりに、あなたは12 + あなたの習熟ボーナスの結果を得る(他のボーナス、ペナルティ、修正値は適用しない)。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms"
     },
@@ -48459,7 +48459,7 @@
       ]
     },
     "Dive of the Divine": {
-      "name": "ダイヴ・オブ・ザ・ディバイン/Dive of the Divine",
+      "name": "ダイブ・オブ・ザ・ディバイン/Dive of the Divine",
       "description": "<p><strong>必要条件</strong>あなたは地面から少なくとも20フィート高い地点にいる。</p><hr /><p>あなたは空から急降下し、神の力をもたらす。あなたは〔飛行〕し、真下にある最も近い空いているスペースに安全に着地する。着地すると、その範囲内の全てのクリーチャーは@Template[type:emanation|distance:10]に@Damage[(ternary(gte(@actor.level,20),10,8))d10[spirit]|options:area-damage]ダメージを受ける(@Check[type:fortitude|basic|against:class-spell|options:area-effect]あなたのクラス DCまたは呪文 DCのうち高い方に対するセーヴ)。失敗した場合、対象は5フィートされる(クリティカル失敗の場合は10フィート)。</p>\n<p>20レベルで、精神ダメージは10d10に増加する。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
@@ -48517,7 +48517,7 @@
       ]
     },
     "Elven Aloofness": {
-      "name": "エルヴン・アロフネス/Elven Aloofness",
+      "name": "エルブン・アロフネス/Elven Aloofness",
       "description": "<p>あなたが彼らをどれほど大切に思っていようとも、あなたは非エルフの儚い性質を受け入れており、そのため彼らの脅しはそれほど厄介に感じられない。</p>\n<p>非エルフが《威圧》を用いてあなたを@UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{〈強要する〉}ための判定で失敗をロールした場合、代わりに大失敗となる(したがって、1週間の間は再びあなたを〈強要する〉ことはできない)。</p>\n<p>非エルフがあなたを@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}ことを試みた時、あなたは10分ではなく1日の間、一時的な免疫となる。</p>",
       "source": "Pathfinder Advanced Player's Guide"
     },
@@ -48567,7 +48567,7 @@
       ]
     },
     "Explosive Arrival": {
-      "name": "エクスプローシヴ・アライバル/Explosive Arrival",
+      "name": "エクスプローシブ・アライバル/Explosive Arrival",
       "description": "<p>あなたの召喚したクリーチャーは、神秘的なルーンの爆発の中に現れる。次のアクションが召喚トレイトのある〔呪文の発動〕である場合、あなたが召喚したクリーチャーの周囲@Template[emanation|distance:10]にいる全てのクリーチャーは、呪文のランクごとに1d4の火炎ダメージを受ける。召喚されたクリーチャーが酸、冷気、電気、音、または精霊の特性を持っている場合、そのタイプのダメージを代わりに与えることができる。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -48753,7 +48753,7 @@
       ]
     },
     "Acute Vision": {
-      "name": "アキュート・ヴィジョン/Acute Vision",
+      "name": "アキュート・ビジョン/Acute Vision",
       "description": "<p>あなたが怒っているとき、あなたの視覚的感覚が向上し、暗視を授かる。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -49746,7 +49746,7 @@
       ]
     },
     "Lead Investigator": {
-      "name": "レッド・インヴェスティゲイター/Lead Investigator",
+      "name": "リード・インヴェスティゲイター/Lead Investigator",
       "description": "<p>あなたは1分最大4人の味方にあなたの進行中の調査の一つについてブリーフィングを行う。対象は、調査の核心となる質問を調査するためのチェックにおいて、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.xTK2zsWFyxSJvYbX]{Pursue a Lead}から得るのと同じ状況ボーナスを得る。このボーナスは、あなたがリードを追い続けるのをやめるまで、または1日のいずれか早い方まで持続する。これは、恩恵を追求する他の効果、例えば@UUID[Compendium.pf2e.feats-srd.Item.5cYFHKQK6OZCwavI]{Detective's Readiness}へのセーヴに状況ボーナスを追加することを与えない。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -49948,7 +49948,7 @@
       ]
     },
     "Cooperative Soul": {
-      "name": "コオペラティヴ・ソウル/Cooperative Soul",
+      "name": "コオペラティブ・ソウル/Cooperative Soul",
       "description": "<p>あなたは仲間との魂深い絆を育み、彼らとの協力をさらに高める。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{Aiding}しているスキルにおいて少なくとも専門家である場合、〔援護〕のスキル判定に失敗またはクリティカル失敗をロールした時、あなたは代わりに成功を得る。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -50018,7 +50018,7 @@
       "source": "Pathfinder Player Core"
     },
     "Shove Down": {
-      "name": "シャヴ・ダウン/Shove Down",
+      "name": "シャブ・ダウン/Shove Down",
       "description": "<p> <strong>必要条件</strong>あなたの最後の行動は成功した@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}だった。</p>\n<hr />\n<p>あなたは、自身の体重を利用して移動する敵を倒そうとする。あなたはターゲットを[[/act trip]]しようと試みるが、ターゲットがあなたの射程圏外であっても構わない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -50111,7 +50111,7 @@
       ]
     },
     "Adaptive Vision": {
-      "name": "アダプティヴ・ヴィジョン/Adaptive Vision",
+      "name": "アダプティブ・ビジョン/Adaptive Vision",
       "description": "<p><strong>アクセス</strong>あなたはドンガンホールドまたはアルケンスタル出身である。</p><hr /><p>暗い場所で火薬武器を使用した数年の後、あなたはまぶしい閃光や突然の光の変化に慣れた。あなたは視覚効果に対するセーヴィングスローに+1の状況ボーナスを得る。視覚効果に対するセーヴィング・スロウで成功を収めた場合、代わりにクリティカル成功を得る。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -50675,7 +50675,7 @@
       ]
     },
     "Elven Lore": {
-      "name": "エルヴン・ロア/Elven Lore",
+      "name": "エルブン・ロア/Elven Lore",
       "description": "<p>あなたは従来のエルフの技術を学び、秘術魔法や周囲の世界について学んだ。あなたは訓練済みの熟練度ランクをアルカナとネイチャーに得る。もしあなたがこれらのスキルのうちの1つ(背景やクラスから自動的に得た場合など)で訓練済みになるなら、代わりにあなたは選んだスキルで訓練済みになる。</p>\n<p>あなたは@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{追加ロア}汎用特技をエルフロアのために得る。</p>",
       "source": "Pathfinder Player Core"
     },

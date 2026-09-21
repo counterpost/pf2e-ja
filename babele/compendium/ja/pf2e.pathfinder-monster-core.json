@@ -5824,7 +5824,7 @@
           "description": "<p>ゴード・レシーが拳または種による〈ストライク〉でクリーチャーにダメージを与えたとき、そのレシー(または種)からつるが飛び出し、対象の手足に巻き付く。</p>\n<p>対象は@Check[reflex|dc:17]セーヴを行わなければならない。失敗すると、対象は1ラウンドの間、その移動速度に－10フィートの状況ペナルティを受ける。大失敗すると、対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}となり、移動速度へのペナルティは1分続く。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.fPhbDSTPuT01f0Kn]{効果: Ensnare}</p>"
         }
       },
-      "name": "ゴード・レーシー/Gourd Leshy",
+      "name": "ヒョウタン・レシー/Gourd Leshy",
       "publicNotes": "<p>Gourd leshies are guardians of fields, gardens, and farms. Many villages benefit from the protection of a gourd leshy, even if they are unaware of it.</p>\n<hr />\n<p>Leshies are intelligent plant creatures who guard areas of primeval wilderness or earthly power. Originally created by powerful fey, they manifest when a skilled practitioner of primal magic—typically a druid—combines a nature spirit with a body carefully grown and crafted from local vegetation. The rites and materials required to create a leshy vary depending on the type of leshy. They are typically given life in an area of great natural significance, such as an arboreal's grove, a druidic circle, a fairy ring, or a great natural wonder.</p>"
     },
     "Giant Frilled Lizard": {
@@ -10175,7 +10175,7 @@
           "description": "<p><strong>使用制限</strong> 1日3回；</p>\n<hr />\n<p><strong>効果</strong>川のドレイクは移動(Stride)または飛行(フライ)を2回行う。</p>"
         }
       },
-      "name": "リヴァー・ドレイク/River Drake",
+      "name": "リバー・ドレイク/River Drake",
       "publicNotes": "<p>Although the glistening scales and sleek, fin-like wings on these drakes give them an appearance reminiscent of river fish, they are actually distant relatives of the dragons that rule the oceans. While smaller than most drakes, river drakes are more than capable of plaguing river travelers and are equally at home above and below the water's surface. This flexibility allows them to catch a wide variety of prey, from fish and boggards to deer and the occasional ferry passenger.</p>\n<hr />\n<p>Ravenous, bestial, and driven by instinct, drakes are draconic monsters who bear a fraction of the terrifying might of the primal dragons they share evolutionary roots with. While they're weaker, slower, and less inclined toward reason than dragons, drakes are nonetheless a menace to creatures and settlements around them. Their propensity for forming raiding parties—small social groups fittingly called \"rampages\"—makes them all the more dangerous; a single rampage of river drakes can quickly lay waste to a waterside village, and roving rampages of desert drakes are a plague to caravan traders.</p>\n<p>Drakes share a number of physical characteristics that unite them as one species despite their wide variety of habitats and abilities. For example, drakes lack forearms, leaving them with their formidable jaws and thickscaled tails to use in close combat. Most drakes would rather avoid this, however, preferring to use their magical breath to wreak havoc in wide swaths from comfortable distances while flying overhead. Finally, all drakes have small reservoirs of their ancestral draconic power that they can tap into to perform incredible feats of speed.</p>\n<p>Different species of drakes rarely come into conflict. Part of this is their distinct habitats, but drakes are open to negotiating simple agreements between rampages. This courtesy does not extend to dragonets, which drakes happily take as prey. Solitary tamed drakes are also excluded from such agreements and considered free game if their tamer isn't strong enough to protect them.</p>\n<h3>Drake Eggs</h3>\n<p>While drake hides aren't any more valuable than those of similarly sized creatures, drake eggs are prized commodities. They are used as components in powerful spells as well as eaten by various cultures, but the most common use for drake eggs is hatching and rearing drakes to serve as mounts and guardians.</p>\n<p>A typical drake lays a clutch of 2d4 eggs every 5 years. Eggs hatch within 3 to 6 weeks, during which time they must be kept in conditions appropriate to their natural environment, perhaps the most difficult aspect of drake husbandry. While it is generally easy for breeders to incubate the eggs of desert or jungle drakes (which require mildly warm temperatures to hatch) or river drakes (which must be submerged in running water), the eggs of flame and frost drakes require extreme temperatures in order to hatch, which can be difficult to replicate safely.</p>\n<p>A drake egg is an object with Hardness 3, 5 HP, and no Broken Threshold. The coloration of drake eggs varies only slightly from one species to the next. A creature must succeed at a @Check[nature|dc:20] check, or a relevant DC 20 Lore check, to identify the drake species of a specific egg.</p>\n<p>Once a drake hatches, they imprint on the first creature that they see. A creature imprinted on in this way can use Nature to Train and Command that drake. The market price of a drake egg varies depending on the type of drake and the exact legal situation. Because drakes are dangerous and intelligent creatures, many societies do not condone the trade of drake eggs and criminalize those who engage in it.</p>\n<p>It takes 2 years for a drake hatchling to grow to full size. A well-trained drake can make a fearsome mount or guardian, but many careless would-be drake trainers are devoured by their charges.</p>"
     },
     "Ice Linnorm": {
@@ -11740,7 +11740,7 @@
           "description": "<p>ハイヴ・マザーは@Template[cone|distance:60]に酸を噴き出し、@Damage[8d6[acid],1d6[persistent,acid]|options:area-damage]{8d6の酸ダメージと1d6の持続酸ダメージ}を与える(@Check[reflex|dc:26|basic|options:area-effect]セーヴ)。</p>\n<p>ハイヴ・マザーは[[/gmr 1d4 #Recharge Spray Acid]]{1d4ラウンド}の間、再び酸を噴き出すことはできない。</p>"
         }
       },
-      "name": "アンクラヴ・ハイヴ・マザー/Ankhrav Hive Mother",
+      "name": "アンクラブ・ハイブ・マザー/Ankhrav Hive Mother",
       "publicNotes": "<p>Ankhrav hive mothers are fearsome predators that one can easily distinguish from the typical ankhrav not only by their greater size, but the presence of a large pair of razor-sharp, mantis-like arms.</p>\n<hr />\n<p>Ankhravs are immense, burrowing, and insectile predators, considered by inhabitants of the rural areas of the world to be an all-too-common plague.</p>"
     },
     "String Slime": {
@@ -13631,7 +13631,7 @@
           "description": "<p><strong>使用制限</strong> 1時間に1回</p>\n<hr />\n<p><strong>効果</strong>アンクラーヴは@Template[cone|distance:30]に酸を吐き出し、@Damage[3d6[acid],1d6[persistent,acid]|options:area-damage]{3d6の酸ダメージと1d6の持続酸ダメージ}を与える(@Check[reflex|dc:20|basic|options:area-effect]セーヴ)。</p>"
         }
       },
-      "name": "アンクラヴ/Ankhrav",
+      "name": "アンクラブ/Ankhrav",
       "publicNotes": "<p>These horse-sized, burrowing monsters generally avoid heavily settled areas like cities, but ankhravs' predilection for livestock and humanoid flesh ensures that the creatures do not remain in the deep wilderness for long. Desperate farmers whose fields become infested by ankhravs often have little recourse but to seek the aid of adventurers.</p>\n<hr />\n<p>Ankhravs are immense, burrowing, and insectile predators, considered by inhabitants of the rural areas of the world to be an all-too-common plague.</p>"
     },
     "Leaf Leshy": {
@@ -13665,7 +13665,7 @@
           "description": "<p>レシーは空を優雅に滑空し、地面に向かって5フィート、前方へ最大25フィート移動する。レシーが各ラウンドに少なくとも1アクションを滑空に費やす限り、彼らは各ターンの終了時に空中に留まる。落下によるダメージを決定する際、リーフ・レシーは常に落下距離が20フィート短いものとして扱う。</p>"
         }
       },
-      "name": "リーフ・レーシー/Leaf Leshy",
+      "name": "リーフ・レシー/Leaf Leshy",
       "publicNotes": "<p>Leaf leshies are diminutive protectors of forests clad in armor and hats made of fruit, flowers, or leaves. They enjoy mock battles but act cautiously in real ones.</p>\n<hr />\n<p>Leshies are intelligent plant creatures who guard areas of primeval wilderness or earthly power. Originally created by powerful fey, they manifest when a skilled practitioner of primal magic—typically a druid—combines a nature spirit with a body carefully grown and crafted from local vegetation. The rites and materials required to create a leshy vary depending on the type of leshy. They are typically given life in an area of great natural significance, such as an arboreal's grove, a druidic circle, a fairy ring, or a great natural wonder.</p>"
     },
     "Soulbound Doll (Sassy)": {

@@ -1373,7 +1373,7 @@
       "description": "<p>あなたの信じられないほどの訓練は、あなたに精神的な回復力を与える。あなたの意志セーヴの習熟ランクは伝説的になる。あなたが意志セーヴで成功をロールしたとき、あなたは大成功を得る。あなたが意志セーヴで大失敗をロールしたとき、代わりに失敗を得る。あなたがダメージを与える効果に対する意志セーヴで失敗をロールしたとき、あなたはそのダメージを半減する。</p>"
     },
     "Reactive Strike": {
-      "name": "リアクティヴ・ストライク/Reactive Strike",
+      "name": "リアクティブ・ストライク/Reactive Strike",
       "description": "<p>常に弱点を見逃さないあなたは、防御に隙を見せた敵を素早く攻撃できる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{Reactive 〈ストライク〉}リアクションを得る。</p>"
     },
     "Thief of Moonlight": {

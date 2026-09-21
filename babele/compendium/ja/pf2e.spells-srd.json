@@ -29,7 +29,7 @@
       "time": "2"
     },
     "Invoke True Name": {
-      "name": "インヴォーク・トゥルー・ネイム/Invoke True Name",
+      "name": "インボーク・トゥルー・ネイム/Invoke True Name",
       "description": "<p>あなたは生き物の実名を唱えてあなたの魔法でより確実に影響を与える。現在のターン終了時まで、対象は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}あなたの呪文に対して、あなたの呪文に対するセーヴに-2の状況ペナルティを受ける。さらに、このターンに対象が最初にダメージを受けるあなたの呪文のうちの1つからのダメージを受けると、対象はそのダメージに対して弱点を持ち、その値は<em>invoke true name</em>のランクの2倍に等しい。</p>",
       "target": "その真の名をあなたが知っている1体のクリーチャー",
       "range": "30フィート",
@@ -326,7 +326,7 @@
       "time": "2"
     },
     "Animal Vision": {
-      "name": "アニマル・ヴィジョン/Animal Vision",
+      "name": "アニマル・ビジョン/Animal Vision",
       "description": "<p>あなたは対象の感覚に接続し、呪文の持続時間中に対象が感知するものをあなたが感知できるようにする。対象はそれを防ぎたい場合、意志セーヴを試みることができ、成功すれば呪文を無効にするが、多くの動物はそうする手間をかけない。あなたは対象の感覚に接続している間、自分の身体の感覚を使えないが、あなたの身体の感覚と対象の感覚を〔維持〕アクションで切り替えることができる。</p>",
       "target": "1体の動物",
       "range": "120フィート",
@@ -412,7 +412,7 @@
       "time": "1"
     },
     "Dive and Breach": {
-      "name": "ダイヴ・アンド・ブリーチ/Dive and Breach",
+      "name": "ダイブ・アンド・ブリーチ/Dive and Breach",
       "description": "<p>あなたは水の界を短く潜る。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap} 10フィート、地面に着地するはずの場所では代わりに水しぶきに消え、飛び込みのように水面に体が入る。その後あなたは40フィート以内の空いている水面から出現し、〔跳躍〕して別の水しぶきとして現れ、出現地点から10フィート離れた場所に着地する。各水しぶきは@Template[emanation|distance:5]内のすべてのクリーチャーに3d10の殴打ダメージダメージを与える；複数の水しぶきゾーンにいるクリーチャーはダメージを一度しか受けない。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>各水しぶきの与えるダメージが1d10増加する。</p>",
       "time": "2"
     },
@@ -549,7 +549,7 @@
       "time": "2"
     },
     "Infuse Vitality": {
-      "name": "インフューズ・ヴァイタリティ/Infuse Vitality",
+      "name": "インフューズ・バイタリティ/Infuse Vitality",
       "description": "<p>あなたは生命エネルギーで攻撃を強化する。対象の数は、この呪文を発動するために費やしたアクションの数に等しい。各対象の素手および武器によるストライクは、追加で1d4の生命ダメージを与える。(このダメージは通常、アンデッドのみにダメージを与える)。もしあなたが〈ホーリー〉特性を持っているなら、この呪文と、この呪文の影響を受けるストライクにその特性を追加できる。</p>\n<hr />\n<p><strong>高位化(3レベル)</strong> ダメージは2d4ダメージに増加する。</p>\n<p><strong>高位化(5レベル)</strong> ダメージは3d4ダメージに増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.X7RD0JRxhJV9u2LC]{呪文 効果: インフューズ・ヴァイタリティ}</p>",
       "target": "1〜3の協力的なクリーチャー",
       "range": "30フィート",
@@ -658,7 +658,7 @@
       "time": "2"
     },
     "Grasping Grave": {
-      "name": "グラスピング・グレイヴ/Grasping Grave",
+      "name": "グラスピング・グレイブ/Grasping Grave",
       "description": "<p>数百本の骨の腕が範囲内の地面から噴き出し、範囲内のクリーチャーに爪を立てて拘束しようとする。骨の腕は6d6の斬撃ダメージを与える。範囲内の各クリーチャーは反応セーヴを行わなければならない。</p>\n<hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受ける、および移動速度に対して－10フィートの状況ペナルティを1ラウンドの間受ける。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは2倍のダメージを受ける、そして@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}であり、1ラウンドの間またはそれがEscapeを行うまで続く。</p>\n<hr /><p><strong>高位化 (+1)</strong>ダメージは2d6増加する。</p>",
       "range": "60フィート",
       "time": "2"
@@ -810,7 +810,7 @@
       "time": "2"
     },
     "Behold the Weave": {
-      "name": "ビホールド・ジ・ウィーブ/Behold the Weave",
+      "name": "ビホールド・ザ・ウィーブ/Behold the Weave",
       "description": "<p>あなたは生物を取り巻く多くの時間線を見渡し、それによってある一つの時間線がより起こりやすくなるように仕向ける。対象は意志セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>あなたは対象の時間線を全く判断できず、対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は次の自分のターンのいずれかの時点で取る単一のアクションを宣言して確定させなければならない：「〔ストライド〕してValerosに向かう」「盾を唱える」「顎でAmiriを〔ストライク〕する」など。そのアクションはロックされ、状況が変わっていても対象はそれを試みなければならない—もし対象が顎でAmiriを〔ストライク〕すると宣言していたなら、そうしようとしなければならない。もし対象が宣言したアクションを全く遂行できない場合――例えば残りが1アクションしかなく、Amiriが顎の〔ストライク〕の射程外だった場合――対象は時間的パラドックスによりターンの最後のアクションを失う。対象は望むなら2アクションまたは3アクションの活動をロックインすることを選べるが、その場合その活動をそのターンに遂行できなければ関連する全てのアクションを失う。状況が奇妙に変化した場合(例えば対象が強制的にテレポートされ、「Valerosに向かう」がどの方向か全くわからなくなったような場合)、GMが結果を決定する。</p>\n<p><strong>失敗</strong>成功として扱うが、対象は次のターンに少なくとも2つのアクションを確定させなければならない—「私はまず〔ストライド〕してValerosに向かい、その後爪で〔ストライク〕する」といった具合である。これらの全てのアクションは同様にロックされ変更できないが、対象は任意の順序で実行できる。</p>\n<p><strong>クリティカル失敗</strong>失敗として扱うが、対象は次のターンに自分の全てのアクションを確定させなければならない。</p><hr /><p><strong>高位化 (7レベル)</strong>単一の対象に影響を与える代わりに、呪文は半径30-フィートの放射で範囲内の全ての敵に影響を与える。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
@@ -911,7 +911,7 @@
       "time": "2"
     },
     "Purifying Veil": {
-      "name": "ピュリファイング・ヴェール/Purifying Veil",
+      "name": "ピュリファイング・ベール/Purifying Veil",
       "description": "<p>あなたは水の浄化の力を引き出し、聖なる力を帯びた細かな水滴のヴェールを呼び出す。ヴェールは対象を取り囲む。ヴェールの各側にいるものは反対側にいる生物から@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}だが、水はヴェール越しの攻撃や移動を妨げない。対象がヴェールを通過すると、基本的な意志セーヴを伴って4d6のスピリットダメージを受ける。対象がヴェールを離れると呪文は終了する。</p><hr /><p><strong>高位化 (+1)</strong>ダメージは1d6増加する。</p>",
       "target": "大型かそれより小さいクリーチャー1体",
       "range": "60フィート",
@@ -964,7 +964,7 @@
       "secondarycheck": "アルカナまたはオカルティズム (主要な判定に使われていない方), サバイバル"
     },
     "Wisdom of the Winds": {
-      "name": "ウィズダム・オブ・ジ・ウィンズ/Wisdom of the Winds",
+      "name": "ウィズダム・オブ・ザ・ウィンズ/Wisdom of the Winds",
       "description": "<p>あなたは風の精霊に問いかけ、道を見つける助けとなる信号を風に乗せて送ってくれるよう懇願する。あなたは風の精霊、アネモイ、あるいは風の君主たち自身によって導かれるかもしれない。あなたは知恵の言葉、あるいは有益な目的地へと導く風のざわめきとして導きを受け取る。精霊たちが最も有益だと考える方である。精霊たちは、到達できない場所へ導く風のような、あなたが従うことのできない導きは与えないし、あなた自身の目的を犠牲にして彼らの目的を助けるような助言もしない。もしあなたがすべての風の精霊を怒らせていた場合、彼らはあなたを誤った方向へ導くことはしないが、導くことを拒否する。</p>\n<ul>\n<li><strong>導きの疾風</strong> (探知)目立つ風が、精霊たちがあなたにとって見つける価値があると考えた目的地に向かって絶えず流れる。特定の目的地を尋ねることはできないが、精霊たちはあなたの現在の状況と緊急の優先事項を理解している。彼らは、あなたがすでに知っている場所や現在見えている場所へは導かない。ただし、あなたが選択肢から除外していた有益な目的地につながる可能性がある場合は別である。この呪文の持続時間は8時間、または目的地に到達するまでのいずれか短い方である。到着すると、風は遊び心たっぷりに渦を巻き、あなたが正しい場所にいることを明確にするために消散する。</li>\n<li><strong>空の囁き</strong> (聴覚、言語、予言)風に乗った声が、あなたにははっきりと聞こえ、あなたにとって正のエネルギーな可能性を秘めた行動方針について助言を与える。この助言は通常2～3文以内で、あなたが理解できるならサッスランで、理解できないならコモンで話される。もしあなたが耳が聞こえない場合、精霊たちは小さな物体を吹き飛ばして書き言葉や手話を模倣する。助言に従うことが大きな危険を伴う場合、精霊たちは通常そのリスクを指摘するが、詳細に立ち入ることはめったにない。助言は即座に行われるため、この呪文に持続時間はない。</li>\n</ul>",
       "duration": "様々",
       "time": "1分"
@@ -1039,7 +1039,7 @@
       "time": "2"
     },
     "Rune of Observation": {
-      "name": "ルーン・オブ・オブザヴェイション/Rune of Observation",
+      "name": "ルーン・オブ・オブザベイション/Rune of Observation",
       "description": "<p>あなたは目型の不可視のルーンを空中に刻み、@UUID[Compendium.pf2e.spells-srd.Item.zvKWclOZ7A53DObE]{クレアヴォイアンス}としてセンサーを作り出す。作成時、その目はあなたの視界内にいなければならない。</p>\n<p>呪文の持続時間が終了するたびに、あなたは1点のフォーカスポイントをフリー・アクションとして費やして持続時間をさらに1時間延長できる。ただし通常どおり、次のあなたの日課の準備の間に即座に終了する。</p>",
       "range": "500フィート",
       "duration": "1時間",
@@ -1173,7 +1173,7 @@
       "time": "2"
     },
     "Never Mind": {
-      "name": "ネヴァー・マインド/Never Mind",
+      "name": "ネバー・マインド/Never Mind",
       "description": "<p>あなたは対象の精神能力を著しく低下させる。対象は意志セーヴを行わなければならない。 この呪いの効果は、呪いを対象とする効果によってのみ除去できる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}で1ラウンド。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 4}で、持続時間は無制限である。</p>\n<p><strong>クリティカル失敗</strong>対象の知性は恒久的に動物以下に減少し、対象はその魅力、Intelligence、およびWisdomの修正値を–5として扱う。対象は精神能力を必要とするすべてのクラス能力を失い、すべての呪文詠唱を含む。対象がPCである場合、対象はGMの管理するNPCになる。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
@@ -1237,7 +1237,7 @@
       "time": "2"
     },
     "Steal Voice": {
-      "name": "スティール・ヴォイス/Steal Voice",
+      "name": "スティール・ボイス/Steal Voice",
       "description": "<p>あなたはクリーチャーの声を盗み、彼らを無言にする。効果は対象の頑健セーヴで決まる。対象はその後1分の間、一時的な免疫となる。声を持たない、あるいは話すことができないクリーチャーは、この呪文に対して免疫である。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は次のターンの終了時まで声を持たない状態となる。声を持たないクリーチャーは話すこと、発声すること、あるいは聴覚アクションを行うこと(言語構成要素や命令構成要素を提供することを含む)ができない。対象が声を持たない状態である限り、あなたが話すときはいつでも、あなたの声があなた自身の声か、対象の声のように聞こえるかを選択できる。</p>\n<p><strong>失敗</strong>成功時と同様だが、持続時間は1分である。</p>\n<p><strong>クリティカル失敗</strong>成功時と同様だが、持続時間は永続的である。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
@@ -1621,7 +1621,7 @@
       "time": "2"
     },
     "Destructive Aura": {
-      "name": "デストラクティヴ・オーラ/Destructive Aura",
+      "name": "デストラクティブ・オーラ/Destructive Aura",
       "description": "<p>あなたは神々の壊滅の渦巻く砂に取り囲まれ、それらが接触するすべての者の防御を弱める。あなたは自身と範囲内のクリーチャーの耐性を2減少させる。</p>\n<hr />\n<p><strong>高位化 (+2)</strong>耐性をさらに2減少させる。</p>",
       "duration": "1分",
       "time": "2"
@@ -1747,7 +1747,7 @@
       "time": "2"
     },
     "Invoke the Harrow": {
-      "name": "インヴォーク・ザ・ハロウ/Invoke the Harrow",
+      "name": "インボーク・ザ・ハロウ/Invoke the Harrow",
       "description": "<p>あなたはharrowからカードを引く。手にあるデッキから1枚引くか、呪文の一部として魔術的に1枚生成することができる。あなたはカードのスートの力を用いて周囲のクリーチャーに影響を与える。カードを引くとき、カードのスートに関連する恩恵または不利を与えることを選べる。対象は意志セーヴを行わなければならない。失敗した場合、対象は選ばれた恩恵または不利の効果を受ける。あなたがこの呪文で味方を対象にした場合、対象はセーヴィング・スロウを試みずに自発的に効果を受け入れることを選べる。対象は集中の特性を持つアクションを使用して再びセーヴィング・スロウを試みることでカードの影響を取り除こうとすることができる。成功すれば効果は終了する。</p>\n<p>カードを決定するには、ハロウデッキからカードを引く。ハロウデッキがない場合は、1d6を振って引いたスートをランダムに決定できる。</p>\n<p><strong>1. Hammers (Str)</strong>恩恵: 対象はダメージロールに+2のステータスボーナスを得る; 不利: 対象は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}.</p>\n<p><strong>2. Keys (Dex)</strong>恩恵: 対象はACに+1のステータスボーナスを得る; 不利: 対象は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}.</p>\n<p><strong>3. Shields (Con)</strong>恩恵: 対象は呪文のランクの2倍に等しい一時的なヒット・ポイントを得る; 不利: 対象は@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}.</p>\n<p><strong>4. Books (Int)</strong>恩恵: 対象は技能判定に+1のステータスボーナスを得る; 不利: 対象は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}.</p>\n<p><strong>5. Stars (Wis)</strong>恩恵: 対象はセーヴに+1のステータスボーナスを得る; 不利: 対象は@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}.</p>\n<p><strong>6. Crowns (Cha)</strong>恩恵: 対象は継続中に単一の判定で2回振って高い方を採用できる。これはフォーチュン効果である; 不利: 対象は継続中にあなたが選ぶ単一の判定で2回振って低い方を採用しなければならない。これはミスフォーチュン効果である。</p>\n<hr />\n<p><strong>高位化 (6th)</strong>持続時間は1分である。対象は効果を終えるために合計で2回のセーヴに成功しなければならない。恩恵と不利の値は倍になる。Crownsのスートは持続中に合計3回の判定に影響する。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
@@ -1981,7 +1981,7 @@
       }
     },
     "False Vitality": {
-      "name": "フォールス・ヴァイタリティ/False Vitality",
+      "name": "フォールス・バイタリティ/False Vitality",
       "description": "<p>あなたはアンデッドを操るために通常用いられるエネルギーで、自身の肉体を強化する。あなたは10の一時的ヒット・ポイントを得る。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>一時的ヒット・ポイントが3増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.PANUWN5xXC20WBg2]{呪文 効果: フォルス・ヴァイタリティ}</p>",
       "duration": "8時間",
       "time": "2"
@@ -2047,7 +2047,7 @@
       "time": "2"
     },
     "Corrosive Body": {
-      "name": "コロシヴ・ボディ/Corrosive Body",
+      "name": "コロシブ・ボディ/Corrosive Body",
       "description": "<p>あなたは腐食性のガスを吐き出し、酸性の分泌物が皮膚を覆って生きている酸へと変貌する。あなたは酸への免疫を得る。あなたに接触するか、素手の近接攻撃または非射程の近接武器であなたにダメージを与えるクリーチャーは3d6酸ダメージのダメージを受け、あなたの素手攻撃は追加で1d4酸ダメージのダメージを与える。あなたがこの方法でクリーチャーに酸ダメージを与える各ラウンドの最初の一度に、あなたは体が侵食された物質を消化して保護的な酸に変えるため、3d6一時的ヒットポイントの一時的なヒット・ポイントを得る。呪文が終了すると、残っている一時的なHPは失われる。あなたの酸呪文は追加で1ダイス分の酸ダメージを与える(呪文が使用するのと同じダメージダイス)。あなたは@UUID[Compendium.pf2e.spells-srd.Item.gISYsBFby1TiXfBt]{アシッド・スプラッシュ}を内在呪文として唱えることができる;スプラッシュダメージは通常の5フィートではなく15フィート内のすべてのクリーチャーに影響する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.LT5AV9vSN3T9x3J9]{呪文 効果: コロシブ・ボディ}</p><hr /><p><strong>高位化 (9th)</strong>あなたに接触するクリーチャーは3d6の代わりに4d6酸ダメージを受け、あなたの素手攻撃は追加で2d4酸ダメージのダメージを与え、あなたは5d6一時的ヒットポイントの一時的なヒット・ポイントを得る。</p>",
       "duration": "1分",
       "time": "2"
@@ -2100,7 +2100,7 @@
       "time": "2"
     },
     "Return the Favor": {
-      "name": "リターン・ザ・フェイヴァー/Return the Favor",
+      "name": "リターン・ザ・フェイバー/Return the Favor",
       "description": "<p><strong>トリガー</strong>仲間が戦闘遭遇中にあなたに有益な効果を与えるためにリアクションを使用する。</p>\n<p>あなたは借りを返さずにはいられない。仲間が戦闘であなたを援護したとき、あなたはその恩に報いるために援助を行う。誘発した仲間は1分の間、12の一時的なヒット・ポイントを得る。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>一時的なヒット・ポイントは4増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.cSoL5aMy3PCzM4Yv]{呪文 効果: リターン・ザ・フェイバー}</p>",
       "target": "1体の味方",
       "range": "30フィート",
@@ -2378,7 +2378,7 @@
       "time": "2"
     },
     "Needle of Vengeance": {
-      "name": "ニードル・オブ・ヴェンジャンス/Needle of Vengeance",
+      "name": "ニードル・オブ・ベンジャンス/Needle of Vengeance",
       "description": "<p>あなたのパトロンが特別に重んじる存在を攻撃しようとするたびに、長くギザギザの針が対象の敵の精神を突く。あなたは自身か味方の一人を名付ける。対象は名付けられたクリーチャーに対して敵対的な行動を行うたびに2の精神ダメージを受け、基本的に意志セーヴを持つ。</p><hr /><p><strong>高位化(+1)</strong>増加ダメージを2増加させる。</p>",
       "target": "敵1体",
       "range": "30フィート",
@@ -2522,7 +2522,7 @@
       "time": "1分"
     },
     "Unfettered Movement": {
-      "name": "アンフェタード・ムーヴメント/Unfettered Movement",
+      "name": "アンフェタード・ムーブメント/Unfettered Movement",
       "description": "<p>クリーチャーの移動を妨げたり、遅くしたりする効果を退ける。 この呪文の効果中、対象は移動速度に状況ペナルティを与える効果を無視する。 対象は、@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}ことを試みるとき、その効果が対象を@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}にするものであっても自動的に成功する。ただしその効果が魔法であり、かつ<em>unfettered movement</em>呪文より高位のランクである場合は例外である。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.CdAyAiMGESvgNQtz]{呪文 効果: アンフェタード・ムーブメント}</p>",
       "target": "1体のクリーチャーが接触した",
       "range": "接触",
@@ -2536,7 +2536,7 @@
       "time": "2"
     },
     "Invoke the Crimson Oath": {
-      "name": "インヴォーク・ザ・クリムゾン・オース/Invoke the Crimson Oath",
+      "name": "インボーク・ザ・クリムゾン・オース/Invoke the Crimson Oath",
       "description": "<p>あなたは武器を振りかざし、クリムゾン・オースの最後の一節を叫んで、破壊的なルビーのエネルギーの爆発を解き放つ。あなたは近接の武器を装備していなければならず、あなたはこの呪文の身振り成分を武器を下向きの弧で振ることで行う。あなたは呪文の効果範囲内の各クリーチャーに対して、あなたの武器が通常与える近接ダメージを、適切なすべてのボーナス、ペナルティ、修正、および特性を含めて与える；対象はそれぞれ基本の頑健セーヴを試みなければならない。そのクリーチャーはこのセーヴにクリティカル失敗した場合、あなたが通常クリティカルヒット時に武器で与える追加効果も受ける；そのクリーチャーがそのセーヴにクリティカル失敗し、かつクリティカルヒットに対して免疫である場合、そのクリーチャーは代わりに単にそのセーヴに失敗するだけである。</p>\n<p>あなたはこの呪文のすべての物理ダメージを、範囲内のすべてのアンデッドのクリーチャーに対して活力ダメージに変換することができる。</p>",
       "time": "2"
     },
@@ -2853,7 +2853,7 @@
       "secondarycheck": "ネイチャー,レリジョン"
     },
     "Splinter Volley": {
-      "name": "スプリンター・ヴォリー/Splinter Volley",
+      "name": "スプリンター・ボレー/Splinter Volley",
       "description": "<p>あなたは敵に向かって破片の連射を放つ。単一のクリーチャーに対して呪文攻撃ロールを行う。ヒットした場合、その破片は4d6の刺突ダメージを与える。破片はクリティカルヒット時にはダメージが2倍になり、@Damage[(floor(@item.level/2))[bleed]]ダメージを与える。この呪文を詠唱する際に3つ目のアクションを消費することで、1体ではなく2体の異なる対象に破片を発射できる。これらの攻撃はそれぞれあなたのマルチアタック・ペナルティを増加させるが、<em>splinter volley</em>のために両方の呪文攻撃ロールを行うまで、あなたのマルチアタック・ペナルティは増加しない。</p><hr /><p><strong>高位化 (+2)</strong>各対象に与えるダメージを4d6、持続する出血ダメージを1増加する。</p>",
       "target": "1または2体のクリーチャー",
       "range": "60フィート",
@@ -2897,7 +2897,7 @@
       "time": "1"
     },
     "Call of the Grave": {
-      "name": "コール・オブ・ザ・グレイヴ",
+      "name": "コール・オブ・ザ・グレイブ",
       "description": "<p>あなたは吐き気を催すエネルギーの光線を放つ。呪文攻撃ロールを行う。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となり、さらに不調状態である限り、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となる。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>\n<p><strong>失敗</strong>対象は影響を受けない。</p>",
       "target": "1体の生きているクリーチャー",
       "range": "30フィート",
@@ -2975,7 +2975,7 @@
       "time": "2"
     },
     "Corrosive Muck": {
-      "name": "コロシヴ・マック",
+      "name": "コロシブ・マック",
       "description": "<p><strong>Area</strong> all squares in two @Template[burst|distance:10]{10-foot bursts}.</p><hr /><p>あなたは移動する者の動きを妨げる酸性のスライムの水たまりを二つ作り出す。各プールの範囲はより困難な地形になる。各ラウンドでそのクリーチャーがターンを開始するか、そのクリーチャーが使用している移動アクション中にプールに入った場合、そのクリーチャーは8d6の酸ダメージを基礎的な反応セーヴで受ける。そのクリーチャーがセーヴィング・スロウに対してクリティカル失敗した場合、さらに@Damage[1d6[acid,persistent]]を受ける。通常通り、大型以上のクリーチャーが両方のプールでターンを開始する場合、ダメージは一度だけ受ける。</p><hr /><p><strong>高位化 (+2)</strong>追加で10フィートのバーストを作る。</p>",
       "range": "120フィート",
       "duration": "1分",
@@ -3310,7 +3310,7 @@
       "secondarycheck": "アルカナ,ネイチャー,レリジョン"
     },
     "Life's Flowing River": {
-      "name": "ライフズ・フローイング・リヴァー/Life's Flowing River",
+      "name": "ライフズ・フローイング・リバー/Life's Flowing River",
       "description": "<p>あなたは幽霊のように流れる水の川を作り、その川は両側の各スクエアに薄暗い光を10フィート放つ。川はあなたに隣接するスクエアで始まり、最大射程までか実体のある障害物に当たるまでのどちらか短い方まで、直線の5フィート経路に沿って伸びる。川の光る水の中で自分のターンを開始するか川のスペースに入るクリーチャーは、意志セーヴを試みなければならない。もしそのクリーチャーはアンデッドまたはニンドルであるなら、@Damage[4d6[mental]]のダメージを受け、そのクリーチャーの意志セーヴの結果で修正される。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは次のターン開始まで川の効果を無視する。もしそのクリーチャーがアンデッドまたはニンドルであるなら、ダメージを受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは次のターン開始まで川が占めるすべてのスクエアを困難地形として扱う。もしそのクリーチャーがアンデッドまたはニンドルであるなら、それは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>クリティカル成功と同じ扱いだが、そのクリーチャーはノックされて@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}。もしそのクリーチャーがアンデッドまたはニンドルであるなら、それは全てのダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong>成功と同じ扱いだが、そのクリーチャーは流れの方向に沿って川の経路上へ20フィート押し出される。もしそのクリーチャーがアンデッドまたはニンドルであるなら、精神ダメージの二倍のダメージを受ける。</p><hr /><p><strong>高位化 (+1)</strong>精神ダメージが1d6増加する。</p>",
       "range": "120フィート",
       "duration": "1分",
@@ -3548,7 +3548,7 @@
       "time": "2"
     },
     "Blood in the Water": {
-      "name": "ブラッド・イン・ジ・ウォーター",
+      "name": "ブラッド・イン・ザ・ウォーター",
       "description": "<p><strong>必要条件</strong>対象が持続的な出血ダメージを受けているか、あなたの最後のアクションが対象に斬撃ダメージを与えたこと。</p>\n<hr />\n<p>捕食者は血の匂いに引き寄せられ、血は水中では驚くほど遠くまで拡散する。あなたは水棲の捕食者の霊を召喚し、対象の周囲に霊的なスウォームとして出現させる。あなたがこの呪文を発動(Cast)するか〈維持〉するたび、対象は2d6の精神ダメージを受ける(基本反応セーヴ)。対象がこの呪文からダメージを受けた場合、捕食者が対象を引きずり込もうとするため、対象はすべての水を1ラウンドの間、移動困難地形として扱う。この霊的な捕食者はスペースを占有せず、挟撃を付与せず、クリーチャーが持つ他のいかなる属性も持たない。この呪文が発動中にあなたが対象に斬撃ダメージを与えた場合、あなたはこの呪文を自動的に〈維持〉する。このヘックスの以前の詠唱がまだ効果を発揮している間にあなたが「ブラッド・イン・ザ・ウォーター」を発動した場合、以前の効果は終了する。</p>\n<hr />\n<p><strong>高位化 (+2)</strong>与えるダメージが2d6増加する。</p>",
       "target": "出血できる1体のクリーチャー",
       "range": "30フィート",
@@ -3583,7 +3583,7 @@
       "time": "2"
     },
     "Voice on the Breeze": {
-      "name": "ヴォイス・オン・ザ・ブリーズ/Voice on the Breeze",
+      "name": "ボイス・オン・ザ・ブリーズ/Voice on the Breeze",
       "description": "<p>あなたは秘密のメッセージや音を風にささやき、それが指定された場所へ運ばれる。メッセージは、あなたに馴染みのある特定の@Template[burst|distance:10]射程内にへと向かうが、あなたとその地域の間に風が通る経路が存在することが条件となる。微かなそよ風は目的地に着くまではほとんど気づかれないが、到着するとささやき声でメッセージを届ける。誰がそこにいて聞くかにかかわらずメッセージは届けられる。たとえ誰も受け取らなくてもだ。メッセージが届けられると呪文は終了する。</p>\n<p>あなたのメッセージは最大25語、1ラウンド相当のその他の音、あるいは目標地点での単純なざわめきに限られる。メッセージはあなたが選ぶ速度で移動し、1時間あたり1マイルから1マイル毎10分の間で進む。到着すると風がその地域を渦巻き、全文をささやく。そよ風の声は声で発動する魔法効果を起動できない。</p>\n<hr />\n<p><strong>高位化 (4th)</strong>範囲が1,000マイルに増加し、メッセージは最大100語まで含められる。</p>",
       "range": "10マイル",
       "time": "2"
@@ -3985,7 +3985,7 @@
       "secondarycheck": "アルカナまたはオカルティズム,クラフティング"
     },
     "Devil Form": {
-      "name": "デヴィル・フォーム/Devil Form",
+      "name": "デビル・フォーム/Devil Form",
       "description": "<p>You bind yourself to the power of Hell, transforming into a 中型 devil battle form. When you cast this spell, choosecoarti, levaloch, sarglagon, or vordine. If you choose levaloch or sarglagon, the battle form is 大型 and you must have enough space to expand into or the spell is lost. While in this form you gain the devil and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.</p>\n<p>You gain the following statistics and abilities regardless of the form that you choose:</p><ul><li>AC = 22 + your level. Ignore your armor 判定's penalty and 移動速度 reduction.</li><li>5 temporary ヒット・ポイント, 耐性 5 to 物理ダメージ (except silver), and 弱点 5 to holy.</li><li>Resistance 10 to fire.</li><li>ダークヴィジョン.</li><li>One or more attacks specific to the battle form you use. You're 訓練済み with them. Your attack modifier is +20, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.</li><li>Athletics modifier of +23, unless your own modifier is higher.</li></ul><p>You also gain specific abilities based on the type of devil you choose:</p><ul><li><p><strong>Coarti</strong> 移動速度 25 feet, fly 40フィート;</p><ul><li><strong>サイズ</strong> 中型</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> morningstar (magical, unholy, versatile P), <strong>ダメージ</strong> 2d6+12 殴打 plus 1d6 spirit;</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> wing (agile, unholy, versatile P), <strong>ダメージ</strong> 1d6+12 殴打 plus 1d6 fire.</li></ul></li><li><p><strong>Levaloch</strong> 移動速度 30フィート, climb 30フィート; +2 circumstance bonus to 頑健 DC against being Shoved and to other saving throws to resist being moved against your will;</p><ul><li><strong>サイズ</strong> 大型</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> trident (magical, unholy) <strong>ダメージ</strong> 2d8+10 刺突;</li><li><strong>遠隔</strong> <span class=\"action-glyph\">1</span> trident (magical, thrown 20フィート, unholy), <strong>ダメージ</strong> 2d8+10 刺突; all 近接 Strikes deal 2d6 additional precision damage to clumsy, enfeebled, immobilized, or restrained creatures.</li></ul></li><li><p><strong>Sarglagon</strong> 移動速度 25 feet, fly 25 feet, swim 30フィート;</p><ul><li><strong>サイズ</strong> 大型</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> fangs (magical, unholy), <strong>ダメージ</strong> 2d10+10 刺突;</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> tentacle arm (agile, magical, unholy), <strong>ダメージ</strong> 1d8+10 殴打 plus 1d6 poison.</li></ul></li><li><p><strong>Vordine</strong> 移動速度 25 feet;</p><ul><li><strong>サイズ</strong> 中型</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> trident (magical, unholy) <strong>ダメージ</strong> 2d8+12 刺突;</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> hoof (agile, magical, unholy), <strong>ダメージ</strong> 1d4+12 plus 1d6 fire;</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> whip (disarm, magical, nonlethal, reach 10フィート, trip, unholy), <strong>ダメージ</strong> 2d4+10 斬撃;</li><li><strong>遠隔</strong> <span class=\"action-glyph\">1</span> trident (magical, thrown 20フィート, unholy), <strong>ダメージ</strong> 2d8+12 刺突.</li></ul></li></ul><p>@UUID[Compendium.pf2e.spell-effects.Item.83md7JyfA5WnWaOZ]{呪文 効果: デヴィル・フォーム}</p><p>You bind yourself to the power of Hell, transforming into a 中型 devil battle form. When you cast this spell, choosecoarti, levaloch, sarglagon, or vordine. If you choose levaloch or sarglagon, the battle form is 大型 and you must have enough space to expand into or the spell is lost. While in this form you gain the devil and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.</p>\n<p>You gain the following statistics and abilities regardless of the form that you choose:</p><ul><li>AC = 22 + your level. Ignore your armor 判定's penalty and 移動速度 reduction.</li><li>5 temporary ヒット・ポイント, 耐性 5 to 物理ダメージ (except silver), and 弱点 5 to holy.</li><li>Resistance 10 to fire.</li><li>ダークヴィジョン.</li><li>One or more attacks specific to the battle form you use. You're 訓練済み with them. Your attack modifier is +20, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.</li><li>Athletics modifier of +23, unless your own modifier is higher.</li></ul><p>You also gain specific abilities based on the type of devil you choose:</p><ul><li><p><strong>Coarti</strong> 移動速度 25 feet, fly 40フィート;</p><ul><li><strong>サイズ</strong> 中型</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> morningstar (magical, unholy, versatile P), <strong>ダメージ</strong> 2d6+12 殴打 plus 1d6 spirit;</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> wing (agile, unholy, versatile P), <strong>ダメージ</strong> 1d6+12 殴打 plus 1d6 fire.</li></ul></li><li><p><strong>Levaloch</strong> 移動速度 30フィート, climb 30フィート; +2 circumstance bonus to 頑健 DC against being Shoved and to other saving throws to resist being moved against your will;</p><ul><li><strong>サイズ</strong> 大型</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> trident (magical, unholy) <strong>ダメージ</strong> 2d8+10 刺突;</li><li><strong>遠隔</strong> <span class=\"action-glyph\">1</span> trident (magical, thrown 20フィート, unholy), <strong>ダメージ</strong> 2d8+10 刺突; all 近接 Strikes deal 2d6 additional precision damage to clumsy, enfeebled, immobilized, or restrained creatures.</li></ul></li><li><p><strong>Sarglagon</strong> 移動速度 25 feet, fly 25 feet, swim 30フィート;</p><ul><li><strong>サイズ</strong> 大型</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> fangs (magical, unholy), <strong>ダメージ</strong> 2d10+10 刺突;</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> tentacle arm (agile, magical, unholy), <strong>ダメージ</strong> 1d8+10 殴打 plus 1d6 poison.</li></ul></li><li><p><strong>Vordine</strong> 移動速度 25 feet;</p><ul><li><strong>サイズ</strong> 中型</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> trident (magical, unholy) <strong>ダメージ</strong> 2d8+12 刺突;</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> hoof (agile, magical, unholy), <strong>ダメージ</strong> 1d4+12 plus 1d6 fire;</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> whip (disarm, magical, nonlethal, reach 10フィート, trip, unholy), <strong>ダメージ</strong> 2d4+10 斬撃;</li><li><strong>遠隔</strong> <span class=\"action-glyph\">1</span> trident (magical, thrown 20フィート, unholy), <strong>ダメージ</strong> 2d8+12 刺突.</li></ul></li></ul><p>@UUID[Compendium.pf2e.spell-effects.Item.83md7JyfA5WnWaOZ]{呪文 効果: デヴィル・フォーム}</p>",
       "duration": "1分",
       "time": "2"
@@ -4114,7 +4114,7 @@
       "time": "3"
     },
     "Devouring Void": {
-      "name": "ディヴァウアリング・ヴォイド/Devouring Void",
+      "name": "ディバウアリング・ボイド/Devouring Void",
       "description": "<p>空間の無数の裂け目がその範囲に現れ、飢えた口のように見える。呪文が唱えられたとき、そして各ラウンドを維持したときの最初の回に、その範囲内の生きているクリーチャーは7d8の空虚ダメージを受ける(基本的な頑健セーヴ)。生きているクリーチャーが移動アクションを使って範囲から離れようとする場合、@Check[reflex]セーヴに成功しなければ、その行動は範囲の端で中断される。</p><hr /><p><strong>高位化(+1)</strong>空虚ダメージは1d8増加する。</p>",
       "range": "120フィート",
       "duration": "1分",
@@ -4308,7 +4308,7 @@
       "time": "2"
     },
     "Veil of Privacy": {
-      "name": "ヴェール・オブ・プライバシー/Veil of Privacy",
+      "name": "ベール・オブ・プライバシー/Veil of Privacy",
       "description": "<p>あなたは対象を魔法による探知から発見しにくくする保護結界を張る。 <em>Veil of privacy</em>は持続時間中、対象または対象の道具に対して使用されるすべての探知、啓示、および念視効果を打ち消ししようとする。この目的のために、キャントリップは1ランク呪文として数える。領域や複数対象を対象とする呪文を成功裏に対抗した場合、その効果はVeil of privacyの対象1体に対してのみ無効になる。<em>veil of privacy's</em>対象。</p>",
       "target": "1体のクリーチャーまたは1つのオブジェクト",
       "range": "接触",
@@ -4415,7 +4415,7 @@
       "time": "2"
     },
     "River Carving Mountains": {
-      "name": "リヴァー・カービング・マウンテンズ/River Carving Mountains",
+      "name": "リバー・カービング・マウンテンズ/River Carving Mountains",
       "description": "<p>あなたのアパリションがあなたの周囲で轟く水と飛散する霧となって固まる。この呪文の持続時間中、あなたは遠隔攻撃に対して小遮蔽を得て、あなたが持つ各移動速度に10フィートの状況ボーナスを得る。この呪文を最初に唱えた時と、あなたがこれを〈維持〉するたびに、あなたは自身の移動速度まで〈ストライド〉することができる。その間、あなたのアパリションはあなたが通過する各広場を、流れる川の残存エネルギーで満たす。これらの広場はあなたの次のターン開始時まで移動困難な地形となる。あなたは移動速度の種類に応じて、〈ストライド〉の代わりに、穴掘り、登攀、飛行、または水泳を行いながら<em>river carving mountains</em>を使用できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.aaA6cgroFMRMsisy]{呪文 効果: リバー・カービング・マウンテンズ}</p>",
       "duration": "1分",
       "time": "1"
@@ -4696,7 +4696,7 @@
       "time": "2"
     },
     "Form of the Sandpoint Devil": {
-      "name": "フォーム・オブ・ザ・サンドポイント・デヴィル/Form of the Sandpoint Devil",
+      "name": "フォーム・オブ・ザ・サンドポイント・デビル/Form of the Sandpoint Devil",
       "description": "<p>あなたは自身に純然たる悪を大量に注入し、意識を悪意に同化させ、自身にSandpointデヴィルに似た怪物の形を与える。</p>\n<p>暁から、あなたはあなたの共犯者たちとゆるい土の上に直接火を起こし、火床に火成岩と宝石を重ねる。火が十分に熱くなったら、あなたはコウモリの翼、馬の蹄、トカゲをその上で焼いて食べられるほど柔らかくする。蹄はこれに数時間かかることがある。この間ずっと、あなたは瞑想し、ラマシュトゥに聖なる文の一節を唱え、モンスターの美と必然性について反芻し、心をモンスターの形にねじ曲げ、これからあなたに憑依する悪をよりよく保持するために備える。</p>\n<p>翼と蹄とトカゲが調理されたら、あなたはあなたの共犯者たちとそれらを丸ごと食べ、歯だけで裂き、あなたは関係者の中で最も多く食べなければならない。その後、あなたは以前に火を起こした場所に溝を掘り、熱い岩を土に折り込む。あなたの共犯者たちはあなたを浅く埋める―あなたは呼吸できるべきだが必ずしも見えるとは限らない。あなたの共犯者たちは正しい文を唱え、変成の力を引き出す間、あなたは心をさらにモンスターの力と美で満たす。この段階は数時間続き、太陽が沈むまで続く。最後の光が去り、あなたの信仰と秘術の力に従って、あなたは変貌してよみがえる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>あなたは巨大なコウモリの翼、トカゲのような尾、尖った歯、蹄、そして馬の頭を生やす。あなたは暗視を得る。すでに暗視を持っていた場合、代わりに優れた暗視を得る。あなたは顎と蹄の素手近接ストライクを得る。これらがあなたが使用できる唯一の攻撃である。あなたはそれらで訓練済み。あなたの攻撃修正は+23かあなたの素手攻撃修正の高い方である。あなたの顎〔ストライク〕は@Damage[(2d10+6)[piercing]]のダメージを与え、あなたの蹄〔ストライク〕は@Damage[(2d6+6)[bludgeoning]]のダメージを与え、アジャイルおよびversatileS特性を持つ。これらの攻撃は筋力ベースである(例：弱体化状態の目的のため)。あなたは飛行移動速度を40フィートで得る。あなたはまたSandpointデヴィルの呪われたブレスの一種を得る。1時間に1回、あなたは@Template[cone|distance:30]の炎を吹き、それは@Damage[10d6[fire]]のダメージを与える。あなたの心は変容し、あなた自身の人格をSandpointデヴィルの人格で同化する。多くのポリモーフ呪文と違い、この呪文を〔解除〕することはできない。</p>\n<p><strong>成功</strong>致命的成功と同様に扱う。ただしあなたの飛行移動速度は20フィートであり、あなたはブレス攻撃を1日に1回使用できる。</p>\n<p><strong>失敗</strong>あなたは自身を変身させることに失敗する。</p>\n<p><strong>クリティカル失敗</strong>あなたは自身を変身させることに失敗するだけでなく、儀式の二次詠唱者全員が1分の間Sandpointデヴィルに変身し、彼らは直ちにあなたを攻撃する。</p><p>あなたは自身に純然たる悪を大量に注入し、意識を悪意に同化させ、自身にSandpointデヴィルに似た怪物の形を与える。</p>\n<p>暁から、あなたはあなたの共犯者たちとゆるい土の上に直接火を起こし、火床に火成岩と宝石を重ねる。火が十分に熱くなったら、あなたはコウモリの翼、馬の蹄、トカゲをその上で焼いて食べられるほど柔らかくする。蹄はこれに数時間かかることがある。この間ずっと、あなたは瞑想し、ラマシュトゥに聖なる文の一節を唱え、モンスターの美と必然性について反芻し、心をモンスターの形にねじ曲げ、これからあなたに憑依する悪をよりよく保持するために備える。</p>\n<p>翼と蹄とトカゲが調理されたら、あなたはあなたの共犯者たちとそれらを丸ごと食べ、歯だけで裂き、あなたは関係者の中で最も多く食べなければならない。その後、あなたは以前に火を起こした場所に溝を掘り、熱い岩を土に折り込む。あなたの共犯者たちはあなたを浅く埋める―あなたは呼吸できるべきだが必ずしも見えるとは限らない。あなたの共犯者たちは正しい文を唱え、変成の力を引き出す間、あなたは心をさらにモンスターの力と美で満たす。この段階は数時間続き、太陽が沈むまで続く。最後の光が去り、あなたの信仰と秘術の力に従って、あなたは変貌してよみがえる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>あなたは巨大なコウモリの翼、トカゲのような尾、尖った歯、蹄、そして馬の頭を生やす。あなたは暗視を得る。すでに暗視を持っていた場合、代わりに優れた暗視を得る。あなたは顎と蹄の素手近接ストライクを得る。これらがあなたが使用できる唯一の攻撃である。あなたはそれらで訓練済み。あなたの攻撃修正は+23かあなたの素手攻撃修正の高い方である。あなたの顎〔ストライク〕は@Damage[(2d10+6)[piercing]]のダメージを与え、あなたの蹄〔ストライク〕は@Damage[(2d6+6)[bludgeoning]]のダメージを与え、アジャイルおよびversatileS特性を持つ。これらの攻撃は筋力ベースである(例：弱体化状態の目的のため)。あなたは飛行移動速度を40フィートで得る。あなたはまたSandpointデヴィルの呪われたブレスの一種を得る。1時間に1回、あなたは@Template[cone|distance:30]の炎を吹き、それは@Damage[10d6[fire]]のダメージを与える。あなたの心は変容し、あなた自身の人格をSandpointデヴィルの人格で同化する。多くのポリモーフ呪文と違い、この呪文を〔解除〕することはできない。</p>\n<p><strong>成功</strong>致命的成功と同様に扱う。ただしあなたの飛行移動速度は20フィートであり、あなたはブレス攻撃を1日に1回使用できる。</p>\n<p><strong>失敗</strong>あなたは自身を変身させることに失敗する。</p>\n<p><strong>クリティカル失敗</strong>あなたは自身を変身させることに失敗するだけでなく、儀式の二次詠唱者全員が1分の間Sandpointデヴィルに変身し、彼らは直ちにあなたを攻撃する。</p>",
       "duration": "3日",
       "time": "1日",
@@ -4903,7 +4903,7 @@
       "time": "リアクション"
     },
     "Whispers of the Void": {
-      "name": "ウィスパーズ・オブ・ザ・ヴォイド",
+      "name": "ウィスパーズ・オブ・ザ・ボイド",
       "description": "<p>あなたは言語を超越する禍々しい秘密を囁き、それらを魔法的にあなたの敵の耳に運搬する。その言葉は物理的な形を取り、対象の生命力を弱める。各対象は頑健セーヴを試みなければならない。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@Damage[(floor(@item.rank/2))d8[persistent,void]]のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは@Damage[(floor(@item.rank/2)*2)d8[persistent,void]]のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}になる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@Damage[(floor(@item.rank/2)*2)d8[persistent,void]]のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}かつ@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}になる。</p><hr /><p><strong>高位化(+2)</strong>持続する虚無ダメージは成功で1d8、失敗か判定失敗で2d8増加する。</p>",
       "range": "60フィート",
       "time": "2"
@@ -5091,7 +5091,7 @@
       "time": "リアクション"
     },
     "Momentary Recovery": {
-      "name": "モメンタリー・リカヴァリー/Momentary Recovery",
+      "name": "モメンタリー・リカバリー/Momentary Recovery",
       "description": "<p>あなたは即座にあなた自身およびあなたが身につけているか所持しているアイテムを現在のスペースからあなたが見ることのできる空いているスペース射程内にへテレポートさせる。もしこのテレポーテイションが別のクリーチャーをあなたと一緒に連れて行くなら――たとえあなたがそれを超次元の容器に運搬中している場合でも――呪文は失われる。あなたが消えてから到着するまでの間、あなたは最大で2アクション(または、もしそれが2アクションより少なかった場合、あなたが呪文を唱えるために費やしたアクション数＝<em>momentary recovery</em>の数)を行使できる。あなたはこれらのアクションの間、他のクリーチャーや物体を何かで対象にできず、これらのアクション中にあなたが作り出した継続時間を持つ効果は到着時に直ちに終了する。到着した後、あなたは@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}あなたの次のターン終了時まで。</p>",
       "range": "60フィート",
       "time": "2"
@@ -5169,7 +5169,7 @@
       "time": "3"
     },
     "Adaptive Ablation": {
-      "name": "アダプティヴ・アブレーション",
+      "name": "アダプティブ・アブレーション",
       "description": "<p><strong>トリガー</strong>あなたは酸, 冷気, 電撃, 火炎, または音波ダメージを受ける。</p><hr /><p>あなたはエネルギーダメージの神秘的な波長に適応するためにあなた自身をシフトさせ、あなた自身をさらなる危害から守る。あなたはトリガーとなったエネルギータイプに対して耐性5を得る；この耐性はトリガーとなるダメージを受けた後に得るため、持続時間中にあなたが受ける将来のダメージにのみ適用される。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.6GAztnHuQSwAp1k1]{呪文 効果: アダプティヴ・アブレイション}</p><hr /><p><strong>高位化 (+2)</strong>耐性が5増加する。</p>",
       "duration": "1分",
       "time": "リアクション"
@@ -5486,7 +5486,7 @@
       "time": "リアクション"
     },
     "Invoke Spirits": {
-      "name": "インヴォーク・スピリッツ",
+      "name": "インボーク・スピリッツ",
       "description": "<p>死者のぼろをまとった亡霊たちが立ち上がり、生者をつけ狙う。それらは範囲内の各生きているクリーチャーに2d4の精神ダメージと2d4の虚無ダメージを与える(基本意志セーヴ)。さらに、セーヴに大失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となり、1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}状態となる。</p>\n<p>続くラウンドでは、各ラウンドにあなたが初めて〈呪文の維持〉を行う際、その範囲を呪文の射程内で最大30フィートまで移動させることができる。新しい範囲内にいる生けるクリーチャーは上記と同じ効果のセーヴを行わなければならない。ただし、大失敗しても逃走状態にはならない。</p>\n<hr />\n<p><strong>高位化 (+2)</strong>精神ダメージと虚無ダメージはそれぞれ1d4増加する。</p>",
       "range": "120フィート",
       "duration": "1分",
@@ -6313,7 +6313,7 @@
       }
     },
     "Touch of the Void": {
-      "name": "タッチ・オブ・ザ・ヴォイド/Touch of the Void",
+      "name": "タッチ・オブ・ザ・ボイド/Touch of the Void",
       "description": "***<p>あなたは対象に虚無エネルギーを注入し、不死者を回復させるか生きているクリーチャーにダメージを与える。</p><ul><li><strong>志願するアンデッドクリーチャー</strong>対象は6ヒット・ポイントを回復する。対象があなた自身である場合、あなたは1ラウンドの間、ダメージロールに+2のステータスボーナスを得る。</li><li><p><strong>生きているクリーチャー</strong>対象は基本的な頑健セーヴで1d6の虚無ダメージを受ける。失敗した場合、対象はさらに1ラウンドの間、ACに対して-2のステータスペナルティを受ける。</p></li></ul><p>@UUID[Compendium.pf2e.spell-effects.Item.GhNVAYtoF5hK3AlD]{呪文 効果: タッチ・オヴ・ザ・ヴォイド}</p><hr /><p><strong>高位化 (+1)</strong>回復量が6増加し、生きている対象へのダメージが1d6増加する。</p>",
       "target": "協力的な1体のアンデッドクリーチャーまたは1体の生きているクリーチャー",
       "range": "接触",
@@ -6414,7 +6414,7 @@
       "time": "リアクション"
     },
     "Vision of Death": {
-      "name": "ヴィジョン・オブ・デス/Vision of Death",
+      "name": "ビジョン・オブ・デス/Vision of Death",
       "description": "<p>あなたは対象に自分の死の幻を見せる。対象は8d6精神ダメージのダメージを受け、意志セーヴを受ける。もしこの呪文で対象が0HPに減少した場合、その幻は現実となり即座に対象を殺す。</p><hr /><p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は半分のダメージを受けるされ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}になる。</p>\n<p><strong>失敗</strong>対象は全てのダメージを受けるされ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になる。</p>\n<p><strong>クリティカル失敗</strong>対象は2倍のダメージを受ける、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 4}で、怖がっている間@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}になる。</p><hr /><p><strong>高位化(+1)</strong>ダメージは2d6増加する。</p>",
       "target": "1体の生きているクリーチャー",
       "range": "120フィート",
@@ -6442,7 +6442,7 @@
       "secondarycheck": "《製作》または操縦の《専門知識》"
     },
     "Vision of Beauty": {
-      "name": "ヴィジョン・オブ・ビューティー",
+      "name": "ビジョン・オブ・ビューティー",
       "description": "<p>あなたは、呪文の射程内の任意の位置に、対象にとって想像し得る最も美しいクリーチャーの幻影を作り出す。呪文の対象だけがその美しさを見ることができるが、あなたは幻影が現れる際の漠然とした輪郭を見ることができる。対象の意志セーヴの結果に基づく。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は幻影に興味をそそられ、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}になり1ラウンドの間そうなる。</p>\n<p><strong>失敗</strong>対象は幻影に魅了され、呆然1になり1ラウンドの間そうなり、幻影の位置に向かって1ラウンドの間可能な限り最短経路で移動し、道中の明らかな危険や敵を回避する。対象はその後、幻影によって@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}され、1ラウンドの間そうなる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、対象は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}であり、1ラウンドの代わりに1分の間幻影に夢中になる。</p>\n<hr />\n<p><strong>高位化(+2)</strong>あなたは射程内の追加のクリーチャーを対象にできる。</p>",
       "target": "1体のクリーチャー",
       "range": "60フィート",
@@ -6719,7 +6719,7 @@
       "time": "2"
     },
     "Vitality Lash": {
-      "name": "ヴァイタリティ・ラッシュ/Vitality Lash",
+      "name": "バイタリティ・ラッシュ/Vitality Lash",
       "description": "<p>あなたは創造の炉のエネルギーで対象の汚染された本質を破壊する。あなたは基本の頑健セーヴで2d6のバイタリティダメージを与える。もしそのクリーチャーがセーヴに致命的失敗をしたなら、そのクリーチャーはまた@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}あなたの次のターン開始時までとなる。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>ダメージは1d6増加する。</p>",
       "target": "1体のクリーチャーが不死であるか、あるいは別の方法で虚無治癒を持っている",
       "range": "30フィート",
@@ -6754,7 +6754,7 @@
       "time": "2"
     },
     "Blazing Dive": {
-      "name": "ブレイジング・ダイヴ/Blazing Dive",
+      "name": "ブレイジング・ダイブ/Blazing Dive",
       "description": "<p>過熱した空気があなたの下に集まり、あなたを空高く押し上げ、その後あなたは火のついた彗星となって地上へ急降下する。あなたは空に向かって真っ直ぐに〈飛行〉 15フィートし、その後、直線を描いて60フィート以内の地上にあるあなたが選んだ空きスペースまで〈飛行〉する。着地すると、灼熱の空気があなたから爆発的に放たれ、10フィート放射状の範囲内にいるすべてのクリーチャーに3d4殴打ダメージと3d6火炎ダメージを与える(基本の反応セーヴ)。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>ダメージは1d4殴打と1d6火炎ダメージ増加する。</p>",
       "time": "2"
     },
@@ -6863,7 +6863,7 @@
       "time": "2"
     },
     "Vacuum": {
-      "name": "ヴァキューム/Vacuum",
+      "name": "バキューム/Vacuum",
       "description": "<p>あなたは周囲の空気をすべて吸い込み、近くの生物の呼吸を奪う。<em>vacuum</em>の持続時間中、あなたは吸入毒などの吸入系の脅威に対して-1の状況ペナルティを受ける。あなたが呼吸できない環境で<em>vacuum</em>を唱えると、その呪文は失敗し、あなたは直ちに窒息を始める。</p>\n<p>そのエリアのクリーチャーは頑健セーヴを試みなければならない。息を止めているクリーチャーは判定の結果が振った値より1段階良い扱いを受け、空気を呼吸する必要のないクリーチャーはこの呪文に対して免疫。後からエリアに入る、あるいは息を止めるのをやめるクリーチャーはその効果に対してセーヴを試みなければならない。次のラウンド以降、あなたが呪文を〔維持〕する各ラウンドの最初のとき、あなたはエリア内の各クリーチャーにその効果に対してセーヴを強制することができる。</p>\n<hr />\n<p><strong>成功</strong>そのクリーチャーは息を止め始める。</p>\n<p><strong>失敗</strong>そのクリーチャーは呼吸を奪われてヒューヒューと喘ぎ、@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}になる。そのクリーチャーはその後息を止め始めるが、残りの通常のラウンド数を半分しか持たない。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは肺の空気がすべて吸い出され、直ちに窒息を始める。</p>",
       "duration": "1分",
       "time": "2"
@@ -7136,7 +7136,7 @@
       "time": "3"
     },
     "Interstellar Void": {
-      "name": "インターステラー・ヴォイド",
+      "name": "インターステラー・ボイド",
       "description": "<p>あなたは外宇宙の極寒の深淵に呼びかけ、敵に恐ろしい冷気をもたらす。対象は凍てつく虚無に包まれ、これは直ちに3d6の冷気ダメージを与え、さらにあなたが将来のターンに〈呪文の維持〉を行う各ラウンドの最初の回にも、基本的な頑健セーヴを伴って同様のダメージを与える。</p>\n<p>対象は効果が持続する限り、@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態となる。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>その冷気ダメージが1d6増加する。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
@@ -7348,7 +7348,7 @@
       "time": "3"
     },
     "Veil of Spirits": {
-      "name": "ヴェール・オブ・スピリッツ/Veil of Spirits",
+      "name": "ベール・オブ・スピリッツ/Veil of Spirits",
       "description": "<p>あなたは周囲にある精霊エネルギーの本質を引き出して霧状のベールを現出させる。その範囲内でターンを開始する、精神ダメージに対して免疫でないクリーチャーは反応セーヴを試みなければならない。あなたはそのベールを〔解除〕できる。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは次のターン開始時まで@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}になる。</p>\n<p><strong>失敗</strong>そのクリーチャーは目くらみ状態になり、精神エネルギーがまとわりついて次のターン開始時まであなたのレベルの半分に等しい弱点を精神ダメージに対して受ける。スピリットセンスを持つクリーチャーはこのように目くらみしている間、その不明瞭な感覚を使用できない。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、弱点はあなたのレベルに等しい。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.0L9LAkGW2FtmZOgb]{呪文 効果: ヴェール・オヴ・スピリッツ}</p>",
       "range": "120フィート",
       "duration": "1分",
@@ -7383,7 +7383,7 @@
       "time": "2"
     },
     "Traveler's Transit": {
-      "name": "トラヴェラーズ・トランジット",
+      "name": "トラベラーズ・トランジット",
       "description": "<p>あなたは筋肉に力を加え、容易に壁を登ったり泳いだりできるようにする。この呪文を発動した時、あなたは登攀移動速度または水泳移動速度のいずれかを得る。その移動速度はあなたの陸上移動速度と等しい。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>あなたは飛行飛行移動速度を得ることを選択できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.Ig9p2rDXGYHpEuTx]{呪文 効果: トラベラーズ・トランジット}</p>",
       "duration": "5分",
       "time": "2"
@@ -7460,7 +7460,7 @@
       "time": "リアクション"
     },
     "Protective Wards": {
-      "name": "プロテクティヴ・ワーズ/Protective Wards",
+      "name": "プロテクティブ・ワーズ/Protective Wards",
       "description": "<p>あなたは味方を守るグリフの輪を広げる。あなたと範囲内にいるすべての味方は、ACに+1の状況ボーナスを得る。あなたがこの呪文を〈維持〉するたびに、エマナシオンの半径は5フィート増加し、最大で30フィートになる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.5p3bKvWsJgo83FS1]{オーラ：プロテクティブ・ワーズ}</p>",
       "duration": "1分",
       "time": "1"
@@ -7566,7 +7566,7 @@
       "secondarycheck": "クラフティング"
     },
     "Martyr's Intervention": {
-      "name": "マーターズ・インターヴェンション/Martyr's Intervention",
+      "name": "マーターズ・インターベンション/Martyr's Intervention",
       "description": "<p><strong>トリガー</strong>範囲内のクリーチャーがダメージを受け、そのダメージによって0ヒット・ポイントに減少する場合</p>\n<p><strong>必要条件</strong>あなたは必要条件状態を持たない。</p>\n<hr />\n<p>あなたは自分の生命力で窮地のクリーチャーを守り、ダメージをあなた自身に受けてその生命をセーヴする。対象は0ヒット・ポイントの代わりに1ヒットポイントになる。対象に与えられるはずだった残りのダメージは代わりにあなたに与えられる。あなたと対象は両方とも@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷 1}になる。すでに必要条件である対象はその必要条件の値が1増加する。</p>",
       "target": "1体の生きているクリーチャー",
       "range": "60フィート",
@@ -7584,7 +7584,7 @@
       "time": "2"
     },
     "Void Warp": {
-      "name": "ヴォイド・ワープ/Void Warp",
+      "name": "ボイド・ワープ/Void Warp",
       "description": "<p>虚無の力で生命力を傷つける。 対象は基本的な頑健セーヴを伴う2d4の虚無ダメージを受ける。クリティカル失敗では、対象はさらに@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}あなたの次のターン開始時まで。</p>\n<hr />\n<p><strong>高位化(+1)</strong>ダメージは1d4増加する。</p>",
       "target": "1体の生きているクリーチャー",
       "range": "30フィート",
@@ -8049,7 +8049,7 @@
       "requirements": "クリーチャーがあなたにダメージを与える"
     },
     "Vision of Weakness": {
-      "name": "ヴィジョン・オブ・ウィークネス",
+      "name": "ビジョン・オブ・ウィークネス",
       "description": "<p>あなたはクリーチャーに視線を集中し、その本質に関する神聖な洞察をひらめきとして得る。もしそのクリーチャーに弱点があれば、あなたはそれを知る。また、その3つのセーヴィング・スロウ修正値のうちどれが最も低いかも知る。</p>\n<p>また、あなたはそのクリーチャーの動きを本質的に理解し、あなたのターンの終了までにその敵に対して行う次の攻撃ロール(または攻撃アクションの一部として行う技能判定)に+2の状況ボーナスを得る。</p>\n<p>その後、対象は1日の間、<em>ヴィジョン・オヴ・ウィークネス</em>に対して一時的な免疫となる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.70qdCBokXBvKIUIQ]{呪文 効果: ヴィジョン・オヴ・ウィークネス}</p>",
       "target": "1体のクリーチャー",
       "time": "1"
@@ -8063,7 +8063,7 @@
       "time": "2"
     },
     "Void Harvest": {
-      "name": "ヴォイド・ハーヴェスト/Void Harvest",
+      "name": "ボイド・ハーヴェスト/Void Harvest",
       "description": "<p>影響を受けた領域の空は暗くなり、あなたは虚無への直接的な導管を開くと空気は重苦しくなる。次元界、すなわち広大な虚無だ。生きているクリーチャーは彼らの生命力が吸い取られていくのを感じ始め、忘却への恐怖が心をつかみ始める。</p>\n<p>祭儀が行われた年ごとの周年に、合計で4人のキャスターが影響範囲の中心で1時間を費やして効果を維持できる。そうするために、1人のキャスターは1ミシックポイントを費やし、祭儀の詠唱DCに対してレリジョン判定に成功しなければならない。祭儀が毎年成功裏に維持されるたびに、半径は元の点から1マイルだけ増加する。判定が失敗するか維持を試みる他の者がまったくいない場合、効果は消える。</p><hr /><p><strong>クリティカル成功</strong>成功した場合だが、領域内の生きているクリーチャーは死に関する効果または虚無ダメージを与える効果に対するセーヴに対して–2のステータス罰を受ける。</p>\n<p><strong>成功</strong>領域内で毎日最初に生きているクリーチャーがダメージを受けると、そのクリーチャーは祭儀の詠唱DCと等しいDCを持つ意志セーヴに成功しなければならず、成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}状態を得る。もしそのクリーチャーはすでにdoomed状態を持っているなら、代わりにその値を1増加させる。死んだクリーチャーはその遺体が祭儀の領域にある限り蘇生や復活ができない。アンデッドのクリーチャーは領域内にいる間、そのレベルと等しいvitality耐性を得る。</p>\n<p><strong>失敗</strong>祭儀は何の効果も持たない。</p>\n<p><strong>クリティカル失敗</strong>虚無からのエネルギーの爆発がキャスターたちを洗い流す。各キャスターは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 4}になる。この状態は1週間の間は除去できない。</p>",
       "range": "あなたを中心とした1マイルの半径の円",
       "duration": "1年",
@@ -8096,7 +8096,7 @@
       "time": "1〜3"
     },
     "Veil of Dreams": {
-      "name": "ヴェール・オブ・ドリームズ",
+      "name": "ベール・オブ・ドリームズ",
       "description": "<p>あなたの守護者は対象を眠気のある状態に引き込み、白昼夢と鈍重さを引き起こす。対象は意志セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は知覚、攻撃ロール、ウィルセーヴに対して-1のステータス罰を受ける。睡眠効果に対するウィルセーヴに対してはこの罰は-2に増加する。</p>\n<p><strong>失敗</strong>成功の場合、対象が集中アクションを使用するたびに@Check[flat|dc:5]に成功しなければならず、失敗するとそのアクションは中断される。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.hkLhZsH3T6jc9S1y]{呪文 効果: ベイル・オヴ・ドリームズ}</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
@@ -8221,7 +8221,7 @@
       "requirements": "あなたは遠隔武器または投擲武器を装備している。"
     },
     "Invisible Item": {
-      "name": "インヴィジブル・アイテム/Invisible Item",
+      "name": "インビジブル・アイテム/Invisible Item",
       "description": "<p>あなたは物体を@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}にする。これによりそれはすべてのクリーチャーにとって@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}になるが、クリーチャーは対象を見つけようとすることができ、成功した場合はそれにとって@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}になる。アイテムが敵対的行動の一部として使用された場合、呪文はその敵対的行動が完了した後に終了する。武器を透明にしても通常は攻撃に有利にはならないが、透明な投擲武器や弾薬は、武器が使用後に攻撃者のもとに戻らない限り、攻撃者の隠れ場所に関する情報を必ずしも与えずに攻撃に使用できる。</p><hr /><p><strong>高位化 (3rd)</strong>持続時間は次に日課の準備を行うまでとなる。</p>\n<p><strong>高位化 (7th)</strong>持続時間は無制限になる。</p>",
       "target": "1つのオブジェクト",
       "range": "接触",
@@ -8340,7 +8340,7 @@
       "time": "2"
     },
     "Volcanic Eruption": {
-      "name": "ヴォルカニック・イラプション",
+      "name": "ボルカニック・イラプション",
       "description": "<p><strong>範囲</strong> 5フィート半径、高さ80フィートの円筒形</p>\n<hr />\n<p>地面が開き、溶岩の柱が垂直な円筒状に高く噴出し、範囲内のクリーチャーに14d6の火炎ダメージを与える。溶岩は急速に冷え固まり、範囲内のクリーチャーを包み込む。岩に包まれたクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}状態となり、移動速度に–10フィートの状況ペナルティを受ける。飛行しているクリーチャーにとって、すべての通常地形は移動困難地形となり、そのようなクリーチャーは包み込まれた瞬間に20フィート降下するが、この落下によるダメージは受けない。岩に包まれたクリーチャーは、この効果を終了させるために、あなたの呪文DCに対して@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる。そうでなければ、そのクリーチャーは合計50ダメージを受けるまで包まれたままとなり、ダメージを受けると岩から解放される。さらに、範囲内にいるクリーチャーおよび溶岩の柱から5フィート以内にいるクリーチャーは、セーヴィング・スローの結果にかかわらず、激しい熱によって自動的に@Damage[(@item.rank -4)d6[fire]]ダメージを受ける。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.8UqFvOCZqecPam4Y]{呪文 効果: ボルカニック・エラプション}</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるし、包み込まれる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは2倍のダメージを受けるし、包み込まれる。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>範囲内のダメージが2d6増加し、激しい熱によるダメージが1d6増加する。</p>",
       "range": "120フィート",
       "time": "2"
@@ -8684,7 +8684,7 @@
       "time": "2"
     },
     "Genie's Veil": {
-      "name": "ジーニーズ・ヴェール/Genie's Veil",
+      "name": "ジーニーズ・ベール/Genie's Veil",
       "description": "<p><strong>トリガー</strong>射程内のクリーチャーが攻撃される。</p>\n<hr />\n<p>華麗な身のこなしで、あなたはクリーチャーの守護への願いを叶え、現実を歪めて彼らを危害から守る。対象は鮮やかな色の煙と火花を散らして消え、一瞬後に再び現れる。彼らはトリガーとなった攻撃に対して、また現在のクリーチャーのターンの終了まで、@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となる。</p>",
       "target": "1体の同意するクリーチャー",
       "range": "30フィート",
@@ -8748,7 +8748,7 @@
       "time": "2"
     },
     "Over the Coals": {
-      "name": "オーヴァー・ザ・コールズ/Over the Coals",
+      "name": "オーバー・ザ・コールズ/Over the Coals",
       "description": "<p>あなたは対象をあなたに対する約束を破ったと非難し、あなたのパトロンの怒りを呼び寄せて正当な報酬を請求し、対象に通貨で支払うこと、命令を遂行すること、あるいは退くことを要求する。要求は明らかに自身-破壊的であってはならず、そうなら呪文は失敗する。もし対象が抵抗するなら、あなたはその支払いを対象の生命力から取る。対象は意志セーヴを行わなければならない。そのセーヴの結果に関係なく、対象は一時的な免疫で1日される。</p><hr /><p><strong>クリティカル成功</strong>対象は影響を受けないが、対象は免疫され、あなたのパクトブローカーのキャントリップに対して1日される。</p>\n<p><strong>成功</strong>対象が次のターンの終了時までにあなたの要求に従わなければ、対象は@Damage[3d8[persistent,void]]のダメージを受ける。もし後に従えば、呪文は自動的に終了する。</p>\n<p><strong>失敗</strong>成功と同じだが、もし対象が従わなければ、対象は@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}となり、@Damage[6d8[persistent,void]]のダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong>成功と同じだが、もし対象が従わなければ、対象は@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}かつ@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}となり、@Damage[6d8[persistent,void]]のダメージを受ける。たとえ対象が後で命令を完了しても、すべての条件が終わるまで呪文は終了しない。</p><hr /><p><strong>高位化 (9th)</strong>あなたは最大で2体まで対象にできる。</p>",
       "target": "1体のクリーチャー",
       "range": "120フィート",
@@ -8944,7 +8944,7 @@
       "time": "1分"
     },
     "Spirit Veil": {
-      "name": "スピリット・ヴェール/Spirit Veil",
+      "name": "スピリット・ベール/Spirit Veil",
       "description": "<p>あなたはあなた自身の周囲に精霊の遮蔽幕を引き、あなた自身をアンデッドの目から特によく隠す。あなたはすべてのクリーチャーに対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{ 視認困難}状態となり、アンデッドのクリーチャーに対しては、彼らがどのような精密感覚を持っていようとも@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{ 隠れている}状態となる。これは@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{ インヴィジビリティ}の効果を与えるが、すべてのアンデッドクリーチャーの精密感覚に対して有効である。もしあなたが物理的にアンデッドクリーチャーと@UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{〈扱う〉}を行ったり、敵対的なアクションを使用したりした場合、この呪文は終了する。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>あなたは30フィート以内にいる追加の同意するクリーチャー1体を対象にできる。いずれかの対象が物理的にアンデッドクリーチャーと扱うか、敵対的なアクションを使用した場合、呪文は終了する。</p>",
       "duration": "1分",
       "time": "2"
@@ -9002,7 +9002,7 @@
       "time": "2"
     },
     "Prying Survey": {
-      "name": "プライイング・サーヴェイ/Prying Survey",
+      "name": "プライイング・サーベイ/Prying Survey",
       "description": "<p>あなたは直径約3インチの不可視の浮遊する眼を8つ作り出し、それらがあなたの周囲のエリアを走査し、環境の大まかな印象を伝達する。眼は絶えず調査を行い、その発見の要約をあなたに送る。それらは実体があり、障壁を通り抜けることはできず、〈捜索〉中に見つけることに失敗したルートを辿ることはない。眼へのダメージは眼を破壊する。すべての眼が破壊されると、呪文は終了する。</p>\n<p>集中特性を持つ単一のアクションとして、あなたは眼が到達できるエリア内の場所に集中することができる。眼はその場所へ移動し、あなたはそこにいるかのように視覚的に〈見回す〉ことができる。探索活動として、あなたは眼に集中し続ける間、移動速度を半分にして移動することで、〈偵察〉と〈捜索〉の両方の活動の恩恵を得ることができる。眼を使えば、1分間に300フィートより速く移動している場合でも、すべてを判定することができる。眼はあなたの《知覚》修正値を使用する。あなたは一度に1つのプライイング・サーヴェイしか効果を発揮させることができない。</p>\n<hr />\n<p><strong>高位化 (10版)</strong> エリアは500フィート放射に増加する。</p>",
       "duration": "1時間",
       "time": "1分"
@@ -9015,7 +9015,7 @@
       "time": "2"
     },
     "Open the Wall of Ghosts": {
-      "name": "オープン・ジ・ウォール・オブ・ゴースツ/Open the Wall of Ghosts",
+      "name": "オープン・ザ・ウォール・オブ・ゴースツ/Open the Wall of Ghosts",
       "gm": "<p>あなたはいわゆるWillowshore呪いの性質に関する研究により、町の西にある不気味なWall of Ghostsを通して扉を開く可能性のある方法を発見した。聖別の儀式から始め、サンポツィの生と輪廻の循環性に関する理論とZoudouの記録から得た洞察を組み合わせることで、あなたはこの霧の障壁を取り巻く怒れる霊を静め、他のクリーチャーがその先の領域へ通り抜けられるようにする魔法の儀式を作り出した。</p><p>この儀式は壁自身の内部にいる亡霊や邪悪な霊から完全な保護を与える可能性は低いため、あなたが壁を開いた後、あなたとあなたの仲間は向こう側へ出る前に内部で追加の危険に直面する必要があるかもしれない。さらに、儀式は三日月または新月の期間(各月の後半に相当する時期)に行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>儀式は成功し、Wall of Ghostsを通過している間に予期しない保護を提供する。あなたがWall of Ghostsの内部にいる間、あなたと儀式の副詠唱者はアーマー・クラスとセーヴィングスローに+2のステータスボーナスを得る。</p><p>@UUID[Compendium.pf2e.spell-effects.lGU4GIF2GUn21zFa]{呪文 効果: オープン・ザ・ウォール・オヴ・ゴースト (クリティカル成功)}</p><p><strong>成功</strong>儀式は成功する。</p><p><strong>失敗</strong>儀式は失敗する。</p><p><strong>クリティカル失敗</strong>儀式は大失敗し、壁に閉じ込められていた亡霊のうち二体が解き放たれて攻撃する。これらの亡霊それぞれを@UUID[Compendium.pf2e.pathfinder-monster-core.N98ug9jQHqeFoK1N]{Ghost Commoner},セーヴとして扱い、それらの幽霊の手による攻撃は精神ダメージではなく虚無ダメージを与える。</p>",
       "target": "幽霊の壁",
       "range": "40フィート",
@@ -9097,7 +9097,7 @@
       "time": "2"
     },
     "Veil of Confidence": {
-      "name": "ヴェール・オブ・コンフィデンス/Veil of Confidence",
+      "name": "ベール・オブ・コンフィデンス/Veil of Confidence",
       "description": "<p>あなたは自身を自信のヴェールで包む。あなたは現在の@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}条件を1減少させ、持続時間中にあなたが恐れているになる場合はその量を1減少させる。もしあなたが恐怖に対するセーヴで重大な失敗をした場合、<em>自信のヴェール</em>はその効果によるあなたの恐怖値を減らし、その後終了する。</p>",
       "duration": "1分",
       "time": "1"
@@ -9288,7 +9288,7 @@
       "time": "1分"
     },
     "Canticle of Everlasting Grief": {
-      "name": "カンティクル・オブ・エヴァーラスティング・グリーフ/Canticle of Everlasting Grief",
+      "name": "カンティクル・オブ・エバーラスティング・グリーフ/Canticle of Everlasting Grief",
       "description": "<p>あなたは純粋な悲嘆から蒸留された旋律を作り、対象が大切にするすべてのものの避けられない喪失を伝えるその旋律は対象にのみ聞こえる。対象はその意志セーヴに応じて10d6の精神ダメージを受ける。この呪文で呪われたクリーチャーは、成功度に記載された持続時間の間、状況または状態ボーナスから恩恵できない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は半分のダメージを受けるで、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}であり、1ラウンドの間呪われる。</p>\n<p><strong>失敗</strong>対象は全てのダメージを受けるで、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}であり、1週間の間呪われる。</p>\n<p><strong>クリティカル失敗</strong>対象は2倍のダメージを受けるで、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 4}であり、無制限の期間呪われる。呪いが残っている間、そのクリーチャーの味方はそのクリーチャーから15フィート以内にいる間も呪いの影響を受ける。</p>",
       "target": "1体のクリーチャー",
       "range": "120フィート",
@@ -9463,7 +9463,7 @@
       "time": "2"
     },
     "Storm of Vengeance": {
-      "name": "ストーム・オブ・ヴェンジャンス/Storm of Vengeance",
+      "name": "ストーム・オブ・ベンジャンス/Storm of Vengeance",
       "description": "<p>巨大な嵐雲が半径360フィートの範囲で空中に発生する。その下では雨が降り始め、強風が物理遠隔攻撃と武器による遠隔攻撃に対して-4の状況ペナルティを課し、その範囲の空気は飛行するクリーチャーにとってより困難な地形になる。あなたはこの呪文を唱えたときと、各ラウンドを最初に〔呪文の維持〕する際に、次の嵐の効果のうちひとつを選べる。あなたは同じ効果を連続して選べない。</p>\n<ul>\n<li><strong>酸雨</strong>嵐の中の各クリーチャーは4d8の酸ダメージを受け、セーヴィング・スロウは適用されない。</li>\n<li><strong>雹</strong>嵐はその下にいるクリーチャーに4d10の殴打ダメージを与える(基本の頑健セーヴ)。</li>\n<li><strong>稲妻</strong>嵐の中であなたが選んだクリーチャーを標的として最大10本の雷撃が落ちる。いずれのクリーチャーにも1本を超えて標的にできない。各雷撃は7d6の電撃ダメージ(基本の反応セーヴ)のダメージを与える。</li>\n<li><strong>雨と風</strong>激しい雨と吹き荒れる風で視界と機動性が低下し、嵐雲の下の範囲は困難地形になり、その範囲内または範囲越しに見えるすべてのものは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}となる。</li>\n<li><strong>雷鳴</strong>嵐の中の各クリーチャーは頑健セーヴに成功しなければならない。失敗すると@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}されて10分になる。判定に成功したクリーチャーは一時的な免疫となり、1時間の間、storm of vengeanceの雷鳴に対して一時的な免疫である。</li>\n</ul>\n<hr />\n<p><strong>高位化 (10th)</strong>射程が2,200フィートになり、雲は1,000フィートのバーストになる。</p>",
       "range": "800フィート",
       "duration": "1分",
@@ -9552,7 +9552,7 @@
       "time": "2"
     },
     "False Vision": {
-      "name": "フォールス・ヴィジョン",
+      "name": "フォールス・ビジョン",
       "description": "<p>あなたは領域を監視する試みを欺く偽の映像を作る。任意の念視呪文は、その領域内で実際にあるものの代わりに、あなたが望むものを視覚、聴覚、嗅覚その他で感知する。あなたは各ラウンドにその呪文を〔維持〕して、複雑な場面を演じることを含め、幻を望むように変えられる。もし念視呪文がfalse visionより高位であれば、見張り手は幻を不信するために知覚判定を試みることができるが、たとえ成功してもその領域で実際に起こっていることを知ることはできない。</p>",
       "range": "接触",
       "duration": "次の日課の準備まで",
@@ -10155,7 +10155,7 @@
       "time": "2"
     },
     "Retributive Pain": {
-      "name": "リトリビューティヴ・ペイン/Retributive Pain",
+      "name": "リトリビューティブ・ペイン/Retributive Pain",
       "description": "<p><strong>トリガー</strong>射程内のクリーチャーがあなたにダメージを与える。</p>\n<hr />\n<p>あなたは復讐心を持って、自分の痛みを苦しめる者に反射させる。対象は、誘発したダメージの半分に等しい精神ダメージを受ける。</p>",
       "target": "トリガーとなったクリーチャー",
       "range": "30フィート",
@@ -10270,7 +10270,7 @@
       "time": "2"
     },
     "Divinity Leech": {
-      "name": "ディヴィニティ・リーチ/Divinity Leech",
+      "name": "ディビニティ・リーチ/Divinity Leech",
       "description": "<p>あなたは神聖術の使い手または神の使いと、その神格との繋がりを断ち切り、彼らの神聖な力の使用を阻害する。対象がセーヴに失敗した場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態となる。</p>\n<p>この呪文の持続時間中、対象が神聖呪文を発動するたびに、あなたは@Damage[6d6[healing]]ヒット・ポイントを回復し、対象は以下の効果を伴う別の意志セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>その神聖呪文の各対象は、出目よりも1段階良い成功度を得る。</p>\n<p><strong>失敗</strong>その神聖呪文は失われ、対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン}状態で1ラウンドの間過ごす。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
@@ -10414,13 +10414,13 @@
       "time": "2"
     },
     "Show the Way": {
-      "name": "ショー・ジ・ウェイ/Show the Way",
+      "name": "ショー・ザ・ウェイ/Show the Way",
       "description": "<p>あなたと範囲内の仲間は先を行く道について超自然的な知識を得て、最善の進路を直感し、難しいまたは混乱を招く地形のような潜在的な障害物を避けられるようになる。For the purpose of long-distance overland travel during探索 mode, traveling through difficult terrain reduces you to only three-quarters your travel移動速度 instead of half, and traveling through greater difficult terrain reduces your travel移動速度 to only half your travel移動速度 instead of one-third. Show the wayはあなたは罠に落ちたり他の人工的な障害や危険に遭遇することを防がない。</p><hr /><p><strong>高位化 (6th)</strong> For the purpose of long-distance overland travel during探索 mode, traveling through difficult terrain doesn't reduce your travel移動速度 at all, and traveling through greater difficult terrain reduces your travel移動速度 to only three-quarters of its normal value instead of one-third.</p>",
       "duration": "8時間",
       "time": "10分"
     },
     "Hunter's Vision": {
-      "name": "ハンターズ・ヴィジョン/Hunter's Vision",
+      "name": "ハンターズ・ビジョン/Hunter's Vision",
       "description": "<p>対象はあなたとあなたの指揮に従う者にのみ見える魔法のオーラで光る。対象はあなたとあなたと同じ@UUID[Compendium.pf2e.classfeatures.Item.0nIOGpHQNHsKSFKT]{Hunt Prey}恩恵を共有する者には可視化される。これは通常は照明や@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}または@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}の状態によって見えない場合でも有効だが、不透明な物体による遮蔽は依然として視界を遮る。あなたは視認困難の状態のために対象に対する平坦な判定を無視する。また対象は暗闇や不可視であるために自動的にあなたから@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}されることはない。</p>",
       "target": "1匹の追跡対象",
       "range": "30フィート",
@@ -10507,7 +10507,7 @@
       "time": "2"
     },
     "Share Vision": {
-      "name": "シェア・ヴィジョン",
+      "name": "シェア・ビジョン",
       "description": "<p>あなたのパトロンは一時的にあなたの視覚と他者の視覚をリンクさせ、両者が互いの目を通して見ることができるようにする。このヘックスの持続時間中、あなたと対象はあらゆる視覚に基づく感覚(暗視や微光視覚など)を共有し、《知覚》判定に+2の状況ボーナスを得る。ただし、どちらか一方が@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態または@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態になった場合、両者がその状態になる。</p>\n<p>このヘックスの以前の詠唱がまだ効果を発揮している間に《シェア・ヴィジョン》を詠唱した場合、以前の効果は終了する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.eQzFYXLYPrGc9EBI]{呪文 効果: シェア・ヴィジョン}</p>",
       "target": "1体の同意するクリーチャー",
       "range": "30フィート",
@@ -10622,7 +10622,7 @@
       "time": "2"
     },
     "Know the Way": {
-      "name": "ノウ・ジ・ウェイ/Know the Way",
+      "name": "ノウ・ザ・ウェイ/Know the Way",
       "description": "<p>　あなたは心の目で、自分がどちらを向いているかを魔法によって把握する。あなたは即座に北がどちらの方角かを知る(現在の場所に北が存在する場合)。また、あなたは過去24時間の間に自分がいた場所を選択し、その場所がどの方角にあるかを知ることができる。</p>\n<hr />\n<p><strong>高位化 (3rd)</strong>あなたは過去1週間の間に自分がいた場所を選択できる。</p>\n<p><strong>高位化 (7th)</strong>あなたはいつそこにいたかに関わらず、自分がいた場所を選択できる。</p>",
       "time": "2"
     },
@@ -11041,7 +11041,7 @@
       "time": "2"
     },
     "Vapor Form": {
-      "name": "ヴェイパー・フォーム/Vapor Form",
+      "name": "ベイパー・フォーム/Vapor Form",
       "description": "<p>対象は蒸気のような状態に変身する。この状態では、対象は不定形となる。対象はACに対するあらゆるアイテム・ボーナスと、鎧によるその他すべての効果およびボーナスを失い、鎧なしの防御に対する習熟修正値を使用する。対象は物理ダメージに対する耐性8を得て、精密ダメージに対して免疫となる。対象は呪文の詠唱、アイテムの起動、または攻撃や操作の特性を持つアクションの使用を行うことができない。対象は10フィートの飛行移動速度を得て、小さな隙間を通り抜けることができる。対象は呪文を〈解除〉できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.sILRkGTwoBywy0BU]{呪文 効果: ヴェイパー・フォーム}</p>",
       "target": "1体の同意するクリーチャー",
       "range": "接触",
@@ -11289,7 +11289,7 @@
       "time": "2"
     },
     "Spectral Advance": {
-      "name": "スペクトラル・アドヴァンス/Spectral Advance",
+      "name": "スペクトラル・アドバンス/Spectral Advance",
       "description": "<p>霊的な姿になることで、あなたは戦場を駆け抜け、敵と交戦する。あなたは敵に隣接するスペースへ〈ストライド〉する。もしあなたが　2アクションを使用してこの呪文を発動したなら、あなたは1回ではなく2回〈ストライド〉できる。もしあなたが飛行移動速度を持っているなら、ストライドの代わりに〈飛行〉してもよい。</p>\n<p>もしあなたが騎乗しているなら、あなた自身の代わりにあなたの乗騎を移動させてもよい。<em>スペクトラル・アドバンス</em>による移動はリアクションを誘発せず、移動困難な地形やより移動困難な地形を無視する。移動中、あなた(またはあなたの乗騎)はすべてのダメージに対して、あなたのレベルに等しい耐性を得る。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.5gpsh5UviUnFIRXY]{呪文 効果: スペクトラル・アドバンス}</p>",
       "time": "1または2"
     },
@@ -11834,7 +11834,7 @@
       "time": "2"
     },
     "Devouring Dark Form": {
-      "name": "ディヴァウアリング・ダーク・フォーム/Devouring Dark Form",
+      "name": "ディバウアリング・ダーク・フォーム/Devouring Dark Form",
       "description": "<p>あなたのアパリションの暗黒の力があなたの肉体と融合し、暗い場所に潜むクリーチャーの恐ろしい特徴を帯びることができるようになる。あなたの腕と脚はねじれた触手に変化する。あなたは10フィートのリーチを持ち、1d8 殴打ダメージを与え、〈組み付き〉の特性を持つ触手の素手攻撃を得る。各ラウンドにこの呪文を〈維持〉する最初の回、あなたはリーチ内のクリーチャーに対して、その触手で1回の@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉} 判定を試みることができる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.Le5Sewk43o7V60nO]{呪文 効果: デヴァウアリング・ダーク・フォーム}</p><hr /><p><strong>高位化 (2nd)</strong> あなたは触手の素手攻撃を得る代わりに、このヴェッセル呪文と同じレベルに高位化された、@UUID[Compendium.pf2e.spells-srd.Item.wp09USMB3GIW1qbp]{アニマル・フォーム}のサメの戦闘形態をとることを選択できる。そうした場合、この呪文はモーフの特性を失い、ポリモーフの特性を得る。あなたはこの呪文を〈維持〉するたびに、リーチ内のクリーチャーに対して顎の素手攻撃による〈ストライク〉を試みることができる。</p>\n<p><strong>高位化 (5th)</strong> あなたは触手の素手攻撃を得る代わりに、このヴェッセル呪文と同じレベルに高位化された、@UUID[Compendium.pf2e.spells-srd.Item.1K6AYGisvo9gqdhs]{エレメンタル・フォーム}の水エレメンタルの戦闘形態をとることを選択できる。そうした場合、この呪文はモーフの特性を失い、ポリモーフの特性を得る。あなたはこの呪文を〈維持〉するたびに、リーチ内のクリーチャーに対して素手攻撃による〈ストライク〉を試みることができる。</p>",
       "duration": "1分",
       "time": "1"
@@ -12000,7 +12000,7 @@
       "time": "リアクション"
     },
     "Thicket of Knives": {
-      "name": "シケット・オブ・ナイヴズ",
+      "name": "シケット・オブ・ナイブズ",
       "description": "<p>あなたは武器を持つ腕の幻影を多数作り出し、真の動きを隠して攻撃を予測不可能にする。あなたは《欺瞞》判定に+2の状況ボーナスを得る。もしあなたが《欺瞞》に未習熟であっても、とにかく〈フェイント〉アクションを使用でき、未習熟であるにもかかわらず習熟ボーナスとして自身のレベルを加算できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.8ecGfjmxnBY3WWao]{呪文 効果: シケット・オヴ・ナイヴズ}</p>",
       "duration": "1分",
       "time": "2"
@@ -12256,7 +12256,7 @@
       "time": "2"
     },
     "Grave Impressions": {
-      "name": "グレイヴ・インプレッションズ/Grave Impressions",
+      "name": "グレイブ・インプレッションズ/Grave Impressions",
       "description": "<p>あなたは自分の感覚の断片を死体に投影する。死体から500フィート以内にいる間(たとえ視界や効果線の外にあっても)、あなたは通常の視覚でその死体の眼があった位置から見ることができ、通常の聴覚でその死体の耳があった位置から聞くことができる。あなたは集中の特性を持つ単一の行動で自分の視覚と聴覚と死体の感覚を切り替えられる。もし死体が生前に目や聴覚器官を欠いていたなら、この呪文を使う際にはその感覚を使えない。もし死体がその場所から移動したら、呪文は終了する。</p>\n<hr />\n<p><strong>高位化 (4th)</strong>持続時間が1時間に増加する。</p>\n<p><strong>高位化 (6th)</strong>持続時間は次に日課の準備を行うまで続く。</p>",
       "target": "1体の死体",
       "range": "接触",
@@ -12384,7 +12384,7 @@
       }
     },
     "Unrelenting Observation": {
-      "name": "アンリレンティング・オブザヴェイション",
+      "name": "アンリレンティング・オブザベイション",
       "description": "<p>この呪文は念視に基づく完全な視覚を付与し、複数の同意する対象が1体のクリーチャーまたは1つの物体の正確な動きや位置を追跡できるようにする。追跡する対象として、エリア内のクリーチャーまたは物体を1つ選択すること。それがこの呪文のセンサーとなる。エリア内であなたが選択した最大5体までの同意するクリーチャーは、追跡対象が視界の外にいる時でも、そのクリーチャーや物体の幽霊のような姿を見ることができる。彼らはそのクリーチャーや物体を完全に知覚できるため、@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態や@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}状態を無視できるが、物理的な障壁は依然として遮蔽を提供する。</p>\n<p>追跡するクリーチャーは、鉛や流れる水以外のすべての障壁越しに追跡対象を見ることができる(鉛や流れる水は彼らの視界を遮る)。距離は問題にならないが、対象が遠くに移動しすぎて知覚できなくなる可能性はある。追跡するクリーチャーは対象の周囲の環境を見ることはできないが、クリーチャーが身につけている、あるいは手に持っている道具は見ることができ、対象が身につけている物を外したかどうかも判別できる。</p>\n<p>追跡される対象が同意している場合、持続時間は1時間である。もしあなたが同意していないクリーチャーを追跡しようとする場合、対象は意志セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーまたは物体は影響を受けない。</p>\n<p><strong>成功</strong>上記の通りだが、持続時間は1分である。</p>\n<p><strong>失敗</strong>上記の通りであり、持続時間は1時間である。</p>",
       "target": "追跡対象の1体のクリーチャーまたは1つのオブジェクト、および最大5体の他の同意するクリーチャー",
       "range": "100フィート",
@@ -12695,7 +12695,7 @@
       "time": "2"
     },
     "Unbreaking Wave Advance": {
-      "name": "アンブレイキング・ウェイヴ・アドヴァンス/Unbreaking Wave Advance",
+      "name": "アンブレイキング・ウェイヴ・アドバンス/Unbreaking Wave Advance",
       "description": "<p>あなたは手から強力な波を放ち、敵を押し戻す。エリア内の各クリーチャーは頑健セーヴィング・スロウを行わなければならない。<em>unbreaking wave advance</em>によって押し出されるクリーチャーが、固い障壁や他のクリーチャーに押し付けられる場合、そのクリーチャーはその地点で停止し、3d6のダメージを受ける。</p>\n<hr />\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは10フィート押し出される。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは20フィート押し出される。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>クリーチャーを固い障壁に押し付けた際のダメージが1d6増加する。</p>",
       "time": "1"
     },
@@ -13278,7 +13278,7 @@
       "time": "2"
     },
     "Unbreaking Wave Vapor": {
-      "name": "アンブレイキング・ウェイヴ・ヴェイパー",
+      "name": "アンブレイキング・ウェイヴ・ベイパー",
       "description": "<p><strong>トリガー</strong>あなたは、あなたが視認できる攻撃者によって行われた攻撃の対象になる。</p>\n<hr />\n<p>あなたは発動となった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}され、その攻撃に対するACに+2の状況ボーナスを得る。発動となった攻撃が完了した後、発動攻撃が命中していればあなたは〔ステップ〕でき、発動攻撃が外れていればあなたは〔ステップ〕を2回できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.m6x0IvoeX0a0bZiQ]{呪文 効果: アンブレイキング・ウェイヴ・ベイパー}</p>",
       "time": "リアクション"
     },
@@ -13322,7 +13322,7 @@
       "time": "2"
     },
     "Explosive Barrage": {
-      "name": "エクスプローシヴ・バラージ/Explosive Barrage",
+      "name": "エクスプローシブ・バラージ/Explosive Barrage",
       "description": "<p><strong>Area</strong> (continued) 20-foot burst plus additional @Template[burst|distance:5]{5-foot bursts}</p><hr /><p>あなたは轟音と炎を伴う爆発を放ち、それに続いて複数の小さな爆発を飛ばす。あなたは20フィートのバーストを作り、[[/r 1d4#Additional 5-foot bursts]]個の追加の5フィートバーストをそれぞれ射程内かつ別のバーストから20フィート以内に配置する。バースト同士は重なってはならない。これらのバーストの少なくとも1つに捕らわれた各クリーチャーは6d8の火炎ダメージと6d4の音波ダメージを受ける(基礎は頑健セーヴ)。セーヴに失敗した場合、クリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}になり、1分の間持続する。</p><hr /><p><strong>高位化 (+1)</strong>火炎ダメージは1d8増加し、音波ダメージは1d4増加する。</p>",
       "range": "100フィート",
       "time": "2"
@@ -13338,7 +13338,7 @@
       "secondarycheck": "アルカナ、ネイチャー、レリジョン、サバイバル、またはTanglebriarロア"
     },
     "Croak Voice": {
-      "name": "クローク・ヴォイス/Croak Voice",
+      "name": "クローク・ボイス/Croak Voice",
       "description": "<p>あなたは対象のクリーチャーの声帯をカエルのように腫れ上がらせる。 対象は頑健セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象の声はかすれ、話すことが苦痛になる。対象が〈聴覚〉の特性を持つアクションを使用するたび、または〈無詠唱〉の特性を持たない〈呪文の発動〉を試みるたび、対象は@Check[flat|dc:5]に成功しなければならず、失敗するとそのアクションは失われる。1ラウンドに1回、対象は〈扱う〉アクションを費やして喉をマッサージし、あなたの呪文のDCに対して頑健セーヴを行うことができる。 成功すると、呪文は終了する。</p>\n<p><strong>失敗</strong> 成功時と同様だが、〈聴覚〉の特性を持つアクションを使用すると、歪んだ声が耳に障るため、対象はさらに2d10の精神ダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong> 失敗時と同様だが、〈聴覚〉の特性を持つアクションを使用した際のダメージは2倍になり、対象は〈扱う〉アクションを費やして頑健セーヴを行い、効果を早期に終了させることはできない。</p>\n<hr />\n<p><strong>高位化 (+1)</strong> 〈聴覚〉の特性を持つアクションを使用した際のダメージが1d10増加する。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
