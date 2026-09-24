@@ -2098,7 +2098,7 @@
       "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.War0uyLBx1jA0Ge7]{バトル・アックス}、<em>ストライキング</em>・ルーン</p>\n<hr />\n<p>神聖なる守護者は常に、自身が信奉する神格の好む武器を振るう。その武器が遠隔武器である場合、神聖なる守護者は攻撃のたびに自動的に新しい弾薬を生成する。4レベル以上の神聖なる守護者の場合、神聖なる守護者がそれを振るっている間、その神格の好む武器は<em>@UUID[Compendium.pf2e.equipment-srd.Item.DxCuJKynlnMQZHgp]{ストライキング}</em>ルーンの効果を得る。12レベルでは、これらの効果は<em>@UUID[Compendium.pf2e.equipment-srd.Item.KCQRFvUgbyclvOGi]{グレーター・ストライキング}</em>ルーンのものとなり、19レベルでは、代わりに<em>@UUID[Compendium.pf2e.equipment-srd.Item.woxl2FrrgAcJDu0t]{メジャー・ストライキング}</em>ルーンのものとなる。</p>"
     },
     "J3Ldbu2TKyrPVZBY": {
-      "name": "インストゥルメント・オヴ・フェイス/Instrument of Faith",
+      "name": "インストゥルメント・オブ・フェイス/Instrument of Faith",
       "description": "<p>神聖なる守護者は、その神格の信仰の狼煙台である。神聖なる守護者が信奉する神格のクレリックは、60フィート内に見えている神聖なる守護者を通して@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}呪文を投射できる。そのクレリックは、自身が神聖なる守護者のマスに立っているかのように、呪文の対象やエリアを決定する。</p>"
     },
     "Instrument of Faith": {

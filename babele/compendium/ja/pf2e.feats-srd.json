@@ -5159,7 +5159,7 @@
       ]
     },
     "Versatile Spellstrike": {
-      "name": "ヴァーサタイル・スペルストライク/Versatile Spellstrike",
+      "name": "バーサタイル・スペルストライク/Versatile Spellstrike",
       "description": "<p>あなたは呪文書の可能性の全領域を攻撃にチャネルすることができる。</p>\n<p>あなたの日課の準備の間に一度、呪文スロットを使用して、それを呪文を準備するのではなく、その無限の潜在能力を保持できる。あなたがスペルストライクを行うとき、この特別な呪文スロットを消費して、自分の呪文書からそのスロットのレベルより2レベル低い呪文を即座に準備し、発動することができる。(呪文を準備する際の通常通り、さらに低いレベルの呪文を使用して、それを高位化することができる。)</p>\n<p>そのスロットにおいてあなたは呪文を準備していない状態で、そのスロットから呪文を発動するまでそのスロットに呪文を準備しない。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
@@ -6748,7 +6748,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Investigator's Stratagem": {
-      "name": "インヴェスティゲイターズ・ストラタジェム/Investigator's Stratagem",
+      "name": "インベスティゲイターズ・ストラタジェム/Investigator's Stratagem",
       "description": "<p>あなたは頭の中で戦闘を繰り広げ、適切な時に〔ストライク〕できるようにする。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.m0f2B7G9eaaTmhFL]{Devise a Strategem}アクションを得る；しかし、その結果をあなたの攻撃ロールとして代用する場合、あなたはあなたの知性修正値を力または敏捷修正値の代わりに使用できない。</p>\n<p>他の能力からのロールであなたの知性修正値を使用することもできない、デバイズ・ア・ストラテジムを拡張する@UUID[Compendium.pf2e.feats-srd.Item.Tu1hOEr6Ko9Df54L]{Athletic Strategist}特技のような。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -13751,7 +13751,7 @@
       ]
     },
     "Investigator Dedication": {
-      "name": "インヴェスティゲイター・デディケーション/Investigator Dedication",
+      "name": "インベスティゲイター・デディケーション/Investigator Dedication",
       "description": "<p>あなたは@UUID[Compendium.pf2e.classfeatures.Item.6FasgIXUJ1X8ekRn]{On the Case}クラスの特技を得る。この特技はあなたに@UUID[Compendium.pf2e.actionspf2e.Item.xTK2zsWFyxSJvYbX]{Pursue a Lead}アクティビティと@UUID[Compendium.pf2e.actionspf2e.Item.25WDi1cVUrW92sUj]{Clue In}リアクションの両方を与える。あなたは訓練済みにおいてソサイエティおよび選択した別のスキルで訓練済みとなる。もしあなたが既にソサイエティにおいて訓練済みであった場合、あなたは代わりに選択した別のスキルで訓練済みとなる。あなたはまた、調査者クラスDCの訓練済みになる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.mmB3EkkdCpLke7Lk]{Investigator}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -15042,7 +15042,7 @@
       "source": "Pathfinder Player Core"
     },
     "Versatile Blasts": {
-      "name": "ヴァーサタイル・ブラスツ/Versatile Blasts",
+      "name": "バーサタイル・ブラスツ/Versatile Blasts",
       "description": "<p>あなたはより広範な元素の具現化にアクセスし、あなたの元素の珍しい形で爆風を生み出すことができる。次のダメージタイプをエレメンタルのその元素の爆風の選択肢に追加する：</p>\n<ul>\n<li><strong>空気</strong>氷</li>\n<li><strong>地球</strong>毒</li>\n<li><strong>火</strong>氷</li>\n<li><strong>金属</strong>電気</li>\n<li><strong>水</strong>酸</li>\n<li><strong>木</strong>毒</li>\n</ul>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -17221,7 +17221,7 @@
       ]
     },
     "Saving Slash": {
-      "name": "セービング・スラッシュ/Saving Slash",
+      "name": "セーヴィング・スラッシュ/Saving Slash",
       "description": "<p><strong>トリガー</strong>敵が近接攻撃であなたにクリティカルヒットする。</p><hr /><p>あなたは刀を素早く回転させ、攻撃の最悪を避けるための十分な勢いをそらそうとする。@Check[flat|dc:15|showDC:all]を試みる。成功すれば、攻撃はクリティカルヒットではなく通常のヒットになる。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
@@ -23797,7 +23797,7 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Versatile Performance": {
-      "name": "ヴァーサタイル・パフォーマンス/Versatile Performance",
+      "name": "バーサタイル・パフォーマンス/Versatile Performance",
       "description": "<p>あなたは普通の社会的スキルではなく、パフォーマンスの壮大さに頼ることができる。あなたはパフォーマンスの代わりにディプロマシーを使用して[[/act make-an-impression statistic=performance]]、そしてインティミデーションの代わりに [[/act demoralize statistic=performance]]を使用することができる。また、演技のパフォーマンスの代わりにディセプションを使用して[[/act impersonate statistic=performance]]を行うこともできる。</p>\n<p>さらに、あなたはパフォーマンスにおける熟練度ランクを使用して、特定の熟練度ランクが必要なスキルフィートの条件を満たすことができる、ディセプション、ディプロマシー、またはインティミデーションの。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -24109,7 +24109,7 @@
       ]
     },
     "Inventor Dedication": {
-      "name": "インヴェンター・デディケーション/Inventor Dedication",
+      "name": "インベンター・デディケーション/Inventor Dedication",
       "description": "<p>あなたは訓練済みとしてクラフティングおよび発明者クラスDCの特徴を得る。あなたは@UUID[Compendium.pf2e.feats-srd.Item.XR95taODq1sq82Du]{Inventor}技能祝いを得るが、技能祝いの条件を満たさなくても構わない。一つの@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.gcRmL4Id1ggKDhvg#innovation]{innovation}を選択する。あなたはその革新を得るが、その革新を修正または使用する他の能力、たとえば修正や@UUID[Compendium.pf2e.actionspf2e.Item.naKVqd8POxcnGclz]{Explode}は得ない。</p>\n<p> @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.aAm6jY2k5qBuWETd]{Inventor} </p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
@@ -33205,7 +33205,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Versatile Mutation": {
-      "name": "ヴァーサタイル・ミューテーション/Versatile Mutation",
+      "name": "バーサタイル・ミューテーション/Versatile Mutation",
       "description": "|||<p>あなたのオスティリのダーツは異なる種類のダメージを与えることができる。あなたがスピット・アンビエント・マジックを行う際、あなたはオスティリが刺突ダメージの代わりに殴打または斬撃ダメージを与えることを選択できる。8レベルで、以下のうち1つを選択すること：酸、冷気、電撃、火炎、または音波ダメージ。あなたのオスティリがスピット・アンビエント・マジックを行う際、それは代わりにそのダメージ種別を与えることができ、そのアクションにその特性を追加する。</p>\n<hr />\n<p><strong>特殊</strong> あなたは16レベルでこの特技を2回目に取得できる。そうした場合、8レベルでこの特技を通じて利用可能なものから追加で2つのエネルギータイプを選択すること。あなたはオスティリがスピット・アンビエント・マジックを行う際、そのダメージ種別を与えることを選択できる。</p>|||",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
@@ -34009,7 +34009,7 @@
       ]
     },
     "Underworld Investigator": {
-      "name": "アンダーワールド・インヴェスティゲイター/Underworld Investigator",
+      "name": "アンダーワールド・インベスティゲイター/Underworld Investigator",
       "description": "<p>あなたの調査者としての仕事は、犯罪要素に精通することに繋がる。あなた自身が犯罪者であるかもしれないし、外部から彼らの動きについての理解を得たのかもしれない。あなたはアンダーワールドロアにおいて訓練済みとなり、事件を調査するための@UUID[Compendium.pf2e.actionspf2e.Item.xTK2zsWFyxSJvYbX]{Pursue a Lead}調査ボーナスをシーヴァリーチェックに得る(例えば、容疑者から手がかりを@UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{Steal}したり、決定的な書類が入った金庫を開けるための@UUID[Compendium.pf2e.actionspf2e.Item.2EE4aF4SZpYf0R6H]{つるはし a ロック}したりするチェックなど)。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -40922,7 +40922,7 @@
       ]
     },
     "Versatile Signature": {
-      "name": "ヴァーサタイル・シグネチャー/Versatile Signature",
+      "name": "バーサタイル・シグネチャー/Versatile Signature",
       "description": "<p>ほとんどのバードは特定のシグネチャーのパフォーマンスや呪文で知られているが、あなたは常に使用可能なレパートリーを調整している。あなたが日課の準備を行うとき、あなたはシグネチャー呪文の1つをレパートリーのそのランクの異なる呪文に変更できる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -47870,7 +47870,7 @@
       ]
     },
     "Inventor": {
-      "name": "インヴェンター/Inventor",
+      "name": "インベンター/Inventor",
       "description": "<p>あなたはクラフティングにおける天才であり、物の作り方を簡単に理解し、新しい発明を生み出すことができる。あなたはダウンタイムを使って、知らない一般的な調合式を発明することができる。これは 〔製作する〕 アクティビティと同じように機能する：あなたは調合式の半分の価格を前払し、クラフティングの判定を試み、成功した場合は、差額を支払って調合式を完成させるか、より長く作業して価格を減少させる。違いは、アイテムを作成するのではなく、研究、設計、開発に追加の時間を費やすところである。完成したら、あなたが発明した新しい調合式を調合式帳に追加する。</p>\n<p>GMは、通常は DCが増加して、一般的でないまたは希少な調合式を発明することを許可するかもしれない。アルケミー調合式を発明するには錬金術クラフティングフィートが必要で、魔法的な調合式を発明するには魔法クラフティングフィートが必要である。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -49746,7 +49746,7 @@
       ]
     },
     "Lead Investigator": {
-      "name": "リード・インヴェスティゲイター/Lead Investigator",
+      "name": "リード・インベスティゲイター/Lead Investigator",
       "description": "<p>あなたは1分最大4人の味方にあなたの進行中の調査の一つについてブリーフィングを行う。対象は、調査の核心となる質問を調査するためのチェックにおいて、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.xTK2zsWFyxSJvYbX]{Pursue a Lead}から得るのと同じ状況ボーナスを得る。このボーナスは、あなたがリードを追い続けるのをやめるまで、または1日のいずれか早い方まで持続する。これは、恩恵を追求する他の効果、例えば@UUID[Compendium.pf2e.feats-srd.Item.5cYFHKQK6OZCwavI]{Detective's Readiness}へのセーヴに状況ボーナスを追加することを与えない。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -49870,7 +49870,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Versatile Font": {
-      "name": "ヴァーサタイル・フォント/Versatile Font",
+      "name": "バーサタイル・フォント/Versatile Font",
       "description": "<p>あなたは神格の側面を探求する中で、治癒や害を与える制限を超える。あなたは、ハームフントまたはヒーリングフントから得た呪文スロットに@UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz]{ハーム}または@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}のいずれかを準備できる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [

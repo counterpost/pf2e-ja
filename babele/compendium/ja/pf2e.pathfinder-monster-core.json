@@ -2393,7 +2393,7 @@
           "name": "アット・ウィル・スペルズ"
         },
         "1N7APEdVVZHtrMup": {
-          "name": "カコデーモニア/Cacodaemonia",
+          "name": "カコダエモニア/Cacodaemonia",
           "description": "<p>カコデーモンは、同一の次元界上であれば距離に関係なく、苦しんでいるクリーチャーとテレパシーで意思疎通できる。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:17]</p>\n<hr />\n<p><strong>第1段階</strong>キャリア (1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1日)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2} (1日)</p>"
         },
         "6OspJylC319MBk17": {
@@ -2405,7 +2405,7 @@
           "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>カコデーモンは、1分以内に死亡した30フィート以内の意識あるクリーチャーの魂を摂取する。そうすると、カコデーモンは拳大のソウル・ジェム(硬度2、HP 8)を腹の中に生成し、いつでも〈扱う〉アクションとしてそれを吐き出すことができる。ジェムを破壊すると中の魂は解放されるが、死亡したクリーチャーが生き返るわけではない。術者がソウル・ジェムの中に閉じ込められた魂を持つクリーチャーを生き返らせようと試みた場合、@Check[religion|dc:30]判定に成功しない限り失敗する。成功すればソウル・ジェムは砕け、その呪文の通常通りにクリーチャーは生き返る。</p>\n<p>フィーンドは〈扱う〉ことで、保持しているソウル・ジェムを摂取し、その魂をフィーンドの故郷である次元界に送ることができる。フィーンドは1分の間、ファスト・ヒーリング5を得る。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.JgJ4Iw8BvJ4tWkah]{効果: ソウル ロック (治癒)}</p>"
         }
       },
-      "name": "カコデーモン/Cacodaemon",
+      "name": "カコダエモン/Cacodaemon",
       "publicNotes": "<p>These twisted embodiments of violence and spite are spawned from eddies of angry and warped souls amid Abaddon's mists. Cacodaemons constantly hunger for mortal souls and yearn to create suffering. As gnashing spheres of teeth, fins, and spines, they are the weakest of daemonkind, an amalgam of various petty forms of death without the strength that comes from focusing on a single cause of demise.</p>\n<hr />\n<p>Denizens of the bleak and terrible plane of Abaddon, daemons are shaped by and devoted to the destruction of life in all its forms. They seek the death of every mortal being by the most painful and horrible means possible, in service to the Apocalypse Riders. Each kind of daemon represents a different way to die, and their powers are nearly always aimed at spreading that particular form of death. Through the use of these powers, they seek to drag all existence down into a pit of hopelessness and despair, and to commit all souls to oblivion.</p>\n<p>While mortals who summon daemons usually seek to use the creatures' destructive and corrupting powers for their own ends, daemons always look for ways to spread fear, doubt, and despair wherever they go. Often, daemons disguise their plots as the workings of other fiends, knowing that such confusion compounds mortals' fear and keeps those mortals from bringing the most effective weapons. As a result, learned mortals sometimes refer to daemons as \"riders\" after their leaders or \"soul mongers\" after their largest industry.</p>\n<p>While many fiends seek to tempt mortals into lives of nihilistic evil to increase their own numbers and power on their native planes, daemons are further driven by a supernatural hunger for mortal souls and use a variety of methods—not least of which is the cacodaemons' soul gems—to entrap them. On Abaddon and in other forbidding places across the multiverse, souls are simultaneously a delicacy, a trade good, and a source of magical power, and the daemons are among the greatest gluttons, merchants, and abusers of this spiritual \"resource.\"</p>"
     },
     "Bugbear Prowler": {
@@ -3221,7 +3221,7 @@
           "name": "コンスタント・スペルズ"
         },
         "drohf7IhPZqL1G92": {
-          "name": "マスター・オヴ・タングズ/Master of Tongues",
+          "name": "マスター・オブ・タングズ/Master of Tongues",
           "description": "<p>パイプフォックスはクリーチャーの言語を話せなくても、抑揚、語根、ボディランゲージを素早く理解することができる。もしパイプフォックスが少なくとも10分の間、あるクリーチャーと交流するか観察し、かつそのクリーチャーが言語を話すことができるなら、パイプフォックスはそのクリーチャーと基本的な概念を伝えることができる。</p>"
         },
         "3tQ9IouJLzsp5YJG": {
@@ -3273,7 +3273,7 @@
           "description": "<p>ルウコデーモンは病気を完全に開花させる。彼らは自身の疫病のオーラの中にいて、現在病気に罹患している対象を1体選ぶ。そのクリーチャーは、その病気の現在の段階の期間が経過したかのように、その病気に対して頑健セーヴを行わなければならない。</p>"
         }
       },
-      "name": "ロイコデーモン/Leukodaemon",
+      "name": "ロイコダエモン/Leukodaemon",
       "publicNotes": "<p>These skull-headed, vulture-winged daemons are harbingers of pestilence and servants of their patron Apocalypse Rider, Apollyon. Manifestations of evil souls who perished from disease in life, leukodaemons work tirelessly alongside one another to spread disease across all the worlds of the multiverse.</p>\n<hr />\n<p>Denizens of the bleak and terrible plane of Abaddon, daemons are shaped by and devoted to the destruction of life in all its forms. They seek the death of every mortal being by the most painful and horrible means possible, in service to the Apocalypse Riders. Each kind of daemon represents a different way to die, and their powers are nearly always aimed at spreading that particular form of death. Through the use of these powers, they seek to drag all existence down into a pit of hopelessness and despair, and to commit all souls to oblivion.</p>\n<p>While mortals who summon daemons usually seek to use the creatures' destructive and corrupting powers for their own ends, daemons always look for ways to spread fear, doubt, and despair wherever they go. Often, daemons disguise their plots as the workings of other fiends, knowing that such confusion compounds mortals' fear and keeps those mortals from bringing the most effective weapons. As a result, learned mortals sometimes refer to daemons as \"riders\" after their leaders or \"soul mongers\" after their largest industry.</p>\n<p>While many fiends seek to tempt mortals into lives of nihilistic evil to increase their own numbers and power on their native planes, daemons are further driven by a supernatural hunger for mortal souls and use a variety of methods—not least of which is the cacodaemons' soul gems—to entrap them. On Abaddon and in other forbidding places across the multiverse, souls are simultaneously a delicacy, a trade good, and a source of magical power, and the daemons are among the greatest gluttons, merchants, and abusers of this spiritual \"resource.\"</p>",
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
@@ -3959,7 +3959,7 @@
           "name": "スクライビング・ロア/Scribing Lore"
         }
       },
-      "name": "ヴェネデーモン/Venedaemon",
+      "name": "ヴェネダエモン/Venedaemon",
       "publicNotes": "<p>Those killed by magic or killed in the pursuit of magic can arise as venedaemons. Although among the weaker daemons, these robed figures can often be seen serving as researchers or clerks throughout the plane. Even within the mortal Universe, scholars barter souls or arcane knowledge with venedaemons for their secrets and assistance.</p>\n<hr />\n<p>Denizens of the bleak and terrible plane of Abaddon, daemons are shaped by and devoted to the destruction of life in all its forms. They seek the death of every mortal being by the most painful and horrible means possible, in service to the Apocalypse Riders. Each kind of daemon represents a different way to die, and their powers are nearly always aimed at spreading that particular form of death. Through the use of these powers, they seek to drag all existence down into a pit of hopelessness and despair, and to commit all souls to oblivion.</p>\n<p>While mortals who summon daemons usually seek to use the creatures' destructive and corrupting powers for their own ends, daemons always look for ways to spread fear, doubt, and despair wherever they go. Often, daemons disguise their plots as the workings of other fiends, knowing that such confusion compounds mortals' fear and keeps those mortals from bringing the most effective weapons. As a result, learned mortals sometimes refer to daemons as \"riders\" after their leaders or \"soul mongers\" after their largest industry.</p>\n<p>While many fiends seek to tempt mortals into lives of nihilistic evil to increase their own numbers and power on their native planes, daemons are further driven by a supernatural hunger for mortal souls and use a variety of methods—not least of which is the cacodaemons' soul gems—to entrap them. On Abaddon and in other forbidding places across the multiverse, souls are simultaneously a delicacy, a trade good, and a source of magical power, and the daemons are among the greatest gluttons, merchants, and abusers of this spiritual \"resource.\"</p>",
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
@@ -4208,7 +4208,7 @@
           "description": "<p>フェイドハーンは小型または中型の水エレメンタル、水棲動物、あるいはヒューマノイドに変身する。これは彼らの能力値には影響しないが、彼らのストライクのダメージ種別を変化させる可能性がある。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "63NX2BGzAfMmzZHR": {
-          "name": "ギフト・オヴ・ホスピタリティ/Gift of Hospitality",
+          "name": "ギフト・オブ・ホスピタリティ/Gift of Hospitality",
           "description": "<p>フェイドハーンは別の同意するクリーチャーに魔法の贈り物をするか、心地よい会話を行う。そのクリーチャーは《社会》および《交渉》判定に+2のステータス・ボーナスを得る。クリーチャーは一度に1つ以上の贈り物を受けることはできず、フェイドハーンも一度に1つ以上の贈り物を授けることはできない。</p>\n<p>対象が敵対的な行動をとった場合、あるいはフェイドハーンが(単一アクションで)受取人との関係を絶った場合、贈り物は終了する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.dVxUCuu1ZjfWkKtx]{効果: 歓待の贈り物}</p>"
         },
         "ZXotvZV2fYBkhfUy": {
@@ -7048,7 +7048,7 @@
           "name": "掴み"
         }
       },
-      "name": "アストラデーモン/Astradaemon",
+      "name": "アストラダエモン/Astradaemon",
       "publicNotes": "<p>These unnerving daemons represent death by direct assault against a soul or life-force. Rarely seen in the mortal Universe, astradaemons spend most of their time hunting the pathways between the living world and the afterlife. There, they capture migrating souls, snatching them from their rightful rewards or punishments and dragging them to Abaddon as tribute to their undying masters. These horrifying predators of the dead can also be found stalking the banks of the River of Souls in the Astral Plane, where they constantly hunt for new victims.</p>\n<hr />\n<p>Denizens of the bleak and terrible plane of Abaddon, daemons are shaped by and devoted to the destruction of life in all its forms. They seek the death of every mortal being by the most painful and horrible means possible, in service to the Apocalypse Riders. Each kind of daemon represents a different way to die, and their powers are nearly always aimed at spreading that particular form of death. Through the use of these powers, they seek to drag all existence down into a pit of hopelessness and despair, and to commit all souls to oblivion.</p>\n<p>While mortals who summon daemons usually seek to use the creatures' destructive and corrupting powers for their own ends, daemons always look for ways to spread fear, doubt, and despair wherever they go. Often, daemons disguise their plots as the workings of other fiends, knowing that such confusion compounds mortals' fear and keeps those mortals from bringing the most effective weapons. As a result, learned mortals sometimes refer to daemons as \"riders\" after their leaders or \"soul mongers\" after their largest industry.</p>\n<p>While many fiends seek to tempt mortals into lives of nihilistic evil to increase their own numbers and power on their native planes, daemons are further driven by a supernatural hunger for mortal souls and use a variety of methods—not least of which is the cacodaemons' soul gems—to entrap them. On Abaddon and in other forbidding places across the multiverse, souls are simultaneously a delicacy, a trade good, and a source of magical power, and the daemons are among the greatest gluttons, merchants, and abusers of this spiritual \"resource.\"</p>",
       "allSaves": "対魔法のすべてのセーヴに状態ボーナス+1"
     },
@@ -9083,7 +9083,7 @@
           "description": "<p>アイアン・ハグは、任意の中型の女性ヒューマノイドの姿をとることができる。これによってその移動速度移動速度やストライクの攻撃ボーナスおよびダメージボーナスが変化することはないが、ストライクが与えるダメージ種別(通常は殴打に変更される)が変化する可能性がある。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "y5dVpyMy5aFYReOk": {
-          "name": "エンブレイス・オヴ・アイアン/Embrace of Iron",
+          "name": "エンブレイス・オブ・アイアン/Embrace of Iron",
           "description": "<p><strong>必要条件</strong>クリーチャーがアイアン・ハグの爪によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態か@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態であること</p>\n<hr />\n<p><strong>効果</strong>ハグの爪が捕らえた犠牲者を切り裂き、@Damage[2d8[piercing]|traits:cold-iron]ダメージを与える(この爪は冷たい鉄である)。その後、ハグはそのクリーチャーに対して@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}を試みることができる。もしそのクリーチャーがハグに隣接しているなら、ハグは続けてそれに対して顎による〈ストライク〉を試みることができる。</p>"
         },
         "3ps9jwhU6IKTI1lp": {
