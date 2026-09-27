@@ -3820,11 +3820,11 @@
     },
     "1mqppqclycua1e1x": {
       "name": "ハーントの力/Power of the Haunt",
-      "description": "<p>ガイストが、無力化も破壊もされていないハウントから100フィート以内にいる場合、彼らはACとセーヴィング・スローに+2の状況ボーナスを得て、噛みつきによるストライクで追加の@Damage[1d6[void]]ダメージを与える。そのガイストについて@Check[type:perception|dc:20|traits:action:seek]判定に成功したクリーチャーは、ガイストの外套クロークから伸びる巻きひげが、ハウントに近づくほど太く、より激しく動くようになるのを目にする。</p>"
+      "description": "<p>ガイストが、無力化も破壊もされていないハーントから100フィート以内にいる場合、彼らはACとセーヴィング・スローに+2の状況ボーナスを得て、噛みつきによるストライクで追加の@Damage[1d6[void]]ダメージを与える。そのガイストについて@Check[type:perception|dc:20|traits:action:seek]判定に成功したクリーチャーは、ガイストの外套クロークから伸びる巻きひげが、ハーントに近づくほど太く、より激しく動くようになるのを目にする。</p>"
     },
     "Power of the Haunt": {
       "name": "ハントの力",
-      "description": "<p>ガイストが、無力化も破壊もされていないハウントから100フィート以内にいる場合、彼らはACとセーヴィング・スローに+2の状況ボーナスを得て、噛みつきによるストライクで追加の@Damage[1d6[void]]ダメージを与える。そのガイストについて@Check[type:perception|dc:20|traits:action:seek]判定に成功したクリーチャーは、ガイストの外套クロークから伸びる巻きひげが、ハウントに近づくほど太く、より激しく動くようになるのを目にする。</p>"
+      "description": "<p>ガイストが、無力化も破壊もされていないハーントから100フィート以内にいる場合、彼らはACとセーヴィング・スローに+2の状況ボーナスを得て、噛みつきによるストライクで追加の@Damage[1d6[void]]ダメージを与える。そのガイストについて@Check[type:perception|dc:20|traits:action:seek]判定に成功したクリーチャーは、ガイストの外套クロークから伸びる巻きひげが、ハーントに近づくほど太く、より激しく動くようになるのを目にする。</p>"
     },
     "B2lJQF6Y6o4hnBeL": {
       "name": "ヴォイド・ヒーリング"
@@ -3839,11 +3839,11 @@
     },
     "58ox9o6ljire079b": {
       "name": "ハーントの憤怒/Wrath of the Haunt",
-      "description": "<p><strong>頻度使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件必要条件</strong>ガイストが活動中のハウントから100フィート100フィート以内にいること。</p>\n<hr />\n<p><strong>効果効果</strong>ハウントはネクロマンシーの力をガイストに送り込み、ガイストの次のターンの終了時まで非活動状態となり、ハウントが再び活動するまでハウントのオーラの力を無効化する。ガイストの外套クロークの縁が、炎と煙でできているように見える鞭のような巻きひげに変貌し、近くのクリーチャーに襲いかかる。ガイストから10フィート10フィート以内にいるすべての生きたクリーチャー生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10 火炎ダメージ火炎ダメージに加え4d6 虚無ダメージ虚無ダメージ}を受ける(@Check[type:reflex|dc:28|basic:true]セーヴ)。</p>"
+      "description": "<p><strong>頻度使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件必要条件</strong>ガイストが活動中のハーントから100フィート100フィート以内にいること。</p>\n<hr />\n<p><strong>効果効果</strong>ハーントはネクロマンシーの力をガイストに送り込み、ガイストの次のターンの終了時まで非活動状態となり、ハーントが再び活動するまでハーントのオーラの力を無効化する。ガイストの外套クロークの縁が、炎と煙でできているように見える鞭のような巻きひげに変貌し、近くのクリーチャーに襲いかかる。ガイストから10フィート10フィート以内にいるすべての生きたクリーチャー生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10 火炎ダメージ火炎ダメージに加え4d6 虚無ダメージ虚無ダメージ}を受ける(@Check[type:reflex|dc:28|basic:true]セーヴ)。</p>"
     },
     "Wrath of the Haunt": {
       "name": "ハントの憤怒",
-      "description": "<p><strong>頻度使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件必要条件</strong>ガイストが活動中のハウントから100フィート100フィート以内にいること。</p>\n<hr />\n<p><strong>効果効果</strong>ハウントはネクロマンシーの力をガイストに送り込み、ガイストの次のターンの終了時まで非活動状態となり、ハウントが再び活動するまでハウントのオーラの力を無効化する。ガイストの外套クロークの縁が、炎と煙でできているように見える鞭のような巻きひげに変貌し、近くのクリーチャーに襲いかかる。ガイストから10フィート10フィート以内にいるすべての生きたクリーチャー生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10 火炎ダメージ火炎ダメージに加え4d6 虚無ダメージ虚無ダメージ}を受ける(@Check[type:reflex|dc:28|basic:true]セーヴ)。</p>"
+      "description": "<p><strong>頻度使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件必要条件</strong>ガイストが活動中のハーントから100フィート100フィート以内にいること。</p>\n<hr />\n<p><strong>効果効果</strong>ハーントはネクロマンシーの力をガイストに送り込み、ガイストの次のターンの終了時まで非活動状態となり、ハーントが再び活動するまでハーントのオーラの力を無効化する。ガイストの外套クロークの縁が、炎と煙でできているように見える鞭のような巻きひげに変貌し、近くのクリーチャーに襲いかかる。ガイストから10フィート10フィート以内にいるすべての生きたクリーチャー生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10 火炎ダメージ火炎ダメージに加え4d6 虚無ダメージ虚無ダメージ}を受ける(@Check[type:reflex|dc:28|basic:true]セーヴ)。</p>"
     },
     "deSS0MPuciBz6LLK": {
       "name": "注射器/Syringe"
@@ -4298,11 +4298,11 @@
     },
     "dyzYm3GYzX3zWWr0": {
       "name": "硫黄の雲/Brimstone Cloud",
-      "description": "<p><strong>トリガー</strong>生きているクリーチャーが穴の縁から10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>サンドポイント・デヴィルの煙を上げる燃えるような顕現が穴から立ち昇るように現れ、硫黄の臭いがする煙の柱が部屋の中に立ち込める。エリア<strong>H6</strong>にいるすべてのクリーチャーは、@Check[type:fortitude|dc:28]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる)。その後、そのハウントはイニシアチブをロールする。</p>"
+      "description": "<p><strong>トリガー</strong>生きているクリーチャーが穴の縁から10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>サンドポイント・デヴィルの煙を上げる燃えるような顕現が穴から立ち昇るように現れ、硫黄の臭いがする煙の柱が部屋の中に立ち込める。エリア<strong>H6</strong>にいるすべてのクリーチャーは、@Check[type:fortitude|dc:28]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる)。その後、そのハーントはイニシアチブをロールする。</p>"
     },
     "Brimstone Cloud": {
       "name": "硫黄の雲",
-      "description": "<p><strong>トリガー</strong>生きているクリーチャーが穴の縁から10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>サンドポイント・デヴィルの煙を上げる燃えるような顕現が穴から立ち昇るように現れ、硫黄の臭いがする煙の柱が部屋の中に立ち込める。エリア<strong>H6</strong>にいるすべてのクリーチャーは、@Check[type:fortitude|dc:28]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる)。その後、そのハウントはイニシアチブをロールする。</p>"
+      "description": "<p><strong>トリガー</strong>生きているクリーチャーが穴の縁から10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>サンドポイント・デヴィルの煙を上げる燃えるような顕現が穴から立ち昇るように現れ、硫黄の臭いがする煙の柱が部屋の中に立ち込める。エリア<strong>H6</strong>にいるすべてのクリーチャーは、@Check[type:fortitude|dc:28]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる)。その後、そのハーントはイニシアチブをロールする。</p>"
     },
     "ZnFe1AJx67Diyerp": {
       "name": "オカルト生得呪文"

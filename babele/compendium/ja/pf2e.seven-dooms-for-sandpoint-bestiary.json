@@ -320,7 +320,7 @@
         },
         "1mqppqclycua1e1x": {
           "name": "ハーントの力/Power of the Haunt",
-          "description": "<p>ガイストが、無効化も破壊もされていないハウントから100フィート以内にいる場合、ガイストはACとセーヴィング・スローに+2のステータス・ボーナスを得て、噛みつきのストライクで追加の@Damage[1d6[void]]ダメージを与える。ガイストについて〈見回す〉または〈思い出す〉ための@Check[perception|dc:20|traits:action:seek]の判定に成功したクリーチャーは、ガイストのクロークから伸びる触手が、ハウントに近づくほど太くなり、激しく動くのを目にする。</p>"
+          "description": "<p>ガイストが、無効化も破壊もされていないハーントから100フィート以内にいる場合、ガイストはACとセーヴィング・スローに+2のステータス・ボーナスを得て、噛みつきのストライクで追加の@Damage[1d6[void]]ダメージを与える。ガイストについて〈見回す〉または〈思い出す〉ための@Check[perception|dc:20|traits:action:seek]の判定に成功したクリーチャーは、ガイストのクロークから伸びる触手が、ハーントに近づくほど太くなり、激しく動くのを目にする。</p>"
         },
         "B2lJQF6Y6o4hnBeL": {
           "name": "ヴォイド・ヒーリング"
@@ -331,7 +331,7 @@
         },
         "58ox9o6ljire079b": {
           "name": "ハーントの憤怒/Wrath of the Haunt",
-          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件</strong>ガイストが活動中のハウントから100フィート以内にいること</p>\n<hr />\n<p><strong>効果</strong>ハウントはガイストに死霊術のパワーを送り込み、ガイストの次のターンの終了時まで不活性状態になり、ハウントが再び活性化するまでハウント・オーラのパワーを停止させる。ガイストのクロークの端は、炎と煙でできているように見える鞭のような触手に変化し、周囲のクリーチャーを激しく打ち据える。ガイストから10フィート以内にいるすべての生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10の火炎ダメージに加えて4d6の虚無ダメージ}を受ける(@Check[reflex|dc:28|basic]セーヴ)。</p>"
+          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件</strong>ガイストが活動中のハーントから100フィート以内にいること</p>\n<hr />\n<p><strong>効果</strong>ハーントはガイストに死霊術のパワーを送り込み、ガイストの次のターンの終了時まで不活性状態になり、ハーントが再び活性化するまでハーント・オーラのパワーを停止させる。ガイストのクロークの端は、炎と煙でできているように見える鞭のような触手に変化し、周囲のクリーチャーを激しく打ち据える。ガイストから10フィート以内にいるすべての生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10の火炎ダメージに加えて4d6の虚無ダメージ}を受ける(@Check[reflex|dc:28|basic]セーヴ)。</p>"
         }
       },
       "blurb": "変種ガイスト",
@@ -472,7 +472,7 @@
       "publicNotes": "<p>This divine warden serves Nethys, the neutral god of magic. It uses its divine gift to defend temples or shrines of @UUID[Compendium.pf2e.deities.Item.9EKyWmjLUu42evxC]{Nethys}.</p>\n<hr />\n<p>Created through complex rituals performed by a faith's adherents, divine wardens have been imbued with a fraction of the power that courses through a champion or cleric of a particular deity. This divine spark allows the divine warden to serve as the protector for a temple, shrine, or other holy site. Such guardians aren't intrinsically bound to a fixed location, but they rarely leave the temple or site over which they watch.</p>\n<p>Most divine wardens have been crafted from clay, stone, wood, or similar materials and typically have features that resemble a deity or a deity's herald. Divine wardens often have other abilities typically exhibited by constructs, such as armor plating, the ability to disguise themselves as statues, or other similar benefits.</p>\n<p>The faithful worshippers who craft divine wardens typically animate the constructs using a special ritual in which the followers beseech their deity to empower the guardian. The divine mandate that imbues a divine warden with power also allows the sentinel to recognize enemies of its deity and prevents the construct from attacking other members of the faith, unless these patrons choose to attack it first.</p>\n<p>In rare cases or particularly dire times, a deity might create a divine warden by directly animating an existing statue or idol to aid faithful followers. These divine guardians are most likely to be found outside of their original locations, assisting displaced congregations or pursuing those who might harm the faithful.</p>"
     },
     "Fear of the Devil": {
-      "reset": "<p>このハウントは、すべてのクリーチャーがエリアから離れてから1分後に非活性化するが、その直後にリセットされる。</p>",
+      "reset": "<p>このハーントは、すべてのクリーチャーがエリアから離れてから1分後に非活性化するが、その直後にリセットされる。</p>",
       "items": {
         "dyzYm3GYzX3zWWr0": {
           "name": "硫黄の雲/Brimstone Cloud",

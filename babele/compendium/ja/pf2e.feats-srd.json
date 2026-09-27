@@ -9681,7 +9681,7 @@
       "source": "Pathfinder Rage of Elements"
     },
     "Haunting Memories": {
-      "name": "ホーンティング・メモリーズ/Haunting Memories",
+      "name": "ハーンティング・メモリーズ/Haunting Memories",
       "description": "<p>あなたの魂は、逃げ出した@UUID[Compendium.pf2e.equipment-srd.Item.5Q5MfHX43Sjm8C6Z]{Final Blade}に囚われている無数の他の霊の形而上学的な印象を持ち、それらの記憶を引き出すことができる。あなたが日課の準備を行う時、あなたは未熟であるスキルの一つにおいて専門家の習熟度を得るか、あるいは訓練済み以上のスキルにおいて習熟度をマスターに引き上げることができる。さらに、選んだスキルにおける新しいランクの最低要件を持つスキルフィートを1つ得る。このフィートのレベル要件を満たすために、あなたのレベルはあなたのレベルの半分と見なす。</p>\n<p>この習熟度とフィートは、あなたが再度日課の準備を行うまで続く。この習熟度は一時的なため、永続的なキャラクターオプションの前提条件として使用することはできない。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
@@ -11043,7 +11043,7 @@
       ]
     },
     "Investigate Haunting": {
-      "name": "インヴェスティゲイト・ホーンティング/Investigate Haunting",
+      "name": "インベスティゲイト・ハーンティング/Investigate Haunting",
       "description": "<p>あなたは幽霊や幽霊の兆候を察知するのが得意である。あなたが探索モードで調査を行っていないときでさえ、その地域で活発な非実体のアンデッドや幽霊に関して、あなたは判定を@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}に得る。また、あなたは幽霊を無効化するための技能判定に+2の状況ボーナスを得る。</p>",
       "source": "Pathfinder #163: Ruins of Gauntlight",
       "prerequisites": [
