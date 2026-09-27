@@ -22773,7 +22773,7 @@
       ]
     },
     "Haunt Ingenuity": {
-      "name": "ホーント・インジェニュイティ/Haunt Ingenuity",
+      "name": "ハーント・インジェニュイティ/Haunt Ingenuity",
       "description": "<p>あなたの巧妙な知識は、過去に渡った魂の感情のエコーを気づく能力を与える。それによって、痕跡を残している。あなたが探索モードで探索していない場合でも、GMはあなたが通常探索する必要がある痕跡に気づくためのシークレット判定を振る。</p>\n<p>あなたは、スキルでマスタープロフィシエンシーを必要とする痕跡を無効にできる、スキルで少なくとも訓練済みに達している限り。あなたがそのスキルでマスタープロフィシエンシーを持っている場合、伝説のプロフィシエンシーランクを必要とする痕跡を無効にすることができる。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
@@ -23323,7 +23323,7 @@
       ]
     },
     "Headless Haunt": {
-      "name": "ヘッドレス・ホーント/Headless Haunt",
+      "name": "ヘッドレス・ハーント/Headless Haunt",
       "description": "<p><strong>アクセス</strong>あなたは@UUID[Compendium.pf2e.equipment-srd.Item.5Q5MfHX43Sjm8C6Z]{Final Blade}で処刑された。</p><hr /><p>あなたは死刑宣告を受け、ガルトの悪名高い<em>の最後の刃で処刑された</em>、そこであなたの魂は何年あるいは数十年も囚われていた。あなたはグレイ・デスの夜の後、あなたの牢獄が破壊されたときに他の霊たちと共に解放された可能性があるか、または強力な魔法や他のユニークな状況によって脱出が促進されたかもしれない。方法にかかわらず、あなたは死後の世界に移行するのを妨げる未完の業務を持っている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.AHCMtFUZXpw98PqS]{削除 Head}アクションを得る。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [

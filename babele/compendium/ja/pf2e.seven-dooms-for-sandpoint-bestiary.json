@@ -319,7 +319,7 @@
           "name": "テレパシー（100フィート）"
         },
         "1mqppqclycua1e1x": {
-          "name": "ホーントの力/Power of the Haunt",
+          "name": "ハーントの力/Power of the Haunt",
           "description": "<p>ガイストが、無効化も破壊もされていないハウントから100フィート以内にいる場合、ガイストはACとセーヴィング・スローに+2のステータス・ボーナスを得て、噛みつきのストライクで追加の@Damage[1d6[void]]ダメージを与える。ガイストについて〈見回す〉または〈思い出す〉ための@Check[perception|dc:20|traits:action:seek]の判定に成功したクリーチャーは、ガイストのクロークから伸びる触手が、ハウントに近づくほど太くなり、激しく動くのを目にする。</p>"
         },
         "B2lJQF6Y6o4hnBeL": {
@@ -330,7 +330,7 @@
           "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong>ガイストは@Template[emanation|distance:20]の中に魂を刺突切り裂くような笑い声を放ち、これはガイストの次のターンの開始時まで持続する。このエリアの中にいる、またはエリアに入るすべてのクリーチャーは、@Check[will|dc:26]セーヴに成功しなければならず、失敗するとパニックに陥った笑いに圧倒され、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3})となる。クリーチャーは恐るべき哄笑1回につき1回しかセーヴを行わず、セーヴィング・スロウに成功したクリーチャーは24時間の間、一時的な免疫となる。</p>"
         },
         "58ox9o6ljire079b": {
-          "name": "ホーントの憤怒/Wrath of the Haunt",
+          "name": "ハーントの憤怒/Wrath of the Haunt",
           "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件</strong>ガイストが活動中のハウントから100フィート以内にいること</p>\n<hr />\n<p><strong>効果</strong>ハウントはガイストに死霊術のパワーを送り込み、ガイストの次のターンの終了時まで不活性状態になり、ハウントが再び活性化するまでハウント・オーラのパワーを停止させる。ガイストのクロークの端は、炎と煙でできているように見える鞭のような触手に変化し、周囲のクリーチャーを激しく打ち据える。ガイストから10フィート以内にいるすべての生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10の火炎ダメージに加えて4d6の虚無ダメージ}を受ける(@Check[reflex|dc:28|basic]セーヴ)。</p>"
         }
       },
