@@ -11,7 +11,7 @@
     },
     "Warden Human (BB)": {
       "name": "ウォーデン・ヒューマン (BB)/Warden Human (BB)",
-      "description": "<p>君と家族は生き残る者で、自分の面倒を見られるようになった。つるはし 次の利益のうち1つを選ぶ.</p>\n<ul>\n<li>最大ヒット・ポイントに4を追加する.</li>\n<li>君は頑健のセーヴィングスローで達人になる.</li>\n<li>君は中装鎧で訓練済みになる.</li>\n</ul>\n<p><em>注意: このヘリテージはビギナーボックス由来で、標準とは異なるヘリテージ特徴を含む</em></p>"
+      "description": "<p>君と家族は生き残る者で、自分の面倒を見られるようになった。つるはし 次の利益のうち1つを選ぶ.</p>\n<ul>\n<li>最大ヒット・ポイントに4を追加する.</li>\n<li>君は頑健のセーヴィング・スローで達人になる.</li>\n<li>君は中装鎧で訓練済みになる.</li>\n</ul>\n<p><em>注意: このヘリテージはビギナーボックス由来で、標準とは異なるヘリテージ特徴を含む</em></p>"
     },
     "Spellkeeper Shisk": {
       "name": "スペルキーパー・シスク/Spellkeeper Shisk",
@@ -64,7 +64,7 @@
     },
     "Ponygait Centaur": {
       "name": "ポニーゲイト・ケンタウロス/Ponygait Centaur",
-      "description": "<p>他の多くのケンタウロスより小さいが、フィートとしての速さは変わらない。大型の代わりに、あなたのサイズは中型になる。反応のセーヴィングスローに+1の状況ボーナスを得る.</p>"
+      "description": "<p>他の多くのケンタウロスより小さいが、フィートとしての速さは変わらない。大型の代わりに、あなたのサイズは中型になる。反応のセーヴィング・スローに+1の状況ボーナスを得る.</p>"
     },
     "Dogtooth Tengu": {
       "name": "犬歯テング語/Dogtooth Tengu",
@@ -322,7 +322,7 @@
     },
     "Dragonblood": {
       "name": "ドラゴンブラッド/Dragonblood",
-      "description": "<p>あなたは何らかの形でドラゴンの血を引いている。あなたの身体的特徴は、ドラゴンのような角、鱗状の皮膚の斑点、あるいは尾といった形で外見に現れることもあれば、内なるドラゴンの力を蓄えることもある。あなたは自身の祖先の持つ特徴に加え、ドラゴンブラッドの特性を得る。あなたの祖先の追加言語リストにドラコニックを加える(あなたの〈知力〉修正値が正のエネルギーであれば、言語としてこれを選択できる)。あなたが恐怖効果に対するセーヴィング・スロウで成功をロールしたなら、代わりに大成功となる。あなたがアンセストラル特技を得るたびに、ドラゴンブラッドの特技とあなたの祖先の特技から選択できる。</p>"
+      "description": "<p>あなたは何らかの形でドラゴンの血を引いている。あなたの身体的特徴は、ドラゴンのような角、鱗状の皮膚の斑点、あるいは尾といった形で外見に現れることもあれば、内なるドラゴンの力を蓄えることもある。あなたは自身の祖先の持つ特徴に加え、ドラゴンブラッドの特性を得る。あなたの祖先の追加言語リストにドラコニックを加える(あなたの〈知力〉修正値が正のエネルギーであれば、言語としてこれを選択できる)。あなたが恐怖効果に対するセーヴィング・スローで成功をロールしたなら、代わりに大成功となる。あなたがアンセストラル特技を得るたびに、ドラゴンブラッドの特技とあなたの祖先の特技から選択できる。</p>"
     },
     "Mutated Fleshwarp": {
       "name": "変異したフレッシュワープ/Mutated Fleshwarp",
@@ -366,7 +366,7 @@
     },
     "Chrysanthemum Leshy": {
       "name": "菊のレッシー/Chrysanthemum Leshy",
-      "description": "<p>人間の子供のように見えるが、頭から皇帝のように華やかな菊の冠が生えている。これらの花弁は薬効があり、毒に対するセーヴィングスローに+1の状況ボーナスを与える。</p>\n<p>さらに、あなたの日課の準備の間、頭から花弁を数枚無害に摘み取り、新鮮な水に浸して単一の@UUID[Compendium.pf2e.equipment-srd.Item.ktjFOp3U0wQD9t0Z]{Lesser Antidote}を作れる。これは茶の形を取る。レベル6では代わりに@UUID[Compendium.pf2e.equipment-srd.Item.AJ1dC7EtTIfBey0M]{Moderate Antidote}を、レベル10では@UUID[Compendium.pf2e.equipment-srd.Item.XWkeL34yJK6t5qUE]{Greater Antidote}を、レベル14では@UUID[Compendium.pf2e.equipment-srd.Item.ANzB9WzlGQXDn76G]{Major Antidote}を作る。茶は次の日課の準備までに消費されないと効果を失う。</p>"
+      "description": "<p>人間の子供のように見えるが、頭から皇帝のように華やかな菊の冠が生えている。これらの花弁は薬効があり、毒に対するセーヴィング・スローに+1の状況ボーナスを与える。</p>\n<p>さらに、あなたの日課の準備の間、頭から花弁を数枚無害に摘み取り、新鮮な水に浸して単一の@UUID[Compendium.pf2e.equipment-srd.Item.ktjFOp3U0wQD9t0Z]{Lesser Antidote}を作れる。これは茶の形を取る。レベル6では代わりに@UUID[Compendium.pf2e.equipment-srd.Item.AJ1dC7EtTIfBey0M]{Moderate Antidote}を、レベル10では@UUID[Compendium.pf2e.equipment-srd.Item.XWkeL34yJK6t5qUE]{Greater Antidote}を、レベル14では@UUID[Compendium.pf2e.equipment-srd.Item.ANzB9WzlGQXDn76G]{Major Antidote}を作る。茶は次の日課の準備までに消費されないと効果を失う。</p>"
     },
     "Lethoci": {
       "name": "レトコシ/Lethoci",
@@ -450,7 +450,7 @@
     },
     "Sewer Rat": {
       "name": "下水ネズミ/Sewer Rat",
-      "description": "<p>あなたは大きな入植地の地下の下水道に拠点を置くコミュニティを持つ、ラットフォークの長い血筋の出身である。あなたは病気「ピュートリッド・プレイグ」に対して免疫である。あなたは病気および毒に対するセーヴィング・スローに+1の状況ボーナスを得る。もしあなたが病気または毒に対するセーヴィング・スロウで成功をロールしたなら、代わりに大成功となる。もしあなたがこの方法でセーヴを改善する別の能力(ファイターのクラス特徴である@UUID[Compendium.pf2e.classfeatures.Item.gdSmSTaGDxf4g2d8]{Battle Hardened}など)を持っている場合、そのセーヴで大失敗をロールしたなら、代わりに失敗となる。</p>"
+      "description": "<p>あなたは大きな入植地の地下の下水道に拠点を置くコミュニティを持つ、ラットフォークの長い血筋の出身である。あなたは病気「ピュートリッド・プレイグ」に対して免疫である。あなたは病気および毒に対するセーヴィング・スローに+1の状況ボーナスを得る。もしあなたが病気または毒に対するセーヴィング・スローで成功をロールしたなら、代わりに大成功となる。もしあなたがこの方法でセーヴを改善する別の能力(ファイターのクラス特徴である@UUID[Compendium.pf2e.classfeatures.Item.gdSmSTaGDxf4g2d8]{Battle Hardened}など)を持っている場合、そのセーヴで大失敗をロールしたなら、代わりに失敗となる。</p>"
     },
     "Homing Drake": {
       "name": "ホーミング・ドレイク/Homing Drake",
@@ -655,7 +655,7 @@
     },
     "Sacred Nagaji": {
       "name": "聖なるナガジ/Sacred Nagaji",
-      "description": "<p>君は多くのナガジとは異なり、上半身が美しい人間で下半身が緑か白の蛇になっている。牙による素手攻撃の代わりに、尾による攻撃を持ち、これは打撃ダメージで1d6のダメージを与え、格闘武器種に属し、フィネスと素手の特性を持つ。君は2の状況ボーナスを、君を@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple}や@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}しようとする試みに対する君の頑健または反応 DCに得る。このボーナスはまた、君を@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grab}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrain}、あるいは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}しようとする効果に対するセーヴィングスローにも適用される。</p>"
+      "description": "<p>君は多くのナガジとは異なり、上半身が美しい人間で下半身が緑か白の蛇になっている。牙による素手攻撃の代わりに、尾による攻撃を持ち、これは打撃ダメージで1d6のダメージを与え、格闘武器種に属し、フィネスと素手の特性を持つ。君は2の状況ボーナスを、君を@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple}や@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}しようとする試みに対する君の頑健または反応 DCに得る。このボーナスはまた、君を@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grab}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrain}、あるいは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}しようとする効果に対するセーヴィング・スローにも適用される。</p>"
     },
     "Fishseeker Shoony": {
       "name": "魚探しシューニー/Fishseeker Shoony",
@@ -667,7 +667,7 @@
     },
     "Created Fleshwarp": {
       "name": "創造されたフレッシュワープ/Created Fleshwarp",
-      "description": "<p>君は大釜で培養されたり、ウスタラヴの科学者が他の生物の部位を縫い合わせたりするような秘術的または錬金術的過程で作られた。君の製造された身体は頑丈で、食べる必要がなく飢えることはない。病気に対するセーヴィングスローに+2の状況ボーナスを得る。</p>"
+      "description": "<p>君は大釜で培養されたり、ウスタラヴの科学者が他の生物の部位を縫い合わせたりするような秘術的または錬金術的過程で作られた。君の製造された身体は頑丈で、食べる必要がなく飢えることはない。病気に対するセーヴィング・スローに+2の状況ボーナスを得る。</p>"
     },
     "Mountaineer Samsaran": {
       "name": "山岳のサムサラン語/Mountaineer Samsaran",
@@ -1134,7 +1134,7 @@
     },
     "Dijiang": {
       "name": "ディジャン/Dijiang",
-      "description": "<p>あなたは顔がなく、革のような質感の球体に短い毛が生え、6本の脚を持ち、根源的な混沌と繋がっている姿をしている。あなたには顔、頭、口、目、耳がないが、なぜか問題なく聞く、話す、見る、食べる、呼吸することができる(正確にどのように行っているかは不明である)。あなたの不規則な性質により、刺激に対して予測不可能な反応をすることが多い。</p>\n<p>感情効果に対するセーヴィング・スロウで失敗(大失敗ではない)をロールした場合、代わりに成功となる。</p>"
+      "description": "<p>あなたは顔がなく、革のような質感の球体に短い毛が生え、6本の脚を持ち、根源的な混沌と繋がっている姿をしている。あなたには顔、頭、口、目、耳がないが、なぜか問題なく聞く、話す、見る、食べる、呼吸することができる(正確にどのように行っているかは不明である)。あなたの不規則な性質により、刺激に対して予測不可能な反応をすることが多い。</p>\n<p>感情効果に対するセーヴィング・スローで失敗(大失敗ではない)をロールした場合、代わりに成功となる。</p>"
     },
     "Sensate Gnome": {
       "name": "感覚のノーム/Sensate Gnome",
@@ -1158,7 +1158,7 @@
     },
     "Even-Tempered Tanuki": {
       "name": "冷静なタヌキ/Even-Tempered Tanuki",
-      "description": "<p>あなたは他のタヌキに珍しい落ち着きを持つ。感情効果に対するセーヴィングスローに+1の状況ボーナスを得る。感情効果に対するセーヴで成功を出した場合、代わりにクリティカル成功になるが、感情効果に対するセーヴで失敗を出した場合、代わりにクリティカル失敗になる。</p>"
+      "description": "<p>あなたは他のタヌキに珍しい落ち着きを持つ。感情効果に対するセーヴィング・スローに+1の状況ボーナスを得る。感情効果に対するセーヴで成功を出した場合、代わりにクリティカル成功になるが、感情効果に対するセーヴで失敗を出した場合、代わりにクリティカル失敗になる。</p>"
     },
     "Ant Kholo": {
       "name": "アリのコロ語/Ant Kholo",
@@ -1210,7 +1210,7 @@
     },
     "Rock Dwarf": {
       "name": "岩のドワーフ/Rock Dwarf",
-      "description": "<p>君の先祖は古い岩場や地中の深みで暮らし働いてきた。そのため君は踏みしめると岩のように安定する。君は2の状況ボーナスを、頑健または反応のDCに対して得る。このボーナスは君を@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{Reposition}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}しようとする試みに対して適用される。また、このボーナスは移動を強制したり君を@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}にする呪文や効果に対するセーヴィングスローにも適用される。</p>\n<p>さらに、もし効果が君を10フィート以上移動させるなら、君は移動させられる距離は半分になる。</p>"
+      "description": "<p>君の先祖は古い岩場や地中の深みで暮らし働いてきた。そのため君は踏みしめると岩のように安定する。君は2の状況ボーナスを、頑健または反応のDCに対して得る。このボーナスは君を@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{Reposition}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}しようとする試みに対して適用される。また、このボーナスは移動を強制したり君を@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}にする呪文や効果に対するセーヴィング・スローにも適用される。</p>\n<p>さらに、もし効果が君を10フィート以上移動させるなら、君は移動させられる距離は半分になる。</p>"
     },
     "Death Warden Dwarf": {
       "name": "死のウォーデンドワーフ/Death Warden Dwarf",
@@ -1306,7 +1306,7 @@
     },
     "Hopeful Athamaru": {
       "name": "Hopeful アサマル/Hopeful Athamaru",
-      "description": "<p>あなたはathamaruの母族長になる準備を始め、指導者としての修練のために共同体の外に出ることが多くなる。身体変化の一環として、以前よりかなり背が高くなる。中型の代わりにあなたのサイズは大型になる。さらに、仲間に希望の感情を与える。あなたは10-フィートのオーラを持ち、その中にいる味方は恐怖に対するセーヴィングスローに対して+1の状況ボーナスを得る；これは感情および精神効果である.</p>"
+      "description": "<p>あなたはathamaruの母族長になる準備を始め、指導者としての修練のために共同体の外に出ることが多くなる。身体変化の一環として、以前よりかなり背が高くなる。中型の代わりにあなたのサイズは大型になる。さらに、仲間に希望の感情を与える。あなたは10-フィートのオーラを持ち、その中にいる味方は恐怖に対するセーヴィング・スローに対して+1の状況ボーナスを得る；これは感情および精神効果である.</p>"
     },
     "Ancient-Blooded Dwarf": {
       "name": "古き血を引く ドワーフ/Ancient-Blooded Dwarf",

@@ -517,11 +517,11 @@
     },
     "IdfK6A7UpGkscuOG": {
       "name": "ガスト・フィーヴァー/Ghast Fever",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:25]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中にガストとして立ち上がる@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{Ghast}</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:25]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中にガストとして立ち上がる@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{Ghast}</p>"
     },
     "Ghast Fever": {
       "name": "ガスト・フィーヴァー",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:25]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中にガストとして立ち上がる@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{Ghast}</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:25]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中にガストとして立ち上がる@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{Ghast}</p>"
     },
     "GBiarRqqq8qwyZtJ": {
       "name": "パラリシス/Paralysis",
@@ -554,11 +554,11 @@
     },
     "oa6JQCeL4B2WQMPI": {
       "name": "グール・フィーヴァー/Ghoul Fever",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:15]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[2d6[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中にグールとして立ち上がる。@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.LHHgGSs0ELCR4CYK]{Ghoul}</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:15]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[2d6[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中にグールとして立ち上がる。@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.LHHgGSs0ELCR4CYK]{Ghoul}</p>"
     },
     "Ghoul Fever": {
       "name": "グール・フィーヴァー",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:15]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[2d6[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中にグールとして立ち上がる。@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.LHHgGSs0ELCR4CYK]{Ghoul}</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:15]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[2d6[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中にグールとして立ち上がる。@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.LHHgGSs0ELCR4CYK]{Ghoul}</p>"
     },
     "9TCF9GcaMoTKkPSj": {
       "name": "パラリシス",
@@ -788,11 +788,11 @@
     },
     "E4osyN7mgvABXIRE": {
       "name": "真の誘惑/True Temptation",
-      "description": "<p><strong>使用制限</strong> 1日3回</p>\n<p><strong>トリガー</strong>レッド・ビショップから30フィート以内にいるクリーチャーが、一息でパズズの名を3回声に出して唱える</p>\n<hr />\n<p><strong>効果</strong>レッド・ビショップはそのクリーチャーに対して@UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{チャーム}を詠唱する。飛行移動速度を持つクリーチャーは、この<em>チャーム</em>に対するセーヴィング・スロウに－4の状況ペナルティを受ける。</p>"
+      "description": "<p><strong>使用制限</strong> 1日3回</p>\n<p><strong>トリガー</strong>レッド・ビショップから30フィート以内にいるクリーチャーが、一息でパズズの名を3回声に出して唱える</p>\n<hr />\n<p><strong>効果</strong>レッド・ビショップはそのクリーチャーに対して@UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{チャーム}を詠唱する。飛行移動速度を持つクリーチャーは、この<em>チャーム</em>に対するセーヴィング・スローに－4の状況ペナルティを受ける。</p>"
     },
     "True Temptation": {
       "name": "真の誘惑",
-      "description": "<p><strong>使用制限</strong> 1日3回</p>\n<p><strong>トリガー</strong>レッド・ビショップから30フィート以内にいるクリーチャーが、一息でパズズの名を3回声に出して唱える</p>\n<hr />\n<p><strong>効果</strong>レッド・ビショップはそのクリーチャーに対して@UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{チャーム}を詠唱する。飛行移動速度を持つクリーチャーは、この<em>チャーム</em>に対するセーヴィング・スロウに－4の状況ペナルティを受ける。</p>"
+      "description": "<p><strong>使用制限</strong> 1日3回</p>\n<p><strong>トリガー</strong>レッド・ビショップから30フィート以内にいるクリーチャーが、一息でパズズの名を3回声に出して唱える</p>\n<hr />\n<p><strong>効果</strong>レッド・ビショップはそのクリーチャーに対して@UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{チャーム}を詠唱する。飛行移動速度を持つクリーチャーは、この<em>チャーム</em>に対するセーヴィング・スローに－4の状況ペナルティを受ける。</p>"
     },
     "2IybDR9dBLK8bfWV": {
       "name": "運命の代理人/Agent of Fate",
@@ -1383,11 +1383,11 @@
     },
     "pK7TW7mAgEFfJu0Q": {
       "name": "カース・オブ・ザ・ウェアラット/Curse of the Wererat",
-      "description": "<p>この呪いは人型生物にのみ影響を与える。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:26]</p>\n<hr />\n<p>満月の夜ごとに、呪われたクリーチャーはもう一度頑健セーヴに成功しなければならず、失敗すると夜明けまでウェアラットに変身する。</p>\n<p>そのクリーチャーはGMの制御下に置かれ、夜の半分を大暴れした後に、夜明けまで気絶状態になる。</p>"
+      "description": "<p>この呪いは人型生物にのみ影響を与える。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:26]</p>\n<hr />\n<p>満月の夜ごとに、呪われたクリーチャーはもう一度頑健セーヴに成功しなければならず、失敗すると夜明けまでウェアラットに変身する。</p>\n<p>そのクリーチャーはGMの制御下に置かれ、夜の半分を大暴れした後に、夜明けまで気絶状態になる。</p>"
     },
     "Curse of the Wererat": {
       "name": "カース・オブ・ザ・ウェアラット",
-      "description": "<p>この呪いは人型生物にのみ影響を与える。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:26]</p>\n<hr />\n<p>満月の夜ごとに、呪われたクリーチャーはもう一度頑健セーヴに成功しなければならず、失敗すると夜明けまでウェアラットに変身する。</p>\n<p>そのクリーチャーはGMの制御下に置かれ、夜の半分を大暴れした後に、夜明けまで気絶状態になる。</p>"
+      "description": "<p>この呪いは人型生物にのみ影響を与える。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:26]</p>\n<hr />\n<p>満月の夜ごとに、呪われたクリーチャーはもう一度頑健セーヴに成功しなければならず、失敗すると夜明けまでウェアラットに変身する。</p>\n<p>そのクリーチャーはGMの制御下に置かれ、夜の半分を大暴れした後に、夜明けまで気絶状態になる。</p>"
     },
     "rBKIlYFoV3vW1kEN": {
       "name": "ムーン・フレンジー/Moon Frenzy",
@@ -1543,11 +1543,11 @@
     },
     "pkqZFkDwe6SFvUXX": {
       "name": "サーペントフォーク・ヴェノム/Serpentfolk Venom",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d4[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d4[poison]]ダメージおよびenfeebled 1(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d4[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d4[poison]]ダメージおよびenfeebled 1(1ラウンド)</p>"
     },
     "Serpentfolk Venom": {
       "name": "サーペントフォーク・ヴェノム",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d4[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d4[poison]]ダメージおよびenfeebled 1(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d4[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d4[poison]]ダメージおよびenfeebled 1(1ラウンド)</p>"
     },
     "4a9pCpwoR5ufFsSf": {
       "name": "影響力"
@@ -1746,11 +1746,11 @@
     },
     "F4ycjKNXdW1hYrZO": {
       "name": "グリオス・ヴェノム",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:26]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3} (1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:26]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3} (1ラウンド)</p>"
     },
     "Grioth Venom": {
       "name": "グリオス・ヴェノム/Grioth Venom",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}(1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}(1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}(1ラウンド)</p>"
     },
     "XeDbTFaMNm2WneCP": {
       "name": "ショック・マインド",
@@ -1788,11 +1788,11 @@
     },
     "36QKwrAooz1cygR4": {
       "name": "サイティレシュ・ステア/Cytillesh Stare",
-      "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>マジスターは30フィート以内にいる視認できるクリーチャーに視線を集中させる。対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態に1ラウンドの間なり、@Check[type:will|dc:24]セーヴィング・スロウに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドの間なる。</p>"
+      "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>マジスターは30フィート以内にいる視認できるクリーチャーに視線を集中させる。対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態に1ラウンドの間なり、@Check[type:will|dc:24]セーヴィング・スローに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドの間なる。</p>"
     },
     "Cytillesh Stare": {
       "name": "サイティレシュ・ステア",
-      "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>マジスターは30フィート以内にいる視認できるクリーチャーに視線を集中させる。対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態に1ラウンドの間なり、@Check[type:will|dc:24]セーヴィング・スロウに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドの間なる。</p>"
+      "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>マジスターは30フィート以内にいる視認できるクリーチャーに視線を集中させる。対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態に1ラウンドの間なり、@Check[type:will|dc:24]セーヴィング・スローに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドの間なる。</p>"
     },
     "VL2af2GD7VsPiI1u": {
       "name": "顎"
@@ -1898,11 +1898,11 @@
     },
     "f1adZO1FX8WkPN1h": {
       "name": "紫の腐敗/Violet Rot",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d6[poison]]ダメージ、およびenfeebled 1と@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[2d6[poison]]ダメージ、およびenfeebled 1とdrained 1(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d6[poison]]ダメージ、およびenfeebled 1と@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[2d6[poison]]ダメージ、およびenfeebled 1とdrained 1(1ラウンド)</p>"
     },
     "Violet Rot": {
       "name": "紫の腐敗",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d6[poison]]ダメージ、およびenfeebled 1と@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[2d6[poison]]ダメージ、およびenfeebled 1とdrained 1(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d6[poison]]ダメージ、およびenfeebled 1と@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[2d6[poison]]ダメージ、およびenfeebled 1とdrained 1(1ラウンド)</p>"
     },
     "TAOQ8f2QoSK6wYYW": {
       "name": "忌まわしき光を凍結する/Freeze the Awful Light",
@@ -1950,7 +1950,7 @@
     },
     "dd90VYwacTBPrupI": {
       "name": "グリオス・ヴェノム",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}(1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}(1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}(1ラウンド)</p>"
     },
     "jspQIwxqoVmeF37U": {
       "name": "暗闇の徘徊者を呼び出す/Invoke Haunter of the Dark",
@@ -2125,11 +2125,11 @@
     },
     "TtqhvUO0vvhjbIFp": {
       "name": "悪魔祓い脆弱性/Exorcism Vulnerability",
-      "description": "<p>インヴィディアクがクリーチャーに憑依しようとし、かつそのクリーチャーが@UUID[Compendium.pf2e.spells-srd.Item.wU6hNzK8Yfqdmc8m]{憑依}に抵抗するためのセーヴィング・スロウでクリティカル成功した場合、またはインヴィディアクによるクリーチャーへの憑依が、成功した@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}などによって早期に終了した場合、インヴィディアクは@Damage[6d6[mental]]ダメージを受け、24時間の間、憑依を使用できなくなる。</p>"
+      "description": "<p>インヴィディアクがクリーチャーに憑依しようとし、かつそのクリーチャーが@UUID[Compendium.pf2e.spells-srd.Item.wU6hNzK8Yfqdmc8m]{憑依}に抵抗するためのセーヴィング・スローでクリティカル成功した場合、またはインヴィディアクによるクリーチャーへの憑依が、成功した@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}などによって早期に終了した場合、インヴィディアクは@Damage[6d6[mental]]ダメージを受け、24時間の間、憑依を使用できなくなる。</p>"
     },
     "Exorcism Vulnerability": {
       "name": "悪魔祓い脆弱性",
-      "description": "<p>インヴィディアクがクリーチャーに憑依しようと試み、そのクリーチャーが@UUID[Compendium.pf2e.spells-srd.Item.wU6hNzK8Yfqdmc8m]{憑依}に抵抗するためのセーヴィング・スロウでクリティカル成功した場合、あるいはインヴィディアクによるクリーチャーへの憑依が、成功した@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}などによって早期に終了した場合、そのインヴィディアクは@Damage[6d6[mental]]ダメージを受け、24時間の間、憑依を使用できなくなる。</p>"
+      "description": "<p>インヴィディアクがクリーチャーに憑依しようと試み、そのクリーチャーが@UUID[Compendium.pf2e.spells-srd.Item.wU6hNzK8Yfqdmc8m]{憑依}に抵抗するためのセーヴィング・スローでクリティカル成功した場合、あるいはインヴィディアクによるクリーチャーへの憑依が、成功した@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}などによって早期に終了した場合、そのインヴィディアクは@Damage[6d6[mental]]ダメージを受け、24時間の間、憑依を使用できなくなる。</p>"
     },
     "tIiXnBCscCuQi4WY": {
       "name": "好みの宿主/Favored Host",
@@ -2260,11 +2260,11 @@
     },
     "egV0y60X9Okkmuoc": {
       "name": "ハンティング・スパイダー・ヴェノム/Hunting Spider Venom",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:16]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d10[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d12[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}、およびオフガード(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[2d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}、およびオフガード(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:16]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d10[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d12[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}、およびオフガード(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[2d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}、およびオフガード(1ラウンド)</p>"
     },
     "Hunting Spider Venom": {
       "name": "ハンティング・スパイダー・ヴェノム",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:16]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d10[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d12[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}、およびオフガード(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[2d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}、およびオフガード(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:16]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d10[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d12[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}、およびオフガード(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[2d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}、およびオフガード(1ラウンド)</p>"
     },
     "Qy7s2ZDFTvr7xR1m": {
       "name": "ウェブ・トラップ/Web Trap",
@@ -2345,11 +2345,11 @@
     },
     "1AbBtZhPY7lYpSm0": {
       "name": "ゴブリン・ポックス/Goblin Pox",
-      "description": "<p>ゴブリンとゴブリン・ドッグはゴブリン・ポックスに対して免疫である。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:17]</p>\n<hr />\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} (1ラウンド)</p>\n<p><strong>第2段階</strong>病気状態1および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}。また、病気状態の値を1未満に減少させることはできない (1日)</p>"
+      "description": "<p>ゴブリンとゴブリン・ドッグはゴブリン・ポックスに対して免疫である。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:17]</p>\n<hr />\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} (1ラウンド)</p>\n<p><strong>第2段階</strong>病気状態1および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}。また、病気状態の値を1未満に減少させることはできない (1日)</p>"
     },
     "Goblin Pox": {
       "name": "ゴブリン・ポックス",
-      "description": "<p>ゴブリンとゴブリン・ドッグはゴブリン・ポックスに対して免疫である。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:17]</p>\n<hr />\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} (1ラウンド)</p>\n<p><strong>第2段階</strong>病気状態1および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}。また、病気状態の値を1未満に減少させることはできない (1日)</p>"
+      "description": "<p>ゴブリンとゴブリン・ドッグはゴブリン・ポックスに対して免疫である。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:17]</p>\n<hr />\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} (1ラウンド)</p>\n<p><strong>第2段階</strong>病気状態1および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1ラウンド)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}。また、病気状態の値を1未満に減少させることはできない (1日)</p>"
     },
     "oEnTmvBRzYBAWuou": {
       "name": "引っかき/Scratch",
@@ -2392,11 +2392,11 @@
     },
     "P7JMDrm2HB1QPV3N": {
       "name": "ウェブ・ラーカーの毒/Web Lurker Venom",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:19]</p>\n<hr />\n<p><strong>最大持続時間</strong> 10ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d6[poison]]ダメージ、off-guard、および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:19]</p>\n<hr />\n<p><strong>最大持続時間</strong> 10ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d6[poison]]ダメージ、off-guard、および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}(1ラウンド)</p>"
     },
     "Web Lurker Venom": {
       "name": "ウェブ・ラーカーの毒",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:19]</p>\n<hr />\n<p><strong>最大持続時間</strong> 10ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d6[poison]]ダメージ、off-guard、および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:19]</p>\n<hr />\n<p><strong>最大持続時間</strong> 10ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d6[poison]]ダメージ、off-guard、および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}(1ラウンド)</p>"
     },
     "Re5HgCWQJTyzGewL": {
       "name": "ウェブ・トラップ",
@@ -2623,19 +2623,19 @@
     },
     "snOrUVs5f8v8gtuP": {
       "name": "グレイブナイツ・カース/Graveknight's Curse",
-      "description": "<p>この呪いは、グレイヴナイトの鎧を少なくとも1時間着用した者に影響を与える。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:will|dc:24]セーヴ</p>\n<hr />\n<p><strong>潜伏期間</strong> 1時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 2}、そのクリーチャーの移動速度が10減少し、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第3段階</strong>死亡し、その鎧のグレイヴナイトへと変貌する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6rnB7nK6J6zF4vea]{効果：グレイヴナイトの呪い}</p>"
+      "description": "<p>この呪いは、グレイヴナイトの鎧を少なくとも1時間着用した者に影響を与える。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:will|dc:24]セーヴ</p>\n<hr />\n<p><strong>潜伏期間</strong> 1時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 2}、そのクリーチャーの移動速度が10減少し、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第3段階</strong>死亡し、その鎧のグレイヴナイトへと変貌する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6rnB7nK6J6zF4vea]{効果：グレイヴナイトの呪い}</p>"
     },
     "Graveknight's Curse": {
       "name": "グレイヴナイツ・カース",
-      "description": "<p>この呪いは、グレイヴナイトの鎧を少なくとも1時間着用した者に影響を与える。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:will|dc:24]セーヴ</p>\n<hr />\n<p><strong>潜伏期間</strong> 1時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 2}、そのクリーチャーの移動速度が10減少し、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第3段階</strong>死亡し、その鎧のグレイヴナイトへと変貌する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6rnB7nK6J6zF4vea]{効果：グレイヴナイトの呪い}</p>"
+      "description": "<p>この呪いは、グレイヴナイトの鎧を少なくとも1時間着用した者に影響を与える。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:will|dc:24]セーヴ</p>\n<hr />\n<p><strong>潜伏期間</strong> 1時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 2}、そのクリーチャーの移動速度が10減少し、かつ鎧を脱ぐことができない(1日)</p>\n<p><strong>第3段階</strong>死亡し、その鎧のグレイヴナイトへと変貌する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6rnB7nK6J6zF4vea]{効果：グレイヴナイトの呪い}</p>"
     },
     "cYzNZC3Tju4useHD": {
       "name": "ファントム・マウント/Phantom Mount",
-      "description": "<p>リプナゲットの騎乗動物は、スティックフットという名前のジャイアント・ゲッコー(HP 37; AC 19、頑健+11、反応+8、意志+7)である。</p>\n<hr />\n<p>グレイヴナイトは、グレイヴナイトのレベルの半分に等しいレベルに高められた、@UUID[Compendium.pf2e.spells-srd.Item.WPKJOhEihhcIm2uQ]{マーヴェラス・〈騎乗〉}と同様の超自然的騎乗動物を召喚する。</p>\n<p><em>ファントム・スティード</em>とは異なり、この乗騎のACとセーヴィング・スロウのボーナスはすべてグレイヴナイトのものより4低く、この乗騎はグレイヴナイトの3分の1のヒット・ポイント(端数切り捨て)を持つ。</p>\n<p>乗騎が破壊された場合、グレイヴナイトはこの能力を再び使用するまでに1時間待たなければならない。</p>"
+      "description": "<p>リプナゲットの騎乗動物は、スティックフットという名前のジャイアント・ゲッコー(HP 37; AC 19、頑健+11、反応+8、意志+7)である。</p>\n<hr />\n<p>グレイヴナイトは、グレイヴナイトのレベルの半分に等しいレベルに高められた、@UUID[Compendium.pf2e.spells-srd.Item.WPKJOhEihhcIm2uQ]{マーヴェラス・〈騎乗〉}と同様の超自然的騎乗動物を召喚する。</p>\n<p><em>ファントム・スティード</em>とは異なり、この乗騎のACとセーヴィング・スローのボーナスはすべてグレイヴナイトのものより4低く、この乗騎はグレイヴナイトの3分の1のヒット・ポイント(端数切り捨て)を持つ。</p>\n<p>乗騎が破壊された場合、グレイヴナイトはこの能力を再び使用するまでに1時間待たなければならない。</p>"
     },
     "Phantom Mount": {
       "name": "ファントム・マウント/Phantom Mount",
-      "description": "<p>リプナゲットの騎乗動物は、スティックフットという名前のジャイアント・ゲッコー(HP 37; AC 19、頑健+11、反応+8、意志+7)である。</p>\n<hr />\n<p>グレイヴナイトは、グレイヴナイトのレベルの半分に等しいレベルに高められた、@UUID[Compendium.pf2e.spells-srd.Item.WPKJOhEihhcIm2uQ]{マーヴェラス・〈騎乗〉}と同様の超自然的騎乗動物を召喚する。</p>\n<p><em>ファントム・スティード</em>とは異なり、この乗騎のACとセーヴィング・スロウのボーナスはすべてグレイヴナイトのものより4低く、この乗騎はグレイヴナイトの3分の1のヒット・ポイント(端数切り捨て)を持つ。</p>\n<p>乗騎が破壊された場合、グレイヴナイトはこの能力を再び使用するまでに1時間待たなければならない。</p>"
+      "description": "<p>リプナゲットの騎乗動物は、スティックフットという名前のジャイアント・ゲッコー(HP 37; AC 19、頑健+11、反応+8、意志+7)である。</p>\n<hr />\n<p>グレイヴナイトは、グレイヴナイトのレベルの半分に等しいレベルに高められた、@UUID[Compendium.pf2e.spells-srd.Item.WPKJOhEihhcIm2uQ]{マーヴェラス・〈騎乗〉}と同様の超自然的騎乗動物を召喚する。</p>\n<p><em>ファントム・スティード</em>とは異なり、この乗騎のACとセーヴィング・スローのボーナスはすべてグレイヴナイトのものより4低く、この乗騎はグレイヴナイトの3分の1のヒット・ポイント(端数切り捨て)を持つ。</p>\n<p>乗騎が破壊された場合、グレイヴナイトはこの能力を再び使用するまでに1時間待たなければならない。</p>"
     },
     "t6KHJCiZXdNJnqxB": {
       "name": "ウェポン・マスター/Weapon Master",
@@ -2702,11 +2702,11 @@
     },
     "pA64qfMCuUfGqBOF": {
       "name": "アンフィスバエナの毒/Amphisbaena Venom",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:18]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺} (1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:18]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺} (1ラウンド)</p>"
     },
     "Amphisbaena Venom": {
       "name": "アンフィスバエナの毒",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:18]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺} (1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:18]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺} (1ラウンド)</p>"
     },
     "GC4dnaKqE0PPSLwc": {
       "name": "ブラインディング・スピトル/Blinding Spittle",
@@ -3090,11 +3090,11 @@
     },
     "vifFDe9xdMiljKzm": {
       "name": "クロックワーク・サーペントの毒/Clockwork Serpent Venom",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}、およびオフガード(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}、およびオフガード(1ラウンド)</p>"
     },
     "Clockwork Serpent Venom": {
       "name": "クロックワーク・サーペントの毒",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}、およびオフガード(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}、およびオフガード(1ラウンド)</p>"
     },
     "UBS0sNTttXtjVkf8": {
       "name": "絞め付け",
@@ -3187,11 +3187,11 @@
     },
     "aZNmBtBro1xYaubO": {
       "name": "ドライダー・ヴェノム/Drider Venom",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:28]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:28]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}</p>"
     },
     "Drider Venom": {
       "name": "ドライダー・ヴェノム",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:28]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:28]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}</p>"
     },
     "mhBBm02GHgEZ30NR": {
       "name": "ウェブ・トラップ",
@@ -3325,7 +3325,7 @@
     },
     "0uKRwcXWl9CqbtjY": {
       "name": "ガスト・フィーヴァー",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:32]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響なしのキャリア(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同じ(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージを受け、回復から何の恩恵も得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同じ(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{ガースト}として立ち上がる</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:32]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響なしのキャリア(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同じ(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージを受け、回復から何の恩恵も得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同じ(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{ガースト}として立ち上がる</p>"
     },
     "gcFxm6W1omvdDARf": {
       "name": "パラリシス",
@@ -3592,11 +3592,11 @@
     },
     "CwEVrNGC8oHJQrv0": {
       "name": "イスクルギア/Isqulugia",
-      "description": "<p>イスクルギアの@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調}、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}、および@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態は、この病気が取り除かれるまで取り除くことはできない。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:30]</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} (1時間)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}および@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2} (1日)</p>\n<p><strong>第3段階</strong>疲労および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1日)</p>\n<p><strong>第4段階</strong>麻痺 (1日)</p>\n<p><strong>第5段階</strong>そのクリーチャーは死亡し、その肉体は激しく変形して新たなイスクルグとなる。 @UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{ウィッシュ}、類似の魔法、または9レベルの@UUID[Compendium.pf2e.spells-srd.Item.kqhPt9344UkcGVYO]{リザレクト}の儀式であれば、犠牲者を生き返らせることができる。新たなイスクルグは、犠牲者が生き返ったとしてもそのまま残る。</p>"
+      "description": "<p>イスクルギアの@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調}、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}、および@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態は、この病気が取り除かれるまで取り除くことはできない。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:30]</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} (1時間)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}および@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2} (1日)</p>\n<p><strong>第3段階</strong>疲労および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1日)</p>\n<p><strong>第4段階</strong>麻痺 (1日)</p>\n<p><strong>第5段階</strong>そのクリーチャーは死亡し、その肉体は激しく変形して新たなイスクルグとなる。 @UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{ウィッシュ}、類似の魔法、または9レベルの@UUID[Compendium.pf2e.spells-srd.Item.kqhPt9344UkcGVYO]{リザレクト}の儀式であれば、犠牲者を生き返らせることができる。新たなイスクルグは、犠牲者が生き返ったとしてもそのまま残る。</p>"
     },
     "Isqulugia": {
       "name": "イスクルギア",
-      "description": "<p>イスクルギアの@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調}、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}、および@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態は、この病気が取り除かれるまで取り除くことはできない。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:30]</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} (1時間)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}および@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2} (1日)</p>\n<p><strong>第3段階</strong>疲労および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1日)</p>\n<p><strong>第4段階</strong>麻痺 (1日)</p>\n<p><strong>第5段階</strong>そのクリーチャーは死亡し、その肉体は激しく変形して新たなイスクルグとなる。 @UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{ウィッシュ}、類似の魔法、または9レベルの@UUID[Compendium.pf2e.spells-srd.Item.kqhPt9344UkcGVYO]{リザレクト}の儀式であれば、犠牲者を生き返らせることができる。新たなイスクルグは、犠牲者が生き返ったとしてもそのまま残る。</p>"
+      "description": "<p>イスクルギアの@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調}、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}、および@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態は、この病気が取り除かれるまで取り除くことはできない。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:30]</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} (1時間)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}および@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2} (1日)</p>\n<p><strong>第3段階</strong>疲労および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1日)</p>\n<p><strong>第4段階</strong>麻痺 (1日)</p>\n<p><strong>第5段階</strong>そのクリーチャーは死亡し、その肉体は激しく変形して新たなイスクルグとなる。 @UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{ウィッシュ}、類似の魔法、または9レベルの@UUID[Compendium.pf2e.spells-srd.Item.kqhPt9344UkcGVYO]{リザレクト}の儀式であれば、犠牲者を生き返らせることができる。新たなイスクルグは、犠牲者が生き返ったとしてもそのまま残る。</p>"
     },
     "u3s5y4pE6L6HfEAq": {
       "name": "マリアビリティ/Malleability",
@@ -3749,7 +3749,7 @@
     },
     "jBG6xbHHK21Ic2Ls": {
       "name": "ガスト・フィーヴァー",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:30]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響なしのキャリア(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同じ(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージを受け、回復から何の恩恵も得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同じ(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{ガースト}として立ち上がる</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:30]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響なしのキャリア(1日)</p>\n<p><strong>第2段階</strong> @Damage[3d8[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同じ(1日)</p>\n<p><strong>第4段階</strong> @Damage[3d8[void]]ダメージを受け、回復から何の恩恵も得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同じ(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.VC7rtYR4hLxwg7WZ]{ガースト}として立ち上がる</p>"
     },
     "IGWtUVFJMumVeibR": {
       "name": "スウォーミング・バイツ",
@@ -3765,11 +3765,11 @@
     },
     "tyAeSBnHmP9Nuh2k": {
       "name": "イエロー・モールドの胞子/Yellow Mold Spores",
-      "description": "<p>胞子によるドレイン状態は、毒の持続時間が終了した後も持続する。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:26]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 3} (1ラウンド)</p>"
+      "description": "<p>胞子によるドレイン状態は、毒の持続時間が終了した後も持続する。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:26]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 3} (1ラウンド)</p>"
     },
     "Yellow Mold Spores": {
       "name": "イエロー・モールドの胞子",
-      "description": "<p>胞子によるドレイン状態は、毒の持続時間が終了した後も持続する。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:26]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 3} (1ラウンド)</p>"
+      "description": "<p>胞子によるドレイン状態は、毒の持続時間が終了した後も持続する。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:26]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 3} (1ラウンド)</p>"
     },
     "X4dbGwvffyOz8AAl": {
       "name": "拳"
@@ -3798,11 +3798,11 @@
     },
     "TjHnriTSE9y88Oaj": {
       "name": "パープル・ポックス/Purple Pox",
-      "description": "<p>マイセロイドは免疫である。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>発症</strong> 1分</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1日)</p>\n<p><strong>第2段階</strong> @Damage[6d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 3}、そしてそのクリーチャーは最も近いマイセロイドのコロニーを探すよう強制される。この強制は精神の感情効果である (1日)</p>\n<p><strong>第3段階</strong>そのクリーチャーは死亡する。24時間かけて、その死体は膨張して破裂し、完全に成長した新しいマイセロイドを放出する。</p>"
+      "description": "<p>マイセロイドは免疫である。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>発症</strong> 1分</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1日)</p>\n<p><strong>第2段階</strong> @Damage[6d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 3}、そしてそのクリーチャーは最も近いマイセロイドのコロニーを探すよう強制される。この強制は精神の感情効果である (1日)</p>\n<p><strong>第3段階</strong>そのクリーチャーは死亡する。24時間かけて、その死体は膨張して破裂し、完全に成長した新しいマイセロイドを放出する。</p>"
     },
     "Purple Pox": {
       "name": "パープル・ポックス",
-      "description": "<p>マイセロイドは免疫である。</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>発症</strong> 1分</p>\n<p><strong>　第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1日)</p>\n<p><strong>第2段階</strong> @Damage[6d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 3}、そしてそのクリーチャーは最も近いマイセロイドのコロニーを探すよう強制される。この強制は精神の感情効果である (1日)</p>\n<p><strong>第3段階</strong>そのクリーチャーは死亡する。24時間かけて、その死体は膨張して破裂し、完全に成長した新しいマイセロイドを放出する。</p>"
+      "description": "<p>マイセロイドは免疫である。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:20]</p>\n<hr />\n<p><strong>発症</strong> 1分</p>\n<p><strong>　第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1日)</p>\n<p><strong>第2段階</strong> @Damage[6d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 3}、そしてそのクリーチャーは最も近いマイセロイドのコロニーを探すよう強制される。この強制は精神の感情効果である (1日)</p>\n<p><strong>第3段階</strong>そのクリーチャーは死亡する。24時間かけて、その死体は膨張して破裂し、完全に成長した新しいマイセロイドを放出する。</p>"
     },
     "Jyzm7OFRyidSiJk0": {
       "name": "スポア・ドミネーション/Spore Domination",
@@ -3926,11 +3926,11 @@
     },
     "pepIdjNqJtUTl9Wn": {
       "name": "エンドレス・ナイトメア/Endless Nightmare",
-      "description": "<p>アニメイト・ドリームの接触は、被害者の精神を恐ろしい幻影で満たす</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労} (1日)</p>\n<p><strong>第2段階</strong>疲労状態となり、かつ@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1日)</p>\n<p><strong>第3段階</strong>被害者は@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態となり、この段階に留まっている間は目覚めることができない (1日)。</p>"
+      "description": "<p>アニメイト・ドリームの接触は、被害者の精神を恐ろしい幻影で満たす</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労} (1日)</p>\n<p><strong>第2段階</strong>疲労状態となり、かつ@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1日)</p>\n<p><strong>第3段階</strong>被害者は@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態となり、この段階に留まっている間は目覚めることができない (1日)。</p>"
     },
     "Endless Nightmare": {
       "name": "エンドレス・ナイトメア",
-      "description": "<p>アニメイト・ドリームの接触は、被害者の精神を恐ろしい幻影で満たす</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労} (1日)</p>\n<p><strong>第2段階</strong>疲労状態となり、かつ@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1日)</p>\n<p><strong>第3段階</strong>被害者は@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態となり、この段階に留まっている間は目覚めることができない (1日)。</p>"
+      "description": "<p>アニメイト・ドリームの接触は、被害者の精神を恐ろしい幻影で満たす</p>\n<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労} (1日)</p>\n<p><strong>第2段階</strong>疲労状態となり、かつ@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1日)</p>\n<p><strong>第3段階</strong>被害者は@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態となり、この段階に留まっている間は目覚めることができない (1日)。</p>"
     },
     "iGam6RcKFAl2V9TI": {
       "name": "シルバーのフラスコ/Silver Flask"
@@ -4138,11 +4138,11 @@
     },
     "QTnEqxIt2MaL0WlZ": {
       "name": "スピリット・ナーガ・ヴェノム/Spirit Naga Venom",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:28]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2} (1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:28]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2} (1ラウンド)</p>"
     },
     "Spirit Naga Venom": {
       "name": "スピリット・ナーガ・ヴェノム",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:28]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2} (1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:28]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2} (1ラウンド)</p>"
     },
     "eh50R6D5Vda1HGQk": {
       "name": "12種類の異なる宝飾品/Dozen Different Pieces of Jewelry",
@@ -4359,11 +4359,11 @@
     },
     "1tb7DMhGgvu0yKi2": {
       "name": "スーガシ・ヴェノム/Seugathi Venom",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態、ならびに@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態、ならびに@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態(1ラウンド)</p>"
     },
     "Seugathi Venom": {
       "name": "スーガシ・ヴェノム",
-      "description": "<p><strong>セーヴィング・スロウ</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態、ならびに@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態(1ラウンド)</p>"
+      "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態、ならびに@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態(1ラウンド)</p>"
     },
     "FMRGhFFwuabyDZda": {
       "name": "オカルト自発呪文"

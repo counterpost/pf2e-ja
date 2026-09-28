@@ -226,7 +226,7 @@
     },
     "Daydream Trance": {
       "name": "デイドリーム・トランス/Daydream Trance",
-      "description": "<p>あなたは半睡状態のトランスに入る。これは1分、またはあなたが@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}になるまでのいずれか早い方まで持続する。あなたは自身のトランスを〈解除〉しようと試みることができるが、あなた自身のクラスDCまたは呪文DCのうち高い方に対して@Check[will|against:class-spell]セーヴィング・スロウに成功しなければ、その試みは失敗する。トランスが終了すると、あなたは1分の間、再びDaydream Tranceに入ることはできない。トランス状態にある間、あなたは以下の効果を得る：</p><ul><li>あなたは意志セーヴに+1の状況ボーナスを得る。このボーナスは精神効果に対しては+2に増加する。もしあなたが《神秘学》において伝説的であるなら、精神効果に対するボーナスは+3に増加する。</li><li><p>あなたは《知覚》判定とイニシアチブ・ロールに–1のペナルティを受ける。</p>\n</li></ul>",
+      "description": "<p>あなたは半睡状態のトランスに入る。これは1分、またはあなたが@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}になるまでのいずれか早い方まで持続する。あなたは自身のトランスを〈解除〉しようと試みることができるが、あなた自身のクラスDCまたは呪文DCのうち高い方に対して@Check[will|against:class-spell]セーヴィング・スローに成功しなければ、その試みは失敗する。トランスが終了すると、あなたは1分の間、再びDaydream Tranceに入ることはできない。トランス状態にある間、あなたは以下の効果を得る：</p><ul><li>あなたは意志セーヴに+1の状況ボーナスを得る。このボーナスは精神効果に対しては+2に増加する。もしあなたが《神秘学》において伝説的であるなら、精神効果に対するボーナスは+3に増加する。</li><li><p>あなたは《知覚》判定とイニシアチブ・ロールに–1のペナルティを受ける。</p>\n</li></ul>",
       "selfEffect": "効果: 白昼夢のトランス",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
@@ -267,7 +267,7 @@
     },
     "Death Drone": {
       "name": "デス・ドローン/Death Drone",
-      "description": "<p>群れのセミたちが低いうなり声を立てて恐怖反応を刺激する。あなたの群れの空間内にいる各生物は@Damage[6d4[mental]]ダメージを受け、クラスDCまたは呪文DCのうち高い方に対する@Check[will|against:class-spell]セーブを試みなければならない。</p><hr /><p><strong>クリティカル成功</strong> その生物は影響を受けない。</p>\n<p><strong>成功</strong> その生物は半分のダメージを受ける。</p>\n<p><strong>失敗</strong> その生物は全ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}となり、聴覚を必要とする知覚判定に対して状況ペナルティ–2を受ける。</p>\n<p><strong>クリティカル失敗</strong> その生物は2倍のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になり、あなたの次のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態になる。</p>",
+      "description": "<p>群れのセミたちが低いうなり声を立てて恐怖反応を刺激する。あなたの群れの空間内にいる各生物は@Damage[6d4[mental]]ダメージを受け、クラスDCまたは呪文DCのうち高い方に対する@Check[will|against:class-spell]セーヴを試みなければならない。</p><hr /><p><strong>クリティカル成功</strong> その生物は影響を受けない。</p>\n<p><strong>成功</strong> その生物は半分のダメージを受ける。</p>\n<p><strong>失敗</strong> その生物は全ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}となり、聴覚を必要とする知覚判定に対して状況ペナルティ–2を受ける。</p>\n<p><strong>クリティカル失敗</strong> その生物は2倍のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になり、あなたの次のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態になる。</p>",
       "source": "Pathfinder Howl of the Wild"
     },
     "Elemental Blast": {
@@ -287,7 +287,7 @@
     },
     "Thundering Roar": {
       "name": "サンダリング・ロア/Thundering Roar",
-      "description": "<p>対象が強烈な声を放つ。半径@Template[type:emanation|distance:10]内の各敵は@Damage[4d8[sonic]|options:area-damage]ダメージを受け、あなたの呪文DCに対する@Check[will|basic|against:spell|options:area-effect]セーブを行う。意志セーヴに失敗した生物はさらに@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}される。</p>",
+      "description": "<p>対象が強烈な声を放つ。半径@Template[type:emanation|distance:10]内の各敵は@Damage[4d8[sonic]|options:area-damage]ダメージを受け、あなたの呪文DCに対する@Check[will|basic|against:spell|options:area-effect]セーヴを行う。意志セーヴに失敗した生物はさらに@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}される。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Convocation of Greed": {
@@ -348,7 +348,7 @@
     },
     "Offer Story": {
       "name": "オファー・ストーリー/Offer Story",
-      "description": "<p>あなたは自身の旅の物語を、半径30フィート以内のクリーチャーと分かち合う。あなたはイストラレイの祝福を受け、次の自分のターン終了まで1のステータスボーナスをACおよび意志へのセーブに得る。次のそのクリーチャーのターンに、その話を聞いたクリーチャーは聴覚・集中・言語・精神の特性を持つ単一のアクションを行って自身の物語で応答し、次のターンの終了まで同じ恩恵を得られる.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.dzYnksinvWvfgBVt]{効果: Offer Story}</p>",
+      "description": "<p>あなたは自身の旅の物語を、半径30フィート以内のクリーチャーと分かち合う。あなたはイストラレイの祝福を受け、次の自分のターン終了まで1のステータスボーナスをACおよび意志へのセーヴに得る。次のそのクリーチャーのターンに、その話を聞いたクリーチャーは聴覚・集中・言語・精神の特性を持つ単一のアクションを行って自身の物語で応答し、次のターンの終了まで同じ恩恵を得られる.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.dzYnksinvWvfgBVt]{効果: Offer Story}</p>",
       "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Scrappy Defiance": {
@@ -384,12 +384,12 @@
     },
     "Only You and I": {
       "name": "オンリー・ユー・アンド・アイ/Only You and I",
-      "description": "<p>敵を運命的な決闘へと引き込む――勝利することを確信している一戦だ。射程内の敵1体を選ぶ。次の自分のターン終了まで、その敵はあなたに対する攻撃ロールに+2の状況ボーナスを得るが、あなたから離れて移動しようとする、あなた以外を標的にして〔ストライク〕を行う、またはあなたを対象に含まない〔呪文の発動〕を試みるたびに、クラスDCに対する@Check[will|against:exemplar]セーブを行わなければならない。失敗した場合、その失敗に関連する行為は中断される。この効果が有効な間にその敵が〔ストライク〕であなたに攻撃を外すたびに、あなたは@Damage[(1d8+5)[healing]] ヒット・ポイントを回復する.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.ZdPLjPFwp9JuVRFf]{効果: Only You and I}</p>",
+      "description": "<p>敵を運命的な決闘へと引き込む――勝利することを確信している一戦だ。射程内の敵1体を選ぶ。次の自分のターン終了まで、その敵はあなたに対する攻撃ロールに+2の状況ボーナスを得るが、あなたから離れて移動しようとする、あなた以外を標的にして〔ストライク〕を行う、またはあなたを対象に含まない〔呪文の発動〕を試みるたびに、クラスDCに対する@Check[will|against:exemplar]セーヴを行わなければならない。失敗した場合、その失敗に関連する行為は中断される。この効果が有効な間にその敵が〔ストライク〕であなたに攻撃を外すたびに、あなたは@Damage[(1d8+5)[healing]] ヒット・ポイントを回復する.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.ZdPLjPFwp9JuVRFf]{効果: Only You and I}</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Instant Recovery": {
       "name": "インスタント・リカバリー/Instant Recovery",
-      "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> 1ミシック・ポイントを消費する。あなたは自身の【耐久力】修正値(最低1)×レベルに等しいヒット・ポイントを回復し、@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態を取り除く。もしあなたが毒や病気のような反復的な苦痛に苦しんでいるなら、その苦痛に対してミシック習熟度でセーヴィング・スロウを行い、苦痛の段階を軽減できるか確認する。このセーヴィング・スロウによって苦痛の段階が上昇することはないし、苦痛の最大持続時間を変更することもない。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> 1ミシック・ポイントを消費する。あなたは自身の【耐久力】修正値(最低1)×レベルに等しいヒット・ポイントを回復し、@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態を取り除く。もしあなたが毒や病気のような反復的な苦痛に苦しんでいるなら、その苦痛に対してミシック習熟度でセーヴィング・スローを行い、苦痛の段階を軽減できるか確認する。このセーヴィング・スローによって苦痛の段階が上昇することはないし、苦痛の最大持続時間を変更することもない。</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star"
     },
     "Call on Ancient Blood": {
@@ -409,7 +409,7 @@
     },
     "Relentless Assault": {
       "name": "リレントレス・アサルト/Relentless Assault",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>クリーチャーが、あなたが指揮するトループの攻撃的な能力に対するセーヴィング・スロウに成功または大成功しようとしている</p><hr /><p><strong>効果</strong>勇気づける命令によって、あなたはトループにいくつかの追加攻撃を行うよう指示する。トリガーとなったクリーチャーは自身のセーヴィング・スロウを振り直し、悪い方の結果を使用する。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>クリーチャーが、あなたが指揮するトループの攻撃的な能力に対するセーヴィング・スローに成功または大成功しようとしている</p><hr /><p><strong>効果</strong>勇気づける命令によって、あなたはトループにいくつかの追加攻撃を行うよう指示する。トリガーとなったクリーチャーは自身のセーヴィング・スローを振り直し、悪い方の結果を使用する。</p>",
       "source": "Pathfinder Hell's Destiny Player's Guide"
     },
     "Stop": {
@@ -513,12 +513,12 @@
     },
     "Spirit Sanctification": {
       "name": "スピリット・サンクティフィケーション/Spirit Sanctification",
-      "description": "<p><strong>Cost</strong> 1 spirit wisp</p><hr /><p><strong>効果</strong> あなたは即座に霊を浄化し、その霊は去る前に保護の祝福を与える。次に行う行動がハルシオン呪文の詠唱である場合、あなたはセービングスローに+1のステータスボーナスを得るとともに、ハルシオン呪文のランクに等しい量の虚空（void）ダメージに対する耐性を得る。これらの効果は1のラウンド持続する。</p>",
+      "description": "<p><strong>Cost</strong> 1 spirit wisp</p><hr /><p><strong>効果</strong> あなたは即座に霊を浄化し、その霊は去る前に保護の祝福を与える。次に行う行動がハルシオン呪文の詠唱である場合、あなたはセーヴィング・スローに+1のステータスボーナスを得るとともに、ハルシオン呪文のランクに等しい量の虚空（void）ダメージに対する耐性を得る。これらの効果は1のラウンド持続する。</p>",
       "source": "Pathfinder Claws of the Tyrant"
     },
     "Invoke Celestial Privilege": {
       "name": "インヴォーク・セレスチャル・プリヴィレッジ/Invoke Celestial Privilege",
-      "description": "<p><strong>トリガー</strong> あなたは神聖効果に対してセーヴを試みようとしているが、まだ判定を振っていないとき。</p>\n<hr />\n<p>あなたは発生した効果を超越し、害を受けることを拒否する。あなたは誘発したセーヴと、次のターン開始までの間に神聖効果に対して試みる他のすべてのセービングスローに+1の状況ボーナスを得る。</p>",
+      "description": "<p><strong>トリガー</strong> あなたは神聖効果に対してセーヴを試みようとしているが、まだ判定を振っていないとき。</p>\n<hr />\n<p>あなたは発生した効果を超越し、害を受けることを拒否する。あなたは誘発したセーヴと、次のターン開始までの間に神聖効果に対して試みる他のすべてのセーヴィング・スローに+1の状況ボーナスを得る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Hellbreaker Strike": {
@@ -593,7 +593,7 @@
     },
     "Objection": {
       "name": "オブジェクション/Objection",
-      "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<p><strong>トリガー</strong>あなたが言語効果に対するセーヴィング・スロウを行おうとしている。</p><hr /><p><strong>効果</strong>あなたがトリガーとなった効果の文言に抜け穴を発見すると、あなたのデヴィルの目が地獄の歓喜でパチパチと音を立てる。あなたはセーヴィング・スロウを2回ロールし、高い方の結果を採用する。</p>",
+      "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<p><strong>トリガー</strong>あなたが言語効果に対するセーヴィング・スローを行おうとしている。</p><hr /><p><strong>効果</strong>あなたがトリガーとなった効果の文言に抜け穴を発見すると、あなたのデヴィルの目が地獄の歓喜でパチパチと音を立てる。あなたはセーヴィング・スローを2回ロールし、高い方の結果を採用する。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Conduct Energy": {
@@ -628,7 +628,7 @@
     },
     "Opportunistic Accusation": {
       "name": "オポチュニスティック・アキュゼーション/Opportunistic Accusation",
-      "description": "<p><strong>トリガー</strong>あなたから30フィート以内にいる、あなたが認識しているデーモンが、その罪の脆弱性に苦しんでいるか、精神効果に対するセーヴィング・スロウにクリティカル失敗した</p><hr /><p>あなたは、そのフィーンドの一時的な不利に乗じて、そのデーモンに対して鋭い皮肉を言う。そのデーモンはあなたのクラスDCに対して@Check[will|against:class]セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>デーモンは影響を受けず、これ以降の戦闘においてあなたに注意を向ける可能性が高い。</p>\n<p><strong>成功</strong>デーモンは@Damage[2d6[mental]]ダメージを受ける。</p>\n<p><strong>失敗</strong>デーモンは@Damage[4d6[mental]]ダメージを受け、次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、off-guard状態は次のラウンドの終了時まで持続する。さらにデーモンは@Damage[2d6[persistent,mental]]ダメージを受ける。</p>",
+      "description": "<p><strong>トリガー</strong>あなたから30フィート以内にいる、あなたが認識しているデーモンが、その罪の脆弱性に苦しんでいるか、精神効果に対するセーヴィング・スローにクリティカル失敗した</p><hr /><p>あなたは、そのフィーンドの一時的な不利に乗じて、そのデーモンに対して鋭い皮肉を言う。そのデーモンはあなたのクラスDCに対して@Check[will|against:class]セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>デーモンは影響を受けず、これ以降の戦闘においてあなたに注意を向ける可能性が高い。</p>\n<p><strong>成功</strong>デーモンは@Damage[2d6[mental]]ダメージを受ける。</p>\n<p><strong>失敗</strong>デーモンは@Damage[4d6[mental]]ダメージを受け、次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、off-guard状態は次のラウンドの終了時まで持続する。さらにデーモンは@Damage[2d6[persistent,mental]]ダメージを受ける。</p>",
       "source": "Pathfinder Spore War Player's Guide"
     },
     "Share Death's Promises": {
@@ -861,7 +861,7 @@
     },
     "Find Fault": {
       "name": "ファインド・フォールト/Find Fault",
-      "description": "<p><strong>トリガー</strong>あなたが呪文や魔法の効果に対してセーヴィング・スロウを行うが、まだダイスを振っていない</p><hr /><p><strong>効果</strong>あなたはその魔法の欠陥を見つけ出し、その欠陥を利用してあなた自身をその効果から守る。あなたはトリガーとなった効果に対する自身のセーヴィング・スロウに+1状況ボーナスを得る。もしその効果が神聖なものであり、かつあなたが抱く恨みの対象である神格の崇拝者に由来するものであるなら、このボーナスは+2状況ボーナスに増加する。</p>",
+      "description": "<p><strong>トリガー</strong>あなたが呪文や魔法の効果に対してセーヴィング・スローを行うが、まだダイスを振っていない</p><hr /><p><strong>効果</strong>あなたはその魔法の欠陥を見つけ出し、その欠陥を利用してあなた自身をその効果から守る。あなたはトリガーとなった効果に対する自身のセーヴィング・スローに+1状況ボーナスを得る。もしその効果が神聖なものであり、かつあなたが抱く恨みの対象である神格の崇拝者に由来するものであるなら、このボーナスは+2状況ボーナスに増加する。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Track": {
@@ -921,7 +921,7 @@
     },
     "Mirrored Wall": {
       "name": "ミラード・ウォール/Mirrored Wall",
-      "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<p><strong>必要条件</strong>あなたの分隊員の少なくとも1人が明るい光の中にいるか、ブルズアイ・ランタンのような集光型の光源を利用できる状態であること。</p><hr /><p>あなたの分隊員は盾を反射する光沢が出るまで磨き上げ、敵の目に眩い光を反射させるように構える。あなたのすべての分隊員は、〈盾を構える〉か、@UUID[Compendium.pf2e.spells-srd.Item.TVKNbcgTee19PXZR]{シールド}をリアクションとして詠唱することができる。</p>\n<p>その後、コマンダーのバナーのオーラ内にいて、現在盾を構えている(アクティブな<em>shield</em>キャントリップを詠唱している呪文の使い手である味方を含む)分隊員に合図を送り、60フィート以内の敵1体を選択する。この陣形は構えられた盾で光を反射させ、敵の目に当てる。対象はあなたのクラスDCに対する@Check[fortitude|against:commander|options:inflicts:blinded,inflicts:dazzled]セーヴィング・スロウに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態に1ラウンドの間なる(大失敗の場合、そのクリーチャーは盲目状態が終了した後も@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態に3ラウンドの間なる)。</p>\n<p>あなたは盾を構えている追加の味方に合図を送り、この戦術に参加させることができる。対象はこのセーヴに、参加した追加の分隊員の数に等しい状況ペナルティを受ける(対象のセーヴに対する状況ペナルティは最大-4まで)。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.IIjE6NOYpOfRuCBR]{効果: ミラー・ウォール}</p>",
+      "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<p><strong>必要条件</strong>あなたの分隊員の少なくとも1人が明るい光の中にいるか、ブルズアイ・ランタンのような集光型の光源を利用できる状態であること。</p><hr /><p>あなたの分隊員は盾を反射する光沢が出るまで磨き上げ、敵の目に眩い光を反射させるように構える。あなたのすべての分隊員は、〈盾を構える〉か、@UUID[Compendium.pf2e.spells-srd.Item.TVKNbcgTee19PXZR]{シールド}をリアクションとして詠唱することができる。</p>\n<p>その後、コマンダーのバナーのオーラ内にいて、現在盾を構えている(アクティブな<em>shield</em>キャントリップを詠唱している呪文の使い手である味方を含む)分隊員に合図を送り、60フィート以内の敵1体を選択する。この陣形は構えられた盾で光を反射させ、敵の目に当てる。対象はあなたのクラスDCに対する@Check[fortitude|against:commander|options:inflicts:blinded,inflicts:dazzled]セーヴィング・スローに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態に1ラウンドの間なる(大失敗の場合、そのクリーチャーは盲目状態が終了した後も@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態に3ラウンドの間なる)。</p>\n<p>あなたは盾を構えている追加の味方に合図を送り、この戦術に参加させることができる。対象はこのセーヴに、参加した追加の分隊員の数に等しい状況ペナルティを受ける(対象のセーヴに対する状況ペナルティは最大-4まで)。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.IIjE6NOYpOfRuCBR]{効果: ミラー・ウォール}</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Selfish Shield": {
@@ -1003,7 +1003,7 @@
     },
     "Empty Vessel": {
       "name": "エンプティ・ヴェッセル/Empty Vessel",
-      "description": "<p><strong>使用制限</strong> once per day</p>\n<p><strong>トリガー</strong> あなたが精神ダメージを受けるか精神効果の影響を受けるとき</p>\n<hr />\n<p><strong>効果</strong> トリガーとなった効果に対して、意志のセーブに+2の状況ボーナスを得るとともに、精神ダメージに対してあなたのレベルに等しい耐性を得る。これは初回の効果にのみ適用され、追加のセーブや持続する精神ダメージ、その他の繰り返し効果には適用されない.</p>",
+      "description": "<p><strong>使用制限</strong> once per day</p>\n<p><strong>トリガー</strong> あなたが精神ダメージを受けるか精神効果の影響を受けるとき</p>\n<hr />\n<p><strong>効果</strong> トリガーとなった効果に対して、意志のセーヴに+2の状況ボーナスを得るとともに、精神ダメージに対してあなたのレベルに等しい耐性を得る。これは初回の効果にのみ適用され、追加のセーヴや持続する精神ダメージ、その他の繰り返し効果には適用されない.</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Exploit Vulnerability": {
@@ -1059,7 +1059,7 @@
     },
     "Executioner's Volley": {
       "name": "エクセキューショナーズ・ヴォレー/Executioner's Volley",
-      "description": "<p><strong>使用制限</strong> once per day</p><hr /><p> あなたは部隊に致命的な狙撃隊として行動するよう命じる。あなたと指揮旗のオーラ内にいる各分隊員は、あなたが選んだ単一の目標に対してリアクションで遠隔の〔ストライク〕を試みることができる；抵抗と弱点の判定に関しては全ての攻撃のダメージを合算する。指定対象が生きているクリーチャーである場合、これらの攻撃はデス特性を得る。指定した対象がこの戦術の結果として死亡した場合、指揮旗の影響範囲内にいる他のすべての敵はあなたのクラスDCに対する@Check[will|against:commander|options:inflicts:frightened|traits:emotion,fear,mental]セーブに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になる；これは感情・恐怖・精神効果である。</p><hr /><p><strong>Special</strong> もし分隊員のうちの一人が射程30フィート以上でダメージを与え、かつ唱えるのに2アクション以下で済むキャントリップを知っているか準備しているなら、その分隊員はこの戦術で通常与えられる行動の代わりにそれを指定した敵に唱えることができ、その他記載の利点をすべて得る。</p>",
+      "description": "<p><strong>使用制限</strong> once per day</p><hr /><p> あなたは部隊に致命的な狙撃隊として行動するよう命じる。あなたと指揮旗のオーラ内にいる各分隊員は、あなたが選んだ単一の目標に対してリアクションで遠隔の〔ストライク〕を試みることができる；抵抗と弱点の判定に関しては全ての攻撃のダメージを合算する。指定対象が生きているクリーチャーである場合、これらの攻撃はデス特性を得る。指定した対象がこの戦術の結果として死亡した場合、指揮旗の影響範囲内にいる他のすべての敵はあなたのクラスDCに対する@Check[will|against:commander|options:inflicts:frightened|traits:emotion,fear,mental]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になる；これは感情・恐怖・精神効果である。</p><hr /><p><strong>Special</strong> もし分隊員のうちの一人が射程30フィート以上でダメージを与え、かつ唱えるのに2アクション以下で済むキャントリップを知っているか準備しているなら、その分隊員はこの戦術で通常与えられる行動の代わりにそれを指定した敵に唱えることができ、その他記載の利点をすべて得る。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Drape Ambient Magic": {
@@ -1074,7 +1074,7 @@
     },
     "Spiritual Aid": {
       "name": "スピリチュアル・エイド/Spiritual Aid",
-      "description": "<p><strong>トリガー</strong> あなたが反応か意志のセービングスローに失敗したとき</p>\n<hr />\n<p><strong>効果</strong> トリガーとなったセーヴを振り直す。たとえ2回目の結果が悪くてもその結果を使用しなければならない。もし2回目で成功を出した場合、それはクリティカル成功になる。</p>",
+      "description": "<p><strong>トリガー</strong> あなたが反応か意志のセーヴィング・スローに失敗したとき</p>\n<hr />\n<p><strong>効果</strong> トリガーとなったセーヴを振り直す。たとえ2回目の結果が悪くてもその結果を使用しなければならない。もし2回目で成功を出した場合、それはクリティカル成功になる。</p>",
       "source": "Pathfinder Adventure Path: Gatewalkers"
     },
     "Timely Dodge": {
@@ -1089,7 +1089,7 @@
     },
     "Harvest Blood": {
       "name": "ハーヴェスト・ブラッド/Harvest Blood",
-      "description": "<p><strong>要件</strong> あなたの直前の行動は、出血に対して免疫ではないクリーチャーに対する貫通または切断の近接〔ストライク〕が成功している</p><hr /><p><strong>効果</strong> あなたは武器に残っている血を消費する。drained状態の値を1減らし、体力修正値に等しい一時的なヒット・ポイントを得る。さらにそのクリーチャーの呪文に対するセーヴィングスローに対して+1の状況ボーナスを1分間得る、または別のクリーチャーからHarvest Bloodを行うまで。</p>",
+      "description": "<p><strong>要件</strong> あなたの直前の行動は、出血に対して免疫ではないクリーチャーに対する貫通または切断の近接〔ストライク〕が成功している</p><hr /><p><strong>効果</strong> あなたは武器に残っている血を消費する。drained状態の値を1減らし、体力修正値に等しい一時的なヒット・ポイントを得る。さらにそのクリーチャーの呪文に対するセーヴィング・スローに対して+1の状況ボーナスを1分間得る、または別のクリーチャーからHarvest Bloodを行うまで。</p>",
       "selfEffect": "効果: 血液採取",
       "source": "Pathfinder War of Immortals"
     },
@@ -1172,7 +1172,7 @@
     },
     "Draconic Salvation": {
       "name": "ドラコニック・サルヴェーション/Draconic Salvation",
-      "description": "<p><strong>トリガー</strong>あなたは自身のドラゴンの恩人のものと同じ系統特性を持つ効果に対して、セーヴィング・スロウにクリティカル失敗した(例えば、恩人がディアボリックなドラゴンである場合の神聖呪文など)</p>\n<p><strong>必要条件</strong>あなたのスペクトラルなドラゴンがあなたのいる場所にいる</p><hr /><p><strong>効果</strong>あなたは自身のセーヴィング・スロウの結果を成功度で1段階改善し、「Channelドラコニック Essence」は終了する。</p>",
+      "description": "<p><strong>トリガー</strong>あなたは自身のドラゴンの恩人のものと同じ系統特性を持つ効果に対して、セーヴィング・スローにクリティカル失敗した(例えば、恩人がディアボリックなドラゴンである場合の神聖呪文など)</p>\n<p><strong>必要条件</strong>あなたのスペクトラルなドラゴンがあなたのいる場所にいる</p><hr /><p><strong>効果</strong>あなたは自身のセーヴィング・スローの結果を成功度で1段階改善し、「Channelドラコニック Essence」は終了する。</p>",
       "source": "Pathfinder Lost Omens Draconic Codex"
     },
     "Take the High Ground": {
@@ -1284,7 +1284,7 @@
     },
     "Expel Maelstrom": {
       "name": "エクスペル・メイルストロム/Expel Maelstrom",
-      "description": "<p><strong>必要条件</strong>あなたは「呪いの大渦」状態である</p><hr /><p><strong>効果</strong>あなたは自身の体から大渦を追い出し、そのエネルギーを60フィート以内にいる不運なクリーチャー1体に宿らせる。あなたの「呪いの大渦」状態は終了する。結果は、そのクリーチャーが行う@Check[will|against:class-spell]セーヴによって決まる。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、呪いのエネルギーは無害に霧散する。</p>\n<p><strong>成功</strong>そのクリーチャーは大渦の怒りをその身に宿すことになる。そのクリーチャーは1分の間、すべてのセーヴィング・スローと技能判定に-1の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.fIRJftsmd83iSoR4]{効果: 大渦の放出 (成功)}</p>\n<p><strong>失敗</strong>大渦はそのクリーチャーの魂の深くまで突き刺さる。そのクリーチャーは10分の間、すべてのセーヴィング・スローと技能判定に-2の状況ペナルティを受ける。</p>\n<p><strong>クリティカル失敗</strong>大渦はそのクリーチャーの魂に潜り込む前に、一度だけ徹底的な不運の波を浴びせる。失敗時と同様だが、さらにそのクリーチャーは次のセーヴィング・スロウまたは技能判定を2回ロールし、低い方の結果を採用しなければならない。これは不運効果である。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.lc8ez8O4eN73hNpR]{効果: 大渦の放出 (失敗またはクリティカル失敗)}</p>",
+      "description": "<p><strong>必要条件</strong>あなたは「呪いの大渦」状態である</p><hr /><p><strong>効果</strong>あなたは自身の体から大渦を追い出し、そのエネルギーを60フィート以内にいる不運なクリーチャー1体に宿らせる。あなたの「呪いの大渦」状態は終了する。結果は、そのクリーチャーが行う@Check[will|against:class-spell]セーヴによって決まる。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、呪いのエネルギーは無害に霧散する。</p>\n<p><strong>成功</strong>そのクリーチャーは大渦の怒りをその身に宿すことになる。そのクリーチャーは1分の間、すべてのセーヴィング・スローと技能判定に-1の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.fIRJftsmd83iSoR4]{効果: 大渦の放出 (成功)}</p>\n<p><strong>失敗</strong>大渦はそのクリーチャーの魂の深くまで突き刺さる。そのクリーチャーは10分の間、すべてのセーヴィング・スローと技能判定に-2の状況ペナルティを受ける。</p>\n<p><strong>クリティカル失敗</strong>大渦はそのクリーチャーの魂に潜り込む前に、一度だけ徹底的な不運の波を浴びせる。失敗時と同様だが、さらにそのクリーチャーは次のセーヴィング・スローまたは技能判定を2回ロールし、低い方の結果を採用しなければならない。これは不運効果である。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.lc8ez8O4eN73hNpR]{効果: 大渦の放出 (失敗またはクリティカル失敗)}</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Liberating Step": {
@@ -1324,7 +1324,7 @@
     },
     "Gluttonous Feast": {
       "name": "グラトナス・フィースト/Gluttonous Feast",
-      "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> 1点のミシック・ポイントを消費する。暴食のルーンロード4人(カリフェスタ、アサレンド、アエトゥサ、ゴパリス)の霊が、あなたから60フィート以内の空間に短時間現れる。少なくとも1体の霊に隣接している各生きているクリーチャーは、隣接する霊1体につき@Damage[4d6[void]]ダメージを受ける。4体すべての霊に隣接している場合、最大で@Damage[16d6[void]]ダメージを受ける。各対象は、このダメージに対して、あなたのクラスDCまたは呪文DCのいずれか高い方を基準として、基本的な頑健セーヴを行う。ただし、傲慢のルーンロードであるザンダーグルは、自身のセーヴィング・スロウの結果を1段階悪いものとして扱う。</p>\n<p>あなたはこの効果によって単一のクリーチャーが受けたダメージの半分に等しい一時的ヒット・ポイントを得る。これらの一時的ヒット・ポイントは、最も多くのダメージを受けたクリーチャーを用いて計算すること。これらの一時的ヒット・ポイントは1分持続する。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> 1点のミシック・ポイントを消費する。暴食のルーンロード4人(カリフェスタ、アサレンド、アエトゥサ、ゴパリス)の霊が、あなたから60フィート以内の空間に短時間現れる。少なくとも1体の霊に隣接している各生きているクリーチャーは、隣接する霊1体につき@Damage[4d6[void]]ダメージを受ける。4体すべての霊に隣接している場合、最大で@Damage[16d6[void]]ダメージを受ける。各対象は、このダメージに対して、あなたのクラスDCまたは呪文DCのいずれか高い方を基準として、基本的な頑健セーヴを行う。ただし、傲慢のルーンロードであるザンダーグルは、自身のセーヴィング・スローの結果を1段階悪いものとして扱う。</p>\n<p>あなたはこの効果によって単一のクリーチャーが受けたダメージの半分に等しい一時的ヒット・ポイントを得る。これらの一時的ヒット・ポイントは、最も多くのダメージを受けたクリーチャーを用いて計算すること。これらの一時的ヒット・ポイントは1分持続する。</p>",
       "source": "Pathfinder #220: Crypt of Runes"
     },
     "Restorative Teleportation": {
@@ -1617,7 +1617,7 @@
     },
     "Ringing Challenge": {
       "name": "リンギング・チャレンジ/Ringing Challenge",
-      "description": "<p>あなたはイコンを武器、盾、または地面に打ち付け、衝撃波を放つ。この衝撃波は、@Template[type:cone|distance:30]または@Template[type:emanation|distance:15]にいるすべてのクリーチャーに@Damage[(max(1,(floor((@actor.level - 2)/2))))d4[spirit],(max(1,(floor((@actor.level - 2)/2))))d4[sonic]|options:area-damage]ダメージを与える(@Check[fortitude|against:exemplar|basic|options:area-effect]セーヴ)。セーヴィング・スロウに大失敗したクリーチャーは、1分の間、@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態となる。</p>\n<p>6レベルおよびその後2レベルごとに、ダメージは1d4の精神ダメージと1d4の音波ダメージだけ増加する。</p>",
+      "description": "<p>あなたはイコンを武器、盾、または地面に打ち付け、衝撃波を放つ。この衝撃波は、@Template[type:cone|distance:30]または@Template[type:emanation|distance:15]にいるすべてのクリーチャーに@Damage[(max(1,(floor((@actor.level - 2)/2))))d4[spirit],(max(1,(floor((@actor.level - 2)/2))))d4[sonic]|options:area-damage]ダメージを与える(@Check[fortitude|against:exemplar|basic|options:area-effect]セーヴ)。セーヴィング・スローに大失敗したクリーチャーは、1分の間、@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態となる。</p>\n<p>6レベルおよびその後2レベルごとに、ダメージは1d4の精神ダメージと1d4の音波ダメージだけ増加する。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Coughing Dragon": {
@@ -1637,7 +1637,7 @@
     },
     "Call Upon the Brightness": {
       "name": "コール・アポン・ザ・ブライトネス/Call Upon the Brightness",
-      "description": "<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X]{オーギュリィ}による行動方針を実行中に攻撃ロール、技能判定、またはセーヴィング・スロウを行うが、まだロールを行っていない。</p>\n<hr />\n<p>あなたはトリガーとなった判定に＋1の状況ボーナスを得る。もしオーガリーの結果が「災い」であり、それでもあなたが実行したならば、＋2の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xPg5wzzKNxJy18rU]{効果: ブライトネス・シーカー}</p>",
+      "description": "<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X]{オーギュリィ}による行動方針を実行中に攻撃ロール、技能判定、またはセーヴィング・スローを行うが、まだロールを行っていない。</p>\n<hr />\n<p>あなたはトリガーとなった判定に＋1の状況ボーナスを得る。もしオーガリーの結果が「災い」であり、それでもあなたが実行したならば、＋2の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xPg5wzzKNxJy18rU]{効果: ブライトネス・シーカー}</p>",
       "source": "Pathfinder Lost Omens Character Guide"
     },
     "Gain Contact": {
@@ -1678,7 +1678,7 @@
     },
     "Wish for Luck": {
       "name": "ウィッシュ・フォー・ラック/Wish for Luck",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたが攻撃ロール、セーヴィング・スロウ、またはスキル判定を行おうとしている場合</p>\n<hr />\n<p><strong>効果</strong>あなたは成功を声に出して願う。その判定を2回ロールし、高い方の結果を採用する。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたが攻撃ロール、セーヴィング・スロー、またはスキル判定を行おうとしている場合</p>\n<hr />\n<p><strong>効果</strong>あなたは成功を声に出して願う。その判定を2回ロールし、高い方の結果を採用する。</p>",
       "selfEffect": "効果: 幸運を願うウィッシュ",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -1961,7 +1961,7 @@
     },
     "Spellstrike": {
       "name": "スペルストライク/Spellstrike",
-      "description": "|||<p><strong>使用制限</strong> 再充填されるまで(下記参照)</p><hr /><p>あなたは呪文をパンチや剣の突きに注ぎ込み、複合攻撃を繰り出す。あなたは発動に1アクションまたは　2アクションを要し、呪文攻撃ロールまたはセーヴィング・スロウを必要とする呪文を発動する。あなたは呪文を通常通り発動する代わりに、その効果を攻撃に注ぎ込む。武器または素手攻撃による近接〈ストライク〉を行う。これはあなたのマルチアタック・ペナルティにおいて2回の攻撃として数えられるが、スペルストライクを完了するまでペナルティを適用しない。呪文エネルギーの注入により、あなたの〈ストライク〉はアーケインの特性を得て、魔法的なものとなる。もしその呪文が呪文攻撃ロールを必要とするなら、〈ストライク〉と呪文の両方の効果を決定するために、あなたの〈ストライク〉の結果を使用する。もし呪文がセーヴを必要とするなら、〈ストライク〉の対象は通常通りセーヴィング・スロウを行う。ただし、あなたの〈ストライク〉が大失敗だった場合、対象は影響を受けない。</p>\n<p>スペルストライクを使用した後は、集中特性を持つ単一アクションとしてスペルストライクを再充填するまで、再度スペルストライクを行うことはできない。また、発動に少なくとも1アクションを要するコンフラックス呪文を発動した際にもスペルストライクは再充填される。他の種類のフォーカス呪文を発動してもスペルストライクは再充填されない。</p>|||",
+      "description": "|||<p><strong>使用制限</strong> 再充填されるまで(下記参照)</p><hr /><p>あなたは呪文をパンチや剣の突きに注ぎ込み、複合攻撃を繰り出す。あなたは発動に1アクションまたは　2アクションを要し、呪文攻撃ロールまたはセーヴィング・スローを必要とする呪文を発動する。あなたは呪文を通常通り発動する代わりに、その効果を攻撃に注ぎ込む。武器または素手攻撃による近接〈ストライク〉を行う。これはあなたのマルチアタック・ペナルティにおいて2回の攻撃として数えられるが、スペルストライクを完了するまでペナルティを適用しない。呪文エネルギーの注入により、あなたの〈ストライク〉はアーケインの特性を得て、魔法的なものとなる。もしその呪文が呪文攻撃ロールを必要とするなら、〈ストライク〉と呪文の両方の効果を決定するために、あなたの〈ストライク〉の結果を使用する。もし呪文がセーヴを必要とするなら、〈ストライク〉の対象は通常通りセーヴィング・スローを行う。ただし、あなたの〈ストライク〉が大失敗だった場合、対象は影響を受けない。</p>\n<p>スペルストライクを使用した後は、集中特性を持つ単一アクションとしてスペルストライクを再充填するまで、再度スペルストライクを行うことはできない。また、発動に少なくとも1アクションを要するコンフラックス呪文を発動した際にもスペルストライクは再充填される。他の種類のフォーカス呪文を発動してもスペルストライクは再充填されない。</p>|||",
       "source": "Pathfinder Secrets of Magic"
     },
     "Maneuver in Flight": {
@@ -2026,7 +2026,7 @@
     },
     "Forced Pact": {
       "name": "フォースト・パクト/Forced Pact",
-      "description": "<p><strong>使用制限</strong> 1時間に1回</p><hr /><p><strong>効果</strong> あなたはあなた自身と、60フィート以内にいてあなたが見ることのできる別のクリーチャーの両方に一時的な契約を強制する。〈攻撃〉、〈移動〉、〈操作〉、〈精神集中〉のいずれかを選択すること。対象は意志セーヴィング・スロウを行わなければならない。</p><hr /><p><strong>成功</strong> 対象は影響を受けない。</p>\n<p><strong>失敗</strong> 次の1分以内にあなたまたは対象が選択した特性を持つアクションを使用した場合、その者は@Damage[10d6[mental]]ダメージを受け、この契約はあなたと対象の両方に対して終了する。</p>\n<p><strong>クリティカル失敗</strong> 失敗と同様だが、あなたまたは対象のいずれかが選択した特性を持つアクションを使用した場合、対象がダメージを受ける。</p>",
+      "description": "<p><strong>使用制限</strong> 1時間に1回</p><hr /><p><strong>効果</strong> あなたはあなた自身と、60フィート以内にいてあなたが見ることのできる別のクリーチャーの両方に一時的な契約を強制する。〈攻撃〉、〈移動〉、〈操作〉、〈精神集中〉のいずれかを選択すること。対象は意志セーヴィング・スローを行わなければならない。</p><hr /><p><strong>成功</strong> 対象は影響を受けない。</p>\n<p><strong>失敗</strong> 次の1分以内にあなたまたは対象が選択した特性を持つアクションを使用した場合、その者は@Damage[10d6[mental]]ダメージを受け、この契約はあなたと対象の両方に対して終了する。</p>\n<p><strong>クリティカル失敗</strong> 失敗と同様だが、あなたまたは対象のいずれかが選択した特性を持つアクションを使用した場合、対象がダメージを受ける。</p>",
       "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Destructive Vengeance": {
@@ -2081,7 +2081,7 @@
     },
     "Runelord's Response": {
       "name": "ルーンローズ・レスポンス/Runelord's Response",
-      "description": "|||<p><strong>トリガー</strong> クリーチャーが呪文によってあなたにダメージを与えるを与えた。</p><hr /><p><strong>効果</strong> あなたは　トリガーとなったクリーチャーが使用した魔法をねじ曲げることで、即座に復讐の一撃を与える。ミシック・ポイントを1点消費する。トリガーとなったクリーチャーは@Damage[6d8[force]]のダメージを受ける。このダメージに対して、対象はあなたのクラスDCまたは神話習熟を使用した呪文DCのうち高い方に対して、@Check[will|against:class-spell|basic] セーヴィング・スロウを行う。14レベル以降、2レベルごとに、このダメージは1d8増加する。</p>|||",
+      "description": "|||<p><strong>トリガー</strong> クリーチャーが呪文によってあなたにダメージを与えるを与えた。</p><hr /><p><strong>効果</strong> あなたは　トリガーとなったクリーチャーが使用した魔法をねじ曲げることで、即座に復讐の一撃を与える。ミシック・ポイントを1点消費する。トリガーとなったクリーチャーは@Damage[6d8[force]]のダメージを受ける。このダメージに対して、対象はあなたのクラスDCまたは神話習熟を使用した呪文DCのうち高い方に対して、@Check[will|against:class-spell|basic] セーヴィング・スローを行う。14レベル以降、2レベルごとに、このダメージは1d8増加する。</p>|||",
       "source": "Pathfinder #219: Lord of the Trinity Star"
     },
     "Reclaim Destiny": {
@@ -2116,7 +2116,7 @@
     },
     "Envenom": {
       "name": "エンヴェノム/Envenom",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p>唾液または血液のいずれかを使用して、あなたは自身の生来の毒を使い、ヴィシュカンヤの毒を自身の武器または弾薬に塗布する。血液を使用する場合、あなたは負傷していなければならない。あるいは、このアクションの一部としてあなた自身に@Damage[1[slashing]]ダメージを与えることもできる。このヴィシュカンヤの毒はあなたの次のターン終了時まで有効である。あるいは、標的に命中させるか攻撃ロールで大失敗することによって、負傷毒として通常通り消費されるまで有効である。</p>\n<p><strong>下級ヴィシュカニャン毒</strong>(負傷、毒)</p>\n<hr />\n<p><strong>セーヴィング・スロウ</strong>頑健@Check[fortitude|against:class-spell|traits:injury,poison,damaging-effect]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d4[poison]]ダメージ(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d4[poison]]ダメージ(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[1d4[poison]]ダメージ(1ラウンド)</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p>唾液または血液のいずれかを使用して、あなたは自身の生来の毒を使い、ヴィシュカンヤの毒を自身の武器または弾薬に塗布する。血液を使用する場合、あなたは負傷していなければならない。あるいは、このアクションの一部としてあなた自身に@Damage[1[slashing]]ダメージを与えることもできる。このヴィシュカンヤの毒はあなたの次のターン終了時まで有効である。あるいは、標的に命中させるか攻撃ロールで大失敗することによって、負傷毒として通常通り消費されるまで有効である。</p>\n<p><strong>下級ヴィシュカニャン毒</strong>(負傷、毒)</p>\n<hr />\n<p><strong>セーヴィング・スロー</strong>頑健@Check[fortitude|against:class-spell|traits:injury,poison,damaging-effect]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d4[poison]]ダメージ(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d4[poison]]ダメージ(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[1d4[poison]]ダメージ(1ラウンド)</p>",
       "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Absorb into the Aegis": {
@@ -2168,7 +2168,7 @@
     },
     "Rewrite Fate": {
       "name": "リライト・フェイト/Rewrite Fate",
-      "description": "<p><strong>トリガー</strong>あなたが技能判定またはセーヴィング・スロウを行い、その結果が気に入らない。</p><hr /><p>あなたの神話的力が膨れ上がり、運命の鎖を断ち切るにつれて、デスティニー、フェイト、あるいはその他の力があなたの周囲で歪み、身体から発せられる光の閃光や目に見えるエネルギーの奔流として現れる。あなたはミシック・ポイントを消費し、神話的習熟を用いてその判定またはセーヴィング・スローを振り直し、新しい結果を採用する。</p>",
+      "description": "<p><strong>トリガー</strong>あなたが技能判定またはセーヴィング・スローを行い、その結果が気に入らない。</p><hr /><p>あなたの神話的力が膨れ上がり、運命の鎖を断ち切るにつれて、デスティニー、フェイト、あるいはその他の力があなたの周囲で歪み、身体から発せられる光の閃光や目に見えるエネルギーの奔流として現れる。あなたはミシック・ポイントを消費し、神話的習熟を用いてその判定またはセーヴィング・スローを振り直し、新しい結果を採用する。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Royal Grace": {
@@ -2204,7 +2204,7 @@
     },
     "Treat Disease": {
       "name": "病気の手当て/Treat Disease",
-      "description": "<p><strong>必要条件</strong> あなたが@UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]{ヒーラーズ・ツールキット}を着用しているか、手に持っている</p><hr /><p>あなたは病気のクリーチャーの世話に少なくとも8時間を費やす。その病気のDCに対して、[[/act treat-disease]]{《医術》}判定を行う。クリーチャーに対して病気の手当てを試みた後、そのクリーチャーが次にその病気に対するセーヴを行うまで、あなたは再度試みることはできない。</p><hr /><p><strong>クリティカル成功</strong> あなたはそのクリーチャーに、その病気に対する次のセーヴィング・スロウへの状況ボーナス+4を与える。</p>\n<p><strong>成功</strong> あなたはそのクリーチャーに、その病気に対する次のセーヴィング・スロウへの状況ボーナス+2を与える。</p>\n<p><strong>クリティカル失敗</strong> あなたの努力により、そのクリーチャーは病気に対する次のセーヴに状況ペナルティ-2を受けることになる。</p>\n<p>@UUID[Compendium.pf2e.other-effects.Item.TGGdM7XnjQkkijK7]{効果: 〈病気の手当て〉}</p>",
+      "description": "<p><strong>必要条件</strong> あなたが@UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]{ヒーラーズ・ツールキット}を着用しているか、手に持っている</p><hr /><p>あなたは病気のクリーチャーの世話に少なくとも8時間を費やす。その病気のDCに対して、[[/act treat-disease]]{《医術》}判定を行う。クリーチャーに対して病気の手当てを試みた後、そのクリーチャーが次にその病気に対するセーヴを行うまで、あなたは再度試みることはできない。</p><hr /><p><strong>クリティカル成功</strong> あなたはそのクリーチャーに、その病気に対する次のセーヴィング・スローへの状況ボーナス+4を与える。</p>\n<p><strong>成功</strong> あなたはそのクリーチャーに、その病気に対する次のセーヴィング・スローへの状況ボーナス+2を与える。</p>\n<p><strong>クリティカル失敗</strong> あなたの努力により、そのクリーチャーは病気に対する次のセーヴに状況ペナルティ-2を受けることになる。</p>\n<p>@UUID[Compendium.pf2e.other-effects.Item.TGGdM7XnjQkkijK7]{効果: 〈病気の手当て〉}</p>",
       "source": "Pathfinder Player Core"
     },
     "Follow the Expert": {
@@ -2417,7 +2417,7 @@
     },
     "Prophecy's Pawn": {
       "name": "プロフェシーズ・ポーン/Prophecy's Pawn",
-      "description": "<p><strong>トリガー</strong>あなたがセーヴィング・スロウ、攻撃ロール、または技能判定に失敗した。</p>\n<hr />\n<p><strong>効果</strong>あなたは予言を自分に有利なようにねじ曲げるが、それには後で報いがある。失敗した判定を振り直す。あなたは2回目のロールの結果を使用しなければならない。</p>\n<p>その後24時間の間、運命が天秤を釣り合わせるため、GMは成功したセーヴィング・スロウ、攻撃ロール、または技能判定の振り直しをあなたに強制できる。これは不幸効果である。GMがこの選択肢を使用するか、または24時間が経過するまで(どちらか早い方)、あなたはprophecy's pawnを再び使用することはできない。</p>",
+      "description": "<p><strong>トリガー</strong>あなたがセーヴィング・スロー、攻撃ロール、または技能判定に失敗した。</p>\n<hr />\n<p><strong>効果</strong>あなたは予言を自分に有利なようにねじ曲げるが、それには後で報いがある。失敗した判定を振り直す。あなたは2回目のロールの結果を使用しなければならない。</p>\n<p>その後24時間の間、運命が天秤を釣り合わせるため、GMは成功したセーヴィング・スロー、攻撃ロール、または技能判定の振り直しをあなたに強制できる。これは不幸効果である。GMがこの選択肢を使用するか、または24時間が経過するまで(どちらか早い方)、あなたはprophecy's pawnを再び使用することはできない。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Guerrilla Assault": {
@@ -2457,7 +2457,7 @@
     },
     "Foresight": {
       "name": "フォーサイト/Foresight",
-      "description": "<p><strong>トリガー</strong> @UUID[Compendium.pf2e.spells-srd.Item.qsNeG9KZpODSACMq]{フォアサイト}の対象が、敵対的なクリーチャーやその他の危険に対して防御を行う。</p>\n<hr />\n<p><strong>効果</strong>もしその敵対的なクリーチャーや危険が、対象にダイスをロールさせる(例えばセーヴィング・スロウなど)場合、対象は2回ロールして高い方の結果を使用し、この呪文はフォーチュン特性を得る。しかし、もしその敵対的なクリーチャーや危険が対象に対してロールを行う(例えば攻撃ロールや技能判定など)場合、その敵対的なクリーチャーや危険が2回ロールして低い方の結果を使用し、この呪文はミスフォーチュン特性を得る。</p>",
+      "description": "<p><strong>トリガー</strong> @UUID[Compendium.pf2e.spells-srd.Item.qsNeG9KZpODSACMq]{フォアサイト}の対象が、敵対的なクリーチャーやその他の危険に対して防御を行う。</p>\n<hr />\n<p><strong>効果</strong>もしその敵対的なクリーチャーや危険が、対象にダイスをロールさせる(例えばセーヴィング・スローなど)場合、対象は2回ロールして高い方の結果を使用し、この呪文はフォーチュン特性を得る。しかし、もしその敵対的なクリーチャーや危険が対象に対してロールを行う(例えば攻撃ロールや技能判定など)場合、その敵対的なクリーチャーや危険が2回ロールして低い方の結果を使用し、この呪文はミスフォーチュン特性を得る。</p>",
       "source": "Pathfinder Player Core"
     },
     "Stridulating Song": {
@@ -2512,7 +2512,7 @@
     },
     "Mythic Echo": {
       "name": "ミシック・エコー/Mythic Echo",
-      "description": "<p><strong>使用制限</strong>ゲームセッションごとに1回</p>\n<p><strong>トリガー</strong>あなたが神話習熟を適用する攻撃、判定、またはセーヴィング・スロウに失敗または大失敗しようとしている。</p><hr /><p><strong>効果</strong>あなたは1ミシック・ポイントを回復する。</p>",
+      "description": "<p><strong>使用制限</strong>ゲームセッションごとに1回</p>\n<p><strong>トリガー</strong>あなたが神話習熟を適用する攻撃、判定、またはセーヴィング・スローに失敗または大失敗しようとしている。</p><hr /><p><strong>効果</strong>あなたは1ミシック・ポイントを回復する。</p>",
       "source": "Pathfinder Myth-Speaker Player's Guide"
     },
     "Erupting Spurs": {
@@ -2522,7 +2522,7 @@
     },
     "Shake It Off": {
       "name": "シェイク・イット・オフ/Shake It Off",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたが状態や不利な効果(@UUID[Compendium.pf2e.spells-srd.Item.dN8QBNuTiaBHCKUe]{カースド・メタモルフォシス}など)に対するセーヴィング・スロウに失敗したか、大失敗した。</p>\n<hr />\n<p><strong>効果</strong>あなたはトリガーとなったセーヴを振り直し、より良い結果を使用する。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたが状態や不利な効果(@UUID[Compendium.pf2e.spells-srd.Item.dN8QBNuTiaBHCKUe]{カースド・メタモルフォシス}など)に対するセーヴィング・スローに失敗したか、大失敗した。</p>\n<hr />\n<p><strong>効果</strong>あなたはトリガーとなったセーヴを振り直し、より良い結果を使用する。</p>",
       "source": "Pathfinder #194: Cult of the Cave Worm"
     },
     "Command a Construct": {
@@ -2587,7 +2587,7 @@
     },
     "Resist Magic": {
       "name": "レジスト・マジック/Resist Magic",
-      "description": "<p><strong>トリガー</strong>あなたが有害な魔法効果に対してセーヴィング・スロウを行おうとしているが、まだロールしていない時。</p><hr /><p>あなたの生得魔法があなたを守る。あなたはトリガーとなったセーヴィング・スロウに+1の状況ボーナスを得る。さらに、トリガーとなった効果が秘術である場合、あなたが成功をロールしたなら、代わりに大成功となる。</p>",
+      "description": "<p><strong>トリガー</strong>あなたが有害な魔法効果に対してセーヴィング・スローを行おうとしているが、まだロールしていない時。</p><hr /><p>あなたの生得魔法があなたを守る。あなたはトリガーとなったセーヴィング・スローに+1の状況ボーナスを得る。さらに、トリガーとなった効果が秘術である場合、あなたが成功をロールしたなら、代わりに大成功となる。</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Sever Four Dragonfly Wings": {
@@ -2673,7 +2673,7 @@
     },
     "Chaotic Destiny": {
       "name": "カオティック・デスティニー/Chaotic Destiny",
-      "description": "<p><strong>トリガー</strong>あなたが戦闘中にセーヴィング・スローセーヴィング・スロウに失敗する。</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>あなたがセーヴィング・スローセーヴィング・スロウに失敗した瞬間、混沌があなたに代わって介入する。ハロー・カードを1枚引き、失敗したセーヴィング・スローセーヴィング・スロウを振り直す。あなたはその振り直しの結果を受け入れなければならない。ただし、もしあなたが「冠」のスートのカードを引いたなら、その結果を成功度で1段階向上させる。</p>",
+      "description": "<p><strong>トリガー</strong>あなたが戦闘中にセーヴィング・スローセーヴィング・スローに失敗する。</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>あなたがセーヴィング・スローセーヴィング・スローに失敗した瞬間、混沌があなたに代わって介入する。ハロー・カードを1枚引き、失敗したセーヴィング・スローセーヴィング・スローを振り直す。あなたはその振り直しの結果を受け入れなければならない。ただし、もしあなたが「冠」のスートのカードを引いたなら、その結果を成功度で1段階向上させる。</p>",
       "source": "Pathfinder Stolen Fate Player's Guide"
     },
     "Compose Missive": {
@@ -2785,7 +2785,7 @@
     },
     "Sanguine Revitalization": {
       "name": "サンギン・リヴァイタリゼーション/Sanguine Revitalization",
-      "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p>あなたの分隊は敵の動脈から噴き出す血によって活力を取り戻す。コマンダーのバナーのオーラ内にいるクリーチャーを1体選び、そのオーラ内にいる、刺突または斬撃の近接武器を装備している、あるいは刺突または斬撃の近接素手攻撃を持つすべての分隊員に合図を送る。その味方はフリー・アクションとして、自身の移動速度の半分まで〈ストライド〉できる。もし彼らがこの移動を対象のリーチ内で終了した場合、彼らはリアクションとして、要求された武器または素手攻撃でその対象を〈ストライク〉できる。</p>\n<p>すべての〈ストライク〉が完了した時点で、対象がダメージを受けており、かつ出血ダメージに対する免疫でない場合、対象はあなたのクラスDCに対する@Check[fortitude|against:commander|options:damaging-effect,inflicts:bleed] セーヴィング・スロウを行わなければならず、失敗すると@Damage[10[persistent,bleed]]{10 points of persistent bleed}ダメージを受ける。対象はこの戦術の一部として行われた成功した〈ストライク〉の回数に等しい状況ペナルティをセーヴに受ける(最大で–4の状況ペナルティまで)。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.kJndFOHNBH8SR5IM]{効果: Sanguine Revitalization}</p>\n<p>あなたの分隊員は敵の差し迫った敗北の光景によって活力を与えられる。@Template[type:emanation|distance:20]にいる各分隊員は@Damage[10d6[healing]] ヒット・ポイントを回復する。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p>あなたの分隊は敵の動脈から噴き出す血によって活力を取り戻す。コマンダーのバナーのオーラ内にいるクリーチャーを1体選び、そのオーラ内にいる、刺突または斬撃の近接武器を装備している、あるいは刺突または斬撃の近接素手攻撃を持つすべての分隊員に合図を送る。その味方はフリー・アクションとして、自身の移動速度の半分まで〈ストライド〉できる。もし彼らがこの移動を対象のリーチ内で終了した場合、彼らはリアクションとして、要求された武器または素手攻撃でその対象を〈ストライク〉できる。</p>\n<p>すべての〈ストライク〉が完了した時点で、対象がダメージを受けており、かつ出血ダメージに対する免疫でない場合、対象はあなたのクラスDCに対する@Check[fortitude|against:commander|options:damaging-effect,inflicts:bleed] セーヴィング・スローを行わなければならず、失敗すると@Damage[10[persistent,bleed]]{10 points of persistent bleed}ダメージを受ける。対象はこの戦術の一部として行われた成功した〈ストライク〉の回数に等しい状況ペナルティをセーヴに受ける(最大で–4の状況ペナルティまで)。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.kJndFOHNBH8SR5IM]{効果: Sanguine Revitalization}</p>\n<p>あなたの分隊員は敵の差し迫った敗北の光景によって活力を与えられる。@Template[type:emanation|distance:20]にいる各分隊員は@Damage[10d6[healing]] ヒット・ポイントを回復する。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Amassed Assault": {
