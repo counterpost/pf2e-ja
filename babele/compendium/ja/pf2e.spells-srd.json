@@ -180,7 +180,7 @@
     },
     "Phantasmal Calamity": {
       "name": "ファンタズマル・カラミティ/Phantasmal Calamity",
-      "description": "<p>範囲内の各クリーチャーの心に黙示録的破壊の幻影が満ちる。その幻影は11d6の精神ダメージダメージを与える(基本的に意志セーヴ)。クリティカル失敗した場合、そのクリーチャーは@Check[reflex]のセーヴに成功しなければならない、さもなければ自分が閉じ込められていると信じる(地割れに挟まれている、海上を漂っている、または幻影に合致するその他の運命など)。その第二のセーヴに失敗した場合、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン}となり1分を受ける。そのクリーチャーは各自分のターン終了時に新たな意志セーヴを試みることができ、成功すれば幻影を疑い、1分から回復する。</p><hr /><p><strong>高位化 (+1)</strong>ダメージが2d6増加する。</p>",
+      "description": "<p>範囲内の各クリーチャーの心に黙示録的破壊の幻影が満ちる。その幻影は11d6の精神ダメージを与える(基本的に意志セーヴ)。クリティカル失敗した場合、そのクリーチャーは@Check[reflex]のセーヴに成功しなければならない、さもなければ自分が閉じ込められていると信じる(地割れに挟まれている、海上を漂っている、または幻影に合致するその他の運命など)。その第二のセーヴに失敗した場合、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン}となり1分を受ける。そのクリーチャーは各自分のターン終了時に新たな意志セーヴを試みることができ、成功すれば幻影を疑い、1分から回復する。</p><hr /><p><strong>高位化 (+1)</strong>ダメージが2d6増加する。</p>",
       "range": "500フィート",
       "time": "2"
     },
@@ -413,7 +413,7 @@
     },
     "Dive and Breach": {
       "name": "ダイブ・アンド・ブリーチ/Dive and Breach",
-      "description": "<p>あなたは水の界を短く潜る。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap} 10フィート、地面に着地するはずの場所では代わりに水しぶきに消え、飛び込みのように水面に体が入る。その後あなたは40フィート以内の空いている水面から出現し、〔跳躍〕して別の水しぶきとして現れ、出現地点から10フィート離れた場所に着地する。各水しぶきは@Template[emanation|distance:5]内のすべてのクリーチャーに3d10の殴打ダメージダメージを与える；複数の水しぶきゾーンにいるクリーチャーはダメージを一度しか受けない。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>各水しぶきの与えるダメージが1d10増加する。</p>",
+      "description": "<p>あなたは水の界を短く潜る。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap} 10フィート、地面に着地するはずの場所では代わりに水しぶきに消え、飛び込みのように水面に体が入る。その後あなたは40フィート以内の空いている水面から出現し、〔跳躍〕して別の水しぶきとして現れ、出現地点から10フィート離れた場所に着地する。各水しぶきは@Template[emanation|distance:5]内のすべてのクリーチャーに3d10の殴打ダメージを与える；複数の水しぶきゾーンにいるクリーチャーはダメージを一度しか受けない。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>各水しぶきの与えるダメージが1d10増加する。</p>",
       "time": "2"
     },
     "Slashing Gust": {
@@ -1718,7 +1718,7 @@
     },
     "Anathematic Reprisal": {
       "name": "アナセマティック・リプライザル",
-      "description": "<p><strong>トリガー</strong>そのクリーチャーはあなたの神格に対して禁忌となる行為を行う。</p> <hr /> <p>あなたはあなたの神格に違反したクリーチャーを罰するため、あなたがあなたの神格の忌避行為を目撃したときに感じる苦悩を利用する。あなたはこの呪文をクリーチャーが能動的に唯一の忌避行為を犯したときにのみ唱えられる。たとえば、あなたの神格にとって不死を作り出すことが忌避であるなら、不死をあなたの目の前で作り出したネクロマンサーに対してのみanathematic reprisalを使用でき、単に存在しているだけのアンデッドクリーチャーには使用できない。あなたは対象に4d6の精神ダメージダメージを与えるが、基本的な意志セーヴはこのダメージを軽減できる。それが失敗した場合、対象はまた@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}となり1ラウンドの間そうなる。そのクリーチャーはその後一時的な免疫となり1分の間そうなる。</p> <hr /> <p><strong>高位化 (+1)</strong>ダメージは1d6増える。</p>",
+      "description": "<p><strong>トリガー</strong>そのクリーチャーはあなたの神格に対して禁忌となる行為を行う。</p> <hr /> <p>あなたはあなたの神格に違反したクリーチャーを罰するため、あなたがあなたの神格の忌避行為を目撃したときに感じる苦悩を利用する。あなたはこの呪文をクリーチャーが能動的に唯一の忌避行為を犯したときにのみ唱えられる。たとえば、あなたの神格にとって不死を作り出すことが忌避であるなら、不死をあなたの目の前で作り出したネクロマンサーに対してのみanathematic reprisalを使用でき、単に存在しているだけのアンデッドクリーチャーには使用できない。あなたは対象に4d6の精神ダメージを与えるが、基本的な意志セーヴはこのダメージを軽減できる。それが失敗した場合、対象はまた@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}となり1ラウンドの間そうなる。そのクリーチャーはその後一時的な免疫となり1分の間そうなる。</p> <hr /> <p><strong>高位化 (+1)</strong>ダメージは1d6増える。</p>",
       "target": "トリガーとなったクリーチャー",
       "range": "30フィート",
       "time": "リアクション"
@@ -3026,7 +3026,7 @@
     },
     "Shatter Mind": {
       "name": "シャッター・マインド/Shatter Mind",
-      "description": "<p>あなたはテレパシーで敵の心を攻撃する。あなたはエリア内のすべての敵に3d4の精神ダメージダメージを与える。基本的な意志セーヴを伴う。</p><hr /><p><strong>高位化 (+1)</strong>ダメージが1d4増加する。</p>",
+      "description": "<p>あなたはテレパシーで敵の心を攻撃する。あなたはエリア内のすべての敵に3d4の精神ダメージを与える。基本的な意志セーヴを伴う。</p><hr /><p><strong>高位化 (+1)</strong>ダメージが1d4増加する。</p>",
       "time": "2"
     },
     "Forced Mercy": {
@@ -3992,7 +3992,7 @@
     },
     "Voracious Gestalt": {
       "name": "ヴォレイシャス・ゲシュタルト",
-      "description": "<p>あなたは敵を倒して取り込んだ霊を喰らうことで成長し力を増す強力な霊的実体を創造する。あなたが呪文をキャストしたとき、そのゲシュタルトは範囲内のあなたが選ぶすべての生きているクリーチャーに14d6の虚無ダメージダメージを与え、基本的な頑健セーヴを持つ。あなたが選んだ範囲内でターンを終了したクリーチャーは@Damage[(@item.level -3)d6[void]]ダメージを受け、基本的な頑健セーヴを持つ。</p>\n<p>あなたの各ターンの終了時に、そのターン中にあなたが生きているクリーチャーを倒したか、またはゲシュタルトのダメージで前のターン終了以降にクリーチャーを殺した場合、あなたはその殺したクリーチャーの魂をゲシュタルトに加える。エマネーションの半径は20フィートだけ増加し、オーラが与えるダメージは1d6増加する。(注：この増加はそのターンに複数の生きているクリーチャーを倒しても一度だけ発生する。)通常の脅威判定と同様に、GMはどのクリーチャーがゲシュタルトに力を与えるのに十分な脅威であるかを判断する。一般に、あなたより数レベル低いクリーチャーはめったに重大な脅威とはならない。</p><hr /><p><strong>高位化 (10th)</strong>即時ダメージが16d6に増加し、オーラのダメージは7d6から始まる虚無ダメージ。</p>",
+      "description": "<p>あなたは敵を倒して取り込んだ霊を喰らうことで成長し力を増す強力な霊的実体を創造する。あなたが呪文をキャストしたとき、そのゲシュタルトは範囲内のあなたが選ぶすべての生きているクリーチャーに14d6の虚無ダメージを与え、基本的な頑健セーヴを持つ。あなたが選んだ範囲内でターンを終了したクリーチャーは@Damage[(@item.level -3)d6[void]]ダメージを受け、基本的な頑健セーヴを持つ。</p>\n<p>あなたの各ターンの終了時に、そのターン中にあなたが生きているクリーチャーを倒したか、またはゲシュタルトのダメージで前のターン終了以降にクリーチャーを殺した場合、あなたはその殺したクリーチャーの魂をゲシュタルトに加える。エマネーションの半径は20フィートだけ増加し、オーラが与えるダメージは1d6増加する。(注：この増加はそのターンに複数の生きているクリーチャーを倒しても一度だけ発生する。)通常の脅威判定と同様に、GMはどのクリーチャーがゲシュタルトに力を与えるのに十分な脅威であるかを判断する。一般に、あなたより数レベル低いクリーチャーはめったに重大な脅威とはならない。</p><hr /><p><strong>高位化 (10th)</strong>即時ダメージが16d6に増加し、オーラのダメージは7d6から始まる虚無ダメージ。</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -4036,7 +4036,7 @@
     },
     "Holy Cascade": {
       "name": "ホーリー・カスケード/Holy Cascade",
-      "description": "<p>あなたは聖なるエネルギーを呼び起こし、@UUID[Compendium.pf2e.equipment-srd.Item.z9T4c1hXwOotsMCp]{Holy Water}の小瓶を増幅して驚異的な距離に投げる。それは巨大な爆発を起こし、水の奔流で範囲内の生物に3d6の殴打ダメージを与える。その水は範囲内で不浄のトレイトを持つ生物に追加で@Damage[((@item.level*2)-2)d6[spirit]]のダメージを与える。</p><hr /><p><strong>高位化高位化 (+1)</strong>殴打ダメージが1d6増加し、追加のスピリットダメージが2d6増加する。</p>",
+      "description": "<p>あなたは聖なるエネルギーを呼び起こし、@UUID[Compendium.pf2e.equipment-srd.Item.z9T4c1hXwOotsMCp]{Holy Water}の小瓶を増幅して驚異的な距離に投げる。それは巨大な爆発を起こし、水の奔流で範囲内の生物に3d6の殴打ダメージを与える。その水は範囲内で不浄のトレイトを持つ生物に追加で@Damage[((@item.level*2)-2)d6[spirit]]のダメージを与える。</p><hr /><p><strong>高位化 (+1)</strong>殴打ダメージが1d6増加し、追加のスピリットダメージが2d6増加する。</p>",
       "range": "500フィート",
       "time": "2",
       "requirements": "ホーリー・ウォーター1バイアル"
@@ -4969,7 +4969,7 @@
     },
     "Charged Javelin": {
       "name": "チャージド・ジャベリン/Charged Javelin",
-      "description": "<p>あなたは電気のジャベリンを発射し、対象の周囲に帯電フィールドを残す。対象のACに対して呪文攻撃を行う。ジャベリンは1d6の電撃ダメージダメージと持続1の電撃ダメージを与える。</p>\n<p>対象がこの呪文の持続ダメージを受けている限り、クリーチャーは対象に対する金属武器または電撃効果による攻撃ロールに+1のステータスボーナスを得、対象は電撃効果に対するセーヴに-1のステータスペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.QrigfqVwBCGPylth]{呪文 効果: チャージド・ジャベリン}</p><hr /><p><strong>クリティカル成功</strong>ジャベリンは初期と持続のダメージが2倍になる。</p>\n<p><strong>成功</strong>ジャベリンは完全なダメージを与える。</p><hr /><p><strong>高位化 (+1)</strong>即時ダメージが1d6増加し、持続ダメージが1増加する。</p>",
+      "description": "<p>あなたは電気のジャベリンを発射し、対象の周囲に帯電フィールドを残す。対象のACに対して呪文攻撃を行う。ジャベリンは1d6の電撃ダメージと持続1の電撃ダメージを与える。</p>\n<p>対象がこの呪文の持続ダメージを受けている限り、クリーチャーは対象に対する金属武器または電撃効果による攻撃ロールに+1のステータスボーナスを得、対象は電撃効果に対するセーヴに-1のステータスペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.QrigfqVwBCGPylth]{呪文 効果: チャージド・ジャベリン}</p><hr /><p><strong>クリティカル成功</strong>ジャベリンは初期と持続のダメージが2倍になる。</p>\n<p><strong>成功</strong>ジャベリンは完全なダメージを与える。</p><hr /><p><strong>高位化 (+1)</strong>即時ダメージが1d6増加し、持続ダメージが1増加する。</p>",
       "target": "1体のクリーチャー",
       "range": "60フィート",
       "time": "2"
@@ -5574,7 +5574,7 @@
     },
     "Tempest Surge": {
       "name": "テンペスト・サージ",
-      "description": "<p>あなたは激しい風、うねる雲、パチパチと走る稲妻の渦巻く嵐で敵を取り囲む。嵐は基本の反応セーヴで対象に1d12の電撃ダメージを与える。失敗すると対象は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}になり、1ラウンドの間そうなる。</p>\n<hr />\n<p><strong>高位化高位化 (+1)</strong>即時ダメージが1d12増える。</p>",
+      "description": "<p>あなたは激しい風、うねる雲、パチパチと走る稲妻の渦巻く嵐で敵を取り囲む。嵐は基本の反応セーヴで対象に1d12の電撃ダメージを与える。失敗すると対象は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}になり、1ラウンドの間そうなる。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>即時ダメージが1d12増える。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
       "time": "2"
@@ -5679,7 +5679,7 @@
     },
     "Status": {
       "name": "ステイタス",
-      "description": "<p>あなたと対象が同じ次元界に存在し両者とも生きている限り、あなたはその対象の現在の状態を把握している。あなたは対象があなたから見てどの方向にいるか、あなたからの距離、そして対象に影響しているいかなる状態も知っている。</p>\n<hr />\n<p><strong>高位化高位化 (4th)</strong>呪文の射程は30フィートに増加し、あなたは最大10体を対象にできる。</p>",
+      "description": "<p>あなたと対象が同じ次元界に存在し両者とも生きている限り、あなたはその対象の現在の状態を把握している。あなたは対象があなたから見てどの方向にいるか、あなたからの距離、そして対象に影響しているいかなる状態も知っている。</p>\n<hr />\n<p><strong>高位化 (4th)</strong>呪文の射程は30フィートに増加し、あなたは最大10体を対象にできる。</p>",
       "target": "1体の同意する生きているクリーチャー",
       "range": "接触",
       "duration": "次に日課の準備を行うまで",
@@ -5728,7 +5728,7 @@
     },
     "Dragon Wings": {
       "name": "ドラゴン・ウィングズ/Dragon Wings",
-      "description": "<p>あなたの背中から革のような翼が生え、あなたに移動速度の飛行能力を与える。その速度は60フィートまたはあなたの移動速度のうち速い方になる。もし呪文の持続時間が切れるときにまだ飛行中なら、@UUID[Compendium.pf2e.spells-srd.Item.TTwOKGqmZeKSyNMH]{ジェントル・ランディング}の効果と同様に地面にゆっくり降りる。</p><hr /><p><strong>高位化高位化 (8th)</strong>持続時間は10分に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.jy4edd6pvJvJgOSP]{呪文 効果: ドラゴン・ウィングス}</p>",
+      "description": "<p>あなたの背中から革のような翼が生え、あなたに移動速度の飛行能力を与える。その速度は60フィートまたはあなたの移動速度のうち速い方になる。もし呪文の持続時間が切れるときにまだ飛行中なら、@UUID[Compendium.pf2e.spells-srd.Item.TTwOKGqmZeKSyNMH]{ジェントル・ランディング}の効果と同様に地面にゆっくり降りる。</p><hr /><p><strong>高位化 (8th)</strong>持続時間は10分に増加する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.jy4edd6pvJvJgOSP]{呪文 効果: ドラゴン・ウィングス}</p>",
       "duration": "1分",
       "time": "2"
     },
@@ -6086,7 +6086,7 @@
     },
     "Conquering Soldiers": {
       "name": "コンカリング・ソルジャーズ",
-      "description": "<p>あなたは古の軍勢の栄光に接続し、その猛威を戦場に呼び出してその強さと力を自らのものとする。この軍勢は征服した古の軍のきらめく形として現れ、その国のバナーと色をまとっている。軍勢は巨大サイズのクリーチャーのスペースを占め、80フィートの移動速度を持つ。</p>\n<p><strong>Arrive</strong> (auditory, emotion, fear, mental) <em>Banner's Call</em>征服軍はあなたとあなたの味方の前に現れ、勝利と献身の叫びをあげる。80フィートのエマネーション内にいる各敵は意志セーヴを試みなければならない。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}。</p>\n<p><strong>失敗</strong>そのクリーチャーは6d12の精神ダメージダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@Damage[12d12[mental]|options:area-damage|traits:auditory,emotion,fear,mental]のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 4}され、@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}の状態になり、その持続時間は1ラウンドである。</p>\n<p><strong>Depart</strong> (emotion, healing, mental) <em>Trumpets of War</em>征服兵が消え始めると、軍楽隊は最後にあなたへの勝利の歌を演奏する。あなたと兵士から100フィート以内にいるすべての味方は直ちに任意の@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない},@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗},@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱},@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている},@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調},および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁}の条件の値を2減らし、3ラウンドの間、すべての攻撃、セーヴ、スキル判定、およびDCに対して+2のステータスボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.VqcFP9hwyCrnbDZp]{呪文 効果: コンカリング・ソルジャーズ (Depart)}</p>",
+      "description": "<p>あなたは古の軍勢の栄光に接続し、その猛威を戦場に呼び出してその強さと力を自らのものとする。この軍勢は征服した古の軍のきらめく形として現れ、その国のバナーと色をまとっている。軍勢は巨大サイズのクリーチャーのスペースを占め、80フィートの移動速度を持つ。</p>\n<p><strong>Arrive</strong> (auditory, emotion, fear, mental) <em>Banner's Call</em>征服軍はあなたとあなたの味方の前に現れ、勝利と献身の叫びをあげる。80フィートのエマネーション内にいる各敵は意志セーヴを試みなければならない。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}。</p>\n<p><strong>失敗</strong>そのクリーチャーは6d12の精神ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@Damage[12d12[mental]|options:area-damage|traits:auditory,emotion,fear,mental]のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 4}され、@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}の状態になり、その持続時間は1ラウンドである。</p>\n<p><strong>Depart</strong> (emotion, healing, mental) <em>Trumpets of War</em>征服兵が消え始めると、軍楽隊は最後にあなたへの勝利の歌を演奏する。あなたと兵士から100フィート以内にいるすべての味方は直ちに任意の@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない},@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗},@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱},@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている},@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調},および@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁}の条件の値を2減らし、3ラウンドの間、すべての攻撃、セーヴ、スキル判定、およびDCに対して+2のステータスボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.VqcFP9hwyCrnbDZp]{呪文 効果: コンカリング・ソルジャーズ (Depart)}</p>",
       "range": "500フィート",
       "duration": "あなたの次のターン終了時まで",
       "time": "3",
@@ -6299,7 +6299,7 @@
     },
     "Jassim's Allegiance": {
       "name": "ジャシムズ・アリージャンス/Jassim's Allegiance",
-      "description": "<p>あなたはこの呪文を奇妙な市場で取引して得たのか、あるいは砂漠をさまよって絶望的に迷い、時間の残骸と没落した帝国の遺構に囲まれているうちに得たのかもしれない。所作とテスクラの宙吊り都市の陥落以来話されていない言語の言葉で、あなたは放浪者ジャシムを召喚する。ジャシムは真のジストカ語オートマトンで、巨大クリーチャーの領域を占め、移動速度が60フィートである。</p>\n<p><strong>Arrive</strong> (fire) <em>Eyes of Fire</em>ジャシムは地面から現れてあなたの敵をにらみ、古い金属とガラスの顔に恐ろしい表情が浮かぶ。ジャシムは60フィートの直線にエネルギー光線を放ち、5d12の火炎ダメージと5d12の刺突ダメージ (basic反応セーヴ)のダメージを与える。あなたの敵がクリティカル失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}。</p>\n<p><strong>Depart</strong> (metal) <em>Heart of Rust</em>ジャシムは胸から金属片を取り出して差し出し、それを握りつぶして粉末を作り、60フィートのエマネーションに広げる。これらの粒子は範囲内のすべてのクリーチャーと保持していない物体に10d6の斬撃ダメージダメージを与える (basic頑健セーヴ)。金属のクリーチャーがそのセーヴに失敗すると追加で@Damage[2d8[persistent,slashing]|traits:metal]ダメージを受ける。このセーヴに失敗した非金属のクリーチャーも@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}。</p>",
+      "description": "<p>あなたはこの呪文を奇妙な市場で取引して得たのか、あるいは砂漠をさまよって絶望的に迷い、時間の残骸と没落した帝国の遺構に囲まれているうちに得たのかもしれない。所作とテスクラの宙吊り都市の陥落以来話されていない言語の言葉で、あなたは放浪者ジャシムを召喚する。ジャシムは真のジストカ語オートマトンで、巨大クリーチャーの領域を占め、移動速度が60フィートである。</p>\n<p><strong>Arrive</strong> (fire) <em>Eyes of Fire</em>ジャシムは地面から現れてあなたの敵をにらみ、古い金属とガラスの顔に恐ろしい表情が浮かぶ。ジャシムは60フィートの直線にエネルギー光線を放ち、5d12の火炎ダメージと5d12の刺突ダメージ (basic反応セーヴ)のダメージを与える。あなたの敵がクリティカル失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}。</p>\n<p><strong>Depart</strong> (metal) <em>Heart of Rust</em>ジャシムは胸から金属片を取り出して差し出し、それを握りつぶして粉末を作り、60フィートのエマネーションに広げる。これらの粒子は範囲内のすべてのクリーチャーと保持していない物体に10d6の斬撃ダメージを与える (basic頑健セーヴ)。金属のクリーチャーがそのセーヴに失敗すると追加で@Damage[2d8[persistent,slashing]|traits:metal]ダメージを受ける。このセーヴに失敗した非金属のクリーチャーも@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}。</p>",
       "range": "500フィート",
       "duration": "あなたの次のターン終了時まで",
       "time": "3",
@@ -6329,7 +6329,7 @@
     },
     "Hydraulic Push": {
       "name": "ハイドローリック・プッシュ/Hydraulic Push",
-      "description": "<p>あなたは強力な高圧の水流を呼び出し対象を打ちのめして後退させる。遠隔呪文攻撃ロールを行う。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は6d6の殴打ダメージダメージを受け、10フィート押し戻される。</p>\n<p><strong>成功</strong>対象は3d6の殴打ダメージダメージを受け、5フィート押し戻される。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>殴打ダメージは2d6増加する。</p>",
+      "description": "<p>あなたは強力な高圧の水流を呼び出し対象を打ちのめして後退させる。遠隔呪文攻撃ロールを行う。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は6d6の殴打ダメージを受け、10フィート押し戻される。</p>\n<p><strong>成功</strong>対象は3d6の殴打ダメージを受け、5フィート押し戻される。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>殴打ダメージは2d6増加する。</p>",
       "target": "1体のクリーチャーまたは誰も保持していない物体",
       "range": "60フィート",
       "time": "2"
@@ -8907,10 +8907,10 @@
       "time": "2",
       "spellVariants": {
         "CuGW0j3SYzsrf89R": {
-          "name": "サン・ブレードサン・ブレード"
+          "name": "サン・ブレード"
         },
         "zkpyb1D8OCsASYRi": {
-          "name": "サン・ブレードサン・ブレード (明るい自然光)"
+          "name": "サン・ブレード (明るい自然光)"
         }
       }
     },
@@ -9611,7 +9611,7 @@
     },
     "Heal": {
       "name": "ヒール/Heal",
-      "description": "<p>あなたは生命エネルギーを放ち、生者を癒すか、アンデッドにダメージを与える。 対象が自発的な生きているクリーチャーである場合、あなたは対象に1d8のヒット・ポイントを回復させる。対象がアンデッドである場合、あなたはその対象に同量の生命ダメージダメージを与え、その対象は基本的な頑健セーヴを得る。あなたがこの呪文を唱えるときに費やすアクション数が、その対象、射程、範囲、その他のパラメータを決める。</p>\n<p><span class=\"action-glyph\">1</span>呪文の射程は接触である。</p>\n<p><span class=\"action-glyph\">2</span> <strong>(concentrate)</strong>呪文の射程は30フィートである。あなたが対象を生きているクリーチャーで癒している場合、回復するヒット・ポイントは8増加する。</p>\n<p><span class=\"action-glyph\">3</span> <strong>(concentrate)</strong>あなたは@Template[emanation|distance:30]に生命エネルギーを拡散させる。これによりバースト内のすべての生きているクリーチャーとアンデッドのクリーチャーを標的にする。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>回復量またはダメージは1d8増加し、2アクション版の追加回復は8増加する。</p>",
+      "description": "<p>あなたは生命エネルギーを放ち、生者を癒すか、アンデッドにダメージを与える。 対象が自発的な生きているクリーチャーである場合、あなたは対象に1d8のヒット・ポイントを回復させる。対象がアンデッドである場合、あなたはその対象に同量の生命ダメージを与え、その対象は基本的な頑健セーヴを得る。あなたがこの呪文を唱えるときに費やすアクション数が、その対象、射程、範囲、その他のパラメータを決める。</p>\n<p><span class=\"action-glyph\">1</span>呪文の射程は接触である。</p>\n<p><span class=\"action-glyph\">2</span> <strong>(concentrate)</strong>呪文の射程は30フィートである。あなたが対象を生きているクリーチャーで癒している場合、回復するヒット・ポイントは8増加する。</p>\n<p><span class=\"action-glyph\">3</span> <strong>(concentrate)</strong>あなたは@Template[emanation|distance:30]に生命エネルギーを拡散させる。これによりバースト内のすべての生きているクリーチャーとアンデッドのクリーチャーを標的にする。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>回復量またはダメージは1d8増加し、2アクション版の追加回復は8増加する。</p>",
       "target": "1体の同意する生きているクリーチャーまたは1アンデッド",
       "range": "様々",
       "time": "1〜3",
@@ -10205,7 +10205,7 @@
     },
     "Divine Decree": {
       "name": "ディバイン・ディクリー/Divine Decree",
-      "description": "<p>あなたは信仰から強力な典礼文を唱え、理想に反する者に害を与える命令を発する。あなたは範囲内の敵に7d10のスピリットダメージを与える；各敵は頑健セーヴを試みなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるになり、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}の影響を受けて1分の間続く。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは2倍のダメージを受けるになり、1分の間弱体化2になる。もしあなたが自分のホーム次元界にいてそのクリーチャーがそうでないなら、そのクリーチャーはホーム次元界に送り返される。レベル10以下のクリーチャーはさらに意志セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}されて1分の間続く；クリティカルに失敗した場合、それは死亡する(これは死の効果である)。</p>\n<hr />\n<p><strong>高位化高位化 (+1)</strong>ダメージは1d10増加し、クリティカル失敗時に二度目のセーヴを試みなければならないクリーチャーのレベルが2上がる。</p>",
+      "description": "<p>あなたは信仰から強力な典礼文を唱え、理想に反する者に害を与える命令を発する。あなたは範囲内の敵に7d10のスピリットダメージを与える；各敵は頑健セーヴを試みなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるになり、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}の影響を受けて1分の間続く。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは2倍のダメージを受けるになり、1分の間弱体化2になる。もしあなたが自分のホーム次元界にいてそのクリーチャーがそうでないなら、そのクリーチャーはホーム次元界に送り返される。レベル10以下のクリーチャーはさらに意志セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}されて1分の間続く；クリティカルに失敗した場合、それは死亡する(これは死の効果である)。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>ダメージは1d10増加し、クリティカル失敗時に二度目のセーヴを試みなければならないクリーチャーのレベルが2上がる。</p>",
       "duration": "様々",
       "time": "2"
     },
@@ -10409,7 +10409,7 @@
     },
     "Caustic Blast": {
       "name": "コースティック・ブラスト/Caustic Blast",
-      "description": "<p>あなたは大きな塊の酸を投げ、それは即座に爆発して周囲の生物に飛散する。範囲内の生物は基本的な反応セーヴで1d8の酸ダメージを受ける；クリティカル失敗ならその生物はさらに@Damage[(1+floor((@item.rank -1)/2))[persistent,acid]]のダメージを受ける。</p>\n<hr />\n<p><strong>高位化高位化 (+2)</strong>即時ダメージが1d8増加し、クリティカル失敗時の持続ダメージが1増える。</p>",
+      "description": "<p>あなたは大きな塊の酸を投げ、それは即座に爆発して周囲の生物に飛散する。範囲内の生物は基本的な反応セーヴで1d8の酸ダメージを受ける；クリティカル失敗ならその生物はさらに@Damage[(1+floor((@item.rank -1)/2))[persistent,acid]]のダメージを受ける。</p>\n<hr />\n<p><strong>高位化 (+2)</strong>即時ダメージが1d8増加し、クリティカル失敗時の持続ダメージが1増える。</p>",
       "range": "30フィート",
       "time": "2"
     },
@@ -13272,7 +13272,7 @@
     },
     "Boomerang Shot": {
       "name": "ブーメラン・ショット",
-      "description": "<p>あなたは障害物や障害を迂回して予期しない方向から突くように弧を描く曲がった木片を敵に投げつける。あなたは対象のACに対して呪文攻撃ロールを行う。この攻撃は対象の@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態を無視し、大遮蔽を除くすべての遮蔽物を無視する。命中した場合、その飛翔体は7d10の殴打ダメージダメージを与える。</p><hr /><p><strong>高位化 (7th)</strong>ダメージは9d10に増加する。</p>\n<p><strong>高位化 (9th)</strong>ダメージは12d10に増加し、この攻撃は遮蔽物を完全に無視する。</p>",
+      "description": "<p>あなたは障害物や障害を迂回して予期しない方向から突くように弧を描く曲がった木片を敵に投げつける。あなたは対象のACに対して呪文攻撃ロールを行う。この攻撃は対象の@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態を無視し、大遮蔽を除くすべての遮蔽物を無視する。命中した場合、その飛翔体は7d10の殴打ダメージを与える。</p><hr /><p><strong>高位化 (7th)</strong>ダメージは9d10に増加する。</p>\n<p><strong>高位化 (9th)</strong>ダメージは12d10に増加し、この攻撃は遮蔽物を完全に無視する。</p>",
       "target": "1体のクリーチャー",
       "range": "100",
       "time": "2"

@@ -143,7 +143,7 @@
     },
     "Strategic Strike": {
       "name": "ストラテジック・〈ストライク〉/Strategic Strike",
-      "description": "<p>注意深く、熟慮してストライクを行うとき、あなたは決定的な一撃を与える。@UUID[Compendium.pf2e.classfeatures.Item.lgo65ldX7WkXC8Ir]{Devising a Stratagem}により攻撃ロールに【知力】修正値を加算する〈ストライク〉を行う際、あなたは追加で1d6の精密ダメージを与える。</p>\n<p>インヴェスティゲーターのレベルが上がるにつれて、あなたの戦略的打撃の殺傷力も高まる。5レベル、9レベル、13レベル、17レベルで、ダイスの数を1つ増加増加させる。</p>"
+      "description": "<p>注意深く、熟慮してストライクを行うとき、あなたは決定的な一撃を与える。@UUID[Compendium.pf2e.classfeatures.Item.lgo65ldX7WkXC8Ir]{Devising a Stratagem}により攻撃ロールに【知力】修正値を加算する〈ストライク〉を行う際、あなたは追加で1d6の精密ダメージを与える。</p>\n<p>インヴェスティゲーターのレベルが上がるにつれて、あなたの戦略的打撃の殺傷力も高まる。5レベル、9レベル、13レベル、17レベルで、ダイスの数を1つ増加させる。</p>"
     },
     "Bloodline": {
       "name": "ブラッドライン/Bloodline",
@@ -1278,7 +1278,7 @@
     },
     "Flames": {
       "name": "フレイムズ/Flames",
-      "description": "<p>火は世界の中心、太陽の中心、そして文明の中心に存在する。あなたはこの元素の力を崇拝するかもしれないし、エレメンタル火の次元界から力を吸い上げるかもしれないし、アスモデウス、サーレンレイ、ティアンの災害と火山の女神であるレディ・ナンビョ、あるいは火の元素の君主であるイメリといった神々の集まりを崇敬するかもしれない。</p>\n<p><strong>授与呪文</strong></p><ul><li><strong>初級呪文:</strong> @UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{Ignition}</li><li><strong>1レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.y6rAdMK6EFlV6U0t]{Breathe Fire}</li><li><strong>2レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.ZxHC7V7HtjUsB8zH]{Blazing Bolt}</li><li><strong>3レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.sxQZ6yqTn0czJxVd]{Fireball}</li></ul><p><strong>啓示呪文</strong></p><ul><li><strong>初期:</strong> @UUID[Compendium.pf2e.spells-srd.Item.AspA30tzKCHFWRf0]{Incendiary Aura}</li><li><strong>上級:</strong> @UUID[Compendium.pf2e.spells-srd.Item.Wi2HcreCfujKiCvW]{Whirling Flames}</li><li><strong>大級:</strong> @UUID[Compendium.pf2e.spells-srd.Item.bynT1UKaDqr8dLNM]{Flaming Fusillade}</li></ul><p><strong>関連領域</strong>塵、火炎、星、太陽</p>\n<p><strong>謎のスキルスキル</strong> 《軽業》</p>\n<p><strong>オラクルの特技特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.CuVvDrBaVP9nYJlt]{Foretell Harm}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.RI2UHuUZd3TC1OE8]{炎に飲み込まれる呪い}</p>"
+      "description": "<p>火は世界の中心、太陽の中心、そして文明の中心に存在する。あなたはこの元素の力を崇拝するかもしれないし、エレメンタル火の次元界から力を吸い上げるかもしれないし、アスモデウス、サーレンレイ、ティアンの災害と火山の女神であるレディ・ナンビョ、あるいは火の元素の君主であるイメリといった神々の集まりを崇敬するかもしれない。</p>\n<p><strong>授与呪文</strong></p><ul><li><strong>初級呪文:</strong> @UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{Ignition}</li><li><strong>1レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.y6rAdMK6EFlV6U0t]{Breathe Fire}</li><li><strong>2レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.ZxHC7V7HtjUsB8zH]{Blazing Bolt}</li><li><strong>3レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.sxQZ6yqTn0czJxVd]{Fireball}</li></ul><p><strong>啓示呪文</strong></p><ul><li><strong>初期:</strong> @UUID[Compendium.pf2e.spells-srd.Item.AspA30tzKCHFWRf0]{Incendiary Aura}</li><li><strong>上級:</strong> @UUID[Compendium.pf2e.spells-srd.Item.Wi2HcreCfujKiCvW]{Whirling Flames}</li><li><strong>大級:</strong> @UUID[Compendium.pf2e.spells-srd.Item.bynT1UKaDqr8dLNM]{Flaming Fusillade}</li></ul><p><strong>関連領域</strong>塵、火炎、星、太陽</p>\n<p><strong>謎のスキル</strong> 《軽業》</p>\n<p><strong>オラクルの特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.CuVvDrBaVP9nYJlt]{Foretell Harm}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.RI2UHuUZd3TC1OE8]{炎に飲み込まれる呪い}</p>"
     },
     "Divine Spark and Ikons": {
       "name": "ディバイン・スパーク・アンド・アイコンズ",
@@ -1358,7 +1358,7 @@
     },
     "Obedience": {
       "name": "オビーディエンス/Obedience",
-      "description": "<p>《社会》には秩序が保たれる正当な理由があり、人々は自身の適切な立場にふさわしい振る舞いをすべきである。</p>\n<p><strong>教義</strong> 正当な階層構造を強制する、非正当な階層構造を打倒する、あなたがその任務に最も適している時に指導する</p>\n<p><strong>禁忌</strong> あなたより劣る者に、あなたに対する権力を装備させる、あるいはあなたを導かせる</p><hr /><p><strong>チャンピオンのリアクション</strong> @UUID[Compendium.pf2e.actionspf2e.Item.M8RCbthRhB4bxO9t]{鉄の命令}</p>\n<p><strong>容赦なきリアクション (9レベルレベル)</strong> 敵が拒否した場合、その敵はあなたの魅力修正値に等しい持続精神ダメージを受ける。</p>\n<p><strong>高潔なるリアクション (11レベルレベル)</strong> トリガーとなったクリーチャー以外の、あなたのチャンピオンのオーラ内にいる各敵は、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になるか、精神ダメージを受けるかを選択しなければならない(各敵が選択する)。これらのクリーチャーは最小ダメージのみを受ける(通常、11レベルで3ダメージ、12レベルで4ダメージ、16レベルで5ダメージ、19レベルで6ダメージ)。また、彼らが受ける効果は、あなたの「鉄の命令」を変更するいかなるものによっても調整できない。例えば、《鉄の報復》特技は、トリガーとなったクリーチャー以外のクリーチャーに対して、このダメージを持続的な精神ダメージに変えることはできない。</p>"
+      "description": "<p>《社会》には秩序が保たれる正当な理由があり、人々は自身の適切な立場にふさわしい振る舞いをすべきである。</p>\n<p><strong>教義</strong> 正当な階層構造を強制する、非正当な階層構造を打倒する、あなたがその任務に最も適している時に指導する</p>\n<p><strong>禁忌</strong> あなたより劣る者に、あなたに対する権力を装備させる、あるいはあなたを導かせる</p><hr /><p><strong>チャンピオンのリアクション</strong> @UUID[Compendium.pf2e.actionspf2e.Item.M8RCbthRhB4bxO9t]{鉄の命令}</p>\n<p><strong>容赦なきリアクション (9レベル)</strong> 敵が拒否した場合、その敵はあなたの魅力修正値に等しい持続精神ダメージを受ける。</p>\n<p><strong>高潔なるリアクション (11レベル)</strong> トリガーとなったクリーチャー以外の、あなたのチャンピオンのオーラ内にいる各敵は、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になるか、精神ダメージを受けるかを選択しなければならない(各敵が選択する)。これらのクリーチャーは最小ダメージのみを受ける(通常、11レベルで3ダメージ、12レベルで4ダメージ、16レベルで5ダメージ、19レベルで6ダメージ)。また、彼らが受ける効果は、あなたの「鉄の命令」を変更するいかなるものによっても調整できない。例えば、《鉄の報復》特技は、トリガーとなったクリーチャー以外のクリーチャーに対して、このダメージを持続的な精神ダメージに変えることはできない。</p>"
     },
     "Angel Eidolon": {
       "name": "エンジェル・エイドロン/Angel Eidolon",
@@ -2059,7 +2059,7 @@
     },
     "Blunt Shot": {
       "name": "ブラント・ショット/Blunt Shot",
-      "description": "<p><strong>遠隔のみ</strong></p><hr /><p>あなたの武器のイノヴェーションは、弾薬の鋭利な部分を削り落とし、射撃の打撃力を調整することで、刺突と同じくらい強打を与える攻撃を繰り出したり、相手を足元から崩して転倒させたりすることができる。あなたのイノヴェーションは、衝撃トレイトと遠隔遠隔足払いトレイトを得る。</p>"
+      "description": "<p><strong>遠隔のみ</strong></p><hr /><p>あなたの武器のイノヴェーションは、弾薬の鋭利な部分を削り落とし、射撃の打撃力を調整することで、刺突と同じくらい強打を与える攻撃を繰り出したり、相手を足元から崩して転倒させたりすることができる。あなたのイノヴェーションは、衝撃トレイトと遠隔足払いトレイトを得る。</p>"
     },
     "Construct Innovation": {
       "name": "コンストラクト・イノヴェイション/Construct Innovation",
@@ -2674,7 +2674,7 @@
     },
     "Initiate Benefit (Lantern)": {
       "name": "イニシエート・ベネフィット(ランタン)/Initiate Benefit (Lantern)",
-      "description": "<p>あなたがランタンを手に持っている間、その燃えるような光は秘密を隠す場所をなくす。あなたは思考のみで、集中トレイトを持つフリー・アクションとして、ランタンを点灯または消灯できる。点灯中、ランタンは20フィートの放射で光のオーラを放つ。このオーラは光トレイトと魔法トレイトを持つ。オーラ内のすべてのものは、遮蔽に関係なく魔法的に明るい光で照らされ、オーラのサイズと同等の追加距離まで薄暗い光が広がる。魔法の暗闇に対するこのオーラの打ち消しランクは、あなたのレベルの半分(端数切り上げ)に等しい。</p>\n<p>ランタンのオーラは目に見えないものを暴こうとする。ランタンのオーラ内にいるあなたとあなたの味方は、同じくオーラ内にいる何かを察知するための視覚による《知覚》判定に+1状況ボーナスを得る。また、光がクリーチャーの真の性質を暴くため、オーラ内のクリーチャーに対して@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行う判定に+1状況ボーナスを得る。探索探索中、あなたが「探索」を行っていなくても、GMは罠、環境ハザード、ハーント、秘密(秘密の扉など)を見つけるためのシークレット判定をあなたのために行う。GMは、特定のハザードや秘密がランタンのオーラ内に入るたびにロールを行う。これらの効果は魔法トレイトと啓示トレイトを持つ。</p>"
+      "description": "<p>あなたがランタンを手に持っている間、その燃えるような光は秘密を隠す場所をなくす。あなたは思考のみで、集中トレイトを持つフリー・アクションとして、ランタンを点灯または消灯できる。点灯中、ランタンは20フィートの放射で光のオーラを放つ。このオーラは光トレイトと魔法トレイトを持つ。オーラ内のすべてのものは、遮蔽に関係なく魔法的に明るい光で照らされ、オーラのサイズと同等の追加距離まで薄暗い光が広がる。魔法の暗闇に対するこのオーラの打ち消しランクは、あなたのレベルの半分(端数切り上げ)に等しい。</p>\n<p>ランタンのオーラは目に見えないものを暴こうとする。ランタンのオーラ内にいるあなたとあなたの味方は、同じくオーラ内にいる何かを察知するための視覚による《知覚》判定に+1状況ボーナスを得る。また、光がクリーチャーの真の性質を暴くため、オーラ内のクリーチャーに対して@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行う判定に+1状況ボーナスを得る。探索中、あなたが「探索」を行っていなくても、GMは罠、環境ハザード、ハーント、秘密(秘密の扉など)を見つけるためのシークレット判定をあなたのために行う。GMは、特定のハザードや秘密がランタンのオーラ内に入るたびにロールを行う。これらの効果は魔法トレイトと啓示トレイトを持つ。</p>"
     },
     "Bloodline: Aesir": {
       "name": "ブラッドライン：エーシル/Bloodline: Aesir",

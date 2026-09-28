@@ -2398,7 +2398,7 @@
         },
         "6OspJylC319MBk17": {
           "name": "チェンジ・シェイプ",
-          "description": "<ul><li><p><strong>リザードリザード</strong></p><ul><li><strong>移動速度</strong> 20フィート</li><li><strong>近接</strong>顎 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d8+1刺突</li></ul></li><li><p><strong>オクトパスオクトパス</strong></p><ul><li><strong>サイズ</strong>小型</li><li><strong>移動速度</strong> 20フィート、水泳30フィート</li><li><strong>スキル</strong> 《運動》 +6</li><li><strong>近接</strong>触手 +8 (フィネス)、<strong>ダメージ</strong> 1d8+1殴打加えて@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{グラブ}</li><li><strong>近接</strong>嘴 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6刺突加えて2毒</li></ul></li><li><p><strong>スコーピオンスコーピオン</strong></p><ul><li><strong>サイズ</strong>小型</li><li><strong>移動速度</strong> 30フィート</li><li><strong>スキル</strong> 《運動》 +6</li><li><strong>近接</strong>鋏 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6+1殴打加えてグラブ</li><li><strong>近接</strong>毒針 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6+1刺突加えて1d4毒</li></ul></li></ul><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+          "description": "<ul><li><p><strong>リザード</strong></p><ul><li><strong>移動速度</strong> 20フィート</li><li><strong>近接</strong>顎 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d8+1刺突</li></ul></li><li><p><strong>オクトパス</strong></p><ul><li><strong>サイズ</strong>小型</li><li><strong>移動速度</strong> 20フィート、水泳30フィート</li><li><strong>スキル</strong> 《運動》 +6</li><li><strong>近接</strong>触手 +8 (フィネス)、<strong>ダメージ</strong> 1d8+1殴打加えて@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{グラブ}</li><li><strong>近接</strong>嘴 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6刺突加えて2毒</li></ul></li><li><p><strong>スコーピオン</strong></p><ul><li><strong>サイズ</strong>小型</li><li><strong>移動速度</strong> 30フィート</li><li><strong>スキル</strong> 《運動》 +6</li><li><strong>近接</strong>鋏 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6+1殴打加えてグラブ</li><li><strong>近接</strong>毒針 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6+1刺突加えて1d4毒</li></ul></li></ul><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "glwIs2UR3O1wG0tc": {
           "name": "ソウル・ロック/Soul Lock",
@@ -5763,7 +5763,7 @@
         },
         "80CuEcGtDQ6fUIyY": {
           "name": "ドラウニング・ドローン/Drowning Drone",
-          "description": "<p><strong>トリガー</strong> 60フィート60フィート以内にいるボガードのスワンプシアまたはその味方が、聴覚または音波の効果に対してセーヴィング・スローを行う。</p>\n<hr />\n<p><strong>効果</strong>そのスワンプシアは他の音をかき消すような鳴き声を放つ。彼らは@Check[performance]判定を行う。彼らおよび範囲内にいるボガードの味方は、その聴覚または音波の効果に対する解決において、そのスワンプシアの《芸能》判定と彼ら自身のセーヴのうち高い方の結果を使用できる。</p>"
+          "description": "<p><strong>トリガー</strong> 60フィート以内にいるボガードのスワンプシアまたはその味方が、聴覚または音波の効果に対してセーヴィング・スローを行う。</p>\n<hr />\n<p><strong>効果</strong>そのスワンプシアは他の音をかき消すような鳴き声を放つ。彼らは@Check[performance]判定を行う。彼らおよび範囲内にいるボガードの味方は、その聴覚または音波の効果に対する解決において、そのスワンプシアの《芸能》判定と彼ら自身のセーヴのうち高い方の結果を使用できる。</p>"
         },
         "xBIoPO0Yl00JwtXW": {
           "name": "スワンプ・パッセージ",
@@ -5791,7 +5791,7 @@
         },
         "CyJqBVfPXX4Fp283": {
           "name": "ギャロップ",
-          "description": "<p>そのライディング・ポニーは2回ストライドを行う。このストライドの間、その移動速度移動速度には＋10フィートの状況ボーナスが適用される。</p>"
+          "description": "<p>そのライディング・ポニーは2回ストライドを行う。このストライドの間、その移動速度には＋10フィートの状況ボーナスが適用される。</p>"
         }
       },
       "name": "ライディング・ポニー/Riding Pony",
@@ -9080,7 +9080,7 @@
         },
         "2xwKWCTraWTbO2QT": {
           "name": "チェンジ・シェイプ",
-          "description": "<p>アイアン・ハグは、任意の中型の女性ヒューマノイドの姿をとることができる。これによってその移動速度移動速度やストライクの攻撃ボーナスおよびダメージボーナスが変化することはないが、ストライクが与えるダメージ種別(通常は殴打に変更される)が変化する可能性がある。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+          "description": "<p>アイアン・ハグは、任意の中型の女性ヒューマノイドの姿をとることができる。これによってその移動速度やストライクの攻撃ボーナスおよびダメージボーナスが変化することはないが、ストライクが与えるダメージ種別(通常は殴打に変更される)が変化する可能性がある。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "y5dVpyMy5aFYReOk": {
           "name": "エンブレイス・オブ・アイアン/Embrace of Iron",

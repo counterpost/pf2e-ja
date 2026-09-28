@@ -3839,11 +3839,11 @@
     },
     "58ox9o6ljire079b": {
       "name": "ハーントの憤怒/Wrath of the Haunt",
-      "description": "<p><strong>頻度使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件必要条件</strong>ガイストが活動中のハーントから100フィート100フィート以内にいること。</p>\n<hr />\n<p><strong>効果効果</strong>ハーントはネクロマンシーの力をガイストに送り込み、ガイストの次のターンの終了時まで非活動状態となり、ハーントが再び活動するまでハーントのオーラの力を無効化する。ガイストの外套クロークの縁が、炎と煙でできているように見える鞭のような巻きひげに変貌し、近くのクリーチャーに襲いかかる。ガイストから10フィート10フィート以内にいるすべての生きたクリーチャー生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10 火炎ダメージ火炎ダメージに加え4d6 虚無ダメージ虚無ダメージ}を受ける(@Check[type:reflex|dc:28|basic:true]セーヴ)。</p>"
+      "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件</strong>ガイストが活動中のハーントから100フィート以内にいること。</p>\n<hr />\n<p><strong>効果</strong>ハーントはネクロマンシーの力をガイストに送り込み、ガイストの次のターンの終了時まで非活動状態となり、ハーントが再び活動するまでハーントのオーラの力を無効化する。ガイストの外套クロークの縁が、炎と煙でできているように見える鞭のような巻きひげに変貌し、近くのクリーチャーに襲いかかる。ガイストから10フィート以内にいるすべての生きたクリーチャー生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10 火炎ダメージに加え4d6 虚無ダメージ}を受ける(@Check[type:reflex|dc:28|basic:true]セーヴ)。</p>"
     },
     "Wrath of the Haunt": {
       "name": "ハントの憤怒",
-      "description": "<p><strong>頻度使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件必要条件</strong>ガイストが活動中のハーントから100フィート100フィート以内にいること。</p>\n<hr />\n<p><strong>効果効果</strong>ハーントはネクロマンシーの力をガイストに送り込み、ガイストの次のターンの終了時まで非活動状態となり、ハーントが再び活動するまでハーントのオーラの力を無効化する。ガイストの外套クロークの縁が、炎と煙でできているように見える鞭のような巻きひげに変貌し、近くのクリーチャーに襲いかかる。ガイストから10フィート10フィート以内にいるすべての生きたクリーチャー生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10 火炎ダメージ火炎ダメージに加え4d6 虚無ダメージ虚無ダメージ}を受ける(@Check[type:reflex|dc:28|basic:true]セーヴ)。</p>"
+      "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件</strong>ガイストが活動中のハーントから100フィート以内にいること。</p>\n<hr />\n<p><strong>効果</strong>ハーントはネクロマンシーの力をガイストに送り込み、ガイストの次のターンの終了時まで非活動状態となり、ハーントが再び活動するまでハーントのオーラの力を無効化する。ガイストの外套クロークの縁が、炎と煙でできているように見える鞭のような巻きひげに変貌し、近くのクリーチャーに襲いかかる。ガイストから10フィート以内にいるすべての生きたクリーチャー生きているクリーチャーは、@Damage[4d10[fire],4d6[void]]{4d10 火炎ダメージに加え4d6 虚無ダメージ}を受ける(@Check[type:reflex|dc:28|basic:true]セーヴ)。</p>"
     },
     "deSS0MPuciBz6LLK": {
       "name": "注射器/Syringe"
@@ -3859,7 +3859,7 @@
     },
     "TpEz65tv1dwJ91cy": {
       "name": "アルケミカル・チェンバーズ/Alchemical Chambers",
-      "description": "<p>アルケミカル・ゴーレムの身体には、異なる物質で満たされた6つの錬金術的チャンバーが含まれている。アルケミカル・ゴーレムの能力がランダムに決定される錬金術的効果を呼び出す場合、1d6をロールし、以下を参照すること：</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>[[/br 1d6 #Alchemical Chambers]]</th>\n<th>錬金術的錬金術効果効果</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>\n<p>酸ダメージ酸ダメージ</p>\n</td>\n</tr>\n<tr>\n<td>2</td>\n<td>冷気ダメージ冷気ダメージ</td>\n</tr>\n<tr>\n<td>3</td>\n<td>電撃ダメージ電撃ダメージ</td>\n</tr>\n<tr>\n<td>4</td>\n<td>火炎ダメージ火炎ダメージ</td>\n</tr>\n<tr>\n<td>5</td>\n<td>毒ダメージ毒ダメージ</td>\n</tr>\n<tr>\n<td>6</td>\n<td>病気：セーヴ@Check[type:fortitude|dc:26|name:Alchemical Sickness|traits:disease]に失敗すると吐き気状態@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}(大失敗すると吐き気状態@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2})</td>\n</tr>\n</tbody>\n</table>"
+      "description": "<p>アルケミカル・ゴーレムの身体には、異なる物質で満たされた6つの錬金術的チャンバーが含まれている。アルケミカル・ゴーレムの能力がランダムに決定される錬金術的効果を呼び出す場合、1d6をロールし、以下を参照すること：</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>[[/br 1d6 #Alchemical Chambers]]</th>\n<th>錬金術的錬金術効果</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>\n<p>酸ダメージ</p>\n</td>\n</tr>\n<tr>\n<td>2</td>\n<td>冷気ダメージ</td>\n</tr>\n<tr>\n<td>3</td>\n<td>電撃ダメージ</td>\n</tr>\n<tr>\n<td>4</td>\n<td>火炎ダメージ</td>\n</tr>\n<tr>\n<td>5</td>\n<td>毒ダメージ</td>\n</tr>\n<tr>\n<td>6</td>\n<td>病気：セーヴ@Check[type:fortitude|dc:26|name:Alchemical Sickness|traits:disease]に失敗すると吐き気状態@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}(大失敗すると吐き気状態@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2})</td>\n</tr>\n</tbody>\n</table>"
     },
     "Alchemical Chambers": {
       "name": "アルケミカル・チェインバーズ",
