@@ -255,7 +255,7 @@
       "time": "1日",
       "cost": "呪文ランク×ノードのレベル×100gp相当の魔法フォーカス",
       "primarycheck": "そのレイ・ラインの系統と一致する《秘術》、《自然》、《神秘学》、または《宗教》(達人)",
-      "secondarycheck": "レイラインロアまたは《神秘学》"
+      "secondarycheck": "レイライン《専門知識》または《神秘学》"
     },
     "Blessing of Defiance": {
       "name": "ブレッシング・オブ・ディファイアンス/Blessing of Defiance",
@@ -1473,7 +1473,7 @@
       "range": "10フィート",
       "time": "1日",
       "cost": "寄生性の菌類の胞子",
-      "primarycheck": "菌類ロア(訓練済み),《自然》(エキスパート)",
+      "primarycheck": "菌類《専門知識》(訓練済み),《自然》(エキスパート)",
       "secondarycheck": "菌類《専門知識》 (訓練済み)、《自然》 (熟練)"
     },
     "Foul Miasma": {
@@ -1568,7 +1568,7 @@
       "time": "1日",
       "cost": "合計で10,000gp相当のボートまたは船を1隻以上",
       "primarycheck": "《自然》 (ミシック)",
-      "secondarycheck": "《交渉》, 操船ロア, 《生存術》"
+      "secondarycheck": "《交渉》, 操船《専門知識》, 《生存術》"
     },
     "Airlift": {
       "name": "エアリフト/Airlift",
@@ -2262,7 +2262,7 @@
       "duration": "1ヶ月",
       "time": "7日",
       "primarycheck": "《交渉》 (mythic)またはソサイエティ (mythic)",
-      "secondarycheck": "《威圧》, 冥界のロア"
+      "secondarycheck": "《威圧》, 冥界の《専門知識》"
     },
     "Mist": {
       "name": "ミスト/Mist",
@@ -2350,7 +2350,7 @@
       "target": "同盟側の乗組員によって操作されている攻城兵器",
       "duration": "1ヶ月",
       "time": "2時間",
-      "primarycheck": "《製作》 (熟練)または Warfareロア (熟練)",
+      "primarycheck": "《製作》 (熟練)または Warfare《専門知識》 (熟練)",
       "secondarycheck": "工学《専門知識》"
     },
     "Mystic Armor": {
@@ -2597,7 +2597,7 @@
       "time": "1時間",
       "cost": "1,000gp相当の宝石を粉末にしたもの",
       "primarycheck": "《自然》(マスター)",
-      "secondarycheck": "《芸能》、《宗教》、ソサイエティ、Mammoth Lordのロアまたは類似のロアスキル、《生存術》"
+      "secondarycheck": "《芸能》、《宗教》、ソサイエティ、Mammoth Lordの《専門知識》または類似のロアスキル、《生存術》"
     },
     "Teeth to Terror": {
       "name": "ティース・トゥ・テラー/Teeth to Terror",
@@ -2643,7 +2643,7 @@
       "description": "<p>Many grow up and spend their lives eating with others, and doing so binds them—to their families, communities, and cultures. Food can form long-lasting bonds, and with a bit of extra work, those bonds can be shared.</p>\n<p>You prepare a meal for a small gathering of up to 10 close friends, enough people to comfortably eat together at one table or in one circle. As you collect and prepare the food, you call upon spirits of home and memory. As they work through you and guide you, you perfectly recreate a dish that emotionally connects you to a place of your past: perhaps your mother's cooking when you were a child, or the way you and your comrades-in-arms cooked rations together when you fought in the war. When you're done, you share the meal and tell your new friends the story that comes with it. As they eat and drink, any participants of 4th level or lower sink into a snapshot of your past and can borrow insights from it for future use.</p><hr /><p><strong>クリティカル成功</strong> Your friends are vividly taken through your memories as you relive them, and they hold onto the experience even after the fugue ends. For the next week, they have a +4 circumstance bonus to Deception and Diplomacy checks to convince anyone from the community where the meal originated from that they are from that area or were present for events you described. Even after the raw magic infusing the memories fade, the memories don't, and your friends will be able to make the dish just as well as you can. Chances are, they like it just as much as you did.</p>\n<p><strong>成功</strong> As critical success, except your friends get a +2 circumstance bonus to Deception and Diplomacy checks instead. They also can't make the meal themselves but probably look forward to tasting it the way you make it if you ever offer to cook it again.</p>\n<p><strong>失敗</strong> Your friends see the vision as planned, but the magic doesn't quite take. As success, but no one receives any bonus. The real treasure will have to be the friends you fed along the way.</p>\n<p><strong>クリティカル失敗</strong> Your friends see the vision as planned, and the magic takes hold—but it goes wrong, like a bad case of indigestion. The memories are scattered around the rest of their psyches, and it takes a week to settle down properly. They confuse parts of your past for theirs, and they take a –2 circumstance bonus to Deception and Diplomacy checks for the next week against anyone from your old community, as they confidently apply the wrong expectations from their lives across the one you were trying to introduce them to.</p><hr /><p><strong>高位化 (4th)</strong> Participants up to 8th level can gain the 恩恵, and the cost is 40 gp.</p>\n<p><strong>高位化 (6th)</strong> Participants up to 12th level can gain the 恩恵, and the cost is 150 gp.</p>\n<p><strong>高位化 (8th)</strong> Participants up to 16th level can gain the 恩恵, and the cost is 480 gp.</p>\n<p><strong>高位化 (10th)</strong> Participants of any level can gain the 恩恵, and the cost is 2000 gp.</p><p>Many grow up and spend their lives eating with others, and doing so binds them—to their families, communities, and cultures. Food can form long-lasting bonds, and with a bit of extra work, those bonds can be shared.</p>\n<p>You prepare a meal for a small gathering of up to 10 close friends, enough people to comfortably eat together at one table or in one circle. As you collect and prepare the food, you call upon spirits of home and memory. As they work through you and guide you, you perfectly recreate a dish that emotionally connects you to a place of your past: perhaps your mother's cooking when you were a child, or the way you and your comrades-in-arms cooked rations together when you fought in the war. When you're done, you share the meal and tell your new friends the story that comes with it. As they eat and drink, any participants of 4th level or lower sink into a snapshot of your past and can borrow insights from it for future use.</p><hr /><p><strong>クリティカル成功</strong> Your friends are vividly taken through your memories as you relive them, and they hold onto the experience even after the fugue ends. For the next week, they have a +4 circumstance bonus to Deception and Diplomacy checks to convince anyone from the community where the meal originated from that they are from that area or were present for events you described. Even after the raw magic infusing the memories fade, the memories don't, and your friends will be able to make the dish just as well as you can. Chances are, they like it just as much as you did.</p>\n<p><strong>成功</strong> As critical success, except your friends get a +2 circumstance bonus to Deception and Diplomacy checks instead. They also can't make the meal themselves but probably look forward to tasting it the way you make it if you ever offer to cook it again.</p>\n<p><strong>失敗</strong> Your friends see the vision as planned, but the magic doesn't quite take. As success, but no one receives any bonus. The real treasure will have to be the friends you fed along the way.</p>\n<p><strong>クリティカル失敗</strong> Your friends see the vision as planned, and the magic takes hold—but it goes wrong, like a bad case of indigestion. The memories are scattered around the rest of their psyches, and it takes a week to settle down properly. They confuse parts of your past for theirs, and they take a –2 circumstance bonus to Deception and Diplomacy checks for the next week against anyone from your old community, as they confidently apply the wrong expectations from their lives across the one you were trying to introduce them to.</p><hr /><p><strong>高位化 (4th)</strong> Participants up to 8th level can gain the 恩恵, and the cost is 40 gp.</p>\n<p><strong>高位化 (6th)</strong> Participants up to 12th level can gain the 恩恵, and the cost is 150 gp.</p>\n<p><strong>高位化 (8th)</strong> Participants up to 16th level can gain the 恩恵, and the cost is 480 gp.</p>\n<p><strong>高位化 (10th)</strong> Participants of any level can gain the 恩恵, and the cost is 2000 gp.</p>",
       "time": "1日",
       "cost": "10 gp",
-      "primarycheck": "料理ロア,《製作》,《芸能》または《生存術》(訓練済み)"
+      "primarycheck": "料理《専門知識》,《製作》,《芸能》または《生存術》(訓練済み)"
     },
     "Purple Worm Sting": {
       "name": "パープル・ワーム・スティング",
@@ -2989,7 +2989,7 @@
       "duration": "1週間",
       "time": "1日",
       "primarycheck": "《自然》(マスター)",
-      "secondarycheck": "《生存術》、戦術ロア"
+      "secondarycheck": "《生存術》、戦術《専門知識》"
     },
     "Secret Chest": {
       "name": "シークレット・チェスト/Secret Chest",
@@ -3014,8 +3014,8 @@
       "target": "集落の外壁",
       "duration": "1週間",
       "time": "8時間",
-      "primarycheck": "ウォーフェアロア(エキスパート)",
-      "secondarycheck": "建築ロアまたは《製作》"
+      "primarycheck": "ウォーフェア《専門知識》(エキスパート)",
+      "secondarycheck": "建築《専門知識》または《製作》"
     },
     "Tanglecurse": {
       "name": "タングルカース",
@@ -3070,7 +3070,7 @@
       "description": "<p>人間が神や精霊、その他強大な霊的存在を説得して死すべき者の事柄に肩入れさせようとすると、そうした存在は感心させられることを求める。では、感心させるために料理対決ほどふさわしいものがあるだろうか。古いこの儀式は田夏の田舎の村の精霊裁定された祭りの競技に起源がある。二つ以上の対立する一団が参加し、補助役が材料を集め準備するのと同時にそれぞれのチームの主厨が後援者の味覚を満足させる究極の一皿を作ろうと全力を尽くして儀式を行う。応援する見物人が関わることが普通だ。主唱—つまりシェフ—は常に料理に忙しいが、副唱の補助者たちが他チームに干渉して足を引っ張ることに多くの時間を費やすのは非常に普通のことだ。</p><hr /><p><strong>クリティカル成功</strong>あなたは対決と丹念に作った食事で後援者を本当に驚嘆させた。あなたが感心させようとした超自然的の後援者たちは、たとえあなたに対して無関心や好意的でない場合でも、あなたが彼らに対して〔要請する〕を行ってクリティカル成功を得たかのように願いを叶える。どの願いを叶えるべきかで議論や混乱がある場合、後援者たちは総合結果が最も高かったチームの願いを叶える。GMの裁量で、儀式を喜んだ後援者の態度が儀式の全参加者に対して恒久的に上昇することがある。加えて、あなたの料理の劇的な見せ方と華麗さは観客から深い敬意と熱心なファンを獲得している。他の競争者と同点だった場合はさらにその効果が倍増する。</p>\n<p><strong>成功</strong>あなたは後援者が喜ぶ素晴らしい食事を作った。あなたが感心させようとした超自然的の後援者たちは、たとえあなたに無関心であっても、あなたが彼らに対して〔要請する〕を行って成功を得たかのように願いを叶える。どの願いを叶えるべきかで議論や混乱がある場合、後援者たちは総合結果が最も高かったチームの願いを叶える。GMの裁量で、儀式を喜んだ後援者の態度が儀式の全参加者に対して恒久的に上昇することがある。すべての出場者は、娯楽的で美しい料理を作ったことで観衆から陽気な敬意と感謝を受けている。</p>\n<p><strong>失敗</strong>あなたが作った料理は感心させるものではなかった。勝者は最も満足感のない機械的な方法で宣言される—誰かが勝たねばならないが、誰も喜んでいない。あなたが感心させようとした超自然的の後援者たちは礼儀正しく辞して機会を見て去る。GMの裁量で、その食事を経験した後援者の態度が儀式の全参加者に対して恒久的に低下することがある。</p>\n<p><strong>クリティカル失敗</strong>あなたのチームの料理は最後の瞬間に見事に台無しになる。あなたは自身を完全に恥をかかせ、これを見た超自然的の後援者たちの態度はあなたに対して恒久的に1段階下がる。あなたが後援者の主催者の怒りを買っていなければ、確実に見物人や観客の尊敬は失った。</p><p>人間が神や精霊、その他強大な霊的存在を説得して死すべき者の事柄に肩入れさせようとすると、そうした存在は感心させられることを求める。では、感心させるために料理対決ほどふさわしいものがあるだろうか。古いこの儀式は田夏の田舎の村の精霊裁定された祭りの競技に起源がある。二つ以上の対立する一団が参加し、補助役が材料を集め準備するのと同時にそれぞれのチームの主厨が後援者の味覚を満足させる究極の一皿を作ろうと全力を尽くして儀式を行う。応援する見物人が関わることが普通だ。主唱—つまりシェフ—は常に料理に忙しいが、副唱の補助者たちが他チームに干渉して足を引っ張ることに多くの時間を費やすのは非常に普通のことだ。</p><hr /><p><strong>クリティカル成功</strong>あなたは対決と丹念に作った食事で後援者を本当に驚嘆させた。あなたが感心させようとした超自然的の後援者たちは、たとえあなたに対して無関心や好意的でない場合でも、あなたが彼らに対して〔要請する〕を行ってクリティカル成功を得たかのように願いを叶える。どの願いを叶えるべきかで議論や混乱がある場合、後援者たちは総合結果が最も高かったチームの願いを叶える。GMの裁量で、儀式を喜んだ後援者の態度が儀式の全参加者に対して恒久的に上昇することがある。加えて、あなたの料理の劇的な見せ方と華麗さは観客から深い敬意と熱心なファンを獲得している。他の競争者と同点だった場合はさらにその効果が倍増する。</p>\n<p><strong>成功</strong>あなたは後援者が喜ぶ素晴らしい食事を作った。あなたが感心させようとした超自然的の後援者たちは、たとえあなたに無関心であっても、あなたが彼らに対して〔要請する〕を行って成功を得たかのように願いを叶える。どの願いを叶えるべきかで議論や混乱がある場合、後援者たちは総合結果が最も高かったチームの願いを叶える。GMの裁量で、儀式を喜んだ後援者の態度が儀式の全参加者に対して恒久的に上昇することがある。すべての出場者は、娯楽的で美しい料理を作ったことで観衆から陽気な敬意と感謝を受けている。</p>\n<p><strong>失敗</strong>あなたが作った料理は感心させるものではなかった。勝者は最も満足感のない機械的な方法で宣言される—誰かが勝たねばならないが、誰も喜んでいない。あなたが感心させようとした超自然的の後援者たちは礼儀正しく辞して機会を見て去る。GMの裁量で、その食事を経験した後援者の態度が儀式の全参加者に対して恒久的に低下することがある。</p>\n<p><strong>クリティカル失敗</strong>あなたのチームの料理は最後の瞬間に見事に台無しになる。あなたは自身を完全に恥をかかせ、これを見た超自然的の後援者たちの態度はあなたに対して恒久的に1段階下がる。あなたが後援者の主催者の怒りを買っていなければ、確実に見物人や観客の尊敬は失った。</p>",
       "time": "3時間",
       "cost": "25gp",
-      "primarycheck": "調理ロア, 《製作》, 《芸能》または《生存術》 (熟練)",
+      "primarycheck": "調理《専門知識》, 《製作》, 《芸能》または《生存術》 (熟練)",
       "secondarycheck": "《欺瞞》または《盗賊術》"
     },
     "Hand of the Apprentice": {
@@ -3087,7 +3087,7 @@
       "duration": "1週間",
       "time": "4時間",
       "cost": "少なくとも75gpの価値があるアメジストのペンダント",
-      "primarycheck": "薬草学ロア (達人)または《神秘学》 (達人)",
+      "primarycheck": "薬草学《専門知識》 (達人)または《神秘学》 (達人)",
       "secondarycheck": "《医術》または戦争の《専門知識》"
     },
     "Restyle": {
@@ -3100,7 +3100,7 @@
     },
     "Time Sense": {
       "name": "タイム・センス",
-      "description": "<p>あなたは呪文を詠唱したとき、完全な時間感覚を得る。あなたは現在の時刻を秒単位まで正確に知ることができる。代わりに暦に関する完全な感覚を得ることを選べる—もしあなたが訓練済みで《自然》なら、日の出まで正確にどれだけあるかや次の至まで何日あるかを知ることができる。もしあなたが天文学の訓練済みでロアなら、既知の予測可能な天文の会合が正確にいつ始まりいつ終わるかを知ることができる、など。</p>\n<p>あなたは、あなたが詠唱した同じターンに行う、極めて正確なタイミングを要する1回の攻撃ロール、知覚判定、セーヴィング・スロー、またはスキル判定に+1のステータスボーナスを得られる。もしこのボーナスを得ることを選んだ場合、1時間の間それを再度得ることはできない。</p>",
+      "description": "<p>あなたは呪文を詠唱したとき、完全な時間感覚を得る。あなたは現在の時刻を秒単位まで正確に知ることができる。代わりに暦に関する完全な感覚を得ることを選べる—もしあなたが訓練済みで《自然》なら、日の出まで正確にどれだけあるかや次の至まで何日あるかを知ることができる。もしあなたが天文学の訓練済みで《専門知識》なら、既知の予測可能な天文の会合が正確にいつ始まりいつ終わるかを知ることができる、など。</p>\n<p>あなたは、あなたが詠唱した同じターンに行う、極めて正確なタイミングを要する1回の攻撃ロール、知覚判定、セーヴィング・スロー、またはスキル判定に+1のステータスボーナスを得られる。もしこのボーナスを得ることを選んだ場合、1時間の間それを再度得ることはできない。</p>",
       "time": "1"
     },
     "Unfettered Pack": {
@@ -3515,7 +3515,7 @@
     },
     "Portrait of the Artist": {
       "name": "ポートレイト・オブ・ジ・アーティスト/Portrait of the Artist",
-      "description": "<p>あなたは画家、歌手、演説者のような特定の技芸や演技に秀でた著名な芸術家に見えるように外見を変え、錯覚変装の効果を得る。さらに、あなたはその技量を真似ているように見えるが、それらの見た目は単なる幻影に過ぎない。もし彼らが物理的な芸術で有名なら、呪文は彼らの様式に合った物理的な芸術作品の幻影を作り出し、疑念を抱かない観衆はこれらの作品が本物と同じくらい見事だと確信する。もし彼らが演技で有名なら、あなたは観衆をだまして、あなたが真似ている演者と同じくらい巧みだと思わせる幻影の演技を作り出す。観衆はあなたの芸術と直接触れたり、演技を注意深く聴いたりすることで、この呪文を不信できる。その際は、知覚か適切なロアのいずれか高いほうを用いる。持続時間が終わると、偽の芸術作品は消え、演技に騙された者たちはそれが思ったほど良くなかったことに気づくが、あなたが本当にその芸術家ではなかったことに気付かない場合もある。</p>\n<p>この呪文は、継続する演技のフォーカス呪文のように、非常に高いスキルを要して《芸能》判定を必要とする特殊能力からあなたに何らかの恩恵を与えることはできない。あなたが芸術で〔収入を得る〕ために計略を十分に長く維持することも非常に困難だ。慎重なタイミングと繰り返しの欺瞞を要するため、それが自動的に〔収入を得る〕判定で通用すると想定することはできない。</p>",
+      "description": "<p>あなたは画家、歌手、演説者のような特定の技芸や演技に秀でた著名な芸術家に見えるように外見を変え、錯覚変装の効果を得る。さらに、あなたはその技量を真似ているように見えるが、それらの見た目は単なる幻影に過ぎない。もし彼らが物理的な芸術で有名なら、呪文は彼らの様式に合った物理的な芸術作品の幻影を作り出し、疑念を抱かない観衆はこれらの作品が本物と同じくらい見事だと確信する。もし彼らが演技で有名なら、あなたは観衆をだまして、あなたが真似ている演者と同じくらい巧みだと思わせる幻影の演技を作り出す。観衆はあなたの芸術と直接触れたり、演技を注意深く聴いたりすることで、この呪文を不信できる。その際は、知覚か適切な《専門知識》のいずれか高いほうを用いる。持続時間が終わると、偽の芸術作品は消え、演技に騙された者たちはそれが思ったほど良くなかったことに気づくが、あなたが本当にその芸術家ではなかったことに気付かない場合もある。</p>\n<p>この呪文は、継続する演技のフォーカス呪文のように、非常に高いスキルを要して《芸能》判定を必要とする特殊能力からあなたに何らかの恩恵を与えることはできない。あなたが芸術で〔収入を得る〕ために計略を十分に長く維持することも非常に困難だ。慎重なタイミングと繰り返しの欺瞞を要するため、それが自動的に〔収入を得る〕判定で通用すると想定することはできない。</p>",
       "duration": "1時間",
       "time": "1分"
     },
@@ -3627,7 +3627,7 @@
       "time": "1日",
       "cost": "主要なキャスターの顔に自然発生する水源(雨、川、海など)からの少なくとも5滴の水を置く",
       "primarycheck": "《自然》 (master)または《神秘学》 (master)",
-      "secondarycheck": "料理ロア、《生存術》"
+      "secondarycheck": "料理《専門知識》、《生存術》"
     },
     "Cloud Dragon's Cloak": {
       "name": "クラウド・ドラゴンズ・クローク",
@@ -4797,7 +4797,7 @@
     },
     "Conjured Conveyance": {
       "name": "コンジャード・コンヴェイアンス/Conjured Conveyance",
-      "description": "<p>あなたは完全に木製で彫られた精巧な乗物を結界して輸送手段を作る。車両は射程内のあなたが選ぶ空いているエリアに出現する。車両は《秘術》、Drivingロア、または《自然》のスキル判定で操縦できる。車両を操縦するためのDCと車両の衝突のDCはあなたの呪文DCと等しい。車両の残りの統計は以下に示す。</p>\n<p>この呪文をキャストするとき、大型スキフ、大型ワゴン、または中型サイクルのいずれかを作るか選ぶ。GMの許可があれば、代わりに最大レベル1の別の車両を召喚してもよい；その車両は主に植物性の素材で作られており、コモンのレアリティで、大型以下でなければならない。</p><ul><li><p><strong>大型 Skiff—Space</strong> 15フィート long, 5フィート wide, 3 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 3; <strong>移動速度</strong> swim 30フィート (magical)</p></li><li><p><strong>大型 Wagon—Space</strong> 10フィート long, 10フィート wide, 7 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 3; <strong>移動速度</strong> 35 feet (magical)</p></li><li><p><strong>中型 Cycle—Space</strong> 5フィート long, 3 feet wide, 3 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 0; <strong>移動速度</strong> 40フィート (magical)</p></li></ul><p><strong>AC</strong> 13; <strong>頑健</strong> +8</p>\n<p><strong>硬度</strong> 5, <strong>HP</strong> 40 (BT 20); <strong>Immunities</strong> critical hits, object immunities, precision damage; <strong>Weaknesses</strong> fire 5, 斬撃5</p>\n<p><strong>Collision</strong> 2d6</p><hr /><p><strong>高位化 (+1)</strong>車両のACは2増加し、頑健ボーナスは2増加し、硬度は1増加し、HPは20増加し、衝突ダメージは[[/r 1d6]]だけ増加する。さらに、GMの許可で召喚できる車両の最大レベルが2増加する。持続時間は1時間だけ増加する。</p>",
+      "description": "<p>あなたは完全に木製で彫られた精巧な乗物を結界して輸送手段を作る。車両は射程内のあなたが選ぶ空いているエリアに出現する。車両は《秘術》、Driving《専門知識》、または《自然》のスキル判定で操縦できる。車両を操縦するためのDCと車両の衝突のDCはあなたの呪文DCと等しい。車両の残りの統計は以下に示す。</p>\n<p>この呪文をキャストするとき、大型スキフ、大型ワゴン、または中型サイクルのいずれかを作るか選ぶ。GMの許可があれば、代わりに最大レベル1の別の車両を召喚してもよい；その車両は主に植物性の素材で作られており、コモンのレアリティで、大型以下でなければならない。</p><ul><li><p><strong>大型 Skiff—Space</strong> 15フィート long, 5フィート wide, 3 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 3; <strong>移動速度</strong> swim 30フィート (magical)</p></li><li><p><strong>大型 Wagon—Space</strong> 10フィート long, 10フィート wide, 7 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 3; <strong>移動速度</strong> 35 feet (magical)</p></li><li><p><strong>中型 Cycle—Space</strong> 5フィート long, 3 feet wide, 3 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 0; <strong>移動速度</strong> 40フィート (magical)</p></li></ul><p><strong>AC</strong> 13; <strong>頑健</strong> +8</p>\n<p><strong>硬度</strong> 5, <strong>HP</strong> 40 (BT 20); <strong>Immunities</strong> critical hits, object immunities, precision damage; <strong>Weaknesses</strong> fire 5, 斬撃5</p>\n<p><strong>Collision</strong> 2d6</p><hr /><p><strong>高位化 (+1)</strong>車両のACは2増加し、頑健ボーナスは2増加し、硬度は1増加し、HPは20増加し、衝突ダメージは[[/r 1d6]]だけ増加する。さらに、GMの許可で召喚できる車両の最大レベルが2増加する。持続時間は1時間だけ増加する。</p>",
       "range": "30フィート",
       "duration": "1時間",
       "time": "3"
@@ -6178,7 +6178,7 @@
     },
     "Pulse of Civilization": {
       "name": "パルス・オブ・シヴィライゼーション/Pulse of Civilization",
-      "description": "<p>あなたは射程内のいかなる集落の時代精神に接続する。あなたはその集落の名前を知る。その集落について〔思い出す〕を行うか、その集落で、あるいはそれらについて〔情報収集〕を行うためのすべてのロア判定では、あなたは+2のステータスボーナスを得、未訓練でも熟練度ボーナスとしてあなたのレベルを使用する。あなたが呪文を唱えたとき、あなたは直ちにその集落のうちの1つについて、その集落のロアスキルを使って〔思い出す〕ことができる(例えばAbsalomロア)。その判定は恩恵からボーナスの恩恵を受ける。もしあなたがpulse of civilizationを再び唱えると、以前の詠唱は終了する。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>射程は100マイルである。</p>\n<p><strong>高位化 (7th)</strong>射程は500マイルでボーナスは+3である</p>",
+      "description": "<p>あなたは射程内のいかなる集落の時代精神に接続する。あなたはその集落の名前を知る。その集落について〔思い出す〕を行うか、その集落で、あるいはそれらについて〔情報収集〕を行うためのすべての《専門知識》判定では、あなたは+2のステータスボーナスを得、未訓練でも熟練度ボーナスとしてあなたのレベルを使用する。あなたが呪文を唱えたとき、あなたは直ちにその集落のうちの1つについて、その集落のロアスキルを使って〔思い出す〕ことができる(例えばAbsalom《専門知識》)。その判定は恩恵からボーナスの恩恵を受ける。もしあなたがpulse of civilizationを再び唱えると、以前の詠唱は終了する。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>射程は100マイルである。</p>\n<p><strong>高位化 (7th)</strong>射程は500マイルでボーナスは+3である</p>",
       "range": "25マイル",
       "duration": "8時間",
       "time": "2"
@@ -7300,7 +7300,7 @@
       "time": "1日",
       "cost": "合計価値4,500gpの試薬と油",
       "primarycheck": "《秘術》(達人)、《自然》(達人)、《神秘学》(達人)、または《宗教》(達人)",
-      "secondarycheck": "《秘術》, 《自然》, 《神秘学》または《宗教》 (whichever is used for the primary判定) and Warfareロア"
+      "secondarycheck": "《秘術》, 《自然》, 《神秘学》または《宗教》 (whichever is used for the primary判定) and Warfare《専門知識》"
     },
     "Wall of Water": {
       "name": "ウォール・オブ・ウォーター/Wall of Water",
@@ -8079,7 +8079,7 @@
       "duration": "1時間",
       "time": "4時間",
       "primarycheck": "メディスン(エキスパート)",
-      "secondarycheck": "ウォーフェアロア"
+      "secondarycheck": "ウォーフェア《専門知識》"
     },
     "Divine Plagues": {
       "name": "ディバイン・プレイグズ/Divine Plagues",
@@ -8149,7 +8149,7 @@
       "time": "8時間",
       "cost": "漆黒の砂で満たされた砂時計、価値は少なくとも10,000gp",
       "primarycheck": "戦争《専門知識》 (伝説的)",
-      "secondarycheck": "メディスン,《神秘学》,ファラズマロア"
+      "secondarycheck": "メディスン,《神秘学》,ファラズマ《専門知識》"
     },
     "Curse of Death": {
       "name": "カース・オブ・デス/Curse of Death",
@@ -8244,7 +8244,7 @@
       "duration": "14日",
       "time": "8時間",
       "primarycheck": "《製作》(神話)",
-      "secondarycheck": "工学ロア、カイジュウロア、《生存術》、戦術ロア"
+      "secondarycheck": "工学ロア、カイジュウロア、《生存術》、戦術《専門知識》"
     },
     "Radiant Globe": {
       "name": "レイディアント・グローブ",
@@ -8387,7 +8387,7 @@
       "duration": "1ヶ月または達成されるまで",
       "time": "1時間",
       "cost": "希少な顔料とインク、合計価値は20gp×対象のレベル",
-      "primarycheck": "幸運-Tellingロア(訓練済み)または《神秘学》(エキスパート)"
+      "primarycheck": "幸運-Telling《専門知識》(訓練済み)または《神秘学》(エキスパート)"
     },
     "Diviner's Sight": {
       "name": "ディバイナーズ・サイト/Diviner's Sight",
@@ -8616,7 +8616,7 @@
       "time": "1日",
       "cost": "価値150 gpの獣の骨、歯、または爪",
       "primarycheck": "《運動》(expert)",
-      "secondarycheck": "料理ロア、《製作》、《宗教》"
+      "secondarycheck": "料理《専門知識》、《製作》、《宗教》"
     },
     "Light of Revelation": {
       "name": "ライト・オブ・レヴェレイション",
@@ -8701,7 +8701,7 @@
       "range": "40フィート",
       "time": "1時間",
       "cost": "15gp",
-      "primarycheck": "料理ロアまたはお茶ロア(エキスパート)",
+      "primarycheck": "料理《専門知識》またはお茶《専門知識》(エキスパート)",
       "secondarycheck": "《交渉》または《社会》"
     },
     "Zero Gravity": {
@@ -9131,7 +9131,7 @@
       "duration": "テキストを参照",
       "time": "1日",
       "primarycheck": "《秘術》 (エキスパート), 《神秘学》 (エキスパート), または《宗教》 (エキスパート)",
-      "secondarycheck": "ソサイエティまたは合法なロア"
+      "secondarycheck": "ソサイエティまたは合法な《専門知識》"
     },
     "Jump": {
       "name": "ジャンプ",
@@ -9330,7 +9330,7 @@
       "duration": "1週間",
       "time": "8時間",
       "primarycheck": "《宗教》(神話級)または《芸能》(神話級)",
-      "secondarycheck": "《製作》,ファラズマロア,または《生存術》"
+      "secondarycheck": "《製作》,ファラズマ《専門知識》,または《生存術》"
     },
     "Apex Companion": {
       "name": "エイペックス・コンパニオン",
@@ -9746,8 +9746,8 @@
       "duration": "1週間",
       "time": "8時間",
       "cost": "価値50gpの上等なインク",
-      "primarycheck": "採掘ロア(エキスパート)または《自然》(エキスパート)",
-      "secondarycheck": "工学ロア、戦術ロア"
+      "primarycheck": "採掘《専門知識》(エキスパート)または《自然》(エキスパート)",
+      "secondarycheck": "工学《専門知識》、戦術《専門知識》"
     },
     "Retrocognition": {
       "name": "レトロコグニション",
@@ -10897,7 +10897,7 @@
     },
     "Umbral Mindtheft": {
       "name": "アンブラル・マインドセフト/Umbral Mindtheft",
-      "description": "<p>あなたは他のクリーチャーから広範な知識の領域を盗み、それをあなたの心とつながったシャドウ平面のポケットに蓄える準備をする。呪文の持続時間中、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{Steal}アクションを使用して、アイテムを盗む代わりにクリーチャーから1つのロアスキルの熟練度を奪おうとすることができる。あなたはまた呪文を詠唱する際の一部として1回〔盗み〕を試みることができる。あなたが判定でロアスキルを〔盗み〕することに成功した場合、そのスキルにおいて対象が訓練済みであったなら、突然の知識の喪失が対象の心に痛ましい空白を残すため、対象に2d6の精神ダメージのダメージを与える。さらに、そのスキルで訓練済みを超える各熟練度ランクにつき@Damage[2d6[mental]]のダメージを追加する。対象が知っているスキルのうちから無作為にロアスキルを決定する。クリティカル成功なら、そのクリーチャーがどのロアスキルに精通しているかをあなたは知り、無作為ではなくそのスキルを選択できる。対象がいかなるロアスキルにおいても訓練済みでない場合、あなたは何も得られないが、残りの持続時間中は他のクリーチャーからロアを〔盗み〕し続けることができる。対象はそのロアスキルに関する訓練の恩恵を失い、あなたはそのロアスキルにおける対象の熟練度ランクを得る。この効果は次の日課の準備まで続くか、あなたが無能力化されるまで続く。あなたが無能力化された場合、ロアはどこにいようとシャドウ平面から対象の心へ吸い戻される。通常どおり、あなたは自分のリーチ内にいる対象からのみ〔盗み〕できる。一度あなたが1つのロアスキルを盗んだら、さらにロアを〔盗み〕しようとすることはできない。あなたが《盗賊術》の判定に成功した場合、あなたは盗んだロアを受け取らなければならない。</p>",
+      "description": "<p>あなたは他のクリーチャーから広範な知識の領域を盗み、それをあなたの心とつながったシャドウ平面のポケットに蓄える準備をする。呪文の持続時間中、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{Steal}アクションを使用して、アイテムを盗む代わりにクリーチャーから1つのロアスキルの熟練度を奪おうとすることができる。あなたはまた呪文を詠唱する際の一部として1回〔盗み〕を試みることができる。あなたが判定でロアスキルを〔盗み〕することに成功した場合、そのスキルにおいて対象が訓練済みであったなら、突然の知識の喪失が対象の心に痛ましい空白を残すため、対象に2d6の精神ダメージのダメージを与える。さらに、そのスキルで訓練済みを超える各熟練度ランクにつき@Damage[2d6[mental]]のダメージを追加する。対象が知っているスキルのうちから無作為にロアスキルを決定する。クリティカル成功なら、そのクリーチャーがどのロアスキルに精通しているかをあなたは知り、無作為ではなくそのスキルを選択できる。対象がいかなるロアスキルにおいても訓練済みでない場合、あなたは何も得られないが、残りの持続時間中は他のクリーチャーから《専門知識》を〔盗み〕し続けることができる。対象はそのロアスキルに関する訓練の恩恵を失い、あなたはそのロアスキルにおける対象の熟練度ランクを得る。この効果は次の日課の準備まで続くか、あなたが無能力化されるまで続く。あなたが無能力化された場合、ロアはどこにいようとシャドウ平面から対象の心へ吸い戻される。通常どおり、あなたは自分のリーチ内にいる対象からのみ〔盗み〕できる。一度あなたが1つのロアスキルを盗んだら、さらに《専門知識》を〔盗み〕しようとすることはできない。あなたが《盗賊術》の判定に成功した場合、あなたは盗んだ《専門知識》を受け取らなければならない。</p>",
       "duration": "3ラウンド",
       "time": "2"
     },
@@ -11215,8 +11215,8 @@
       "range": "接触",
       "time": "1時間",
       "cost": "価値28gpの焦点用の図と香",
-      "primarycheck": "《秘術》または《神秘学》 (エキスパート)またはWillowshoreロア",
-      "secondarycheck": "《秘術》, 《欺瞞》, 《交渉》, 《神秘学》, 知覚, または Willowshoreロア"
+      "primarycheck": "《秘術》または《神秘学》 (エキスパート)またはWillowshore《専門知識》",
+      "secondarycheck": "《秘術》, 《欺瞞》, 《交渉》, 《神秘学》, 知覚, または Willowshore《専門知識》"
     },
     "Abyssal Plague": {
       "name": "アビサル・プレイグ/Abyssal Plague",
@@ -11469,7 +11469,7 @@
       "time": "2時間",
       "cost": "希少な線香、供物、または正当な所有者への慈善寄付で、合計価値が5 gp×対象はのレベル (最小1 gp)に相当するもの",
       "primarycheck": "《神秘学》(訓練済み)または《宗教》(訓練済み)",
-      "secondarycheck": "《神秘学》または《宗教》(主要な判定に使用される方)；《交渉》,《芸能》,ソサイエティ,または正当な所有者に対応するロア"
+      "secondarycheck": "《神秘学》または《宗教》(主要な判定に使用される方)；《交渉》,《芸能》,ソサイエティ,または正当な所有者に対応する《専門知識》"
     },
     "Bullhorn": {
       "name": "ブルホーン/Bullhorn",
@@ -11532,7 +11532,7 @@
       "target": "その儀式のレベルの2倍以下のレベルを持つ入植地",
       "time": "1時間",
       "cost": "合計価値が2gp×呪文ランク×入植地のレベルである練り胡麻、砂糖、おにぎり、食用色素、調理鍋、および調理器具",
-      "primarycheck": "料理のロア(expert)",
+      "primarycheck": "料理の《専門知識》(expert)",
       "secondarycheck": "《交渉》、《芸能》または《宗教》"
     },
     "Light": {
@@ -11585,7 +11585,7 @@
       "range": "1,000フィート",
       "duration": "1時間",
       "time": "4時間",
-      "primarycheck": "《神秘学》 (熟練)またはWarfareロア (熟練)"
+      "primarycheck": "《神秘学》 (熟練)またはWarfare《専門知識》 (熟練)"
     },
     "Phantom Crowd": {
       "name": "ファントム・クラウド",
@@ -11802,14 +11802,14 @@
     },
     "Labyrinthine Prison": {
       "name": "ラビリンシン・プリズン",
-      "description": "<p>この儀式は長い間死に絶えたミノタウルの英雄神によって考案され、その教団は悪なる存在を狩り罠にかけることを訓練済み。それは絡み合った小界が編み合わさり、ほとんどの者が解けないようにねじれる迷宮の空間を作り出す。</p>\n<p>あなたと副唱者は対象を中心にねじれた空間の迷宮を描き出す。不本意な対象は儀式の詠唱時間全体にわたり@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}、@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}、または他の方法でその区域から離れることを阻止されていなければならず、そうでなければ儀式は失敗する。不本意な対象は儀式に抵抗するために意志セーヴを試みることができる；クリティカル成功なら、その結果を儀式の詠唱をクリティカル失敗したものとして扱う。対象が迷宮状の監獄に囚われている間、他の界へのアクセスを与える能力でさえ迷宮にねじ曲げられるため逃げることはできない。代わりに唯一の脱出法は迷宮状の監獄のDCに対して迷路のロア、知覚、または《生存術》判定に成功することである。この判定は週に一度試みることができ、最初の判定は一週間経過するまで試みることができない。もし全ての唱者がそれぞれ一つのミシックポイントを費やせば、この間隔は一年に変わり、DCは主唱者のミシック熟練度を使用する。</p><hr /><p><strong>クリティカル成功</strong>成功として、そのねじれた空間は対象をその内にいる間@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}にする。</p>\n<p><strong>成功</strong>対象は儀式の持続時間中迷宮状の監獄に囚われる。</p>\n<p><strong>失敗</strong>儀式は対象を捕らえることに失敗する。</p>\n<p><strong>クリティカル失敗</strong>失敗として、そして唱者たちは皆@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 4}となり1週間のために。</p><hr /><p><strong>高位化(4th)</strong>対象の最大レベルは10である。コストは対象のレベル(最小1)×40gpである。間隔は1ヶ月になり、ミシックポイントを費やすとそれは5年になる。</p>\n<p><strong>高位化(5th)</strong>対象の最大レベルは12である。コストは対象のレベル(最小1)×75gpである。間隔は2か月になり、ミシックポイントを費やすとそれは10年になる。</p>\n<p><strong>高位化(6th)</strong>対象の最大レベルは14である。コストは対象のレベル(最小1)×125gpである。間隔は6か月になり、ミシックポイントを費やすとそれは30年になる。</p>\n<p><strong>高位化(7th)</strong>対象の最大レベルは16である。コストは対象のレベル(最小1)×200gpである。間隔は1年になり、ミシックポイントを費やすとそれは50年になる。</p>\n<p><strong>高位化(8th)</strong>対象の最大レベルは18である。コストは対象のレベル(最小1)×300gpである。間隔は2年になり、ミシックポイントを費やすとそれは100年になる。</p>\n<p><strong>高位化(9th)</strong>対象の最大レベルは20である。コストは対象のレベル(最小1)×600gpである。間隔は5年になり、ミシックポイントを費やすとそれは200年になる。</p><p>この儀式は長い間死に絶えたミノタウルの英雄神によって考案され、その教団は悪なる存在を狩り罠にかけることを訓練済み。それは絡み合った小界が編み合わさり、ほとんどの者が解けないようにねじれる迷宮の空間を作り出す。</p>\n<p>あなたと副唱者は対象を中心にねじれた空間の迷宮を描き出す。不本意な対象は儀式の詠唱時間全体にわたり@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}、@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}、または他の方法でその区域から離れることを阻止されていなければならず、そうでなければ儀式は失敗する。不本意な対象は儀式に抵抗するために意志セーヴを試みることができる；クリティカル成功なら、その結果を儀式の詠唱をクリティカル失敗したものとして扱う。対象が迷宮状の監獄に囚われている間、他の界へのアクセスを与える能力でさえ迷宮にねじ曲げられるため逃げることはできない。代わりに唯一の脱出法は迷宮状の監獄のDCに対して迷路のロア、知覚、または《生存術》判定に成功することである。この判定は週に一度試みることができ、最初の判定は一週間経過するまで試みることができない。もし全ての唱者がそれぞれ一つのミシックポイントを費やせば、この間隔は一年に変わり、DCは主唱者のミシック熟練度を使用する。</p><hr /><p><strong>クリティカル成功</strong>成功として、そのねじれた空間は対象をその内にいる間@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}にする。</p>\n<p><strong>成功</strong>対象は儀式の持続時間中迷宮状の監獄に囚われる。</p>\n<p><strong>失敗</strong>儀式は対象を捕らえることに失敗する。</p>\n<p><strong>クリティカル失敗</strong>失敗として、そして唱者たちは皆@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 4}となり1週間のために。</p><hr /><p><strong>高位化(4th)</strong>対象の最大レベルは10である。コストは対象のレベル(最小1)×40gpである。間隔は1ヶ月になり、ミシックポイントを費やすとそれは5年になる。</p>\n<p><strong>高位化(5th)</strong>対象の最大レベルは12である。コストは対象のレベル(最小1)×75gpである。間隔は2か月になり、ミシックポイントを費やすとそれは10年になる。</p>\n<p><strong>高位化(6th)</strong>対象の最大レベルは14である。コストは対象のレベル(最小1)×125gpである。間隔は6か月になり、ミシックポイントを費やすとそれは30年になる。</p>\n<p><strong>高位化(7th)</strong>対象の最大レベルは16である。コストは対象のレベル(最小1)×200gpである。間隔は1年になり、ミシックポイントを費やすとそれは50年になる。</p>\n<p><strong>高位化(8th)</strong>対象の最大レベルは18である。コストは対象のレベル(最小1)×300gpである。間隔は2年になり、ミシックポイントを費やすとそれは100年になる。</p>\n<p><strong>高位化(9th)</strong>対象の最大レベルは20である。コストは対象のレベル(最小1)×600gpである。間隔は5年になり、ミシックポイントを費やすとそれは200年になる。</p>",
+      "description": "<p>この儀式は長い間死に絶えたミノタウルの英雄神によって考案され、その教団は悪なる存在を狩り罠にかけることを訓練済み。それは絡み合った小界が編み合わさり、ほとんどの者が解けないようにねじれる迷宮の空間を作り出す。</p>\n<p>あなたと副唱者は対象を中心にねじれた空間の迷宮を描き出す。不本意な対象は儀式の詠唱時間全体にわたり@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}、@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}、または他の方法でその区域から離れることを阻止されていなければならず、そうでなければ儀式は失敗する。不本意な対象は儀式に抵抗するために意志セーヴを試みることができる；クリティカル成功なら、その結果を儀式の詠唱をクリティカル失敗したものとして扱う。対象が迷宮状の監獄に囚われている間、他の界へのアクセスを与える能力でさえ迷宮にねじ曲げられるため逃げることはできない。代わりに唯一の脱出法は迷宮状の監獄のDCに対して迷路の《専門知識》、知覚、または《生存術》判定に成功することである。この判定は週に一度試みることができ、最初の判定は一週間経過するまで試みることができない。もし全ての唱者がそれぞれ一つのミシックポイントを費やせば、この間隔は一年に変わり、DCは主唱者のミシック熟練度を使用する。</p><hr /><p><strong>クリティカル成功</strong>成功として、そのねじれた空間は対象をその内にいる間@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}にする。</p>\n<p><strong>成功</strong>対象は儀式の持続時間中迷宮状の監獄に囚われる。</p>\n<p><strong>失敗</strong>儀式は対象を捕らえることに失敗する。</p>\n<p><strong>クリティカル失敗</strong>失敗として、そして唱者たちは皆@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 4}となり1週間のために。</p><hr /><p><strong>高位化(4th)</strong>対象の最大レベルは10である。コストは対象のレベル(最小1)×40gpである。間隔は1ヶ月になり、ミシックポイントを費やすとそれは5年になる。</p>\n<p><strong>高位化(5th)</strong>対象の最大レベルは12である。コストは対象のレベル(最小1)×75gpである。間隔は2か月になり、ミシックポイントを費やすとそれは10年になる。</p>\n<p><strong>高位化(6th)</strong>対象の最大レベルは14である。コストは対象のレベル(最小1)×125gpである。間隔は6か月になり、ミシックポイントを費やすとそれは30年になる。</p>\n<p><strong>高位化(7th)</strong>対象の最大レベルは16である。コストは対象のレベル(最小1)×200gpである。間隔は1年になり、ミシックポイントを費やすとそれは50年になる。</p>\n<p><strong>高位化(8th)</strong>対象の最大レベルは18である。コストは対象のレベル(最小1)×300gpである。間隔は2年になり、ミシックポイントを費やすとそれは100年になる。</p>\n<p><strong>高位化(9th)</strong>対象の最大レベルは20である。コストは対象のレベル(最小1)×600gpである。間隔は5年になり、ミシックポイントを費やすとそれは200年になる。</p><p>この儀式は長い間死に絶えたミノタウルの英雄神によって考案され、その教団は悪なる存在を狩り罠にかけることを訓練済み。それは絡み合った小界が編み合わさり、ほとんどの者が解けないようにねじれる迷宮の空間を作り出す。</p>\n<p>あなたと副唱者は対象を中心にねじれた空間の迷宮を描き出す。不本意な対象は儀式の詠唱時間全体にわたり@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}、@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}、または他の方法でその区域から離れることを阻止されていなければならず、そうでなければ儀式は失敗する。不本意な対象は儀式に抵抗するために意志セーヴを試みることができる；クリティカル成功なら、その結果を儀式の詠唱をクリティカル失敗したものとして扱う。対象が迷宮状の監獄に囚われている間、他の界へのアクセスを与える能力でさえ迷宮にねじ曲げられるため逃げることはできない。代わりに唯一の脱出法は迷宮状の監獄のDCに対して迷路の《専門知識》、知覚、または《生存術》判定に成功することである。この判定は週に一度試みることができ、最初の判定は一週間経過するまで試みることができない。もし全ての唱者がそれぞれ一つのミシックポイントを費やせば、この間隔は一年に変わり、DCは主唱者のミシック熟練度を使用する。</p><hr /><p><strong>クリティカル成功</strong>成功として、そのねじれた空間は対象をその内にいる間@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}にする。</p>\n<p><strong>成功</strong>対象は儀式の持続時間中迷宮状の監獄に囚われる。</p>\n<p><strong>失敗</strong>儀式は対象を捕らえることに失敗する。</p>\n<p><strong>クリティカル失敗</strong>失敗として、そして唱者たちは皆@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 4}となり1週間のために。</p><hr /><p><strong>高位化(4th)</strong>対象の最大レベルは10である。コストは対象のレベル(最小1)×40gpである。間隔は1ヶ月になり、ミシックポイントを費やすとそれは5年になる。</p>\n<p><strong>高位化(5th)</strong>対象の最大レベルは12である。コストは対象のレベル(最小1)×75gpである。間隔は2か月になり、ミシックポイントを費やすとそれは10年になる。</p>\n<p><strong>高位化(6th)</strong>対象の最大レベルは14である。コストは対象のレベル(最小1)×125gpである。間隔は6か月になり、ミシックポイントを費やすとそれは30年になる。</p>\n<p><strong>高位化(7th)</strong>対象の最大レベルは16である。コストは対象のレベル(最小1)×200gpである。間隔は1年になり、ミシックポイントを費やすとそれは50年になる。</p>\n<p><strong>高位化(8th)</strong>対象の最大レベルは18である。コストは対象のレベル(最小1)×300gpである。間隔は2年になり、ミシックポイントを費やすとそれは100年になる。</p>\n<p><strong>高位化(9th)</strong>対象の最大レベルは20である。コストは対象のレベル(最小1)×600gpである。間隔は5年になり、ミシックポイントを費やすとそれは200年になる。</p>",
       "target": "8レベル以下の1体のクリーチャー",
       "range": "60フィート",
       "duration": "様々",
       "time": "1日",
       "cost": "対象のレベル×25gpに相当する合計価値の上質な紙とインク",
-      "primarycheck": "《欺瞞》 (エキスパート), Mazeロア (訓練済み), または《宗教》 (エキスパート)",
-      "secondarycheck": "アートロア (訓練済み), 《製作》 (訓練済み), または《盗賊術》 (訓練済み)"
+      "primarycheck": "《欺瞞》 (エキスパート), Maze《専門知識》 (訓練済み), または《宗教》 (エキスパート)",
+      "secondarycheck": "アート《専門知識》 (訓練済み), 《製作》 (訓練済み), または《盗賊術》 (訓練済み)"
     },
     "Hippocampus Retreat": {
       "name": "ヒッポカンパス・リトリート/Hippocampus Retreat",
@@ -12166,7 +12166,7 @@
       "cost": "200gp相当の聖水、銀の粉末、精製されたチョーク",
       "requirements": "焦点として使用される、術を行なう場所の構造物から取った礎石",
       "primarycheck": "《秘術》(master)または《宗教》(expert)",
-      "secondarycheck": "建築ロア、《製作》または工学ロア"
+      "secondarycheck": "建築《専門知識》、《製作》または工学《専門知識》"
     },
     "Establish Ward": {
       "name": "エスタブリッシュ・ウォード",
@@ -12218,7 +12218,7 @@
       "time": "1日",
       "cost": "合計価値が50gp × 呪文ランク × 対象のレベルに等しい魔法の焦点具",
       "primarycheck": "《秘術》、《自然》、《神秘学》または《宗教》がレイラインの系統に一致する(legendary)",
-      "secondarycheck": "Ley Lineロア or《神秘学》"
+      "secondarycheck": "Ley Line《専門知識》 or《神秘学》"
     },
     "Earth and Sky": {
       "name": "アース・アンド・スカイ",
@@ -12668,7 +12668,7 @@
       "time": "4時間",
       "cost": "高品質の材料と25gp相当の醸造用装備品",
       "primarycheck": "《製作》, 《自然》, またはソサイエティ (エキスパート)",
-      "secondarycheck": "アルコールロア (または関連するロア), 《製作》, ソサイエティ"
+      "secondarycheck": "アルコール《専門知識》 (または関連する《専門知識》), 《製作》, ソサイエティ"
     },
     "Gnaw at the Moon": {
       "name": "ノー・アット・ザ・ムーン/Gnaw at the Moon",
@@ -13116,7 +13116,7 @@
       "description": "<p>あなたはCorazalの無数の感覚にアクセスしてヴェルデュランの森の至る所にある乱れを識別する。</p>\n<hr />\n<p><strong>クリティカル成功</strong>あなたとCorazalはflashpointを特定することに成功する:不信と不安を煽る可能性のある差し迫った出来事だ。あなたはその出来事の感覚的な予感を体験し、位置を指し示すためにknow the wayを7th-rankのキャントリップとして詠唱でき、どのElder Oakがそれに最も近いかがわかる。</p>\n<p><strong>成功</strong>成功と同様だが、儀式は心身を大いに消耗させる。あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}となり、drained条件が終わるまであなたはさらに@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}となる。</p>\n<p><strong>失敗</strong>儀式は効果がない。</p>\n<p><strong>クリティカル失敗</strong>儀式は矛盾した情報であなたの心を焼くだけでそれ以外の効果はない。あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}となり、drained条件が終わるまであなたはさらにstupefied 1となりDubious Knowledgeスキル特技を得る。あなたがこのdrained値を減少させようとするたび、その値は@Check[flat|dc:11]に成功しない限り減少しない。</p>",
       "time": "4時間",
       "primarycheck": "DC 24《自然》 (master)または DC 29《自然》 (expert)",
-      "secondarycheck": "DC 24森林ロア、知覚、または《生存術》"
+      "secondarycheck": "DC 24森林《専門知識》、知覚、または《生存術》"
     },
     "Delay Affliction": {
       "name": "ディレイ・アフリクション/Delay Affliction",
@@ -13335,7 +13335,7 @@
       "time": "8時間",
       "cost": "合計で2,000gpの価値がある希少な香と供物",
       "primarycheck": "《自然》または《宗教》",
-      "secondarycheck": "《秘術》、《自然》、《宗教》、《生存術》、またはTanglebriarロア"
+      "secondarycheck": "《秘術》、《自然》、《宗教》、《生存術》、またはTanglebriar《専門知識》"
     },
     "Croak Voice": {
       "name": "クローク・ボイス/Croak Voice",

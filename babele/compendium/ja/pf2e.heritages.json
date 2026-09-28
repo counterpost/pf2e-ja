@@ -913,7 +913,7 @@
     },
     "Sage Jotunborn": {
       "name": "賢者ヨトゥンボーン/Sage Jotunborn",
-      "description": "<p>家族や氏族、あるいは集落全体の口承と織物による歴史を記録する役目を担ってきた。あなたは訓練済みでソサイエティとなる。さらに、選択した伝承（lore）スキルに対する@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{追加ロア}の汎用特技を得る。</p>"
+      "description": "<p>家族や氏族、あるいは集落全体の口承と織物による歴史を記録する役目を担ってきた。あなたは訓練済みでソサイエティとなる。さらに、選択した伝承（lore）スキルに対する@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}の汎用特技を得る。</p>"
     },
     "Woodland Elf": {
       "name": "森林のエルフ/Woodland Elf",
@@ -1002,7 +1002,7 @@
     },
     "Respite of a Thousand Roofs": {
       "name": "千の屋根の休息/Respite of a Thousand Roofs",
-      "description": "<p>貧しい者を庇い食物を与える誓いを立てた。誓いにより大工道具、料理鍋、裁縫道具のスキルに長けるようになる；あなたは《製作》で訓練済みになり、料理でロアになり、@UUID[Compendium.pf2e.feats-srd.Item.3HChkcD1IRqv4DbA]{Improvise Tool}のスキル特技を得る.</p><hr /><p><strong>Additional Edict</strong>あなたができる範囲で住居や衣服を修理したり食事を与えたりして貧しい者を助ける</p>"
+      "description": "<p>貧しい者を庇い食物を与える誓いを立てた。誓いにより大工道具、料理鍋、裁縫道具のスキルに長けるようになる；あなたは《製作》で訓練済みになり、料理で《専門知識》になり、@UUID[Compendium.pf2e.feats-srd.Item.3HChkcD1IRqv4DbA]{Improvise Tool}のスキル特技を得る.</p><hr /><p><strong>Additional Edict</strong>あなたができる範囲で住居や衣服を修理したり食事を与えたりして貧しい者を助ける</p>"
     },
     "Thalassic Azarketi": {
       "name": "サラシック語アザルケティ/Thalassic Azarketi",

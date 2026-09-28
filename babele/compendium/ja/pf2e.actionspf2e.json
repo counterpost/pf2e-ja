@@ -1549,7 +1549,7 @@
     },
     "Recall Under Pressure": {
       "name": "リコール・アンダー・プレッシャー/Recall Under Pressure",
-      "description": "<p><strong>誘発</strong> 戦闘中にあなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}を試みるとき</p>\n<p><strong>使用制限</strong> 1日につき1回</p>\n<hr />\n<p><strong>効果</strong> 戦闘中に別のスキルで〔思い出す〕を振る代わりに、記憶は古い本で読んだ何かにフラッシュバックする。この〔思い出す〕判定は代わりにAcademiaのロア判定で行う。思い出した情報が次の自分のターンまでに明らかに役立ちかつ正のエネルギーであった場合、無作為にハロウカードを1枚引く。士気が高まり、戦闘終了までのセーヴに+1のステータスボーナスを得るか、引いたカードがBooksのスートだった場合は+2のステータスボーナスを得る。</p>",
+      "description": "<p><strong>誘発</strong> 戦闘中にあなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}を試みるとき</p>\n<p><strong>使用制限</strong> 1日につき1回</p>\n<hr />\n<p><strong>効果</strong> 戦闘中に別のスキルで〔思い出す〕を振る代わりに、記憶は古い本で読んだ何かにフラッシュバックする。この〔思い出す〕判定は代わりにAcademiaの《専門知識》判定で行う。思い出した情報が次の自分のターンまでに明らかに役立ちかつ正のエネルギーであった場合、無作為にハロウカードを1枚引く。士気が高まり、戦闘終了までのセーヴに+1のステータスボーナスを得るか、引いたカードがBooksのスートだった場合は+2のステータスボーナスを得る。</p>",
       "selfEffect": "効果: プレッシャー下での想起",
       "source": "Pathfinder Stolen Fate Player's Guide"
     },
