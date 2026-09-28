@@ -399,7 +399,7 @@
         },
         "VRDZl6y3aAge5VyP": {
           "name": "サーペント召喚/Raise Serpent",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ボーン・プロフェットは、@Template[emanation|distance:30]以内に存在する蛇、サーペントフォーク、または同様の蛇のようなクリーチャーの死体をアニメイトする。死体にある肉はすべて剥がれ落ち、それらはスケルトンとして立ち上がる。ボーン・プロフェットは、1体の大型クリーチャーを@UUID[Compendium.pf2e.pathfinder-monster-core.Actor.sEgjgitJmwYYa4mV]{スケルタル・ジャイアント}として、または最大3体の中型クリーチャーを@UUID[Compendium.pf2e.pathfinder-monster-core.Actor.FH58AcRBZIfrHKvv]{スケルタル・チャンピオン}として蘇らせることができる。死体が所持していたものによって、装備や攻撃が異なる場合がある。</p>\n<p>これらのスケルトンはミニオン特徴を持ち、ボーン・プロフェットの制御下にある。ボーン・プロフェットは、精神集中特徴を持つ単一のアクションによって、これらすべてのミニオンに同じ命令を与えることができる。10分経過してもまだ残っているスケルトンのミニオンは、崩れて塵になる。</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ボーン・プロフェットは、@Template[emanation|distance:30]以内に存在する蛇、サーペントフォーク、または同様の蛇のようなクリーチャーの死体をアニメイトする。死体にある肉はすべて剥がれ落ち、それらはスケルトンとして立ち上がる。ボーン・プロフェットは、1体の大型クリーチャーを@UUID[Compendium.pf2e.pathfinder-monster-core.Actor.sEgjgitJmwYYa4mV]{スケルタル・ジャイアント}として、または最大3体の中型クリーチャーを@UUID[Compendium.pf2e.pathfinder-monster-core.Actor.FH58AcRBZIfrHKvv]{スケルタル・チャンピオン}として蘇らせることができる。死体が所持していたものによって、装備品や攻撃が異なる場合がある。</p>\n<p>これらのスケルトンはミニオン特徴を持ち、ボーン・プロフェットの制御下にある。ボーン・プロフェットは、精神集中特徴を持つ単一のアクションによって、これらすべてのミニオンに同じ命令を与えることができる。10分経過してもまだ残っているスケルトンのミニオンは、崩れて塵になる。</p>"
         },
         "pkqZFkDwe6SFvUXX": {
           "name": "サーペントフォーク・ヴェノム/Serpentfolk Venom",
@@ -479,11 +479,11 @@
           "description": "<p><strong>トリガー</strong> 生きているクリーチャーが穴の縁から10フィート以内に近づく。</p>\n<hr />\n<p><strong>効果</strong> 穴からサンドポイント・デヴィルの煙を帯びて燃え盛る幻影が立ち上るように現れ、硫黄の臭いがする煙の柱が部屋に立ち込める。エリア<strong>H6</strong>にいるすべてのクリーチャーは@Check[fortitude|dc:28]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態（大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態）となる。その後、この怪異はイニシアチブをロールする。</p>"
         }
       },
-      "routine": "<p>(1アクション；力術、火炎、オカルト)サンドポイント・デヴィルの煙を上げる幻視が穴の上に浮かび、火炎の翼を羽ばたかせ、頭を下げて部屋の中に火炎の@Template[cone|distance:30]を吐き出し、できるだけ多くのクリーチャーを標的にする。ガイストもこの火炎の爆発の標的になり得るが、その耐性が火炎に適用されることを忘れないこと。エリア内のすべてのクリーチャーは@Damage[7d6[fire]]ダメージを受ける(@Check[reflex|dc:28|basic|traits:fire,occult]セーヴ)。このセーヴィング・スローに大失敗したクリーチャーは、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態にもなる。この効果は感情、恐怖、精神の特性を持つ。</p>",
+      "routine": "<p>(1アクション；力術、火炎、オカルト)サンドポイント・デヴィルの煙を上げる幻視が穴の上に浮かび、火炎の翼を羽ばたかせ、頭を下げて部屋の中に火炎の@Template[cone|distance:30]を吐き出し、できるだけ多くのクリーチャーを標的にする。ガイストもこの火炎の爆発の標的になり得るが、その耐性が火炎に適用されることを忘れないこと。エリア内のすべてのクリーチャーは@Damage[7d6[fire]]ダメージを受ける(@Check[reflex|dc:28|basic|traits:fire,occult]セーヴ)。このセーヴィング・スローに大失敗したクリーチャーは、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態にもなる。この効果は感情、恐怖、精神のトレイトを持つ。</p>",
       "stealth": "<p>(熟練)</p>",
       "name": "フィアー・オブ・ザ・デヴィル/Fear of the Devil",
       "description": "<p>サンドポイント・デヴィルの煙と火炎の幻影が、悪臭を放つ煙の突風とともに穴から出現する。</p>",
-      "disable": "<p>@Check[diplomacy|dc:30](達人)で、殺害された冒険者たちが残した不穏な恐怖をなだめて落ち着かせるか、あるいは@Check[religion|dc:30](達人)で、守護の祈りによってこのハザードを妨害する(どちらかの技能で2回成功すると、このハザードは無効化される)</p>"
+      "disable": "<p>@Check[diplomacy|dc:30](達人)で、殺害された冒険者たちが残した不穏な恐怖をなだめて落ち着かせるか、あるいは@Check[religion|dc:30](達人)で、守護の祈りによってこのハザードを妨害する(どちらかのスキルで2回成功すると、このハザードは無効化される)</p>"
     },
     "Flesh for the Hollow Star": {
       "reset": "<p>アザトースの信者がその前で祈りを捧げて1時間を過ごすと、この罠は作動を停止し、再充填される。</p>",
@@ -525,7 +525,7 @@
         },
         "7tCu8SPq0TpF1lJX": {
           "name": "マインドフォッグ・オーラ/Mindfog Aura",
-          "description": "<p>20フィート。このオーラの中でターンを開始したクリーチャーは、@Check[will|dc:25|options:area-effect,inflicts:confused]セーヴに成功しなければならず、失敗すると1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となる。成功した場合、そのクリーチャーは1分の間一時的な免疫となる。ムノゴスは、精神集中(concentrate)の特性を持つ単一のアクションとして、このオーラを抑制または起動できる。</p>"
+          "description": "<p>20フィート。このオーラの中でターンを開始したクリーチャーは、@Check[will|dc:25|options:area-effect,inflicts:confused]セーヴに成功しなければならず、失敗すると1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となる。成功した場合、そのクリーチャーは1分の間一時的な免疫となる。ムノゴスは、精神集中(concentrate)のトレイトを持つ単一のアクションとして、このオーラを抑制または起動できる。</p>"
         },
         "tNfhf1JnOxOHfY86": {
           "name": "エンヴェノム・ウェポン/Envenom Weapon",
@@ -562,7 +562,7 @@
       "stealth": "<p>(熟練)</p>",
       "name": "ライトロック/Lightlock",
       "description": "<p>壁の上の奇妙な霧の層が渦を巻いて激しく揺れ、突然、暗い霧の光線を部屋の中に数本発射する。</p>",
-      "disable": "<p>@Check[thievery|dc:27](達人)で、罠のエネルギーを集中させている隠されたルーンの一部を乱すか、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第4階位、打ち消し DC25)またはライト特性を持つ呪文で罠を打ち消しする。</p>"
+      "disable": "<p>@Check[thievery|dc:27](達人)で、罠のエネルギーを集中させている隠されたルーンの一部を乱すか、あるいは@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第4階位、打ち消し DC25)またはライトトレイトを持つ呪文で罠を打ち消しする。</p>"
     },
     "Minargul": {
       "items": {
@@ -925,7 +925,7 @@
         },
         "sCv6nwuflODCdMaO": {
           "name": "前兆の眼差し/Portentous Gaze",
-          "description": "<p>30フィート。クリーチャーがこのオーラの中でターンを終了したとき、それは@Check[will|dc:31]セーヴを行わなければならない。失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}(大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2})となる。</p>\n<p>モスマンは、精神集中特性を持つ単一のアクションで、このオーラを起動または停止できる。</p>"
+          "description": "<p>30フィート。クリーチャーがこのオーラの中でターンを終了したとき、それは@Check[will|dc:31]セーヴを行わなければならない。失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}(大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2})となる。</p>\n<p>モスマンは、精神集中トレイトを持つ単一のアクションで、このオーラを起動または停止できる。</p>"
         },
         "OhL4iYLf0PKLjM4R": {
           "name": "チェンジ・シェイプ",
@@ -1167,7 +1167,7 @@
         },
         "pHckdhGspQesS1nl": {
           "name": "ラビッジ/Ravage",
-          "description": "<p>インテレクト・デヴァウラーは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャー1体に対して、自身の最も高い攻撃修正と同じ攻撃修正を使用して、爪による〈ストライク〉を2回行う。</p>\n<p>これらの〈ストライク〉は即死特性を得る。「貪り食い」によって対象が死亡した場合、インテレクト・デヴァウラーは対象に対して「肉体泥棒」をフリー・アクションとして使用できる。</p>"
+          "description": "<p>インテレクト・デヴァウラーは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャー1体に対して、自身の最も高い攻撃修正と同じ攻撃修正を使用して、爪による〈ストライク〉を2回行う。</p>\n<p>これらの〈ストライク〉は即死トレイトを得る。「貪り食い」によって対象が死亡した場合、インテレクト・デヴァウラーは対象に対して「肉体泥棒」をフリー・アクションとして使用できる。</p>"
         },
         "wHsOiFn1P7QcaaJ2": {
           "name": "ストールン・アイデンティティ/Stolen Identity",
@@ -1529,7 +1529,7 @@
         },
         "6ua72XUFQZVIkpXd": {
           "name": "カリキュレイテッド・スプラッシュ/Calculated Splash",
-          "description": "<p>タンチがスプラッシュ特性を持つ爆弾を投げるとき、自身の知力修正値に等しいスプラッシュ・ダメージを与える。</p>"
+          "description": "<p>タンチがスプラッシュトレイトを持つ爆弾を投げるとき、自身の知力修正値に等しいスプラッシュ・ダメージを与える。</p>"
         },
         "JRw4yyJi23UZoHax": {
           "name": "注意を逸らす口笛/Distracting Whistle",
@@ -1552,7 +1552,7 @@
           "description": "<p><strong>トリガー</strong>生きているクリーチャーが緑色の結晶から20フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>結晶が吐き気を催すような光で明滅する。エリア<strong>E14</strong>内、またはこのエリアから出る2つの通路のいずれかの最初の10フィート以内にいる全てのクリーチャーは、@Check[fortitude|dc:25]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる(大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 3})。</p>"
         }
       },
-      "routine": "<p>(1アクション)(光、毒)各ラウンドの自身の行動時、有毒な結晶は鋭いハミング音を発し、緑色の光で明るく点滅する。エリア<strong>E14</strong>内、またはこのエリアから外に通じるいずれかの通路の最初の10フィート以内にいるすべてのクリーチャーは、@Check[fortitude|traits:light,poison|dc:25]セーヴを行わなければならない。</p>\n<hr>\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[2d8[poison]]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[4d8[poison]]ダメージを受け、1分の間@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[4d8[poison]]ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となり、1分の間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる。</p>",
+      "routine": "<p>(1アクション)(光、毒)各ラウンドの自身のアクション時、有毒な結晶は鋭いハミング音を発し、緑色の光で明るく点滅する。エリア<strong>E14</strong>内、またはこのエリアから外に通じるいずれかの通路の最初の10フィート以内にいるすべてのクリーチャーは、@Check[fortitude|traits:light,poison|dc:25]セーヴを行わなければならない。</p>\n<hr>\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[2d8[poison]]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[4d8[poison]]ダメージを受け、1分の間@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[4d8[poison]]ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となり、1分の間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる。</p>",
       "stealth": "<p>(訓練済み)</p>",
       "name": "トキシック・クリスタルズ/Toxic Crystals",
       "description": "<p>生きたクリーチャーが存在すると、緑の結晶はより明るく光を放ち始める。さまざまな結晶からのこの照度の変動は、不気味なことに、部屋にいる者たちの呼吸のペースや心拍の鼓動と一致している。</p>",

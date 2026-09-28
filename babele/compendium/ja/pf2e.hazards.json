@@ -480,7 +480,7 @@
           "description": "<p><strong>トリガー</strong>生きているクリーチャーが、かつての火災の犠牲者の遺骸から10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>火災の過去の犠牲者が受けた苦痛の記憶が、トリガーとなったクリーチャーの精神を襲う。そのクリーチャーは@Check[will|dc:25]セーヴを行わなければならず、その後ハーントがイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 3}状態となり、そのハーントのエリア内に留まっている間およびその後3ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         }
       },
-      "routine": "<p>(1アクション)ファントムの炎が怨念の宿る区域全体に猛威を振るい、区域内の各生きているクリーチャーに@Damage[4d6[fire]]ダメージを与える (@Check[will|dc:23|basic]セーヴ)。区域内のアンデッドのクリーチャーは、次のラウンドの間、炎を吹き込まれる。それらは火炎の特性と火炎に対する完全耐性を獲得し、すべての攻撃が追加で@Damage[1d6[fire]]ダメージを与える。区域内の物体は影響を受けない。</p>",
+      "routine": "<p>(1アクション)ファントムの炎が怨念の宿る区域全体に猛威を振るい、区域内の各生きているクリーチャーに@Damage[4d6[fire]]ダメージを与える (@Check[will|dc:23|basic]セーヴ)。区域内のアンデッドのクリーチャーは、次のラウンドの間、炎を吹き込まれる。それらは火炎のトレイトと火炎に対する完全耐性を獲得し、すべての攻撃が追加で@Damage[1d6[fire]]ダメージを与える。区域内の物体は影響を受けない。</p>",
       "stealth": "<p>(熟練)</p>",
       "name": "エターナル・フレイム/Eternal Flame",
       "description": "<p>荒れ狂う幽霊の業火が何もない空間から発生し、その範囲内にいるすべてのアンデッド・クリーチャーを強化する。このハーントは多くの場合、恐ろしい事故であれ意図的な処刑であれ、焼死した3人のグループの焦げた遺骸から発生し、彼らの復讐を果たされていない魂が怒りで燃え盛っている。</p>",

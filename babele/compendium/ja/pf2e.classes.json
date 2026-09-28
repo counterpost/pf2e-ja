@@ -27,7 +27,7 @@
     },
     "Fighter": {
       "name": "ファイター",
-      "description": "<p><em>名誉、強欲、忠誠、あるいは単に戦闘のスリルを求めて戦うあなたは、誰もが認める武器と戦闘技術の達人だ。敵が油断して隙を見せるたびに、あなたは開始の動き、とどめの一撃、そして反撃を巧みに組み合わせて行動を連携させる。あなたが騎士、傭兵、狙撃手、あるいは剣の達人であっても、あなたは武技を芸術の域にまで高め、敵に壊滅的な致命的攻撃を繰り出す。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.HZbrRRVzW7w17L2W]{ファイター}</em></p>"
+      "description": "<p><em>名誉、強欲、忠誠、あるいは単に戦闘のスリルを求めて戦うあなたは、誰もが認める武器と戦闘技術の達人だ。敵が油断して隙を見せるたびに、あなたは開始の動き、とどめの一撃、そして反撃を巧みに組み合わせてアクションを連携させる。あなたが騎士、傭兵、狙撃手、あるいは剣の達人であっても、あなたは武技を芸術の域にまで高め、敵に壊滅的な致命的攻撃を繰り出す。</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.HZbrRRVzW7w17L2W]{ファイター}</em></p>"
     },
     "Animist": {
       "name": "アニミスト",
