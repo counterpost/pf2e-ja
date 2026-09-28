@@ -1191,7 +1191,7 @@
           "name": "ブランチ"
         },
         "03GLgyeAGjU6XdPt": {
-          "name": "ネイチャー・エンパシー/Nature Empathy",
+          "name": "《自然》・エンパシー/Nature Empathy",
           "description": "<p>そのドライアドは動物や植物に対して質問を行い、回答を受け取り、それらと《交渉》スキルを使用できる。</p>"
         },
         "1xLTVMSCCIoZiFMc": {
@@ -1802,7 +1802,7 @@
         },
         "GdnX1i87yKmvFsjB": {
           "name": "フューム/Fume",
-          "description": "<p><strong>頻度</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong> ブリモラックは自身の隣接する@Template[burst|distance:10]に濃い黒煙の雲を放出する。この雲は1分の間持続する。煙の中にいるすべてのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{隠蔽}状態となり、煙の外にいるすべてのクリーチャーは煙の中にいるクリーチャーに対して隠蔽状態となる。</p>\n<p>煙の中に入った、または煙の中で自身のターンを開始したクリーチャーは、@Check[fortitude|dc:21]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{病気 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{病気 2}状態となる)。</p>"
+          "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong> ブリモラックは自身の隣接する@Template[burst|distance:10]に濃い黒煙の雲を放出する。この雲は1分の間持続する。煙の中にいるすべてのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{隠蔽}状態となり、煙の外にいるすべてのクリーチャーは煙の中にいるクリーチャーに対して隠蔽状態となる。</p>\n<p>煙の中に入った、または煙の中で自身のターンを開始したクリーチャーは、@Check[fortitude|dc:21]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{病気 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{病気 2}状態となる)。</p>"
         }
       },
       "name": "ブリモラク/Brimorak",
@@ -5334,7 +5334,7 @@
         },
         "fLPSxVkoQyjEcOhg": {
           "name": "キャプチャー・スペル",
-          "description": "<p><strong>トリガー</strong>そのドラゴンが呪文に対するセーヴィング・スローで成功またはクリティカル・成功する。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは呪文の魔法の一部を取り込んで自身を養おうと試みる。そのドラゴンは呪文を打ち消ししようと試みる(打ち消しランク7、打ち消し修正値[[/r 1d20+28 #Counteract]]{+28})。成功した場合、そのドラゴンはその呪文の影響を受けず、消費した自発的呪文スロットを1つ回復する。他の対象は通常通りその呪文の影響を受ける。</p>"
+          "description": "<p><strong>トリガー</strong>そのドラゴンが呪文に対するセーヴィング・スローで成功またはクリティカル成功する。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは呪文の魔法の一部を取り込んで自身を養おうと試みる。そのドラゴンは呪文を打ち消ししようと試みる(打ち消しランク7、打ち消し修正値[[/r 1d20+28 #Counteract]]{+28})。成功した場合、そのドラゴンはその呪文の影響を受けず、消費した自発的呪文スロットを1つ回復する。他の対象は通常通りその呪文の影響を受ける。</p>"
         },
         "Fd9jpCrOyon1zkTb": {
           "name": "ディスラプティヴ・ブレス",
@@ -6370,7 +6370,7 @@
           "name": "リーヴズ/Leaves"
         },
         "afRIl1Q7FwNUtxuI": {
-          "name": "ネイチャー・エンパシー",
+          "name": "《自然》・エンパシー",
           "description": "<p>そのドライアドは動物や植物に対して質問を行い、回答を受け取り、それらと《交渉》スキルを使用できる。</p>"
         },
         "JYkKoCx49R8WXnXW": {
@@ -8855,7 +8855,7 @@
         },
         "TzBbRiqiSDZj6VdK": {
           "name": "デス・ストライク/Death Strike",
-          "description": "<p>グリム・リーパーの攻撃のいずれかでクリティカル・ヒットを受けた、あるいはその呪文のいずれかに対してクリティカル・失敗したクリーチャーは、@Check[fortitude|dc:47]セーヴに成功しなければ死亡する。</p>"
+          "description": "<p>グリム・リーパーの攻撃のいずれかでクリティカル・ヒットを受けた、あるいはその呪文のいずれかに対してクリティカル失敗したクリーチャーは、@Check[fortitude|dc:47]セーヴに成功しなければ死亡する。</p>"
         },
         "W3a4Bkc73B2bUZDE": {
           "name": "エナジー・ドレイン/Energy Drain",
@@ -11234,7 +11234,7 @@
           "name": "シミター/Scimitar"
         },
         "eUM6B7UsajXf8yCV": {
-          "name": "+2・ボーナス・オン・パーセプション・トゥ・ディテクト・ライズ・アンド・イリュージョンズ/+2 Bonus on Perception to Detect lies and illusions"
+          "name": "+2・ボーナス・オン・《知覚》・トゥ・ディテクト・ライズ・アンド・イリュージョンズ/+2 Bonus on Perception to Detect lies and illusions"
         },
         "J74rTsCbkYU9dqWn": {
           "name": "アット・ウィル・スペルズ"
@@ -12855,7 +12855,7 @@
         },
         "fLPSxVkoQyjEcOhg": {
           "name": "キャプチャー・スペル",
-          "description": "<p><strong>トリガー</strong>そのドラゴンが呪文に対するセーヴィング・スローで成功またはクリティカル・成功する。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは呪文の魔法の一部を取り込んで自身を養おうと試みる。そのドラゴンは呪文を打ち消ししようと試みる(打ち消しランク7、打ち消し修正値[[/r 1d20+28 #Counteract]]{+28})。成功した場合、そのドラゴンはその呪文の影響を受けず、消費した自発的呪文スロットを1つ回復する。他の対象は通常通りその呪文の影響を受ける。</p>"
+          "description": "<p><strong>トリガー</strong>そのドラゴンが呪文に対するセーヴィング・スローで成功またはクリティカル成功する。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは呪文の魔法の一部を取り込んで自身を養おうと試みる。そのドラゴンは呪文を打ち消ししようと試みる(打ち消しランク7、打ち消し修正値[[/r 1d20+28 #Counteract]]{+28})。成功した場合、そのドラゴンはその呪文の影響を受けず、消費した自発的呪文スロットを1つ回復する。他の対象は通常通りその呪文の影響を受ける。</p>"
         },
         "Fd9jpCrOyon1zkTb": {
           "name": "ディスラプティヴ・ブレス",
@@ -15705,7 +15705,7 @@
         },
         "ATs94SggOJoPD71u": {
           "name": "フィーンディッシュ・ヒーリング/Fiendish Healing",
-          "description": "<p><strong>頻度</strong> 1ラウンドにつき1回。</p>\n<hr />\n<p><strong>効果</strong> そのインプは@Damage[1d6[healing]]ヒット・ポイントを回復する。</p>"
+          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回。</p>\n<hr />\n<p><strong>効果</strong> そのインプは@Damage[1d6[healing]]ヒット・ポイントを回復する。</p>"
         },
         "hwvMSx3qTN1uk4iN": {
           "name": "インプ・ヴェノム/Imp Venom",
