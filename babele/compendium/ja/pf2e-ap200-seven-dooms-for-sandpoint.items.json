@@ -188,11 +188,11 @@
     },
     "D4C1yHkCqpQckxgr": {
       "name": "テイル・ラッシュ/Tail Lash",
-      "description": "<p><strong>トリガー</strong> ドラゴンのリーチ内にいるクリーチャーが、〈ストライク〉を行うか、技能判定を行うアクションをとる。</p>\n<hr />\n<p><strong>効果</strong> ドラゴンはトリガーとなったクリーチャーに対して-2のペナルティで尾による〈ストライク〉を行う。ヒットした場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: 尾の強打 (攻撃ロール)}</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.4HJJdogS751Z04lD]{効果: 尾の強打 (スキル 判定)}</p>"
+      "description": "<p><strong>トリガー</strong> ドラゴンのリーチ内にいるクリーチャーが、〈ストライク〉を行うか、スキル判定を行うアクションをとる。</p>\n<hr />\n<p><strong>効果</strong> ドラゴンはトリガーとなったクリーチャーに対して-2のペナルティで尾による〈ストライク〉を行う。ヒットした場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: 尾の強打 (攻撃ロール)}</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.4HJJdogS751Z04lD]{効果: 尾の強打 (スキル 判定)}</p>"
     },
     "Tail Lash": {
       "name": "テイル・ラッシュ",
-      "description": "<p><strong>トリガー</strong> ドラゴンのリーチ内にいるクリーチャーが、〈ストライク〉を行うか、技能判定を行うアクションをとる。</p>\n<hr />\n<p><strong>効果</strong> ドラゴンは　トリガーとなったクリーチャーに対して-2のペナルティで尾による〈ストライク〉を行う。ヒットした場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: 尾の強打 (攻撃ロール)}</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.4HJJdogS751Z04lD]{効果: 尾の強打 (スキル 判定)}</p>"
+      "description": "<p><strong>トリガー</strong> ドラゴンのリーチ内にいるクリーチャーが、〈ストライク〉を行うか、スキル判定を行うアクションをとる。</p>\n<hr />\n<p><strong>効果</strong> ドラゴンは　トリガーとなったクリーチャーに対して-2のペナルティで尾による〈ストライク〉を行う。ヒットした場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: 尾の強打 (攻撃ロール)}</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.4HJJdogS751Z04lD]{効果: 尾の強打 (スキル 判定)}</p>"
     },
     "GeAJNEdtRdXSvZvk": {
       "name": "ブレス・ウェポン/Breath Weapon",
@@ -780,11 +780,11 @@
     },
     "sCv6nwuflODCdMaO": {
       "name": "前兆の眼差し/Portentous Gaze",
-      "description": "<p>30フィート。クリーチャーがこのオーラ内でターンを終了したとき、そのクリーチャーは@Check[type:will|dc:31]セーヴを行わなければならない。失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となる)。</p>\n<p>モスマンは1回のアクションでこのオーラを無効化または有効化できる。このアクションは精神集中特性を持つ。</p>"
+      "description": "<p>30フィート。クリーチャーがこのオーラ内でターンを終了したとき、そのクリーチャーは@Check[type:will|dc:31]セーヴを行わなければならない。失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となる)。</p>\n<p>モスマンは1回のアクションでこのオーラを無効化または有効化できる。このアクションは精神集中トレイトを持つ。</p>"
     },
     "Portentous Gaze": {
       "name": "前兆の眼差し",
-      "description": "<p>30フィート。クリーチャーがこのオーラ内でターンを終了したとき、そのクリーチャーは@Check[type:will|dc:31]セーヴを行わなければならない。失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となる)。</p>\n<p>モスマンは1回のアクションでこのオーラを無効化または有効化できる。このアクションは精神集中特性を持つ。</p>"
+      "description": "<p>30フィート。クリーチャーがこのオーラ内でターンを終了したとき、そのクリーチャーは@Check[type:will|dc:31]セーヴを行わなければならない。失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となる)。</p>\n<p>モスマンは1回のアクションでこのオーラを無効化または有効化できる。このアクションは精神集中トレイトを持つ。</p>"
     },
     "E4osyN7mgvABXIRE": {
       "name": "真の誘惑/True Temptation",
@@ -1330,11 +1330,11 @@
     },
     "lciayGn2ma9dSbcM": {
       "name": "闇の呪い/Curse of Darkness",
-      "description": "<p>オウブは、自身の燃えるような冷気の〈ストライク〉によって持続的な冷気ダメージを受けているクリーチャー1体に呪いをかけ、その犠牲者の活力を奪う。そのクリーチャーは@Check[type:fortitude|dc:23]セーヴを行わなければならない。</p>\n<p>失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.I0HYG0ctCLP5JRsW]{ライト ブラインドネス}を得て、そのクリーチャー自身と、それが持ち、手に持ち、あるいは身につけているすべての装備の色が色あせた灰色に変わる。これらの効果の持続時間は無制限である。セーヴの結果にかかわらず、そのクリーチャーは1分の間、一時的な免疫となる。</p>\n<p>オウブがこの能力をカリグニに対して使用した場合、その呪いは@UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{ウィッシュ}や同様の強力な魔法でなければ解除できない。</p>"
+      "description": "<p>オウブは、自身の燃えるような冷気の〈ストライク〉によって持続的な冷気ダメージを受けているクリーチャー1体に呪いをかけ、その犠牲者の活力を奪う。そのクリーチャーは@Check[type:fortitude|dc:23]セーヴを行わなければならない。</p>\n<p>失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.I0HYG0ctCLP5JRsW]{ライト ブラインドネス}を得て、そのクリーチャー自身と、それが持ち、手に持ち、あるいは身につけているすべての装備品の色が色あせた灰色に変わる。これらの効果の持続時間は無制限である。セーヴの結果にかかわらず、そのクリーチャーは1分の間、一時的な免疫となる。</p>\n<p>オウブがこの能力をカリグニに対して使用した場合、その呪いは@UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{ウィッシュ}や同様の強力な魔法でなければ解除できない。</p>"
     },
     "Curse of Darkness": {
       "name": "呪いの闇",
-      "description": "<p>オウブは、自身の燃えるような冷気の〈ストライク〉によって持続的な冷気ダメージを受けているクリーチャー1体に呪いをかけ、その犠牲者の活力を奪う。そのクリーチャーは@Check[type:fortitude|dc:23]セーヴを行わなければならない。</p>\n<p>失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.I0HYG0ctCLP5JRsW]{ライト ブラインドネス}を得て、そのクリーチャー自身と、それが持ち、手に持ち、あるいは身につけているすべての装備の色が色あせた灰色に変わる。これらの効果の持続時間は無制限である。セーヴの結果にかかわらず、そのクリーチャーは1分の間、一時的な免疫となる。</p>\n<p>オウブがこの能力をカリグニに対して使用した場合、その呪いは@UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{ウィッシュ}や同様の強力な魔法でなければ解除できない。</p>"
+      "description": "<p>オウブは、自身の燃えるような冷気の〈ストライク〉によって持続的な冷気ダメージを受けているクリーチャー1体に呪いをかけ、その犠牲者の活力を奪う。そのクリーチャーは@Check[type:fortitude|dc:23]セーヴを行わなければならない。</p>\n<p>失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.I0HYG0ctCLP5JRsW]{ライト ブラインドネス}を得て、そのクリーチャー自身と、それが持ち、手に持ち、あるいは身につけているすべての装備品の色が色あせた灰色に変わる。これらの効果の持続時間は無制限である。セーヴの結果にかかわらず、そのクリーチャーは1分の間、一時的な免疫となる。</p>\n<p>オウブがこの能力をカリグニに対して使用した場合、その呪いは@UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{ウィッシュ}や同様の強力な魔法でなければ解除できない。</p>"
     },
     "53ZHZQrxzfyMUm3s": {
       "name": "オカルトの生得呪文"
@@ -1573,11 +1573,11 @@
     },
     "VRDZl6y3aAge5VyP": {
       "name": "サーペント召喚/Raise Serpent",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ボーン・プロフェットは@Template[type:emanation|distance:30]以内にいる蛇、サーペントフォーク、あるいはそれに類する蛇のようなクリーチャーの死体をアニメートする。死体の肉はすべて剥がれ落ち、それらはスケルトンとして立ち上がる。ボーン・プロフェットは1体の大型クリーチャーをスケルトン・ジャイアントとして、あるいは最大3体の中型クリーチャーをスケルトン・チャンピオンとして蘇らせることができる。死体が所持していたものによって、装備や攻撃は異なる場合がある。</p>\n<p>これらのスケルトンはミニオンの特性を持ち、ボーン・プロフェットの支配下にある。ボーン・プロフェットは精神集中特性を持つ1回のアクションで、これらすべてのミニオンに同じ命令を与えることができる。10分が経過した後にまだ残っているスケルトンのミニオンは塵となって崩れ去る。</p>"
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ボーン・プロフェットは@Template[type:emanation|distance:30]以内にいる蛇、サーペントフォーク、あるいはそれに類する蛇のようなクリーチャーの死体をアニメートする。死体の肉はすべて剥がれ落ち、それらはスケルトンとして立ち上がる。ボーン・プロフェットは1体の大型クリーチャーをスケルトン・ジャイアントとして、あるいは最大3体の中型クリーチャーをスケルトン・チャンピオンとして蘇らせることができる。死体が所持していたものによって、装備品や攻撃は異なる場合がある。</p>\n<p>これらのスケルトンはミニオンのトレイトを持ち、ボーン・プロフェットの支配下にある。ボーン・プロフェットは精神集中トレイトを持つ1回のアクションで、これらすべてのミニオンに同じ命令を与えることができる。10分が経過した後にまだ残っているスケルトンのミニオンは塵となって崩れ去る。</p>"
     },
     "Raise Serpent": {
       "name": "サーペント召喚",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ボーン・プロフェットは@Template[type:emanation|distance:30]以内にいる蛇、サーペントフォーク、あるいはそれに類する蛇のようなクリーチャーの死体をアニメートする。死体の肉はすべて剥がれ落ち、それらはスケルトンとして立ち上がる。ボーン・プロフェットは1体の大型クリーチャーをスケルトン・ジャイアントとして、あるいは最大3体の中型クリーチャーをスケルトン・チャンピオンとして蘇らせることができる。死体が所持していたものによって、装備や攻撃は異なる場合がある。</p>\n<p>これらのスケルトンはミニオンの特性を持ち、ボーン・プロフェットの支配下にある。ボーン・プロフェットは精神集中特性を持つ1回のアクションで、これらすべてのミニオンに同じ命令を与えることができる。10分が経過した後にまだ残っているスケルトンのミニオンは塵となって崩れ去る。</p>"
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ボーン・プロフェットは@Template[type:emanation|distance:30]以内にいる蛇、サーペントフォーク、あるいはそれに類する蛇のようなクリーチャーの死体をアニメートする。死体の肉はすべて剥がれ落ち、それらはスケルトンとして立ち上がる。ボーン・プロフェットは1体の大型クリーチャーをスケルトン・ジャイアントとして、あるいは最大3体の中型クリーチャーをスケルトン・チャンピオンとして蘇らせることができる。死体が所持していたものによって、装備品や攻撃は異なる場合がある。</p>\n<p>これらのスケルトンはミニオンのトレイトを持ち、ボーン・プロフェットの支配下にある。ボーン・プロフェットは精神集中トレイトを持つ1回のアクションで、これらすべてのミニオンに同じ命令を与えることができる。10分が経過した後にまだ残っているスケルトンのミニオンは塵となって崩れ去る。</p>"
     },
     "Z9o0w0dnDFg7Nxqg": {
       "name": "スニーク・アタック",
@@ -1625,11 +1625,11 @@
     },
     "6ua72XUFQZVIkpXd": {
       "name": "カリキュレイテッド・スプラッシュ/Calculated Splash",
-      "description": "<p>タンチが爆発特性を持つ爆弾を投擲した際、それは彼の【知力】修正値に等しい爆発ダメージを与える。</p>"
+      "description": "<p>タンチが爆発トレイトを持つ爆弾を投擲した際、それは彼の【知力】修正値に等しい爆発ダメージを与える。</p>"
     },
     "Calculated Splash": {
       "name": "カリキュレイテッド・スプラッシュ",
-      "description": "<p>タンチが爆発特性を持つ爆弾を投擲した際、それは彼の【知力】修正値に等しい爆発ダメージを与える。</p>"
+      "description": "<p>タンチが爆発トレイトを持つ爆弾を投擲した際、それは彼の【知力】修正値に等しい爆発ダメージを与える。</p>"
     },
     "JRw4yyJi23UZoHax": {
       "name": "注意を逸らす口笛/Distracting Whistle",
@@ -1758,7 +1758,7 @@
     },
     "Shock Mind": {
       "name": "ショック・マインド/Shock Mind",
-      "description": "<p>グライオス・カルティストはヴォイドグラス製の武器で〈ストライク〉を行う。</p>\n<p>その〈ストライク〉が命中した場合、追加で@Damage[2d6[mental]]ダメージを与え、対象は@Check[type:will|dc:20|traits:incapacitation]セーヴ(これは無力化の特性を持つ)に成功しなければならない。失敗すると@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドの間なる。</p>"
+      "description": "<p>グライオス・カルティストはヴォイドグラス製の武器で〈ストライク〉を行う。</p>\n<p>その〈ストライク〉が命中した場合、追加で@Damage[2d6[mental]]ダメージを与え、対象は@Check[type:will|dc:20|traits:incapacitation]セーヴ(これは無力化のトレイトを持つ)に成功しなければならない。失敗すると@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドの間なる。</p>"
     },
     "YuejnaqH1UUSFEtm": {
       "name": "オカルト即興呪文/Occult Spontaneous Spells"
@@ -1962,7 +1962,7 @@
     },
     "vGTPPE8IbwvNQkbd": {
       "name": "ショック・マインド",
-      "description": "<p>グライオス・カルティストはヴォイドグラス製の武器で〈ストライク〉を行う。</p>\n<p>その〈ストライク〉が命中した場合、追加で@Damage[2d6[mental]]ダメージを与え、対象は@Check[type:will|dc:20|traits:incapacitation]セーヴ(これは無力化の特性を持つ)に成功しなければならない。失敗すると@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドの間なる。</p>"
+      "description": "<p>グライオス・カルティストはヴォイドグラス製の武器で〈ストライク〉を行う。</p>\n<p>その〈ストライク〉が命中した場合、追加で@Damage[2d6[mental]]ダメージを与え、対象は@Check[type:will|dc:20|traits:incapacitation]セーヴ(これは無力化のトレイトを持つ)に成功しなければならない。失敗すると@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドの間なる。</p>"
     },
     "HPQNAkjNVVXiK85j": {
       "name": "ディバイン準備呪文"
@@ -2578,11 +2578,11 @@
     },
     "EZC0vt7I7K0Cu0Vy": {
       "name": "呪われた炎を呼び寄せる口笛/Whistle Up Cursed Flames",
-      "description": "<p>ミナルグルは甲高い鋭い音で口笛を吹き、同時に火炎と悪臭を放つ煙の噴流を吐き出す。@Template[type:cone|distance:15]内にいるすべてのクリーチャーは、@Check[type:reflex|dc:24]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d6[fire]]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[6d6[fire]]ダメージを受け、火傷の苦痛により@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d6[fire]]ダメージを受け、呪われる。火炎による火傷は残り、焦げた肉は水ぶくれのままとなる。呪われたクリーチャーは、絶え間ない痛みにより、すべてのチェックに－1の状況ペナルティを受ける。治癒は火傷の外見を変えることもペナルティを軽減することもできないが、呪いを取り除けばペナルティはなくなる。</p>"
+      "description": "<p>ミナルグルは甲高い鋭い音で口笛を吹き、同時に火炎と悪臭を放つ煙の噴流を吐き出す。@Template[type:cone|distance:15]内にいるすべてのクリーチャーは、@Check[type:reflex|dc:24]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d6[fire]]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[6d6[fire]]ダメージを受け、火傷の苦痛により@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d6[fire]]ダメージを受け、呪われる。火炎による火傷は残り、焦げた肉は水ぶくれのままとなる。呪われたクリーチャーは、絶え間ない痛みにより、すべての判定に－1の状況ペナルティを受ける。治癒は火傷の外見を変えることもペナルティを軽減することもできないが、呪いを取り除けばペナルティはなくなる。</p>"
     },
     "Whistle Up Cursed Flames": {
       "name": "呪われた炎を呼び寄せる口笛",
-      "description": "<p>ミナルグルは甲高い鋭い音で口笛を吹き、同時に火炎と悪臭を放つ煙の噴流を吐き出す。@Template[type:cone|distance:15]内にいるすべてのクリーチャーは、@Check[type:reflex|dc:24]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d6[fire]]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[6d6[fire]]ダメージを受け、火傷の苦痛により@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d6[fire]]ダメージを受け、呪われる。火炎による火傷は残り、焦げた肉は水ぶくれのままとなる。呪われたクリーチャーは、絶え間ない痛みにより、すべてのチェックに－1の状況ペナルティを受ける。治癒は火傷の外見を変えることもペナルティを軽減することもできないが、呪いを取り除けばペナルティはなくなる。</p>"
+      "description": "<p>ミナルグルは甲高い鋭い音で口笛を吹き、同時に火炎と悪臭を放つ煙の噴流を吐き出す。@Template[type:cone|distance:15]内にいるすべてのクリーチャーは、@Check[type:reflex|dc:24]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d6[fire]]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[6d6[fire]]ダメージを受け、火傷の苦痛により@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d6[fire]]ダメージを受け、呪われる。火炎による火傷は残り、焦げた肉は水ぶくれのままとなる。呪われたクリーチャーは、絶え間ない痛みにより、すべての判定に－1の状況ペナルティを受ける。治癒は火傷の外見を変えることもペナルティを軽減することもできないが、呪いを取り除けばペナルティはなくなる。</p>"
     },
     "lSaBid4nIDRHfUAh": {
       "name": "ドッグスライサー"
@@ -2679,11 +2679,11 @@
     },
     "zqXzm6YAzfHGm8sq": {
       "name": "ゴブリン・ソング/Goblin Song",
-      "description": "<p>ウォー・チャンターは耳障りなゴブリンの歌を歌い、馬鹿げた繰り返しの歌詞で敵の気を散らす。チャンターは@Template[type:emanation|distance:30]{30フィート}以内にいる最大2体の敵の意志DCに対して、@Check[type:performance|traits:auditory,concentrate,linguistic] 判定を行う。これには《芸能》 判定の通常の特性と制限が適用される。</p>\n<hr />\n<p><strong>クリティカル成功</strong> その対象は1分の間、《知覚》判定と意志セーヴに-1の状況ペナルティを受ける。 @UUID[Compendium.pf2e.feat-effects.Item.bIRIS6mnynr72RDw]{効果: ゴブリン・ソング (クリティカル成功)}</p>\n<p><strong>成功</strong> 大成功と同様だが、対象が影響を受けるのは1 ラウンドのみである。 @UUID[Compendium.pf2e.feat-effects.Item.5veOBmMYQxywTudd]{効果: ゴブリン・ソング (成功)}</p>\n<p><strong>クリティカル失敗</strong> その対象は1時間の間、ゴブリン・ソングに対して一時的な免疫となる。</p>"
+      "description": "<p>ウォー・チャンターは耳障りなゴブリンの歌を歌い、馬鹿げた繰り返しの歌詞で敵の気を散らす。チャンターは@Template[type:emanation|distance:30]{30フィート}以内にいる最大2体の敵の意志DCに対して、@Check[type:performance|traits:auditory,concentrate,linguistic] 判定を行う。これには《芸能》 判定の通常のトレイトと制限が適用される。</p>\n<hr />\n<p><strong>クリティカル成功</strong> その対象は1分の間、《知覚》判定と意志セーヴに-1の状況ペナルティを受ける。 @UUID[Compendium.pf2e.feat-effects.Item.bIRIS6mnynr72RDw]{効果: ゴブリン・ソング (クリティカル成功)}</p>\n<p><strong>成功</strong> 大成功と同様だが、対象が影響を受けるのは1 ラウンドのみである。 @UUID[Compendium.pf2e.feat-effects.Item.5veOBmMYQxywTudd]{効果: ゴブリン・ソング (成功)}</p>\n<p><strong>クリティカル失敗</strong> その対象は1時間の間、ゴブリン・ソングに対して一時的な免疫となる。</p>"
     },
     "Goblin Song": {
       "name": "ゴブリン・ソング",
-      "description": "<p>ウォー・チャンターは耳障りなゴブリンの歌を歌い、馬鹿げた繰り返しの歌詞で敵の気を散らす。チャンターは@Template[type:emanation|distance:30]{30フィート}以内にいる最大2体の敵の意志DCに対して、@Check[type:performance|traits:auditory,concentrate,linguistic] 判定を行う。これには《芸能》 判定の通常の特性と制限が適用される。</p>\n<hr />\n<p><strong>クリティカル成功</strong> その対象は1分の間、《知覚》判定と意志セーヴに-1の状況ペナルティを受ける。 @UUID[Compendium.pf2e.feat-effects.Item.bIRIS6mnynr72RDw]{効果: ゴブリン・ソング (クリティカル成功)}</p>\n<p><strong>成功</strong> 大成功と同様だが、対象が影響を受けるのは1 ラウンドのみである。 @UUID[Compendium.pf2e.feat-effects.Item.5veOBmMYQxywTudd]{効果: ゴブリン・ソング (成功)}</p>\n<p><strong>クリティカル失敗</strong> その対象は1時間の間、ゴブリン・ソングに対して一時的な免疫となる。</p>"
+      "description": "<p>ウォー・チャンターは耳障りなゴブリンの歌を歌い、馬鹿げた繰り返しの歌詞で敵の気を散らす。チャンターは@Template[type:emanation|distance:30]{30フィート}以内にいる最大2体の敵の意志DCに対して、@Check[type:performance|traits:auditory,concentrate,linguistic] 判定を行う。これには《芸能》 判定の通常のトレイトと制限が適用される。</p>\n<hr />\n<p><strong>クリティカル成功</strong> その対象は1分の間、《知覚》判定と意志セーヴに-1の状況ペナルティを受ける。 @UUID[Compendium.pf2e.feat-effects.Item.bIRIS6mnynr72RDw]{効果: ゴブリン・ソング (クリティカル成功)}</p>\n<p><strong>成功</strong> 大成功と同様だが、対象が影響を受けるのは1 ラウンドのみである。 @UUID[Compendium.pf2e.feat-effects.Item.5veOBmMYQxywTudd]{効果: ゴブリン・ソング (成功)}</p>\n<p><strong>クリティカル失敗</strong> その対象は1時間の間、ゴブリン・ソングに対して一時的な免疫となる。</p>"
     },
     "X6SY2vedf1w4NFyM": {
       "name": "牙"
@@ -2801,11 +2801,11 @@
     },
     "mS3DC54HONPgp9Pg": {
       "name": "サンライト・ヴァルネラビリティ/Sunlight Vulnerability",
-      "description": "<p>直射日光にさらされた場合、ボダックは〈即死〉の特性を持つアクションを使用できず、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となる。ボダックが日光の下で自身のターンを終了するたびに、この減速の値は1増加する。この方法でボダックがすべてのアクションを失った場合、それは破壊される。</p>"
+      "description": "<p>直射日光にさらされた場合、ボダックは〈即死〉のトレイトを持つアクションを使用できず、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となる。ボダックが日光の下で自身のターンを終了するたびに、この減速の値は1増加する。この方法でボダックがすべてのアクションを失った場合、それは破壊される。</p>"
     },
     "Sunlight Vulnerability": {
       "name": "サンライト・ヴァルネラビリティ",
-      "description": "<p>直射日光にさらされた場合、ボダックは〈即死〉の特性を持つアクションを使用できず、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となる。ボダックが日光の下で自身のターンを終了するたびに、この減速の値は1増加する。この方法でボダックがすべてのアクションを失った場合、それは破壊される。</p>"
+      "description": "<p>直射日光にさらされた場合、ボダックは〈即死〉のトレイトを持つアクションを使用できず、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となる。ボダックが日光の下で自身のターンを終了するたびに、この減速の値は1増加する。この方法でボダックがすべてのアクションを失った場合、それは破壊される。</p>"
     },
     "o4uNCohL2RA2ShrG": {
       "name": "ヴォイド・ヒーリング"
@@ -3539,11 +3539,11 @@
     },
     "pHckdhGspQesS1nl": {
       "name": "ラビッジ/Ravage",
-      "description": "<p>そのインテレクト・ディヴァウラーは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャーに対して、自身の最も高い攻撃修正値と同じ攻撃修正値を用いて2回のタロン・ストライクを行う。</p>\n<p>これらのストライクは〈即死〉の特性を得る。もしRavageが対象を殺害したなら、そのインテレクト・ディヴァウラーはそれに対してフリー・アクションとしてBody Thiefを使用できる。</p>"
+      "description": "<p>そのインテレクト・ディヴァウラーは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャーに対して、自身の最も高い攻撃修正値と同じ攻撃修正値を用いて2回のタロン・ストライクを行う。</p>\n<p>これらのストライクは〈即死〉のトレイトを得る。もしRavageが対象を殺害したなら、そのインテレクト・ディヴァウラーはそれに対してフリー・アクションとしてBody Thiefを使用できる。</p>"
     },
     "Ravage": {
       "name": "ラヴィッジ",
-      "description": "<p>そのインテレクト・ディヴァウラーは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャーに対して、自身の最も高い攻撃修正値と同じ攻撃修正値を用いて2回のタロン・ストライクを行う。</p>\n<p>これらのストライクは〈即死〉の特性を得る。もしRavageが対象を殺害したなら、そのインテレクト・ディヴァウラーはそれに対してフリー・アクションとしてBody Thiefを使用できる。</p>"
+      "description": "<p>そのインテレクト・ディヴァウラーは、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャーに対して、自身の最も高い攻撃修正値と同じ攻撃修正値を用いて2回のタロン・ストライクを行う。</p>\n<p>これらのストライクは〈即死〉のトレイトを得る。もしRavageが対象を殺害したなら、そのインテレクト・ディヴァウラーはそれに対してフリー・アクションとしてBody Thiefを使用できる。</p>"
     },
     "wHsOiFn1P7QcaaJ2": {
       "name": "ストールン・アイデンティティ/Stolen Identity",
@@ -3806,11 +3806,11 @@
     },
     "Jyzm7OFRyidSiJk0": {
       "name": "スポア・ドミネーション/Spore Domination",
-      "description": "<p>マイセロイドは60フィート以内にいるパープル・ポックスの影響を受けているクリーチャー1体を対象とする。そのクリーチャーは@Check[type:will|dc:22]セーヴを行わなければならない。</p>\n<p>その後、そのクリーチャーは10分の間、胞子支配に対して一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は次のターンの終了時まで、マイセロイドに対して@UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{協力的}となり、マイセロイドに対して敵対行動をとることができない。</p>\n<p><strong>失敗</strong>成功と同様だが、1分の間持続する。</p>\n<p><strong>クリティカル失敗</strong>成功と同様だが、パープル・ポックスが治癒するまで持続する。</p>"
+      "description": "<p>マイセロイドは60フィート以内にいるパープル・ポックスの影響を受けているクリーチャー1体を対象とする。そのクリーチャーは@Check[type:will|dc:22]セーヴを行わなければならない。</p>\n<p>その後、そのクリーチャーは10分の間、胞子支配に対して一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は次のターンの終了時まで、マイセロイドに対して@UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{協力的}となり、マイセロイドに対して敵対アクションをとることができない。</p>\n<p><strong>失敗</strong>成功と同様だが、1分の間持続する。</p>\n<p><strong>クリティカル失敗</strong>成功と同様だが、パープル・ポックスが治癒するまで持続する。</p>"
     },
     "Spore Domination": {
       "name": "スポア・ドミネーション",
-      "description": "<p>マイセロイドは、60フィート以内にいる紫斑病に感染したクリーチャー1体を対象とする。そのクリーチャーは@Check[type:will|dc:22]セーヴを試みなければならない。</p>\n<p>その後、10分間は胞子支配に対して一時的な完全耐性を得る。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は次のターンの終了時まで、マイセロイドに対して@UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{協力的}になり、マイセロイドに対して敵対的な行動を取れなくなる。</p>\n<p><strong>失敗</strong> 成功と同じだが、1分間続く。</p>\n<p><strong>クリティカル失敗</strong> 成功と同じだが、紫斑病が治癒されるまで続く。</p>"
+      "description": "<p>マイセロイドは、60フィート以内にいる紫斑病に感染したクリーチャー1体を対象とする。そのクリーチャーは@Check[type:will|dc:22]セーヴを試みなければならない。</p>\n<p>その後、10分間は胞子支配に対して一時的な完全耐性を得る。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は次のターンの終了時まで、マイセロイドに対して@UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{協力的}になり、マイセロイドに対して敵対的なアクションを取れなくなる。</p>\n<p><strong>失敗</strong> 成功と同じだが、1分間続く。</p>\n<p><strong>クリティカル失敗</strong> 成功と同じだが、紫斑病が治癒されるまで続く。</p>"
     },
     "zrycs1fp75o2l8h0": {
       "name": "噛みつき"
@@ -3996,11 +3996,11 @@
     },
     "GvoKoHBt3t01OxuS": {
       "name": "汚物弱点/Filth Vulnerability",
-      "description": "<p>コロクサスは不潔なものや汚れとの接触を嫌悪する。手に持った少量の汚れは、投擲5フィートの特性を持つ〈ストライク〉としてコロクサスに対して使用することができ、命中すると@Damage[2d6[mental]]ダメージを与える。コロクサスを強制的に汚れの中に転落させるか、汚れに浸すことは、ラウンドごとに@Damage[6d6[mental]]ダメージを与える。</p>"
+      "description": "<p>コロクサスは不潔なものや汚れとの接触を嫌悪する。手に持った少量の汚れは、投擲5フィートのトレイトを持つ〈ストライク〉としてコロクサスに対して使用することができ、命中すると@Damage[2d6[mental]]ダメージを与える。コロクサスを強制的に汚れの中に転落させるか、汚れに浸すことは、ラウンドごとに@Damage[6d6[mental]]ダメージを与える。</p>"
     },
     "Filth Vulnerability": {
       "name": "汚物弱点",
-      "description": "<p>コロクサスは不潔なものや汚れとの接触を嫌悪する。手に持った少量の汚れは、投擲5フィートの特性を持つ〈ストライク〉としてコロクサスに対して使用することができ、命中すると@Damage[2d6[mental]]ダメージを与える。コロクサスを強制的に汚れの中に転落させるか、汚れに浸すことは、ラウンドごとに@Damage[6d6[mental]]ダメージを与える。</p>"
+      "description": "<p>コロクサスは不潔なものや汚れとの接触を嫌悪する。手に持った少量の汚れは、投擲5フィートのトレイトを持つ〈ストライク〉としてコロクサスに対して使用することができ、命中すると@Damage[2d6[mental]]ダメージを与える。コロクサスを強制的に汚れの中に転落させるか、汚れに浸すことは、ラウンドごとに@Damage[6d6[mental]]ダメージを与える。</p>"
     },
     "G8ZyBYyApK8QcRaL": {
       "name": "消失する言葉/Vanishing Words",
@@ -4180,11 +4180,11 @@
     },
     "SIGvsx61oNnyWzLT": {
       "name": "クリエイト・スポーン/Create Spawn",
-      "description": "<p>クリーチャーがファングス・タイラントの「マインド・ドレイニング・キス」によって0 HPに減少した後に死亡した場合、ファングス・タイラントは自身の菌類の物質の一部を犠牲者に分け与え、菌類の群生地の中で24時間の間「熟成」させることで、この犠牲者をスポア・スロールに変えることができる。この時間が経過すると、そのクリーチャーは蘇生するが、菌類(fungus)の特性を獲得し、スポア・スロールとなる。これはアンデッドが死の循環から取り除かれるのと同様の方法で、そのクリーチャーの魂が死後の世界へ進むことを妨げる。そのため、その循環を神聖視する人々(特にファラズマの崇拝者)は、スポア・スロールが生きているクリーチャーであるにもかかわらず、アンデッドと同等に邪悪なものと見なしている。新しいスポア・スロールがその創造主よりも低いレベルである場合、それは創造主の支配下にある。ファングス・タイラントが一度にあまりにも多くのスポア・スロールを支配している場合(GMの判断によって)、意志の強いスポア・スロールは@Check[type:will|dc:28]セーヴに成功することで自らを解放できる。通常、ファングス・タイラントは支配するには強力すぎる倒れた敵からスポア・スロールを作ることを避ける。なぜなら、彼らはそのような犠牲者が死後の世界から引きずり戻した者に対して抱くかもしれない復讐心を痛いほど理解しているからである。</p>"
+      "description": "<p>クリーチャーがファングス・タイラントの「マインド・ドレイニング・キス」によって0 HPに減少した後に死亡した場合、ファングス・タイラントは自身の菌類の物質の一部を犠牲者に分け与え、菌類の群生地の中で24時間の間「熟成」させることで、この犠牲者をスポア・スロールに変えることができる。この時間が経過すると、そのクリーチャーは蘇生するが、菌類(fungus)のトレイトを獲得し、スポア・スロールとなる。これはアンデッドが死の循環から取り除かれるのと同様の方法で、そのクリーチャーの魂が死後の世界へ進むことを妨げる。そのため、その循環を神聖視する人々(特にファラズマの崇拝者)は、スポア・スロールが生きているクリーチャーであるにもかかわらず、アンデッドと同等に邪悪なものと見なしている。新しいスポア・スロールがその創造主よりも低いレベルである場合、それは創造主の支配下にある。ファングス・タイラントが一度にあまりにも多くのスポア・スロールを支配している場合(GMの判断によって)、意志の強いスポア・スロールは@Check[type:will|dc:28]セーヴに成功することで自らを解放できる。通常、ファングス・タイラントは支配するには強力すぎる倒れた敵からスポア・スロールを作ることを避ける。なぜなら、彼らはそのような犠牲者が死後の世界から引きずり戻した者に対して抱くかもしれない復讐心を痛いほど理解しているからである。</p>"
     },
     "Create Spawn": {
       "name": "クリエイト・スポーン",
-      "description": "<p>クリーチャーがファングス・タイラントの「マインド・ドレイニング・キス」によって0 HPに減少した後に死亡した場合、ファングス・タイラントは自身の菌類の物質の一部を犠牲者に分け与え、菌類の群生地の中で24時間の間「熟成」させることで、この犠牲者をスポア・スロールに変えることができる。この時間が経過すると、そのクリーチャーは蘇生するが、菌類(fungus)の特性を獲得し、スポア・スロールとなる。これはアンデッドが死の循環から取り除かれるのと同様の方法で、そのクリーチャーの魂が死後の世界へ進むことを妨げる。そのため、その循環を神聖視する人々(特にファラズマの崇拝者)は、スポア・スロールが生きているクリーチャーであるにもかかわらず、アンデッドと同等に邪悪なものと見なしている。新しいスポア・スロールがその創造主よりも低いレベルである場合、それは創造主の支配下にある。ファングス・タイラントが一度にあまりにも多くのスポア・スロールを支配している場合(GMの判断によって)、意志の強いスポア・スロールは@Check[type:will|dc:28]セーヴに成功することで自らを解放できる。通常、ファングス・タイラントは支配するには強力すぎる倒れた敵からスポア・スロールを作ることを避ける。なぜなら、彼らはそのような犠牲者が死後の世界から引きずり戻した者に対して抱くかもしれない復讐心を痛いほど理解しているからである。</p>"
+      "description": "<p>クリーチャーがファングス・タイラントの「マインド・ドレイニング・キス」によって0 HPに減少した後に死亡した場合、ファングス・タイラントは自身の菌類の物質の一部を犠牲者に分け与え、菌類の群生地の中で24時間の間「熟成」させることで、この犠牲者をスポア・スロールに変えることができる。この時間が経過すると、そのクリーチャーは蘇生するが、菌類(fungus)のトレイトを獲得し、スポア・スロールとなる。これはアンデッドが死の循環から取り除かれるのと同様の方法で、そのクリーチャーの魂が死後の世界へ進むことを妨げる。そのため、その循環を神聖視する人々(特にファラズマの崇拝者)は、スポア・スロールが生きているクリーチャーであるにもかかわらず、アンデッドと同等に邪悪なものと見なしている。新しいスポア・スロールがその創造主よりも低いレベルである場合、それは創造主の支配下にある。ファングス・タイラントが一度にあまりにも多くのスポア・スロールを支配している場合(GMの判断によって)、意志の強いスポア・スロールは@Check[type:will|dc:28]セーヴに成功することで自らを解放できる。通常、ファングス・タイラントは支配するには強力すぎる倒れた敵からスポア・スロールを作ることを避ける。なぜなら、彼らはそのような犠牲者が死後の世界から引きずり戻した者に対して抱くかもしれない復讐心を痛いほど理解しているからである。</p>"
     },
     "zTUk285orSz8VuBR": {
       "name": "胞子嚢成長/Grow Sporepod",
@@ -4335,11 +4335,11 @@
     },
     "7tCu8SPq0TpF1lJX": {
       "name": "マインドフォッグ・オーラ/Mindfog Aura",
-      "description": "<p>20フィート。このオーラの中でターンを開始したクリーチャーは、@Check[type:will|dc:25]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドなる。成功した場合、そのクリーチャーは1分の間、一時的な免疫となる。ムノゴスは集中特性を持つ単一アクションとして、このオーラを抑制または起動できる。</p>"
+      "description": "<p>20フィート。このオーラの中でターンを開始したクリーチャーは、@Check[type:will|dc:25]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドなる。成功した場合、そのクリーチャーは1分の間、一時的な免疫となる。ムノゴスは集中トレイトを持つ単一アクションとして、このオーラを抑制または起動できる。</p>"
     },
     "Mindfog Aura": {
       "name": "マインドフォッグ・オーラ",
-      "description": "<p>20フィート。このオーラの中でターンを開始したクリーチャーは、@Check[type:will|dc:25]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドなる。成功した場合、そのクリーチャーは1分の間、一時的な免疫となる。ムノゴスは集中特性を持つ単一アクションとして、このオーラを抑制または起動できる。</p>"
+      "description": "<p>20フィート。このオーラの中でターンを開始したクリーチャーは、@Check[type:will|dc:25]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドなる。成功した場合、そのクリーチャーは1分の間、一時的な免疫となる。ムノゴスは集中トレイトを持つ単一アクションとして、このオーラを抑制または起動できる。</p>"
     },
     "tNfhf1JnOxOHfY86": {
       "name": "エンヴェノム・ウェポン/Envenom Weapon",
@@ -4607,13 +4607,13 @@
     },
     "vpR5QjmFFzavG1Rd": {
       "name": "アーケイン魔法のコレクション/Arcane Magic Collection",
-      "description": "<p>古代のサーシロンから収集され、リララルーによってここに集められ保管されている小さな図書室。サーシロンで書かれており、これらは調査や、秘術魔法のトピックに関する〈研究〉を援護するために使用でき、関連するあらゆる技能判定に+2のアイテム・ボーナスを与える。</p>",
+      "description": "<p>古代のサーシロンから収集され、リララルーによってここに集められ保管されている小さな図書室。サーシロンで書かれており、これらは調査や、秘術魔法のトピックに関する〈研究〉を援護するために使用でき、関連するあらゆるスキル判定に+2のアイテム・ボーナスを与える。</p>",
       "gmDescription": "<p>8人目のルーンロードについて@UUID[JournalEntry.pf2ap20012advent.JournalEntryPage.12researchingt00]{〈研究〉}するためにも使用できる。</p>",
       "unidentifiedName": "奇妙な物体"
     },
     "Arcane Magic Collection": {
       "name": "アーケイン魔法のコレクション",
-      "description": "<p>古代のサーシロンから収集され、リララルーによってここに集められ保管されている小さな図書室。サーシロンで書かれており、これらは調査や、秘術魔法のトピックに関する〈研究〉を援護するために使用でき、関連するあらゆる技能判定に+2のアイテム・ボーナスを与える。</p>",
+      "description": "<p>古代のサーシロンから収集され、リララルーによってここに集められ保管されている小さな図書室。サーシロンで書かれており、これらは調査や、秘術魔法のトピックに関する〈研究〉を援護するために使用でき、関連するあらゆるスキル判定に+2のアイテム・ボーナスを与える。</p>",
       "gmDescription": "<p>8人目のルーンロードについて@UUID[JournalEntry.pf2ap20012advent.JournalEntryPage.12researchingt00]{〈研究〉}するためにも使用できる。</p>",
       "unidentifiedName": "奇妙な物体"
     },
