@@ -93,7 +93,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "レジェンダリーインディセプション"
+          "value": "《欺瞞》のレジェンダリー"
         }
       ]
     },
@@ -172,7 +172,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みに《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -347,7 +347,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《隠密》の専門家"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -372,7 +372,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みに《交渉》"
+          "value": "《交渉》の訓練済み"
         }
       ]
     },
@@ -392,7 +392,7 @@
       "source": "Pathfinder Core Rulebook",
       "prerequisites": [
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         },
         {
           "value": "スネアクラフティング"
@@ -426,7 +426,7 @@
       "source": "Pathfinder #153: Life's Long Shadows",
       "prerequisites": [
         {
-          "value": "訓練済みの《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -502,7 +502,7 @@
           "value": "ベンチャー-ゴシップデディケーション"
         },
         {
-          "value": "《交渉》の達人"
+          "value": "《交渉》のマスター"
         }
       ]
     },
@@ -522,7 +522,7 @@
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
-          "value": "訓練済みにソサイエティ"
+          "value": "《社会》の訓練済み"
         }
       ]
     },
@@ -641,7 +641,7 @@
           "value": "グールデディケーション"
         },
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -664,7 +664,7 @@
           "value": "基本のバードスペルキャスティング"
         },
         {
-          "value": "《神秘学》の達人"
+          "value": "《神秘学》のマスター"
         }
       ]
     },
@@ -677,7 +677,7 @@
           "value": "ファンダンサーデディケーション"
         },
         {
-          "value": "《芸能》の専門家"
+          "value": "《芸能》のエキスパート"
         }
       ]
     },
@@ -779,10 +779,10 @@
       "source": "Pathfinder #156: The Apocalypse Prophet",
       "prerequisites": [
         {
-          "value": "《盗賊術》における伝説的な"
+          "value": "《盗賊術》のレジェンダリー"
         },
         {
-          "value": "《秘術》, 《自然》, 《神秘学》または《宗教》の達人"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》のマスター"
         }
       ]
     },
@@ -996,7 +996,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "メディスンの達人"
+          "value": "《医術》のマスター"
         }
       ]
     },
@@ -1041,10 +1041,10 @@
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
-          "value": "《隠密》の達人"
+          "value": "《隠密》のマスター"
         },
         {
-          "value": "《芸能》の専門家"
+          "value": "《芸能》のエキスパート"
         }
       ]
     },
@@ -1135,7 +1135,7 @@
           "value": "ラズミランの神官デディケーション"
         },
         {
-          "value": "伝説的な《製作》"
+          "value": "《製作》のレジェンダリー"
         }
       ]
     },
@@ -1393,7 +1393,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -1557,7 +1557,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《交渉》"
+          "value": "《交渉》の訓練済み"
         },
         {
           "value": "治療状態"
@@ -1610,7 +1610,7 @@
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済みの《宗教》"
+          "value": "《宗教》の訓練済み"
         },
         {
           "value": "任意の善の属性"
@@ -1640,7 +1640,7 @@
           "value": "ダンディデディケーション"
         },
         {
-          "value": "《威圧》のマスター"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -1699,7 +1699,7 @@
           "value": "エキスパートドルイドスペルキャスティング"
         },
         {
-          "value": "《自然》における伝説的"
+          "value": "《自然》のレジェンダリー"
         }
       ]
     },
@@ -1724,7 +1724,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《神秘学》"
+          "value": "《神秘学》の訓練済み"
         }
       ]
     },
@@ -1793,7 +1793,7 @@
       "source": "Pathfinder Core Rulebook",
       "prerequisites": [
         {
-          "value": "《製作》における達人"
+          "value": "《製作》のマスター"
         },
         {
           "value": "スネアスペシャリスト"
@@ -2073,7 +2073,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《運動》における達人"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -2133,7 +2133,7 @@
       "source": "Pathfinder #151: The Show Must Go On",
       "prerequisites": [
         {
-          "value": "《芸能》における伝説的"
+          "value": "《芸能》のレジェンダリー"
         },
         {
           "value": "ジャグラーデディケーション"
@@ -2218,7 +2218,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《隠密》における達人"
+          "value": "《隠密》のマスター"
         }
       ]
     },
@@ -2317,7 +2317,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "マスターに《秘術》、 《自然》、 《神秘学》または《宗教》"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》のマスター"
         },
         {
           "value": "呪文を認識する"
@@ -2333,7 +2333,7 @@
           "value": "クロスボウ・インフィルトレーターデディケーション"
         },
         {
-          "value": "《隠密》の専門家"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -2363,7 +2363,7 @@
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
-          "value": "訓練済みに《交渉》とソサイエティ"
+          "value": "《交渉》と《社会》の訓練済み"
         }
       ]
     },
@@ -2658,7 +2658,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -2712,7 +2712,7 @@
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -2737,7 +2737,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《軽業》"
+          "value": "《軽業》の訓練済み"
         }
       ]
     },
@@ -2747,7 +2747,7 @@
       "source": "Pathfinder Wake the Dead #4",
       "prerequisites": [
         {
-          "value": "訓練済みの《宗教》"
+          "value": "《宗教》の訓練済み"
         }
       ]
     },
@@ -2785,7 +2785,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -2811,7 +2811,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -2981,7 +2981,7 @@
           "value": "トワイライト・タロンデディケーション"
         },
         {
-          "value": "《欺瞞》のマスター"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -3011,7 +3011,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済みに《欺瞞》と《隠密》"
+          "value": "《欺瞞》と《隠密》の訓練済み"
         }
       ]
     },
@@ -3219,7 +3219,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "メディスンのエキスパート"
+          "value": "《医術》のエキスパート"
         }
       ]
     },
@@ -3274,7 +3274,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《芸能》における伝説的"
+          "value": "《芸能》のレジェンダリー"
         },
         {
           "value": "壮麗なパフォーマー"
@@ -3566,7 +3566,7 @@
           "value": "ゼファーガードデディケーション"
         },
         {
-          "value": "訓練済みの《威圧》"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -3649,7 +3649,7 @@
       "source": "Pathfinder Adventure: Prey for Death",
       "prerequisites": [
         {
-          "value": "《宗教》の伝説"
+          "value": "《宗教》のレジェンダリー"
         },
         {
           "value": "エキスパートレッド・マンティスの魔法"
@@ -3675,7 +3675,7 @@
           "value": "キャバリアデディケーション"
         },
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -3725,7 +3725,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《交渉》"
+          "value": "《交渉》の訓練済み"
         }
       ]
     },
@@ -3756,7 +3756,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《製作》"
+          "value": "《製作》の訓練済み"
         },
         {
           "value": "スネアクラフティング"
@@ -3876,7 +3876,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《交渉》"
+          "value": "《交渉》の訓練済み"
         }
       ]
     },
@@ -3926,7 +3926,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -3971,7 +3971,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -4103,7 +4103,7 @@
     },
     "Witch's Charge": {
       "name": "ウィッチズ・チャージ/Witch's Charge",
-      "description": "<p>あなたは他のクリーチャーと魔法のリンクを築き、そのクリーチャーの状態を認識し、呪文を唱えるための導管を作る。あなたの日課の準備中に、あなたは1つの同意するクリーチャーをあなたのチャージに指定することができる。あなたは常にあなたのチャージの方向、距離、及び影響を与える条件を認識している。さらに、あなたは30フィートの範囲からチャージに対して接触の範囲の呪文を唱えることができる。これらの効果は次の日課の準備まで持続する。</p>\n<hr />\n<p><strong>特殊</strong>この特技は、あなたが唱える呪文の系統(アルカナ、神聖、オカルト、または原初)のトレイトに対応している。</p>",
+      "description": "<p>あなたは他のクリーチャーと魔法のリンクを築き、そのクリーチャーの状態を認識し、呪文を唱えるための導管を作る。あなたの日課の準備中に、あなたは1つの同意するクリーチャーをあなたのチャージに指定することができる。あなたは常にあなたのチャージの方向、距離、及び影響を与える条件を認識している。さらに、あなたは30フィートの範囲からチャージに対して接触の範囲の呪文を唱えることができる。これらの効果は次の日課の準備まで持続する。</p>\n<hr />\n<p><strong>特殊</strong>この特技は、あなたが唱える呪文の系統（アーケイン、ディバイン、オカルト、またはプライマル）のトレイトに対応している。</p>",
       "source": "Pathfinder Player Core"
     },
     "Myth of Quick-Thinking": {
@@ -4182,10 +4182,10 @@
       "source": "Pathfinder #170: Spoken on the Song Wind",
       "prerequisites": [
         {
-          "value": "訓練済みに《芸能》"
+          "value": "《芸能》の訓練済み"
         },
         {
-          "value": "訓練済みにソサイエティ"
+          "value": "《社会》の訓練済み"
         }
       ]
     },
@@ -4245,7 +4245,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みに《自然》"
+          "value": "《自然》の訓練済み"
         },
         {
           "value": "ナチュラルメディスン"
@@ -4258,7 +4258,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "_《自然》のマスター"
+          "value": "《自然》のマスター"
         },
         {
           "value": "モンスター・ハンター"
@@ -4307,7 +4307,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みに《盗賊術》"
+          "value": "《盗賊術》の訓練済み"
         }
       ]
     },
@@ -4340,7 +4340,7 @@
           "value": "ナイト・ヴィジラントデディケーション"
         },
         {
-          "value": "伝説的な《宗教》"
+          "value": "《宗教》のレジェンダリー"
         }
       ]
     },
@@ -4480,7 +4480,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《軽業》の専門家"
+          "value": "《軽業》のエキスパート"
         }
       ]
     },
@@ -4528,7 +4528,7 @@
           "value": "リッチデディケーション"
         },
         {
-          "value": "_《威圧》のマスター"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -4631,7 +4631,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《隠密》の専門家"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -4641,7 +4641,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みに《交渉》"
+          "value": "《交渉》の訓練済み"
         }
       ]
     },
@@ -4651,7 +4651,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みに《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -4737,7 +4737,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みに《自然》またはソサイエティ"
+          "value": "《自然》または《社会》の訓練済み"
         }
       ]
     },
@@ -4797,10 +4797,10 @@
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
-          "value": "訓練済みに《威圧》"
+          "value": "《威圧》の訓練済み"
         },
         {
-          "value": "訓練済みに《秘術》, 《自然》, 《神秘学》、または《宗教》"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -4947,7 +4947,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《軽業》の専門家"
+          "value": "《軽業》のエキスパート"
         }
       ]
     },
@@ -4967,7 +4967,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みに《軽業》または《運動》"
+          "value": "《軽業》または《運動》の訓練済み"
         }
       ]
     },
@@ -5093,7 +5093,7 @@
           "value": "少なくとも一つの死霊術の呪文を唱えることができる"
         },
         {
-          "value": "《宗教》の専門家"
+          "value": "《宗教》のエキスパート"
         }
       ]
     },
@@ -5106,7 +5106,7 @@
           "value": "アクロバットデディケーション"
         },
         {
-          "value": "マスターに《軽業》"
+          "value": "《軽業》のマスター"
         }
       ]
     },
@@ -5154,7 +5154,7 @@
           "value": "パスファインダー・エージェントデディケーション"
         },
         {
-          "value": "訓練済みに《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -5339,7 +5339,7 @@
       "source": "Pathfinder Lost Omens Legends",
       "prerequisites": [
         {
-          "value": "訓練済み inメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -5511,7 +5511,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済み in《神秘学》"
+          "value": "《神秘学》の訓練済み"
         }
       ]
     },
@@ -5521,7 +5521,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《交渉》"
+          "value": "《交渉》の訓練済み"
         }
       ]
     },
@@ -5546,7 +5546,7 @@
       "source": "Pathfinder Lost Omens Highhelm",
       "prerequisites": [
         {
-          "value": "訓練済み軽装甲で"
+          "value": "軽装鎧の訓練済み"
         }
       ]
     },
@@ -5564,7 +5564,7 @@
           "value": "訓練済みで弓または火器グループの少なくとも1種類の武器を扱う"
         },
         {
-          "value": "訓練済み in《隠密》"
+          "value": "《隠密》の訓練済み"
         }
       ]
     },
@@ -5592,7 +5592,7 @@
           "value": "ナイト・ヴィジラントデディケーション"
         },
         {
-          "value": "宗教の専門家"
+          "value": "《宗教》のエキスパート"
         },
         {
           "value": "癒しを授ける神聖なfontを持つ神格を信仰する"
@@ -5608,7 +5608,7 @@
           "value": "カバリアーデディケーション"
         },
         {
-          "value": "《威圧》の専門家"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -5621,7 +5621,7 @@
           "value": "スリピット出場者デディケーション"
         },
         {
-          "value": "《運動》の達人"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -5679,7 +5679,7 @@
       "source": "Pathfinder Adventure: Prey for Death",
       "prerequisites": [
         {
-          "value": "訓練済み in《宗教》"
+          "value": "《宗教》の訓練済み"
         },
         {
           "value": "レッド・マンティスアサシンデディケーション"
@@ -5758,7 +5758,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《威圧》の専門家"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -5801,7 +5801,7 @@
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
-          "value": "《交渉》の達人"
+          "value": "《交渉》のマスター"
         },
         {
           "value": "ホブノッバ"
@@ -5893,7 +5893,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《欺瞞》の専門家"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -6059,7 +6059,7 @@
     },
     "Suli Amir": {
       "name": "スリ・アミール/Suli Amir",
-      "description": "<p>あなたは力強いジャーンアミールに接続された力を持っている。あなたは@UUID[Compendium.pf2e.spells-srd.Item.pkcOby5prOausy1k]{リード・オーメンズ}と4級の@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{インヴィジビリティ}を毎日1回、アルカナの固有呪文としてキャストできる。また、@UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{ディテクト・マジック}を意思のままでキャストでき、レベルの半分を四捨五入した呪文ランクに高位化される。</p>",
+      "description": "<p>あなたは力強いジャーンアミールに接続された力を持っている。あなたは@UUID[Compendium.pf2e.spells-srd.Item.pkcOby5prOausy1k]{リード・オーメンズ}と4級の@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{インヴィジビリティ}を毎日1回、アーケインの固有呪文としてキャストできる。また、@UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{ディテクト・マジック}を意思のままでキャストでき、レベルの半分を四捨五入した呪文ランクに高位化される。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Elf Atavism": {
@@ -6108,7 +6108,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《欺瞞》の専門家"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -6129,7 +6129,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -6152,7 +6152,7 @@
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
-          "value": "《軽業》の達人"
+          "value": "《軽業》のマスター"
         },
         {
           "value": "ゴーストデディケーション"
@@ -6207,7 +6207,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《盗賊術》の達人"
+          "value": "《盗賊術》のエキスパート"
         }
       ]
     },
@@ -6260,7 +6260,7 @@
           "value": "トラップスミスデディケーション"
         },
         {
-          "value": "《製作》の達人"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -6366,7 +6366,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -6454,7 +6454,7 @@
           "value": "モーラーデディケーション"
         },
         {
-          "value": "《運動》の達人"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -6515,7 +6515,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《軽業》と《欺瞞》の達人"
+          "value": "《軽業》と《欺瞞》のエキスパート"
         }
       ]
     },
@@ -6590,7 +6590,7 @@
       "source": "Pathfinder #175: Broken Tusk Moon",
       "prerequisites": [
         {
-          "value": "《自然》の達人"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -6715,7 +6715,7 @@
           "value": "アーティレリストデディケーション"
         },
         {
-          "value": "訓練済みのクラフト"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -6738,7 +6738,7 @@
           "value": "マーシャルデディケーション"
         },
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -6829,7 +6829,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《軽業》と《盗賊術》の達人"
+          "value": "《軽業》と《盗賊術》のエキスパート"
         }
       ]
     },
@@ -6845,7 +6845,7 @@
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
-          "value": "訓練済みの《秘術》, 《自然》, 《神秘学》、または《宗教》"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -6969,7 +6969,7 @@
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
-          "value": "あなたは《運動》の達人"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -7012,7 +7012,7 @@
           "value": "ヴァンパイアデディケーション"
         },
         {
-          "value": "訓練済みの《自然》"
+          "value": "《自然》の訓練済み"
         }
       ]
     },
@@ -7037,7 +7037,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "あなたはメディスンの専門家"
+          "value": "《医術》のエキスパート"
         }
       ]
     },
@@ -7123,7 +7123,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "あなたは《製作》の専門家"
+          "value": "《製作》のマスター"
         },
         {
           "value": "スネアクラフティング"
@@ -7235,7 +7235,7 @@
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるメディスン"
+          "value": "《医術》の訓練済み"
         },
         {
           "value": "保持しているレピッドスタット大学"
@@ -7358,7 +7358,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -7393,7 +7393,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -7434,7 +7434,7 @@
     },
     "Ornate Tattoo": {
       "name": "オーネイト・タトゥー/Ornate Tattoo",
-      "description": "<p>あなたは魔法を増幅するためにタトゥーを拡張する。あなたのアーケインタトゥーと同じ学校から1レベルのアルカナ呪文を選ぶ。一般的な呪文でも、他にアクセスできる呪文でもかまわない。その呪文を1日1回、内在的なアルカナ呪文として唱えることができる。</p>",
+      "description": "<p>あなたは魔法を増幅するためにタトゥーを拡張する。あなたのアーケインタトゥーと同じ学校から1レベルのアーケイン呪文を選ぶ。一般的な呪文でも、他にアクセスできる呪文でもかまわない。その呪文を1日1回、内在的なアーケイン呪文として唱えることができる。</p>",
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
@@ -7451,10 +7451,10 @@
           "value": "ソードマスターデディケーション"
         },
         {
-          "value": "あなたは《運動》の専門家"
+          "value": "《運動》のエキスパート"
         },
         {
-          "value": "あなたは《軽業》の専門家"
+          "value": "《軽業》のエキスパート"
         }
       ]
     },
@@ -7481,7 +7481,7 @@
     },
     "Pinch Time": {
       "name": "ピンチ・タイム/Pinch Time",
-      "description": "<p>あなたの1人の親は人間の寿命を持ち、もう1人の親はエルフの寿命を持つ。そのため、あなたは時間に関して異常な視点を持ち、それを使ってあなた自身をストレスの瞬間に助けることを学んでいる。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.o6YCGx4lycsYpww4]{ヘイスト}を3レベルのアルカナ内在的呪文として得るが、ターゲットはあなた自身のみに限られる。この呪文を1日1回キャストできる。</p>",
+      "description": "<p>あなたの1人の親は人間の寿命を持ち、もう1人の親はエルフの寿命を持つ。そのため、あなたは時間に関して異常な視点を持ち、それを使ってあなた自身をストレスの瞬間に助けることを学んでいる。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.o6YCGx4lycsYpww4]{ヘイスト}を3レベルのアーケインの内在的呪文として得るが、ターゲットはあなた自身のみに限られる。この呪文を1日1回キャストできる。</p>",
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Improved Elemental Blast": {
@@ -7696,7 +7696,7 @@
           "value": "ソードマスターデディケーション"
         },
         {
-          "value": "メディスンの達人"
+          "value": "《医術》のマスター"
         }
       ]
     },
@@ -7726,7 +7726,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -7762,7 +7762,7 @@
           "value": "《威圧》の訓練済み"
         },
         {
-          "value": "〈意志〉のエキスパート"
+          "value": "意志セーヴのエキスパート"
         }
       ]
     },
@@ -7815,7 +7815,7 @@
           "value": "ゼファーガードデディケーション"
         },
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -8095,7 +8095,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《神秘学》の達人"
+          "value": "《神秘学》のマスター"
         }
       ]
     },
@@ -8108,7 +8108,7 @@
           "value": "スリピットコンテスタントデディケーション"
         },
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -8118,7 +8118,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "メディスンの専門家"
+          "value": "《医術》のエキスパート"
         }
       ]
     },
@@ -8181,7 +8181,7 @@
           "value": "モータル・ヘラルドデディケーション"
         },
         {
-          "value": "あなたは《威圧》の専門家である"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -8221,7 +8221,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "あなたは知覚の専門家である"
+          "value": "《知覚》のエキスパート"
         }
       ]
     },
@@ -8246,7 +8246,7 @@
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
         {
-          "value": "あなたは《隠密》の専門家である"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -8256,10 +8256,10 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《神秘学》"
+          "value": "《神秘学》の訓練済み"
         },
         {
-          "value": "あなたは《隠密》の専門家である"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -8299,7 +8299,7 @@
       "source": "Pathfinder Lost Omens Firebrands",
       "prerequisites": [
         {
-          "value": "あなたは《芸能》の専門家である"
+          "value": "《芸能》のエキスパート"
         }
       ]
     },
@@ -8441,7 +8441,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《交渉》における伝説的"
+          "value": "《交渉》のレジェンダリー"
         }
       ]
     },
@@ -8487,7 +8487,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -8560,7 +8560,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《自然》"
+          "value": "《自然》の訓練済み"
         }
       ]
     },
@@ -8575,7 +8575,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -8673,7 +8673,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -8726,7 +8726,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるソサイエティ"
+          "value": "《社会》の訓練済み"
         }
       ]
     },
@@ -8910,7 +8910,7 @@
           "value": "スクロールマスターデディケーション"
         },
         {
-          "value": "マスターは《秘術》, 《製作》, 《自然》, 《神秘学》, または《宗教》"
+          "value": "《秘術》、《製作》、《自然》、《神秘学》または《宗教》のマスター"
         }
       ]
     },
@@ -8923,7 +8923,7 @@
           "value": "ラズミランの神官デディケーション"
         },
         {
-          "value": "専門家は《製作》"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -9021,7 +9021,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "マスターは知覚"
+          "value": "《知覚》のマスター"
         }
       ]
     },
@@ -9076,7 +9076,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《軽業》"
+          "value": "《軽業》の訓練済み"
         }
       ]
     },
@@ -9222,7 +9222,7 @@
     },
     "Special Sentinel Technique": {
       "name": "スペシャル・センチネル・テクニック/Special Sentinel Technique",
-      "description": "<p>あなたはあなたの星座の力を独自の技術に注入することができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.1H3T9UwxW44Y0YaS]{ルミナス・スターダスト・ヒーリング}または@UUID[Compendium.pf2e.spells-srd.Item.yuhhRjqBzFgkKYrq]{シャイニング・スターライト・アタック}のいずれかのフォーカス呪文を得る。これはあなたがセントリーの形でのみ詠唱できる。あなたはこの特技を得るときに、技術の名前を決め、その名前が呪文の詠唱となる。</p>\n<p>あなたがまだ持っていない場合、あなたは1ポイントのフォーカスプールを得る。これは、10分を消費してああなたの星座の価値観を反映させるために、あなたのセントリーの形の外で 〔再フォーカス〕できる。星明かりのセントリーのフォーカス呪文は、アルカナ呪文である。あなたは呪文攻撃修正に訓練済み、呪文DCに魅力を得る。</p><hr /><p><strong>特別</strong>この特技を2回目に取得し、最初に得なかったフォーカス呪文を取得することができる。</p>",
+      "description": "<p>あなたはあなたの星座の力を独自の技術に注入することができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.1H3T9UwxW44Y0YaS]{ルミナス・スターダスト・ヒーリング}または@UUID[Compendium.pf2e.spells-srd.Item.yuhhRjqBzFgkKYrq]{シャイニング・スターライト・アタック}のいずれかのフォーカス呪文を得る。これはあなたがセントリーの形でのみ詠唱できる。あなたはこの特技を得るときに、技術の名前を決め、その名前が呪文の詠唱となる。</p>\n<p>あなたがまだ持っていない場合、あなたは1ポイントのフォーカスプールを得る。これは、10分を消費してああなたの星座の価値観を反映させるために、あなたのセントリーの形の外で 〔再フォーカス〕できる。星明かりのセントリーのフォーカス呪文は、アーケイン呪文である。あなたは呪文攻撃修正に訓練済み、呪文DCに魅力を得る。</p><hr /><p><strong>特別</strong>この特技を2回目に取得し、最初に得なかったフォーカス呪文を取得することができる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -9264,7 +9264,7 @@
           "value": "エキスパートマグススペルキャスティング"
         },
         {
-          "value": "伝説的な《秘術》"
+          "value": "《秘術》のレジェンダリー"
         }
       ]
     },
@@ -9309,7 +9309,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
-          "value": "専門家は《生存術》"
+          "value": "《生存術》のエキスパート"
         }
       ]
     },
@@ -9445,7 +9445,7 @@
           "value": "マインドスミスデディケーション"
         },
         {
-          "value": "専門家は《運動》"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -9522,7 +9522,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《威圧》の専門家"
+          "value": "《威圧》のエキスパート"
         },
         {
           "value": "驚異的な外見"
@@ -9553,7 +9553,7 @@
           "value": "マンモスの領主デディケーション"
         },
         {
-          "value": "エキスパートの《自然》"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -9656,7 +9656,7 @@
           "value": "オーバーウオッチデディケーション"
         },
         {
-          "value": "知覚の達人"
+          "value": "《知覚》のマスター"
         }
       ]
     },
@@ -9773,7 +9773,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《威圧》"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -9819,7 +9819,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
-          "value": "訓練済みのメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -9914,7 +9914,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -10095,7 +10095,7 @@
           "value": "予期せぬシャープシューターデディケーション"
         },
         {
-          "value": "訓練済みの《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -10131,7 +10131,7 @@
     },
     "Interfering Surge": {
       "name": "インターフェアリング・サージ/Interfering Surge",
-      "description": "<p><strong>トリガー</strong>あなたが見ることができるクリーチャーが呪文を唱える。</p>\n<p><strong>必要条件</strong>あなたは未使用の呪文スロットを持っており、引き金となる呪文の現れを見ている。</p><hr /><p>あなたは引き金となる呪文を魔法で過充電する。あなたは呪文スロットを消費し、消費したスロットのエネルギーを使用して引き金となる呪文を打ち消ししようとする。引き金となる呪文があなたのレパートリーにあり、消費した呪文スロットがそれを唱えるために十分なレベルであった場合、あなたはペナルティを受けない。そうでなければ、引き金となる呪文があなたが唱えたのと同じ魔法の系統を用いて唱えられた場合、あなたは打ち消し判定に-2のペナルティを受け、別の系統を用いて唱えられた場合、-5のペナルティを受ける。</p>\n<p>引き金となる呪文が成功裏に打消された場合、通常の打消しの効果に加えて、元の発動者からの源泉の急流が生じる。もし打消されなければ、あなたの消費した呪文スロットはあなたからの源泉の急流を生じる。</p><hr /><p><strong>特別</strong>この特技は、あなたが唱える呪文の系統に対応するトレイトを持つ(アルカナ、神聖、プリマル、またはオカルト)。</p>",
+      "description": "<p><strong>トリガー</strong>あなたが見ることができるクリーチャーが呪文を唱える。</p>\n<p><strong>必要条件</strong>あなたは未使用の呪文スロットを持っており、引き金となる呪文の現れを見ている。</p><hr /><p>あなたは引き金となる呪文を魔法で過充電する。あなたは呪文スロットを消費し、消費したスロットのエネルギーを使用して引き金となる呪文を打ち消ししようとする。引き金となる呪文があなたのレパートリーにあり、消費した呪文スロットがそれを唱えるために十分なレベルであった場合、あなたはペナルティを受けない。そうでなければ、引き金となる呪文があなたが唱えたのと同じ魔法の系統を用いて唱えられた場合、あなたは打ち消し判定に-2のペナルティを受け、別の系統を用いて唱えられた場合、-5のペナルティを受ける。</p>\n<p>引き金となる呪文が成功裏に打消された場合、通常の打消しの効果に加えて、元の発動者からの源泉の急流が生じる。もし打消されなければ、あなたの消費した呪文スロットはあなたからの源泉の急流を生じる。</p><hr /><p><strong>特別</strong>この特技は、あなたが唱える呪文の系統に対応するトレイトを持つ（アーケイン、ディバイン、プライマル、またはオカルト)。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
@@ -10236,7 +10236,7 @@
           "value": "敏捷性 +3"
         },
         {
-          "value": "訓練済みの《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -10259,7 +10259,7 @@
           "value": "ゴールデンリーグ・シュンデディケーション"
         },
         {
-          "value": "《隠密》の専門家"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -10315,7 +10315,7 @@
     },
     "Core Attunement": {
       "name": "コア・アチューンメント/Core Attunement",
-      "description": "<p>あなたのコアはより多くの力を引き出させる。アクセス可能な1ランクのアルカナ呪文1つと、2ランクまたはそれ以下のアルカナ呪文1つを選択する。あなたは選択した呪文を、毎日各1回アルカナの固有呪文として唱えることができる。</p>\n<p><strong>強化</strong>あなたの共鳴が強化される。アクセス可能な5ランク以下のアルカナ呪文1つと、6ランク以下のアルカナ呪文1つを選択する。あなたはそれらを、元の呪文に加えて、毎日各1回アルカナの固有呪文として唱えることができる。</p>",
+      "description": "<p>あなたのコアはより多くの力を引き出させる。アクセス可能な1ランクのアーケイン呪文1つと、2ランクまたはそれ以下のアーケイン呪文1つを選択する。あなたは選択した呪文を、毎日各1回アーケインの固有呪文として唱えることができる。</p>\n<p><strong>強化</strong>あなたの共鳴が強化される。アクセス可能な5ランク以下のアーケイン呪文1つと、6ランク以下のアーケイン呪文1つを選択する。あなたはそれらを、元の呪文に加えて、毎日各1回アーケインの固有呪文として唱えることができる。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -10392,7 +10392,7 @@
           "value": "達人のハンター"
         },
         {
-          "value": "知覚の伝説の"
+          "value": "《知覚》のレジェンダリー"
         },
         {
           "value": "ファーショット"
@@ -10413,7 +10413,7 @@
           "value": "言語学者デディケーション"
         },
         {
-          "value": "ソサイエティの専門家"
+          "value": "《社会》のエキスパート"
         }
       ]
     },
@@ -10436,7 +10436,7 @@
           "value": "ヘルブレイカーデディケーション"
         },
         {
-          "value": "訓練済みの《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -10496,7 +10496,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -10521,7 +10521,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "《運動》の専門家"
+          "value": "《運動》のエキスパート"
         },
         {
           "value": "友好的の軽い突き"
@@ -10585,7 +10585,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《盗賊術》"
+          "value": "《盗賊術》の訓練済み"
         }
       ]
     },
@@ -10605,7 +10605,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -10640,10 +10640,10 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済みの《威圧》"
+          "value": "《威圧》の訓練済み"
         },
         {
-          "value": "訓練済みの《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -10759,7 +10759,7 @@
     },
     "Counterclockwork Focus": {
       "name": "カウンタークロックワーク・フォーカス/Counterclockwork Focus",
-      "description": "<p> <strong>使用制限</strong>一回につきラウンド</p>\n<hr />\n<p>あなたは法律執行の教義が技術とアルカナの急速に変わる革新に適応する必要性を理解している。あなたの特殊武器および戦術の訓練は、歯車や魔法に関連する犯罪に対処するための異常な技術へのアクセスを提供する。あなたは弾薬に特殊な添加物を施す。ターンの終了前にその火器で次の〔ストライク〕を行うと、対象は構造物であれば追加で2d6のダメージを与え、弾薬を冷鉄またはアダマンティンのいずれかとして扱うことができる。18レベルになると、この追加ダメージは3d6に増加し、代わりに弾薬をオリハルコンとして扱うことができる。</p>",
+      "description": "<p> <strong>使用制限</strong>一回につきラウンド</p>\n<hr />\n<p>あなたは法律執行の教義が技術と秘術の急速に変わる革新に適応する必要性を理解している。あなたの特殊武器および戦術の訓練は、歯車や魔法に関連する犯罪に対処するための異常な技術へのアクセスを提供する。あなたは弾薬に特殊な添加物を施す。ターンの終了前にその火器で次の〔ストライク〕を行うと、対象は構造物であれば追加で2d6のダメージを与え、弾薬を冷鉄またはアダマンティンのいずれかとして扱うことができる。18レベルになると、この追加ダメージは3d6に増加し、代わりに弾薬をオリハルコンとして扱うことができる。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -10786,7 +10786,7 @@
           "value": "エキスパートクレリックスペルキャスティング"
         },
         {
-          "value": "伝説の《宗教》に"
+          "value": "《宗教》のレジェンダリー"
         }
       ]
     },
@@ -10819,7 +10819,7 @@
       "source": "Pathfinder Treasure Vault (Remastered)",
       "prerequisites": [
         {
-          "value": "マスターの《製作》"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -10839,7 +10839,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《交渉》"
+          "value": "《交渉》の訓練済み"
         }
       ]
     },
@@ -10872,7 +10872,7 @@
           "value": "ファミリア・セージデディケーション"
         },
         {
-          "value": "専門家の《神秘学》または《宗教》"
+          "value": "《神秘学》または《宗教》のエキスパート"
         }
       ]
     },
@@ -10972,7 +10972,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《隠密》"
+          "value": "《隠密》の訓練済み"
         }
       ]
     },
@@ -11013,7 +11013,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "マスターの《運動》"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -11273,7 +11273,7 @@
           "value": "ジオマンサーデディケーション"
         },
         {
-          "value": "《自然》に精通している"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -11283,7 +11283,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みのメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -11294,7 +11294,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "《製作》に精通している"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -11304,7 +11304,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《生存術》の達人"
+          "value": "《生存術》のマスター"
         }
       ]
     },
@@ -11327,7 +11327,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《秘術》"
+          "value": "《秘術》の訓練済み"
         }
       ]
     },
@@ -11377,7 +11377,7 @@
       "source": "Pathfinder Lost Omens Firebrands",
       "prerequisites": [
         {
-          "value": "《欺瞞》と《交渉》に精通している"
+          "value": "《欺瞞》と《交渉》のエキスパート"
         }
       ]
     },
@@ -11460,7 +11460,7 @@
           "value": "ヘブンスクライブのコボルドの血統"
         },
         {
-          "value": "《製作》に精通している"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -11478,7 +11478,7 @@
           "value": "アンダーシー・プライヴァティアデディケーション"
         },
         {
-          "value": "《隠密》の専門家"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -11560,7 +11560,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《宗教》"
+          "value": "《宗教》の訓練済み"
         },
         {
           "value": "特定の宗教の信者"
@@ -11605,7 +11605,7 @@
           "value": "ハーバリストデディケーション"
         },
         {
-          "value": "訓練済みの《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -11692,7 +11692,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《欺瞞》に精通している"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -11705,7 +11705,7 @@
           "value": "ゲリラデディケーション"
         },
         {
-          "value": "訓練済みの《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -11823,7 +11823,7 @@
       "source": "Pathfinder Adventure: The Fall of Plaguestone",
       "prerequisites": [
         {
-          "value": "《生存術》の専門家"
+          "value": "《生存術》のエキスパート"
         }
       ]
     },
@@ -11869,7 +11869,7 @@
           "value": "マーシャルデディケーション"
         },
         {
-          "value": "訓練済みの《交渉》"
+          "value": "《交渉》の訓練済み"
         }
       ]
     },
@@ -11902,7 +11902,7 @@
           "value": "エルタキまたはヨトゥン語言語"
         },
         {
-          "value": "訓練済みにおける《自然》"
+          "value": "《自然》の訓練済み"
         },
         {
           "value": "あなたはアーキタイプにあなたを導くサウメン・カーの信頼を得る必要がある。"
@@ -11994,7 +11994,7 @@
           "value": "モータル・ヘラルドデディケーション"
         },
         {
-          "value": "《隠密》の達人"
+          "value": "《隠密》のマスター"
         }
       ]
     },
@@ -12054,7 +12054,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
-          "value": "《威圧》の専門家"
+          "value": "《威圧》のエキスパート"
         },
         {
           "value": "オーク・ウォーマスク"
@@ -12100,7 +12100,7 @@
           "value": "基本レッド・マンティス魔法"
         },
         {
-          "value": "《宗教》の達人"
+          "value": "《宗教》のマスター"
         }
       ]
     },
@@ -12150,7 +12150,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -12185,7 +12185,7 @@
       "source": "Pathfinder Adventure Path: Hell's Destiny",
       "prerequisites": [
         {
-          "value": "《交渉》または《威圧》の専門家"
+          "value": "《交渉》または《威圧》のエキスパート"
         }
       ]
     },
@@ -12285,7 +12285,7 @@
           "value": "古代のオシリアニ語とスフィンクスの言語"
         },
         {
-          "value": "訓練済みの《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -12323,10 +12323,10 @@
           "value": "別人格デディケーション"
         },
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         },
         {
-          "value": "《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -12336,7 +12336,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《生存術》の専門家"
+          "value": "《生存術》のエキスパート"
         },
         {
           "value": "経験豊富な追跡者"
@@ -12432,7 +12432,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "メディスンの専門家"
+          "value": "《医術》のエキスパート"
         }
       ]
     },
@@ -12470,7 +12470,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《運動》の達人"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -12490,7 +12490,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -12591,7 +12591,7 @@
           "value": "呪文を唱えることができる"
         },
         {
-          "value": "訓練済みが《秘術》、《自然》、《神秘学》、または《宗教》において"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -12611,7 +12611,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《交渉》の専門家"
+          "value": "《交渉》のエキスパート"
         }
       ]
     },
@@ -12749,7 +12749,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
-          "value": "《芸能》の専門家"
+          "value": "《芸能》のエキスパート"
         }
       ]
     },
@@ -13133,7 +13133,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済み in《軽業》"
+          "value": "《軽業》の訓練済み"
         }
       ]
     },
@@ -13153,7 +13153,7 @@
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済み in《軽業》 or《運動》"
+          "value": "《軽業》または《運動》の訓練済み"
         },
         {
           "value": "ファイアブランド・ブラガートデディケーション"
@@ -13211,7 +13211,7 @@
       "source": "Pathfinder #175: Broken Tusk Moon",
       "prerequisites": [
         {
-          "value": "訓練済み in《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -13277,7 +13277,7 @@
           "value": "ウーズモーフデディケーション"
         },
         {
-          "value": "訓練済み in《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -13290,7 +13290,7 @@
           "value": "レピッドシュタットの外科医デディケーション"
         },
         {
-          "value": "マスター inメディスン"
+          "value": "《医術》のマスター"
         }
       ]
     },
@@ -13333,7 +13333,7 @@
           "value": "言語学者デディケーション"
         },
         {
-          "value": "マスター inソサイエティ"
+          "value": "《社会》のエキスパート"
         }
       ]
     },
@@ -13458,7 +13458,7 @@
           "value": "敏捷性 +2"
         },
         {
-          "value": "《軽業》の専門家"
+          "value": "《軽業》のエキスパート"
         },
         {
           "value": "呪文を使うことができる"
@@ -13576,7 +13576,7 @@
       "source": "Pathfinder Lost Omens Highhelm",
       "prerequisites": [
         {
-          "value": "訓練済みの《製作》と《威圧》"
+          "value": "《製作》と《威圧》の訓練済み"
         }
       ]
     },
@@ -13936,7 +13936,7 @@
           "value": "グレー・ガーデナーのメンバー"
         },
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         },
         {
           "value": "権威の声"
@@ -14209,7 +14209,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -14278,13 +14278,13 @@
           "value": "花火技師デディケーション"
         },
         {
-          "value": "専門家《製作》"
+          "value": "《製作》のマスター"
         }
       ]
     },
     "Counterspell (Spontaneous)": {
       "name": "カウンタースペル（スポンテニアス）/Counterspell (Spontaneous)",
-      "description": "<p> <strong>トリガー</strong>あるクリーチャーがあなたのレパートリーにある呪文を唱える。</p>\n<p> <strong>必要条件</strong>あなたはトリガーとなった呪文を唱えるための未使用の呪文スロットを持っている。</p>\n<hr />\n<p>敵があなたが知っている呪文を発動し、その具現化をあなたが見ることができる場合、あなたは自分の魔法を使ってそれに対抗できる。あなたは呪文スロットの1つを消費して、あなたのレパートリーにある呪文がトリガーとなったクリーチャーによって唱えられるのを対抗する。あなたはトリガーとなった呪文を唱えたかのように、呪文スロットを失う。その後、あなたはトリガーとなった呪文を打ち消しすることを試みる。</p>\n<p> <strong>特別</strong>この特技は、あなたが唱える呪文の系統(アルカナ、神聖、自然、またはオカルト)に対応するトレイトを持つ。</p>",
+      "description": "<p> <strong>トリガー</strong>あるクリーチャーがあなたのレパートリーにある呪文を唱える。</p>\n<p> <strong>必要条件</strong>あなたはトリガーとなった呪文を唱えるための未使用の呪文スロットを持っている。</p>\n<hr />\n<p>敵があなたが知っている呪文を発動し、その具現化をあなたが見ることができる場合、あなたは自分の魔法を使ってそれに対抗できる。あなたは呪文スロットの1つを消費して、あなたのレパートリーにある呪文がトリガーとなったクリーチャーによって唱えられるのを対抗する。あなたはトリガーとなった呪文を唱えたかのように、呪文スロットを失う。その後、あなたはトリガーとなった呪文を打ち消しすることを試みる。</p>\n<p> <strong>特別</strong>この特技は、あなたが唱える呪文の系統（アーケイン、ディバイン、プライマル、またはオカルト)に対応するトレイトを持つ。</p>",
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Shadowpiercing Charge": {
@@ -14479,7 +14479,7 @@
           "value": "ビジランテデディケーション"
         },
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -14575,7 +14575,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "専門家《威圧》と《隠密》"
+          "value": "《威圧》と《隠密》のエキスパート"
         }
       ]
     },
@@ -14690,7 +14690,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -14861,12 +14861,12 @@
     },
     "Apocalypse Rider Dedication": {
       "name": "アポカリプス・ライダー・デディケーション/Apocalypse Rider Dedication",
-      "description": "<p>夜の最も暗い時間に、恐ろしい馬が強大なデーモンの守護者からの贈り物として現れる。あなたはアポカリプス・マウントを得る。この馬は忠実で、あなたが死と破壊を広めるために働く限り、あなたの命令に従う。あなたのアポカリプス・マウントはムント特性を持つ成熟した動物の仲間のいずれでもなり得るが、明らかにデーモンの力によって接触されている。あなたのアポカリプス・マウントが機敏な動物の仲間か獰猛な動物の仲間のどちらであるかを選ぶ。遭遇中、あなたが〔動物に命令する〕アクションを使用しなくても、あなたのアポカリプス・マウントはあなたのターンに1アクションを使って〔ストライド〕または〔ストライク〕を行うことができる。</p>\n<p>あなたはアナセマ「あなたは死を欺く計画や自分の死を超えて持続するものを作る計画を放棄する。」を得る。このアナセマに違反した場合、このアルカナイプから付与された能力へのアクセスを失い、贖罪または和解をするまで戻ることができない。</p><hr /><p><strong>特別</strong>もしすでにムント特性を持つ動物の仲間を持っている場合、それはデーモンのエネルギーによってその形に注入され、あなたのアポカリプス・マウントになる。この場合、あなたの仲間の素手攻撃のうち1つはダイスサイズが1つ増加する。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.cSNtXyfkQ7g1KbL3]{Apocalypse Rider}</p>",
+      "description": "<p>夜の最も暗い時間に、恐ろしい馬が強大なデーモンの守護者からの贈り物として現れる。あなたはアポカリプス・マウントを得る。この馬は忠実で、あなたが死と破壊を広めるために働く限り、あなたの命令に従う。あなたのアポカリプス・マウントはムント特性を持つ成熟した動物の仲間のいずれでもなり得るが、明らかにデーモンの力によって接触されている。あなたのアポカリプス・マウントが機敏な動物の仲間か獰猛な動物の仲間のどちらであるかを選ぶ。遭遇中、あなたが〔動物に命令する〕アクションを使用しなくても、あなたのアポカリプス・マウントはあなたのターンに1アクションを使って〔ストライド〕または〔ストライク〕を行うことができる。</p>\n<p>あなたはアナセマ「あなたは死を欺く計画や自分の死を超えて持続するものを作る計画を放棄する。」を得る。このアナセマに違反した場合、このアーキタイプから付与された能力へのアクセスを失い、贖罪または和解をするまで戻ることができない。</p><hr /><p><strong>特別</strong>もしすでにムント特性を持つ動物の仲間を持っている場合、それはデーモンのエネルギーによってその形に注入され、あなたのアポカリプス・マウントになる。この場合、あなたの仲間の素手攻撃のうち1つはダイスサイズが1つ増加する。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.cSNtXyfkQ7g1KbL3]{Apocalypse Rider}</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Simple Crystal Magic": {
       "name": "シンプル・クリスタル・マジック/Simple Crystal Magic",
-      "description": "<p>あなたが日課の準備の一部として、少なくとも10gpの価値がある宝石の前で瞑想する限り、魔法を流れるルーンとして見ることができ、魔法の物体に関する情報を明らかにし、あなたを表す個人的なルーンを書くことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.OhD2Z6rIGGD5ocZA]{リード・オーラ}と@UUID[Compendium.pf2e.spells-srd.Item.AUctDF2fqPZN2w4W]{シジル}のカントリップを得る。これらのカントリップは意のままにアルカナの固有呪文としてキャストされる。カントリップはあなたのレベルの半分を切り上げた呪文ランクに高位化される。</p>",
+      "description": "<p>あなたが日課の準備の一部として、少なくとも10gpの価値がある宝石の前で瞑想する限り、魔法を流れるルーンとして見ることができ、魔法の物体に関する情報を明らかにし、あなたを表す個人的なルーンを書くことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.OhD2Z6rIGGD5ocZA]{リード・オーラ}と@UUID[Compendium.pf2e.spells-srd.Item.AUctDF2fqPZN2w4W]{シジル}のカントリップを得る。これらのカントリップは意のままにアーケインの固有呪文としてキャストされる。カントリップはあなたのレベルの半分を切り上げた呪文ランクに高位化される。</p>",
       "source": "Pathfinder #148: Fires of the Haunted City",
       "prerequisites": [
         {
@@ -14906,7 +14906,7 @@
     },
     "Arcane Tattoos": {
       "name": "アーケイン・タトゥーズ/Arcane Tattoos",
-      "description": "<p><strong>アクセス</strong>ヴァリシア語民族または新タッシロン国籍</p>\n<hr />\n<p>あなたは古代タッシロンの魔法学校のいずれかに対応するボディのタトゥーを持っている。次のいずれかの魔法学校を選択する：防御(@UUID[Compendium.pf2e.spells-srd.Item.TVKNbcgTee19PXZR]{シールド})、召喚術(@UUID[Compendium.pf2e.spells-srd.Item.uZK2BYzPnxUBnDjr]{タングル・ヴァイン})、魅了(@UUID[Compendium.pf2e.spells-srd.Item.4gBIw4IDrSfFHik4]{デイズ})、創造(@UUID[Compendium.pf2e.spells-srd.Item.kBhaPuzLUSwS6vVf]{エレクトリック・アーク})、幻影(@UUID[Compendium.pf2e.spells-srd.Item.atlgGNI1E1Ox3O3a]{ゴースト・サウンド})、死霊術(@UUID[Compendium.pf2e.spells-srd.Item.mAMEt4FFbdqoRnkN]{ヴォイド・ワープ})、変性(@UUID[Compendium.pf2e.spells-srd.Item.AUctDF2fqPZN2w4W]{シジル})。あなたは対応するカントリップ(かっこ内のリスト)を固有のアルカナ呪文として意のままにキャストすることができる。</p>",
+      "description": "<p><strong>アクセス</strong>ヴァリシア語民族または新タッシロン国籍</p>\n<hr />\n<p>あなたは古代タッシロンの魔法学校のいずれかに対応するボディのタトゥーを持っている。次のいずれかの魔法学校を選択する：防御(@UUID[Compendium.pf2e.spells-srd.Item.TVKNbcgTee19PXZR]{シールド})、召喚術(@UUID[Compendium.pf2e.spells-srd.Item.uZK2BYzPnxUBnDjr]{タングル・ヴァイン})、魅了(@UUID[Compendium.pf2e.spells-srd.Item.4gBIw4IDrSfFHik4]{デイズ})、創造(@UUID[Compendium.pf2e.spells-srd.Item.kBhaPuzLUSwS6vVf]{エレクトリック・アーク})、幻影(@UUID[Compendium.pf2e.spells-srd.Item.atlgGNI1E1Ox3O3a]{ゴースト・サウンド})、死霊術(@UUID[Compendium.pf2e.spells-srd.Item.mAMEt4FFbdqoRnkN]{ヴォイド・ワープ})、変性(@UUID[Compendium.pf2e.spells-srd.Item.AUctDF2fqPZN2w4W]{シジル})。あなたは対応するカントリップ(かっこ内のリスト)を固有のアーケイン呪文として意のままにキャストすることができる。</p>",
       "source": "Pathfinder Lost Omens Character Guide"
     },
     "Gorilla Stance": {
@@ -14921,7 +14921,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "《製作》のエキスパート"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -15022,7 +15022,7 @@
           "value": "ハーバリストデディケーション"
         },
         {
-          "value": "《自然》のエキスパート"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -15055,7 +15055,7 @@
           "value": "バスティオンデディケーション"
         },
         {
-          "value": "訓練済みにおける《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -15176,7 +15176,7 @@
       "source": "Pathfinder Gamemastery Guide",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《交渉》"
+          "value": "《交渉》の訓練済み"
         }
       ]
     },
@@ -15204,7 +15204,7 @@
           "value": "エニグマミューズ"
         },
         {
-          "value": "専門家《神秘学》"
+          "value": "《神秘学》のエキスパート"
         }
       ]
     },
@@ -15214,7 +15214,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済み《欺瞞》において"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -15250,7 +15250,7 @@
     },
     "Spellmaster's Resilience": {
       "name": "スペルマスターズ・レジリエンス/Spellmaster's Resilience",
-      "description": "<p>特定の種類の害を及ぼす魔法の経験により、それに対する抵抗力が増す。魔法の系統(アルカナ、神聖、オカルト、または原始)を選択する。あなたは、その系統のトレイトを持つ呪文や効果に対するセーヴィング・スローに+1の状況ボーナスを得る。また、その系統のトレイトを持つ呪文や効果からの全てのダメージに5の耐性を得る。効果は、その系統で実際にキャストまたは生成されている必要があり、単にその系統の呪文リストにあるだけではない。</p>",
+      "description": "<p>特定の種類の害を及ぼす魔法の経験により、それに対する抵抗力が増す。魔法の系統（アーケイン、ディバイン、オカルト、またはプライマル）を選択する。あなたは、その系統のトレイトを持つ呪文や効果に対するセーヴィング・スローに+1の状況ボーナスを得る。また、その系統のトレイトを持つ呪文や効果からの全てのダメージに5の耐性を得る。効果は、その系統で実際にキャストまたは生成されている必要があり、単にその系統の呪文リストにあるだけではない。</p>",
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
@@ -15264,10 +15264,10 @@
       "source": "Pathfinder #147: Tomorrow Must Burn",
       "prerequisites": [
         {
-          "value": "専門家《隠密》"
+          "value": "《隠密》のエキスパート"
         },
         {
-          "value": "専門家《生存術》"
+          "value": "《生存術》のエキスパート"
         },
         {
           "value": "ベルフラワーネットワークのメンバー"
@@ -15299,7 +15299,7 @@
     },
     "Arcane Breadth": {
       "name": "アーケイン・ブレドス/Arcane Breadth",
-      "description": "<p>あなたの徹底的な研究により、あなたは毎日より多くのアルカナ呪文をキャストできる。増加あなたがウィザードアーキタイプ特技から得る呪文スロットを、あなたの2つの最も高いウィザード呪文スロット以外の各呪文ランクにつき1増加させる。</p>",
+      "description": "<p>あなたの徹底的な研究により、あなたは毎日より多くのアーケイン呪文をキャストできる。増加あなたがウィザードアーキタイプ特技から得る呪文スロットを、あなたの2つの最も高いウィザード呪文スロット以外の各呪文ランクにつき1増加させる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -15423,7 +15423,7 @@
           "value": "ドレイクライダーデディケーション"
         },
         {
-          "value": "訓練済み《軽業》において"
+          "value": "《軽業》の訓練済み"
         }
       ]
     },
@@ -15433,7 +15433,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "伝説的存在《宗教》"
+          "value": "《宗教》のレジェンダリー"
         }
       ]
     },
@@ -15453,7 +15453,7 @@
       "source": "Pathfinder Lost Omens Gods & Magic",
       "prerequisites": [
         {
-          "value": "マスタークラフティング"
+          "value": "《製作》のマスター"
         },
         {
           "value": "神格、神の恩恵を与える"
@@ -15481,7 +15481,7 @@
       "source": "Pathfinder #175: Broken Tusk Moon",
       "prerequisites": [
         {
-          "value": "訓練済み《自然》において"
+          "value": "《自然》の訓練済み"
         }
       ]
     },
@@ -15601,7 +15601,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "専門家《欺瞞》"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -15645,7 +15645,7 @@
           "value": "ダンディデディケーション"
         },
         {
-          "value": "マスターディセプション"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -15705,7 +15705,7 @@
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
-          "value": "訓練済み《自然》において"
+          "value": "《自然》の訓練済み"
         },
         {
           "value": "呪文スロットから呪文を発動する能力"
@@ -15852,7 +15852,7 @@
           "value": "黄金連盟の旬デディケーション"
         },
         {
-          "value": "《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -15906,7 +15906,7 @@
     },
     "Bloodrager Dedication": {
       "name": "ブラッドレージャー・デディケーション/Bloodrager Dedication",
-      "description": "<p>強力な血を飲むことで、あなたの中に魔法の潜在能力が目覚める。あなたは選んだ2つのカントリップを持つ呪文のレパートリーを得る、《秘術》または神聖な呪文リストのいずれかから。あなたはこのカントリップをあなたの系統の一般的な呪文の中からか、またはその系統の呪文リストからアクセスできる他の呪文から選ぶ。少なくとも1つのカントリップは呪文攻撃ロールを必要とする。あなたは呪文攻撃修正値と呪文 DCにおいて訓練済みである。これらの呪文におけるあなたの主要な呪文発動属性は魅力である。あなたのレパートリーの呪文は、あなたが怒っている間に怒りのトレイトを持ち、レパートリーから 〔呪文の発動〕 を行うと、あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}になる(またはあなたの drained状態の値を1増加させる)；あなたはこの状態の値を Harvesting Bloodでのみ減少させることができる(以下参照)。あなたはもしアルカナカントリップを選んだ場合訓練済みに、神聖なカントリップを選んだ場合は《宗教》に《秘術》である。もしあなたがすでにこのスキルにおいて訓練済みであった場合、あなたは選んだスキルにおいて訓練済みになる。あなたはまた Harvest Bloodアクションを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.V87pMN1WuIHaoYpQ]{Bloodrager}</p>",
+      "description": "<p>強力な血を飲むことで、あなたの中に魔法の潜在能力が目覚める。あなたは選んだ2つのカントリップを持つ呪文のレパートリーを得る、《秘術》または神聖な呪文リストのいずれかから。あなたはこのカントリップをあなたの系統の一般的な呪文の中からか、またはその系統の呪文リストからアクセスできる他の呪文から選ぶ。少なくとも1つのカントリップは呪文攻撃ロールを必要とする。あなたは呪文攻撃修正値と呪文 DCにおいて訓練済みである。これらの呪文におけるあなたの主要な呪文発動属性は魅力である。あなたのレパートリーの呪文は、あなたが怒っている間に怒りのトレイトを持ち、レパートリーから 〔呪文の発動〕 を行うと、あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}になる(またはあなたの drained状態の値を1増加させる)；あなたはこの状態の値を Harvesting Bloodでのみ減少させることができる(以下参照)。あなたはもしアーケイン・カントリップを選んだ場合訓練済みに、神聖なカントリップを選んだ場合は《宗教》に《秘術》である。もしあなたがすでにこのスキルにおいて訓練済みであった場合、あなたは選んだスキルにおいて訓練済みになる。あなたはまた Harvest Bloodアクションを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.V87pMN1WuIHaoYpQ]{Bloodrager}</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
@@ -16127,7 +16127,7 @@
           "value": "永遠の伝説デディケーション"
         },
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -16300,7 +16300,7 @@
           "value": "エキスパートバードスペルキャスティング"
         },
         {
-          "value": "《神秘学》における伝説的存在"
+          "value": "《神秘学》のレジェンダリー"
         }
       ]
     },
@@ -16414,7 +16414,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みで《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -16464,7 +16464,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みで《隠密》"
+          "value": "《隠密》の訓練済み"
         }
       ]
     },
@@ -16584,7 +16584,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -16605,7 +16605,7 @@
     },
     "Cautious Delver": {
       "name": "コーシャス・デルバー/Cautious Delver",
-      "description": "<p>あなたは古代の建築家や呪文使いが所持品を保護する多くの方法、死の罠や呪いを実装することなどを研究し、それらを打ち消しするための魔法をいくつか学んだ。あなたは、毎日1回、魔法を解除する、ノック、エネルギー抵抗を直感的呪文として唱えることができる。すでに呪文を唱えることができる場合、これらの呪文は同じ系統である。</p>\n<p>そうでない場合、これらはアルカナの呪文であり、あなたは知能を呪文発動能力とし、アルカナの呪文に対する呪文攻撃ロールや呪文DCで訓練済みとなる。</p>",
+      "description": "<p>あなたは古代の建築家や呪文使いが所持品を保護する多くの方法、死の罠や呪いを実装することなどを研究し、それらを打ち消しするための魔法をいくつか学んだ。あなたは、毎日1回、魔法を解除する、ノック、エネルギー抵抗を直感的呪文として唱えることができる。すでに呪文を唱えることができる場合、これらの呪文は同じ系統である。</p>\n<p>そうでない場合、これらはアーケインの呪文であり、あなたは知能を呪文発動能力とし、アーケインの呪文に対する呪文攻撃ロールや呪文DCで訓練済みとなる。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
         {
@@ -16619,7 +16619,7 @@
       "source": "Pathfinder #168: King of the Mountain",
       "prerequisites": [
         {
-          "value": "《芸能》の専門家"
+          "value": "《芸能》のエキスパート"
         }
       ]
     },
@@ -16700,7 +16700,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "《芸能》の専門家"
+          "value": "《芸能》のエキスパート"
         }
       ]
     },
@@ -16825,7 +16825,7 @@
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
-          "value": "訓練済みで《隠密》と《生存術》"
+          "value": "《隠密》と《生存術》の訓練済み"
         }
       ]
     },
@@ -17062,7 +17062,7 @@
           "value": "エメラルドボウの提携"
         },
         {
-          "value": "あなたはソサイエティの専門家"
+          "value": "《社会》のエキスパート"
         }
       ]
     },
@@ -17100,7 +17100,7 @@
           "value": "ルーンロードデディケーション"
         },
         {
-          "value": "訓練済みの《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -17120,7 +17120,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《軽業》"
+          "value": "《軽業》の訓練済み"
         }
       ]
     },
@@ -17155,7 +17155,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "あなたは《製作》の専門家"
+          "value": "《製作》のマスター"
         },
         {
           "value": "スクランジャーデディケーション"
@@ -17271,7 +17271,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "あなたは《自然》の達人"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -17324,7 +17324,7 @@
           "value": "アルケミストデディケーション"
         },
         {
-          "value": "あなたは《製作》の達人"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -17499,7 +17499,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済みの《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -17584,7 +17584,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《秘術》"
+          "value": "《秘術》の訓練済み"
         }
       ]
     },
@@ -17762,7 +17762,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《製作》における専門家"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -17878,7 +17878,7 @@
     },
     "Spell Runes": {
       "name": "スペル・ルーンズ/Spell Runes",
-      "description": "<p>あなたの体の魔法のルーンは、いくつかの魔法の能力を授ける。1レベルのアルカナ呪文を選ぶ。選んだ呪文に対応する呪文ルーンを体に得る。この呪文を、一日一回内在呪文として発動できる。6レベルでは、2レベルのアルカナ呪文に対応する呪文ルーンを得、8レベルでは3レベルのアルカナ呪文に対応する呪文ルーンを得る。</p>",
+      "description": "<p>あなたの体の魔法のルーンは、いくつかの魔法の能力を授ける。1レベルのアーケイン呪文を選ぶ。選んだ呪文に対応する呪文ルーンを体に得る。この呪文を、一日一回内在呪文として発動できる。6レベルでは、2レベルのアーケイン呪文に対応する呪文ルーンを得、8レベルでは3レベルのアーケイン呪文に対応する呪文ルーンを得る。</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
@@ -17925,7 +17925,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《運動》における専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -18032,7 +18032,7 @@
           "value": "知性 +2"
         },
         {
-          "value": "訓練済みにおける《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -18062,7 +18062,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《軽業》における伝説的存在"
+          "value": "《軽業》のレジェンダリー"
         },
         {
           "value": "クイック 〔無理矢理入り込む〕"
@@ -18075,7 +18075,7 @@
       "source": "Pathfinder #168: King of the Mountain",
       "prerequisites": [
         {
-          "value": "《盗賊術》における伝説的存在"
+          "value": "《盗賊術》のレジェンダリー"
         }
       ]
     },
@@ -18205,7 +18205,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "あなたは知覚の達人"
+          "value": "《知覚》のマスター"
         }
       ]
     },
@@ -18325,7 +18325,7 @@
       "source": "Pathfinder #178: Punks in a Powder Keg",
       "prerequisites": [
         {
-          "value": "あなたは頑健セーヴに熟練している"
+          "value": "頑健セーヴのエキスパート"
         }
       ]
     },
@@ -18483,7 +18483,7 @@
           "value": "基本的なオラクルスペルキャスティング"
         },
         {
-          "value": "あなたは《宗教》の達人"
+          "value": "《宗教》のマスター"
         }
       ]
     },
@@ -18527,7 +18527,7 @@
           "value": "ラストウォール・セントリーデディケーション"
         },
         {
-          "value": "あなたは知覚に熟練している"
+          "value": "《知覚》のエキスパート"
         }
       ]
     },
@@ -18577,7 +18577,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "あなたは《自然》、《神秘学》、または《宗教》の達人"
+          "value": "《自然》、《神秘学》または《宗教》のマスター"
         }
       ]
     },
@@ -18802,7 +18802,7 @@
           "value": "アクロバットデディケーション"
         },
         {
-          "value": "《軽業》の達人"
+          "value": "《軽業》のマスター"
         }
       ]
     },
@@ -18875,7 +18875,7 @@
           "value": "考古学者デディケーション"
         },
         {
-          "value": "ソサイエティの達人"
+          "value": "《社会》のエキスパート"
         }
       ]
     },
@@ -18966,7 +18966,7 @@
           "value": "キャバリアデディケーション"
         },
         {
-          "value": "《自然》のエキスパート"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -18991,7 +18991,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《自然》"
+          "value": "《自然》の訓練済み"
         }
       ]
     },
@@ -19036,7 +19036,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《軽業》の達人"
+          "value": "《軽業》のマスター"
         }
       ]
     },
@@ -19173,7 +19173,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "知覚の達人"
+          "value": "《知覚》のマスター"
         }
       ]
     },
@@ -19209,7 +19209,7 @@
           "value": "《宗教》のエキスパート"
         },
         {
-          "value": "《隠密》の達人"
+          "value": "《隠密》のマスター"
         }
       ]
     },
@@ -19312,7 +19312,7 @@
       "source": "Pathfinder Lost Omens Gods & Magic",
       "prerequisites": [
         {
-          "value": "《宗教》の達人"
+          "value": "《宗教》のマスター"
         },
         {
           "value": "あなたは神格に従う"
@@ -19457,7 +19457,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《威圧》"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -19479,7 +19479,7 @@
     },
     "Familiar's Language": {
       "name": "ファミリアズ・ランゲージ/Familiar's Language",
-      "description": "<p>あなたは、自分のファミリアや同様のクリーチャーと話す方法を学んだ。あなたは、そのファミリアと同じ動物の家族を持つクリーチャーに対して質問し、答えを受け、 《交渉》スキルを使用できる。たとえば、あなたのファミリアが猫である場合、あなたはあらゆる猫(ヒョウ、ライオン、トラなどを含む)に対して@UUID[Compendium.pf2e.spells-srd.Item.BBvV7qoXGdw09q1C]{スピーク・ウィズ・アニマルズ}の効果を得ることができる。この能力は、彼らを通常以上に友好的にするものではない。もし、あなたのファミリアが別のクリーチャーに変わると、この能力を使えなくなる。1週間の間、新しいファミリアの言葉を吸収する。</p>\n<hr />\n<p><strong>特別</strong>このフィートは、あなたが唱える呪文の系統 (秘術、神聖、オカルト、または原始)の対応するトレイトを持つ。</p>",
+      "description": "<p>あなたは、自分のファミリアや同様のクリーチャーと話す方法を学んだ。あなたは、そのファミリアと同じ動物の家族を持つクリーチャーに対して質問し、答えを受け、 《交渉》スキルを使用できる。たとえば、あなたのファミリアが猫である場合、あなたはあらゆる猫(ヒョウ、ライオン、トラなどを含む)に対して@UUID[Compendium.pf2e.spells-srd.Item.BBvV7qoXGdw09q1C]{スピーク・ウィズ・アニマルズ}の効果を得ることができる。この能力は、彼らを通常以上に友好的にするものではない。もし、あなたのファミリアが別のクリーチャーに変わると、この能力を使えなくなる。1週間の間、新しいファミリアの言葉を吸収する。</p>\n<hr />\n<p><strong>特別</strong>このフィートは、あなたが唱える呪文の系統 （アーケイン、ディバイン、オカルト、またはプライマル）の対応するトレイトを持つ。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -19516,7 +19516,7 @@
       "source": "Pathfinder #178: Punks in a Powder Keg",
       "prerequisites": [
         {
-          "value": "頑健のセーヴの専門家"
+          "value": "頑健セーヴのエキスパート"
         }
       ]
     },
@@ -19614,7 +19614,7 @@
       "source": "Pathfinder #175: Broken Tusk Moon",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -19757,7 +19757,7 @@
           "value": "ジオマンサーデディケーション"
         },
         {
-          "value": "《自然》における伝説的"
+          "value": "《自然》のレジェンダリー"
         }
       ]
     },
@@ -19828,7 +19828,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -19854,7 +19854,7 @@
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
-          "value": "《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -19946,7 +19946,7 @@
           "value": "地形魔法使いデディケーション"
         },
         {
-          "value": "《自然》の達人"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -19962,7 +19962,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《威圧》"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -19993,7 +19993,7 @@
     },
     "Speaker in Training": {
       "name": "スピーカー・イン・トレーニング/Speaker in Training",
-      "description": "<p>あなたはスピーカーとしての訓練を始めた。神聖または原始を選択する。神聖を選んだ場合、あなたはフェイススピーカーになる。原始を選んだ場合、あなたはグリーンスピーカーになる。あなたがすでにこの選択をした場合(例えば、芽吹きのスピーカーのために)、あなたは以前に選んだ同じスピーカーを選ばなければならない。この選択は変更できない。フェイススピーカーであれば、1日1回神聖の内因性呪文として@UUID[Compendium.pf2e.spells-srd.Item.XSujb7EsSwKl19Uu]{ブレス}を唱えることができる；グリーンスピーカーであれば、1日1回原始の内因性呪文として@UUID[Compendium.pf2e.spells-srd.Item.aEM2cttJ2eYcLssW]{フリート・ステップ}を唱えることができる。</p>",
+      "description": "<p>あなたはスピーカーとしての訓練を始めた。ディバインまたはプライマルを選択する。神聖を選んだ場合、あなたはフェイススピーカーになる。原始を選んだ場合、あなたはグリーンスピーカーになる。あなたがすでにこの選択をした場合(例えば、芽吹きのスピーカーのために)、あなたは以前に選んだ同じスピーカーを選ばなければならない。この選択は変更できない。フェイススピーカーであれば、1日1回神聖の内因性呪文として@UUID[Compendium.pf2e.spells-srd.Item.XSujb7EsSwKl19Uu]{ブレス}を唱えることができる；グリーンスピーカーであれば、1日1回原始の内因性呪文として@UUID[Compendium.pf2e.spells-srd.Item.aEM2cttJ2eYcLssW]{フリート・ステップ}を唱えることができる。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
@@ -20154,7 +20154,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "ソサイエティの専門家"
+          "value": "《社会》のエキスパート"
         },
         {
           "value": "ストリートワイズ"
@@ -20307,7 +20307,7 @@
       "source": "Pathfinder #210: Whispers in the Dirt",
       "prerequisites": [
         {
-          "value": "訓練済みにおける知覚"
+          "value": "《知覚》の訓練済み"
         }
       ]
     },
@@ -20414,7 +20414,7 @@
           "value": "ヴェルデュランシャドウデディケーション"
         },
         {
-          "value": "《生存術》の達人"
+          "value": "《生存術》のマスター"
         }
       ]
     },
@@ -20424,10 +20424,10 @@
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《生存術》"
+          "value": "《生存術》の訓練済み"
         },
         {
-          "value": "訓練済みにおける《隠密》"
+          "value": "《隠密》の訓練済み"
         },
         {
           "value": "邪悪でない全ての属性"
@@ -20453,7 +20453,7 @@
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《交渉》と《宗教》"
+          "value": "《交渉》と《宗教》の訓練済み"
         }
       ]
     },
@@ -20478,7 +20478,7 @@
       "source": "Pathfinder Kingmaker",
       "prerequisites": [
         {
-          "value": "《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -20624,7 +20624,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《神秘学》"
+          "value": "《神秘学》の訓練済み"
         }
       ]
     },
@@ -20674,7 +20674,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -20877,7 +20877,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《運動》の達人"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -20947,7 +20947,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《神秘学》の達人"
+          "value": "《神秘学》のマスター"
         }
       ]
     },
@@ -20967,7 +20967,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《生存術》におけるレジェンダリー"
+          "value": "《生存術》のレジェンダリー"
         }
       ]
     },
@@ -21001,7 +21001,7 @@
           "value": "ジオマンサーデディケーション"
         },
         {
-          "value": "《自然》の達人"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -21014,7 +21014,7 @@
           "value": "アンダーシー・プライヴァティアデディケーション"
         },
         {
-          "value": "《隠密》の専門家"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -21027,7 +21027,7 @@
           "value": "クロスボウインフィルトレーターデディケーション"
         },
         {
-          "value": "訓練済みに《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -21211,7 +21211,7 @@
           "value": "基本ウィザードスペルキャスティング"
         },
         {
-          "value": "《秘術》の達人"
+          "value": "《秘術》のマスター"
         }
       ]
     },
@@ -21320,7 +21320,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《秘術》の伝説的"
+          "value": "《秘術》のレジェンダリー"
         }
       ]
     },
@@ -21432,14 +21432,14 @@
     },
     "War Rider Stance": {
       "name": "ウォー・ライダー・スタンス/War Rider Stance",
-      "description": "<p>あなたのドラゴンの絶え間ない息はあなたの敵を脅かす。この姿勢でいる間、あなたのドラゴンの仲間は@Template[type:emanation|distance:5]のオーラを持つ。オーラ内でターンが始まる各クリーチャーは、あなたの相棒のアスレチックスドラゴンの支援恩恵の下に示されたダメージを受ける。対象はあなたの相棒のドラゴンに対して基本反応セーヴで《運動》 DCを行う。</p>",
+      "description": "<p>あなたのドラゴンの絶え間ない息はあなたの敵を脅かす。この姿勢でいる間、あなたのドラゴンの仲間は@Template[type:emanation|distance:5]のオーラを持つ。オーラ内でターンが始まる各クリーチャーは、あなたの騎乗動物の《運動》のの支援恩恵の下に示されたダメージを受ける。対象はあなたの相棒のドラゴンに対して基本反応セーヴで《運動》 DCを行う。</p>",
       "source": "Pathfinder Lost Omens Draconic Codex",
       "prerequisites": [
         {
           "value": "ドレイクライダーデディケーション"
         },
         {
-          "value": "武器戦闘のエキスパート"
+          "value": "軍用武器のエキスパート"
         },
         {
           "value": "ドラゴンの仲間で、ダメージを含むサポート恩恵を持つ"
@@ -21532,7 +21532,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《盗賊術》"
+          "value": "《盗賊術》の訓練済み"
         }
       ]
     },
@@ -21658,7 +21658,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -21689,7 +21689,7 @@
     },
     "Twin Eidolon": {
       "name": "ツイン・アイドロン/Twin Eidolon",
-      "description": "<p>あなたはあなたのエイドロンに合わせて変身することができる。あなたがエイドロンを顕現させる時、その力を呼び出して、あなた自身を重複体に変身させることができる。顕現が解除されるまで、この効果を使うことはできない。あなたが異常な方法でエイドロンを顕現させた場合、例えばエイドロンに溶け込む場合は、この効果は使用できない。</p>\n<p>双子のエイドロンを使用している間、あなたはあなたのエイドロンの統計をメンタル能力修正値を除いて使用する。あなたは呪文を唱えることはできない(あなたのエイドロンが唱えられる呪文を除く)、 起動やそれ以外の恩恵を魔法アイテムから使用することができない、そのアイテムが通常あなたを恩恵するものであっても、あなたのエイドロンではなく、他のアクションも使用できない場合。</p>\n<p>あなたが制限された使用回数で唱えた呪文は、あなたのエイドロンの使用回数にカウントされる。あなたはこの効果を終了させるために再度エイドロンを顕現させることができる。</p>\n<hr />\n<p> <strong>特別</strong>この特技はあなたのエイドロンの系統 (アルカナ、神聖、オカルト、またはプリマル)に一致するトレイトを持つ。</p>",
+      "description": "<p>あなたはあなたのエイドロンに合わせて変身することができる。あなたがエイドロンを顕現させる時、その力を呼び出して、あなた自身を重複体に変身させることができる。顕現が解除されるまで、この効果を使うことはできない。あなたが異常な方法でエイドロンを顕現させた場合、例えばエイドロンに溶け込む場合は、この効果は使用できない。</p>\n<p>双子のエイドロンを使用している間、あなたはあなたのエイドロンの統計をメンタル能力修正値を除いて使用する。あなたは呪文を唱えることはできない(あなたのエイドロンが唱えられる呪文を除く)、 起動やそれ以外の恩恵を魔法アイテムから使用することができない、そのアイテムが通常あなたを恩恵するものであっても、あなたのエイドロンではなく、他のアクションも使用できない場合。</p>\n<p>あなたが制限された使用回数で唱えた呪文は、あなたのエイドロンの使用回数にカウントされる。あなたはこの効果を終了させるために再度エイドロンを顕現させることができる。</p>\n<hr />\n<p> <strong>特別</strong>この特技はあなたのエイドロンの系統 （アーケイン、ディバイン、オカルト、またはプライマル）に一致するトレイトを持つ。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Area Armor": {
@@ -21786,10 +21786,10 @@
       "source": "Pathfinder #201: Pactbreaker",
       "prerequisites": [
         {
-          "value": "訓練済みの《隠密》"
+          "value": "《隠密》の訓練済み"
         },
         {
-          "value": "訓練済みは《生存術》の中にある"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -22006,7 +22006,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みは《軽業》の中にある"
+          "value": "《軽業》の訓練済み"
         }
       ]
     },
@@ -22067,7 +22067,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -22123,7 +22123,7 @@
           "value": "ラストウォール・セントリーデディケーション"
         },
         {
-          "value": "《宗教》の達人"
+          "value": "《宗教》のマスター"
         }
       ]
     },
@@ -22144,10 +22144,10 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みは《欺瞞》の中にある"
+          "value": "《欺瞞》の訓練済み"
         },
         {
-          "value": "訓練済みは《隠密》の中にある"
+          "value": "《隠密》の訓練済み"
         }
       ]
     },
@@ -22206,7 +22206,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "ソサイエティの達人"
+          "value": "《社会》のエキスパート"
         },
         {
           "value": "社交的な優雅さまたはストリートワイズ"
@@ -22224,7 +22224,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -22259,7 +22259,7 @@
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
         {
-          "value": "《盗賊術》の達人"
+          "value": "《盗賊術》のエキスパート"
         }
       ]
     },
@@ -22444,7 +22444,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "マスターである《隠密》"
+          "value": "《隠密》のマスター"
         }
       ]
     },
@@ -22569,7 +22569,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みで《秘術》、《自然》、《神秘学》、または《宗教》"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -22663,7 +22663,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "マスターである《隠密》"
+          "value": "《隠密》のマスター"
         }
       ]
     },
@@ -22768,7 +22768,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みで《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -22879,7 +22879,7 @@
       "source": "Pathfinder #151: The Show Must Go On",
       "prerequisites": [
         {
-          "value": "《軽業》の専門家"
+          "value": "《軽業》のエキスパート"
         },
         {
           "value": "ジャグラーデディケーション"
@@ -22897,7 +22897,7 @@
       "source": "Pathfinder Lost Omens The Grand Bazaar",
       "prerequisites": [
         {
-          "value": "訓練済みで《欺瞞》または《交渉》"
+          "value": "《欺瞞》または《交渉》の訓練済み"
         },
         {
           "value": "魅力 +2"
@@ -22915,7 +22915,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みは《製作》の中にある"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -22966,7 +22966,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "マスターは《自然》にいる"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -23057,7 +23057,7 @@
           "value": "エニグマ・ミューズ"
         },
         {
-          "value": "伝説の《神秘学》"
+          "value": "《神秘学》のレジェンダリー"
         }
       ]
     },
@@ -23070,7 +23070,7 @@
           "value": "レピドスタット外科医デディケーション"
         },
         {
-          "value": "マスターはメディスンにいる"
+          "value": "《医術》のマスター"
         }
       ]
     },
@@ -23223,7 +23223,7 @@
           "value": "マスク使い魔"
         },
         {
-          "value": "《隠密》の専門家"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -23290,7 +23290,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みは《交渉》またはソサイエティの中にある"
+          "value": "《交渉》または《社会》の訓練済み"
         }
       ]
     },
@@ -23363,7 +23363,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "伝説の《盗賊術》"
+          "value": "《盗賊術》のレジェンダリー"
         },
         {
           "value": "スリ"
@@ -23497,7 +23497,7 @@
           "value": "イーグルナイトデディケーション"
         },
         {
-          "value": "あなたは《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -23634,7 +23634,7 @@
           "value": "キャノピープレデター"
         },
         {
-          "value": "あなたは《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -23654,7 +23654,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "あなたは《製作》の達人"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -23832,7 +23832,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "あなたは《運動》の達人"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -23875,7 +23875,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《盗賊術》"
+          "value": "《盗賊術》の訓練済み"
         }
       ]
     },
@@ -23943,7 +23943,7 @@
           "value": "アルケンスタールのエージェントデディケーション"
         },
         {
-          "value": "あなたはソサイエティの達人"
+          "value": "《社会》のエキスパート"
         }
       ]
     },
@@ -24016,7 +24016,7 @@
       "source": "Pathfinder Lost Omens Absalom, City of Lost Omens",
       "prerequisites": [
         {
-          "value": "エキスパートにおける《秘術》または《神秘学》"
+          "value": "《秘術》または《神秘学》のエキスパート"
         }
       ]
     },
@@ -24084,7 +24084,7 @@
           "value": "ラズミランの神父デディケーション"
         },
         {
-          "value": "あなたは《製作》の達人"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -24124,7 +24124,7 @@
       "source": "Pathfinder Kingmaker",
       "prerequisites": [
         {
-          "value": "《生存術》の専門家"
+          "value": "《生存術》のエキスパート"
         }
       ]
     },
@@ -24185,7 +24185,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -24268,7 +24268,7 @@
       "source": "Pathfinder #180: The Smoking Gun",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -24291,7 +24291,7 @@
           "value": "基本的なマギウススペルキャスティング"
         },
         {
-          "value": "《秘術》の達人"
+          "value": "《秘術》のマスター"
         }
       ]
     },
@@ -24447,7 +24447,7 @@
           "value": "バーバリアンデディケーション"
         },
         {
-          "value": "頑健セーヴの専門家"
+          "value": "頑健セーヴのエキスパート"
         }
       ]
     },
@@ -24457,7 +24457,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
-          "value": "《神秘学》の専門家"
+          "value": "《神秘学》のエキスパート"
         }
       ]
     },
@@ -24604,7 +24604,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "《神秘学》の専門家"
+          "value": "《神秘学》のエキスパート"
         }
       ]
     },
@@ -24642,7 +24642,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるソサイエティ"
+          "value": "《社会》の訓練済み"
         }
       ]
     },
@@ -24677,7 +24677,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -24908,7 +24908,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         },
         {
           "value": "ヴィジランテデディケーション"
@@ -24937,7 +24937,7 @@
           "value": "ダンディデディケーション"
         },
         {
-          "value": "《欺瞞》の専門家"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -24962,7 +24962,7 @@
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -25067,7 +25067,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《秘術》, 《自然》, 《神秘学》、または《宗教》の専門家"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》のエキスパート"
         },
         {
           "value": "ヴィジランテデディケーション"
@@ -25080,7 +25080,7 @@
       "source": "Pathfinder Lost Omens Highhelm",
       "prerequisites": [
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -25148,7 +25148,7 @@
           "value": "ソードマスターデディケーション"
         },
         {
-          "value": "《交渉》の達人"
+          "value": "《交渉》のマスター"
         }
       ]
     },
@@ -25253,7 +25253,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《生存術》の達人"
+          "value": "《生存術》のマスター"
         }
       ]
     },
@@ -25448,7 +25448,7 @@
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
-          "value": "《自然》に訓練済み"
+          "value": "《自然》の訓練済み"
         },
         {
           "value": "ウマの動物の相棒"
@@ -25521,7 +25521,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《交渉》の達人"
+          "value": "《交渉》のマスター"
         }
       ]
     },
@@ -25566,7 +25566,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "レジェンダリー inメディスン"
+          "value": "《医術》のレジェンダリー"
         }
       ]
     },
@@ -25597,7 +25597,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "レジェンダリー in《隠密》"
+          "value": "《隠密》のレジェンダリー"
         }
       ]
     },
@@ -25688,7 +25688,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
-          "value": "訓練済み in《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -25764,7 +25764,7 @@
           "value": "オーバーウォッチデディケーション"
         },
         {
-          "value": "知覚の達人"
+          "value": "《知覚》のマスター"
         }
       ]
     },
@@ -25847,7 +25847,7 @@
           "value": "予想外のシャープシューターデディケーション"
         },
         {
-          "value": "《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -25862,7 +25862,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済み in《交渉》"
+          "value": "《交渉》の訓練済み"
         }
       ]
     },
@@ -26136,7 +26136,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《秘術》, 《自然》, 《神秘学》, または《宗教》における専門家"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》のエキスパート"
         }
       ]
     },
@@ -26146,7 +26146,7 @@
       "source": "Pathfinder Lost Omens Firebrands",
       "prerequisites": [
         {
-          "value": "訓練済みの《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -26244,7 +26244,7 @@
       "source": "Pathfinder Core Rulebook",
       "prerequisites": [
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         },
         {
           "value": "スネアスペシャリスト"
@@ -26307,7 +26307,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -26327,7 +26327,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済みの《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -26337,7 +26337,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済みの《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -26372,7 +26372,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《欺瞞》の専門家"
+          "value": "《欺瞞》のエキスパート"
         },
         {
           "value": "つまずき構え"
@@ -26425,7 +26425,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《自然》"
+          "value": "《自然》の訓練済み"
         }
       ]
     },
@@ -26474,7 +26474,7 @@
     },
     "Siphon Power": {
       "name": "サイフォン・パワー/Siphon Power",
-      "description": "<p><strong>使用制限</strong>1日に1回</p>\n<p><strong>必要条件</strong>あなたのターンではまだ行動していない。</p>\n<hr />\n<p>あなたはあなたの使い魔の中にある、あなたの守護者の魔法の reservoirを引き出す。あなたのターン中、あなたは守護者やレッスンによって授けられた、使い魔が知っている呪文を、呪文スロットを消費することなく(またはそれを準備することさえなく)唱えることができる。その呪文はあなたの最高位のウィッチ呪文スロットよりも少なくとも1ランク低くなければならない。</p>\n<hr />\n<p><strong>特別</strong>この特技は、あなたが唱える呪文の系統に対応するトレイトを持つ(アルカナ、神聖、オカルト、または原始)。</p>",
+      "description": "<p><strong>使用制限</strong>1日に1回</p>\n<p><strong>必要条件</strong>あなたのターンではまだ行動していない。</p>\n<hr />\n<p>あなたはあなたの使い魔の中にある、あなたの守護者の魔法の reservoirを引き出す。あなたのターン中、あなたは守護者やレッスンによって授けられた、使い魔が知っている呪文を、呪文スロットを消費することなく(またはそれを準備することさえなく)唱えることができる。その呪文はあなたの最高位のウィッチ呪文スロットよりも少なくとも1ランク低くなければならない。</p>\n<hr />\n<p><strong>特別</strong>この特技は、あなたが唱える呪文の系統に対応するトレイトを持つ（アーケイン、ディバイン、オカルト、またはプライマル）。</p>",
       "source": "Pathfinder Player Core"
     },
     "Quickening Banner": {
@@ -26503,7 +26503,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みが《威圧》の中で"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -26527,7 +26527,7 @@
           "value": "少なくとも1種類の火器のエキスパート"
         },
         {
-          "value": "訓練済みが《秘術》または《製作》の中で"
+          "value": "《秘術》または《製作》の訓練済み"
         },
         {
           "value": "あなたはビーストガンを所有し、そのビーストガンに関連する種類のクリーチャーを公平な狩猟で倒した"
@@ -26610,7 +26610,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みが《秘術》, 《自然》, または《宗教》の中で"
+          "value": "《秘術》、《自然》または《宗教》の訓練済み"
         },
         {
           "value": "秘教的多才"
@@ -26921,7 +26921,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《欺瞞》における伝説的な"
+          "value": "《欺瞞》のレジェンダリー"
         },
         {
           "value": "完璧な気を散らせる"
@@ -26934,7 +26934,7 @@
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
-          "value": "ソサイエティのエキスパート"
+          "value": "《社会》のエキスパート"
         },
         {
           "value": "ストリートワイズ"
@@ -26970,7 +26970,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みが《神秘学》の中で"
+          "value": "《神秘学》の訓練済み"
         }
       ]
     },
@@ -27078,7 +27078,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済み in《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -27142,7 +27142,7 @@
           "value": "軍需品製作者"
         },
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -27349,7 +27349,7 @@
       "source": "Pathfinder Lost Omens Firebrands",
       "prerequisites": [
         {
-          "value": "《威圧》の専門家"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -27407,7 +27407,7 @@
           "value": "ヴァンパイアデディケーション"
         },
         {
-          "value": "訓練済み in《欺瞞》 or《交渉》"
+          "value": "《欺瞞》または《交渉》の訓練済み"
         }
       ]
     },
@@ -27483,7 +27483,7 @@
           "value": "メディックデディケーション"
         },
         {
-          "value": "伝説的なメディスン"
+          "value": "《医術》のレジェンダリー"
         }
       ]
     },
@@ -27526,7 +27526,7 @@
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
-          "value": "《隠密》に訓練済み"
+          "value": "《隠密》の訓練済み"
         },
         {
           "value": "あなたはメラニーを崇拝している"
@@ -27557,7 +27557,7 @@
           "value": "アンダーシー・プライヴァティアデディケーション"
         },
         {
-          "value": "《軽業》に訓練済み"
+          "value": "《軽業》の訓練済み"
         }
       ]
     },
@@ -27635,7 +27635,7 @@
           "value": "モータル・ヘラルドデディケーション"
         },
         {
-          "value": "マスターは《交渉》"
+          "value": "《交渉》のマスター"
         }
       ]
     },
@@ -27691,10 +27691,10 @@
           "value": "敏捷性 +3"
         },
         {
-          "value": "訓練済みを《軽業》で"
+          "value": "《軽業》の訓練済み"
         },
         {
-          "value": "訓練済みを《運動》で"
+          "value": "《運動》の訓練済み"
         },
         {
           "value": "訓練済みは次の武器のうち少なくとも1つ: スタッフ、ボースタッフ、ハーフリングスリングスタッフ、または槍またはポールアームの種(このアーキタイプでは「あなたのスタッフ」と呼ばれる)で"
@@ -27782,7 +27782,7 @@
       "source": "Pathfinder Lost Omens Gods & Magic",
       "prerequisites": [
         {
-          "value": "訓練済みを《欺瞞》で"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -27818,7 +27818,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みを《軽業》で"
+          "value": "《軽業》の訓練済み"
         }
       ]
     },
@@ -27878,10 +27878,10 @@
       "source": "Pathfinder #164: Hands of the Devil",
       "prerequisites": [
         {
-          "value": "訓練済みを《秘術》で"
+          "value": "《秘術》の訓練済み"
         },
         {
-          "value": "訓練済みを《神秘学》で"
+          "value": "《神秘学》の訓練済み"
         }
       ]
     },
@@ -27997,7 +27997,7 @@
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
-          "value": "訓練済みを《秘術》で"
+          "value": "《秘術》の訓練済み"
         }
       ]
     },
@@ -28027,7 +28027,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -28228,7 +28228,7 @@
           "value": "ヴェルドゥランシャドウデディケーション"
         },
         {
-          "value": "訓練済みにおける《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -28340,7 +28340,7 @@
       "source": "Pathfinder #152: Legacy of the Lost God",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《自然》"
+          "value": "《自然》の訓練済み"
         }
       ]
     },
@@ -28393,7 +28393,7 @@
           "value": "剣士デディケーション"
         },
         {
-          "value": "《生存術》における達人"
+          "value": "《生存術》のマスター"
         }
       ]
     },
@@ -28461,7 +28461,7 @@
           "value": "薬草師デディケーション"
         },
         {
-          "value": "訓練済みにおける《宗教》"
+          "value": "《宗教》の訓練済み"
         }
       ]
     },
@@ -28533,7 +28533,7 @@
           "value": "スティール・ファルコンデディケーション"
         },
         {
-          "value": "《宗教》に訓練済み"
+          "value": "《宗教》の訓練済み"
         }
       ]
     },
@@ -28717,7 +28717,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
-          "value": "《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -28818,7 +28818,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《隠密》の達人"
+          "value": "《隠密》のマスター"
         }
       ]
     },
@@ -28889,7 +28889,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みのメディスン"
+          "value": "《医術》の訓練済み"
         },
         {
           "value": "戦闘メディスン"
@@ -28902,7 +28902,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《欺瞞》の伝説的"
+          "value": "《欺瞞》のレジェンダリー"
         }
       ]
     },
@@ -28922,7 +28922,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《秘術》, 《自然》, 《神秘学》または《宗教》"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -28952,7 +28952,7 @@
       "source": "Pathfinder #163: Ruins of Gauntlight",
       "prerequisites": [
         {
-          "value": "訓練済みの《神秘学》または《宗教》"
+          "value": "《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -29023,7 +29023,7 @@
       "source": "Pathfinder Season of Ghosts Hardcover Compilation",
       "prerequisites": [
         {
-          "value": "《神秘学》の達人"
+          "value": "《神秘学》のマスター"
         }
       ]
     },
@@ -29078,7 +29078,7 @@
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
-          "value": "《製作》の達人"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -29167,7 +29167,7 @@
           "value": "アーティラリストデディケーション"
         },
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -29177,7 +29177,7 @@
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
-          "value": "訓練済みの《神秘学》"
+          "value": "《神秘学》の訓練済み"
         }
       ]
     },
@@ -29187,7 +29187,7 @@
       "source": "Pathfinder Lost Omens High Seas",
       "prerequisites": [
         {
-          "value": "《威圧》の専門家"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -29345,7 +29345,7 @@
       "source": "Pathfinder Adventure Path: Gatewalkers",
       "prerequisites": [
         {
-          "value": "訓練済みの《神秘学》"
+          "value": "《神秘学》の訓練済み"
         }
       ]
     },
@@ -29360,7 +29360,7 @@
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
-          "value": "訓練済みの《交渉》"
+          "value": "《交渉》の訓練済み"
         }
       ]
     },
@@ -29418,7 +29418,7 @@
       "source": "Pathfinder Season of Ghosts Hardcover Compilation",
       "prerequisites": [
         {
-          "value": "《神秘学》の達人"
+          "value": "《神秘学》のマスター"
         }
       ]
     },
@@ -29438,7 +29438,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《運動》の達人"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -29471,7 +29471,7 @@
           "value": "ゴールデンリーグ・シュンデディケーション"
         },
         {
-          "value": "《欺瞞》の専門家"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -29522,7 +29522,7 @@
           "value": "ミミックデディケーション"
         },
         {
-          "value": "《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -29552,7 +29552,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "訓練済みの《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -29682,7 +29682,7 @@
           "value": "グラディエーターデディケーション"
         },
         {
-          "value": "《芸能》の専門家"
+          "value": "《芸能》のエキスパート"
         }
       ]
     },
@@ -29855,7 +29855,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "伝説的な《威圧》"
+          "value": "《威圧》のレジェンダリー"
         }
       ]
     },
@@ -29890,7 +29890,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "伝説的なソサイエティ"
+          "value": "《社会》のレジェンダリー"
         },
         {
           "value": "多言語"
@@ -29903,7 +29903,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "伝説的な《隠密》"
+          "value": "《隠密》のレジェンダリー"
         },
         {
           "value": "迅速 〔忍び歩き〕"
@@ -29985,7 +29985,7 @@
           "value": "パスファインダー・エージェントデディケーション"
         },
         {
-          "value": "達人メディスン"
+          "value": "《医術》のマスター"
         }
       ]
     },
@@ -30104,7 +30104,7 @@
     },
     "Enhanced Familiar": {
       "name": "エンハンスト・ファミリア/Enhanced Familiar",
-      "description": "<p><strong>アニミスト</strong>あなたは同調した幻影の本質をより多く具現化することができ、それによってそれが住むためのより強力な器を作り、あなたを手助けする。</p>\n<p><strong>ドルイド</strong>あなたはあなたの親友に追加のプライマルエネルギーを注入し、その能力を高める。</p>\n<p><strong>メイガス</strong>あなたはあなたの親友に魔法のエネルギーをより多く注入する。</p>\n<p><strong>ソーサラー, ウィザード, ウィッチ</strong>あなたはあなたの親友に追加の魔法のエネルギーを注入する。</p>\n<p><strong>ソーサラー</strong>あなたは複数の魔法の伝統からの最良のものを適用することによって、親友がエネルギーを蓄えるより効率的な方法を見つけた。</p><hr /><p>あなたは毎日4つの親友またはマスター能力を選択できる。二つの代わりに。</p><hr /><p><strong>特別</strong>ウィッチであるために得るボーナスの親友能力をこの数に加える。あなたのアルカナの主題が@UUID[Compendium.pf2e.classfeatures.Item.SNZ46g3u7U6x0XJj]{Improved Familiar Attunement}である場合、あなたの親友の基本的な親友能力の数は、追加の能力を加える前に4である。</p>",
+      "description": "<p><strong>アニミスト</strong>あなたは同調した幻影の本質をより多く具現化することができ、それによってそれが住むためのより強力な器を作り、あなたを手助けする。</p>\n<p><strong>ドルイド</strong>あなたはあなたの親友に追加のプライマルエネルギーを注入し、その能力を高める。</p>\n<p><strong>メイガス</strong>あなたはあなたの親友に魔法のエネルギーをより多く注入する。</p>\n<p><strong>ソーサラー, ウィザード, ウィッチ</strong>あなたはあなたの親友に追加の魔法のエネルギーを注入する。</p>\n<p><strong>ソーサラー</strong>あなたは複数の魔法の伝統からの最良のものを適用することによって、親友がエネルギーを蓄えるより効率的な方法を見つけた。</p><hr /><p>あなたは毎日4つの親友またはマスター能力を選択できる。二つの代わりに。</p><hr /><p><strong>特別</strong>ウィッチであるために得るボーナスの親友能力をこの数に加える。あなたのアーケインの主題が@UUID[Compendium.pf2e.classfeatures.Item.SNZ46g3u7U6x0XJj]{Improved Familiar Attunement}である場合、あなたの親友の基本的な親友能力の数は、追加の能力を加える前に4である。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -30141,7 +30141,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "専門家《隠密》"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -30227,7 +30227,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "訓練済み in《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -30245,7 +30245,7 @@
           "value": "パクトバインダーデディケーション"
         },
         {
-          "value": "専門家《交渉》"
+          "value": "《交渉》のエキスパート"
         }
       ]
     },
@@ -30361,7 +30361,7 @@
       "source": "Pathfinder Lost Omens Gods & Magic",
       "prerequisites": [
         {
-          "value": "達人《宗教》"
+          "value": "《宗教》のマスター"
         },
         {
           "value": "あなたは神格を追う"
@@ -30409,7 +30409,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《軽業》におけるマスター"
+          "value": "《軽業》のマスター"
         }
       ]
     },
@@ -30678,7 +30678,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "伝説の《秘術》、《自然》、《神秘学》、または《宗教》"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》のレジェンダリー"
         }
       ]
     },
@@ -30699,7 +30699,7 @@
     },
     "Djinni Magic": {
       "name": "ジンニ・マジック/Djinni Magic",
-      "description": "<p>ジンの魔法があなたの血を流れている。あなたは@UUID[Compendium.pf2e.spells-srd.Item.g8QqHpv2CWDwmIm1]{ガスト・オヴ・ウィンド}と@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{インヴィジビリティ}を、それぞれ2レベルのアルカナの固有呪文として1日に各1回唱えることができる。</p>",
+      "description": "<p>ジンの魔法があなたの血を流れている。あなたは@UUID[Compendium.pf2e.spells-srd.Item.g8QqHpv2CWDwmIm1]{ガスト・オヴ・ウィンド}と@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{インヴィジビリティ}を、それぞれ2レベルのアーケインの固有呪文として1日に各1回唱えることができる。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Liberty or Death": {
@@ -30748,7 +30748,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《製作》の達人"
+          "value": "《製作》のマスター"
         },
         {
           "value": "魔法《製作》"
@@ -30781,7 +30781,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "《神秘学》の専門家"
+          "value": "《神秘学》のエキスパート"
         }
       ]
     },
@@ -30883,7 +30883,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -31117,7 +31117,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みに《自然》"
+          "value": "《自然》の訓練済み"
         }
       ]
     },
@@ -31157,7 +31157,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
-          "value": "《欺瞞》または《威圧》の専門家"
+          "value": "《欺瞞》または《威圧》のエキスパート"
         },
         {
           "value": "スネアクラフティング"
@@ -31218,7 +31218,7 @@
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
-          "value": "《威圧》の専門家"
+          "value": "《威圧》のエキスパート"
         },
         {
           "value": "ゴリラ構え"
@@ -31244,7 +31244,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済みに《神秘学》"
+          "value": "《神秘学》の訓練済み"
         }
       ]
     },
@@ -31297,7 +31297,7 @@
           "value": "キャプテンデディケーション"
         },
         {
-          "value": "《交渉》または《威圧》の専門家"
+          "value": "《交渉》または《威圧》のエキスパート"
         }
       ]
     },
@@ -31317,7 +31317,7 @@
       "source": "Pathfinder #207: The Resurrection Flood",
       "prerequisites": [
         {
-          "value": "訓練済みに《交渉》または《威圧》"
+          "value": "《交渉》または《威圧》の訓練済み"
         }
       ]
     },
@@ -31375,7 +31375,7 @@
       "source": "Pathfinder Kingmaker",
       "prerequisites": [
         {
-          "value": "《芸能》の専門家"
+          "value": "《芸能》のエキスパート"
         }
       ]
     },
@@ -31388,7 +31388,7 @@
           "value": "キャバリアデディケーション"
         },
         {
-          "value": "《軽業》または《運動》の専門家"
+          "value": "《軽業》または《運動》のエキスパート"
         }
       ]
     },
@@ -31456,7 +31456,7 @@
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
-          "value": "訓練済みに《隠密》"
+          "value": "《隠密》の訓練済み"
         }
       ]
     },
@@ -31536,10 +31536,10 @@
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
         {
-          "value": "あなたはメディスンの専門家"
+          "value": "《医術》のエキスパート"
         },
         {
-          "value": "あなたは《芸能》の専門家"
+          "value": "《芸能》のエキスパート"
         }
       ]
     },
@@ -31663,7 +31663,7 @@
           "value": "ジオマンセーデディケーション"
         },
         {
-          "value": "あなたは《自然》の専門家"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -31716,7 +31716,7 @@
           "value": "ドラッグダウン"
         },
         {
-          "value": "あなたは《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -31785,7 +31785,7 @@
           "value": "スターストーン・アスピラントデディケーション"
         },
         {
-          "value": "《宗教》の達人"
+          "value": "《宗教》のマスター"
         }
       ]
     },
@@ -31947,10 +31947,10 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "あなたは《神秘学》の専門家"
+          "value": "《神秘学》のエキスパート"
         },
         {
-          "value": "あなたは《生存術》の専門家"
+          "value": "《生存術》のエキスパート"
         }
       ]
     },
@@ -32006,7 +32006,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "あなたは《隠密》の達人"
+          "value": "《隠密》のマスター"
         }
       ]
     },
@@ -32140,7 +32140,7 @@
       "source": "Pathfinder Kingmaker",
       "prerequisites": [
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -32201,7 +32201,7 @@
           "value": "ハルシオンスピーカーデディケーション"
         },
         {
-          "value": "訓練済みの《自然》"
+          "value": "《自然》の訓練済み"
         },
         {
           "value": "あなたは活力のトレイトを持つ少なくとも1つの呪文を発動できる"
@@ -32224,7 +32224,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "《隠密》の熟練者"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -32712,7 +32712,7 @@
     },
     "Resplendent Spellhorn": {
       "name": "レスプレンデント・スペルホーン/Resplendent Spellhorn",
-      "description": "<p>あなたの魔法は引き続き繁栄する。一般的な3レベルのアルカナ呪文1つと一般的な4レベルのアルカナ呪文1つを選択する。あなたはこれらの呪文を1日に1回、アルカナの固有呪文として唱えることができる。</p>",
+      "description": "<p>あなたの魔法は引き続き繁栄する。一般的な3レベルのアーケイン呪文1つと一般的な4レベルのアーケイン呪文1つを選択する。あなたはこれらの呪文を1日に1回、アーケインの固有呪文として唱えることができる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -32805,7 +32805,7 @@
           "value": "元帥デディケーション"
         },
         {
-          "value": "訓練済みは《欺瞞》において"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -32928,7 +32928,7 @@
           "value": "ジャグラーデディケーション"
         },
         {
-          "value": "あなたは《芸能》の専門家"
+          "value": "《芸能》のエキスパート"
         }
       ]
     },
@@ -32959,7 +32959,7 @@
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
-          "value": "あなたは《秘術》の専門家"
+          "value": "《秘術》のエキスパート"
         },
         {
           "value": "アーケイン感覚"
@@ -32995,7 +32995,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "あなたは《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -33091,7 +33091,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "あなたは《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         },
         {
           "value": "警察官デディケーション"
@@ -33260,7 +33260,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《運動》の達人"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -33331,7 +33331,7 @@
           "value": "ビークルメカニックデディケーション"
         },
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -33456,7 +33456,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済みに《神秘学》"
+          "value": "《神秘学》の訓練済み"
         }
       ]
     },
@@ -33521,7 +33521,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《宗教》の専門家"
+          "value": "《宗教》のエキスパート"
         },
         {
           "value": "あなたは\"聖なる\"または\"不聖なる\"と記載されている神格を崇拝しなければならない"
@@ -33534,7 +33534,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにソサイエティ"
+          "value": "《社会》の訓練済み"
         }
       ]
     },
@@ -33609,7 +33609,7 @@
       "source": "Pathfinder Lost Omens High Seas",
       "prerequisites": [
         {
-          "value": "《軽業》または《運動》に訓練済み"
+          "value": "《軽業》または《運動》の訓練済み"
         }
       ]
     },
@@ -33622,7 +33622,7 @@
           "value": "セレブリティデディケーション"
         },
         {
-          "value": "《芸能》の達人"
+          "value": "《芸能》のマスター"
         }
       ]
     },
@@ -33803,7 +33803,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《隠密》の専門家"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -33829,7 +33829,7 @@
           "value": "6レベル以上の呪文を呪文スロットから唱える能力"
         },
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         },
         {
           "value": "儀式を完了してリッチになり、ソウルケージを作成した"
@@ -33872,7 +33872,7 @@
       "source": "Pathfinder Kingmaker",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -33965,10 +33965,10 @@
           "value": "訓練済みの一種の一手銃における"
         },
         {
-          "value": "訓練済みにおける《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         },
         {
-          "value": "訓練済みにおける《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -33995,7 +33995,7 @@
     },
     "Ancestral Mind": {
       "name": "アンセストラル・マインド/Ancestral Mind",
-      "description": "<p>あなたは先祖から受け継がれ、あなたの気絶の心に埋もれた記憶とつながりを解きほぐすことで、内なる魔法を精神的な力に変換することを学ぶ。あなたは、あなたの精神的な呪文詠唱と考え方を使用して、知っているいかなる内在的な呪文もアンセストラル特技や血統から唱えることができる。そうすることで、呪文の系統は、すでにそうでなければ、オカルティズムとなり、呪文攻撃修正を決定する際に魅力の代わりにあなたの精神的な呪文詠唱の属性修正値を使用できる。DC。</p>",
+      "description": "<p>あなたは先祖から受け継がれ、あなたの気絶の心に埋もれた記憶とつながりを解きほぐすことで、内なる魔法を精神的な力に変換することを学ぶ。あなたは、あなたの精神的な呪文詠唱と考え方を使用して、知っているいかなる内在的な呪文もアンセストラル特技や血統から唱えることができる。そうすることで、呪文の系統は、すでにそうでなければ、オカルトとなり、呪文攻撃修正を決定する際に魅力の代わりにあなたの精神的な呪文詠唱の属性修正値を使用できる。DC。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Gird Champion": {
@@ -34039,7 +34039,7 @@
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《軽業》とミディアムアーマー"
+          "value": "《軽業》と中装鎧の訓練済み"
         }
       ]
     },
@@ -34085,7 +34085,7 @@
           "value": "ゲリラデディケーション"
         },
         {
-          "value": "《隠密》と《生存術》の達人"
+          "value": "《隠密》と《生存術》のマスター"
         }
       ]
     },
@@ -34115,7 +34115,7 @@
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
-          "value": "訓練済みにおける武器"
+          "value": "軍用武器の訓練済み"
         }
       ]
     },
@@ -34173,7 +34173,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《製作》の達人"
+          "value": "《製作》のマスター"
         },
         {
           "value": "専門性《製作》"
@@ -34259,7 +34259,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《軽業》の達人"
+          "value": "《軽業》のマスター"
         }
       ]
     },
@@ -34272,7 +34272,7 @@
           "value": "ポイズナーデディケーション"
         },
         {
-          "value": "訓練済みにおけるメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -34345,7 +34345,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《自然》の専門家"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -34371,7 +34371,7 @@
           "value": "基本のクレリックスペルキャスティング"
         },
         {
-          "value": "《宗教》の達人"
+          "value": "《宗教》のマスター"
         }
       ]
     },
@@ -34405,7 +34405,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "《隠密》の専門家"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -34498,10 +34498,10 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済みが《威圧》にある"
+          "value": "《威圧》の訓練済み"
         },
         {
-          "value": "訓練済みが《隠密》にある"
+          "value": "《隠密》の訓練済み"
         }
       ]
     },
@@ -34546,7 +34546,7 @@
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
-          "value": "訓練済みが《宗教》にある"
+          "value": "《宗教》の訓練済み"
         }
       ]
     },
@@ -34680,7 +34680,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みがソサイエティにあり、そして《盗賊術》"
+          "value": "《社会》と《盗賊術》の訓練済み"
         }
       ]
     },
@@ -34758,7 +34758,7 @@
           "value": "サクラー・ロード"
         },
         {
-          "value": "《神秘学》または《宗教》の達人"
+          "value": "《神秘学》または《宗教》のマスター"
         }
       ]
     },
@@ -34889,7 +34889,7 @@
           "value": "スペルショットデディケーション"
         },
         {
-          "value": "《秘術》の達人"
+          "value": "《秘術》のマスター"
         }
       ]
     },
@@ -34932,7 +34932,7 @@
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
-          "value": "訓練済み中装甲と武器を使う"
+          "value": "中装鎧と軍用武器の訓練済み"
         }
       ]
     },
@@ -34965,7 +34965,7 @@
           "value": "基本のリヴェサンスペルキャスティング"
         },
         {
-          "value": "《宗教》の達人"
+          "value": "《宗教》のマスター"
         }
       ]
     },
@@ -35076,7 +35076,7 @@
           "value": "エキスパートサイキックスペルキャスティング"
         },
         {
-          "value": "《神秘学》の伝説"
+          "value": "《神秘学》のレジェンダリー"
         }
       ]
     },
@@ -35086,7 +35086,7 @@
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
-          "value": "訓練済み《生存術》の中で"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -35165,7 +35165,7 @@
     },
     "Dragon Prince": {
       "name": "ドラゴン・プリンス/Dragon Prince",
-      "description": "<p>あなたの血にはドラゴンの王の血が強く流れている。あなたのドラコニックの血筋は明らかで、髪はほぼ完全に深紅、蒼、またはそれに類似しており、ドラゴンの鱗のように光り輝いている。あなたは、1日1回、内在的なアルカナ呪文として@UUID[Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE]{ドラゴン・ブレス}のソーサラー血統呪文を唱えることができるが、あなたの血筋に関連し、あなたのドラゴンスピットフィートのエネルギータイプと一致するドラゴンのブレスしか使用できない。12レベルとその後は3レベルごとに、呪文はさらに追加の呪文ランク分高位化される。</p>",
+      "description": "<p>あなたの血にはドラゴンの王の血が強く流れている。あなたのドラコニックの血筋は明らかで、髪はほぼ完全に深紅、蒼、またはそれに類似しており、ドラゴンの鱗のように光り輝いている。あなたは、1日1回、内在的なアーケイン呪文として@UUID[Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE]{ドラゴン・ブレス}のソーサラー血統呪文を唱えることができるが、あなたの血筋に関連し、あなたのドラゴンスピットフィートのエネルギータイプと一致するドラゴンのブレスしか使用できない。12レベルとその後は3レベルごとに、呪文はさらに追加の呪文ランク分高位化される。</p>",
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
@@ -35300,7 +35300,7 @@
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
-          "value": "《欺瞞》の専門家"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -35363,7 +35363,7 @@
           "value": "準備するエレメンタルメディスン"
         },
         {
-          "value": "《神秘学》の専門家"
+          "value": "《神秘学》のエキスパート"
         }
       ]
     },
@@ -35396,7 +35396,7 @@
           "value": "アルケンスタールエージェントデディケーション"
         },
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -35416,7 +35416,7 @@
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
-          "value": "《交渉》の専門家"
+          "value": "《交渉》のエキスパート"
         }
       ]
     },
@@ -35692,7 +35692,7 @@
           "value": "エニグマ・ミューズ"
         },
         {
-          "value": "伝説的な《神秘学》"
+          "value": "《神秘学》のレジェンダリー"
         }
       ]
     },
@@ -35767,7 +35767,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -35777,7 +35777,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるメディスン"
+          "value": "《医術》の訓練済み"
         },
         {
           "value": "弱体化する〔ストライク〕"
@@ -35803,7 +35803,7 @@
           "value": "トワイライト・タロンデディケーション"
         },
         {
-          "value": "《欺瞞》のマスター"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -35824,7 +35824,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         },
         {
           "value": "スネアクラフティング"
@@ -35935,7 +35935,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -35960,7 +35960,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《隠密》と《生存術》"
+          "value": "《隠密》と《生存術》の訓練済み"
         }
       ]
     },
@@ -36028,7 +36028,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -36064,7 +36064,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -36154,7 +36154,7 @@
           "value": "有名人またはダンディ"
         },
         {
-          "value": "伝説的な《芸能》"
+          "value": "《芸能》のレジェンダリー"
         }
       ]
     },
@@ -36174,7 +36174,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "マスターステルス"
+          "value": "《隠密》のマスター"
         }
       ]
     },
@@ -36214,7 +36214,7 @@
       "source": "Pathfinder #213: Thirst for Blood",
       "prerequisites": [
         {
-          "value": "マスター知覚"
+          "value": "《知覚》のマスター"
         }
       ]
     },
@@ -36269,7 +36269,7 @@
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
-          "value": "訓練済みメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -36297,7 +36297,7 @@
           "value": "ソーサラーデディケーション"
         },
         {
-          "value": "ウィルの専門家"
+          "value": "意志セーヴのエキスパート"
         }
       ]
     },
@@ -36449,7 +36449,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "専門家《宗教》"
+          "value": "《宗教》のエキスパート"
         },
         {
           "value": "特定の宗教の信奉者"
@@ -36566,7 +36566,7 @@
           "value": "気を取られたをソサイエティによって"
         },
         {
-          "value": "専門家ソサイエティまたは《生存術》"
+          "value": "《社会》または《生存術》のエキスパート"
         }
       ]
     },
@@ -36626,7 +36626,7 @@
       "source": "Pathfinder Lost Omens High Seas",
       "prerequisites": [
         {
-          "value": "《運動》において訓練済み"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -36651,7 +36651,7 @@
       "source": "Pathfinder #210: Whispers in the Dirt",
       "prerequisites": [
         {
-          "value": "専門家《隠密》"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -36739,7 +36739,7 @@
       "source": "Pathfinder #166: Despair on Danger Island",
       "prerequisites": [
         {
-          "value": "訓練済みは《神秘学》または《宗教》において"
+          "value": "《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -36832,7 +36832,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済み軽装鎧と単純な武器で"
+          "value": "軽装鎧と単純武器の訓練済み"
         }
       ]
     },
@@ -36855,7 +36855,7 @@
           "value": "マシャルデディケーション"
         },
         {
-          "value": "訓練済みは《威圧》において"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -36865,7 +36865,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みは《神秘学》において"
+          "value": "《神秘学》の訓練済み"
         }
       ]
     },
@@ -36880,7 +36880,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "レジェンダリーアクロバティクス"
+          "value": "《軽業》のレジェンダリー"
         }
       ]
     },
@@ -36904,7 +36904,7 @@
           "value": "永遠の伝説デディケーション"
         },
         {
-          "value": "頑健または反応のセーヴでの達人"
+          "value": "頑健セーヴまたは反応セーヴのマスター"
         }
       ]
     },
@@ -36932,7 +36932,7 @@
           "value": "動物の仲間またはファミリア"
         },
         {
-          "value": "《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         },
         {
           "value": "ヴィジランテデディケーション"
@@ -37045,7 +37045,7 @@
           "value": "アンデッドスレイヤーデディケーション"
         },
         {
-          "value": "訓練済みは《威圧》において"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -37068,7 +37068,7 @@
           "value": "ソードマスターデディケーション"
         },
         {
-          "value": "《製作》の達人"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -37153,7 +37153,7 @@
           "value": "リアニメーターデディケーション"
         },
         {
-          "value": "《秘術》、《神秘学》、または《宗教》の達人"
+          "value": "《秘術》、《神秘学》または《宗教》のエキスパート"
         }
       ]
     },
@@ -37299,7 +37299,7 @@
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
-          "value": "《宗教》の専門家"
+          "value": "《宗教》のエキスパート"
         }
       ]
     },
@@ -37367,7 +37367,7 @@
       "source": "Pathfinder #152: Legacy of the Lost God",
       "prerequisites": [
         {
-          "value": "あなたは《自然》の達人"
+          "value": "《自然》のマスター"
         },
         {
           "value": "動物トレーナーデディケーション"
@@ -37395,7 +37395,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "あなたは《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -37421,7 +37421,7 @@
           "value": "ウォルケナの信者ではない"
         },
         {
-          "value": "訓練済みに《隠密》"
+          "value": "《隠密》の訓練済み"
         },
         {
           "value": "ブライトライオンの背景"
@@ -37452,7 +37452,7 @@
           "value": "基本的なサイキックスペルキャスティング"
         },
         {
-          "value": "あなたは《神秘学》の達人"
+          "value": "《神秘学》のマスター"
         }
       ]
     },
@@ -37520,7 +37520,7 @@
           "value": "ヴァンパイアデディケーション"
         },
         {
-          "value": "訓練済みに《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -37546,7 +37546,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《盗賊術》の専門家"
+          "value": "《盗賊術》のエキスパート"
         }
       ]
     },
@@ -37556,7 +37556,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "メディスンの専門家"
+          "value": "《医術》のエキスパート"
         }
       ]
     },
@@ -37614,7 +37614,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "メディスンの専門家"
+          "value": "《医術》のエキスパート"
         }
       ]
     },
@@ -37756,7 +37756,7 @@
           "value": "ファンダンサーデディケーション"
         },
         {
-          "value": "マスター in《芸能》"
+          "value": "《芸能》のマスター"
         }
       ]
     },
@@ -37801,7 +37801,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
-          "value": "訓練済み in《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -37871,7 +37871,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "マスター in《隠密》"
+          "value": "《隠密》のマスター"
         }
       ]
     },
@@ -37891,7 +37891,7 @@
       "source": "Pathfinder Lost Omens High Seas",
       "prerequisites": [
         {
-          "value": "《運動》において訓練済み"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -37901,7 +37901,7 @@
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
         {
-          "value": "エキスパート in《芸能》"
+          "value": "《芸能》のエキスパート"
         },
         {
           "value": "バーチャス・パフォーマー"
@@ -38089,7 +38089,7 @@
           "value": "レンジャーデディケーション"
         },
         {
-          "value": "エキスパート in知覚"
+          "value": "《知覚》のエキスパート"
         }
       ]
     },
@@ -38126,7 +38126,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "訓練済み in《秘術》または《自然》"
+          "value": "《秘術》または《自然》の訓練済み"
         }
       ]
     },
@@ -38380,7 +38380,7 @@
           "value": "黄金連盟シュンデディケーション"
         },
         {
-          "value": "《威圧》の専門家"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -38518,7 +38518,7 @@
     },
     "Ward Mind": {
       "name": "ウォード・マインド/Ward Mind",
-      "description": "<p><strong>必要条件</strong>あなたは現在、セーヴィング・スローに失敗したが、重大な失敗ではない精神的効果の影響を受けている。</p>\n<p><strong>トリガー</strong>あなたのターンは終了する。</p>\n<hr />\n<p>あなたの心の中の知識を侵入や消去から守るために、あなたはあなた自身に対する精神攻撃を防御し、一時的にその効果を遅延させる。あなたの次のターンの終わりまで、要件を満たす単一の精神効果を無視することができる。あなたは、Ward MindまたはCognitive Loopholeを使用して特定の効果を抑制することができるが、それは両方の特技を持っていても1回だけである。</p>\n<hr />\n<p><strong>特別</strong>あなたは、このリアクションを使用できる、たとえ精神的効果があなたの反応の使用を妨げても。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは現在、セーヴィング・スローに失敗したが、クリティカル失敗ではない精神的効果の影響を受けている。</p>\n<p><strong>トリガー</strong>あなたのターンは終了する。</p>\n<hr />\n<p>あなたの心の中の知識を侵入や消去から守るために、あなたはあなた自身に対する精神攻撃を防御し、一時的にその効果を遅延させる。あなたの次のターンの終わりまで、要件を満たす単一の精神効果を無視することができる。あなたは、Ward MindまたはCognitive Loopholeを使用して特定の効果を抑制することができるが、それは両方の特技を持っていても1回だけである。</p>\n<hr />\n<p><strong>特別</strong>あなたは、このリアクションを使用できる、たとえ精神的効果があなたの反応の使用を妨げても。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
         {
@@ -38545,7 +38545,7 @@
           "value": "荒れた地形構え"
         },
         {
-          "value": "《自然》の達人"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -38568,7 +38568,7 @@
           "value": "基本的なドルイドスペルキャスティング"
         },
         {
-          "value": "《自然》の達人"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -38646,7 +38646,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -38807,7 +38807,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -38867,7 +38867,7 @@
       "source": "Pathfinder #170: Spoken on the Song Wind",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -38885,7 +38885,7 @@
           "value": "ナイト・ヴィジラントデディケーション"
         },
         {
-          "value": "《交渉》の達人"
+          "value": "《交渉》のマスター"
         }
       ]
     },
@@ -39153,7 +39153,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -39203,7 +39203,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《欺瞞》の専門家"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -39213,7 +39213,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済みの《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -39266,7 +39266,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -39304,7 +39304,7 @@
           "value": "アサシンデディケーションまたは〔偵察〕 デディケーション"
         },
         {
-          "value": "《隠密》の達人"
+          "value": "《隠密》のマスター"
         }
       ]
     },
@@ -39335,7 +39335,7 @@
           "value": "悪の属性"
         },
         {
-          "value": "訓練済みの《宗教》"
+          "value": "《宗教》の訓練済み"
         }
       ]
     },
@@ -39383,7 +39383,7 @@
           "value": "アルケミストデディケーション"
         },
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -39504,7 +39504,7 @@
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済みは《製作》の中にある"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -39923,7 +39923,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "知覚の専門家"
+          "value": "《知覚》のエキスパート"
         }
       ]
     },
@@ -39949,7 +39949,7 @@
           "value": "素早い偽装"
         },
         {
-          "value": "《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -39969,7 +39969,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みは《隠密》の中にある"
+          "value": "《隠密》の訓練済み"
         }
       ]
     },
@@ -40117,7 +40117,7 @@
           "value": "調査員デディケーション"
         },
         {
-          "value": "知覚の専門家"
+          "value": "《知覚》のエキスパート"
         }
       ]
     },
@@ -40137,7 +40137,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《威圧》"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -40157,7 +40157,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《生存術》の伝説的な存在"
+          "value": "《生存術》のレジェンダリー"
         }
       ]
     },
@@ -40190,7 +40190,7 @@
           "value": "スティール・ファルコンデディケーション"
         },
         {
-          "value": "《威圧》において訓練済み"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -40238,7 +40238,7 @@
           "value": "キャプテンデディケーション"
         },
         {
-          "value": "《交渉》または《威圧》の伝説的な存在"
+          "value": "《交渉》または《威圧》のレジェンダリー"
         }
       ]
     },
@@ -40370,7 +40370,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《運動》の達人"
+          "value": "《運動》のエキスパート"
         },
         {
           "value": "派手なアスリート"
@@ -40464,7 +40464,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -40529,7 +40529,7 @@
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
-          "value": "ソサイエティの専門家"
+          "value": "《社会》のエキスパート"
         },
         {
           "value": "接続または犯罪的接続"
@@ -40646,7 +40646,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -40666,7 +40666,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《製作》の達人"
+          "value": "《製作》のマスター"
         },
         {
           "value": "親方デディケーション"
@@ -40792,7 +40792,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -40810,7 +40810,7 @@
           "value": "ゴーレムグラフターデディケーション"
         },
         {
-          "value": "素手攻撃の専門家"
+          "value": "素手攻撃のエキスパート"
         }
       ]
     },
@@ -40823,7 +40823,7 @@
           "value": "イーグル騎士デディケーション"
         },
         {
-          "value": "《交渉》の専門家"
+          "value": "《交渉》のエキスパート"
         }
       ]
     },
@@ -40861,7 +40861,7 @@
           "value": "ジオマンサーデディケーション"
         },
         {
-          "value": "《自然》の達人"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -40907,7 +40907,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みを《運動》で"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -40917,7 +40917,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "アルカナまたは原始的なパトロン"
+          "value": "アーケインまたはプライマルのパトロン"
         }
       ]
     },
@@ -40998,7 +40998,7 @@
           "value": "多才のミューズ"
         },
         {
-          "value": "《神秘学》の達人"
+          "value": "《神秘学》のマスター"
         }
       ]
     },
@@ -41038,10 +41038,10 @@
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
-          "value": "《隠密》の達人"
+          "value": "《隠密》のマスター"
         },
         {
-          "value": "訓練済みを《生存術》で"
+          "value": "《生存術》の訓練済み"
         },
         {
           "value": "地形のストーカー"
@@ -41069,7 +41069,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -41104,7 +41104,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《軽業》における伝説的"
+          "value": "《軽業》のレジェンダリー"
         }
       ]
     },
@@ -41237,7 +41237,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -41282,7 +41282,7 @@
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
-          "value": "訓練済みの《神秘学》または《宗教》"
+          "value": "《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -41297,7 +41297,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "伝説的な《運動》"
+          "value": "《運動》のレジェンダリー"
         }
       ]
     },
@@ -41449,7 +41449,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "訓練済みの戦闘武器"
+          "value": "軍用武器の訓練済み"
         }
       ]
     },
@@ -41467,7 +41467,7 @@
           "value": "タイムメイジデディケーション"
         },
         {
-          "value": "知覚のマスター"
+          "value": "《知覚》のマスター"
         }
       ]
     },
@@ -41558,7 +41558,7 @@
           "value": "《欺瞞》のエキスパート"
         },
         {
-          "value": "ソサイエティのエキスパート"
+          "value": "《社会》のエキスパート"
         }
       ]
     },
@@ -41578,7 +41578,7 @@
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
-          "value": "訓練済みの《自然》または《生存術》"
+          "value": "《自然》または《生存術》の訓練済み"
         }
       ]
     },
@@ -41724,7 +41724,7 @@
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》と《宗教》"
+          "value": "《運動》と《宗教》の訓練済み"
         }
       ]
     },
@@ -41774,7 +41774,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《製作》のエキスパート"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -41889,7 +41889,7 @@
       "source": "Pathfinder Season of Ghosts Hardcover Compilation",
       "prerequisites": [
         {
-          "value": "《神秘学》の達人"
+          "value": "《神秘学》のマスター"
         }
       ]
     },
@@ -41899,7 +41899,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "訓練済みの中の《自然》"
+          "value": "《自然》の訓練済み"
         }
       ]
     },
@@ -42028,7 +42028,7 @@
       "source": "Pathfinder Adventure Path: Gatewalkers",
       "prerequisites": [
         {
-          "value": "訓練済みのソサイエティ"
+          "value": "《社会》の訓練済み"
         },
         {
           "value": "あなたはイルヴェラニエルフである"
@@ -42107,7 +42107,7 @@
           "value": "ビークル・メカニックデディケーション"
         },
         {
-          "value": "《製作》の達人"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -42122,7 +42122,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済みの《交渉》として、《秘術》、ネイチャーオカルティズム、または《宗教》のいずれか"
+          "value": "訓練済みの《交渉》として、《秘術》、《自然》、《神秘学》、または《宗教》のいずれか"
         }
       ]
     },
@@ -42200,7 +42200,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《欺瞞》または《交渉》の専門家"
+          "value": "《欺瞞》または《交渉》のエキスパート"
         }
       ]
     },
@@ -42213,7 +42213,7 @@
           "value": "魅力 +2"
         },
         {
-          "value": "訓練済みの《欺瞞》と《交渉》"
+          "value": "《欺瞞》と《交渉》の訓練済み"
         }
       ]
     },
@@ -42248,7 +42248,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《威圧》"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -42271,7 +42271,7 @@
           "value": "ゲリラデディケーション"
         },
         {
-          "value": "《隠密》の専門家"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -42314,7 +42314,7 @@
           "value": "オーバーウォッチデディケーション"
         },
         {
-          "value": "知覚の専門家"
+          "value": "《知覚》のエキスパート"
         }
       ]
     },
@@ -42344,7 +42344,7 @@
       "source": "Pathfinder Lost Omens Draconic Codex",
       "prerequisites": [
         {
-          "value": "訓練済みの《秘術》、《自然》、《神秘学》、または《宗教》"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -42422,7 +42422,7 @@
       "source": "Pathfinder Lost Omens Gods & Magic",
       "prerequisites": [
         {
-          "value": "《製作》の達人"
+          "value": "《製作》のマスター"
         },
         {
           "value": "神格で癒しの神聖なフォントを与える"
@@ -42448,7 +42448,7 @@
           "value": "ダンディデディケーション"
         },
         {
-          "value": "《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -42509,7 +42509,7 @@
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《自然》と《宗教》"
+          "value": "《自然》と《宗教》の訓練済み"
         }
       ]
     },
@@ -42633,7 +42633,7 @@
           "value": "トラップスミスデディケーション"
         },
         {
-          "value": "《製作》の達人"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -42724,7 +42724,7 @@
           "value": "アクロバットまたはグラディエーターデディケーション"
         },
         {
-          "value": "《軽業》におけるレジェンダリー"
+          "value": "《軽業》のレジェンダリー"
         }
       ]
     },
@@ -42907,7 +42907,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -42947,7 +42947,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《秘術》, 《自然》, 《神秘学》, または《宗教》"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -42960,7 +42960,7 @@
           "value": "基本的なアニミストスペルキャスティング"
         },
         {
-          "value": "《宗教》の達人"
+          "value": "《宗教》のマスター"
         }
       ]
     },
@@ -42980,7 +42980,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《生存術》"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -43099,7 +43099,7 @@
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
-          "value": "あなたは《欺瞞》, 《交渉》, または《威圧》の専門家"
+          "value": "《欺瞞》、《交渉》または《威圧》のエキスパート"
         },
         {
           "value": "ファイアブランドの自慢屋デディケーション"
@@ -43117,7 +43117,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "あなたは知覚において伝説的"
+          "value": "《知覚》のレジェンダリー"
         }
       ]
     },
@@ -43243,7 +43243,7 @@
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
-          "value": "あなたは《運動》の専門家"
+          "value": "《運動》のエキスパート"
         },
         {
           "value": "パスファインダー・エージェントデディケーション"
@@ -43301,7 +43301,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《秘術》, 《自然》, 《神秘学》, または《宗教》"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -43344,7 +43344,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《生存術》"
+          "value": "《生存術》の訓練済み"
         },
         {
           "value": "センティネルデディケーション"
@@ -43373,7 +43373,7 @@
     },
     "Wayfinder Resonance Tinkerer": {
       "name": "ウェイファインダー・レゾナンス・ティンカラー/Wayfinder Resonance Tinkerer",
-      "description": "<p>あなたは、あなたの<em>ウェイファインダー</em>の異常な共鳴を利用して追加効果を付与することができる。アーケイン、神聖、オカルト、または原始のリストから1つのキャントリップを選択する。あなたは、<em>ウェイファインダー</em>を使用して、そのキャントリップを意のままに発動できる。通常通り、このキャントリップはあなたのレベルの半分を切り上げた値に等しい呪文ランクに高位化される。さらに、あなたは起動あなたの<em>ウェイファインダー</em>を<span class=\"action-glyph\">1</span>の(発想する)発動で、パスファインダーソサイエティとの関連を隠すために、無特徴なピンまたはブローチに変形させることができる。この変形は1時間の間持続する。</p>",
+      "description": "<p>あなたは、あなたの<em>ウェイファインダー</em>の異常な共鳴を利用して追加効果を付与することができる。アーケイン、ディバイン、オカルト、またはプライマルのリストから1つのキャントリップを選択する。あなたは、<em>ウェイファインダー</em>を使用して、そのキャントリップを意のままに発動できる。通常通り、このキャントリップはあなたのレベルの半分を切り上げた値に等しい呪文ランクに高位化される。さらに、あなたは起動あなたの<em>ウェイファインダー</em>を<span class=\"action-glyph\">1</span>の(発想する)発動で、パスファインダーソサイエティとの関連を隠すために、無特徴なピンまたはブローチに変形させることができる。この変形は1時間の間持続する。</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
@@ -43387,10 +43387,10 @@
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
-          "value": "訓練済みの《製作》"
+          "value": "《製作》の訓練済み"
         },
         {
-          "value": "訓練済みの《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -43436,7 +43436,7 @@
           "value": "ピストルツイスト"
         },
         {
-          "value": "あなたは《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -43502,7 +43502,7 @@
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
-          "value": "あなたは《欺瞞》の達人"
+          "value": "《欺瞞》のエキスパート"
         },
         {
           "value": "ヴィジランテデディケーション"
@@ -43622,7 +43622,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《製作》における伝説的なスキル"
+          "value": "《製作》のレジェンダリー"
         }
       ]
     },
@@ -43680,7 +43680,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《秘術》, 《自然》, 《神秘学》, または《宗教》において専門的である"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》のエキスパート"
         }
       ]
     },
@@ -43860,7 +43860,7 @@
           "value": "パクトバインダーデディケーション"
         },
         {
-          "value": "《神秘学》におけるマスター"
+          "value": "《神秘学》のマスター"
         }
       ]
     },
@@ -44047,7 +44047,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《自然》における伝説的なスキル"
+          "value": "《自然》のレジェンダリー"
         },
         {
           "value": "マスターモンスターハンター"
@@ -44105,7 +44105,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "アルカナバンド"
+          "value": "アーケイン・ボンド"
         }
       ]
     },
@@ -44203,7 +44203,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《運動》に精通している"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -44233,7 +44233,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《生存術》に伝説的である"
+          "value": "《生存術》のレジェンダリー"
         }
       ]
     },
@@ -44256,7 +44256,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《生存術》の達人"
+          "value": "《生存術》のマスター"
         },
         {
           "value": "好ましい地形"
@@ -44269,7 +44269,7 @@
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
-          "value": "《運動》において訓練済み"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -44336,7 +44336,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -44406,7 +44406,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -44444,7 +44444,7 @@
           "value": "オーバーウォッチデディケーション"
         },
         {
-          "value": "知覚の達人"
+          "value": "《知覚》のマスター"
         }
       ]
     },
@@ -44593,7 +44593,7 @@
           "value": "ナイト・ヴィジラント"
         },
         {
-          "value": "威力セーヴに精通している"
+          "value": "意志セーヴのエキスパート"
         }
       ]
     },
@@ -44606,7 +44606,7 @@
           "value": "タトゥーアーティスト"
         },
         {
-          "value": "《製作》の達人"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -44709,7 +44709,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
-          "value": "訓練済みの《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -44973,7 +44973,7 @@
       "source": "Pathfinder #147: Tomorrow Must Burn",
       "prerequisites": [
         {
-          "value": "《製作》のエキスパート"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -45291,7 +45291,7 @@
           "value": "フィールド・プロパガンディストデディケーション"
         },
         {
-          "value": "《欺瞞》における専門家"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -45344,7 +45344,7 @@
           "value": "ガンスリンガーデディケーション"
         },
         {
-          "value": "知覚における専門家"
+          "value": "《知覚》のエキスパート"
         }
       ]
     },
@@ -45405,10 +45405,10 @@
           "value": "フルミネイティング・シナジー"
         },
         {
-          "value": "《秘術》における伝説的存在"
+          "value": "《秘術》のレジェンダリー"
         },
         {
-          "value": "《自然》における伝説的存在"
+          "value": "《自然》のレジェンダリー"
         }
       ]
     },
@@ -45458,7 +45458,7 @@
       "source": "Pathfinder #147: Tomorrow Must Burn",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -45476,7 +45476,7 @@
           "value": "オーバーウォッチデディケーション"
         },
         {
-          "value": "知覚における達人"
+          "value": "《知覚》のマスター"
         }
       ]
     },
@@ -45496,7 +45496,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済みの《神秘学》または《宗教》"
+          "value": "《神秘学》または《宗教》の訓練済み"
         }
       ]
     },
@@ -45506,7 +45506,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《自然》"
+          "value": "《自然》の訓練済み"
         }
       ]
     },
@@ -45543,7 +45543,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みの《自然》"
+          "value": "《自然》の訓練済み"
         }
       ]
     },
@@ -45573,7 +45573,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるソサイエティ"
+          "value": "《社会》の訓練済み"
         }
       ]
     },
@@ -45583,7 +45583,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -45863,7 +45863,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "《自然》の達人"
+          "value": "《自然》のマスター"
         }
       ]
     },
@@ -46041,7 +46041,7 @@
       "source": "Pathfinder Lost Omens Firebrands",
       "prerequisites": [
         {
-          "value": "訓練済みに《欺瞞》"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -46119,10 +46119,10 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みに《軽業》"
+          "value": "《軽業》の訓練済み"
         },
         {
-          "value": "訓練済みに《運動》"
+          "value": "《運動》の訓練済み"
         },
         {
           "value": "海賊デディケーション"
@@ -46173,7 +46173,7 @@
           "value": "エキスパートリヴェサンスペルキャスティング"
         },
         {
-          "value": "《宗教》における伝説的"
+          "value": "《宗教》のレジェンダリー"
         }
       ]
     },
@@ -46186,7 +46186,7 @@
           "value": "ダンディデディケーション"
         },
         {
-          "value": "ソサイエティの達人"
+          "value": "《社会》のエキスパート"
         }
       ]
     },
@@ -46206,7 +46206,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "ソサイエティの達人"
+          "value": "《社会》のエキスパート"
         }
       ]
     },
@@ -46219,7 +46219,7 @@
           "value": "騎士再請求者デディケーション"
         },
         {
-          "value": "《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -46274,7 +46274,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -46317,7 +46317,7 @@
           "value": "言語学者デディケーション"
         },
         {
-          "value": "あなたはソサイエティの専門家"
+          "value": "《社会》のエキスパート"
         }
       ]
     },
@@ -46524,7 +46524,7 @@
           "value": "エキスパートアニミストスペルキャスティング"
         },
         {
-          "value": "《宗教》における伝説的"
+          "value": "《宗教》のレジェンダリー"
         }
       ]
     },
@@ -46589,7 +46589,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -46634,7 +46634,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "あなたは《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -46708,7 +46708,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるソサイエティ"
+          "value": "《社会》の訓練済み"
         }
       ]
     },
@@ -46721,7 +46721,7 @@
           "value": "基本的な預言者スペルキャスティング"
         },
         {
-          "value": "ソサイエティにおける達人"
+          "value": "《社会》のエキスパート"
         }
       ]
     },
@@ -46731,7 +46731,7 @@
       "source": "Pathfinder #213: Thirst for Blood",
       "prerequisites": [
         {
-          "value": "訓練済みにおけるメディスン"
+          "value": "《医術》の訓練済み"
         }
       ]
     },
@@ -46754,7 +46754,7 @@
           "value": "リッチデディケーション"
         },
         {
-          "value": "《製作》における伝説的"
+          "value": "《製作》のレジェンダリー"
         }
       ]
     },
@@ -46830,7 +46830,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《宗教》"
+          "value": "《宗教》の訓練済み"
         }
       ]
     },
@@ -46868,7 +46868,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《運動》における達人"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -46925,7 +46925,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "マスター in《製作》"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -47154,7 +47154,7 @@
           "value": "オルターエゴデディケーションまたは考古学者デディケーション"
         },
         {
-          "value": "訓練済み inソサイエティ"
+          "value": "《社会》の訓練済み"
         }
       ]
     },
@@ -47185,7 +47185,7 @@
     },
     "Cloud Walk": {
       "name": "クラウド・ウォーク/Cloud Walk",
-      "description": "<p>あなたの雲のドラゴンとの結びつきが強まり、雲の上を歩く能力を授けられる。1時間に1回、あなたは@UUID[Compendium.pf2e.spells-srd.Item.b5sGjGlBf58f8jn0]{エア・ウォーク}をあなた自身に対して固有のアルカナ呪文として詠唱できるが、雲や霧の上を歩くためだけである。</p>",
+      "description": "<p>あなたの雲のドラゴンとの結びつきが強まり、雲の上を歩く能力を授けられる。1時間に1回、あなたは@UUID[Compendium.pf2e.spells-srd.Item.b5sGjGlBf58f8jn0]{エア・ウォーク}をあなた自身に対して固有のアーケイン呪文として詠唱できるが、雲や霧の上を歩くためだけである。</p>",
       "source": "Pathfinder #171: Hurricane's Howl",
       "prerequisites": [
         {
@@ -47242,7 +47242,7 @@
           "value": "筋力 +3"
         },
         {
-          "value": "エキスパート in《威圧》"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -47279,7 +47279,7 @@
           "value": "軽装甲、中装甲、または無防御のエキスパート"
         },
         {
-          "value": "訓練済み in重装甲"
+          "value": "重装鎧の訓練済み"
         }
       ]
     },
@@ -47413,7 +47413,7 @@
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
         {
-          "value": "訓練済みの《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -47536,7 +47536,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済みの《神秘学》"
+          "value": "《神秘学》の訓練済み"
         },
         {
           "value": "あなたは精神的な決闘に参加した"
@@ -47549,7 +47549,7 @@
       "source": "Pathfinder #151: The Show Must Go On",
       "prerequisites": [
         {
-          "value": "《芸能》の達人"
+          "value": "《芸能》のマスター"
         },
         {
           "value": "ジャグラーデディケーション"
@@ -47570,7 +47570,7 @@
           "value": "クlawダンサーデディケーション"
         },
         {
-          "value": "訓練済みの《軽業》"
+          "value": "《軽業》の訓練済み"
         }
       ]
     },
@@ -47583,7 +47583,7 @@
           "value": "パスファインダー・エージェントデディケーション"
         },
         {
-          "value": "《製作》の達人"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -47661,7 +47661,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《秘術》、《自然》、《神秘学》、または《宗教》の専門家"
+          "value": "《秘術》、《自然》、《神秘学》または《宗教》のエキスパート"
         }
       ]
     },
@@ -47759,7 +47759,7 @@
           "value": "バトルメディスン"
         },
         {
-          "value": "メディスンの達人"
+          "value": "《医術》のマスター"
         }
       ]
     },
@@ -47812,7 +47812,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -47822,7 +47822,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "訓練済みの《威圧》"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -47837,7 +47837,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《威圧》"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -47855,7 +47855,7 @@
           "value": "コブラ構え"
         },
         {
-          "value": "徒手攻撃の専門家"
+          "value": "素手攻撃のエキスパート"
         }
       ]
     },
@@ -47875,7 +47875,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -47893,7 +47893,7 @@
           "value": "リッチデディケーション"
         },
         {
-          "value": "《製作》の伝説的"
+          "value": "《製作》のレジェンダリー"
         }
       ]
     },
@@ -48118,7 +48118,7 @@
           "value": "ナイト・ヴィジラントデディケーション"
         },
         {
-          "value": "《製作》における伝説的"
+          "value": "《製作》のレジェンダリー"
         }
       ]
     },
@@ -48192,7 +48192,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《製作》の専門家"
+          "value": "《製作》のマスター"
         }
       ]
     },
@@ -48331,7 +48331,7 @@
       "source": "Pathfinder #147: Tomorrow Must Burn",
       "prerequisites": [
         {
-          "value": "《欺瞞》における伝説的"
+          "value": "《欺瞞》のレジェンダリー"
         }
       ]
     },
@@ -48371,7 +48371,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《運動》"
+          "value": "《運動》の訓練済み"
         },
         {
           "value": "雷の舌"
@@ -48419,7 +48419,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "知覚の達人"
+          "value": "《知覚》のマスター"
         }
       ]
     },
@@ -48512,7 +48512,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《製作》において訓練済み"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -48665,7 +48665,7 @@
           "value": "マンモス・ロードデディケーション"
         },
         {
-          "value": "《交渉》または《威圧》においてマスター"
+          "value": "《交渉》または《威圧》のマスター"
         }
       ]
     },
@@ -48703,7 +48703,7 @@
           "value": "アルドリデュエリストデディケーション"
         },
         {
-          "value": "《欺瞞》において訓練済み"
+          "value": "《欺瞞》の訓練済み"
         }
       ]
     },
@@ -48937,7 +48937,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "《交渉》においてマスター"
+          "value": "《交渉》のマスター"
         },
         {
           "value": "特定の宗教または哲学の信奉者"
@@ -49052,7 +49052,7 @@
           "value": "忠実な乗騎"
         },
         {
-          "value": "《生存術》において訓練済み"
+          "value": "《生存術》の訓練済み"
         }
       ]
     },
@@ -49090,7 +49090,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "あなたは《生存術》の達人"
+          "value": "《生存術》のマスター"
         }
       ]
     },
@@ -49139,7 +49139,7 @@
           "value": "グラディエーターデディケーション"
         },
         {
-          "value": "あなたは《威圧》の達人"
+          "value": "《威圧》のエキスパート"
         }
       ]
     },
@@ -49366,7 +49366,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みが《製作》において"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -49467,7 +49467,7 @@
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
-          "value": "あなたは《芸能》の達人"
+          "value": "《芸能》のマスター"
         },
         {
           "value": "印象的な《芸能》"
@@ -49625,7 +49625,7 @@
           "value": "アーチャーデディケーション"
         },
         {
-          "value": "あなたは《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     },
@@ -49645,7 +49645,7 @@
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
-          "value": "あなたは《欺瞞》の専門家"
+          "value": "《欺瞞》のエキスパート"
         },
         {
           "value": "ファイヤーブランドの自慢屋デディケーション"
@@ -49668,7 +49668,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みがソサイエティにおいて"
+          "value": "《社会》の訓練済み"
         }
       ]
     },
@@ -49738,7 +49738,7 @@
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
-          "value": "訓練済みの《神秘学》または《宗教》"
+          "value": "《神秘学》または《宗教》の訓練済み"
         },
         {
           "value": "ファラスマまたは心理霊媒の世話役を崇拝する"
@@ -49810,7 +49810,7 @@
           "value": "キャバリアデディケーション"
         },
         {
-          "value": "訓練済みの《自然》"
+          "value": "《自然》の訓練済み"
         }
       ]
     },
@@ -49918,7 +49918,7 @@
       "source": "Pathfinder Treasure Vault (Remastered)",
       "prerequisites": [
         {
-          "value": "訓練済みの《製作》"
+          "value": "《製作》の訓練済み"
         }
       ]
     },
@@ -50023,7 +50023,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -50061,7 +50061,7 @@
       "source": "Pathfinder Lost Omens Firebrands",
       "prerequisites": [
         {
-          "value": "《欺瞞》における専門家"
+          "value": "《欺瞞》のエキスパート"
         }
       ]
     },
@@ -50198,7 +50198,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -50298,7 +50298,7 @@
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
-          "value": "《神秘学》における専門家"
+          "value": "《神秘学》のエキスパート"
         }
       ]
     },
@@ -50353,7 +50353,7 @@
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
-          "value": "訓練済みの《運動》"
+          "value": "《運動》の訓練済み"
         }
       ]
     },
@@ -50384,7 +50384,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "伝説的なソサイエティ"
+          "value": "《社会》のレジェンダリー"
         }
       ]
     },
@@ -50494,7 +50494,7 @@
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
-          "value": "エキスパートにおける《隠密》"
+          "value": "《隠密》のエキスパート"
         }
       ]
     },
@@ -50504,7 +50504,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《神秘学》または《宗教》の達人"
+          "value": "《神秘学》または《宗教》のマスター"
         }
       ]
     },
@@ -50540,7 +50540,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みにおける《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -50550,7 +50550,7 @@
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
-          "value": "訓練済みは《秘術》または《自然》において"
+          "value": "《秘術》または《自然》の訓練済み"
         },
         {
           "value": "アタンドゥント級のマガアンビヤのメンバー"
@@ -50660,7 +50660,7 @@
           "value": "エキスパートオラクルスペルキャスティング"
         },
         {
-          "value": "伝説的な《宗教》"
+          "value": "《宗教》のレジェンダリー"
         }
       ]
     },
@@ -50783,7 +50783,7 @@
           "value": "〔シールド・ブロック〕"
         },
         {
-          "value": "《宗教》の達人"
+          "value": "《宗教》のマスター"
         }
       ]
     },
@@ -50839,7 +50839,7 @@
           "value": "ライオンブレードのメンバー"
         },
         {
-          "value": "訓練済みにおける《芸能》"
+          "value": "《芸能》の訓練済み"
         }
       ]
     },
@@ -50849,7 +50849,7 @@
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
-          "value": "メディスンの達人"
+          "value": "《医術》のマスター"
         },
         {
           "value": "将校の医療訓練"
@@ -50942,7 +50942,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "《神秘学》の専門家"
+          "value": "《神秘学》のエキスパート"
         }
       ]
     },
@@ -50985,7 +50985,7 @@
           "value": "エキスパートの予言者スペルキャスティング"
         },
         {
-          "value": "ソサイエティの伝説的存在"
+          "value": "《社会》のレジェンダリー"
         }
       ]
     },
@@ -51442,7 +51442,7 @@
           "value": "ゼファーガードデディケーション"
         },
         {
-          "value": "あなたは知覚の専門家"
+          "value": "《知覚》のエキスパート"
         }
       ]
     },
@@ -51490,7 +51490,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みの《威圧》における"
+          "value": "《威圧》の訓練済み"
         }
       ]
     },
@@ -51553,7 +51553,7 @@
           "value": "勇敢な守護者の献身"
         },
         {
-          "value": "あなたは《運動》の専門家"
+          "value": "《運動》のエキスパート"
         }
       ]
     }
