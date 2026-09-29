@@ -255,7 +255,7 @@
       "time": "1日",
       "cost": "呪文ランク×ノードのレベル×100gp相当の魔法フォーカス",
       "primarycheck": "そのレイ・ラインの系統と一致する《秘術》、《自然》、《神秘学》、または《宗教》(達人)",
-      "secondarycheck": "レイライン《専門知識》または《神秘学》"
+      "secondarycheck": "レイ・ライン《専門知識》または《神秘学》"
     },
     "Blessing of Defiance": {
       "name": "ブレッシング・オブ・ディファイアンス/Blessing of Defiance",
@@ -575,7 +575,7 @@
       "target": "その範囲内のすべての食べ物と飲み物",
       "duration": "1ヶ月",
       "time": "4時間",
-      "primarycheck": "料理《専門知識》 (熟練)または《製作》 (熟練)"
+      "primarycheck": "クッキング《専門知識》 (熟練)または《製作》 (熟練)"
     },
     "Illusory Object": {
       "name": "イリュージョリー・オブジェクト/Illusory Object",
@@ -1340,7 +1340,7 @@
       "time": "1日",
       "cost": "1,500gp相当の希少な香",
       "primarycheck": "知覚(達人)",
-      "secondarycheck": "《宗教》または戦争《専門知識》"
+      "secondarycheck": "《宗教》またはウォーフェア《専門知識》"
     },
     "Soothing Blossoms": {
       "name": "スージング・ブロッサムズ/Soothing Blossoms",
@@ -2350,8 +2350,8 @@
       "target": "同盟側の乗組員によって操作されている攻城兵器",
       "duration": "1ヶ月",
       "time": "2時間",
-      "primarycheck": "《製作》 (熟練)または Warfare《専門知識》 (熟練)",
-      "secondarycheck": "工学《専門知識》"
+      "primarycheck": "《製作》 (熟練)または ウォーフェア《専門知識》 (熟練)",
+      "secondarycheck": "エンジニアリング《専門知識》"
     },
     "Mystic Armor": {
       "name": "ミスティック・アーマー/Mystic Armor",
@@ -2597,7 +2597,7 @@
       "time": "1時間",
       "cost": "1,000gp相当の宝石を粉末にしたもの",
       "primarycheck": "《自然》(マスター)",
-      "secondarycheck": "《芸能》、《宗教》、ソサイエティ、Mammoth Lordの《専門知識》または類似のロアスキル、《生存術》"
+      "secondarycheck": "《芸能》、《宗教》、ソサイエティ、マンモス・ロード《専門知識》または類似のロアスキル、《生存術》"
     },
     "Teeth to Terror": {
       "name": "ティース・トゥ・テラー/Teeth to Terror",
@@ -2643,7 +2643,7 @@
       "description": "<p>Many grow up and spend their lives eating with others, and doing so binds them—to their families, communities, and cultures. Food can form long-lasting bonds, and with a bit of extra work, those bonds can be shared.</p>\n<p>You prepare a meal for a small gathering of up to 10 close friends, enough people to comfortably eat together at one table or in one circle. As you collect and prepare the food, you call upon spirits of home and memory. As they work through you and guide you, you perfectly recreate a dish that emotionally connects you to a place of your past: perhaps your mother's cooking when you were a child, or the way you and your comrades-in-arms cooked rations together when you fought in the war. When you're done, you share the meal and tell your new friends the story that comes with it. As they eat and drink, any participants of 4th level or lower sink into a snapshot of your past and can borrow insights from it for future use.</p><hr /><p><strong>クリティカル成功</strong> Your friends are vividly taken through your memories as you relive them, and they hold onto the experience even after the fugue ends. For the next week, they have a +4 circumstance bonus to Deception and Diplomacy checks to convince anyone from the community where the meal originated from that they are from that area or were present for events you described. Even after the raw magic infusing the memories fade, the memories don't, and your friends will be able to make the dish just as well as you can. Chances are, they like it just as much as you did.</p>\n<p><strong>成功</strong> As critical success, except your friends get a +2 circumstance bonus to Deception and Diplomacy checks instead. They also can't make the meal themselves but probably look forward to tasting it the way you make it if you ever offer to cook it again.</p>\n<p><strong>失敗</strong> Your friends see the vision as planned, but the magic doesn't quite take. As success, but no one receives any bonus. The real treasure will have to be the friends you fed along the way.</p>\n<p><strong>クリティカル失敗</strong> Your friends see the vision as planned, and the magic takes hold—but it goes wrong, like a bad case of indigestion. The memories are scattered around the rest of their psyches, and it takes a week to settle down properly. They confuse parts of your past for theirs, and they take a –2 circumstance bonus to Deception and Diplomacy checks for the next week against anyone from your old community, as they confidently apply the wrong expectations from their lives across the one you were trying to introduce them to.</p><hr /><p><strong>高位化 (4th)</strong> Participants up to 8th level can gain the 恩恵, and the cost is 40 gp.</p>\n<p><strong>高位化 (6th)</strong> Participants up to 12th level can gain the 恩恵, and the cost is 150 gp.</p>\n<p><strong>高位化 (8th)</strong> Participants up to 16th level can gain the 恩恵, and the cost is 480 gp.</p>\n<p><strong>高位化 (10th)</strong> Participants of any level can gain the 恩恵, and the cost is 2000 gp.</p><p>Many grow up and spend their lives eating with others, and doing so binds them—to their families, communities, and cultures. Food can form long-lasting bonds, and with a bit of extra work, those bonds can be shared.</p>\n<p>You prepare a meal for a small gathering of up to 10 close friends, enough people to comfortably eat together at one table or in one circle. As you collect and prepare the food, you call upon spirits of home and memory. As they work through you and guide you, you perfectly recreate a dish that emotionally connects you to a place of your past: perhaps your mother's cooking when you were a child, or the way you and your comrades-in-arms cooked rations together when you fought in the war. When you're done, you share the meal and tell your new friends the story that comes with it. As they eat and drink, any participants of 4th level or lower sink into a snapshot of your past and can borrow insights from it for future use.</p><hr /><p><strong>クリティカル成功</strong> Your friends are vividly taken through your memories as you relive them, and they hold onto the experience even after the fugue ends. For the next week, they have a +4 circumstance bonus to Deception and Diplomacy checks to convince anyone from the community where the meal originated from that they are from that area or were present for events you described. Even after the raw magic infusing the memories fade, the memories don't, and your friends will be able to make the dish just as well as you can. Chances are, they like it just as much as you did.</p>\n<p><strong>成功</strong> As critical success, except your friends get a +2 circumstance bonus to Deception and Diplomacy checks instead. They also can't make the meal themselves but probably look forward to tasting it the way you make it if you ever offer to cook it again.</p>\n<p><strong>失敗</strong> Your friends see the vision as planned, but the magic doesn't quite take. As success, but no one receives any bonus. The real treasure will have to be the friends you fed along the way.</p>\n<p><strong>クリティカル失敗</strong> Your friends see the vision as planned, and the magic takes hold—but it goes wrong, like a bad case of indigestion. The memories are scattered around the rest of their psyches, and it takes a week to settle down properly. They confuse parts of your past for theirs, and they take a –2 circumstance bonus to Deception and Diplomacy checks for the next week against anyone from your old community, as they confidently apply the wrong expectations from their lives across the one you were trying to introduce them to.</p><hr /><p><strong>高位化 (4th)</strong> Participants up to 8th level can gain the 恩恵, and the cost is 40 gp.</p>\n<p><strong>高位化 (6th)</strong> Participants up to 12th level can gain the 恩恵, and the cost is 150 gp.</p>\n<p><strong>高位化 (8th)</strong> Participants up to 16th level can gain the 恩恵, and the cost is 480 gp.</p>\n<p><strong>高位化 (10th)</strong> Participants of any level can gain the 恩恵, and the cost is 2000 gp.</p>",
       "time": "1日",
       "cost": "10 gp",
-      "primarycheck": "料理《専門知識》,《製作》,《芸能》または《生存術》(訓練済み)"
+      "primarycheck": "クッキング《専門知識》,《製作》,《芸能》または《生存術》(訓練済み)"
     },
     "Purple Worm Sting": {
       "name": "パープル・ワーム・スティング",
@@ -3015,7 +3015,7 @@
       "duration": "1週間",
       "time": "8時間",
       "primarycheck": "ウォーフェア《専門知識》(エキスパート)",
-      "secondarycheck": "建築《専門知識》または《製作》"
+      "secondarycheck": "アーキテクチャー《専門知識》または《製作》"
     },
     "Tanglecurse": {
       "name": "タングルカース",
@@ -3087,8 +3087,8 @@
       "duration": "1週間",
       "time": "4時間",
       "cost": "少なくとも75gpの価値があるアメジストのペンダント",
-      "primarycheck": "薬草学《専門知識》 (達人)または《神秘学》 (達人)",
-      "secondarycheck": "《医術》または戦争の《専門知識》"
+      "primarycheck": "ハーバリズム《専門知識》 (達人)または《神秘学》 (達人)",
+      "secondarycheck": "《医術》またはウォーフェア《専門知識》"
     },
     "Restyle": {
       "name": "リスタイル",
@@ -3627,7 +3627,7 @@
       "time": "1日",
       "cost": "主要なキャスターの顔に自然発生する水源(雨、川、海など)からの少なくとも5滴の水を置く",
       "primarycheck": "《自然》 (master)または《神秘学》 (master)",
-      "secondarycheck": "料理《専門知識》、《生存術》"
+      "secondarycheck": "クッキング《専門知識》、《生存術》"
     },
     "Cloud Dragon's Cloak": {
       "name": "クラウド・ドラゴンズ・クローク",
@@ -4797,7 +4797,7 @@
     },
     "Conjured Conveyance": {
       "name": "コンジャード・コンヴェイアンス/Conjured Conveyance",
-      "description": "<p>あなたは完全に木製で彫られた精巧な乗物を結界して輸送手段を作る。車両は射程内のあなたが選ぶ空いているエリアに出現する。車両は《秘術》、Driving《専門知識》、または《自然》のスキル判定で操縦できる。車両を操縦するためのDCと車両の衝突のDCはあなたの呪文DCと等しい。車両の残りの統計は以下に示す。</p>\n<p>この呪文をキャストするとき、大型スキフ、大型ワゴン、または中型サイクルのいずれかを作るか選ぶ。GMの許可があれば、代わりに最大レベル1の別の車両を召喚してもよい；その車両は主に植物性の素材で作られており、コモンのレアリティで、大型以下でなければならない。</p><ul><li><p><strong>大型 Skiff—Space</strong> 15フィート long, 5フィート wide, 3 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 3; <strong>移動速度</strong> swim 30フィート (magical)</p></li><li><p><strong>大型 Wagon—Space</strong> 10フィート long, 10フィート wide, 7 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 3; <strong>移動速度</strong> 35 feet (magical)</p></li><li><p><strong>中型 Cycle—Space</strong> 5フィート long, 3 feet wide, 3 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 0; <strong>移動速度</strong> 40フィート (magical)</p></li></ul><p><strong>AC</strong> 13; <strong>頑健</strong> +8</p>\n<p><strong>硬度</strong> 5, <strong>HP</strong> 40 (BT 20); <strong>Immunities</strong> critical hits, object immunities, precision damage; <strong>Weaknesses</strong> fire 5, 斬撃5</p>\n<p><strong>Collision</strong> 2d6</p><hr /><p><strong>高位化 (+1)</strong>車両のACは2増加し、頑健ボーナスは2増加し、硬度は1増加し、HPは20増加し、衝突ダメージは[[/r 1d6]]だけ増加する。さらに、GMの許可で召喚できる車両の最大レベルが2増加する。持続時間は1時間だけ増加する。</p>",
+      "description": "<p>あなたは完全に木製で彫られた精巧な乗物を結界して輸送手段を作る。車両は射程内のあなたが選ぶ空いているエリアに出現する。車両は《秘術》、ドライビング《専門知識》、または《自然》のスキル判定で操縦できる。車両を操縦するためのDCと車両の衝突のDCはあなたの呪文DCと等しい。車両の残りの統計は以下に示す。</p>\n<p>この呪文をキャストするとき、大型スキフ、大型ワゴン、または中型サイクルのいずれかを作るか選ぶ。GMの許可があれば、代わりに最大レベル1の別の車両を召喚してもよい；その車両は主に植物性の素材で作られており、コモンのレアリティで、大型以下でなければならない。</p><ul><li><p><strong>大型 Skiff—Space</strong> 15フィート long, 5フィート wide, 3 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 3; <strong>移動速度</strong> swim 30フィート (magical)</p></li><li><p><strong>大型 Wagon—Space</strong> 10フィート long, 10フィート wide, 7 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 3; <strong>移動速度</strong> 35 feet (magical)</p></li><li><p><strong>中型 Cycle—Space</strong> 5フィート long, 3 feet wide, 3 feet high; <strong>Crew</strong> 1 pilot; <strong>Passengers</strong> 0; <strong>移動速度</strong> 40フィート (magical)</p></li></ul><p><strong>AC</strong> 13; <strong>頑健</strong> +8</p>\n<p><strong>硬度</strong> 5, <strong>HP</strong> 40 (BT 20); <strong>Immunities</strong> critical hits, object immunities, precision damage; <strong>Weaknesses</strong> fire 5, 斬撃5</p>\n<p><strong>Collision</strong> 2d6</p><hr /><p><strong>高位化 (+1)</strong>車両のACは2増加し、頑健ボーナスは2増加し、硬度は1増加し、HPは20増加し、衝突ダメージは[[/r 1d6]]だけ増加する。さらに、GMの許可で召喚できる車両の最大レベルが2増加する。持続時間は1時間だけ増加する。</p>",
       "range": "30フィート",
       "duration": "1時間",
       "time": "3"
@@ -6178,7 +6178,7 @@
     },
     "Pulse of Civilization": {
       "name": "パルス・オブ・シヴィライゼーション/Pulse of Civilization",
-      "description": "<p>あなたは射程内のいかなる集落の時代精神に接続する。あなたはその集落の名前を知る。その集落について〔思い出す〕を行うか、その集落で、あるいはそれらについて〔情報収集〕を行うためのすべての《専門知識》判定では、あなたは+2のステータスボーナスを得、未訓練でも熟練度ボーナスとしてあなたのレベルを使用する。あなたが呪文を唱えたとき、あなたは直ちにその集落のうちの1つについて、その集落のロアスキルを使って〔思い出す〕ことができる(例えばAbsalom《専門知識》)。その判定は恩恵からボーナスの恩恵を受ける。もしあなたがpulse of civilizationを再び唱えると、以前の詠唱は終了する。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>射程は100マイルである。</p>\n<p><strong>高位化 (7th)</strong>射程は500マイルでボーナスは+3である</p>",
+      "description": "<p>あなたは射程内のいかなる集落の時代精神に接続する。あなたはその集落の名前を知る。その集落について〔思い出す〕を行うか、その集落で、あるいはそれらについて〔情報収集〕を行うためのすべての《専門知識》判定では、あなたは+2のステータスボーナスを得、未訓練でも熟練度ボーナスとしてあなたのレベルを使用する。あなたが呪文を唱えたとき、あなたは直ちにその集落のうちの1つについて、その集落のロアスキルを使って〔思い出す〕ことができる(例えばアブサロム《専門知識》)。その判定は恩恵からボーナスの恩恵を受ける。もしあなたがpulse of civilizationを再び唱えると、以前の詠唱は終了する。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>射程は100マイルである。</p>\n<p><strong>高位化 (7th)</strong>射程は500マイルでボーナスは+3である</p>",
       "range": "25マイル",
       "duration": "8時間",
       "time": "2"
@@ -7300,7 +7300,7 @@
       "time": "1日",
       "cost": "合計価値4,500gpの試薬と油",
       "primarycheck": "《秘術》(達人)、《自然》(達人)、《神秘学》(達人)、または《宗教》(達人)",
-      "secondarycheck": "《秘術》, 《自然》, 《神秘学》または《宗教》 (whichever is used for the primary判定) and Warfare《専門知識》"
+      "secondarycheck": "《秘術》, 《自然》, 《神秘学》または《宗教》 (whichever is used for the primary判定) and ウォーフェア《専門知識》"
     },
     "Wall of Water": {
       "name": "ウォール・オブ・ウォーター/Wall of Water",
@@ -8148,7 +8148,7 @@
       "duration": "1日",
       "time": "8時間",
       "cost": "漆黒の砂で満たされた砂時計、価値は少なくとも10,000gp",
-      "primarycheck": "戦争《専門知識》 (伝説的)",
+      "primarycheck": "ウォーフェア《専門知識》 (伝説的)",
       "secondarycheck": "メディスン,《神秘学》,ファラズマ《専門知識》"
     },
     "Curse of Death": {
@@ -8556,7 +8556,7 @@
       "time": "1時間",
       "cost": "合計50gpの価値がある真珠またはその他の宝石",
       "primarycheck": "《神秘学》 (熟練)",
-      "secondarycheck": "航海《専門知識》または《生存術》"
+      "secondarycheck": "セイリング《専門知識》または《生存術》"
     },
     "Unexpected Transposition": {
       "name": "アンエクスペクテッド・トランスポジション",
@@ -8616,7 +8616,7 @@
       "time": "1日",
       "cost": "価値150 gpの獣の骨、歯、または爪",
       "primarycheck": "《運動》(expert)",
-      "secondarycheck": "料理《専門知識》、《製作》、《宗教》"
+      "secondarycheck": "クッキング《専門知識》、《製作》、《宗教》"
     },
     "Light of Revelation": {
       "name": "ライト・オブ・レヴェレイション",
@@ -8701,7 +8701,7 @@
       "range": "40フィート",
       "time": "1時間",
       "cost": "15gp",
-      "primarycheck": "料理《専門知識》またはお茶《専門知識》(エキスパート)",
+      "primarycheck": "クッキング《専門知識》またはお茶《専門知識》(エキスパート)",
       "secondarycheck": "《交渉》または《社会》"
     },
     "Zero Gravity": {
@@ -9237,7 +9237,7 @@
     },
     "Nudge the Odds": {
       "name": "ナッジ・ジ・オッズ/Nudge the Odds",
-      "description": "<p>あなたはあなた自身に、カード、ダイス、その他の運試しゲームにおける超自然的な幸運を授ける。あなたはギャンブルを行うためのゲームの《専門知識》判定に+1の状況ボーナスを得る。もしそのような判定で大失敗をロールした場合、代わりに失敗となる。しかし、この呪文は持続時間が短すぎるため、ギャンブルによる〈収入を得る〉判定には使用できない。</p>\n<p>nudge the oddsの効果を受けている間、髪の一房や目の虹彩といった顔の特徴の1つが、独特の金色に変色する。呪文を詠唱した際に、どの特徴が変色するかをGMが決定する。この変化は隠蔽しようとするあらゆる魔法的な試みに抵抗するが、非魔法的な手段で隠したり覆ったりすることはできる。その特徴に気づいたクリーチャーは、〈思い出す〉を使用してその呪文を特定できる。大負けを防ぐため、ギャンブラーたちはnudge the oddsを忌まわしい不正行為とみなしている。もしこの呪文を使用しているところを見つかれば、あなたが騙したギャンブラーの性質にもよるが、深刻な結果を招く可能性が高い。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.lTL5VwNrZ5xiitGV]{呪文 効果: ナッジ・ザ・オッズ}</p>\n<hr />\n<p><strong>高位化 (5th)</strong>状況ボーナスは+2に増加し、持続時間は次に日課の準備を行うまでに増加する。もし持続時間を維持するために呪文スロットを消費し続ければ、この効果を〈収入を得る〉ためのダウンタイム判定に適用できるようになる。</p>",
+      "description": "<p>あなたはあなた自身に、カード、ダイス、その他の運試しゲームにおける超自然的な幸運を授ける。あなたはギャンブルを行うためのゲームズ《専門知識》判定に+1の状況ボーナスを得る。もしそのような判定で大失敗をロールした場合、代わりに失敗となる。しかし、この呪文は持続時間が短すぎるため、ギャンブルによる〈収入を得る〉判定には使用できない。</p>\n<p>nudge the oddsの効果を受けている間、髪の一房や目の虹彩といった顔の特徴の1つが、独特の金色に変色する。呪文を詠唱した際に、どの特徴が変色するかをGMが決定する。この変化は隠蔽しようとするあらゆる魔法的な試みに抵抗するが、非魔法的な手段で隠したり覆ったりすることはできる。その特徴に気づいたクリーチャーは、〈思い出す〉を使用してその呪文を特定できる。大負けを防ぐため、ギャンブラーたちはnudge the oddsを忌まわしい不正行為とみなしている。もしこの呪文を使用しているところを見つかれば、あなたが騙したギャンブラーの性質にもよるが、深刻な結果を招く可能性が高い。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.lTL5VwNrZ5xiitGV]{呪文 効果: ナッジ・ザ・オッズ}</p>\n<hr />\n<p><strong>高位化 (5th)</strong>状況ボーナスは+2に増加し、持続時間は次に日課の準備を行うまでに増加する。もし持続時間を維持するために呪文スロットを消費し続ければ、この効果を〈収入を得る〉ためのダウンタイム判定に適用できるようになる。</p>",
       "duration": "1時間",
       "time": "2"
     },
@@ -9747,7 +9747,7 @@
       "time": "8時間",
       "cost": "価値50gpの上等なインク",
       "primarycheck": "採掘《専門知識》(エキスパート)または《自然》(エキスパート)",
-      "secondarycheck": "工学《専門知識》、戦術《専門知識》"
+      "secondarycheck": "エンジニアリング《専門知識》、戦術《専門知識》"
     },
     "Retrocognition": {
       "name": "レトロコグニション",
@@ -9919,7 +9919,7 @@
     },
     "Foresee the Path": {
       "name": "フォーシー・ザ・パス/Foresee the Path",
-      "description": "<p>あなたは未来をほんの一瞬だけ見通し、敵がどのように動くかを読み取ることで、味方がアクションの最中に敵を攻撃しやすくする。対象の敵の意志DCか《欺瞞》 DCのいずれか高い方に対して、@Check[perception]{《知覚》 判定}を行う。GMは、軍事指揮官の戦争《専門知識》 DCを使用する場合のように、より高い別のDCが適切であると判断してもよい。その後、対象は1分の間、一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong> 対象の味方は、敵がその味方のリーチ内の広場から離れた時に誘発する、対象の敵に対する近接 〈ストライク〉を行えるリアクションを得る。もしその味方が、リアクティブ・〈ストライク〉のように、リアクションとして近接ストライクを行える能力をすでに持っている場合、その味方は一時的なリアクションを得ることを放棄し、代わりにリアクションとして行う近接ストライクに+2の状況ボーナスを得ることを選択できる。</p>\n<p><strong>成功</strong> 大成功と同様だが、味方がリアクションを放棄した場合に得られる状況ボーナスは+1である。</p>\n<p><strong>失敗</strong> この呪文は効果がない。</p>",
+      "description": "<p>あなたは未来をほんの一瞬だけ見通し、敵がどのように動くかを読み取ることで、味方がアクションの最中に敵を攻撃しやすくする。対象の敵の意志DCか《欺瞞》 DCのいずれか高い方に対して、@Check[perception]{《知覚》 判定}を行う。GMは、軍事指揮官のウォーフェア《専門知識》 DCを使用する場合のように、より高い別のDCが適切であると判断してもよい。その後、対象は1分の間、一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong> 対象の味方は、敵がその味方のリーチ内の広場から離れた時に誘発する、対象の敵に対する近接 〈ストライク〉を行えるリアクションを得る。もしその味方が、リアクティブ・〈ストライク〉のように、リアクションとして近接ストライクを行える能力をすでに持っている場合、その味方は一時的なリアクションを得ることを放棄し、代わりにリアクションとして行う近接ストライクに+2の状況ボーナスを得ることを選択できる。</p>\n<p><strong>成功</strong> 大成功と同様だが、味方がリアクションを放棄した場合に得られる状況ボーナスは+1である。</p>\n<p><strong>失敗</strong> この呪文は効果がない。</p>",
       "target": "1体の味方と1体の敵",
       "range": "60フィート",
       "duration": "1分",
@@ -11215,8 +11215,8 @@
       "range": "接触",
       "time": "1時間",
       "cost": "価値28gpの焦点用の図と香",
-      "primarycheck": "《秘術》または《神秘学》 (エキスパート)またはWillowshore《専門知識》",
-      "secondarycheck": "《秘術》, 《欺瞞》, 《交渉》, 《神秘学》, 知覚, または Willowshore《専門知識》"
+      "primarycheck": "《秘術》または《神秘学》 (エキスパート)またはウィローショア《専門知識》",
+      "secondarycheck": "《秘術》, 《欺瞞》, 《交渉》, 《神秘学》, 知覚, または ウィローショア《専門知識》"
     },
     "Abyssal Plague": {
       "name": "アビサル・プレイグ/Abyssal Plague",
@@ -11532,7 +11532,7 @@
       "target": "その儀式のレベルの2倍以下のレベルを持つ入植地",
       "time": "1時間",
       "cost": "合計価値が2gp×呪文ランク×入植地のレベルである練り胡麻、砂糖、おにぎり、食用色素、調理鍋、および調理器具",
-      "primarycheck": "料理の《専門知識》(expert)",
+      "primarycheck": "クッキング《専門知識》(expert)",
       "secondarycheck": "《交渉》、《芸能》または《宗教》"
     },
     "Light": {
@@ -11585,7 +11585,7 @@
       "range": "1,000フィート",
       "duration": "1時間",
       "time": "4時間",
-      "primarycheck": "《神秘学》 (熟練)またはWarfare《専門知識》 (熟練)"
+      "primarycheck": "《神秘学》 (熟練)またはウォーフェア《専門知識》 (熟練)"
     },
     "Phantom Crowd": {
       "name": "ファントム・クラウド",
@@ -11808,7 +11808,7 @@
       "duration": "様々",
       "time": "1日",
       "cost": "対象のレベル×25gpに相当する合計価値の上質な紙とインク",
-      "primarycheck": "《欺瞞》 (エキスパート), Maze《専門知識》 (訓練済み), または《宗教》 (エキスパート)",
+      "primarycheck": "《欺瞞》 (エキスパート), メイズ《専門知識》 (訓練済み), または《宗教》 (エキスパート)",
       "secondarycheck": "アート《専門知識》 (訓練済み), 《製作》 (訓練済み), または《盗賊術》 (訓練済み)"
     },
     "Hippocampus Retreat": {
@@ -12166,7 +12166,7 @@
       "cost": "200gp相当の聖水、銀の粉末、精製されたチョーク",
       "requirements": "焦点として使用される、術を行なう場所の構造物から取った礎石",
       "primarycheck": "《秘術》(master)または《宗教》(expert)",
-      "secondarycheck": "建築《専門知識》、《製作》または工学《専門知識》"
+      "secondarycheck": "建築《専門知識》、《製作》またはエンジニアリング《専門知識》"
     },
     "Establish Ward": {
       "name": "エスタブリッシュ・ウォード",
@@ -12218,7 +12218,7 @@
       "time": "1日",
       "cost": "合計価値が50gp × 呪文ランク × 対象のレベルに等しい魔法の焦点具",
       "primarycheck": "《秘術》、《自然》、《神秘学》または《宗教》がレイラインの系統に一致する(legendary)",
-      "secondarycheck": "Ley Line《専門知識》 or《神秘学》"
+      "secondarycheck": "レイ・ライン《専門知識》 or《神秘学》"
     },
     "Earth and Sky": {
       "name": "アース・アンド・スカイ",
@@ -13335,7 +13335,7 @@
       "time": "8時間",
       "cost": "合計で2,000gpの価値がある希少な香と供物",
       "primarycheck": "《自然》または《宗教》",
-      "secondarycheck": "《秘術》、《自然》、《宗教》、《生存術》、またはTanglebriar《専門知識》"
+      "secondarycheck": "《秘術》、《自然》、《宗教》、《生存術》、またはタングルブライア《専門知識》"
     },
     "Croak Voice": {
       "name": "クローク・ボイス/Croak Voice",

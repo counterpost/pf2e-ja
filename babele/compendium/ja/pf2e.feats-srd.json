@@ -749,7 +749,7 @@
           "value": "ラストウォール・セントリーデディケーション"
         },
         {
-          "value": "《宗教》の専門家または Undead《専門知識》"
+          "value": "《宗教》の専門家または アンデッド《専門知識》"
         }
       ]
     },
@@ -1122,7 +1122,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "訓練済みのアルコール《専門知識》、料理《専門知識》、または《製作》"
+          "value": "訓練済みのアルコール《専門知識》、クッキング《専門知識》、または《製作》"
         }
       ]
     },
@@ -1221,11 +1221,11 @@
     },
     "Trick Driver Dedication": {
       "name": "トリック・ドライバー・デディケーション/Trick Driver Dedication",
-      "description": "<p>あなたはどんな乗り物を操縦するのも得意で、様々な操作、動き、取り扱いに瞬時にあなた自身を適応させる。乗り物を操縦する際に操縦《専門知識》または航海《専門知識》判定が必要な時、あなたは代わりに運転《専門知識》の熟練を使用できる。運転《専門知識》を用いた操縦判定を行う際、知力の代わりに敏捷力を使用できる。あなたは運転《専門知識》の専門家となる。7レベルで運転《専門知識》の達人となり、15レベルで運転《専門知識》の伝説的存在となる。</p>\n<p> @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.nPcma8UOqWo7xw0P]{Trick Driver} </p>",
+      "description": "<p>あなたはどんな乗り物を操縦するのも得意で、様々な操作、動き、取り扱いに瞬時にあなた自身を適応させる。乗り物を操縦する際に操縦《専門知識》またはセイリング《専門知識》判定が必要な時、あなたは代わりにドライビング《専門知識》の熟練を使用できる。ドライビング《専門知識》を用いた操縦判定を行う際、知力の代わりに敏捷力を使用できる。あなたはドライビング《専門知識》の専門家となる。7レベルでドライビング《専門知識》の達人となり、15レベルでドライビング《専門知識》の伝説的存在となる。</p>\n<p> @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.nPcma8UOqWo7xw0P]{Trick Driver} </p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "訓練済みの運転《専門知識》"
+          "value": "訓練済みのドライビング《専門知識》"
         }
       ]
     },
@@ -2147,7 +2147,7 @@
     },
     "Forest's Heart": {
       "name": "フォレスツ・ハート/Forest's Heart",
-      "description": "<p><strong>必要条件</strong>あなたの調和した幻影は、フォレスト《専門知識》またはハーバリズム《専門知識》をその幻影スキルの一つとして付与する。</p><hr /><p>あなたは姿勢を取ることで、あなたの幻影があなたを通して精神エネルギーを地中に流し込み、根を支配し、つるを操作し、あなたのために戦うためにその場の植物を命令できる。あなたはその地域に固有の根、つる、または他の植物の成長を呼び出し、素手攻撃を行うことができる。これらは@Damage[4d8[bludgeoning]]ダメージを与え、剛腕種にあり、フィネス、グラップル、およびリーチ30フィートトレイトを持つ。これらの素手攻撃で行った攻撃は、ストライキングルーンから追加ダメージを得ず、あなたが適用するアイテム・ボーナスへの攻撃ロールおよびプロパティルーンの@UUID[Compendium.pf2e.equipment-srd.Item.FNDq4NFSN0g2HKWO]{Handwraps of Mighty Blows}からは恩恵を得ることができる。あなたが着用を得る。</p>",
+      "description": "<p><strong>必要条件</strong>あなたの調和した幻影は、森林《専門知識》またはハーバリズム《専門知識》をその幻影スキルの一つとして付与する。</p><hr /><p>あなたは姿勢を取ることで、あなたの幻影があなたを通して精神エネルギーを地中に流し込み、根を支配し、つるを操作し、あなたのために戦うためにその場の植物を命令できる。あなたはその地域に固有の根、つる、または他の植物の成長を呼び出し、素手攻撃を行うことができる。これらは@Damage[4d8[bludgeoning]]ダメージを与え、剛腕種にあり、フィネス、グラップル、およびリーチ30フィートトレイトを持つ。これらの素手攻撃で行った攻撃は、ストライキングルーンから追加ダメージを得ず、あなたが適用するアイテム・ボーナスへの攻撃ロールおよびプロパティルーンの@UUID[Compendium.pf2e.equipment-srd.Item.FNDq4NFSN0g2HKWO]{Handwraps of Mighty Blows}からは恩恵を得ることができる。あなたが着用を得る。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Pounce Mimicry": {
@@ -2359,7 +2359,7 @@
     },
     "Eagle Knight Dedication": {
       "name": "イーグル・ナイト・デディケーション/Eagle Knight Dedication",
-      "description": "<p><strong>アクセス</strong>あなたはイーグル・ナイツまたは人民評議会の現役メンバーから招待されている。</p><hr /><p>イーグル・ナイツはアンドーランの保安官であり使節であり、平和の維持に尽力している。戦闘の最初のラウンドにおいて、イニシアチブのために《交渉》判定を行った場合、まだ行動していないクリーチャーはあなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。あなたは政治《専門知識》に関するスキル特技「@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{Additional 《専門知識》}」を得る。もしあなたがすでに政治《専門知識》の習熟ランク訓練済みを得ているなら、追加であなたが選択した《専門知識》スキルの習熟ランク訓練済みを得る。あなたは政治《専門知識》を使用して、政府高官(またはそれに類する人物)に対して[[/act make-an-impression skill=politics-lore]]を行ったり、[[/act request skill=politics-lore]]を行ったり、あるいは彼らについて[[/act gather-information skill=politics-lore]]したりすることができる。政治《専門知識》を用いて@UUID[Compendium.pf2e.actionspf2e.Item.plBGdZhqq5JBl1D8]{〈情報収集〉}を行うための判定にクリティカル成功した場合、情報を収集するために時間を費やすことなく、その情報を知ることができる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.gVipISIgPjNbOUhk]{イーグル Knight}</p>",
+      "description": "<p><strong>アクセス</strong>あなたはイーグル・ナイツまたは人民評議会の現役メンバーから招待されている。</p><hr /><p>イーグル・ナイツはアンドーランの保安官であり使節であり、平和の維持に尽力している。戦闘の最初のラウンドにおいて、イニシアチブのために《交渉》判定を行った場合、まだ行動していないクリーチャーはあなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。あなたはポリティクス《専門知識》に関するスキル特技「@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{Additional 《専門知識》}」を得る。もしあなたがすでにポリティクス《専門知識》の習熟ランク訓練済みを得ているなら、追加であなたが選択した《専門知識》スキルの習熟ランク訓練済みを得る。あなたはポリティクス《専門知識》を使用して、政府高官(またはそれに類する人物)に対して[[/act make-an-impression skill=politics-lore]]を行ったり、[[/act request skill=politics-lore]]を行ったり、あるいは彼らについて[[/act gather-information skill=politics-lore]]したりすることができる。ポリティクス《専門知識》を用いて@UUID[Compendium.pf2e.actionspf2e.Item.plBGdZhqq5JBl1D8]{〈情報収集〉}を行うための判定にクリティカル成功した場合、情報を収集するために時間を費やすことなく、その情報を知ることができる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.gVipISIgPjNbOUhk]{イーグル Knight}</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
@@ -4353,7 +4353,7 @@
           "value": "呪いの渦デディケーション"
         },
         {
-          "value": "訓練済みに《神秘学》もしくは呪い《専門知識》"
+          "value": "訓練済みに《神秘学》もしくはカース《専門知識》"
         }
       ]
     },
@@ -4374,7 +4374,7 @@
     },
     "Magic Warrior Dedication": {
       "name": "マジック・ウォリアー・デディケーション/Magic Warrior Dedication",
-      "description": "<p><strong>アクセス</strong>あなたはムワンギ語エクスパンセから来ている。</p><hr /><p>あなたは名前のない仮面を引き受け、魔法の戦士の誓約を誓った。あなたは訓練済みの選択において《秘術》または《自然》そして魔法の戦士《専門知識》のスキルにおいて専門的になる；もしあなたがすでにそのスキルにおいて訓練済みであれば、代わりに専門家になる。</p>\n<p>あなたは、あなたが選んだ動物を表す仮面の背後に自分のアイデンティティを隠し、これは@UUID[Compendium.pf2e.spells-srd.Item.wp09USMB3GIW1qbp]{アニマル・フォーム}呪文の一般的な動物タイプの1つに対応する。あなたは占い効果に対するセーヴィング・スローに+1の状況ボーナスを得るが、時にはあなたの仮面を外さないことが、魔法の戦士系統を理解または尊重しない地域で問題を引き起こすことがある。</p>\n<p>この特技を取得すると、他のクリーチャーがあなたの本当の顔や名前を知る場合、あなたはこのアーキタイプの能力を失う。あなたの献身の前に仮面を取得することを知っていた親しい仲間は、他の誰かに話さない限り、このタブーを破らない。能力を取り戻すには、あなたは仮面を手放し、異なる動物の新しいものを取得し、その新しい仮面で新たに魔法の戦士デディケーションを新しい魔法の戦士デディケーションに訓練し直さなければならない。あなたの魔法の戦士アーキタイプからのフォーカス呪文は、他の呪文と同じ系統である(複数の伝統から呪文を持つ場合は1つ選択する)。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.zxY04QNfB90gjLoh]{Magic Warrior}</p>",
+      "description": "<p><strong>アクセス</strong>あなたはムワンギ語エクスパンセから来ている。</p><hr /><p>あなたは名前のない仮面を引き受け、魔法の戦士の誓約を誓った。あなたは訓練済みの選択において《秘術》または《自然》そしてマジック・ウォリアー《専門知識》のスキルにおいて専門的になる；もしあなたがすでにそのスキルにおいて訓練済みであれば、代わりに専門家になる。</p>\n<p>あなたは、あなたが選んだ動物を表す仮面の背後に自分のアイデンティティを隠し、これは@UUID[Compendium.pf2e.spells-srd.Item.wp09USMB3GIW1qbp]{アニマル・フォーム}呪文の一般的な動物タイプの1つに対応する。あなたは占い効果に対するセーヴィング・スローに+1の状況ボーナスを得るが、時にはあなたの仮面を外さないことが、魔法の戦士系統を理解または尊重しない地域で問題を引き起こすことがある。</p>\n<p>この特技を取得すると、他のクリーチャーがあなたの本当の顔や名前を知る場合、あなたはこのアーキタイプの能力を失う。あなたの献身の前に仮面を取得することを知っていた親しい仲間は、他の誰かに話さない限り、このタブーを破らない。能力を取り戻すには、あなたは仮面を手放し、異なる動物の新しいものを取得し、その新しい仮面で新たに魔法の戦士デディケーションを新しい魔法の戦士デディケーションに訓練し直さなければならない。あなたの魔法の戦士アーキタイプからのフォーカス呪文は、他の呪文と同じ系統である(複数の伝統から呪文を持つ場合は1つ選択する)。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.zxY04QNfB90gjLoh]{Magic Warrior}</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
@@ -4748,7 +4748,7 @@
     },
     "Embodied Legionary Subjectivity": {
       "name": "エンボディド・リージョナリー・サブジェクティビティ/Embodied Legionary Subjectivity",
-      "description": "<p><strong>アクセス</strong>あなたはネクス出身である。</p>\n<hr />\n<p>ネクスの肉鍛冶は、あなたが武器において個人の偉大さを達成するためにではなく、軍団の一部として、ネクシアン・バトルメイジの連携戦術に不可欠なモジュールの一部となるように形作った。あなたは訓練済みに《秘術》及び《運動》である。もしあなたがそれらのスキルの一つにおいて自動的に訓練済みになった場合、あなたは別の選択したスキルで訓練済みのランクを得る。さらに、あなたは戦争《専門知識》において訓練済みとなる。</p>",
+      "description": "<p><strong>アクセス</strong>あなたはネクス出身である。</p>\n<hr />\n<p>ネクスの肉鍛冶は、あなたが武器において個人の偉大さを達成するためにではなく、軍団の一部として、ネクシアン・バトルメイジの連携戦術に不可欠なモジュールの一部となるように形作った。あなたは訓練済みに《秘術》及び《運動》である。もしあなたがそれらのスキルの一つにおいて自動的に訓練済みになった場合、あなたは別の選択したスキルで訓練済みのランクを得る。さらに、あなたはウォーフェア《専門知識》において訓練済みとなる。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -7793,7 +7793,7 @@
     },
     "Wandering Chef Dedication": {
       "name": "ワンダリング・シェフ・デディケーション/Wandering Chef Dedication",
-      "description": "<p>貴族の厨房であれ質素な家庭であれ、あなたは訓練済みしており、美味しい料理を作る方法や、荒野や都市環境から食材を調達する方法を知っている。あなたは《製作》を訓練済みする。もし既に《製作》を訓練済みしていたなら、代わりに任意のスキルを1つ訓練済みする。あなたは錬金術の食品を製作する際、錬金術師の道具の代わりに調理器具を使用できる。ダウンタイム・アクティビティである@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{〈生存〉}を行う際、あなたは《生存術》の代わりに《製作》または料理の《専門知識》を使用でき、失敗の出目を出した場合でも成功として扱う。</p>\n<p>あなたはクイック錬金術の@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Jkl5KOZih7MoMqAJ#quick-alchemy-benefits]{恩恵}を得るが、消耗品を作成するためにしか使用できず、その消耗品は錬金術の食品でなければならない。@UUID[Compendium.pf2e.feats-srd.Item.is3Oz9wt11lNq62K]{錬金術 《製作》}で選択するアイテムはすべて錬金術の食品でなければならないが、それらは1レベルのみではなく、1レベルまたは2レベルのアイテムであってもよい。</p>\n<p>あなたは日課の準備の間に最大4つのバーサタイル・バイアルを作成する。通常、遊行の料理人のバーサタイル・バイアルは、採集した食材の包みの形をとる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.kWN0nFzOq3VvONC5]{Wandering Chef}</p>",
+      "description": "<p>貴族の厨房であれ質素な家庭であれ、あなたは訓練済みしており、美味しい料理を作る方法や、荒野や都市環境から食材を調達する方法を知っている。あなたは《製作》を訓練済みする。もし既に《製作》を訓練済みしていたなら、代わりに任意のスキルを1つ訓練済みする。あなたは錬金術の食品を製作する際、錬金術師の道具の代わりに調理器具を使用できる。ダウンタイム・アクティビティである@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{〈生存〉}を行う際、あなたは《生存術》の代わりに《製作》またはクッキング《専門知識》を使用でき、失敗の出目を出した場合でも成功として扱う。</p>\n<p>あなたはクイック錬金術の@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Jkl5KOZih7MoMqAJ#quick-alchemy-benefits]{恩恵}を得るが、消耗品を作成するためにしか使用できず、その消耗品は錬金術の食品でなければならない。@UUID[Compendium.pf2e.feats-srd.Item.is3Oz9wt11lNq62K]{錬金術 《製作》}で選択するアイテムはすべて錬金術の食品でなければならないが、それらは1レベルのみではなく、1レベルまたは2レベルのアイテムであってもよい。</p>\n<p>あなたは日課の準備の間に最大4つのバーサタイル・バイアルを作成する。通常、遊行の料理人のバーサタイル・バイアルは、採集した食材の包みの形をとる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.kWN0nFzOq3VvONC5]{Wandering Chef}</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Spiritual Strike": {
@@ -9252,7 +9252,7 @@
     },
     "Clan Lore": {
       "name": "クラン・ロア/Clan Lore",
-      "description": "<p>あなたは一族の一員としてのアイデンティティが、ドワーフの祖先と同様に自身の中心にある。あなたは一族の2つのスキルにおいて訓練済みの習熟度を得る。これらのスキルのいずれかに対して(背景やクラスからなど)自動的に訓練済みになる場合、あなたは代わりに選んだスキルで訓練済みになる。さらに、一族のためにリストされた《専門知識》において訓練済みになる。ここにリストされていない一族から来た場合、あなたはGMによって決定された適切なスキルの選択肢に対して訓練済みになる。族の伝手は習得に時間がかかるため、あなたが一族を離れて別の一族に加入しても、これらのスキルは自動的に変更されないが、GMがダウンタイム中の再訓練の一環としてスキルを変更することを許可する場合もある。</p>\n<table border=\"1\"><colgroup><col><col><col></colgroup>\n<thead>\n<tr>\n<th>Clan</th>\n<th>Skills</th>\n<th>ロア</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Clan Aringeld</td>\n<td>《交渉》 andソサイエティ</td>\n<td>Mercantile《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Breakiron</td>\n<td>《製作》 and《生存術》</td>\n<td>Alchemy《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Firecask</td>\n<td>《製作》 and《自然》</td>\n<td>Alcohol《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Gelderon</td>\n<td>《運動》 and《自然》</td>\n<td>Farming《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Grimmark</td>\n<td>《製作》 andソサイエティ</td>\n<td>Architecture《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Ironfist</td>\n<td>《製作》 andメディスン</td>\n<td>Smelting《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Molgrade</td>\n<td>《製作》 and《盗賊術》</td>\n<td>Smithing《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Oriddus</td>\n<td>《宗教》 andソサイエティ</td>\n<td>ドワーフ語 Pantheon《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Runebinder</td>\n<td>《秘術》 and《神秘学》</td>\n<td>Academia《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Stonefist</td>\n<td>《運動》 and《威圧》</td>\n<td>Warfare《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Tolorr</td>\n<td>《交渉》 andソサイエティ</td>\n<td>Library《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Vanderholl</td>\n<td>《運動》 and《製作》</td>\n<td>Labor《専門知識》</td>\n</tr>\n</tbody>\n</table>",
+      "description": "<p>あなたは一族の一員としてのアイデンティティが、ドワーフの祖先と同様に自身の中心にある。あなたは一族の2つのスキルにおいて訓練済みの習熟度を得る。これらのスキルのいずれかに対して(背景やクラスからなど)自動的に訓練済みになる場合、あなたは代わりに選んだスキルで訓練済みになる。さらに、一族のためにリストされた《専門知識》において訓練済みになる。ここにリストされていない一族から来た場合、あなたはGMによって決定された適切なスキルの選択肢に対して訓練済みになる。族の伝手は習得に時間がかかるため、あなたが一族を離れて別の一族に加入しても、これらのスキルは自動的に変更されないが、GMがダウンタイム中の再訓練の一環としてスキルを変更することを許可する場合もある。</p>\n<table border=\"1\"><colgroup><col><col><col></colgroup>\n<thead>\n<tr>\n<th>Clan</th>\n<th>Skills</th>\n<th>ロア</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Clan Aringeld</td>\n<td>《交渉》 andソサイエティ</td>\n<td>マーカンタイル《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Breakiron</td>\n<td>《製作》 and《生存術》</td>\n<td>アルケミー《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Firecask</td>\n<td>《製作》 and《自然》</td>\n<td>アルコール《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Gelderon</td>\n<td>《運動》 and《自然》</td>\n<td>ファーミング《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Grimmark</td>\n<td>《製作》 andソサイエティ</td>\n<td>アーキテクチャー《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Ironfist</td>\n<td>《製作》 andメディスン</td>\n<td>スメルティング《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Molgrade</td>\n<td>《製作》 and《盗賊術》</td>\n<td>スミッシング《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Oriddus</td>\n<td>《宗教》 andソサイエティ</td>\n<td>ドワーフ語 Pantheon《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Runebinder</td>\n<td>《秘術》 and《神秘学》</td>\n<td>アカデミア《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Stonefist</td>\n<td>《運動》 and《威圧》</td>\n<td>ウォーフェア《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Tolorr</td>\n<td>《交渉》 andソサイエティ</td>\n<td>ライブラリー《専門知識》</td>\n</tr>\n<tr>\n<td>Clan Vanderholl</td>\n<td>《運動》 and《製作》</td>\n<td>レイバー《専門知識》</td>\n</tr>\n</tbody>\n</table>",
       "source": "Pathfinder Lost Omens Highhelm"
     },
     "Master Magus Spellcasting": {
@@ -10930,7 +10930,7 @@
     },
     "Aldori Swordlord": {
       "name": "アルドリ・ソードロード/Aldori Swordlord",
-      "description": "<p>あなたはアルドリのソードロードである。あなたは、アルドリアカデミーで、あなた自身とあなたの仲間のために、常に無料の宿と食事を得ることができる。</p>\n<p>あなたは、ダウリング《専門知識》を《交渉》の代わりに使って[[/act make-an-impression skill=dueling-lore]]{Make an Impression}または[[/act request skill=dueling-lore]]{Request}を行うことができる。ただし、あなたが印象を与えようとしている対象は、アルドリのソードロードに気付いている必要があり、あなたの〔要請する〕がソードロードとしてのあなたの地位に関連している必要がある。</p>\n<p>あなたが@UUID[Compendium.pf2e.equipment-srd.Item.iSceAVMkVv1uKK7t]{アルドリ Dueling 剣}でクリーチャーを成功裏に〔ストライク〕した場合、あなたは5の一時的ヒット・ポイントを得る(クリティカル成功の場合は10の一時的ヒットポイント)。これらは1ラウンドの間持続する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.eJyyBqrXLOE4R9JI]{効果: アルドリ Swordlord (一時的ヒットポイント)}</p><hr /><p><strong>特別</strong>あなたはこの特技と@UUID[Compendium.pf2e.feats-srd.Item.i8lCqWJDng4c3Cgp]{Swordlord Exile}の両方を取得することはできない。</p>",
+      "description": "<p>あなたはアルドリのソードロードである。あなたは、アルドリアカデミーで、あなた自身とあなたの仲間のために、常に無料の宿と食事を得ることができる。</p>\n<p>あなたは、デュエリング《専門知識》を《交渉》の代わりに使って[[/act make-an-impression skill=dueling-lore]]{Make an Impression}または[[/act request skill=dueling-lore]]{Request}を行うことができる。ただし、あなたが印象を与えようとしている対象は、アルドリのソードロードに気付いている必要があり、あなたの〔要請する〕がソードロードとしてのあなたの地位に関連している必要がある。</p>\n<p>あなたが@UUID[Compendium.pf2e.equipment-srd.Item.iSceAVMkVv1uKK7t]{アルドリ Dueling 剣}でクリーチャーを成功裏に〔ストライク〕した場合、あなたは5の一時的ヒット・ポイントを得る(クリティカル成功の場合は10の一時的ヒットポイント)。これらは1ラウンドの間持続する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.eJyyBqrXLOE4R9JI]{効果: アルドリ Swordlord (一時的ヒットポイント)}</p><hr /><p><strong>特別</strong>あなたはこの特技と@UUID[Compendium.pf2e.feats-srd.Item.i8lCqWJDng4c3Cgp]{Swordlord Exile}の両方を取得することはできない。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
@@ -14495,7 +14495,7 @@
     },
     "Read the Stars": {
       "name": "リード・ザ・スターズ/Read the Stars",
-      "description": "<p>あなたはイラクシ占星術の達人で、星々の配置から有用(もし暗号的であっても)なヒントを得ることができる。1晩に1回、星がはっきり見える場合、あなたは1時間を費やして天体を読み、特定の目標、出来事、または1週間以内に起こる活動に関連するかを見極めることができる。GMはシークレット判定を振り、<a class=\"inline-check with-repost\" data-pf2-traits=\"secret,lizardfolk\" data-pf2-repost-flavor=\"Read The Stars\" data-pf2-show-dc=\"gm\" data-pf2-label=\"Read The Stars DC\" data-pf2-check=\"astrology-lore\" data-roller-role=\"origin\" data-item-uuid=\"Compendium.pf2e.feats-srd.Item.DhqsKns2SaGcOKO9\" data-pf2-dc=\"28\"><i class=\"fa-solid fa-dice-d20 icon\"></i><span class=\"label\"><span data-visibility=\"gm\">DC28</span>占星術《専門知識》</span><i class=\"fa-solid fa-comment-alt\" data-pf2-repost=\"\" title=\"Post prompt to chat\"></i></a>判定または<a class=\"inline-check with-repost\" data-pf2-traits=\"secret,lizardfolk\" data-pf2-repost-flavor=\"Read The Stars\" data-pf2-show-dc=\"gm\" data-pf2-label=\"Read The Stars DC\" data-pf2-check=\"occultism\" data-roller-role=\"origin\" data-item-uuid=\"Compendium.pf2e.feats-srd.Item.DhqsKns2SaGcOKO9\" data-pf2-dc=\"32\"><i class=\"fa-solid fa-dice-d20 icon\"></i><span class=\"label\"><span data-visibility=\"gm\">DC32</span>オカルティズム</span><i class=\"fa-solid fa-comment-alt\" data-pf2-repost=\"\" title=\"Post prompt to chat\"></i></a>判定を振る。成功した場合、選んだ出来事に役立つ暗号的な手がかりやアドバイスを知ることができ、クリティカル失敗の場合、誤解を招く暗号的な手がかりやアドバイスを知る。</p>",
+      "description": "<p>あなたはイラクシ占星術の達人で、星々の配置から有用(もし暗号的であっても)なヒントを得ることができる。1晩に1回、星がはっきり見える場合、あなたは1時間を費やして天体を読み、特定の目標、出来事、または1週間以内に起こる活動に関連するかを見極めることができる。GMはシークレット判定を振り、<a class=\"inline-check with-repost\" data-pf2-traits=\"secret,lizardfolk\" data-pf2-repost-flavor=\"Read The Stars\" data-pf2-show-dc=\"gm\" data-pf2-label=\"Read The Stars DC\" data-pf2-check=\"astrology-lore\" data-roller-role=\"origin\" data-item-uuid=\"Compendium.pf2e.feats-srd.Item.DhqsKns2SaGcOKO9\" data-pf2-dc=\"28\"><i class=\"fa-solid fa-dice-d20 icon\"></i><span class=\"label\"><span data-visibility=\"gm\">DC28</span>アストロロジー《専門知識》</span><i class=\"fa-solid fa-comment-alt\" data-pf2-repost=\"\" title=\"Post prompt to chat\"></i></a>判定または<a class=\"inline-check with-repost\" data-pf2-traits=\"secret,lizardfolk\" data-pf2-repost-flavor=\"Read The Stars\" data-pf2-show-dc=\"gm\" data-pf2-label=\"Read The Stars DC\" data-pf2-check=\"occultism\" data-roller-role=\"origin\" data-item-uuid=\"Compendium.pf2e.feats-srd.Item.DhqsKns2SaGcOKO9\" data-pf2-dc=\"32\"><i class=\"fa-solid fa-dice-d20 icon\"></i><span class=\"label\"><span data-visibility=\"gm\">DC32</span>オカルティズム</span><i class=\"fa-solid fa-comment-alt\" data-pf2-repost=\"\" title=\"Post prompt to chat\"></i></a>判定を振る。成功した場合、選んだ出来事に役立つ暗号的な手がかりやアドバイスを知ることができ、クリティカル失敗の場合、誤解を招く暗号的な手がかりやアドバイスを知る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
@@ -14641,7 +14641,7 @@
     },
     "Gladiator Dedication": {
       "name": "グラディエーター・デディケーション/Gladiator Dedication",
-      "description": "<p>あなたは戦闘を一種の娯楽に変える方法を知っている。あなたは剣闘士の《専門知識》に関する追加の《専門知識》汎用特技を得る。もしあなたがすでに剣闘士の《専門知識》において訓練済みであるなら、あなたはさらに、あなたが選択した《専門知識》スキル1つにおいても訓練済みとなる。</p>\n<p>戦闘遭遇の開始時に、もしあなたに観客がいるなら、あなたは自身のキャラクターレベルに等しい一時的HPを1分の間得て、イニシアチブ判定に《芸能》を使用できる。もし戦闘遭遇を観察している知性あるクリーチャーが存在し、かつこれらの見物人が戦闘自体に参加しておらず、どの参加者も直接支援していない場合、その戦闘の戦闘員には観客がいるとみなされる。戦闘に観客がいるかどうかについての最終的な判定者はGMである。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DdDjfNeoYxcKIxnq]{効果: 剣闘士のデディケーション}</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.gfhnRp2TEy9JCfHI]{剣闘士}</p>",
+      "description": "<p>あなたは戦闘を一種の娯楽に変える方法を知っている。あなたはグラディエイトリアル《専門知識》に関する追加の《専門知識》汎用特技を得る。もしあなたがすでにグラディエイトリアル《専門知識》において訓練済みであるなら、あなたはさらに、あなたが選択した《専門知識》スキル1つにおいても訓練済みとなる。</p>\n<p>戦闘遭遇の開始時に、もしあなたに観客がいるなら、あなたは自身のキャラクターレベルに等しい一時的HPを1分の間得て、イニシアチブ判定に《芸能》を使用できる。もし戦闘遭遇を観察している知性あるクリーチャーが存在し、かつこれらの見物人が戦闘自体に参加しておらず、どの参加者も直接支援していない場合、その戦闘の戦闘員には観客がいるとみなされる。戦闘に観客がいるかどうかについての最終的な判定者はGMである。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DdDjfNeoYxcKIxnq]{効果: 剣闘士のデディケーション}</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.gfhnRp2TEy9JCfHI]{剣闘士}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -14927,7 +14927,7 @@
     },
     "Devil You Know": {
       "name": "デビル・ユー・ノウ/Devil You Know",
-      "description": "<p>あなたは敵に関する知識がその敵に対しての利点を与え、彼らの悪事に対して迅速なリアクションを授ける。出会いの開始時にデヴィルやヘルナイトと戦っていることが分かる場合、あなたはそのための_ロアスキルをダイスロールすることができる。</p>\n<p>さらに、デヴィルの《専門知識》またはヘルナイト《専門知識》に関してクリーチャーに成功して 〔思い出す〕 ことができれば、次の自分以外の同じクリーチャーへのスキル判定に +1状況ボーナスを得る。あなたがデヴィルの《専門知識》またはヘルナイト《専門知識》の達人であれば、ボーナスは +2になる。</p>\n<p> @UUID[Compendium.pf2e.feat-effects.Item.3Qej6bMkgJ5ntllg]{効果: Devil You Know} </p>",
+      "description": "<p>あなたは敵に関する知識がその敵に対しての利点を与え、彼らの悪事に対して迅速なリアクションを授ける。出会いの開始時にデヴィルやヘルナイトと戦っていることが分かる場合、あなたはそのための_ロアスキルをダイスロールすることができる。</p>\n<p>さらに、デビル《専門知識》またはヘルナイト《専門知識》に関してクリーチャーに成功して 〔思い出す〕 ことができれば、次の自分以外の同じクリーチャーへのスキル判定に +1状況ボーナスを得る。あなたがデビル《専門知識》またはヘルナイト《専門知識》の達人であれば、ボーナスは +2になる。</p>\n<p> @UUID[Compendium.pf2e.feat-effects.Item.3Qej6bMkgJ5ntllg]{効果: Devil You Know} </p>",
       "source": "Pathfinder Adventure Path: Hellbreakers",
       "prerequisites": [
         {
@@ -15587,7 +15587,7 @@
     },
     "Master Merchant": {
       "name": "マスター・マーチャント/Master Merchant",
-      "description": "<p>カリストラードの教えによれば、挫折は一時的なものに過ぎず、忍耐は貴重な美徳である。特定のタスクで@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}ための《社会》または商業の《専門知識》判定に失敗したが、大失敗はしなかった場合で、かつそのタスクを翌日以降も継続して作業することが許可されているなら、あなたは翌日に再度そのスキル判定を行うことを選択できる。もし成功すれば、あなたは成功と見なされ、そのタスクが続く限り、作業に費やした以降の日々においてもその金額を稼ぎ続けることができる。</p>",
+      "description": "<p>カリストラードの教えによれば、挫折は一時的なものに過ぎず、忍耐は貴重な美徳である。特定のタスクで@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}ための《社会》またはマーカンタイル《専門知識》判定に失敗したが、大失敗はしなかった場合で、かつそのタスクを翌日以降も継続して作業することが許可されているなら、あなたは翌日に再度そのスキル判定を行うことを選択できる。もし成功すれば、あなたは成功と見なされ、そのタスクが続く限り、作業に費やした以降の日々においてもその金額を稼ぎ続けることができる。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
@@ -15722,7 +15722,7 @@
     },
     "Commander Dedication": {
       "name": "コマンダー・デディケーション/Commander Dedication",
-      "description": "<p>あなたは指揮官のように戦術クラス機能を得て、自分のフォリオを手に入れる。このフォリオには、あなたが選んだ一般的な移動または攻撃的戦術が2つ含まれている。指揮官が戦術を準備できるときに、あなたはこれらの戦術の1つを準備できる。あなたは、戦術を使用する目的で30フィートのオーラを付与する指揮官の旗を得るが、この旗は、恐怖効果に対するウィルセーヴやDCに対して指揮官の旗ボーナスを与えない。あなたは指揮官クラスの訓練済みにDC、戦争《専門知識》の訓練済みになり、すでに戦争《専門知識》において訓練済みであった場合、選んだ別のロアスキルで訓練済みになる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.FYeYr2IQ7voFSb8y]{Commander}</p>",
+      "description": "<p>あなたは指揮官のように戦術クラス機能を得て、自分のフォリオを手に入れる。このフォリオには、あなたが選んだ一般的な移動または攻撃的戦術が2つ含まれている。指揮官が戦術を準備できるときに、あなたはこれらの戦術の1つを準備できる。あなたは、戦術を使用する目的で30フィートのオーラを付与する指揮官の旗を得るが、この旗は、恐怖効果に対するウィルセーヴやDCに対して指揮官の旗ボーナスを与えない。あなたは指揮官クラスの訓練済みにDC、ウォーフェア《専門知識》の訓練済みになり、すでにウォーフェア《専門知識》において訓練済みであった場合、選んだ別のロアスキルで訓練済みになる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.FYeYr2IQ7voFSb8y]{Commander}</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
@@ -16376,7 +16376,7 @@
       "source": "Pathfinder #148: Fires of the Haunted City",
       "prerequisites": [
         {
-          "value": "訓練済みはエルフ語《専門知識》またはソサイエティ"
+          "value": "エルフ《専門知識》またはソサイエティ"
         }
       ]
     },
@@ -17788,7 +17788,7 @@
     },
     "Lizardfolk Lore": {
       "name": "リザードフォーク・ロア/Lizardfolk Lore",
-      "description": "<p>あなたはコミュニティの間で伝承される物語を注意深く聞いた。あなたは訓練済みの熟練度を《生存術》に得、さらに《自然》または《神秘学》のいずれかを得る。もしあなたが自動的にそれらのスキルのひとつで訓練済みになる場合(例えば、あなたの背景やクラスから)、あなたは代わりに任意のスキルで訓練済みになる。</p>\n<p>あなたはまた、@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技を占星術《専門知識》またはリザードフォーク《専門知識》のために得る。</p>",
+      "description": "<p>あなたはコミュニティの間で伝承される物語を注意深く聞いた。あなたは訓練済みの熟練度を《生存術》に得、さらに《自然》または《神秘学》のいずれかを得る。もしあなたが自動的にそれらのスキルのひとつで訓練済みになる場合(例えば、あなたの背景やクラスから)、あなたは代わりに任意のスキルで訓練済みになる。</p>\n<p>あなたはまた、@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技をアストロロジー《専門知識》またはリザードフォーク《専門知識》のために得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Mirror-Risen": {
@@ -17958,7 +17958,7 @@
           "value": "マシャルデディケーション"
         },
         {
-          "value": "訓練済みにおけるソサイエティまたは戦争《専門知識》"
+          "value": "訓練済みにおけるソサイエティまたはウォーフェア《専門知識》"
         }
       ]
     },
@@ -18015,7 +18015,7 @@
     },
     "Yaoguai Historian": {
       "name": "ヤオグアイ・ヒストリアン/Yaoguai Historian",
-      "description": "<p>あなたは自分の種族について広範な知識を持っている。あなたは訓練済みの習熟度を《神秘学》に得る。もしあなたがこのスキルで自動的に訓練済みになる場合(例えば、バックグラウンドやクラスから)、あなたは代わりに自分の選んだスキルで訓練済みになる。さらに、あなたはYaoguai《専門知識》のための@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技を得る。</p>\n<p>1日に1回、あなたは@UUID[Compendium.pf2e.feats-srd.Item.W6Gl9ePmItfDHji0]{Assurance}フィートの恩恵を得ることができる《神秘学》またはYaoguai《専門知識》のために。この効果を対象のスキル判定に試みる時にフリー・アクションとして使用することを選ぶ。</p>",
+      "description": "<p>あなたは自分の種族について広範な知識を持っている。あなたは訓練済みの習熟度を《神秘学》に得る。もしあなたがこのスキルで自動的に訓練済みになる場合(例えば、バックグラウンドやクラスから)、あなたは代わりに自分の選んだスキルで訓練済みになる。さらに、あなたはヤオグアイ《専門知識》のための@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技を得る。</p>\n<p>1日に1回、あなたは@UUID[Compendium.pf2e.feats-srd.Item.W6Gl9ePmItfDHji0]{Assurance}フィートの恩恵を得ることができる《神秘学》またはヤオグアイ《専門知識》のために。この効果を対象のスキル判定に試みる時にフリー・アクションとして使用することを選ぶ。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Radiate Glory": {
@@ -20193,7 +20193,7 @@
     },
     "Legendary Professional": {
       "name": "レジェンダリー・プロフェッショナル/Legendary Professional",
-      "description": "<p>あなたの名声は土地中に広がった(例えば、あなたが戦争《専門知識》を持っているなら、伝説的な将軍や戦術家であるかもしれない)。これは@UUID[Compendium.pf2e.feats-srd.Item.467qQoiy6bjWU1G8]{レジェンダリー Performer}として機能し、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{Earn Income}を《専門知識》で行うときにより高いレベルの仕事を得る。</p>",
+      "description": "<p>あなたの名声は土地中に広がった(例えば、あなたがウォーフェア《専門知識》を持っているなら、伝説的な将軍や戦術家であるかもしれない)。これは@UUID[Compendium.pf2e.feats-srd.Item.467qQoiy6bjWU1G8]{レジェンダリー Performer}として機能し、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{Earn Income}を《専門知識》で行うときにより高いレベルの仕事を得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -20795,7 +20795,7 @@
     },
     "Sarangay Lore": {
       "name": "サランガイ・ロア/Sarangay Lore",
-      "description": "<p>あなたはコミュニティ内で受け継がれてきた物語を注意深く聞いてきた。あなたは訓練済みの熟練度を《自然》と《生存術》に持つ。もしあなたがそれらのスキルの一つで自動的に訓練済みになる場合(背景やクラスからの例など)、あなたは代わりに好きなスキルで訓練済みになる。</p>\n<p>あなたはSarangay《専門知識》のための@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技も得る。</p>",
+      "description": "<p>あなたはコミュニティ内で受け継がれてきた物語を注意深く聞いてきた。あなたは訓練済みの熟練度を《自然》と《生存術》に持つ。もしあなたがそれらのスキルの一つで自動的に訓練済みになる場合(背景やクラスからの例など)、あなたは代わりに好きなスキルで訓練済みになる。</p>\n<p>あなたはサランガイ《専門知識》のための@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技も得る。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Death Warden": {
@@ -21538,7 +21538,7 @@
     },
     "Inner Sea Privateer": {
       "name": "インナー・シー・プライバティア/Inner Sea Privateer",
-      "description": "<p>あなたは海賊として生計を立てており、アンドラン、チェリアックス、あるいはムベケにサービスを売り込むことで少しばかりの副収入も得ている。あなたはどの船が正当な標的であり、どの船とは仲良くすべきかを認識する必要がある。あなたは[[/act recall-knowledge skill=sailing-lore]]を使用して、High Seas(外洋)の原住クリーチャーや、その地域の旗、船、船乗りについて@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}ことができる。もし船が偽の旗やその他の変装を用いて真の忠誠心を隠している場合、GMはあなたがそれを認識できるかどうか、隠密裏にあなたの航海《専門知識》判定を行う。これは通常、その船の船長のレベルに応じた標準的な DCに対して行われる。</p>",
+      "description": "<p>あなたは海賊として生計を立てており、アンドラン、チェリアックス、あるいはムベケにサービスを売り込むことで少しばかりの副収入も得ている。あなたはどの船が正当な標的であり、どの船とは仲良くすべきかを認識する必要がある。あなたは[[/act recall-knowledge skill=sailing-lore]]を使用して、High Seas(外洋)の原住クリーチャーや、その地域の旗、船、船乗りについて@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}ことができる。もし船が偽の旗やその他の変装を用いて真の忠誠心を隠している場合、GMはあなたがそれを認識できるかどうか、隠密裏にあなたのセイリング《専門知識》判定を行う。これは通常、その船の船長のレベルに応じた標準的な DCに対して行われる。</p>",
       "source": "Pathfinder Lost Omens High Seas",
       "prerequisites": [
         {
@@ -21591,7 +21591,7 @@
     },
     "General's Gambit": {
       "name": "ジェネラルズ・ギャンビット/General's Gambit",
-      "description": "<p>あなたは戦略的に前進し、味方から敵の注意をそらす。あなたは敵に向かって〈ストライド〉し、@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{〈注意をそらす〉}を試みる。ただし、あなたは《欺瞞》の代わりに《社会》または戦争《専門知識》を使用できる。</p>\n<p>成功した場合、「注意をそらす」の通常の結果に加えて、その敵はあなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}状態となり、あなたの次のターン開始時まで、あなたのオーラ内にいる味方に対してリアクションを使用できなくなる。大成功した場合、その敵はあなたに対してあなたの次のターン終了時まで、魅了状態となる。</p>",
+      "description": "<p>あなたは戦略的に前進し、味方から敵の注意をそらす。あなたは敵に向かって〈ストライド〉し、@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{〈注意をそらす〉}を試みる。ただし、あなたは《欺瞞》の代わりに《社会》またはウォーフェア《専門知識》を使用できる。</p>\n<p>成功した場合、「注意をそらす」の通常の結果に加えて、その敵はあなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}状態となり、あなたの次のターン開始時まで、あなたのオーラ内にいる味方に対してリアクションを使用できなくなる。大成功した場合、その敵はあなたに対してあなたの次のターン終了時まで、魅了状態となる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -23186,7 +23186,7 @@
     },
     "Jotunborn Lore": {
       "name": "ヨトゥンボーン・ロア/Jotunborn Lore",
-      "description": "<p>あなたは人々の次元移動の歴史とサブプラナー環境で生き延びるためのスキルを教わった。あなたは訓練済みに《神秘学》と《生存術》においてなる。もしそれらのスキルのいずれかで自動的に訓練済みとなる場合(たとえば、あなたの背景やクラスから)、あなたは代わりにあなたの選んだスキルで訓練済みになる。あなたはまた@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技を Jotunborn《専門知識》のために得る。</p><hr /><p><strong>特別</strong>あなたが@UUID[Compendium.pf2e.heritages.Item.NUUWs7jFwsIPmx3p]{Sage Jotunborn}血統を持っている場合、あなたは任意の《専門知識》のために追加《専門知識》の特技をもう一度得る。</p>",
+      "description": "<p>あなたは人々の次元移動の歴史とサブプラナー環境で生き延びるためのスキルを教わった。あなたは訓練済みに《神秘学》と《生存術》においてなる。もしそれらのスキルのいずれかで自動的に訓練済みとなる場合(たとえば、あなたの背景やクラスから)、あなたは代わりにあなたの選んだスキルで訓練済みになる。あなたはまた@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技を ヨトゥンボーン《専門知識》のために得る。</p><hr /><p><strong>特別</strong>あなたが@UUID[Compendium.pf2e.heritages.Item.NUUWs7jFwsIPmx3p]{Sage Jotunborn}血統を持っている場合、あなたは任意の《専門知識》のために追加《専門知識》の特技をもう一度得る。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Known Weaknesses": {
@@ -25048,7 +25048,7 @@
     },
     "Express Driver": {
       "name": "エクスプレス・ドライバー/Express Driver",
-      "description": "<p>あなたは乗り物の性能を最適化し、余分な速さを引き出し、遅延を避ける経路を選ぶことができる。乗り物を操縦している間、当日の移動速度を計算する際に、あなたは運転の《専門知識》判定を試みて乗り物の移動速度を増加させることができる。DCはGMによって決定されるが、通常は乗り物の操縦の DCまたは環境に基づいた難易度のいずれか、どちらか難しい方になる。成功した場合、乗り物の移動速度を半分増加させる。これは遭遇中のあなたの乗り物の移動には影響を与えない。</p>",
+      "description": "<p>あなたは乗り物の性能を最適化し、余分な速さを引き出し、遅延を避ける経路を選ぶことができる。乗り物を操縦している間、当日の移動速度を計算する際に、あなたはドライビング《専門知識》判定を試みて乗り物の移動速度を増加させることができる。DCはGMによって決定されるが、通常は乗り物の操縦の DCまたは環境に基づいた難易度のいずれか、どちらか難しい方になる。成功した場合、乗り物の移動速度を半分増加させる。これは遭遇中のあなたの乗り物の移動には影響を与えない。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -25542,7 +25542,7 @@
     },
     "To Thine Own Self": {
       "name": "トゥ・ザイン・オウン・セルフ/To Thine Own Self",
-      "description": "<p><strong>トリガー</strong>あなたは、他のクリーチャーに支配されるか、記憶を変化させる効果に対してセーヴィング・スローに失敗する。</p><hr /><p>過去の危険に対する認識が、あなたの思考を操作しようとする者から守る。あなたの化身《専門知識》の修正値をあなたの打ち消しの修正値として使用し、あなたのレベルの半分をあなたの打ち消しランクとして用い、トリガーした効果を打ち消ししよう。</p>",
+      "description": "<p><strong>トリガー</strong>あなたは、他のクリーチャーに支配されるか、記憶を変化させる効果に対してセーヴィング・スローに失敗する。</p><hr /><p>過去の危険に対する認識が、あなたの思考を操作しようとする者から守る。あなたのインカーネイション《専門知識》の修正値をあなたの打ち消しの修正値として使用し、あなたのレベルの半分をあなたの打ち消しランクとして用い、トリガーした効果を打ち消ししよう。</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star",
       "prerequisites": [
         {
@@ -26499,7 +26499,7 @@
     },
     "Pirate Dedication": {
       "name": "パイレート・デディケーション/Pirate Dedication",
-      "description": "<p>海賊として、あなたは敵の船を略奪し、素晴らしい冒険を求めて海を渡る。あなたは@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技を得て、航海《専門知識》またはあなたが関係を持つ特定の沿岸都市(例えばポート・ペリル《専門知識》)のために得る。あなたは不安定な地面(例えば船のデッキ)による困難な地形や不均一な地面の影響を無視する。さらに、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.vZltxwRNvF5khf9a]{Boarding Assault}アクションを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.O9P1YgtiCgHlPNp5]{Pirate}</p>",
+      "description": "<p>海賊として、あなたは敵の船を略奪し、素晴らしい冒険を求めて海を渡る。あなたは@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技を得て、セイリング《専門知識》またはあなたが関係を持つ特定の沿岸都市(例えばポート・ペリル《専門知識》)のために得る。あなたは不安定な地面(例えば船のデッキ)による困難な地形や不均一な地面の影響を無視する。さらに、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.vZltxwRNvF5khf9a]{Boarding Assault}アクションを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.O9P1YgtiCgHlPNp5]{Pirate}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -26591,7 +26591,7 @@
     },
     "Siege Ritualist": {
       "name": "シージ・リチュアリスト/Siege Ritualist",
-      "description": "<p>時には、魔法の戦争にはより複雑な秘術の適用が必要である。あなたが儀式の魔法使いの一人として戦争《専門知識》判定を試みると、判定に対して+2の状況ボーナスを得る。あなたは、2級またはそれ以下の攻城儀式を学ぶ。儀式の主な魔法使いになるためには、すべての前提条件を満たさなければならない。</p>\n<p>8レベルおよびその後の4レベルごとに、同じ制約で、最大そのレベルの半分までの攻城儀式をさらに学ぶ。</p>",
+      "description": "<p>時には、魔法の戦争にはより複雑な秘術の適用が必要である。あなたが儀式の魔法使いの一人としてウォーフェア《専門知識》判定を試みると、判定に対して+2の状況ボーナスを得る。あなたは、2級またはそれ以下の攻城儀式を学ぶ。儀式の主な魔法使いになるためには、すべての前提条件を満たさなければならない。</p>\n<p>8レベルおよびその後の4レベルごとに、同じ制約で、最大そのレベルの半分までの攻城儀式をさらに学ぶ。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
@@ -26867,11 +26867,11 @@
     },
     "Armor Assist": {
       "name": "アーマー・アシスト/Armor Assist",
-      "description": "<p>装甲を纏った戦士たちを支援する任務を経て、あなたはあなた自身や他者が重い道具を着用するのを手伝うことに慣れている。</p>\n<p>あなたは防具を着用するのにかかる時間を半分にするため、GMが決定するDC(通常、一般的な防具なら15、珍しい防具ならDC 20、希少な防具ならDC 25)に対して、《運動》または戦争《専門知識》判定を行うことができる。</p>\n<p>あなたは味方と協力して防具を着用させ、同じDCに対して《運動》または戦争《専門知識》判定に成功することで、その味方が防具を着用する時間を半分にすることができる。</p>",
+      "description": "<p>装甲を纏った戦士たちを支援する任務を経て、あなたはあなた自身や他者が重い道具を着用するのを手伝うことに慣れている。</p>\n<p>あなたは防具を着用するのにかかる時間を半分にするため、GMが決定するDC(通常、一般的な防具なら15、珍しい防具ならDC 20、希少な防具ならDC 25)に対して、《運動》またはウォーフェア《専門知識》判定を行うことができる。</p>\n<p>あなたは味方と協力して防具を着用させ、同じDCに対して《運動》またはウォーフェア《専門知識》判定に成功することで、その味方が防具を着用する時間を半分にすることができる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "訓練済みが《運動》または戦争《専門知識》の中で"
+          "value": "訓練済みが《運動》またはウォーフェア《専門知識》の中で"
         }
       ]
     },
@@ -28023,7 +28023,7 @@
     },
     "Communal Crafting": {
       "name": "コミューナル・《製作》/Communal Crafting",
-      "description": "<p>あなたは他のPC達に、あなたの指揮下でアイテムを@UUID[Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{〈製作する〉}手伝いをさせることができる。手伝うPCは、自分が訓練済みであるスキルを用いて判定をロールする。そのスキルは《製作》か、GMの判断によって、アイテムに関連する他のスキルでなければならない。例えば、PCは神聖のトレイトを持つアイテムを〈製作する〉手伝いをするために《宗教》を使用したり、武器を〈製作する〉手伝いをするために戦争の《専門知識》を使用したりするかもしれない。アイテムの作成に成功したかどうかは、依然としてあなたのロールが決定する。手伝う者のロールは、@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}の表の数値を使用して、生の素材のコストを削減することに貢献する。これには、その協力者PCのスキルにおける習熟ランクと、レベルから1を引いた値を使用する。手伝うPC達は、〈製作する〉アクティビティの間ずっとあなたに同行しなければならず(同行しない場合、他のダウンタイム・アクティビティを行うことはできない)、さもなくば恩恵は失われる。GMは状況に応じて、手伝うことができるPC達の人数を制限するかもしれない。共同での《製作》は、誰か他の者が製作を行っている際に、相手があなたの助けを受け入れるならば、あなたが手伝い役を務めることも可能にする。</p>",
+      "description": "<p>あなたは他のPC達に、あなたの指揮下でアイテムを@UUID[Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{〈製作する〉}手伝いをさせることができる。手伝うPCは、自分が訓練済みであるスキルを用いて判定をロールする。そのスキルは《製作》か、GMの判断によって、アイテムに関連する他のスキルでなければならない。例えば、PCは神聖のトレイトを持つアイテムを〈製作する〉手伝いをするために《宗教》を使用したり、武器を〈製作する〉手伝いをするためにウォーフェア《専門知識》を使用したりするかもしれない。アイテムの作成に成功したかどうかは、依然としてあなたのロールが決定する。手伝う者のロールは、@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}の表の数値を使用して、生の素材のコストを削減することに貢献する。これには、その協力者PCのスキルにおける習熟ランクと、レベルから1を引いた値を使用する。手伝うPC達は、〈製作する〉アクティビティの間ずっとあなたに同行しなければならず(同行しない場合、他のダウンタイム・アクティビティを行うことはできない)、さもなくば恩恵は失われる。GMは状況に応じて、手伝うことができるPC達の人数を制限するかもしれない。共同での《製作》は、誰か他の者が製作を行っている際に、相手があなたの助けを受け入れるならば、あなたが手伝い役を務めることも可能にする。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -28264,7 +28264,7 @@
     },
     "Demolitionist Dedication": {
       "name": "デモリショニスト・デディケーション/Demolitionist Dedication",
-      "description": "<p>あなたは建物やその他の建造物に最大限のダメージを与えるための爆発物の設置方法を知っている。あなたは工学《専門知識》において訓練済みとなる。もしすでに訓練済みであったなら、その分野で専門家となる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.vvYsE7OiSSCXhPdr]{セト 爆発物設置}アクションを得る。</p>\n<p><strong>セト爆発物設置</strong> <span class=\"action-glyph\">2</span> (集中)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.vvYsE7OiSSCXhPdr inline]</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Mk7ECwe1a971WyWl]{Demolitionist}</p>",
+      "description": "<p>あなたは建物やその他の建造物に最大限のダメージを与えるための爆発物の設置方法を知っている。あなたはエンジニアリング《専門知識》において訓練済みとなる。もしすでに訓練済みであったなら、その分野で専門家となる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.vvYsE7OiSSCXhPdr]{セト 爆発物設置}アクションを得る。</p>\n<p><strong>セト爆発物設置</strong> <span class=\"action-glyph\">2</span> (集中)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.vvYsE7OiSSCXhPdr inline]</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Mk7ECwe1a971WyWl]{Demolitionist}</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Follow-Up Strike": {
@@ -29193,7 +29193,7 @@
     },
     "Folktales Lore": {
       "name": "フォークテイルズ・ロア/Folktales Lore",
-      "description": "<p>あなたは、どんな物語からでも知恵のかけらを引き出すことができる。あなたは民話《専門知識》に訓練済みとなり、特別なロアスキルを持ち、そのスキルは〔思い出す〕にのみ使用されるが、いかなるトピックにも使える。あなたが民話《専門知識》を〔思い出す〕ための判定に失敗した場合、あなたは@UUID[Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P]{Dubious Knowledge}スキル特技の効果を得る。</p>\n<p>もしあなたが《芸能》スキルでレジェンダリーであれば、あなたは民話《専門知識》にエキスパートの習熟度を得るが、他の手段で民話《専門知識》の習熟ランクを上げることはできない。</p>",
+      "description": "<p>あなたは、どんな物語からでも知恵のかけらを引き出すことができる。あなたはフォークテイルズ《専門知識》に訓練済みとなり、特別なロアスキルを持ち、そのスキルは〔思い出す〕にのみ使用されるが、いかなるトピックにも使える。あなたがフォークテイルズ《専門知識》を〔思い出す〕ための判定に失敗した場合、あなたは@UUID[Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P]{Dubious Knowledge}スキル特技の効果を得る。</p>\n<p>もしあなたが《芸能》スキルでレジェンダリーであれば、あなたはフォークテイルズ《専門知識》にエキスパートの習熟度を得るが、他の手段でフォークテイルズ《専門知識》の習熟ランクを上げることはできない。</p>",
       "source": "Pathfinder #170: Spoken on the Song Wind",
       "prerequisites": [
         {
@@ -29996,7 +29996,7 @@
     },
     "Tales of the Road": {
       "name": "テイルズ・オブ・ザ・ロード/Tales of the Road",
-      "description": "<p>イストラレイの祝福は、すべての集落の根底にある物語の鼓動とあなたを結びつける。あなたが訪れたことのある都市について@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}ための判定を行う際、あなたは+2の状況ボーナスを得る。また、たとえあなたが未習熟度であっても、関連する《専門知識》スキル(ネロスヤンの《専門知識》など)を、あなたのレベルを習熟ボーナスとして使用して行うことができる。</p>",
+      "description": "<p>イストラレイの祝福は、すべての集落の根底にある物語の鼓動とあなたを結びつける。あなたが訪れたことのある都市について@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}ための判定を行う際、あなたは+2の状況ボーナスを得る。また、たとえあなたが未習熟度であっても、ネロシアン《専門知識》スキル(ネロスヤンの《専門知識》など)を、あなたのレベルを習熟ボーナスとして使用して行うことができる。</p>",
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
         {
@@ -31796,7 +31796,7 @@
     },
     "Duskwalker Lore": {
       "name": "ダスクウォーカー・ロア/Duskwalker Lore",
-      "description": "<p>あなたは他のダスクウォーカーを見つけて自身の種族の秘密を学んだか、あなたの非凡な遺伝を研究することに成功した。あなたは訓練済みの熟練ランクをメディスンと《宗教》に得る。もしあなたがそのスキルの1つにおいて自動的に訓練済みになる場合(背景やクラスからなど)、あなたは代わりに選んだスキルにおいて訓練済みになる。</p>\n<p>あなたはまた、Boneyard《専門知識》に対する@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技を得る。</p>",
+      "description": "<p>あなたは他のダスクウォーカーを見つけて自身の種族の秘密を学んだか、あなたの非凡な遺伝を研究することに成功した。あなたは訓練済みの熟練ランクをメディスンと《宗教》に得る。もしあなたがそのスキルの1つにおいて自動的に訓練済みになる場合(背景やクラスからなど)、あなたは代わりに選んだスキルにおいて訓練済みになる。</p>\n<p>あなたはまた、ボーンヤード《専門知識》に対する@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技を得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Consistent Surge": {
@@ -32170,7 +32170,7 @@
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
-          "value": "訓練済みの商業《専門知識》とソサイエティ"
+          "value": "訓練済みのマーカンタイル《専門知識》とソサイエティ"
         },
         {
           "value": "魅力 +2"
@@ -32500,7 +32500,7 @@
     },
     "War Mage Dedication": {
       "name": "ウォー・メイジ・デディケーション/War Mage Dedication",
-      "description": "<p>魔法の戦場での応用に関するあなたの研究により、あなたの呪文は敵の陣形を崩したり、敵部隊を広範囲の魔法攻撃に対してより脆弱な位置へ操作したりすることに特に効果的となった。あなたが範囲内にダメージを与えるを与えるキャントリップ以外の呪文を発動した際、その効果に対するセーヴィング・スローに失敗した対象を、あなたの知力修正値に等しい数だけ選ぶ。各対象が呪文によるダメージやその他の効果を受けた後、元の位置から最大10フィートまで移動させる。あなたはクリーチャーを障害物の中や障害物を通して移動させることはできない。中型以下のクリーチャーは1体の対象として数え、大型のクリーチャーは2体の中型クリーチャーとして数え、超大型のクリーチャーは4体の中型クリーチャーとして数える。あなたは巨大のクリーチャーをこの方法で移動させることはできない。</p>\n<p>また、あなたは戦争《専門知識》のための@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{Additional 《専門知識》}汎用特技を得る。もしあなたがすでに戦争《専門知識》において訓練済みであるなら、あなたは任意の《専門知識》スキルにおいて訓練済みとなる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.NkQidn5vlt6U1EFv]{War Mage (Class アーキタイプ)}</p>",
+      "description": "<p>魔法の戦場での応用に関するあなたの研究により、あなたの呪文は敵の陣形を崩したり、敵部隊を広範囲の魔法攻撃に対してより脆弱な位置へ操作したりすることに特に効果的となった。あなたが範囲内にダメージを与えるを与えるキャントリップ以外の呪文を発動した際、その効果に対するセーヴィング・スローに失敗した対象を、あなたの知力修正値に等しい数だけ選ぶ。各対象が呪文によるダメージやその他の効果を受けた後、元の位置から最大10フィートまで移動させる。あなたはクリーチャーを障害物の中や障害物を通して移動させることはできない。中型以下のクリーチャーは1体の対象として数え、大型のクリーチャーは2体の中型クリーチャーとして数え、超大型のクリーチャーは4体の中型クリーチャーとして数える。あなたは巨大のクリーチャーをこの方法で移動させることはできない。</p>\n<p>また、あなたはウォーフェア《専門知識》のための@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{Additional 《専門知識》}汎用特技を得る。もしあなたがすでにウォーフェア《専門知識》において訓練済みであるなら、あなたは任意の《専門知識》スキルにおいて訓練済みとなる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.NkQidn5vlt6U1EFv]{War Mage (Class アーキタイプ)}</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
@@ -34721,7 +34721,7 @@
     },
     "Animal Actor": {
       "name": "アニマル・アクター/Animal Actor",
-      "description": "|||<p>あなたは、タルドラの若者の間で人気のある英雄であり、類人猿の友人マーデュと共に旅をした動物好きの冒険家サイリカスに焦点を当てた劇『跳ねるライオン』の公演に参加した。あなたは《自然》と、ショービジネスで一般的に使用される特定の種類の動物に関連する《専門知識》スキル(Canine《専門知識》、Ursine《専門知識》、Primate《専門知識》など)において訓練済みとなる。もしすでにどちらかで訓練済みであったなら、代わりにそのスキルでエキスパートとなる。あなたは動物のトレイトを持つクリーチャーに対する〈動物に命令する〉および@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行うすべての判定に+2の状況ボーナスを得る。あなたは選択した動物の《専門知識》を使用して、そのタイプの動物に対して〈動物に命令する〉ことができる。</p>|||",
+      "description": "|||<p>あなたは、タルドラの若者の間で人気のある英雄であり、類人猿の友人マーデュと共に旅をした動物好きの冒険家サイリカスに焦点を当てた劇『跳ねるライオン』の公演に参加した。あなたは《自然》と、ショービジネスで一般的に使用される特定の種類の動物に関連する《専門知識》スキル(ケイナイン《専門知識》、アーサイン《専門知識》、プライメイト《専門知識》など)において訓練済みとなる。もしすでにどちらかで訓練済みであったなら、代わりにそのスキルでエキスパートとなる。あなたは動物のトレイトを持つクリーチャーに対する〈動物に命令する〉および@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行うすべての判定に+2の状況ボーナスを得る。あなたは選択した動物の《専門知識》を使用して、そのタイプの動物に対して〈動物に命令する〉ことができる。</p>|||",
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
         {
@@ -34928,7 +34928,7 @@
     },
     "Blackjacket Dedication": {
       "name": "ブラックジャケット・デディケーション/Blackjacket Dedication",
-      "description": "<p><strong>Access</strong>あなたはドラマ出身である。</p><hr /><p>あなたは傭兵連盟の階級に加わり、組織の一般的な通称の由来となっている黒い制服を着用している。あなたは《威圧》において訓練済みとなる。もしすでに訓練済みであったなら、代わりにエキスパートとなる。あなたはWarfare《専門知識》のスキル特技である@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{Additional 《専門知識》}を得る。もしすでにWarfare《専門知識》で訓練済みであったなら、あなたはさらに自身の選択した《専門知識》スキルにおいても訓練済みとなる。中装鎧または重装鎧を着用している間、あなたは《威圧》判定に+1の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.irUrG1k3AJ0OfW9b]{Blackjacket}</p>",
+      "description": "<p><strong>Access</strong>あなたはドラマ出身である。</p><hr /><p>あなたは傭兵連盟の階級に加わり、組織の一般的な通称の由来となっている黒い制服を着用している。あなたは《威圧》において訓練済みとなる。もしすでに訓練済みであったなら、代わりにエキスパートとなる。あなたはウォーフェア《専門知識》のスキル特技である@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{Additional 《専門知識》}を得る。もしすでにウォーフェア《専門知識》で訓練済みであったなら、あなたはさらに自身の選択した《専門知識》スキルにおいても訓練済みとなる。中装鎧または重装鎧を着用している間、あなたは《威圧》判定に+1の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.irUrG1k3AJ0OfW9b]{Blackjacket}</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
@@ -36473,7 +36473,7 @@
     },
     "Battle Planner": {
       "name": "バトル・プランナー/Battle Planner",
-      "description": "<p>あなたは常に計画や戦闘シナリオを立て、戦略を組み立て、収集した情報を後で使用するためにまとめている。敵の位置を偵察したり、敵の位置を偵察した仲間から詳細な報告を受けたとき、潜在的な敵の数、位置、身元が明確であれば、1分を消費して、それらの潜在的な要素を考慮に入れた戦闘計画を立て、運の役割を減少させることができる。</p>\n<p>戦争《専門知識》判定を振る。情報が正確であり、イニシアティブをこれらの敵に対して振るときに正確である限り、以前に振った戦争《専門知識》の結果をイニシアティブロールに使用できる；もしそうした場合、これはフォーチュン効果になる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.ZkYDgSSlKML9BUjg]{効果: Battle Planner}</p>",
+      "description": "<p>あなたは常に計画や戦闘シナリオを立て、戦略を組み立て、収集した情報を後で使用するためにまとめている。敵の位置を偵察したり、敵の位置を偵察した仲間から詳細な報告を受けたとき、潜在的な敵の数、位置、身元が明確であれば、1分を消費して、それらの潜在的な要素を考慮に入れた戦闘計画を立て、運の役割を減少させることができる。</p>\n<p>ウォーフェア《専門知識》判定を振る。情報が正確であり、イニシアティブをこれらの敵に対して振るときに正確である限り、以前に振ったウォーフェア《専門知識》の結果をイニシアティブロールに使用できる；もしそうした場合、これはフォーチュン効果になる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.ZkYDgSSlKML9BUjg]{効果: Battle Planner}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -37386,7 +37386,7 @@
     },
     "Wayang Lore": {
       "name": "ワヤン・ロア/Wayang Lore",
-      "description": "<p>あなたは知識を使って《芸能》を強化したり、隠れる手助けをしたりする。あなたは訓練済みの習熟ランクを《芸能》と《隠密》で得る。あなたがこれらのスキルのいずれかで自動的に訓練済みになる場合(例えばバックグラウンドやクラスから)、代わりに好きなスキルで訓練済みになる。</p>\n<p>また、あなたはWayang《専門知識》のために、@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技を得る。</p>",
+      "description": "<p>あなたは知識を使って《芸能》を強化したり、隠れる手助けをしたりする。あなたは訓練済みの習熟ランクを《芸能》と《隠密》で得る。あなたがこれらのスキルのいずれかで自動的に訓練済みになる場合(例えばバックグラウンドやクラスから)、代わりに好きなスキルで訓練済みになる。</p>\n<p>また、あなたはワヤン《専門知識》のために、@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}汎用特技を得る。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Slippery Secrets": {
@@ -37411,7 +37411,7 @@
     },
     "Bright Lion Dedication": {
       "name": "ブライト・ライオン・デディケーション/Bright Lion Dedication",
-      "description": "<p><strong>アクセス</strong> @UUID[Compendium.pf2e.backgrounds.Item.JfGVkZkaoz2lnmov]{Bright Lion}バックグラウンド</p><hr /><p>あなたは訓練済みが《欺瞞》または《交渉》とMzali《専門知識》のいずれかを選択して得る；もしあなたがすでに訓練済みであれば、代わりにエキスパートになる。あなたはウォルケナの信者として疑いを避けるために、日常生活の中に十分な信仰を取り入れる。あなたは通常、@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Lie}や@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Impersonate}なしであなた自身をウォルケナの信者として通すことができる。細心の検査に対して、あなたはあなた自身をウォルケナに忠実なバージョンとして通すための《欺瞞》判定に+4の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.vS9iMDapZN9uW33Q]{Bright Lion}</p>",
+      "description": "<p><strong>アクセス</strong> @UUID[Compendium.pf2e.backgrounds.Item.JfGVkZkaoz2lnmov]{Bright Lion}バックグラウンド</p><hr /><p>あなたは訓練済みが《欺瞞》または《交渉》とムザリ《専門知識》のいずれかを選択して得る；もしあなたがすでに訓練済みであれば、代わりにエキスパートになる。あなたはウォルケナの信者として疑いを避けるために、日常生活の中に十分な信仰を取り入れる。あなたは通常、@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Lie}や@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Impersonate}なしであなた自身をウォルケナの信者として通すことができる。細心の検査に対して、あなたはあなた自身をウォルケナに忠実なバージョンとして通すための《欺瞞》判定に+4の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.vS9iMDapZN9uW33Q]{Bright Lion}</p>",
       "source": "Pathfinder Lost Omens Legends",
       "prerequisites": [
         {
@@ -38783,7 +38783,7 @@
     },
     "Food Preservation": {
       "name": "フード・プレザーベーション/Food Preservation",
-      "description": "<p>あなたの技術は、ピクルス、アルコール、または発酵によって特定の材料と食べ物の保存期間を延ばす。あなたが高度な錬金術を使用して錬金食品を作成する際、あなたは次に日課の準備を行うときに自動的に期限が切れない1つの浸漬アイテムを指定できる。この方法で別のアイテムを保存する場合、前のアイテムは食べられなくなる。</p>\n<p>あなたが日々の準備の間に保存できるアイテムの数と、古いアイテムが傷む前に保存できる最大のアイテム数は、あなたが《製作》または料理《専門知識》の専門家である場合は2つに増え、マスターである場合は3つに、レジェンダリーである場合は5つに増える。</p>",
+      "description": "<p>あなたの技術は、ピクルス、アルコール、または発酵によって特定の材料と食べ物の保存期間を延ばす。あなたが高度な錬金術を使用して錬金食品を作成する際、あなたは次に日課の準備を行うときに自動的に期限が切れない1つの浸漬アイテムを指定できる。この方法で別のアイテムを保存する場合、前のアイテムは食べられなくなる。</p>\n<p>あなたが日々の準備の間に保存できるアイテムの数と、古いアイテムが傷む前に保存できる最大のアイテム数は、あなたが《製作》またはクッキング《専門知識》の専門家である場合は2つに増え、マスターである場合は3つに、レジェンダリーである場合は5つに増える。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -39646,7 +39646,7 @@
     },
     "Feast Planner": {
       "name": "フィースト・プランナー/Feast Planner",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.yRf59eFtZ50cGlem]{フォーティファイング・ブリュー}儀式を学ぶが、通常のバージョンの儀式の飲み物と同じ効果を持つ豪華な食事を準備する。あなたは両方の儀式の側面をあなた自身として行い、主要なキャスターと補助キャスターの両方の役割を果たす。あなたは依然として通常の補助キャスターが行う補助判定を試みなければならない。さらに、主要な判定と補助判定の両方に《製作》または料理《専門知識》を使用できる。この儀式には、自然の精霊があなたとあなたのゲストに参列するため、プライマルのトレイトが付与される。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.yRf59eFtZ50cGlem]{フォーティファイング・ブリュー}儀式を学ぶが、通常のバージョンの儀式の飲み物と同じ効果を持つ豪華な食事を準備する。あなたは両方の儀式の側面をあなた自身として行い、主要なキャスターと補助キャスターの両方の役割を果たす。あなたは依然として通常の補助キャスターが行う補助判定を試みなければならない。さらに、主要な判定と補助判定の両方に《製作》またはクッキング《専門知識》を使用できる。この儀式には、自然の精霊があなたとあなたのゲストに参列するため、プライマルのトレイトが付与される。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -41646,7 +41646,7 @@
           "value": "放浪するシェフデディケーション"
         },
         {
-          "value": "《製作》または料理《専門知識》のエキスパート"
+          "value": "《製作》またはクッキング《専門知識》のエキスパート"
         }
       ]
     },
@@ -41810,7 +41810,7 @@
     },
     "Chelaxian Scion Dedication": {
       "name": "チェラクシアン・サイオン・デディケーション/Chelaxian Scion Dedication",
-      "description": "<p><strong>アクセス</strong>あなたはチェリアックスの貴族の家の出身であるか、あるいは名誉ある家臣である。</p><hr /><p>貴族の家があなたの訓練に投資し、一族が何世代にもわたって磨き上げてきた特別な技術を授けた。あなたはスキル特技として@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{追加の《専門知識》}を得る。その際、チェリアックス《専門知識》、デヴィル《専門知識》、ヘル《専門知識》、あるいはあなたの家に結びついた《専門知識》から選択すること。さらに、チェリアックスの市民およびデヴィルに対して、《欺瞞》判定、《交渉》判定、《威圧》判定、およびあなたの意志DCに＋1の状況ボーナスを得る。</p>",
+      "description": "<p><strong>アクセス</strong>あなたはチェリアックスの貴族の家の出身であるか、あるいは名誉ある家臣である。</p><hr /><p>貴族の家があなたの訓練に投資し、一族が何世代にもわたって磨き上げてきた特別な技術を授けた。あなたはスキル特技として@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{追加の《専門知識》}を得る。その際、チェリアックス《専門知識》、デビル《専門知識》、ヘル《専門知識》、あるいはあなたの家に結びついた《専門知識》から選択すること。さらに、チェリアックスの市民およびデヴィルに対して、《欺瞞》判定、《交渉》判定、《威圧》判定、およびあなたの意志DCに＋1の状況ボーナスを得る。</p>",
       "source": "Pathfinder Adventure Path: Hell's Destiny"
     },
     "Linguist Dedication": {
@@ -42367,7 +42367,7 @@
       "source": "Pathfinder Adventure Path: Hell's Destiny",
       "prerequisites": [
         {
-          "value": "ゲームの《専門知識》のマスター"
+          "value": "ゲームズ《専門知識》のマスター"
         }
       ]
     },
@@ -43521,7 +43521,7 @@
     },
     "Hellbreaker Dedication": {
       "name": "ヘルブレイカー・デディケーション/Hellbreaker Dedication",
-      "description": "<p><strong>参加条件</strong>あなたはヘルブレイカーズ・リーグのメンバーである。</p><hr /><p>リーグに参加することで、あなたはヘルブレイカーとしての責任を負うことになった。あなたはデヴィル《専門知識》とヘルナイト《専門知識》の両方について、@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{追加の《専門知識》}汎用特技を得る。もしあなたがそれらの《専門知識》スキルの片方または両方についてすでに訓練済みであるなら、あなたはさらに任意の《専門知識》スキルについて訓練済みとなる。</p>\n<p>イニシアチブをロールする際、そのスキルが適用可能であれば、あなたが見ることのできる敵1体についてフリー・アクションとして[[/act recall-knowledge skill=devil-lore]]、[[/act recall-knowledge skill=hellknight-lore]]、または[[/act recall-knowledge skill=society]]の判定を行い、@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}ことができる。その敵について〈思い出す〉ためにそれらのスキルのいずれかが適切かどうかは、GMが最終的な決定権を持つ。</p>",
+      "description": "<p><strong>参加条件</strong>あなたはヘルブレイカーズ・リーグのメンバーである。</p><hr /><p>リーグに参加することで、あなたはヘルブレイカーとしての責任を負うことになった。あなたはデビル《専門知識》とヘルナイト《専門知識》の両方について、@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{追加の《専門知識》}汎用特技を得る。もしあなたがそれらの《専門知識》スキルの片方または両方についてすでに訓練済みであるなら、あなたはさらに任意の《専門知識》スキルについて訓練済みとなる。</p>\n<p>イニシアチブをロールする際、そのスキルが適用可能であれば、あなたが見ることのできる敵1体についてフリー・アクションとして[[/act recall-knowledge skill=devil-lore]]、[[/act recall-knowledge skill=hellknight-lore]]、または[[/act recall-knowledge skill=society]]の判定を行い、@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}ことができる。その敵について〈思い出す〉ためにそれらのスキルのいずれかが適切かどうかは、GMが最終的な決定権を持つ。</p>",
       "source": "Pathfinder Adventure Path: Hellbreakers"
     },
     "Slowing Strike": {
@@ -46012,7 +46012,7 @@
     },
     "Cosmic Cocktail": {
       "name": "コズミック・カクテル/Cosmic Cocktail",
-      "description": "<p><strong>使用制限</strong>1日1回</p><hr /><p>手元にある酒、酢、果物やハーブを使い、1分を費やして宇宙やその星々を思わせる色合いのカクテルを作る。作成後すぐに飲むと、すべてのものを一度に見ることができ、宇宙に対する新たな理解を得る。10分の効果を持つ@UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{トゥルーサイト}呪文の効果を得る。任意の打ち消し判定にはあなたの《製作》または料理《専門知識》を使用する。</p>",
+      "description": "<p><strong>使用制限</strong>1日1回</p><hr /><p>手元にある酒、酢、果物やハーブを使い、1分を費やして宇宙やその星々を思わせる色合いのカクテルを作る。作成後すぐに飲むと、すべてのものを一度に見ることができ、宇宙に対する新たな理解を得る。10分の効果を持つ@UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{トゥルーサイト}呪文の効果を得る。任意の打ち消し判定にはあなたの《製作》またはクッキング《専門知識》を使用する。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -47041,7 +47041,7 @@
       "source": "Pathfinder Adventure Path: Hell's Destiny",
       "prerequisites": [
         {
-          "value": "戦争の《専門知識》のマスター"
+          "value": "ウォーフェア《専門知識》のマスター"
         }
       ]
     },
@@ -48861,7 +48861,7 @@
     },
     "Inherit the Dreaming Heirloom": {
       "name": "インヘリット・ザ・ドリーミング・エアルーム/Inherit the Dreaming Heirloom",
-      "description": "<p>あなたは常にそれを持ち歩いていたか、最近相続したのか、あなたはプサカを持っている—夢の中でコミュニケーションをとる精霊を含む家宝。あなたのプサカとして、軽いバルクのアイテムを一つ選ぶ。それはオカルトトレイトを持つ魔法のアイテムになる。このアイテムを手の届くところに置いて眠り、10分をあなたの日課の準備の間に使って精霊を甘やかす限り、あなたはその日にプサカを起動することができる。</p>\n<p><strong>起動—先祖の回想</strong> <span class=\"action-glyph\">1</span> (集中)</p>\n<p><strong>使用制限</strong>1日に1回</p><hr /><p><strong>効果</strong>プサカ内の精霊が、彼らが生前に知っていた対象に関してあなたに助言する。この特技を獲得したとき、あなたは職業に関する1つのロアスキルと、会計《専門知識》や森林《専門知識》などの環境に関する1つのスキルを選択する。あなたがプサカを起動するとき、これらのスキルのうちの1つを使って〔思い出す〕を試みる(この判定の間、これらのスキルは一時的に訓練済みになる)。ロアスキルの選択をした後は、変更できなくなる。</p><hr /><p><strong>起動—私の夢を導いて</strong> <span class=\"action-glyph\">2</span> (集中)</p><hr /><p><strong>効果</strong>あなたはプサカ内の精霊に道を示してもらうよう頼む。あなたは@UUID[Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs]{ガイダンス}をオカルトのキャントリップとして詠唱する。キャントリップは、レベルの半分を切り上げたものに等しい呪文ランクに高位化される。</p>",
+      "description": "<p>あなたは常にそれを持ち歩いていたか、最近相続したのか、あなたはプサカを持っている—夢の中でコミュニケーションをとる精霊を含む家宝。あなたのプサカとして、軽いバルクのアイテムを一つ選ぶ。それはオカルトトレイトを持つ魔法のアイテムになる。このアイテムを手の届くところに置いて眠り、10分をあなたの日課の準備の間に使って精霊を甘やかす限り、あなたはその日にプサカを起動することができる。</p>\n<p><strong>起動—先祖の回想</strong> <span class=\"action-glyph\">1</span> (集中)</p>\n<p><strong>使用制限</strong>1日に1回</p><hr /><p><strong>効果</strong>プサカ内の精霊が、彼らが生前に知っていた対象に関してあなたに助言する。この特技を獲得したとき、あなたは職業に関する1つのロアスキルと、アカウンティング《専門知識》や森林《専門知識》などの環境に関する1つのスキルを選択する。あなたがプサカを起動するとき、これらのスキルのうちの1つを使って〔思い出す〕を試みる(この判定の間、これらのスキルは一時的に訓練済みになる)。ロアスキルの選択をした後は、変更できなくなる。</p><hr /><p><strong>起動—私の夢を導いて</strong> <span class=\"action-glyph\">2</span> (集中)</p><hr /><p><strong>効果</strong>あなたはプサカ内の精霊に道を示してもらうよう頼む。あなたは@UUID[Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs]{ガイダンス}をオカルトのキャントリップとして詠唱する。キャントリップは、レベルの半分を切り上げたものに等しい呪文ランクに高位化される。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Piercing Quills": {
