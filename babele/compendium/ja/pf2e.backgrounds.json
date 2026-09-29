@@ -892,7 +892,7 @@
     },
     "Magaambya Academic": {
       "name": "マガアンビアの学徒/Magaambya Academic",
-      "description": "<p><strong>前提条件</strong>地域 - ムワンギ・エクスパンス</p>\n<hr />\n<p>あなたはナントアンブにある名門マガアンビア・アカデミーで魔法を学び、古の魔術師ジャテンベにまで遡る魔法の伝統を学び、ほぼ至る所で魔法の学者たちから尊敬される経歴を得た。</p>\n<p>　能力値増強を2つ選ぶ。 1つは<strong>知力</strong>か<strong>魅力</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《秘術》か《自然》のいずれかを選択して訓練済みし、さらにアカデミアの《専門知識》スキルにも訓練済みする。あなたは@UUID[Compendium.pf2e.feats-srd.Item.MjQyTcV8Jiv1Jtln]{Recognize 呪文}スキル習得を得る。</p>"
+      "description": "<p><strong>前提条件</strong>地域 - ムワンギ・エクスパンス</p>\n<hr />\n<p>あなたはナントアンブにある名門マガアンビア・アカデミーで魔法を学び、古の魔術師ジャテンベにまで遡る魔法の系統を学び、ほぼ至る所で魔法の学者たちから尊敬される経歴を得た。</p>\n<p>　能力値増強を2つ選ぶ。 1つは<strong>知力</strong>か<strong>魅力</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《秘術》か《自然》のいずれかを選択して訓練済みし、さらにアカデミアの《専門知識》スキルにも訓練済みする。あなたは@UUID[Compendium.pf2e.feats-srd.Item.MjQyTcV8Jiv1Jtln]{Recognize 呪文}スキル習得を得る。</p>"
     },
     "Junk Collector": {
       "name": "ガラクタ収集家/Junk Collector",
