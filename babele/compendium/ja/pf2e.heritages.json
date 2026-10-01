@@ -627,7 +627,7 @@
     },
     "Born of Celestial": {
       "name": "セレスティアル語の生まれ/Born of Celestial",
-      "description": "<p>あなたはかつて強力なセレスティアルであったが、脱出や大きな罰によって、わずかな記憶と限られた力だけを残して、定命の殻に閉じ込められてしまった。残留する神聖な力により、ヤオグアイの出自やアンセストラル特技から獲得する呪文や魔法能力の系統は、通常の系統(通常はオカルト)ではなく、神聖となる。</p><ul><li><strong>ヒューマノイド・フォーム</strong>神聖な記憶の断片が今もあなたの心に散らばっている。あなたは《宗教》判定に+1の状況ボーナスを得る。</li><li><strong>Yaoguai Form</strong>セレスティアルの力があなたの中を流れている。神聖呪文リストからキャントリップを1つ選択すること。あなたはこの呪文を、生得的な神聖キャントリップとして望むままに発動できる。キャントリップは、あなたのレベルの半分を切り上げたものに等しい呪文ランクに高められる。</li></ul>"
+      "description": "<p>あなたはかつて強力なセレスティアルであったが、脱出や大きな罰によって、わずかな記憶と限られた力だけを残して、定命の殻に閉じ込められてしまった。残留する神聖な力により、ヤオグアイの出自やアンセストラル特技から獲得する呪文や魔法能力の系統は、通常の系統(通常はオカルト)ではなく、神聖となる。</p><ul><li><strong>ヒューマノイド・フォーム</strong>神聖な記憶の断片が今もあなたの心に散らばっている。あなたは《宗教》判定に+1の状況ボーナスを得る。</li><li><strong>ヤオグァイ・フォーム</strong>セレスティアルの力があなたの中を流れている。神聖呪文リストからキャントリップを1つ選択すること。あなたはこの呪文を、生得的な神聖キャントリップとして望むままに発動できる。キャントリップは、あなたのレベルの半分を切り上げたものに等しい呪文ランクに高められる。</li></ul>"
     },
     "Nomadic Halfling": {
       "name": "遊牧のハーフリング語/Nomadic Halfling",
@@ -1002,7 +1002,7 @@
     },
     "Respite of a Thousand Roofs": {
       "name": "千の屋根の休息/Respite of a Thousand Roofs",
-      "description": "<p>貧しい者を庇い食物を与える誓いを立てた。誓いにより大工道具、料理鍋、裁縫道具のスキルに長けるようになる；あなたは《製作》で訓練済みになり、料理で《専門知識》になり、@UUID[Compendium.pf2e.feats-srd.Item.3HChkcD1IRqv4DbA]{Improvise Tool}のスキル特技を得る.</p><hr /><p><strong>Additional Edict</strong>あなたができる範囲で住居や衣服を修理したり食事を与えたりして貧しい者を助ける</p>"
+      "description": "<p>貧しい者を庇い食物を与える誓いを立てた。誓いにより大工道具、料理鍋、裁縫道具のスキルに長けるようになる；あなたは《製作》で訓練済みになり、料理で《専門知識》になり、@UUID[Compendium.pf2e.feats-srd.Item.3HChkcD1IRqv4DbA]{Improvise Tool}のスキル特技を得る.</p><hr /><p><strong>追加の信条</strong>あなたができる範囲で住居や衣服を修理したり食事を与えたりして貧しい者を助ける</p>"
     },
     "Thalassic Azarketi": {
       "name": "サラシック語アザルケティ/Thalassic Azarketi",
@@ -1010,7 +1010,7 @@
     },
     "Deny Lady Nanbyo's Charity": {
       "name": "ナンビョー婦人の慈善を拒む/Deny Lady Nanbyo's Charity",
-      "description": "<p>あなたは天災から人々を解放することを誓った。誓いにより、荷重で負担を受けるまで通常より運搬 1多くのバルクを扱え、最大で2多くのバルクまで扱えるようになり、さらに1の状況ボーナスを《運動》判定で@UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{Force Open}や@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}に対して得る。</p><hr /><p><strong>Additional Edict</strong>自然災害で閉じ込められたり影響を受けたりした者を援助または救出するために全力を尽くす</p>"
+      "description": "<p>あなたは天災から人々を解放することを誓った。誓いにより、荷重で負担を受けるまで通常より運搬 1多くのバルクを扱え、最大で2多くのバルクまで扱えるようになり、さらに1の状況ボーナスを《運動》判定で@UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{Force Open}や@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}に対して得る。</p><hr /><p><strong>追加の信条</strong>自然災害で閉じ込められたり影響を受けたりした者を援助または救出するために全力を尽くす</p>"
     },
     "Ambitious Human": {
       "name": "野心的な人間",
@@ -1018,7 +1018,7 @@
     },
     "Hardshell Surki": {
       "name": "硬甲スルキ/Hardshell Surki",
-      "description": "<p>あなたの外骨格は他のスルキよりもはるかに密で、自前の鎧として機能する。あなたの外骨格はplate armor の種扱いの中装で、ACに+4のアイテム・ボーナスを与え、敏捷の上限が+1、判定ペナルティが–2、移動速度のペナルティが–5フィート、筋力値が+3で、comfortトレイトを持つ。あなたは他の鎧を着用したり外骨格を取り外したりできない。外骨格には彫刻で防具ルーンを刻むことができる。</p>\n<ul>\n<li><strong>Evolution</strong> あなたのノード間を流れる魔力循環系は強化ネットワークとなり、外骨格を魔力で強化する。物理ダメージを与えるクリティカルヒットを受けた場合、反応を使って@Check[flat|dc:17|showDC:all]を試みることができる。成功すれば、その攻撃は通常のヒットになる。</li>\n<li><strong>Evolution</strong> 腹部のノードは周囲にあなたが最も親しい魔法の種類に対する防護フィールドを展開できる。@UUID[Compendium.pf2e.actionspf2e.Item.cczvLO5r7QuHaXwx]{Dampening Harmonics}アクションを得る。</li>\n</ul>"
+      "description": "<p>あなたの外骨格は他のスルキよりもはるかに密で、自前の鎧として機能する。あなたの外骨格はplate armor の種扱いの中装で、ACに+4のアイテム・ボーナスを与え、敏捷の上限が+1、判定ペナルティが–2、移動速度のペナルティが–5フィート、筋力値が+3で、comfortトレイトを持つ。あなたは他の鎧を着用したり外骨格を取り外したりできない。外骨格には彫刻で防具ルーンを刻むことができる。</p>\n<ul>\n<li><strong>進化</strong> あなたのノード間を流れる魔力循環系は強化ネットワークとなり、外骨格を魔力で強化する。物理ダメージを与えるクリティカルヒットを受けた場合、反応を使って@Check[flat|dc:17|showDC:all]を試みることができる。成功すれば、その攻撃は通常のヒットになる。</li>\n<li><strong>進化</strong> 腹部のノードは周囲にあなたが最も親しい魔法の種類に対する防護フィールドを展開できる。@UUID[Compendium.pf2e.actionspf2e.Item.cczvLO5r7QuHaXwx]{Dampening Harmonics}アクションを得る。</li>\n</ul>"
     },
     "Taloned Tengu": {
       "name": "鉤爪のテング語/Taloned Tengu",
@@ -1066,7 +1066,7 @@
     },
     "Pearl Dragonet": {
       "name": "真珠のドラゴネット/Pearl Dragonet",
-      "description": "<p>君は真珠光沢の鱗とラウンド体形を持ち、短い脚、小さな翼、長い尾を備える。体の形状により一撃を吸収して転がって逃げることができる。</p>\n<p><strong>@UUID[Compendium.pf2e.actionspf2e.Item.OpiIzr7h1EKY8wKh]{Bounce Away}</strong><span class=\"action-glyph\">r</span></p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.OpiIzr7h1EKY8wKh inline]</p>"
+      "description": "<p>君は真珠光沢の鱗とラウンド体形を持ち、短い脚、小さな翼、長い尾を備える。体の形状により一撃を吸収して転がって逃げることができる。</p>\n<p><strong>@UUID[Compendium.pf2e.actionspf2e.Item.OpiIzr7h1EKY8wKh]{バウンス・アウェイ}</strong><span class=\"action-glyph\">r</span></p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.OpiIzr7h1EKY8wKh inline]</p>"
     },
     "Fodder Skeleton": {
       "name": "雑兵スケルトン/Fodder Skeleton",
@@ -1238,7 +1238,7 @@
     },
     "Respite of Loam and Leaf": {
       "name": "土と葉の安息/Respite of Loam and Leaf",
-      "description": "<p>聖域の基盤そのもの――偉大な大地とその上に育つすべてを守る誓いを立てた。誓いは地の霊力を与え、プリマル呪文表から1つのキャントリップを得る。この呪文を内在プリマル呪文としていつでも唱えられる。キャントリップはあなたのレベルの半分を切り上げた呪文ランクに高められる。世界に根を張るため、plantトレイトを得る。</p><hr /><p><strong>Additional Edict</strong> cure or remove blight and pollution from the plants and soil you encounter</p>"
+      "description": "<p>聖域の基盤そのもの――偉大な大地とその上に育つすべてを守る誓いを立てた。誓いは地の霊力を与え、プリマル呪文表から1つのキャントリップを得る。この呪文を内在プリマル呪文としていつでも唱えられる。キャントリップはあなたのレベルの半分を切り上げた呪文ランクに高められる。世界に根を張るため、plantトレイトを得る。</p><hr /><p><strong>追加の信条</strong> cure or remove blight and pollution from the plants and soil you encounter</p>"
     },
     "Wavediver Tengu": {
       "name": "波潜り テング語/Wavediver Tengu",

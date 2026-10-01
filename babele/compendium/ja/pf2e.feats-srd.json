@@ -788,7 +788,7 @@
     },
     "Steel on Steel": {
       "name": "スティール・オン・スティール/Steel on Steel",
-      "description": "<p><strong>使用法</strong>金属、石、または同様の硬い材料でできた近接の武器イコンまたは着用のイコンに宿っている。</p><hr /><p>神聖に力を入れた鋼の指輪があなたの敵を攻撃する。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.mBqZ2IahMT9Jvo7k]{Ringing Challenge}</strong> <span class=\"action-glyph\">2</span>(音波、精神、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.mBqZ2IahMT9Jvo7k inline]</p>",
+      "description": "<p><strong>使用法</strong>金属、石、または同様の硬い材料でできた近接の武器イコンまたは着用のイコンに宿っている。</p><hr /><p>神聖に力を入れた鋼の指輪があなたの敵を攻撃する。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.mBqZ2IahMT9Jvo7k]{リンギング・チャレンジ}</strong> <span class=\"action-glyph\">2</span>(音波、精神、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.mBqZ2IahMT9Jvo7k inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Remote Detonation": {
@@ -1206,7 +1206,7 @@
     },
     "Orc Warmask": {
       "name": "オーク・ウォーマスク/Orc Warmask",
-      "description": "<p>あなたは顔にペイントを施して<em>@UUID[Compendium.pf2e.equipment-srd.Item.ZEDDVQDtUZ2qOB5q]{Warmask}</em>を作成する。これはバルクが無視できるほど小さい、賦与された魔法のアイテムであり、アイテム・レベルはあなたのレベルに等しく、使用法は着用(仮面)である。これには占術のトレイトと、そのタイプに応じた魔法の系統トレイトがある。<em>warmask</em>を着用または取り外すには1分の作業が必要だが、毎回仮面を賦与(Invest)する必要はない。<em>warmask</em>はあなた固有のものであり、あなたの氏族、功績、あるいは信仰を表すかもしれない。仮面を作成する際、あなたは以下の選択肢から<em>warmask</em>の力の源を選ばなければならない。この源が、仮面に関連するスキルと魔法の系統を決定する。一度この源を選択すると、変更することはできない。あなたは関連するスキルにおいて訓練済みとなり、ボーナス特技として特技{@UUID[Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P]{Dubious Knowledge}}を得る。あなたは50gpを消費する儀式を1時間かけて行うことで、あなた自身を<em>warmask</em>とより深く同調させることができる。そうした場合、<em>warmask</em>を着用している間、関連するスキルに+1のアイテム・ボーナスを得る。</p>\n<hr />\n<ul>\n<li><strong>The Gods</strong> 《宗教》、神聖な系統</li>\n<li><strong>The Land</strong> 《自然》、自然な系統</li>\n<li><strong>Magic</strong> 《秘術》、秘術の系統</li>\n<li><strong>The Unknown</strong> 《神秘学》、心霊の系統</li>\n</ul>",
+      "description": "<p>あなたは顔にペイントを施して<em>@UUID[Compendium.pf2e.equipment-srd.Item.ZEDDVQDtUZ2qOB5q]{Warmask}</em>を作成する。これはバルクが無視できるほど小さい、賦与された魔法のアイテムであり、アイテム・レベルはあなたのレベルに等しく、使用法は着用(仮面)である。これには占術のトレイトと、そのタイプに応じた魔法の系統トレイトがある。<em>warmask</em>を着用または取り外すには1分の作業が必要だが、毎回仮面を賦与(Invest)する必要はない。<em>warmask</em>はあなた固有のものであり、あなたの氏族、功績、あるいは信仰を表すかもしれない。仮面を作成する際、あなたは以下の選択肢から<em>warmask</em>の力の源を選ばなければならない。この源が、仮面に関連するスキルと魔法の系統を決定する。一度この源を選択すると、変更することはできない。あなたは関連するスキルにおいて訓練済みとなり、ボーナス特技として特技{@UUID[Compendium.pf2e.feats-srd.Item.1Bt7uCW2WI4sM84P]{Dubious Knowledge}}を得る。あなたは50gpを消費する儀式を1時間かけて行うことで、あなた自身を<em>warmask</em>とより深く同調させることができる。そうした場合、<em>warmask</em>を着用している間、関連するスキルに+1のアイテム・ボーナスを得る。</p>\n<hr />\n<ul>\n<li><strong>神々</strong> 《宗教》、神聖な系統</li>\n<li><strong>大地</strong> 《自然》、自然な系統</li>\n<li><strong>魔法</strong> 《秘術》、秘術の系統</li>\n<li><strong>未知</strong> 《神秘学》、心霊の系統</li>\n</ul>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Hijack Undead": {
@@ -2259,7 +2259,7 @@
     },
     "Quicksoul": {
       "name": "クイックソウル/Quicksoul",
-      "description": "<p>あなたの血統にある元素の金属は、水銀、ルビジウム、ガリウム、ジェゼットのような液状金属の形で、文字通りあなたの静脈を流れており、あなたのアクションに気だるい流動性を与えている。あなたは《軽業》の習熟ランク訓練済みを得る。(背景やクラスなどから)自動的に《軽業》の習熟ランク訓練済みを得る場合、代わりにあなたが選択したスキルの習熟ランク訓練済みを得る。これらの金属は有機生命体にとって大部分が有毒であるため、あなたも「Toxic Touch」アクションを得る。</p>\n<p><strong>Toxic Touch</strong> <span class=\"action-glyph\">1</span> (毒)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong>あなたの直前のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}であり、かつ敵のスペースを通り抜けることに成功していること。</p>\n<hr />\n<p><strong>効果</strong>通り抜けたスペースの敵に対して、近接の素手による〈ストライク〉を行う。ヒットした場合、対象は@Damage[1d6[persistent,poison]]のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる(クリティカルヒットの場合は2d6の持続毒ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}となる)。</p>",
+      "description": "<p>あなたの血統にある元素の金属は、水銀、ルビジウム、ガリウム、ジェゼットのような液状金属の形で、文字通りあなたの静脈を流れており、あなたのアクションに気だるい流動性を与えている。あなたは《軽業》の習熟ランク訓練済みを得る。(背景やクラスなどから)自動的に《軽業》の習熟ランク訓練済みを得る場合、代わりにあなたが選択したスキルの習熟ランク訓練済みを得る。これらの金属は有機生命体にとって大部分が有毒であるため、あなたも「Toxic Touch」アクションを得る。</p>\n<p><strong>トクシック・タッチ</strong> <span class=\"action-glyph\">1</span> (毒)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong>あなたの直前のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}であり、かつ敵のスペースを通り抜けることに成功していること。</p>\n<hr />\n<p><strong>効果</strong>通り抜けたスペースの敵に対して、近接の素手による〈ストライク〉を行う。ヒットした場合、対象は@Damage[1d6[persistent,poison]]のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる(クリティカルヒットの場合は2d6の持続毒ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}となる)。</p>",
       "source": "Pathfinder Rage of Elements"
     },
     "Consume Power": {
@@ -4713,7 +4713,7 @@
     },
     "Breath of Vital Ash": {
       "name": "ブレス・オブ・ヴァイタル・アッシュ/Breath of Vital Ash",
-      "description": "<p><strong>使用法</strong>体のアイコンに刻まれた</p><hr /><p>赤褐色の灰があなたのアイコンに染み込む。その灰は拭き取ることができない。あなたが息を吐くたびに、赤みがかった色合いと香辛料の煙の香りがあなたの息の中に漂う。その刻まれたアイコンは次の能力を得る。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.jD8RW5PdLI6snlsO]{Mark the Center}</strong> <span class=\"action-glyph\">1</span>(超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.jD8RW5PdLI6snlsO inline]</p>",
+      "description": "<p><strong>使用法</strong>体のアイコンに刻まれた</p><hr /><p>赤褐色の灰があなたのアイコンに染み込む。その灰は拭き取ることができない。あなたが息を吐くたびに、赤みがかった色合いと香辛料の煙の香りがあなたの息の中に漂う。その刻まれたアイコンは次の能力を得る。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.jD8RW5PdLI6snlsO]{マーク・ザ・センター}</strong> <span class=\"action-glyph\">1</span>(超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.jD8RW5PdLI6snlsO inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Raging Thrower": {
@@ -5475,7 +5475,7 @@
     },
     "Morphic Strike": {
       "name": "モーフィック・ストライク/Morphic Strike",
-      "description": "<p>あなたは前回の自身の一部を使って攻撃することができる。あなたは、以下に説明する血統に応じた近接の非武装〔ストライク〕を得る。この非武装〔ストライク〕はあなたの人間の形態または妖怪の形態のどちらでも使用できる。これらのストライクは剛腕種に属する。その他の非武装攻撃と同様に、あなたはこの攻撃を強力な一撃の手袋で強化することができる。</p><ul><li><strong>動物</strong> <span class=\"action-glyph\">1</span> claw (agile, finesse)、ダメージ1d6斬撃</li><li><strong>Celestial</strong> <span class=\"action-glyph\">1</span> spirit接触 (magical, sanctified, spirit)、ダメージ1d4 spirit</li><li><strong>Elements</strong> <span class=\"action-glyph\">1</span> elemental current (magical)、ダメージ1d4; この能力は、あなたが血統から得たキャントリップの同じダメージ種別と同じエレメンタルトレイトを持つ</li><li><strong>Object</strong> <span class=\"action-glyph\">1</span> striking surface (sweep)、ダメージ1d8殴打または斬撃(この特技を得た際に選択)</li><li><strong>Vegetation</strong> <span class=\"action-glyph\">1</span> root (reach)、ダメージ1d6殴打</li></ul>",
+      "description": "<p>あなたは前回の自身の一部を使って攻撃することができる。あなたは、以下に説明する血統に応じた近接の非武装〔ストライク〕を得る。この非武装〔ストライク〕はあなたの人間の形態または妖怪の形態のどちらでも使用できる。これらのストライクは剛腕種に属する。その他の非武装攻撃と同様に、あなたはこの攻撃を強力な一撃の手袋で強化することができる。</p><ul><li><strong>動物</strong> <span class=\"action-glyph\">1</span> claw (agile, finesse)、ダメージ1d6斬撃</li><li><strong>セレスティアル</strong> <span class=\"action-glyph\">1</span> spirit接触 (magical, sanctified, spirit)、ダメージ1d4 spirit</li><li><strong>エレメンツ</strong> <span class=\"action-glyph\">1</span> elemental current (magical)、ダメージ1d4; この能力は、あなたが血統から得たキャントリップの同じダメージ種別と同じエレメンタルトレイトを持つ</li><li><strong>物体</strong> <span class=\"action-glyph\">1</span> striking surface (sweep)、ダメージ1d8殴打または斬撃(この特技を得た際に選択)</li><li><strong>ヴェジテーション</strong> <span class=\"action-glyph\">1</span> root (reach)、ダメージ1d6殴打</li></ul>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Vengeful Remnant": {
@@ -5552,7 +5552,7 @@
     },
     "Shield of Stone": {
       "name": "シールド・オブ・ストーン/Shield of Stone",
-      "description": "<p><strong>使用法</strong> @UUID[Compendium.pf2e.classfeatures.Item.lJAQPRT2t8IABR4v]{Mirror Aegis}に吹き込まれている。</p><hr /><p>あなたはゴルゴンの視線を盗み、それをあなたのイコンの中に閉じ込めた。あなたはそれを敵に向けることで閉じ込められた視線の怒りを鎮め、自分の有利になるようにブランディッシュする方法を学んだ。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.5VbPhxZYfagIqE1z]{Brandish the ゴルゴン's Gaze}</strong> <span class=\"action-glyph\">1</span> (地、超越、視覚)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.5VbPhxZYfagIqE1z inline]</p>",
+      "description": "<p><strong>使用法</strong> @UUID[Compendium.pf2e.classfeatures.Item.lJAQPRT2t8IABR4v]{Mirror Aegis}に吹き込まれている。</p><hr /><p>あなたはゴルゴンの視線を盗み、それをあなたのイコンの中に閉じ込めた。あなたはそれを敵に向けることで閉じ込められた視線の怒りを鎮め、自分の有利になるようにブランディッシュする方法を学んだ。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.5VbPhxZYfagIqE1z]{ブランディッシュ・ザ・ゴーゴンズ・ゲイズ}</strong> <span class=\"action-glyph\">1</span> (地、超越、視覚)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.5VbPhxZYfagIqE1z inline]</p>",
       "source": "Pathfinder #217: Death Sails a Wine-Dark Sea"
     },
     "Sniping Duo Dedication": {
@@ -5869,7 +5869,7 @@
     },
     "Full Automation": {
       "name": "フル・オートメーション/Full Automation",
-      "description": "<p>あなたは自分の革新に非常に絡みつくため、何の躊躇もなくそれを使うことができる。あなたは永続的に@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}。追加アクションの使い方は、あなたの革新に依存する。</p>\n<ul>\n<li><strong>鎧</strong>あなたの鎧は、着用している限り、最も微細な刺激に反応してあなたを正しい方向に導く。あなたは追加アクションを使用して〔ストライド〕、〔ステップ〕、または革新によって提供される移動手段(例えば、〔飛行〕や〔水泳〕)を使うことができる。</li>\n<li><strong>Construct</strong>あなたのコンストラクトを操る能力は本能的になる。あなたは追加アクションを使用してあなたのコンストラクト革新を指揮する(または、あなたが2アクションを使用してコンストラクトを指揮することを選んだ場合、アクションの1つを提供することができる)。</li>\n<li><strong>武器</strong>あなたの武器は、致命的な効果で装備が容易にできるようになる。まるでそれがあなたの体の延長であるかのように、あなたが選んだ目標に向かって果敢に進む。あなたは追加アクションを使用して、革新で〔ストライク〕することができる。</li>\n</ul>",
+      "description": "<p>あなたは自分の革新に非常に絡みつくため、何の躊躇もなくそれを使うことができる。あなたは永続的に@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}。追加アクションの使い方は、あなたの革新に依存する。</p>\n<ul>\n<li><strong>鎧</strong>あなたの鎧は、着用している限り、最も微細な刺激に反応してあなたを正しい方向に導く。あなたは追加アクションを使用して〔ストライド〕、〔ステップ〕、または革新によって提供される移動手段(例えば、〔飛行〕や〔水泳〕)を使うことができる。</li>\n<li><strong>コンストラクト</strong>あなたのコンストラクトを操る能力は本能的になる。あなたは追加アクションを使用してあなたのコンストラクト革新を指揮する(または、あなたが2アクションを使用してコンストラクトを指揮することを選んだ場合、アクションの1つを提供することができる)。</li>\n<li><strong>武器</strong>あなたの武器は、致命的な効果で装備が容易にできるようになる。まるでそれがあなたの体の延長であるかのように、あなたが選んだ目標に向かって果敢に進む。あなたは追加アクションを使用して、革新で〔ストライク〕することができる。</li>\n</ul>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -5884,7 +5884,7 @@
     },
     "Extract Vow of Nonviolence": {
       "name": "エクストラクト・ヴァウ・オブ・ノンバイオレンス/Extract Vow of Nonviolence",
-      "description": "<p>あなたは武器を誘惑または脅迫し、あなたを傷つけないよう誓わせる。60フィート以内の武器1つに対して、@UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{〈要請する〉}を行うための《交渉》判定、または@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}を行うための《威圧》判定を試みる。ほとんどの武器は無生物でありマインドレスであるが、あなたの言葉は、まるでそれが生きていて言葉が通じるかのように、何らかの形でそれに影響を与えることができる。この判定のDCは、その武器を振るっているクリーチャーの意志DC、またはそれが保持していないである場合はその武器のレベルに対する中程度のDCとなる。その武器が知性を持つアイテムである場合、その意志DCを使用する。セーヴの結果にかかわらず、その武器はその後1日の間、Extract Vow of Nonviolenceに対して一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong>その物体はあなたを傷つけないことを誓う。その武器があなたへの危害を軽減しようとするため、あなたはその特定の武器によって与えられるすべてのダメージに対する耐性を得る。その耐性はあなたのレベルの半分に等しく、10分の間持続する。</p>\n<p><strong>成功</strong>大成功と同様だが、その武器があなたに命中するたびに(ダメージを与えなかった場合でも)、残りの持続時間が1分減少する。</p><hr /><p><strong>Special</strong>この特技を得る際、コールド・アイアン、ダスクウッド、ドーンシルバー、またはシルバーを選択する。何らかの理由(おそらくあなたがこの素材を過小評価しているか、あるいは友人と考えているため)で、あなたは選択した素材で構成された物体に対してExtract Vow of Nonviolenceを使用することが永久にできなくなる。</p>",
+      "description": "<p>あなたは武器を誘惑または脅迫し、あなたを傷つけないよう誓わせる。60フィート以内の武器1つに対して、@UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{〈要請する〉}を行うための《交渉》判定、または@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}を行うための《威圧》判定を試みる。ほとんどの武器は無生物でありマインドレスであるが、あなたの言葉は、まるでそれが生きていて言葉が通じるかのように、何らかの形でそれに影響を与えることができる。この判定のDCは、その武器を振るっているクリーチャーの意志DC、またはそれが保持していないである場合はその武器のレベルに対する中程度のDCとなる。その武器が知性を持つアイテムである場合、その意志DCを使用する。セーヴの結果にかかわらず、その武器はその後1日の間、Extract Vow of Nonviolenceに対して一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong>その物体はあなたを傷つけないことを誓う。その武器があなたへの危害を軽減しようとするため、あなたはその特定の武器によって与えられるすべてのダメージに対する耐性を得る。その耐性はあなたのレベルの半分に等しく、10分の間持続する。</p>\n<p><strong>成功</strong>大成功と同様だが、その武器があなたに命中するたびに(ダメージを与えなかった場合でも)、残りの持続時間が1分減少する。</p><hr /><p><strong>特殊</strong>この特技を得る際、コールド・アイアン、ダスクウッド、ドーンシルバー、またはシルバーを選択する。何らかの理由(おそらくあなたがこの素材を過小評価しているか、あるいは友人と考えているため)で、あなたは選択した素材で構成された物体に対してExtract Vow of Nonviolenceを使用することが永久にできなくなる。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Confabulator": {
@@ -7496,7 +7496,7 @@
     },
     "Mark of the Sage": {
       "name": "マーク・オブ・ザ・セイジ/Mark of the Sage",
-      "description": "<p><strong>使用法</strong>の着用アイコンに注入された</p><hr /><p>あなたのアイコンには、あなたが自分の技の達人であることを示すピン、ストライプ、または類似のマーキングが与えられる。注入されたアイコンは次の能力を得る。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.c40APnn4a7bWhtcZ]{A Challenge for Heroes}</strong> <span class=\"action-glyph\">2</span>(集中、精神、精神、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.c40APnn4a7bWhtcZ inline]</p>",
+      "description": "<p><strong>使用法</strong>の着用アイコンに注入された</p><hr /><p>あなたのアイコンには、あなたが自分の技の達人であることを示すピン、ストライプ、または類似のマーキングが与えられる。注入されたアイコンは次の能力を得る。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.c40APnn4a7bWhtcZ]{ア・チャレンジ・フォー・ヒーローズ}</strong> <span class=\"action-glyph\">2</span>(集中、精神、精神、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.c40APnn4a7bWhtcZ inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Spirit Familiar (Animist)": {
@@ -7783,7 +7783,7 @@
     },
     "Specialized Megafauna Companion": {
       "name": "スペシャライズド・メガファウナ・コンパニオン/Specialized Megafauna Companion",
-      "description": "<p>あなたはマンモスやその他の巨大動物の相棒が、通常とは異なる状況や極限状況で活躍できるように訓練済みしており、同種の他の個体を遥かに凌駕する能力を授けている。あなたの巨大動物は、いじめっ子、レーサー、追跡者、破壊者のうち、あなたが選択した1つのスペシャライゼーションを得る。</p>\n<p><strong>Special</strong>あなたはこの特技を最大3回まで選択できる。選択するたびに、上記の中から異なるスペシャライゼーションを1つ、あなたの巨大動物の相棒に追加する。あなたの巨大動物は3つを超える専門化を持つことはできない。</p>",
+      "description": "<p>あなたはマンモスやその他の巨大動物の相棒が、通常とは異なる状況や極限状況で活躍できるように訓練済みしており、同種の他の個体を遥かに凌駕する能力を授けている。あなたの巨大動物は、いじめっ子、レーサー、追跡者、破壊者のうち、あなたが選択した1つのスペシャライゼーションを得る。</p>\n<p><strong>特殊</strong>あなたはこの特技を最大3回まで選択できる。選択するたびに、上記の中から異なるスペシャライゼーションを1つ、あなたの巨大動物の相棒に追加する。あなたの巨大動物は3つを超える専門化を持つことはできない。</p>",
       "source": "Pathfinder #177: Burning Tundra",
       "prerequisites": [
         {
@@ -7922,7 +7922,7 @@
     },
     "Sunwrecker": {
       "name": "サンレッカー/Sunwrecker",
-      "description": "<p><strong>使用法</strong>任意の武器のアイコンに注入される</p><hr /><p>あなたの武器は伝説の力を持ち、空のどんな光をも打ち消すことができる。注入されたアイコンは次の能力を得る。</p>\n<p><strong>即座の発現</strong> (闇)武器でのクリティカルヒットが成功すると、その武器は攻撃の対象に中心を置いた2レベルの@UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{ダークネス}を発動させる。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.Y9XUwC8ihxZCfndG]{Break the Sun's Legs}</strong> <span class=\"action-glyph\">2</span> (冷気, 集中, 闇, 超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.Y9XUwC8ihxZCfndG inline]</p>",
+      "description": "<p><strong>使用法</strong>任意の武器のアイコンに注入される</p><hr /><p>あなたの武器は伝説の力を持ち、空のどんな光をも打ち消すことができる。注入されたアイコンは次の能力を得る。</p>\n<p><strong>即座の発現</strong> (闇)武器でのクリティカルヒットが成功すると、その武器は攻撃の対象に中心を置いた2レベルの@UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{ダークネス}を発動させる。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.Y9XUwC8ihxZCfndG]{ブレイク・ザ・サンズ・レッグズ}</strong> <span class=\"action-glyph\">2</span> (冷気, 集中, 闇, 超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.Y9XUwC8ihxZCfndG inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Uncanny Bombs": {
@@ -8916,7 +8916,7 @@
     },
     "Mask of the 12th Step": {
       "name": "マスク・オブ・ザ・トゥエルヴス・ステップ/Mask of the 12th Step",
-      "description": "<p>あなたは第12の〈ステップ〉に到達し、ラズミアの教義のより大いなる秘密を授けられた。あなたは@UUID[Compendium.pf2e.equipment-srd.Item.UaOrOGrjcXgSeBvr]{Razmiri Mask}を銀製で〈製作する〉こと、あるいは既存の仮面を銀製のものにアップグレードすることが、鉄製のものを〈製作する〉のと同じ時間で行える。@UUID[Compendium.pf2e.equipment-srd.Item.eAEZWwzLf6Qr1l0Q]{シルバー Razmiri Mask}は、@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}または@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行うための《欺瞞》判定に+2のアイテム・ボーナスを与え、10レベル・アイテムであり、標準の仮面が持つ起動に加えて、以下の起動を得る。</p><hr /><p><strong>起動—Call Upon ラズミア's Mercy</strong> <span class=\"action-glyph\">2</span> (精神集中、手作業、オカルト)</p>\n<p><strong>使用制限</strong> 1日3回</p>\n<p><strong>効果</strong> ラズミアに呼びかけて対象から不純物を取り除くよう懇願し、リーチ内のクリーチャーに手を触れて、あなたのレベルの半分に等しい呪文ランクのオカルト呪文として@UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{クレンズ・アフリクション}を発動する。通常の<em>クレンズ・アフリクション</em>呪文とは異なり、これはアフリクションの段階を減少させない。代わりに、打ち消し判定が成功した場合、アフリクションの段階は一時的に1減少し、その効果は24時間の間抑制される。その後、アフリクションは完全な威力で再開する。もし対象が抑制されていた24時間の間にアフリクションに対する追加のセーヴを行う必要があった場合、その24時間の持続時間が終了した直後に、それらのセーヴィング・スローをすべて行わなければならない。これは、対象がセーヴに成功してアフリクションが真に治癒したかのように見えることもあれば、アフリクションが戻ってきて一度に複数の段階が進行することもあり得る。</p>",
+      "description": "<p>あなたは第12の〈ステップ〉に到達し、ラズミアの教義のより大いなる秘密を授けられた。あなたは@UUID[Compendium.pf2e.equipment-srd.Item.UaOrOGrjcXgSeBvr]{Razmiri Mask}を銀製で〈製作する〉こと、あるいは既存の仮面を銀製のものにアップグレードすることが、鉄製のものを〈製作する〉のと同じ時間で行える。@UUID[Compendium.pf2e.equipment-srd.Item.eAEZWwzLf6Qr1l0Q]{シルバー Razmiri Mask}は、@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}または@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行うための《欺瞞》判定に+2のアイテム・ボーナスを与え、10レベル・アイテムであり、標準の仮面が持つ起動に加えて、以下の起動を得る。</p><hr /><p><strong>起動—コール・アポン・ラズミアズ・マーシー</strong> <span class=\"action-glyph\">2</span> (精神集中、手作業、オカルト)</p>\n<p><strong>使用制限</strong> 1日3回</p>\n<p><strong>効果</strong> ラズミアに呼びかけて対象から不純物を取り除くよう懇願し、リーチ内のクリーチャーに手を触れて、あなたのレベルの半分に等しい呪文ランクのオカルト呪文として@UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{クレンズ・アフリクション}を発動する。通常の<em>クレンズ・アフリクション</em>呪文とは異なり、これはアフリクションの段階を減少させない。代わりに、打ち消し判定が成功した場合、アフリクションの段階は一時的に1減少し、その効果は24時間の間抑制される。その後、アフリクションは完全な威力で再開する。もし対象が抑制されていた24時間の間にアフリクションに対する追加のセーヴを行う必要があった場合、その24時間の持続時間が終了した直後に、それらのセーヴィング・スローをすべて行わなければならない。これは、対象がセーヴに成功してアフリクションが真に治癒したかのように見えることもあれば、アフリクションが戻ってきて一度に複数の段階が進行することもあり得る。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
@@ -9802,7 +9802,7 @@
     },
     "Acknowledge Fan": {
       "name": "アクノリッジ・ファン/Acknowledge Fan",
-      "description": "<p>ファイアブランドとしてのあなたの評判は先行しており、あなたは単純な身振りをするか、認識を示す視線を送るだけで周囲の人々を驚かせることができる。あなたは非常に有名で愛されているため、敵でさえファンであり、彼らはあなたがここにいることに衝撃を受ける。あなたを見ることができる対象のクリーチャーを1体選び、会釈する。対象は、あなたのクラスDCまたは呪文DCのうち高い方に対する@Check[will|against:class-spell]セーヴィング・スローを行わなければならない。結果にかかわらず、対象は1分の間、〈ファンへの会釈〉に対する一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けず、1日の間、〈ファンへの会釈〉に対する一時的な免疫となる。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}状態となり、1日の間、〈ファンへの会釈〉に対する一時的な免疫となる。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 2}状態となる。</p>\n<p><strong>クリティカル失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる 　あなたの次のターン終了時まで。</p>\n<hr />\n<p><strong>Special</strong> この特技は、あなたが@UUID[Compendium.pf2e.feats-srd.Item.gOHBzx5Rqa6TZcrm]{Mesmerizing Gaze}を取得した時に行った選択に合わせて、秘術または心術のトレイトを持つ。</p>",
+      "description": "<p>ファイアブランドとしてのあなたの評判は先行しており、あなたは単純な身振りをするか、認識を示す視線を送るだけで周囲の人々を驚かせることができる。あなたは非常に有名で愛されているため、敵でさえファンであり、彼らはあなたがここにいることに衝撃を受ける。あなたを見ることができる対象のクリーチャーを1体選び、会釈する。対象は、あなたのクラスDCまたは呪文DCのうち高い方に対する@Check[will|against:class-spell]セーヴィング・スローを行わなければならない。結果にかかわらず、対象は1分の間、〈ファンへの会釈〉に対する一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けず、1日の間、〈ファンへの会釈〉に対する一時的な免疫となる。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}状態となり、1日の間、〈ファンへの会釈〉に対する一時的な免疫となる。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 2}状態となる。</p>\n<p><strong>クリティカル失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる 　あなたの次のターン終了時まで。</p>\n<hr />\n<p><strong>特殊</strong> この特技は、あなたが@UUID[Compendium.pf2e.feats-srd.Item.gOHBzx5Rqa6TZcrm]{Mesmerizing Gaze}を取得した時に行った選択に合わせて、秘術または心術のトレイトを持つ。</p>",
       "source": "Pathfinder Lost Omens Firebrands",
       "prerequisites": [
         {
@@ -9973,7 +9973,7 @@
     },
     "Harrow Casting": {
       "name": "ハロウ・キャスティング/Harrow Casting",
-      "description": "|||<p><strong>必要条件</strong> 有効なハローの予兆を持っている。</p>\n<hr />\n<p>呪文を発動する直前にハロー・デッキからカードを1枚引き、その運命的な可能性を魔法に吹き込む。次のアクションが〈呪文の発動〉である場合、引いたカードのスートが以下のいずれかの方法で呪文を強化する。引いたカードが有効なハローの予兆のスートと一致する場合、効果は以下のようにさらに強化される。ハロー・キャストを行う際、@Check[flat|dc:11]を行う。この判定に失敗した場合、ターン終了時に有効なハローの予兆を失う。</p>\n<p><strong>槌</strong> 呪文の威力が強化される。この効果は、成功した呪文攻撃ロールを必要とする、または対象が抵抗するためにセーヴィング・スローを必要とする単一対象の攻撃呪文のみを強化する。対象に命中させた場合、あるいは対象がセーヴィング・スローに失敗した場合、その呪文は呪文ランクに等しい追加のフォース・ダメージを与える。ハローの予兆がハンマーである場合、この追加ダメージは2倍になる。</p>\n<p><strong>Key</strong> 魔法の一部が残留し、防御を強化する。次のターン開始時まで、自身のACとすべてのセーヴィング・スローに+1の状況ボーナスを得る。ハローの予兆がキーである場合、これは+2の状況ボーナスに増加する。</p>\n<p><strong>シールド</strong> 呪文の魔法が効果を発揮すると同時に、自身も癒やされ、2d6 + 呪文ランクに等しいヒット・ポイントを回復する。ハローの予兆がシールドである場合、回復するヒット・ポイントは4d6 + 呪文ランクの2倍に増加する。</p>\n<p><strong>Book</strong> 呪文の魔法が、対象に関する突然の洞察を精神に吹き込む。フリー・アクションとして対象について〈思い出す〉を試みることができ、その際、判定を行うために自身の呪文攻撃ロールを使用する。ハローの予兆がブックである場合、このロールに+2の状況ボーナスを得る。</p>\n<p><strong>Star</strong> 呪文の魔法が、その恩恵を受ける者を強化する。この効果は、意志を持つ対象に発動された単一対象の呪文のみを強化する。魔法は影響を受けた対象に2d6 + 呪文ランクに等しいヒット・ポイントを回復させる。ハローの予兆がスターである場合、魔法はその対象に次のターン開始時まですべてのセーヴィング・スローへの+2の状況ボーナスも与える。</p>\n||||||<p><strong>Crown</strong> 呪文の魔法は@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}かつ巧妙であり、観察者はあなたがハロー・デッキのカードを操作している以上のことをしているとは気づかないかもしれない。すべての観察者の《知覚》DCに対して、幸運を告げる《専門知識》判定を試みる。観察者の《知覚》DCに対してあなたの判定が成功した場合、その観察者はあなたが呪文を発動していることに気づかない(通常、呪文には感覚的な発現があるにもかかわらず)。これは呪文の詠唱アクションと発現のみを隠すものであり、その効果を隠すものではない。あなたのハローの予兆がクラウンである場合、幸運を告げる《専門知識》判定に+2の状況ボーナスを得る。</p>|||",
+      "description": "|||<p><strong>必要条件</strong> 有効なハローの予兆を持っている。</p>\n<hr />\n<p>呪文を発動する直前にハロー・デッキからカードを1枚引き、その運命的な可能性を魔法に吹き込む。次のアクションが〈呪文の発動〉である場合、引いたカードのスートが以下のいずれかの方法で呪文を強化する。引いたカードが有効なハローの予兆のスートと一致する場合、効果は以下のようにさらに強化される。ハロー・キャストを行う際、@Check[flat|dc:11]を行う。この判定に失敗した場合、ターン終了時に有効なハローの予兆を失う。</p>\n<p><strong>槌</strong> 呪文の威力が強化される。この効果は、成功した呪文攻撃ロールを必要とする、または対象が抵抗するためにセーヴィング・スローを必要とする単一対象の攻撃呪文のみを強化する。対象に命中させた場合、あるいは対象がセーヴィング・スローに失敗した場合、その呪文は呪文ランクに等しい追加のフォース・ダメージを与える。ハローの予兆がハンマーである場合、この追加ダメージは2倍になる。</p>\n<p><strong>キー</strong> 魔法の一部が残留し、防御を強化する。次のターン開始時まで、自身のACとすべてのセーヴィング・スローに+1の状況ボーナスを得る。ハローの予兆がキーである場合、これは+2の状況ボーナスに増加する。</p>\n<p><strong>シールド</strong> 呪文の魔法が効果を発揮すると同時に、自身も癒やされ、2d6 + 呪文ランクに等しいヒット・ポイントを回復する。ハローの予兆がシールドである場合、回復するヒット・ポイントは4d6 + 呪文ランクの2倍に増加する。</p>\n<p><strong>ブック</strong> 呪文の魔法が、対象に関する突然の洞察を精神に吹き込む。フリー・アクションとして対象について〈思い出す〉を試みることができ、その際、判定を行うために自身の呪文攻撃ロールを使用する。ハローの予兆がブックである場合、このロールに+2の状況ボーナスを得る。</p>\n<p><strong>スター</strong> 呪文の魔法が、その恩恵を受ける者を強化する。この効果は、意志を持つ対象に発動された単一対象の呪文のみを強化する。魔法は影響を受けた対象に2d6 + 呪文ランクに等しいヒット・ポイントを回復させる。ハローの予兆がスターである場合、魔法はその対象に次のターン開始時まですべてのセーヴィング・スローへの+2の状況ボーナスも与える。</p>\n||||||<p><strong>クラウン</strong> 呪文の魔法は@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}かつ巧妙であり、観察者はあなたがハロー・デッキのカードを操作している以上のことをしているとは気づかないかもしれない。すべての観察者の《知覚》DCに対して、幸運を告げる《専門知識》判定を試みる。観察者の《知覚》DCに対してあなたの判定が成功した場合、その観察者はあなたが呪文を発動していることに気づかない(通常、呪文には感覚的な発現があるにもかかわらず)。これは呪文の詠唱アクションと発現のみを隠すものであり、その効果を隠すものではない。あなたのハローの予兆がクラウンである場合、幸運を告げる《専門知識》判定に+2の状況ボーナスを得る。</p>|||",
       "source": "Pathfinder Stolen Fate Player's Guide",
       "prerequisites": [
         {
@@ -10684,7 +10684,7 @@
     },
     "Leshy Familiar Secrets": {
       "name": "レシー・ファミリア・シークレッツ/Leshy Familiar Secrets",
-      "description": "<p>葉の秩序の秘密は、あなたのファミリアがそのレシーの姿を利用できるようにする。あなたは毎日追加のファミリア能力を1つ選択でき、その選択肢は以下のいずれかのレシーのファミリア能力でなければならない。この特技から同時に選択できる能力は1つまでである。</p>\n<ul>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.LUBS9csNNgRTui4p]{Grasping Tendrils}</strong>あなたのファミリアはつるやそれに類似した触手を伸ばし、リーチを15フィートまで増加させる。</li>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.43xB5UnexISlfRa5]{Purify Air}</strong>あなたのファミリアは空気を再生し、密閉された部屋や異次元空間のような新鮮でない空気の場所で、中型クリーチャーに十分な酸素を提供する。レシーから@Template[emanation|distance:15]の範囲内にいるクリーチャーは、吸入毒効果、嗅覚効果、または呼吸に依存する他の効果(有毒な霧など)に対して、GMの裁定により+2の状況ボーナスを得る。</li>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.SKIS1xexaOvrecdV]{Verdant 爆発}</strong>あなたのファミリアが死ぬと、その原初のエネルギーを放出して3アクションバージョンの@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}をキャストする。この呪文は、あなたの最高レベルの呪文スロットより1ランク低く高位化される。<em>heal</em>呪文は、植物に回復させるヒット・ポイントに対して呪文のランクの2倍に等しい状態ボーナスを得る。あなたは2ndランクの呪文を呪文スロットを使ってキャストできる必要がある。</li>\n</ul>",
+      "description": "<p>葉の秩序の秘密は、あなたのファミリアがそのレシーの姿を利用できるようにする。あなたは毎日追加のファミリア能力を1つ選択でき、その選択肢は以下のいずれかのレシーのファミリア能力でなければならない。この特技から同時に選択できる能力は1つまでである。</p>\n<ul>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.LUBS9csNNgRTui4p]{グラスピング・テンドリルズ}</strong>あなたのファミリアはつるやそれに類似した触手を伸ばし、リーチを15フィートまで増加させる。</li>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.43xB5UnexISlfRa5]{ピュリファイ・エア}</strong>あなたのファミリアは空気を再生し、密閉された部屋や異次元空間のような新鮮でない空気の場所で、中型クリーチャーに十分な酸素を提供する。レシーから@Template[emanation|distance:15]の範囲内にいるクリーチャーは、吸入毒効果、嗅覚効果、または呼吸に依存する他の効果(有毒な霧など)に対して、GMの裁定により+2の状況ボーナスを得る。</li>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.SKIS1xexaOvrecdV]{ヴァーダント・バースト}</strong>あなたのファミリアが死ぬと、その原初のエネルギーを放出して3アクションバージョンの@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}をキャストする。この呪文は、あなたの最高レベルの呪文スロットより1ランク低く高位化される。<em>heal</em>呪文は、植物に回復させるヒット・ポイントに対して呪文のランクの2倍に等しい状態ボーナスを得る。あなたは2ndランクの呪文を呪文スロットを使ってキャストできる必要がある。</li>\n</ul>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -10958,7 +10958,7 @@
     },
     "Megaton Strike": {
       "name": "メガトン・ストライク/Megaton Strike",
-      "description": "<p>あなたは、強力な攻撃を作るために発明の中の歯車、爆薬、その他の隠れた機構を起動する。あなたは〔ストライク〕を行い、追加の武器ダメージのサイコロを1つ与える。10レベル以上の場合はこれを2つの追加のサイコロに増加させ、18レベル以上の場合は3つの追加のサイコロに増加させる。あなたが行える〔ストライク〕の種類はあなたの発明に依存する。</p><ul><li><strong>鎧</strong>あなたは〔ストライク〕を近接を使った無手攻撃または近接武器で行う。このために近接武器を使用するには、あなたの日課の準備を行う際に特別な装置で事前に準備しておく必要がある。</li><li><strong>Construct</strong>あなたのミニオン発明がストライクを行う。</li><li><strong>武器</strong>あなたはあなたの武器発明で〔ストライク〕を行う。</li></ul><p><strong>Unstable Function</strong>あなたは〔ストライク〕にさらに力を入れるが、発明にストレスがかかるリスクがある。メガトン〔ストライク〕に不安定なトレイトを追加する。〔ストライク〕はさらに1つの追加のダメージサイコロを与え、4レベルでは合計2つの追加のダイスを、10レベルでは3つの、18レベルでは4つの追加のダイスを与える。</p><hr /><p><strong>Special</strong>あなたの発明がミニオンの場合、それはあなたの代わりにこのアクションを取ることができる。</p>",
+      "description": "<p>あなたは、強力な攻撃を作るために発明の中の歯車、爆薬、その他の隠れた機構を起動する。あなたは〔ストライク〕を行い、追加の武器ダメージのサイコロを1つ与える。10レベル以上の場合はこれを2つの追加のサイコロに増加させ、18レベル以上の場合は3つの追加のサイコロに増加させる。あなたが行える〔ストライク〕の種類はあなたの発明に依存する。</p><ul><li><strong>鎧</strong>あなたは〔ストライク〕を近接を使った無手攻撃または近接武器で行う。このために近接武器を使用するには、あなたの日課の準備を行う際に特別な装置で事前に準備しておく必要がある。</li><li><strong>コンストラクト</strong>あなたのミニオン発明がストライクを行う。</li><li><strong>武器</strong>あなたはあなたの武器発明で〔ストライク〕を行う。</li></ul><p><strong>アンステイブル・ファンクション</strong>あなたは〔ストライク〕にさらに力を入れるが、発明にストレスがかかるリスクがある。メガトン〔ストライク〕に不安定なトレイトを追加する。〔ストライク〕はさらに1つの追加のダメージサイコロを与え、4レベルでは合計2つの追加のダイスを、10レベルでは3つの、18レベルでは4つの追加のダイスを与える。</p><hr /><p><strong>特殊</strong>あなたの発明がミニオンの場合、それはあなたの代わりにこのアクションを取ることができる。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -10968,7 +10968,7 @@
     },
     "Terrain Stalker": {
       "name": "テレイン・ストーカー/Terrain Stalker",
-      "description": "<p>次のリストから1つの困難な地形の種類を選択する: がれき、雪、または低木。あなたがその種類の地形で全ての非味方に@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}されている間、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak}を試みることなく、《隠密》判定として行動することができる、移動中に5フィートを超えず、敵の10フィートの内側を通過しない限り。</p>\n<p>あなたの探索の間、他の生物に15フィートの範囲内に自動的に近づくことができる。@UUID[Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn]{Avoiding their Notice}、それらが積極的に@UUID[Compendium.pf2e.actionspf2e.Item.TiNDYUGlMmxzxBYU]{Searching}していない限り、または警戒していない限り。</p><hr /><p><strong>Special</strong>あなたはこの特技を複数回選択できる。毎回、異なる種類の地形を選ぶ。</p>",
+      "description": "<p>次のリストから1つの困難な地形の種類を選択する: がれき、雪、または低木。あなたがその種類の地形で全ての非味方に@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}されている間、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak}を試みることなく、《隠密》判定として行動することができる、移動中に5フィートを超えず、敵の10フィートの内側を通過しない限り。</p>\n<p>あなたの探索の間、他の生物に15フィートの範囲内に自動的に近づくことができる。@UUID[Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn]{Avoiding their Notice}、それらが積極的に@UUID[Compendium.pf2e.actionspf2e.Item.TiNDYUGlMmxzxBYU]{Searching}していない限り、または警戒していない限り。</p><hr /><p><strong>特殊</strong>あなたはこの特技を複数回選択できる。毎回、異なる種類の地形を選ぶ。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -12181,7 +12181,7 @@
     },
     "Seasoned Command": {
       "name": "シーズンド・コマンド/Seasoned Command",
-      "description": "<p>味方は直感的にあなたの命令に従う。30フィート以内の味方1体を選択し、その味方のレベルに対するハードなDCに対して《交渉》または《威圧》の判定を行う。これは、その味方を〈援護〉するための準備アクションとして数える。結果にかかわらず、その味方はその後1分の間、あなたのSeasonedコマンドの使用に対して一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong>あなたは直ちに、選択した味方を〈援護〉するためにのみ使用できる追加のリアクションを得る。また、〈援護〉を行うためのスキル判定または攻撃ロールに+1の状況ボーナスを得る。</p>\n<p><strong>成功</strong>クリティカル成功と同様だが、状況ボーナスは得ない。</p>\n<p><strong>失敗</strong>あなたは追加のリアクションを得ない。</p><hr /><p><strong>Special</strong> 1時間に1回、あなたは(2アクションではなく)フリー・アクションとしてトループの指揮を執る(Take the Lead)ことができる。戦闘外では、あなたは通常の半分の時間(それぞれ5分と4時間)でトループの指揮を確立し、遊撃戦の絆を付与できる。</p>",
+      "description": "<p>味方は直感的にあなたの命令に従う。30フィート以内の味方1体を選択し、その味方のレベルに対するハードなDCに対して《交渉》または《威圧》の判定を行う。これは、その味方を〈援護〉するための準備アクションとして数える。結果にかかわらず、その味方はその後1分の間、あなたのSeasonedコマンドの使用に対して一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong>あなたは直ちに、選択した味方を〈援護〉するためにのみ使用できる追加のリアクションを得る。また、〈援護〉を行うためのスキル判定または攻撃ロールに+1の状況ボーナスを得る。</p>\n<p><strong>成功</strong>クリティカル成功と同様だが、状況ボーナスは得ない。</p>\n<p><strong>失敗</strong>あなたは追加のリアクションを得ない。</p><hr /><p><strong>特殊</strong> 1時間に1回、あなたは(2アクションではなく)フリー・アクションとしてトループの指揮を執る(Take the Lead)ことができる。戦闘外では、あなたは通常の半分の時間(それぞれ5分と4時間)でトループの指揮を確立し、遊撃戦の絆を付与できる。</p>",
       "source": "Pathfinder Adventure Path: Hell's Destiny",
       "prerequisites": [
         {
@@ -12453,7 +12453,7 @@
     },
     "Skill Mastery": {
       "name": "スキル・マスタリー/Skill Mastery",
-      "description": "<p><strong>ローグ:</strong>あなたのスキルのうち1つの習熟ランクをエキスパートからマスターに、別のスキルの習熟ランクを訓練済みからエキスパートに増加する。あなたは選択したスキルのいずれかに関連するスキル特技を1つ得る。その特技の前提条件をすべて満たさなければならない。</p>\n<p><strong>インヴェスティゲーター：</strong>あなたのスキルのうち1つの習熟ランクをエキスパートからマスターに、別のスキルの習熟ランクを訓練済みからエキスパートに増加する。あなたは選択したスキルのいずれかに関連するスキル特技を1つ得る。</p><hr /><p><strong>Special</strong>この特技は最大5回まで選択できる。</p>",
+      "description": "<p><strong>ローグ:</strong>あなたのスキルのうち1つの習熟ランクをエキスパートからマスターに、別のスキルの習熟ランクを訓練済みからエキスパートに増加する。あなたは選択したスキルのいずれかに関連するスキル特技を1つ得る。その特技の前提条件をすべて満たさなければならない。</p>\n<p><strong>インヴェスティゲーター：</strong>あなたのスキルのうち1つの習熟ランクをエキスパートからマスターに、別のスキルの習熟ランクを訓練済みからエキスパートに増加する。あなたは選択したスキルのいずれかに関連するスキル特技を1つ得る。</p><hr /><p><strong>特殊</strong>この特技は最大5回まで選択できる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -14347,7 +14347,7 @@
     },
     "Branched Tree of Pain": {
       "name": "ブランチド・ツリー・オブ・ペイン/Branched Tree of Pain",
-      "description": "<p><strong>使用</strong>武器のアイコンに注入され、 刺突または斬撃ダメージを与える。</p><hr /><p>あなたのアイコンの刃は1つ以上の切り込みを持ち、敵に致命的な痛みを与える能力がある。</p>\n<p><strong>即効性</strong>あなたがアイコンで〔ストライク〕を行うと、サイコロで19を出した場合、成功となる限り、それはクリティカル成功となる。この結果が失敗である場合、19は効果がない。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.cfQb0mBbyrjhyGf5]{Plant Thirty Barbs}</strong> <span class=\"action-glyph\">1</span> (死、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.cfQb0mBbyrjhyGf5 inline]</p>",
+      "description": "<p><strong>使用</strong>武器のアイコンに注入され、 刺突または斬撃ダメージを与える。</p><hr /><p>あなたのアイコンの刃は1つ以上の切り込みを持ち、敵に致命的な痛みを与える能力がある。</p>\n<p><strong>即効性</strong>あなたがアイコンで〔ストライク〕を行うと、サイコロで19を出した場合、成功となる限り、それはクリティカル成功となる。この結果が失敗である場合、19は効果がない。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.cfQb0mBbyrjhyGf5]{プラント・サーティ・バーブズ}</strong> <span class=\"action-glyph\">1</span> (死、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.cfQb0mBbyrjhyGf5 inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Agile Shield Grip": {
@@ -16311,7 +16311,7 @@
     },
     "Warp Space": {
       "name": "ワープ・スペース/Warp Space",
-      "description": "<p>あなたは魔法を使って空間を歪め、呪文が奇妙なベクトルから攻撃するようにする。このアンプはサイ・カントリップの通常のアンプエントリの代わりに使用する。アンプされたサイ・カントリップは射程を持っている必要がある。</p>\n<hr />\n<p><strong>Amp</strong>あなたはラインオブエフェクトとラインオブサイトを持つ正方形を30フィートから選択する。そこから呪文のラインオブエフェクトとラインオブサイトを決定し、クリーチャーが呪文に対してカバーを持っているかどうかを判断する。呪文はあなたから測定された通常の射程を超えることができるが、選んだ正方形からは通常の射程内である必要がある。</p>",
+      "description": "<p>あなたは魔法を使って空間を歪め、呪文が奇妙なベクトルから攻撃するようにする。このアンプはサイ・カントリップの通常のアンプエントリの代わりに使用する。アンプされたサイ・カントリップは射程を持っている必要がある。</p>\n<hr />\n<p><strong>アンプ</strong>あなたはラインオブエフェクトとラインオブサイトを持つ正方形を30フィートから選択する。そこから呪文のラインオブエフェクトとラインオブサイトを決定し、クリーチャーが呪文に対してカバーを持っているかどうかを判断する。呪文はあなたから測定された通常の射程を超えることができるが、選んだ正方形からは通常の射程内である必要がある。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Guide the Timeline": {
@@ -16382,7 +16382,7 @@
     },
     "Aristocratic Arms": {
       "name": "アリストクラティック・アームズ/Aristocratic Arms",
-      "description": "<p>一貫した(そして多くの場合過酷な)修練を通じて、あなたは自分の家の推奨武器の使い方を学んだ。あなたは以下のいずれか1つに習熟する：あなたが選択したマーシャル武器1つ、あなたの家の推奨武器リストからあなたが選択した単純武器またはマーシャル武器2つ、あるいはあなたの家の推奨武器リストからあなたが選択した上級武器1つ。習熟度に関しては、これらの選択のうちマーシャル武器であるものは単純武器として扱い、上級武器であるものはマーシャル武器として扱う。選択した武器のいずれかで少なくとも「エキスパート」である場合、その武器でクリティカルヒットを達成した際に、その武器のクリティカルスペシャライゼーション効果を得る。</p>\n<p><strong>Charthagnion:</strong>ディスアームまたはパリィのトレイトを持つ武器</p>\n<p><strong>Elliendo:</strong>剛腕武器およびナイフ</p>\n<p><strong>Henderthane:</strong>ハンマーおよびピック</p>\n<p><strong>Jeggare:</strong>片手剣</p>\n<p><strong>Leroung:</strong>クラブおよび盾</p>\n<p><strong>Narikopolus:</strong>弓</p>\n<p><strong>Sarini:</strong>フレイル</p>\n<p><strong>Thrune:</strong>クラブおよびクロスボウ</p>\n<p>さらに、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.DRHtgPhncTSs7Sdd]{For My House!}アクションを得る。</p>",
+      "description": "<p>一貫した(そして多くの場合過酷な)修練を通じて、あなたは自分の家の推奨武器の使い方を学んだ。あなたは以下のいずれか1つに習熟する：あなたが選択したマーシャル武器1つ、あなたの家の推奨武器リストからあなたが選択した単純武器またはマーシャル武器2つ、あるいはあなたの家の推奨武器リストからあなたが選択した上級武器1つ。習熟度に関しては、これらの選択のうちマーシャル武器であるものは単純武器として扱い、上級武器であるものはマーシャル武器として扱う。選択した武器のいずれかで少なくとも「エキスパート」である場合、その武器でクリティカルヒットを達成した際に、その武器のクリティカルスペシャライゼーション効果を得る。</p>\n<p><strong>チャータグニオン:</strong>ディスアームまたはパリィのトレイトを持つ武器</p>\n<p><strong>エリエンド:</strong>剛腕武器およびナイフ</p>\n<p><strong>ヘンダーセイン:</strong>ハンマーおよびピック</p>\n<p><strong>ジェガーレ:</strong>片手剣</p>\n<p><strong>レロン:</strong>クラブおよび盾</p>\n<p><strong>ナリコポラス:</strong>弓</p>\n<p><strong>サリーニ:</strong>フレイル</p>\n<p><strong>スルーン:</strong>クラブおよびクロスボウ</p>\n<p>さらに、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.DRHtgPhncTSs7Sdd]{For My House!}アクションを得る。</p>",
       "source": "Pathfinder Adventure Path: Hell's Destiny",
       "prerequisites": [
         {
@@ -17863,7 +17863,7 @@
     },
     "Mated Birds in Paired Flight": {
       "name": "メイテッド・バーズ・イン・ペアード・フライト/Mated Birds in Paired Flight",
-      "description": "<p> <strong>使用</strong>投げるトレイトを持つ1個または2個の武器アイコンに注入される(本文を参照)</p> <hr /> <p>あなたのアイコンは片翼の鳥のペアのように結びつく。この特技は、@UUID[Compendium.pf2e.classfeatures.Item.ktgzHtKoeUZ5H8KA]{シャドウ Sheath}によって作られた複数のコピーを持つ1つのアイコンに、または@UUID[Compendium.pf2e.feats-srd.Item.pJaJUmTrQkXW2s9G]{Twin Stars}の特技である2つの別々のアイコンに注入できる(アイコン特技ごとの通常の制限を回避する)。</p>\n<p> <strong>インマネンス</strong>あなたが1つのアイコンを持っている限り、もう1つはそのパートナーを探しに戻る。両方のアイコンはリターンルーンを得る。</p>\n<p> <strong>トランセンデンス—@UUID[Compendium.pf2e.actionspf2e.Item.I08t3hnpMZSRX5Ug]{Rejoin in Flight} </strong> <span class=\"action-glyph\">2</span>(トランセンデンス)</p>\n<p> @Embed[Compendium.pf2e.actionspf2e.Item.I08t3hnpMZSRX5Ug inline] </p>",
+      "description": "<p> <strong>使用</strong>投げるトレイトを持つ1個または2個の武器アイコンに注入される(本文を参照)</p> <hr /> <p>あなたのアイコンは片翼の鳥のペアのように結びつく。この特技は、@UUID[Compendium.pf2e.classfeatures.Item.ktgzHtKoeUZ5H8KA]{シャドウ Sheath}によって作られた複数のコピーを持つ1つのアイコンに、または@UUID[Compendium.pf2e.feats-srd.Item.pJaJUmTrQkXW2s9G]{Twin Stars}の特技である2つの別々のアイコンに注入できる(アイコン特技ごとの通常の制限を回避する)。</p>\n<p> <strong>インマネンス</strong>あなたが1つのアイコンを持っている限り、もう1つはそのパートナーを探しに戻る。両方のアイコンはリターンルーンを得る。</p>\n<p> <strong>トランセンデンス—@UUID[Compendium.pf2e.actionspf2e.Item.I08t3hnpMZSRX5Ug]{リジョイン・イン・フライト} </strong> <span class=\"action-glyph\">2</span>(トランセンデンス)</p>\n<p> @Embed[Compendium.pf2e.actionspf2e.Item.I08t3hnpMZSRX5Ug inline] </p>",
       "source": "Pathfinder War of Immortals"
     },
     "Devoted Focus": {
@@ -17903,7 +17903,7 @@
     },
     "Unleash Yaoguai Might": {
       "name": "アンリーシュ・ヤオグアイ・マイト/Unleash Yaoguai Might",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p>ヤオグアイ形態に入るとき、あなたは自身の内なる魔力を引き出し、さらなる高次の形態をとる。あなたがヤオグアイ形態に入るためにチェンジ・シェイプを行うとき、追加で1アクションを消費することで、@UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{エンラージ}の効果と、あなたの出自に基づく追加の効果を得ることができる。この効果は1分の間、またはあなたが再びチェンジ・シェイプを行うまで持続する。</p><ul><li><strong>動物</strong> あなたの皮膚が厚くなり、ACに+1の状況ボーナスを得る。</li><li><strong>Celestial</strong> あなたは自身のセレスティアルとしての完成度をいくらか回復し、あなたと15フィート以内のすべての味方に攻撃ロールへの+1の状況ボーナスを与える。</li><li><strong>Elements</strong> あなたは風と塵に包まれ、移動トレイトを持つ1アクションを少なくとも1回行う各ラウンドに隠蔽を得る。明らかな隠蔽の源に対する通常通り、あなたはこの隠蔽を〈隠れる〉や@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}のために使用することはできない。</li><li><strong>Object</strong> あなたの皮膚は部分的に無機質な物質へと変質し、殴打、刺突、または斬撃から選択したダメージに対する耐性 5を得る。</li><li><strong>Vegetation</strong> あなたは加速された成長を引き起こし、ファスト・ヒーリング 5を得る。</li></ul><p>@UUID[Compendium.pf2e.feat-effects.Item.OBsItGQScxHyUcmR]{効果: Unleash Yaoguai Might}</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p>ヤオグアイ形態に入るとき、あなたは自身の内なる魔力を引き出し、さらなる高次の形態をとる。あなたがヤオグアイ形態に入るためにチェンジ・シェイプを行うとき、追加で1アクションを消費することで、@UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{エンラージ}の効果と、あなたの出自に基づく追加の効果を得ることができる。この効果は1分の間、またはあなたが再びチェンジ・シェイプを行うまで持続する。</p><ul><li><strong>動物</strong> あなたの皮膚が厚くなり、ACに+1の状況ボーナスを得る。</li><li><strong>セレスティアル</strong> あなたは自身のセレスティアルとしての完成度をいくらか回復し、あなたと15フィート以内のすべての味方に攻撃ロールへの+1の状況ボーナスを与える。</li><li><strong>エレメンツ</strong> あなたは風と塵に包まれ、移動トレイトを持つ1アクションを少なくとも1回行う各ラウンドに隠蔽を得る。明らかな隠蔽の源に対する通常通り、あなたはこの隠蔽を〈隠れる〉や@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}のために使用することはできない。</li><li><strong>物体</strong> あなたの皮膚は部分的に無機質な物質へと変質し、殴打、刺突、または斬撃から選択したダメージに対する耐性 5を得る。</li><li><strong>ヴェジテーション</strong> あなたは加速された成長を引き起こし、ファスト・ヒーリング 5を得る。</li></ul><p>@UUID[Compendium.pf2e.feat-effects.Item.OBsItGQScxHyUcmR]{効果: Unleash Yaoguai Might}</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Tempest-Sun Redirection": {
@@ -19499,7 +19499,7 @@
     },
     "Psychopomp Familiar": {
       "name": "サイコポンプ・ファミリア/Psychopomp Familiar",
-      "description": "<p>あなたのペットは、マスクされたサイコポンプ、すなわち魂のサイクルを守る異界の守護者になる。このペットは他のペットと同じルールを使い続けるが、その能力の一つは必ず言語でなければならず、モニターおよびサイコポンプのトレイトを持つ。ペットが特定の能力を必ず持たなければならない場合、言語能力はあなたのペットの能力に対して毎日制限される。</p>\n<p>あなたは毎日三つのペットまたはマスター能力を選べるが、そのうち一つは次のサイコポンプペット能力のいずれかでなければならない。</p>\n<ul>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.o0fxDDUu2ZSWYDTr]{Soul Sight}</strong>あなたのペットは、範囲が30フィートのライフセンスを得る。</li>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.nrPl3Dz7fbnmas7T]{スピリット Touch}</strong>あなたのペットは接触非実体クリーチャーを扱える。もしあなたのペットの呪文配達マスター能力を持っていれば、そのペットが配達する呪文は、恩恵の<em>@UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]{Ghost Touch}</em>プロパティルーンの効果を得る。</li>\n</ul>",
+      "description": "<p>あなたのペットは、マスクされたサイコポンプ、すなわち魂のサイクルを守る異界の守護者になる。このペットは他のペットと同じルールを使い続けるが、その能力の一つは必ず言語でなければならず、モニターおよびサイコポンプのトレイトを持つ。ペットが特定の能力を必ず持たなければならない場合、言語能力はあなたのペットの能力に対して毎日制限される。</p>\n<p>あなたは毎日三つのペットまたはマスター能力を選べるが、そのうち一つは次のサイコポンプペット能力のいずれかでなければならない。</p>\n<ul>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.o0fxDDUu2ZSWYDTr]{ソウル・サイト}</strong>あなたのペットは、範囲が30フィートのライフセンスを得る。</li>\n<li><strong>@UUID[Compendium.pf2e.familiar-abilities.Item.nrPl3Dz7fbnmas7T]{スピリット・タッチ}</strong>あなたのペットは接触非実体クリーチャーを扱える。もしあなたのペットの呪文配達マスター能力を持っていれば、そのペットが配達する呪文は、恩恵の<em>@UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]{Ghost Touch}</em>プロパティルーンの効果を得る。</li>\n</ul>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -19735,7 +19735,7 @@
     },
     "Mutant Physique": {
       "name": "ミュータント・フィジーク/Mutant Physique",
-      "description": "<p>身体の形状に影響を与える基本的な変異薬は、あなたの内に潜む獣を引き出し、ほぼ無敵にし、またはあなたの身体をより弾力的にすることができる。リストにある変異薬の影響を受けている間、あなたは追加の恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.IQK9N2mEOyAj3iWU]{Bestial Mutagen}</strong>あなたは変異薬のアイテム・ボーナスをあなたの《威圧》判定に得る。さらに、あなたの爪と顎のダメージダイスのサイズを一段階増加させ、致死的d10トレイトを得る。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH]{Juggernaut Mutagen}</strong>あなたは耐性を全ての物理ダメージに対してレベルの半分だけ得る。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.5MKBwpE401uz4kNN]{Quicksilver Mutagen}</strong>あなたは脚を伸ばし、10フィートまで〔ステップ〕することができ、体をつぶすことができるので、すき間を通り抜けることができ、サイズが一つ小さいかのように扱われ、圧迫の効果も受ける。</p></li></ul><hr /><p><strong>特別</strong>あなたが複数の変異薬の効果を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{mutagenist greater field discovery}を持っている場合)、あなたは全ての関連する恩恵を得る。</p>",
+      "description": "<p>身体の形状に影響を与える基本的な変異薬は、あなたの内に潜む獣を引き出し、ほぼ無敵にし、またはあなたの身体をより弾力的にすることができる。リストにある変異薬の影響を受けている間、あなたは追加の恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.IQK9N2mEOyAj3iWU]{ベスティアル・ミュータジェン}</strong>あなたは変異薬のアイテム・ボーナスをあなたの《威圧》判定に得る。さらに、あなたの爪と顎のダメージダイスのサイズを一段階増加させ、致死的d10トレイトを得る。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH]{ジャガーノート・ミュータジェン}</strong>あなたは耐性を全ての物理ダメージに対してレベルの半分だけ得る。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.5MKBwpE401uz4kNN]{クイックシルバー・ミュータジェン}</strong>あなたは脚を伸ばし、10フィートまで〔ステップ〕することができ、体をつぶすことができるので、すき間を通り抜けることができ、サイズが一つ小さいかのように扱われ、圧迫の効果も受ける。</p></li></ul><hr /><p><strong>特別</strong>あなたが複数の変異薬の効果を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{mutagenist greater field discovery}を持っている場合)、あなたは全ての関連する恩恵を得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Thaumaturge Dedication": {
@@ -20331,7 +20331,7 @@
     },
     "Infinite Blades Celestial Arrow": {
       "name": "インフィニット・ブレーズ・セレスティアル・アロー/Infinite Blades Celestial Arrow",
-      "description": "<p><strong>使用法</strong>遠距離武器のアイコンに宿る</p><hr /><p>あなたが放つ各ショットは、精神的な刃、リング、そして他のミサイルで自身を増幅し、敵に降り注ぐ。あなたの武器アイコンは次の能力を得る。</p>\n<p><strong>インマネンス</strong>あなたの武器アイコンで敵を成功裏に 〔ストライク〕 すると、対象に隣接する最大2体の敵は、複製されたミサイルに当たって、あなたの武器アイコンのダメージサイコロと同等の霊的ダメージを受ける。</p>\n<p><strong>トランセンダンス—@UUID[Compendium.pf2e.actionspf2e.Item.JtEzSceixS0WA8wn]{Heaven Rains an Ending}</strong> <span class=\"action-glyph\">3</span> (トランセンダンス)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.JtEzSceixS0WA8wn inline]</p>",
+      "description": "<p><strong>使用法</strong>遠距離武器のアイコンに宿る</p><hr /><p>あなたが放つ各ショットは、精神的な刃、リング、そして他のミサイルで自身を増幅し、敵に降り注ぐ。あなたの武器アイコンは次の能力を得る。</p>\n<p><strong>インマネンス</strong>あなたの武器アイコンで敵を成功裏に 〔ストライク〕 すると、対象に隣接する最大2体の敵は、複製されたミサイルに当たって、あなたの武器アイコンのダメージサイコロと同等の霊的ダメージを受ける。</p>\n<p><strong>トランセンダンス—@UUID[Compendium.pf2e.actionspf2e.Item.JtEzSceixS0WA8wn]{ヘヴン・レインズ・アン・エンディング}</strong> <span class=\"action-glyph\">3</span> (トランセンダンス)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.JtEzSceixS0WA8wn inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Radiant Armament": {
@@ -21058,7 +21058,7 @@
     },
     "Compliant Gold": {
       "name": "コンプライアント・ゴールド/Compliant Gold",
-      "description": "<p> <strong>使用</strong>あなたの近接武器のイコンに注入された</p> <hr /> <p>あなたはあなたの武器に縮小または成長するよう命じることができ、便利さやパワーのためにそれを行う。あなたのイコンが強化されていないときでさえも、あなたはそれを小型のサイズに縮小(わずかなバルクで)して、耳の後ろや髪の中、または同様の目立たない場所に収めておくことができる。あなたは武器を縮小したり、通常のサイズに再成長させたりすることができ、取り出したり、片付けたり、入れ替えたり、拾ったりすることの一環として行える。</p>\n<p> <strong>即自性</strong>あなたのイコンはリーチトレイトを得る。すでにリーチトレイトを持っていた場合、通常の追加の5フィートの代わりに、あなたのリーチは追加で10フィート増加する。</p>\n<p> <strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.Ypwa9HIw7uXdt25D]{Topple the Pillar of Heaven} </strong> <span class=\"action-glyph\">2</span>(超越)</p>\n<p> @Embed[Compendium.pf2e.actionspf2e.Item.Ypwa9HIw7uXdt25D inline] </p>",
+      "description": "<p> <strong>使用</strong>あなたの近接武器のイコンに注入された</p> <hr /> <p>あなたはあなたの武器に縮小または成長するよう命じることができ、便利さやパワーのためにそれを行う。あなたのイコンが強化されていないときでさえも、あなたはそれを小型のサイズに縮小(わずかなバルクで)して、耳の後ろや髪の中、または同様の目立たない場所に収めておくことができる。あなたは武器を縮小したり、通常のサイズに再成長させたりすることができ、取り出したり、片付けたり、入れ替えたり、拾ったりすることの一環として行える。</p>\n<p> <strong>即自性</strong>あなたのイコンはリーチトレイトを得る。すでにリーチトレイトを持っていた場合、通常の追加の5フィートの代わりに、あなたのリーチは追加で10フィート増加する。</p>\n<p> <strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.Ypwa9HIw7uXdt25D]{トップル・ザ・ピラー・オブ・ヘヴン} </strong> <span class=\"action-glyph\">2</span>(超越)</p>\n<p> @Embed[Compendium.pf2e.actionspf2e.Item.Ypwa9HIw7uXdt25D inline] </p>",
       "source": "Pathfinder War of Immortals"
     },
     "Maiden's Mending": {
@@ -22804,7 +22804,7 @@
     },
     "Gift of the Immortal Herb": {
       "name": "ギフト・オブ・ジ・イモータル・ハーブ/Gift of the Immortal Herb",
-      "description": "<p><strong>使用法</strong>体内の像に宿る</p><hr /><p>あなたの血は、流れた瞬間に光り輝き、新しい命を生み出す神聖な金色に変わる。宿った像は次の効果を得る。</p>\n<p><strong>不在</strong>あなたの神聖な火花があなたの体内の像に10分間連続して留まっているとき、損傷した四肢または器官を再生する。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.rU3CE5niG8vHc5x4]{Shed the Mortal Skin}</strong> <span class=\"action-glyph\">1</span> (回復、光、超越、活力)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.rU3CE5niG8vHc5x4 inline]</p>",
+      "description": "<p><strong>使用法</strong>体内の像に宿る</p><hr /><p>あなたの血は、流れた瞬間に光り輝き、新しい命を生み出す神聖な金色に変わる。宿った像は次の効果を得る。</p>\n<p><strong>不在</strong>あなたの神聖な火花があなたの体内の像に10分間連続して留まっているとき、損傷した四肢または器官を再生する。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.rU3CE5niG8vHc5x4]{シェッド・ザ・モータル・スキン}</strong> <span class=\"action-glyph\">1</span> (回復、光、超越、活力)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.rU3CE5niG8vHc5x4 inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Ironblood Surge": {
@@ -23354,7 +23354,7 @@
     },
     "Riddle The Sphinx": {
       "name": "リドル・ザ・スフィンクス/Riddle The Sphinx",
-      "description": "<p><strong>使用</strong>ボディアイコンに宿る</p><hr /><p>あなたはスフィンクスの謎の秘密を学び、あなたのアイコンをそれで強化した。あなたはこれらの神秘を声に出し、他者にそれを克服させることができる。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.cGCQkCz14sF238gE]{Tangle in Riddle}</strong> <span class=\"action-glyph\">1</span>(聴覚、精神、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.cGCQkCz14sF238gE inline]</p>",
+      "description": "<p><strong>使用</strong>ボディアイコンに宿る</p><hr /><p>あなたはスフィンクスの謎の秘密を学び、あなたのアイコンをそれで強化した。あなたはこれらの神秘を声に出し、他者にそれを克服させることができる。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.cGCQkCz14sF238gE]{タングル・イン・リドル}</strong> <span class=\"action-glyph\">1</span>(聴覚、精神、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.cGCQkCz14sF238gE inline]</p>",
       "source": "Pathfinder #217: Death Sails a Wine-Dark Sea"
     },
     "Legendary Thief": {
@@ -23445,7 +23445,7 @@
     },
     "Bullet Dancer Dedication": {
       "name": "バレット・ダンサー・デディケーション/Bullet Dancer Dedication",
-      "description": "<p>あなたは銃と近接を致命的な技術に混ぜる。あなたはバレットダンサー構えアクションを得る。あなたはまた、ベイヨネット、強化ストック、武道用火器、武道用コンビネーションウェポンの使い方に精通する。これは、あなたの熟練度とこのアーキタイプからの能力の目的で、ベイヨネット、強化ストック、武道用火器、武道用コンビネーションウェポンをシンプルな武器として扱う。あなたは火器の 遠隔 formを持つ珍しいコンビネーションウェポンにアクセスできる。</p>\n<p><strong>@UUID[Compendium.pf2e.actionspf2e.Item.SMF1hTWPHtmlS8Cd]{Bullet Dancer 構え}</strong> <span class=\"action-glyph\">1</span>(姿勢)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.SMF1hTWPHtmlS8Cd inline]</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.5nd8ON2kFGOsCdwQ]{Bullet Dancer}</p>",
+      "description": "<p>あなたは銃と近接を致命的な技術に混ぜる。あなたはバレットダンサー構えアクションを得る。あなたはまた、ベイヨネット、強化ストック、武道用火器、武道用コンビネーションウェポンの使い方に精通する。これは、あなたの熟練度とこのアーキタイプからの能力の目的で、ベイヨネット、強化ストック、武道用火器、武道用コンビネーションウェポンをシンプルな武器として扱う。あなたは火器の 遠隔 formを持つ珍しいコンビネーションウェポンにアクセスできる。</p>\n<p><strong>@UUID[Compendium.pf2e.actionspf2e.Item.SMF1hTWPHtmlS8Cd]{ブレット・ダンサー・スタンス}</strong> <span class=\"action-glyph\">1</span>(姿勢)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.SMF1hTWPHtmlS8Cd inline]</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.5nd8ON2kFGOsCdwQ]{Bullet Dancer}</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -24077,7 +24077,7 @@
     },
     "Mask of the 15th Step": {
       "name": "マスク・オブ・ザ・フィフティーンス・ステップ/Mask of the 15th Step",
-      "description": "<p>あなたは第15〈ステップ〉まで昇り詰め、ラズミアの最も偉大な司祭たちの1人となった。あなたは鉄製のものを〈製作する〉のと同じ時間で、黄金製の<em>Razmiri仮面</em>を〈製作する〉ことや、既存の仮面を黄金製のものにアップグレードすることができる。黄金製の<em>Razmiri仮面</em>は、@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}または@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行うための《欺瞞》判定に+3のアイテム・ボーナスを与え、14レベルのアイテムであり、標準および銀のマスクが持つものに加えて以下の起動能力を得る。</p><hr /><p><strong>起動—Call Uponラズミア's Wrath</strong> <span class=\"action-glyph\">2</span> (concentrate, manipulate, occult)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたはメルキャットで不信心者たちに対して行ったように、ラズミアにその燃えるような怒りを顕現させるよう叫ぶ。あなたは@UUID[Compendium.pf2e.spells-srd.Item.a3aQxCpoj1q1NQxC]{サンバースト}を8ランクのオカルト呪文として発動するが、アンデッドの対象に対しては、この呪文は無力化トレイトを持つ。</p>",
+      "description": "<p>あなたは第15〈ステップ〉まで昇り詰め、ラズミアの最も偉大な司祭たちの1人となった。あなたは鉄製のものを〈製作する〉のと同じ時間で、黄金製の<em>Razmiri仮面</em>を〈製作する〉ことや、既存の仮面を黄金製のものにアップグレードすることができる。黄金製の<em>Razmiri仮面</em>は、@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}または@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行うための《欺瞞》判定に+3のアイテム・ボーナスを与え、14レベルのアイテムであり、標準および銀のマスクが持つものに加えて以下の起動能力を得る。</p><hr /><p><strong>起動—コール・アポン・ラズミアズ・ラース</strong> <span class=\"action-glyph\">2</span> (concentrate, manipulate, occult)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたはメルキャットで不信心者たちに対して行ったように、ラズミアにその燃えるような怒りを顕現させるよう叫ぶ。あなたは@UUID[Compendium.pf2e.spells-srd.Item.a3aQxCpoj1q1NQxC]{サンバースト}を8ランクのオカルト呪文として発動するが、アンデッドの対象に対しては、この呪文は無力化トレイトを持つ。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
@@ -25358,7 +25358,7 @@
     },
     "Demolition Charge": {
       "name": "デモリション・チャージ/Demolition Charge",
-      "description": "<p>あなたは周囲の領域に破壊をもたらすために、爆弾を無生物に仕掛けることができる。</p>\n<p>1分かかる活動として、あなたは宝箱、扉、壁、柱といった、あなたのリーチ内の無生物に1個から4個の爆弾を取り付ける。</p>\n<p>これはその無生物が占めるマス、またはそれに隣接するマスにハザードを作成する。そのハザードを発見するための《隠密》DCと、それを解除するための《盗賊術》DCは、あなたのクラスDCに等しい。</p>\n<p>そのハザードは以下のリアクションを持つ。これはあなたがハザードから30フィート以内にいる限り、単一のアクションとしてあなた自身がトリガーすることもできる。このハザードは、それが作動するまで、無生物がそのマスから移動するまで、あるいはあなたが次の日課の準備を行うまでのいずれか早い時点まで、その効力を維持する。</p>\n<hr />\n<p><strong>@UUID[Compendium.pf2e.actionspf2e.Item.UEkGL7uAGYDPFNfK]{Fire in the Hole}</strong> <span class=\"action-glyph\">R</span></p>\n<p><strong>トリガー</strong>クリーチャーがハザードのマスに移動する</p>\n<hr />\n<p><strong>効果</strong>ハザードが爆発し、爆弾のダメージと爆風ダメージをその無生物に与える。抵抗と弱点を適用する目的でこのダメージを合計し、このダメージはオブジェクトの硬度をあなたのレベルに等しい値だけ無視する。ハザードに隣接するクリーチャーは爆弾の爆風ダメージを受ける(同様に、抵抗と弱点を適用する目的で合計される)。念のため言っておくが、あなたが爆弾を投げたわけではないため、「計算された飛散」や同様の効果は適用されない。</p>",
+      "description": "<p>あなたは周囲の領域に破壊をもたらすために、爆弾を無生物に仕掛けることができる。</p>\n<p>1分かかる活動として、あなたは宝箱、扉、壁、柱といった、あなたのリーチ内の無生物に1個から4個の爆弾を取り付ける。</p>\n<p>これはその無生物が占めるマス、またはそれに隣接するマスにハザードを作成する。そのハザードを発見するための《隠密》DCと、それを解除するための《盗賊術》DCは、あなたのクラスDCに等しい。</p>\n<p>そのハザードは以下のリアクションを持つ。これはあなたがハザードから30フィート以内にいる限り、単一のアクションとしてあなた自身がトリガーすることもできる。このハザードは、それが作動するまで、無生物がそのマスから移動するまで、あるいはあなたが次の日課の準備を行うまでのいずれか早い時点まで、その効力を維持する。</p>\n<hr />\n<p><strong>@UUID[Compendium.pf2e.actionspf2e.Item.UEkGL7uAGYDPFNfK]{ファイア・イン・ザ・ホール}</strong> <span class=\"action-glyph\">R</span></p>\n<p><strong>トリガー</strong>クリーチャーがハザードのマスに移動する</p>\n<hr />\n<p><strong>効果</strong>ハザードが爆発し、爆弾のダメージと爆風ダメージをその無生物に与える。抵抗と弱点を適用する目的でこのダメージを合計し、このダメージはオブジェクトの硬度をあなたのレベルに等しい値だけ無視する。ハザードに隣接するクリーチャーは爆弾の爆風ダメージを受ける(同様に、抵抗と弱点を適用する目的で合計される)。念のため言っておくが、あなたが爆弾を投げたわけではないため、「計算された飛散」や同様の効果は適用されない。</p>",
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Impenetrable Fog": {
@@ -25613,7 +25613,7 @@
     },
     "Follow the Threads of Fate": {
       "name": "フォロー・ザ・スレッズ・オブ・フェイト/Follow the Threads of Fate",
-      "description": "<p><strong>使用</strong>布製の着用イコン、あるいは房飾りや巻き付け、または類似の特徴を持つ武器イコンに吹き込まれる。</p><hr /><p>運命そのものから紡がれたノルンの糸が、あなたのイコンの中を通るか、あるいはイコンに巻き付いている。</p>\n<p><strong>超越――@UUID[Compendium.pf2e.actionspf2e.Item.TIIM35m8aDUEU4gF]{Unravel the Future}</strong> <span class=\"action-glyph\">1</span> (幸運、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.TIIM35m8aDUEU4gF inline]</p>",
+      "description": "<p><strong>使用</strong>布製の着用イコン、あるいは房飾りや巻き付け、または類似の特徴を持つ武器イコンに吹き込まれる。</p><hr /><p>運命そのものから紡がれたノルンの糸が、あなたのイコンの中を通るか、あるいはイコンに巻き付いている。</p>\n<p><strong>超越――@UUID[Compendium.pf2e.actionspf2e.Item.TIIM35m8aDUEU4gF]{アンラヴェル・ザ・フューチャー}</strong> <span class=\"action-glyph\">1</span> (幸運、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.TIIM35m8aDUEU4gF inline]</p>",
       "source": "Pathfinder #217: Death Sails a Wine-Dark Sea"
     },
     "Greater Awakened Power": {
@@ -25732,7 +25732,7 @@
     },
     "Shroud of Ghosts": {
       "name": "シュラウド・オブ・ゴースツ/Shroud of Ghosts",
-      "description": "<p><strong>使用</strong>着用アイコンに付与された</p><hr /><p>あなたのアイコンは霊の世界とつながっており、そこに部分的に消えて代わりにいることができる。付与されたアイコンは次の能力を得る。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.exuTl8tvVlewxVGJ]{Skirt the Underworld}</strong> <span class=\"action-glyph\">2</span>(集中、幻影、無力化、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.exuTl8tvVlewxVGJ inline]</p>",
+      "description": "<p><strong>使用</strong>着用アイコンに付与された</p><hr /><p>あなたのアイコンは霊の世界とつながっており、そこに部分的に消えて代わりにいることができる。付与されたアイコンは次の能力を得る。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.exuTl8tvVlewxVGJ]{スカート・ザ・アンダーワールド}</strong> <span class=\"action-glyph\">2</span>(集中、幻影、無力化、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.exuTl8tvVlewxVGJ inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Horselord's Bond": {
@@ -27026,7 +27026,7 @@
     },
     "Specialized Spirit Companion": {
       "name": "スペシャライズド・スピリット・コンパニオン/Specialized Spirit Companion",
-      "description": "<p>あなたの動物の仲間はユニークなスペシャライゼーション、スピリットブレスドを得る。この世界の精霊によって授けられた祝福のおかげだ。もしあなたの動物の仲間がすでにスピリットブレスドのスペシャライゼーションを持っている場合、あなたの選択した追加のスペシャライゼーションを1つ得る。</p>\n<p> <strong>スピリット-bressed: </strong>あなたの仲間は、迷える精霊、ゴースト、その他の非実体クリーチャーに対して肉や骨でできたかのように傷つけることができる。あなたの仲間のストライクは全てゴーストの接触プロパティルーンの効果を得る。</p> <hr /> <p> <strong>特別</strong>あなたはこの特技を最大3回選ぶことができる。毎回、あなたの仲間に異なるスペシャライゼーションを追加する。最初のスペシャライゼーションはスピリットブレスドでなければならない。</p>",
+      "description": "<p>あなたの動物の仲間はユニークなスペシャライゼーション、スピリットブレスドを得る。この世界の精霊によって授けられた祝福のおかげだ。もしあなたの動物の仲間がすでにスピリットブレスドのスペシャライゼーションを持っている場合、あなたの選択した追加のスペシャライゼーションを1つ得る。</p>\n<p> <strong>スピリットブレスト: </strong>あなたの仲間は、迷える精霊、ゴースト、その他の非実体クリーチャーに対して肉や骨でできたかのように傷つけることができる。あなたの仲間のストライクは全てゴーストの接触プロパティルーンの効果を得る。</p> <hr /> <p> <strong>特別</strong>あなたはこの特技を最大3回選ぶことができる。毎回、あなたの仲間に異なるスペシャライゼーションを追加する。最初のスペシャライゼーションはスピリットブレスドでなければならない。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
@@ -27315,7 +27315,7 @@
     },
     "Binding Serpents Celestial Arrow": {
       "name": "バインディング・サーペンツ・セレスティアル・アロー/Binding Serpents Celestial Arrow",
-      "description": "<p><strong>使用法</strong>遠隔武器のアイコンに注入された、または投擲トレイトを持つ近接武器のアイコン</p><hr /><p>あなたが武器を撃つ準備をする際、あなたは敵を束縛する神聖な蛇を呼び出す。注入されたアイコンは次の能力を得る。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.mbOa48mQCqj86lVw]{Coiling Serpents}</strong> <span class=\"action-glyph\">2</span>(超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.mbOa48mQCqj86lVw inline]</p>",
+      "description": "<p><strong>使用法</strong>遠隔武器のアイコンに注入された、または投擲トレイトを持つ近接武器のアイコン</p><hr /><p>あなたが武器を撃つ準備をする際、あなたは敵を束縛する神聖な蛇を呼び出す。注入されたアイコンは次の能力を得る。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.mbOa48mQCqj86lVw]{コイリング・サーペンツ}</strong> <span class=\"action-glyph\">2</span>(超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.mbOa48mQCqj86lVw inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Grasping Corpses": {
@@ -27436,7 +27436,7 @@
     },
     "Pass Vengeful Judgment": {
       "name": "パス・ヴェンジフル・ジャッジメント/Pass Vengeful Judgment",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong> Your hierophant invoked your judgment on their previous turn</p><hr /><p>あなた自身が軽率に神の怒りという恐るべき力を呼び下ろすことを防ぐため、あなたは自身の定命のハイエロファントの同意がある場合にのみそれを行うと誓っている。もしあなたのハイエロファントが対象へのストライクに成功したなら、彼らは1アクションを消費してあなたの怒りを呼び起こすことができる。あなたのターンに、あなたは対象に対してPass Vengeful Judgmentを行い、@Damage[20d10[spirit]]ダメージを与え、@Check[fortitude|basic|against:class-spell]セーヴを要求する神のエネルギーの柱を呼び下ろすことができる。あなたは対象に対する効果線を持っている必要はなく、これはあらゆる距離で機能する。もしあなたの現在の領域呪文のいずれかが精神以外のダメージタイプを与えることができるなら、あなたはこのダメージ種別をそれに合わせることを選択できる(例えば、あなたが火炎領域を持っているなら、火炎ダメージを与える炎の柱を呼び下ろす)。</p>\n<p>もしあなたがPass Vengeful Judgmentの一部としてミシック・ポイントを消費するなら、その爆発は天まで届き、雲を散らす。これは怒りの誇示として、またあなたの信奉者を害したりあなたの戒律に疑問を呈したりする者への警告として、10マイルの半径内のすべてのクリーチャーから見える。次の1ヶ月間、あなたとあなたのハイエロファントは、そのエリア内のクリーチャーに対する《威圧》判定に+2の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.0nkzRcjN9iOSFUf9]{効果: Pass Vengeful Judgment}</p><hr /><p><strong>Special</strong>もしあなたがFont of Life or Deathを持っているなら、この能力を使用する際、ダメージ種別を(あなたがhealを選択した場合は)生命力、(あなたがharmを選択した場合は)虚無にすることを選択できる。</p><hr /><p><em>注：この能力のDCはPaizoによって提供されていない。上のボタンは、あなたのクラスまたは呪文のDCのうち高い方を使用する。</em></p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong> Your hierophant invoked your judgment on their previous turn</p><hr /><p>あなた自身が軽率に神の怒りという恐るべき力を呼び下ろすことを防ぐため、あなたは自身の定命のハイエロファントの同意がある場合にのみそれを行うと誓っている。もしあなたのハイエロファントが対象へのストライクに成功したなら、彼らは1アクションを消費してあなたの怒りを呼び起こすことができる。あなたのターンに、あなたは対象に対してPass Vengeful Judgmentを行い、@Damage[20d10[spirit]]ダメージを与え、@Check[fortitude|basic|against:class-spell]セーヴを要求する神のエネルギーの柱を呼び下ろすことができる。あなたは対象に対する効果線を持っている必要はなく、これはあらゆる距離で機能する。もしあなたの現在の領域呪文のいずれかが精神以外のダメージタイプを与えることができるなら、あなたはこのダメージ種別をそれに合わせることを選択できる(例えば、あなたが火炎領域を持っているなら、火炎ダメージを与える炎の柱を呼び下ろす)。</p>\n<p>もしあなたがPass Vengeful Judgmentの一部としてミシック・ポイントを消費するなら、その爆発は天まで届き、雲を散らす。これは怒りの誇示として、またあなたの信奉者を害したりあなたの戒律に疑問を呈したりする者への警告として、10マイルの半径内のすべてのクリーチャーから見える。次の1ヶ月間、あなたとあなたのハイエロファントは、そのエリア内のクリーチャーに対する《威圧》判定に+2の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.0nkzRcjN9iOSFUf9]{効果: Pass Vengeful Judgment}</p><hr /><p><strong>特殊</strong>もしあなたがFont of Life or Deathを持っているなら、この能力を使用する際、ダメージ種別を(あなたがhealを選択した場合は)生命力、(あなたがharmを選択した場合は)虚無にすることを選択できる。</p><hr /><p><em>注：この能力のDCはPaizoによって提供されていない。上のボタンは、あなたのクラスまたは呪文のDCのうち高い方を使用する。</em></p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
@@ -28526,7 +28526,7 @@
     },
     "Liberty's Promise": {
       "name": "リバティーズ・プロミス/Liberty's Promise",
-      "description": "<p>アンドランの理想に対するあなたの献身は、哲学的なものであると同時に精神的なものでもある。あなたはクレリックの@UUID[Compendium.pf2e.feats-srd.Item.hT4INKGtly4QY8KN]{Domain Initiate}特技を獲得するが、領域として@UUID[Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.5MjSsuKOLBoiL8FB]{freedom}、@UUID[Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.lgsJz7mZ1OTe340e]{truth}、または@UUID[Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.DI3MYGIK8iEycanU]{zeal}を選択しなければならない。あなたはその領域の領域呪文をディバイン・フォーカス呪文として発動し、神に祈るのではなく、コモンのルールの理念を熟考または広めることによって〈再フォーカス〉を行う。能力が(@UUID[Compendium.pf2e.spells-srd.Item.aF7RiG7c8GzSQLYt]{ワード・オヴ・トゥルース}フォーカス呪文のような)神聖なシンボルを顕現させる場合、それは代わりに爪に剣を掴んだ鷲として顕現する。</p><hr /><p><strong>Special</strong>あなたはこの特技を複数回取得でき、そのたびに異なる領域を選択する。</p>",
+      "description": "<p>アンドランの理想に対するあなたの献身は、哲学的なものであると同時に精神的なものでもある。あなたはクレリックの@UUID[Compendium.pf2e.feats-srd.Item.hT4INKGtly4QY8KN]{Domain Initiate}特技を獲得するが、領域として@UUID[Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.5MjSsuKOLBoiL8FB]{freedom}、@UUID[Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.lgsJz7mZ1OTe340e]{truth}、または@UUID[Compendium.pf2e.journals.JournalEntry.EEZvDB1Z7ezwaxIr.JournalEntryPage.DI3MYGIK8iEycanU]{zeal}を選択しなければならない。あなたはその領域の領域呪文をディバイン・フォーカス呪文として発動し、神に祈るのではなく、コモンのルールの理念を熟考または広めることによって〈再フォーカス〉を行う。能力が(@UUID[Compendium.pf2e.spells-srd.Item.aF7RiG7c8GzSQLYt]{ワード・オヴ・トゥルース}フォーカス呪文のような)神聖なシンボルを顕現させる場合、それは代わりに爪に剣を掴んだ鷲として顕現する。</p><hr /><p><strong>特殊</strong>あなたはこの特技を複数回取得でき、そのたびに異なる領域を選択する。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -28875,7 +28875,7 @@
     },
     "Mutant Innervation": {
       "name": "ミュータント・イナベイション/Mutant Innervation",
-      "description": "<p>あなたの心と思考に影響を与える基本的な変異体は、あなたにテレパシーで通信させたり、探知されないように保護したり、誰とでも通信できるようにすることができる。リストされている変異体の一つの影響を受けている間、あなたは追加で恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.wbr6rkyaVYnDhdgV]{Cognitive Mutagen}</strong>あなたはまた、その変異体のアイテム・ボーナスを《欺瞞》、 《交渉》、 《威圧》、 メディスン、 《自然》、 《芸能》、 《宗教》、および《生存術》判定に得る。さらに、あなたは自分の言語を共有するクリーチャーと60フィート内でテレパシーで通信できる。その通信は一方通行でなく、確立された後は、接触したクリーチャーもあなたと通信できる。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.bOPQDM54W8ZDoULY]{Serene Mutagen}</strong>探知、啓示、及び念視エフェクトは9位(または17レベル)以下はあなたやあなたの所持品、オーラの何も検出しない。例えば、マジック探知はエリア内の他の魔法を検出するが、あなたにかかっている魔法は検出しない。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.YwRAHWW8yUI07sy9]{Silvertongue Mutagen}</strong>あなたは《欺瞞》、 《交渉》、 《威圧》、および《芸能》判定に対する状況ペナルティを無視する。さらに、あなたの言葉は言語の壁を超越する。あなたの言葉を聞いているすべての人が、あなたがその言語を話しているかのようにあなたの言葉を聞く(ただし、実際にはその言語を話しておらず、この能力によって追加の言語を理解することはできない)。</p></li></ul><hr /><p><strong>特殊</strong>あなたが複数の変異体の影響を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{mutagenist greater field discovery}など)、あなたは関連する全ての恩恵を得る。</p>",
+      "description": "<p>あなたの心と思考に影響を与える基本的な変異体は、あなたにテレパシーで通信させたり、探知されないように保護したり、誰とでも通信できるようにすることができる。リストされている変異体の一つの影響を受けている間、あなたは追加で恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.wbr6rkyaVYnDhdgV]{コグニティブ・ミュータジェン}</strong>あなたはまた、その変異体のアイテム・ボーナスを《欺瞞》、 《交渉》、 《威圧》、 メディスン、 《自然》、 《芸能》、 《宗教》、および《生存術》判定に得る。さらに、あなたは自分の言語を共有するクリーチャーと60フィート内でテレパシーで通信できる。その通信は一方通行でなく、確立された後は、接触したクリーチャーもあなたと通信できる。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.bOPQDM54W8ZDoULY]{セリーン・ミュータジェン}</strong>探知、啓示、及び念視エフェクトは9位(または17レベル)以下はあなたやあなたの所持品、オーラの何も検出しない。例えば、マジック探知はエリア内の他の魔法を検出するが、あなたにかかっている魔法は検出しない。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.YwRAHWW8yUI07sy9]{シルバータング・ミュータジェン}</strong>あなたは《欺瞞》、 《交渉》、 《威圧》、および《芸能》判定に対する状況ペナルティを無視する。さらに、あなたの言葉は言語の壁を超越する。あなたの言葉を聞いているすべての人が、あなたがその言語を話しているかのようにあなたの言葉を聞く(ただし、実際にはその言語を話しておらず、この能力によって追加の言語を理解することはできない)。</p></li></ul><hr /><p><strong>特殊</strong>あなたが複数の変異体の影響を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{mutagenist greater field discovery}など)、あなたは関連する全ての恩恵を得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Mimic Protections": {
@@ -30959,7 +30959,7 @@
     },
     "Inertial Barrier": {
       "name": "イナーシャル・バリア/Inertial Barrier",
-      "description": "<p>あなたの呪文はショックと動きを軽減する障壁を残す。この効果をサイの手先の通常の効果の代わりに使用する。</p><hr /><p><strong>Amp</strong>あなたまたは呪文の対象1体は、耐性が物理ダメージに対して2 + 呪文のランクの合計で得るあなたの次のターン開始時まで。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.HcNa7gv7a357CnFi]{効果: Inertial Barrier}</p>",
+      "description": "<p>あなたの呪文はショックと動きを軽減する障壁を残す。この効果をサイの手先の通常の効果の代わりに使用する。</p><hr /><p><strong>アンプ</strong>あなたまたは呪文の対象1体は、耐性が物理ダメージに対して2 + 呪文のランクの合計で得るあなたの次のターン開始時まで。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.HcNa7gv7a357CnFi]{効果: Inertial Barrier}</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Additional Shadow Magic": {
@@ -34928,7 +34928,7 @@
     },
     "Blackjacket Dedication": {
       "name": "ブラックジャケット・デディケーション/Blackjacket Dedication",
-      "description": "<p><strong>Access</strong>あなたはドラマ出身である。</p><hr /><p>あなたは傭兵連盟の階級に加わり、組織の一般的な通称の由来となっている黒い制服を着用している。あなたは《威圧》において訓練済みとなる。もしすでに訓練済みであったなら、代わりにエキスパートとなる。あなたはウォーフェア《専門知識》のスキル特技である@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{Additional 《専門知識》}を得る。もしすでにウォーフェア《専門知識》で訓練済みであったなら、あなたはさらに自身の選択した《専門知識》スキルにおいても訓練済みとなる。中装鎧または重装鎧を着用している間、あなたは《威圧》判定に+1の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.irUrG1k3AJ0OfW9b]{Blackjacket}</p>",
+      "description": "<p><strong>入手条件</strong>あなたはドラマ出身である。</p><hr /><p>あなたは傭兵連盟の階級に加わり、組織の一般的な通称の由来となっている黒い制服を着用している。あなたは《威圧》において訓練済みとなる。もしすでに訓練済みであったなら、代わりにエキスパートとなる。あなたはウォーフェア《専門知識》のスキル特技である@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{Additional 《専門知識》}を得る。もしすでにウォーフェア《専門知識》で訓練済みであったなら、あなたはさらに自身の選択した《専門知識》スキルにおいても訓練済みとなる。中装鎧または重装鎧を着用している間、あなたは《威圧》判定に+1の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.irUrG1k3AJ0OfW9b]{Blackjacket}</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
@@ -35112,7 +35112,7 @@
     },
     "Destined Victory": {
       "name": "デスティンド・ビクトリー/Destined Victory",
-      "description": "<p> <strong>使用法</strong>着用のアイコンに注入された</p> <hr /> <p>あなたは選んだ敵との戦いを要求する。注入されたアイコンは以下の能力を持つ。</p>\n<p> <strong>即時性</strong>敵があなたに近接の武器で成功して攻撃した場合、次の攻撃が開始される前にその敵からの攻撃に対してあなたの ACに+2の状態ボーナスを得る。</p>\n<p> <strong>超越— @UUID[Compendium.pf2e.actionspf2e.Item.8r9ePG6BnrnO6YE1]{Only You and I} </strong> <span class=\"action-glyph\">1</span>(集中、超越)</p>\n<p> @Embed[Compendium.pf2e.actionspf2e.Item.8r9ePG6BnrnO6YE1 inline] </p>",
+      "description": "<p> <strong>使用法</strong>着用のアイコンに注入された</p> <hr /> <p>あなたは選んだ敵との戦いを要求する。注入されたアイコンは以下の能力を持つ。</p>\n<p> <strong>即時性</strong>敵があなたに近接の武器で成功して攻撃した場合、次の攻撃が開始される前にその敵からの攻撃に対してあなたの ACに+2の状態ボーナスを得る。</p>\n<p> <strong>超越— @UUID[Compendium.pf2e.actionspf2e.Item.8r9ePG6BnrnO6YE1]{オンリー・ユー・アンド・アイ} </strong> <span class=\"action-glyph\">1</span>(集中、超越)</p>\n<p> @Embed[Compendium.pf2e.actionspf2e.Item.8r9ePG6BnrnO6YE1 inline] </p>",
       "source": "Pathfinder War of Immortals"
     },
     "Experienced Harrower": {
@@ -36205,7 +36205,7 @@
     },
     "Through the Needle's Eye": {
       "name": "スルー・ザ・ニードルズ・アイ/Through the Needle's Eye",
-      "description": "<p><strong>使用</strong>武器のアイコンに込められた</p><hr /><p>あなたの武器は、あなたの意志が要求する完璧さで打撃を与える。</p>\n<p><strong>超越 - @UUID[Compendium.pf2e.actionspf2e.Item.Y6ee2ZvIE2fzzvAY]{Blinding of the Needle}</strong> <span class=\"action-glyph\">2</span> (超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.Y6ee2ZvIE2fzzvAY inline]</p>",
+      "description": "<p><strong>使用</strong>武器のアイコンに込められた</p><hr /><p>あなたの武器は、あなたの意志が要求する完璧さで打撃を与える。</p>\n<p><strong>超越 - @UUID[Compendium.pf2e.actionspf2e.Item.Y6ee2ZvIE2fzzvAY]{ブラインディング・オブ・ザ・ニードル}</strong> <span class=\"action-glyph\">2</span> (超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.Y6ee2ZvIE2fzzvAY inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Bloodsense": {
@@ -36308,7 +36308,7 @@
     },
     "Warped by Rage": {
       "name": "ワープド・バイ・レイジ/Warped by Rage",
-      "description": "<p> <strong>使用</strong>が体に注がれているか、着用のアイコン</p> <hr /> <p>レイジがあなたの体を駆け巡り、あなたを戦闘の獣に変える。注がれたアイコンは次の能力を得る。</p>\n<p> <strong>インメナンス</strong>あなたは4ランクの@UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{エンラージ}呪文の影響を受ける。あなたの体のアイコンが強化されるとき、この効果を放棄することを選択できる。</p>\n<p> <strong>トランセンデンス—@UUID[Compendium.pf2e.actionspf2e.Item.tHHpBREXDaafK3TF]{Spasm of the Berserker} </strong> <span class=\"action-glyph\">1</span>(トランセンデンス)</p>\n<p> @Embed[Compendium.pf2e.actionspf2e.Item.tHHpBREXDaafK3TF inline] </p>",
+      "description": "<p> <strong>使用</strong>が体に注がれているか、着用のアイコン</p> <hr /> <p>レイジがあなたの体を駆け巡り、あなたを戦闘の獣に変える。注がれたアイコンは次の能力を得る。</p>\n<p> <strong>インメナンス</strong>あなたは4ランクの@UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{エンラージ}呪文の影響を受ける。あなたの体のアイコンが強化されるとき、この効果を放棄することを選択できる。</p>\n<p> <strong>トランセンデンス—@UUID[Compendium.pf2e.actionspf2e.Item.tHHpBREXDaafK3TF]{スパズム・オブ・ザ・バーサーカー} </strong> <span class=\"action-glyph\">1</span>(トランセンデンス)</p>\n<p> @Embed[Compendium.pf2e.actionspf2e.Item.tHHpBREXDaafK3TF inline] </p>",
       "source": "Pathfinder War of Immortals"
     },
     "Sudden Mindfulness": {
@@ -36424,7 +36424,7 @@
     },
     "Eternity-Incinerating Blaze": {
       "name": "エターニティインシネレーティング・ブレイズ/Eternity-Incinerating Blaze",
-      "description": "<p><strong>使用</strong>武器に宿ったアイコン</p><hr /><p>あなたの神聖な火花の炎は、現在だけでなく過去や未来にも燃え広がるほど熱い。宿ったアイコンでクリティカルヒットを達成するたびに、対象は@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}になるか、呪われた状態を1増加させる。対象の最大臨死値がこの能力によって0に減少した場合、即座に精神の火の閃光の中で死に、体が灰になる。この効果はアイコンが強化されていない時でも適用される。アイコンは次の超越能力も獲得する。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.ZhVJ7EUTJngrIO2Z]{Burn out of Time}</strong> <span class=\"action-glyph\">2</span> (精神、超越、虚無)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.ZhVJ7EUTJngrIO2Z inline]</p>",
+      "description": "<p><strong>使用</strong>武器に宿ったアイコン</p><hr /><p>あなたの神聖な火花の炎は、現在だけでなく過去や未来にも燃え広がるほど熱い。宿ったアイコンでクリティカルヒットを達成するたびに、対象は@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}になるか、呪われた状態を1増加させる。対象の最大臨死値がこの能力によって0に減少した場合、即座に精神の火の閃光の中で死に、体が灰になる。この効果はアイコンが強化されていない時でも適用される。アイコンは次の超越能力も獲得する。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.ZhVJ7EUTJngrIO2Z]{バーン・アウト・オブ・タイム}</strong> <span class=\"action-glyph\">2</span> (精神、超越、虚無)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.ZhVJ7EUTJngrIO2Z inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Consolidated Overlay Panopticon": {
@@ -39074,7 +39074,7 @@
     },
     "Spirit's Anguish": {
       "name": "スピリッツ・アングイッシュ/Spirit's Anguish",
-      "description": "<p><strong>Cost</strong>あなたのスピリット・ドゥエリングからのスピリット・ウィスプ1つ、またはスピリット・レムナント1つ</p>\n<p><strong>必要条件</strong>あなたは自分のスピリット・ドゥエリングを手に持っている。</p><hr /><p>あなたはスピリットをなだめ、最後のカタルシス的な遠吠えの中でその苦悩を解き放たせることで、スピリットを浄化する。これは、@Template[cone|distance:30]内にいるすべてのクリーチャーに音波ダメージを与える。対象はあなたのクラスDCか呪文DCのいずれか高い方に対して、@Check[will|against:class-spell|basic|options:area-effect]セーヴを行わなければならない。もしスピリット・ウィスプを消費した場合、これは@Damage[(@actor.level)d4[sonic]|options:area-damage]を与える。もしスピリット・レムナントを消費した場合、これはそのレムナントを得た非実体アンデッドまたはホウントのレベルごとに1d6の音波ダメージを与える。</p>",
+      "description": "<p><strong>コスト</strong>あなたのスピリット・ドゥエリングからのスピリット・ウィスプ1つ、またはスピリット・レムナント1つ</p>\n<p><strong>必要条件</strong>あなたは自分のスピリット・ドゥエリングを手に持っている。</p><hr /><p>あなたはスピリットをなだめ、最後のカタルシス的な遠吠えの中でその苦悩を解き放たせることで、スピリットを浄化する。これは、@Template[cone|distance:30]内にいるすべてのクリーチャーに音波ダメージを与える。対象はあなたのクラスDCか呪文DCのいずれか高い方に対して、@Check[will|against:class-spell|basic|options:area-effect]セーヴを行わなければならない。もしスピリット・ウィスプを消費した場合、これは@Damage[(@actor.level)d4[sonic]|options:area-damage]を与える。もしスピリット・レムナントを消費した場合、これはそのレムナントを得た非実体アンデッドまたはホウントのレベルごとに1d6の音波ダメージを与える。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -39965,7 +39965,7 @@
     },
     "Experienced Smuggler": {
       "name": "エクスペリエンスト・スマグラー/Experienced Smuggler",
-      "description": "<p>あなたはよく当局を越えて物を密輸する。GMがあなたの《隠密》判定を振って、小さなアイテムを隠したことに気づくかどうかを見極める際、GMは振った数または10のいずれか高い方をあなたのサイコロの結果として使用し、あなたの《隠密》修正値を追加してあなたの《隠密》判定の結果を決定する。あなたが《隠密》の達人である場合、GMは振った数または15を使用し、あなたが《隠密》の伝説的であれば、受動的な観察者から小さな隠されたアイテムを隠すことに自動的に成功する。この場合、クリーチャーが隠されたアイテムを積極的に探す際に行う知覚判定に対して、 恩恵を提供しない。</p>\n<hr />\n<p><strong>PFS Note</strong>この特技により、あなたは階級-1のアンダーワールド《専門知識》とともに 〔収入を得る〕 ことができる(通常は階級-2の代わりに)。</p>",
+      "description": "<p>あなたはよく当局を越えて物を密輸する。GMがあなたの《隠密》判定を振って、小さなアイテムを隠したことに気づくかどうかを見極める際、GMは振った数または10のいずれか高い方をあなたのサイコロの結果として使用し、あなたの《隠密》修正値を追加してあなたの《隠密》判定の結果を決定する。あなたが《隠密》の達人である場合、GMは振った数または15を使用し、あなたが《隠密》の伝説的であれば、受動的な観察者から小さな隠されたアイテムを隠すことに自動的に成功する。この場合、クリーチャーが隠されたアイテムを積極的に探す際に行う知覚判定に対して、 恩恵を提供しない。</p>\n<hr />\n<p><strong>PFS注記</strong>この特技により、あなたは階級-1のアンダーワールド《専門知識》とともに 〔収入を得る〕 ことができる(通常は階級-2の代わりに)。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -40312,7 +40312,7 @@
     },
     "Tough Skin": {
       "name": "タフ・スキン/Tough Skin",
-      "description": "<p>あなたの皮膚はプレート・アーマー・グループの中装鎧であり、ACに+4のアイテム・ボーナスを与え、敏捷修正値上限は+1、判定ペナルティは–2、移動速度ペナルティは–5フィート、筋力値は+3であり、快眠のトレイトを持つ。あなたは他の鎧を着用することや、自分の皮膚を取り除くことは決してできない。あなたは自分の皮膚に鎧ルーンを彫刻することができる。</p>\n<p>もしあなたがこの特技を取得したレトシ・カシュリシであるなら、あなたの変異はあなたをより浮きやすくし、荒れた水域の表面であっても、《運動》判定を行う必要なく〈水泳〉で横断できるようになる。</p>\n<p><strong>Special</strong>あなたはこの特技を1レベルの時点でしか取得できず、この特技に再訓練することはできない。</p>",
+      "description": "<p>あなたの皮膚はプレート・アーマー・グループの中装鎧であり、ACに+4のアイテム・ボーナスを与え、敏捷修正値上限は+1、判定ペナルティは–2、移動速度ペナルティは–5フィート、筋力値は+3であり、快眠のトレイトを持つ。あなたは他の鎧を着用することや、自分の皮膚を取り除くことは決してできない。あなたは自分の皮膚に鎧ルーンを彫刻することができる。</p>\n<p>もしあなたがこの特技を取得したレトシ・カシュリシであるなら、あなたの変異はあなたをより浮きやすくし、荒れた水域の表面であっても、《運動》判定を行う必要なく〈水泳〉で横断できるようになる。</p>\n<p><strong>特殊</strong>あなたはこの特技を1レベルの時点でしか取得できず、この特技に再訓練することはできない。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -44367,7 +44367,7 @@
     },
     "Monstrous Inclinations": {
       "name": "モンストラス・インクライネーションズ/Monstrous Inclinations",
-      "description": "<p><strong>必要条件</strong> あなたの同調しているアパリションは、そのアパリションスキルの1つとして《森林》の《専門知識》または《大洋》の《専門知識》を授ける。</p><hr /><p>あなたのアパリションは、深海や古代の森林に住むクリーチャーの怪物的な性質をあなたと共有する。あなたは@UUID[Compendium.pf2e.spells-srd.Item.8AMvNVOUEtxBCDvJ]{モンストロシティ・フォーム}をあなたのアパリション呪文レパートリーに加え、あなたのアパリション呪文発動能力でそれを発動できるようにする。</p><hr /><p><strong>Special</strong> もしあなたが「暗き枝のストーカー」に同調しているなら、その呪文を第8ランクに高めて発動する際、<em>モンストロシティ・フォーム</em>のフェニックス形態を、利用可能な@UUID[Compendium.pf2e.spells-srd.Item.BhJtCTLbngvZm8EA]{ダーケンド・フォレスト・フォーム}の選択肢に加える。</p>\n<p>もしあなたが「貪り食う闇のラーカー」に同調しているなら、その呪文を第8ランクに高めて発動する際、洞窟ワーム形態と海蛇形態を、ポリモーフ効果としてあなたの@UUID[Compendium.pf2e.spells-srd.Item.wTldMJx0vyBAehrI]{デヴァウアリング・ダーク・フォーム}の選択肢に加える。</p>",
+      "description": "<p><strong>必要条件</strong> あなたの同調しているアパリションは、そのアパリションスキルの1つとして《森林》の《専門知識》または《大洋》の《専門知識》を授ける。</p><hr /><p>あなたのアパリションは、深海や古代の森林に住むクリーチャーの怪物的な性質をあなたと共有する。あなたは@UUID[Compendium.pf2e.spells-srd.Item.8AMvNVOUEtxBCDvJ]{モンストロシティ・フォーム}をあなたのアパリション呪文レパートリーに加え、あなたのアパリション呪文発動能力でそれを発動できるようにする。</p><hr /><p><strong>特殊</strong> もしあなたが「暗き枝のストーカー」に同調しているなら、その呪文を第8ランクに高めて発動する際、<em>モンストロシティ・フォーム</em>のフェニックス形態を、利用可能な@UUID[Compendium.pf2e.spells-srd.Item.BhJtCTLbngvZm8EA]{ダーケンド・フォレスト・フォーム}の選択肢に加える。</p>\n<p>もしあなたが「貪り食う闇のラーカー」に同調しているなら、その呪文を第8ランクに高めて発動する際、洞窟ワーム形態と海蛇形態を、ポリモーフ効果としてあなたの@UUID[Compendium.pf2e.spells-srd.Item.wTldMJx0vyBAehrI]{デヴァウアリング・ダーク・フォーム}の選択肢に加える。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Elaborate Talisman Esoterica": {
@@ -44412,7 +44412,7 @@
     },
     "Scaly Hide": {
       "name": "スケーリー・ハイド/Scaly Hide",
-      "description": "<p>あなたは、ドラゴンの祖先の鱗に似た鱗の層を全身にまとって生まれた。あなたが鎧を装備していない時、その鱗はあなたに+1のアイテム・ボーナスをACに与え、敏捷修正値の上限は+3となる。ACへのアイテム・ボーナスは5レベルで+2に増加する。これらの鱗によるACへのアイテム・ボーナスは、あなたの探検家の服のアーマー効力ルーン、@UUID[Compendium.pf2e.spells-srd.Item.aAbfKn8maGjJjk2W]{ミスティック・アーマー}呪文、または@UUID[Compendium.pf2e.equipment-srd.Item.02q8s6sSicMkhs1l]{Bands of Force}と累積する。</p><hr /><p><strong>Special</strong>あなたはこの特技を1レベルの時にしか選択できず、この特技を再修練で獲得したり、この特技から再修練で変更したりすることはできない。</p>",
+      "description": "<p>あなたは、ドラゴンの祖先の鱗に似た鱗の層を全身にまとって生まれた。あなたが鎧を装備していない時、その鱗はあなたに+1のアイテム・ボーナスをACに与え、敏捷修正値の上限は+3となる。ACへのアイテム・ボーナスは5レベルで+2に増加する。これらの鱗によるACへのアイテム・ボーナスは、あなたの探検家の服のアーマー効力ルーン、@UUID[Compendium.pf2e.spells-srd.Item.aAbfKn8maGjJjk2W]{ミスティック・アーマー}呪文、または@UUID[Compendium.pf2e.equipment-srd.Item.02q8s6sSicMkhs1l]{Bands of Force}と累積する。</p><hr /><p><strong>特殊</strong>あなたはこの特技を1レベルの時にしか選択できず、この特技を再修練で獲得したり、この特技から再修練で変更したりすることはできない。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Swift Leap": {
@@ -45209,7 +45209,7 @@
     },
     "Motionless Cutter": {
       "name": "モーションレス・カッター/Motionless Cutter",
-      "description": "<p><strong>使用法</strong>近接の武器アイコンに注入され、斬撃ダメージを扱う。</p> <hr /> <p>あなたの武器は非常に鋭く、静止した刃に昆虫がとまっても切り離される。あなたの武器アイコンは次の能力を得る。</p>\n<p> <strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.XFdTDDAPO7U0r4Et]{Sever Four Dragonfly Wings} </strong> <span class=\"action-glyph\">3</span>(超越)</p>\n<p> @Embed[Compendium.pf2e.actionspf2e.Item.XFdTDDAPO7U0r4Et inline] </p>",
+      "description": "<p><strong>使用法</strong>近接の武器アイコンに注入され、斬撃ダメージを扱う。</p> <hr /> <p>あなたの武器は非常に鋭く、静止した刃に昆虫がとまっても切り離される。あなたの武器アイコンは次の能力を得る。</p>\n<p> <strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.XFdTDDAPO7U0r4Et]{セヴァー・フォー・ドラゴンフライ・ウィングズ} </strong> <span class=\"action-glyph\">3</span>(超越)</p>\n<p> @Embed[Compendium.pf2e.actionspf2e.Item.XFdTDDAPO7U0r4Et inline] </p>",
       "source": "Pathfinder War of Immortals"
     },
     "Improved Twin Riposte (Fighter)": {
@@ -46333,7 +46333,7 @@
     },
     "Crown of Rule": {
       "name": "クラウン・オブ・ルール/Crown of Rule",
-      "description": "<p><strong>使用</strong>霊魂または身体のイコンに埋め込まれた着用</p><hr /><p>このバッジはあなたの主権を宣言する。埋め込まれたイコンは以下の能力を得る。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.CJnA1wEg2kA5BXfe]{Heavy is the Crown}</strong> <span class=\"action-glyph\">2</span>(集中、精神、霊、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.CJnA1wEg2kA5BXfe inline]</p>",
+      "description": "<p><strong>使用</strong>霊魂または身体のイコンに埋め込まれた着用</p><hr /><p>このバッジはあなたの主権を宣言する。埋め込まれたイコンは以下の能力を得る。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.CJnA1wEg2kA5BXfe]{ヘヴィ・イズ・ザ・クラウン}</strong> <span class=\"action-glyph\">2</span>(集中、精神、霊、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.CJnA1wEg2kA5BXfe inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Ferocious Beasts": {
@@ -47037,7 +47037,7 @@
     },
     "Improvise Strategy": {
       "name": "インプロヴァイズ・ストラテジー/Improvise Strategy",
-      "description": "<p>あなたは戦場における異端児であり、予測不可能な戦術を考案して敵を驚かせる。あなたはこれらの戦略の1つを用い、聴覚または視覚のトレイトのうちあなたが選んだ方を加える。30フィート以内にいるクリーチャーの《知覚》 DCに対して@Check[warfare-lore|against:perception]判定を行う。その後、対象は1時間の間、Improvise Strategyのさらなる使用に対して一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong>対象は　あなたの次のターン終了時まで、あなたが選んだ以下の状態のいずれか1つを得る：@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}、または@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}。対象は、(あなたの戦略が聴覚トレイトを持っていた場合)精神集中トレイトを持つ単一のアクションを使用して態勢を立て直すか、(あなたの戦略が視覚トレイトを持っていた場合)〈扱う〉アクションを使用して目をこすることで、この効果を終了できる。さらに、対象はImprovise Strategyのさらなる使用に対して一時的な免疫とはならない。</p>\n<p><strong>成功</strong>大成功時と同様だが、対象はImprovise Strategyのさらなる使用に対して一時的な免疫となる。</p>\n<p><strong>失敗</strong>対象は影響を受けない。</p>\n<p><strong>クリティカル失敗</strong>対象はその策略を見抜き、あなたは　あなたの次のターン開始時まで、off-guard状態となる。</p><hr /><p><strong>Special</strong> 1日1回、もしあなたが遊撃戦の絆を持つトループを率いているなら、敵を対象とする代わりに、Improvise Strategyを使用して、あなたのトループのレベルに対する標準的なDCに対してWarfare 《専門知識》判定を行うことができる。成功した場合、あなたのトループは現在の遊撃戦の絆を、あなたが選んだ別のものに　あなたの次のターン終了時まで置き換える。</p>",
+      "description": "<p>あなたは戦場における異端児であり、予測不可能な戦術を考案して敵を驚かせる。あなたはこれらの戦略の1つを用い、聴覚または視覚のトレイトのうちあなたが選んだ方を加える。30フィート以内にいるクリーチャーの《知覚》 DCに対して@Check[warfare-lore|against:perception]判定を行う。その後、対象は1時間の間、Improvise Strategyのさらなる使用に対して一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong>対象は　あなたの次のターン終了時まで、あなたが選んだ以下の状態のいずれか1つを得る：@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}、または@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}。対象は、(あなたの戦略が聴覚トレイトを持っていた場合)精神集中トレイトを持つ単一のアクションを使用して態勢を立て直すか、(あなたの戦略が視覚トレイトを持っていた場合)〈扱う〉アクションを使用して目をこすることで、この効果を終了できる。さらに、対象はImprovise Strategyのさらなる使用に対して一時的な免疫とはならない。</p>\n<p><strong>成功</strong>大成功時と同様だが、対象はImprovise Strategyのさらなる使用に対して一時的な免疫となる。</p>\n<p><strong>失敗</strong>対象は影響を受けない。</p>\n<p><strong>クリティカル失敗</strong>対象はその策略を見抜き、あなたは　あなたの次のターン開始時まで、off-guard状態となる。</p><hr /><p><strong>特殊</strong> 1日1回、もしあなたが遊撃戦の絆を持つトループを率いているなら、敵を対象とする代わりに、Improvise Strategyを使用して、あなたのトループのレベルに対する標準的なDCに対してWarfare 《専門知識》判定を行うことができる。成功した場合、あなたのトループは現在の遊撃戦の絆を、あなたが選んだ別のものに　あなたの次のターン終了時まで置き換える。</p>",
       "source": "Pathfinder Adventure Path: Hell's Destiny",
       "prerequisites": [
         {
@@ -48533,7 +48533,7 @@
     },
     "Meddling Futures": {
       "name": "メドリング・フューチャーズ/Meddling Futures",
-      "description": "<p>あなたは、助けようとしてくれるあらゆる精霊や力の導きに対して、あなた自身を開放する。どのタイプの精霊があなたに引き寄せられるかを確認するために1d4をロールする。あなたの次のアクションは、その精霊が好むタイプのアクションでなければならないが、精霊があなたを導くことで、そのアクションに対して記載された恩恵も得る。もし異なるアクションを使用しようとした場合、@Check[flat|dc:6]で成功しなければならず、さもなくばそのアクションは失われる。</p>\n<p><strong>1 Warrior</strong>あなたは〈ストライク〉を行わなければならない。あなたは攻撃ロールに+1の状況ボーナス、ダメージに+2の状況ボーナスを得る。もしあなたが@UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{カースバウンド 3}以上であれば、ダメージに+6の状況ボーナスを得る。</p>\n<p><strong>2 Adept</strong>あなたは《知覚》判定またはスキルアクションを行わなければならない。あなたは、その判定に+1の状況ボーナスを得る。もしあなたがcursebound 3であれば、+2の状況ボーナスを得る。</p>\n<p><strong>3 Sage</strong>あなたは〈呪文の発動〉を行わなければならない。あなたは、その呪文のダメージまたは回復量に、呪文のランクに等しい状況ボーナスを得る。もしあなたがcursebound 3以上であれば、呪文のランク+3に等しい状況ボーナスを得る。</p>\n<p><strong>4 Wanderer</strong>あなたは〈ストライド〉アクション、あるいは関連する移動速度を持っているならば〈飛行〉、〈登攀〉、または〈穴掘り〉アクションを行わなければならない。あなたは、そのアクションの間、あなたの移動速度に+10フィートの状況ボーナスを得る。もしあなたがcursebound 3以上であれば、+20フィートの状況ボーナスを得る。</p>",
+      "description": "<p>あなたは、助けようとしてくれるあらゆる精霊や力の導きに対して、あなた自身を開放する。どのタイプの精霊があなたに引き寄せられるかを確認するために1d4をロールする。あなたの次のアクションは、その精霊が好むタイプのアクションでなければならないが、精霊があなたを導くことで、そのアクションに対して記載された恩恵も得る。もし異なるアクションを使用しようとした場合、@Check[flat|dc:6]で成功しなければならず、さもなくばそのアクションは失われる。</p>\n<p><strong>1 ウォリアー</strong>あなたは〈ストライク〉を行わなければならない。あなたは攻撃ロールに+1の状況ボーナス、ダメージに+2の状況ボーナスを得る。もしあなたが@UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{カースバウンド 3}以上であれば、ダメージに+6の状況ボーナスを得る。</p>\n<p><strong>2 アデプト</strong>あなたは《知覚》判定またはスキルアクションを行わなければならない。あなたは、その判定に+1の状況ボーナスを得る。もしあなたがcursebound 3であれば、+2の状況ボーナスを得る。</p>\n<p><strong>3 セージ</strong>あなたは〈呪文の発動〉を行わなければならない。あなたは、その呪文のダメージまたは回復量に、呪文のランクに等しい状況ボーナスを得る。もしあなたがcursebound 3以上であれば、呪文のランク+3に等しい状況ボーナスを得る。</p>\n<p><strong>4 ワンダラー</strong>あなたは〈ストライド〉アクション、あるいは関連する移動速度を持っているならば〈飛行〉、〈登攀〉、または〈穴掘り〉アクションを行わなければならない。あなたは、そのアクションの間、あなたの移動速度に+10フィートの状況ボーナスを得る。もしあなたがcursebound 3以上であれば、+20フィートの状況ボーナスを得る。</p>",
       "selfEffect": "効果：干渉する未来",
       "source": "Pathfinder Player Core 2"
     },
@@ -49530,7 +49530,7 @@
     },
     "Trick Shot": {
       "name": "トリック・ショット/Trick Shot",
-      "description": "<p><strong>必要条件</strong>あなたは装填済みのクロスボウか銃器を手に持っている。</p><hr /><p>あなたは敵ではなく、近くにある物体を撃つ。あなたのレベルに対する易しいDCに等しいACに対して、あなたの銃器で〈ストライク〉を行う。成功すると、敵に命中する代わりに、あなたの攻撃は対象の後方または側方にある物体に命中し、以下の効果のいずれかを生じさせる。GMは異なるACが適切であると判断したり、戦場にそのような物体がない場合に爆発する樽のオプションを使用するような特定の効果が有効な選択肢ではないと判断したりする場合がある。あなたの訓練済みな目は不安定な物体や揮発性の物体を容易に見抜くことができるため、アクションを消費する前に、GMはトリック・ショットが可能かどうかをあなたに知らせるべきである。</p><ul><li><strong>Dislodge Object</strong>あなたの攻撃は、2バルク以下の誰も保持していない物体を位置から叩き出し、あなたが選択した方向に最大10フィート移動させる。例えば、その武器でウィザードの水晶玉をテーブルから叩き落とすことができる。</li><li><p><strong>Explosive Barrel</strong>あなたの攻撃は、高価なラム酒の樽、揮発性の錬金術流体の小瓶、大地から噴出するデーモンの膿疱、あるいはその他の爆発性の物体に命中する。その物体は@Template[type:burst|distance:20]で爆発し、範囲内のクリーチャーは@Damage[(6 + floor((@actor.level - 10) / 2))d6|options:area-damage]ダメージを受け、あなたのクラスDCに対して@Check[reflex|against:gunslinger|basic|options:area-effect]セーヴを行う。ダメージ種別は、爆発する物体に基づいてGMが選択する。10レベルを超えて2レベル上がるごとに、ダメージを1d6増加する。</p>\n</li></ul>",
+      "description": "<p><strong>必要条件</strong>あなたは装填済みのクロスボウか銃器を手に持っている。</p><hr /><p>あなたは敵ではなく、近くにある物体を撃つ。あなたのレベルに対する易しいDCに等しいACに対して、あなたの銃器で〈ストライク〉を行う。成功すると、敵に命中する代わりに、あなたの攻撃は対象の後方または側方にある物体に命中し、以下の効果のいずれかを生じさせる。GMは異なるACが適切であると判断したり、戦場にそのような物体がない場合に爆発する樽のオプションを使用するような特定の効果が有効な選択肢ではないと判断したりする場合がある。あなたの訓練済みな目は不安定な物体や揮発性の物体を容易に見抜くことができるため、アクションを消費する前に、GMはトリック・ショットが可能かどうかをあなたに知らせるべきである。</p><ul><li><strong>ディスロッジ・オブジェクト</strong>あなたの攻撃は、2バルク以下の誰も保持していない物体を位置から叩き出し、あなたが選択した方向に最大10フィート移動させる。例えば、その武器でウィザードの水晶玉をテーブルから叩き落とすことができる。</li><li><p><strong>エクスプローシヴ・バレル</strong>あなたの攻撃は、高価なラム酒の樽、揮発性の錬金術流体の小瓶、大地から噴出するデーモンの膿疱、あるいはその他の爆発性の物体に命中する。その物体は@Template[type:burst|distance:20]で爆発し、範囲内のクリーチャーは@Damage[(6 + floor((@actor.level - 10) / 2))d6|options:area-damage]ダメージを受け、あなたのクラスDCに対して@Check[reflex|against:gunslinger|basic|options:area-effect]セーヴを行う。ダメージ種別は、爆発する物体に基づいてGMが選択する。10レベルを超えて2レベル上がるごとに、ダメージを1d6増加する。</p>\n</li></ul>",
       "source": "Pathfinder Guns & Gears"
     },
     "Great Bear": {
@@ -49734,7 +49734,7 @@
     },
     "Soul Warden Dedication": {
       "name": "ソウル・ウォーデン・デディケーション/Soul Warden Dedication",
-      "description": "<p>あなたは10分かけて、@UUID[Compendium.pf2e.deities.Item.QZD0u1jxwz0kj8uI]{ファラズマ}の聖なるシギル(魂がその存在を通じて辿る曲がりくねった小径を表す螺旋状の彗星)を、あなたが着用または装備している盾、タバード、バナー、その他の目立つ物体に刻み込むことができる。そのシンボルは1年が経過するまで消えないが、もしあなたが再びシンボルを刻み込んだ場合、あなたが以前に刻み込んだシンボルや、そのアイテムに既に刻み込まれていたシンボルは即座に消滅する。そのアイテムはファラズマの宗教的シンボルとなり、刻み込まれている間はディバイン・フォーカスとして使用できる。</p>\n<p>アンデッドクリーチャーや囚われた魂がこの物体から100フィート以内にいるときはいつでも、螺旋が輝き、10フィートの半径に淡い青色の光を放つ。もしそのクリーチャーが隠密状態であるか、あるいは魂が隠されている場合、そのクリーチャーや魂はあなたの《知覚》 DCに対する@Check[stealth|against:perception]判定に成功しなければ、シギルを欺いて螺旋が輝くのを防ぐことはできない。</p>\n<p>加えて、あなたは@UUID[Compendium.pf2e.spells-srd.Item.kcelf6IHl3L9VXXg]{ヴァイタリティ・ラッシュ}を、意志に応じて使用できる神聖な生得キャントリップとして発動できる。通常通り、キャントリップは自動的にあなたのレベルの半分(端数切り上げ)に高められる。もしまだ持っていないなら、あなたは〈呪文の発動〉アクティビティへのアクセスを得る。あなたは神聖呪文の攻撃ロールと呪文難易度において訓練済みとなる。これらの呪文に対するあなたの主要呪文発動能力値は判断力である。</p>\n<p>あなたがこのアーキタイプの他の特技を少なくとも2つ持っているとき、螺旋は10フィートの半径に明るい光(および次の10フィートに薄暗い光)を放つ。クリーチャーや物体があなたの螺旋の光の中にいることを要求する特技は、それが明るい光の中にあろうと薄暗い光の中にあろうと機能する。</p>\n<p><strong>Special</strong>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.9g14DjBZNj27goTt]{Soul Warden}アーキタイプから他の2つの特技を獲得するまで、別の献身特技を選択することはできない。</p>",
+      "description": "<p>あなたは10分かけて、@UUID[Compendium.pf2e.deities.Item.QZD0u1jxwz0kj8uI]{ファラズマ}の聖なるシギル(魂がその存在を通じて辿る曲がりくねった小径を表す螺旋状の彗星)を、あなたが着用または装備している盾、タバード、バナー、その他の目立つ物体に刻み込むことができる。そのシンボルは1年が経過するまで消えないが、もしあなたが再びシンボルを刻み込んだ場合、あなたが以前に刻み込んだシンボルや、そのアイテムに既に刻み込まれていたシンボルは即座に消滅する。そのアイテムはファラズマの宗教的シンボルとなり、刻み込まれている間はディバイン・フォーカスとして使用できる。</p>\n<p>アンデッドクリーチャーや囚われた魂がこの物体から100フィート以内にいるときはいつでも、螺旋が輝き、10フィートの半径に淡い青色の光を放つ。もしそのクリーチャーが隠密状態であるか、あるいは魂が隠されている場合、そのクリーチャーや魂はあなたの《知覚》 DCに対する@Check[stealth|against:perception]判定に成功しなければ、シギルを欺いて螺旋が輝くのを防ぐことはできない。</p>\n<p>加えて、あなたは@UUID[Compendium.pf2e.spells-srd.Item.kcelf6IHl3L9VXXg]{ヴァイタリティ・ラッシュ}を、意志に応じて使用できる神聖な生得キャントリップとして発動できる。通常通り、キャントリップは自動的にあなたのレベルの半分(端数切り上げ)に高められる。もしまだ持っていないなら、あなたは〈呪文の発動〉アクティビティへのアクセスを得る。あなたは神聖呪文の攻撃ロールと呪文難易度において訓練済みとなる。これらの呪文に対するあなたの主要呪文発動能力値は判断力である。</p>\n<p>あなたがこのアーキタイプの他の特技を少なくとも2つ持っているとき、螺旋は10フィートの半径に明るい光(および次の10フィートに薄暗い光)を放つ。クリーチャーや物体があなたの螺旋の光の中にいることを要求する特技は、それが明るい光の中にあろうと薄暗い光の中にあろうと機能する。</p>\n<p><strong>特殊</strong>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.9g14DjBZNj27goTt]{Soul Warden}アーキタイプから他の2つの特技を獲得するまで、別の献身特技を選択することはできない。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -50304,7 +50304,7 @@
     },
     "Subtle Shank": {
       "name": "サトル・シャンク/Subtle Shank",
-      "description": "<p><strong>Access</strong>ウォッシュボード・ドッグズかディオベル・スウィーパーズのいずれかがライバルを壊滅させるのを助ける。</p>\n<p><strong>必要条件</strong>あなたは身につけている近接武器(軽量)を《隠密》スキルによって@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}しており、対象はその武器に気づいていない。</p>\n<hr />\n<p>あなたは隠していた武器を抜き、それで攻撃し、そして再び隠すという一連の滑らかな動作を行う。武器を抜くために〈扱う〉を行い、その武器で〈ストライク〉を行い、その後《隠密》判定で隠蔽(Conceal)を行う。対象はこの攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。</p>",
+      "description": "<p><strong>入手条件</strong>ウォッシュボード・ドッグズかディオベル・スウィーパーズのいずれかがライバルを壊滅させるのを助ける。</p>\n<p><strong>必要条件</strong>あなたは身につけている近接武器(軽量)を《隠密》スキルによって@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}しており、対象はその武器に気づいていない。</p>\n<hr />\n<p>あなたは隠していた武器を抜き、それで攻撃し、そして再び隠すという一連の滑らかな動作を行う。武器を抜くために〈扱う〉を行い、その武器で〈ストライク〉を行い、その後《隠密》判定で隠蔽(Conceal)を行う。対象はこの攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。</p>",
       "source": "Pathfinder #159: All or Nothing"
     },
     "Ascended Celestial Dedication": {
@@ -50620,7 +50620,7 @@
     },
     "Rotten Slurry": {
       "name": "ロットン・スラリー/Rotten Slurry",
-      "description": "<p>あなたは腐敗した悪臭を放つ泥の塊を、胴体、手、または口から敵に向かって吐き出す。 30フィート以内のクリーチャーに対して遠隔@Check[deviant|defense:ac]{攻撃ロール}を行う。成功した場合、その泥は対象にあなたのレベル2ごとに@Damage[(floor(@actor.level/2)d4)[bludgeoning]]ダメージを与え、クリティカル成功した場合はダメージが2倍になる。この攻撃によってダメージを受けたクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる(クリティカル成功した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる)。</p>\n<p><strong>Awakening</strong>泥が破裂し、周囲の者に降り注ぐ。この攻撃は、あなたのレベル4ごとに@Damage[((floor(@actor.level/4)d4)[splash])[poison]]{1d4の毒の飛散}ダメージを追加で与える。</p>\n<p><strong>Awakening</strong>泥は腐食性であり、接触した者の肉に食い込む。この攻撃は@Damage[1d4[persistent,acid]]ダメージを追加で与える。</p>",
+      "description": "<p>あなたは腐敗した悪臭を放つ泥の塊を、胴体、手、または口から敵に向かって吐き出す。 30フィート以内のクリーチャーに対して遠隔@Check[deviant|defense:ac]{攻撃ロール}を行う。成功した場合、その泥は対象にあなたのレベル2ごとに@Damage[(floor(@actor.level/2)d4)[bludgeoning]]ダメージを与え、クリティカル成功した場合はダメージが2倍になる。この攻撃によってダメージを受けたクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる(クリティカル成功した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる)。</p>\n<p><strong>覚醒</strong>泥が破裂し、周囲の者に降り注ぐ。この攻撃は、あなたのレベル4ごとに@Damage[((floor(@actor.level/4)d4)[splash])[poison]]{1d4の毒の飛散}ダメージを追加で与える。</p>\n<p><strong>覚醒</strong>泥は腐食性であり、接触した者の肉に食い込む。この攻撃は@Damage[1d4[persistent,acid]]ダメージを追加で与える。</p>",
       "source": "Pathfinder #202: Severed at the Root"
     },
     "Stages of Fate": {
@@ -51330,7 +51330,7 @@
     },
     "Sacred Wilds Oath": {
       "name": "セイクレッド・ワイルズ・オース/Sacred Wilds Oath",
-      "description": "<p>あなたは自然の中にある聖なる場所と、そこに宿る精霊たち(古の木々から原始の野生の守護者まで)を守るという誓約を立てている。あなたは動物に対して《交渉》を使用して@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉}を行い、彼らに非常に単純なRequest(要求)を行うことができる。多くの場合、野生動物はあなたが主張を行うための時間を与えてくれるだろう。あなたはビースト、フェイ、またはカミと交流する際、〈印象の改善〉を行うための《交渉》判定に+2の状況ボーナスを得る。あなたは以下のEdict(教義)を得る。</p>\n<p><strong>Edict</strong>あなたは助けを必要としているあらゆる動物や自然の精霊を支援しなければならない。ただし、それがあなたの他の教義に違反する場合や、他の誰かを差し迫った危険にさらす場合はこの限りではない。</p>",
+      "description": "<p>あなたは自然の中にある聖なる場所と、そこに宿る精霊たち(古の木々から原始の野生の守護者まで)を守るという誓約を立てている。あなたは動物に対して《交渉》を使用して@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉}を行い、彼らに非常に単純なRequest(要求)を行うことができる。多くの場合、野生動物はあなたが主張を行うための時間を与えてくれるだろう。あなたはビースト、フェイ、またはカミと交流する際、〈印象の改善〉を行うための《交渉》判定に+2の状況ボーナスを得る。あなたは以下のEdict(教義)を得る。</p>\n<p><strong>信条</strong>あなたは助けを必要としているあらゆる動物や自然の精霊を支援しなければならない。ただし、それがあなたの他の教義に違反する場合や、他の誰かを差し迫った危険にさらす場合はこの限りではない。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -51369,7 +51369,7 @@
     },
     "Journey of the Sky Chariot": {
       "name": "ジャーニー・オブ・ザ・スカイ・チャリオット/Journey of the Sky Chariot",
-      "description": "<p><strong>使用法</strong>体のイコンに付与された着用イコン</p><hr /><p>小型の翼、炎の車輪、または他の飛行の象徴があなたのイコンから生え出し、あなたを地面から持ち上げる力を得る。あなたのイコンは次の効果を得る。</p>\n<p><strong>現前</strong>あなたのイコンは意識を使わずとも浮かんでいることを維持する。このターンの終了時に、〔飛行〕アクションを使用しなくても空中に留まることができる。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.MrTULCUsE9naPxXg]{Race the Skies}</strong> <span class=\"action-glyph\">1</span> (集中,超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.MrTULCUsE9naPxXg inline]</p>",
+      "description": "<p><strong>使用法</strong>体のイコンに付与された着用イコン</p><hr /><p>小型の翼、炎の車輪、または他の飛行の象徴があなたのイコンから生え出し、あなたを地面から持ち上げる力を得る。あなたのイコンは次の効果を得る。</p>\n<p><strong>現前</strong>あなたのイコンは意識を使わずとも浮かんでいることを維持する。このターンの終了時に、〔飛行〕アクションを使用しなくても空中に留まることができる。</p>\n<p><strong>超越—@UUID[Compendium.pf2e.actionspf2e.Item.MrTULCUsE9naPxXg]{レース・ザ・スカイズ}</strong> <span class=\"action-glyph\">1</span> (集中,超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.MrTULCUsE9naPxXg inline]</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Igneogenesis": {
