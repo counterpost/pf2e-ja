@@ -89,7 +89,7 @@
       "ReduceHiddenCheck": "@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}クリーチャーを対象にするための難易度判定(フラット・判定)のDCは、わずか@Check[flat|dc:5]となる。"
     },
     "Background": {
-      "Favored": "<p><strong>使用制限</strong> 1日1回；</p><hr><p><strong>効果</strong>技能判定を再ロールする。たとえ結果が悪くなっても、必ず2回目の結果を使用しなければならない。</p>"
+      "Favored": "<p><strong>使用制限</strong> 1日1回；</p><hr><p><strong>効果</strong>スキル判定を再ロールする。たとえ結果が悪くなっても、必ず2回目の結果を使用しなければならない。</p>"
     },
     "BattleForm": {
       "AberrantForm": {
@@ -352,7 +352,7 @@
         }
       },
       "BioluminescenceBomb": {
-        "success": "<p>爆弾が爆発した場所から@Template[emanation|distance:10]{10フィート}以内の各クリーチャーは、@Check[reflex|dc:17]セーヴに成功しなければ、24時間光り続ける染料でマークされる。また、影響を受けたクリーチャーは、圧倒的な光の炸裂に対して@Check[fortitude|dc:17]のセーヴィング・スロウを行わなければならない。</p><p><strong>成功</strong>そのクリーチャーは影響を受けない。</p><p><strong>失敗</strong>そのクリーチャーは1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p><p><strong>クリティカル失敗</strong>そのクリーチャーは1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となり、その後1ラウンドの間、幻惑状態となる。</p>"
+        "success": "<p>爆弾が爆発した場所から@Template[emanation|distance:10]{10フィート}以内の各クリーチャーは、@Check[reflex|dc:17]セーヴに成功しなければ、24時間光り続ける染料でマークされる。また、影響を受けたクリーチャーは、圧倒的な光の炸裂に対して@Check[fortitude|dc:17]のセーヴィング・スローを行わなければならない。</p><p><strong>成功</strong>そのクリーチャーは影響を受けない。</p><p><strong>失敗</strong>そのクリーチャーは1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p><p><strong>クリティカル失敗</strong>そのクリーチャーは1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となり、その後1ラウンドの間、幻惑状態となる。</p>"
       },
       "BlightBomb": {
         "Greater": {
@@ -590,16 +590,16 @@
       },
       "SkunkBomb": {
         "Greater": {
-          "success": "<strong>効果</strong>爆弾が命中したクリーチャー、またはそのスプラッシュ範囲内にいるクリーチャーは、@Check[fortitude|dc:28]のセーヴィング・スロウを行わなければならない。スプラッシュ範囲内にいるクリーチャーは、自身のセーヴィング・スロウの結果を1段階良いものとして扱う。<hr><p><strong>クリティカル成功</strong>対象は影響を受けない。</p><p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。</p><p><strong>失敗</strong>対象は不調1となり、不調状態の間は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}となる。</p><p><strong>クリティカル失敗</strong>対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となり、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}となり、不調状態の間はスロウ1となる。</p>"
+          "success": "<strong>効果</strong>爆弾が命中したクリーチャー、またはそのスプラッシュ範囲内にいるクリーチャーは、@Check[fortitude|dc:28]のセーヴィング・スローを行わなければならない。スプラッシュ範囲内にいるクリーチャーは、自身のセーヴィング・スローの結果を1段階良いものとして扱う。<hr><p><strong>クリティカル成功</strong>対象は影響を受けない。</p><p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。</p><p><strong>失敗</strong>対象は不調1となり、不調状態の間は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}となる。</p><p><strong>クリティカル失敗</strong>対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となり、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}となり、不調状態の間はスロウ1となる。</p>"
         },
         "Lesser": {
-          "success": "<strong>効果</strong>爆弾が命中したクリーチャー、またはそのスプラッシュ範囲内にいるクリーチャーは、@Check[fortitude|dc:15]のセーヴィング・スロウを行わなければならない。スプラッシュ範囲内にいるクリーチャーは、自身のセーヴィング・スロウの結果を1段階良いものとして扱う。<hr><p><strong>クリティカル成功</strong>対象は影響を受けない。</p><p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。</p><p><strong>失敗</strong>対象は不調1となり、不調状態の間は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}となる。</p><p><strong>クリティカル失敗</strong>対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となり、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}となり、不調状態の間はスロウ1となる。</p>"
+          "success": "<strong>効果</strong>爆弾が命中したクリーチャー、またはそのスプラッシュ範囲内にいるクリーチャーは、@Check[fortitude|dc:15]のセーヴィング・スローを行わなければならない。スプラッシュ範囲内にいるクリーチャーは、自身のセーヴィング・スローの結果を1段階良いものとして扱う。<hr><p><strong>クリティカル成功</strong>対象は影響を受けない。</p><p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。</p><p><strong>失敗</strong>対象は不調1となり、不調状態の間は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}となる。</p><p><strong>クリティカル失敗</strong>対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となり、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}となり、不調状態の間はスロウ1となる。</p>"
         },
         "Major": {
-          "success": "<strong>効果</strong>爆弾が命中したクリーチャー、またはそのスプラッシュ範囲内にいるクリーチャーは、@Check[fortitude|dc:37]のセーヴィング・スロウを行わなければならない。スプラッシュ範囲内にいるクリーチャーは、自身のセーヴィング・スロウの結果を1段階良いものとして扱う。<hr><p><strong>クリティカル成功</strong>対象は影響を受けない。</p><p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。</p><p><strong>失敗</strong>対象は不調1となり、不調状態の間は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}となる。</p><p><strong>クリティカル失敗</strong>対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となり、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}となり、不調状態の間はスロウ1となる。</p>"
+          "success": "<strong>効果</strong>爆弾が命中したクリーチャー、またはそのスプラッシュ範囲内にいるクリーチャーは、@Check[fortitude|dc:37]のセーヴィング・スローを行わなければならない。スプラッシュ範囲内にいるクリーチャーは、自身のセーヴィング・スローの結果を1段階良いものとして扱う。<hr><p><strong>クリティカル成功</strong>対象は影響を受けない。</p><p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。</p><p><strong>失敗</strong>対象は不調1となり、不調状態の間は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}となる。</p><p><strong>クリティカル失敗</strong>対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となり、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}となり、不調状態の間はスロウ1となる。</p>"
         },
         "Moderate": {
-          "success": "<strong>効果</strong>この爆弾が命中したクリーチャー、またはそのスプラッシュ範囲内にいるクリーチャーは、@Check[fortitude|dc:17]セーヴィング・スロウを行わなければならない。スプラッシュ範囲内にいるクリーチャーは、自身のセーヴィング・スロウの結果を1段階良いものとして扱う。<hr><p><strong>クリティカル成功</strong>対象は影響を受けない。</p><p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。</p><p><strong>失敗</strong>対象は病気1となり、病気状態の間は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}となる。</p><p><strong>クリティカル失敗</strong>対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となり、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}となり、病気状態の間は減速1となる。</p>"
+          "success": "<strong>効果</strong>この爆弾が命中したクリーチャー、またはそのスプラッシュ範囲内にいるクリーチャーは、@Check[fortitude|dc:17]セーヴィング・スローを行わなければならない。スプラッシュ範囲内にいるクリーチャーは、自身のセーヴィング・スローの結果を1段階良いものとして扱う。<hr><p><strong>クリティカル成功</strong>対象は影響を受けない。</p><p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。</p><p><strong>失敗</strong>対象は病気1となり、病気状態の間は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}となる。</p><p><strong>クリティカル失敗</strong>対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となり、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}となり、病気状態の間は減速1となる。</p>"
         }
       },
       "SulfurBomb": {
@@ -691,20 +691,20 @@
       },
       "VexingVapor": {
         "Greater": {
-          "criticalSuccess": "<strong>効果</strong>この爆弾はまた、@Damage[(3[splash])[mental]]{3精神スプラッシュ・ダメージ}を与え、対象は精神集中特性を持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは1分の間持続する。",
-          "success": "<strong>効果</strong>この爆弾はまた、@Damage[(3[splash])[mental]]{3精神スプラッシュ・ダメージ}を与え、対象は精神集中特性を持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは対象の次のターンの終了時まで持続する。"
+          "criticalSuccess": "<strong>効果</strong>この爆弾はまた、@Damage[(3[splash])[mental]]{3精神スプラッシュ・ダメージ}を与え、対象は精神集中トレイトを持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは1分の間持続する。",
+          "success": "<strong>効果</strong>この爆弾はまた、@Damage[(3[splash])[mental]]{3精神スプラッシュ・ダメージ}を与え、対象は精神集中トレイトを持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは対象の次のターンの終了時まで持続する。"
         },
         "Lesser": {
-          "criticalSuccess": "<strong>効果</strong>この爆弾はまた、@Damage[(1[splash])[mental]]{1精神スプラッシュ・ダメージ}を与え、対象は精神集中特性を持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは1分間持続する。",
-          "success": "<strong>効果</strong>この爆弾はまた、@Damage[(1[splash])[mental]]{1精神スプラッシュ・ダメージ}を与え、対象は精神集中特性を持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは対象の次のターンの終了時まで持続する。"
+          "criticalSuccess": "<strong>効果</strong>この爆弾はまた、@Damage[(1[splash])[mental]]{1精神スプラッシュ・ダメージ}を与え、対象は精神集中トレイトを持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは1分間持続する。",
+          "success": "<strong>効果</strong>この爆弾はまた、@Damage[(1[splash])[mental]]{1精神スプラッシュ・ダメージ}を与え、対象は精神集中トレイトを持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは対象の次のターンの終了時まで持続する。"
         },
         "Major": {
-          "criticalSuccess": "<strong>効果</strong>この爆弾はまた、@Damage[(4[splash])[mental]]{4精神スプラッシュ・ダメージ}を与え、対象は精神集中特性を持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは1分間持続する。",
-          "success": "<strong>効果</strong>この爆弾はまた、@Damage[(4[splash])[mental]]{4精神スプラッシュ・ダメージ}を与え、対象は精神集中特性を持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは対象の次のターンの終了時まで持続する。"
+          "criticalSuccess": "<strong>効果</strong>この爆弾はまた、@Damage[(4[splash])[mental]]{4精神スプラッシュ・ダメージ}を与え、対象は精神集中トレイトを持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは1分間持続する。",
+          "success": "<strong>効果</strong>この爆弾はまた、@Damage[(4[splash])[mental]]{4精神スプラッシュ・ダメージ}を与え、対象は精神集中トレイトを持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは対象の次のターンの終了時まで持続する。"
         },
         "Moderate": {
-          "criticalSuccess": "<strong>効果</strong>この爆弾はまた、@Damage[(2[splash])[mental]]{2精神スプラッシュ・ダメージ}を与え、対象は精神集中特性を持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは1分間持続する。",
-          "success": "<strong>効果</strong>この爆弾はまた、@Damage[(2[splash])[mental]]{2精神スプラッシュ・ダメージ}を与え、対象は精神集中特性を持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは対象の次のターンの終了時まで持続する。"
+          "criticalSuccess": "<strong>効果</strong>この爆弾はまた、@Damage[(2[splash])[mental]]{2精神スプラッシュ・ダメージ}を与え、対象は精神集中トレイトを持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは1分間持続する。",
+          "success": "<strong>効果</strong>この爆弾はまた、@Damage[(2[splash])[mental]]{2精神スプラッシュ・ダメージ}を与え、対象は精神集中トレイトを持つアクションを行う前に@Check[flat|dc:5]に成功しなければならない。これは対象の次のターンの終了時まで持続する。"
         }
       },
       "WaterBomb": {
@@ -2404,7 +2404,7 @@
       },
       "PathRiverPeeler": {
         "SensitiveEars": {
-          "Note": "ピーラーが音波ダメージを受けるたび、それは@Check[will|dc:16|options:inflicts:frightened]のセーヴィング・スロウに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}(大失敗なら@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2})となる。"
+          "Note": "ピーラーが音波ダメージを受けるたび、それは@Check[will|dc:16|options:inflicts:frightened]のセーヴィング・スローに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}(大失敗なら@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2})となる。"
         }
       },
       "PeacockPhoenix": {
@@ -2650,7 +2650,7 @@
           "Name": "合言葉"
         },
         "SkillSavvy": {
-          "Name": "スキル(技能)の才覚"
+          "Name": "スキル(スキル)の才覚"
         },
         "TagTeam": {
           "Name": "タッグチーム"
@@ -2767,7 +2767,7 @@
         "InspireEnvoyEffectAC": "ACへのボーナス",
         "InspireEnvoyEffectAttack": "攻撃へのボーナス",
         "InspireEnvoyEffectChoice": "付与された効果",
-        "InspireEnvoyEffectPercWillCha": "意志セーヴ、《知覚》、および魅力基準の技能判定へのボーナス"
+        "InspireEnvoyEffectPercWillCha": "意志セーヴ、《知覚》、および魅力基準のスキル判定へのボーナス"
       },
       "SpawnOfRovagug": {
         "AbsoluteRegeneration": {
@@ -2851,7 +2851,7 @@
         "MedicalMalpracticeCriticalSuccess": "医療過誤(クリティカル成功)"
       },
       "SwarmingBites": {
-        "Note": "この影響を受けている間にあなたが精神集中または操作アクションを行おうとする場合、あなたは@Check[flat|dc:5|name:Swarming Bites|showDC:all]に成功しなければならず、失敗するとそのアクションは失われる。この判定はアクションを消費した後、効果が適用される前にロールすること。"
+        "Note": "この影響を受けている間にあなたが精神集中または手作業アクションを行おうとする場合、あなたは@Check[flat|dc:5|name:Swarming Bites|showDC:all]に成功しなければならず、失敗するとそのアクションは失われる。この判定はアクションを消費した後、効果が適用される前にロールすること。"
       },
       "SwarmStrider": {
         "ClingingRemnants": {
@@ -2915,7 +2915,7 @@
       },
       "ToothFairy": {
         "ToothTug": {
-          "Note": "その呪文が「無詠唱」特性を持っていない限り、あなたは〈呪文の発動〉を行うために@Check[flat|dc:5|showDC:all]に成功しなければならない。"
+          "Note": "その呪文が「無詠唱」トレイトを持っていない限り、あなたは〈呪文の発動〉を行うために@Check[flat|dc:5|showDC:all]に成功しなければならない。"
         }
       },
       "TreerazerPlantAttack": "植物への攻撃",
@@ -3344,8 +3344,8 @@
         "NonTrivialEncounter": "意味のある遭遇において"
       },
       "Bones": {
-        "MajorUpgrade": "あなたが病気、毒、または即死効果に対するセーヴィング・スロウで大失敗をロールしたとき、あなたは代わりに失敗を得る。",
-        "ModerateUpgrade": "あなたが病気、毒、または即死効果に対するセーヴィング・スロウで成功をロールしたとき、あなたは代わりに大成功を得る。"
+        "MajorUpgrade": "あなたが病気、毒、または即死効果に対するセーヴィング・スローで大失敗をロールしたとき、あなたは代わりに失敗を得る。",
+        "ModerateUpgrade": "あなたが病気、毒、または即死効果に対するセーヴィング・スローで成功をロールしたとき、あなたは代わりに大成功を得る。"
       },
       "Label": {
         "Extreme": "極限",
@@ -3359,7 +3359,7 @@
         "ToggleLabel": "ヒールのすべての対象が生存クリーチャーである"
       },
       "Time": {
-        "ACLabel": "移動中の反応アクションまたは自由アクションに対する防御",
+        "ACLabel": "移動中の反応アクションまたはフリー・アクションに対する防御",
         "DefendAgainstLabel": "激動の瞬間の呪い — 防御ペナルティ"
       }
     },
@@ -4203,8 +4203,8 @@
       },
       "Android": {
         "ConsistentSurge": "あなたは「ナナイトの急増」を1時間に1回ではなく、10分に1回の頻度で使用できる。",
-        "OffensiveSubroutine": "あなたは技能判定を行うときではなく、攻撃ロールを行うときに「ナナイトの急増」を起動することを選択できる。そうした場合、あなたはトリガーとなった攻撃ロールに＋1の状況ボーナスを得る。",
-        "ProtectiveSubroutine": "あなたは技能判定を行うときではなく、セーヴィング・スロウを行うときに「ナナイトの急増」を起動することを選択できる。そうした場合、あなたはトリガーとなったセーヴィング・スロウに＋2の状況ボーナスを得る。"
+        "OffensiveSubroutine": "あなたはスキル判定を行うときではなく、攻撃ロールを行うときに「ナナイトの急増」を起動することを選択できる。そうした場合、あなたはトリガーとなった攻撃ロールに＋1の状況ボーナスを得る。",
+        "ProtectiveSubroutine": "あなたはスキル判定を行うときではなく、セーヴィング・スローを行うときに「ナナイトの急増」を起動することを選択できる。そうした場合、あなたはトリガーとなったセーヴィング・スローに＋2の状況ボーナスを得る。"
       },
       "AnimalForm": {
         "Ape": "エイプ",
@@ -4247,7 +4247,7 @@
         }
       },
       "AquaticCombat": {
-        "FireNote": "あなたは水中では火炎呪文を発動できず、火炎特性を持つアクションを使用できない。",
+        "FireNote": "あなたは水中では火炎呪文を発動できず、火炎トレイトを持つアクションを使用できない。",
         "RangedNote": "水中のクリーチャーが行う、または水中の対象に対して行われる遠隔攻撃は、その射程段階が半分になる。"
       },
       "Archfiend": {
@@ -4286,7 +4286,7 @@
         },
         "ScouringSpark": {
           "DamageReceivedNote": "素手の近接攻撃、または間合いを持たない近接武器であなたにダメージを与えたクリーチャーは、@Damage[3d6[fire]]ダメージを受ける。",
-          "DoubleDamageNote": "この特技によるダメージは、異形、フィーンド、またはアンデッドの特性を持つクリーチャーに対しては2倍になる。"
+          "DoubleDamageNote": "この特技によるダメージは、異形、フィーンド、またはアンデッドのトレイトを持つクリーチャーに対しては2倍になる。"
         }
       },
       "Assassin": {
@@ -4435,7 +4435,7 @@
           "CriticalSuccess": "錬金術の毒、薬物、または中毒に対して、大成功するたびに段階が3減少する。",
           "CriticalSuccessVirulent": "劇物の錬金術の毒、薬物、または中毒に対して、大成功するたびに段階が2減少する。",
           "Success": "錬金術の毒、薬物、または中毒に対するあなたのセーヴィング・スローが成功するたびに、段階が2減少する。",
-          "SuccessVirulent": "毒性の高い錬金術の毒、薬物、または依存症に対するあなたのセービング・スローが成功するたびに、段階が1減少する。"
+          "SuccessVirulent": "毒性の高い錬金術の毒、薬物、または依存症に対するあなたのセーヴィング・スローが成功するたびに、段階が1減少する。"
         },
         "Ligneous": {
           "ToggleLabel": "木化のレイジ"
@@ -4456,7 +4456,7 @@
         },
         "Superstition": {
           "RagingResistance": {
-            "Prompt": "関連する魔法の伝統を選択する。",
+            "Prompt": "関連する魔法の系統を選択する。",
             "ResistanceLabels": {
               "ArcaneAndOccult": "アーケインおよびオカルト呪文",
               "ArcaneAndPrimal": "アーケインおよびプライマル呪文",
@@ -4516,7 +4516,7 @@
             "Label": "キメラの頭部"
           },
           "EnergyAegis": {
-            "Description": "あなたの合一した相棒は、危険なエネルギーから保護される。あなたの合一した相棒は、あなたが選択した酸、冷気、電撃、火炎のうち1つに対して免疫となる。あなたの相棒は、リストされた系統特性を持つクリーチャーを起点とする、あるいはリストされた系統特性を持つ効果や呪文に対する、ACとセーヴィング・スローに＋1の状況ボーナスを得る。あなたが合一した相棒に「命令」する際、ミシック・ポイントを1ポイント消費することで、あなたの合一した相棒は、精神集中系統特性を持つ単一のアクションを行い、これらの同様の恩恵を、自身に隣接するすべてのクリーチャーにあなたの次のターン開始時まで及ぼすことができる。",
+            "Description": "あなたの合一した相棒は、危険なエネルギーから保護される。あなたの合一した相棒は、あなたが選択した酸、冷気、電撃、火炎のうち1つに対して免疫となる。あなたの相棒は、リストされた系統トレイトを持つクリーチャーを起点とする、あるいはリストされた系統トレイトを持つ効果や呪文に対する、ACとセーヴィング・スローに＋1の状況ボーナスを得る。あなたが合一した相棒に「命令」する際、ミシック・ポイントを1ポイント消費することで、あなたの合一した相棒は、精神集中系統トレイトを持つ単一のアクションを行い、これらの同様の恩恵を、自身に隣接するすべてのクリーチャーにあなたの次のターン開始時まで及ぼすことができる。",
             "Label": "エネルギー・イージス"
           },
           "MagnificentFlight": {
@@ -4538,7 +4538,7 @@
         }
       },
       "BlessingOfDefiance": {
-        "Prompt": "セーヴィング・スロウを1つ選択する。"
+        "Prompt": "セーヴィング・スローを1つ選択する。"
       },
       "BlinkCharge": {
         "Note": {
@@ -4640,10 +4640,10 @@
           "Activation": "あなたが@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}または@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁}である場合、その効果がセーヴィング・スローを許容するものであれば、効果を終了させるための一回追加のセーヴィング・スローを試みることができる。",
           "Description": "あなたの強い驚異の念は、他者に伝染し、気を散らせるものとなり得る。",
           "Fallout": "あなたは感情を落ち着かせるまで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。",
-          "Fervor": "あなたが呪文を唱えたとき、あなたの呪文攻撃ロールが命中した、またはその呪文のセーヴィング・スロウに失敗したクリーチャーが(もし存在すれば)1体選択する。そのクリーチャーは、自身の次のターンの終了時まであなたに対して魅了状態となる。その後、そのクリーチャーは1時間の間、この熱狂効果に対して一時的な免疫となる。呪文：@UUID[Compendium.pf2e.spells-srd.Item.0qaqksrGGDj74HXE]{リヴィーリング・ライト}",
+          "Fervor": "あなたが呪文を唱えたとき、あなたの呪文攻撃ロールが命中した、またはその呪文のセーヴィング・スローに失敗したクリーチャーが(もし存在すれば)1体選択する。そのクリーチャーは、自身の次のターンの終了時まであなたに対して魅了状態となる。その後、そのクリーチャーは1時間の間、この熱狂効果に対して一時的な免疫となる。呪文：@UUID[Compendium.pf2e.spells-srd.Item.0qaqksrGGDj74HXE]{リヴィーリング・ライト}",
           "Focus": "@UUID[Compendium.pf2e.spells-srd.Item.zul5cBTfr7NXHBZf]{ダズリング・フラッシュ}(聖印を必要としない)",
           "Label": "畏敬",
-          "Trigger": "あなたまたは30フィート以内にいる味方が、敵のACに対する攻撃ロール、または敵の難易度の1つに対する技能判定で大成功を収める。"
+          "Trigger": "あなたまたは30フィート以内にいる味方が、敵のACに対する攻撃ロール、または敵の難易度の1つに対するスキル判定で大成功を収める。"
         },
         "Dedication": {
           "Activation": "あなたの感情のフォーカスは、あなたのレベルの半分(端数切り上げ)に等しい値の一時的ヒット・ポイントを得る。この一時的HPは1分持続する。",
@@ -4682,7 +4682,7 @@
           "Trigger": "あなたが攻撃ロールやセーヴィング・スローで大成功を収めるか、敵があなたに対するセーヴィング・スローで大失敗する。"
         },
         "Love": {
-          "Activation": "あなたかあなたの「感情のフォーカス」のいずれかが@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}または@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}状態である場合、そのうちの1人は混乱または支配効果(セーヴが可能であった場合)の1つに対して新たなセーヴィング・スロウを行うことができ、新しいセーヴが成功すればその状態は終了する。両者ともに対象となる場合、あなたの「感情のフォーカス」が新しいセーヴを行う。",
+          "Activation": "あなたかあなたの「感情のフォーカス」のいずれかが@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}または@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}状態である場合、そのうちの1人は混乱または支配効果(セーヴが可能であった場合)の1つに対して新たなセーヴィング・スローを行うことができ、新しいセーヴが成功すればその状態は終了する。両者ともに対象となる場合、あなたの「感情のフォーカス」が新しいセーヴを行う。",
           "Description": "あなたは愛の絆で結ばれており、何ものもそれを壊すことはできないが、愛はあなたの人生における他の事柄からあなたの気を散らすことがある。あなたの「感情のフォーカス」はあなたが愛している誰かであり、相手があなたを愛し返している必要はない。",
           "Fallout": "あなたは1分の間、自身の感情の焦点に@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}状態となる。",
           "Fervor": "あなたは意志セーヴに＋1の状況ボーナスを得る。あなたが「感情のフォーカス」に恩恵をもたらす呪文を発動した場合、このボーナスはあなたの次のターン開始時まで＋3に増加する。呪文：@UUID[Compendium.pf2e.spells-srd.Item.szIyEsvihc5e1w8n]{Soothe}",
@@ -4704,10 +4704,10 @@
           "Activation": "大失敗は失敗になる。",
           "Description": "あなたが元気そうに見える限りはすべて順調だが、あなたはその瞬間に夢中になり、何が重要かを見失ってしまう。",
           "Fallout": "あなたは一時的に何が現実かを見失い、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態になる。呪文：@UUID[Compendium.pf2e.spells-srd.Item.j8vIoIEWElvpwkcI]{Mirror Image}",
-          "Fervor": "あなたが幻術呪文を発動するたび、あなたの次のターン開始時まで、あなたが攻撃ロールまたはセーヴィング・スロウで行った大失敗は、代わりに失敗となる。呪文：@UUID[Compendium.pf2e.spells-srd.Item.UKsIOWmMx4hSpafl]{Dizzying Colors}",
+          "Fervor": "あなたが幻術呪文を発動するたび、あなたの次のターン開始時まで、あなたが攻撃ロールまたはセーヴィング・スローで行った大失敗は、代わりに失敗となる。呪文：@UUID[Compendium.pf2e.spells-srd.Item.UKsIOWmMx4hSpafl]{Dizzying Colors}",
           "Focus": "@UUID[Compendium.pf2e.spells-srd.Item.Q25JQAgnJSGgFDKZ]{Veil of Confidence}",
           "Label": "傲慢",
-          "Trigger": "あなたが攻撃ロールまたはセーヴィング・スロウで大失敗する。"
+          "Trigger": "あなたが攻撃ロールまたはセーヴィング・スローで大失敗する。"
         },
         "Remorse": {
           "Activation": "あなたは〈ステップ〉または〈ストライド〉を行う。あなたはこの移動を、トリガーとなった味方により近い位置で終了しなければならない。",
@@ -4811,11 +4811,11 @@
         }
       },
       "ChangeShape": {
-        "Anadi": "あなたは人間またはクモの形態に変化する。それぞれの形態は、特定の固定された外見を持つ。人間の形態では、あなたの祖先から得られた素手攻撃を使用できない。クモの形態で登攀している間、あなたは体勢を崩さない。しかし、クモの形態では、武器、盾、またはその他のいかなる保持するアイテムも使用できず、操作の特性を持つアクションで行えるものが制限される。あなたが行うことができる唯一の操作アクションは、動作要素を伴う@UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{〈呪文の発動〉}、絹やクモの巣を紡ぐこと、または鍵のかかっていない扉を開けるなどの単純な@UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{〈扱う〉}アクションのみである。あなたのクモの脚は、指や高度な手先の器用さを必要とするアクションを行うことはできず、これには達成するために判定が必要となるあらゆるアクションが含まれる。GMは、あなたのクモの脚に適した他の操作アクションを決定してもよい。",
-        "Beastkin": "あなたは人型生物またはハイブリッドの形態に変化する。それぞれの形態は特定の固定された外見を持ち、ほとんどのビーストキンはデフォルトでハイブリッドの形態を維持する。ハイブリッドの形態では、あなたは祖先と固有の動物が混ざり合った姿になる。ハイブリッドの形態の間、あなたは固有の動物の特徴に類似した顎の素手〈ストライク〉(コウモリなら牙、ワシなら嘴、ハチなら大顎など)を得る。あなたの顎は1d4の刺突ダメージを与え、アジャイル、フィネス、素手の特性を持ち、剛腕の武器種に属する。人型生物の形態では、あなたは元の祖先の外見を維持する。",
+        "Anadi": "あなたは人間またはクモの形態に変化する。それぞれの形態は、特定の固定された外見を持つ。人間の形態では、あなたの祖先から得られた素手攻撃を使用できない。クモの形態で登攀している間、あなたは体勢を崩さない。しかし、クモの形態では、武器、盾、またはその他のいかなる保持するアイテムも使用できず、手作業のトレイトを持つアクションで行えるものが制限される。あなたが行うことができる唯一の手作業アクションは、動作要素を伴う@UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{〈呪文の発動〉}、絹やクモの巣を紡ぐこと、または鍵のかかっていない扉を開けるなどの単純な@UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{〈扱う〉}アクションのみである。あなたのクモの脚は、指や高度な手先の器用さを必要とするアクションを行うことはできず、これには達成するために判定が必要となるあらゆるアクションが含まれる。GMは、あなたのクモの脚に適した他の手作業アクションを決定してもよい。",
+        "Beastkin": "あなたは人型生物またはハイブリッドの形態に変化する。それぞれの形態は特定の固定された外見を持ち、ほとんどのビーストキンはデフォルトでハイブリッドの形態を維持する。ハイブリッドの形態では、あなたは祖先と固有の動物が混ざり合った姿になる。ハイブリッドの形態の間、あなたは固有の動物の特徴に類似した顎の素手〈ストライク〉(コウモリなら牙、ワシなら嘴、ハチなら大顎など)を得る。あなたの顎は1d4の刺突ダメージを与え、アジャイル、フィネス、素手のトレイトを持ち、剛腕の武器種に属する。人型生物の形態では、あなたは元の祖先の外見を維持する。",
         "Kitsune": "あなたは自身の伝承によって決定される特定の代替形態に変身する。もしあなたの伝承に形態が記載されていない場合、あなたの代替形態は尾のない形態であり、これはあなたが育った場所で一般的な中型の人型生物の祖先(通常は人間)となる。この形態は、あなたの真の形態と同じ年齢および体型であり、髪の色など、ほぼ類似した身体的特徴を持つ。「形態変化」を使用することは、《欺瞞》の@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}の使用において変装を作り出すこととして扱われる。この形態では、キツネの伝承やアンセストラル特技から得た素手〈ストライク〉をすべて失う。あなたは無期限に代替形態にとどまることができ、このアクションを再度使用することで真のキツネの形態に戻ることができる。",
         "Tanuki": "あなたは一般的なタヌキに変身することができ、@UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{Pest Form}のデータを使用する。これはあなたの真の形態と同じ年齢および体型であり、髪の色など、ほぼ類似した身体的特徴を持つ特定のタヌキの形態である。「形態変化」を使用することは、《欺瞞》の@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}の使用において変装を作り出すこととして扱われる。この形態では、タヌキの伝承やアンセストラル特技から得た素手〈ストライク〉をすべて失う。あなたは無期限にタヌキの形態にとどまることができ、このアクションを再度使用することでタヌキの形態に戻ることができる。",
-        "Werecreature": "あなたはハイブリッドまたは動物の形態に変身する。あなたの装備はあなたと一緒に変化し、ボーナスを提供し続けるが、動物の形態では武器、盾、またはその他の保持するアイテムを使用できず、操作アクションも使用できない。あなたはウェアクリーチャーの種別に基づいて、移動速度、素手攻撃、そして場合によってはその他の能力を得る。これらの素手攻撃は剛腕グループに属する。あなたは効果を〈解除〉して人型生物の形態に戻ることができ、ヒット・ポイントが0に減少した場合は自動的に人型生物の形態に戻る。",
+        "Werecreature": "あなたはハイブリッドまたは動物の形態に変身する。あなたの装備品はあなたと一緒に変化し、ボーナスを提供し続けるが、動物の形態では武器、盾、またはその他の保持するアイテムを使用できず、手作業アクションも使用できない。あなたはウェアクリーチャーの種別に基づいて、移動速度、素手攻撃、そして場合によってはその他の能力を得る。これらの素手攻撃は剛腕グループに属する。あなたは効果を〈解除〉して人型生物の形態に戻ることができ、ヒット・ポイントが0に減少した場合は自動的に人型生物の形態に戻る。",
         "Yaoguai": "あなたは真のヤオグアイの形態から、またはその形態へと、あなたが生まれた場所で一般的な中型の人型生物の祖先(通常は人間)である人型生物の代替形態に変身する。この形態は、あなたのヤオグアイの形態と見かけの年齢および体型が同じであり、髪の色など、ほぼ類似した身体的特徴を持つ。「形態変化」を使用することは、《欺瞞》の@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}の使用において変装を作り出すこととして扱われる。あなたは人型生物の形態に無期限にとどまることができるが、気絶してから1時間、または死亡してから1分が経過すると、ヤオグアイの形態に戻る。"
       },
       "CharmOfResistance": {
@@ -4877,57 +4877,57 @@
         "StabilizeLabel": "時間流の安定化"
       },
       "ClanWeapon": {
-        "ClanPistol": "クラン・ピストル(アンセストリー特技)",
+        "ClanPistol": "クラン・ピストル(アンセストラル特技)",
         "Label": "クラン・武器",
         "Prompt": "クラン武器を選択する。"
       },
       "ClassFeatures": {
         "FortitudeExpertise": {
           "animist": {
-            "Description": "精神エネルギーがあなたの肉体を強化し、より打たれ強くする。あなたの頑健セービング・スローの熟練度は専門家になる。"
+            "Description": "精神エネルギーがあなたの肉体を強化し、より打たれ強くする。あなたの頑健セーヴィング・スローの熟練度は専門家になる。"
           },
           "bard": {
-            "Description": "あなたの体格は冒険の中で頑健に成長した。あなたの頑健セービング・スローの熟練度は専門家になる。"
+            "Description": "あなたの体格は冒険の中で頑健に成長した。あなたの頑健セーヴィング・スローの熟練度は専門家になる。"
           },
           "commander": {
-            "Description": "あなたの体格は冒険の中で頑健に成長した。あなたの頑健セービング・スローの熟練度は専門家になる。"
+            "Description": "あなたの体格は冒険の中で頑健に成長した。あなたの頑健セーヴィング・スローの熟練度は専門家になる。"
           },
           "druid": {
-            "Description": "冒険によってあなたの体格はより頑健になった。あなたの頑健セービング・スローの熟練度は専門家になる。"
+            "Description": "冒険によってあなたの体格はより頑健になった。あなたの頑健セーヴィング・スローの熟練度は専門家になる。"
           },
           "investigator": {
-            "Description": "あなたの体格は冒険の中で頑健に成長した。あなたの頑健セービング・スローの熟練度は専門家になる。"
+            "Description": "あなたの体格は冒険の中で頑健に成長した。あなたの頑健セーヴィング・スローの熟練度は専門家になる。"
           },
           "psychic": {
-            "Description": "あなたの精神は、潜在意識下にあるあなた自身の精神的イメージに肉体を留めている。あなたの頑健セービング・スローの熟練度は専門家になる。"
+            "Description": "あなたの精神は、潜在意識下にあるあなた自身の精神的イメージに肉体を留めている。あなたの頑健セーヴィング・スローの熟練度は専門家になる。"
           },
           "swashbuckler": {
-            "Description": "あなたの体格は冒険の中で頑健に成長した。あなたの頑健セービング・スローの熟練度は専門家になる。"
+            "Description": "あなたの体格は冒険の中で頑健に成長した。あなたの頑健セーヴィング・スローの熟練度は専門家になる。"
           }
         },
         "Juggernaut": {
           "barbarian": {
-            "Description": "あなたの肉体は肉体的な苦難に慣れており、病気への耐性がある。あなたの頑健セービング・スローの熟練度は達人になる。あなたが頑健セーヴで成功をロールした時、代わりに大成功を得る。"
+            "Description": "あなたの肉体は肉体的な苦難に慣れており、病気への耐性がある。あなたの頑健セーヴィング・スローの熟練度は達人になる。あなたが頑健セーヴで成功をロールした時、代わりに大成功を得る。"
           },
           "gunslinger": {
-            "Description": "あなたの肉体は肉体的な危険に慣れており、病気への耐性がある。あなたの頑健セービング・スローの熟練度は達人になる。あなたが頑健セーヴで成功をロールした時、代わりに大成功を得る。"
+            "Description": "あなたの肉体は肉体的な危険に慣れており、病気への耐性がある。あなたの頑健セーヴィング・スローの熟練度は達人になる。あなたが頑健セーヴで成功をロールした時、代わりに大成功を得る。"
           },
           "inventor": {
-            "Description": "あなたの肉体は肉体的な苦難に慣れており、病気への耐性がある。あなたの頑健セービング・スローの熟練度は達人になる。あなたが頑健セーヴで成功をロールした時、代わりに大成功を得る。"
+            "Description": "あなたの肉体は肉体的な苦難に慣れており、病気への耐性がある。あなたの頑健セーヴィング・スローの熟練度は達人になる。あなたが頑健セーヴで成功をロールした時、代わりに大成功を得る。"
           },
           "magus": {
-            "Description": "あなたの肉体は肉体的な苦難に慣れており、幅広い病気への耐性がある。あなたの頑健セービング・スローの熟練度は達人になる。あなたが頑健セーヴで成功をロールした時、代わりに大成功を得る。"
+            "Description": "あなたの肉体は肉体的な苦難に慣れており、幅広い病気への耐性がある。あなたの頑健セーヴィング・スローの熟練度は達人になる。あなたが頑健セーヴで成功をロールした時、代わりに大成功を得る。"
           },
           "thaumaturge": {
-            "Description": "あなたの肉体は肉体的な苦難に慣れており、病気への耐性がある。あなたの頑健セービング・スローの熟練度は達人になる。あなたが頑健セーヴで成功をロールした時、代わりに大成功を得る。"
+            "Description": "あなたの肉体は肉体的な苦難に慣れており、病気への耐性がある。あなたの頑健セーヴィング・スローの熟練度は達人になる。あなたが頑健セーヴで成功をロールした時、代わりに大成功を得る。"
           }
         },
         "MagicalFortitude": {
           "oracle": {
-            "Description": "魔法な力があなたの肉体の回復力を向上させた。あなたの頑健セービング・スローの熟練度は専門家になる。"
+            "Description": "魔法な力があなたの肉体の回復力を向上させた。あなたの頑健セーヴィング・スローの熟練度は専門家になる。"
           },
           "sorcerer": {
-            "Description": "魔法な力があなたの肉体の回復力を向上させた。あなたの頑健セービング・スローの熟練度は専門家になる。"
+            "Description": "魔法な力があなたの肉体の回復力を向上させた。あなたの頑健セーヴィング・スローの熟練度は専門家になる。"
           },
           "witch": {
             "Description": "あなたのパトロンの力が、あなたの肉体的な回復力を高める。あなたの頑健セーヴの熟練ランクは専門家に上昇する。"
@@ -5112,7 +5112,7 @@
           "DivineFont": "神格の源泉で@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ハーム}や@UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz]{ヒール}の呪文を準備する代わりに、あなたは戦の源泉を得る。これにより、あなたは戦のオーラ呪文を準備できるようになる。あなたは毎日、自身の最も高いランクのクレリック呪文スロットに加えて、4つの追加の呪文スロットを得る。これらのスロットには、@UUID[Compendium.pf2e.spells-srd.Item.7ZinJNzxq0XF0oMx]{ベイン}または@UUID[Compendium.pf2e.spells-srd.Item.XSujb7EsSwKl19Uu]{ブレス}のみを準備できる。戦のオーラを参照するあらゆる特技や効果は、それらがあなたの通常の呪文スロットでキャストされたか、神格の源泉の呪文スロットでキャストされたかに関わらず、これらの呪文を参照する。5レベル時点で追加のスロットの数は5に増加し、15レベル時点で追加のスロットの総数は6に増加する。あなたの戦のオーラは、呪文DCの代わりにクラスDCを使用する。"
         },
         "CastigatingWeapon": {
-          "Note": "あなたがディバインの「懲罰」によって精神ダメージを与えた後、あなたの武器または素手による〈ストライク〉はホーリーまたはアンホーリーの特性を得て、追加の精神ダメージを与えるあなたのターン終了時まで。@UUID[Compendium.pf2e.feat-effects.Item.BTI4obxa5UmNltyU]{効果：懲罰の武器}"
+          "Note": "あなたがディバインの「懲罰」によって精神ダメージを与えた後、あなたの武器または素手による〈ストライク〉はホーリーまたはアンホーリーのトレイトを得て、追加の精神ダメージを与えるあなたのターン終了時まで。@UUID[Compendium.pf2e.feat-effects.Item.BTI4obxa5UmNltyU]{効果：懲罰の武器}"
         },
         "ChannelingBlock": {
           "Description": "あなたは決死の防衛に神格のエネルギーを注ぎ込む。あなたが〈シールド・ブロック〉を行う際、あなたはハームまたはヒール呪文を1つ消費できる。その呪文のランクごとに1d8をロールし、このブロックにおいて盾の硬度をその合計値だけ増加させる。"
@@ -5138,7 +5138,7 @@
           "Prompt": "ディバインの源泉を選択する。"
         },
         "DivineRebuttal": {
-          "Note": "あなたの〈ストライク〉がヒットした場合、あなたのすべての味方はトリガーとなったセーヴィング・スロウに＋2の状況ボーナス(クリティカルヒットの場合は＋3の状況ボーナス)を得る。@UUID[Compendium.pf2e.feat-effects.Item.jMQi2kDirzGgddti]{効果：ディバインの反駁}"
+          "Note": "あなたの〈ストライク〉がヒットした場合、あなたのすべての味方はトリガーとなったセーヴィング・スローに＋2の状況ボーナス(クリティカルヒットの場合は＋3の状況ボーナス)を得る。@UUID[Compendium.pf2e.feat-effects.Item.jMQi2kDirzGgddti]{効果：ディバインの反駁}"
         },
         "Doctrine": {
           "AllowedDrops": "1レベルのクレリックのクラス特徴",
@@ -5160,8 +5160,8 @@
           "Note": "あなたは、その呪文から同じ量だけ回復させるために、2体目の同意するクリーチャーを対象にできる。このクリーチャーは、あなたがヒットした敵に隣接している限り、呪文の射程外にいてもよい。"
         },
         "SacredGround": {
-          "Harmful": "丸々10分の間その範囲に留まったクリーチャーは、あなたのレベルに等しい@Damage[(@actor.level)[void,healing]|traits:healing,void]{ヒット・ポイント}を回復する。このアクティビティは回復と虚無の特性を持ち、アンデッド・クリーチャー(または虚無回復を持つその他のクリーチャー)を回復させる。",
-          "Healing": "丸々10分の間その範囲に留まったクリーチャーは、あなたのレベルに等しい@Damage[(@actor.level)[vitality,healing]|traits:healing,vitality]{ヒット・ポイント}を回復する。このアクティビティは回復と生命力の特性を持ち、生きているクリーチャーを回復させる。"
+          "Harmful": "丸々10分の間その範囲に留まったクリーチャーは、あなたのレベルに等しい@Damage[(@actor.level)[void,healing]|traits:healing,void]{ヒット・ポイント}を回復する。このアクティビティは回復と虚無のトレイトを持ち、アンデッド・クリーチャー(または虚無回復を持つその他のクリーチャー)を回復させる。",
+          "Healing": "丸々10分の間その範囲に留まったクリーチャーは、あなたのレベルに等しい@Damage[(@actor.level)[vitality,healing]|traits:healing,vitality]{ヒット・ポイント}を回復する。このアクティビティは回復と生命力のトレイトを持ち、生きているクリーチャーを回復させる。"
         },
         "SapLife": {
           "Note": "あなたが<em>ハーム</em>の呪文を発動し、少なくとも1体の生きているクリーチャーにダメージを与えたとき、あなたは@Damage[(@item.rank)[healing]]のヒット・ポイントを回復する。"
@@ -5211,7 +5211,7 @@
           "Prompt": "素手攻撃を選択する。"
         },
         "RiteOfPassage": {
-          "Note": "あなたが森林内の狭い足場や平坦でない地面の上で〈バランスを取る〉ために《軽業》技能を使用し、判定で成功を収めた場合、あなたは代わりに大成功を得る。"
+          "Note": "あなたが森林内の狭い足場や平坦でない地面の上で〈バランスを取る〉ために《軽業》スキルを使用し、判定で成功を収めた場合、あなたは代わりに大成功を得る。"
         }
       },
       "ContinualRecovery": {
@@ -5220,7 +5220,7 @@
       "Copaxi": {
         "AggressiveAntlersStrike": "枝角",
         "RepurposeMysticPower": {
-          "Note": "|||あなたが呪文または魔法効果に対するセーヴィング・スロウに成功するたびに、あなたは呪文のランクの2倍に等しい一時的ヒット・ポイントを獲得する。それが呪文でない場合は、その魔法効果のレベルに等しい一時的ヒット・ポイントを獲得する。この一時的ヒット・ポイントはあなたの次のターン終了時まで持続する。|||"
+          "Note": "|||あなたが呪文または魔法効果に対するセーヴィング・スローに成功するたびに、あなたは呪文のランクの2倍に等しい一時的ヒット・ポイントを獲得する。それが呪文でない場合は、その魔法効果のレベルに等しい一時的ヒット・ポイントを獲得する。この一時的ヒット・ポイントはあなたの次のターン終了時まで持続する。|||"
         }
       },
       "Convergent": {
@@ -5414,7 +5414,7 @@
           "RollOptionLabel": "大地の心臓 — 精確な振動感知を使用する"
         },
         "LingeringBreath": {
-          "Description": "あなたが「Breath of theドラゴン」を使用したとき、あなたのブレスのエリアは1分の間、困難地形となる。さらに、セーヴィング・スロウに失敗または大失敗したクリーチャーは、同じ種別の@Damage[2d6[persistent,@actor.flags.system.dragonblood.damageType]]ダメージを受ける。"
+          "Description": "あなたが「Breath of theドラゴン」を使用したとき、あなたのブレスのエリアは1分の間、困難地形となる。さらに、セーヴィング・スローに失敗または大失敗したクリーチャーは、同じ種別の@Damage[2d6[persistent,@actor.flags.system.dragonblood.damageType]]ダメージを受ける。"
         },
         "ScalyHide": {
           "BracersOfArmor": "鱗の〈隠れる〉(Bracers of鎧着用時)",
@@ -5425,12 +5425,12 @@
       "Dragonet": {
         "DragonetBreath": {
           "Description": {
-            "Base": "あなたは魔法のブレスを発達させた。あなたは自身の血統に関連したドラゴネット(小竜)のブレスを吐き出す。ドラゴネットのブレスは括弧内にリストされた系統特性を得て、そのDCはあなたのクラスDCまたは呪文DCのいずれか高い方となる。あなたがドラゴネットのブレスを使用した後は、[[/r 1d4 #Recharge Dragonet Breath]]{1d4ラウンド}の間、それを再び使用することはできない。",
+            "Base": "あなたは魔法のブレスを発達させた。あなたは自身の血統に関連したドラゴネット(小竜)のブレスを吐き出す。ドラゴネットのブレスは括弧内にリストされた系統トレイトを得て、そのDCはあなたのクラスDCまたは呪文DCのいずれか高い方となる。あなたがドラゴネットのブレスを使用した後は、[[/r 1d4 #Recharge Dragonet Breath]]{1d4ラウンド}の間、それを再び使用することはできない。",
             "FeyDragonet": "**フェイ・ドラゴネット**(秘術、毒)あなたは多幸感をもたらすガスの@Template[type:cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[fortitude|against:class-spell|options:area-effect,inflicts:stupefied|traits:arcane,poison]セーヴに成功しなければならず、失敗すると1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}となる。",
             "HomingDrake": "**ホーミング・ドレイク**(酸)あなたは腐食性の唾液の@Template[type:line|distance:30]を吐き出し、@Damage[(ceil(@actor.level/2))d4[acid]|options:area-damage]ダメージを与える。これには@Check[reflex|against:class-spell|basic|options:area-effect,damage:material:silver|traits:acid]セーヴを行う。3レベルおよびその後2レベルごとに、このダメージは1d4増加する。",
             "HouseDrake": "**ハウス・ドレイク**（秘術、精神） あなたは銀色の霧の雲を@Template[type:cone|distance:15]に吐き出し、これによって@Damage[(ceil(@actor.level/2))d4[mental]|options:area-damage]ダメージを与える(@Check[will|against:class-spell|options:area-effect|traits:arcane,mental]セーヴ)。これは弱点に関しては銀として扱う。3レベルおよびその後2レベルごとに、ダメージは1d4増加する。",
             "PearlDragonet": "**パール・ドラゴネット**(秘術、呪い)あなたは金色の霧の@Template[type:cone|distance:15]を吐き出し、その中に捕らえられたクリーチャーの運命を変化させる。あなたがドラゴネットのブレスを使用するたびに、それが幸運をもたらすか悪運をもたらすかを決定する。あなたのドラゴネットのブレスの影響を受けたクリーチャーは、それに対して1時間の間、一時的な免疫となる。あなたのブレスが幸運をもたらす場合、範囲内の各クリーチャーは、あなたの次のターンの開始前に行う次の攻撃ロールまたはスキル・判定に＋1の状況ボーナスを得る。あなたのブレスが悪運をもたらす場合、範囲内の各クリーチャーは@Check[will|against:class-spell|options:area-effect|traits:arcane,curse]セーヴを行わなければならない。セーヴに失敗したクリーチャーは、あなたの次のターンの開始前に行う次の攻撃ロールまたはスキル・判定に－1の状況ペナルティを受ける。大失敗の場合、クリーチャーは代わりにその判定で2回ロールして低い方の結果を採用しなければならない。これは不幸効果である。",
-            "TidepoolDragonet": "**タイドプール・ドラゴネット**（火炎） あなたは超高温の気体の@Template[type:line|distance:15]を吐き出し、これによって@Damage[(ceil(@actor.level/2))d4[fire]|options:area-damage]ダメージを与える(@Check[reflex|against:class-spell|basic|options:area-effect|traits:fire]セーヴ)。3レベルおよびその後2レベルごとに、ダメージは1d4増加する。このブレスは火炎系統特性を持つが、あなたは水中でも使用できる。水中で使用した場合、このブレスは水系統特性を得て、沸騰する水の@Template[type:cone|distance:20]として放出される。"
+            "TidepoolDragonet": "**タイドプール・ドラゴネット**（火炎） あなたは超高温の気体の@Template[type:line|distance:15]を吐き出し、これによって@Damage[(ceil(@actor.level/2))d4[fire]|options:area-damage]ダメージを与える(@Check[reflex|against:class-spell|basic|options:area-effect|traits:fire]セーヴ)。3レベルおよびその後2レベルごとに、ダメージは1d4増加する。このブレスは火炎系統トレイトを持つが、あなたは水中でも使用できる。水中で使用した場合、このブレスは水系統トレイトを得て、沸騰する水の@Template[type:cone|distance:20]として放出される。"
           },
           "PearlDragonet": {
             "BadLuck": "悪運",
@@ -5469,7 +5469,7 @@
         }
       },
       "DubiousKnowledge": {
-        "Note": "あなたが任意の技能を使用して行う〈思い出す〉の判定に失敗した(ただし大失敗ではない)とき、あなたは正しい答えと誤った答えを1つずつ得るが、どちらがどちらであるかを区別する方法はない。"
+        "Note": "あなたが任意のスキルを使用して行う〈思い出す〉の判定に失敗した(ただし大失敗ではない)とき、あなたは正しい答えと誤った答えを1つずつ得るが、どちらがどちらであるかを区別する方法はない。"
       },
       "Duel": {
         "Dueling": "決闘"
@@ -5488,7 +5488,7 @@
           "RollOptionLabel": "爆風耐性 — 幻惑状態または聴覚喪失状態に対するセーヴィング・スロー"
         },
         "DeathWardenDwarf": {
-          "Note": "虚無属性を持つ、またはアンデッドクリーチャーによって作成された効果に対するセーヴィング・スロウで成功をロールした場合、あなたは代わりに大成功を得る。"
+          "Note": "虚無属性を持つ、またはアンデッドクリーチャーによって作成された効果に対するセーヴィング・スローで成功をロールした場合、あなたは代わりに大成功を得る。"
         },
         "DwarvenClan": {
           "Aringeld": "アリンゲルド氏族",
@@ -5521,7 +5521,7 @@
           "Note": "いずれかのクリーチャーがあなたに対する攻撃で大成功を収め、あなたにダメージを与えるを与えた場合、そのクリーチャーがリストされた属性のいずれかを持っているかどうかにかかわらず、あなたは1分の間、そのクリーチャーに対するダメージへのボーナスを得る。@UUID[Compendium.pf2e.feat-effects.Item.O7OO1kWFEFv6vl3E]{効果:山の戦術(クリティカル・ヒット)}"
         },
         "RockRunner": {
-          "Note": "あなたが石や土でできた狭い足場や平坦でない地面の上で〈バランスを取る〉ために《軽業》技能を使用するとき、あなたは立ちすくみ状態にならず、これらの《軽業》判定で成功をロールしたとき、代わりに大成功を得る。"
+          "Note": "あなたが石や土でできた狭い足場や平坦でない地面の上で〈バランスを取る〉ために《軽業》スキルを使用するとき、あなたは立ちすくみ状態にならず、これらの《軽業》判定で成功をロールしたとき、代わりに大成功を得る。"
         },
         "SpacewyrmSlayer": {
           "Label": "スペースワイアム・スレイヤー(ドラゴン)"
@@ -5541,7 +5541,7 @@
       },
       "EldritchArcher": {
         "ArrowOfDeath": {
-          "Note": "クリティカルヒット時、対象は@Check[fortitude|against:class-spell|traits:death,incapacitation]セーヴィング・スロウにも成功しなければならず、失敗すると即座に死亡する。"
+          "Note": "クリティカルヒット時、対象は@Check[fortitude|against:class-spell|traits:death,incapacitation]セーヴィング・スローにも成功しなければならず、失敗すると即座に死亡する。"
         },
         "EnchantingArrow": {
           "Note": "クリティカルヒット時、対象はさらに@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}となる。"
@@ -5625,7 +5625,7 @@
           "Note": "攻撃がミスした場合、呪文は術者に向かって反射され、術者は1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態になる。"
         },
         "BlackScorpionStingmace": {
-          "BlackScorpionVenomNote": "<p>クリティカルヒット時、対象はクロサソリの毒に晒される。</p>\n<p><strong>クロスコーピオンの毒</strong>(毒)</p>\n<p><strong>セーヴィング・スロウ</strong> @Check[fortitude|dc:36]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d12[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない2}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[3d12[poison]]ダメージ、clumsy 2、および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[4d12[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない4}、および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ2}(1ラウンド)</p>"
+          "BlackScorpionVenomNote": "<p>クリティカルヒット時、対象はクロサソリの毒に晒される。</p>\n<p><strong>クロスコーピオンの毒</strong>(毒)</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:36]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d12[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない2}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[3d12[poison]]ダメージ、clumsy 2、および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[4d12[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない4}、および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ2}(1ラウンド)</p>"
         },
         "BloodDrinkerBlade": {
           "Label": "ブラッドドリンカー・ブレード — 命を吸う"
@@ -5716,7 +5716,7 @@
           "WealOrWoePrompt": "「福」または「禍」を選択する。"
         },
         "DragonEye": {
-          "Addendum": "あなたが3ランク以上で「ブリーズ・ファイア」を詠唱したとき、呪文の範囲内のクリーチャーは、基本反応セーヴの代わりに@Check[will|basic]セーヴを行わなければならず、さらに失敗したときに呪文の通常のダメージを受けることに加え、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}となる。これにより、この呪文に感情、恐怖、精神の特性が追加される。"
+          "Addendum": "あなたが3ランク以上で「ブリーズ・ファイア」を詠唱したとき、呪文の範囲内のクリーチャーは、基本反応セーヴの代わりに@Check[will|basic]セーヴを行わなければならず、さらに失敗したときに呪文の通常のダメージを受けることに加え、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}となる。これにより、この呪文に感情、恐怖、精神のトレイトが追加される。"
         },
         "DrakeRifle": {
           "CriticalSpecialization": "ドレイク・ライフルは、クリティカル・スペシャライゼーション効果を加えない。",
@@ -5988,7 +5988,7 @@
             "Description": "あなたがスパーク・トランセンデンスを行ったとき、押し寄せる潮に体が運ばれるように、あなたは〈ステップ〉することができる。あなたの超越が敵に影響を与えた場合、代わりにその敵があなたのクラスDCに対する@Check[fortitude|against:exemplar]セーヴに成功しない限り、その敵をあなたが選択した方向に5フィート移動させることができる。あなたに隣接して開始した敵を移動させた場合、あなたは敵が空けたマスに〈ステップ〉することができる。"
           },
           "TeacherOfHeroes": {
-            "Description": "あなたがスパーク・トランセンデンスを行った後、あなたが見ることができる敵1体について、フリー・アクションとして〈思い出す〉を試みることができ、その結果得た知識を60フィート以内のすべての味方に即座に伝達できる。この方法で知識を思い出すときに最初に得る知識は、常にその敵の直観(完全耐性)である。その敵に完全耐性がない場合、あなたは最も高い耐性を学ぶ。それも持たない場合、最も高い弱点を学ぶ。それらのいずれも持たない場合、最も低いセーヴィング・スロウを学ぶ。"
+            "Description": "あなたがスパーク・トランセンデンスを行った後、あなたが見ることができる敵1体について、フリー・アクションとして〈思い出す〉を試みることができ、その結果得た知識を60フィート以内のすべての味方に即座に伝達できる。この方法で知識を思い出すときに最初に得る知識は、常にその敵の直観(完全耐性)である。その敵に完全耐性がない場合、あなたは最も高い耐性を学ぶ。それも持たない場合、最も高い弱点を学ぶ。それらのいずれも持たない場合、最も低いセーヴィング・スローを学ぶ。"
           },
           "TheBrave": {
             "Description": "あなたの体はあなたを前方に運び、フリー・アクションとして、あなたが選択した敵1体に向かって直線的に、あなたの移動速度の半分まで〈ストライド〉することを可能にする。特定の敵に対してこの能力を一度使用すると、10分の間、その敵に対して再び使用することはできない。"
@@ -5997,7 +5997,7 @@
             "Description": "あなたがスパーク・トランセンデンスを行った後、あなたはフリー・アクションとして@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{〈注意をそらす〉}または@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行うことができる。"
           },
           "TheDeft": {
-            "Description": "あなたがスパーク・トランセンデンスを行ったとき、超越アクションの直前または直後に、装填または武器イコンを取り出すために、フリー・アクションとして〈扱う〉を行うことができる。その武器イコンは、装填特性を持つ遠隔武器、または投擲特性を持つ片手用の近接武器でなければならない。"
+            "Description": "あなたがスパーク・トランセンデンスを行ったとき、超越アクションの直前または直後に、装填または武器イコンを取り出すために、フリー・アクションとして〈扱う〉を行うことができる。その武器イコンは、装填トレイトを持つ遠隔武器、または投擲トレイトを持つ片手用の近接武器でなければならない。"
           },
           "TheLastRuler": {
             "Description": "あなたがスパーク・トランセンデンスを行った後、あなたはあなたの次のターン開始時まで威厳に満ちた雰囲気を漂わせることができる。この時間中に敵があなたに対する攻撃ロールに失敗した場合、あなたは自分の権威に立ち向かおうとするその愚かな試みを非難しながら、フリー・アクションとしてその敵を[[/act demoralize]]するために《威圧》の判定を試みることができる。"
@@ -6006,7 +6006,7 @@
             "Description": "あなたがスパーク・トランセンデンスを行った後、あなたの行為はほろ苦い感動を呼び起こし、その行為を目撃した30フィート以内のあなたが選択した敵1体の目に涙や記憶を躍らせ、その敵を@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態にする。これは感情および精神効果である。その敵はあなたの次のターン開始時までおぼろげ状態のままであり、その後10分の間、一時的な免疫となる。"
           },
           "TheProud": {
-            "Description": "あなたがスパーク・トランセンデンスを行った後、あなたは注意を引くために30フィート以内の敵1体に大言壮語することができる。この効果は聴覚、感情、精神、および言語特性を持つ。あなたの次のターンの開始時まで、対象はあなた以外のクリーチャーに対する攻撃ロール、ダメージ・ロール、および技能判定に－1の状況ペナルティを受け、あなたを対象とするときにはこれらのロールに＋1の状況ボーナスを得る。"
+            "Description": "あなたがスパーク・トランセンデンスを行った後、あなたは注意を引くために30フィート以内の敵1体に大言壮語することができる。この効果は聴覚、感情、精神、および言語トレイトを持つ。あなたの次のターンの開始時まで、対象はあなた以外のクリーチャーに対する攻撃ロール、ダメージ・ロール、およびスキル判定に－1の状況ペナルティを受け、あなたを対象とするときにはこれらのロールに＋1の状況ボーナスを得る。"
           },
           "TheRadiant": {
             "Description": "あなたがスパーク・トランセンデンスを行った後、あなたは30フィート以内の味方1人を奮起させて前進させ、@Damage[(2*(1+@actor.level))[healing]]{2 ＋ あなたのレベルの2倍}に等しい値のヒット・ポイントを回復させる。これは精神および感情効果である。その後、その味方は10分の間、一時的な免疫となる。"
@@ -6019,7 +6019,7 @@
             "Description": "<p>あなたがスパーク・トランセンデンスを行ったとき、あなたの神性の火花は死の一部をあなたへと引き寄せる。あなたの次のターンの開始時まで、あなたに隣接してターンを開始するか、あなたに隣接するマスに入った生存している敵は、@Damage[1d6[void]]ダメージを受ける。</p>"
           },
           "WhoseCryIsThunder": {
-            "CriticalSpecialization": "あなたが〈ストライク〉で大成功を収めたとき、対象はあなたのクラスDCに対して@Check[fortitude|against:exemplar|traits:sonic]セーヴィング・スロウを行わなければならない。失敗すると、対象は1分の間、伏せ状態(@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている})かつ耳が聞こえない状態(@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失})となる。これは音波効果である。",
+            "CriticalSpecialization": "あなたが〈ストライク〉で大成功を収めたとき、対象はあなたのクラスDCに対して@Check[fortitude|against:exemplar|traits:sonic]セーヴィング・スローを行わなければならない。失敗すると、対象は1分の間、伏せ状態(@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている})かつ耳が聞こえない状態(@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失})となる。これは音波効果である。",
             "DamageNote": "攻撃者は@Damage[1d6[electricity]]ダメージを受ける",
             "Description": "あなたがスパーク・トランセンデンスを行ったとき、あなたはあなたの次のターン開始時まで帯電状態になることを選択できる。あなたが帯電している間、あなたに接触するか、素手攻撃または間合いを持たない近接武器であなたにダメージを与えたクリーチャーは、電撃が逆流して@Damage[1d6[electricity]]ダメージを受ける。@UUID[Compendium.pf2e.feat-effects.Item.nP3k4N52NzrR3KKf]{効果:その叫びは雷鳴}"
           }
@@ -6173,10 +6173,10 @@
       },
       "Feat": {
         "BespellStrikes": {
-          "Oracle": "あなたは自分が使用している1つの武器、または拳などの自分の素手攻撃の1つに呪文のエネルギーを吸収させる。あなたのターンの終了時まで、その武器または素手攻撃は1d6の追加のフォース・ダメージを与え、まだ持っていなかった場合は神聖系統の特性を得る。その呪文が異なる種別のダメージを与えていた場合、代わりに〈ストライク〉はその種別のダメージを与える(呪文が複数の種別のダメージを与えることができた場合は、あなたが選択した1つの種別)。",
+          "Oracle": "あなたは自分が使用している1つの武器、または拳などの自分の素手攻撃の1つに呪文のエネルギーを吸収させる。あなたのターンの終了時まで、その武器または素手攻撃は1d6の追加のフォース・ダメージを与え、まだ持っていなかった場合は神聖系統のトレイトを得る。その呪文が異なる種別のダメージを与えていた場合、代わりに〈ストライク〉はその種別のダメージを与える(呪文が複数の種別のダメージを与えることができた場合は、あなたが選択した1つの種別)。",
           "Requirements": "あなたの直前のアクションが、初級呪文ではない呪文の詠唱であったこと",
-          "Sorcerer": "あなたは自分が使用している1つの武器、または拳などの自分の素手攻撃の1つに呪文のエネルギーを吸収させる。あなたのターンの終了時まで、その武器または素手攻撃は1d6の追加のフォース・ダメージを与え、まだ持っていなかった場合はあなたの血脈の魔法の系統の特性を得る。その呪文が異なる種別のダメージを与えていた場合、代わりに〈ストライク〉はその種別のダメージを与える(呪文が複数の種別のダメージを与えることができた場合は、あなたが選択した1つの種別)。",
-          "Wizard": "あなたは自分が使用している1つの武器、または拳などの自分の素手攻撃の1つに呪文のエネルギーを吸収させる。あなたのターンの終了時まで、その武器または素手攻撃は1d6の追加のフォース・ダメージを与え、まだ持っていなかった場合は秘術系統の特性を得る。その呪文が異なる種別のダメージを与えていた場合、代わりに〈ストライク〉はその種別のダメージを与える(呪文が複数の種別のダメージを与えることができた場合は、あなたが選択した1つの種別)。"
+          "Sorcerer": "あなたは自分が使用している1つの武器、または拳などの自分の素手攻撃の1つに呪文のエネルギーを吸収させる。あなたのターンの終了時まで、その武器または素手攻撃は1d6の追加のフォース・ダメージを与え、まだ持っていなかった場合はあなたの血脈の魔法の系統のトレイトを得る。その呪文が異なる種別のダメージを与えていた場合、代わりに〈ストライク〉はその種別のダメージを与える(呪文が複数の種別のダメージを与えることができた場合は、あなたが選択した1つの種別)。",
+          "Wizard": "あなたは自分が使用している1つの武器、または拳などの自分の素手攻撃の1つに呪文のエネルギーを吸収させる。あなたのターンの終了時まで、その武器または素手攻撃は1d6の追加のフォース・ダメージを与え、まだ持っていなかった場合は秘術系統のトレイトを得る。その呪文が異なる種別のダメージを与えていた場合、代わりに〈ストライク〉はその種別のダメージを与える(呪文が複数の種別のダメージを与えることができた場合は、あなたが選択した1つの種別)。"
         },
         "BurnIt": {
           "Label": "燃やせ！"
@@ -6246,8 +6246,8 @@
           "Note": "あなたが通常の速度で〈解読する〉を行い、成功をロールした場合、あなたは大成功を得る。通常の時間を費やしている間に大成功した場合、あなたはその文書をほぼ一言一句違わずに理解できる。"
         },
         "LightningSwap": {
-          "Exemplar": "あなたは戦闘スタイルと、それに必要な装備を素早く切り替える練習を積んでおり、特に複数の武器イコンを装備している場合にその真価を発揮する。あなたは〈扱う〉を行うことで、手から任意の数のアイテムをしまい、その後、最大2つの武器、または盾1つと武器1つを取り出すことができる。",
-          "Fighter": "あなたは戦闘スタイルと、それに必要な装備を素早く切り替える練習を積んでいる。あなたは〈扱う〉を行うことで、手から任意の数のアイテムをしまい、その後、最大2つの武器、または盾1つと武器1つを取り出すことができる。"
+          "Exemplar": "あなたは戦闘スタイルと、それに必要な装備品を素早く切り替える練習を積んでおり、特に複数の武器イコンを装備している場合にその真価を発揮する。あなたは〈扱う〉を行うことで、手から任意の数のアイテムをしまい、その後、最大2つの武器、または盾1つと武器1つを取り出すことができる。",
+          "Fighter": "あなたは戦闘スタイルと、それに必要な装備品を素早く切り替える練習を積んでいる。あなたは〈扱う〉を行うことで、手から任意の数のアイテムをしまい、その後、最大2つの武器、または盾1つと武器1つを取り出すことができる。"
         },
         "PeerBeyond": {
           "Note": "[実体なき]アンデッドやハーントが存在していることを知っている場合、あなたはイニシアチブのために非実体、スピリット《専門知識》、またはハーント《専門知識》の判定をロールできる。"
@@ -6262,8 +6262,8 @@
           "Note": "あなたが〈傷の手当て〉を行うとき、あなたは〈傷の手当て〉の効果を適用する直前に、患者に@Damage[1d8[slashing]]ダメージを与えることができる。そうした場合、〈傷の手当て〉を行うためのあなたの《医術》判定に＋2の状況ボーナスを得て、成功をロールした場合は代わりに大成功となる。"
         },
         "SkillMastery": {
-          "Investigator": "あなたの技能の1つの熟練ランクを専門家から達人に、もう1つの技能の熟練ランクを訓練済みから専門家へと増加する。あなたは選択した技能のいずれかに関連する技能判定を得る。",
-          "Rogue": "あなたの技能の1つの熟練ランクを専門家から達人に、もう1つの技能の熟練ランクを訓練済みから専門家へと増加する。あなたは選択した技能のいずれかに関連する技能判定を得る。あなたはその前提条件をすべて満たしていなければならない。",
+          "Investigator": "あなたのスキルの1つの熟練ランクを専門家から達人に、もう1つのスキルの熟練ランクを訓練済みから専門家へと増加する。あなたは選択したスキルのいずれかに関連するスキル判定を得る。",
+          "Rogue": "あなたのスキルの1つの熟練ランクを専門家から達人に、もう1つのスキルの熟練ランクを訓練済みから専門家へと増加する。あなたは選択したスキルのいずれかに関連するスキル判定を得る。あなたはその前提条件をすべて満たしていなければならない。",
           "Special": {
             "Text": "あなたはこの特技を最大5回まで選択できる。",
             "Title": "特殊"
@@ -6371,7 +6371,7 @@
         }
       },
       "FollowTheExpert": {
-        "Prompt": "技能の専門家の習熟度を選択する。"
+        "Prompt": "スキルの専門家の習熟度を選択する。"
       },
       "Formian": {
         "Mageslayer": {
@@ -6389,7 +6389,7 @@
         "Twelve": "あなたがクリティカル・ヒットを受けるたびに、@Check[flat|dc:12|showDC:all]を行う。成功すると、それは通常のヒットになる。"
       },
       "FrenziedRevelry": {
-        "Note": "このボーナスの恩恵を受けている者が、敵の精神効果に対するセーヴィング・スロウに大成功するたび、そのお祭り騒ぎが高まり、その者に1ラウンドの間、攻撃ロールとダメージ・ロールへの＋1の状況ボーナスを与える。@UUID[Compendium.pf2e.spell-effects.Item.ldl1aU5ovTQMUHJ2]{呪文の効果：狂乱のお祭り騒ぎ(クリティカル)}"
+        "Note": "このボーナスの恩恵を受けている者が、敵の精神効果に対するセーヴィング・スローに大成功するたび、そのお祭り騒ぎが高まり、その者に1ラウンドの間、攻撃ロールとダメージ・ロールへの＋1の状況ボーナスを与える。@UUID[Compendium.pf2e.spell-effects.Item.ldl1aU5ovTQMUHJ2]{呪文の効果：狂乱のお祭り騒ぎ(クリティカル)}"
       },
       "FulcrumLens": {
         "Crimson": {
@@ -6462,7 +6462,7 @@
       },
       "Gnome": {
         "GrimInsight": {
-          "SaveNote": "あなたが恐怖効果に対するセーヴィング・スロウで成功をロールしたとき、あなたは代わりに大成功を得て、その恐怖効果の発生源はあなたに対してあなたの次のターン終了時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。"
+          "SaveNote": "あなたが恐怖効果に対するセーヴィング・スローで成功をロールしたとき、あなたは代わりに大成功を得て、その恐怖効果の発生源はあなたに対してあなたの次のターン終了時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。"
         }
       },
       "Goblin": {
@@ -6479,12 +6479,12 @@
           "Prompt": "変異を選択する。",
           "Bioelectricity": {
             "Label": "生体電気",
-            "Description": "あなたは1d4の電撃ダメージを与えるバイオショック素手攻撃を得る。あなたのバイオショック攻撃はショック・グループに属し、フィネス、非致死、素手の特性を持つ。",
+            "Description": "あなたは1d4の電撃ダメージを与えるバイオショック素手攻撃を得る。あなたのバイオショック攻撃はショック・グループに属し、フィネス、非致死、素手のトレイトを持つ。",
             "Bioshock": "バイオショック"
           },
           "Chromatophores": {
             "Label": "色素胞",
-            "Description": "あなたは《隠密》に訓練済みとなる。あなたが(例えば背景やクラスから)自動的に《隠密》に訓練済みとなる場合、代わりにあなたが選択した技能に訓練済みとなる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.beyw5bdA5hkQbmaG]{テレイン・ストーカー}技能特技を得る。ただし、選択した困難な地形の代わりに、大型のネオンサインやナイトクラブなどの明るい人工光のエリアに隣接しているか、その中にいるときにこの特技を使用できる。"
+            "Description": "あなたは《隠密》に訓練済みとなる。あなたが(例えば背景やクラスから)自動的に《隠密》に訓練済みとなる場合、代わりにあなたが選択したスキルに訓練済みとなる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.beyw5bdA5hkQbmaG]{テレイン・ストーカー}スキル特技を得る。ただし、選択した困難な地形の代わりに、大型のネオンサインやナイトクラブなどの明るい人工光のエリアに隣接しているか、その中にいるときにこの特技を使用できる。"
           },
           "ExtraLimbs": {
             "Label": "追加の四肢",
@@ -6504,7 +6504,7 @@
           },
           "MutantMagic": {
             "Label": "ミュータントの魔法",
-            "Description": "あなたは規格化されたアンセストラル特技である@UUID[Compendium.sf2e.feats.Item.IEQmMRA1uMPb0rJo]{Ancestral キャントリップ}(原初；@UUID[Compendium.pf2e.spells-srd.Item.thAHF1zxNplLCJPO]{Caustic Blast})を得る。ただし、口から酸の塊を吐き出すため、この呪文は操作特性を持たない。"
+            "Description": "あなたは規格化されたアンセストラル特技である@UUID[Compendium.sf2e.feats.Item.IEQmMRA1uMPb0rJo]{Ancestral キャントリップ}(原初；@UUID[Compendium.pf2e.spells-srd.Item.thAHF1zxNplLCJPO]{Caustic Blast})を得る。ただし、口から酸の塊を吐き出すため、この呪文は手作業トレイトを持たない。"
           },
           "Suckers": {
             "Label": "吸盤",
@@ -6512,7 +6512,7 @@
           }
         },
         "RecklessAbandon": {
-          "Note": "あなたが有害な効果に対するセーヴィング・スロウで失敗または大失敗をロールした場合、代わりに成功を得る。"
+          "Note": "あなたが有害な効果に対するセーヴィング・スローで失敗または大失敗をロールした場合、代わりに成功を得る。"
         },
         "ScaldingSpit": {
           "BoilingSpit": "沸騰する唾液"
@@ -6575,7 +6575,7 @@
           "Note": "あなたがクリーチャーを〈押し出す〉ことに成功したとき、そのクリーチャーは@Damage[(@actor.abilities.str.mod + @actor.skills.athletics.rank*(@actor.skills.athletics.rank - 1))[bludgeoning]]ダメージ(大成功の場合は@Damage[(2*(@actor.abilities.str.mod + @actor.skills.athletics.rank*(@actor.skills.athletics.rank - 1)))[bludgeoning]]ダメージ)を受ける。"
         },
         "RaiseHaft": {
-          "ToggleLabel": "柄を掲げる — 武器がすでにパリィ特性を持っている"
+          "ToggleLabel": "柄を掲げる — 武器がすでにパリィトレイトを持っている"
         },
         "Taunt": {
           "Label": "挑発",
@@ -6620,7 +6620,7 @@
           "Label": "30フィート以内の隠れているまたは未探知状態のクリーチャーを〈見回す〉"
         },
         "SharedLuck": {
-          "Base": "30フィート以内の味方がスキル判定またはセーヴィング・スロウに失敗したとき、あなたは自分が失敗した判定を再ロールする代わりに、トリガーとなった判定をその味方に再ロールさせるためにハーフリングの幸運を使用できる。通常通り、味方は新しい結果が最初のロールより悪かったとしても、それを使用しなければならない。",
+          "Base": "30フィート以内の味方がスキル判定またはセーヴィング・スローに失敗したとき、あなたは自分が失敗した判定を再ロールする代わりに、トリガーとなった判定をその味方に再ロールさせるためにハーフリングの幸運を使用できる。通常通り、味方は新しい結果が最初のロールより悪かったとしても、それを使用しなければならない。",
           "GuidingLuck": "あなたは、味方に恩恵を与えるために「共有された幸運」を使用する際、「導きの幸運」の攻撃ロールと《知覚》判定に適用される効果を使用することはできない。"
         },
         "SureFeet": {
@@ -6661,7 +6661,7 @@
       },
       "Hellbreaker": {
         "Dedication": {
-          "InitiativeNote": "あなたがイニシアチブをロールするとき、その技能が適用可能であるなら、あなたが見ることができる敵1体について、フリー・アクションとして@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行うために、[[/act recall-knowledge skill=devil-lore]]、[[/act recall-knowledge skill=hellknight-lore]]、または[[/act recall-knowledge skill=society]]の判定を行うことができる。"
+          "InitiativeNote": "あなたがイニシアチブをロールするとき、そのスキルが適用可能であるなら、あなたが見ることができる敵1体について、フリー・アクションとして@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行うために、[[/act recall-knowledge skill=devil-lore]]、[[/act recall-knowledge skill=hellknight-lore]]、または[[/act recall-knowledge skill=society]]の判定を行うことができる。"
         }
       },
       "Hellknight": {
@@ -6692,7 +6692,7 @@
           "Note": "あなたが敵を〈怯ませる〉ことに成功したとき、その敵が恐れている状態であり、かつあなたとの戦闘を継続している限り、その敵は自身の各ターンの開始時に@Damage[(ternary(gte(@actor.system.skills.intimidation.rank,4),3,ternary(gte(@actor.system.skills.intimidation.rank,3),2,1))d4)[mental]]{1d4の精神ダメージ}を受ける。あなたが《威圧》にマスターの習熟度を持っている場合、このダメージは2d4に増加し、伝説の習熟度を持っている場合、このダメージは3d4に増加する。"
         },
         "CantorianReinforcement": {
-          "Note": "あなたがa セーヴィング・スロウ against a disease or poisonに成功したとき、you reduce the stage by 2 (or 1 for a virulent disease or poison), and when you critically succeed, you reduce the stage by 3 (or 2 for a virulent disease or poison)。"
+          "Note": "あなたがa セーヴィング・スロー against a disease or poisonに成功したとき、you reduce the stage by 2 (or 1 for a virulent disease or poison), and when you critically succeed, you reduce the stage by 3 (or 2 for a virulent disease or poison)。"
         },
         "WarConditioning": {
           "Prompt": "移動の種類を選択する。"
@@ -6711,7 +6711,7 @@
           "Prompt": "訓練済みになる武器を1つ選択する。"
         },
         "WitchWarden": {
-          "SaveNote": "あなたがウィッチやハグによって課された呪いや、彼女らが発動した呪文に対するセーヴィング・スロウで成功を収めた場合、あなたは代わりに大成功を得る。"
+          "SaveNote": "あなたがウィッチやハグによって課された呪いや、彼女らが発動した呪文に対するセーヴィング・スローで成功を収めた場合、あなたは代わりに大成功を得る。"
         }
       },
       "HumanoidForm": {
@@ -6833,7 +6833,7 @@
           "Note": "あなたは対象に、自身の@Damage[(floor((@actor.level+3)/4)d6[precision])[@item.system.damage.damageType]|options:certain-stratagem]{戦略的〈ストライク〉のダメージ}の半分を与える。"
         },
         "DetectivesReadiness": {
-          "ClueInAddendum": "あなたは、未解決の調査の核心にある疑問に関連するクリーチャーや効果に対する味方のセーヴィング・スロウを支援するために、「手がかりの共有」を使用できる。"
+          "ClueInAddendum": "あなたは、未解決の調査の核心にある疑問に関連するクリーチャーや効果に対する味方のセーヴィング・スローを支援するために、「手がかりの共有」を使用できる。"
         },
         "DeviseAStratagem": {
           "Attack": "攻撃の策略",
@@ -6986,10 +6986,10 @@
           "VenomtailKobold": "ヴェノムテイル・コボルド"
         },
         "DragonsBreath": {
-          "DescriptionAlteration": "あなたは竜の模範の力をエネルギーの奔流へと注ぎ込み、それは@Template[line|distance:60]または@Template[cone|distance:30]として現れ、@Damage[ceil(@actor.level/2)d8[@actor.flags.system.draconicExemplar.damageType]|options:area-damage]ダメージを与える。エリア内の各クリーチャーは、あなたのクラスDCまたは呪文DCのいずれか高い方に対して基本セーヴィング・スロウを行わなければならない。あなたは1時間の間、この能力を再び使用することはできない。"
+          "DescriptionAlteration": "あなたは竜の模範の力をエネルギーの奔流へと注ぎ込み、それは@Template[line|distance:60]または@Template[cone|distance:30]として現れ、@Damage[ceil(@actor.level/2)d8[@actor.flags.system.draconicExemplar.damageType]|options:area-damage]ダメージを与える。エリア内の各クリーチャーは、あなたのクラスDCまたは呪文DCのいずれか高い方に対して基本セーヴィング・スローを行わなければならない。あなたは1時間の間、この能力を再び使用することはできない。"
         },
         "DragonsPresence": {
-          "Note": "あなたが恐怖効果に対するセーヴィング・スロウで成功をロールしたとき、あなたは代わりに大成功を得る。あなたが恐怖効果に対して失敗をロールしたとき、あなたは代わりに大失敗を得る。"
+          "Note": "あなたが恐怖効果に対するセーヴィング・スローで成功をロールしたとき、あなたは代わりに大成功を得る。あなたが恐怖効果に対して失敗をロールしたとき、あなたは代わりに大失敗を得る。"
         }
       },
       "Label": {
@@ -7044,7 +7044,7 @@
       "LitTorch": "トーチが点灯している",
       "Lizardfolk": {
         "GuidedByTheStars": {
-          "Prompt": "セーヴィング・スロウまたは技能を選択する。"
+          "Prompt": "セーヴィング・スローまたはスキルを選択する。"
         },
         "ParthenogenicHatchling": {
           "Note": "病気に対するあなたのセーヴィング・スローが成功するたびに、その段階は2減少する(悪性の病気の場合は1減少する)。進行中の病気に対する大成功のたびに、その段階は3減少する(悪性の病気の場合は2減少する)。"
@@ -7361,7 +7361,7 @@
         },
         "Flat": {
           "Label": "平坦",
-          "Note": "<p>敵が〈ストライク〉、セーヴィング・スロウ、または技能判定に大失敗するたび、その敵は大失敗による他の効果に加えて@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になる。</p>"
+          "Note": "<p>敵が〈ストライク〉、セーヴィング・スロー、またはスキル判定に大失敗するたび、その敵は大失敗による他の効果に加えて@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になる。</p>"
         },
         "Natural": {
           "Label": "自然"
@@ -7390,7 +7390,7 @@
       },
       "Nephilim": {
         "Pitborn": {
-          "AllowedDrops": "1レベルの《運動》技能特技"
+          "AllowedDrops": "1レベルの《運動》スキル特技"
         },
         "Proteankin": {
           "Resistance": "プロティアンキンの抵抗力"
@@ -7440,7 +7440,7 @@
           "HealDescription": "あなたは通常通りスロットを消費して、3アクションの<em>ヒール</em>呪文を発動する。この呪文が1体以上のクリーチャーのヒット・ポイントを回復させる場合、この呪文によって回復したクリーチャー1体はさらに@Damage[(@actor.conditions.cursebound.value)d8[healing,vitality]|shortLabel:true]の追加のヒット・ポイントを回復する。この呪文が1体以上のクリーチャーにダメージを与える場合、この呪文によって害を受けたクリーチャー1体はさらに@Damage[(@actor.conditions.cursebound.value)d8[vitality]|shortLabel:true]の追加ダメージを受ける。"
         },
         "CurseSeverity": {
-          "MajorToExtreme": "あなたが大呪詛の影響を受けている間に天啓呪文を発動すると、あなたの呪詛は極限効果へと激化する。極限呪詛の影響を受けている間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅2}状態となる(すでに破滅状態であったなら、破滅状態の値を2増加させる)。10分に1回、あなたが攻撃ロール、技能または《知覚》の判定、あるいはセーヴィング・スロウに失敗したとき、あなたはそれを再ロールして2回目の結果を使用できる。この再ロールは運の特性を持ち、アクションを消費する必要がないため、あなたが行動できない状態であっても再ロールを使用できる。",
+          "MajorToExtreme": "あなたが大呪詛の影響を受けている間に天啓呪文を発動すると、あなたの呪詛は極限効果へと激化する。極限呪詛の影響を受けている間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅2}状態となる(すでに破滅状態であったなら、破滅状態の値を2増加させる)。10分に1回、あなたが攻撃ロール、スキルまたは《知覚》の判定、あるいはセーヴィング・スローに失敗したとき、あなたはそれを再ロールして2回目の結果を使用できる。この再ロールは運のトレイトを持ち、アクションを消費する必要がないため、あなたが行動できない状態であっても再ロールを使用できる。",
           "MinorToModerate": "あなたの小呪詛が有効な間に天啓呪文を発動した場合、あなたがその呪文の〈呪文の発動〉を完了した直後に、あなたは中呪詛の効果へと進行する。",
           "MinorToOffGuard": "あなたは小呪詛の効果に加えて、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。",
           "ModerateToMajor": "あなたが中呪詛の影響を受けている間に天啓呪文の〈呪文の発動〉を完了した直後、あなたの呪詛は大効果へと進行する。",
@@ -7461,7 +7461,7 @@
           "Prompt": "神秘を選択する。"
         },
         "MysteryConduit": {
-          "Note": "あなたが持続時間のない5レベル以下の呪文を発動するとき、呪文スロットを消費する代わりに、天啓呪文を発動したときと同じ方法で神託の呪詛の効果を進行させることができる。この方法で発動された呪文は呪詛拘束特性を得る。"
+          "Note": "あなたが持続時間のない5レベル以下の呪文を発動するとき、呪文スロットを消費する代わりに、天啓呪文を発動したときと同じ方法で神託の呪詛の効果を進行させることができる。この方法で発動された呪文は呪詛拘束トレイトを得る。"
         },
         "NudgeTheScales": {
           "Death": "即死",
@@ -7516,7 +7516,7 @@
         "Label": "対象が少なくとも2体の味方の射程内にいる"
       },
       "Parry": {
-        "Prompt": "あなたの武器はパリィ特性を持っていますか？"
+        "Prompt": "あなたの武器はパリィトレイトを持っていますか？"
       },
       "PathfinderAgentDedication": {
         "ThoroughReports": "徹底的な報告"
@@ -7597,17 +7597,17 @@
         "Resistance": "耐性を選択する。",
         "Rune": "ルーンを選択する。",
         "Sanctification": "聖別を選択する。",
-        "SavingThrow": "セーヴィング・スロウを選択する。",
+        "SavingThrow": "セーヴィング・スローを選択する。",
         "SecondAbility": "2つ目の能力を選択する。",
         "SecondImplement": "2つ目の器物を選択する。",
         "Sense": "感覚を選択する。",
         "Shield": "盾を選択する。",
         "ShieldOrWeapon": "盾または武器を選択する。",
         "Shillelagh": "クラブまたはスタッフを選択する。",
-        "Skill": "技能を選択する。",
-        "SkillFeat": "技能特技を選択する。",
-        "SkillTrained": "訓練済み技能を選択する。",
-        "SkillUntrained": "未修得の技能を選択する。",
+        "Skill": "スキルを選択する。",
+        "SkillFeat": "スキル特技を選択する。",
+        "SkillTrained": "訓練済みスキルを選択する。",
+        "SkillUntrained": "未修得のスキルを選択する。",
         "Spell": "呪文を選択する。",
         "SubconsciousMind": "潜在意識を選択する。",
         "ThirdImplement": "3つ目の器物を選択する。",
@@ -7680,7 +7680,7 @@
           },
           "Guidance": {
             "Base": "あなたは味方が失敗するのを防ぐために、間一髪のところで洞察の閃きを投影することができる。アンプされた_ガイダンス_は、クリーチャーを_ガイダンス_に対して一時的な免疫にすることはなく、クリーチャーが_ガイダンス_に対して一時的な免疫であったとしても、アンプされた_ガイダンス_の対象にすることができる。",
-            "BaseTwo": "あなたの味方が攻撃ロール、《知覚》判定、セーヴィング・スロウ、または技能判定に失敗または大失敗し、かつ_ガイダンス_によるボーナスがその失敗を成功に、または大失敗を通常の失敗に変更できる場合に、トリガーされるリアクションとして、アンプされた_ガイダンス_呪文をキャストできる。_ガイダンス_によるボーナスは、味方の判定に遡って適用される。",
+            "BaseTwo": "あなたの味方が攻撃ロール、《知覚》判定、セーヴィング・スロー、またはスキル判定に失敗または大失敗し、かつ_ガイダンス_によるボーナスがその失敗を成功に、または大失敗を通常の失敗に変更できる場合に、トリガーされるリアクションとして、アンプされた_ガイダンス_呪文をキャストできる。_ガイダンス_によるボーナスは、味方の判定に遡って適用される。",
             "Heightened": "この呪文によるボーナスは+2に増加する。"
           },
           "HologramCage": "フォースの壁は、檻の障壁を視覚的であると同時に物理的なものにする。檻の壁の10フィート四方の各セクションは、AC10、この呪文のランクの2倍に等しい硬度、およびこの呪文のランクの4倍に等しいHPを持つ。あなたがこの呪文をキャストしたとき、その壁のいずれかがクリーチャーを通り抜ける場合、この呪文はかき消される。",
@@ -7781,7 +7781,7 @@
           "Frostbite": "あなたのフロストバイトの射程は120フィートに増加する。",
           "Guidance": "ガイダンスの射程は120フィートに増加する。",
           "Ignition": "イグニッションを遠隔攻撃として使用する場合、射程を60フィートに増加する。イグニッションを近接攻撃として使用する場合、あなたのリーチは5フィート増加する。",
-          "Message": "あなたのメッセージ呪文は、壁や障害物を回り込んで、対象に届くまで最大120フィートまで進むことができる。これは、対象のスペースが分かっており、対象に届く遮るもののない120フィート以下の経路がある限り、メッセージをキャストするために直線上の効果線や視線が必要ないことを意味する。あなたは完全に精神感応的な方法でメッセージをキャストすることができ、その場合、呪文は聴覚特性を失う。",
+          "Message": "あなたのメッセージ呪文は、壁や障害物を回り込んで、対象に届くまで最大120フィートまで進むことができる。これは、対象のスペースが分かっており、対象に届く遮るもののない120フィート以下の経路がある限り、メッセージをキャストするために直線上の効果線や視線が必要ないことを意味する。あなたは完全に精神感応的な方法でメッセージをキャストすることができ、その場合、呪文は聴覚トレイトを失う。",
           "PhaseBolt": "成功時、対象のACへの状況ボーナス(もしあれば)を1減少させるあなたの次のターン開始時まで。",
           "PsychicRapport": "あなたが精神特徴を持つ呪文を〈呪文の発動〉した後に、あなたの次のターン開始時まで、あなたは《欺瞞》、《交渉》、《威圧》判定、および[[/act sense-motive]]するための《知覚》判定に＋1の状況ボーナスを得る。",
           "Shield": "あなたが「シールド」を判定する際、あなたではなく、30フィート以内にいる対象の味方1体がその呪文の恩恵を得るように選択できる。その呪文で〈シールド・ブロック〉を行うかどうかの選択はあなたに委ねられ、対象ではなくあなたのリアクションを使用する。",
@@ -7859,7 +7859,7 @@
       },
       "Ratfolk": {
         "LabRat": {
-          "Note": "あなたがエリクサーまたは毒に対するセーヴィング・スロウで成功をロールした場合、代わりに大成功を得る。"
+          "Note": "あなたがエリクサーまたは毒に対するセーヴィング・スローで成功をロールした場合、代わりに大成功を得る。"
         },
         "WarrenNavigator": {
           "Note": "あなたが〈位置を定める〉を行うとき、あなたはロールした結果より1段階良い判定結果を得る。"
@@ -8011,7 +8011,7 @@
           "Success": "成功時、対象は@Damage[1d6[bludgeoning]]のダメージを受ける。"
         },
         "TrainSkill": {
-          "Prompt": "訓練済み(訓練)になる技能を1つ選択する。"
+          "Prompt": "訓練済み(訓練)になるスキルを1つ選択する。"
         }
       },
       "Runelord": {
@@ -8124,8 +8124,8 @@
         }
       },
       "SkillMastery": {
-        "ExpertPrompt": "専門家(エキスパート)になる技能を1つ選択する。",
-        "MasterPrompt": "達人(マスター)になる技能を1つ選択する。"
+        "ExpertPrompt": "専門家(エキスパート)になるスキルを1つ選択する。",
+        "MasterPrompt": "達人(マスター)になるスキルを1つ選択する。"
       },
       "Skittermander": {
         "Fluffy": {
@@ -8214,7 +8214,7 @@
         },
         "SecondBloodMagic": "第二血脈魔法",
         "TapIntoBlood": {
-          "Arcane": "あなたの精神は一時的に世界の秘密へと開かれる。[[/act recall-knowledge skill=arcana]]{〈思い出す〉}を行う。あなたはその判定に、通常必要とされる技能の代わりに《秘術》を使用できる。この判定に大失敗した場合、あなたは代わりに失敗を得る。",
+          "Arcane": "あなたの精神は一時的に世界の秘密へと開かれる。[[/act recall-knowledge skill=arcana]]{〈思い出す〉}を行う。あなたはその判定に、通常必要とされるスキルの代わりに《秘術》を使用できる。この判定に大失敗した場合、あなたは代わりに失敗を得る。",
           "Divine": "あなたの家系にある神聖な起源が何であれ、それはあなたに直感的にあなた自身または他の誰かを危険から遠ざけるよう導く。あなたは〈ステップ〉を行うか、あなたの手の届く範囲内にいる対象を、その判定に《宗教》を使用して[[/act reposition skill=religion]]{〈位置をずらす〉}。",
           "Occult": "奇妙な霧や渦巻く色彩があなたの移動を隠す。あなたは最大10フィートまで〈ステップ〉する。",
           "Primal": "自然の計り知れない力があなたの声に響き渡る。あなたは対象を[[/act demoralize skill=nature]]{〈怯ませる〉}ために《自然》の判定を行うことができる。",
@@ -8387,7 +8387,7 @@
         "Voyaging": "航海の夢"
       },
       "SpellEffectTemptFate": {
-        "Note": "セーヴィング・スロウの結果が成功の場合、大成功となる。失敗の場合、大失敗となり、この大失敗は通常は大失敗を軽減する能力によって軽減することはできない。"
+        "Note": "セーヴィング・スローの結果が成功の場合、大成功となる。失敗の場合、大失敗となり、この大失敗は通常は大失敗を軽減する能力によって軽減することはできない。"
       },
       "SpellEffectTheFourHunters": {
         "East": "東",
@@ -8447,13 +8447,13 @@
         },
         "BeaconMark": {
           "Description": "あなたが_シギル_をキャストする際、呪文を修正して以下の「高レベル化」の項目を追加できる。",
-          "DescriptionHeightened": "あなたはあなた自身を印を付けられた対象に同調させる。この呪文が持続している間、あなたは精神集中、探知、占術系統を持つ単一アクションを費やすことで、対象の場所を特定することを試み、あなたが対象から1マイル以内にいる限り、対象の方向を知ることができる。対象がクリーチャーであるか、あるいはクリーチャーが対象のアイテムを所持している場合、そのクリーチャーはあなたの呪文DCに対して@Check[will]のセーヴィング・スロウを行うことができる。成功した場合、対象の場所を特定するあなたの試みは失敗し、あなたは1日の間、これを再試行できない。このように修正された_シギル_で印を付けられる対象は、常に1つだけである。あなたがこの呪文を2つ目の対象に再びキャストした場合、最初の対象に対する_シギル_呪文は終了し、あなたの印は消え去る。"
+          "DescriptionHeightened": "あなたはあなた自身を印を付けられた対象に同調させる。この呪文が持続している間、あなたは精神集中、探知、占術系統を持つ単一アクションを費やすことで、対象の場所を特定することを試み、あなたが対象から1マイル以内にいる限り、対象の方向を知ることができる。対象がクリーチャーであるか、あるいはクリーチャーが対象のアイテムを所持している場合、そのクリーチャーはあなたの呪文DCに対して@Check[will]のセーヴィング・スローを行うことができる。成功した場合、対象の場所を特定するあなたの試みは失敗し、あなたは1日の間、これを再試行できない。このように修正された_シギル_で印を付けられる対象は、常に1つだけである。あなたがこの呪文を2つ目の対象に再びキャストした場合、最初の対象に対する_シギル_呪文は終了し、あなたの印は消え去る。"
         },
         "ChokingSmoke": {
           "Description": "あなたが少なくとも第6ランクに高められた「ファイアーボール」をキャストする際、あなたはその呪文の標準的な効果を以下のように変更できる：呪文のダメージを6d6減少させる。あなたの「ファイアーボール」はそのエリアに有毒な煙の立ち込める雲を残す。霧ではなく煙であるが、この雲はそれ以外には@UUID[Compendium.pf2e.spells-srd.Item.GKpEcy9WId6NJvtx]{スティンキング・クラウド}の効果を持つ。"
         },
         "ConfoundingImage": {
-          "Description": "あなたが「ミラー・イメージ」をキャストする際、あなたはその持続時間を維持・最大1分に変更し、その射程を30フィートに変更できる。そうした場合、呪文の標準的な効果を以下に置き換える：あなたは射程内の空いているマスに現れるあなた自身の幻影の複製を作り出す。この映像はスペースを占有し、5フィートのリーチを持ち、あなたの味方はこの映像と挟撃することができる。この映像は、あなたの呪文DCに等しいACと、あなたの呪文DC－10に等しいセーヴィング・スロウ修正値を持つこと以外、クリーチャーが通常持つ他のいかなる属性も持たない。映像に攻撃がヒットするか、映像がセーヴに失敗するか、あるいはあなたが映像から30フィートより遠くに移動した場合、この呪文は終了する。クリーチャーは妨げられることなくそのスペースを通り抜けて移動できる。あなたが〈呪文の維持〉を行う際、あなたはこの映像を射程内の空いているマスに移動させることができる。"
+          "Description": "あなたが「ミラー・イメージ」をキャストする際、あなたはその持続時間を維持・最大1分に変更し、その射程を30フィートに変更できる。そうした場合、呪文の標準的な効果を以下に置き換える：あなたは射程内の空いているマスに現れるあなた自身の幻影の複製を作り出す。この映像はスペースを占有し、5フィートのリーチを持ち、あなたの味方はこの映像と挟撃することができる。この映像は、あなたの呪文DCに等しいACと、あなたの呪文DC－10に等しいセーヴィング・スロー修正値を持つこと以外、クリーチャーが通常持つ他のいかなる属性も持たない。映像に攻撃がヒットするか、映像がセーヴに失敗するか、あるいはあなたが映像から30フィートより遠くに移動した場合、この呪文は終了する。クリーチャーは妨げられることなくそのスペースを通り抜けて移動できる。あなたが〈呪文の維持〉を行う際、あなたはこの映像を射程内の空いているマスに移動させることができる。"
         },
         "DirectedPoison": {
           "Description": "あなたが「トキシック・クラウド」をキャストする際、その持続時間を維持・最大1分に変更し、その標準的な効果を変更して以下を含める：この雲は各ラウンドにあなたから離れるように移動しない。あなたが〈呪文の維持〉を行う際、1ラウンドに1回、あなたは雲を任意の方向に10フィート移動させることができる。"
@@ -8495,7 +8495,7 @@
           "Description": "あなたが4ランク以上に高レベル化された_ファイアーボール_をキャストする際、その呪文を改造して標準効果に以下を加えることができる：あなたの_ファイアーボール_は、そのエリアに短い間煙の雲を残す。この雲は霧ではなく煙であるが、それ以外は持続時間が1ラウンドしかないことを除き、@UUID[Compendium.pf2e.spells-srd.Item.9XHmC2JgTUIQ1CCm]{ミスト}(Mist)の効果を持つ。"
         },
         "StealVitality": {
-          "Description": "あなたが_ヴァンピリック・フィースト_を発動する際、その標準効果を以下のように変更できる：㚛一時的ヒット・ポイント㛛を得る代わりに、対象がセーヴィング・スロウに失敗または大失敗した場合、あなたは㚛あなた自身㛛の不器用または虚弱状態を取り除くために打ち消し判定を行うことができる。その状態の起点となったものを使用して、打ち消しランクとDCを決定する。その状態が持続的な効果によって引き起こされたものであり、あなたがその効果を取り除かなかった場合、あなたの次のターンの終了時にその状態が戻る。"
+          "Description": "あなたが_ヴァンピリック・フィースト_を発動する際、その標準効果を以下のように変更できる：㚛一時的ヒット・ポイント㛛を得る代わりに、対象がセーヴィング・スローに失敗または大失敗した場合、あなたは㚛あなた自身㛛の不器用または虚弱状態を取り除くために打ち消し判定を行うことができる。その状態の起点となったものを使用して、打ち消しランクとDCを決定する。その状態が持続的な効果によって引き起こされたものであり、あなたがその効果を取り除かなかった場合、あなたの次のターンの終了時にその状態が戻る。"
         },
         "SummonEnsemble": {
           "Description": "あなたが_サモン・インストゥルメント_をキャストする際、その持続時間を維持、最大1分に変更できる。そうした場合、あなたはあなたの呪文発動能力修正値に等しい数の楽器を召喚し、それらはあなたの周囲に浮遊して自ずから演奏を行う。あなたのターンに1回、あなたが〈呪文の維持〉を行う際、あなたの演奏を聞くことができる30フィート以内の敵1体を選択する。対象はその呪文のDCに対して@Check[will]セーヴを行わなければならない。失敗すると、対象はあなたの演奏に気を取られ、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になる。その後、対象は24時間の間一時的な免疫となる。"
@@ -8510,7 +8510,7 @@
           "Description": "あなたが_シギル_をキャストする際、その呪文を改造して標準効果に以下を加えることができる：対象は、あなたや他の者が追跡できるような魔法の痕跡を残す。あなたや他のクリーチャーは、対象を@UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{〈追跡〉}することを試みることができ、その際、《生存術》判定の代わりに《秘術》、《自然》、《神秘学》、《宗教》のいずれかの判定(あなたの_シギル_呪文の魔法の系統に一致するもの)を使用する。《生存術》による〈追跡〉と同様に、これは対象が訪れたことのある場所で行われ、その痕跡をたどるものでなければならない。離れた場所から対象を見つけられるようになるわけではない。このように改造された_シギル_でマークできる対象は、一度に1体のみである。2体目の対象にこの能力を再び使用した場合、1体目の対象にかかっていた_シギル_呪文は終了し、マークは消え去る。"
         },
         "UneasyRest": {
-          "Description": "|||あなたが_スリープ_をキャストする際、その呪文を改造して標準効果に以下を加えることができる：あなたの呪文の対象は、うなされるような夢を見る。セーヴィング・スロウに失敗または大失敗した対象が目を覚ましたとき、その対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態となる。|||"
+          "Description": "|||あなたが_スリープ_をキャストする際、その呪文を改造して標準効果に以下を加えることができる：あなたの呪文の対象は、うなされるような夢を見る。セーヴィング・スローに失敗または大失敗した対象が目を覚ましたとき、その対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態となる。|||"
         },
         "VolatileGrease": {
           "CriticalSuccess": "対象はunaffectedとなる。",
@@ -8538,7 +8538,7 @@
         "Prompt": "抵抗を得るための魔法の系統を選択する。"
       },
       "Spellshape": {
-        "BizzareTransformation": "あなたの次のアクションが@UUID[Compendium.pf2e.spells-srd.Item.8RWfKConLYFZpQ9X]{アンテイムド・フォーム}の発動である場合、あなたは<em>アンテイムド・フォーム</em>の形態によって得られる単一の素手攻撃のダメージ種別を、酸、殴打、冷気、電撃、火炎、毒、刺突、または斬撃のいずれかに変更できる。選択された攻撃は適切な特性を得る。",
+        "BizzareTransformation": "あなたの次のアクションが@UUID[Compendium.pf2e.spells-srd.Item.8RWfKConLYFZpQ9X]{アンテイムド・フォーム}の発動である場合、あなたは<em>アンテイムド・フォーム</em>の形態によって得られる単一の素手攻撃のダメージ種別を、酸、殴打、冷気、電撃、火炎、毒、刺突、または斬撃のいずれかに変更できる。選択された攻撃は適切なトレイトを得る。",
         "BloodlineConduit": "あなたは呪文をキャストする際、その呪文スロットを消費しない。",
         "BondConservation": "あなたは「絆のアイテムの魔力抽出」の追加の使用回数を得る。あなたはこの使用回数を使って、前の呪文よりも2ランク以上低い呪文をキャストすることができ、あなたの次のターン終了時までに使用しなければ失われる。",
         "BurningSpell": "この呪文は、他の効果に加えて@Damage[(@item.rank)[persistent,fire]]を与える。この呪文がすでに持続火炎ダメージを与える場合、この効果はない。この呪文は火炎系統を得る。",
@@ -8571,7 +8571,7 @@
         "DefensiveCoordination": "あなたは〈盾を構える〉ことができ、この呪文から状態ボーナスを得ているあなたの選択した味方1人は、即座に自身のリアクションを使用して〈盾を構える〉ことができる。",
         "DefensiveRecovery": "対象がこの呪文からヒット・ポイントを回復した場合、その対象は1ラウンドの間、ACとセーヴィング・スローに＋2の状態ボーナスも得る。@UUID[Compendium.pf2e.feat-effects.Item.jwxurN6JPQm9wXug]{効果：防御的回復}",
         "DivineInfusion": "対象は、自身の次のターン終了時まで、自身の近接武器および素手攻撃で追加ダメージを与える。あなたが<em>harm</em>を発動した場合はダメージ種別は虚無になり、あなたが<em>heal</em>を発動した場合は生命力になる。@UUID[Compendium.pf2e.feat-effects.Item.eecIuD6sGPX0FJcT]{効果：ディバインのインフュージョン}。",
-        "DousingSpell": "あなたは呪文の対象を水でびしょ濡れにする。対象が持続酸ダメージまたは持続火炎ダメージを受けている場合、それらの状態を終了させるためのDCは10に減少し、そのクリーチャーはそれらの種類の持続ダメージを即座に終了させるためにフラット判定を行うことができる。この呪文は水特性を得る(これにより、水への弱点を持つクリーチャーに直ちに追加ダメージを与える)。",
+        "DousingSpell": "あなたは呪文の対象を水でびしょ濡れにする。対象が持続酸ダメージまたは持続火炎ダメージを受けている場合、それらの状態を終了させるためのDCは10に減少し、そのクリーチャーはそれらの種類の持続ダメージを即座に終了させるためにフラット判定を行うことができる。この呪文は水トレイトを得る(これにより、水への弱点を持つクリーチャーに直ちに追加ダメージを与える)。",
         "EbbAndFlow": "射程内でこの呪文によってダメージを受けるクリーチャー1体を選択し、射程内でこの呪文によって回復する別のクリーチャー1体を選択する。あなたのヒールまたはハームはこれら両方のクリーチャーを対象とする。",
         "EchoingSpell": "あなたは自身の次のターン終了時までに、呪文スロットを消費することなく、その呪文を2回目に発動することができる。",
         "EchoingChannel": "射程内の追加のクリーチャー1体を選択する。そのクリーチャーを、同じ呪文の1アクション版の対象とする。この呪文は、あなたが発動した2アクションのハームまたはヒールと同じランクであり、別の呪文スロットを消費しない。",
@@ -8590,7 +8590,7 @@
         "HeraldicProclamation": "30フィート以内にいるすべての味方は@Damage[(2 * @item.rank)[healing,vitality]|shortLabel]のヒット・ポイントを獲得し、30フィート以内にいるすべての敵は、あなたの呪文DCに対する@Check[will|basic]セーヴを行い、失敗すると@Damage[(2 * @item.rank)[spirit]|traits:sanctified]ダメージを受ける。",
         "HeroicRecovery": "対象は次のターンの終了時まで、3つのボーナスを得る：移動速度への＋5フィートの状況ボーナス、攻撃ロールへの＋1状況ボーナス、ダメージ・ロールへの＋1状況ボーナス。さらに、対象が伏せているである場合、対象はリアクションを誘発しないフリー・アクションとして、ただちに〈立ち上がる〉ことができる。",
         "InTune": "あなたの次のアクションが放射範囲を持つコンポジション呪文のキャストである場合、その範囲はあなたからではなく、60フィート以内にいるあなたが選択した同意する味方から広がる。あなたが「観客の誘導」を持っている場合、代わりにその味方から円錐を発生させることができる。",
-        "InterweaveDispel": "あなたの次のアクションが敵に対する単一対象呪文のキャストであり、あなたが呪文攻撃ロールでその敵にヒットするか、敵がセーヴィング・スロウに失敗した場合、あなたはフリー・アクションとしてその敵に@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}をキャストし、通常通り呪文スロットを消費して、その敵に影響を与えている1つの呪文効果を対象にできる。",
+        "InterweaveDispel": "あなたの次のアクションが敵に対する単一対象呪文のキャストであり、あなたが呪文攻撃ロールでその敵にヒットするか、敵がセーヴィング・スローに失敗した場合、あなたはフリー・アクションとしてその敵に@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}をキャストし、通常通り呪文スロットを消費して、その敵に影響を与えている1つの呪文効果を対象にできる。",
         "IntoTheFuture": "あなたの次のアクションが、発動に1または㚛2アクション㛛かかる〈呪文の発動〉である場合、その呪文の効果は即座に発生するのではなく、1ラウンド後、つまりあなたの次のターンの開始時に発生する。呪文に関する対象や選択は呪文の発動時に決定されなければならず、視線や効果線などの必要条件は、呪文の発動時と効果の発生時の両方で満たされていなければならない。機会攻撃のリアクションや、敵対的なアクションを行うことによって敵の@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}を終了させることなど、呪文の発動アクションそのものに対する結果は遅延しない。",
         "KaleidoscopicEntreaty": {
           "Description": "あなたの次のアクションが@UUID[Compendium.pf2e.spells-srd.Item.Yph1UqZU8vMc9bJG]{エントリート・スピリット}をキャストすることである場合、あなたはあなたを中心とした@Template[type:emanation|distance:10]において、その精霊に色、光、音の見事な演出を放たせることができる。範囲内の各クリーチャーは、あなたのクラスDCまたは呪文DCに対して@Check[fortitude|against:class-spell]セーヴを行わなければならず、結果は以下の通りとなる。",
@@ -8609,7 +8609,7 @@
         "OverwhelmingBreath": "あなたが次の基本アクションとして、モンク系統を持ち持続時間のない〈呪文の発動〉を行う場合、その呪文およびその発動の結果としてあなたが行うすべての「ストライク」は、あなたのレベルに等しい値だけ、対象の物理ダメージに対する耐性を無視する。",
         "OverwhelmingEnergy": "あなたが次に使用するアクションが〈呪文の発動〉である場合、その呪文は対象の酸、冷気、電撃、火炎、または音波ダメージに対する耐性を、あなたのレベルに等しい値だけ無視する。これは、持続ダメージや、ウォール・オヴ・ファイアによって作成された壁など、呪文の持続的な効果によって引き起こされるダメージを含め、その呪文が与えるすべてのダメージに適用される。クリーチャーの完全耐性は影響を受けない。",
         "PitchPerfectProjection": "このラウンド中のあなたの次のアクションが〈呪文の発動〉であるか、射程を持つ聴覚効果を作り出すアクションを使用することである場合、その射程を30フィート増加させる。",
-        "PortentousSpell": "あなたが次に使用する基本アクションが〈呪文の発動〉である場合、あなたの〈呪文の発動〉アクティビティによって誘発されるリアクションを使用しようとするクリーチャーは、そのリアクションの一部としてロールされる攻撃ロールと技能判定に－2の状況ペナルティを受ける。さらに、その呪文に呪文攻撃が含まれているか、またはセーヴィング・スロウを必要とする場合、あなたが命中させたクリーチャー、またはセーヴに失敗したクリーチャーは、あなたの次のターン開始時まであなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}となる。@UUID[Compendium.pf2e.feat-effects.Item.klZVVIetJlR99cT6]{効果: 不吉な呪文}",
+        "PortentousSpell": "あなたが次に使用する基本アクションが〈呪文の発動〉である場合、あなたの〈呪文の発動〉アクティビティによって誘発されるリアクションを使用しようとするクリーチャーは、そのリアクションの一部としてロールされる攻撃ロールとスキル判定に－2の状況ペナルティを受ける。さらに、その呪文に呪文攻撃が含まれているか、またはセーヴィング・スローを必要とする場合、あなたが命中させたクリーチャー、またはセーヴに失敗したクリーチャーは、あなたの次のターン開始時まであなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}となる。@UUID[Compendium.pf2e.feat-effects.Item.klZVVIetJlR99cT6]{効果: 不吉な呪文}",
         "PurifyingSpell": "あなたが次に使用する基本アクションが、単一の生きているクリーチャーを対象とする「ヒール」のキャストである場合、あなたは「ヒール」の他の恩恵に加えて、対象に影響を及ぼしている病気または毒に対して打ち消しを試みることができる。そうした場合、「ヒール」は水の系統を得る。",
         "QuickenedCasting": "あなたの次の基本アクションが、秘術の発動、またはあなたが持つ最高ランクの呪文スロットよりも少なくとも2ランク低い呪文のキャストである場合、それをキャストするためのアクション数を1減らす(最低 or 1アクション)。",
         "ReachSpell": "あなたが次に使用するアクションが、射程を持つ〈呪文の発動〉である場合、その呪文の射程を30フィート増加させる。呪文の射程を増加させる際の標準ルールとして、その呪文の射程が通常㚛接触㛛である場合、その射程を30フィートに延長する。",
@@ -8620,7 +8620,7 @@
         "ScintillatingSpell": "あなたの次の基本アクションが、暗闇の系統を持たず、持続時間がなく、クリーチャーに反応セーヴを要求する〈呪文の発動〉である場合、その呪文は他の効果に加えて、きらめく光のしぶきとなって爆発する。その呪文に対する反応セーヴに失敗した各クリーチャーは1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}となり、大失敗したクリーチャーは代わりに1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}となる。",
         "SecondaryDetonationArray": "あなたの次の基本アクションが、ダメージを与える、持続時間がなく、エリアに影響を及ぼす〈呪文の発動〉である場合、そのエリア内の@Template[burst|distance:5]に光り輝く魔法陣が出現する。あなたの次のターンの開始時に、その魔法陣は爆発し、魔法陣の中にいるすべてのクリーチャーに@Damage[(@item.level)d6[force]|options:area-damage]ダメージを与える。これには@Check[reflex|against:spell|options:area-effect,damaging-effect]を伴う。その呪文が異なる種別のダメージを与えていた場合、魔法陣は代わりに@Damage[(@item.level)d6[@actor.flags.system.spellshape.arrayDamage]|options:area-damage]{その種別のダメージ}を与える(または、その呪文が複数の種別のダメージを与えられた場合は、あなたが選択した1つの種別)。",
         "SeneschalSpell": "あなたの次の基本アクションが〈呪文の発動〉であり、あなたの護衛対象が30フィート以内にいる場合、あなたは代わりにその護衛対象から呪文を発生させることができる。そのクリーチャーは自身のリアクションを使用して、呪文の呪文詠唱を大まかに完了させることができ、これにより、具現化があなたの護衛対象の周囲にのみ現れるため、その呪文はあなたにとって(彼らにとってではなく)無詠唱の系統を得る。",
-        "SinbladedSpell": "あなたが攻撃ロールに成功するか、対象がその呪文に対するセーヴィング・スロウに失敗した場合、あなたは対象に@Damage[(@item.rank)[bleed]]ダメージを与える。",
+        "SinbladedSpell": "あなたが攻撃ロールに成功するか、対象がその呪文に対するセーヴィング・スローに失敗した場合、あなたは対象に@Damage[(@item.rank)[bleed]]ダメージを与える。",
         "SnowdriftSpell": "地面にいる、この呪文の影響を受けたクリーチャー1体を選択する。そのクリーチャーの下、または隣接する地面の各マスは、くるぶしほどの深さの雪で満たされる。それらのマスはあなたの次のターン開始時まで、困難地形となる。クリーチャーは1マスの雪を取り除くために〈扱う〉を行うことができ、そのマスが火炎効果にさらされた場合、そのマスの雪は溶ける。",
         "SowSpell": "あなたの次のアクションが1アクションまたは2アクションを使用した〈呪文の発動〉である場合、その呪文は代わりに隣接するマスに植えられる。あなたは呪文をキャストする時点で、その呪文に関するすべての決定を行わなければならない。続く10分以内に、クリーチャーが植えられた呪文のスペースまたはそれに隣接するマスに入ったときにトリガーされるリアクションとして、あなたは植えた呪文を芽吹かせ、呪文の効果を発生させることができる。あなたが同時に維持できる植えた呪文は1つだけであり、10分以内に呪文をトリガーしなかった場合、それは消散し、呪文は失われる。クリーチャーは、あなたの呪文DCに対する《知覚》の判定に成功することで、植えられた呪文に気づくことができる。",
         "SpellShroud": "あなたの次のアクションがあなたを対象とする〈呪文の発動〉である場合、あなたはあなた自身を、あなたの次のターン開始時まで持続する濃い魔法の霧の@Template[emanation|distance:15]で包み込む。この雲の中のすべてのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}となり、雲の外のすべてのクリーチャーは、雲の中にいるクリーチャーに対して視認困難となる。",
@@ -8628,12 +8628,12 @@
         "SplitShot": "あなたの次のアクションが、持続時間がなく、単一の対象に対する攻撃ロールを必要とする〈呪文の発動〉である場合、射程内の2つ目の対象を選択できる。あなたは1回の攻撃ロールを行い、その結果を両方の対象のACと比較する。これはあなたのマルチアタック・ペナルティにおいて1回の攻撃としてカウントされる。2つ目の対象に対して、その呪文は通常与えるダメージの半分の量を物理的に与え、呪文の即時ダメージ以外の効果(状態やペナルティの付与など)は発生しない。",
         "SurgingMight": "あなたが次に使用するアクションが〈呪文の発動〉である場合、その呪文は、精神、生命力、虚無のダメージ・タイプに対して、あなたのレベルに等しい値だけ対象の耐性を無視する。これは、持続ダメージや呪文の継続的な効果によって引き起こされるダメージを含め、その呪文が与えるすべてのダメージに適用される。これにより呪文が完全耐性を無視することにはならず、抵抗のみを無視する。",
         "SynergisticSpell": "あなたはフリー・アクションとして、別の呪文をキャストできる。この呪文は、あなたのハルシオン呪文スロットのいずれかからキャストしなければならない。",
-        "ThunderclapSpell": "あなたの次のアクションが、電撃系統を持つか電撃ダメージを与え、持続時間がなく、クリーチャーにセーヴィング・スロウを要求する〈呪文の発動〉である場合、呪文の電撃の力は他の効果に加えて雷鳴を作り出す。その呪文に対する反応セーヴに失敗した各クリーチャーは1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}となり、大失敗したクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}となる。",
+        "ThunderclapSpell": "あなたの次のアクションが、電撃系統を持つか電撃ダメージを与え、持続時間がなく、クリーチャーにセーヴィング・スローを要求する〈呪文の発動〉である場合、呪文の電撃の力は他の効果に加えて雷鳴を作り出す。その呪文に対する反応セーヴに失敗した各クリーチャーは1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}となり、大失敗したクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}となる。",
         "TimelineSplittingSpell": "あなたはキャストに1アクションまたは2アクションかかる呪文を2つキャストする。これらは、異なる2つのレベルに高レベル化された同じ呪文であってはならない。あなたは呪文スロット、フォーカス・ポイント、物質要素など、両方の呪文の資源を消費する。攻撃ロール、セーヴィング・スロー、ダメージ、およびその他のダイス・ロールを含め、両方の呪文の即時結果を決定する。その後、事前に作成したロールを使用して、2つの呪文のうちどちらが効果を発揮するかを選択する。もう一方の呪文の資源も消費されるが、魔法がもう一方の時間線に消え去るため、その呪文は効果を発揮しない。",
         "UnlimitedPotential": "あなたの次のアクションが、持続時間のない5レベル以下の〈呪文の発動〉である場合、あなたはキャスト時にその準備された呪文を消費しない。",
         "UnusualComposition": "あなたの次のアクションが、聴覚または視覚の構成呪文をキャストすることである場合、系統が示す感覚だけでなく、振動感知のような特殊な感覚を含め、それを目撃できるあらゆる感覚を持つクリーチャーに影響を与えることができる。あなたは任意の感覚を除外することを選択できる。",
         "VigorousAnthem": "あなたと影響を受けるすべての味方は、3＋あなたの魅力修正値に等しい一時的HPを獲得する。これは1分の間持続する。@UUID[Compendium.pf2e.feat-effects.Item.7AzGhIOx4Df5Cicr]{効果:ヴィゴラス・アンセム}",
-        "WhatCouldHaveBeen": "あなたの次の判定がクリーチャーを召喚する〈呪文の発動〉である場合、そのクリーチャーはあなたのもう一つの姿となる。このクリーチャーは召喚されたクリーチャーの種類のままであり、ほぼ同じ能力を持つ(さらに以下の調整が加わる)が、明らかにあなたに酷似しており、物腰、話し方、刺青、衣服などの特徴的な要素を共有している可能性が高い。この召喚されたクリーチャーは、あなたが訓練済みである技能のあらゆる技能判定に＋1のステータス・ボーナス、専門家なら＋2のステータス・ボーナス、達人なら＋3のステータス・ボーナス、伝説的なら＋4のステータス・ボーナスを得る。また、このクリーチャーはあなたが未訓練であるすべての技能に－2のペナルティを受ける。",
+        "WhatCouldHaveBeen": "あなたの次の判定がクリーチャーを召喚する〈呪文の発動〉である場合、そのクリーチャーはあなたのもう一つの姿となる。このクリーチャーは召喚されたクリーチャーの種類のままであり、ほぼ同じ能力を持つ(さらに以下の調整が加わる)が、明らかにあなたに酷似しており、物腰、話し方、刺青、衣服などの特徴的な要素を共有している可能性が高い。この召喚されたクリーチャーは、あなたが訓練済みであるスキルのあらゆるスキル判定に＋1のステータス・ボーナス、専門家なら＋2のステータス・ボーナス、達人なら＋3のステータス・ボーナス、伝説的なら＋4のステータス・ボーナスを得る。また、このクリーチャーはあなたが未訓練であるすべてのスキルに－2のペナルティを受ける。",
         "WidenSpell": "あなたが次に行うアクションが、爆発、円錐、または直線の範囲を持ち、持続時間を持たない〈呪文の発動〉である場合、その呪文の範囲を増加させる。通常、少なくとも10フィートの半径を持つ爆発の半径に5フィートを加算する(これより小さい半径の爆発は影響を受けない)。通常、長さが15フィート以下の円錐または直線の長さに5フィートを加算し、それより大きい円錐または直線の長さに10フィートを加算する。",
         "WindTossedSpell": "あなたは対象の@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}(視認困難)状態と、対象があなたに対して得ているあらゆる遮蔽を無視する。この呪文は風属性を得る。",
         "WorldsphereGravity": {
@@ -8661,7 +8661,7 @@
       },
       "Sprite": {
         "Dijiang": {
-          "Emotion": "あなたが感情効果に対するセーヴィング・スロウで失敗(大失敗は除く)をロールしたとき、代わりに成功を得る。"
+          "Emotion": "あなたが感情効果に対するセーヴィング・スローで失敗(大失敗は除く)をロールしたとき、代わりに成功を得る。"
         },
         "LuminousSprite": {
           "Light": "光を放つ"
@@ -8681,7 +8681,7 @@
       },
       "Staff": {
         "AccursedStaff": {
-          "Note": "敵が、あなたのキャストした呪い属性を持つ呪文に対するセーヴィング・スロウに失敗した場合、あなたはその呪文のランクの2倍に等しい一時的ヒット・ポイントを得る。この一時的ヒット・ポイントは10分持続する。その敵は重大な脅威でなければならず、自ら進んで呪いの対象になった者であってはならない。"
+          "Note": "敵が、あなたのキャストした呪い属性を持つ呪文に対するセーヴィング・スローに失敗した場合、あなたはその呪文のランクの2倍に等しい一時的ヒット・ポイントを得る。この一時的ヒット・ポイントは10分持続する。その敵は重大な脅威でなければならず、自ら進んで呪いの対象になった者であってはならない。"
         }
       },
       "StalwartDefender": {
@@ -8891,7 +8891,7 @@
         "TenguFan": {
           "GustOfWind": "あなたは天狗の羽扇を起動することで、1レベルの@UUID[Compendium.pf2e.spells-srd.Item.g8QqHpv2CWDwmIm1]{ガスト・オヴ・ウィンド}呪文をキャストできる。@Check[fortitude|against:class-spell|traits:air]セーヴ。",
           "LightningBolt": "あなたは天狗の羽扇を起動することで、5レベルの@UUID[Compendium.pf2e.spells-srd.Item.9AAkVUCwF6WVNNY2]{ライトニング・ボルト}呪文をキャストできる。@Check[reflex|against:class-spell|basic|traits:electricity]セーヴ。",
-          "WallOfWind": "あなたは天狗の羽扇を起動することで、3レベルの@UUID[Compendium.pf2e.spells-srd.Item.it4ZsAi6XgvGcodc]{ウォール・オヴ・ウィンド}呪文をキャストできる。@Check[fortitude|against:class-spell|traits:air]{頑健セーヴィング・スロウ}セーヴ。"
+          "WallOfWind": "あなたは天狗の羽扇を起動することで、3レベルの@UUID[Compendium.pf2e.spells-srd.Item.it4ZsAi6XgvGcodc]{ウォール・オヴ・ウィンド}呪文をキャストできる。@Check[fortitude|against:class-spell|traits:air]{頑健セーヴィング・スロー}セーヴ。"
         },
         "WeaponFamiliarity": {
           "Prompt1": "ソード・グループから武器を1つ選択する。",
@@ -8953,13 +8953,13 @@
             "Prompt": "バルクが1以下の盾を選択する"
           },
           "Tome": {
-            "FirstSkillDropdown": "魔導書 — 1つ目の技能",
+            "FirstSkillDropdown": "魔導書 — 1つ目のスキル",
             "Label": "魔導書",
             "Paragon": {
               "InitiativeBonusLabel": "魔導書(極意)",
               "InitiativeToggle": "魔導書 — クリーチャーまたは出没に対するイニシアチブ"
             },
-            "SecondSkillDropdown": "魔導書 — 2つ目の技能"
+            "SecondSkillDropdown": "魔導書 — 2つ目のスキル"
           },
           "Wand": {
             "Adept": {
@@ -9098,12 +9098,12 @@
         }
       },
       "VitalityManipulationStance": {
-        "Note": "|||あなたが〈朦朧化の拳〉を使用する際、朦朧状態に対するセーヴを行う代わりに、対象にあなたのクラスDCに対する@Check[fortitude|against:class]セーヴを行わせることを選択できる。この選択は、対象がセーヴをロールする前に行わなければならない。</p><hr><p><strong>クリティカル成功</strong> 対象は影響を受けない。</p><p><strong>成功</strong> 対象の筋肉が一時的に弱くなる。1ラウンドの間、対象は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}状態となり、対象が操作特性を持つアクションを行おうとするたび、5＋自身の「弱体化」値に等しいDCの難易度判定(フラット・判定)に成功しなければ、そのアクションは妨害される。</p><p><strong>失敗</strong> 成功と同様だが、持続時間は1分となる。</p><p><strong>クリティカル失敗</strong> 成功と同様だが、持続時間は1分となり、難易度判定はDC 11となり、対象は持続時間中、すべての移動速度に-10フィートの状況ペナルティを受ける。</p>|||",
+        "Note": "|||あなたが〈朦朧化の拳〉を使用する際、朦朧状態に対するセーヴを行う代わりに、対象にあなたのクラスDCに対する@Check[fortitude|against:class]セーヴを行わせることを選択できる。この選択は、対象がセーヴをロールする前に行わなければならない。</p><hr><p><strong>クリティカル成功</strong> 対象は影響を受けない。</p><p><strong>成功</strong> 対象の筋肉が一時的に弱くなる。1ラウンドの間、対象は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}状態となり、対象が手作業トレイトを持つアクションを行おうとするたび、5＋自身の「弱体化」値に等しいDCの難易度判定(フラット・判定)に成功しなければ、そのアクションは妨害される。</p><p><strong>失敗</strong> 成功と同様だが、持続時間は1分となる。</p><p><strong>クリティカル失敗</strong> 成功と同様だが、持続時間は1分となり、難易度判定はDC 11となり、対象は持続時間中、すべての移動速度に-10フィートの状況ペナルティを受ける。</p>|||",
         "StrikeLabel": "生命力炸裂"
       },
       "WanderingChef": {
         "RegionalSpecialty": {
-          "BonusToggle": "地方の特産品 — セーヴィング・スロウボーナスを適用する",
+          "BonusToggle": "地方の特産品 — セーヴィング・スローボーナスを適用する",
           "Prompt": "そのアイテムは18レベル以上か？"
         }
       },
@@ -9156,38 +9156,38 @@
           "Label": "ウェアバット"
         },
         "Werebear": {
-          "Description": "あなたは25フィートの速度、1d8の刺突の顎による素手攻撃、およびアジャイル特性を持つ1d6の斬撃の爪による素手攻撃を得る。",
+          "Description": "あなたは25フィートの速度、1d8の刺突の顎による素手攻撃、およびアジャイルトレイトを持つ1d6の斬撃の爪による素手攻撃を得る。",
           "Label": "ウェアベア"
         },
         "Wereboar": {
-          "Description": "あなたは30フィートの速度、および薙ぎ払い特性を持つ1d8の斬撃の牙(牙)による素手攻撃を得る。",
+          "Description": "あなたは30フィートの速度、および薙ぎ払いトレイトを持つ1d8の斬撃の牙(牙)による素手攻撃を得る。",
           "Label": "ウェアボア"
         },
         "Werecrocodile": {
           "DeathRoll": {
             "ToggleLabel": "デス・ロール — 水中"
           },
-          "Description": "あなたは25フィートの速度と15フィートの水泳速度、および〈組み付き〉特性を持つ1d8の刺突の顎による素手攻撃を得る。あなたは動物またはハイブリッド形態において、息を2時間止めることができる。",
+          "Description": "あなたは25フィートの速度と15フィートの水泳速度、および〈組み付き〉トレイトを持つ1d8の刺突の顎による素手攻撃を得る。あなたは動物またはハイブリッド形態において、息を2時間止めることができる。",
           "Label": "ウェアクロコダイル"
         },
         "Weremoose": {
-          "Description": "あなたは25フィートの移動速度と、〈押し出す〉の系統特性を持つ1d8の刺突の枝角による素手攻撃を得る。",
+          "Description": "あなたは25フィートの移動速度と、〈押し出す〉の系統トレイトを持つ1d8の刺突の枝角による素手攻撃を得る。",
           "Label": "ウェアムース"
         },
         "Wererat": {
-          "Description": "あなたは25フィートの速度、フィネス特性を持つ1d6の刺突の顎による素手攻撃、およびアジャイルとフィネス特性を持つ1d4の斬撃の爪による素手攻撃を得る。あなたの動物形態のサイズは小型である。",
+          "Description": "あなたは25フィートの速度、フィネストレイトを持つ1d6の刺突の顎による素手攻撃、およびアジャイルとフィネストレイトを持つ1d4の斬撃の爪による素手攻撃を得る。あなたの動物形態のサイズは小型である。",
           "Label": "ウェアラット"
         },
         "Wereshark": {
-          "Description": "あなたは15フィートの速度と25フィートの水泳速度、および〈組み付き〉特性を持つ1d8の刺突の顎による素手攻撃を得る。あなたのハイブリッド形態は「両生、水泳25フィート」の特性を得る。動物形態では、あなたは陸上の移動速度を失い、〈水泳〉速度が35フィートに増加し、水棲特性を得る。",
+          "Description": "あなたは15フィートの速度と25フィートの水泳速度、および〈組み付き〉トレイトを持つ1d8の刺突の顎による素手攻撃を得る。あなたのハイブリッド形態は「両生、水泳25フィート」のトレイトを得る。動物形態では、あなたは陸上の移動速度を失い、〈水泳〉速度が35フィートに増加し、水棲トレイトを得る。",
           "Label": "ウェアシャーク"
         },
         "Weretiger": {
-          "Description": "あなたは25フィートの速度、1d8の刺突の顎による素手攻撃、およびアジャイル特性を持つ1d6の斬撃の爪による素手攻撃を得る。",
+          "Description": "あなたは25フィートの速度、1d8の刺突の顎による素手攻撃、およびアジャイルトレイトを持つ1d6の斬撃の爪による素手攻撃を得る。",
           "Label": "ウェアタイガー"
         },
         "Werewolf": {
-          "Description": "あなたは30フィートの速度、および〈足払い〉特性を持つ1d8の刺突の顎による素手攻撃を得る。",
+          "Description": "あなたは30フィートの速度、および〈足払い〉トレイトを持つ1d8の刺突の顎による素手攻撃を得る。",
           "Label": "ウェアウルフ"
         },
         "YouDontSmellRight": {
@@ -9237,7 +9237,7 @@
               "Title": "圧倒する潮流の使い魔"
             },
             "ParasiticMight": {
-              "Description": "あなたがヘックスを「発動」するか〈維持〉したとき、あなたの使い魔から15フィート以内にいる、最大ヒット・ポイントの半分未満のクリーチャー1体は、@Check[fortitude|against:spell]セーヴィング・スロウに成功しない限り、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。",
+              "Description": "あなたがヘックスを「発動」するか〈維持〉したとき、あなたの使い魔から15フィート以内にいる、最大ヒット・ポイントの半分未満のクリーチャー1体は、@Check[fortitude|against:spell]セーヴィング・スローに成功しない限り、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。",
               "Title": "寄生する力の使い魔"
             },
             "RestoredSpirit": {
@@ -9249,7 +9249,7 @@
               "Title": "忍び寄る夜の使い魔"
             },
             "BolsteringAid": {
-              "Description": "あなたの使い魔は助けになるあらゆる種類のコツを知っている！あなたがヘックスを「発動」するか〈維持〉したとき、あなたの使い魔が味方に隣接している場合、その味方は、あなたの次のターンの開始時までにその味方が行う次の攻撃以外の技能判定に＋2の状況ボーナスを得る。",
+              "Description": "あなたの使い魔は助けになるあらゆる種類のコツを知っている！あなたがヘックスを「発動」するか〈維持〉したとき、あなたの使い魔が味方に隣接している場合、その味方は、あなたの次のターンの開始時までにその味方が行う次の攻撃以外のスキル判定に＋2の状況ボーナスを得る。",
               "Title": "鼓舞する〈援護〉の使い魔"
             },
             "EnticingNegotiation": {
@@ -9359,7 +9359,7 @@
           }
         },
         "Strangle": {
-          "FlatCheckNote": "精神集中と操作の特性を持つ呪文の「キャスト」のように、発話を必要とし、かつ操作アクションでもあるアクションについては、掴まれていることによる追加のDC5の難易度分類なしの判定を行うのではなく、単一のDC10の難易度分類なしの判定を行うだけでよい。",
+          "FlatCheckNote": "精神集中と手作業のトレイトを持つ呪文の「キャスト」のように、発話を必要とし、かつ手作業アクションでもあるアクションについては、掴まれていることによる追加のDC5の難易度分類なしの判定を行うのではなく、単一のDC10の難易度分類なしの判定を行うだけでよい。",
           "VerbalNote": "あなたは@Check[flat|dc:10]に成功しなければならず、さもなければ発話を必要とするアクションを失う。"
         },
         "SubmissionHold": {
@@ -9391,7 +9391,7 @@
           "Prompt": "追加の恩恵を1つ選択する",
           "RollOptionLabel": "レジェンダリーの怪物を使用する",
           "Text": {
-            "Damage": "あなたの精神的な力が噴出して敵を罰する。あなたはすべての「打撃」と攻撃呪文で追加の1d4精神ダメージを与え、あなたの「打撃」と攻撃呪文は精神特性を得る。",
+            "Damage": "あなたの精神的な力が噴出して敵を罰する。あなたはすべての「打撃」と攻撃呪文で追加の1d4精神ダメージを与え、あなたの「打撃」と攻撃呪文は精神トレイトを得る。",
             "Description": "1日に1回、あなたが「ヤオグアイの怪力解放」を行うとき、あなたは以下の追加の恩恵のいずれか1つを得ることができ、これは1分の間、またはあなたが再び「形態変化」するまで持続する。",
             "Enlarge": "あなたの体はあり得ない高さまで成長する。あなたのエンラージ効果は4ランクに高められる。",
             "Fly": "あなたは空気そのものを蹴って跳び上がることができる。あなたはフライ呪文の効果を得る。",
@@ -9625,7 +9625,7 @@
           "MindCrusher": "精神粉砕",
           "PeerPressure": {
             "Label": "同調圧力",
-            "Note": "あなたのサイキック・ショックはアーク・特性を得るが、電撃ダメージではなく精神ダメージを与える。"
+            "Note": "あなたのサイキック・ショックはアーク・トレイトを得るが、電撃ダメージではなく精神ダメージを与える。"
           },
           "PsychicWave": "サイキック・ウェーヴ"
         },
@@ -9661,7 +9661,7 @@
         },
         "Moodscales": {
           "Modifier": "感情の鱗 — 感情効果に対する",
-          "Note": "あなたが感情効果に対するセーヴィング・スロウで成功をロールした場合、代わりに大成功を得る。"
+          "Note": "あなたが感情効果に対するセーヴィング・スローで成功をロールした場合、代わりに大成功を得る。"
         },
         "WeaponFamiliarity": {
           "AdvancedWeapons": "上級ドラゴンキン武器",
@@ -9679,7 +9679,7 @@
           }
         },
         "EffortlessInfluencer": {
-          "Note": "<p>あなたが《欺瞞》、《交渉》、または《威圧》の判定に成功したとき、その成功を目撃した60フィート以内の味方は、1分以内にその技能で行う次の判定に＋1の状況ボーナスを得る(あなたの判定が大成功だった場合は＋2のボーナス)。</p><p>@UUID[Compendium.sf2e.feat-effects.Item.ZQM4vfHEKgxvNJik]{効果: 軽やかなる感化者}</p>"
+          "Note": "<p>あなたが《欺瞞》、《交渉》、または《威圧》の判定に成功したとき、その成功を目撃した60フィート以内の味方は、1分以内にそのスキルで行う次の判定に＋1の状況ボーナスを得る(あなたの判定が大成功だった場合は＋2のボーナス)。</p><p>@UUID[Compendium.sf2e.feat-effects.Item.ZQM4vfHEKgxvNJik]{効果: 軽やかなる感化者}</p>"
         },
         "GetEm": {
           "LeadByExample": {
@@ -9688,7 +9688,7 @@
         },
         "HangInThere": {
           "CriticalSuccess": "対象は、自身のレベルの2倍にあなたの魅力修正値を加えた値に等しい一時的ヒット・ポイントを得る。@UUID[Compendium.sf2e.feat-effects.Item.B4JhFkbk5WHmWcOZ]{効果: 持ちこたえろ！}",
-          "Prompt": "どの習熟DCが使用されたか？",
+          "Prompt": "どの習熟度DCが使用されたか？",
           "Success": "対象は自身のレベルにあなたの魅力修正値を加えた値に等しい一時的ヒット・ポイントを得る。@UUID[Compendium.sf2e.feat-effects.Item.B4JhFkbk5WHmWcOZ]{効果:がんばれ！}"
         },
         "HiddenAgenda": {
@@ -9808,7 +9808,7 @@
             },
             "Silencer": {
               "LabelTactical": "タクティカル・サイレンサー",
-              "CriticalNoteTactical": "〈ストライク〉にクリティカルヒットした際、対象は音を出せなくなる。対象は音波攻撃を使えず、聴覚トレイトを持つ行動も使えない。これはまた、呪文詠唱に伴う呪文の詠唱や音声のために、対象が呪文を詠唱することを防ぐ(無詠唱呪文を除く)。対象は@Check[will|dc:27]セーヴに成功することで、このサイレンサーの効果に抵抗できる。"
+              "CriticalNoteTactical": "〈ストライク〉にクリティカルヒットした際、対象は音を出せなくなる。対象は音波攻撃を使えず、聴覚トレイトを持つアクションも使えない。これはまた、呪文詠唱に伴う呪文の詠唱や音声のために、対象が呪文を詠唱することを防ぐ(無詠唱呪文を除く)。対象は@Check[will|dc:27]セーヴに成功することで、このサイレンサーの効果に抵抗できる。"
             }
           }
         }
@@ -9874,7 +9874,7 @@
           "Akashic": {
             "AdvancedEpiphany": "あなたは@UUID[Compendium.sf2e.spells.Item.z0Spgrf92nmaqjCW]{アカシック・アシスタント}のフォーカス呪文を修得する。",
             "GreaterEpiphany": "あなたは@UUID[Compendium.sf2e.spells.Item.CjVOXjuvvTJqC7AD]{データ・ドレイン}のフォーカス呪文を修得する。",
-            "Harmony": "あなたが「生命力転送」を行ったとき、対象はアカシック・レコードからサイキック・ダウンロードを受け取り、即座にリアクションとして@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を試みることができる。これは、クリーチャーが〈思い出す〉を使用したときに誘発する特殊能力、リアクション、または自由行動を誘発しない。",
+            "Harmony": "あなたが「生命力転送」を行ったとき、対象はアカシック・レコードからサイキック・ダウンロードを受け取り、即座にリアクションとして@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を試みることができる。これは、クリーチャーが〈思い出す〉を使用したときに誘発する特殊能力、リアクション、またはフリー・アクションを誘発しない。",
             "InitialEpiphany": "あなたは@UUID[Compendium.sf2e.spells.Item.mAu69GVbFKYzQM5a]{アカシック・ファウント}のフォーカス呪文を修得する。",
             "PerfectHarmony": "あなたは、@UUID[Compendium.pf2e.spells-srd.Item.vPWMEyVTreMOoFnm]として機能する次元外の記憶の宮殿を作成する。この半次元への扉を作成するには1分かかる。記憶の宮殿はアクセスするたびに同じレイアウトを維持し、日課の準備の間に調整できる。記憶の宮殿にいる各ファンタズマル・ミニオンは、アカシック・アシスタント(*アカシック・アシスタント*呪文によって作成されるものと同様)として機能する。"
           },
@@ -9920,7 +9920,7 @@
             },
             "InitialEpiphany": "あなたは@UUID[Compendium.sf2e.spells.Item.smCC1LNhMb7Z1lrU]{アントヘム}のフォーカス・呪文を修得する。",
             "PerfectHarmony": {
-              "Addendum": "各ラウンドで最初にあなたが「生命力転移」を行った際、ヒット・ポイントを回復した対象は、フリー・アクションとして〈ストライド〉できる。これには移動系統特性がある。"
+              "Addendum": "各ラウンドで最初にあなたが「生命力転移」を行った際、ヒット・ポイントを回復した対象は、フリー・アクションとして〈ストライド〉できる。これには移動系統トレイトがある。"
             }
           },
           "Shadow": {
@@ -9969,7 +9969,7 @@
           "ToggleLabel": "危険察知 — 《知覚》ボーナスを得る"
         },
         "DefensiveGunner": {
-          "ToggleLabel": "防御的銃手 — 銃はすでにパリィ系統特性を持っている。"
+          "ToggleLabel": "防御的銃手 — 銃はすでにパリィ系統トレイトを持っている。"
         },
         "EnhancedExploit": {
           "Label": "弱点利用強化"
@@ -10022,13 +10022,13 @@
       "SharedAncestryFeats": {
         "DoubleDraw": {
           "kasatha": {
-            "Description": "腕を手順的に使用することで、保持している装備を素早く移動させることができる。あなたは最大2回まで、持っているアイテムを取り出す、しまう、または入れ替えるために、2回〈扱う〉を行う。"
+            "Description": "腕を手順的に使用することで、保持している装備品を素早く移動させることができる。あなたは最大2回まで、持っているアイテムを取り出す、しまう、または入れ替えるために、2回〈扱う〉を行う。"
           },
           "skittermander": {
-            "Description": "腕を手順的に使用することで、保持している装備を素早く移動させることができる。あなたは最大2回まで、持っているアイテムを取り出す、しまう、または入れ替えるために、2回〈扱う〉を行う。"
+            "Description": "腕を手順的に使用することで、保持している装備品を素早く移動させることができる。あなたは最大2回まで、持っているアイテムを取り出す、しまう、または入れ替えるために、2回〈扱う〉を行う。"
           },
           "shobhad": {
-            "Description": "あなたは4本の腕の間で、保持している装備を効率的に移動させることができる。あなたは2回〈扱う〉を行い、それぞれを使用して持っているアイテムを取り出す、しまう、または入れ替える。"
+            "Description": "あなたは4本の腕の間で、保持している装備品を効率的に移動させることができる。あなたは2回〈扱う〉を行い、それぞれを使用して持っているアイテムを取り出す、しまう、または入れ替える。"
           }
         }
       },
@@ -10071,7 +10071,7 @@
           "PhotonToggle": "宇宙の注入 — 生命ダメージを与える"
         },
         "HarmonicConvergence": {
-          "Alteration": "あなたが不調和特性を持つアクションを使用するとき、あなたは自身のレベルの半分に等しい値の一時的ヒット・ポイントを得る。"
+          "Alteration": "あなたが不調和トレイトを持つアクションを使用するとき、あなたは自身のレベルの半分に等しい値の一時的ヒット・ポイントを得る。"
         },
         "HomingMote": {
           "Note": "あなたは対象の視界遮蔽を無視する。"
@@ -10146,7 +10146,7 @@
           "ToggleLabel": "威圧の嘲り — セーヴDC減少"
         },
         "SuppressingFire": {
-          "Note": "あなたが範囲特性を持つ武器で攻撃を行う場合、あなたの攻撃に対するセーヴィング・スローに失敗した影響範囲内の敵は、あなたの次のターン開始時まで@UUID[Compendium.sf2e.conditions.Item.enA7BxAjBb7ns1iF]{制圧}状態となる。"
+          "Note": "あなたが範囲トレイトを持つ武器で攻撃を行う場合、あなたの攻撃に対するセーヴィング・スローに失敗した影響範囲内の敵は、あなたの次のターン開始時まで@UUID[Compendium.sf2e.conditions.Item.enA7BxAjBb7ns1iF]{制圧}状態となる。"
         }
       },
       "Spellshape": {
@@ -10157,7 +10157,7 @@
           "Alteration": "あなたがダメージのためにロールしたダイスの出目が2未満の場合、その出目は代わりに2になる。"
         },
         "DeleteRootAccess": {
-          "Alteration": "*デリート*の対象を「コンストラクトまたはテック・クリーチャー1体」に置き換える。デリートの通常の効果の代わりに、対象のレベルがあなたのレベル－3以下である場合、対象はあなたによって@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]状態となる。対象はあなたに支配されることに抵抗するために意志セーヴィング・スロウを試みることができる。対象がすでに他の誰かの命令下にある場合、支配しているクリーチャーもセーヴィング・スロウをロールし、コンストラクトはより良い結果を使用する。",
+          "Alteration": "*デリート*の対象を「コンストラクトまたはテック・クリーチャー1体」に置き換える。デリートの通常の効果の代わりに、対象のレベルがあなたのレベル－3以下である場合、対象はあなたによって@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]状態となる。対象はあなたに支配されることに抵抗するために意志セーヴィング・スローを試みることができる。対象がすでに他の誰かの命令下にある場合、支配しているクリーチャーもセーヴィング・スローをロールし、コンストラクトはより良い結果を使用する。",
           "DegreeOfSuccess": {
             "CriticalFailure": "**クリティカル失敗** 失敗と同様だが、持続時間は1時間となる。",
             "CriticalSuccess": "**クリティカル成功** 対象は影響を受けず、24時間の間、一時的な免疫となる。",
@@ -10175,7 +10175,7 @@
           "Alteration": "その呪文は、対象の酸、冷気、電撃、火炎、または音波ダメージに対する耐性を、あなたのレベルに等しい値だけ無視する。これは、持続ダメージや、『ウォール・オヴ・ファイアー』によって作成された壁などの呪文の継続的な効果によって引き起こされるダメージを含め、その呪文が与えるすべてのダメージに適用される。クリーチャーの完全耐性は影響を受けない。"
         },
         "ShatterSpell": {
-          "Alteration": "あなたが対象の打ち消しに成功したとき、その呪文効果または魔法のアイテムと同じスペースを占めるあなたの選択したクリーチャー1体は、あなたの呪文DCに対する基本的な反応セーヴを行い、対象の打ち消しランクの1d4倍に等しいフォース・ダメージを受ける。対象が火炎などのダメージの種別に対応する系統特性を持っている場合、この効果はフォース・ダメージの代わりにそのダメージを与える。"
+          "Alteration": "あなたが対象の打ち消しに成功したとき、その呪文効果または魔法のアイテムと同じスペースを占めるあなたの選択したクリーチャー1体は、あなたの呪文DCに対する基本的な反応セーヴを行い、対象の打ち消しランクの1d4倍に等しいフォース・ダメージを受ける。対象が火炎などのダメージの種別に対応する系統トレイトを持っている場合、この効果はフォース・ダメージの代わりにそのダメージを与える。"
         },
         "SignalBoost": {
           "Alteration": "呪文の射程を30フィート増加。射程を増加させる呪文の標準ルール通り、その呪文の通常の射程が接触である場合、その射程を30フィートに延長する。"
@@ -10219,15 +10219,15 @@
           "Prompt": "固定具を選択する。"
         },
         "AnchoringStrike": {
-          "CriticalSuccess": "その〈ストライク〉はアンカリング系統特性を得る。あなたはこのストライクのためにロールしたダメージ・ダイスをロールし直すことができるが、たとえ結果が悪くなっても、2回目の結果を使用しなければならない。",
-          "Success": "その〈ストライク〉はアンカリング特性を得る。"
+          "CriticalSuccess": "その〈ストライク〉はアンカリング系統トレイトを得る。あなたはこのストライクのためにロールしたダメージ・ダイスをロールし直すことができるが、たとえ結果が悪くなっても、2回目の結果を使用しなければならない。",
+          "Success": "その〈ストライク〉はアンカリングトレイトを得る。"
         },
         "Paradox": {
           "Analyst": {
             "QuantumField": "あなたは無限の可能性と複雑な理論方程式を、まるであたかも周囲に刻み込まれているかのように、はっきりと見て理解する。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}または@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行うとき、あなたはあなたの量子フィールド内にある、関連する2体のクリーチャー、危険、保持していないオブジェクト、および効果に対してその結果を適用できる。あなたが自身の量子フィールドを〈維持〉するたび、あなたはフリー・アクションとして、自身の量子フィールド内の適切な対象に対して〈見回す〉または〈思い出す〉を行うことができる。"
           },
           "Anomaly": {
-            "QuantumField": "あなたの現在の姿の周囲で、あなたの代替反復のイメージが明滅し、あなたの動きはブレて見え、あなたの言葉は異世界の音の合唱となって響き渡る。量子フィールド内の敵が精神集中特性を持つアクションを試みるたび、その敵が@Check[type:flat|dc:5]に成功しない限り、そのアクションは妨害される。"
+            "QuantumField": "あなたの現在の姿の周囲で、あなたの代替反復のイメージが明滅し、あなたの動きはブレて見え、あなたの言葉は異世界の音の合唱となって響き渡る。量子フィールド内の敵が精神集中トレイトを持つアクションを試みるたび、その敵が@Check[type:flat|dc:5]に成功しない限り、そのアクションは妨害される。"
           },
           "GapInfluenced": {
             "QuantumField": "超自然的な静電気があなたの周囲に渦巻き、あなたの存在に慣れていない者にとって思考を捉えどころのないものにする。あなたは自身の量子フィールド内のクリーチャーに対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}となる。量子フィールド内のクリーチャーがあなたに攻撃を命中させたとき、あなたはあなたの次のターン開始時までそのクリーチャーに対するこの恩恵を失う。"
@@ -10247,7 +10247,7 @@
         },
         "ZoneOverlap": {
           "DebrisZone": "「残骸エリア」は上級移動困難な地形となる。",
-          "RadiantZone": "領域の重複により、クリーチャーはもう一度セーヴィング・スロウを試みなければならなくなる。",
+          "RadiantZone": "領域の重複により、クリーチャーはもう一度セーヴィング・スローを試みなければならなくなる。",
           "TwistedDarkZone": "《ツイステッド・ダーク・ゾーン》は、以前セーヴに大成功したクリーチャーの、一時的な直近の完全耐性を1ラウンドの間無視する。"
         }
       },

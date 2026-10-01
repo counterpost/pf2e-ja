@@ -4486,7 +4486,7 @@
     },
     "Inspirit Hazard": {
       "name": "インスピリット・ハザード/Inspirit Hazard",
-      "description": "<p> <strong>使用制限</strong>を1日1回</p>\n<p> <strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{無力化}危険を</p>。\n<p> <strong>必要条件</strong>その危険は壊れていない。</p>\n<hr />\n<p>あなたはその危険の中に創造の精霊を目覚めさせる。あなたはその危険の効果を学ぶ。</p>\n<p>次の10分の間、あなたがクリーチャーのアクションを観察して、そのアクションが危険の反応や自由アクションを引き起こす場合、その危険を無効にしなかった場合、あなたはリアクションを使ってその危険を再武装させ、観察されたクリーチャーがそれを即座に引き起こすようにできる。</p>",
+      "description": "<p> <strong>使用制限</strong>を1日1回</p>\n<p> <strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{無力化}危険を</p>。\n<p> <strong>必要条件</strong>その危険は壊れていない。</p>\n<hr />\n<p>あなたはその危険の中に創造の精霊を目覚めさせる。あなたはその危険の効果を学ぶ。</p>\n<p>次の10分の間、あなたがクリーチャーのアクションを観察して、そのアクションが危険の反応やフリー・アクションを引き起こす場合、その危険を無効にしなかった場合、あなたはリアクションを使ってその危険を再武装させ、観察されたクリーチャーがそれを即座に引き起こすようにできる。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Wayang Weapon Familiarity": {
@@ -25588,7 +25588,7 @@
     },
     "Spellshape Mastery": {
       "name": "スペルシェイプ・マスタリー/Spellshape Mastery",
-      "description": "<p>あなたの呪文を変更するのに、通常のキャスティングと同じくらいの時間しかかからない。あなたは呪文形状の単一アクションを自由アクションとして使用できる。</p>",
+      "description": "<p>あなたの呪文を変更するのに、通常のキャスティングと同じくらいの時間しかかからない。あなたは呪文形状の単一アクションをフリー・アクションとして使用できる。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Hidden Paragon": {
@@ -29291,7 +29291,7 @@
     },
     "Manipulate Realm": {
       "name": "マニピュレイト・レルム/Manipulate Realm",
-      "description": "<p>あなたは、最終的な変身への信念を持ち続けたことで、顕在化した領域をより高い制御を学んだ。あなたが領域を顕現させるときにミシック・ポイントを消費すると、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.JxuXTJIKRwmYn08D]{Drain Realm}、@UUID[Compendium.pf2e.actionspf2e.Item.Ssp7CCGMJhcAfeYw]{Spread Realm}、および@UUID[Compendium.pf2e.actionspf2e.Item.mpFTlTGmPBKXMq2C]{Unleash Realm}の自由アクションを使用できる。</p>",
+      "description": "<p>あなたは、最終的な変身への信念を持ち続けたことで、顕在化した領域をより高い制御を学んだ。あなたが領域を顕現させるときにミシック・ポイントを消費すると、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.JxuXTJIKRwmYn08D]{Drain Realm}、@UUID[Compendium.pf2e.actionspf2e.Item.Ssp7CCGMJhcAfeYw]{Spread Realm}、および@UUID[Compendium.pf2e.actionspf2e.Item.mpFTlTGmPBKXMq2C]{Unleash Realm}のフリー・アクションを使用できる。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
@@ -34411,7 +34411,7 @@
     },
     "Reason Rapidly": {
       "name": "リーズン・ラピッドリー/Reason Rapidly",
-      "description": "<p>あなたの心は手掛かりを信じられない速さで処理する。あなたは一度に最大5つの@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}アクションを瞬時に使用する。あなたが〔思い出す〕時に通常トリガーされる特別な能力や自由アクションがあれば、これらのアクションには使用できない。</p>",
+      "description": "<p>あなたの心は手掛かりを信じられない速さで処理する。あなたは一度に最大5つの@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}アクションを瞬時に使用する。あなたが〔思い出す〕時に通常トリガーされる特別な能力やフリー・アクションがあれば、これらのアクションには使用できない。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Master Wizard Spellcasting": {
@@ -47487,7 +47487,7 @@
     },
     "True Hypercognition": {
       "name": "トゥルー・ハイパーコグニション/True Hypercognition",
-      "description": "<p>あなたの思考は驚異的な速さで働く。あなたは最大五回の〔思い出す〕アクションを即座に使用する。もしあなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}の時に通常起動される特別な能力や自由アクションを持っているなら、それらをこれらのアクションには使用できない。</p>",
+      "description": "<p>あなたの思考は驚異的な速さで働く。あなたは最大五回の〔思い出す〕アクションを即座に使用する。もしあなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}の時に通常起動される特別な能力やフリー・アクションを持っているなら、それらをこれらのアクションには使用できない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
