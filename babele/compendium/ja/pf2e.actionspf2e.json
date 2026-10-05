@@ -1931,7 +1931,7 @@
     },
     "Administer Ambient Magic": {
       "name": "アドミニスター・アンビエント・マジック/Administer Ambient Magic",
-      "description": "<p><strong>使用制限</strong> once per hour</p><hr /><p><strong>効果</strong> Your ostilli pulses a calm lavender color as it converts stored magic into a curative balm. You regain @Damage[(2*(floor(@actor.level/4))d4)[healing]] ヒット・ポイント, and you can immediately attempt a flat 判定 to recover from persistent 出血ダメージ with the DC reduced to 10. This healing increases by 2d4 at 8th level and every 4 levels thereafter.</p>",
+      "description": "<p><strong>使用制限</strong> once per hour</p><hr /><p><strong>効果</strong> Your ostilli pulses a calm lavender color as it converts stored magic into a curative balm. You regain @Damage[((2*floor(@actor.level/4))d4)[healing]] ヒット・ポイント, and you can immediately attempt a flat 判定 to recover from persistent 出血ダメージ with the DC reduced to 10. This healing increases by 2d4 at 8th level and every 4 levels thereafter.</p>",
       "source": "Pathfinder Howl of the Wild"
     },
     "Demoralizing Charge": {

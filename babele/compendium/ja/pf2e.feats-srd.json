@@ -2175,7 +2175,7 @@
     },
     "Vivacious Bravado": {
       "name": "ヴィヴェイシャス・ブラバド/Vivacious Bravado",
-      "description": "<p><strong>必要条件</strong>あなたはこのターンに@UUID[Compendium.pf2e.feat-effects.Item.uBJsxCzNhje8m8jj]{Panache}を得る。</p>\n<hr />\n<p>あなたのエゴは膨れ上がり、痛みからの一時的な猶予を与える。あなたは自分のレベルに魅力修正値を加えた一時的なヒット・ポイントを得る。この効果はあなたの次のターン開始時まで持続する。</p>",
+      "description": "<p><strong>必要条件</strong>あなたはこのターンに@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{Panache}を得る。</p>\n<hr />\n<p>あなたのエゴは膨れ上がり、痛みからの一時的な猶予を与える。あなたは自分のレベルに魅力修正値を加えた一時的なヒット・ポイントを得る。この効果はあなたの次のターン開始時まで持続する。</p>",
       "selfEffect": "効果: 活力ある大胆さ",
       "source": "Pathfinder Player Core 2"
     },
@@ -3997,7 +3997,7 @@
     },
     "Masked Casting": {
       "name": "マスクト・キャスティング/Masked Casting",
-      "description": "<p><strong>必要条件</strong>あなたはあなたのシニフェルの仮面を身に着けている。</p>\n<p><strong>トリガー</strong>あなたは呪文を発動し始める。</p>\n<hr />\n<p>あなたは視覚効果からあなたを無理なく保護するために、盲目の仮面を通じて流れる魔法のエネルギーを利用する。 あなたは@UUID[Compendium.pf2e.actionspf2e.Item.UWdRX1VelipCzrCg]{Avert your Gaze}。</p>",
+      "description": "<p><strong>必要条件</strong>あなたはあなたのシニフェルの仮面を身に着けている。</p>\n<p><strong>トリガー</strong>あなたは呪文を発動し始める。</p>\n<hr />\n<p>あなたは視覚効果からあなたを無理なく保護するために、盲目の仮面を通じて流れる魔法のエネルギーを利用する。 あなたは[[/act avert-gaze]]。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -8101,7 +8101,7 @@
     },
     "Lassoing Lash": {
       "name": "ラッソーイング・ラッシュ/Lassoing Lash",
-      "description": "<p><strong>必要条件</strong>対象はあなたよりも1サイズ以上大きくしてはいけない。</p><hr /><p>あなたは素早く相手の周りに鞭を巻きつけ、引き寄せる。あなたは、対象の鞭の到達範囲内にある頑健 DCに対して[[/act grapple]]判定を試みる。</p><hr /><p><strong>クリティカル成功</strong>あなたは対象をあなたに隣接する任意の空いている地面に引き寄せる。</p>\n<p><strong>成功</strong>あなたは対象をあなたに隣接する最寄りの空いている地面に引き寄せる。</p>\n<p><strong>クリティカル失敗</strong>あなたは自分の力を誤って評価し、 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}に転ぶ。</p><hr /><p><strong>特殊</strong>あなたがタイタンレスラーの特技を持っていれば、あなたは自分よりも2サイズ大きいクリーチャーを対象にできる。あるいは、 《運動》において伝説的であれば、あなたは3サイズ大きいクリーチャーを対象にできる。</p>",
+      "description": "<p><strong>必要条件</strong>対象はあなたよりも1サイズ以上大きくしてはいけない。</p><hr /><p>あなたは素早く相手の周りに鞭を巻きつけ、引き寄せる。あなたは、対象の鞭の到達範囲内にある頑健 DCに対して@Check[athletics|against:fortitude]判定を試みる。</p><hr /><p><strong>クリティカル成功</strong>あなたは対象をあなたに隣接する任意の空いている地面に引き寄せる。</p>\n<p><strong>成功</strong>あなたは対象をあなたに隣接する最寄りの空いている地面に引き寄せる。</p>\n<p><strong>クリティカル失敗</strong>あなたは自分の力を誤って評価し、 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}に転ぶ。</p><hr /><p><strong>特殊</strong>あなたがタイタンレスラーの特技を持っていれば、あなたは自分よりも2サイズ大きいクリーチャーを対象にできる。あるいは、 《運動》において伝説的であれば、あなたは3サイズ大きいクリーチャーを対象にできる。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
@@ -9097,7 +9097,7 @@
     },
     "Shackles of Law": {
       "name": "シャックルズ・オブ・ロー/Shackles of Law",
-      "description": "<p>あなたは攻撃とその後のグラブで対象を制圧しようとする。近接〔ストライク〕を行う。ヒットした場合、かつダメージを与えるであれば、ヒットしたクリーチャーを@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple}するために《運動》判定を試みることができる。あなたがフレイルを装備している場合、あなたは〔組み付き〕の要件である手が空いている必要は無視できる。両方の攻撃はあなたのマルチアタック・ペナルティにカウントされるが、ペナルティは両方の攻撃を行った後にのみ増加する。</p>",
+      "description": "<p>あなたは攻撃とその後のグラブで対象を制圧しようとする。近接〔ストライク〕を行う。ヒットした場合、かつダメージを与えるであれば、ヒットしたクリーチャーを[[/act grapple]]するために《運動》判定を試みることができる。あなたがフレイルを装備している場合、あなたは〔組み付き〕の要件である手が空いている必要は無視できる。両方の攻撃はあなたのマルチアタック・ペナルティにカウントされるが、ペナルティは両方の攻撃を行った後にのみ増加する。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -23086,7 +23086,7 @@
     },
     "Fracture Timeflow": {
       "name": "フラクチャー・タイムフロー/Fracture Timeflow",
-      "description": "<p>あなたの時間の流れに干渉し、観察する能力は、敵に特に強い一撃を与えたときに、局所的な場所でそれをわずかに破砕することを可能にする。あなたが〔ストライク〕でクリティカル成功を収めるたびに、その〔ストライク〕の対象は、あなたのクラスDCまたは呪文DCのいずれか高い方に対して@Check[will|against:class-spell]セーヴを試みなければならない。</p> <hr /> <p> <strong>クリティカル成功</strong>対象は破砕された時間の流れに影響されない。</p>\n<p> <strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} 1ラウンドの間。</p>\n<p> <strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 2} 1ラウンドの間。</p>\n<p> <strong>クリティカル失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 3}になり、気絶から回復した後に1ラウンドのために2遅延する。</p>",
+      "description": "<p>あなたの時間の流れに干渉し、観察する能力は、敵に特に強い一撃を与えたときに、局所的な場所でそれをわずかに破砕することを可能にする。あなたが〔ストライク〕でクリティカル成功を収めるたびに、その〔ストライク〕の対象は、あなたのクラスDCまたは呪文DCのいずれか高い方に対して@Check[will|against:class-spell|options:inflicts:slowed,inflicts:stunned]セーヴを試みなければならない。</p> <hr /> <p> <strong>クリティカル成功</strong>対象は破砕された時間の流れに影響されない。</p>\n<p> <strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} 1ラウンドの間。</p>\n<p> <strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 2} 1ラウンドの間。</p>\n<p> <strong>クリティカル失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 3}になり、気絶から回復した後に1ラウンドのために2遅延する。</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star",
       "prerequisites": [
         {
@@ -25023,7 +25023,7 @@
     },
     "Vivacious Afterimage": {
       "name": "ヴィヴェイシャス・アフターイメージ/Vivacious Afterimage",
-      "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.feat-effects.Item.uBJsxCzNhje8m8jj]{Panache}を持っている。 </p><hr /><p>あなたは非常に速く動けるため、前や後ろにあなたにそっくりの短命な残像を作り出す。あなたは 〔ストライド〕 する。移動の任意の時点で、あなたはあなた自身の残像を後ろに残すことができる。あるいは、動いているのを止めて、その残像を前方に進めることもでき、その距離はあなたの移動速度の残り分までとなる。あなたの残像に関与するためにアクションを費やしたクリーチャーは、あなたのクラスの DCに対して@Check[will|against:swashbuckler]セーヴを使って、それを見破ることを試みることができる。敵があなたの残像のいずれかを見破った場合、その敵は一時的な免疫に対してすべてのビバシアス・アフターイメージに対して10分受ける。クリーチャーが残像を見破っていない限り、その残像は脇刺しの対象としてクリーチャーとして扱われる。残像はあなたの次のターン開始時までまたはビバシアス・アフターイメージを再度使用するまで持続し、どちらか早く来る方が適用される。 </p>",
+      "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{Panache}を持っている。 </p><hr /><p>あなたは非常に速く動けるため、前や後ろにあなたにそっくりの短命な残像を作り出す。あなたは 〔ストライド〕 する。移動の任意の時点で、あなたはあなた自身の残像を後ろに残すことができる。あるいは、動いているのを止めて、その残像を前方に進めることもでき、その距離はあなたの移動速度の残り分までとなる。あなたの残像に関与するためにアクションを費やしたクリーチャーは、あなたのクラスの DCに対して@Check[will|against:swashbuckler]セーヴを使って、それを見破ることを試みることができる。敵があなたの残像のいずれかを見破った場合、その敵は一時的な免疫に対してすべてのビバシアス・アフターイメージに対して10分受ける。クリーチャーが残像を見破っていない限り、その残像は脇刺しの対象としてクリーチャーとして扱われる。残像はあなたの次のターン開始時までまたはビバシアス・アフターイメージを再度使用するまで持続し、どちらか早く来る方が適用される。 </p>",
       "source": "Pathfinder #168: King of the Mountain",
       "prerequisites": [
         {
@@ -47808,7 +47808,7 @@
     },
     "Impressive Performance": {
       "name": "インプレッシブ・《芸能》/Impressive Performance",
-      "description": "<p>あなたの《芸能》は賞賛を引き起こし、ファンを得る。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression}を《芸能》を使用して《交渉》の代わりに行うことができる。観客の前で少なくとも10分を費やして演技を行った場合、あなたは0ペナルティで《芸能》全体を通じてそこにいた観客の最大10人を対象にして〔印象の改善〕を行うことができる。この対象数は1時間の《芸能》で20、2時間の《芸能》で50に増加する。 </p>",
+      "description": "<p>あなたの《芸能》は賞賛を引き起こし、ファンを得る。あなたは[[/act make-an-impression skill=performance]]を《芸能》を使用して《交渉》の代わりに行うことができる。観客の前で少なくとも10分を費やして演技を行った場合、あなたは0ペナルティで《芸能》全体を通じてそこにいた観客の最大10人を対象にして〔印象の改善〕を行うことができる。この対象数は1時間の《芸能》で20、2時間の《芸能》で50に増加する。 </p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
