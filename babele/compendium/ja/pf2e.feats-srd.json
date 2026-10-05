@@ -2303,7 +2303,7 @@
     },
     "Revivifying Mutagen": {
       "name": "リヴィヴィファイイング・ミュータジェン/Revivifying Mutagen",
-      "description": "<p><strong>必要条件</strong>あなたは変異薬の効果を受けている。</p><hr /><p>あなたは変異薬を代謝して、あなた自身を癒す。必要な変異薬のアイテムレベル2ごとに1d6のヒット・ポイントを回復し(最小1d6のHP)、ただし、変異薬の持続時間は即座に終了する。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは変異薬の効果を受けている。</p><hr /><p>あなたは変異薬を代謝して、あなた自身を癒す。あなたは@Damage[(floor(@actor.level/2))d6[healing]]{自身のレベル2ごとに1d6ヒット・ポイント}を回復するが、変異薬の持続時間は即座に終了する。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Spirit Soother": {
@@ -10184,7 +10184,7 @@
     },
     "Fear No Law, Fear No One": {
       "name": "フィア・ノー・ロー、フィア・ノー・ワン/Fear No Law, Fear No One",
-      "description": "<p>あなたが恐怖効果に対してセーヴで成功を収めた時、あなたは代わりにクリティカル成功を得る。さらに、あなたが@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}条件を得るたびに、その条件の値を1減少させる。通常通り、この能力は初期のフライト条件を1減少させるので、似たような能力が複数ある場合、それらは両方は同時に発動しない。</p>",
+      "description": "<p>あなたが恐怖に立ち向かう姿を仲間が見ると、仲間も同じように勇気づけられる。〔ストライク〕を行う。命中してダメージを与えた場合、あなたの周囲@Template[type:emanation|distance:20]{20フィートの放射}内にいて、あなたを見ることができる仲間はそれぞれ、自分の@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態の値を1減少させる。あなたの〔ストライク〕の対象がその恐れている状態の原因であった場合、代わりに値を2減少させる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -14357,7 +14357,7 @@
     },
     "Flashy Roll": {
       "name": "フラッシー・ロール/Flashy Roll",
-      "description": "<p>あなたは、元のトリガーに加えて、反応セーヴを試みる前にFlashy Dodgeを使用できる。そうした場合、状況ボーナスはトリガー効果に対するあなたの反応セーヴに適用される。</p>\n<p>Flashy Dodgeを使用し、トリガー攻撃が失敗またはクリティカル失敗した場合、またはセーヴィング・スローに成功またはクリティカル成功した場合、あなたはリアクションの一部として最大10フィートまで〔ストライド〕することもできる。そうした場合、リアクションは移動トレイトを得る。対応する移動タイプを持っている場合、Flashy RollはStridingの代わりにFlyingまたはSwimming中に使用できる。</p>",
+      "description": "<p>あなたは、元のトリガーに加えて、反応セーヴを試みる前に@UUID[Compendium.pf2e.feats-srd.Item.TnYHtN9gQASqOnii]{フラッシー・ドッジ}を使用できる。そうした場合、状況ボーナスはトリガー効果に対するあなたの反応セーヴに適用される。</p>\n<p>フラッシー・ドッジを使用し、トリガー攻撃が失敗またはクリティカル失敗した場合、またはセーヴィング・スローに成功またはクリティカル成功した場合、あなたはリアクションの一部として最大10フィートまで〔ストライド〕することもできる。そうした場合、リアクションは移動トレイトを得る。対応する移動タイプを持っている場合、フラッシー・ロールは〔ストライド〕の代わりに〔飛行〕または〔水泳〕中に使用できる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -14495,7 +14495,7 @@
     },
     "Read the Stars": {
       "name": "リード・ザ・スターズ/Read the Stars",
-      "description": "<p>あなたはイラクシ占星術の達人で、星々の配置から有用(もし暗号的であっても)なヒントを得ることができる。1晩に1回、星がはっきり見える場合、あなたは1時間を費やして天体を読み、特定の目標、出来事、または1週間以内に起こる活動に関連するかを見極めることができる。GMはシークレット判定を振り、<a class=\"inline-check with-repost\" data-pf2-traits=\"secret,lizardfolk\" data-pf2-repost-flavor=\"Read The Stars\" data-pf2-show-dc=\"gm\" data-pf2-label=\"Read The Stars DC\" data-pf2-check=\"astrology-lore\" data-roller-role=\"origin\" data-item-uuid=\"Compendium.pf2e.feats-srd.Item.DhqsKns2SaGcOKO9\" data-pf2-dc=\"28\"><i class=\"fa-solid fa-dice-d20 icon\"></i><span class=\"label\"><span data-visibility=\"gm\">DC28</span>アストロロジー《専門知識》</span><i class=\"fa-solid fa-comment-alt\" data-pf2-repost=\"\" title=\"Post prompt to chat\"></i></a>判定または<a class=\"inline-check with-repost\" data-pf2-traits=\"secret,lizardfolk\" data-pf2-repost-flavor=\"Read The Stars\" data-pf2-show-dc=\"gm\" data-pf2-label=\"Read The Stars DC\" data-pf2-check=\"occultism\" data-roller-role=\"origin\" data-item-uuid=\"Compendium.pf2e.feats-srd.Item.DhqsKns2SaGcOKO9\" data-pf2-dc=\"32\"><i class=\"fa-solid fa-dice-d20 icon\"></i><span class=\"label\"><span data-visibility=\"gm\">DC32</span>オカルティズム</span><i class=\"fa-solid fa-comment-alt\" data-pf2-repost=\"\" title=\"Post prompt to chat\"></i></a>判定を振る。成功した場合、選んだ出来事に役立つ暗号的な手がかりやアドバイスを知ることができ、クリティカル失敗の場合、誤解を招く暗号的な手がかりやアドバイスを知る。</p>",
+      "description": "<p>あなたはイラクシ占星術の達人で、星々の配置から有用(もし暗号的であっても)なヒントを得ることができる。1晩に1回、星がはっきり見える場合、あなたは1時間を費やして天体を読み、特定の目標、出来事、または1週間以内に起こる活動との関わりを見極めることができる。GMはシークレット判定として、@Check[astrology-lore|dc:28|traits:secret]判定または@Check[occultism|dc:32|traits:secret]判定のいずれかを振る。成功した場合、選んだ出来事に役立つ暗号的な手がかりやアドバイスを知ることができ、クリティカル失敗の場合、誤解を招く暗号的な手がかりやアドバイスを知る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
@@ -15240,7 +15240,7 @@
     },
     "Spirit of Vigil": {
       "name": "スピリット・オブ・ヴィジル/Spirit of Vigil",
-      "description": "<p>街ヴィジルは自身が破壊されたが、あなたはその戦士の精神を最後まで運搬する。あなたの死亡状態で死ぬ際の数値は1増加する(通常は死亡5、またはダイハードを持っていれば死亡6)。呪われた状態からの最大死亡値の減少は1軽度になる(最低0)。</p>",
+      "description": "<p>ヴィジルの街そのものは破壊されたが、あなたはその戦士の魂を生涯にわたって受け継ぐ。あなたが死亡する@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死}状態の値が1増加する(通常は瀕死5、@UUID[Compendium.pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]{ダイハード}を持っていれば瀕死6)。また、@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅}状態による瀕死の最大値の減少が1段階軽くなる(最低0)。</p>",
       "source": "Pathfinder Claws of the Tyrant",
       "prerequisites": [
         {
@@ -19391,7 +19391,7 @@
     },
     "Eternal Elixir": {
       "name": "エターナル・エリクサー/Eternal Elixir",
-      "description": "<p>あなたの身体は小さな変化をすんなり受け入れ、保持する。エリクサーと注入トレイトを持つアルケミーアイテムを、 1分以上の持続時間で飲むとき、エリクサーの持続時間を無限にすることができる。そのエリクサーのレベルがあなたのレベルの半分以下である場合にのみ可能である。後で別のエリクサーを飲んで無限にすれば、前の無限のエリクサーの効果は終了する。</p>",
+      "description": "<p>あなたの身体は小さな変化をすんなり受け入れ、保持する。エリクサーと錬成済みトレイトを持ち、持続時間が1分以上あるアルケミー・アイテムを飲むとき、あなたはそのエリクサーの持続時間を無期限にできる。これは@UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]{クイック・アルケミー}で作られたアイテムの10分という上限を超えることができる。これはそのエリクサーのレベルがあなたのレベルの半分以下である場合にのみ可能である。後で別のエリクサーを飲んで無期限にした場合、前の無期限のエリクサーの効果は終了する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -20973,7 +20973,7 @@
     },
     "Bodyguard": {
       "name": "ボディガード/Bodyguard",
-      "description": "<p>あなたは仲間の一人をあらゆる代償を払って守ることを誓った。あなた自身にどんなリスクがあろうとも。あなたの日課の準備中に、あなたの担当者として仲間の一人を選択する。あなたが挑発を行うと、挑発された敵があなたの担当者に対して受けるペナルティは-2に増加する。</p>\n<p>あなたは次の日課の準備の前に、担当者を変更するために10分を取ることができる。</p>",
+      "description": "<p>あなたは、自分にどれほどの危険が及ぶとしても、仲間の一人をあらゆる代償を払って守ると誓う。日課の準備の間に、仲間の一人をあなたの護衛対象として選ぶ。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.4DYFJ4TUsNkgFBDb]{〔トーント〕}を行ったとき、トーントされた敵があなたの護衛対象に対して受けるペナルティは-2に増加する。</p>\n<p>あなたは次の日課の準備の前に、10分をかけて護衛対象を変更できる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.6QFg5v5iW4I3rcAm]{効果: ボディガード}</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Tooth and Claw": {
@@ -23548,7 +23548,7 @@
     },
     "Hell's Armaments": {
       "name": "ヘルズ・アーマメンツ/Hell's Armaments",
-      "description": "<p>あなたは訓練済みとあなたのヘルナイトプレートの武器で十分に戦ったため、他の武器や鎧から得た専門知識を適用することができる。もしあなたが任意の武器または素手攻撃に専門の熟練度を持っている場合、あなたは自分の武器でも専門の熟練度を得る。もしあなたが任意の鎧または無防備の防御に専門の熟練度を持っている場合、あなたはヘルナイトプレートでも専門の熟練度を得る。</p>",
+      "description": "<p>あなたは自分の騎士団の武器で絶え間なく訓練を重ね、その殺傷力を最大限に引き出してきた。あなたが自分の騎士団の得意武器のいずれかによる〔ストライク〕でクリティカル成功を収めたとき、対象はあなたのクラスDCに対して@Check[fortitude|against:class]セーヴを試みなければならない。その武器のクリティカル・スペシャライゼーション効果を使用できる場合、あなたはその効果とこの効果のどちらを使うかを選ばなければならない。</p><hr /><p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象はあなたの次のターン終了時まで、自分の移動速度に-10フィートの状況ペナルティを受ける。</p>\n<p><strong>失敗</strong>成功と同様で、さらに対象はあなたの次のターン終了時まで@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}となる。</p>\n<p><strong>クリティカル失敗</strong>成功と同様で、さらに対象はあなたの次のターン終了時まで@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 2}となる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -24181,7 +24181,7 @@
     },
     "Skeptic's Defense": {
       "name": "スケプティックズ・ディフェンス/Skeptic's Defense",
-      "description": "<p><strong>使用制限</strong>一日一回</p>\n<p><strong>トリガー</strong>あなたは精神呪文または効果の対象であるか、その範囲内にいる。</p><hr /><p>あなたは精神的なたわごとは信じておらず、もちろんそれを恐れていない。あなたは嘲笑し、発動する効果を口頭で反論し、打ち消し判定を試みる。あなたの《威圧》修正値を使用し、クラス打ち消しのランクの半分を切り上げたものを使用する。成功した場合、発動効果を無視するが、他の対象またはその範囲にいたクリーチャーは引き続き影響を受ける。</p>\n<p>あなたが成功裏に反論した効果の出所が知性修正値–3以上の場合、そのクリーチャーは1ラウンドで麻痺する。これは音声による言語効果である。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたは精神呪文または精神効果の対象となるか、その範囲内にいる。</p><hr /><p>あなたは精神的なたわごとを信じておらず、むろんそれを恐れてもいない。あなたは嘲笑してトリガーとなった効果を口頭で論破し、自分の《威圧》修正値を用いて、自分のレベルの半分(切り上げ)を打ち消しランクとする打ち消し判定を試みる。成功した場合、あなたはトリガーとなった効果を無視するが、同じく対象となったか範囲内にいた他のクリーチャーは引き続き影響を受ける。</p>\n<p>あなたが打ち消しに成功した効果の源が知力修正値-3以上である場合、そのクリーチャーは1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁}となる。これは聴覚的な言語効果である。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -26436,7 +26436,7 @@
     },
     "Righteous Resistance": {
       "name": "ライチャス・レジスタンス/Righteous Resistance",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.Fr58LDSrbndgld9n]{レジスト・エナジー}を1日2回固有の神聖呪文として唱えることができるが、対象はあなた自身のみに限られる。もしあなたがあなた自身に耐性を火炎ダメージに付与する場合、 耐性は呪文の通常の値かあなたのレベルのいずれか高い方になる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.Fr58LDSrbndgld9n]{レジスト・エナジー}を1日2回固有の神聖呪文として唱えることができるが、対象はあなた自身のみに限られる。もしあなたがあなた自身に火炎ダメージへの耐性を付与する場合、耐性は呪文の通常の値かあなたのレベルのいずれか高い方になる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Rfhgj7nJ43xmevgO]{効果: ライチャス・レジスタンス}</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -29477,7 +29477,7 @@
     },
     "Deceptive Tactics": {
       "name": "ディセプティブ・タクティクス/Deceptive Tactics",
-      "description": "<p><strong>必要条件</strong>あなたは少なくとも三つの戦術を準備できる。</p><hr /><p>あなたの訓練は、戦争の技術が欺瞞の技術であることを教えている。あなたは《専門知識》修正値を《欺瞞》修正値の代わりに使用できる。《欺瞞》判定に対して@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{Create a Diversion}または@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{Feint}を行う時、あなたは《専門知識》に対する熟練ランクを使用でき、他の特技の要件を満たすために《欺瞞》に対する熟練ランクの代わりに用いることができる。〔注意をそらす〕 または 〔フェイント〕 アクションを修正する特技(例えば@UUID[Compendium.pf2e.feats-srd.Item.HEBXaS656MZTiWFu]{Lengthy Diversion})に対して。それにより、あなたは長い気を引く特技を得る。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは少なくとも3つの戦術を準備できる。</p><hr /><p>あなたの訓練は、戦争の技術が欺瞞の技術であることを教えてきた。あなたは[[/act create-a-diversion skill=warfare-lore variant=distracting-words]]、[[/act create-a-diversion skill=warfare-lore variant=gesture]]、[[/act create-a-diversion skill=warfare-lore variant=trick]]、または[[/act feint skill=warfare-lore]]のための《欺瞞》判定において、《欺瞞》修正値の代わりにウォーフェア《専門知識》修正値を使用できる。また、@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{〔注意をそらす〕}または@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〔フェイント〕}アクションを修正する特技(@UUID[Compendium.pf2e.feats-srd.Item.HEBXaS656MZTiWFu]{レングシー・ダイヴァージョン}など)の前提条件を満たすために、《欺瞞》の習熟ランクの代わりにウォーフェア《専門知識》の習熟ランクを使用できる。あなたはレングシー・ダイヴァージョン特技を得る。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Warped Constriction": {
@@ -34572,7 +34572,7 @@
     },
     "Trailblazing Stride": {
       "name": "トレイルブレイジング・ストライド/Trailblazing Stride",
-      "description": "<p>あなたは 荒野を移動することに慣れている。陸上を移動する際、あなたは非魔法的な難しい地形の効果を無視する。</p>",
+      "description": "<p>陸上を移動している間、あなたは植物、菌類、または起伏のある地面によって生じた移動困難地形を無視する。動物、ビースト、菌類、または植物のトレイトを持つクリーチャーについて@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〔思い出す〕}のスキル判定に成功したとき、あなたはそのターンの残りの間、自分の移動速度に+10フィートの状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.P6hfR6mJHqQpR1c8]{効果: トレイルブレイジング・ストライド}</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -37531,7 +37531,7 @@
     },
     "Defy Hell": {
       "name": "ディファイ・ヘル/Defy Hell",
-      "description": "<p> <strong>必要条件</strong>あなたは不敬ではない。</p> <hr /> <p>あなたの目的への献身が、敵の攻撃を耐えるための無限の力と勇気を与える。この姿勢にいる限り、あなたは精神的効果に対するセーヴに+2の状況ボーナスを得て、ヘルブレイカー・ストライクを行うことができる。</p>\n<p> <strong>ヘルブレイカー〔ストライク〕</strong> <span class=\"action-glyph\">2</span> (holy)武器または非武器の〔ストライク〕を行う。これはあなたのマルチアタック・ペナルティを決定する際に2回の攻撃とカウントされる。あなたの〔ストライク〕がヒットした場合、追加で2d8のスピリットダメージを与える。18レベルでは、このダメージは3d8に増加する。</p>",
+      "description": "<p> <strong>必要条件</strong>あなたは不敬ではない。</p> <hr /> <p>あなたの目的への献身が、敵の攻撃を耐えるための無限の力と勇気を与える。この構えにいる限り、あなたは精神的効果に対するセーヴに+2の状況ボーナスを得て、@UUID[Compendium.pf2e.actionspf2e.Item.ASt94swgHlproIcd]{ヘルブレイカー・ストライク}を行うことができる。</p>\n<p> <strong>ヘルブレイカー〔ストライク〕</strong> <span class=\"action-glyph\">2</span> (holy)武器または非武器の〔ストライク〕を行う。これはあなたのマルチアタック・ペナルティを決定する際に2回の攻撃とカウントされる。あなたの〔ストライク〕がヒットした場合、追加で2d8のスピリットダメージを与える。18レベルでは、このダメージは3d8に増加する。</p>",
       "selfEffect": "構え: ヘルを拒む",
       "source": "Pathfinder Adventure Path: Hellbreakers",
       "prerequisites": [
@@ -41498,7 +41498,7 @@
     },
     "Signifer's Sight": {
       "name": "シグニファーズ・サイト/Signifer's Sight",
-      "description": "<p>あなたのサイニファーの仮面を流れる魔法は、あなたに暗闇の中を見る能力を与え、仮面は突然の閃光による明るい光の気を散らす影響を和らげる。あなたのサイニファーの仮面を身に着けているとき、あなたはダークヴィジョンを得る。さらに、あなたが@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}の間にサイニファーの仮面を身に着けていて、対象があなたが目くらましを受けているためだけに隠れている場合、対象に対するフラット判定 DCを5から3に減少させる。</p>",
+      "description": "<p>あなたのサイニファーの仮面を流れる魔法は、あなたに暗闇の中を見る能力を与え、仮面は突然の閃光がもたらす注意の乱れを和らげる。サイニファーの仮面を身に着けている間、あなたは暗視を得る。既に暗視を持っている場合、代わりにより優れた暗視を得る。さらに、サイニファーの仮面を身に着けている間にあなたが@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態であり、対象があなたが目が眩んでいることだけを理由に@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}である場合、そのクリーチャーを対象にするためのフラットチェックDCを5から3に減少させる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -46540,7 +46540,7 @@
     },
     "Diabolic Certitude": {
       "name": "ダイアボリック・サーティテュード/Diabolic Certitude",
-      "description": "<p><strong>トリガー</strong>あなたのターンが始まり、あなたはデヴィルを観察することができる。</p>\n<hr />\n<p>あなたのヘルナイト訓練により、地獄の住人の詳細があなたの心に深く刻まれる。観察しているデヴィルについて 〔思い出す〕 を試みる。この判定でクリティカル失敗をした場合、代わりに失敗を得る。</p>",
+      "description": "<p><strong>トリガー</strong>あなたのターンが始まり、あなたはデヴィルを観察することができる。</p>\n<hr />\n<p>あなたのヘルナイト訓練により、地獄の住人の詳細があなたの心に深く刻まれる。観察しているデヴィルについて@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〔思い出す〕}ための判定を試みる。この判定でクリティカル失敗をした場合、代わりに失敗となる。この判定で成功した場合、代わりにクリティカル成功となる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -48218,7 +48218,7 @@
     },
     "Healing Bomb": {
       "name": "ヒーリング・ボム/Healing Bomb",
-      "description": "<p>あなたは、命のエリクサーに泡立つ触媒を追加して、それを局所的な弾薬に変えることができる。あなたはそのエリクサーをアルケミー爆弾のように投げることができ、次の結果が得られる。</p><hr /><p><strong>成功</strong>対象はエリクサーを飲んだかのように影響を受け、対象に隣接する各生きているクリーチャーは、エリクサーのダメージダイスの数(例えば、下級命のエリクサーなら3HP)に等しい量のHPを再生する。</p>\n<p><strong>失敗</strong>対象はエリクサーのダメージダイスの数に等しい量のHPを再生する。</p>\n<p><strong>クリティカル失敗</strong>ヒーリング爆弾は効果がない。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.equipment-srd.Item.hDLbR56Id2OtU318]{エリクサー・オブ・ライフ}に泡立つ触媒を加えて、外用の投擲物に変えることができる。あなたはそのエリクサーを〔扱う〕アクションとして20フィート以内のクリーチャーに投げ、そのクリーチャーとその近くにいる者を回復できる。対象はそのエリクサーを飲んだかのように影響を受け、対象に隣接する生きているクリーチャーはそれぞれ、そのエリクサーのダメージ・ダイスの数に等しいヒット・ポイントを爆弾から回復する(たとえば下級のエリクサー・オブ・ライフなら3ヒット・ポイント)。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Cross the Threshold": {
