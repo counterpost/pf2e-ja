@@ -2126,7 +2126,7 @@
     },
     "Cover Tracks": {
       "name": "痕跡を隠す/Cover Tracks",
-      "description": "<p>You cover your tracks, moving up to half your travel 移動速度, using the @UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.DUOb8QrlC5t0adkL]{Travel 移動速度} rules. You don't need to attempt a Survival 判定 to cover your tracks, but anyone tracking you must succeed at a Survival 判定 against your Survival DC if it is higher than the normal DC to @UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{Track}.</p>\n<p>In some cases, you might Cover Tracks in an encounter. In this case, Cover Tracks is a single action and doesn't have the 探索 trait.</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.DUOb8QrlC5t0adkL]{旅の移動速度}のルールを用い、旅の移動速度の半分まで移動しながら自分の痕跡を隠す。痕跡を隠すために《生存術》判定を試みる必要はないが、あなたを追跡する者は、あなたの《生存術》DCが@UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{〔追跡〕}の通常のDCより高い場合、それに対する@Check[survival|against:survival|options:action:track]判定に成功しなければならない。</p>\n<p>場合によっては、遭遇中に〔痕跡を隠す〕を行うこともある。その場合、〔痕跡を隠す〕は単一アクションであり、探索トレイトを持たない。</p>",
       "source": "Pathfinder Player Core"
     },
     "Bless Ally": {

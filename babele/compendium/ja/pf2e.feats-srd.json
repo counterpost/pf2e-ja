@@ -15400,7 +15400,7 @@
     },
     "Soulsight (Bard)": {
       "name": "ソウルサイト（バード）/Soulsight (Bard)",
-      "description": "<p>あなたのミューズは外界の感覚を開かせた。あなたは不明瞭な感覚としての霊感を得て、その範囲は60フィートである。霊感により、あなたは生きているクリーチャー、大半の非無知のアンデッド、およびそこに記載された範囲内の憑依を感知することができる。あなたの聴覚や他の不正確な感覚と同様に、隠れているクリーチャーを見つけるためには@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}が必要である。</p>\n<p>霊感は物理的な身体ではなく、精神的な本質を検知するため、プロジェクトイメージなどの呪文によって投影された霊を検知できる。しかし、無魂の身体、コンストラクト、物体を検知することはできず、他の感覚のように、固体物体を透過することはできない。</p>",
+      "description": "<p>あなたのミューズは、彼方の世界へとあなたの感覚を開いた。あなたは60フィートの範囲を持つ不正確な感覚として霊感を得る。霊感により、あなたは記載された範囲内にいるクリーチャーの霊を感知できる。これには生きているクリーチャー、マインドレスでない大半のアンデッド、そしてハーントが含まれる。聴覚やその他の不正確な感覚と同様に、@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}のクリーチャーの位置を特定するには、やはり[[/act seek]]する必要がある。</p>\n<p>霊感は肉体ではなく霊的本質を感知するため、@UUID[Compendium.pf2e.spells-srd.Item.0873MWM0qKDDv81O]{プロジェクト・イメージ}のような呪文によって投影された霊や、本来は魂を持たない物体に取り憑いた霊を感知できる。魂を持たない肉体、コンストラクト、物体は感知できず、大半の感覚と同様に固体を透過しない。</p>",
       "source": "Pathfinder Player Core"
     },
     "Channel the Godmind": {
@@ -15638,7 +15638,7 @@
     },
     "Fabricated Connections": {
       "name": "ファブリケイテッド・コネクションズ/Fabricated Connections",
-      "description": "<p>あなたはアクションを取ったかのように非常に説得力をもって@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Lie}できるため、それを成功裏に完了したとみなされるすべての具体的な恩恵を獲得する。</p>\n<p>あなたは《欺瞞》を別のスキルの代わりに振ることができる、@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{Earn Income}、@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression}、@UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Request}、または@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{Subsist}を試みるとき。</p>\n<p>あなたはFabricated Connectionsを使って〔印象の改善〕または〔要請する〕を1日1回使用でき、さらに週に1回〔収入を得る〕または〔生存〕を使用することができる。</p>",
+      "description": "<p>あなたはあるアクションを行ったと非常に説得力をもって偽ることができ、それを成功裏に完了した場合の具体的な恩恵をすべて獲得する。</p>\n<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〔収入を得る〕}、@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〔印象の改善〕}、@UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{〔要請する〕}、または@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{〔生存〕}を試みるとき、別のスキルの代わりに《欺瞞》を振ることができる。</p>\n<p>あなたはファブリケイテッド・コネクションズを1日1回[[/act make-an-impression skill=deception]]または[[/act request skill=deception]]のために使用でき、さらに1週間に1回〔収入を得る〕または[[/act subsist skill=deception]]のために使用できる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -15777,7 +15777,7 @@
     },
     "Swashbuckler Dedication": {
       "name": "スワッシュバックラー・デディケーション/Swashbuckler Dedication",
-      "description": "<p>スワッシュバックラーのスタイルを選ぶ。あなたは@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{Panache}クラス機能を得て、ブレヴァドトレイトを@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{Tumble Through}とあなたのスワッシュバックラーのスタイルで表示されているアクションに適用し、パンアッシュを得ることができる。あなたは訓練済みに《軽業》で、またはスタイルに関連付けられたスキルで訓練済みになる。もしあなたが両方のスキルで既に訓練済みであった場合、あなたは代わりに選んだスキルで訓練済みになる。あなたはまた、スワッシュバックラークラスの DCにおいて訓練済みになる。あなたは選んだスタイルの他の効果は得ない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.k9Ebp52kt0ZLHtMl]{Swashbuckler}</p>",
+      "description": "<p>スワッシュバックラーのスタイルを1つ選ぶ。あなたは@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{パナッシュ}と@UUID[Compendium.pf2e.classfeatures.Item.TALz3cU06Hb14Key]{スタイリッシュ・コンバタント}のクラス特徴を得る。また、@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〔すり抜ける〕}と、あなたのスワッシュバックラー・スタイルに示されたアクションにブラバド・トレイトを適用し、パナッシュを得られるようになる。あなたは《軽業》、またはあなたのスタイルに関連するスキルに訓練済みとなる。既に両方のスキルに訓練済みであった場合、代わりにあなたが選んだスキル1つに訓練済みとなる。あなたはまた、スワッシュバックラーのクラスDCに訓練済みとなる。あなたは選んだスタイルの他の効果は得ない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.k9Ebp52kt0ZLHtMl]{スワッシュバックラー}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -37240,7 +37240,7 @@
     },
     "Switcheroo": {
       "name": "スイッチェルー/Switcheroo",
-      "description": "<p><strong>トリガー</strong>あなたは遠隔攻撃の標的となる。</p>\n<p><strong>必要条件</strong>あなたは敵に隣接しており、パンナッシュを持っている。</p><hr /><p>あなたは攻撃を避けるために、隣接する敵と器用に場所を入れ替えようとする。隣接する敵を選び、@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{Reposition}を試みる。通常の〔位置をずらす〕の結果の代わりに、以下を使用する。</p><hr /><p><strong>クリティカル成功</strong>あなたは対象の敵と場所を入れ替え、敵は発動した攻撃の標的となる。</p>\n<p><strong>成功</strong>クリティカル成功として、ただしその対象は発動した攻撃に対して小遮蔽を持ち、あなたはパンナッシュを失う。</p>\n<p><strong>失敗</strong>あなたはパンナッシュを失う。</p>\n<p><strong>クリティカル失敗</strong>あなたは発動した攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となり、パンナッシュを失う。</p>",
+      "description": "<p><strong>トリガー</strong>あなたは遠隔攻撃の対象となる。</p>\n<p><strong>必要条件</strong>あなたは敵に隣接しており、@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{パナッシュ}を持っている。</p><hr /><p>あなたは攻撃を避けるために、隣接する敵と巧みに場所を入れ替えようとする。隣接する敵を1体選び、それに@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〔位置をずらす〕}を試みる。〔位置をずらす〕の通常の結果の代わりに、以下を使用する。</p><hr /><p><strong>クリティカル成功</strong>あなたは対象の敵と場所を入れ替え、その敵がトリガーとなった攻撃の対象となる。</p>\n<p><strong>成功</strong>クリティカル成功と同様だが、対象はトリガーとなった攻撃に対して軽遮蔽を得て、あなたはパナッシュを失う。</p>\n<p><strong>失敗</strong>あなたはパナッシュを失う。</p>\n<p><strong>クリティカル失敗</strong>あなたはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となり、パナッシュを失う。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Hindquarter Kick": {
@@ -40788,7 +40788,7 @@
     },
     "Flamboyant Athlete": {
       "name": "フランボイアント・アスリート/Flamboyant Athlete",
-      "description": "<p>あなたのパナッシュは、あなたに驚くべき偉業を行うことを許す：登ること、水に泳ぐこと、そして通常の能力を超えて大きく跳ぶこと。あなたがパナッシュを持っている間、あなたは次の恩恵を得る。</p>\n<ul>\n<li>あなたは登る速度と泳ぐ速度を地上の移動速度の半分に等しく得る。</li>\n<li>あなたの@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{High Jumps}と@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jumps}のDCは10減少する。これは、それらのDCを減少させる他の能力と組み合わさることはない。</li>\n<li>あなたが垂直に@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap}する際に移動できる距離は5フィートに増加する。あなたの移動速度が少なくとも15フィートならば、あなたの水平方向の〔跳躍〕の距離は15フィートに増加する。そうでない場合、あなたの移動速度が少なくとも30フィートならば、距離は20フィートに増加する。</li>\n</ul>",
+      "description": "<p>あなたのパナッシュは、登る、泳ぐ、そして通常の能力を遥かに超えて跳ぶという驚くべき偉業をあなたに行わせる。@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{パナッシュ}を持っている間、あなたは次の恩恵を得る。</p><ul><li>あなたは自分の地上移動速度の半分に等しい登攀移動速度と水泳移動速度を得る。</li><li>あなたの@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〔ハイジャンプ〕}と@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〔ロングジャンプ〕}のDCは10減少する。これはそれらのDCを減少させる他の能力とは累積しない。</li><li>あなたが垂直の@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{〔跳躍〕}で移動できる距離は5フィートに増加する。水平の〔跳躍〕の距離は、あなたの移動速度が15フィート以上なら15フィートに、30フィート以上なら20フィートに増加する。</li></ul>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -48946,7 +48946,7 @@
     },
     "Soulsight (Sorcerer)": {
       "name": "ソウルサイト（ソーサラー）/Soulsight (Sorcerer)",
-      "description": "<p>あなたの血に宿る霊的な本質が、あなたの感覚を別の世界に開かせた。あなたは不明瞭な感覚としての霊感を得て、その範囲は60フィートになる。</p>\n<p>霊感は、あなたに生きているクリーチャー、ほとんどの非無心のアンデッド、そしてリストにある範囲内の憑依したものの霊を感じ取ることを可能にする。あなたの聴覚や他の不正確な感覚と同様に、隠れているクリーチャーを見つけるためには@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}する必要がある。</p>\n<p>霊感は霊的な本質を感知するため、物理的な身体ではなく、呪文の@UUID[Compendium.pf2e.spells-srd.Item.0873MWM0qKDDv81O]{プロジェクト・イメージ}などによって投影された霊を感じ取ることができる。また、霊のない身体、構造物、または物体を検出できず、大部分の感覚と同様に、固体物体を貫通しない。</p>",
+      "description": "<p>あなたの血に宿る霊的本質が、彼方の世界へとあなたの感覚を開いた。あなたは60フィートの範囲を持つ不正確な感覚として霊感を得る。</p>\n<p>霊感により、あなたは記載された範囲内にいるクリーチャーの霊を感知できる。これには生きているクリーチャー、マインドレスでない大半のアンデッド、そしてハーントが含まれる。聴覚やその他の不正確な感覚と同様に、@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}のクリーチャーの位置を特定するには、やはり[[/act seek]]する必要がある。</p>\n<p>霊感は肉体ではなく霊的本質を感知するため、@UUID[Compendium.pf2e.spells-srd.Item.0873MWM0qKDDv81O]{プロジェクト・イメージ}のような呪文によって投影された霊や、本来は魂を持たない物体に取り憑いた霊を感知できる。魂を持たない肉体、コンストラクト、物体は感知できず、大半の感覚と同様に固体を透過しない。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {

@@ -3160,7 +3160,7 @@
     },
     "Gentle Breeze": {
       "name": "ジェントル・ブリーズ/Gentle Breeze",
-      "description": "<p>A light, soothing breeze flows through the area, making it easier to rest and recover. Medicine checks attempted to 恩恵 living creatures in the area get a +2 status bonus. Any 生きているクリーチャー in the area also gets a +2 status bonus to saving throws against afflictions and, if it remains within the area for the full duration, regains 10 ヒット・ポイント. In addition, the cool breeze reduces the temperature effects of heat by one step for any creature in the area.</p>\n<hr />\n<p><strong>高位化 (+2)</strong> The healing increases by 10 ヒット・ポイント.</p>",
+      "description": "<p>軽やかで心地よいそよ風がその範囲を吹き抜け、休息と回復を容易にする。その範囲内の生きているクリーチャーに恩恵を与えるために試みられた《医術》判定は+2のステータス・ボーナスを得る。その範囲内の生きているクリーチャーはまた、病魔に対するセーヴィング・スローに+2のステータス・ボーナスを得て、持続時間を通じてその範囲内に留まった場合、10ヒット・ポイントを回復する。さらに、この涼しいそよ風は、その範囲内のクリーチャーに対する暑熱の気温効果を1段階軽減する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.A9T9NIummN3ShJwz]{呪文効果: ジェントル・ブリーズ}</p><hr /><p><strong>高位化 (+2)</strong> 回復量が10ヒット・ポイント増加する。</p>",
       "range": "60フィート",
       "duration": "10分",
       "time": "2"
@@ -4011,7 +4011,7 @@
     },
     "Scholarly Recollection": {
       "name": "スコラリー・レコレクション",
-      "description": "<p><strong>トリガー</strong> You attempt a Perception 判定 to Seek, or you attempt a skill 判定 to Recall Knowledge with a skill you're 訓練済み in.</p>\n<hr />\n<p>Speaking a short prayer as you gather your thoughts, you're blessed to find yourself pointed in the right direction. The GM rolls the triggering 判定 twice and uses the better result.</p>",
+      "description": "<p><strong>トリガー</strong>あなたは[[/act seek]]のための《知覚》判定を試みるか、訓練済みであるスキルを用いて@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〔思い出す〕}のためのスキル判定を試みる。</p><hr /><p>考えをまとめながら短い祈りを唱え、あなたは正しい方向へ導かれる祝福を受ける。GMはトリガーとなった判定を2回振り、良い方の結果を使用する。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.oKxsDz4g7MMAfIob]{呪文効果: スカラリー・レコレクション}</p>",
       "time": "リアクション"
     },
     "Reaper's Lantern": {
@@ -6705,7 +6705,7 @@
     },
     "Sparkleskin": {
       "name": "スパークルスキン/Sparkleskin",
-      "description": "<p>あなたはクリーチャーの体をまばゆく輝くグリッターの層で覆う。対象は《欺瞞》判定に対して@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{Create a Diversion}および@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{Feint}に対する判定で+2の恒常ボーナスを得、かつ視覚の特徴を持つ@UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{Perform}に対する《芸能》判定でも+2の恒常ボーナスを得る。対象がダメージを受けると、傷口からグリッターが@Template[emanation|distance:5]のように噴出する。その範囲内のクリーチャーは頑健セーヴを試みなければならない。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}で1ラウンドの間である。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは3ラウンドの間眩惑される。</p>",
+      "description": "<p>あなたはクリーチャーの体をまばゆく輝くグリッターの層で覆う。対象は、@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{〔注意をそらす〕}および@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〔フェイント〕}のための《欺瞞》判定と、視覚トレイトを持つ@UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{〔芸をする〕}のための《芸能》判定に+2のステータス・ボーナスを得る。対象がダメージを受けると、その傷口から@Template[emanation|distance:5]にグリッターが噴き出す。その範囲内のクリーチャーは頑健セーヴを試みなければならない。</p>\n<p><strong>失敗</strong>そのクリーチャーは1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは3ラウンドの間、目が眩んだ状態となる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.ZK90sMiPCJzet8Rg]{呪文効果: スパークルスキン}</p>",
       "target": "1体の同意するクリーチャー",
       "range": "接触",
       "duration": "10分",
