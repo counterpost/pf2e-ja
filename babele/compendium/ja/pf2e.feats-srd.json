@@ -4450,7 +4450,7 @@
     },
     "Even the Odds": {
       "name": "イーブン・ジ・オッズ/Even the Odds",
-      "description": "<p> <strong>使用制限</strong>を1日1回10分</p>\n<p> <strong>トリガー</strong>あなたのターンが始まる。</p>\n<p> <strong>必要条件</strong>あなたは挟まれている。</p> <hr /> <p>あなたは絶望的な瞬間に最も輝く。自信に満ちた笑顔やポーズを見せ、あなたは@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{Panache}あなたのターン終了時まで。</p>",
+      "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<p><strong>トリガー</strong>あなたのターンが始まる。</p>\n<p><strong>必要条件</strong>あなたは挟撃されている。</p><hr /><p>あなたは絶望的な瞬間に最も輝く。自信に満ちた笑顔やポーズを見せ、あなたは自分のターンの終了時まで@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{パナッシュ}を得る。</p>",
       "selfEffect": "効果: 偶然を均す",
       "source": "Pathfinder Player Core 2"
     },
@@ -31722,7 +31722,7 @@
     },
     "Greater Physical Evolution": {
       "name": "グレーター・フィジカル・エヴォリューション/Greater Physical Evolution",
-      "description": "<p>あなたは容易に形を変えることができる。1日に1回、あなたは魔術師の呪文スロットを使用して、呪文スロットのランクと同様の任意の一般的なポリモーフ戦闘形態呪文を、あなたのレパートリーの中でのシグニチャー呪文のように発動することができる。あなたは、@UUID[Compendium.pf2e.feats-srd.Item.qxh4evekG28Gt1vj]{アーケイン Evolution}または@UUID[Compendium.pf2e.feats-srd.Item.K3TasgeZLJQ84qtZ]{プライマル Evolution}のどちらかから余分な呪文スロットを使用することができる。</p>",
+      "description": "<p>あなたは容易に形を変える。1日に1回、あなたはソーサラーの呪文スロットを使い、その呪文スロットのランクの一般的なポリモーフ戦闘形態呪文を、自分のレパートリーのシグネチャー呪文であるかのように発動できる。あなたはソーサラーの呪文スロットの代わりに、@UUID[Compendium.pf2e.feats-srd.Item.K3TasgeZLJQ84qtZ]{プライマル・エヴォリューション}による追加の呪文スロットを使用できる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -42330,7 +42330,7 @@
     },
     "Dedication to the Five": {
       "name": "デディケーション・トゥ・ザ・ファイブ/Dedication to the Five",
-      "description": "<p>あなたの@UUID[Compendium.pf2e.deities.Item.JndhOIHnQoMwnsw3]{ゴッドクロウ}に対する献身はクレリックに近い。あなたはクレリックの@UUID[Compendium.pf2e.feats-srd.Item.hT4INKGtly4QY8KN]{Domain Initiate}特技を得るが、領域として「完全」「保護」「暴政」「熱意」のいずれかを選ぶ必要がある。さらに、あなたは@UUID[Compendium.pf2e.deities.Item.d56paSkcwvll2OhR]{アバダー}、@UUID[Compendium.pf2e.deities.Item.QRkcFciCOmFoxF1B]{アスモデウス}、@UUID[Compendium.pf2e.deities.Item.eErEiVmBqltYXFJ6]{アイオーメデイ}、@UUID[Compendium.pf2e.deities.Item.qqqrbq4uCrelQvgH]{イローリ}、または@UUID[Compendium.pf2e.deities.Item.sZrdzh0ANQnZGXJb]{トラグ}のいずれかの宗教的なシンボルをあなたのディバイン・フォーカスとして使用できる。</p>",
+      "description": "<p>ゴッドクロウへのあなたの献身は、クレリックのそれに近い。あなたはクレリックの@UUID[Compendium.pf2e.feats-srd.Item.hT4INKGtly4QY8KN]{ドメイン・イニシエイト}特技を得るが、ドメインとして義務、力、完璧、保護のいずれかを選ばなければならない。この特技で得たフォーカス呪文を発動するたび、あなたはその呪文のランクの2倍に等しい一時的ヒット・ポイントを得る。これは1ラウンド持続する。さらに、あなたはアバダー、アスモデウス、アイオーメデイ、イローリ、またはウアーチのいずれかの聖印をディバイン・フォーカスとして使用できる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.f2Y19Msvnv23h8g9]{効果: デディケイション・オヴ・ザ・ファイヴ}</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
