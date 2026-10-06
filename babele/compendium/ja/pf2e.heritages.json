@@ -6,7 +6,7 @@
       "description": "<p>甲羅の最上層は特に可動で、落下時にそれを広げて優雅に空気を受け止められる。落下距離にかかわらず落下ダメージを受けない.</p>\n<ul>\n<li><strong>進化</strong> 肩のノードが一対の棘に進化し、それを活性化して発光する翼を展開できるようになる。自分を対象にして1日1回、@UUID[Compendium.pf2e.spells-srd.Item.A2JfEKe6BZcTG1S8]{フライ}を内在呪文として唱えられる；翼が活性化している間、半径20-フィートで明るい光を放ち、その先の20フィートまで薄暗い光を放つ.</li>\n<li><strong>進化</strong> 肩のノードが薄い膜の扇状構造に進化し、魔力が流れると共鳴する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.VPl4pifKcq7ecK87]{〈ストリデュレイティング・ソング〉}アクションを得る.</li>\n</ul>"
     },
     "Dog Kholo": {
-      "name": "犬コロ/Dog Kholo",
+      "name": "ドッグ・コロ/Dog Kholo",
       "description": "<p>原始的でほとんど犬のような体格をした素早い体つきのコロだ。通常は四足で移動するが、二足で立って戦うこともできるため、すべての装備品を通常通りに使える。両手が空いている場合、四つ足で走るときに移動速度を30フィートに増加できる.</p>"
     },
     "Warden Human (BB)": {
@@ -67,7 +67,7 @@
       "description": "<p>他の多くのケンタウロスより小さいが、フィートとしての速さは変わらない。大型の代わりに、あなたのサイズは中型になる。反応のセーヴィング・スローに+1の状況ボーナスを得る.</p>"
     },
     "Dogtooth Tengu": {
-      "name": "犬歯テング/Dogtooth Tengu",
+      "name": "ドッグトゥース・テング/Dogtooth Tengu",
       "description": "<p>くちばしに加えて鋭い尖った歯を持つ。伝説では強力な顎は鋼を噛み砕くとも言われるほどだ。まだそこまでは強くないが、牙は酷い傷を残す。くちばしの素手攻撃は致命（d8）トレイトを得る.</p>"
     },
     "Venomshield Nagaji": {
@@ -156,7 +156,7 @@
       "description": "<p>あなたは冷気から身を守る厚い毛皮に覆われている。あなたは自身のレベルの半分(最低1)に等しい冷気への抵抗を得る。あなたは環境による冷気効果を、本来よりも1段階軽いものとして扱う(信じがたい寒さは極寒、極寒は厳しい寒さ、といった具合になる)。</p>"
     },
     "Abyssal Merfolk": {
-      "name": "アビスのマーフォーク/Abyssal Merfolk",
+      "name": "アビサル・マーフォーク/Abyssal Merfolk",
       "description": "<p>海面のずっと下に住んでいる。尾はビパーフィッシュやアンコウのようで、光る目や半透明の皮膚を持つかもしれない。アビス語のマーフォークは不思議な評判を持つが、最も光のない領域でも存在できる。暗視を得、海洋深部の押しつぶすような水圧に対して免疫である。</p>"
     },
     "Full Moon Sarangay": {
@@ -196,7 +196,7 @@
       "description": "<p>祖先は他の鼠人より深く地下で暮らしていたため、暗闇で見る能力が備わっている。あなたは暗視を得る。</p>"
     },
     "Stormtossed Tengu": {
-      "name": "嵐にさらされたテング/Stormtossed Tengu",
+      "name": "ストームトスト・テング/Stormtossed Tengu",
       "description": "<p>ヘイ・フォンの祝福によるものか、あるいは嵐の最中に卵から孵ったためか、あなたは嵐に対する抵抗力を持つ。あなたは自身のレベルの半分(最低1)に等しい電撃への抵抗を得る。あなたは、@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態のクリーチャーが雨や霧によってのみ隠蔽されている場合、そのクリーチャーを対象とするためのフラット・判定に自動的に成功する。</p>"
     },
     "Mistbreath Azarketi": {
@@ -208,7 +208,7 @@
       "description": "<p>あなたの祖先は、呼吸するたびに有害となる汚染された水中で生き延びなければならなかった。あなたは自身のレベルの半分(最低1)に等しい毒への抵抗を得る。さらに、あなたは水の外で72時間生き延びることができ、その後窒息し始める。</p>"
     },
     "Oathkeeper Dwarf": {
-      "name": "誓約守りのドワーフ/Oathkeeper Dwarf",
+      "name": "オースキーパー・ドワーフ/Oathkeeper Dwarf",
       "description": "<p>成長する過程で、あなたは欲しいものを手に入れるために嘘をつこうとしたことはなく、必要に迫られた時でさえ、嘘をつくことはあなたを不快にさせる。特に信仰心の厚い者は、あなたがドワーフの義務の神、@UUID[Compendium.pf2e.deities.Item.zhPhYge7VJbIlJvA]{コルズ}の祝福を受けているとさえ思うかもしれない。</p>\n<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}を行うための《知覚》判定に+1状況ボーナスを得る。また、あなたに対して@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}を試みる際の《知覚》DCに+1状況ボーナスを得る。</p>\n<p>さらに、あなたが真実を語っている時に、他者を説得してあなたが真実を語っていると信じさせるための《交渉》判定に+2状況ボーナスを得る。そして、嘘をつくこと、および@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}に対するあなたの《欺瞞》DCに-4状況ペナルティを受ける。</p>"
     },
     "Riverside Tripkee": {
@@ -220,7 +220,7 @@
       "description": "<p>あなたの体は洞窟や樹木の陰で育つ菌類から作られており、暗い洞窟や巣穴が居場所だ。あなたは暗視を得る。あなたは植物のトレイトを失い、菌類のトレイトを得る。</p>"
     },
     "Badlands Orc": {
-      "name": "荒地オーク/Badlands Orc",
+      "name": "バッドランズ・オーク/Badlands Orc",
       "description": "<p>あなたは太陽に焦がされた悪地の出身であり、そこでは長い脚と環境に耐える能力が、あなたが繁栄する助けとなった。あなたは探索中に停止しなければならなくなるまで、通常の2倍の長さで@UUID[Compendium.pf2e.actionspf2e.Item.JuqmIAnkL9hVGai8]{〈急いで進む〉}ことができる。また、環境による熱効果を、本来よりも1段階軽いものとして扱う(信じがたい暑さは酷暑、酷暑は厳しい暑さ、といった具合になる)。</p>"
     },
     "House Drake": {
@@ -232,7 +232,7 @@
       "description": "<p>祖先は木々に住み、天夏のあらゆる水域で魚をとっていた。以下の恩恵から一つを選ぶ。選択は一度行うと変更できない。</p><ul><li>あらゆるバニヤンの木を登れる。あなたは @UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー} 特技を得、もし〔登攀〕のための 《運動》判定で成功を出したら代わりに会心成功になる。</li><li>どんな魚でも捕まえられる。あなたは水泳速度 15フィートを得る。</li></ul>"
     },
     "Tailed Goblin": {
-      "name": "尾付きゴブリン/Tailed Goblin",
+      "name": "テイルド・ゴブリン/Tailed Goblin",
       "description": "<p>あなたは強力な尾を持っており、おそらくモンキー・ゴブリンのコミュニティの末裔であるためだろう。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{〈登攀〉}を行うための《運動》判定に+2状況ボーナスを得る。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー}を得る。また、登攀や@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を行うために必要な空き手の数を1つ減らす。</p>",
       "rules": [
         {
@@ -269,7 +269,7 @@
       "description": "<p>あなたは「第一世界」の残酷さから他者を守るという誓いを立てた。フェイの精神に影響を与える能力に精通しているため、あなたの誓いはあなたのレベルの半分(最低1)に等しい精神への抵抗をあなたに与え、フェイについて〈思い出す〉ための《自然》判定に+2の状況ボーナスを与える。</p><hr /><p><strong>追加の誓約</strong>出会った残酷なフェイと対決する(成功する見込みが十分にある限り)</p>"
     },
     "Sweetbreath Kholo": {
-      "name": "甘い息のコロ/Sweetbreath Kholo",
+      "name": "スウィートブレス・コロ/Sweetbreath Kholo",
       "description": "<p>あなたは縞模様で淡い毛色のコーロであり、奇妙に心地よい息をしており、それを使って獲物を魅了することができる。あなたは《交渉》を訓練済みしている(もしすでに《交渉》を訓練済みしているなら、別のスキル)。さらに、対象があなたの息の匂いを嗅ぐことができる場合、@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉}を行う判定に+1の状況ボーナスを得る。</p>"
     },
     "Breaker Surki": {
@@ -309,7 +309,7 @@
       "description": "<p>体は小さいかもしれないが、全身に隠された毒腺が致命的な防御を秘めている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.kKKHwVUnroKuAnOt]{〈トキシック・スキン〉}反応を得る。</p>"
     },
     "Running Animal": {
-      "name": "疾走動物/Running Animal",
+      "name": "ランニング・アニマル/Running Animal",
       "description": "<p>あなたは陸上を高速で走るための動物である。通常、あなたは犬、チーター、イグアナのように四足で走るが、カンガルー、エミュー、ペンギンのように二足を使うこともできる。</p>\n<p>あなたは30フィートの陸上移動速度を持ち、選択した1つの動物の攻撃(通常は爪、顎、または尾)を持つ。</p>"
     },
     "Born of Animal": {
@@ -329,7 +329,7 @@
       "description": "<p>制御不能な魔法によって変容したあなたは、マナ荒野や同様に制御不能な魔法で荒廃した地域で生まれた。丈夫になった、あるいは冗長な臓器のため、持続する出血ダメージから回復するためのあなたのDC判定は10となり、通常の15ではない。さらに、持続ダメージ回復に対して特に効果的な援助がある場合、その判定は@Check[flat|dc:5]に減少し、通常の10ではない。</p>"
     },
     "Twilight Halfling": {
-      "name": "黄昏のハーフリング/Twilight Halfling",
+      "name": "トワイライト・ハーフリング/Twilight Halfling",
       "description": "<p>先祖は薄暮の隠蔽の下で多くの秘密の行為を行い、それが善であれ悪であれ、やがて彼らはハーフリングの鋭い視力を超える薄明視を見る能力を発達させた。あなたは薄明視を得る。</p>"
     },
     "Whipfang Nagaji": {
@@ -393,7 +393,7 @@
       "description": "<p>影や暗黒のフェイとの結びつき、地下のノームであるdrathnelar、または別の源に由来するにせよ、完全な暗闇の中でも見ることができる。暗視を得る。</p>"
     },
     "Fey-Touched Gnome": {
-      "name": "フェイに触れられたノーム/Fey-Touched Gnome",
+      "name": "フェイタッチト・ノーム/Fey-Touched Gnome",
       "description": "<p>フェイの血があなたの血管を流れ、彼らの魔力が満ちてあなたを真にその一員にする。あなたはノームとヒューマノイドのトレイトに加えてフェイトレイトを得る。原始の呪文リストから1つのキャントリップを選べ。この呪文を原始の先天呪文として随時唱えられる。キャントリップはレベルの半分（切り上げ）に等しい呪文ランクに高揚する。あなたは1日1回、First ワールドと再調整するために瞑想することで、同じリストの別のキャントリップに変更できる；これは10分の行為で、集中のトレイトを持つ。</p>"
     },
     "Battle-Trained Human (BB)": {
@@ -421,7 +421,7 @@
       "description": "<p>体は主に自然の葉で構成されており、木から舞い落ちる葉のように落下時に特に優雅に着地する。落下距離にかかわらず落下によるダメージを受けない。</p>"
     },
     "Oracular Samsaran": {
-      "name": "神託のサムサラン/Oracular Samsaran",
+      "name": "オラキュラー・サムサラン/Oracular Samsaran",
       "description": "<p>前世が霊的世界や現在・未来の出来事に対する鋭い洞察を与えており、歴史は繰り返される。アーケイン、ディバイン、またはオカルトのいずれかを選べ。その魔法系統の呪文リストから1つのキャントリップを得る。この呪文を選んだ系統の呪文として随時先天呪文で唱えられる。キャントリップはレベルの半分（切り上げ）に等しい呪文ランクに高揚する。</p>"
     },
     "Rainfall Orc": {
@@ -429,7 +429,7 @@
       "description": "<p>あなたは、絡み合う木々だけが豪雨や鉄砲水から身を守ってくれる熱帯雨林で生まれた。あなたは密林の地形を巧みに移動し、湿潤な環境で一般的な様々な病気に抵抗することを学んだ。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{〈登攀〉}または@UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{〈水泳〉}を行うための《運動》判定に+2の状況ボーナスを得、病気に対するセーヴィング・スローに+1の状況ボーナスを得る。</p>"
     },
     "Wilderness Samsaran": {
-      "name": "荒野のサムサラン/Wilderness Samsaran",
+      "name": "ウィルダネス・サムサラン/Wilderness Samsaran",
       "description": "<p>あなたの前世は、ティエン・シアやその先の主要な入植地から離れた様々な辺境の環境で転生してきた。あなたの過去の顕現は自力で生き残る術を学ばねばならず、あなたはわずかな資源しか持たない中でこの生存への意志を思い出す。あなたは《生存術》において訓練済みとなる。もし(背景やクラスなどから)自動的に《生存術》において訓練済みとなるのであれば、代わりにあなたが選択したスキルにおいて訓練済みとなる。あなたは木々、草木、下草による移動困難地形を無視できる。</p>"
     },
     "Makari Lizardfolk": {
@@ -437,7 +437,7 @@
       "description": "<p>あなたは象の鼻のような吻を持ち、神聖なるものと繋がりがある。リザードフォークの出自やアンセストラル特技から得るあらゆる呪文や魔法能力の系統は、通常の系統(通常はプライマル)ではなく、ディバインとなる。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.qwZBXN6zBoB9BHXE]{ディバイン・ランス}または@UUID[Compendium.pf2e.spells-srd.Item.RA7VKcen3p56rVyZ]{フォービディング・ウォード}のキャントリップのいずれかを選択して得、これをディバインの生得キャントリップとして望むままに発動できる。キャントリップは、あなたのレベルの半分を端数切り上げした値に等しい呪文ランクまで高められる。このキャントリップを発動する際、あなたは純粋に咆哮し鼻を広げることで発動するため、これはマニピュレートトレイトを失う。</p>"
     },
     "Treedweller Goblin": {
-      "name": "樹住まいのゴブリン/Treedweller Goblin",
+      "name": "ツリードウェラー・ゴブリン/Treedweller Goblin",
       "description": "<p>あなたは森林環境での生活に特にうまく適応している。あなたが森や密林にいる限り、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}および@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}を行うための《隠密》判定、@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{〈生存〉}を行うための《生存術》判定、そして@UUID[Compendium.pf2e.actionspf2e.Item.SB7cMECVtE06kByk]{〈痕跡を隠す〉}を行うためのあなたの《生存術》 DCに+2の状況ボーナスを得る。</p>",
       "rules": [
         {
@@ -469,7 +469,7 @@
       "description": "<p>外骨格に命を分ける小さな新芽が生えている。@UUID[Compendium.pf2e.ancestryfeatures.Item.BgHrucbZ9TH92RDv]{日光治癒}を使用するとき、自分の代わりに隣接する味方のヒット・ポイントを回復できる。その味方は1日間、太陽光のヒーリングのすべての使用に対して一時的に免疫になる。</p>"
     },
     "Gutsy Halfling": {
-      "name": "気概のあるハーフリング/Gutsy Halfling",
+      "name": "ガッツィー・ハーフリング/Gutsy Halfling",
       "description": "<p>一族は窮地でも冷静さを保ち、恐怖をしのぐことで知られている。感情効果に対するセーヴで成功を出した場合、代わりに大成功になる。</p>"
     },
     "Forge-Blessed Dwarf": {
@@ -513,7 +513,7 @@
       "description": "<p>あなたはストリクの語り部の才能ある家系から生まれた。肺が栄光に満ちた清浄な空気で満たされる最も高い山々や最も純粋な風景から、あなたはトリルを鳴らし、口笛を吹き、甘い歌を歌う。自然の音はあなたを歌うことに向かわせるが、声はあなたを物真似に向かわせる。あなたは物真似した声を〈なりすます〉ための《欺瞞》判定に+1の状況ボーナスを得る。このとき、声の響きが唯一の要因となる。もしあなたが《欺瞞》のマスターであれば、代わりに+2の状況ボーナスを得る。また、あなたは歌うための《芸能》判定に+1の状況ボーナスを得る。もしあなたが《芸能》のマスターであれば、代わりに+2の状況ボーナスを得る。</p>"
     },
     "Jinxed Tengu": {
-      "name": "ジンクスのついたテング/Jinxed Tengu",
+      "name": "ジンクスト・テング/Jinxed Tengu",
       "description": "<p>一族は呪いを何度も受けてきたが、今ではそれらが羽から雨のように滑り落ちる。呪いや不運効果に対するセーヴで成功を出した場合、代わりに大成功になる。@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅}状態を得そうになったとき、@Check[flat|dc:17]を試みる。成功した場合、得るはずのドゥームド状態の値を1だけ減らす。</p>"
     },
     "Peachchild Leshy": {
@@ -529,7 +529,7 @@
       "description": "<p>君は風の精霊の血を引くか、その影響下で生まれた。祖先のトレイトに加えてシルフのトレイトを得る。もし祖先がすでに低照度視を持っているなら、低照度視か暗視のいずれかを得る。アンセストラル特技を得るたびにシルフのフィートと祖先のフィートから選べる。</p>"
     },
     "Jinxed Halfling": {
-      "name": "ジンクスされたハーフリング/Jinxed Halfling",
+      "name": "ジンクスト・ハーフリング/Jinxed Halfling",
       "description": "<p>奇妙な祝福を受けて生まれた。典型的なハーフリングの幸運を欠く代わりに、他人の運を操作できる。あなたは決して @UUID[Compendium.pf2e.feats-srd.Item.ZbRVqf14RTJJIZXG]{ハーフリング・ラック} フィートをとれない、そして @UUID[Compendium.pf2e.actionspf2e.Item.hFRHPBj6wjAayNtW]{〈ジンクス〉} アクションを得る。</p>"
     },
     "Talos": {
@@ -565,7 +565,7 @@
       "description": "<p>外骨格を魔法で強化した。アーケインかオカルトの呪文リストから1つのキャントリップを得る。この呪文は先天呪文としていつでも唱えられる。キャントリップはレベルの半分を切り上げた呪文等級に高められる。</p>"
     },
     "Snow Goblin": {
-      "name": "雪のゴブリン/Snow Goblin",
+      "name": "スノー・ゴブリン/Snow Goblin",
       "description": "<p>あなたは極寒の地での生活に順応しており、空色から紺色までの肌と、青い毛皮を持っている。あなたは自身のレベルの半分(最低1)に等しい冷気への抵抗を得る。あなたは環境による冷気の影響を、1段階少ないものとして扱う(信じがたい寒さは極端な寒さになり、極端な寒さは深刻な寒さになる、といった具合である)。</p>"
     },
     "Shadow of the Courtier": {
@@ -618,7 +618,7 @@
       "description": "<p>あなたの体は織り込まれた海藻でできており、陸上と同じくらい水中で快適に過ごせる。あなたは20フィートの水泳移動速度を獲得し、常に水中で呼吸できる。しかし、あなたの陸上での移動速度は5フィート減少する(ほとんどの海藻レシィの場合、20フィートとなる)。</p>"
     },
     "Winter Kholo": {
-      "name": "冬のコロ/Winter Kholo",
+      "name": "ウィンター・コロ/Winter Kholo",
       "description": "<p>あなたは厚く房状の毛皮に覆われた頑健なコロであり、寒冷地域の厳しい冬を生き抜くことができる。あなたは自身のレベルの半分(最低1)に等しい冷気への抵抗を獲得する。あなたは環境による冷気の影響を、1段階少ない極端なものとして扱う(信じられないほどの寒さは極端な寒さになり、極端な寒さは厳しい寒さになる、といった具合である)。</p>"
     },
     "Surgewise Fleshwarp": {
@@ -626,11 +626,11 @@
       "description": "<p>あなたの体の繊毛のうねりは魔力の湧き出す場所に極めて敏感で、秘儀エネルギーへの洞察で震え、振動で秘密の存在を察知する。あなたは《神秘学》で訓練済みの熟練度ランクを得る。もしあなたが《神秘学》で訓練済みであるなら、代わりに任意の他のスキルで訓練済みになる。また、@UUID[Compendium.pf2e.feats-srd.Item.hDGosy2ZTwnyctEP]{オディティ・アイデンティフィケーション}スキル特技を得る。</p>"
     },
     "Born of Celestial": {
-      "name": "セレスティアルの生まれ/Born of Celestial",
+      "name": "ボーン・オブ・セレスティアル/Born of Celestial",
       "description": "<p>あなたはかつて強力なセレスティアルであったが、脱出や大きな罰によって、わずかな記憶と限られた力だけを残して、定命の殻に閉じ込められてしまった。残留する神聖な力により、ヤオグアイの出自やアンセストラル特技から獲得する呪文や魔法能力の系統は、通常の系統(通常はオカルト)ではなく、神聖となる。</p><ul><li><strong>ヒューマノイド・フォーム</strong>神聖な記憶の断片が今もあなたの心に散らばっている。あなたは《宗教》判定に+1の状況ボーナスを得る。</li><li><strong>ヤオグァイ・フォーム</strong>セレスティアルの力があなたの中を流れている。神聖呪文リストからキャントリップを1つ選択すること。あなたはこの呪文を、生得的な神聖キャントリップとして望むままに発動できる。キャントリップは、あなたのレベルの半分を切り上げたものに等しい呪文ランクに高められる。</li></ul>"
     },
     "Nomadic Halfling": {
-      "name": "遊牧のハーフリング/Nomadic Halfling",
+      "name": "ノマディック・ハーフリング/Nomadic Halfling",
       "description": "<p>あなたの先祖は代々各地を旅し、定住を好まなかった。あなたは利用可能な共通語および非共通語の中から任意の言語を2つ追加で習得する。さらに、あなたが@UUID[Compendium.pf2e.feats-srd.Item.P9HCz0uR6xPHuw72]{マルチリンガル}特技を取得するたびに、新たな言語をもう1つ習得する。</p>"
     },
     "Shifting Skeleton": {
@@ -642,7 +642,7 @@
       "description": "<p>あなたは水面にたやすく浮かぶ。静かな水面や他の害を与えない液体の表面を歩け、移動速度は通常の半分で移動する。また、流れる水の表面を移動するために@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{〈バランスを取る〉}を試みることができ、その際は水中を移動するために〔水泳〕判定のDCを使用する。こうする場合、速度は最大で半分しか出せず、失敗またはクリティカル失敗をした場合は通常の効果の代わりに水中に落ちる。</p>"
     },
     "Celestial Envoy Kitsune": {
-      "name": "セレスティアルの使者キツネ/Celestial Envoy Kitsune",
+      "name": "セレスティアル・エンボイ・キツネ/Celestial Envoy Kitsune",
       "description": "<p>ダイキツーの恩寵か、信仰心厚き先祖のおかげか、あなたには神との強い結びつきがあり、それが特定の加護をもたらしている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Aq2mXT2hLlstFL5C]{〈インヴォーク・セレスチャル・プリヴィレッジ〉}リアクションを獲得する。あなたの代替形態は、あなたが育った場所で一般的な、よく見られる中型のヒューマノイドの祖先(通常は人間)であり、尾のない形態と呼ばれる。</p>"
     },
     "Elfbane Hobgoblin": {
@@ -670,7 +670,7 @@
       "description": "<p>君は大釜で培養されたり、ウスタラヴの科学者が他の生物の部位を縫い合わせたりするような秘術的または錬金術的過程で作られた。君の製造された身体は頑丈で、食べる必要がなく飢えることはない。病気に対するセーヴィング・スローに+2の状況ボーナスを得る。</p>"
     },
     "Mountaineer Samsaran": {
-      "name": "山岳のサムサラン/Mountaineer Samsaran",
+      "name": "マウンテニア・サムサラン/Mountaineer Samsaran",
       "description": "<p>あなたの過去の転生はティエン・シアの雪を頂いた山々の洞窟に住んでいたため、あなたの体は凍てつく嵐を生き抜くことに長けている。あなたは自身のレベルの半分(最低1)に等しい冷気への抵抗を獲得する。あなたは環境による冷気の影響を、1段階少ない極端なものとして扱う(信じられないほどの寒さは極端な寒さになり、極端な寒さは厳しい寒さになる、といった具合である)。</p>"
     },
     "Mage Automaton": {
@@ -706,7 +706,7 @@
       "description": "<p>多くのタヌキは徳を持って行動することを自分に思い出させるために酒の瓢箪を持ち歩いており、この基準に照らせば、あなたは実に徳が高い。あなたは自身のレベルの半分(最低1)に等しい毒への抵抗を得る。あなたは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調}状態であっても物を飲食できる。あなたが望まない限り、通常のアルコールによって無力状態になることはない。</p>"
     },
     "Cave Kholo": {
-      "name": "洞窟コロ/Cave Kholo",
+      "name": "ケイブ・コロ/Cave Kholo",
       "description": "<p>語り部たちは、ホロロは多くの仲間が光のもとへ出る前には洞窟や地下で暮らしていたと伝える古い物語を紡いでいる。君はこれら古代の面影を残しており、胸板が厚く、斑点の代わりに短い黒い切り傷のような模様がある。君の目は暗闇で完全に見えるよう発達しており、一族にとって価値ある利点になる。君はダークビジョンを得る。</p>"
     },
     "Weaver Jotunborn": {
@@ -798,7 +798,7 @@
       "description": "<p>戦士または護衛として育てられ、特別な食事と発達した筋肉により鱗が装甲板のように強くなっている。あなたの鱗は、plate armor 種に分類される中装甲で、AC に +4 の アイテム・ボーナスを与え、敏捷力の上限は +1、判定ペナルティは –2、移動速度のペナルティは –5フィート、筋力値は +3、comfort トレイトを持つ。他の鎧を着用することも鱗を取り外すこともできない。鱗にアーマー・ルーンを彫刻できる.</p>"
     },
     "Observant Halfling": {
-      "name": "観察者ハーフリング/Observant Halfling",
+      "name": "オブザーバント・ハーフリング/Observant Halfling",
       "description": "<p>研ぎ澄まされた感覚により危険や策略を素早く察知する。あなたはあなたの Perception DC に +1 の状況ボーナスを得るが、Perception 判定には適用されない.</p>"
     },
     "Luminous Sprite": {
@@ -818,7 +818,7 @@
       "description": "<p>あなたの霊は彼方の秘密に開かれており、キツネの魔法への接続が深まっている。あなたは @UUID[Compendium.pf2e.feats-srd.Item.Zz7isE8Td2xDWqR8]{キツネ・スペル・ファミリアリティ} アンセストラル特技を得る。あなたの別形態は育った場所で一般的な 中型 の人型系統（通常は人間）で、尻尾のない形態（tailless form）と呼ばれる.</p>"
     },
     "Elemental Heart Dwarf": {
-      "name": "エレメンタル心ドワーフ/Elemental Heart Dwarf",
+      "name": "エレメンタル・ハート・ドワーフ/Elemental Heart Dwarf",
       "description": "<p>@UUID[Compendium.pf2e.deities.Item.sZrdzh0ANQnZGXJb]{トラグ's} の鍛冶場との結びつき、Plane of 火炎 の azers、あるいは他の源を通じて、あなたはエネルギーの爆発を放出できる。ムワンギ語 拡張域の Mbe'ke と Taralu のドワーフはこの血統をドラゴンや元素精霊からの贈り物と考える。次のダメージ種類から1つ選ぶ：酸、冷気、電撃、または火。選択後は変更できない。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.7qjfYsLNTr17Aftf]{〈エナジー・エマネーション〉} 活動を得る.</p>"
     },
     "Thickcoat Shoony": {
@@ -826,7 +826,7 @@
       "description": "<p>寒冷地出身の珍しいシューニー。あなたはレベルの半分（最低 1）に等しい 冷気 耐性を得る。環境の 冷気 効果を一段階軽いものとして扱う（incredible 冷気は extreme に、extreme 冷気は severe に、など）。雪のせいだけで @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難} 状態になっている隠れたクリーチャーを対象にする場合、フラットチェックに成功する必要がない。保護的な 道具を 着用 するか避難しない限り、環境の熱の効果はあなたにとって一段階厳しくなる.</p>"
     },
     "Hillock Halfling": {
-      "name": "丘のハーフリング/Hillock Halfling",
+      "name": "ヒロック・ハーフリング/Hillock Halfling",
       "description": "<p>丘での穏やかな生活に慣れているため、君の民は休息や娯楽で特に回復を得やすい。夜間に ヒット・ポイントを回復するとき、回復する ヒット・ポイントにレベルを加える。誰かが メディスン スキルを使って @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{〈傷の手当て〉} するとき、スナックを食べることでその治療から回復する ヒット・ポイントにレベルを加えられる.</p>"
     },
     "Impersonator Android": {
@@ -852,7 +852,7 @@
       ]
     },
     "Sanctuary Samsaran": {
-      "name": "聖域のサムサラン/Sanctuary Samsaran",
+      "name": "サンクチュアリ・サムサラン/Sanctuary Samsaran",
       "description": "<p>あなたの過去の転生は Zi Ha 北部の聖域で再誕し、長時間集中して物事に専念していた記憶がある。朧げなフラッシュバックは、過去の生が熱心に読んだ書物にある有用な経文も明らかにする。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.jsEBrm8SPcsokJLw]{〈タップ・ザ・パスト〉} アクションを得る.</p>"
     },
     "Slabsoul Minotaur": {
@@ -868,7 +868,7 @@
       "description": "<p>濁った水域で暮らし、視界の低い環境に慣れている。隠れたクリーチャーを対象にする際は成功した @Check[flat|dc:3] のみが必要で、隠蔽されたクリーチャーを対象にする際は成功した @Check[flat|dc:9] のみが必要になる.</p>"
     },
     "Hold-Scarred Orc": {
-      "name": "ホールド痕のオーク/Hold-Scarred Orc",
+      "name": "ホールドスカード・オーク/Hold-Scarred Orc",
       "description": "<p>あなたは儀式的な切り傷や入れ墨を行うオークの共同体の一員だ。肌の刻印はあなたの並外れた頑強さと活力を示す。先祖から 12 の ヒット・ポイントを得る（これは 10 の代わりである）。さらに @UUID[Compendium.pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]{ダイハード} 特技を得る.</p>"
     },
     "Predator Strix": {
@@ -900,7 +900,7 @@
       "description": "<p>地下のトンネルや洞窟で生まれるか長年を過ごし、光の乏しい環境に慣れている。暗視を得る。</p>"
     },
     "Healer Samsaran": {
-      "name": "治療者サムサラン/Healer Samsaran",
+      "name": "ヒーラー・サムサラン/Healer Samsaran",
       "description": "<p>悟りを求める中で、あなたの過去の転生はジー・ハの祖先の故郷から離れ、ティエン・シアの様々な国やゴラリオンの他の場所を探索してきた。あなたの過去の転生は旅の途中で危険な遭遇をしており、あなたは頻繁に傷を癒やすフラッシュバックを見る。あなたは《医術》を訓練済みになる。(背景やクラスなどで)自動的に《医術》を訓練済みになるはずだった場合、代わりにあなたが選択したスキルを訓練済みになる。</p>\n<p>あなたがあなた自身に対して@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{〈傷の手当て〉}を行うために《医術》を使用する際、あなたは特別な技術を用いて、その治療によって回復するヒット・ポイントにあなたのレベルを加算できる。</p>"
     },
     "Swimming Animal": {
@@ -981,7 +981,7 @@
       "description": "<p>あなたの戦いで鍛えられたスケルトンは、広大な作戦地域で鎧を支えるために追加の軟骨と筋肉で補強されており、皮膚には鎧のグリップと重量配分を最適化するために、しなやかで弾力のあるケラチン質の小さな棘がちりばめられている。あなたは@UUID[Compendium.pf2e.feats-srd.Item.BStw1cANwx5baL6d]{鎧 習熟度}特技を得る。</p>\n<p>もしあなたのクラスがすべての種類の鎧を訓練済みにするものであるなら、代わりにあなたは《運動》を訓練済み(すでに《運動》を訓練済みしている場合は、あなたが選択した別のスキル)になり、@UUID[Compendium.pf2e.feats-srd.Item.Lc4dJZivRwU3QEmT]{アーマー・アシスト}スキル特技を得る。</p>"
     },
     "Mountainkeeper Tengu": {
-      "name": "山守のテング/Mountainkeeper Tengu",
+      "name": "マウンテンキーパー・テング/Mountainkeeper Tengu",
       "description": "<p>天狗の修行者の家系に生まれ、世界の精霊や大いなる彼岸との繋がりを持つ。@UUID[Compendium.pf2e.spells-srd.Item.kcelf6IHl3L9VXXg]{ヴァイタリティ・ラッシュ}のキャントリップを原始の固有呪文として随時唱えられる。キャントリップはあなたのレベルの半分（切り上げ）に等しい呪文階位に高位化される。天狗の系譜またはアンセストラル特技由来の呪文を唱えるたびに、その呪文を神聖呪文にするか原始呪文にするかを選べる.</p>"
     },
     "Liminal Fetchling": {
@@ -1021,7 +1021,7 @@
       "description": "<p>あなたの外骨格は他のスルキよりもはるかに密で、自前の鎧として機能する。あなたの外骨格はplate armor の種扱いの中装で、ACに+4のアイテム・ボーナスを与え、敏捷の上限が+1、判定ペナルティが–2、移動速度のペナルティが–5フィート、筋力値が+3で、comfortトレイトを持つ。あなたは他の鎧を着用したり外骨格を取り外したりできない。外骨格には彫刻で防具ルーンを刻むことができる。</p>\n<ul>\n<li><strong>進化</strong> あなたのノード間を流れる魔力循環系は強化ネットワークとなり、外骨格を魔力で強化する。物理ダメージを与えるクリティカルヒットを受けた場合、反応を使って@Check[flat|dc:17|showDC:all]を試みることができる。成功すれば、その攻撃は通常のヒットになる。</li>\n<li><strong>進化</strong> 腹部のノードは周囲にあなたが最も親しい魔法の種類に対する防護フィールドを展開できる。@UUID[Compendium.pf2e.actionspf2e.Item.cczvLO5r7QuHaXwx]{〈ダンプニング・ハーモニクス〉}アクションを得る。</li>\n</ul>"
     },
     "Taloned Tengu": {
-      "name": "鉤爪のテング/Taloned Tengu",
+      "name": "タロンド・テング/Taloned Tengu",
       "description": "<p>君の鉤爪はくちばしと同じく非常に鋭く強い。鉤爪の素手攻撃を得る。ダメージは1d4の斬撃ダメージ。鉤爪は剛腕 種に属し、agile、finesse、unarmed、versatile Pのトレイトを持つ。</p>"
     },
     "Tidepool Dragonet": {
@@ -1041,7 +1041,7 @@
       "description": "<p>あなたの手足は、表面に付着するのを助ける膜を分泌する。あなたは、あなたに対して行われる@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}の試みに対して、頑健および反応 DCに+2の状況ボーナスを得る。木々、つる、その他の植物を登る際、〈登攀〉を行うための《運動》判定で成功をロールした場合、代わりに大成功となる。</p>"
     },
     "Skyborn Tengu": {
-      "name": "空生まれのテング/Skyborn Tengu",
+      "name": "スカイボーン・テング/Skyborn Tengu",
       "description": "<p>骨が特に軽いのか、翼を持つ稀なテングであるか、風と空の精霊との結びつきが他より強く降下が遅くなる。落下距離にかかわらず落下ダメージを受けない。</p>"
     },
     "Suli": {
@@ -1097,7 +1097,7 @@
       "description": "<p>強大な怪獣（kaiju）の近くにいたために、強く頑健になった。祖先から10のヒット・ポイントを6の代わりに得る。通常の能力値ボーナスと欠点の代わりに、筋力へのボーナス、魅力へのボーナス、そして知能への欠点を得ることを選べる。</p>"
     },
     "Great Kholo": {
-      "name": "巨大なコロ/Great Kholo",
+      "name": "グレート・コロ/Great Kholo",
       "description": "<p>あなたは堂々とした力強いコロであり、黄褐色の毛皮と、その皮に茶色の斑点がある。あなたは祖先から得られるヒット・ポイントが8ではなく10となり、 @UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、 @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を行うための《運動》判定に+1の状況ボーナスを得る。</p>"
     },
     "Naari": {
@@ -1113,7 +1113,7 @@
       "description": "<p>あなたの祖先は地下の暗い場所に住んでおり、そのおかげであなたは暗色の毛皮と、どこか不自然な風貌をしている。あなたは《威圧》の習熟ランクが訓練済みとなり、動物に対して@UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{〈強要する〉}を行うために《威圧》を使用できる。あなたが動物を@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}際、共通の言語を持たないことによるペナルティを受けない。もし(背景やクラスなどから)自動的に《威圧》が訓練済みになる場合、代わりにあなたが選択した別のスキルが訓練済みとなる。</p>\n<p>動物のあなたに対する態度は通常より1段階悪く始まる。通常、家畜であれば「無関心」ではなく「非友好的」から、野生動物であれば「非友好的」ではなく「敵対的」から始まる。</p>"
     },
     "Flexible Catfolk": {
-      "name": "柔軟キャットフォーク/Flexible Catfolk",
+      "name": "フレキシブル・キャットフォーク/Flexible Catfolk",
       "description": "<p>ほとんどのヒューマノイドより柔軟性を受け継いでいる。〔無理矢理入り込む〕必要のない狭い場所を難地形と見なさない。さらに、〔エスケープ〕を試みる判定に対して+1の状況ボーナスを得る。</p>"
     },
     "Hooded Nagaji": {
@@ -1161,11 +1161,11 @@
       "description": "<p>あなたは他のタヌキに珍しい落ち着きを持つ。感情効果に対するセーヴィング・スローに+1の状況ボーナスを得る。感情効果に対するセーヴで成功を出した場合、代わりにクリティカル成功になるが、感情効果に対するセーヴで失敗を出した場合、代わりにクリティカル失敗になる。</p>"
     },
     "Ant Kholo": {
-      "name": "アリのコロ/Ant Kholo",
+      "name": "アント・コロ/Ant Kholo",
       "description": "<p>あなたは鋭い顔立ちで大きな耳を持つkholoで、身長はおよそ3フィートだ。多くの者はあなたが本当にkholoか疑う。あなたのサイズは小型で、中型ではない。あなたは訓練済みで《欺瞞》に通じている (またはすでに訓練済みで《欺瞞》なら別のスキル)。無実を主張するときの〔嘘をつく〕に対する《欺瞞》判定に+1の状況ボーナスを得るとともに、そのような嘘を暴くための@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}判定に対する《欺瞞》DC、およびイニシアティブで《欺瞞》を振るときのイニシアティブ判定にもそのボーナスを得る。</p>"
     },
     "Unbreakable Goblin": {
-      "name": "不屈のゴブリン/Unbreakable Goblin",
+      "name": "アンブレイカブル・ゴブリン/Unbreakable Goblin",
       "description": "<p>特に厚い頭蓋や軟骨質の骨、その他の混じった祝福により傷から容易に跳ね返る。先祖から10のヒット・ポイントを得る（6の代わりに）。落下したとき、受ける落下ダメージを落下距離が半分だったかのように減らす。</p>"
     },
     "Strong-Blooded Dwarf": {
@@ -1241,7 +1241,7 @@
       "description": "<p>聖域の基盤そのもの――偉大な大地とその上に育つすべてを守る誓いを立てた。誓いは地の霊力を与え、プリマル呪文表から1つのキャントリップを得る。この呪文を内在プリマル呪文としていつでも唱えられる。キャントリップはあなたのレベルの半分を切り上げた呪文ランクに高められる。世界に根を張るため、plantトレイトを得る。</p><hr /><p><strong>追加の信条</strong> cure or remove blight and pollution from the plants and soil you encounter</p>"
     },
     "Wavediver Tengu": {
-      "name": "波潜りテング/Wavediver Tengu",
+      "name": "ウェイブダイバー・テング/Wavediver Tengu",
       "description": "<p>水を鳥が空気を切るように泳ぎ切る珍しい天狗の一員で、人目の少ない川や海に潜んでいることが多い。泳速が15フィートになる。</p>"
     },
     "Bright Fetchling": {
@@ -1253,7 +1253,7 @@
       "description": "<p>物質界の生き物で、都市より野生と親和性が強い。顎の素手攻撃を得る。この攻撃は1d6の穿刺ダメージを与える。顎攻撃は剛腕の種に属し、finesseとunarmedトレイトを持つ。変身形態はキツネで、1st-rank @UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{ペスト・フォーム}の統計を持つ。</p>"
     },
     "Deep Orc": {
-      "name": "深いオーク/Deep Orc",
+      "name": "ディープ・オーク/Deep Orc",
       "description": "<p>手の皮膚が硬く、赤い目は山の洞窟の深い闇で過ごした生活を物語り、岩壁での戦闘や最小限の資源での生存を学んだことを示す。地下地形用のスキル特技@UUID[Compendium.pf2e.feats-srd.Item.4tTkRyOQ0VuRBac3]{テレイン・エキスパーティス}とスキル特技@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー}を得る。</p>"
     },
     "Gourd Leshy": {
@@ -1309,7 +1309,7 @@
       "description": "<p>あなたはathamaruの母族長になる準備を始め、指導者としての修練のために共同体の外に出ることが多くなる。身体変化の一環として、以前よりかなり背が高くなる。中型の代わりにあなたのサイズは大型になる。さらに、仲間に希望の感情を与える。あなたは10-フィートのオーラを持ち、その中にいる味方は恐怖に対するセーヴィング・スローに対して+1の状況ボーナスを得る；これは感情および精神効果である.</p>"
     },
     "Ancient-Blooded Dwarf": {
-      "name": "古き血を引くドワーフ/Ancient-Blooded Dwarf",
+      "name": "エンシェントブラッデッド・ドワーフ/Ancient-Blooded Dwarf",
       "description": "<p>かつてのドワーフの英雄は敵の魔法をものともせず、その耐性の一部があなたにも現れている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.8w6esW689NNbbq3i]{〈コール・オン・エンシェント・ブラッド〉}という反応を得る.</p>"
     },
     "Deny the Traitor's Rebirth": {
@@ -1325,7 +1325,7 @@
       "description": "<p>柔軟な体は一部の者にとって不自然に流れるように見えるが、何が変なのかはほとんど指摘されない。敵から容易に逃げられる。1の状況ボーナスを@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}判定に対して得る。さらに、Squeezing中の移動速度が2倍になる.</p>"
     },
     "Shadow of the Hermit": {
-      "name": "シャドウ隠者の/Shadow of the Hermit",
+      "name": "シャドウ・オブ・ザ・ハーミット/Shadow of the Hermit",
       "description": "<p>影がなぜか秘密と謎に満ちており、その秘密を影があなたと分かち合っている。オカルト呪文一覧から1つのキャントリップを選ぶ。この呪文をオカルトの内在呪文として随意に唱えられる。キャントリップは自分のレベルの半分を切り上げた呪文ランクに高位化される.</p>"
     },
     "Fleetwind Centaur": {
