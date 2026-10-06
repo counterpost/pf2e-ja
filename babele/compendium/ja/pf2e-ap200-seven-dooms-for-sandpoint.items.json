@@ -126,11 +126,11 @@
       "description": "<p>モボゴの舌にヒットされたクリーチャーは、モボゴによって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{つかみ状態}となる。そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能状態}ではないが、モボゴの舌のリーチを超えて移動することはできない。</p>\n<p>クリーチャーは、AC 27に対して少なくとも10の斬撃ダメージを与える〈ストライク〉を行うことで、舌を切断できる。これはモボゴにダメージを与えないが、舌が再生するまでの間、モボゴは舌による〈ストライク〉を使用できなくなる。舌の再生には1ラウンドかかる。</p>\n<p>モボゴは、そのクリーチャーが舌のリーチ内に留まっている限り、つかみ状態を終了させることなく移動できる。</p>"
     },
     "phtWMfKuIsMCi5cE": {
-      "name": "舌〈位置をずらす〉/Tongue Reposition",
+      "name": "タン・リポジション/Tongue Reposition",
       "description": "<p>モボゴは、舌で@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{つかみ状態}のクリーチャーを移動させようと試みる。モボゴは@Check[type:athletics|defense:fortitude] 判定を行い、そのクリーチャーの頑健 DCと比べる。</p>\n<p>成功すると、モボゴはそのクリーチャーを舌のリーチ内の任意のマスへ移動させる。モボゴは望むなら、つかみ状態のクリーチャーを自身の顎へ移すことができる。</p>"
     },
     "Tongue Reposition": {
-      "name": "舌〈位置をずらす〉",
+      "name": "タン・リポジション",
       "description": "<p>モボゴは、舌で@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{つかみ状態}のクリーチャーを移動させようと試みる。モボゴは@Check[type:athletics|defense:fortitude] 判定を行い、そのクリーチャーの頑健 DCと比べる。</p>\n<p>成功すると、モボゴはそのクリーチャーを舌のリーチ内の任意のマスへ移動させる。モボゴは望むなら、つかみ状態のクリーチャーを自身の顎へ移すことができる。</p>"
     },
     "tetpWKxbpwLYXdRP": {
@@ -663,10 +663,10 @@
       "description": "<p>ミミックは任意の中型の物体へと姿を変える。これによってミミックの質感や全体のサイズが変わることはないが、色や見た目を変えることはできる。ミミックが変身している物体になりすますための《欺瞞》判定および難易度において、自動的に28の結果を得る。</p>"
     },
     "qGVF829Lwi4ZemA9": {
-      "name": "住処《専門知識》(そのクリーチャーが住むダンジョンにのみ適用される)/Dwelling Lore (applies only to the dungeon it lives in)"
+      "name": "ドウェリング《専門知識》(そのクリーチャーが住むダンジョンにのみ適用される)/Dwelling Lore (applies only to the dungeon it lives in)"
     },
     "Dwelling Lore (applies only to the dungeon it lives in)": {
-      "name": "住処《専門知識》(そのクリーチャーが住むダンジョンにのみ適用される)"
+      "name": "ドウェリング《専門知識》(そのクリーチャーが住むダンジョンにのみ適用される)"
     },
     "OjJQfX1hTXQZsKNH": {
       "name": "顎"
@@ -678,10 +678,10 @@
       "name": "触手"
     },
     "vJxCPyKdG9Aaedkx": {
-      "name": "+2・ステイタス・トゥ・オール・セーヴズ・ヴァーサス・マジック/+2 Status to All Saves vs. Magic"
+      "name": "魔法に対するすべてのセーヴに状況ボーナス+2"
     },
     "+2 Status to All Saves vs. Magic": {
-      "name": "+2・ステイタス・トゥ・オール・セーヴズ・ヴァーサス・マジック/+2 Status to All Saves vs. Magic"
+      "name": "魔法に対するすべてのセーヴに状況ボーナス+2"
     },
     "E0hXra1OswZG4gQM": {
       "name": "反応的な鞭打ち/Reactive Lash",
@@ -835,10 +835,10 @@
       "description": "<p>モスマンは30フィート以内にいて視認できるクリーチャーを凝視する。対象は直ちにモスマンの不吉な凝視に対して意志セーヴを行わなければならない。</p>\n<p>そのクリーチャーがこのセーヴを行う時点で既に恐怖状態である場合、失敗すると、恐怖状態に加えて@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態が24時間の間継続する。</p>\n<p>セーヴを行った後、そのクリーチャーは1分の間、一時的な免疫となる。</p>"
     },
     "2k3vYCrNQk60rNaP": {
-      "name": "工学《専門知識》/Engineering Lore"
+      "name": "エンジニアリング《専門知識》/Engineering Lore"
     },
     "Engineering Lore": {
-      "name": "工学《専門知識》"
+      "name": "エンジニアリング《専門知識》"
     },
     "sDeBGkOWCTesUfNV": {
       "name": "バニップ・クラブの評判/Bunyip Club Reputation"
@@ -898,11 +898,11 @@
     },
     "0Qt9ULbGzJV8ZG3W": {
       "name": "シャドウ・スポーン/Shadow Spawn",
-      "description": "<p>クリーチャーの影が〈盗み〉シャドウによって引き剥がされると、それはその影を生み出したシャドウの指揮下にある@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.XrmHgbKgcHDi4OnK]{シャドウ・スポーン}となる。このシャドウ・スポーンは〈盗み〉シャドウを持たず、永続的かつ治療不可能な@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}状態となる。もしそのシャドウ・スポーンの元となったクリーチャーが死亡した場合、そのシャドウ・スポーンは完全で自律的なシャドウとなる。もしそのクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱}から回復したなら、その影は持ち主の元へ戻り、シャドウ・スポーンは消滅する。</p>"
+      "description": "<p>クリーチャーの影がスティール・シャドウによって引き剥がされると、それはその影を生み出したシャドウの指揮下にある@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.XrmHgbKgcHDi4OnK]{シャドウ・スポーン}となる。このシャドウ・スポーンはスティール・シャドウを持たず、永続的かつ治療不可能な@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}状態となる。もしそのシャドウ・スポーンの元となったクリーチャーが死亡した場合、そのシャドウ・スポーンは完全で自律的なシャドウとなる。もしそのクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱}から回復したなら、その影は持ち主の元へ戻り、シャドウ・スポーンは消滅する。</p>"
     },
     "Shadow Spawn": {
       "name": "シャドウ・スポーン",
-      "description": "<p>クリーチャーの影が〈盗み〉シャドウによって引き剥がされると、それはその影を生み出したシャドウの指揮下にある@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.XrmHgbKgcHDi4OnK]{シャドウ・スポーン}となる。このシャドウ・スポーンは〈盗み〉シャドウを持たず、永続的かつ治療不可能な@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}状態となる。もしそのシャドウ・スポーンの元となったクリーチャーが死亡した場合、そのシャドウ・スポーンは完全で自律的なシャドウとなる。もしそのクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱}から回復したなら、その影は持ち主の元へ戻り、シャドウ・スポーンは消滅する。</p>"
+      "description": "<p>クリーチャーの影がスティール・シャドウによって引き剥がされると、それはその影を生み出したシャドウの指揮下にある@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.XrmHgbKgcHDi4OnK]{シャドウ・スポーン}となる。このシャドウ・スポーンはスティール・シャドウを持たず、永続的かつ治療不可能な@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}状態となる。もしそのシャドウ・スポーンの元となったクリーチャーが死亡した場合、そのシャドウ・スポーンは完全で自律的なシャドウとなる。もしそのクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱}から回復したなら、その影は持ち主の元へ戻り、シャドウ・スポーンは消滅する。</p>"
     },
     "0QWVJ7Of8cQNKp0N": {
       "name": "スリンク・イン・シャドウズ/Slink in Shadows",
@@ -913,12 +913,12 @@
       "description": "<p>シャドウはクリーチャーや物体が落とす影の中で@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}ことや、 @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}を終了させることができる。</p>"
     },
     "Kjifw1jgDvfmrEGU": {
-      "name": "〈盗み〉シャドウ/Steal Shadow",
-      "description": "<p><strong>必要条件</strong>シャドウが直前のアクションで、シャドウ・ハンドによる〈ストライク〉で生きているクリーチャーに命中させていること。</p>\n<hr />\n<p><strong>効果</strong>シャドウは対象の影を引っ張り、そのクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態にする。これは他のシャドウによるenfeebled状態と累積し、最大でenfeebled 4までとなる。もしこれがクリーチャーのenfeebledの値を3以上に上昇させた場合、対象の影はその肉体から分離する。〈盗み〉シャドウによる衰弱は1時間ごとに1減少する。</p>"
+      "name": "スティール・シャドウ/Steal Shadow",
+      "description": "<p><strong>必要条件</strong>シャドウが直前のアクションで、シャドウ・ハンドによる〈ストライク〉で生きているクリーチャーに命中させていること。</p>\n<hr />\n<p><strong>効果</strong>シャドウは対象の影を引っ張り、そのクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態にする。これは他のシャドウによるenfeebled状態と累積し、最大でenfeebled 4までとなる。もしこれがクリーチャーのenfeebledの値を3以上に上昇させた場合、対象の影はその肉体から分離する。スティール・シャドウによる衰弱は1時間ごとに1減少する。</p>"
     },
     "Steal Shadow": {
-      "name": "〈盗み〉シャドウ",
-      "description": "<p><strong>必要条件</strong>シャドウが直前のアクションで、シャドウ・ハンドによる〈ストライク〉で生きているクリーチャーに命中させていること。</p>\n<hr />\n<p><strong>効果</strong>シャドウは対象の影を引っ張り、そのクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態にする。これは他のシャドウによるenfeebled状態と累積し、最大でenfeebled 4までとなる。もしこれがクリーチャーのenfeebledの値を3以上に上昇させた場合、対象の影はその肉体から分離する。〈盗み〉シャドウによる衰弱は1時間ごとに1減少する。</p>"
+      "name": "スティール・シャドウ",
+      "description": "<p><strong>必要条件</strong>シャドウが直前のアクションで、シャドウ・ハンドによる〈ストライク〉で生きているクリーチャーに命中させていること。</p>\n<hr />\n<p><strong>効果</strong>シャドウは対象の影を引っ張り、そのクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態にする。これは他のシャドウによるenfeebled状態と累積し、最大でenfeebled 4までとなる。もしこれがクリーチャーのenfeebledの値を3以上に上昇させた場合、対象の影はその肉体から分離する。スティール・シャドウによる衰弱は1時間ごとに1減少する。</p>"
     },
     "p4vhteq9jjjwqv79": {
       "name": "オカルト生得呪文"
@@ -1249,11 +1249,11 @@
       "description": "<p>シャイタンは土や石の中を、自身の完全な〈穴掘り〉移動速度で@UUID[Compendium.pf2e.actionspf2e.Item.H6v1VgowHaKHnVlG]{〈穴掘り〉}でき、トンネルや通過した痕跡を一切残さない。</p>"
     },
     "d8HnQHeqQlzrKyFt": {
-      "name": "石への〈押し出す〉/Shove into Stone",
+      "name": "シャヴ・イントゥ・ストーン/Shove into Stone",
       "description": "<p>シャイタンがクリーチャーを石の障壁に押し込んだ場合、対象は@Check[type:reflex|dc:22]セーヴに成功しなければならず、失敗するとその障壁と融合してしまう(@UUID[Compendium.pf2e.spells-srd.Item.vh1RpbWfqdNC4L3P]{ワン・ウィズ・ストーン}と同様)。犠牲者は〈エスケープ〉(DC 28)を試みることができる。</p>"
     },
     "Shove into Stone": {
-      "name": "石への〈押し出す〉",
+      "name": "シャヴ・イントゥ・ストーン",
       "description": "<p>シャイタンがクリーチャーを石の障壁に押し込んだ場合、対象は@Check[type:reflex|dc:22]セーヴに成功しなければならず、失敗するとその障壁と融合してしまう(@UUID[Compendium.pf2e.spells-srd.Item.vh1RpbWfqdNC4L3P]{ワン・ウィズ・ストーン}と同様)。犠牲者は〈エスケープ〉(DC 28)を試みることができる。</p>"
     },
     "pV2kE2wYrZjLyBiR": {
@@ -1614,10 +1614,10 @@
       "description": "<p>タンチは以下の注入アイテムを所持しており、これらは24時間、または彼が次に日課の準備を行うまでの間持続する：@UUID[Compendium.pf2e.equipment-srd.Item.gWr4q4HiyGhETA8H]{アルケミストズ・ファイア（モデレート）} (8)、@UUID[Compendium.pf2e.equipment-srd.Item.ktjFOp3U0wQD9t0Z]{アンチドート（レッサー）} (2)、@UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{エリクサー・オブ・ライフ（レッサー）} (4)、@UUID[Compendium.pf2e.equipment-srd.Item.evBPzM1VsuYcoenn]{グルー・ボム（モデレート）} (2)</p>"
     },
     "vSegcSzM8la3mXdx": {
-      "name": "+1・ステイタス・ヴァーサス・毒/+1 Status vs. Poison"
+      "name": "毒に対するセーヴに状況ボーナス+1"
     },
     "+1 Status vs. Poison": {
-      "name": "+1・ステイタス・ヴァーサス・毒/+1 Status vs. Poison"
+      "name": "毒に対するセーヴに状況ボーナス+1"
     },
     "z985acw3zCTHxcoN": {
       "name": "ゴブリン・スカトル",
@@ -2515,10 +2515,10 @@
       "name": "+1・ステイタス・トゥ・オール・セーヴズ・ヴァーサス・マジック"
     },
     "vr6e0VYbUOGnEU3M": {
-      "name": "+4・ステイタス・トゥ・オール・セーヴズ・ヴァーサス・メンタル/+4 Status to All Saves vs. Mental"
+      "name": "精神に対するすべてのセーヴに状況ボーナス+4"
     },
     "+4 Status to All Saves vs. Mental": {
-      "name": "+4・ステイタス・トゥ・オール・セーヴズ・ヴァーサス・メンタル/+4 Status to All Saves vs. Mental"
+      "name": "精神に対するすべてのセーヴに状況ボーナス+4"
     },
     "WH7tGqprqYb1tk4C": {
       "name": "アタック・オブ・オポチュニティ"
