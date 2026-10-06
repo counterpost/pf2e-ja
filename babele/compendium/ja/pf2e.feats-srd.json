@@ -3797,7 +3797,7 @@
       "source": "Pathfinder Player Core"
     },
     "Arcana of Iron": {
-      "name": "《秘術》・オブ・アイアン/Arcana of Iron",
+      "name": "アルカナ・オブ・アイアン/Arcana of Iron",
       "description": "<p>あなたはワンドやスタッフを捨て、より高度な武器を選ぶ。あなたは高度武器において訓練済みとなる。あなたが@UUID[Compendium.pf2e.classfeatures.Item.9XLUh9iMepZesdmc]{ウェポン・エキスパーティス}クラス特徴を得ると、武闘武器と高度武器における熟練度はエキスパートに増加する。あなたが@UUID[Compendium.pf2e.feats-srd.Item.tWBK7Zbt80JlPryC]{ビスペル・ストライクス}で与える追加ダメージは1d8に増加する。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
@@ -3946,7 +3946,7 @@
       "source": "Pathfinder Rage of Elements"
     },
     "Distracting Performance": {
-      "name": "ディストラクティング・《芸能》/Distracting Performance",
+      "name": "ディストラクティング・パフォーマンス/Distracting Performance",
       "description": "<p>あなたの演技は特に注意をそらす効果が高く、味方が容易に@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}することを可能にする。あなたは[[/act create-a-diversion statistic=performance]]する。ただし、《欺瞞》の代わりに《芸能》判定をロールし、成功した判定の恩恵はあなたではなくあなたが選択した味方に適用される。成功の効果はその味方のターンの終了まで持続し、その味方のアクションに基づいて早期に終了する可能性がある。あなたは味方を観察している必要も、彼らがどこにいるかを知っている必要もないが、彼らを選択するには彼らが存在することを知っている必要がある。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -6361,7 +6361,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Fascinating Performance": {
-      "name": "ファシネイティング・《芸能》/Fascinating Performance",
+      "name": "ファシネイティング・パフォーマンス/Fascinating Performance",
       "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{〈芸をする〉}、結果を一人の観察者の意志DCと比較する。成功した場合、対象はあなたによって@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}され、1ラウンドの間対象となる。観察者が戦闘などの迅速な注意を要する状況にいる場合、魅了するにはクリティカル成功が必要であり、〔芸をする〕アクションは無力化トレイトを持つ。あなたは判定を振る前に魅了しようとしているクリーチャーを選択し、その後対象は一時的な免疫となる1時間。</p>\n<p>あなたが《芸能》の専門家であれば、最大で4人の観察者を魅了できる。マスターであれば最大10人、伝説級であれば同時に任意の人数を魅了できる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -12809,7 +12809,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Pack Performance": {
-      "name": "パック・《芸能》/Pack Performance",
+      "name": "パック・パフォーマンス/Pack Performance",
       "description": "<p><strong>トリガー</strong>あるクリーチャーがあなたが唱えている呪文を打消したり妨害したりする。</p>\n<p><strong>必要条件</strong>あなたは30フィート内に動物ミニオンを持っている。</p>\n<hr />\n<p>あなたと動物が一緒に歌っているとき、あなたの言葉はさらに明るく力強く響き、妨害を切り裂く。あなたを助ける動物は〔ストライド〕および〔ストライク〕を行うことができ、トリガーとなったクリーチャーに対して攻撃が成功すれば、あなたのアクションは打消されない。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
@@ -12882,7 +12882,7 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Anthemic Performance": {
-      "name": "アンセミック・《芸能》/Anthemic Performance",
+      "name": "アンセミック・パフォーマンス/Anthemic Performance",
       "description": "<p>あなたの音楽、スピーチ、または他のパフォーマンスは、仲間に戦闘に飛び込むことを促す。あなたは@UUID[Compendium.pf2e.spells-srd.Item.IAjvwqgiDr3qGYxY]{カレイジャス・アンセム}作曲のカントリップを得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -14171,7 +14171,7 @@
       ]
     },
     "Basic Arcana": {
-      "name": "ベーシック・《秘術》/Basic Arcana",
+      "name": "ベーシック・アルカナ/Basic Arcana",
       "description": "<p>あなたは選んだ1レベルまたは2レベルのウィザード特技を得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -14685,7 +14685,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Snare Crafting": {
-      "name": "スネア・《製作》/Snare Crafting",
+      "name": "スネア・クラフティング/Snare Crafting",
       "description": "<p>あなたは〔製作する〕アクティビティを使用して罠を作成することができる。この特技を選択すると、4つの一般的な1レベル罠のレシピをあなたのレシピ帳に追加する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -17266,7 +17266,7 @@
       ]
     },
     "Influence Nature": {
-      "name": "インフルエンス・《自然》/Influence Nature",
+      "name": "インフルエンス・ネイチャー/Influence Nature",
       "description": "<p>忍耐と時間があれば、あなたは鳥の鳴き声を作り、獲物の跡を残し、最終的には地域の特定の動物の行動に影響を与え、今後の日々にあなたを助けさせることができる。</p>\n<p>GMは必要なDCの判定およびあなたの作業に必要な時間(通常は1日か2日のダウンタイム)を決定する。あなたは自然に影響を与えた方法を直接制御できないが、より簡単な狩りや危険が近づくと鳥が静かになるといった特定の効果を期待することができる。</p>\n<p>あなたが《自然》において伝説的であるなら、あなたは10分を使って、この地域の動物の行動に同じ調整を引き出すことができる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -19421,7 +19421,7 @@
       ]
     },
     "Performance Weapon Expert": {
-      "name": "《芸能》・ウェポン・エキスパート/Performance Weapon Expert",
+      "name": "パフォーマンス・ウェポン・エキスパート/Performance Weapon Expert",
       "description": "<p>あなたの経験は、様々な武器の扱いを上達させた。単純武器および武闘武器の習熟度がエキスパートに上昇し、選んだ高等武器の習熟度もエキスパートになる。</p>",
       "source": "Pathfinder #159: All or Nothing",
       "prerequisites": [
@@ -19561,7 +19561,7 @@
       ]
     },
     "Dragon Arcana": {
-      "name": "ドラゴン・《秘術》/Dragon Arcana",
+      "name": "ドラゴン・アルカナ/Dragon Arcana",
       "description": "<p>あなたはドラゴンの魔法をあなたの系統に追加する方法を発見した。</p>\n<p>ドラコニックの血統が授けたスペルをあなたの呪文リストに追加する。これらの呪文は、あなたはそれらを通常通り学ぶか、レパートリーに追加する必要がある。これらの呪文は@UUID[Compendium.pf2e.spells-srd.Item.TVKNbcgTee19PXZR]{シールド}, @UUID[Compendium.pf2e.spells-srd.Item.Gb7SeieEvd0pL2Eh]{シュア・ストライク}, @UUID[Compendium.pf2e.spells-srd.Item.Fr58LDSrbndgld9n]{レジスト・エナジー}, @UUID[Compendium.pf2e.spells-srd.Item.o6YCGx4lycsYpww4]{ヘイスト}, @UUID[Compendium.pf2e.spells-srd.Item.tgIhRUFtgDSELpJE]{スペル・イミュニティ}, @UUID[Compendium.pf2e.spells-srd.Item.forsqeofEszBNtLq]{クロマティック・ウォール}, @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{ドラゴン・フォーム}, @UUID[Compendium.pf2e.spells-srd.Item.O6VQC1Bs4aSYDa6R]{マスク・オヴ・テラー}, @UUID[Compendium.pf2e.spells-srd.Item.iL6TujgTCtRRa0Y0]{プリズマティック・ウォール}, および@UUID[Compendium.pf2e.spells-srd.Item.fkDeKktdmbeplYRY]{オーヴァーウェルミング・プレゼンス}である。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
@@ -22910,7 +22910,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Alchemical Crafting": {
-      "name": "アルケミカル・《製作》/Alchemical Crafting",
+      "name": "アルケミカル・クラフティング/Alchemical Crafting",
       "description": "<p>あなたは〔製作する〕アクティビティを使用して錬金術アイテムを作成できる。この特技を選択すると、あなたはすぐに4つの一般的な1レベルの錬金術アイテムの公式を公式集に追加する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -23797,7 +23797,7 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Versatile Performance": {
-      "name": "バーサタイル・《芸能》/Versatile Performance",
+      "name": "バーサタイル・パフォーマンス/Versatile Performance",
       "description": "<p>あなたは普通の社会的スキルではなく、《芸能》の壮大さに頼ることができる。あなたは《芸能》の代わりに《交渉》を使用して[[/act make-an-impression statistic=performance]]、そして《威圧》の代わりに [[/act demoralize statistic=performance]]を使用することができる。また、演技の《芸能》の代わりに《欺瞞》を使用して[[/act impersonate statistic=performance]]を行うこともできる。</p>\n<p>さらに、あなたは《芸能》における熟練度ランクを使用して、特定の熟練度ランクが必要なスキル特技の条件を満たすことができる、《欺瞞》、《交渉》、または《威圧》の。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -24089,7 +24089,7 @@
       ]
     },
     "Force of Nature": {
-      "name": "フォース・オブ・《自然》/Force of Nature",
+      "name": "フォース・オブ・ネイチャー/Force of Nature",
       "description": "<p>あなたはほぼ止めることのできない殺戮機械であり、銀のみにあなたの暴走を鎮める力がある。ハイブリッドまたは動物の形のとき、あなたはファスト・ヒーリング5を得る。銀の武器からダメージを受けると、あなたのファスト・ヒーリングはあなたの次のターン終了時まで無効化される。</p>\n<p> @UUID[Compendium.pf2e.feat-effects.Item.PD1tyMvE75VU2qVi]{効果: Force of Nature (シルバー ダメージ)} </p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
@@ -25075,7 +25075,7 @@
       ]
     },
     "Cooperative Crafting": {
-      "name": "コオペラティブ・《製作》/Cooperative Crafting",
+      "name": "コオペラティブ・クラフティング/Cooperative Crafting",
       "description": "<p>あなたはクラフトのプロジェクトで他者と協力することの重要性を学んだ。これは、ハイヘルムの様々なギルドと関わる際に必要なことだ。もし味方があなたの《製作》を〔援護〕している場合、彼らがクリティカル失敗をした際に–1の状況ペナルティを無視する。さらに、味方がCooperative《製作》のフィートを持っている場合、あなたはリソースをプールして同じアイテムに一緒に取り組むことができる。このようにして1体の味方とだけ作業することができる。どちらも同じアイテムに対して《製作》判定を試みる; もし両方が成功すれば、アイテムを製作するための最小時間を1日だけ短縮する。あなたと味方が製作できるアイテムのレベルを決定する際、あなたのレベルまたは味方のレベル+1の高い方を使用する。もしあなたがどちらかのレベルより高いアイテムを〔製作する〕試みて、一方が失敗すると、両方のチェッキングはクリティカル失敗となる。</p>",
       "source": "Pathfinder Lost Omens Highhelm",
       "prerequisites": [
@@ -25248,7 +25248,7 @@
       ]
     },
     "Monster Crafting": {
-      "name": "モンスター・《製作》/Monster Crafting",
+      "name": "モンスター・クラフティング/Monster Crafting",
       "description": "<p>あなたはクリーチャーの部位を使用してクラフトを助けることができる。あなたはモンスターの体を使って、アイテムの@UUID[Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{〈製作する〉}に役立てることができ、そうする際に 〔製作する〕 アクティビティのために《生存術》を《製作》の代わりに使用する。もしモンスターの体の部位が価値があるなら、そのアイテムの原材料コストにそれらを充てることもできる。(モンスターのエントリーにその体の価値のある素材がリストされていない場合、それはGMが判断する。)</p>\n<p>もしアイテムに対して追加の日数を作業に費やすなら、その際にモンスターのレベルを使用して価格を減少させることができる。特定のアイテムは、その〔製作する〕 要件に特定のクリーチャーを必要とすることがある。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -26796,7 +26796,7 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Armored Stealth": {
-      "name": "アーマード・《隠密》/Armored Stealth",
+      "name": "アーマード・ステルス/Armored Stealth",
       "description": "<p>あなたは自身の防具と動作を調整・修正し、発生させる音を軽減する技術を学んだ。</p>\n<p>あなたが訓練済みしているノイズトレイトを持たない防具を着用しているとき、《隠密》判定へのペナルティは1軽減される(最小ペナルティは0)。あなたが《隠密》に習熟(マスター)しているならペナルティを2軽減し、伝説的(レジェンダリー)なら3軽減する。</p>\n<p>もしあなたの防具がノイズトレイトを持っているなら、《隠密》判定へのペナルティを軽減する代わりに、ノイズトレイトの効果を無視する。これにより、通常通り十分な【筋力】値によってペナルティを取り除けるようになる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -28022,7 +28022,7 @@
       ]
     },
     "Communal Crafting": {
-      "name": "コミューナル・《製作》/Communal Crafting",
+      "name": "コミューナル・クラフティング/Communal Crafting",
       "description": "<p>あなたは他のPC達に、あなたの指揮下でアイテムを@UUID[Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{〈製作する〉}手伝いをさせることができる。手伝うPCは、自分が訓練済みであるスキルを用いて判定をロールする。そのスキルは《製作》か、GMの判断によって、アイテムに関連する他のスキルでなければならない。例えば、PCは神聖のトレイトを持つアイテムを〈製作する〉手伝いをするために《宗教》を使用したり、武器を〈製作する〉手伝いをするためにウォーフェア《専門知識》を使用したりするかもしれない。アイテムの作成に成功したかどうかは、依然としてあなたのロールが決定する。手伝う者のロールは、@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}の表の数値を使用して、生の素材のコストを削減することに貢献する。これには、その協力者PCのスキルにおける習熟ランクと、レベルから1を引いた値を使用する。手伝うPC達は、〈製作する〉アクティビティの間ずっとあなたに同行しなければならず(同行しない場合、他のダウンタイム・アクティビティを行うことはできない)、さもなくば恩恵は失われる。GMは状況に応じて、手伝うことができるPC達の人数を制限するかもしれない。共同での《製作》は、誰か他の者が製作を行っている際に、相手があなたの助けを受け入れるならば、あなたが手伝い役を務めることも可能にする。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -28107,7 +28107,7 @@
       ]
     },
     "Cooperative Nature": {
-      "name": "コオペラティブ・《自然》/Cooperative Nature",
+      "name": "コオペラティブ・ネイチャー/Cooperative Nature",
       "description": "<p>短い人間の寿命は視野を広げ、異なる点を脇に置き、他者と協力して偉大さを達成することを学ばせてくれた。あなたは〔援護〕に対する判定に+4の状況ボーナスを得る。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -30308,7 +30308,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Fascinated by Society": {
-      "name": "ファシネイテッド・バイ・《社会》/Fascinated by Society",
+      "name": "ファシネイテッド・バイ・ソサエティ/Fascinated by Society",
       "description": "<p>自然を研究することに駆り立てられるヒューマノイドがいるように、あなたは社会という人工的な構造物に夢中であり、いくらあっても足りないほどだ。あなたは《社会》において訓練済みである。もし《社会》において自動的に訓練済みになる場合、代わりにあなたが選択したスキルにおいて訓練済みになる。</p>\n<p>新参者であるため、あなたの理解は時折少し的を外れることがある。@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}や@UUID[Compendium.pf2e.actionspf2e.Item.d9gbpiQjChYDYA2L]{〈解読する〉}を行うための《社会》判定において、大失敗ではない失敗をした場合、あなたは(成功した時と同様に)正しい情報と、(大失敗した時と同様に)誤った情報の両方を得る。どちらがどちらであるかを判別する方法はあなたにはない。</p>",
       "source": "Pathfinder Howl of the Wild"
     },
@@ -30653,7 +30653,7 @@
       "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Anarchic Arcana": {
-      "name": "アナーキック・《秘術》/Anarchic Arcana",
+      "name": "アナーキック・アルカナ/Anarchic Arcana",
       "description": "<p>あなたの血の中の魔法は予測不能である。あなたが日課の準備を行う時、[[/r 1d12]]を2回振り、次のリストを参照する:</p><table class=\"pf2e remaster\"><tbody><tr><td data-colwidth=\"47\"><p>1</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.9h9YCncqah6VNsKf]{アシッド・グリップ}</p></td></tr><tr><td data-colwidth=\"47\"><p>2</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.3JG1t3T4mWn6vTke]{ブラー}</p></td></tr><tr><td data-colwidth=\"47\"><p>3</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.5KobTMrZeZxuXMgl]{ゲッコー・グリップ}</p></td></tr><tr><td data-colwidth=\"47\"><p>4</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.2qGqa33E4GPUCbMV]{ヒューマノイド・フォーム}</p></td></tr><tr><td data-colwidth=\"47\"><p>5</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.2oH5IufzdESuYxat]{イリュージョリー・オブジェクト}</p></td></tr><tr><td data-colwidth=\"47\"><p>6</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.tlSE7Ly8vi1Dgddv]{ラフィング・フィット}</p></td></tr><tr><td data-colwidth=\"47\"><p>7</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.wzLkNU3AAqOSKFPR]{ノイズ・ブラスト}</p></td></tr><tr><td data-colwidth=\"47\"><p>8</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.Fr58LDSrbndgld9n]{レジスト・エナジー}</p></td></tr><tr><td data-colwidth=\"47\"><p>9</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.jwK43yKsHTkJQvQ9]{シー・ザ・アンシーン}</p></td></tr><tr><td data-colwidth=\"47\"><p>10</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.1xbFBQDRs0hT5xZ9]{シャター}</p></td></tr><tr><td data-colwidth=\"47\"><p>11</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.PjhUmyKnq6K5uDby]{シュリンク}</p></td></tr><tr><td data-colwidth=\"47\"><p>12</p></td><td><p>@UUID[Compendium.pf2e.spells-srd.Item.mrDi3v933gsmnw25]{テレキネティック・マニューヴァー}</p></td></tr></tbody></table><p>あなたは翌日、これら二つの呪文をそれぞれ1回唱えることができる(同じ数字を振った場合は1つの呪文を2回唱えることができる)それは2段階の神聖な自発的な呪文である。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
@@ -30743,7 +30743,7 @@
       ]
     },
     "Signature Crafting": {
-      "name": "シグネチャー・《製作》/Signature Crafting",
+      "name": "シグネチャー・クラフティング/Signature Crafting",
       "description": "<p>あなたが製作した魔法のアイテムには、あなたの手仕事を特定するスタンプが刻まれている。あなたが永久の魔法のアイテムを成功裏に〔製作する〕と、アイテムが完全に完成したときに@Check[flat|dc:9]を振る。あるクリーチャーがアイテムの奇妙さから得る恩恵は、アイテムを装備している間(着用のアイテム)または保持している間(保持しているアイテム)のみ適用される。GMはリストにあるものと似たカスタム奇妙さを許可する場合がある。</p><hr /><p><strong>クリティカル成功</strong>アイテムの奇妙さを表に従って選び、その具体的な内容を決定する。</p>\n<p><strong>成功</strong>アイテムはGMが選んだ任意の具体的内容を持つランダムなアイテムの奇妙さを得る。</p><table class=\"pf2-table\"><thead><tr><th>d10</th><th>奇妙さ</th><th>説明</th></tr></thead><tbody><tr><td>1</td><td>戯れる</td><td>使用されていないときにその場で踊る。</td></tr><tr><td>2</td><td>清潔</td><td>汚れにもかかわらず常に清潔を保つ。</td></tr><tr><td>3</td><td>環境</td><td>外観が環境に合わせて変わる。</td></tr><tr><td>4</td><td>汚い</td><td>常に汚れの層が残る。</td></tr><tr><td>5</td><td>浮遊</td><td>落とすとゆっくりと降下する。</td></tr><tr><td>6</td><td>きらめく</td><td>トーチのように明るい光で輝く。</td></tr><tr><td>7</td><td>不可視</td><td>アイテムは目に見えないが、使用後1ラウンドの間_visible_になる。</td></tr><tr><td>8</td><td>忠実</td><td>所有者の5フィート内を浮遊し、まるでテザーのようだ(しかし他の誰かに奪われる可能性がある)。</td></tr><tr><td>9</td><td>気分の色合い</td><td>使用者の気分がアイテムの色に影響を与える。</td></tr><tr><td>10</td><td>器用</td><td>アイテムは特定のスキル判定に+1アイテム・ボーナスを付与する。</td></tr></tbody></table>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -33285,7 +33285,7 @@
       ]
     },
     "Nature Prowler": {
-      "name": "《自然》・プロウラー/Nature Prowler",
+      "name": "ネイチャー・プロウラー/Nature Prowler",
       "description": "<p>あなたのターンが始まるときに@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}またはあなたの狙った獲物に気づかれない場合、そのクリーチャーはあなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}の状態になるあなたのターン終了時まで。自然の環境にいる場合、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn]{〈気配を消す〉}し、全速力で@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}することができる。</p>",
       "source": "Pathfinder Howl of the Wild"
     },
@@ -34168,7 +34168,7 @@
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Impeccable Crafting": {
-      "name": "インペッカブル・《製作》/Impeccable Crafting",
+      "name": "インペッカブル・クラフティング/Impeccable Crafting",
       "description": "<p>あなたは高い効率で完璧な創造物を作り出す。あなたが@UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]{スペシャルティ・《製作》}で選択した種類のアイテムを作成するために《製作》判定を行って成功したときはいつでも、代わりにクリティカル成功となる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -35154,7 +35154,7 @@
       "source": "Pathfinder #210: Whispers in the Dirt"
     },
     "Martial Performance": {
-      "name": "マーシャル・《芸能》/Martial Performance",
+      "name": "マーシャル・パフォーマンス/Martial Performance",
       "description": "<p>あなたのミューズは、他の多くのバードよりも広範囲の武器を扱う方法を教え、あなたがパフォーマンスを戦闘道具に effortlessly融合させる能力を高める。あなたが@UUID[Compendium.pf2e.spells-srd.Item.IAjvwqgiDr3qGYxY]{カレイジャス・アンセム}作曲のカントリップがアクティブのとき、敵に〔ストライク〕でダメージを与えると、呪文の持続時間が1ラウンド延長される。この方法で個々のキャスティングを延長できるのは一度だけである。</p>\n<p>あなたが@UUID[Compendium.pf2e.spells-srd.Item.bH0kPuf7UKxRvi2P]{ラリーイング・アンセム}または@UUID[Compendium.pf2e.spells-srd.Item.Xxdwkt0EEDgP1LGc]{ソング・オヴ・ストレングス}作曲のカントリップを得ると、この恩恵をそれらのカントリップにも適用できる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -35930,7 +35930,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Specialty Crafting": {
-      "name": "スペシャルティ・《製作》/Specialty Crafting",
+      "name": "スペシャルティ・クラフティング/Specialty Crafting",
       "description": "<p>あなたの訓練は《製作》の特定の種類のアイテムに焦点を当てている。以下に挙げた専門分野から1つを選択すること。その種類のアイテムを〈製作する〉際の《製作》判定に+1の状況ボーナスを得る。もしあなたが《製作》のマスターであれば、このボーナスは+2に増加する。その専門分野が適用されるかどうかが不明確な場合、GMが決定する。一部の専門分野は部分的にしか適用されない場合がある。例えば、あなたがモーニングスターを作成していて、木工の専門分野を持っている場合、そのアイテムには鍛冶と木工の両方が必要であるため、GMはボーナスの半分を与えるかもしれない。</p>\n<table class=\"pf2e\" style=\"white-space:nowrap\">\n<thead>\n<tr>\n<th>専門分野</th>\n<th>適用可能なアイテム</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>錬金術*</td>\n<td>エリクサーのような錬金術アイテム</td>\n</tr>\n<tr>\n<td>芸術品</td>\n<td>宝飾品を含む美術品</td>\n</tr>\n<tr>\n<td>鍛冶</td>\n<td>金属製の鎧を含む、耐久性のある金属製品</td>\n</tr>\n<tr>\n<td>製本</td>\n<td>書籍および紙製品</td>\n</tr>\n<tr>\n<td>ガラス細工</td>\n<td>ガラス製品や窓を含むガラス製品</td>\n</tr>\n<tr>\n<td>皮革加工</td>\n<td>革製の鎧を含む革製品</td>\n</tr>\n<tr>\n<td>陶芸</td>\n<td>陶磁器製品</td>\n</tr>\n<tr>\n<td>造船</td>\n<td>船舶およびボート</td>\n</tr>\n<tr>\n<td>石工</td>\n<td>石製品および石造建築物</td>\n</tr>\n<tr>\n<td>仕立て</td>\n<td>衣類</td>\n</tr>\n<tr>\n<td>織物</td>\n<td>布地、籠、敷物</td>\n</tr>\n<tr>\n<td>木工</td>\n<td>木製品および木造建築物</td>\n</tr>\n</tbody>\n</table>\n<p>* 錬金術アイテムを〈製作する〉には、@UUID[Compendium.pf2e.feats-srd.Item.is3Oz9wt11lNq62K]{錬金術 《製作》}スキル特技を持っていなければならない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -36646,7 +36646,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Swamp Stealth": {
-      "name": "スワンプ・《隠密》/Swamp Stealth",
+      "name": "スワンプ・ステルス/Swamp Stealth",
       "description": "<p> <strong>必要条件</strong>あなたは環境機能を利用して@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}できる沼地環境にいる。</p> <hr /> <p>沼地では、あなたは下草や葉の背後に素早く隠れたり、濁った水の中を静かに移動したりするのが特に得意である。あなたは〔遮蔽をとる〕を行い、そのカバーを使って@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}。</p>",
       "source": "Pathfinder #210: Whispers in the Dirt",
       "prerequisites": [
@@ -37060,7 +37060,7 @@
       ]
     },
     "Improvised Crafting": {
-      "name": "インプロヴァイズド・《製作》/Improvised Crafting",
+      "name": "インプロヴァイズド・クラフティング/Improvised Crafting",
       "description": "<p>あなたは困難な状況においてもあなたの装備品を修理する方法を学び、手元にある物を利用する。あなたは修理キットなしでアイテムを〔修理〕しようと試み、代わりにあなたの道具または見つけたアイテムから即興の道具を使う。これにより、アイテムを〔修理〕するのにかかる時間に5分が加わる。あなたは安定した表面を必要とせずに、移動中にアイテムを〔修理〕することもできる。これにより、アイテムを〔修理〕するのにかかる時間に10分が加わる。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
@@ -39208,7 +39208,7 @@
       ]
     },
     "Seven Changes Performance": {
-      "name": "セブン・チェンジズ・《芸能》/Seven Changes Performance",
+      "name": "セブン・チェンジズ・パフォーマンス/Seven Changes Performance",
       "description": "<p>キツネは魔法的な幻術の力で知られているが、あなたは舞台魔術、特に衣装替えや早変わりに熟練している。あなたは@UUID[Compendium.pf2e.feats-srd.Item.e4KB4pSkx2lDBNw3]{クイック・ディスガイズ}の特技を得る。あなたは[[/act impersonate skill=performance]]{《芸能》}を、@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{なりすます}目的のために《欺瞞》の代わりに使用できる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -39423,7 +39423,7 @@
       ]
     },
     "Battlefield Arcana": {
-      "name": "バトルフィールド・《秘術》/Battlefield Arcana",
+      "name": "バトルフィールド・アルカナ/Battlefield Arcana",
       "description": "<p>あなたは戦闘の熱中の中でも安全に呪文を唱えることを学んだ。あなたが次に使用するアクションがウィザードのキャントリップ、またはあなたが持っている最高ランクのウィザード呪文のスロットよりも少なくとも2ランク低いウィザード呪文を唱えることであるなら、その呪文は呪文の発動に伴って通常トリガーされる反応を引き起こさない。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
@@ -40434,7 +40434,7 @@
       ]
     },
     "Advanced Arcana": {
-      "name": "アドヴァンスト・《秘術》/Advanced Arcana",
+      "name": "アドヴァンスト・アルカナ/Advanced Arcana",
       "description": "<p>あなたは1つのウィザード特技を得る。特技の要件を満たすために、あなたのウィザードレベルはあなたのキャラクターレベルの半分に等しい。</p>\n<hr />\n<p><strong>特別</strong>あなたはこの特技を複数回選択できる。選択するたびに、別のウィザード特技を得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -41084,7 +41084,7 @@
       ]
     },
     "Timeless Nature": {
-      "name": "タイムレス・《自然》/Timeless Nature",
+      "name": "タイムレス・ネイチャー/Timeless Nature",
       "description": "<p>プライマルマジックによって支えられ、あなたは老化を止める。あふれ出るプライマルエネルギーにより、病気とプライマルマジックに対するセーヴに+2の状況ボーナスを得る。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -43112,7 +43112,7 @@
       "source": "Pathfinder Player Core"
     },
     "True Perception": {
-      "name": "トゥルー・《知覚》/True Perception",
+      "name": "トゥルー・パーセプション/True Perception",
       "description": "<p>あなたの知覚能力と感覚情報を処理する能力は常識を超えており、あらゆる種類の幻影や物理的変化における微細な違いに気づく。あなたは常に6ランクの@UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{トゥルーサイト}呪文の効果を受けており、 知覚修正値を打ち消し判定に使用する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -44704,7 +44704,7 @@
       "source": "Pathfinder Player Core"
     },
     "Alluring Performance": {
-      "name": "アルーリング・《芸能》/Alluring Performance",
+      "name": "アルーリング・パフォーマンス/Alluring Performance",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p>あなたは優雅な演技で周囲の者の注意を惹きつける。@Check[performance]判定を行い、それを@Template[emanation|distance:15]内の各クリーチャーの意志DCと比較する。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は、あなたが芸を行っている間(その状態の通常通り、魅了状態から抜け出さない限り)、あなたに@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}し、1ラウンドまたは魅了されている間、いずれか長い方の期間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p><strong>成功</strong>対象は1ラウンドの間魅了状態となり、1ラウンドの間幻惑状態となる。</p>\n<p><strong>失敗</strong>対象は1ラウンドの間幻惑状態となる。</p>\n<p><strong>クリティカル失敗</strong>対象は影響を受けない。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
@@ -47511,7 +47511,7 @@
       "source": "Pathfinder Season of Ghosts Hardcover Compilation"
     },
     "Intuitive Crafting": {
-      "name": "インテュイティヴ・《製作》/Intuitive Crafting",
+      "name": "インテュイティヴ・クラフティング/Intuitive Crafting",
       "description": "<p>あなたの過程と秩序との親和性は、あなたを自然な職人にする。あなたは訓練済みの《製作》を得る。もしあなたがすでに訓練済みの《製作》であれば、あなたは代わりに自分の選択した専門分野における@UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]{スペシャルティ・《製作》}スキル特技を得る；もし両方持っているなら、代わりに自分の選択したスキルで訓練済みになる。さらに、アイテムを〔修理〕する際にクリティカル失敗をした場合、失敗として扱われる。</p><hr /><p><em>注：もしあなたがすでに訓練済みの《製作》であれば、あなたは専門《製作》特技を手動で追加するか、別のスキルを選択する必要がある。</em></p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
@@ -47807,7 +47807,7 @@
       ]
     },
     "Impressive Performance": {
-      "name": "インプレッシブ・《芸能》/Impressive Performance",
+      "name": "インプレッシブ・パフォーマンス/Impressive Performance",
       "description": "<p>あなたの《芸能》は賞賛を引き起こし、ファンを得る。あなたは[[/act make-an-impression skill=performance]]を《芸能》を使用して《交渉》の代わりに行うことができる。観客の前で少なくとも10分を費やして演技を行った場合、あなたは0ペナルティで《芸能》全体を通じてそこにいた観客の最大10人を対象にして〔印象の改善〕を行うことができる。この対象数は1時間の《芸能》で20、2時間の《芸能》で50に増加する。 </p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -47943,7 +47943,7 @@
       ]
     },
     "Raging Intimidation": {
-      "name": "レイジング・《威圧》/Raging Intimidation",
+      "name": "レイジング・インティミデーション/Raging Intimidation",
       "description": "<p>あなたの怒りは敵に恐怖を与える。あなたが怒っている間、あなたの@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}と@UUID[Compendium.pf2e.feats-srd.Item.mZttsiWl1ql5NvrH]{スケア・トゥ・デス}アクション(それぞれ《威圧》スキルと《威圧》スキル特技から)は怒りのトレイトを持ち、怒りの最中にそれらを使用できる。スキル特技@UUID[Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce]{インティミデイティング・グレア}と Scare to Deathの要件を満たすと、これらのフィートを得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -48187,7 +48187,7 @@
       ]
     },
     "Magical Crafting": {
-      "name": "マジカル・《製作》/Magical Crafting",
+      "name": "マジカル・クラフティング/Magical Crafting",
       "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{〈製作する〉}魔法のアイテムを扱うことができるが、一部には他の要件がある。この特技を選ぶと、2レベル以下の一般的な魔法アイテムの設計図を4つ得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -49085,7 +49085,7 @@
       ]
     },
     "Planar Survival": {
-      "name": "プレイナー・《生存術》/Planar Survival",
+      "name": "プレイナー・サバイバル/Planar Survival",
       "description": "<p>あなたは、《生存術》を使って異なる次元で〔生存〕を行うことができ、通常必要な資源や自然現象がない場所でも行える。たとえば、あなたは次元界が、通常あなたを維持できる食料を欠いていても、ペナルティなしで食料を調達できる。あなたの判定に対する〔生存〕の成功は、次元界によってあなたとあなたが〔生存〕で支援する他の誰かに与えられるダメージを防ぐ。この効果は、次元界の一般的な条件によって与えられるダメージのみに適用され、小さな危険には適用されない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -50489,7 +50489,7 @@
       "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Forest Stealth": {
-      "name": "フォレスト・《隠密》/Forest Stealth",
+      "name": "フォレスト・ステルス/Forest Stealth",
       "description": "<p><strong>必要条件</strong>あなたは環境の特徴に近い森やジャングルの中におり、その特徴によってあなたは〔遮蔽をとる〕ことができる。</p>\n<hr />\n<p>あなたは素早く茂みや葉の陰に隠れる技術に長けている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}として隠れ、そのカバーを使って@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}を行う。</p>",
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [

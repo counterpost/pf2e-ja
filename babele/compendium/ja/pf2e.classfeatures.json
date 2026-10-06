@@ -42,7 +42,7 @@
       "description": "<p>単一の敵に意識を集中させると、あなたは追跡において止められない存在となる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.JYi4MnsdFu618hPm]{獲物指定}アクションを得る。</p>"
     },
     "Perception Mastery": {
-      "name": "《知覚》・マスタリー/Perception Mastery",
+      "name": "パーセプション・マスタリー/Perception Mastery",
       "description": "<p><strong>バーバリアン</strong>あなたの本能は、あなたの各感覚をさらに高める。あなたの《知覚》の習熟ランクはマスターに上昇する。</p>\n<p><strong>バード、ガンスリンガー、ローグ</strong>あなたは鋭い認識力と細部への注意力を発達させた。あなたの《知覚》の習熟ランクはマスターに上昇する。</p>\n<p><strong>コマンダー</strong>あなたはあらゆる側面からシナリオを見る能力を発達させた。あなたの《知覚》の習熟ランクはマスターに上昇する。</p>\n<p><strong>エグゼンプラー</strong>冒険を通じて、あなたは鋭い認識力と細部への注意力を発達させた。これは被保護者を見守り、モンスターやその他の脅威に目を光らせるために役立つ。あなたの《知覚》の習熟ランクはマスターに上昇する。</p>\n<p><strong>インヴェスティゲーター、スワッシュバックラー、ソーマタージ</strong>冒険を通じて、あなたは鋭い認識力と細部への注意力を発達させた。あなたの《知覚》の習熟ランクはマスターに上昇する。</p>\n<p><strong>レンジャー</strong>あなたは高度に発達した鋭敏さと細部への注意力を持っている。あなたの《知覚》の習熟ランクはマスターに上昇する。</p>"
     },
     "Inventor Weapon Expertise": {
@@ -142,7 +142,7 @@
       "description": "<p>あなたのエイドロンは攻撃を回避する能力を向上させる。その非武装防御の習熟ランクは「熟練」に上昇する。</p>"
     },
     "Strategic Strike": {
-      "name": "ストラテジック・〈ストライク〉/Strategic Strike",
+      "name": "ストラテジック・ストライク/Strategic Strike",
       "description": "<p>注意深く、熟慮してストライクを行うとき、あなたは決定的な一撃を与える。@UUID[Compendium.pf2e.classfeatures.Item.lgo65ldX7WkXC8Ir]{ディヴァイズ・ア・ストラタジェム}により攻撃ロールに【知力】修正値を加算する〈ストライク〉を行う際、あなたは追加で1d6の精密ダメージを与える。</p>\n<p>インヴェスティゲーターのレベルが上がるにつれて、あなたの戦略的打撃の殺傷力も高まる。5レベル、9レベル、13レベル、17レベルで、ダイスの数を1つ増加させる。</p>"
     },
     "Bloodline": {
@@ -530,7 +530,7 @@
       "description": "<p>失われし歓喜の祝宴者は、かつて人々が大きな喜びを見出した荒涼とした見捨てられた場所に現れる、歪んだアパリションである。彼らは他者に危害や不快感を与えることに大きな喜びを感じており、自分たちの滑稽な振る舞いに笑わないアニミストに同調することを好まない。</p><hr /><p><strong>アパリションのスキル</strong> サーカス《専門知識》、幸運占い《専門知識》</p>\n<p><strong>アパリションの呪文</strong></p><ul><li><strong>キャントリップ</strong> @UUID[Compendium.pf2e.spells-srd.Item.Qw3fnUlaUbnn7ipC]{プレスティディジテイション}</li><li><strong>1レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.UKsIOWmMx4hSpafl]{ディズィイング・カラーズ}</li><li><strong>2レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.tlSE7Ly8vi1Dgddv]{ラフィング・フィット}</li><li><strong>3レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.K2WpC3FFoHrqX9Q5]{ヒプノタイズ}</li><li><strong>4レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.LiGbewa9pO0yjbsY]{コンフュージョン}</li><li><strong>5レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.Ucf8eynbZMfUucjE]{イリュージョナリー・シーン}</li><li><strong>6レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.RQjSQVZRG497cJhX]{ヴァイブラント・パターン}</li><li><strong>7レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.8kJbiBEjMWG4VUjs]{ワープ・マインド}</li><li><strong>8レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.Oj1PJBMQD9vuwCv7]{クォンダリー}</li><li><strong>9レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.FEsuyf203wTNE2et]{ウェイルズ・オブ・ザ・ダムド}</li></ul><p><strong>憑依呪文 呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.cuKVbWWNzJj1GDpZ]{トリックスターズ・ミラーズ}</p>\n<p><strong>アバター</strong> <em>暗黒の祝祭の団長</em> 移動速度 50フィート、移動困難地形および移動困難地形(大)を無視する</p>\n<p><strong>近接</strong> <span class=\"action-glyph\">1</span> 団長の鞭(リーチ15フィート、〈足払い〉)、 <strong>ダメージ</strong> @Damage[(6d10+6)[slashing]]</p>\n<p><strong>遠隔</strong> <span class=\"action-glyph\">1</span> 失われし者の饗宴(酸、射程120フィート、バーサタイル：虚無)、 <strong>ダメージ</strong> @Damage[(6d6+6)[acid]]</p>"
     },
     "Debilitating Strike": {
-      "name": "デビリテイティング〈ストライク〉/Debilitating Strike",
+      "name": "デビリテイティング・ストライク/Debilitating Strike",
       "description": "<p>隙を突く際、君は敵を妨害し、かつ危害を加える。君は@UUID[Compendium.pf2e.actionspf2e.Item.bp0Up04x3dzGK5bB]{弱体化の〈ストライク〉}フリー・アクションを得る。</p>",
       "rules": [
         {
@@ -829,7 +829,7 @@
       "description": "<p>ヴォールトの作り手は、ダンジョン、鍛冶場、あるいは創造と負傷が同時に発生するその他の場所に存在する。彼らは自身の創造物を褒めてくれるアニミストと組むことを好むが、誰か他の者が彼らの専門分野に立ち入ると、しばしば嫉妬心を抱く。これには彼らのアパリション・リストに現れる呪文のいずれかを詠唱することも含まれる。</p><hr /><p><strong>アパリションのスキル</strong>アーキテクチャー《専門知識》、エンジニアリング《専門知識》</p>\n<p><strong>アパリションの呪文</strong></p><ul><li><strong>キャントリップ</strong> @UUID[Compendium.pf2e.spells-srd.Item.AUctDF2fqPZN2w4W]{シジル}</li><li><strong>1レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.dINQzhqGmIsqGMUY]{メンディング}</li><li><strong>2レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.6Ot4N22t5tPD51BO]{ノック}</li><li><strong>3レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.AMEu5zzLN7uCX645]{ゴーストリー・ウェポン}</li><li><strong>4レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.TUj8eugNqAvB1vVR]{クリエイション}</li><li><strong>5レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.oXeEbcUdgJGWHGEJ]{インペイリング・スパイク}</li><li><strong>6レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.CB5TlGv5ZghtMifi]{ウォール・オブ・メタル}</li><li><strong>7レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.dKWc83KKiXoIJkhp]{ビヘッディング・バズ・ソー}</li><li><strong>8レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.89Hj5QuqvcwVXcqj]{フェラス・フォーム}</li><li><strong>9レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.KPDHmmjJiw7PhTYF]{レスプレンデント・マンション}</li></ul><p><strong>ヴェッセル呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.rzcXUF5YmJYxgxEa]{トラベリング・ワークショップ}</p>\n<p><strong>アバター</strong> <em>インカーネイト・ダンジョン</em>移動速度50フィート、〈穴掘り〉移動速度50フィートまたは〈飛行速度〉飛行移動速度50フィート</p>\n<p><strong>近接</strong> <span class=\"action-glyph\">1</span>ダンジョン・トラップ(間合い10フィート、バーサタイルBまたはP)、 <strong>ダメージ</strong> @Damage[(6d6+6)[slashing]]に加え「掴み」</p>\n<p><strong>遠隔</strong> <span class=\"action-glyph\">1</span>デッドリー・ダーツ(射程120フィート、バーサタイル・ポイズン)、 <strong>ダメージ</strong> @Damage[(6d6+6)[piercing]]</p>"
     },
     "Research Field": {
-      "name": "〈研究〉・フィールド/Research Field",
+      "name": "リサーチ・フィールド/Research Field",
       "description": "<p>宇宙の錬金術的な性質に関するあなたの探究は、特定の研究分野に集中するようあなたを導いた。1レベル時に、あなたは自分の研究分野を選択する。この選択により、あなたはより多くの公式、特別な恩恵、バーサタイル・バイアルのためのその他の能力、そしてレベルが上がるにつれてその他の恩恵を得る。</p>"
     },
     "Esoteric Lore": {
@@ -861,7 +861,7 @@
       "description": "<p>あなたは神格の名の下に、特定の理念にあなた自身を捧げる。括弧内に記されているように、一部の理念は聖別(sanctification)に限定されている。あなたの理念は、あなたのエディクトとアナセマに追加され、チャンピオンのリアクションと呼ばれる特別なリアクションをあなたに与える。これは、より高いレベルでリレントレスなリアクションやエグザルテッドなリアクションのクラス特徴を得た場合のアップグレードとともに、区切り線の後に記載される。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.8YIA0jh64Ecz0TG6]{デセクレーション} (アンホーリー):</strong>あなたは利己的に堕落させ、破壊する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.h1NGH4TVeBljftni]{グランドゥール} (ホーリー):</strong>あなたはセレスティアル界の栄光と壮麗さを体現する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.EQ6DVIQHAUXUhY6Y]{イニクイティ} (アンホーリー):</strong>あなたは破壊し、利用し、不名誉な行動をとる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.peEXunfbSD8WcMFk]{ジャスティス}:</strong>あなたは法に従い、正当な罰を下す。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.FCoMFUsth4xB4veC]{リバレーション}:</strong>あなたは圧政に反対し、自由のために戦う。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.HiIvez0TqESbleB5]{オビーディエンス}:</strong>あなたは階層と秩序を強制する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.UyuwFp0jQqYL2AdF]{リデンプション} (ホーリー):</strong>あなたは邪悪な行いをする者を救済しようと努める。</p>"
     },
     "Voice of Nature": {
-      "name": "ヴォイス・オブ・《自然》/Voice of Nature",
+      "name": "ボイス・オブ・ネイチャー/Voice of Nature",
       "description": "<p>あなたはドルイドの特技である@UUID[Compendium.pf2e.feats-srd.Item.cg816q76S5otM7yD]{アニマル・エンパシー}または@UUID[Compendium.pf2e.feats-srd.Item.ahyQpMVDIqhvXkQ4]{プラント・エンパシー}のいずれかを選択して得る。</p>"
     },
     "Alertness": {
@@ -1089,7 +1089,7 @@
       "description": "<p>あなたは自身のイノヴェーションに、攻撃能力を強化するための追加改造を施した。これらの改良により、あなたのイノヴェーションに依存するストライクは、選択したブーストによって決定される種類の追加ダメージを1d6点与えるようになる。もしあなたのイノヴェーションがアーマーであるなら、このブーストはあなたの近接素手ストライクと、日課の準備の間にあなたが選択した1つの武器による近接ストライクに適用される。もしあなたのイノヴェーションがコンストラクトであるなら、このブーストはあなたのコンストラクト・コンパニオンのストライクに適用される。そしてもしあなたのイノヴェーションが武器であるなら、このブーストはあなたのイノヴェーションによるストライクに適用される。あなたはダウンタイムを費やすことで、改造を切り替えるのと同じ方法で別のブーストに切り替えることができる。以下のブーストから1つを選択すること。括弧内はダメージ種別である。</p>\n<ul>\n<li><strong>チル(冷気)</strong>あなたのイノヴェーションは急速に熱を吸収し、強烈な冷気を生み出す。</li>\n<li><strong>イグニッション(火炎)</strong>あなたのイノヴェーションは灼熱の炎を噴射する。</li>\n<li><strong>ジョルト(電撃)</strong>あなたのイノヴェーションは電撃のチャージで敵を痺れさせる。</li>\n<li><strong>モメンタム(殴打)</strong>あなたのイノヴェーションは勢いを加えて敵に叩きつける。</li>\n<li><strong>ソーズ(斬撃)</strong>あなたのイノヴェーションは攻撃中に回転する鋸刃を露出させる。</li>\n<li><strong>スパイク(刺突)</strong>あなたのイノヴェーションは攻撃中に鋭い棘を露出させる。</li>\n<li><strong>ヴィトリオール(酸)</strong>あなたのイノヴェーションは腐食性の酸を噴射する。</li>\n</ul>\n<hr />\n<p><em>注：含まれている効果は、コンストラクト・イノヴェーションと、日々の準備で使用する武器を選択するアーマー・イノヴェーションに対してのみ必要となる。</em></p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.ut5SVyCSXel69nnd]{効果: Offensive Boost}</p>"
     },
     "The Unbound Step": {
-      "name": "ザ・アンバウンド〈ステップ〉/The Unbound Step",
+      "name": "ザ・アンバウンド・ステップ/The Unbound Step",
       "description": "<p>精神は思考から思考へと飛び回ることができる。なぜあなたもそうしてはいけないのか？あなたは典型的な3次元だけでなく、より高次の空間次元における動きに集中し、位置取りを変化させるバーサタイルな能力を可能にする。</p>\n<p><strong>授与呪文</strong></p><ul><li>1レベル: @UUID[Compendium.pf2e.spells-srd.Item.qTr2oCgIXl703Whb]{スートフル・ギフト}</li><li>2レベル: @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{エンラージ}</li><li>3レベル: @UUID[Compendium.pf2e.spells-srd.Item.98gJvb8Xtn8OLIY7]{ラリー・ポイント}</li><li>4レベル: @UUID[Compendium.pf2e.spells-srd.Item.VlNcjmYyu95vOUe8]{トランスロケート}</li><li>5レベル: @UUID[Compendium.pf2e.spells-srd.Item.m4Mc5XbdML92BKOE]{ストレンジ・ジオメトリー}</li><li>6レベル: @UUID[Compendium.pf2e.spells-srd.Item.c3XygMbzrZMgV1y3]{コレクティブ・トランスポジション}</li><li>7レベル: @UUID[Compendium.pf2e.spells-srd.Item.ggtZTxeyEnDYbt6f]{モメンタリー・リカバリー}</li><li>8レベル: @UUID[Compendium.pf2e.spells-srd.Item.Oj1PJBMQD9vuwCv7]{クォンダリー}</li><li>9レベル: @UUID[Compendium.pf2e.spells-srd.Item.HHCgEEkeeShVQf8d]{バイロケーション}</li></ul><p><strong>標準サイ・キャントリップ</strong></p>\n<p>@UUID[Compendium.pf2e.spells-srd.Item.5gophZ4AOKW4VW27]{フェイズ・ボルト}</p>\nあなたのフェイズ・ボルトは、命中した場合、対象の遮蔽を一時的に位相の外へ送る。成功時、対象のACへの状況ボーナス(もしあれば)を1減少させるあなたの次のターン開始時まで。あなたのフェイズ・ボルトはさらに以下の「アンプ」を得る。<p>\n</p>\n<p><strong>アンプ</strong>あなたのボルトは完全に位相を離れ、対象に突き刺さるまで不可視かつ非実体となる。これにより、まるでその場にテレポートしたかのような印象を与える。対象はこの攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。さらに、このボルトは呪文のランクの半分に等しい量の硬度または刺突ダメージに対する耐性を無視する。大成功時、対象はテレポーテーション効果の影響を受けられなくなる　あなたの次のターン開始時まで。</p>\n<p><strong>アンプ高位化 (+1)</strong>ボルトのダメージは1d4ではなく2d4増加する。</p>\n<p>@UUID[Compendium.pf2e.spells-srd.Item.sX2g6WFSQPNW9jzx]{ワープ 〈ステップ〉}</p>\nあなたは空間をよりコンパクトに歪め、ワープ・ステップを行う際、あなたの移動速度への状況ボーナスは+5フィートではなく+10フィートとなる。この呪文はさらに以下の「アンプ」を得る。<p>\n</p>\n<p><strong>アンプ</strong>空間はほとんど思考を要さずに収縮し、あなたはこの呪文を1アクションとして発動できる。</p><p><strong>アンプ 高位化 (4レベル)</strong> あなたは空間を完全にねじ曲げるため、その間の距離を移動する必要はない。代わりに、あなたの移動速度(ワープ・ステップによる状況ボーナスを適用した後)の2倍に等しい射程内で、あなたの視線と効果線が通る広場へテレポートすることを選択できる。これにより、この呪文はテレポーテーションのトレイトを得る。</p>\n<p><strong>ユニーク・サイ・キャントリップ</strong></p>\n<p>表面: @UUID[Compendium.pf2e.spells-srd.Item.WOM9alxiTdp0HEVD]{ディストーション・レンズ}</p>\n<p><strong>アンプ</strong> あなたはレンズをその場に固定し、クリーチャーにより強く影響を与えることができる。この呪文の持続時間は1分となるが、レンズの位置をずらすためにこの呪文を〈維持〉することはできない。中型以下の味方の移動アクション中1回、その味方はレンズのエリア内へ移動し、そこから出る際、それらの広場を合計移動距離に含めなくてよい。逆に、レンズは敵にとっての移動困難な地形となる。</p>\n<p>深層: @UUID[Compendium.pf2e.spells-srd.Item.JqHAxsMUZ4Mr5bTr]{ゴーストリー・シフト}</p>\n<p><strong>アンプ</strong> あなたの非実体性は、他のクリーチャーを通り抜けることができるほど完全なものとなり、そうする際に苦痛を伴う干渉効果を引き起こす。各ラウンドに1回、あなたが〈ストライド〉、〈穴掘り〉、〈水泳〉、または〈飛行〉を行う際、そのアクション中に1体のクリーチャーの占める広場を通り抜けることができる。その際、[[/act tumble-through]]のための判定を行う必要はないが、そのクリーチャーの広場でターンを終了することはできない。この方法でクリーチャーの広場を通り抜ける際、そのクリーチャーに@Damage[2d6[force]]ダメージを与える(基本頑健セーヴ)。</p>\n<p><strong>アンプ 高位化 (+2)</strong> クリーチャーを通り抜けることで与えるダメージを1d6増加させる。</p>\n<p>最深層: @UUID[Compendium.pf2e.spells-srd.Item.Z1MoMTcgFQiCI90t]{テッセラクト・トンネル}</p>\n<p><strong>アンプ</strong> 空間上の2点を接続するために物理的な移動はもはや必要ない。テッセラクト・トンネルを発動する際、あなたは単にあなたの移動速度に等しい射程内の広場で終わるトンネルを作成する。あなたはトンネルの遠端にある広場へ即座にテレポートすることを選択できる。さらに、このトンネルは入り口から出口へだけでなく、両方向に通行できる。最後に、この呪文の持続時間は1分に変化する。あなたは〈解除〉できる。</p>"
     },
     "Commanding Will": {
@@ -1517,7 +1517,7 @@
       "description": "<p>製作や工作に関して、あなたはイノベーションの機能を調整するために改造を変更することに非常に熟達した。ダウンタイムを費やしてイノベーションを再構成し、その《製作》判定に成功したとき、あなたは改造を1つではなく、任意の数の改造を入れ替えるか、オフェンシブ・ブーストを入れ替えるか、あるいは任意の数の改造特技を再訓練することができる。ただし、改造を入れ替える際は、必ず同じタイプ(初期、ブレイクスルー、革命的)のもの同士でなければならない。</p>"
     },
     "Sneak Attack": {
-      "name": "〈忍び歩き〉・アタック",
+      "name": "スニーク・アタック",
       "description": "<p>敵が適切に防御できないとき、あなたはその隙を突いて追加ダメージを与える。もしあなたが、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーに対して、アジャイルまたはフィネスの近接武器、アジャイルまたはフィネスの素手攻撃、遠隔武器攻撃、あるいは遠隔素手攻撃で〈ストライク〉を行ったなら、あなたは1d6の精密ダメージを追加で与える。投擲武器による遠隔攻撃の場合、その武器もまたアジャイルまたはフィネスでなければならない。</p>\n<p>あなたのレベルが上昇するにつれて、急所攻撃のダメージ・ダイス数も増加する。5レベル、11レベル、17レベルになった時点で、ダイス数を1つずつ増加させる。</p>"
     },
     "Fey Eidolon": {
@@ -1525,7 +1525,7 @@
       "description": "|||<p>あなたのエイドロンは、神秘的な第一世界(ファースト・ワールド)の気まぐれな存在であるフェイである。多くのフェイは、尖った耳、翼、あるいは自然の要素で構成された体といった特異な特徴を持つ人型の種族に似ているが、フェイの多様性は無限であり、完全に人間離れした姿のものも多い。第一世界のフェイは真の意味で死ぬことはなく、代わりに新たなクリーチャーを形成する。フェイ・エイドロンは通常、サモナーが困難な再形成を安定させるのを助けたときに現れる。これは、あなたのフェイ・エイドロンがあなたと出会う直前に別の人生を送っており、古い記憶の断片を覚えている可能性があることを意味する。あなたたちは共に、あなたのエイドロンのフェイとしての過去の記憶を紐解かなければならないかもしれない。</p>\n<p><strong>系統</strong> プライマル(ただし後述の「フェイの贈り物呪文」を参照)</p>\n<p><strong>特徴</strong> エイドロン、フェイ</p>\n<p><strong>故郷の次元界</strong> 第一世界</p><hr /><p><strong>サイズ</strong> 小型または中型</p>\n<p><strong>推奨攻撃</strong> 拳(殴打)、翼(殴打)、武器の形をした攻撃</p>\n<p><strong>遊撃隊フェイ</strong> 筋力14、敏捷18、耐久14、知力10、判断10、Cha 12; +1 AC(敏捷修正値上限+4)</p>\n<p><strong>トリックスター・フェイ</strong> 筋力12、敏捷18、耐久12、知力12、判断8、Cha 16; +1 AC(敏捷修正値上限+4)</p>\n<p><strong>スキル</strong> 《欺瞞》、《自然》</p>\n<p><strong>感覚</strong> 微光視覚</p>\n<p><strong>言語</strong> シルヴァン</p>\n<p><strong>移動速度</strong> 25フィート</p><hr /><p><strong>エイドロンの能力</strong> <em>初期</em>フェイの贈り物呪文<em>; 共生 </em>フェイの悪戯<em>; 超越 </em>フェイの策略</p><h2>フェイの贈り物呪文</h2><p>あなたのエイドロンは、エンチャント呪文とイリュージョン呪文であなたのプライマル魔法を拡張し、あなたとエイドロンの両方がフェイの魅了と幻惑の力を装備できるようにする。呪文レパートリーに呪文を追加する際、あなたはプライマル呪文リストに加えて、アーケイン呪文リストにあるエンチャント呪文とイリュージョン呪文から選択できる。異なる系統の呪文を呪文リストに追加する場合の常として、あなたは依然としてプライマル呪文の使い手であるため、あなたの呪文はすべてプライマル呪文となる。</p>\n<p>あなたのエイドロンは、前提条件のレベルを満たしていなくても、@UUID[Compendium.pf2e.feats-srd.Item.WfbmFsRxbVyzMmCz]{マジカル・アンダースタディ}サモナー特技を獲得し、プライマル・キャントリップに加えてフェイの贈り物キャントリップを選択できる。名前によって付与される特技の常として、あなたは魔法 Understudyを別の特技に再訓練することはできない。</p><h2>フェイの悪戯<span style=\"float:right\">7レベル</span></h2>||||||<p>あなたのエイドロンのフェイ魔法は、より強力で悪戯好きになる。あなたのエイドロンは、前提条件のレベルを満たしていなくても、@UUID[Compendium.pf2e.feats-srd.Item.b1eGMNjBY3iqIt2S]{マジカル・アデプト}特技を獲得し、プライマル呪文に加えてフェイの贈り物呪文から選択できるようになる。</p><h2>フェイの策略<span style=\"float:right\">17レベル</span></h2><p>常に策略に満ちたあなたのフェイ・エイドロンは、魔法的な守りをあなたと共有する生命力へとねじ曲げ、絶望的な状況に備えて懐にコンティンジェンシーを隠し持たせる。日課の準備の間、あなたのエイドロンはコンティンジェンシー呪文を詠唱できる。選択する4レベル呪文は、プライマル呪文リストまたはフェイの贈り物リストから選ばなければならず、かつコモンであるか、あるいはあなたがアクセス権を持つ別の呪文でなければならない。</p>|||"
     },
     "Nature's Edge": {
-      "name": "《自然》ズ・エッジ/Nature's Edge",
+      "name": "ネイチャーズ・エッジ/Nature's Edge",
       "description": "<p>敵が不利な地形にいるとき、あなたは常に敵の防御の弱点を見つけ出す。敵が移動困難な地形にいる場合、その敵はあなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
     },
     "Reconfigure": {
@@ -1537,7 +1537,7 @@
       "description": "<p>あなたの精神はあまりに複雑かつ洗練されており、付け入る隙がない。あなたの意志セーヴの習熟ランクはマスターに上昇する。あなたが意志セーヴで成功したとき、代わりに大成功を得る。</p>"
     },
     "Perception Expertise": {
-      "name": "《知覚》・エキスパーティス/Perception Expertise",
+      "name": "パーセプション・エキスパーティス/Perception Expertise",
       "description": "<p>あなたは周囲の脅威に対して常に警戒を怠らない。あなたの《知覚》の習熟ランクはエキスパートに上昇する。</p>"
     },
     "Fencer": {
@@ -1661,7 +1661,7 @@
       "description": "<p>あなたは敵を自慢し、嘲り、心理的に追い詰める。あなたは《威圧》において訓練済みである。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}を行う際、そのアクションはブラヴァードのトレイトを得る。</p>"
     },
     "Deadly Strike": {
-      "name": "デッドリー・〈ストライク〉/Deadly Strike",
+      "name": "デッドリー・ストライク/Deadly Strike",
       "description": "<p>精密な計算により、あなたは武器がうまく命中した際にダメージを与える完璧な方法を見出した。あなたのイノヴェーションはデッドリーd8トレイトを得る。もしあなたのイノヴェーションがすでにデッドリーを持っていたなら、そのダイスを最大2段階(d6からd10へ、d8からd12へ)増加させ、最大でデッドリーd12までとなる。</p>"
     },
     "Walls of Will": {
@@ -2006,7 +2006,7 @@
       "description": "<p>素手によるストライクを2回行う。両方が同じクリーチャーに命中した場合、抵抗と弱点を適用する目的でそれらのダメージを合計する。ストライクには通常通りあなたのマルチアタック・ペナルティを適用する。〈華麗〉な能力であるため、Flurry of Blowsは1ターンに1回しか使用できない。</p>"
     },
     "Perception Legend": {
-      "name": "《知覚》レジェンド/Perception Legend",
+      "name": "パーセプション・レジェンド/Perception Legend",
       "description": "<p>あなたはほとんど知覚できないものに気づく。あなたの《知覚》の習熟ランクは「伝説」に上昇する。</p>"
     },
     "Lurker in Devouring Dark": {
@@ -2054,7 +2054,7 @@
       "description": "<p>デヴィルは巧みな弁舌を持つ悪であり、あなたの祖先の一人が闇に関わったか、地獄の契約を交わした。</p>\n<p><strong>呪文リスト</strong>神聖</p>\n<p><strong>血脈スキル</strong> 《欺瞞》, 《宗教》</p>\n<p><strong>魔術の贈り物</strong>キャントリップ@UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{イグニション}, 1レベル: @UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{チャーム}, 2レベル: @UUID[Compendium.pf2e.spells-srd.Item.2ZdHjnpEQJuqOYSG]{フローティング・フレイム}, 3レベル: @UUID[Compendium.pf2e.spells-srd.Item.IihxWhRfpsBgQ5jS]{エンスロール}, 4レベル: @UUID[Compendium.pf2e.spells-srd.Item.qwlh6aDgi86U3Q7H]{サジェスチョン}, 5レベル: @UUID[Compendium.pf2e.spells-srd.Item.GaRQlC9Yw1BGKHfN]{ウェイブ・オブ・ディスペア}, 6レベル: @UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{トゥルーサイト}, 7レベル: @UUID[Compendium.pf2e.spells-srd.Item.sX2o0HH4RjJDAZ8C]{ディバイン・ディクリー}, 8レベル: @UUID[Compendium.pf2e.spells-srd.Item.KtTGLbLG9nqMbUYL]{ディバイン・インスピレーション}, 9レベル: @UUID[Compendium.pf2e.spells-srd.Item.jrBa9deU2ULFWvSl]{フォーリング・スターズ}</p>\n<p><strong>血脈呪文</strong>初期: @UUID[Compendium.pf2e.spells-srd.Item.Vctwx1ewa8HUOA94]{ダイアボリック・エディクト}, 上級: @UUID[Compendium.pf2e.spells-srd.Item.ilGsyGLGjjIPHbyP]{エンブレイス・ザ・ピット}, 奥義: @UUID[Compendium.pf2e.spells-srd.Item.9LHr9SuDLTicdbXs]{ヘルファイア・プルーム}</p>\n<p><strong>血の魔術――炎の舌</strong>あなたの舌は地獄の炎で覆われ、それを使って敵に攻撃を仕掛けることも、飲み込んで嘘をより説得力のあるものにすることもできる。対象が呪文ランクごとに1の火炎ダメージを受けるか(その呪文がすでに初期火炎ダメージを与える場合、弱点や抵抗を決定する前に、これをその呪文の即時ダメージと合計する)、あるいはあなたは1ラウンドの間、《欺瞞》判定に+2の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.n1vhmOd7aNiuR3nk]{効果: ディアボリック Blood Magic (Self)}</p>"
     },
     "Forensic Medicine Methodology": {
-      "name": "フォレンジック《医術》メソッドロジー/Forensic Medicine Methodology",
+      "name": "フォレンジック・メディスン・メソッドロジー/Forensic Medicine Methodology",
       "description": "<p>あなたは、ほとんどの場合、特に殺人事件において、犯罪者は自分が思っている以上に多くの犯罪の証拠を死体の上に残してしまう傾向があることを学んだ。打撲傷、骨折、血痕、さらには死肉を食らう昆虫のライフサイクルから得られる情報は、現場を再構築するのに役立つ貴重な手がかりとなる。</p>\n<p>あなたは《医術》を訓練済みしており、スキル特技である@UUID[Compendium.pf2e.feats-srd.Item.Ws9JlysHcFoz6WAQ]{フォレンジック・アキュメン}と@UUID[Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt]{バトル・メディスン}を得る。あなたがBattle 《医術》を使用した際、成功すると対象はあなたのレベルに等しい追加のヒット・ポイントを回復し、対象は1日ではなく1時間の間だけ一時的な免疫となる。</p>"
     },
     "Blunt Shot": {
@@ -2496,7 +2496,7 @@
       "description": "<p>あなたは猫も羨む反射神経で爆発を回避する。あなたの反応セーヴィング・スローの習熟ランクは伝説的になる。あなたが反応セーヴで大失敗をロールした際、代わりに失敗となる。ダメージを与える効果に対する反応セーヴに失敗した際、あなたは受けるダメージを半分にする。</p>"
     },
     "Precise Strike": {
-      "name": "プリサイス・〈ストライク〉/Precise Strike",
+      "name": "プリサイス・ストライク/Precise Strike",
       "description": "<p>あなたがアジャイルまたはフィネスの近接武器、あるいはアジャイルまたはフィネスの素手攻撃で〈ストライク〉を行う際、あなたは2の追加精密ダメージを与える。もしその〈ストライク〉がフィニッシャーの一部であるなら、追加ダメージは代わりに2d6の精密ダメージとなる。</p>\n<p>あなたのスワッシュバックラー・レベルが上昇するにつれて、精密打撃による追加ダメージも増加する。5レベル、9レベル、13レベル、17レベルにおいて、〈ストライク〉による追加ダメージの量を1増加させ、フィニッシャーによる追加ダメージを1d6増加させる。</p>"
     },
     "Major Curse": {
@@ -2617,7 +2617,7 @@
       "description": "<p>あなたは鎧にブースターを搭載し、自身の移動速度を上昇させている。あなたは自身の移動速度に+5フィートの状況ボーナスを得る。このボーナスは、オーバードライブの効果を受けている間は+10フィートの状況ボーナスに上昇する。</p>"
     },
     "Master Strike": {
-      "name": "マスター・〈ストライク〉",
+      "name": "マスター・ストライク",
       "description": "<p>あなたは油断している敵を単一のストライクで無力化できる。あなたのローグ・クラスのDCの習熟ランクはマスターに上昇する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Rlp7ND33yYfxiEWi]{マスター 〈ストライク〉}フリー・アクションを得る。</p>"
     },
     "Dense Plating": {
@@ -3030,7 +3030,7 @@
       "description": "<p>ルーンと護符、数字と文字――これらはあらゆる魔法の基礎であり、根本的な力を研究するウィザードにとって論理的な研究対象となる。おそらくあなたはパスファインダー《社会》の呪文学校か、それに類する機関で学んだことだろう。しかし、他者を強制するために言葉に魔法を織り交ぜているのであれ、工房の周囲に護符を配置しているのであれ、あるいは対戦相手の呪文の構造そのものを不安定にさせているのであれ、あなたはこの目立たない学派が優雅な力を秘めていることを知っている。</p>\n<p><strong>カリキュラム</strong></p>\n<ul>\n<li><strong>キャントリップ:</strong> @UUID[Compendium.pf2e.spells-srd.Item.vLzFcIaSXs7YTIqJ]{メッセージ}, @UUID[Compendium.pf2e.spells-srd.Item.AUctDF2fqPZN2w4W]{シジル}</li>\n<li><strong>1レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.aIHY2DArKFweIrpf]{コマンド}, @UUID[Compendium.pf2e.spells-srd.Item.PRrZ7anETWPm90YY]{ディスガイズ・マジック}, @UUID[Compendium.pf2e.spells-srd.Item.EE7Q5BHIrfWNCPtT]{ルニック・ボディ}, @UUID[Compendium.pf2e.spells-srd.Item.TFitdEOpQC4SzKQQ]{ルニック・武器}</li>\n<li><strong>2レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}, @UUID[Compendium.pf2e.spells-srd.Item.vTQvfYu2llKQedmY]{トランスレイト}</li>\n<li><strong>3レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.IihxWhRfpsBgQ5jS]{エンスロール}, @UUID[Compendium.pf2e.spells-srd.Item.EoKBlgf6Smt8opaU]{ヴェイル・オブ・プライヴァシー}</li>\n<li><strong>4レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.JOdOpbPDl7nqvJUm]{ディスペリング・グローブ}, @UUID[Compendium.pf2e.spells-srd.Item.qwlh6aDgi86U3Q7H]{サジェスチョン}</li>\n<li><strong>5レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.R9xqCBblkS5KE4y7]{センディング}, @UUID[Compendium.pf2e.spells-srd.Item.SwUiVavHKMWG7t5K]{トゥルースピーチ}</li>\n<li><strong>6レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.yrZA4k2VAqEP8xx7]{リパルジョン}, @UUID[Compendium.pf2e.spells-srd.Item.8Umt1AzYfFbC4fui]{スペルラック}</li>\n<li><strong>7レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.WG91Z5TiR6oO5FOw]{コンティンジェンシー}, @UUID[Compendium.pf2e.spells-srd.Item.XZE4BawIlTf88Yl9]{プレイナー・シール}</li>\n<li><strong>8レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.Oj1PJBMQD9vuwCv7]{クォンダリー}, @UUID[Compendium.pf2e.spells-srd.Item.y2cQYLr5mljDSu1G]{アンリレンティング・オヴザヴェイション}</li>\n<li><strong>9レベル:</strong> @UUID[Compendium.pf2e.spells-srd.Item.kUSShxXzY1sPtJA0]{デトネイト・マジック}</li>\n</ul>\n<p><strong>学派呪文</strong>初期: @UUID[Compendium.pf2e.spells-srd.Item.lY9fOk1qBDDhBT8s]{プロテクティヴ・ウォーズ}; 上級: @UUID[Compendium.pf2e.spells-srd.Item.4LSf04FFvDgMyDk6]{ルーン・オブ・オヴザヴェイション}</p>"
     },
     "Extrasensory Perception": {
-      "name": "エクストラセンサリー《知覚》/Extrasensory Perception",
+      "name": "エクストラセンサリー・パーセプション/Extrasensory Perception",
       "description": "<p>クレアヴォイアンス(千里眼)の些細な応用により、危険が迫っていることを察知できる。あなたの《知覚》の習熟ランクがエキスパートに上昇する。</p>"
     },
     "Stubborn": {

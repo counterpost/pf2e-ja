@@ -70,7 +70,7 @@
       "description": "<p>あなたの人生は、最初の殺人の後に真に始まった。正当防衛で殺したのかもしれないし、激情に駆られた犯罪だったのかもしれないし、あるいは単なる事故で、あなたは時と場所を間違えた子供だったのかもしれない。結局のところ、理由は重要ではない。あなたは逃げ切った。そして、それがあなたが思っていたほどあなたを悩ませなかったことに気づいた。そしてもしかすると、あなたはあなた自身の人生を築くために使える才能を持っていたのかもしれない。血に染まった才能と、血に染まった人生、確かにそうだろう。だが、それはあなたのものだ。</p>\n<p>能力値増強を2つ選ぶ。 1つは<strong>筋力</strong>か<strong>敏捷力</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《隠密》スキルとアンダーワールド《専門知識》スキルに訓練済みしている。あなたは@UUID[Compendium.pf2e.feats-srd.Item.beyw5bdA5hkQbmaG]{テレイン・ストーカー}スキル特技を得る。その際、あなたが殺しを行う場所にふさわしい地形を1つ選ぶこと。</p>"
     },
     "Foreign Aid": {
-      "name": "異国の〈援護〉/Foreign Aid",
+      "name": "異国のエイド/Foreign Aid",
       "description": "<p>あなたは別の国から来て、自分のものではない戦いを戦っている。あなたは地元の人々に同情するアンドランからの工作員かもしれないし、ドルマ傭兵連盟からの雇われの身かもしれない。どういう理由であれ、あなたは今ここにいて、あなたの義務は、あなたが共にいると見なした人々を助けるために、あなた自身ができることをすることだ。</p>\n<p>能力値増強を2つ選ぶ。 1つは<strong>魅力</strong>か<strong>筋力</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《交渉》スキルとあなたの出身地に関する《専門知識》スキルに訓練済みしている。あなたは@UUID[Compendium.pf2e.feats-srd.Item.6ON8DjFXSMITZleX]{ノー・コーズ・フォー・アラーム}スキル特技を得る。</p>"
     },
     "Godless Graycloak": {
@@ -831,7 +831,7 @@
       "description": "|||<p>While Willowshore is a lovely small town, even a population of 200 is a bit much for you. Whether you grew up in the town's outskirts, or you grew frustrated and overwhelmed with town life and decided to move to the fringes, you're only really at home when you're surrounded by nature. You don't look down on those who live in town, and you might be among the hunters, trappers, fishers, or herbalists who provide important support to those who lack such forestry skills. Your home is on the outskirts of Willowshore and might not even be represented by an actual building on the map. With the GM's permission, you might even dwell in a small building further out in the Willowshore hinterlands, but no further than a couple of miles from town.</p>\n<p>During the Reenactment Festival, you likely showed up late and weren't intending to stay for long, but your friends and allies (the other PCs) convinced you to stick around.</p>\n<p>You were chosen to be an abductee during the Reenactment Festival at the last minute when someone else had to back out (perhaps as a result of overindulging during the feast), and your friends (the other PCs) convinced you to join them on what would be a fun, shared experience. And since it involves sleeping out under the stars in the woods, well, that's a pretty lovely way to end an evening!</p>\n<p>Choose two attribute boosts. One must be to <strong>Dexterity</strong> or <strong>Wisdom</strong>, and one is a free attribute boost.</p>\n<p>You're trained in the Nature skill and the Hunting Lore skill. You gain the @UUID[Compendium.pf2e.feats-srd.Item.4tTkRyOQ0VuRBac3]{テレイン・エキスパーティス (forest)} skill feat.</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.BATtnqQpm9kISgv1]{Seasonal Boon (Outskirt Dweller)}</p>\n<hr />\n<p>You can add one of the following two adjustments to any background to further modify your choice to match your vision for your PC.</p>\n<p><strong>Family:</strong> You and one (or more) other PCs are close family members (siblings, parent/child, married, etc.) If you take this adjustment, the other PC(s) who are your family must also take this adjustment. Choose one of the following to replace the skill feat you otherwise would've gained from your background. (You and your sibling need not share the same choice—a sibling who wants to keep their background's skill feat can pick \"Typical\" from the list.)</p>\n<ul>\n||||||<li><strong>Bickering:</strong> You have a long-standing feud with your sibling(s). Whenever your sibling(s) critically fail a significant skill check or attack roll and you witness their failure, you gain a +1 status bonus to your saving throws until the end of your next turn as you secretly (or perhaps not so secretly) delight in their failure. @UUID[Compendium.pf2e.campaign-effects.Item.1iIObOrXUGA3RwQ9]{Effect: Bickering Family}</li>\n<li><strong>Close-Knit:</strong> You and your sibling(s) work well together, and you go all-out to help them when they're badly hurt. When you provide @UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{〈援護〉} or @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{〈応急手当〉} to your sibling(s), the DC is 5 lower than normal.</li>\n<li><strong>Typical:</strong> You have a standard relationship with your sibling(s); don't change your background's skill feat.</li>\n</ul>\n<p><strong>Foundling:</strong> You aren't a native to Willowshore, but you did grow up in the town. You might have adoptive parents, or you could've grown up on the streets. Choose one of the following to replace the bonus feat you otherwise would've gained from your background.</p>\n<ul>\n<li><strong>Bitter:</strong> You appreciate the town of Willowshore but still resent the conditions that resulted in you being abandoned or left in the town. You gain the @UUID[Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce]{インティミデイティング・グレア} skill feat.</li>\n<li><strong>Mysterious:</strong> You keep secrets, and very few in Willowshore (if anyone) know your history before you settled in the town, in part because you've taken to learning about Willowshore by watching rather than engaging in conversation. You gain the @UUID[Compendium.pf2e.feats-srd.Item.X2jGFfLU5qI5XVot]{ストリートワイズ} skill feat.</li>\n<li><strong>Outgoing:</strong> You're grateful for the sense of belonging the townsfolk of Willowshore have extended to you and always do your best to repay that kindness. Once per week when you attempt a skill check to resolve a downtime activity that could benefit Willowshore (several of these activities are detailed in the adventures, and your GM can always make the call if another activity would qualify) and you fail that check, you instead succeed at the check, or if you critically fail at that check, you instead simply fail that check.</li>\n</ul>|||"
     },
     "Convocation Scout": {
-      "name": "招集〈偵察〉/Convocation Scout",
+      "name": "招集スカウト/Convocation Scout",
       "description": "<p>召喚会議は近年で最大かつ最も期待されている学術イベントである。長期的な同盟関係を築き、有望な学生やスタッフを自らの陣営に勧誘しようと熱心なあなたの学校は、その利益を促進するためにあなたを代表として派遣した。あなたの機転、分析能力、そしてコミュニケーションの才能は、召喚会議の他のスポンサーやゲストとの有益なパートナーシップを模索する上で大いに役立つ。</p>\n<p>　能力値増強を2つ選ぶ。 1つは<strong>判断力</strong>か<strong>魅力</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《交渉》について訓練済みである。また、ポリティクス《専門知識》スキル、あるいはあなたの学校に関連する《専門知識》スキルについても訓練済みである。あなたは「集団への印象付け」スキル特技を獲得する。</p>"
     },
     "Shoanti Name-Bearer": {
@@ -943,7 +943,7 @@
       "description": "|||<p>あなたはブリーチヒル出身ではないあなた自身――ひょっとするとイスガーやアヴィスタンの出身ですらないかもしれない。いずれにせよ、あなたは過酷な人生を送ってきた。あなたはしばしば難しい決断を迫られ、物事がどのように機能するか(そしてそれらを分解する最善の方法)を理解するコツを身につけており、それがあなた自身を支える助けとなってきた。最近、あなたは自分の先祖がブリーチヒルの町出身であり、冒険者としてささやかな経歴を持っていたことを知った。もしそこで育っていたらもっと楽な人生を送れたのではないかと思わずにはいられず、この小さな町についてもっと知るために、そこを訪れることにした。</p>\n<p>あなたは先祖の足跡をたどるために「英雄への呼びかけ」に応じることにした。それは先祖の記憶を称えるためか、あるいは先祖が成し遂げられなかった偉業を達成するためである。</p>\n<p>能力値増強を2つ選ぶ。 1つは<strong>敏捷力</strong>か<strong>判断力</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《盗賊術》スキルとエンジニアリング《専門知識》スキルにおいて訓練済みである。あなたは@UUID[Compendium.pf2e.feats-srd.Item.jDdOqFmZLwE4dblQ]{ピックポケット}スキル特技を獲得する。</p>|||"
     },
     "Concordance Scout": {
-      "name": "調和〈偵察〉/Concordance Scout",
+      "name": "調和スカウト/Concordance Scout",
       "description": "<p>あなたは元素の調和団に雇われ、次元の裂け目の噂や、次元の不均衡のその他の証拠を探し回っている。調和団に報告した後、彼らはその状況に対処するためにより装備の整ったエージェントを派遣するだろう。それでも、この仕事は雇用主が疑う以上にあなたをトラブルに巻き込んでおり、あなたは情報を素早く入手し、比較的無傷で脱出する方法を学んだ。</p>\n<p>　能力値増強を2つ選ぶ。 1つは<strong>耐久力</strong>か<strong>魅力</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《交渉》スキルと、以下の知識スキルのうち1つにおいて訓練済みである：エア《専門知識》、地の次元界《専門知識》、火炎の次元界《専門知識》、金属の次元界《専門知識》、ウォーター《専門知識》、あるいは木の次元界《専門知識》。あなたは@UUID[Compendium.pf2e.feats-srd.Item.4RjDxgvNXNl5GG9d]{ホブノバー}スキル特技を獲得する。</p>"
     },
     "Acrobat": {
@@ -1322,7 +1322,7 @@
       ]
     },
     "Scout": {
-      "name": "〈偵察〉/Scout",
+      "name": "スカウト/Scout",
       "description": "<p>あなたは道を見つけ、旅人を案内しながら、荒野を我が家としていた。あなたの放浪癖があなたを冒険の人生へと駆り立てたのかもしれないし、あるいは兵士の偵察役を務めて戦いを好むようになったのかもしれない。</p>\n<p>　能力値増強を2つ選ぶ。 1つは<strong>〈敏捷力〉</strong>か<strong>〈判断力〉</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《生存術》スキルと、あなたが偵察したことのある地形に関連する《専門知識》スキル(森《専門知識》や大洞窟《専門知識》など)1つに訓練済みしている。あなたはスキル特技@UUID[Compendium.pf2e.feats-srd.Item.8qebBeOJsyRIchcu]{採集者}を獲得する。</p>"
     },
     "Fiendbreaking Pilgrim": {
@@ -1395,7 +1395,7 @@
       "description": "<p>あなたは、クリムゾン・リクレイマーの謎めいた後援者が、ラストウォールの騎士たちを苦しめる裏の動機を持っていると信じている。その組織が契約から何を得ようとも、独自の目的を持ち、匿名性を必要とする何らかの謎のフォースもまた恩恵。あなたは、そのパトロンが影から操ることに十分満足したと判断する前に、その目的が何であるかを突き止めることを使命としている。</p>\n<p>　能力値増強を2つ選ぶ。 1つは<strong>知力</strong>か<strong>判断力</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《神秘学》スキルとクリムゾン・リクレイマーの《専門知識》スキルに訓練済みしている。あなたは@UUID[Compendium.pf2e.feats-srd.Item.hDGosy2ZTwnyctEP]{オディティ・アイデンティフィケーション}スキル特技を獲得する。</p>"
     },
     "Badlands Scout": {
-      "name": "悪地の〈偵察〉/Badlands Scout",
+      "name": "悪地のスカウト/Badlands Scout",
       "description": "<p>あなたはベルクゼンの荒涼とした荒野に慣れ親しんでおり、岩だらけの岩場のまばらな影に溶け込み、水滴で喉の渇きを癒すことができる。あなたは孤立したオークの砦の住人かもしれないし、旅の傭兵、あるいは近隣の人間居住地から来た放浪の戦士かもしれない。</p>\n<p>　能力値増強を2つ選ぶ。 1つは<strong>耐久力</strong>か<strong>判断力</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《生存術》スキルとバッドランズ《専門知識》スキルに訓練済みしている。あなたは@UUID[Compendium.pf2e.feats-srd.Item.8qebBeOJsyRIchcu]{フォーリジャー}スキル特技を獲得する。</p>"
     },
     "Haunted": {
@@ -1759,7 +1759,7 @@
       "description": "<p><strong>前提条件</strong>地域 - サーガ・ランズ</p>\n<hr />\n<p>あなたはウルフェンの戦士であり、かつてあなたの同胞が海岸沿いに行った無慈悲で壊滅的な襲撃により、アヴィスタン中で恐れられている。こうしたウルフェンの襲撃の時代はほぼ過去のものとなったが、あなたは対峙する者の心に恐怖を植え付けるよう訓練済みされている。</p>\n<p>　能力値増強を2つ選ぶ。 1つは<strong>筋力</strong>か<strong>魅力</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《威圧》スキルとセイリング《専門知識》スキルに訓練済みしている。あなたはスキル特技@UUID[Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce]{インティミデイティング・グレア}を獲得する。</p>"
     },
     "Osprey Scout": {
-      "name": "ミサゴ〈偵察〉/Osprey Scout",
+      "name": "ミサゴ・スカウト/Osprey Scout",
       "description": "<p>オスプレイ・コーヴは静かな村だが、あなたは内陸の荒野を偵察し、村の平穏を保つために危険な野生生物やクリーチャーを監視してきた。長老オードウィがこの旅にあなたを同行させたがっているのは、キンドレッド海岸に関するあなたの知識が、丸一日の旅路において一行の安全を確保する助けになると知っているからだ。</p>\n<p>能力値増強を2つ選ぶ。 1つは<strong>敏捷力</strong>か<strong>判断力</strong>でなければならず、もう1つは自由な能力値増強である。</p>\n<p>あなたは《生存術》スキルとスカウティング《専門知識》スキルにおいて訓練済みである。あなたは@UUID[Compendium.pf2e.feats-srd.Item.urQZwmzg2kS53vd5]{熟練の追跡者}スキル特技を獲得する。</p>"
     },
     "Disciple of the Gear": {

@@ -3425,11 +3425,11 @@
       "description": "<p>チェルタスは拳で致死ダメージを与えることを選択でき、拳による攻撃のダメージ・ダイスのサイズを1d6に増加させる。もしそうした場合、クリティカルヒットが発生すると、攻撃を受けた対象は@Check[type:fortitude|dc:25]セーヴに成功しなければならず、失敗するとそのよろめかせる一撃によって@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}状態となる。</p>"
     },
     "Dbj7DLRcQmqE1h1Z": {
-      "name": "精密〈ストライク〉/Exacting Strike",
+      "name": "精密ストライク/Exacting Strike",
       "description": "<p>チェルタスは〈ストライク〉を行う。もしこの〈ストライク〉で失敗の出目を出した場合、その攻撃は彼のマルチアタック・ペナルティには数えない。</p>"
     },
     "Exacting Strike": {
-      "name": "精密〈ストライク〉",
+      "name": "エグザクティング・ストライク",
       "description": "<p>チェルタスは〈ストライク〉を行う。もしこの〈ストライク〉で失敗の出目を出した場合、その攻撃は彼のマルチアタック・ペナルティには数えない。</p>"
     },
     "0kFvLnwknjQuvKn6": {
@@ -3878,11 +3878,11 @@
       "description": "<p>音波によりダメージを受ける([[/r 5d8]], [[/r 2d6]] from areas or persistent damage); healed by acid (area [[/r 2d4[healing]]]ヒット・ポイント)；冷気により減速状態となる</p>\n<hr />\n<p>ゴーレムは自身以外の呪文や魔法の能力に対して免疫であるが、各タイプのゴーレムは特定の数種類の魔法から特別な方法で影響を受ける。もしエントリーに複数のタイプ(「冷気と水」など)がリストされている場合、どちらのタイプの呪文でもゴーレムに影響を与えることができる。</p>\n<p><strong>Harmed By[ダメージを受ける]</strong>ゴーレムを対象とするこのタイプの魔法は、通常の効果の代わりに、ゴーレムにリストされた量のダメージ(このダメージに種別はない)を与える。ゴーレムがこのタイプの魔法のエリア内でターンを開始するか、適切なタイプの持続的効果の影響下にある場合、カッコ内に記載されたダメージを受ける。</p>\n<p><strong>Healed By[回復する]</strong>ゴーレムを対象とするこのタイプの魔法は、ゴーレムの減速状態を失わせ、その呪文が与えたであろうダメージの半分に等しいHPを回復させる。ゴーレムがこのタイプの魔法のエリア内でターンを開始する場合、カッコ内に記載されたHPを得る。</p>\n<p><strong>スロウ By[減速状態となる]</strong>ゴーレムを対象とするこのタイプの魔法は、通常の効果の代わりに、ゴーレムを[[/br 2d6 #rounds]]{2d6ラウンド}の間@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}にする。ゴーレムがこのタイプの魔法のエリア内でターンを開始する場合、そのラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}となる。</p>\n<p><strong>Vulnerable To[脆弱]</strong>各ゴーレムは1つ以上の特定の呪文に対して脆弱であり、その効果はステータスブロックに記載されている。</p>"
     },
     "tq3HesFWx5P7xPWl": {
-      "name": "〈粉砕〉弱点",
+      "name": "シャッター弱点",
       "description": "<p>アルケミカル・ゴーレムに対して@UUID[Compendium.pf2e.spells-srd.Item.1xbFBQDRs0hT5xZ9]{シャター}呪文を唱えると、そのゴーレムは通常通り影響を受けるが、同時に錬金術的な破裂も引き起こされる。</p>"
     },
     "Vulnerable to Shatter": {
-      "name": "〈粉砕〉弱点",
+      "name": "シャッター弱点",
       "description": "<p>アルケミカル・ゴーレムに対して@UUID[Compendium.pf2e.spells-srd.Item.1xbFBQDRs0hT5xZ9]{シャター}呪文を唱えると、そのゴーレムは通常通り影響を受けるが、同時に錬金術的な破裂も引き起こされる。</p>"
     },
     "ahtVNJjKjna3LTc1": {
@@ -4043,11 +4043,11 @@
       "name": "全方位視覚/All-Around Vision"
     },
     "Qj4erun9wbqBExS0": {
-      "name": "這い回り〈位置をずらす〉/Skittering Reposition",
+      "name": "這い回りリポジション/Skittering Reposition",
       "description": "<p><strong>トリガー</strong>ゴギテスのリーチの外で移動を開始したクリーチャーが、そのリーチ内に移動する。</p>\n<hr />\n<p><strong>効果</strong>ゴギテスは10フィート移動する。これはリアクションを誘発しない。</p>"
     },
     "Skittering Reposition": {
-      "name": "這い回り〈位置をずらす〉",
+      "name": "スキタリング・リポジション",
       "description": "<p><strong>トリガー</strong>ゴギテスのリーチの外で移動を開始したクリーチャーが、そのリーチ内に移動する。</p>\n<hr />\n<p><strong>効果</strong>ゴギテスは10フィート移動する。これはリアクションを誘発しない。</p>"
     },
     "drMUmP8Z6LhZyhRI": {
@@ -4432,13 +4432,13 @@
       "name": "インプルーヴド・グラブ"
     },
     "0N6DFWthPSW5OUpi": {
-      "name": "《聖別》の儀式式文",
+      "name": "コンセクレイトの儀式式文",
       "description": "<p>@UUID[Compendium.pf2e.spells-srd.Item.Dbd5W6G8U2vzWolN]{コンセクレイト}儀式の公式が記された、より長い巻物。</p>",
       "gmDescription": "<p>もしPC達がエリア@UUID[JournalEntry.pf2ap20001bonesa.JournalEntryPage.01hellstormfoc00]{B10}の石を再起動させたいのであれば、後で〈聖別〉の儀式が必要となる。</p>",
       "unidentifiedName": "奇妙な物体"
     },
     "Consecrate Ritual Formula": {
-      "name": "《聖別》の儀式式文",
+      "name": "コンセクレイトの儀式式文",
       "description": "<p>@UUID[Compendium.pf2e.spells-srd.Item.Dbd5W6G8U2vzWolN]{コンセクレイト}儀式の公式が記された、より長い巻物。</p>",
       "gmDescription": "<p>もしPC達がエリア@UUID[JournalEntry.pf2ap20001bonesa.JournalEntryPage.01hellstormfoc00]{B10}の石を再起動させたいのであれば、後で〈聖別〉の儀式が必要となる。</p>",
       "unidentifiedName": "奇妙な物体"
@@ -4570,13 +4570,13 @@
       "unidentifiedName": "奇妙な宝物"
     },
     "nZj448FAXvgnsXZ9": {
-      "name": "デロの〈研究〉コレクション/Dero Research Collection",
+      "name": "デロのリサーチ・コレクション/Dero Research Collection",
       "description": "<p>これらの本は医学や解剖学の参考資料としても有用であり、調査中に〈思い出す〉を行う際、それを用いて《医術》判定、あるいは異形に関する《神秘学》判定を行うならば、+1のアイテム・ボーナスを与える。このコレクションは8バルクであり、合計で100 gpの価値がある。</p>",
       "gmDescription": "<p>このコレクションは、「なぜ太陽は我々を焼くのか？」という問いに対するデロの研究の数世代分の成果である。新しい書物のいくつかは、デロたちがここクローンワークスで発見した知見を組み込んでいる。アクロを読める者が1時間かけて調査を行えば、デロたちが太陽を恐れることなく地上世界に住み着き、支配するために使用できる新しいクローン体を作り出す計画を立てていることを突き止めるのに十分だが、彼らは成功には程遠い状態である。</p>",
       "unidentifiedName": "珍しい物体"
     },
     "Dero Research Collection": {
-      "name": "デロの〈研究〉コレクション",
+      "name": "デロのリサーチ・コレクション",
       "description": "<p>これらの本は医学や解剖学の参考資料としても有用であり、調査中に〈思い出す〉を行う際、それを用いて《医術》判定、あるいは異形に関する《神秘学》判定を行うならば、+1のアイテム・ボーナスを与える。このコレクションは8バルクであり、合計で100 gpの価値がある。</p>",
       "gmDescription": "<p>このコレクションは、「なぜ太陽は我々を焼くのか？」という問いに対するデロの研究の数世代分の成果である。新しい書物のいくつかは、デロたちがここクローンワークスで発見した知見を組み込んでいる。アクロを読める者が1時間かけて調査を行えば、デロたちが太陽を恐れることなく地上世界に住み着き、支配するために使用できる新しいクローン体を作り出す計画を立てていることを突き止めるのに十分だが、彼らは成功には程遠い状態である。</p>",
       "unidentifiedName": "珍しい物体"
@@ -4750,11 +4750,11 @@
       "name": "フォーム・アップ/Form Up"
     },
     "4vjdVbvQ2cPvkxA1": {
-      "name": "獲物を〈見回す〉/Seek Quarry",
+      "name": "獲物をシーク/Seek Quarry",
       "description": "<p>Angry townsfolkは、身体的特徴を知っているクリーチャー1体を標的として指定するために1分を費やすことができる。彼らはその標的に対する《知覚》判定に+2の状況ボーナスを得る。</p>"
     },
     "Seek Quarry": {
-      "name": "〈見回す〉採石場",
+      "name": "シーク・クォーリー",
       "description": "<p>Angry townsfolkは、身体的特徴を知っているクリーチャー1体を標的として指定するために1分を費やすことができる。彼らはその標的に対する《知覚》判定に+2の状況ボーナスを得る。</p>"
     },
     "9X9mEo92lODvZP6d": {
