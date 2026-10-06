@@ -15,7 +15,7 @@
     },
     "Aquatic Adaptation": {
       "name": "水棲適応/Aquatic Adaptation",
-      "description": "<p>あなたの爬虫類的な生物学的特徴により、長時間息を止めておくことができる。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.aJUXbe9HJVvv0Mxa]{Breath Control}汎用特技を得る。</p>"
+      "description": "<p>あなたの爬虫類的な生物学的特徴により、長時間息を止めておくことができる。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.aJUXbe9HJVvv0Mxa]{ブレス・コントロール}汎用特技を得る。</p>"
     },
     "Sunlight Healing": {
       "name": "日光治癒/Sunlight Healing",
@@ -35,7 +35,7 @@
     },
     "Wanderer's Soul": {
       "name": "放浪者の魂/Wanderer's Soul",
-      "description": "<p>あなたの魂は特に輪廻の輪へと戻りやすい。あなたが@UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{Raise Dead}、@UUID[Compendium.pf2e.spells-srd.Item.gIVaSCrLhhBzGHQY]{Reincarnate}、あるいはあなたを生き返らせる同様の儀式の対象となった際、主たる術者はそのロールの結果を1段階良いものとして扱う。儀式によってあなたが別の祖先の肉体に転生することになったとしても、あなたは常にサムサランとして生き返る。</p>"
+      "description": "<p>あなたの魂は特に輪廻の輪へと戻りやすい。あなたが@UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{レイズ・デッド}、@UUID[Compendium.pf2e.spells-srd.Item.gIVaSCrLhhBzGHQY]{リインカーネイト}、あるいはあなたを生き返らせる同様の儀式の対象となった際、主たる術者はそのロールの結果を1段階良いものとして扱う。儀式によってあなたが別の祖先の肉体に転生することになったとしても、あなたは常にサムサランとして生き返る。</p>"
     },
     "Fangs": {
       "name": "牙/Fangs",
@@ -87,7 +87,7 @@
     },
     "Innate Venom": {
       "name": "生来の毒/Innate Venom",
-      "description": "<p>あなたの血液には、あなた自身以外のすべてにとって致命的な毒が含まれている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{Envenom}アクションを得る。これは少量のヴィシュカンヤの毒を注入できる。あなたの毒のセーヴDCは、あなたのクラスDCか呪文DCのいずれか高い方と等しい。</p>"
+      "description": "<p>あなたの血液には、あなた自身以外のすべてにとって致命的な毒が含まれている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{〈エンヴェノム〉}アクションを得る。これは少量のヴィシュカンヤの毒を注入できる。あなたの毒のセーヴDCは、あなたのクラスDCか呪文DCのいずれか高い方と等しい。</p>"
     },
     "Bite": {
       "name": "噛みつき/Bite",
@@ -103,7 +103,7 @@
     },
     "Change Shape": {
       "name": "姿変化/Change Shape",
-      "description": "<p>キツネとして、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.34E7k2YRcsOU5uyl]{Change Shape}能力を得る。</p>"
+      "description": "<p>キツネとして、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.34E7k2YRcsOU5uyl]{〈チェンジ・シェイプ〉}能力を得る。</p>"
     },
     "Horns (Sarangay)": {
       "name": "角(サランガイ)/Horns (Sarangay)",
@@ -127,7 +127,7 @@
     },
     "Wings": {
       "name": "翼/Wings",
-      "description": "<p>すべてのストリクスは強力な翼を持っている。すべてのストリクスが飛行技術を磨くことに集中しているわけではないが、翼を強く羽ばたかせることで、ストリクスは跳躍時により長い距離を移動できる。</p>\n<p>水平方向に@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leaping}する際、あなたは追加で5フィート移動する。あなたは、少なくとも10フィートの〈ストライド〉を最初に行わなかったとしても、@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}や@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を行うための判定で自動的に失敗することはない。さらに、〈ロングジャンプ〉を行う際、あなたは自身の《運動》 判定の結果よりも最大で10フィート遠くまで跳ぶことができるが、その場合でもあなたの移動速度による通常の最大距離は適用される。加えて、落下距離に関係なく、落下によるダメージを受けない。</p>"
+      "description": "<p>すべてのストリクスは強力な翼を持っている。すべてのストリクスが飛行技術を磨くことに集中しているわけではないが、翼を強く羽ばたかせることで、ストリクスは跳躍時により長い距離を移動できる。</p>\n<p>水平方向に@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{〈跳躍〉ing}する際、あなたは追加で5フィート移動する。あなたは、少なくとも10フィートの〈ストライド〉を最初に行わなかったとしても、@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}や@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を行うための判定で自動的に失敗することはない。さらに、〈ロングジャンプ〉を行う際、あなたは自身の《運動》 判定の結果よりも最大で10フィート遠くまで跳ぶことができるが、その場合でもあなたの移動速度による通常の最大距離は適用される。加えて、落下距離に関係なく、落下によるダメージを受けない。</p>"
     },
     "Animal Attack": {
       "name": "動物攻撃/Animal Attack",

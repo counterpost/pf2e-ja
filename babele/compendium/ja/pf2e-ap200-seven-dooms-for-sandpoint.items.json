@@ -898,11 +898,11 @@
     },
     "0Qt9ULbGzJV8ZG3W": {
       "name": "シャドウ・スポーン/Shadow Spawn",
-      "description": "<p>クリーチャーの影が〈盗み〉シャドウによって引き剥がされると、それはその影を生み出したシャドウの指揮下にある@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.XrmHgbKgcHDi4OnK]{シャドウ・スポーン}となる。このシャドウ・スポーンは〈盗み〉シャドウを持たず、永続的かつ治療不可能な@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}状態となる。もしそのシャドウ・スポーンの元となったクリーチャーが死亡した場合、そのシャドウ・スポーンは完全で自律的なシャドウとなる。もしそのクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeeblement}から回復したなら、その影は持ち主の元へ戻り、シャドウ・スポーンは消滅する。</p>"
+      "description": "<p>クリーチャーの影が〈盗み〉シャドウによって引き剥がされると、それはその影を生み出したシャドウの指揮下にある@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.XrmHgbKgcHDi4OnK]{シャドウ・スポーン}となる。このシャドウ・スポーンは〈盗み〉シャドウを持たず、永続的かつ治療不可能な@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}状態となる。もしそのシャドウ・スポーンの元となったクリーチャーが死亡した場合、そのシャドウ・スポーンは完全で自律的なシャドウとなる。もしそのクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱}から回復したなら、その影は持ち主の元へ戻り、シャドウ・スポーンは消滅する。</p>"
     },
     "Shadow Spawn": {
       "name": "シャドウ・スポーン",
-      "description": "<p>クリーチャーの影が〈盗み〉シャドウによって引き剥がされると、それはその影を生み出したシャドウの指揮下にある@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.XrmHgbKgcHDi4OnK]{シャドウ・スポーン}となる。このシャドウ・スポーンは〈盗み〉シャドウを持たず、永続的かつ治療不可能な@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}状態となる。もしそのシャドウ・スポーンの元となったクリーチャーが死亡した場合、そのシャドウ・スポーンは完全で自律的なシャドウとなる。もしそのクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeeblement}から回復したなら、その影は持ち主の元へ戻り、シャドウ・スポーンは消滅する。</p>"
+      "description": "<p>クリーチャーの影が〈盗み〉シャドウによって引き剥がされると、それはその影を生み出したシャドウの指揮下にある@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.XrmHgbKgcHDi4OnK]{シャドウ・スポーン}となる。このシャドウ・スポーンは〈盗み〉シャドウを持たず、永続的かつ治療不可能な@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}状態となる。もしそのシャドウ・スポーンの元となったクリーチャーが死亡した場合、そのシャドウ・スポーンは完全で自律的なシャドウとなる。もしそのクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱}から回復したなら、その影は持ち主の元へ戻り、シャドウ・スポーンは消滅する。</p>"
     },
     "0QWVJ7Of8cQNKp0N": {
       "name": "スリンク・イン・シャドウズ/Slink in Shadows",
@@ -979,11 +979,11 @@
     },
     "f33ibm0weYFRsbLf": {
       "name": "噴霧ウェブ/Spray Webbing",
-      "description": "<p><strong>トリガー</strong>クリーチャーがスティッキー・グリーターに隣接する感圧板を踏む。</p>\n<hr />\n<p><strong>効果</strong>スティッキー・グリーターは腹部を前方にスナップさせて開き、トリガーとなったクリーチャーに厚い錬金術的な蜘蛛の巣を噴射してよろめく。同時に、スティッキー・グリーターは甲高い口笛のような音を発する。そのクリーチャーは@Check[type:reflex|dc:26]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となってその場に拘束される。大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態となる。いずれの場合も、そのクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapes}(DC 22)するか、自身を縛っている蜘蛛の巣が破壊されるまで続く。</p>"
+      "description": "<p><strong>トリガー</strong>クリーチャーがスティッキー・グリーターに隣接する感圧板を踏む。</p>\n<hr />\n<p><strong>効果</strong>スティッキー・グリーターは腹部を前方にスナップさせて開き、トリガーとなったクリーチャーに厚い錬金術的な蜘蛛の巣を噴射してよろめく。同時に、スティッキー・グリーターは甲高い口笛のような音を発する。そのクリーチャーは@Check[type:reflex|dc:26]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となってその場に拘束される。大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態となる。いずれの場合も、そのクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}(DC 22)するか、自身を縛っている蜘蛛の巣が破壊されるまで続く。</p>"
     },
     "Spray Webbing": {
       "name": "噴霧ウェブ",
-      "description": "<p><strong>トリガー</strong>クリーチャーがスティッキー・グリーターに隣接する感圧板を踏む。</p>\n<hr />\n<p><strong>効果</strong>スティッキー・グリーターは腹部を前方にスナップさせて開き、トリガーとなったクリーチャーに厚い錬金術的な蜘蛛の巣を噴射してよろめく。同時に、スティッキー・グリーターは甲高い口笛のような音を発する。そのクリーチャーは@Check[type:reflex|dc:26]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となってその場に拘束される。大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態となる。いずれの場合も、そのクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapes}(DC 22)するか、自身を縛っている蜘蛛の巣が破壊されるまで続く。</p>"
+      "description": "<p><strong>トリガー</strong>クリーチャーがスティッキー・グリーターに隣接する感圧板を踏む。</p>\n<hr />\n<p><strong>効果</strong>スティッキー・グリーターは腹部を前方にスナップさせて開き、トリガーとなったクリーチャーに厚い錬金術的な蜘蛛の巣を噴射してよろめく。同時に、スティッキー・グリーターは甲高い口笛のような音を発する。そのクリーチャーは@Check[type:reflex|dc:26]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となってその場に拘束される。大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態となる。いずれの場合も、そのクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}(DC 22)するか、自身を縛っている蜘蛛の巣が破壊されるまで続く。</p>"
     },
     "GcNYP2C6NZEMOdrr": {
       "name": "ウェブ/Web",
@@ -1130,11 +1130,11 @@
     },
     "fHam88iT0r3U5tcl": {
       "name": "ティンカー/Tinker",
-      "description": "<p>6体のジンキンからなる集団は、1時間協力して作業することで、60フィートの範囲内にあるアイテムに呪いを吹き込むことができる。この過程は時間がかかるが、目立たず、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hiding}状態の間に行うこともできる。ジンキンはこの能力を魔法のアイテムに対して使うことを好む。この呪いはアイテムを信頼できないものにする(@Check[type:flat|dc:5]判定を行うか、そのアイテムを〈扱う〉または起動するためのアクションを無駄にする)、アイテムの使用に奇妙な要件を追加する、あるいは同程度の他の呪いを与える。</p>"
+      "description": "<p>6体のジンキンからなる集団は、1時間協力して作業することで、60フィートの範囲内にあるアイテムに呪いを吹き込むことができる。この過程は時間がかかるが、目立たず、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}状態の間に行うこともできる。ジンキンはこの能力を魔法のアイテムに対して使うことを好む。この呪いはアイテムを信頼できないものにする(@Check[type:flat|dc:5]判定を行うか、そのアイテムを〈扱う〉または起動するためのアクションを無駄にする)、アイテムの使用に奇妙な要件を追加する、あるいは同程度の他の呪いを与える。</p>"
     },
     "Tinker": {
       "name": "ティンカー",
-      "description": "<p>6体のジンキンからなる集団は、1時間協力して作業することで、60フィートの範囲内にあるアイテムに呪いを吹き込むことができる。この過程は時間がかかるが、目立たず、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hiding}状態の間に行うこともできる。ジンキンはこの能力を魔法のアイテムに対して使うことを好む。この呪いはアイテムを信頼できないものにする(@Check[type:flat|dc:5]判定を行うか、そのアイテムを〈扱う〉または起動するためのアクションを無駄にする)、アイテムの使用に奇妙な要件を追加する、あるいは同程度の他の呪いを与える。</p>"
+      "description": "<p>6体のジンキンからなる集団は、1時間協力して作業することで、60フィートの範囲内にあるアイテムに呪いを吹き込むことができる。この過程は時間がかかるが、目立たず、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}状態の間に行うこともできる。ジンキンはこの能力を魔法のアイテムに対して使うことを好む。この呪いはアイテムを信頼できないものにする(@Check[type:flat|dc:5]判定を行うか、そのアイテムを〈扱う〉または起動するためのアクションを無駄にする)、アイテムの使用に奇妙な要件を追加する、あるいは同程度の他の呪いを与える。</p>"
     },
     "y9v6b1HnMTeyR6Aa": {
       "name": "顎"
@@ -1611,7 +1611,7 @@
     },
     "VKpMKgPNgKIoANUL": {
       "name": "インフューズド・アイテムズ",
-      "description": "<p>タンチは以下の注入アイテムを所持しており、これらは24時間、または彼が次に日課の準備を行うまでの間持続する：@UUID[Compendium.pf2e.equipment-srd.Item.gWr4q4HiyGhETA8H]{アルケミスト's Fire (Moderate)} (8)、@UUID[Compendium.pf2e.equipment-srd.Item.ktjFOp3U0wQD9t0Z]{Antidote (Lesser)} (2)、@UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{エリクサー of Life (Lesser)} (4)、@UUID[Compendium.pf2e.equipment-srd.Item.evBPzM1VsuYcoenn]{Glue ボム (Moderate)} (2)</p>"
+      "description": "<p>タンチは以下の注入アイテムを所持しており、これらは24時間、または彼が次に日課の準備を行うまでの間持続する：@UUID[Compendium.pf2e.equipment-srd.Item.gWr4q4HiyGhETA8H]{アルケミストズ・ファイア（モデレート）} (8)、@UUID[Compendium.pf2e.equipment-srd.Item.ktjFOp3U0wQD9t0Z]{アンチドート（レッサー）} (2)、@UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{エリクサー・オブ・ライフ（レッサー）} (4)、@UUID[Compendium.pf2e.equipment-srd.Item.evBPzM1VsuYcoenn]{グルー・ボム（モデレート）} (2)</p>"
     },
     "vSegcSzM8la3mXdx": {
       "name": "+1・ステイタス・ヴァーサス・毒/+1 Status vs. Poison"
@@ -3955,19 +3955,19 @@
     },
     "h0oO1nc9v9yl5OgB": {
       "name": "読唇術/Lip Reader",
-      "description": "<p>長年、自分の関わりのないことに首を突っ込んできた結果、その貴族は遠くから唇の動きを読むことを学んでおり、@UUID[Compendium.pf2e.feats-srd.Item.yUuU9xyotrpwpTyC]{Read Lips}の特技の効果を得ている。</p>"
+      "description": "<p>長年、自分の関わりのないことに首を突っ込んできた結果、その貴族は遠くから唇の動きを読むことを学んでおり、@UUID[Compendium.pf2e.feats-srd.Item.yUuU9xyotrpwpTyC]{リード・リップス}の特技の効果を得ている。</p>"
     },
     "Lip Reader": {
       "name": "読唇術",
-      "description": "<p>長年、自分の関わりのないことに首を突っ込んできた結果、その貴族は遠くから唇の動きを読むことを学んでおり、@UUID[Compendium.pf2e.feats-srd.Item.yUuU9xyotrpwpTyC]{Read Lips}の特技の効果を得ている。</p>"
+      "description": "<p>長年、自分の関わりのないことに首を突っ込んできた結果、その貴族は遠くから唇の動きを読むことを学んでおり、@UUID[Compendium.pf2e.feats-srd.Item.yUuU9xyotrpwpTyC]{リード・リップス}の特技の効果を得ている。</p>"
     },
     "UQoNtmlZuh2NnKd0": {
       "name": "貴族の策略/Noble's Ruse",
-      "description": "<p><strong>使用制限</strong>ラウンドに1回</p>\n<hr />\n<p><strong>効果</strong>その貴族は@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{Feints}を行う。成功した場合、その貴族は対象に対してストライクを行う。</p>"
+      "description": "<p><strong>使用制限</strong>ラウンドに1回</p>\n<hr />\n<p><strong>効果</strong>その貴族は@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行う。成功した場合、その貴族は対象に対してストライクを行う。</p>"
     },
     "Noble's Ruse": {
       "name": "貴族の策略",
-      "description": "<p><strong>使用制限</strong>ラウンドに1回</p>\n<hr />\n<p><strong>効果</strong>その貴族は@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{Feints}を行う。成功した場合、その貴族は対象に対してストライクを行う。</p>"
+      "description": "<p><strong>使用制限</strong>ラウンドに1回</p>\n<hr />\n<p><strong>効果</strong>その貴族は@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行う。成功した場合、その貴族は対象に対してストライクを行う。</p>"
     },
     "EHw3qV7vYGDQdfPB": {
       "name": "スニーク・アタック",
@@ -4676,13 +4676,13 @@
     "mL08Z9oABWxhIGnA": {
       "name": "折り畳まれた紙片/Folded Scraps of Paper",
       "description": "<p>アクロ語で書かれている</p>",
-      "gmDescription": "<p>ジラディニによる@UUID[Compendium.pf2e.equipment-srd.Item.aEiop0DEVm4WpkPx]{Philter of Empty Dreams}の調合式が含まれている。</p>",
+      "gmDescription": "<p>ジラディニによる@UUID[Compendium.pf2e.equipment-srd.Item.aEiop0DEVm4WpkPx]{フィルター・オブ・エンプティー・ドリームズ}の調合式が含まれている。</p>",
       "unidentifiedName": "奇妙な物体"
     },
     "Folded Scraps of Paper": {
       "name": "折り畳まれた紙片",
       "description": "<p>アクロ語で書かれている</p>",
-      "gmDescription": "<p>ジラディニによる@UUID[Compendium.pf2e.equipment-srd.Item.aEiop0DEVm4WpkPx]{Philter of Empty Dreams}の調合式が含まれている。</p>",
+      "gmDescription": "<p>ジラディニによる@UUID[Compendium.pf2e.equipment-srd.Item.aEiop0DEVm4WpkPx]{フィルター・オブ・エンプティー・ドリームズ}の調合式が含まれている。</p>",
       "unidentifiedName": "奇妙な物体"
     },
     "0Zydj6NwaHDw8UMQ": {

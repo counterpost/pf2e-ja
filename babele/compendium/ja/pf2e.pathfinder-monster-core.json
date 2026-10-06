@@ -490,7 +490,7 @@
         }
       },
       "name": "パクウジー/Pukwudgie",
-      "publicNotes": "<p>Pukwudgies go by many names in many regions, but those who know of them agree that defying their mischievous nature provokes their wrath.</p>\n<p>In ancient times, pukwudgies traveled to the Universe from the First World, perhaps in the wake of the gnome emigration. These proud fey are obsessed with displays of respect, and while they first attempted to befriend mortals, each attempt ended in tragedy as the pukwudgies perceived any potential slight as a grave insult. Mortals, fearing these reactions, began to view pukwudgies as dangerous nuisances. Pukwudgies, in turn, began to resent mortals and the gods that favored them.</p>\n<p>At their best, pukwudgies play cruel jokes on mortals they encounter. At their worst, they've been known to kidnap and even kill those who don't treat them with proper respect. Violent fey like twigjacks and redcaps often gather under pukwudgie leadership, much to the pukwudgies' glee.</p>\n<p>Pukwudgies make their villages in the oldest forests, concealed under @UUID[Compendium.pf2e.spells-srd.Item.HBJPsonQnWcC3qdX]{Mirage} spells. They travel freely between the Universe and the First World through tiny portals beneath hills, trees, or stones. No strangers to violence, pukwudgies rarely travel alone and often anoint their quills or weapons with a custom-brewed poison before entering hostile situations.</p>\n<p>Standing about 2 feet tall, a pukwudgie sports sharp quills growing from their head that extends down their back. Their skin tone varies by the region in which they live, ranging from pale gray to brown.</p>"
+      "publicNotes": "<p>Pukwudgies go by many names in many regions, but those who know of them agree that defying their mischievous nature provokes their wrath.</p>\n<p>In ancient times, pukwudgies traveled to the Universe from the First World, perhaps in the wake of the gnome emigration. These proud fey are obsessed with displays of respect, and while they first attempted to befriend mortals, each attempt ended in tragedy as the pukwudgies perceived any potential slight as a grave insult. Mortals, fearing these reactions, began to view pukwudgies as dangerous nuisances. Pukwudgies, in turn, began to resent mortals and the gods that favored them.</p>\n<p>At their best, pukwudgies play cruel jokes on mortals they encounter. At their worst, they've been known to kidnap and even kill those who don't treat them with proper respect. Violent fey like twigjacks and redcaps often gather under pukwudgie leadership, much to the pukwudgies' glee.</p>\n<p>Pukwudgies make their villages in the oldest forests, concealed under @UUID[Compendium.pf2e.spells-srd.Item.HBJPsonQnWcC3qdX]{ミラージュ} spells. They travel freely between the Universe and the First World through tiny portals beneath hills, trees, or stones. No strangers to violence, pukwudgies rarely travel alone and often anoint their quills or weapons with a custom-brewed poison before entering hostile situations.</p>\n<p>Standing about 2 feet tall, a pukwudgie sports sharp quills growing from their head that extends down their back. Their skin tone varies by the region in which they live, ranging from pale gray to brown.</p>"
     },
     "Sargassum Heap": {
       "items": {
@@ -805,7 +805,7 @@
         },
         "7XIYM7XKRyeIRUn6": {
           "name": "スノー・ビジョン/Snow Vision",
-          "description": "<p>雪はフロストドレイクの視界を妨げない。彼らは降雪による@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealment}を無視する。</p>"
+          "description": "<p>雪はフロストドレイクの視界を妨げない。彼らは降雪による@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を無視する。</p>"
         },
         "RAFn5P8tJAjf5eEe": {
           "name": "リタリエイトリー・ストライク/Retaliatory Strike",
@@ -2294,7 +2294,7 @@
         },
         "PjUGlZciMNB5ad4R": {
           "name": "シンティレイティング・ディフェンス/Scintillating Defense",
-          "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealment}を得る。</p>"
+          "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。</p>"
         },
         "WMdK1rdUjXn9ZjQJ": {
           "name": "ドラコニック・フレンジー",
@@ -4573,7 +4573,7 @@
         },
         "PjUGlZciMNB5ad4R": {
           "name": "シンティレイティング・ディフェンス",
-          "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealment}を得る。</p>"
+          "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。</p>"
         },
         "9XSp9GMrL4MBcCPF": {
           "name": "キャプティヴェイティング・ディスプレイ/Captivating Display",
@@ -6748,7 +6748,7 @@
         },
         "PjUGlZciMNB5ad4R": {
           "name": "シンティレイティング・ディフェンス",
-          "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealment}を得る。</p>"
+          "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。</p>"
         },
         "9XSp9GMrL4MBcCPF": {
           "name": "キャプティヴェイティング・ディスプレイ",
@@ -7919,7 +7919,7 @@
         },
         "g51BzhmOH3vHLWup": {
           "name": "レッスル/Wrestle",
-          "description": "<p>その虎は、自身が@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbing}しているクリーチャーに対して爪で〈ストライク〉を行う。その攻撃が命中した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
+          "description": "<p>その虎は、自身が@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}しているクリーチャーに対して爪で〈ストライク〉を行う。その攻撃が命中した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
         },
         "SjtL4vaiiGNkeXDm": {
           "name": "掴み"
@@ -7953,7 +7953,7 @@
         },
         "fifv91vxtwlIpzXx": {
           "name": "ファスト・スワロウ/Fast Swallow",
-          "description": "<p><strong>トリガー</strong>そのワームがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabs}した時</p>\n<hr />\n<p><strong>効果</strong>そのワームはSwallow Wholeを使用する。</p>"
+          "description": "<p><strong>トリガー</strong>そのワームがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}した時</p>\n<hr />\n<p><strong>効果</strong>そのワームはSwallow Wholeを使用する。</p>"
         },
         "hdZW9dGdp8kUzUjv": {
           "name": "ファイア・ブレス/Fire Breath",
@@ -8230,7 +8230,7 @@
         },
         "9ja6Q3mPufB7rxnt": {
           "name": "ランニング・リロード/Running Reload",
-          "description": "<p>アーチャーはストライド、ステップ、または@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneaks}を行い、その後インタラクトして装填を行う。</p>"
+          "description": "<p>アーチャーはストライド、ステップ、または@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}を行い、その後インタラクトして装填を行う。</p>"
         }
       },
       "name": "ホブゴブリン・アーチャー/Hobgoblin Archer",
@@ -8725,7 +8725,7 @@
         }
       },
       "name": "ウィル・オー・ウィスプ/Will-o'-Wisp",
-      "publicNotes": "<p>Malevolent balls of colored light, will-o'-wisps haunt lonely marshes and forests, where they lure unsuspecting travelers into danger. Will-o'-wisps can vary the color and illumination they shed, and delight in mimicking bobbing lanterns or distant fires to draw lost or disoriented travelers off of safe trails. They can extinguish their illumination entirely to become @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible}, and they enjoy doing so once their victims are wholly lost and have realized that the bobbing light in the distance isn't, in fact, leading them to safety. Even invisible, however, a will-o'-wisp rarely ventures far from its target, as it feasts upon the panic and dread felt by its victims.</p>\n<p>Beneath its glow, a will-o'-wisp's body is a spongy ball approximately 1 foot in diameter and weighing less than 5 pounds. Although most will-o'-wisps are merely translucent, featureless orbs, gaining definition only in the shifting illumination they create, a few have dark mottling that makes them resemble a skull when viewed closely. Will-o'-wisps have no need for mundane nourishment, and in fact, lack the ability to consume matter of any kind; they find all the sustenance they need in the terror of nearby creatures. For this reason, they like to work alongside undead that produce terror in their victims. Will-o'-wisps are long-lived, if not effectively immortal, and they have good memories. A cowed or defeated will-o'-wisp can be a good source of lore and information, though acquiring such cooperation from such a sinister monster is no easy feat.</p>\n<p>Will-o'-wisps inhabit desolate swamps and forests and are generally active at twilight and after dark. They are therefore reluctant to lead victims into immediately fatal areas such as deadfalls, but instead prefer hazards where their victims suffer over a long time, such as pockets of stale or poisonous air, patches of quicksand, and dens of bigger monsters. According to will-o'-wisps, different types of fear have subtle differences in flavor. The lurking dread in the pit of the stomach that gnaws at those who slowly become aware of the fact that they're lost produces a much different taste than the sudden, stark terror of imminent death in the face of a towering monster. Because of this, will-o'-wisps try to vary the ways in which they induce terror in their prey, to ensure they don't tire of certain flavors of fear.</p>"
+      "publicNotes": "<p>Malevolent balls of colored light, will-o'-wisps haunt lonely marshes and forests, where they lure unsuspecting travelers into danger. Will-o'-wisps can vary the color and illumination they shed, and delight in mimicking bobbing lanterns or distant fires to draw lost or disoriented travelers off of safe trails. They can extinguish their illumination entirely to become @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}, and they enjoy doing so once their victims are wholly lost and have realized that the bobbing light in the distance isn't, in fact, leading them to safety. Even invisible, however, a will-o'-wisp rarely ventures far from its target, as it feasts upon the panic and dread felt by its victims.</p>\n<p>Beneath its glow, a will-o'-wisp's body is a spongy ball approximately 1 foot in diameter and weighing less than 5 pounds. Although most will-o'-wisps are merely translucent, featureless orbs, gaining definition only in the shifting illumination they create, a few have dark mottling that makes them resemble a skull when viewed closely. Will-o'-wisps have no need for mundane nourishment, and in fact, lack the ability to consume matter of any kind; they find all the sustenance they need in the terror of nearby creatures. For this reason, they like to work alongside undead that produce terror in their victims. Will-o'-wisps are long-lived, if not effectively immortal, and they have good memories. A cowed or defeated will-o'-wisp can be a good source of lore and information, though acquiring such cooperation from such a sinister monster is no easy feat.</p>\n<p>Will-o'-wisps inhabit desolate swamps and forests and are generally active at twilight and after dark. They are therefore reluctant to lead victims into immediately fatal areas such as deadfalls, but instead prefer hazards where their victims suffer over a long time, such as pockets of stale or poisonous air, patches of quicksand, and dens of bigger monsters. According to will-o'-wisps, different types of fear have subtle differences in flavor. The lurking dread in the pit of the stomach that gnaws at those who slowly become aware of the fact that they're lost produces a much different taste than the sudden, stark terror of imminent death in the face of a towering monster. Because of this, will-o'-wisps try to vary the ways in which they induce terror in their prey, to ensure they don't tire of certain flavors of fear.</p>"
     },
     "Crawling Hand": {
       "hpDetails": "虚無治癒",
@@ -9104,7 +9104,7 @@
         },
         "OeHuAJLeUtdJFHfo": {
           "name": "ライノセラス・チャージ/Rhinoceros Charge",
-          "description": "<p>サイは2回移動(Stride)し、その後、角による〈ストライク〉を行う。サイが少なくとも20フィート移動していれば、その〈ストライク〉のダメージは@Damage[(3d8+6)[piercing]]ダメージに増加する。この攻撃で打撃を受けた中型以下のクリーチャーは、@Check[reflex|dc:21]セーヴに成功しなければならず、失敗すると一撃の衝撃によって自動的に@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shoved}され、5フィート後退して@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
+          "description": "<p>サイは2回移動(Stride)し、その後、角による〈ストライク〉を行う。サイが少なくとも20フィート移動していれば、その〈ストライク〉のダメージは@Damage[(3d8+6)[piercing]]ダメージに増加する。この攻撃で打撃を受けた中型以下のクリーチャーは、@Check[reflex|dc:21]セーヴに成功しなければならず、失敗すると一撃の衝撃によって自動的に@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}され、5フィート後退して@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
         },
         "VQZuQhcA0A15y8kQ": {
           "name": "踏みつぶし",
@@ -9257,7 +9257,7 @@
         },
         "vCEb36Sv06OtmLaz": {
           "name": "ライノセラス・チャージ",
-          "description": "<p>ウーリー・ライノセラスは2回〈ストライク〉を行い、その後角による〈ストライク〉を行う。ウーリー・ライノセラスが少なくとも20フィート移動していた場合、その〈ストライク〉のダメージは@Damage[(3d12+6)[piercing]]ダメージに増加する。この攻撃で打撃を受けた中型以下のクリーチャーは、@Check[reflex|dc:24]セーヴに成功しなければならず、失敗するとその一撃の威力によって自動的に@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shoved}され、5フィート後退させられて@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
+          "description": "<p>ウーリー・ライノセラスは2回〈ストライク〉を行い、その後角による〈ストライク〉を行う。ウーリー・ライノセラスが少なくとも20フィート移動していた場合、その〈ストライク〉のダメージは@Damage[(3d12+6)[piercing]]ダメージに増加する。この攻撃で打撃を受けた中型以下のクリーチャーは、@Check[reflex|dc:24]セーヴに成功しなければならず、失敗するとその一撃の威力によって自動的に@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}され、5フィート後退させられて@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
         },
         "vorcYiRkw5YIs0Qy": {
           "name": "踏みつぶし",
@@ -10422,7 +10422,7 @@
         },
         "gVHdzhF7CYS5L3SK": {
           "name": "バーニング・グラスプ/Burning Grasp",
-          "description": "<p>イフリートがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabs}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrains}した時、そのクリーチャーは@Damage[2d6[fire]]ダメージを受け、解放されるまで各ターンの終了時に2d6の火炎ダメージを受ける。</p>"
+          "description": "<p>イフリートがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}した時、そのクリーチャーは@Damage[2d6[fire]]ダメージを受け、解放されるまで各ターンの終了時に2d6の火炎ダメージを受ける。</p>"
         },
         "hxvgFQQd01fljtcu": {
           "name": "チェンジ・シェイプ",
@@ -10480,7 +10480,7 @@
         },
         "cg8c4dIdBFiff9le": {
           "name": "スウィーピング・フック/Sweeping Hook",
-          "description": "<p><strong>トリガー</strong>オーガのボスが、オーガフックを使用してクリーチャーをうまく@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trips}させた。</p>\n<hr />\n<p><strong>効果</strong>オーガのボスは、自分が転倒させたクリーチャーに対して、オーガフックによる〈ストライク〉を行う。</p>"
+          "description": "<p><strong>トリガー</strong>オーガのボスが、オーガフックを使用してクリーチャーをうまく@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}させた。</p>\n<hr />\n<p><strong>効果</strong>オーガのボスは、自分が転倒させたクリーチャーに対して、オーガフックによる〈ストライク〉を行う。</p>"
         }
       },
       "name": "オーガ・ボス/Ogre Boss",
@@ -12421,7 +12421,7 @@
         },
         "PjUGlZciMNB5ad4R": {
           "name": "シンティレイティング・ディフェンス",
-          "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealment}を得る。</p>"
+          "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。</p>"
         },
         "9XSp9GMrL4MBcCPF": {
           "name": "キャプティヴェイティング・ディスプレイ",
@@ -12810,7 +12810,7 @@
         },
         "PjUGlZciMNB5ad4R": {
           "name": "シンティレイティング・ディフェンス",
-          "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealment}を得る。</p>"
+          "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。</p>"
         },
         "cuSg2YxJeOWsi3XS": {
           "name": "ハルシナトリー・ブレス",
@@ -13441,7 +13441,7 @@
         },
         "CEngjOQBRH1DpQeo": {
           "name": "ブリーチ",
-          "description": "<p>そのサメは自身の水泳移動速度まで〈水泳〉を行い、その後水面から空中に向かって最大25フィートの高さまで垂直に@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leaps}し、跳躍中の任意の時点で対象に対して〈ストライク〉を行う(これにより、水面から30フィート以内のクリーチャーを攻撃できる)。〈ストライク〉の後、そのサメは水中に飛び込み戻る。</p>"
+          "description": "<p>そのサメは自身の水泳移動速度まで〈水泳〉を行い、その後水面から空中に向かって最大25フィートの高さまで垂直に@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{〈跳躍〉}し、跳躍中の任意の時点で対象に対して〈ストライク〉を行う(これにより、水面から30フィート以内のクリーチャーを攻撃できる)。〈ストライク〉の後、そのサメは水中に飛び込み戻る。</p>"
         },
         "6inoR3FiOAzUbSZ8": {
           "name": "サヴェージ",
@@ -13746,11 +13746,11 @@
         },
         "k8mtTYrWrnHjBMCO": {
           "name": "ブリーチ",
-          "description": "<p>ベンシック・ワームは自身の水泳移動速度まで水泳(Swim)し、その後水面から垂直に最大30フィート@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{リープ(Leap)}し、跳躍の頂点でクリーチャーに対して〈ストライク〉を行う(これにより、水面から45フィート以内のクリーチャーを攻撃できる)。〈ストライク〉の後、ワームは水しぶきを上げて水中に戻る。この〈ストライク〉に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI]{インプルーヴド・グラブ(Improved Grab)}を使用し、続けてファスト・スワロー(Fast Swallow)を行うことができる。</p>"
+          "description": "<p>ベンシック・ワームは自身の水泳移動速度まで水泳(Swim)し、その後水面から垂直に最大30フィート@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{リープ(〈跳躍〉)}し、跳躍の頂点でクリーチャーに対して〈ストライク〉を行う(これにより、水面から45フィート以内のクリーチャーを攻撃できる)。〈ストライク〉の後、ワームは水しぶきを上げて水中に戻る。この〈ストライク〉に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI]{インプルーヴド・グラブ(Improved Grab)}を使用し、続けてファスト・スワロー(Fast Swallow)を行うことができる。</p>"
         },
         "IYYi7B0j0PD17IXo": {
           "name": "ファスト・スワロウ",
-          "description": "<p><strong>トリガー</strong>ワームがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{グラブ(Grab)}する。</p>\n<hr />\n<p><strong>効果</strong>ワームはスワロー・ホール(Swallow Whole)を使用する。</p>"
+          "description": "<p><strong>トリガー</strong>ワームがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}する。</p>\n<hr />\n<p><strong>効果</strong>ワームはスワロー・ホール(Swallow Whole)を使用する。</p>"
         },
         "T2hVNG1lQgAAAy70": {
           "name": "スワロウ・ホール",
@@ -14041,7 +14041,7 @@
         },
         "rGTmjeER3V1KY02w": {
           "name": "ファスト・スワロウ",
-          "description": "<p><strong>トリガー</strong>そのケイヴ・ワームがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabs}した。</p>\n<hr />\n<p><strong>効果</strong>そのワームはSwallow Wholeを使用する。</p>"
+          "description": "<p><strong>トリガー</strong>そのケイヴ・ワームがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}した。</p>\n<hr />\n<p><strong>効果</strong>そのワームはSwallow Wholeを使用する。</p>"
         },
         "crXV18abZr2DcEh8": {
           "name": "リガージテイト",
@@ -14345,7 +14345,7 @@
         },
         "63iXwIDFMddnz4kz": {
           "name": "イーグル・ダイヴ/Eagle Dive",
-          "description": "<p>その鷲は直線的に移動して最大で自身の飛行移動速度の2倍まで@UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Flies}し、少なくとも10フィート降下してから、鉤爪による〈ストライク〉を行う。</p>"
+          "description": "<p>その鷲は直線的に移動して最大で自身の飛行移動速度の2倍まで@UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{〈飛行〉}し、少なくとも10フィート降下してから、鉤爪による〈ストライク〉を行う。</p>"
         }
       },
       "name": "イーグル/Eagle",
@@ -14444,7 +14444,7 @@
         },
         "VcfZ8SToykQ7MnHU": {
           "name": "ゴブリン・スカトル",
-          "description": "<p><strong>トリガー</strong>ゴブリンの味方が、そのゴブリンに隣接する位置で移動アクションを終了する。</p>\n<hr />\n<p><strong>効果</strong>ゴブリン・ウォー・チャンターは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{Steps}を行う。</p>"
+          "description": "<p><strong>トリガー</strong>ゴブリンの味方が、そのゴブリンに隣接する位置で移動アクションを終了する。</p>\n<hr />\n<p><strong>効果</strong>ゴブリン・ウォー・チャンターは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{〈ステップ〉}を行う。</p>"
         },
         "zqXzm6YAzfHGm8sq": {
           "name": "ゴブリン・ソング/Goblin Song",
@@ -15018,7 +15018,7 @@
         },
         "KWrM4BkUQ8ldHG0I": {
           "name": "イーグル・ダイヴ",
-          "description": "<p>ジャイアント・イーグルは、その飛行移動速度の2倍まで直線的に飛行し、少なくとも10フィート降下してから、@UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Flies}し、鉤爪による〈ストライク〉を行う。</p>"
+          "description": "<p>ジャイアント・イーグルは、その飛行移動速度の2倍まで直線的に飛行し、少なくとも10フィート降下してから、@UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{〈飛行〉}し、鉤爪による〈ストライク〉を行う。</p>"
         },
         "YcE1Kg1c0njojA8b": {
           "name": "掴み"
@@ -15825,7 +15825,7 @@
         },
         "8l6UxI1NK1aNu3og": {
           "name": "レッスル",
-          "description": "<p>ワータイガーは、自分が@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbing}しているクリーチャーに対して爪による〈ストライク〉を行う。攻撃が命中した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
+          "description": "<p>ワータイガーは、自分が@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}しているクリーチャーに対して爪による〈ストライク〉を行う。攻撃が命中した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
         }
       },
       "name": "ウェアタイガー/Weretiger",
@@ -16090,7 +16090,7 @@
         },
         "jN9qLXiQfaOBlFfC": {
           "name": "ラミング・スピード/Ramming Speed",
-          "description": "<p>ボトルノーズ・ドルフィンは@UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Swims}を2回行い、その後、鼻先で〈ストライク〉を行う。少なくとも20フィート移動していれば、その攻撃ロールに+1の状況ボーナスを得る。</p>\n<p>この攻撃が命中した大型以下のクリーチャーは、@Check[fortitude|dc:16]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態に1ラウンドの間なる。</p>"
+          "description": "<p>ボトルノーズ・ドルフィンは@UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{〈水泳〉}を2回行い、その後、鼻先で〈ストライク〉を行う。少なくとも20フィート移動していれば、その攻撃ロールに+1の状況ボーナスを得る。</p>\n<p>この攻撃が命中した大型以下のクリーチャーは、@Check[fortitude|dc:16]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態に1ラウンドの間なる。</p>"
         }
       },
       "name": "バンドウイルカ/Bottlenose Dolphin",

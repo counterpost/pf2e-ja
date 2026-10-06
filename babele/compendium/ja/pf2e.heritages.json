@@ -3,7 +3,7 @@
   "entries": {
     "Elytron Surki": {
       "name": "エリトロン・スルキ/Elytron Surki",
-      "description": "<p>甲羅の最上層は特に可動で、落下時にそれを広げて優雅に空気を受け止められる。落下距離にかかわらず落下ダメージを受けない.</p>\n<ul>\n<li><strong>進化</strong> 肩のノードが一対の棘に進化し、それを活性化して発光する翼を展開できるようになる。自分を対象にして1日1回、@UUID[Compendium.pf2e.spells-srd.Item.A2JfEKe6BZcTG1S8]{フライ}を内在呪文として唱えられる；翼が活性化している間、半径20-フィートで明るい光を放ち、その先の20フィートまで薄暗い光を放つ.</li>\n<li><strong>進化</strong> 肩のノードが薄い膜の扇状構造に進化し、魔力が流れると共鳴する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.VPl4pifKcq7ecK87]{Stridulating Song}アクションを得る.</li>\n</ul>"
+      "description": "<p>甲羅の最上層は特に可動で、落下時にそれを広げて優雅に空気を受け止められる。落下距離にかかわらず落下ダメージを受けない.</p>\n<ul>\n<li><strong>進化</strong> 肩のノードが一対の棘に進化し、それを活性化して発光する翼を展開できるようになる。自分を対象にして1日1回、@UUID[Compendium.pf2e.spells-srd.Item.A2JfEKe6BZcTG1S8]{フライ}を内在呪文として唱えられる；翼が活性化している間、半径20-フィートで明るい光を放ち、その先の20フィートまで薄暗い光を放つ.</li>\n<li><strong>進化</strong> 肩のノードが薄い膜の扇状構造に進化し、魔力が流れると共鳴する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.VPl4pifKcq7ecK87]{〈ストリデュレイティング・ソング〉}アクションを得る.</li>\n</ul>"
     },
     "Dog Kholo": {
       "name": "犬 コロ語/Dog Kholo",
@@ -19,7 +19,7 @@
     },
     "Warrenbred Hobgoblin": {
       "name": "ウォーレンブレッド・ホブゴブリン/Warrenbred Hobgoblin",
-      "description": "<p>祖先は地下に住んでいた。君の耳は他のホブゴブリンより大きく、反響に敏感だ。地下にいる間、対象が君から@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}離れているか@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}離れている相手を目標にする場合、平坦判定のDCを目立たない目標には3、隠れている目標には9に減らす。さらに、@UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{Squeeze}するための《軽業》判定で成功した場合、代わりにクリティカル成功になる.</p>"
+      "description": "<p>祖先は地下に住んでいた。君の耳は他のホブゴブリンより大きく、反響に敏感だ。地下にいる間、対象が君から@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}離れているか@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}離れている相手を目標にする場合、平坦判定のDCを目立たない目標には3、隠れている目標には9に減らす。さらに、@UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{〈無理矢理入り込む〉}するための《軽業》判定で成功した場合、代わりにクリティカル成功になる.</p>"
     },
     "Climbing Animal": {
       "name": "登攀動物/Climbing Animal",
@@ -48,7 +48,7 @@
     },
     "Kaleidoscopic Athamaru": {
       "name": "カレイドスコピック・アサマル/Kaleidoscopic Athamaru",
-      "description": "<p>鱗が光で揺らめく色のスペクトルになっている。明るい光または薄暗い光の場所で、《芸能》判定に+1の状況ボーナスを得る。さらに@UUID[Compendium.pf2e.actionspf2e.Item.0LwQufKtXfRda0BR]{Dazzle Seeker}の反応を得る.</p>"
+      "description": "<p>鱗が光で揺らめく色のスペクトルになっている。明るい光または薄暗い光の場所で、《芸能》判定に+1の状況ボーナスを得る。さらに@UUID[Compendium.pf2e.actionspf2e.Item.0LwQufKtXfRda0BR]{〈ダズル・シーカー〉}の反応を得る.</p>"
     },
     "Whisper Elf": {
       "name": "ささやきエルフ/Whisper Elf",
@@ -92,7 +92,7 @@
     },
     "Cavernstalker Kobold": {
       "name": "キャバーンストーカー・コボルド/Cavernstalker Kobold",
-      "description": "<p>あなたは原始の地のエネルギーを持つ存在の住処でもあった狭いトンネルのある巣穴で孵化し、そのおかげであなたはしなやかで柔軟になった。岩壁、鍾乳石、その他の自然の石の地形を@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{登攀}する際、あなたは成功時に移動速度の半分で移動し、大成功時に全移動速度で移動する(そして@UUID[Compendium.pf2e.feats-srd.Item.P04Hw8E6WAWARKHP]{Quick 〈登攀〉}を持っている場合、成功時に全移動速度で移動する)。登攀移動速度を使用している場合、これはあなたに影響しない。@UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{〈無理矢理入り込む〉}を行うための《軽業》判定で成功をロールした場合、代わりに大成功となる。</p>",
+      "description": "<p>あなたは原始の地のエネルギーを持つ存在の住処でもあった狭いトンネルのある巣穴で孵化し、そのおかげであなたはしなやかで柔軟になった。岩壁、鍾乳石、その他の自然の石の地形を@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{登攀}する際、あなたは成功時に移動速度の半分で移動し、大成功時に全移動速度で移動する(そして@UUID[Compendium.pf2e.feats-srd.Item.P04Hw8E6WAWARKHP]{クイック・クライム}を持っている場合、成功時に全移動速度で移動する)。登攀移動速度を使用している場合、これはあなたに影響しない。@UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{〈無理矢理入り込む〉}を行うための《軽業》判定で成功をロールした場合、代わりに大成功となる。</p>",
       "rules": [
         {
           "text": "天然の石を登るとき、成功なら移動速度は半分、クリティカル成功なら通常の移動速度になる。"
@@ -104,7 +104,7 @@
     },
     "Mottle-Coat Centaur": {
       "name": "まだら毛のケンタウロス/Mottle-Coat Centaur",
-      "description": "<p>毛皮がまだらや縞模様で、故郷の環境で自然なカモフラージュになる。次の地形から1つ選ぶ：北極、砂漠、森林、山岳、平原、沼地。選んだ地形では、1の状況ボーナスを、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}や@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak}を行うための《隠密》判定と、@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{Feint}のための《欺瞞》判定に対して得る。</p>"
+      "description": "<p>毛皮がまだらや縞模様で、故郷の環境で自然なカモフラージュになる。次の地形から1つ選ぶ：北極、砂漠、森林、山岳、平原、沼地。選んだ地形では、1の状況ボーナスを、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}や@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}を行うための《隠密》判定と、@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}のための《欺瞞》判定に対して得る。</p>"
     },
     "Liminal Catfolk": {
       "name": "境界のキャットフォーク/Liminal Catfolk",
@@ -116,11 +116,11 @@
     },
     "Sailfish Merfolk": {
       "name": "セイルフィッシュ・マーフォーク/Sailfish Merfolk",
-      "description": "<p>下半身が強力なセイルフィッシュに似ており、大きな背びれを備えている。このひれを使って水中を速く移動し、より遠くに跳べる。泳ぎの移動速度が30フィートになる。@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{High ジャンプ}または@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long ジャンプ}を試みるとき、《運動》判定に+1の状況ボーナスを得、跳躍を試みる前にStridingの代わりに〔水泳〕を行える。</p>"
+      "description": "<p>下半身が強力なセイルフィッシュに似ており、大きな背びれを備えている。このひれを使って水中を速く移動し、より遠くに跳べる。泳ぎの移動速度が30フィートになる。@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}または@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を試みるとき、《運動》判定に+1の状況ボーナスを得、跳躍を試みる前にStridingの代わりに〔水泳〕を行える。</p>"
     },
     "Caveclimber Kobold": {
       "name": "ケイブクライマー・コボルド/Caveclimber Kobold",
-      "description": "<p>垂直方向に伸びた住処で暮らし、登攀の達人だ。前提を満たしていなくても@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{戦闘 Climber}のスキル特技を得る。鉤爪のある足と尾を使って手を空けたまま〔登攀〕できる。さらに、〔登攀〕のための《運動》判定に成功した場合、それは代わりにクリティカル成功になる。</p>",
+      "description": "<p>垂直方向に伸びた住処で暮らし、登攀の達人だ。前提を満たしていなくても@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー}のスキル特技を得る。鉤爪のある足と尾を使って手を空けたまま〔登攀〕できる。さらに、〔登攀〕のための《運動》判定に成功した場合、それは代わりにクリティカル成功になる。</p>",
       "rules": [
         {
           "text": "〔登攀〕に成功した場合、それは代わりにクリティカル成功になる。"
@@ -129,7 +129,7 @@
     },
     "Shadow of the Sailor": {
       "name": "船乗りのシャドウ/Shadow of the Sailor",
-      "description": "<p>影が水面をかすめるように、君も水面をすり抜ける。静止した水面や害のない液体の表面を歩け、通常の移動速度の半分で移動する。流れる水の表面を歩くことも試みられるが、この場合も半分の速度で移動する。流れる水面を歩くには、水中を移動するための〔水泳〕判定のDCを用いて《軽業》判定を@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{Balance}に成功しなければならず、失敗すると水中に落ちる。この《軽業》判定はアクションを消費しない。</p>"
+      "description": "<p>影が水面をかすめるように、君も水面をすり抜ける。静止した水面や害のない液体の表面を歩け、通常の移動速度の半分で移動する。流れる水の表面を歩くことも試みられるが、この場合も半分の速度で移動する。流れる水面を歩くには、水中を移動するための〔水泳〕判定のDCを用いて《軽業》判定を@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{〈バランスを取る〉}に成功しなければならず、失敗すると水中に落ちる。この《軽業》判定はアクションを消費しない。</p>"
     },
     "Forge Dwarf": {
       "name": "鍛冶のドワーフ/Forge Dwarf",
@@ -141,7 +141,7 @@
     },
     "Steadfast Tanuki": {
       "name": "不屈のタヌキ/Steadfast Tanuki",
-      "description": "<p>真のタヌキの姿への誇りは計り知れない。ボーナスのアンセストラル特技として@UUID[Compendium.pf2e.feats-srd.Item.fsovjV7yFMGiVs6z]{Everyday Form}か@UUID[Compendium.pf2e.feats-srd.Item.U8rjCtUuk6qhFyZs]{Teakettle Form}のどちらかを得る。</p>"
+      "description": "<p>真のタヌキの姿への誇りは計り知れない。ボーナスのアンセストラル特技として@UUID[Compendium.pf2e.feats-srd.Item.fsovjV7yFMGiVs6z]{エブリデイ・フォーム}か@UUID[Compendium.pf2e.feats-srd.Item.U8rjCtUuk6qhFyZs]{ティーケトル・フォーム}のどちらかを得る。</p>"
     },
     "Aquatic Elf": {
       "name": "水棲エルフ",
@@ -161,7 +161,7 @@
     },
     "Full Moon Sarangay": {
       "name": "満月のサランガイ/Full Moon Sarangay",
-      "description": "<p>あなたは単一のサランガイ共同体や血統に限定されないシャーマン的伝統で育てられた。若い頃にシャーマンの長老の導きの下で精霊と交信する術を学び、いつかその知識を用いて人々に助言や導きを与えることを期待された。あなたの伝統の者は精霊を導き、他人には見えないものを見る巫や僧侶となる。あなたは筋力の代わりに判断力への祖先能力値ボーナスを得、判断力の代わりに体力への能力値フローを受ける。あなたは @UUID[Compendium.pf2e.feats-srd.Item.ua0O6tQ3D5099mmH]{Folk Healer} アンセストラル特技.</p>"
+      "description": "<p>あなたは単一のサランガイ共同体や血統に限定されないシャーマン的伝統で育てられた。若い頃にシャーマンの長老の導きの下で精霊と交信する術を学び、いつかその知識を用いて人々に助言や導きを与えることを期待された。あなたの伝統の者は精霊を導き、他人には見えないものを見る巫や僧侶となる。あなたは筋力の代わりに判断力への祖先能力値ボーナスを得、判断力の代わりに体力への能力値フローを受ける。あなたは @UUID[Compendium.pf2e.feats-srd.Item.ua0O6tQ3D5099mmH]{フォーク・ヒーラー} アンセストラル特技.</p>"
     },
     "Farsight Goloma": {
       "name": "遠視のゴロマ/Farsight Goloma",
@@ -169,11 +169,11 @@
     },
     "Thorned Rose": {
       "name": "棘のバラ/Thorned Rose",
-      "description": "<p>美しい花弁と一見滑らかな肌は、不注意な者を突き刺す無音の刺を隠している。あなたの体は獰猛に鋭い棘で覆われ、襲おうとする者を思いとどまらせる。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.ncdryKskPwHMgHFh]{Wicked Thorns} 反応を得る。</p>"
+      "description": "<p>美しい花弁と一見滑らかな肌は、不注意な者を突き刺す無音の刺を隠している。あなたの体は獰猛に鋭い棘で覆われ、襲おうとする者を思いとどまらせる。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.ncdryKskPwHMgHFh]{〈ウィキッド・ソーンズ〉} 反応を得る。</p>"
     },
     "Frilled Lizardfolk": {
       "name": "襟飾りリザードフォーク/Frilled Lizardfolk",
-      "description": "<p>首のフリルを広げ、背側の棘を立てて敵を怯ませる。すると、@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize}は聴覚トレイトを失い視覚トレイトを得る。また、あなたの言語を理解しない生物を〔怯ませる〕試みるときにペナルティを受けない。さらに@UUID[Compendium.pf2e.actionspf2e.Item.W4M8L9WepGLamlHs]{Threatening Approach}アクションを得る。</p>"
+      "description": "<p>首のフリルを広げ、背側の棘を立てて敵を怯ませる。すると、@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}は聴覚トレイトを失い視覚トレイトを得る。また、あなたの言語を理解しない生物を〔怯ませる〕試みるときにペナルティを受けない。さらに@UUID[Compendium.pf2e.actionspf2e.Item.W4M8L9WepGLamlHs]{〈スレトニング・アプローチ〉}アクションを得る。</p>"
     },
     "Sandstrider Lizardfolk": {
       "name": "砂歩きリザードフォーク/Sandstrider Lizardfolk",
@@ -181,7 +181,7 @@
     },
     "Adaptive Anadi": {
       "name": "適応アナディ/Adaptive Anadi",
-      "description": "<p>あなたは変身魔法を磨き、より多様な文化に溶け込めるようにしたアナディの血筋の子孫だ。一般的な、中型のヒューマノイド祖先を一つ選ぶ。あなたの人型形態はその選択に合う形に置き換わる。また選んだヒューマノイド祖先のための @UUID[Compendium.pf2e.feats-srd.Item.ihN8gkHSdPG9Trte]{Adopted アンセストリー} 特技を得る。</p>"
+      "description": "<p>あなたは変身魔法を磨き、より多様な文化に溶け込めるようにしたアナディの血筋の子孫だ。一般的な、中型のヒューマノイド祖先を一つ選ぶ。あなたの人型形態はその選択に合う形に置き換わる。また選んだヒューマノイド祖先のための @UUID[Compendium.pf2e.feats-srd.Item.ihN8gkHSdPG9Trte]{アドプテッド・アンセストリー} 特技を得る。</p>"
     },
     "Stuffed Poppet": {
       "name": "綿詰め人形/Stuffed Poppet",
@@ -229,11 +229,11 @@
     },
     "Kijimuna Gnome": {
       "name": "キジムナー ノーム/Kijimuna Gnome",
-      "description": "<p>祖先は木々に住み、天夏のあらゆる水域で魚をとっていた。以下の恩恵から一つを選ぶ。選択は一度行うと変更できない。</p><ul><li>あらゆるバニヤンの木を登れる。あなたは @UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{戦闘 Climber} 特技を得、もし〔登攀〕のための 《運動》判定で成功を出したら代わりに会心成功になる。</li><li>どんな魚でも捕まえられる。あなたは水泳速度 15フィートを得る。</li></ul>"
+      "description": "<p>祖先は木々に住み、天夏のあらゆる水域で魚をとっていた。以下の恩恵から一つを選ぶ。選択は一度行うと変更できない。</p><ul><li>あらゆるバニヤンの木を登れる。あなたは @UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー} 特技を得、もし〔登攀〕のための 《運動》判定で成功を出したら代わりに会心成功になる。</li><li>どんな魚でも捕まえられる。あなたは水泳速度 15フィートを得る。</li></ul>"
     },
     "Tailed Goblin": {
       "name": "尾付き ゴブリン語/Tailed Goblin",
-      "description": "<p>あなたは強力な尾を持っており、おそらくモンキー・ゴブリンのコミュニティの末裔であるためだろう。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{〈登攀〉}を行うための《運動》判定に+2状況ボーナスを得る。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{戦闘 Climber}を得る。また、登攀や@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を行うために必要な空き手の数を1つ減らす。</p>",
+      "description": "<p>あなたは強力な尾を持っており、おそらくモンキー・ゴブリンのコミュニティの末裔であるためだろう。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{〈登攀〉}を行うための《運動》判定に+2状況ボーナスを得る。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー}を得る。また、登攀や@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を行うために必要な空き手の数を1つ減らす。</p>",
       "rules": [
         {
           "label": "尾付き ゴブリン語 (〔登攀〕)"
@@ -262,7 +262,7 @@
     },
     "Trogloshi": {
       "name": "トログロシ/Trogloshi",
-      "description": "<p>君は濃密なジャングルの無光地帯や深い洞窟に適応しており、色素のない柔らかな肉質と異様に透明な結晶の角を持つ。君は@UUID[Compendium.pf2e.feats-srd.Item.TLuFqQwvnlJNeEsv]{Crystal Luminescence}のアンセストラル特技を得る。</p>"
+      "description": "<p>君は濃密なジャングルの無光地帯や深い洞窟に適応しており、色素のない柔らかな肉質と異様に透明な結晶の角を持つ。君は@UUID[Compendium.pf2e.feats-srd.Item.TLuFqQwvnlJNeEsv]{クリスタル・ルミネセンス}のアンセストラル特技を得る。</p>"
     },
     "Deny the Firstborn Pursuit": {
       "name": "初生者の追跡を拒む誓い/Deny the Firstborn Pursuit",
@@ -274,7 +274,7 @@
     },
     "Breaker Surki": {
       "name": "ブレイカー・スルキ/Breaker Surki",
-      "description": "<p>あなたの爪は特に硬く、大地も捕食者も等しく切り裂くことができる。あなたは1d4の斬撃ダメージを与える爪の素手攻撃を得る。あなたの爪は剛腕グループに属し、アジャイル、フィネス、素手、バーサタイルBのトレイトを持つ。</p>\n<ul>\n<li><strong>進化</strong>あなたの手首のノードは魔法を投影して耐久性のある掘削用の楔を作り出す。あなたは〈扱う〉アクションを消費して、爪の素手攻撃のダメージを1d6に増加させ、魔法、破砕、バーサタイル(力)のトレイトを付与し、アジャイルトレイトを取り除くことができる。あなたは別のアクションを消費して楔を無効化し、爪を通常の統計値に戻すことができる。</li>\n<li><strong>進化</strong>あなたの足首のノードは、あなたをその場に固定するために魔法の接地爪スパイクを放出できる。何らかの効果があなたを10フィート以上移動させようとする場合、あなたはその半分の距離だけ移動することを選択できる。爪スパイクによる追加の牽引力により、片手がふさがっていても(@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{戦闘 Climber}の特技を持っていれば両手がふさがっていても)〈登攀〉ができる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.kWrks0NxMQH39JHD]{Trench Digging}リアクションを得る。</li>\n</ul>"
+      "description": "<p>あなたの爪は特に硬く、大地も捕食者も等しく切り裂くことができる。あなたは1d4の斬撃ダメージを与える爪の素手攻撃を得る。あなたの爪は剛腕グループに属し、アジャイル、フィネス、素手、バーサタイルBのトレイトを持つ。</p>\n<ul>\n<li><strong>進化</strong>あなたの手首のノードは魔法を投影して耐久性のある掘削用の楔を作り出す。あなたは〈扱う〉アクションを消費して、爪の素手攻撃のダメージを1d6に増加させ、魔法、破砕、バーサタイル(力)のトレイトを付与し、アジャイルトレイトを取り除くことができる。あなたは別のアクションを消費して楔を無効化し、爪を通常の統計値に戻すことができる。</li>\n<li><strong>進化</strong>あなたの足首のノードは、あなたをその場に固定するために魔法の接地爪スパイクを放出できる。何らかの効果があなたを10フィート以上移動させようとする場合、あなたはその半分の距離だけ移動することを選択できる。爪スパイクによる追加の牽引力により、片手がふさがっていても(@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー}の特技を持っていれば両手がふさがっていても)〈登攀〉ができる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.kWrks0NxMQH39JHD]{〈トレンチ・ディギング〉}リアクションを得る。</li>\n</ul>"
     },
     "Steelskin Hobgoblin": {
       "name": "鋼皮ホブゴブリン/Steelskin Hobgoblin",
@@ -282,7 +282,7 @@
     },
     "Keen-Venom Vishkanya": {
       "name": "鋭毒ヴィシュカーニャ/Keen-Venom Vishkanya",
-      "description": "<p>君は戦闘で毒を使うことに熟練しており、瞬時に毒を行使できる。君の@UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{Envenom}アクションは通常、手作業アクションで誘発されるリアクションを発生させない。さらに、@UUID[Compendium.pf2e.actionspf2e.Item.B7wDxyjX66JkiCOV]{Venom Draw}アクションを得る。</p>"
+      "description": "<p>君は戦闘で毒を使うことに熟練しており、瞬時に毒を行使できる。君の@UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{〈エンヴェノム〉}アクションは通常、手作業アクションで誘発されるリアクションを発生させない。さらに、@UUID[Compendium.pf2e.actionspf2e.Item.B7wDxyjX66JkiCOV]{〈ヴェノム・ドロー〉}アクションを得る。</p>"
     },
     "Ghost Bull Minotaur": {
       "name": "幽霊牛ミノタウロス/Ghost Bull Minotaur",
@@ -294,11 +294,11 @@
     },
     "Polyglot Android": {
       "name": "多言語アンドロイド/Polyglot Android",
-      "description": "<p>あなたは翻訳者として行動するために、多数の言語能力をあらかじめプログラムされていた。あなたは共通語、およびアクセス権を持つあらゆるアンコモン言語の中から選択して、2つの新しい言語を習得する。これらの言語は、あなたの他の言語と同じ形式(手話または話し言葉)をとる。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.P9HCz0uR6xPHuw72]{Multilingual}の特技を選択した場合、2つではなく3つの新しい言語を習得する。</p>"
+      "description": "<p>あなたは翻訳者として行動するために、多数の言語能力をあらかじめプログラムされていた。あなたは共通語、およびアクセス権を持つあらゆるアンコモン言語の中から選択して、2つの新しい言語を習得する。これらの言語は、あなたの他の言語と同じ形式(手話または話し言葉)をとる。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.P9HCz0uR6xPHuw72]{マルチリンガル}の特技を選択した場合、2つではなく3つの新しい言語を習得する。</p>"
     },
     "Strong Oak": {
       "name": "強樫/Strong Oak",
-      "description": "<p>ほとんどのゴーランはしなやかなつると丈夫な茎の体を持っているが、あなたは頑丈で荒い樹皮に覆われており、足は根のように安定している。あなたは、あなたを@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}しようとする試みに対する、あなたの頑健または反応 DCに+2の状況ボーナスを得る。このボーナスは、あなたを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grab}する、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrain}する、または@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にする効果に対するセーヴィング・スローにも適用される。さらに、@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{〈バランスを取る〉}ための《軽業》判定に+2の状況ボーナスを得る。</p>"
+      "description": "<p>ほとんどのゴーランはしなやかなつると丈夫な茎の体を持っているが、あなたは頑丈で荒い樹皮に覆われており、足は根のように安定している。あなたは、あなたを@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}しようとする試みに対する、あなたの頑健または反応 DCに+2の状況ボーナスを得る。このボーナスは、あなたを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}する、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}する、または@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にする効果に対するセーヴィング・スローにも適用される。さらに、@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{〈バランスを取る〉}ための《軽業》判定に+2の状況ボーナスを得る。</p>"
     },
     "Clawed Catfolk": {
       "name": "鉤爪キャットフォーク/Clawed Catfolk",
@@ -306,7 +306,7 @@
     },
     "Poisonhide Tripkee": {
       "name": "毒皮トリップキー/Poisonhide Tripkee",
-      "description": "<p>体は小さいかもしれないが、全身に隠された毒腺が致命的な防御を秘めている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.kKKHwVUnroKuAnOt]{Toxic Skin}反応を得る。</p>"
+      "description": "<p>体は小さいかもしれないが、全身に隠された毒腺が致命的な防御を秘めている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.kKKHwVUnroKuAnOt]{〈トキシック・スキン〉}反応を得る。</p>"
     },
     "Running Animal": {
       "name": "疾走 動物/Running Animal",
@@ -334,11 +334,11 @@
     },
     "Whipfang Nagaji": {
       "name": "ウィップファング・ナガジ/Whipfang Nagaji",
-      "description": "<p>蛇のように曲げられる長く柔軟な首を持つ。見かけによらない強力な筋肉により、驚くべき距離と速さで噛むことができる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.MLOkyKi1Y3N6y56Q]{Raise Neck}アクションを得る。</p>"
+      "description": "<p>蛇のように曲げられる長く柔軟な首を持つ。見かけによらない強力な筋肉により、驚くべき距離と速さで噛むことができる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.MLOkyKi1Y3N6y56Q]{〈レイズ・ネック〉}アクションを得る。</p>"
     },
     "Tsukumogami Poppet": {
       "name": "付喪神ポペット/Tsukumogami Poppet",
-      "description": "<p>君はありふれた道具の形と記憶を持っている。自分が何の道具だったかに関連するスキルを1つ選べ（例えば台所の器具やスプーンならCooking ロア）。このスキルにおいてあなたは訓練済みになり、このスキルで〔援護〕する判定に+2の状況ボーナスを得る。もし@UUID[Compendium.pf2e.feats-srd.Item.ARBIhYAREcytOIaL]{協力的 Poppet}フィートをとると、そのボーナスは+3に増える。</p>\n<p>大半のポペットは綿や布、柔らかい金属でできているが、付喪神の中には他の素材でできる者もおり、ポペットの弱点が火になる。もし身体が主に木材か布なら、火に対して通常のポペットの弱点を持つ。身体が主に金属なら代わりに電気に弱く、主に陶器なら代わりに冷気に弱い。</p>"
+      "description": "<p>君はありふれた道具の形と記憶を持っている。自分が何の道具だったかに関連するスキルを1つ選べ（例えば台所の器具やスプーンならCooking ロア）。このスキルにおいてあなたは訓練済みになり、このスキルで〔援護〕する判定に+2の状況ボーナスを得る。もし@UUID[Compendium.pf2e.feats-srd.Item.ARBIhYAREcytOIaL]{ヘルプフル・ポペット}フィートをとると、そのボーナスは+3に増える。</p>\n<p>大半のポペットは綿や布、柔らかい金属でできているが、付喪神の中には他の素材でできる者もおり、ポペットの弱点が火になる。もし身体が主に木材か布なら、火に対して通常のポペットの弱点を持つ。身体が主に金属なら代わりに電気に弱く、主に陶器なら代わりに冷気に弱い。</p>"
     },
     "Quilled Athamaru": {
       "name": "クイルド・アタマル/Quilled Athamaru",
@@ -362,11 +362,11 @@
     },
     "Athamasi": {
       "name": "アタマシ/Athamasi",
-      "description": "<p>登攀や木にぶら下がることに適応した小さな第二の腕を持つ。これらの四肢で保持や物を取り出すことはできないが、主要な手のひとつまたは両方が塞がっていても〔登攀〕や@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{Grab an Edge}ができる。登攀中、あなたは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}ではない。</p>"
+      "description": "<p>登攀や木にぶら下がることに適応した小さな第二の腕を持つ。これらの四肢で保持や物を取り出すことはできないが、主要な手のひとつまたは両方が塞がっていても〔登攀〕や@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{〈縁にしがみつく〉}ができる。登攀中、あなたは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}ではない。</p>"
     },
     "Chrysanthemum Leshy": {
       "name": "菊のレッシー/Chrysanthemum Leshy",
-      "description": "<p>人間の子供のように見えるが、頭から皇帝のように華やかな菊の冠が生えている。これらの花弁は薬効があり、毒に対するセーヴィング・スローに+1の状況ボーナスを与える。</p>\n<p>さらに、あなたの日課の準備の間、頭から花弁を数枚無害に摘み取り、新鮮な水に浸して単一の@UUID[Compendium.pf2e.equipment-srd.Item.ktjFOp3U0wQD9t0Z]{Lesser Antidote}を作れる。これは茶の形を取る。レベル6では代わりに@UUID[Compendium.pf2e.equipment-srd.Item.AJ1dC7EtTIfBey0M]{Moderate Antidote}を、レベル10では@UUID[Compendium.pf2e.equipment-srd.Item.XWkeL34yJK6t5qUE]{Greater Antidote}を、レベル14では@UUID[Compendium.pf2e.equipment-srd.Item.ANzB9WzlGQXDn76G]{Major Antidote}を作る。茶は次の日課の準備までに消費されないと効果を失う。</p>"
+      "description": "<p>人間の子供のように見えるが、頭から皇帝のように華やかな菊の冠が生えている。これらの花弁は薬効があり、毒に対するセーヴィング・スローに+1の状況ボーナスを与える。</p>\n<p>さらに、あなたの日課の準備の間、頭から花弁を数枚無害に摘み取り、新鮮な水に浸して単一の@UUID[Compendium.pf2e.equipment-srd.Item.ktjFOp3U0wQD9t0Z]{アンチドート（レッサー）}を作れる。これは茶の形を取る。レベル6では代わりに@UUID[Compendium.pf2e.equipment-srd.Item.AJ1dC7EtTIfBey0M]{アンチドート（モデレート）}を、レベル10では@UUID[Compendium.pf2e.equipment-srd.Item.XWkeL34yJK6t5qUE]{アンチドート（グレーター）}を、レベル14では@UUID[Compendium.pf2e.equipment-srd.Item.ANzB9WzlGQXDn76G]{アンチドート（メジャー）}を作る。茶は次の日課の準備までに消費されないと効果を失う。</p>"
     },
     "Lethoci": {
       "name": "レトコシ/Lethoci",
@@ -382,7 +382,7 @@
     },
     "Runtboss Hobgoblin": {
       "name": "ランツボス・ホブゴブリン/Runtboss Hobgoblin",
-      "description": "<p>君はゴブリンを指揮してきたホブゴブリンの長い一族の出身だ。君は他のホブゴブリンより小柄だが、ゴブリンは君が怒鳴るどんな命令にも従う。君は@UUID[Compendium.pf2e.feats-srd.Item.gUqvezs2zzoTXFAI]{Group Coercion}のスキル特技を得る。ゴブリンを@UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{Coerce}ための《威圧》判定で成功を出した場合、それは代わりにクリティカル成功になる；もしクリティカル失敗を出したなら代わりに失敗になる。</p>"
+      "description": "<p>君はゴブリンを指揮してきたホブゴブリンの長い一族の出身だ。君は他のホブゴブリンより小柄だが、ゴブリンは君が怒鳴るどんな命令にも従う。君は@UUID[Compendium.pf2e.feats-srd.Item.gUqvezs2zzoTXFAI]{グループ・コアージョン}のスキル特技を得る。ゴブリンを@UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{〈強要する〉}ための《威圧》判定で成功を出した場合、それは代わりにクリティカル成功になる；もしクリティカル失敗を出したなら代わりに失敗になる。</p>"
     },
     "Root Leshy": {
       "name": "ルート・レシー/Root Leshy",
@@ -398,11 +398,11 @@
     },
     "Battle-Trained Human (BB)": {
       "name": "戦闘訓練済みの人間 (BB)/Battle-Trained Human (BB)",
-      "description": "<p>君の家系は代々戦場で訓練済みを有し、戦闘での利点を授けてきた。君はすべての軍用武器で訓練済みとなる。</p>\n<p>さらに、君は@UUID[Compendium.pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]{Diehard}フィートのフィートを得る。</p>\n<p><em>注：このヘリテージはBeginner Box由来で、標準外のヘリテージ特徴を含んでいる</em></p>"
+      "description": "<p>君の家系は代々戦場で訓練済みを有し、戦闘での利点を授けてきた。君はすべての軍用武器で訓練済みとなる。</p>\n<p>さらに、君は@UUID[Compendium.pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]{ダイハード}フィートのフィートを得る。</p>\n<p><em>注：このヘリテージはBeginner Box由来で、標準外のヘリテージ特徴を含んでいる</em></p>"
     },
     "Polychromatic Anadi": {
       "name": "多彩なアナディ/Polychromatic Anadi",
-      "description": "<p>あなたの体は、鮮やかで人目を引く模様を作り出す非常にカラフルな毛で覆われており、その一部は人間形態でも現れることがある。あなたは《芸能》において訓練済みとなり(もし既に《芸能》において訓練済みであるなら、他のスキルとなる)、@UUID[Compendium.pf2e.feats-srd.Item.xqAdXRd2gSQcqp5E]{Impressive 《芸能》}の特技を得る。</p>"
+      "description": "<p>あなたの体は、鮮やかで人目を引く模様を作り出す非常にカラフルな毛で覆われており、その一部は人間形態でも現れることがある。あなたは《芸能》において訓練済みとなり(もし既に《芸能》において訓練済みであるなら、他のスキルとなる)、@UUID[Compendium.pf2e.feats-srd.Item.xqAdXRd2gSQcqp5E]{インプレッシブ・《芸能》}の特技を得る。</p>"
     },
     "Elementheart Kobold": {
       "name": "エレメントハート・コボルド/Elementheart Kobold",
@@ -450,7 +450,7 @@
     },
     "Sewer Rat": {
       "name": "下水ネズミ/Sewer Rat",
-      "description": "<p>あなたは大きな入植地の地下の下水道に拠点を置くコミュニティを持つ、ラットフォークの長い血筋の出身である。あなたは病気「ピュートリッド・プレイグ」に対して免疫である。あなたは病気および毒に対するセーヴィング・スローに+1の状況ボーナスを得る。もしあなたが病気または毒に対するセーヴィング・スローで成功をロールしたなら、代わりに大成功となる。もしあなたがこの方法でセーヴを改善する別の能力(ファイターのクラス特徴である@UUID[Compendium.pf2e.classfeatures.Item.gdSmSTaGDxf4g2d8]{Battle Hardened}など)を持っている場合、そのセーヴで大失敗をロールしたなら、代わりに失敗となる。</p>"
+      "description": "<p>あなたは大きな入植地の地下の下水道に拠点を置くコミュニティを持つ、ラットフォークの長い血筋の出身である。あなたは病気「ピュートリッド・プレイグ」に対して免疫である。あなたは病気および毒に対するセーヴィング・スローに+1の状況ボーナスを得る。もしあなたが病気または毒に対するセーヴィング・スローで成功をロールしたなら、代わりに大成功となる。もしあなたがこの方法でセーヴを改善する別の能力(ファイターのクラス特徴である@UUID[Compendium.pf2e.classfeatures.Item.gdSmSTaGDxf4g2d8]{バトル・ハードゥンド}など)を持っている場合、そのセーヴで大失敗をロールしたなら、代わりに失敗となる。</p>"
     },
     "Homing Drake": {
       "name": "ホーミング・ドレイク/Homing Drake",
@@ -466,7 +466,7 @@
     },
     "Rite of Light": {
       "name": "光の儀式/Rite of Light",
-      "description": "<p>外骨格に命を分ける小さな新芽が生えている。@UUID[Compendium.pf2e.ancestryfeatures.Item.BgHrucbZ9TH92RDv]{Sunlight 治癒}を使用するとき、自分の代わりに隣接する味方のヒット・ポイントを回復できる。その味方は1日間、太陽光のヒーリングのすべての使用に対して一時的に免疫になる。</p>"
+      "description": "<p>外骨格に命を分ける小さな新芽が生えている。@UUID[Compendium.pf2e.ancestryfeatures.Item.BgHrucbZ9TH92RDv]{日光治癒}を使用するとき、自分の代わりに隣接する味方のヒット・ポイントを回復できる。その味方は1日間、太陽光のヒーリングのすべての使用に対して一時的に免疫になる。</p>"
     },
     "Gutsy Halfling": {
       "name": "気概のあるハーフリング語/Gutsy Halfling",
@@ -482,11 +482,11 @@
     },
     "Vine Leshy": {
       "name": "ツタ・レッシー/Vine Leshy",
-      "description": "<p>巻きつく蔓によって登攀に比類のないスキルを得ている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{Climb}を行うのに手を空けておく必要がない。さらに、〔登攀〕のための《運動》判定で成功を出した場合、代わりに大成功になる。</p>"
+      "description": "<p>巻きつく蔓によって登攀に比類のないスキルを得ている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{〈登攀〉}を行うのに手を空けておく必要がない。さらに、〔登攀〕のための《運動》判定で成功を出した場合、代わりに大成功になる。</p>"
     },
     "Rite of Knowing": {
       "name": "知識の儀式/Rite of Knowing",
-      "description": "<p>外骨格をアクシスとの結びつきで強化し、次元の無限の知識に触れられるようにした。@UUID[Compendium.pf2e.actionspf2e.Item.k5TASjIxghvGCy7g]{Call to Axis}アクションを得る。</p>"
+      "description": "<p>外骨格をアクシスとの結びつきで強化し、次元の無限の知識に触れられるようにした。@UUID[Compendium.pf2e.actionspf2e.Item.k5TASjIxghvGCy7g]{〈コール・トゥ・アクシス〉}アクションを得る。</p>"
     },
     "Cecaelia Merfolk": {
       "name": "セシーリアマーフォーク",
@@ -522,7 +522,7 @@
     },
     "Heavenscribe Kobold": {
       "name": "ヘヴンスクライブ・コボルド/Heavenscribe Kobold",
-      "description": "<p>賢明で天の帝竜とのつながりにより他者が助言を求める。あなたは ドラコニック語を話せる。《交渉》 の判定で @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression} または @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Request} を行ってクリティカル失敗を出すと、代わりに失敗になる。</p>"
+      "description": "<p>賢明で天の帝竜とのつながりにより他者が助言を求める。あなたは ドラコニック語を話せる。《交渉》 の判定で @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉} または @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{〈要請する〉} を行ってクリティカル失敗を出すと、代わりに失敗になる。</p>"
     },
     "Sylph": {
       "name": "シルフ/Sylph",
@@ -530,7 +530,7 @@
     },
     "Jinxed Halfling": {
       "name": "ジンクスされた ハーフリング語/Jinxed Halfling",
-      "description": "<p>奇妙な祝福を受けて生まれた。典型的なハーフリングの幸運を欠く代わりに、他人の運を操作できる。あなたは決して @UUID[Compendium.pf2e.feats-srd.Item.ZbRVqf14RTJJIZXG]{ハーフリング Luck} フィートをとれない、そして @UUID[Compendium.pf2e.actionspf2e.Item.hFRHPBj6wjAayNtW]{Jinx} アクションを得る。</p>"
+      "description": "<p>奇妙な祝福を受けて生まれた。典型的なハーフリングの幸運を欠く代わりに、他人の運を操作できる。あなたは決して @UUID[Compendium.pf2e.feats-srd.Item.ZbRVqf14RTJJIZXG]{ハーフリング・ラック} フィートをとれない、そして @UUID[Compendium.pf2e.actionspf2e.Item.hFRHPBj6wjAayNtW]{〈ジンクス〉} アクションを得る。</p>"
     },
     "Talos": {
       "name": "タロス/Talos",
@@ -538,7 +538,7 @@
     },
     "Beastkin": {
       "name": "ビーストキン/Beastkin",
-      "description": "<p>獣の血が君の脈を流れ、動物の獰猛さと力を与える。ヒューマノイドトレイトを持つクリーチャーのみがビーストキン汎用ヘリテージを取れる。コウモリ、ワシ、サメ、クモ、ティラノサウルス、ハチ、オオカミなどの動物の種類を選べ。これが君のヘリテージに結びついた動物の種類であり、君の内在する動物と呼ばれる。ビーストキンのハイブリッド形態が自然な形である。祖先のトレイトに加えてビーストとビーストキンのトレイトを得る。</p>\n<p>君は @UUID[Compendium.pf2e.actionspf2e.Item.34E7k2YRcsOU5uyl]{Change Shape} 能力を得る。アンセストラル特技を得るたびにビーストキンのフィートと祖先のフィートから選べる。</p>"
+      "description": "<p>獣の血が君の脈を流れ、動物の獰猛さと力を与える。ヒューマノイドトレイトを持つクリーチャーのみがビーストキン汎用ヘリテージを取れる。コウモリ、ワシ、サメ、クモ、ティラノサウルス、ハチ、オオカミなどの動物の種類を選べ。これが君のヘリテージに結びついた動物の種類であり、君の内在する動物と呼ばれる。ビーストキンのハイブリッド形態が自然な形である。祖先のトレイトに加えてビーストとビーストキンのトレイトを得る。</p>\n<p>君は @UUID[Compendium.pf2e.actionspf2e.Item.34E7k2YRcsOU5uyl]{〈チェンジ・シェイプ〉} 能力を得る。アンセストラル特技を得るたびにビーストキンのフィートと祖先のフィートから選べる。</p>"
     },
     "Dokkaebi Goblin": {
       "name": "ドッカエビ ゴブリン語/Dokkaebi Goblin",
@@ -570,11 +570,11 @@
     },
     "Shadow of the Courtier": {
       "name": "シャドウ of the Courtier/Shadow of the Courtier",
-      "description": "<p>君の影が共に踊る。Impressive 《芸能》 のスキル特技を得ることで、@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression} を 《芸能》を使って行え、《交渉》を使わなくてよい。1日1回、〔印象の改善〕の判定に失敗したがクリティカル失敗でない場合、それを演技の一部としてごまかし、判定を振り直せる；これはフォーチュン効果だ。</p>"
+      "description": "<p>君の影が共に踊る。Impressive 《芸能》 のスキル特技を得ることで、@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉} を 《芸能》を使って行え、《交渉》を使わなくてよい。1日1回、〔印象の改善〕の判定に失敗したがクリティカル失敗でない場合、それを演技の一部としてごまかし、判定を振り直せる；これはフォーチュン効果だ。</p>"
     },
     "Irongut Goblin": {
       "name": "アイアングット ゴブリン語/Irongut Goblin",
-      "description": "<p>君は多くの人が腐っていると思うような食物でも生きていける。集落でゴミが容易に手に入る限り、粗末な食事で自分を養える（@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{Subsist} のダウンタイム活動を使う必要はない）。@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調} のときでも食べたり飲んだりできる。</p>\n<p>摂取による感染症に対するセーヴ、sickened 状態を受けることに対するセーヴ、及び sickened 状態を除去する際に+2 の状況ボーナスを得る。このボーナスの影響を受ける 頑健セーヴで成功を出すと、代わりにクリティカル成功になる。これらの効果は、感染症や状態が口に入れたものに起因する場合にのみ適用される。</p>"
+      "description": "<p>君は多くの人が腐っていると思うような食物でも生きていける。集落でゴミが容易に手に入る限り、粗末な食事で自分を養える（@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{〈生存〉} のダウンタイム活動を使う必要はない）。@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調} のときでも食べたり飲んだりできる。</p>\n<p>摂取による感染症に対するセーヴ、sickened 状態を受けることに対するセーヴ、及び sickened 状態を除去する際に+2 の状況ボーナスを得る。このボーナスの影響を受ける 頑健セーヴで成功を出すと、代わりにクリティカル成功になる。これらの効果は、感染症や状態が口に入れたものに起因する場合にのみ適用される。</p>"
     },
     "New Moon Sarangay": {
       "name": "新月のサランガイ/New Moon Sarangay",
@@ -591,7 +591,7 @@
     },
     "Roaming Minotaur": {
       "name": "放浪するミノタウロス/Roaming Minotaur",
-      "description": "<p>あなたの蹄は幅広く強力で、ステップを踏みながら瓦礫を取り除くのに最適である。あなたは《生存術》に訓練済みとなり(すでに《生存術》に訓練済みであった場合は他のスキル)、@UUID[Compendium.pf2e.feats-srd.Item.4tTkRyOQ0VuRBac3]{Terrain Expertise}スキル特技を獲得する。あなたはTerrain Expertise特技で選択した地形にいる間、自然の不整地によって引き起こされる移動困難な地形を無視する。</p>"
+      "description": "<p>あなたの蹄は幅広く強力で、ステップを踏みながら瓦礫を取り除くのに最適である。あなたは《生存術》に訓練済みとなり(すでに《生存術》に訓練済みであった場合は他のスキル)、@UUID[Compendium.pf2e.feats-srd.Item.4tTkRyOQ0VuRBac3]{テレイン・エキスパーティス}スキル特技を獲得する。あなたはTerrain Expertise特技で選択した地形にいる間、自然の不整地によって引き起こされる移動困難な地形を無視する。</p>"
     },
     "Versatile Human": {
       "name": "バーサタイル・ヒューマン/Versatile Human",
@@ -603,7 +603,7 @@
     },
     "Nine Lives Catfolk": {
       "name": "九生のキャットフォーク/Nine Lives Catfolk",
-      "description": "<p>あなたの家族は常に災難から立ち直ってきたように見えるが、それは肉体的な頑健さや専門的なスキルによるものではなく、純粋な幸運によるものである。他のキャットフォークは、あなたには9つの命があるのだと囁く。あなたが@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死}状態である間、あなたは自身の瀕死値を戻る判定のDCに加算しない(これは、DCが通常10であることを意味する)。さらに、あなたは@UUID[Compendium.pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]{Diehard}汎用特技を獲得する。</p>"
+      "description": "<p>あなたの家族は常に災難から立ち直ってきたように見えるが、それは肉体的な頑健さや専門的なスキルによるものではなく、純粋な幸運によるものである。他のキャットフォークは、あなたには9つの命があるのだと囁く。あなたが@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死}状態である間、あなたは自身の瀕死値を戻る判定のDCに加算しない(これは、DCが通常10であることを意味する)。さらに、あなたは@UUID[Compendium.pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]{ダイハード}汎用特技を獲得する。</p>"
     },
     "Jungle Catfolk": {
       "name": "ジャングルキャットフォーク/Jungle Catfolk",
@@ -611,7 +611,7 @@
     },
     "Courageous Tanuki": {
       "name": "勇敢なタヌキ/Courageous Tanuki",
-      "description": "<p>あなたの心は先祖の勇気で鼓動し、タヌキだけが示せる種の勇気を与える。あなたが@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}状態になるたび、逃走している間持続する速度への+10-フィートの状況ボーナスも得る。逃走状態のとき、逃走のためにすべてのアクションを費やさなければならない代わりに、1つのアクションは通常通り行動できるが、残りのアクションは逃走に費やさなければならない。また、@UUID[Compendium.pf2e.actionspf2e.Item.KInVpdfrxg0AqjRt]{Tactical Retreat}能力を得る。</p>"
+      "description": "<p>あなたの心は先祖の勇気で鼓動し、タヌキだけが示せる種の勇気を与える。あなたが@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}状態になるたび、逃走している間持続する速度への+10-フィートの状況ボーナスも得る。逃走状態のとき、逃走のためにすべてのアクションを費やさなければならない代わりに、1つのアクションは通常通り行動できるが、残りのアクションは逃走に費やさなければならない。また、@UUID[Compendium.pf2e.actionspf2e.Item.KInVpdfrxg0AqjRt]{〈タクティカル・リトリート〉}能力を得る。</p>"
     },
     "Seaweed Leshy": {
       "name": "海藻レシー/Seaweed Leshy",
@@ -623,7 +623,7 @@
     },
     "Surgewise Fleshwarp": {
       "name": "サージワイズ・フレッシュワープ/Surgewise Fleshwarp",
-      "description": "<p>あなたの体の繊毛のうねりは魔力の湧き出す場所に極めて敏感で、秘儀エネルギーへの洞察で震え、振動で秘密の存在を察知する。あなたは《神秘学》で訓練済みの熟練度ランクを得る。もしあなたが《神秘学》で訓練済みであるなら、代わりに任意の他のスキルで訓練済みになる。また、@UUID[Compendium.pf2e.feats-srd.Item.hDGosy2ZTwnyctEP]{Oddity Identification}スキル特技を得る。</p>"
+      "description": "<p>あなたの体の繊毛のうねりは魔力の湧き出す場所に極めて敏感で、秘儀エネルギーへの洞察で震え、振動で秘密の存在を察知する。あなたは《神秘学》で訓練済みの熟練度ランクを得る。もしあなたが《神秘学》で訓練済みであるなら、代わりに任意の他のスキルで訓練済みになる。また、@UUID[Compendium.pf2e.feats-srd.Item.hDGosy2ZTwnyctEP]{オディティ・アイデンティフィケーション}スキル特技を得る。</p>"
     },
     "Born of Celestial": {
       "name": "セレスティアル語の生まれ/Born of Celestial",
@@ -631,23 +631,23 @@
     },
     "Nomadic Halfling": {
       "name": "遊牧のハーフリング語/Nomadic Halfling",
-      "description": "<p>あなたの先祖は代々各地を旅し、定住を好まなかった。あなたは利用可能な共通語および非共通語の中から任意の言語を2つ追加で習得する。さらに、あなたが@UUID[Compendium.pf2e.feats-srd.Item.P9HCz0uR6xPHuw72]{Multilingual}特技を取得するたびに、新たな言語をもう1つ習得する。</p>"
+      "description": "<p>あなたの先祖は代々各地を旅し、定住を好まなかった。あなたは利用可能な共通語および非共通語の中から任意の言語を2つ追加で習得する。さらに、あなたが@UUID[Compendium.pf2e.feats-srd.Item.P9HCz0uR6xPHuw72]{マルチリンガル}特技を取得するたびに、新たな言語をもう1つ習得する。</p>"
     },
     "Shifting Skeleton": {
       "name": "変化する骸骨/Shifting Skeleton",
-      "description": "<p>様々な変身生物の骨から構築され、変化する骸骨はある程度の再構成性を保持し、形を変えることができる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.OqKYkzbc7NEWmJWB]{Rearrange Bones}アクションを得る。</p>"
+      "description": "<p>様々な変身生物の骨から構築され、変化する骸骨はある程度の再構成性を保持し、形を変えることができる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.OqKYkzbc7NEWmJWB]{〈リアレンジ・ボーンズ〉}アクションを得る。</p>"
     },
     "Lotus Leshy": {
       "name": "蓮のレシー/Lotus Leshy",
-      "description": "<p>あなたは水面にたやすく浮かぶ。静かな水面や他の害を与えない液体の表面を歩け、移動速度は通常の半分で移動する。また、流れる水の表面を移動するために@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{Balance}を試みることができ、その際は水中を移動するために〔水泳〕判定のDCを使用する。こうする場合、速度は最大で半分しか出せず、失敗またはクリティカル失敗をした場合は通常の効果の代わりに水中に落ちる。</p>"
+      "description": "<p>あなたは水面にたやすく浮かぶ。静かな水面や他の害を与えない液体の表面を歩け、移動速度は通常の半分で移動する。また、流れる水の表面を移動するために@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{〈バランスを取る〉}を試みることができ、その際は水中を移動するために〔水泳〕判定のDCを使用する。こうする場合、速度は最大で半分しか出せず、失敗またはクリティカル失敗をした場合は通常の効果の代わりに水中に落ちる。</p>"
     },
     "Celestial Envoy Kitsune": {
       "name": "セレスティアル語の使者キツネ/Celestial Envoy Kitsune",
-      "description": "<p>ダイキツーの恩寵か、信仰心厚き先祖のおかげか、あなたには神との強い結びつきがあり、それが特定の加護をもたらしている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Aq2mXT2hLlstFL5C]{Invoke Celestial Privilege}リアクションを獲得する。あなたの代替形態は、あなたが育った場所で一般的な、よく見られる中型のヒューマノイドの祖先(通常は人間)であり、尾のない形態と呼ばれる。</p>"
+      "description": "<p>ダイキツーの恩寵か、信仰心厚き先祖のおかげか、あなたには神との強い結びつきがあり、それが特定の加護をもたらしている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Aq2mXT2hLlstFL5C]{〈インヴォーク・セレスチャル・プリヴィレッジ〉}リアクションを獲得する。あなたの代替形態は、あなたが育った場所で一般的な、よく見られる中型のヒューマノイドの祖先(通常は人間)であり、尾のない形態と呼ばれる。</p>"
     },
     "Elfbane Hobgoblin": {
       "name": "エルフ殺しのホブゴブリン/Elfbane Hobgoblin",
-      "description": "<p>ホブゴブリンはかつて多産で扱いにくいゴブリンから、エルフに対抗する軍隊として長年にわたり作り出された。最終的にエルフはホブゴブリンを束縛から解放したが、一部のホブゴブリンは彼らが「エルフ魔法」と呼ぶ魔法への祖先からの結びつきを今も保持している。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.On5CQjX4euWqToly]{Resist エルフ Magic}反応を得る。</p>"
+      "description": "<p>ホブゴブリンはかつて多産で扱いにくいゴブリンから、エルフに対抗する軍隊として長年にわたり作り出された。最終的にエルフはホブゴブリンを束縛から解放したが、一部のホブゴブリンは彼らが「エルフ魔法」と呼ぶ魔法への祖先からの結びつきを今も保持している。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.On5CQjX4euWqToly]{〈レジスト・エルフ・マジック〉}反応を得る。</p>"
     },
     "Half Moon Sarangay": {
       "name": "半月のサランガイ/Half Moon Sarangay",
@@ -655,11 +655,11 @@
     },
     "Sacred Nagaji": {
       "name": "聖なるナガジ/Sacred Nagaji",
-      "description": "<p>君は多くのナガジとは異なり、上半身が美しい人間で下半身が緑か白の蛇になっている。牙による素手攻撃の代わりに、尾による攻撃を持ち、これは打撃ダメージで1d6のダメージを与え、格闘武器種に属し、フィネスと素手のトレイトを持つ。君は2の状況ボーナスを、君を@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple}や@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}しようとする試みに対する君の頑健または反応 DCに得る。このボーナスはまた、君を@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grab}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrain}、あるいは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}しようとする効果に対するセーヴィング・スローにも適用される。</p>"
+      "description": "<p>君は多くのナガジとは異なり、上半身が美しい人間で下半身が緑か白の蛇になっている。牙による素手攻撃の代わりに、尾による攻撃を持ち、これは打撃ダメージで1d6のダメージを与え、格闘武器種に属し、フィネスと素手のトレイトを持つ。君は2の状況ボーナスを、君を@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}や@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}しようとする試みに対する君の頑健または反応 DCに得る。このボーナスはまた、君を@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、あるいは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}しようとする効果に対するセーヴィング・スローにも適用される。</p>"
     },
     "Fishseeker Shoony": {
       "name": "魚探しシューニー/Fishseeker Shoony",
-      "description": "<p>君は代々の漁師の家系に育ち、大物をつかんで引き寄せるための素早い反応を受け継いでいる。@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{Grab an Edge}の判定で成功を出したとき、それは代わりにクリティカル成功になる；クリティカル失敗を出したときは代わりに失敗になる。君に対して@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm}を行う判定で失敗を出した生物は、代わりにクリティカル失敗になる。</p>"
+      "description": "<p>君は代々の漁師の家系に育ち、大物をつかんで引き寄せるための素早い反応を受け継いでいる。@UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{〈縁にしがみつく〉}の判定で成功を出したとき、それは代わりにクリティカル成功になる；クリティカル失敗を出したときは代わりに失敗になる。君に対して@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}を行う判定で失敗を出した生物は、代わりにクリティカル失敗になる。</p>"
     },
     "Oread": {
       "name": "オリード/Oread",
@@ -679,11 +679,11 @@
     },
     "Scavenger Strix": {
       "name": "漁るストリックス/Scavenger Strix",
-      "description": "<p>君の先祖は食料が乏しく脅威の多い地で生きてきた。君は《生存術》において訓練済みだ。君はボーナスフィートとして@UUID[Compendium.pf2e.feats-srd.Item.8qebBeOJsyRIchcu]{Forager}スキル特技を得る。食料を採集する際の綿密さにより、〔生存〕に関する《生存術》の判定に+1の状況ボーナスを得る。</p>"
+      "description": "<p>君の先祖は食料が乏しく脅威の多い地で生きてきた。君は《生存術》において訓練済みだ。君はボーナスフィートとして@UUID[Compendium.pf2e.feats-srd.Item.8qebBeOJsyRIchcu]{フォーリジャー}スキル特技を得る。食料を採集する際の綿密さにより、〔生存〕に関する《生存術》の判定に+1の状況ボーナスを得る。</p>"
     },
     "Sharpshooter Automaton": {
       "name": "シャープシューター・オートマトン/Sharpshooter Automaton",
-      "description": "<p>人型のしなやかな体は遠距離戦に適した速度と精度のために設計されている。君は@UUID[Compendium.pf2e.actionspf2e.Item.9sXQf1SyppS5B6O1]{オートマトン Aim}アクションを得る。</p>"
+      "description": "<p>人型のしなやかな体は遠距離戦に適した速度と精度のために設計されている。君は@UUID[Compendium.pf2e.actionspf2e.Item.9sXQf1SyppS5B6O1]{〈オートマトン・エイム〉}アクションを得る。</p>"
     },
     "Ardande": {
       "name": "アーダンデ/Ardande",
@@ -715,7 +715,7 @@
     },
     "Warmarch Hobgoblin": {
       "name": "行進ホブゴブリン/Warmarch Hobgoblin",
-      "description": "<p>君は絶えず行軍し、道中で食料を漁る旅商人の一族に連なる。野外で@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{Subsist}に失敗してもクリティカル失敗でなければ、粗末な食事で自分をなんとか養うことができる。探索中は止まらなければならなくなるまで@UUID[Compendium.pf2e.actionspf2e.Item.JuqmIAnkL9hVGai8]{Hustle}を通常の2倍行える。</p>"
+      "description": "<p>君は絶えず行軍し、道中で食料を漁る旅商人の一族に連なる。野外で@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{〈生存〉}に失敗してもクリティカル失敗でなければ、粗末な食事で自分をなんとか養うことができる。探索中は止まらなければならなくなるまで@UUID[Compendium.pf2e.actionspf2e.Item.JuqmIAnkL9hVGai8]{〈急いで進む〉}を通常の2倍行える。</p>"
     },
     "Deep Fetchling": {
       "name": "深層フェッチリング/Deep Fetchling",
@@ -723,7 +723,7 @@
     },
     "Pine Leshy": {
       "name": "松のレシー/Pine Leshy",
-      "description": "<p>あなたは樹皮のような肉体から粘り気のある厚い樹液を分泌しており、それによって登攀や道具を保持することが容易になっている。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{戦闘 Climber}特技を得る。また、あなたに対して@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}を試みる行為に対するあなたの反応 DCに+2の状況ボーナスを得る。</p>"
+      "description": "<p>あなたは樹皮のような肉体から粘り気のある厚い樹液を分泌しており、それによって登攀や道具を保持することが容易になっている。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー}特技を得る。また、あなたに対して@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}を試みる行為に対するあなたの反応 DCに+2の状況ボーナスを得る。</p>"
     },
     "Pixie": {
       "name": "ピクシー/Pixie",
@@ -739,7 +739,7 @@
     },
     "Wisp Fetchling": {
       "name": "ウィスプ・フェッチリング/Wisp Fetchling",
-      "description": "<p>あなたの先祖がシャドウ界にさらされたことは、大きな肉体的変化をもたらした。あなたの髪や肌は時折実体がないように見え、他のフェッチリングよりも華奢で俊敏である。あなたは中型ではなく小型である。あなたは《軽業》の習熟ランクとして訓練済み、スキル特技である@UUID[Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP]{Quick 〈無理矢理入り込む〉}、そして〈無理矢理入り込む〉を行うための《軽業》判定への+1の状況ボーナスを得る[[/act tumble-through]]。もし(背景やクラスなどから)自動的に《軽業》が訓練済みになるのであれば、代わりに君が選択したスキルが訓練済みになる。</p>"
+      "description": "<p>あなたの先祖がシャドウ界にさらされたことは、大きな肉体的変化をもたらした。あなたの髪や肌は時折実体がないように見え、他のフェッチリングよりも華奢で俊敏である。あなたは中型ではなく小型である。あなたは《軽業》の習熟ランクとして訓練済み、スキル特技である@UUID[Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP]{クイック・スクイーズ}、そして〈無理矢理入り込む〉を行うための《軽業》判定への+1の状況ボーナスを得る[[/act tumble-through]]。もし(背景やクラスなどから)自動的に《軽業》が訓練済みになるのであれば、代わりに君が選択したスキルが訓練済みになる。</p>"
     },
     "Frozen Wind Kitsune": {
       "name": "フローズンウィンド・キツネ/Frozen Wind Kitsune",
@@ -755,7 +755,7 @@
     },
     "Frightful Goloma": {
       "name": "フライトフル・ゴロマ/Frightful Goloma",
-      "description": "<p>あなたの顔は特に人を不快にさせる外見をしている。あなたは《威圧》において訓練済みとなり(もし既に《威圧》において訓練済みであれば、代わりに君が選択した他のスキルにおいて訓練済みとなる)、ボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce]{Intimidating Glare}スキル特技を得る。</p>"
+      "description": "<p>あなたの顔は特に人を不快にさせる外見をしている。あなたは《威圧》において訓練済みとなり(もし既に《威圧》において訓練済みであれば、代わりに君が選択した他のスキルにおいて訓練済みとなる)、ボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce]{インティミデイティング・グレア}スキル特技を得る。</p>"
     },
     "Wintertouched Human": {
       "name": "冬に触れられた人間/Wintertouched Human",
@@ -767,11 +767,11 @@
     },
     "Anvil Dwarf": {
       "name": "アンヴィル ドワーフ/Anvil Dwarf",
-      "description": "<p>あなたは名高い職人の子孫であり、あなた自身も素晴らしい才能を持っている。あなたが育った場所によっては、他のドワーフはこれを先祖からの、あるいは鍛冶の父神自身からの祝福と見なすかもしれない。あなたは《製作》において訓練済みとなり(もし既に《製作》において訓練済みであれば、代わりに君が選択した他のスキルにおいて訓練済みとなる)、ボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]{Specialty 《製作》}スキル特技を得る。ただし、あなたは1つではなく2つの異なる専門分野を選択できる。</p>"
+      "description": "<p>あなたは名高い職人の子孫であり、あなた自身も素晴らしい才能を持っている。あなたが育った場所によっては、他のドワーフはこれを先祖からの、あるいは鍛冶の父神自身からの祝福と見なすかもしれない。あなたは《製作》において訓練済みとなり(もし既に《製作》において訓練済みであれば、代わりに君が選択した他のスキルにおいて訓練済みとなる)、ボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]{スペシャルティ・《製作》}スキル特技を得る。ただし、あなたは1つではなく2つの異なる専門分野を選択できる。</p>"
     },
     "Venomous Anadi": {
       "name": "毒性アナディ/Venomous Anadi",
-      "description": "<p>自然形態の牙は敵に毒を注入できる。@UUID[Compendium.pf2e.actionspf2e.Item.8aIe57gXJ94mPpW4]{アナディ Venom}能力を得る。</p>"
+      "description": "<p>自然形態の牙は敵に毒を注入できる。@UUID[Compendium.pf2e.actionspf2e.Item.8aIe57gXJ94mPpW4]{〈アナディ・ヴェノム〉}能力を得る。</p>"
     },
     "Witch Kholo": {
       "name": "ウィッチ コロ語/Witch Kholo",
@@ -803,23 +803,23 @@
     },
     "Luminous Sprite": {
       "name": "発光スプライト/Luminous Sprite",
-      "description": "<p>君は魔法の光を放つ。自然に @UUID[Compendium.pf2e.equipment-srd.Item.8Jdw4yAzWYylGePS]{Torch} として光を放ち、この光は evocation、light、primal のトレイトを持つ。この光は単一アクション（concentrate トレイト）で消灯、再点灯、または色の変更ができる.</p>"
+      "description": "<p>君は魔法の光を放つ。自然に @UUID[Compendium.pf2e.equipment-srd.Item.8Jdw4yAzWYylGePS]{松明} として光を放ち、この光は evocation、light、primal のトレイトを持つ。この光は単一アクション（concentrate トレイト）で消灯、再点灯、または色の変更ができる.</p>"
     },
     "Keeper Jotunborn": {
       "name": "守護ジョトゥンボーン/Keeper Jotunborn",
-      "description": "<p>アイヴラーの番人としてのあなたの仕事は、これらの神聖なクリーチャーに対するより深い理解と、どれほどとらえどころがなくともそれらを追跡する能力をあなたにもたらした。あなたは《生存術》を訓練済みしており、@UUID[Compendium.pf2e.feats-srd.Item.tGIXuk0XeWmG04CX]{Survey Wildlife}スキル特技を得る。あなたは動物を@UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{〈追跡〉}する判定に+1の状況ボーナスを得る。</p>"
+      "description": "<p>アイヴラーの番人としてのあなたの仕事は、これらの神聖なクリーチャーに対するより深い理解と、どれほどとらえどころがなくともそれらを追跡する能力をあなたにもたらした。あなたは《生存術》を訓練済みしており、@UUID[Compendium.pf2e.feats-srd.Item.tGIXuk0XeWmG04CX]{サーベイ・ワイルドライフ}スキル特技を得る。あなたは動物を@UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{〈追跡〉}する判定に+1の状況ボーナスを得る。</p>"
     },
     "Venomtail Kobold": {
       "name": "毒尾のコボルド/Venomtail Kobold",
-      "description": "<p>巣の近くに毒を持つ生物がいたため、尾に致死性の毒を分泌する退化した刺を持って生まれた。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.ev8OHpBO3xq3Zt08]{Tail Toxin} アクションを得る.</p>"
+      "description": "<p>巣の近くに毒を持つ生物がいたため、尾に致死性の毒を分泌する退化した刺を持って生まれた。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.ev8OHpBO3xq3Zt08]{〈テイル・トキシン〉} アクションを得る.</p>"
     },
     "Empty Sky Kitsune": {
       "name": "空虚のキツネ/Empty Sky Kitsune",
-      "description": "<p>あなたの霊は彼方の秘密に開かれており、キツネの魔法への接続が深まっている。あなたは @UUID[Compendium.pf2e.feats-srd.Item.Zz7isE8Td2xDWqR8]{Kitsune 呪文 Familiarity} アンセストラル特技を得る。あなたの別形態は育った場所で一般的な 中型 の人型系統（通常は人間）で、尻尾のない形態（tailless form）と呼ばれる.</p>"
+      "description": "<p>あなたの霊は彼方の秘密に開かれており、キツネの魔法への接続が深まっている。あなたは @UUID[Compendium.pf2e.feats-srd.Item.Zz7isE8Td2xDWqR8]{キツネ・スペル・ファミリアリティ} アンセストラル特技を得る。あなたの別形態は育った場所で一般的な 中型 の人型系統（通常は人間）で、尻尾のない形態（tailless form）と呼ばれる.</p>"
     },
     "Elemental Heart Dwarf": {
       "name": "エレメンタル 心 ドワーフ/Elemental Heart Dwarf",
-      "description": "<p>@UUID[Compendium.pf2e.deities.Item.sZrdzh0ANQnZGXJb]{トラグ's} の鍛冶場との結びつき、Plane of 火炎 の azers、あるいは他の源を通じて、あなたはエネルギーの爆発を放出できる。ムワンギ語 拡張域の Mbe'ke と Taralu のドワーフはこの血統をドラゴンや元素精霊からの贈り物と考える。次のダメージ種類から1つ選ぶ：酸、冷気、電撃、または火。選択後は変更できない。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.7qjfYsLNTr17Aftf]{Energy Emanation} 活動を得る.</p>"
+      "description": "<p>@UUID[Compendium.pf2e.deities.Item.sZrdzh0ANQnZGXJb]{トラグ's} の鍛冶場との結びつき、Plane of 火炎 の azers、あるいは他の源を通じて、あなたはエネルギーの爆発を放出できる。ムワンギ語 拡張域の Mbe'ke と Taralu のドワーフはこの血統をドラゴンや元素精霊からの贈り物と考える。次のダメージ種類から1つ選ぶ：酸、冷気、電撃、または火。選択後は変更できない。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.7qjfYsLNTr17Aftf]{〈エナジー・エマネーション〉} 活動を得る.</p>"
     },
     "Thickcoat Shoony": {
       "name": "厚毛シューニー/Thickcoat Shoony",
@@ -827,11 +827,11 @@
     },
     "Hillock Halfling": {
       "name": "丘の ハーフリング語/Hillock Halfling",
-      "description": "<p>丘での穏やかな生活に慣れているため、君の民は休息や娯楽で特に回復を得やすい。夜間に ヒット・ポイントを回復するとき、回復する ヒット・ポイントにレベルを加える。誰かが メディスン スキルを使って @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat your Wounds} するとき、スナックを食べることでその治療から回復する ヒット・ポイントにレベルを加えられる.</p>"
+      "description": "<p>丘での穏やかな生活に慣れているため、君の民は休息や娯楽で特に回復を得やすい。夜間に ヒット・ポイントを回復するとき、回復する ヒット・ポイントにレベルを加える。誰かが メディスン スキルを使って @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{〈傷の手当て〉} するとき、スナックを食べることでその治療から回復する ヒット・ポイントにレベルを加えられる.</p>"
     },
     "Impersonator Android": {
       "name": "なりすましアンドロイド/Impersonator Android",
-      "description": "<p>人間に紛れやすくなるように体が加工され、外見も調整されている.</p>\n<p>《欺瞞》において訓練済みになる（すでに《欺瞞》に訓練済みの場合は別のスキル）。人間を@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Impersonate}するための《欺瞞》判定を行う際、変装キットを必要としない.</p>\n<p>さらに、自分がアンドロイドではなく人間版の自分であると装うための〔なりすます〕判定に+4の状況ボーナスを得る。このボーナスは他の人間を〔なりすます〕判定には適用されない.</p>",
+      "description": "<p>人間に紛れやすくなるように体が加工され、外見も調整されている.</p>\n<p>《欺瞞》において訓練済みになる（すでに《欺瞞》に訓練済みの場合は別のスキル）。人間を@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}するための《欺瞞》判定を行う際、変装キットを必要としない.</p>\n<p>さらに、自分がアンドロイドではなく人間版の自分であると装うための〔なりすます〕判定に+4の状況ボーナスを得る。このボーナスは他の人間を〔なりすます〕判定には適用されない.</p>",
       "rules": [
         {
           "label": "なりすましアンドロイド（自分の人間版になりすますための）"
@@ -844,7 +844,7 @@
     },
     "Paddler Shoony": {
       "name": "漕ぎ手シューニー/Paddler Shoony",
-      "description": "<p>葦やガマの生い茂る沼地や湿地で長く暮らしてきたシューニーの出身で、水辺の過酷さに適応している。沼による困難地形およびより大きな困難地形を無視する。あなたが @UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Swim} に対して成功を出したとき、それは代わりにクリティカル成功になる.</p>",
+      "description": "<p>葦やガマの生い茂る沼地や湿地で長く暮らしてきたシューニーの出身で、水辺の過酷さに適応している。沼による困難地形およびより大きな困難地形を無視する。あなたが @UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{〈水泳〉} に対して成功を出したとき、それは代わりにクリティカル成功になる.</p>",
       "rules": [
         {
           "text": "あなたが〔水泳〕で成功を出したとき、それは代わりにクリティカル成功になる。"
@@ -853,15 +853,15 @@
     },
     "Sanctuary Samsaran": {
       "name": "聖域の サムサラン語/Sanctuary Samsaran",
-      "description": "<p>あなたの過去の転生は Zi Ha 北部の聖域で再誕し、長時間集中して物事に専念していた記憶がある。朧げなフラッシュバックは、過去の生が熱心に読んだ書物にある有用な経文も明らかにする。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.jsEBrm8SPcsokJLw]{Tap the Past} アクションを得る.</p>"
+      "description": "<p>あなたの過去の転生は Zi Ha 北部の聖域で再誕し、長時間集中して物事に専念していた記憶がある。朧げなフラッシュバックは、過去の生が熱心に読んだ書物にある有用な経文も明らかにする。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.jsEBrm8SPcsokJLw]{〈タップ・ザ・パスト〉} アクションを得る.</p>"
     },
     "Slabsoul Minotaur": {
       "name": "スラブソウル・ミノタウル/Slabsoul Minotaur",
-      "description": "<p>石や壁との深い結びつきにより、敵に崩れ落ちる巨大な花崗岩の板を具現させられる。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.0VwLAKI7QP6mib88]{Raise Slabs} 活動を得る.</p>"
+      "description": "<p>石や壁との深い結びつきにより、敵に崩れ落ちる巨大な花崗岩の板を具現させられる。あなたは @UUID[Compendium.pf2e.actionspf2e.Item.0VwLAKI7QP6mib88]{〈レイズ・スラブズ〉} 活動を得る.</p>"
     },
     "Laborer Android": {
       "name": "労働者アンドロイド/Laborer Android",
-      "description": "<p>身体は長時間の肉体労働や過酷な労働に耐えるよう適応されている。あなたは 《運動》において 訓練済みになる（すでに 《運動》に 訓練済み の場合は別のスキルに適用）し、@UUID[Compendium.pf2e.feats-srd.Item.C0Tcelg3BAPhML6J]{Hefty Hauler} スキル特技を得る.</p>"
+      "description": "<p>身体は長時間の肉体労働や過酷な労働に耐えるよう適応されている。あなたは 《運動》において 訓練済みになる（すでに 《運動》に 訓練済み の場合は別のスキルに適用）し、@UUID[Compendium.pf2e.feats-srd.Item.C0Tcelg3BAPhML6J]{ヘフティ・ホーラー} スキル特技を得る.</p>"
     },
     "Murkeyed Azarketi": {
       "name": "濁眼のアザルケティ/Murkeyed Azarketi",
@@ -869,7 +869,7 @@
     },
     "Hold-Scarred Orc": {
       "name": "ホールド痕の オーク/Hold-Scarred Orc",
-      "description": "<p>あなたは儀式的な切り傷や入れ墨を行うオークの共同体の一員だ。肌の刻印はあなたの並外れた頑強さと活力を示す。先祖から 12 の ヒット・ポイントを得る（これは 10 の代わりである）。さらに @UUID[Compendium.pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]{Diehard} 特技を得る.</p>"
+      "description": "<p>あなたは儀式的な切り傷や入れ墨を行うオークの共同体の一員だ。肌の刻印はあなたの並外れた頑強さと活力を示す。先祖から 12 の ヒット・ポイントを得る（これは 10 の代わりである）。さらに @UUID[Compendium.pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]{ダイハード} 特技を得る.</p>"
     },
     "Predator Strix": {
       "name": "捕食者ストリックス/Predator Strix",
@@ -877,7 +877,7 @@
     },
     "Compact Skeleton": {
       "name": "小型骸骨/Compact Skeleton",
-      "description": "<p>軽めの作業には、ノーム、ゴブリン、ハーフリングの遺骸が大型の生物より適している。これらの小さく機敏な骸骨は旅行用の箱に収まりやすく、狭い隙間を通わせたり発見を避けたりしやすい。あなたのサイズは小型で、中型ではない。あなたは@UUID[Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP]{Quick Squeeze}特技を得る（たとえ《軽業》において訓練済みでなくても）。〔無理矢理入り込む〕活動を必要としない狭い場所は、あなたにとって困難地形ではない。</p>"
+      "description": "<p>軽めの作業には、ノーム、ゴブリン、ハーフリングの遺骸が大型の生物より適している。これらの小さく機敏な骸骨は旅行用の箱に収まりやすく、狭い隙間を通わせたり発見を避けたりしやすい。あなたのサイズは小型で、中型ではない。あなたは@UUID[Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP]{クイック・スクイーズ}特技を得る（たとえ《軽業》において訓練済みでなくても）。〔無理矢理入り込む〕活動を必要としない狭い場所は、あなたにとって困難地形ではない。</p>"
     },
     "Technological Fleshwarp": {
       "name": "技術的肉体変容/Technological Fleshwarp",
@@ -917,7 +917,7 @@
     },
     "Woodland Elf": {
       "name": "森林のエルフ/Woodland Elf",
-      "description": "<p>あなたは森や深い密林、または同様の環境での生活に適応しており、木に登り、木の葉を有利に利用する方法を知っている。木、つる、その他の木の葉を@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{Climbing}する際、あなたは成功時には移動速度の半分で移動し、大成功時には全移動速度で移動する(また、@UUID[Compendium.pf2e.feats-srd.Item.P04Hw8E6WAWARKHP]{Quick 〈登攀〉}を持っている場合、成功時には全移動速度で移動する)。登攀移動速度を使用している場合、この影響は受けない。</p>\n<p>あなたは森の地形内にいるときはいつでも、@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}アクションを使用して遮蔽を得ることができる。たとえ〈遮蔽をとる〉ことができる障害物の隣にいなくてもよい。</p>",
+      "description": "<p>あなたは森や深い密林、または同様の環境での生活に適応しており、木に登り、木の葉を有利に利用する方法を知っている。木、つる、その他の木の葉を@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{〈登攀〉ing}する際、あなたは成功時には移動速度の半分で移動し、大成功時には全移動速度で移動する(また、@UUID[Compendium.pf2e.feats-srd.Item.P04Hw8E6WAWARKHP]{クイック・クライム}を持っている場合、成功時には全移動速度で移動する)。登攀移動速度を使用している場合、この影響は受けない。</p>\n<p>あなたは森の地形内にいるときはいつでも、@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}アクションを使用して遮蔽を得ることができる。たとえ〈遮蔽をとる〉ことができる障害物の隣にいなくてもよい。</p>",
       "rules": [
         {
           "text": "木、蔓、その他の枝葉を登るとき、成功なら移動速度の半分、クリティカル成功なら移動速度の全速で移動する。"
@@ -926,7 +926,7 @@
     },
     "Dark Fields Kitsune": {
       "name": "ダークフィールズ・キツネ/Dark Fields Kitsune",
-      "description": "<p>不安を与える存在感を行使して他者をさりげなく〔怯ませる〕ことができる。このとき〔怯ませる〕は聴覚トレイトを失い視覚トレイトを得る。言語を理解しない生物を〔怯ませる〕際のペナルティも受けない。さらに@UUID[Compendium.pf2e.actionspf2e.Item.Ul4I0ER6pj3U5eAk]{Invigorating フィアー}のリアクションを得る。あなたの別形態はキツネで、1stランクの@UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{ペスト・フォーム}の統計を持つ。</p>"
+      "description": "<p>不安を与える存在感を行使して他者をさりげなく〔怯ませる〕ことができる。このとき〔怯ませる〕は聴覚トレイトを失い視覚トレイトを得る。言語を理解しない生物を〔怯ませる〕際のペナルティも受けない。さらに@UUID[Compendium.pf2e.actionspf2e.Item.Ul4I0ER6pj3U5eAk]{〈インヴィゴレイティング・フィアー〉}のリアクションを得る。あなたの別形態はキツネで、1stランクの@UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{ペスト・フォーム}の統計を持つ。</p>"
     },
     "Sharp-Eared Catfolk": {
       "name": "鋭耳のキャットフォーク/Sharp-Eared Catfolk",
@@ -934,7 +934,7 @@
     },
     "Battle-Ready Orc": {
       "name": "戦闘〔構える〕オーク/Battle-Ready Orc",
-      "description": "<p>恐るべき戦場の指揮官の家系に連なる。あなたは訓練済みで《威圧》となり、@UUID[Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce]{Intimidating Glare}のスキル特技を得る。</p>"
+      "description": "<p>恐るべき戦場の指揮官の家系に連なる。あなたは訓練済みで《威圧》となり、@UUID[Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce]{インティミデイティング・グレア}のスキル特技を得る。</p>"
     },
     "Venom-Resistant Vishkanya": {
       "name": "毒耐性のヴィシュカーニャ/Venom-Resistant Vishkanya",
@@ -950,11 +950,11 @@
     },
     "Pelagic Merfolk": {
       "name": "外洋のマーフォーク/Pelagic Merfolk",
-      "description": "<p>あなたは外洋のマーフォークだ。尾は狩場で群れを成す銀色のマグロやニシンの模様をしている。水はあなたの意志に従い、合図ひとつでその鞘を体の周りに繰り出せる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.yOk8s1pftOe5I9Sg]{Shielding Wave}アクションを得る.</p>"
+      "description": "<p>あなたは外洋のマーフォークだ。尾は狩場で群れを成す銀色のマグロやニシンの模様をしている。水はあなたの意志に従い、合図ひとつでその鞘を体の周りに繰り出せる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.yOk8s1pftOe5I9Sg]{〈シールディング・ウェイヴ〉}アクションを得る.</p>"
     },
     "Cliffscale Lizardfolk": {
       "name": "崖鱗のリザードフォーク/Cliffscale Lizardfolk",
-      "description": "<p>足指がつかむことと登攀に適応している。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{戦闘 Climber}特技を得る。また、履物を着けていない限り、足の粘着パッドで手を使わずに登攀できる。さらに、登攀の《運動》判定で成功を出した場合は代わりにクリティカル成功になる.</p>"
+      "description": "<p>足指がつかむことと登攀に適応している。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー}特技を得る。また、履物を着けていない限り、足の粘着パッドで手を使わずに登攀できる。さらに、登攀の《運動》判定で成功を出した場合は代わりにクリティカル成功になる.</p>"
     },
     "Discarded Fleshwarp": {
       "name": "廃棄された肉改造体/Discarded Fleshwarp",
@@ -966,11 +966,11 @@
     },
     "Sturdy Skeleton": {
       "name": "頑丈な骸骨/Sturdy Skeleton",
-      "description": "<p>普通の骸骨では耐えられない危険な環境もあるため、ネクロマンサーはドワーフやオークなど頑強さで定評のある生き物の骨を蘇らせることがある。君は10 ヒット・ポイントを6の代わりに持ち、@UUID[Compendium.pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]{Diehard}のフィートを得る.</p>"
+      "description": "<p>普通の骸骨では耐えられない危険な環境もあるため、ネクロマンサーはドワーフやオークなど頑強さで定評のある生き物の骨を蘇らせることがある。君は10 ヒット・ポイントを6の代わりに持ち、@UUID[Compendium.pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]{ダイハード}のフィートを得る.</p>"
     },
     "Old-Blood Vishkanya": {
       "name": "旧血のヴィシュカニャ/Old-Blood Vishkanya",
-      "description": "<p>あなたはジャルメラィを奪還するために来たヴードラニの船に乗っていたヴィシュカンヤの最初の集団の直系(母系)である。それ以来、あなたの家族は内海での新しい生活によく適応してきた。あなたは《社会》を訓練済み(すでに《社会》を訓練済みしている場合は、あなたが選択した別のスキル)になり、@UUID[Compendium.pf2e.feats-srd.Item.JtjnFsOToBLnSRO9]{Courtly Graces}か@UUID[Compendium.pf2e.feats-srd.Item.X2jGFfLU5qI5XVot]{Streetwise}のどちらかの特技を選択して得る。</p>"
+      "description": "<p>あなたはジャルメラィを奪還するために来たヴードラニの船に乗っていたヴィシュカンヤの最初の集団の直系(母系)である。それ以来、あなたの家族は内海での新しい生活によく適応してきた。あなたは《社会》を訓練済み(すでに《社会》を訓練済みしている場合は、あなたが選択した別のスキル)になり、@UUID[Compendium.pf2e.feats-srd.Item.JtjnFsOToBLnSRO9]{コートリー・グレイシズ}か@UUID[Compendium.pf2e.feats-srd.Item.X2jGFfLU5qI5XVot]{ストリートワイズ}のどちらかの特技を選択して得る。</p>"
     },
     "Nascent": {
       "name": "未熟/Nascent",
@@ -978,7 +978,7 @@
     },
     "Cataphract Fleshwarp": {
       "name": "カタフラクト肉改造体/Cataphract Fleshwarp",
-      "description": "<p>あなたの戦いで鍛えられたスケルトンは、広大な作戦地域で鎧を支えるために追加の軟骨と筋肉で補強されており、皮膚には鎧のグリップと重量配分を最適化するために、しなやかで弾力のあるケラチン質の小さな棘がちりばめられている。あなたは@UUID[Compendium.pf2e.feats-srd.Item.BStw1cANwx5baL6d]{鎧 習熟度}特技を得る。</p>\n<p>もしあなたのクラスがすべての種類の鎧を訓練済みにするものであるなら、代わりにあなたは《運動》を訓練済み(すでに《運動》を訓練済みしている場合は、あなたが選択した別のスキル)になり、@UUID[Compendium.pf2e.feats-srd.Item.Lc4dJZivRwU3QEmT]{鎧 Assist}スキル特技を得る。</p>"
+      "description": "<p>あなたの戦いで鍛えられたスケルトンは、広大な作戦地域で鎧を支えるために追加の軟骨と筋肉で補強されており、皮膚には鎧のグリップと重量配分を最適化するために、しなやかで弾力のあるケラチン質の小さな棘がちりばめられている。あなたは@UUID[Compendium.pf2e.feats-srd.Item.BStw1cANwx5baL6d]{鎧 習熟度}特技を得る。</p>\n<p>もしあなたのクラスがすべての種類の鎧を訓練済みにするものであるなら、代わりにあなたは《運動》を訓練済み(すでに《運動》を訓練済みしている場合は、あなたが選択した別のスキル)になり、@UUID[Compendium.pf2e.feats-srd.Item.Lc4dJZivRwU3QEmT]{アーマー・アシスト}スキル特技を得る。</p>"
     },
     "Mountainkeeper Tengu": {
       "name": "山守のテング語/Mountainkeeper Tengu",
@@ -994,7 +994,7 @@
     },
     "Rite of Reinforcement": {
       "name": "補強の儀式/Rite of Reinforcement",
-      "description": "<p>あなたの編まれた外骨格は見つかる中でも最も硬い鎧に匹敵する。あなたの外骨格は plate armor 種に分類される中装鎧で、ACに対して+4のアイテム・ボーナスを与え、敏捷性上限は+1、判定の罰則は-2、速度の罰則は-5フィート、筋力値は+3で、comfortトレイトを持つ。あなたは他の鎧を着用ことも外骨格を取り外すこともできない。外骨格に鎧ルーンを通常通り彫刻ことができる.</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.0KHgAaDi3tmu32Hq]{Rite of Reinforcement Exoskeleton}</p>"
+      "description": "<p>あなたの編まれた外骨格は見つかる中でも最も硬い鎧に匹敵する。あなたの外骨格は plate armor 種に分類される中装鎧で、ACに対して+4のアイテム・ボーナスを与え、敏捷性上限は+1、判定の罰則は-2、速度の罰則は-5フィート、筋力値は+3で、comfortトレイトを持つ。あなたは他の鎧を着用ことも外骨格を取り外すこともできない。外骨格に鎧ルーンを通常通り彫刻ことができる.</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.0KHgAaDi3tmu32Hq]{ライト・オブ・リインフォースメント・エクソスケルトン}</p>"
     },
     "Reef Merfolk": {
       "name": "礁のマーフォーク/Reef Merfolk",
@@ -1002,23 +1002,23 @@
     },
     "Respite of a Thousand Roofs": {
       "name": "千の屋根の休息/Respite of a Thousand Roofs",
-      "description": "<p>貧しい者を庇い食物を与える誓いを立てた。誓いにより大工道具、料理鍋、裁縫道具のスキルに長けるようになる；あなたは《製作》で訓練済みになり、料理で《専門知識》になり、@UUID[Compendium.pf2e.feats-srd.Item.3HChkcD1IRqv4DbA]{Improvise Tool}のスキル特技を得る.</p><hr /><p><strong>追加の信条</strong>あなたができる範囲で住居や衣服を修理したり食事を与えたりして貧しい者を助ける</p>"
+      "description": "<p>貧しい者を庇い食物を与える誓いを立てた。誓いにより大工道具、料理鍋、裁縫道具のスキルに長けるようになる；あなたは《製作》で訓練済みになり、料理で《専門知識》になり、@UUID[Compendium.pf2e.feats-srd.Item.3HChkcD1IRqv4DbA]{インプロヴァイズ・ツール}のスキル特技を得る.</p><hr /><p><strong>追加の信条</strong>あなたができる範囲で住居や衣服を修理したり食事を与えたりして貧しい者を助ける</p>"
     },
     "Thalassic Azarketi": {
       "name": "サラシック語アザルケティ/Thalassic Azarketi",
-      "description": "<p>君の祖先は世界の大洋や海で暮らしたアザルケティスの血を引く。君は潮流や水の原初魔力を利用して攻撃を導く術を知っている。君は@UUID[Compendium.pf2e.feats-srd.Item.iOY6YfGBaOvMNAor]{Underwater Marauder}のスキル特技を得て、水中の目標と戦うときに刺突の射撃攻撃の射程増分が半分にならなくなる。</p>"
+      "description": "<p>君の祖先は世界の大洋や海で暮らしたアザルケティスの血を引く。君は潮流や水の原初魔力を利用して攻撃を導く術を知っている。君は@UUID[Compendium.pf2e.feats-srd.Item.iOY6YfGBaOvMNAor]{アンダーウォーター・マローダー}のスキル特技を得て、水中の目標と戦うときに刺突の射撃攻撃の射程増分が半分にならなくなる。</p>"
     },
     "Deny Lady Nanbyo's Charity": {
       "name": "ナンビョー婦人の慈善を拒む/Deny Lady Nanbyo's Charity",
-      "description": "<p>あなたは天災から人々を解放することを誓った。誓いにより、荷重で負担を受けるまで通常より運搬 1多くのバルクを扱え、最大で2多くのバルクまで扱えるようになり、さらに1の状況ボーナスを《運動》判定で@UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{Force Open}や@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}に対して得る。</p><hr /><p><strong>追加の信条</strong>自然災害で閉じ込められたり影響を受けたりした者を援助または救出するために全力を尽くす</p>"
+      "description": "<p>あなたは天災から人々を解放することを誓った。誓いにより、荷重で負担を受けるまで通常より運搬 1多くのバルクを扱え、最大で2多くのバルクまで扱えるようになり、さらに1の状況ボーナスを《運動》判定で@UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{〈こじ開ける〉}や@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}に対して得る。</p><hr /><p><strong>追加の信条</strong>自然災害で閉じ込められたり影響を受けたりした者を援助または救出するために全力を尽くす</p>"
     },
     "Ambitious Human": {
       "name": "野心的な人間",
-      "description": "<p>あなたは野心的で、仲間よりも多くのことを成し遂げており、常に前進している。あなたは2つのクラス能力を通常よりも早く得る。これらの能力を早く得るため、後のレベルでそれらを再び選択することはできない。1つ目の能力は@UUID[Compendium.pf2e.feats-srd.Item.Ux73dmoF8KnavyUD]{Fleet}汎用特技である。2つ目の能力はあなたのクラスに依存する。</p><ul><li><strong>バーバリアン:</strong> @UUID[Compendium.pf2e.feats-srd.Item.XseJI9XhKNtZN8pv]{Raging 《威圧》}</li><li><strong>バード:</strong> @UUID[Compendium.pf2e.feats-srd.Item.iX5HEqRImhKzfPR2]{Well-Versed}</li><li><strong>モンク:</strong> @UUID[Compendium.pf2e.feats-srd.Item.AmP0qu7c5dlBSath]{Toughness}</li><li><strong>ソーサラー:</strong> @UUID[Compendium.pf2e.feats-srd.Item.A7ofsoPva0UtjqrX]{キャントリップ Expansion}</li></ul><p><em>注：このヘリテージは『ビギナー・ボックス』のものであり、標準的ではないヘリテージの特徴を備えている。</em></p>"
+      "description": "<p>あなたは野心的で、仲間よりも多くのことを成し遂げており、常に前進している。あなたは2つのクラス能力を通常よりも早く得る。これらの能力を早く得るため、後のレベルでそれらを再び選択することはできない。1つ目の能力は@UUID[Compendium.pf2e.feats-srd.Item.Ux73dmoF8KnavyUD]{フリート}汎用特技である。2つ目の能力はあなたのクラスに依存する。</p><ul><li><strong>バーバリアン:</strong> @UUID[Compendium.pf2e.feats-srd.Item.XseJI9XhKNtZN8pv]{レイジング・《威圧》}</li><li><strong>バード:</strong> @UUID[Compendium.pf2e.feats-srd.Item.iX5HEqRImhKzfPR2]{ウェルバースト}</li><li><strong>モンク:</strong> @UUID[Compendium.pf2e.feats-srd.Item.AmP0qu7c5dlBSath]{タフネス}</li><li><strong>ソーサラー:</strong> @UUID[Compendium.pf2e.feats-srd.Item.A7ofsoPva0UtjqrX]{キャントリップ・エクスパンション}</li></ul><p><em>注：このヘリテージは『ビギナー・ボックス』のものであり、標準的ではないヘリテージの特徴を備えている。</em></p>"
     },
     "Hardshell Surki": {
       "name": "硬甲スルキ/Hardshell Surki",
-      "description": "<p>あなたの外骨格は他のスルキよりもはるかに密で、自前の鎧として機能する。あなたの外骨格はplate armor の種扱いの中装で、ACに+4のアイテム・ボーナスを与え、敏捷の上限が+1、判定ペナルティが–2、移動速度のペナルティが–5フィート、筋力値が+3で、comfortトレイトを持つ。あなたは他の鎧を着用したり外骨格を取り外したりできない。外骨格には彫刻で防具ルーンを刻むことができる。</p>\n<ul>\n<li><strong>進化</strong> あなたのノード間を流れる魔力循環系は強化ネットワークとなり、外骨格を魔力で強化する。物理ダメージを与えるクリティカルヒットを受けた場合、反応を使って@Check[flat|dc:17|showDC:all]を試みることができる。成功すれば、その攻撃は通常のヒットになる。</li>\n<li><strong>進化</strong> 腹部のノードは周囲にあなたが最も親しい魔法の種類に対する防護フィールドを展開できる。@UUID[Compendium.pf2e.actionspf2e.Item.cczvLO5r7QuHaXwx]{Dampening Harmonics}アクションを得る。</li>\n</ul>"
+      "description": "<p>あなたの外骨格は他のスルキよりもはるかに密で、自前の鎧として機能する。あなたの外骨格はplate armor の種扱いの中装で、ACに+4のアイテム・ボーナスを与え、敏捷の上限が+1、判定ペナルティが–2、移動速度のペナルティが–5フィート、筋力値が+3で、comfortトレイトを持つ。あなたは他の鎧を着用したり外骨格を取り外したりできない。外骨格には彫刻で防具ルーンを刻むことができる。</p>\n<ul>\n<li><strong>進化</strong> あなたのノード間を流れる魔力循環系は強化ネットワークとなり、外骨格を魔力で強化する。物理ダメージを与えるクリティカルヒットを受けた場合、反応を使って@Check[flat|dc:17|showDC:all]を試みることができる。成功すれば、その攻撃は通常のヒットになる。</li>\n<li><strong>進化</strong> 腹部のノードは周囲にあなたが最も親しい魔法の種類に対する防護フィールドを展開できる。@UUID[Compendium.pf2e.actionspf2e.Item.cczvLO5r7QuHaXwx]{〈ダンプニング・ハーモニクス〉}アクションを得る。</li>\n</ul>"
     },
     "Taloned Tengu": {
       "name": "鉤爪のテング語/Taloned Tengu",
@@ -1050,7 +1050,7 @@
     },
     "Shortshanks Hobgoblin": {
       "name": "短足ホブゴブリン/Shortshanks Hobgoblin",
-      "description": "<p>君はほとんどのホブゴブリンより胴が長く肩幅が広く、そのため脚が短く見える。これにより強い筋肉質の体幹と低い重心を持ち、乗馬や登攀に有利だ――そして非常に幼い頃から鞍での乗馬に訓練済みしている。@UUID[Compendium.pf2e.feats-srd.Item.Rq5wkA8DtsmbzoGV]{Ride}のフィートを得る。さらに、〔登攀〕している間は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}にならない。</p>"
+      "description": "<p>君はほとんどのホブゴブリンより胴が長く肩幅が広く、そのため脚が短く見える。これにより強い筋肉質の体幹と低い重心を持ち、乗馬や登攀に有利だ――そして非常に幼い頃から鞍での乗馬に訓練済みしている。@UUID[Compendium.pf2e.feats-srd.Item.Rq5wkA8DtsmbzoGV]{ライド}のフィートを得る。さらに、〔登攀〕している間は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}にならない。</p>"
     },
     "Warrior Android": {
       "name": "戦士アンドロイド/Warrior Android",
@@ -1062,7 +1062,7 @@
     },
     "Shoreline Strix": {
       "name": "海辺のストリクス/Shoreline Strix",
-      "description": "<p>君は海岸へ移ったストリクスの子孫だ。羽は特に撥水性が高く潜水に適した流線形で、浅瀬で魚などの獲物をとらえられる。君は訓練済みで《運動》を扱い、@UUID[Compendium.pf2e.feats-srd.Item.iOY6YfGBaOvMNAor]{Underwater Marauder}のスキル特技をボーナススキル特技として得る。</p>"
+      "description": "<p>君は海岸へ移ったストリクスの子孫だ。羽は特に撥水性が高く潜水に適した流線形で、浅瀬で魚などの獲物をとらえられる。君は訓練済みで《運動》を扱い、@UUID[Compendium.pf2e.feats-srd.Item.iOY6YfGBaOvMNAor]{アンダーウォーター・マローダー}のスキル特技をボーナススキル特技として得る。</p>"
     },
     "Pearl Dragonet": {
       "name": "真珠のドラゴネット/Pearl Dragonet",
@@ -1086,7 +1086,7 @@
     },
     "Palace Echoes Kitsune": {
       "name": "宮廷の余響キツネ/Palace Echoes Kitsune",
-      "description": "<p>あなたは、日没までに宮殿に入り込み、玉座の背後の権力者となることができるほど説得力のある力を持っていたキツネの子孫である。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.rlGVQku78DGoOl9V]{Nudging Whisper}アクションを得る。</p>\n<p>あなたの代替形態は、あなたが育った場所で一般的な、尾のない形態と呼ばれる一般的な中型の人型生物の祖先(通常は人間)である。</p>"
+      "description": "<p>あなたは、日没までに宮殿に入り込み、玉座の背後の権力者となることができるほど説得力のある力を持っていたキツネの子孫である。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.rlGVQku78DGoOl9V]{〈ナッジング・ウィスパー〉}アクションを得る。</p>\n<p>あなたの代替形態は、あなたが育った場所で一般的な、尾のない形態と呼ばれる一般的な中型の人型生物の祖先(通常は人間)である。</p>"
     },
     "Benthic Athamaru": {
       "name": "深海棲アサマル",
@@ -1126,7 +1126,7 @@
     },
     "Woodstalker Lizardfolk": {
       "name": "ウッドストーカー・リザードフォーク/Woodstalker Lizardfolk",
-      "description": "<p>濃い森林やジャングルを枝や低木を巧みに使って容易に移動する。森林またはジャングル地形にいるとき、通常ならば〔遮蔽をとる〕ことができる障害物の隣にいなくても、常に@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{Take Cover}アクションを使って遮蔽を得られる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.beyw5bdA5hkQbmaG]{Terrain Stalker}フィートのフィートを得る（たとえ《隠密》において訓練済みでなくても）、そして選択する地形は必ず下草（underbrush）にしなければならない。</p>"
+      "description": "<p>濃い森林やジャングルを枝や低木を巧みに使って容易に移動する。森林またはジャングル地形にいるとき、通常ならば〔遮蔽をとる〕ことができる障害物の隣にいなくても、常に@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}アクションを使って遮蔽を得られる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.beyw5bdA5hkQbmaG]{テレイン・ストーカー}フィートのフィートを得る（たとえ《隠密》において訓練済みでなくても）、そして選択する地形は必ず下草（underbrush）にしなければならない。</p>"
     },
     "Desert Rat": {
       "name": "砂漠のネズミ/Desert Rat",
@@ -1150,7 +1150,7 @@
     },
     "Tunnel Rat": {
       "name": "トンネル・ラット/Tunnel Rat",
-      "description": "<p>あなたは身体を簡単に圧縮して隙間を抜けられる。ボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP]{Quick Squeeze}特技を得る（たとえ訓練済みで《軽業》でなくても）。@UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{Squeeze}アクションを必要としない程度の狭い場所はあなたにとって困難地形にならない。</p>"
+      "description": "<p>あなたは身体を簡単に圧縮して隙間を抜けられる。ボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP]{クイック・スクイーズ}特技を得る（たとえ訓練済みで《軽業》でなくても）。@UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{〈無理矢理入り込む〉}アクションを必要としない程度の狭い場所はあなたにとって困難地形にならない。</p>"
     },
     "Dhampir": {
       "name": "ダンピール/Dhampir",
@@ -1162,7 +1162,7 @@
     },
     "Ant Kholo": {
       "name": "アリのコロ語/Ant Kholo",
-      "description": "<p>あなたは鋭い顔立ちで大きな耳を持つkholoで、身長はおよそ3フィートだ。多くの者はあなたが本当にkholoか疑う。あなたのサイズは小型で、中型ではない。あなたは訓練済みで《欺瞞》に通じている (またはすでに訓練済みで《欺瞞》なら別のスキル)。無実を主張するときの〔嘘をつく〕に対する《欺瞞》判定に+1の状況ボーナスを得るとともに、そのような嘘を暴くための@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive}判定に対する《欺瞞》DC、およびイニシアティブで《欺瞞》を振るときのイニシアティブ判定にもそのボーナスを得る。</p>"
+      "description": "<p>あなたは鋭い顔立ちで大きな耳を持つkholoで、身長はおよそ3フィートだ。多くの者はあなたが本当にkholoか疑う。あなたのサイズは小型で、中型ではない。あなたは訓練済みで《欺瞞》に通じている (またはすでに訓練済みで《欺瞞》なら別のスキル)。無実を主張するときの〔嘘をつく〕に対する《欺瞞》判定に+1の状況ボーナスを得るとともに、そのような嘘を暴くための@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}判定に対する《欺瞞》DC、およびイニシアティブで《欺瞞》を振るときのイニシアティブ判定にもそのボーナスを得る。</p>"
     },
     "Unbreakable Goblin": {
       "name": "不屈のゴブリン語/Unbreakable Goblin",
@@ -1182,15 +1182,15 @@
     },
     "Quillcoat Shisk": {
       "name": "クイルコート・シスク/Quillcoat Shisk",
-      "description": "<p>体が攻撃者に刺毛を残して切り離す防御機構へと適応しており、攻撃的な捕食者から身を守れるが、刺毛が生えそろうまでには時間がかかる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.oAWNluJaMlaGysXA]{Barbed Quills}のリアクションを得る。</p>"
+      "description": "<p>体が攻撃者に刺毛を残して切り離す防御機構へと適応しており、攻撃的な捕食者から身を守れるが、刺毛が生えそろうまでには時間がかかる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.oAWNluJaMlaGysXA]{〈バーブド・クィルズ〉}のリアクションを得る。</p>"
     },
     "Artisan Android": {
       "name": "職人アンドロイド/Artisan Android",
-      "description": "<p>あなたの体はもともと芸術作品や複雑な道具を作り、高度な機械を維持するために設計された。あなたは訓練済みで《製作》になる (またはすでに訓練済みで《製作》なら別のスキル) 、そして任意の専門分野で@UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]{Specialty Crafting}のスキル特技を得る。</p>"
+      "description": "<p>あなたの体はもともと芸術作品や複雑な道具を作り、高度な機械を維持するために設計された。あなたは訓練済みで《製作》になる (またはすでに訓練済みで《製作》なら別のスキル) 、そして任意の専門分野で@UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]{スペシャルティ・《製作》}のスキル特技を得る。</p>"
     },
     "Shadow of the Smith": {
       "name": "鍛冶師のシャドウ/Shadow of the Smith",
-      "description": "<p>あなたの影は濃く液体のようで、最良の鉱石さえも冶金できそうだ。@UUID[Compendium.pf2e.actionspf2e.Item.lgpJoFrkzfkjAzeV]{Inscribe シャドウ Pamor}アクションを得る。</p>"
+      "description": "<p>あなたの影は濃く液体のようで、最良の鉱石さえも冶金できそうだ。@UUID[Compendium.pf2e.actionspf2e.Item.lgpJoFrkzfkjAzeV]{〈インスクライブ・シャドウ・パモール〉}アクションを得る。</p>"
     },
     "Vivacious Gnome": {
       "name": "生気あるノーム/Vivacious Gnome",
@@ -1202,7 +1202,7 @@
     },
     "Prismatic Vishkanya": {
       "name": "プリズマティック・ヴィシュカーニャ/Prismatic Vishkanya",
-      "description": "<p>鱗が光を受けて魅惑的な色彩を放つ。あなたは訓練済みで《芸能》になる (またはすでに訓練済みで《芸能》なら別のスキルを選べる)、そして@UUID[Compendium.pf2e.feats-srd.Item.7LB00jkh6JaJr3vS]{Fascinating Performance}特技を得る。</p>"
+      "description": "<p>鱗が光を受けて魅惑的な色彩を放つ。あなたは訓練済みで《芸能》になる (またはすでに訓練済みで《芸能》なら別のスキルを選べる)、そして@UUID[Compendium.pf2e.feats-srd.Item.7LB00jkh6JaJr3vS]{ファシネイティング・《芸能》}特技を得る。</p>"
     },
     "Spellhorn Kobold": {
       "name": "スペルホーン・コボルド/Spellhorn Kobold",
@@ -1210,7 +1210,7 @@
     },
     "Rock Dwarf": {
       "name": "岩のドワーフ/Rock Dwarf",
-      "description": "<p>君の先祖は古い岩場や地中の深みで暮らし働いてきた。そのため君は踏みしめると岩のように安定する。君は2の状況ボーナスを、頑健または反応のDCに対して得る。このボーナスは君を@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{Reposition}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}しようとする試みに対して適用される。また、このボーナスは移動を強制したり君を@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}にする呪文や効果に対するセーヴィング・スローにも適用される。</p>\n<p>さらに、もし効果が君を10フィート以上移動させるなら、君は移動させられる距離は半分になる。</p>"
+      "description": "<p>君の先祖は古い岩場や地中の深みで暮らし働いてきた。そのため君は踏みしめると岩のように安定する。君は2の状況ボーナスを、頑健または反応のDCに対して得る。このボーナスは君を@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}しようとする試みに対して適用される。また、このボーナスは移動を強制したり君を@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}にする呪文や効果に対するセーヴィング・スローにも適用される。</p>\n<p>さらに、もし効果が君を10フィート以上移動させるなら、君は移動させられる距離は半分になる。</p>"
     },
     "Death Warden Dwarf": {
       "name": "死のウォーデンドワーフ/Death Warden Dwarf",
@@ -1254,11 +1254,11 @@
     },
     "Deep Orc": {
       "name": "深い オーク/Deep Orc",
-      "description": "<p>手の皮膚が硬く、赤い目は山の洞窟の深い闇で過ごした生活を物語り、岩壁での戦闘や最小限の資源での生存を学んだことを示す。地下地形用のスキル特技@UUID[Compendium.pf2e.feats-srd.Item.4tTkRyOQ0VuRBac3]{Terrain Expertise}とスキル特技@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{戦闘 Climber}を得る。</p>"
+      "description": "<p>手の皮膚が硬く、赤い目は山の洞窟の深い闇で過ごした生活を物語り、岩壁での戦闘や最小限の資源での生存を学んだことを示す。地下地形用のスキル特技@UUID[Compendium.pf2e.feats-srd.Item.4tTkRyOQ0VuRBac3]{テレイン・エキスパーティス}とスキル特技@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー}を得る。</p>"
     },
     "Gourd Leshy": {
       "name": "ヒョウタン・レシー/Gourd Leshy",
-      "description": "<p>頭蓋が大きなヒョウタンで、物理的な脳を持たないため頭の内部空間を利用できる。頭の中に最大1個のバルクの物品を収納できる。頭の中から物を@UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{Steal}する判定のDCが4増加する。さらに、頭の中に1つだけ収納している場合は、別のアクションの一部としてそれを手に容易に取り出して使用できる。取り出す動作はその別のアクションにmanipulateトレイトを付与する。</p>"
+      "description": "<p>頭蓋が大きなヒョウタンで、物理的な脳を持たないため頭の内部空間を利用できる。頭の中に最大1個のバルクの物品を収納できる。頭の中から物を@UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{〈盗み〉}する判定のDCが4増加する。さらに、頭の中に1つだけ収納している場合は、別のアクションの一部としてそれを手に容易に取り出して使用できる。取り出す動作はその別のアクションにmanipulateトレイトを付与する。</p>"
     },
     "Spindly Anadi": {
       "name": "細長いアナディ/Spindly Anadi",
@@ -1270,7 +1270,7 @@
     },
     "Lantern Surki": {
       "name": "ランタン・スルキ/Lantern Surki",
-      "description": "<p>あなたの腹部にある節はひときわ明るく輝いている。あなたは〈扱う〉アクションを使用して、腹部から20フィートの半径(およびその先の20フィートに薄暗い光)の光を放つことができる。これは魔法の光の効果であり、その打ち消しランクはあなたのレベルの半分(端数切り上げ)に等しい。あなたは別の〈扱う〉アクションを行うことで、光の色を変更したり、光を消したりできる。</p><ul><li><strong>進化</strong>あなたの腹部の節は進化し、魔法の集光レンズを投影する一対の副肢となった。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.ako5zZwC6o26cfCQ]{Lantern Beam}アクションを得る。</li><li><strong>進化</strong>あなたの肩の節から副次的な光放射器が生え、ランタンと同期して点滅する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.aVGNaNgG6cYNRp5A]{Lantern Strobe}アクションを得る。</li></ul>"
+      "description": "<p>あなたの腹部にある節はひときわ明るく輝いている。あなたは〈扱う〉アクションを使用して、腹部から20フィートの半径(およびその先の20フィートに薄暗い光)の光を放つことができる。これは魔法の光の効果であり、その打ち消しランクはあなたのレベルの半分(端数切り上げ)に等しい。あなたは別の〈扱う〉アクションを行うことで、光の色を変更したり、光を消したりできる。</p><ul><li><strong>進化</strong>あなたの腹部の節は進化し、魔法の集光レンズを投影する一対の副肢となった。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.ako5zZwC6o26cfCQ]{〈ランタン・ビーム〉}アクションを得る。</li><li><strong>進化</strong>あなたの肩の節から副次的な光放射器が生え、ランタンと同期して点滅する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.aVGNaNgG6cYNRp5A]{〈ランタン・ストロボ〉}アクションを得る。</li></ul>"
     },
     "Vicious Goloma": {
       "name": "獰猛なゴロマ/Vicious Goloma",
@@ -1302,7 +1302,7 @@
     },
     "Born of Vegetation": {
       "name": "植物由来/Born of Vegetation",
-      "description": "<p>雨により心を授かるまで植物か菌類だった。植物か菌類のトレイトのどちらかを選んで得る.</p><ul><li><strong>ヒューマノイド形態</strong> 新鮮な植生があると、困っている者をよりよく助けられる。あなたは1の状況ボーナスをメディスン判定に対して得るために@UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}.</li><li><strong>妖怪形態</strong> 誰かがメディスンスキルを使って@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat your Wounds}すると、その治療で回復するヒット・ポイントに自分のレベルを加える。さらに、あなたが植物のトレイトを持ち明るい光の下にいるか、菌類のトレイトを持ち暗所にいる場合、その判定を試みる者は+1の状況ボーナスを得る.</li></ul>"
+      "description": "<p>雨により心を授かるまで植物か菌類だった。植物か菌類のトレイトのどちらかを選んで得る.</p><ul><li><strong>ヒューマノイド形態</strong> 新鮮な植生があると、困っている者をよりよく助けられる。あなたは1の状況ボーナスをメディスン判定に対して得るために@UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{〈応急手当〉}.</li><li><strong>妖怪形態</strong> 誰かがメディスンスキルを使って@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{〈傷の手当て〉}すると、その治療で回復するヒット・ポイントに自分のレベルを加える。さらに、あなたが植物のトレイトを持ち明るい光の下にいるか、菌類のトレイトを持ち暗所にいる場合、その判定を試みる者は+1の状況ボーナスを得る.</li></ul>"
     },
     "Hopeful Athamaru": {
       "name": "Hopeful アサマル/Hopeful Athamaru",
@@ -1310,7 +1310,7 @@
     },
     "Ancient-Blooded Dwarf": {
       "name": "古き血を引く ドワーフ/Ancient-Blooded Dwarf",
-      "description": "<p>かつてのドワーフの英雄は敵の魔法をものともせず、その耐性の一部があなたにも現れている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.8w6esW689NNbbq3i]{Call on Ancient Blood}という反応を得る.</p>"
+      "description": "<p>かつてのドワーフの英雄は敵の魔法をものともせず、その耐性の一部があなたにも現れている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.8w6esW689NNbbq3i]{〈コール・オン・エンシェント・ブラッド〉}という反応を得る.</p>"
     },
     "Deny the Traitor's Rebirth": {
       "name": "裏切り者の再生を阻む/Deny the Traitor's Rebirth",
@@ -1322,7 +1322,7 @@
     },
     "Elusive Vishkanya": {
       "name": "捕えがたいヴィシュカーニャ/Elusive Vishkanya",
-      "description": "<p>柔軟な体は一部の者にとって不自然に流れるように見えるが、何が変なのかはほとんど指摘されない。敵から容易に逃げられる。1の状況ボーナスを@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}判定に対して得る。さらに、Squeezing中の移動速度が2倍になる.</p>"
+      "description": "<p>柔軟な体は一部の者にとって不自然に流れるように見えるが、何が変なのかはほとんど指摘されない。敵から容易に逃げられる。1の状況ボーナスを@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}判定に対して得る。さらに、Squeezing中の移動速度が2倍になる.</p>"
     },
     "Shadow of the Hermit": {
       "name": "シャドウ 隠者の/Shadow of the Hermit",

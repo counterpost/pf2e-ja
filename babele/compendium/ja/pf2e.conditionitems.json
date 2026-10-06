@@ -3,7 +3,7 @@
   "entries": {
     "Observed": {
       "name": "視認されている/Observed",
-      "description": "<p>視界にあるものはあなたに観察される。もし生物が、《隠密》を使って@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}のように発見を避ける手段を取れば、観察される代わりに@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}や@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}になることがある。視覚以外の明瞭な感覚を持っているなら、その感覚を使って生物や物体を観察できるかもしれない。精密な感覚だけで生物を観察できる。もし不精密な感覚のみで生物を@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seeking}する場合、その生物は観察されるのではなく隠れたままになる。</p>"
+      "description": "<p>視界にあるものはあなたに観察される。もし生物が、《隠密》を使って@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}のように発見を避ける手段を取れば、観察される代わりに@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}や@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}になることがある。視覚以外の明瞭な感覚を持っているなら、その感覚を使って生物や物体を観察できるかもしれない。精密な感覚だけで生物を観察できる。もし不精密な感覚のみで生物を@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉ing}する場合、その生物は観察されるのではなく隠れたままになる。</p>"
     },
     "Doomed": {
       "name": "破滅/Doomed",
@@ -31,7 +31,7 @@
     },
     "Controlled": {
       "name": "支配/Controlled",
-      "description": "<p>命令され、魔法的に支配されるか、その他意志を覆された。コントローラーがあなたのアクションを決定し、攻撃やリアクション、さらには@UUID[Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9]{Delay}を含む任意のアクションを取らせることができる。通常、コントローラーはあなたを操る際に自身のアクションを消費する必要はない。</p>"
+      "description": "<p>命令され、魔法的に支配されるか、その他意志を覆された。コントローラーがあなたのアクションを決定し、攻撃やリアクション、さらには@UUID[Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9]{〈待機する〉}を含む任意のアクションを取らせることができる。通常、コントローラーはあなたを操る際に自身のアクションを消費する必要はない。</p>"
     },
     "Fascinated": {
       "name": "気を取られた/Fascinated",
@@ -59,7 +59,7 @@
     },
     "Stupefied": {
       "name": "混濁/Stupefied",
-      "description": "<p>思考や本能がぼんやりする。混濁は常に数値を含む。この数値と同じ値の状態ペナルティを、知力・判断力および魅力に基づく判定やDC（例：意志へのセーヴ、呪文攻撃修正値、呪文DC、これらの能力修正を使うスキル判定）に受ける。スタペファイド状態で@UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Cast a 呪文}を試みるたびに、呪文は妨害される。だが@Check[flat|showDC:all|dc:resolve(5+@item.badge.value)]に成功し、難易度が5 + あなたのスタペファイド値である場合は妨害されない。</p>"
+      "description": "<p>思考や本能がぼんやりする。混濁は常に数値を含む。この数値と同じ値の状態ペナルティを、知力・判断力および魅力に基づく判定やDC（例：意志へのセーヴ、呪文攻撃修正値、呪文DC、これらの能力修正を使うスキル判定）に受ける。スタペファイド状態で@UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{〈呪文の発動〉}を試みるたびに、呪文は妨害される。だが@Check[flat|showDC:all|dc:resolve(5+@item.badge.value)]に成功し、難易度が5 + あなたのスタペファイド値である場合は妨害されない。</p>"
     },
     "Immobilized": {
       "name": "移動不能/Immobilized",
@@ -91,7 +91,7 @@
     },
     "Hidden": {
       "name": "隠れている/Hidden",
-      "description": "<p>自分が生物に対して隠れている間、その生物はあなたがいるスペースは知っているが正確にどこにいるかは分からない。通常は《隠密》を使って@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}することで隠れる。@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seeking}不正確な感覚しか使えない生物に対して行う場合、それは@UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{視認されている}の代わりに隠れたままでいる。あなたが隠れている相手の生物はあなたにとって@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}であり、攻撃、呪文、その他の効果であなたを狙うときに@Check[flat|showDC:all|dc:11]に成功しなければあなたに影響を及ぼせない。範囲効果はこのフラットチェックの対象にならない.</p>\n<p>生物はあなたを観察しようとしてseekアクションを使えるかもしれない.</p>"
+      "description": "<p>自分が生物に対して隠れている間、その生物はあなたがいるスペースは知っているが正確にどこにいるかは分からない。通常は《隠密》を使って@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}することで隠れる。@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉ing}不正確な感覚しか使えない生物に対して行う場合、それは@UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{視認されている}の代わりに隠れたままでいる。あなたが隠れている相手の生物はあなたにとって@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}であり、攻撃、呪文、その他の効果であなたを狙うときに@Check[flat|showDC:all|dc:11]に成功しなければあなたに影響を及ぼせない。範囲効果はこのフラットチェックの対象にならない.</p>\n<p>生物はあなたを観察しようとしてseekアクションを使えるかもしれない.</p>"
     },
     "Prone": {
       "name": "伏せている/Prone",
@@ -139,7 +139,7 @@
     },
     "Restrained": {
       "name": "拘束されている/Restrained",
-      "description": "<p>縛られてほとんど動けないか、生物に押さえつけられている。@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備} と @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能} の状態を受け、攻撃アクションや手作業アクションは @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} または @UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{Force Open} によって縛りを解こうとする試み以外は使用できない。拘束されている は @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている} を上書きする。</p>"
+      "description": "<p>縛られてほとんど動けないか、生物に押さえつけられている。@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備} と @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能} の状態を受け、攻撃アクションや手作業アクションは @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉} または @UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{〈こじ開ける〉} によって縛りを解こうとする試み以外は使用できない。拘束されている は @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている} を上書きする。</p>"
     },
     "Undetected": {
       "name": "未探知/Undetected",
@@ -159,7 +159,7 @@
     },
     "Wounded": {
       "name": "負傷/Wounded",
-      "description": "<p>重傷を負っている。もし @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死} の状態を失い、かつ既に wounded の状態を持っていないなら、1 の値で wounded になる。もし dying の状態を失うときにすでに wounded の状態を持っているなら、wounded の値は 1 増加する。wounded の状態のまま dying を得た場合、dying の値に自分の wounded 値を加える。</p>\n<p>誰かが @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds} を用いてあなたに ヒット・ポイント を回復させることに成功するか、あるいは何らかの方法で最大の ヒット・ポイント に回復して 10 分休息すると、wounded の状態は終了する。</p>"
+      "description": "<p>重傷を負っている。もし @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死} の状態を失い、かつ既に wounded の状態を持っていないなら、1 の値で wounded になる。もし dying の状態を失うときにすでに wounded の状態を持っているなら、wounded の値は 1 増加する。wounded の状態のまま dying を得た場合、dying の値に自分の wounded 値を加える。</p>\n<p>誰かが @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{〈傷の手当て〉} を用いてあなたに ヒット・ポイント を回復させることに成功するか、あるいは何らかの方法で最大の ヒット・ポイント に回復して 10 分休息すると、wounded の状態は終了する。</p>"
     },
     "Dying": {
       "name": "瀕死/Dying",
@@ -167,7 +167,7 @@
     },
     "Invisible": {
       "name": "不可視/Invisible",
-      "description": "<p>見つからない状態だ。あなたは全員に対して@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}だ。生物はあなたを感知するために@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}できる;もし生物があなたの《隠密》 DCに対する知覚判定に成功したなら、その生物に対して@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}となり、再び未発見状態になるまで@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak}。誰かに既に見られている状態で透明になった場合、その人に対しては最初は〔忍び歩き〕に成功するまで隠れた状態で始まる(未発見ではなく)。特殊能力や魔法による場合を除き、透明の間に@UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{視認されている}になることはできない。</p>"
+      "description": "<p>見つからない状態だ。あなたは全員に対して@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}だ。生物はあなたを感知するために@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}できる;もし生物があなたの《隠密》 DCに対する知覚判定に成功したなら、その生物に対して@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}となり、再び未発見状態になるまで@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}。誰かに既に見られている状態で透明になった場合、その人に対しては最初は〔忍び歩き〕に成功するまで隠れた状態で始まる(未発見ではなく)。特殊能力や魔法による場合を除き、透明の間に@UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{視認されている}になることはできない。</p>"
     },
     "Cursebound": {
       "name": "呪縛/Cursebound",

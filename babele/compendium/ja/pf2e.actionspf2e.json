@@ -48,7 +48,7 @@
     },
     "Treat Wounds": {
       "name": "傷の手当て/Treat Wounds",
-      "description": "|||<p><strong>Requirements</strong> You're wearing or holding a @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]{Healer's Toolkit}.</p>\n<hr />\n<p>You spend 10 minutes treating one injured living creature (targeting yourself, if you so choose). The target is then temporarily @UUID[Compendium.pf2e.feat-effects.Item.Lb4q2bBAgxamtix5]{immune} to Treat Wounds actions for 1 hour, but this interval overlaps with the time you spent treating (so a patient can be treated once per hour, not once per 70 minutes).</p>\n<p>The Medicine check DC is usually 15, though the GM might adjust it based on the circumstances, such as treating a patient outside in a storm, or treating magically cursed wounds. If you're an expert in Medicine, you can instead attempt a DC 20 check to increase the Hit Points regained by 10; if you're a master of Medicine, you can instead attempt a DC 30 check to increase the Hit Points regained by 30; and if you're legendary, you can instead attempt a DC 40 check to increase the Hit Points regained by 50. The damage dealt on a critical failure remains the same.</p>\n<p>If you succeed at your check, you can continue treating the target to grant additional healing. If you treat it for a total of 1 hour, double the Hit Points it regains from Treat Wounds.</p>\n<p>The result of your Medicine check determines how many Hit Points the target regains.</p>\n<p>@UUID[Compendium.pf2e.pf2e-macros.Macro.6duZj0Ygiqv712rq]{Treat Wounds}</p>\n<hr />\n<p><strong>Critical Success</strong> The target regains [[/r 4d8[healing] #Treat Wounds]] Hit Points and loses the @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded} condition.</p>\n<p><strong>Success</strong> The target regains [[/r 2d8[healing] #Treat Wounds]] Hit Points, and loses the wounded condition.</p>\n<p><strong>Critical Failure</strong> The target takes [[/r 1d8[damage] #Treat Wounds (Critical Failure)]] damage.</p>|||",
+      "description": "|||<p><strong>Requirements</strong> You're wearing or holding a @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]{治療用具}.</p>\n<hr />\n<p>You spend 10 minutes treating one injured living creature (targeting yourself, if you so choose). The target is then temporarily @UUID[Compendium.pf2e.feat-effects.Item.Lb4q2bBAgxamtix5]{immune} to Treat Wounds actions for 1 hour, but this interval overlaps with the time you spent treating (so a patient can be treated once per hour, not once per 70 minutes).</p>\n<p>The Medicine check DC is usually 15, though the GM might adjust it based on the circumstances, such as treating a patient outside in a storm, or treating magically cursed wounds. If you're an expert in Medicine, you can instead attempt a DC 20 check to increase the Hit Points regained by 10; if you're a master of Medicine, you can instead attempt a DC 30 check to increase the Hit Points regained by 30; and if you're legendary, you can instead attempt a DC 40 check to increase the Hit Points regained by 50. The damage dealt on a critical failure remains the same.</p>\n<p>If you succeed at your check, you can continue treating the target to grant additional healing. If you treat it for a total of 1 hour, double the Hit Points it regains from Treat Wounds.</p>\n<p>The result of your Medicine check determines how many Hit Points the target regains.</p>\n<p>@UUID[Compendium.pf2e.pf2e-macros.Macro.6duZj0Ygiqv712rq]{Treat Wounds}</p>\n<hr />\n<p><strong>Critical Success</strong> The target regains [[/r 4d8[healing] #Treat Wounds]] Hit Points and loses the @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷} condition.</p>\n<p><strong>Success</strong> The target regains [[/r 2d8[healing] #Treat Wounds]] Hit Points, and loses the wounded condition.</p>\n<p><strong>Critical Failure</strong> The target takes [[/r 1d8[damage] #Treat Wounds (Critical Failure)]] damage.</p>|||",
       "source": "Pathfinder Player Core"
     },
     "Deceptive Sidestep": {
@@ -78,12 +78,12 @@
     },
     "Catharsis": {
       "name": "カタルシス/Catharsis",
-      "description": "<p><strong>誘発</strong> あなたのカタルシス感情によって決まる</p>\n<hr />\n<p><strong>効果</strong> あなたはカタルシス感情に対して記載されているカタルシス発動効果を得る。その感情の情熱（emotional fervor）の恩恵を 3 ラウンド受ける。情熱が終わると、記載されている感情的な反動を被る。Catharsis を使った後、@UUID[Compendium.pf2e.actionspf2e.Item.EhLvRWFKhZ3HtrZO]{Settle Emotions} 行為を行うまで再度使用できない。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.JysvElDwGZ5ABQ6x]{効果: Emotional Fervor}</p>",
+      "description": "<p><strong>誘発</strong> あなたのカタルシス感情によって決まる</p>\n<hr />\n<p><strong>効果</strong> あなたはカタルシス感情に対して記載されているカタルシス発動効果を得る。その感情の情熱（emotional fervor）の恩恵を 3 ラウンド受ける。情熱が終わると、記載されている感情的な反動を被る。Catharsis を使った後、@UUID[Compendium.pf2e.actionspf2e.Item.EhLvRWFKhZ3HtrZO]{〈セトル・エモーションズ〉} 行為を行うまで再度使用できない。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.JysvElDwGZ5ABQ6x]{効果: Emotional Fervor}</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Reap the Field": {
       "name": "リープ・ザ・フィールド/Reap the Field",
-      "description": "<p><strong>必要条件</strong>あなたの直前のアクションは、@UUID[Compendium.pf2e.classfeatures.Item.HhDQOylStcEVZCNg]{Mortal Harvest}</p>による成功した〈ストライク〉であった。<hr /><p><strong>効果</strong>時が遅くなったかのように、あなたは戦場を駆け抜け、一瞬のうちに多くの者の運命を決める。自身の移動速度の半分まで〈ストライド〉し、異なるクリーチャーに対してモータル・ハーヴェストによる別の近接〈ストライク〉を行う。</p>\n<p>この〈ストライク〉は、直前の〈ストライク〉と同じマルチアタック・ペナルティを使用するが、あなたのマルチアタック・ペナルティには通常通りカウントされる。</p>",
+      "description": "<p><strong>必要条件</strong>あなたの直前のアクションは、@UUID[Compendium.pf2e.classfeatures.Item.HhDQOylStcEVZCNg]{モータル・ハーヴェスト}</p>による成功した〈ストライク〉であった。<hr /><p><strong>効果</strong>時が遅くなったかのように、あなたは戦場を駆け抜け、一瞬のうちに多くの者の運命を決める。自身の移動速度の半分まで〈ストライド〉し、異なるクリーチャーに対してモータル・ハーヴェストによる別の近接〈ストライク〉を行う。</p>\n<p>この〈ストライク〉は、直前の〈ストライク〉と同じマルチアタック・ペナルティを使用するが、あなたのマルチアタック・ペナルティには通常通りカウントされる。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Retraining": {
@@ -103,7 +103,7 @@
     },
     "High Jump": {
       "name": "ハイジャンプ/High Jump",
-      "description": "<p>あなたは〔ストライド〕を行い、その後垂直に跳ぶためにDC 30 [[/act high-jump]]{Athletics}判定を試みる。もし少なくとも10フィート〔ストライド〕していなければ自動的に失敗する。このDCは状況やGMの判断によってによって増減する可能性がある。</p><hr /><p><strong>クリティカル成功</strong> あなたは@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap}して垂直に最大8フィート、水平に10フィート移動する.</p>\n<p><strong>成功</strong> あなたは〔跳躍〕して垂直に最大5フィート、水平に5フィート移動する.</p>\n<p><strong>失敗</strong> あなたは〔跳躍〕を通常通り行う.</p>\n<p><strong>クリティカル失敗</strong> あなたは自分のスペース内で@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}落下する.</p>",
+      "description": "<p>あなたは〔ストライド〕を行い、その後垂直に跳ぶためにDC 30 [[/act high-jump]]{Athletics}判定を試みる。もし少なくとも10フィート〔ストライド〕していなければ自動的に失敗する。このDCは状況やGMの判断によってによって増減する可能性がある。</p><hr /><p><strong>クリティカル成功</strong> あなたは@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{〈跳躍〉}して垂直に最大8フィート、水平に10フィート移動する.</p>\n<p><strong>成功</strong> あなたは〔跳躍〕して垂直に最大5フィート、水平に5フィート移動する.</p>\n<p><strong>失敗</strong> あなたは〔跳躍〕を通常通り行う.</p>\n<p><strong>クリティカル失敗</strong> あなたは自分のスペース内で@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}落下する.</p>",
       "source": "Pathfinder Player Core"
     },
     "Act Together": {
@@ -242,7 +242,7 @@
     },
     "Grow": {
       "name": "グロウ/Grow",
-      "description": "<p>生きた存在、たいていは植物からアイテムを育てることができる。化学用品を育てるには錬金術 《製作》のスキル特技が、魔法のアイテムを育てるには魔法 《製作》のスキル特技が、罠を育てるにはスネア 《製作》のフィートが必要だ。アイテムを育てるには以下の要件を満たす必要がある。</p><ul><li>アイテムのレベルが自分のレベル以下であること。レベルが記載されていないアイテムはレベル0扱いだ。もしアイテムが9レベル以上なら《製作》でマスターである必要があり、16レベル以上ならレジェンダリーである必要がある。</li><li>アイテムのフォーミュラを持っていること。詳細はGetting フォーミュラを参照せよ。</li><li>そのアイテムを育てるのに適した道具一式を持っていること。培養道具や園芸道具が植物には典型的だが、別の手法を用いる場合は別の道具を要することもある。たとえば成長を促すために音楽を奏でるなら楽器を使うこともありうる。</li><li>アイテムの価格の少なくとも半分に相当する特別な肥料や魔法の栄養素を用意すること。育てに成功したとき、必ずその量の肥料や栄養素を消費する。定住地にいる場合、通常は通貨を支払って必要な量の魔法の栄養素を入手できるが、より希少な貴重な素材の場合は例外だ。予め持ち運んだり、Herbalism ロアのようなスキルで採集して入手することもでき、その価値は@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{Earn Income}のルールに基づいて算出される。</li></ul><p>作業に4日を費やす必要があり、その時点で《製作》判定を行う。GMはアイテムのレベル、希少性、その他の状況に基づいて育てるためのDCを決める。アイテムの種類によっては育てる方が〔製作する〕より容易な場合やその逆もあり、通常GMは簡単や難しいというDCの調整で表現できる。</p>\n<p>作成に成功した場合、供給した肥料や魔法の栄養素を消費する。アイテムの価格の残りを追加の成長促進剤で支払って即座に完成させるか、追加のダウンタイム日数をかけて栽培を続けることができる。追加の各日ごとに、アイテム完成に必要な促進剤の価値を減らす。この額は@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{Income Earned}表を用いて、《製作》における自分の習熟度ランクに基づき、タスクレベルの代わりに自分のレベルを使用して決定する。これらのダウンタイム日のいずれかの後、残りの価格相当を促進剤で支払うことでアイテムを完成させられる。もし費やしたダウンタイム日が中断された場合は、後で続けて再開できる。</p>\n<p>また、アイテムをほとんど放任して時折監督するだけにすることもできるが、直接介入しないと進行ははるかに遅くなる。アイテムを育てるために少なくとも1日分のダウンタイムを費やした各シーズンの終わりに、追加で《製作》判定を行い、アイテム完成に必要な促進剤の価値を該当額だけ減らす。</p><hr /><p><strong>クリティカル成功</strong> 試行は成功する。育てに費やした追加の日ごとに、アイテム完成に必要な素材が、自分のレベル＋1および《製作》における習熟度ランクに基づいて相当量減る。</p>\n<p><strong>成功</strong> 試行は成功する。育てに費やした追加の日ごとに、アイテム完成に必要な素材が自分のレベルと習熟度ランクに基づく相当量減る。</p>\n<p><strong>失敗</strong> アイテムの完成に失敗する。供給した生の素材は全額回収できる。再度試みる場合は最初からやり直す必要がある。</p>\n<p><strong>クリティカル失敗</strong> アイテムの完成に失敗する。供給した肥料と栄養素の10%を台無しにするが、残りは回収できる。再度試みる場合は最初からやり直す必要がある。</p>",
+      "description": "<p>生きた存在、たいていは植物からアイテムを育てることができる。化学用品を育てるには錬金術 《製作》のスキル特技が、魔法のアイテムを育てるには魔法 《製作》のスキル特技が、罠を育てるにはスネア 《製作》のフィートが必要だ。アイテムを育てるには以下の要件を満たす必要がある。</p><ul><li>アイテムのレベルが自分のレベル以下であること。レベルが記載されていないアイテムはレベル0扱いだ。もしアイテムが9レベル以上なら《製作》でマスターである必要があり、16レベル以上ならレジェンダリーである必要がある。</li><li>アイテムのフォーミュラを持っていること。詳細はGetting フォーミュラを参照せよ。</li><li>そのアイテムを育てるのに適した道具一式を持っていること。培養道具や園芸道具が植物には典型的だが、別の手法を用いる場合は別の道具を要することもある。たとえば成長を促すために音楽を奏でるなら楽器を使うこともありうる。</li><li>アイテムの価格の少なくとも半分に相当する特別な肥料や魔法の栄養素を用意すること。育てに成功したとき、必ずその量の肥料や栄養素を消費する。定住地にいる場合、通常は通貨を支払って必要な量の魔法の栄養素を入手できるが、より希少な貴重な素材の場合は例外だ。予め持ち運んだり、Herbalism ロアのようなスキルで採集して入手することもでき、その価値は@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}のルールに基づいて算出される。</li></ul><p>作業に4日を費やす必要があり、その時点で《製作》判定を行う。GMはアイテムのレベル、希少性、その他の状況に基づいて育てるためのDCを決める。アイテムの種類によっては育てる方が〔製作する〕より容易な場合やその逆もあり、通常GMは簡単や難しいというDCの調整で表現できる。</p>\n<p>作成に成功した場合、供給した肥料や魔法の栄養素を消費する。アイテムの価格の残りを追加の成長促進剤で支払って即座に完成させるか、追加のダウンタイム日数をかけて栽培を続けることができる。追加の各日ごとに、アイテム完成に必要な促進剤の価値を減らす。この額は@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}表を用いて、《製作》における自分の習熟度ランクに基づき、タスクレベルの代わりに自分のレベルを使用して決定する。これらのダウンタイム日のいずれかの後、残りの価格相当を促進剤で支払うことでアイテムを完成させられる。もし費やしたダウンタイム日が中断された場合は、後で続けて再開できる。</p>\n<p>また、アイテムをほとんど放任して時折監督するだけにすることもできるが、直接介入しないと進行ははるかに遅くなる。アイテムを育てるために少なくとも1日分のダウンタイムを費やした各シーズンの終わりに、追加で《製作》判定を行い、アイテム完成に必要な促進剤の価値を該当額だけ減らす。</p><hr /><p><strong>クリティカル成功</strong> 試行は成功する。育てに費やした追加の日ごとに、アイテム完成に必要な素材が、自分のレベル＋1および《製作》における習熟度ランクに基づいて相当量減る。</p>\n<p><strong>成功</strong> 試行は成功する。育てに費やした追加の日ごとに、アイテム完成に必要な素材が自分のレベルと習熟度ランクに基づく相当量減る。</p>\n<p><strong>失敗</strong> アイテムの完成に失敗する。供給した生の素材は全額回収できる。再度試みる場合は最初からやり直す必要がある。</p>\n<p><strong>クリティカル失敗</strong> アイテムの完成に失敗する。供給した肥料と栄養素の10%を台無しにするが、残りは回収できる。再度試みる場合は最初からやり直す必要がある。</p>",
       "source": "Pathfinder Treasure Vault (Remastered)"
     },
     "Defend Life": {
@@ -252,7 +252,7 @@
     },
     "Brandish the Gorgon's Gaze": {
       "name": "ブランディッシュ・ザ・ゴーゴンズ・ゲイズ/Brandish the Gorgon's Gaze",
-      "description": "<p>あなたは自分の@UUID[Compendium.pf2e.classfeatures.Item.lJAQPRT2t8IABR4v]{Mirrored Aegis}を掲げるが、それは通常の光沢を失い石の鈍い光沢を帯びているように見える。次の自分のターン開始前に鏡状の楯で近接攻撃を@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{シールド Block}すると、そこにあるゴルゴンの目が誘発したクリーチャーに閃き、そのクリーチャーはあなたのクラスDCに対する@Check[fortitude|against:exemplar|options:inflicts:slowed]セーヴを試みなければならない。失敗すると、その者は体が部分的に石化しているため@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態になり、1分間続く。結果にかかわらず、そのクリーチャーはこの効果に対して一時的に免疫となり、24時間続く.</p>",
+      "description": "<p>あなたは自分の@UUID[Compendium.pf2e.classfeatures.Item.lJAQPRT2t8IABR4v]{ミラー・イージス}を掲げるが、それは通常の光沢を失い石の鈍い光沢を帯びているように見える。次の自分のターン開始前に鏡状の楯で近接攻撃を@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{シールド・ブロック}すると、そこにあるゴルゴンの目が誘発したクリーチャーに閃き、そのクリーチャーはあなたのクラスDCに対する@Check[fortitude|against:exemplar|options:inflicts:slowed]セーヴを試みなければならない。失敗すると、その者は体が部分的に石化しているため@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態になり、1分間続く。結果にかかわらず、そのクリーチャーはこの効果に対して一時的に免疫となり、24時間続く.</p>",
       "source": "Pathfinder #217: Death Sails a Wine-Dark Sea"
     },
     "Winged Leap": {
@@ -297,12 +297,12 @@
     },
     "Flowing Spirit Strike": {
       "name": "フローイング・スピリット・ストライク/Flowing Spirit Strike",
-      "description": "<p>輝く刃で2回ストライクを行う。いずれも同じ対象に対して行い、現在の多段攻撃ペナルティを適用する。もし@UUID[Compendium.pf2e.classfeatures.Item.o8Q7wWx2oKvKMi1s]{Gleaming Blade}が敏捷トレイトを持たない場合、2回目の〔ストライク〕は–2のペナルティを受ける。両方の攻撃が命中した場合、それらのダメージを合算し、すべて霊ダメージとして与える。</p>\n<p>精密ダメージは1回だけ加える。両ストライクのダメージを合算し、耐性と弱点は1回だけ適用する。これを多段攻撃ペナルティの計算では2回の攻撃として扱う。</p>",
+      "description": "<p>輝く刃で2回ストライクを行う。いずれも同じ対象に対して行い、現在の多段攻撃ペナルティを適用する。もし@UUID[Compendium.pf2e.classfeatures.Item.o8Q7wWx2oKvKMi1s]{グリーミング・ブレイド}が敏捷トレイトを持たない場合、2回目の〔ストライク〕は–2のペナルティを受ける。両方の攻撃が命中した場合、それらのダメージを合算し、すべて霊ダメージとして与える。</p>\n<p>精密ダメージは1回だけ加える。両ストライクのダメージを合算し、耐性と弱点は1回だけ適用する。これを多段攻撃ペナルティの計算では2回の攻撃として扱う。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Pop, Drop, and Lock": {
       "name": "ポップ、ドロップ、ロック/Pop, Drop, and Lock",
-      "description": "<p><strong>使用制限</strong> 10分ごとに1回</p><hr /><p>君は分隊員に壊滅的な連携による排除を命じる。君の指揮官のバナーのオーラ内にいる同じ敵を射程内に持つ分隊員を最大3人まで合図する；その分隊員たちは反応としてその相手に対して〔ストライク〕、@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}、または@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple}を試みることができる。各分隊員はこの戦術で与えられた特定の1つの行動しか試みられず、アクションの実行順は任意で、同じ具体的アクションはこの戦術の一部として一度しか試みられない。</p>",
+      "description": "<p><strong>使用制限</strong> 10分ごとに1回</p><hr /><p>君は分隊員に壊滅的な連携による排除を命じる。君の指揮官のバナーのオーラ内にいる同じ敵を射程内に持つ分隊員を最大3人まで合図する；その分隊員たちは反応としてその相手に対して〔ストライク〕、@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を試みることができる。各分隊員はこの戦術で与えられた特定の1つの行動しか試みられず、アクションの実行順は任意で、同じ具体的アクションはこの戦術の一部として一度しか試みられない。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Strike Hard!": {
@@ -399,7 +399,7 @@
     },
     "Transform Ammunition": {
       "name": "トランスフォーム・アミュニション/Transform Ammunition",
-      "description": "<p><strong>使用制限</strong> 1ラウンドに1回</p><hr /><p><strong>効果</strong> 所持している非魔法の矢かボルトを、@UUID[Compendium.pf2e.feats-srd.Item.vUFvcrvszXlHvz2Y]{Magic 矢弾}特技で選んだ1種類の魔法弾薬に変える。弾薬はターン終了前に射撃しなければ魔法が消散する。弾薬に起動の記述がある場合は、射撃する前にその弾薬を起動するために必要なアクションを消費する必要がある.</p>\n<p>通常その弾種で入手できない種類の魔法弾薬を選んでもよい。たとえば、本来ボルトにしかない魔法弾薬である@UUID[Compendium.pf2e.equipment-srd.Item.n5L7HE9H8jn8ftQy]{Climbing Bolt}を矢に使ってもよい.</p>",
+      "description": "<p><strong>使用制限</strong> 1ラウンドに1回</p><hr /><p><strong>効果</strong> 所持している非魔法の矢かボルトを、@UUID[Compendium.pf2e.feats-srd.Item.vUFvcrvszXlHvz2Y]{マジック・アミュニション}特技で選んだ1種類の魔法弾薬に変える。弾薬はターン終了前に射撃しなければ魔法が消散する。弾薬に起動の記述がある場合は、射撃する前にその弾薬を起動するために必要なアクションを消費する必要がある.</p>\n<p>通常その弾種で入手できない種類の魔法弾薬を選んでもよい。たとえば、本来ボルトにしかない魔法弾薬である@UUID[Compendium.pf2e.equipment-srd.Item.n5L7HE9H8jn8ftQy]{クライミング・ボルト}を矢に使ってもよい.</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Shift Immanence": {
@@ -456,7 +456,7 @@
     },
     "Siegebreaker": {
       "name": "シージブレイカー/Siegebreaker",
-      "description": "<p><strong>要件</strong> キックバックまたはスキャッタートレイトを持つ火器、または両手クロスボウを装備していること。</p><hr /><p>信じられない力で突進して武器を対象に叩きつけ、足場を固めて引き金を引く。@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap} または 〔ストライド〕を行い、その後必要な火器かクロスボウで隣接した目標に〔ストライク〕を行う。この〔ストライク〕は追加で@Damage[3d8[bludgeoning]]ダメージを与え、対象の硬度を10ポイント無視する (存在する場合)、または対象が〔シールド・ブロック〕を使用している場合はそのシールドの硬度を無視する。</p>\n<p>〔ストライク〕の後、あなたは@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}となり、必要な武器を防御的に構えてパリートレイトと同様の構えになり、1の状況ボーナスをACに得る。選んだ武器がパリートレイトを持つ場合は+2の状況ボーナスを得る。両方の効果は次の自分のターンの開始まで続く。このように移動不能になっている間に力によって移動させられる場合、その力はクラスDCに対する適切な判定に成功しなければならない。</p>",
+      "description": "<p><strong>要件</strong> キックバックまたはスキャッタートレイトを持つ火器、または両手クロスボウを装備していること。</p><hr /><p>信じられない力で突進して武器を対象に叩きつけ、足場を固めて引き金を引く。@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{〈跳躍〉} または 〔ストライド〕を行い、その後必要な火器かクロスボウで隣接した目標に〔ストライク〕を行う。この〔ストライク〕は追加で@Damage[3d8[bludgeoning]]ダメージを与え、対象の硬度を10ポイント無視する (存在する場合)、または対象が〔シールド・ブロック〕を使用している場合はそのシールドの硬度を無視する。</p>\n<p>〔ストライク〕の後、あなたは@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}となり、必要な武器を防御的に構えてパリートレイトと同様の構えになり、1の状況ボーナスをACに得る。選んだ武器がパリートレイトを持つ場合は+2の状況ボーナスを得る。両方の効果は次の自分のターンの開始まで続く。このように移動不能になっている間に力によって移動させられる場合、その力はクラスDCに対する適切な判定に成功しなければならない。</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Delay": {
@@ -482,18 +482,18 @@
     },
     "Rage": {
       "name": "レイジ/Rage",
-      "description": "<p><strong>必要条件</strong> あなたが@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}ではなく、激怒中でないこと。</p><hr /><p>あなたは内なる激怒にアクセスして怒りを発散する。あなたはレベルとあなたの耐久力修正値を合計した数の一時的なヒット・ポイントを得る。激怒している間：</p><ul><li>近接ストライクに対して追加で2ダメージを与える。この追加ダメージは、武器または素手攻撃がアジャイルである場合は半分になる。</li><li><p>あなたは集中（concentrate）トレイトを持つアクションを、同時に怒り（rage）トレイトも持たない限り使用できない。怒りの間でもあなたは@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}できる。</p></li></ul><p>激怒は1分間、あるいは気絶する（@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}）まで、または遭遇が終了するまで続く。いずれか早い方が適用される。あなたは自発的に怒りを止めることはできない。怒りを止めたとき、残っている一時的なヒット・ポイントは失われ、レイジから得た一時的なヒット・ポイントを同じレイジアクションで再び得ることはできない（1分間）。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.MaepXeSHiMoWDm7u]{効果: レイジ 一時的ヒットポイント Immunity}</p>",
+      "description": "<p><strong>必要条件</strong> あなたが@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}ではなく、激怒中でないこと。</p><hr /><p>あなたは内なる激怒にアクセスして怒りを発散する。あなたはレベルとあなたの耐久力修正値を合計した数の一時的なヒット・ポイントを得る。激怒している間：</p><ul><li>近接ストライクに対して追加で2ダメージを与える。この追加ダメージは、武器または素手攻撃がアジャイルである場合は半分になる。</li><li><p>あなたは集中（concentrate）トレイトを持つアクションを、同時に怒り（rage）トレイトも持たない限り使用できない。怒りの間でもあなたは@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}できる。</p></li></ul><p>激怒は1分間、あるいは気絶する（@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}）まで、または遭遇が終了するまで続く。いずれか早い方が適用される。あなたは自発的に怒りを止めることはできない。怒りを止めたとき、残っている一時的なヒット・ポイントは失われ、レイジから得た一時的なヒット・ポイントを同じレイジアクションで再び得ることはできない（1分間）。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.MaepXeSHiMoWDm7u]{効果: レイジ 一時的ヒットポイント Immunity}</p>",
       "selfEffect": "効果: レイジ",
       "source": "Pathfinder Player Core 2"
     },
     "Remove Head": {
       "name": "リムーブ・ヘッド/Remove Head",
-      "description": "<p><strong>効果</strong> あなたは〔扱う〕して幽体の体から頭部を取り外し、自由な手にそれを保持する。頭部が切り離されている間、頭を使って障害物の上や周囲を見渡すことができ、隠れたままで視界を得られるが、効果が頭部から発せられない限りクリーチャーを対象に取るための効果線（line of effect）は持たない。頭を置いて体を独立して動かすこともできるが、その場合頭は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態を得、体は@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{blind}、@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{deaf}になり、発声や声を必要とする聴覚トレイトを持つアクションを一切行えなくなる。頭部にダメージを受けた場合や体から50フィート以上離れた場合、あなたは自動的に頭をフリー・アクションとして非物質化させ、首の上に再出現させることができる。</p>",
+      "description": "<p><strong>効果</strong> あなたは〔扱う〕して幽体の体から頭部を取り外し、自由な手にそれを保持する。頭部が切り離されている間、頭を使って障害物の上や周囲を見渡すことができ、隠れたままで視界を得られるが、効果が頭部から発せられない限りクリーチャーを対象に取るための効果線（line of effect）は持たない。頭を置いて体を独立して動かすこともできるが、その場合頭は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態を得、体は@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}、@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}になり、発声や声を必要とする聴覚トレイトを持つアクションを一切行えなくなる。頭部にダメージを受けた場合や体から50フィート以上離れた場合、あなたは自動的に頭をフリー・アクションとして非物質化させ、首の上に再出現させることができる。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms"
     },
     "Fade Into Daydreams": {
       "name": "フェイド・イントゥ・デイドリームズ/Fade Into Daydreams",
-      "description": "<p>想像の飛躍が現実世界に漏れ出し、あなたはぼんやりとした、霞んだ、あるいは幻影に包まれた状態になる。あなたは次のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。この隠蔽は、位置が明白な通常の隠蔽効果と同様に@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}ためには使用できない。</p>",
+      "description": "<p>想像の飛躍が現実世界に漏れ出し、あなたはぼんやりとした、霞んだ、あるいは幻影に包まれた状態になる。あなたは次のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。この隠蔽は、位置が明白な通常の隠蔽効果と同様に@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}ためには使用できない。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Dismiss": {
@@ -503,7 +503,7 @@
     },
     "Impersonate": {
       "name": "なりすます/Impersonate",
-      "description": "<p>あなたは自分を他人や別の存在に見せかけるための変装を作る説。説得力のある変装を整えるには10分かかり、@UUID[Compendium.pf2e.equipment-srd.Item.Jvp0x2Sc82WVpExT]{Disguise Kit}を必要とするが、特定の個人を模倣しようとしていないならGMの裁量でより簡単で短時間の変装でも済む場合がある。</p>\n<p>多くの場合、クリーチャーがあなたの欺瞞を見抜く機会があるのは、@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}アクションを使ってあなたの《欺瞞》 DCに対して知覚判定を試みたときだけである。変装した状態で誰かと直接やり取りしようとすると、GMはそのクリーチャーの知覚DCに対して、秘密で[[/act impersonate]]{Deception}判定を行う。</p>\n<p>特定の個人になりすましている場合、GMはあなたが模倣する人物をどれだけ知っているかに基づいて、やり取りする相手に状況ボーナスを与えるかもしれないし、直接やり取りしていない場合でもGMが秘密で《欺瞞》判定を行うことがある。</p><hr /><p><strong>成功</strong> あなたは相手を、自分が変装している人物だと信じこませる。アクションが変われば新たな判定を求められる場合がある。</p>\n<p><strong>失敗</strong> クリーチャーはあなたが主張している人物ではないと見抜く。</p>\n<p><strong>クリティカル失敗</strong> クリーチャーはあなたが主張している人物ではないと見抜き、変装がなくてもあなたを知っているならあなたを認識する。</p>",
+      "description": "<p>あなたは自分を他人や別の存在に見せかけるための変装を作る説。説得力のある変装を整えるには10分かかり、@UUID[Compendium.pf2e.equipment-srd.Item.Jvp0x2Sc82WVpExT]{変装用具}を必要とするが、特定の個人を模倣しようとしていないならGMの裁量でより簡単で短時間の変装でも済む場合がある。</p>\n<p>多くの場合、クリーチャーがあなたの欺瞞を見抜く機会があるのは、@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}アクションを使ってあなたの《欺瞞》 DCに対して知覚判定を試みたときだけである。変装した状態で誰かと直接やり取りしようとすると、GMはそのクリーチャーの知覚DCに対して、秘密で[[/act impersonate]]{Deception}判定を行う。</p>\n<p>特定の個人になりすましている場合、GMはあなたが模倣する人物をどれだけ知っているかに基づいて、やり取りする相手に状況ボーナスを与えるかもしれないし、直接やり取りしていない場合でもGMが秘密で《欺瞞》判定を行うことがある。</p><hr /><p><strong>成功</strong> あなたは相手を、自分が変装している人物だと信じこませる。アクションが変われば新たな判定を求められる場合がある。</p>\n<p><strong>失敗</strong> クリーチャーはあなたが主張している人物ではないと見抜く。</p>\n<p><strong>クリティカル失敗</strong> クリーチャーはあなたが主張している人物ではないと見抜き、変装がなくてもあなたを知っているならあなたを認識する。</p>",
       "source": "Pathfinder Player Core"
     },
     "Lantern Beam": {
@@ -547,7 +547,7 @@
     },
     "Venom Draw": {
       "name": "ヴェノム・ドロー/Venom Draw",
-      "description": "<p><strong>必要条件</strong>あなたの@UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{Envenom}アクションが消費されていない。</p>\n<hr />\n<p>あなたは武器を抜く際、素早く毒のある唾液を塗りつける。武器を抜くために〈扱う〉を行い、その後Envenomを行う。これはあなたの1日1回のEnvenomの使用を消費する。</p>",
+      "description": "<p><strong>必要条件</strong>あなたの@UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{〈エンヴェノム〉}アクションが消費されていない。</p>\n<hr />\n<p>あなたは武器を抜く際、素早く毒のある唾液を塗りつける。武器を抜くために〈扱う〉を行い、その後Envenomを行う。これはあなたの1日1回のEnvenomの使用を消費する。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Size Up": {
@@ -638,12 +638,12 @@
     },
     "A Challenge for Heroes": {
       "name": "ア・チャレンジ・フォー・ヒーローズ/A Challenge for Heroes",
-      "description": "<p>あなたは敵を選び、60フィート以内の敵を英雄の試練に指定する。1分の間、その敵はあなたを対象とする各成功した〔ストライク〕または呪文ごとに追加で10のスピリットダメージを与える。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.pUXV4sks4p9Jc8Wb]{効果: A Challenge for Heroes (Enemy)}</p>\n<p>その敵があなたにスピリットダメージを与えるたび、敵を近接射程にとらえている各味方は、たとえ通常その反応を持たなくても、その敵に対して@UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{Reactive Strike}を試みることができる。もしその味方がこの効果による反応的な〔ストライク〕で敵を撃破したなら、その味方は直ちにあなたのレベルと同等の一時的なヒット・ポイントを得る。これらは 1 分間持続する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Fky50BHCHmRTnHas]{効果: A Challenge for Heroes (Ally)}</p>",
+      "description": "<p>あなたは敵を選び、60フィート以内の敵を英雄の試練に指定する。1分の間、その敵はあなたを対象とする各成功した〔ストライク〕または呪文ごとに追加で10のスピリットダメージを与える。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.pUXV4sks4p9Jc8Wb]{効果: A Challenge for Heroes (Enemy)}</p>\n<p>その敵があなたにスピリットダメージを与えるたび、敵を近接射程にとらえている各味方は、たとえ通常その反応を持たなくても、その敵に対して@UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{〈リアクティブ・ストライク〉}を試みることができる。もしその味方がこの効果による反応的な〔ストライク〕で敵を撃破したなら、その味方は直ちにあなたのレベルと同等の一時的なヒット・ポイントを得る。これらは 1 分間持続する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Fky50BHCHmRTnHas]{効果: A Challenge for Heroes (Ally)}</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Double Team": {
       "name": "ダブル・チーム/Double Team",
-      "description": "<p>チームが連携して敵を致命的な一撃に備えさせる。射程内に相手をとらえている仲間一人に合図を送る。その仲間は対象に対して @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove} または @UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{Reposition} を フリー・アクション として行える。もしその操作が成功し、対象が移動を終えたときに別の仲間の隣接に止まっていれば、二番目の仲間はその対象に対して反応として近接の〔ストライク〕を試みることができる。</p>",
+      "description": "<p>チームが連携して敵を致命的な一撃に備えさせる。射程内に相手をとらえている仲間一人に合図を送る。その仲間は対象に対して @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉} または @UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉} を フリー・アクション として行える。もしその操作が成功し、対象が移動を終えたときに別の仲間の隣接に止まっていれば、二番目の仲間はその対象に対して反応として近接の〔ストライク〕を試みることができる。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Swim": {
@@ -658,7 +658,7 @@
     },
     "Arrow Splits Arrow": {
       "name": "アロー・スプリッツ・アロー/Arrow Splits Arrow",
-      "description": "<p><strong>必要条件</strong>あなたの直前のアクションが、@UUID[Compendium.pf2e.classfeatures.Item.Jm8L7uSM01pJxSiW]{Unfailing 弓}を用いた〈ストライク〉であったこと。</p><hr /><p><strong>効果</strong>あなたは動作を正確に繰り返し、前の射撃と同じ場所に攻撃を命中させる。あなたは同じ対象に対して〈ストライク〉を行う。d20の出目の結果は、要求された射撃の結果と同じになる。ただし、あらゆるペナルティ(あなたのマルチアタック・ペナルティなど)はこの射撃にも通常通り適用され、最初の出目が自然1や20であったとしても、成功度を自動的に調整することはない。</p>",
+      "description": "<p><strong>必要条件</strong>あなたの直前のアクションが、@UUID[Compendium.pf2e.classfeatures.Item.Jm8L7uSM01pJxSiW]{アンフェイリング・ボウ}を用いた〈ストライク〉であったこと。</p><hr /><p><strong>効果</strong>あなたは動作を正確に繰り返し、前の射撃と同じ場所に攻撃を命中させる。あなたは同じ対象に対して〈ストライク〉を行う。d20の出目の結果は、要求された射撃の結果と同じになる。ただし、あらゆるペナルティ(あなたのマルチアタック・ペナルティなど)はこの射撃にも通常通り適用され、最初の出目が自然1や20であったとしても、成功度を自動的に調整することはない。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Bestial Clarity": {
@@ -704,7 +704,7 @@
     },
     "Reactive Falsehood": {
       "name": "リアクティブ・フォールスフッド/Reactive Falsehood",
-      "description": "<p><strong>使用制限</strong> once per hour</p>\n<p><strong>トリガー</strong> 公共の場で生物に対して @UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Lie} に失敗したとき</p><hr /><p><strong>効果</strong> 対象があなたの嘘を見破ったとき、群衆の反応を利用して信憑性を高めるように偽りをねじ曲げる。〔嘘をつく〕のためのあなたの 《欺瞞》 判定を再ロールし、この判定には +2 のステータスボーナスが付く。このロールの結果を〔嘘をつく〕の実際の結果として用いる。</p>",
+      "description": "<p><strong>使用制限</strong> once per hour</p>\n<p><strong>トリガー</strong> 公共の場で生物に対して @UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉} に失敗したとき</p><hr /><p><strong>効果</strong> 対象があなたの嘘を見破ったとき、群衆の反応を利用して信憑性を高めるように偽りをねじ曲げる。〔嘘をつく〕のためのあなたの 《欺瞞》 判定を再ロールし、この判定には +2 のステータスボーナスが付く。このロールの結果を〔嘘をつく〕の実際の結果として用いる。</p>",
       "source": "Pathfinder #204: Stage Fright"
     },
     "Mirror-Trickery": {
@@ -740,7 +740,7 @@
     },
     "Disable a Device": {
       "name": "装置無力化/Disable a Device",
-      "description": "<p>このアクションにより、罠やその他の複雑な装置を解除できる。多くの場合、装置はその構造や複雑さに応じて、無力化されるまでに多数の成功を必要とする。@UUID[Compendium.pf2e.equipment-srd.Item.zvLyCVD8g2PdHJAc]{Thieves' Toolkit}は〈装置無力化〉を行う際に役立ち、時には必須となることさえある。GMの判断によって、また装置によっては、それを無力化するために《盗賊術》のより高い習熟ランクが必要となる場合がある。</p>\n<p>あなたの[[/act disable-device]]{《盗賊術》}判定結果が、あなたの進捗を決定する。</p><hr /><p><strong>クリティカル成功</strong>あなたは装置を無力化する。あるいは、1回以上の成功を必要とする装置に対して、無力化に向けた2回の成功を得る。あなたは改ざんの痕跡を一切残さず、その種の装置が再設定可能であれば、後で装置を再設定できる。</p>\n<p><strong>成功</strong>あなたは装置を無力化する。あるいは、1回以上の成功を必要とする装置に対して、無力化に向けた1回の成功を得る。</p>\n<p><strong>クリティカル失敗</strong>あなたは装置を誘発させてしまう。</p>",
+      "description": "<p>このアクションにより、罠やその他の複雑な装置を解除できる。多くの場合、装置はその構造や複雑さに応じて、無力化されるまでに多数の成功を必要とする。@UUID[Compendium.pf2e.equipment-srd.Item.zvLyCVD8g2PdHJAc]{盗賊用具}は〈装置無力化〉を行う際に役立ち、時には必須となることさえある。GMの判断によって、また装置によっては、それを無力化するために《盗賊術》のより高い習熟ランクが必要となる場合がある。</p>\n<p>あなたの[[/act disable-device]]{《盗賊術》}判定結果が、あなたの進捗を決定する。</p><hr /><p><strong>クリティカル成功</strong>あなたは装置を無力化する。あるいは、1回以上の成功を必要とする装置に対して、無力化に向けた2回の成功を得る。あなたは改ざんの痕跡を一切残さず、その種の装置が再設定可能であれば、後で装置を再設定できる。</p>\n<p><strong>成功</strong>あなたは装置を無力化する。あるいは、1回以上の成功を必要とする装置に対して、無力化に向けた1回の成功を得る。</p>\n<p><strong>クリティカル失敗</strong>あなたは装置を誘発させてしまう。</p>",
       "source": "Pathfinder Player Core"
     },
     "Swift Choreography": {
@@ -750,7 +750,7 @@
     },
     "Defend": {
       "name": "防御態勢/Defend",
-      "description": "<p>あなたは盾を掲げた状態で、移動速度の半分で移動する。戦闘が勃発した場合、あなたの最初のターンが始まる前に、@UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]{Raising a シールド}の恩恵を得る。</p>",
+      "description": "<p>あなたは盾を掲げた状態で、移動速度の半分で移動する。戦闘が勃発した場合、あなたの最初のターンが始まる前に、@UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]{〈盾を構える〉}の恩恵を得る。</p>",
       "source": "Pathfinder Player Core"
     },
     "The Bigger They Are": {
@@ -851,7 +851,7 @@
     },
     "Encouraging Words": {
       "name": "エンカレッジング・ワーズ/Encouraging Words",
-      "description": "<p><strong>前提条件</strong> 《交渉》に訓練済みしていること</p>\n<p><strong>必要条件</strong>対象の味方が直近のラウンドの間にスタミナ・ポイントを失った</p>\n<hr />\n<p>あなたは30フィート以内の味方に短い励ましの言葉をかけ、回復を助ける。《交渉》判定を行う。DCは通常15だが、GMは状況に応じて調整してもよい。あなたが《交渉》に熟練(エキスパート)の習熟度を持っているなら、代わりにDC 20の判定を行って回復するスタミナ・ポイントを5増加させることができる。習熟度が達人(マスター)なら、DC 30の判定を行ってスタミナ・ポイントを15増加させることができる。習熟度が伝説(レジェンダリー)なら、DC 40の判定を行ってスタミナ・ポイントを25増加させることができる。結果がどうであれ、その味方は、@UUID[Compendium.pf2e.actionspf2e.Item.qc0VsZ0UesnurUUB]{Take a Breather}を行うか、その日一日の休息をとるまで、「励ましの言葉」に対して一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>その味方は[[/r {2d8} #Stamina Points]]{2d8 Stamina Points}を回復する。</p>\n<p><strong>成功</strong>その味方は[[/r {1d8} #Stamina Points]]{1d8 Stamina Points}を回復する。</p>\n<p><strong>クリティカル失敗</strong>その味方は@Damage[1d8[mental]]ダメージを受けるが、これはスタミナ・ポイントのみを減少させることができ、決してヒット・ポイントを減少させることはできない。</p>",
+      "description": "<p><strong>前提条件</strong> 《交渉》に訓練済みしていること</p>\n<p><strong>必要条件</strong>対象の味方が直近のラウンドの間にスタミナ・ポイントを失った</p>\n<hr />\n<p>あなたは30フィート以内の味方に短い励ましの言葉をかけ、回復を助ける。《交渉》判定を行う。DCは通常15だが、GMは状況に応じて調整してもよい。あなたが《交渉》に熟練(エキスパート)の習熟度を持っているなら、代わりにDC 20の判定を行って回復するスタミナ・ポイントを5増加させることができる。習熟度が達人(マスター)なら、DC 30の判定を行ってスタミナ・ポイントを15増加させることができる。習熟度が伝説(レジェンダリー)なら、DC 40の判定を行ってスタミナ・ポイントを25増加させることができる。結果がどうであれ、その味方は、@UUID[Compendium.pf2e.actionspf2e.Item.qc0VsZ0UesnurUUB]{〈テイク・ア・ブレザー〉}を行うか、その日一日の休息をとるまで、「励ましの言葉」に対して一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>その味方は[[/r {2d8} #Stamina Points]]{2d8 Stamina Points}を回復する。</p>\n<p><strong>成功</strong>その味方は[[/r {1d8} #Stamina Points]]{1d8 Stamina Points}を回復する。</p>\n<p><strong>クリティカル失敗</strong>その味方は@Damage[1d8[mental]]ダメージを受けるが、これはスタミナ・ポイントのみを減少させることができ、決してヒット・ポイントを減少させることはできない。</p>",
       "source": "Pathfinder Gamemastery Guide"
     },
     "Swarm Forth": {
@@ -896,27 +896,27 @@
     },
     "Opportune Riposte": {
       "name": "オポチューン・リポスト/Opportune Riposte",
-      "description": "<p><strong>トリガー</strong> 射程内の敵があなたに対する〔ストライク〕でクリティカル失敗したとき</p>\n<hr />\n<p>敵のしくじった攻撃の隙を突く。起動した敵に対して近接の〔ストライク〕を行うか、またはその敵が〔ストライク〕に使った武器を@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm}しようと試みる.</p>",
+      "description": "<p><strong>トリガー</strong> 射程内の敵があなたに対する〔ストライク〕でクリティカル失敗したとき</p>\n<hr />\n<p>敵のしくじった攻撃の隙を突く。起動した敵に対して近接の〔ストライク〕を行うか、またはその敵が〔ストライク〕に使った武器を@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}しようと試みる.</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Liar's Hidden Blade": {
       "name": "ライアーズ・ヒドゥン・ブレイド/Liar's Hidden Blade",
-      "description": "<p><strong>必要条件</strong>あなたの直前のアクションが、@UUID[Compendium.pf2e.classfeatures.Item.ktgzHtKoeUZ5H8KA]{シャドウ Sheath}</p>から取り出した武器による失敗した〈ストライク〉であったこと。<hr /><p><strong>効果</strong>あなたが投げたシャドウ武器は消え去り、その陽動が本来の意図を隠していた――最初の攻撃の死角に隠された2回目のストライクだ！シャドウ・シースから別の武器を抜くために〈扱う〉を行い、その後、失敗した攻撃と同じマルチアタック・ペナルティでその武器を用いて〈ストライク〉を行う。相手はこの攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}</p>となる。\n<p>この〈ストライク〉は通常通り、あなたのマルチアタック・ペナルティに数えられる。〈ストライク〉が解決した後、あなたはシャドウ・シースから別の武器を抜くために〈扱う〉を行うことができる。</p>",
+      "description": "<p><strong>必要条件</strong>あなたの直前のアクションが、@UUID[Compendium.pf2e.classfeatures.Item.ktgzHtKoeUZ5H8KA]{シャドウ・シース}</p>から取り出した武器による失敗した〈ストライク〉であったこと。<hr /><p><strong>効果</strong>あなたが投げたシャドウ武器は消え去り、その陽動が本来の意図を隠していた――最初の攻撃の死角に隠された2回目のストライクだ！シャドウ・シースから別の武器を抜くために〈扱う〉を行い、その後、失敗した攻撃と同じマルチアタック・ペナルティでその武器を用いて〈ストライク〉を行う。相手はこの攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}</p>となる。\n<p>この〈ストライク〉は通常通り、あなたのマルチアタック・ペナルティに数えられる。〈ストライク〉が解決した後、あなたはシャドウ・シースから別の武器を抜くために〈扱う〉を行うことができる。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Final Surge": {
       "name": "ファイナル・サージ/Final Surge",
-      "description": "<p>〔ストライド〕を2回行う。@UUID[Compendium.pf2e.equipment-srd.Item.GS4YvQieBS11JNYR]{Drakeheart Mutagen}の持続時間は終了する.</p>",
+      "description": "<p>〔ストライド〕を2回行う。@UUID[Compendium.pf2e.equipment-srd.Item.GS4YvQieBS11JNYR]{ドレイクハート・ミュータジェン（レッサー）}の持続時間は終了する.</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Settle Emotions": {
       "name": "セトル・エモーションズ/Settle Emotions",
-      "description": "<p>あなたは感情を鎮めて再び制御下に戻すために、習得した技法を使って10分を費やす。これにより再び@UUID[Compendium.pf2e.actionspf2e.Item.2424g94rpoiN1IPh]{Catharsis}にアクセスできるようになる.</p>",
+      "description": "<p>あなたは感情を鎮めて再び制御下に戻すために、習得した技法を使って10分を費やす。これにより再び@UUID[Compendium.pf2e.actionspf2e.Item.2424g94rpoiN1IPh]{〈カタルシス〉}にアクセスできるようになる.</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Fracture Mountains": {
       "name": "フラクチャー・マウンテンズ/Fracture Mountains",
-      "description": "<p>あなたの霊は非常に濃密になり、触れる力を帯びる。@UUID[Compendium.pf2e.classfeatures.Item.jpS7wcMnBXK1rS4J]{タイタン's Breaker}で近接の〔ストライク〕を行う。これを多重攻撃ペナルティの計算では2回分の攻撃として扱う。この〔ストライク〕が命中した場合、イコンの内在性からの追加の精神ダメージは4に増加し、さらに武器ダメージの追加ダイスが1個増える.</p>\n<p>もしあなたが少なくとも10レベルであれば、それは6の精神ダメージと追加ダイス2個に増え、さらに少なくとも18レベルであれば8の精神ダメージと追加ダイス3個に増える.</p>",
+      "description": "<p>あなたの霊は非常に濃密になり、触れる力を帯びる。@UUID[Compendium.pf2e.classfeatures.Item.jpS7wcMnBXK1rS4J]{タイタンズ・ブレイカー}で近接の〔ストライク〕を行う。これを多重攻撃ペナルティの計算では2回分の攻撃として扱う。この〔ストライク〕が命中した場合、イコンの内在性からの追加の精神ダメージは4に増加し、さらに武器ダメージの追加ダイスが1個増える.</p>\n<p>もしあなたが少なくとも10レベルであれば、それは6の精神ダメージと追加ダイス2個に増え、さらに少なくとも18レベルであれば8の精神ダメージと追加ダイス3個に増える.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Mirrored Wall": {
@@ -962,7 +962,7 @@
     },
     "Lie": {
       "name": "嘘をつく/Lie",
-      "description": "<p>あなたは不実で誰かをだまそうとする。これには最低でも1 ラウンドがかかり、嘘が込み入っている場合はさらに時間がかかる。単一の[[/act lie]]{Deception}判定を行い、だまそうとする各生物のPerceptionのDCと比較する。GMは状況や嘘の性質に基づいて対象に状況ボーナスを与えることがある。複雑で信じがたい嘘は、より単純で納得しやすい嘘よりも信じさせるのがずっと難しく、極端に大きな嘘は誰にも信じてもらえないことがある.</p>\n<p>GMの裁量で、ある生物が最初はあなたの嘘を信じても、後に証拠を見つけてそれが嘘だと気づくためにPerception判定を行うことがある。その場合、対象はあなたの《欺瞞》 DCに対して@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive}を試みるのが通常だ。これは通常、対象があなたの発言を覆す十分な証拠を発見したときに起こる.</p><hr /><p><strong>成功</strong> 対象はあなたの嘘を信じる.</p>\n<p><strong>失敗</strong> 対象はあなたの嘘を信じず、会話の間あなたが〔嘘をつく〕を行う際に+4の状況ボーナスを得る。対象は今後あなたをより疑い深く見るようになる.</p>",
+      "description": "<p>あなたは不実で誰かをだまそうとする。これには最低でも1 ラウンドがかかり、嘘が込み入っている場合はさらに時間がかかる。単一の[[/act lie]]{Deception}判定を行い、だまそうとする各生物のPerceptionのDCと比較する。GMは状況や嘘の性質に基づいて対象に状況ボーナスを与えることがある。複雑で信じがたい嘘は、より単純で納得しやすい嘘よりも信じさせるのがずっと難しく、極端に大きな嘘は誰にも信じてもらえないことがある.</p>\n<p>GMの裁量で、ある生物が最初はあなたの嘘を信じても、後に証拠を見つけてそれが嘘だと気づくためにPerception判定を行うことがある。その場合、対象はあなたの《欺瞞》 DCに対して@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}を試みるのが通常だ。これは通常、対象があなたの発言を覆す十分な証拠を発見したときに起こる.</p><hr /><p><strong>成功</strong> 対象はあなたの嘘を信じる.</p>\n<p><strong>失敗</strong> 対象はあなたの嘘を信じず、会話の間あなたが〔嘘をつく〕を行う際に+4の状況ボーナスを得る。対象は今後あなたをより疑い深く見るようになる.</p>",
       "source": "Pathfinder Player Core"
     },
     "Skirt the Underworld": {
@@ -993,12 +993,12 @@
     },
     "Sense Direction": {
       "name": "位置を定める/Sense Direction",
-      "description": "<p>星、太陽の位置、地理や植物のトレイト、あるいは動物の行動を利用することで、あなたは野外で方向感覚を保つことができる。通常、あなたは[[/act sense-direction]]{《生存術》}判定を　1日1回しか行わないが、環境や変化によってはより頻繁にロールする必要があるかもしれない。GMがDCと、この活動にかかる時間(通常は1分程度)を決定する。より珍しい場所や、あなたが不慣れな場所では、〈位置を定める〉ために最低限の習熟ランクが必要になることがある。@UUID[Compendium.pf2e.equipment-srd.Item.wob6DB1FFdWs0mbp]{Compass}なしでは、〈位置を定める〉ための判定に–2のアイテム・ペナルティを受ける。</p><hr /><p><strong>クリティカル成功</strong>あなたは自分がどこにいるかを正確に把握する。方位枢機卿のある環境にいる場合、それらを正確に知ることができる。</p>\n<p><strong>成功</strong>あなたは完全に道に迷うことを避けるのに十分な方向感覚を得る。方位枢機卿のある環境にいる場合、それらの方位を感じ取ることができる。</p><section class=\"sample-tasks\"><h2>〈位置を定める〉のタスク</h2><ul><li><strong>未訓練</strong>太陽を用いて方位枢機卿を特定する</li><li><strong>訓練済み</strong>森の中の草に覆われた小径を見つける</li><li><strong>エキスパート</strong>生け垣の迷路を通り抜ける</li><li><strong>マスター</strong>複雑な迷宮や、特徴の乏しい砂漠を通り抜ける</li><li><strong>レジェンダリー</strong>絶えず変化する夢の領域を通り抜ける</li></ul></section>",
+      "description": "<p>星、太陽の位置、地理や植物のトレイト、あるいは動物の行動を利用することで、あなたは野外で方向感覚を保つことができる。通常、あなたは[[/act sense-direction]]{《生存術》}判定を　1日1回しか行わないが、環境や変化によってはより頻繁にロールする必要があるかもしれない。GMがDCと、この活動にかかる時間(通常は1分程度)を決定する。より珍しい場所や、あなたが不慣れな場所では、〈位置を定める〉ために最低限の習熟ランクが必要になることがある。@UUID[Compendium.pf2e.equipment-srd.Item.wob6DB1FFdWs0mbp]{コンパス}なしでは、〈位置を定める〉ための判定に–2のアイテム・ペナルティを受ける。</p><hr /><p><strong>クリティカル成功</strong>あなたは自分がどこにいるかを正確に把握する。方位枢機卿のある環境にいる場合、それらを正確に知ることができる。</p>\n<p><strong>成功</strong>あなたは完全に道に迷うことを避けるのに十分な方向感覚を得る。方位枢機卿のある環境にいる場合、それらの方位を感じ取ることができる。</p><section class=\"sample-tasks\"><h2>〈位置を定める〉のタスク</h2><ul><li><strong>未訓練</strong>太陽を用いて方位枢機卿を特定する</li><li><strong>訓練済み</strong>森の中の草に覆われた小径を見つける</li><li><strong>エキスパート</strong>生け垣の迷路を通り抜ける</li><li><strong>マスター</strong>複雑な迷宮や、特徴の乏しい砂漠を通り抜ける</li><li><strong>レジェンダリー</strong>絶えず変化する夢の領域を通り抜ける</li></ul></section>",
       "source": "Pathfinder Player Core"
     },
     "Rampaging Ferocity": {
       "name": "ランペイジング・フェロシティ/Rampaging Ferocity",
-      "description": "<p><strong>トリガー</strong> あなたが@UUID[Compendium.pf2e.feats-srd.Item.PlhPpdwIV0rIAJ8K]{Orc Ferocity}</p>を使用するとき\n<hr />\n<p> 死をかわしつつ激しく攻撃を繰り出す。単一の近接〔ストライク〕を行う。この〔ストライク〕が敵を0ヒット・ポイントにした場合、このオーク Ferocityの発動は頻度にカウントされない.</p>",
+      "description": "<p><strong>トリガー</strong> あなたが@UUID[Compendium.pf2e.feats-srd.Item.PlhPpdwIV0rIAJ8K]{オーク・フェロシティ}</p>を使用するとき\n<hr />\n<p> 死をかわしつつ激しく攻撃を繰り出す。単一の近接〔ストライク〕を行う。この〔ストライク〕が敵を0ヒット・ポイントにした場合、このオーク Ferocityの発動は頻度にカウントされない.</p>",
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Empty Vessel": {
@@ -1126,7 +1126,7 @@
     },
     "Direct Follower": {
       "name": "ダイレクト・フォロワー/Direct Follower",
-      "description": "<p>あなたは従者に命令を出し、彼らに2アクションを与える。このアクションは通信方法に応じて聴覚か視覚のトレイトを持つが、どちらか一方でなければならない。以下の基本アクションのいずれかを従者に指示できる: @UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{Crawl}, 〔伏せる〕, @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}, 〔扱う〕, @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap}, 〔手放す〕, @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}, @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive}, 〔立ち上がる〕, 〔ステップ〕, 〔ストライド〕, および 〔ストライク〕。従者は自分のステータス欄に記載されたストライクのみ使用できる。従者がburrow 移動速度や飛行移動速度を得ている場合、それぞれ〔穴掘り〕や〔飛行〕を使用できる。また、前提条件を満たしているスキルアクションを従者に指示することもできる。最後に、従者のステータス欄に記載されている任意のアクションを実行するよう指示できる。獣の仲間の支援アクションとは異なり、これらの特別なアクションはそのターンに従者が行える他のアクションに制限を課さない。</p>",
+      "description": "<p>あなたは従者に命令を出し、彼らに2アクションを与える。このアクションは通信方法に応じて聴覚か視覚のトレイトを持つが、どちらか一方でなければならない。以下の基本アクションのいずれかを従者に指示できる: @UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{〈這い進む〉}, 〔伏せる〕, @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}, 〔扱う〕, @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{〈跳躍〉}, 〔手放す〕, @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}, @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}, 〔立ち上がる〕, 〔ステップ〕, 〔ストライド〕, および 〔ストライク〕。従者は自分のステータス欄に記載されたストライクのみ使用できる。従者がburrow 移動速度や飛行移動速度を得ている場合、それぞれ〔穴掘り〕や〔飛行〕を使用できる。また、前提条件を満たしているスキルアクションを従者に指示することもできる。最後に、従者のステータス欄に記載されている任意のアクションを実行するよう指示できる。獣の仲間の支援アクションとは異なり、これらの特別なアクションはそのターンに従者が行える他のアクションに制限を課さない。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Elemental Maelstrom": {
@@ -1136,12 +1136,12 @@
     },
     "Intensify Vulnerability": {
       "name": "インテンシファイ・ヴァルネラビリティ/Intensify Vulnerability",
-      "description": "<p><strong>前提条件</strong> @UUID[Compendium.pf2e.actionspf2e.Item.fodJ3zuwQsYnBbtk]{Exploit Vulnerability}</p>\n<p><strong>使用制限</strong> 1ラウンドに1回</p>\n<p><strong>要件</strong> あなたはExploit Vulnerabilityの効果を受けており、対象を視認でき、かつこのラウンドでまだExploit Vulnerabilityを使用していないこと。</p><hr /><p>\nあなたは再び導具と秘術を提示し、対象に対する効果をその導具固有の方法で強化する。あなたが所持している導具のうち1つから強化された脆弱性の恩恵を受け、それは次の自分のターン開始時まで続く。</p>",
+      "description": "<p><strong>前提条件</strong> @UUID[Compendium.pf2e.actionspf2e.Item.fodJ3zuwQsYnBbtk]{〈イクスプロイト・ヴァルネラビリティ〉}</p>\n<p><strong>使用制限</strong> 1ラウンドに1回</p>\n<p><strong>要件</strong> あなたはExploit Vulnerabilityの効果を受けており、対象を視認でき、かつこのラウンドでまだExploit Vulnerabilityを使用していないこと。</p><hr /><p>\nあなたは再び導具と秘術を提示し、対象に対する効果をその導具固有の方法で強化する。あなたが所持している導具のうち1つから強化された脆弱性の恩恵を受け、それは次の自分のターン開始時まで続く。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Arcane Cascade": {
       "name": "アーケイン・カスケード/Arcane Cascade",
-      "description": "<p><strong>必要条件</strong>あなたはこのターンの直前のアクションで〈呪文の発動〉を行うか、@UUID[Compendium.pf2e.actionspf2e.Item.QDW9H8XLIjuW2fE4]{Spellstrike}を行った。この要件を満たす必要があるのはこの構えに入る時のみであり、構えを維持するために満たし続ける必要はない。</p><hr /><p>あなたは呪文の魔力の一部をそらし、特殊な型、呼吸法、あるいは足さばきを用いて、それを自身の肉体と武器の間に循環させ続ける。この構えの最中、あなたの　近接ストライクは1の追加のフォース・ダメージを与える。このダメージは、あなたが武器のスペシャライゼーションを持っているなら2に、上級武器のスペシャライゼーションを持っているなら3に増加する。このダメージの恩恵を受けるあらゆる〈ストライク〉は、アーケインのトレイトを得て、魔法的なものとなる。</p>\n<p>この構えに入る直前の呪文がダメージを与えられるものだった場合、この構えによるダメージは、代わりにその呪文が与えうるものと同じタイプとなる(その呪文が複数のタイプのダメージを与えうる場合は、あなたが選択した1つのタイプとなる)。</p>",
+      "description": "<p><strong>必要条件</strong>あなたはこのターンの直前のアクションで〈呪文の発動〉を行うか、@UUID[Compendium.pf2e.actionspf2e.Item.QDW9H8XLIjuW2fE4]{〈スペルストライク〉}を行った。この要件を満たす必要があるのはこの構えに入る時のみであり、構えを維持するために満たし続ける必要はない。</p><hr /><p>あなたは呪文の魔力の一部をそらし、特殊な型、呼吸法、あるいは足さばきを用いて、それを自身の肉体と武器の間に循環させ続ける。この構えの最中、あなたの　近接ストライクは1の追加のフォース・ダメージを与える。このダメージは、あなたが武器のスペシャライゼーションを持っているなら2に、上級武器のスペシャライゼーションを持っているなら3に増加する。このダメージの恩恵を受けるあらゆる〈ストライク〉は、アーケインのトレイトを得て、魔法的なものとなる。</p>\n<p>この構えに入る直前の呪文がダメージを与えられるものだった場合、この構えによるダメージは、代わりにその呪文が与えうるものと同じタイプとなる(その呪文が複数のタイプのダメージを与えうる場合は、あなたが選択した1つのタイプとなる)。</p>",
       "selfEffect": "構え: 秘術の奔流アーケイン",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -1289,7 +1289,7 @@
     },
     "Liberating Step": {
       "name": "リベレイティング・ステップ/Liberating Step",
-      "description": "<p><strong>トリガー</strong> 敵があなたの味方にダメージを与える、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{grabs}、または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{restrains}し、両者があなたのチャンピオンのオーラ内にいるとき</p><hr /><p> あなたは味方を拘束から解放する.</p>\n<p>もしトリガーが味方がダメージを受けたことなら、その味方はトリガーとなったダメージに対して耐性を得る。その量は2 + あなたのレベルである.</p>\n<p>味方は拘束、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restraining}、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilizing}、または@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzing}の効果から解放される試みをできる。彼らはセーヴを許すその効果に対して新たなセーヴを試みるか、あるいはその効果から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}を試みる（これをフリー・アクションとして行う）。</p>\n<p>もし移動可能なら、その味方は逃げる必要がなくてもフリー・アクションとして〔ステップ〕を行える.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{効果: チャンピオン's Resistance}</p>",
+      "description": "<p><strong>トリガー</strong> 敵があなたの味方にダメージを与える、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}し、両者があなたのチャンピオンのオーラ内にいるとき</p><hr /><p> あなたは味方を拘束から解放する.</p>\n<p>もしトリガーが味方がダメージを受けたことなら、その味方はトリガーとなったダメージに対して耐性を得る。その量は2 + あなたのレベルである.</p>\n<p>味方は拘束、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}、または@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}の効果から解放される試みをできる。彼らはセーヴを許すその効果に対して新たなセーヴを試みるか、あるいはその効果から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みる（これをフリー・アクションとして行う）。</p>\n<p>もし移動可能なら、その味方は逃げる必要がなくてもフリー・アクションとして〔ステップ〕を行える.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{効果: チャンピオン's Resistance}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Goblin Jubilee": {
@@ -1319,7 +1319,7 @@
     },
     "Expeditious Inspection": {
       "name": "エクスペディシャス・インスペクション/Expeditious Inspection",
-      "description": "<p><strong>使用制限</strong> once per 10分</p>\n<hr />\n<p> あなたは周囲を非常に速く観察し評価する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}、@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}、または@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive}を行う.</p>",
+      "description": "<p><strong>使用制限</strong> once per 10分</p>\n<hr />\n<p> あなたは周囲を非常に速く観察し評価する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}、@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}を行う.</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Gluttonous Feast": {
@@ -1334,7 +1334,7 @@
     },
     "Disarming Interception": {
       "name": "ディスアーミング・インターセプション/Disarming Interception",
-      "description": "<p><strong>必要条件</strong> あなたは拳を受け流す構えをしている</p>\n<p><strong>トリガー</strong> あなたのリーチ内の敵が武器によるストライクであなたまたは味方を標的にしたとき</p><hr /><p><strong>効果</strong> あなたは敵が攻撃に使っている武器を@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm}しようと試みる。あなたはこの〔ディスアーム〕判定に+2の恒常ボーナスを得る。判定に成功した場合、発動した攻撃は妨害される。もしその〔ディスアーム〕がクリティカル成功でかつ空いている手があるなら、対象のスペースに武器が落ちる代わりにそれを手で受け取ることができる.</p>",
+      "description": "<p><strong>必要条件</strong> あなたは拳を受け流す構えをしている</p>\n<p><strong>トリガー</strong> あなたのリーチ内の敵が武器によるストライクであなたまたは味方を標的にしたとき</p><hr /><p><strong>効果</strong> あなたは敵が攻撃に使っている武器を@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}しようと試みる。あなたはこの〔ディスアーム〕判定に+2の恒常ボーナスを得る。判定に成功した場合、発動した攻撃は妨害される。もしその〔ディスアーム〕がクリティカル成功でかつ空いている手があるなら、対象のスペースに武器が落ちる代わりにそれを手で受け取ることができる.</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Discover": {
@@ -1412,7 +1412,7 @@
     },
     "Feral Swing": {
       "name": "フェラル・スウィング/Feral Swing",
-      "description": "<p>あなたは両腕を振り回し、目の前のすべてを引き裂く。@Template[type:cone|distance:15]内の各クリーチャーは、あなたのクラスDCに対して@Check[reflex|against:exemplar|basic]セーヴを行わなければならない。失敗した場合、そのクリーチャーはあなたの@UUID[Compendium.pf2e.classfeatures.Item.MhM6u4Stl0jV6CF2]{Hands of the Wildling}による通常の〈ストライク〉ダメージに等しい精神ダメージを受ける。</p>\n<p>あなたは捨て身で攻撃することを選択できる。これを行うと、敵のセーヴィング・スローに–2の状況ペナルティを与えるが、あなた自身はあなたの次のターン開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.raZ8SIBYyFux8L3U]{効果: Feral Swing}</p>",
+      "description": "<p>あなたは両腕を振り回し、目の前のすべてを引き裂く。@Template[type:cone|distance:15]内の各クリーチャーは、あなたのクラスDCに対して@Check[reflex|against:exemplar|basic]セーヴを行わなければならない。失敗した場合、そのクリーチャーはあなたの@UUID[Compendium.pf2e.classfeatures.Item.MhM6u4Stl0jV6CF2]{ハンズ・オブ・ザ・ワイルドリング}による通常の〈ストライク〉ダメージに等しい精神ダメージを受ける。</p>\n<p>あなたは捨て身で攻撃することを選択できる。これを行うと、敵のセーヴィング・スローに–2の状況ペナルティを与えるが、あなた自身はあなたの次のターン開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.raZ8SIBYyFux8L3U]{効果: Feral Swing}</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Cry Havoc!": {
@@ -1468,7 +1468,7 @@
     },
     "Treat Poison": {
       "name": "毒の手当て/Treat Poison",
-      "description": "<p><strong>必要条件</strong> あなたは@UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]{Healer's Toolkit}</p><hr /><p>を身に着けているか所持している。毒の蔓延を防ぐために患者を手当てする。毒のDCに対して[[/act treat-poison]]{Medicine}判定を試みる。あるクリーチャーのために毒を手当てする判定を行った後、そのクリーチャーが次に毒に対してセーヴを行うまで、再度試みることはできない.</p><hr /><p><strong>クリティカル成功</strong> あなたはそのクリーチャーに、次の毒に対するセーヴに+4の状況ボーナスを与える.</p>\n<p><strong>成功</strong> あなたはそのクリーチャーに、次の毒に対するセーヴに+2の状況ボーナスを与える.</p>\n<p><strong>クリティカル失敗</strong> あなたの処置が裏目に出て、そのクリーチャーは次の毒に対するセーヴに−2の状況ペナルティを受ける.</p>\n<p>@UUID[Compendium.pf2e.other-effects.Item.1FrAlPeNseApVrX3]{効果: Treat 毒}</p>",
+      "description": "<p><strong>必要条件</strong> あなたは@UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]{治療用具}</p><hr /><p>を身に着けているか所持している。毒の蔓延を防ぐために患者を手当てする。毒のDCに対して[[/act treat-poison]]{Medicine}判定を試みる。あるクリーチャーのために毒を手当てする判定を行った後、そのクリーチャーが次に毒に対してセーヴを行うまで、再度試みることはできない.</p><hr /><p><strong>クリティカル成功</strong> あなたはそのクリーチャーに、次の毒に対するセーヴに+4の状況ボーナスを与える.</p>\n<p><strong>成功</strong> あなたはそのクリーチャーに、次の毒に対するセーヴに+2の状況ボーナスを与える.</p>\n<p><strong>クリティカル失敗</strong> あなたの処置が裏目に出て、そのクリーチャーは次の毒に対するセーヴに−2の状況ペナルティを受ける.</p>\n<p>@UUID[Compendium.pf2e.other-effects.Item.1FrAlPeNseApVrX3]{効果: Treat 毒}</p>",
       "source": "Pathfinder Player Core"
     },
     "Toxic Skin": {
@@ -1494,7 +1494,7 @@
     },
     "Coordinating Maneuvers": {
       "name": "コーディネイティング・マニューヴァーズ/Coordinating Maneuvers",
-      "description": "<p>味方チームは敵を不利な位置に誘い込むよう連携する。バナーのオーラ内にいるスクワッドメイト1人に合図する。対象のスクワッドメイトは直ちに〔ステップ〕をフリー・アクションとして行える。その移動を相手の隣で終えた場合、その対象に対してリアクションとして@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{Reposition}を試みられる。</p>",
+      "description": "<p>味方チームは敵を不利な位置に誘い込むよう連携する。バナーのオーラ内にいるスクワッドメイト1人に合図する。対象のスクワッドメイトは直ちに〔ステップ〕をフリー・アクションとして行える。その移動を相手の隣で終えた場合、その対象に対してリアクションとして@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}を試みられる。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Recall the Teachings": {
@@ -1549,7 +1549,7 @@
     },
     "Recall Under Pressure": {
       "name": "リコール・アンダー・プレッシャー/Recall Under Pressure",
-      "description": "<p><strong>誘発</strong> 戦闘中にあなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}を試みるとき</p>\n<p><strong>使用制限</strong> 1日につき1回</p>\n<hr />\n<p><strong>効果</strong> 戦闘中に別のスキルで〔思い出す〕を振る代わりに、記憶は古い本で読んだ何かにフラッシュバックする。この〔思い出す〕判定は代わりにアカデミア《専門知識》判定で行う。思い出した情報が次の自分のターンまでに明らかに役立ちかつ正のエネルギーであった場合、無作為にハロウカードを1枚引く。士気が高まり、戦闘終了までのセーヴに+1のステータスボーナスを得るか、引いたカードがBooksのスートだった場合は+2のステータスボーナスを得る。</p>",
+      "description": "<p><strong>誘発</strong> 戦闘中にあなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を試みるとき</p>\n<p><strong>使用制限</strong> 1日につき1回</p>\n<hr />\n<p><strong>効果</strong> 戦闘中に別のスキルで〔思い出す〕を振る代わりに、記憶は古い本で読んだ何かにフラッシュバックする。この〔思い出す〕判定は代わりにアカデミア《専門知識》判定で行う。思い出した情報が次の自分のターンまでに明らかに役立ちかつ正のエネルギーであった場合、無作為にハロウカードを1枚引く。士気が高まり、戦闘終了までのセーヴに+1のステータスボーナスを得るか、引いたカードがBooksのスートだった場合は+2のステータスボーナスを得る。</p>",
       "selfEffect": "効果: プレッシャー下での想起",
       "source": "Pathfinder Stolen Fate Player's Guide"
     },
@@ -1607,12 +1607,12 @@
     },
     "Prove Peace": {
       "name": "プルーヴ・ピース/Prove Peace",
-      "description": "<p><strong>必要条件</strong> 特定の攻城破片を作り出した紛争を知っており、その攻城破片が@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}であること。</p>\n<hr />\n<p>攻城破片に触れて精神的な接続を確立し、紛争の決着に関する事実を伝える。</p>\n<p>攻城破片の意志 DCを使って、その破片を生み出した紛争について@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}する判定を試みる。成功すれば、紛争の終結を証明でき、攻城破片は通常の石に戻る。クリティカル失敗すると過去の紛争の映像に圧倒され、次の自分のターン終了時まで@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}の状態になる。</p>",
+      "description": "<p><strong>必要条件</strong> 特定の攻城破片を作り出した紛争を知っており、その攻城破片が@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}であること。</p>\n<hr />\n<p>攻城破片に触れて精神的な接続を確立し、紛争の決着に関する事実を伝える。</p>\n<p>攻城破片の意志 DCを使って、その破片を生み出した紛争について@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}する判定を試みる。成功すれば、紛争の終結を証明でき、攻城破片は通常の石に戻る。クリティカル失敗すると過去の紛争の映像に圧倒され、次の自分のターン終了時まで@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}の状態になる。</p>",
       "source": "Pathfinder #157: Devil at the Dreaming Palace"
     },
     "Coiling Serpents": {
       "name": "コイリング・サーペンツ/Coiling Serpents",
-      "description": "<p>ikonで射程内の〔ストライク〕を行う。〔ストライク〕が命中した場合、目標はあなたのクラス DC に対する@Check[reflex|against:exemplar]セーヴに成功しなければならない。失敗すると矢は目標の周りに巻き付く多くの幽体の蛇に変化し、目標を@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilizing}して、あなたのクラス DC に対する@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}の試行に成功するまで続けて拘束する。</p>",
+      "description": "<p>ikonで射程内の〔ストライク〕を行う。〔ストライク〕が命中した場合、目標はあなたのクラス DC に対する@Check[reflex|against:exemplar]セーヴに成功しなければならない。失敗すると矢は目標の周りに巻き付く多くの幽体の蛇に変化し、目標を@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}して、あなたのクラス DC に対する@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}の試行に成功するまで続けて拘束する。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Ringing Challenge": {
@@ -1730,7 +1730,7 @@
     },
     "Create Familiar Fulu": {
       "name": "クリエイト・ファミリア・フル/Create Familiar Fulu",
-      "description": "<p><strong>使用制限</strong> 1日1回以上({@UUID[Compendium.pf2e.feats-srd.Item.BcYmYMUU8HDwGthh]{Fulu Familiar}}を参照)；</p>\n<p><strong>必要条件</strong> あなたの使い魔が30フィート以内にいて、あなたが片手を空けていること；</p><hr /><p><strong>効果</strong> あなたはつまむような動作を行い、使い魔は魔法のエネルギーへと溶解し、あなたの指の間で「お札」の魔法のアイテムとして再形成される。そのお札はあなたのレベルより少なくとも2レベル低くなければならず、あなたは魔法の構成要素にかかる通常の金銭的コストを支払う必要も、《製作》判定を行う必要もない。その後、この活動の一部として@UUID[Compendium.pf2e.actionspf2e.Item.UAaQk93a30nx0nYY]{〈タリスマンを取り付ける〉}ことを選択し、使い魔のお札を装着することができる。変身している間、使い魔は通常の利益を与えず、次の日課の準備まで、あるいはあなたがそのお札を起動するまで変身したままである。起動した時点で、使い魔はあなたに隣接する何物も占有していないスペースに再出現する。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回以上({@UUID[Compendium.pf2e.feats-srd.Item.BcYmYMUU8HDwGthh]{フール・ファミリア}}を参照)；</p>\n<p><strong>必要条件</strong> あなたの使い魔が30フィート以内にいて、あなたが片手を空けていること；</p><hr /><p><strong>効果</strong> あなたはつまむような動作を行い、使い魔は魔法のエネルギーへと溶解し、あなたの指の間で「お札」の魔法のアイテムとして再形成される。そのお札はあなたのレベルより少なくとも2レベル低くなければならず、あなたは魔法の構成要素にかかる通常の金銭的コストを支払う必要も、《製作》判定を行う必要もない。その後、この活動の一部として@UUID[Compendium.pf2e.actionspf2e.Item.UAaQk93a30nx0nYY]{〈タリスマンを取り付ける〉}ことを選択し、使い魔のお札を装着することができる。変身している間、使い魔は通常の利益を与えず、次の日課の準備まで、あるいはあなたがそのお札を起動するまで変身したままである。起動した時点で、使い魔はあなたに隣接する何物も占有していないスペースに再出現する。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Base Kinesis": {
@@ -1756,7 +1756,7 @@
     },
     "Ghost Shot": {
       "name": "ゴーストショット/Ghost Shot",
-      "description": "<p>銃またはクロスボウによる〈ストライク〉を行う。もしあなたが対象から@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態であるか、@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}状態であるなら、その〈ストライク〉は@UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{One Shot, One Kill}による追加の精密ダメージを加える。もしその〈ストライク〉ですでにその追加ダメージを受けている場合、効果は累積しない。もしあなたがクリーチャーからundetected状態または@UUID[Compendium.pf2e.conditionitems.Item.9evPzg9E6muFcoSk]{気が付かれていない}状態であったなら、あなたは代わりに彼らからhidden状態となる。ただし、その射撃がサイレンサーを用いて行われた場合はundetected状態となる。</p>",
+      "description": "<p>銃またはクロスボウによる〈ストライク〉を行う。もしあなたが対象から@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態であるか、@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}状態であるなら、その〈ストライク〉は@UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{〈ワン・ショット、ワン・キル〉}による追加の精密ダメージを加える。もしその〈ストライク〉ですでにその追加ダメージを受けている場合、効果は累積しない。もしあなたがクリーチャーからundetected状態または@UUID[Compendium.pf2e.conditionitems.Item.9evPzg9E6muFcoSk]{気が付かれていない}状態であったなら、あなたは代わりに彼らからhidden状態となる。ただし、その射撃がサイレンサーを用いて行われた場合はundetected状態となる。</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Pacifying Infusion": {
@@ -1766,7 +1766,7 @@
     },
     "Strike, Breathe, Rend": {
       "name": "ストライク、ブリーズ、レンド/Strike, Breathe, Rend",
-      "description": "<p><strong>要件</strong> このターンの最後のアクションが@UUID[Compendium.pf2e.classfeatures.Item.ndSCXO9Dg57fmZIY]{Noble Branch}での成功した〔ストライク〕であること。</p><hr /><p><strong>効果</strong> 接触の瞬間に武器に裂けるようなエネルギーの脈動を流す。〔ストライク〕の対象は、高貴の枝の武器のダメージダイスに等しい精神ダメージを受ける。これはストライキングルーンによる追加ダイスは含むが、特殊能力やプロパティルーン等によるものは含まない。</p>",
+      "description": "<p><strong>要件</strong> このターンの最後のアクションが@UUID[Compendium.pf2e.classfeatures.Item.ndSCXO9Dg57fmZIY]{ノーブル・ブランチ}での成功した〔ストライク〕であること。</p><hr /><p><strong>効果</strong> 接触の瞬間に武器に裂けるようなエネルギーの脈動を流す。〔ストライク〕の対象は、高貴の枝の武器のダメージダイスに等しい精神ダメージを受ける。これはストライキングルーンによる追加ダイスは含むが、特殊能力やプロパティルーン等によるものは含まない。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Dragon Breath": {
@@ -1801,7 +1801,7 @@
     },
     "Borrow an Arcane Spell": {
       "name": "呪文の借用/Borrow an Arcane Spell",
-      "description": "<p>もしあなたが呪文書から準備を行う秘術呪文詠唱者であるなら、他人の呪文書から呪文を準備しようと試みることができる。GMは呪文のランクと希少性に基づいて判定のためのDCを設定するが、通常は@UUID[Compendium.pf2e.actionspf2e.Item.Q5iIYCFdqJFM31GW]{Learning the 呪文}より少し容易である。</p>\n<hr />\n<p><strong>成功</strong> 借用した呪文を通常の呪文準備の一部として準備できる。</p>\n<p><strong>失敗</strong> 呪文の準備に失敗するが、呪文スロットは別の呪文を準備するために残る。この呪文を再び準備しようとできるのは次に呪文を準備する時までできない。</p>",
+      "description": "<p>もしあなたが呪文書から準備を行う秘術呪文詠唱者であるなら、他人の呪文書から呪文を準備しようと試みることができる。GMは呪文のランクと希少性に基づいて判定のためのDCを設定するが、通常は@UUID[Compendium.pf2e.actionspf2e.Item.Q5iIYCFdqJFM31GW]{〈呪文の修得〉}より少し容易である。</p>\n<hr />\n<p><strong>成功</strong> 借用した呪文を通常の呪文準備の一部として準備できる。</p>\n<p><strong>失敗</strong> 呪文の準備に失敗するが、呪文スロットは別の呪文を準備するために残る。この呪文を再び準備しようとできるのは次に呪文を準備する時までできない。</p>",
       "source": "Pathfinder Player Core"
     },
     "Wyrm's Breath": {
@@ -1916,7 +1916,7 @@
     },
     "Stitching Strike": {
       "name": "スティッチング・ストライク/Stitching Strike",
-      "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong> 君の使い魔は魔法の繊維へとほどけ、30フィート以内の敵を包み込んで@Damage[(6+max(0,(ceil((@actor.level -8)/2)*2)))d6[slashing]]ダメージを与え、君の呪文DCに対して@Check[reflex|basic]セーヴを行わせる。失敗した場合、対象は1ラウンドの間、または君の呪文DCに対して@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapes}するまで、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。その後、使い魔は元の広場に再形成される。9レベルおよびそれ以降2レベルごとに、この攻撃は追加で2d6ダメージを与える。</p>",
+      "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong> 君の使い魔は魔法の繊維へとほどけ、30フィート以内の敵を包み込んで@Damage[(6+max(0,(ceil((@actor.level -8)/2)*2)))d6[slashing]]ダメージを与え、君の呪文DCに対して@Check[reflex|basic]セーヴを行わせる。失敗した場合、対象は1ラウンドの間、または君の呪文DCに対して@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するまで、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。その後、使い魔は元の広場に再形成される。9レベルおよびそれ以降2レベルごとに、この攻撃は追加で2d6ダメージを与える。</p>",
       "source": "Pathfinder Player Core"
     },
     "Smoke Blending": {
@@ -1941,7 +1941,7 @@
     },
     "Identify Alchemy": {
       "name": "錬金術の識別/Identify Alchemy",
-      "description": "<p><strong>必要条件</strong>君は@UUID[Compendium.pf2e.equipment-srd.Item.4ftXXUCBHcf4b0MH]{アルケミスト's Toolkit}を手に持っているか、身に着けている。</p>\n<hr />\n<p>君はアルケミストの道具セットを使用して10分の検査を行うことで、錬金術アイテムの性質を識別できる。もし試みが何らかの形で中断された場合、君は最初からやり直さなければならない。</p>\n<hr />\n<p><strong>成功</strong>君はそのアイテムと、それを起動する方法を識別する。</p>\n<p><strong>失敗</strong>君はそのアイテムを識別できないが、再試行できる。</p>\n<p><strong>クリティカル失敗</strong>君はそのアイテムを、GMが選択した別のアイテムであると誤認する。</p>",
+      "description": "<p><strong>必要条件</strong>君は@UUID[Compendium.pf2e.equipment-srd.Item.4ftXXUCBHcf4b0MH]{錬金術師用具}を手に持っているか、身に着けている。</p>\n<hr />\n<p>君はアルケミストの道具セットを使用して10分の検査を行うことで、錬金術アイテムの性質を識別できる。もし試みが何らかの形で中断された場合、君は最初からやり直さなければならない。</p>\n<hr />\n<p><strong>成功</strong>君はそのアイテムと、それを起動する方法を識別する。</p>\n<p><strong>失敗</strong>君はそのアイテムを識別できないが、再試行できる。</p>\n<p><strong>クリティカル失敗</strong>君はそのアイテムを、GMが選択した別のアイテムであると誤認する。</p>",
       "source": "Pathfinder Player Core"
     },
     "Learn a Spell": {
@@ -2061,7 +2061,7 @@
     },
     "Nudging Whisper": {
       "name": "ナッジング・ウィスパー/Nudging Whisper",
-      "description": "<p>あなたは自身の言葉に祖先の魔法の残響を織り交ぜる。もしあなたの次のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{〈要請する〉}であるなら、あなたは@UUID[Compendium.pf2e.feats-srd.Item.KIK2Eza9TK47MEb2]{Shameless 〈要請する〉}の特技の効果を得る。また、もしあなたの次のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}であるなら、あなたは@UUID[Compendium.pf2e.feats-srd.Item.6Z4e3B9vePYpibcy]{Confabulator}の特技の効果を得る。いずれかの判定で大失敗した場合、対象およびあなたが失敗するのを目撃した者は、1日の間、あなたのNudging Whisperに対して免疫となる。ただし、これは彼らがあなたが彼らをチャームしようとしたことを知ることを必ずしも意味しない。</p>",
+      "description": "<p>あなたは自身の言葉に祖先の魔法の残響を織り交ぜる。もしあなたの次のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{〈要請する〉}であるなら、あなたは@UUID[Compendium.pf2e.feats-srd.Item.KIK2Eza9TK47MEb2]{シェイムレス・リクエスト}の特技の効果を得る。また、もしあなたの次のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}であるなら、あなたは@UUID[Compendium.pf2e.feats-srd.Item.6Z4e3B9vePYpibcy]{コンファビュレイター}の特技の効果を得る。いずれかの判定で大失敗した場合、対象およびあなたが失敗するのを目撃した者は、1日の間、あなたのNudging Whisperに対して免疫となる。ただし、これは彼らがあなたが彼らをチャームしようとしたことを知ることを必ずしも意味しない。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Master Strike": {
@@ -2151,7 +2151,7 @@
     },
     "Bullet Dancer Stance": {
       "name": "ブレット・ダンサー・スタンス/Bullet Dancer Stance",
-      "description": "<p><strong>必要条件</strong> あなたは鎧を着用しておらず、単純武器の銃器または単純武器の複合武器を装備している。</p><hr /><p><strong>効果</strong> あなたは単純武器の銃器の使用を中心とした独自の武術のための特殊な構えをとる。この構えの間、あなたが行える〈ストライク〉は、銃剣、強化銃床、単純武器の銃器、単純武器の複合武器を使用したものに限られる。あなたはこれらの武器で@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{Flurry of Blows}を使用できる。あなたは、通常は素手攻撃を必要とする他のモンクの特技や能力を、銃剣、強化銃床、および単純武器の複合武器の近接コンポーネントに対して使用できる(ただし、その特技や能力が単一の特定の〈ストライク〉を必要としない場合に限る)。また、最初の射程単位の半分以内で攻撃する場合、単純武器の銃器に対してもそれらを使用できる。</p>",
+      "description": "<p><strong>必要条件</strong> あなたは鎧を着用しておらず、単純武器の銃器または単純武器の複合武器を装備している。</p><hr /><p><strong>効果</strong> あなたは単純武器の銃器の使用を中心とした独自の武術のための特殊な構えをとる。この構えの間、あなたが行える〈ストライク〉は、銃剣、強化銃床、単純武器の銃器、単純武器の複合武器を使用したものに限られる。あなたはこれらの武器で@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈フラーリー・オブ・ブロウズ〉}を使用できる。あなたは、通常は素手攻撃を必要とする他のモンクの特技や能力を、銃剣、強化銃床、および単純武器の複合武器の近接コンポーネントに対して使用できる(ただし、その特技や能力が単一の特定の〈ストライク〉を必要としない場合に限る)。また、最初の射程単位の半分以内で攻撃する場合、単純武器の銃器に対してもそれらを使用できる。</p>",
       "selfEffect": "構え: 弾丸の踊り手構え",
       "source": "Pathfinder Guns & Gears"
     },
@@ -2229,7 +2229,7 @@
     },
     "Search": {
       "name": "捜索/Search",
-      "description": "<p>あなた@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}を行い、隠された扉や隠匿された危険などを注意深く探す。通常、どこを判定するのが最善かを推測し、通常の半分の速度で移動することができる。しかし、徹底的に調べ、すべてを確認したことを保証したいのであれば、毎分300フィート以下の移動速度で移動するか、あるいは毎分150フィートで移動して、歩いて踏み込む前にすべてを判定しなければならない。〈捜索〉を行っている間は、より徹底的にエリアをカバーするためにいつでも移動速度を落とすことができ、@UUID[Compendium.pf2e.feats-srd.Item.GdZLxDtFXaQI3Fop]{Expeditious 〈捜索〉}の特技はこの最大移動速度を上昇させる。〈捜索〉中に隠された扉、アイテム、または危険を見つけた場合、GMは隠された物体や危険に気づいたかどうかを確認するために、〈見回す〉のシークレット判定を自動的に行う。探索すべき物体が多い場所では、立ち止まって徹底的に探索するために、より長い時間を費やさなければならない。</p>",
+      "description": "<p>あなた@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}を行い、隠された扉や隠匿された危険などを注意深く探す。通常、どこを判定するのが最善かを推測し、通常の半分の速度で移動することができる。しかし、徹底的に調べ、すべてを確認したことを保証したいのであれば、毎分300フィート以下の移動速度で移動するか、あるいは毎分150フィートで移動して、歩いて踏み込む前にすべてを判定しなければならない。〈捜索〉を行っている間は、より徹底的にエリアをカバーするためにいつでも移動速度を落とすことができ、@UUID[Compendium.pf2e.feats-srd.Item.GdZLxDtFXaQI3Fop]{エクスペディシャス・サーチ}の特技はこの最大移動速度を上昇させる。〈捜索〉中に隠された扉、アイテム、または危険を見つけた場合、GMは隠された物体や危険に気づいたかどうかを確認するために、〈見回す〉のシークレット判定を自動的に行う。探索すべき物体が多い場所では、立ち止まって徹底的に探索するために、より長い時間を費やさなければならない。</p>",
       "source": "Pathfinder Player Core"
     },
     "Crawl": {
@@ -2284,7 +2284,7 @@
     },
     "Giant-Felling Comet": {
       "name": "ジャイアント・フェリング・コメット/Giant-Felling Comet",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.classfeatures.Item.LC8i3ZJjhhKEHSLI]{Starshot}を射撃し、@Template[type:burst|distance:5]内の60フィート以内で爆発を引き起こす。エリア内の各クリーチャーは、あなたのクラスDCに対する@Check[reflex|against:exemplar|basic|options:area-effect]セーヴに成功しなければならず、失敗するとそのスターショットによる通常の〈ストライク〉ダメージに等しい精神ダメージを受ける。あなたより大きいクリーチャーは、そのセーヴィング・スローに–2の状況ペナルティを受ける。この射撃には、その武器に通常必要とされるあらゆる弾薬が必要となる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.classfeatures.Item.LC8i3ZJjhhKEHSLI]{スターショット}を射撃し、@Template[type:burst|distance:5]内の60フィート以内で爆発を引き起こす。エリア内の各クリーチャーは、あなたのクラスDCに対する@Check[reflex|against:exemplar|basic|options:area-effect]セーヴに成功しなければならず、失敗するとそのスターショットによる通常の〈ストライク〉ダメージに等しい精神ダメージを受ける。あなたより大きいクリーチャーは、そのセーヴィング・スローに–2の状況ペナルティを受ける。この射撃には、その武器に通常必要とされるあらゆる弾薬が必要となる。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Affix a Talisman": {
@@ -2299,12 +2299,12 @@
     },
     "Fire in the Hole": {
       "name": "ファイア・イン・ザ・ホール/Fire in the Hole",
-      "description": "<p><strong>トリガー</strong>クリーチャーがそのハザードの占めるスペースに移動する。</p>\n<hr />\n<p><strong>効果</strong>そのハザードは爆発し、爆弾のダメージとスプラッシュ・ダメージを無生物のオブジェクトに与える。このダメージは抵抗や弱点を適用する目的では合計され、このダメージはオブジェクトの硬度をあなたのレベルに等しい値だけ無視する。ハザードに隣接するクリーチャーは、同様に抵抗や弱点を適用する目的で合計された、爆弾のスプラッシュ・ダメージを受ける。念のため言っておくが、あなたが爆弾を投げたわけではないため、@UUID[Compendium.pf2e.feats-srd.Item.UjWLK86BgHxz3Itd]{Calculated 飛散}や同様の効果は適用されない。</p>",
+      "description": "<p><strong>トリガー</strong>クリーチャーがそのハザードの占めるスペースに移動する。</p>\n<hr />\n<p><strong>効果</strong>そのハザードは爆発し、爆弾のダメージとスプラッシュ・ダメージを無生物のオブジェクトに与える。このダメージは抵抗や弱点を適用する目的では合計され、このダメージはオブジェクトの硬度をあなたのレベルに等しい値だけ無視する。ハザードに隣接するクリーチャーは、同様に抵抗や弱点を適用する目的で合計された、爆弾のスプラッシュ・ダメージを受ける。念のため言っておくが、あなたが爆弾を投げたわけではないため、@UUID[Compendium.pf2e.feats-srd.Item.UjWLK86BgHxz3Itd]{カルキュレイテッド・スプラッシュ}や同様の効果は適用されない。</p>",
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Step": {
       "name": "ステップ/Step",
-      "description": "<p><strong>必要条件</strong> あなたの移動速度は少なくとも10フィートである。</p>\n<hr />\n<p>あなたは慎重に5フィート移動する。ほとんどの種類の移動とは異なり、〈ステップ〉は、移動アクションによって、あるいは広場から離れる際や広場に入る際に誘発される可能性のある、@UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{Reactive 〈ストライク〉}のようなリアクションを誘発しない。</p>\n<p>あなたは移動困難な地形へ〈ステップ〉することはできず、あなたの陸上移動速度以外の移動速度を使用して〈ステップ〉することもできない。</p>",
+      "description": "<p><strong>必要条件</strong> あなたの移動速度は少なくとも10フィートである。</p>\n<hr />\n<p>あなたは慎重に5フィート移動する。ほとんどの種類の移動とは異なり、〈ステップ〉は、移動アクションによって、あるいは広場から離れる際や広場に入る際に誘発される可能性のある、@UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{〈リアクティブ・ストライク〉}のようなリアクションを誘発しない。</p>\n<p>あなたは移動困難な地形へ〈ステップ〉することはできず、あなたの陸上移動速度以外の移動速度を使用して〈ステップ〉することもできない。</p>",
       "source": "Pathfinder Player Core"
     },
     "Defensive Retreat": {
@@ -2442,17 +2442,17 @@
     },
     "Sneak": {
       "name": "忍び歩き/Sneak",
-      "description": "<p>You attempt to move to another place while becoming or staying undetected. Stride up to half your 移動速度. (You can use Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type; you must move at half that 移動速度.)</p>\n<p>At the end of your movement, the GM rolls your [[/act sneak]] 判定 in secret and compares the result to the Perception DC of each creature you were @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている} from or @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知} by at the start of your movement. If you have cover or 大遮蔽 from the creature throughout your Stride, you gain the +2 circumstance bonus from cover (or +4 from 大遮蔽) to your Stealth 判定. Because you're moving, the bonus increase from Taking Cover doesn't apply. You don't get to roll against a creature if, at the end of your movement, you neither are @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難} from it nor have cover or 大遮蔽 against it. You automatically become observed by such a creature.</p>\n<hr />\n<p><strong>成功</strong> You're undetected by the creature during your movement and remain undetected by the creature at the end of it.</p>\n<p>You become observed as soon as you do anything other than Hide, Sneak, or Step. If you attempt to Strike a creature, the creature remains @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備} against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth 判定. If you speak or make a deliberate loud noise, you become hidden instead of undetected.</p>\n<p>If a creature uses @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} and you become hidden to it as a result, you must Sneak if you want to become undetected by that creature again.</p>\n<p><strong>失敗</strong> A telltale sound or other sign gives your position away, though you still remain unseen. You're hidden from the creature throughout your movement and remain so.</p>\n<p><strong>クリティカル失敗</strong> You're spotted! You're observed by the creature throughout your movement and remain so. If you're @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視} and were hidden from the creature, instead of being observed you're hidden throughout your movement and remain so.</p>",
+      "description": "<p>You attempt to move to another place while becoming or staying undetected. Stride up to half your 移動速度. (You can use Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type; you must move at half that 移動速度.)</p>\n<p>At the end of your movement, the GM rolls your [[/act sneak]] 判定 in secret and compares the result to the Perception DC of each creature you were @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている} from or @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知} by at the start of your movement. If you have cover or 大遮蔽 from the creature throughout your Stride, you gain the +2 circumstance bonus from cover (or +4 from 大遮蔽) to your Stealth 判定. Because you're moving, the bonus increase from Taking Cover doesn't apply. You don't get to roll against a creature if, at the end of your movement, you neither are @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難} from it nor have cover or 大遮蔽 against it. You automatically become observed by such a creature.</p>\n<hr />\n<p><strong>成功</strong> You're undetected by the creature during your movement and remain undetected by the creature at the end of it.</p>\n<p>You become observed as soon as you do anything other than Hide, Sneak, or Step. If you attempt to Strike a creature, the creature remains @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備} against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth 判定. If you speak or make a deliberate loud noise, you become hidden instead of undetected.</p>\n<p>If a creature uses @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉} and you become hidden to it as a result, you must Sneak if you want to become undetected by that creature again.</p>\n<p><strong>失敗</strong> A telltale sound or other sign gives your position away, though you still remain unseen. You're hidden from the creature throughout your movement and remain so.</p>\n<p><strong>クリティカル失敗</strong> You're spotted! You're observed by the creature throughout your movement and remain so. If you're @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視} and were hidden from the creature, instead of being observed you're hidden throughout your movement and remain so.</p>",
       "source": "Pathfinder Player Core"
     },
     "Spellsling": {
       "name": "スペルスリング/Spellsling",
-      "description": "<p><strong>必要条件</strong> You're wielding your bonded beast gun or another magic firearm</p><hr /><p><strong>効果</strong> You Cast a 呪文 that takes 1または2 actions to cast and requires a spell attack roll. The effects of the spell do not occur immediately but are imbued into the beast gun you're wielding. Make a Strike with that beast gun. Your spell flies with the ammunition, using your attack roll result to determine the effects of both the Strike and the spell. This counts as two attacks for the purposes of determining your マルチアタック・ペナルティ, but you don't apply the penalty until after you've completed resolving the attack and spell.</p><hr /><p><strong>Special</strong> If you also have the @UUID[Compendium.pf2e.actionspf2e.Item.3MiV0maH8imtnVwS]{呪文-Woven Shot} action you can load and activate a piece of magical ammunition as a フリー・アクション before making a Spellsling attack once per 10分.</p>",
+      "description": "<p><strong>必要条件</strong> You're wielding your bonded beast gun or another magic firearm</p><hr /><p><strong>効果</strong> You Cast a 呪文 that takes 1または2 actions to cast and requires a spell attack roll. The effects of the spell do not occur immediately but are imbued into the beast gun you're wielding. Make a Strike with that beast gun. Your spell flies with the ammunition, using your attack roll result to determine the effects of both the Strike and the spell. This counts as two attacks for the purposes of determining your マルチアタック・ペナルティ, but you don't apply the penalty until after you've completed resolving the attack and spell.</p><hr /><p><strong>Special</strong> If you also have the @UUID[Compendium.pf2e.actionspf2e.Item.3MiV0maH8imtnVwS]{〈スペル・ウォーヴン・ショット〉} action you can load and activate a piece of magical ammunition as a フリー・アクション before making a Spellsling attack once per 10分.</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Vital Shot": {
       "name": "ヴァイタル・ショット/Vital Shot",
-      "description": "<p>疑っていない相手に対するあなたの慎重な射撃が、重要な動脈や臓器を貫く。遠隔〈ストライク〉を行う。対象が@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態である場合、その〈ストライク〉は武器ダメージのダイスを1個追加で与え、さらにその敵はあなたの@UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{One Shot, One Kill}による精密ダメージと同量の持続出血ダメージを受ける。</p>",
+      "description": "<p>疑っていない相手に対するあなたの慎重な射撃が、重要な動脈や臓器を貫く。遠隔〈ストライク〉を行う。対象が@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態である場合、その〈ストライク〉は武器ダメージのダイスを1個追加で与え、さらにその敵はあなたの@UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{〈ワン・ショット、ワン・キル〉}による精密ダメージと同量の持続出血ダメージを受ける。</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Foresight": {
@@ -2487,7 +2487,7 @@
     },
     "Set Explosives": {
       "name": "セット・エクスプロージヴズ/Set Explosives",
-      "description": "<p><strong>必要条件</strong>あなたの手の中に1または2個の爆弾があること。</p><hr /><p><strong>効果</strong>あなたはリーチ内の無生物(扉、壁、柱など)に爆弾を取り付け、設定した時間に爆発するように仕掛ける。爆弾はあなたが決定した特定の時間(次のアクションの後や、次のターンの開始時など、最大1分まで)に爆発し、その無生物にダメージと爆風ダメージを与える。抵抗と弱点を適用する目的でこのダメージを合計する。このダメージは、あなたのレベルに等しい値だけ、そのオブジェクトの硬度を無視する。ハザードに隣接するクリーチャーは、爆弾の爆風ダメージを受ける(これも抵抗と弱点を適用する目的で合計される)。念のため言っておくと、あなたは爆弾を投げていないため、@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{Bomber's Field Discovery}や同様の効果は適用されない。タイミングを正確に合わせるには集中が必要なため、以前に仕掛けた爆弾が爆発するのを待っている間は、再び爆発物をセトすることはできない。</p>",
+      "description": "<p><strong>必要条件</strong>あなたの手の中に1または2個の爆弾があること。</p><hr /><p><strong>効果</strong>あなたはリーチ内の無生物(扉、壁、柱など)に爆弾を取り付け、設定した時間に爆発するように仕掛ける。爆弾はあなたが決定した特定の時間(次のアクションの後や、次のターンの開始時など、最大1分まで)に爆発し、その無生物にダメージと爆風ダメージを与える。抵抗と弱点を適用する目的でこのダメージを合計する。このダメージは、あなたのレベルに等しい値だけ、そのオブジェクトの硬度を無視する。ハザードに隣接するクリーチャーは、爆弾の爆風ダメージを受ける(これも抵抗と弱点を適用する目的で合計される)。念のため言っておくと、あなたは爆弾を投げていないため、@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{フィールド・ディスカヴァリー(ボンバー)}や同様の効果は適用されない。タイミングを正確に合わせるには集中が必要なため、以前に仕掛けた爆弾が爆発するのを待っている間は、再び爆発物をセトすることはできない。</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Boarding Assault": {
@@ -2497,7 +2497,7 @@
     },
     "Drink of my Foes": {
       "name": "ドリンク・オブ・マイ・フォーズ/Drink of my Foes",
-      "description": "<p><strong>必要条件</strong>あなたの最後のアクションが、@UUID[Compendium.pf2e.classfeatures.Item.LfgeEJgJdA8WAKV8]{Barrow's Edge}を用いた成功した〈ストライク〉であったこと。</p><hr /><p><strong>効果</strong>あなたの刃は敵の生命力を吸収し、輝きを放つ。あなたは与えたダメージの半分に等しいヒット・ポイントを回復する。</p>",
+      "description": "<p><strong>必要条件</strong>あなたの最後のアクションが、@UUID[Compendium.pf2e.classfeatures.Item.LfgeEJgJdA8WAKV8]{バロウズ・エッジ}を用いた成功した〈ストライク〉であったこと。</p><hr /><p><strong>効果</strong>あなたの刃は敵の生命力を吸収し、輝きを放つ。あなたは与えたダメージの半分に等しいヒット・ポイントを回復する。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Threatening Approach": {
@@ -2557,7 +2557,7 @@
     },
     "Jumping Jenny": {
       "name": "ジャンピング・ジェニー/Jumping Jenny",
-      "description": "<p>60フィート以内にいる飛行しているクリーチャーを対象とする。あなたの次のターンの開始時まで、そのクリーチャーが〈飛行〉を試みるたびに、@UUID[Compendium.pf2e.actionspf2e.Item.yUjuLbBMflVum8Yn]{Launch Fireworks}のDCに対して[[/act maneuver-in-flight]]するために《軽業》判定に成功しなければならない。さもなくば、その〈飛行〉アクションは妨害される。そのクリーチャーの〈飛行〉の試みがすべて妨害された場合、そのターンの終了時に、そのクリーチャーは安全に地面へと落下する。</p>",
+      "description": "<p>60フィート以内にいる飛行しているクリーチャーを対象とする。あなたの次のターンの開始時まで、そのクリーチャーが〈飛行〉を試みるたびに、@UUID[Compendium.pf2e.actionspf2e.Item.yUjuLbBMflVum8Yn]{〈ローンチ・ファイアワークス〉}のDCに対して[[/act maneuver-in-flight]]するために《軽業》判定に成功しなければならない。さもなくば、その〈飛行〉アクションは妨害される。そのクリーチャーの〈飛行〉の試みがすべて妨害された場合、そのターンの終了時に、そのクリーチャーは安全に地面へと落下する。</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Swarming Assault": {
@@ -2572,7 +2572,7 @@
     },
     "Sickening Assault": {
       "name": "シックニング・アサルト/Sickening Assault",
-      "description": "|||<p><strong>使用制限</strong> 1分に1回</p>\n<p><strong>必要条件</strong> あなたのエイドロンが分散している。</p><hr /><p>あなたエイドロンは敵に可能な限り最大のダメージを与えることに集中する。あなたのエイドロンの次のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.Wukpm200zHDuS85V]{Swarming Assault}を使用することである場合、そのSwarming Assaultのダメージダイスの数は2倍になる。さらに、そのSwarming Assaultに対して反応セーヴに失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となり(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 4}状態となる)。</p>|||",
+      "description": "|||<p><strong>使用制限</strong> 1分に1回</p>\n<p><strong>必要条件</strong> あなたのエイドロンが分散している。</p><hr /><p>あなたエイドロンは敵に可能な限り最大のダメージを与えることに集中する。あなたのエイドロンの次のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.Wukpm200zHDuS85V]{〈スウォーミング・アサルト〉}を使用することである場合、そのSwarming Assaultのダメージダイスの数は2倍になる。さらに、そのSwarming Assaultに対して反応セーヴに失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となり(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 4}状態となる)。</p>|||",
       "source": "Pathfinder Battlecry!"
     },
     "Indomitable Act": {
@@ -2582,7 +2582,7 @@
     },
     "Pointed Question": {
       "name": "ポインテッド・クエスチョン/Pointed Question",
-      "description": "<p>あなたは相手を魅了する、あるいは的確に突き刺すような質問をする。あなたが見ることのできる非同盟のクリーチャー1体に質問を行う。そのクリーチャーの意志DCに対して@Check[diplomacy|against:will] 判定を行う。そのクリーチャーはその後1時間の間、一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong> 対象はあなたの質問に直接答えなければならない。それは正直に答える必要はないが、そのクリーチャーがあなたに対して@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}ことを試みた場合、あなたの《知覚》DCに+4の状況ボーナスを得る。</p>\n<p>正直に答えたかどうかにかかわらず、あなたは相手の身振りから何かを読み取る。そして、そのクリーチャーはあなたのターンの終了までにあなたがそれに対して行う、@UUID[Compendium.pf2e.actionspf2e.Item.m0f2B7G9eaaTmhFL]{Devise a Stratagem}を使用した〈ストライク〉に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>\n<p><strong>成功</strong> 大成功と同様だが、あなたの《知覚》DCへの状況ボーナスは+2である。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.SScln8qRQgVC6Brz]{効果: Pointed Question}</p>\n<p><strong>失敗</strong> 対象は通常通りあなたへの回答を拒否できる。</p>\n<p><strong>クリティカル失敗</strong> 対象は通常通りあなたへの回答を拒否できる。さらに、あなたの苛立たしい関心のせいで、その対象のあなたに対する態度が1段階悪化する。</p>",
+      "description": "<p>あなたは相手を魅了する、あるいは的確に突き刺すような質問をする。あなたが見ることのできる非同盟のクリーチャー1体に質問を行う。そのクリーチャーの意志DCに対して@Check[diplomacy|against:will] 判定を行う。そのクリーチャーはその後1時間の間、一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong> 対象はあなたの質問に直接答えなければならない。それは正直に答える必要はないが、そのクリーチャーがあなたに対して@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}ことを試みた場合、あなたの《知覚》DCに+4の状況ボーナスを得る。</p>\n<p>正直に答えたかどうかにかかわらず、あなたは相手の身振りから何かを読み取る。そして、そのクリーチャーはあなたのターンの終了までにあなたがそれに対して行う、@UUID[Compendium.pf2e.actionspf2e.Item.m0f2B7G9eaaTmhFL]{〈デヴァイズ・ア・ストラタジェム〉}を使用した〈ストライク〉に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>\n<p><strong>成功</strong> 大成功と同様だが、あなたの《知覚》DCへの状況ボーナスは+2である。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.SScln8qRQgVC6Brz]{効果: Pointed Question}</p>\n<p><strong>失敗</strong> 対象は通常通りあなたへの回答を拒否できる。</p>\n<p><strong>クリティカル失敗</strong> 対象は通常通りあなたへの回答を拒否できる。さらに、あなたの苛立たしい関心のせいで、その対象のあなたに対する態度が1段階悪化する。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Resist Magic": {
@@ -2607,7 +2607,7 @@
     },
     "Shatter Glass": {
       "name": "シャッター・グラス/Shatter Glass",
-      "description": "<p><strong>トリガー</strong> 隣接するクリーチャーが近接武器または素手攻撃であなたにストライクを行い、ダメージを与えるした時</p>\n<p><strong>必要条件</strong> @UUID[Compendium.pf2e.feats-srd.Item.VF5XFpzBlqUFd8Mw]{Glass Skin}によるあなたの生得的な@UUID[Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt]{マウンテン・レジリエンス}が有効であること</p>\n<hr />\n<p><strong>効果</strong> あなたは皮膚のガラスの一部を砕いて攻撃者にダメージを与える。攻撃者は@Damage[3d10[slashing]]ダメージを受け、ストーンズキンの持続時間が1分減少する。14レベルで、ダメージは@Damage[4d10[slashing]]ダメージに増加し、18レベルで、ダメージは@Damage[5d10[slashing]]ダメージに増加する。</p>",
+      "description": "<p><strong>トリガー</strong> 隣接するクリーチャーが近接武器または素手攻撃であなたにストライクを行い、ダメージを与えるした時</p>\n<p><strong>必要条件</strong> @UUID[Compendium.pf2e.feats-srd.Item.VF5XFpzBlqUFd8Mw]{グラス・スキン}によるあなたの生得的な@UUID[Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt]{マウンテン・レジリエンス}が有効であること</p>\n<hr />\n<p><strong>効果</strong> あなたは皮膚のガラスの一部を砕いて攻撃者にダメージを与える。攻撃者は@Damage[3d10[slashing]]ダメージを受け、ストーンズキンの持続時間が1分減少する。14レベルで、ダメージは@Damage[4d10[slashing]]ダメージに増加し、18レベルで、ダメージは@Damage[5d10[slashing]]ダメージに増加する。</p>",
       "source": "Pathfinder #180: The Smoking Gun"
     },
     "Rally": {
@@ -2643,7 +2643,7 @@
     },
     "Pursue a Lead": {
       "name": "パーシュー・ア・リード/Pursue a Lead",
-      "description": "<p><strong>使用制限</strong> once per 10分</p><hr /><p>You name one detail you've identified that you think is part of a larger mystery, then spend 1分 examining it. The detail is typically either obvious or something you've already discovered using @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}, @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive}, @UUID[Compendium.pf2e.actionspf2e.Item.plBGdZhqq5JBl1D8]{Gather Information}, or a similar action. After the minute passes, the GM either confirms there's a larger mystery or tells you there's nothing more to learn (the detail is inconsequential or you know all the information already). If there is in fact a larger mystery at play, you can't Pursue a Lead again for 10分, but you can choose to open an investigation. To do so, define the question at the heart of the mystery, such as \"Where has the priceless work of art that was supposed to hang here been taken?\" or \"Who or what killed this 神官?\" Work with your GM to refine the question if need be. You can also give your investigation a name to better keep track of it (such as \"The Case of the Cheated Goblin\" or \"The Skinsaw Murders\").</p>\n<p><strong>Investigation Bonus</strong> Whenever you attempt a Perception 判定 or skill 判定 to attempt to get closer to answering the question at the heart of an active investigation, you gain a +1 circumstance bonus to the 判定. The exact checks this applies to depend on the actions you use to investigate and are determined by the GM, but checks to investigate are typically Perception checks or skill checks that use Intelligence, Wisdom, or 魅力.</p>\n<p><strong>Active Investigations</strong> You can maintain two active investigations at a time. If you Pursue another Lead after that, the case must be different from any of your current investigations (as far as you are aware), and you give up on a current investigation of your choice. Once you've given up pursuit of an investigation, you can't Pursue a Lead into it again until after the next time you make your 日課の準備.</p>\n<p><strong>Solving an Investigation</strong> If you answer the question at the heart of your investigation, the GM tells you that you've done so. You don't lose the bonus or other 恩恵 until you choose to close the investigation by Pursuing a Lead again or voluntarily Dismissing it. If what you discover points to an even larger mystery, you can work with the GM to adapt the question and name of the investigation to the new information.</p>",
+      "description": "<p><strong>使用制限</strong> once per 10分</p><hr /><p>You name one detail you've identified that you think is part of a larger mystery, then spend 1分 examining it. The detail is typically either obvious or something you've already discovered using @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}, @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}, @UUID[Compendium.pf2e.actionspf2e.Item.plBGdZhqq5JBl1D8]{〈情報収集〉}, or a similar action. After the minute passes, the GM either confirms there's a larger mystery or tells you there's nothing more to learn (the detail is inconsequential or you know all the information already). If there is in fact a larger mystery at play, you can't Pursue a Lead again for 10分, but you can choose to open an investigation. To do so, define the question at the heart of the mystery, such as \"Where has the priceless work of art that was supposed to hang here been taken?\" or \"Who or what killed this 神官?\" Work with your GM to refine the question if need be. You can also give your investigation a name to better keep track of it (such as \"The Case of the Cheated Goblin\" or \"The Skinsaw Murders\").</p>\n<p><strong>Investigation Bonus</strong> Whenever you attempt a Perception 判定 or skill 判定 to attempt to get closer to answering the question at the heart of an active investigation, you gain a +1 circumstance bonus to the 判定. The exact checks this applies to depend on the actions you use to investigate and are determined by the GM, but checks to investigate are typically Perception checks or skill checks that use Intelligence, Wisdom, or 魅力.</p>\n<p><strong>Active Investigations</strong> You can maintain two active investigations at a time. If you Pursue another Lead after that, the case must be different from any of your current investigations (as far as you are aware), and you give up on a current investigation of your choice. Once you've given up pursuit of an investigation, you can't Pursue a Lead into it again until after the next time you make your 日課の準備.</p>\n<p><strong>Solving an Investigation</strong> If you answer the question at the heart of your investigation, the GM tells you that you've done so. You don't lose the bonus or other 恩恵 until you choose to close the investigation by Pursuing a Lead again or voluntarily Dismissing it. If what you discover points to an even larger mystery, you can work with the GM to adapt the question and name of the investigation to the new information.</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Blinding of the Needle": {
@@ -2725,7 +2725,7 @@
     },
     "Launch Fireworks": {
       "name": "ローンチ・ファイアワークス/Launch Fireworks",
-      "description": "<p><strong>Cost</strong> 1 versatile vial</p>\n<p><strong>必要条件</strong> You're holding or wearing an @UUID[Compendium.pf2e.equipment-srd.Item.4ftXXUCBHcf4b0MH]{アルケミスト's Toolkit} and have a free hand</p><hr /><p><strong>効果</strong> You set off a fireworks display. You can launch a normal firework to simply create a visual or audible signal within 20フィート or you can choose one of the following special effects. You can also use the comet, flower, or salute fireworks displays, and feats can add more options. A specific fireworks display takes the listed number of actions to launch and has the listed traits.</p>\n<p><strong>Comet</strong> <span class=\"action-glyph\">1</span> (visual) You shoot a streak of shining light in a @Template[line|distance:60]. All spaces in that line are lit with 明るい光 until the start of your next turn. As part of this action, you can also @UUID[Compendium.pf2e.actionspf2e.Item.sn2hIy1iIJX9Vpgj]{Point Out} a single creature in the line, and your allies do not need to hear or understand you.</p>\n<p><strong>Flower</strong> <span class=\"action-glyph\">1</span> (visual) You ignite a ring of sparks, creating a shape that might be reminiscent of a flower blooming in the sky. Each enemy in a @Template[emanation|distance:20] must attempt a @Check[fortitude|against:class-spell|options:area-effect,inflicts:dazzled] save. On a failure, the enemy is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ} for 1ラウンド, and on a critical failure they are dazzled for 2ラウンド.</p>\n<p><strong>Salute</strong> <span class=\"action-glyph\">1</span> (auditory) You create a startling bang or whistle. When you launch a salute display, you can choose a @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱} or @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた} ally within 60フィート. If the ally you chose is fascinated, the noise is so violent that it acts as a hostile effect for the purpose of their fascinated condition (though it has no 負のエネルギー repercussions) automatically ending most applications of the fascinated condition. If they're confused, the sound is so loud and violent that it might snap the ally out of confusion. They can immediately attempt the flat 判定 to remove the confused condition which normally occurs when a creature is damaged. If the confused condition has special rules that remove the flat 判定 when taking damage or make the flat 判定 harder, those rules also apply to the salute.</p>",
+      "description": "<p><strong>Cost</strong> 1 versatile vial</p>\n<p><strong>必要条件</strong> You're holding or wearing an @UUID[Compendium.pf2e.equipment-srd.Item.4ftXXUCBHcf4b0MH]{錬金術師用具} and have a free hand</p><hr /><p><strong>効果</strong> You set off a fireworks display. You can launch a normal firework to simply create a visual or audible signal within 20フィート or you can choose one of the following special effects. You can also use the comet, flower, or salute fireworks displays, and feats can add more options. A specific fireworks display takes the listed number of actions to launch and has the listed traits.</p>\n<p><strong>Comet</strong> <span class=\"action-glyph\">1</span> (visual) You shoot a streak of shining light in a @Template[line|distance:60]. All spaces in that line are lit with 明るい光 until the start of your next turn. As part of this action, you can also @UUID[Compendium.pf2e.actionspf2e.Item.sn2hIy1iIJX9Vpgj]{〈指し示す〉} a single creature in the line, and your allies do not need to hear or understand you.</p>\n<p><strong>Flower</strong> <span class=\"action-glyph\">1</span> (visual) You ignite a ring of sparks, creating a shape that might be reminiscent of a flower blooming in the sky. Each enemy in a @Template[emanation|distance:20] must attempt a @Check[fortitude|against:class-spell|options:area-effect,inflicts:dazzled] save. On a failure, the enemy is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ} for 1ラウンド, and on a critical failure they are dazzled for 2ラウンド.</p>\n<p><strong>Salute</strong> <span class=\"action-glyph\">1</span> (auditory) You create a startling bang or whistle. When you launch a salute display, you can choose a @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱} or @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた} ally within 60フィート. If the ally you chose is fascinated, the noise is so violent that it acts as a hostile effect for the purpose of their fascinated condition (though it has no 負のエネルギー repercussions) automatically ending most applications of the fascinated condition. If they're confused, the sound is so loud and violent that it might snap the ally out of confusion. They can immediately attempt the flat 判定 to remove the confused condition which normally occurs when a creature is damaged. If the confused condition has special rules that remove the flat 判定 when taking damage or make the flat 判定 harder, those rules also apply to the salute.</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Mobbing Assault": {
