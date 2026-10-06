@@ -271,7 +271,7 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Elemental Blast": {
-      "name": "エレメンタル ブラスト/Elemental Blast",
+      "name": "エレメンタル・ブラスト/Elemental Blast",
       "description": "<p><span class=\"action-glyph\">1</span>または<span class=\"action-glyph\">2</span></p>\n<hr />\n<p>手の一振りで、あなたは自身のオーラから元素の物質を集め、それを振るうか投げつける。あなたのキネティック元素を1つと、その元素について記載されているダメージ種別を1つ選択し、その後、1体のクリーチャーのACに対して近接または遠隔のインパルス攻撃を行う。近接のエレメンタル・ブラストの場合、ダメージ・ロールにあなたの筋力修正値を加える。もしあなたが2アクションのエレメンタル・ブラストを行うなら、ダメージ・ロールにあなたの耐久力修正値に等しい状況ボーナスを得る。元素によってダメージ・ダイス、ダメージ種別、射程(遠隔ブラストの場合)が決定される。物理ダメージタイプ以外のダメージ種別は、そのトレイトをブラストに追加する。</p>\n<ul>\n<li><strong>風</strong> 1d6電撃または斬撃、60フィート</li>\n<li><strong>地</strong> 1d8殴打または刺突、30フィート</li>\n<li><strong>火炎</strong> 1d6火炎、射程60フィート</li>\n<li><strong>金属</strong> 1d8刺突または斬撃、30フィート</li>\n<li><strong>水</strong> 1d8殴打または冷気、30フィート</li>\n<li><strong>木</strong> 1d8殴打または生命力、30フィート</li>\n</ul>\n<hr />\n<p><strong>クリティカル成功</strong>対象は2倍のダメージを受ける。</p>\n<p><strong>成功</strong>対象は全てのダメージを受ける。</p>\n<hr />\n<p><strong>レベル (+4)</strong>ダメージが1ダイス分増加する。</p>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -1770,7 +1770,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Dragon Breath": {
-      "name": "ドラゴン ブレス/Dragon Breath",
+      "name": "ドラゴン・ブレス/Dragon Breath",
       "description": "<p><strong>使用制限</strong> 1時間に1回</p><hr /><p><strong>効果</strong>あなたは深く息を吸い込み、契約を結んだドラゴンとよく似た、強力なブレスの直線または円錐を吐き出す。もしそのドラゴンが円錐形のブレスを持っていたなら、あなたのブレスは@Template[type:cone|distance:30]となる。もし彼らが直線形のブレスを持っていたなら、あなたのブレスは@Template[type:line|distance:60]となる。もし彼らが炸裂形のブレスを持っていたなら、あなたのブレスは60フィート以内の@Template[type:burst|distance:10]となる。形状にかかわらず、それはレベルごとに1d6ダメージ(@Damage[(@actor.level)d6[untyped]|options:area-damage])を与え、そのダメージ・タイプはドラゴンのブレスと同じダメージ種別であり、@Check[reflex|basic|against:class-spell|options:area-effect]セーヴを要求する。セーヴ難易度はあなたのクラスDCまたは呪文DCのうち高い方を用いる。このアクションは、あなたが契約を結んだドラゴンのブレスと同じトレイトを持つ。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },

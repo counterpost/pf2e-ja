@@ -102,7 +102,7 @@
       "description": "<p>他の生物に押さえつけられている状態で、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備} と @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能} の状態を受ける。掴まれている間に手作業アクションを試みる場合、@Check[flat|showDC:all|dc:5] に成功しなければその手作業は失われる；アクションを消費した後、効果が適用される前にその判定を行う。</p>"
     },
     "Persistent Damage": {
-      "name": "持続する ダメージ/Persistent Damage",
+      "name": "継続ダメージ/Persistent Damage",
       "description": "<p>継続する効果（例えば炎に焼かれるなど）によってダメージを受けている状態。表記は「Xの持続的な[type]ダメージ」となり、ここで「X」は与えられるダメージ量、「[type]」はダメージ種類を示す。通常のダメージと同様に、攻撃ロールや セーヴ の結果により倍化または半減することがある。持続ダメージは即座に受けるのではなく、この状態を持っている限り各ターン終了時に受け、そのたびにダメージダイスを振り直す。持続ダメージを受けた後、持続ダメージから回復するかを判定するために @Check[flat|showDC:all|dc:15] を振る。成功すれば状態は終了する。</p>"
     },
     "Enfeebled": {
