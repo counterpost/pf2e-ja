@@ -50718,7 +50718,7 @@
     },
     "Rampaging Form": {
       "name": "ランペイジング・フォーム/Rampaging Form",
-      "description": "<p>1日に1回、あなたはフォックスに変身する時、代わりに5レベルの犬の形の効果と7レベルの@UUID[Compendium.pf2e.spells-srd.Item.wp09USMB3GIW1qbp]{アニマル・フォーム}と@UUID[Compendium.pf2e.spells-srd.Item.XS7Wyh5YC0NWeWyB]{ファイアリー・ボディ}の効果を得ることができる。1分または元に戻るまでの間、どちらか早い方まで有効である。あなたは戦闘形態にいるにもかかわらず、@UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{イグニション}を<em>の火の体</em>の効果から行使することができる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DWrsDJte9sez0Ppi]{効果: Rampaging Form}</p>\n<hr />\n<p><strong>特記事項</strong>あなたが冷凍風のキツネである場合、あなたの形は火ではなく氷である。これにより、<em>の火の体</em>の効果からの免疫とダメージが冷気に変わり、弱点が火に変わり、produce flameが@UUID[Compendium.pf2e.spells-srd.Item.gYjPm7YwGtEa1oxh]{レイ・オヴ・フロスト}に変わる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.WRe8qbemruWxkN8d]{効果: Rampaging Form (Frozen Winds Kitsune)}</p>",
+      "description": "<p>1日に1回、あなたが〔チェンジ・シェイプ〕でフォックスに変身するとき、代わりに5ランクの@UUID[Compendium.pf2e.spells-srd.Item.wp09USMB3GIW1qbp]{アニマル・フォーム}の犬形態と、7ランクの@UUID[Compendium.pf2e.spells-srd.Item.XS7Wyh5YC0NWeWyB]{ファイアリー・ボディ}の両方の効果を、1分間または元の姿に戻るまでのいずれか早い方まで得ることができる。あなたは戦闘形態であるにもかかわらず、<em>ファイアリー・ボディ</em>の効果から@UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{イグニション}を発動できる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DWrsDJte9sez0Ppi]{効果: ランペイジング・フォーム}</p><hr /><p><strong>特殊</strong>あなたがフローズン・ウィンド・キツネである場合、あなたの形態は火ではなく氷になる。これにより<em>ファイアリー・ボディ</em>の効果による免疫とダメージが冷気に変わり、弱点が火に変わり、<em>イグニション</em>が@UUID[Compendium.pf2e.spells-srd.Item.gYjPm7YwGtEa1oxh]{レイ・オブ・フロスト}に変わる。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
