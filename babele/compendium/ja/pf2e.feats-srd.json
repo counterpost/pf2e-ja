@@ -6276,7 +6276,7 @@
       ]
     },
     "Yamaraj's Grandeur": {
-      "name": "ヤマラージズ・グランデュール/Yamaraj's Grandeur",
+      "name": "ヤマラージズ・グランジャー/Yamaraj's Grandeur",
       "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p>あなたは、ダスウォーカーの存在を認めた死者の裁判官たるヤマラージの力の一片を与えられた。あなたは氷の風と飢えた昆虫の噴流を吐き出す。これは@Template[cone|distance:30]で、@Damage[14d6[slashing],4d6[persistent,slashing]|options:area-damage]のダメージを与える (@Check[reflex|against:class-spell|basic|options:area-effect]セーヴのクラスまたは呪文DC、高い方を使用)。クリティカル失敗の場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}となる。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -7413,7 +7413,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Liberate Soul": {
-      "name": "リバレート・ソウル/Liberate Soul",
+      "name": "リバレイト・ソウル/Liberate Soul",
       "description": "<p><strong>使用制限</strong>1時間に1回</p>\n<p><strong>必要条件</strong>あなたの螺旋が光っている。</p>\n<hr />\n<p>光はあなたのシギルのファラスマから流れ出し、魂を閉じ込めている絆を破る。あなたは打ち消しの効果、または魂を閉じ込めている効果、物体、または呪文(例えば@UUID[Compendium.pf2e.spells-srd.Item.GYmXvS9NJ7QwfWGg]{シーズ・ソウル}、<em>ソウルジェム</em>、または貪り食う者の食べられた魂)の中から一つを試みる。</p>\n<p>あなたは、憑依されたクリーチャーまたは物体、または魂を閉じ込めている容器の60フィート内にいる必要がある。あなたの打ち消しランクはレベルの半分で切り上げられ、あなたの打ち消し修正値はあなたの神聖呪文DC-10である。試みが失敗した場合、状況が大きく変わらない限り、特定の効果に対してはリベレートソウルを再度使用できない。GMの判断によって。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
@@ -8173,7 +8173,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Fear of God": {
-      "name": "フィア・オブ・ゴッド/Fear of God",
+      "name": "フィアー・オブ・ゴッド/Fear of God",
       "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<p><strong>トリガー</strong>あなたは敵を正常に@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}した。</p><hr /><p>あなたはトリガーとなった敵に、10分持続する神聖な恐怖を植え付ける。その間、あなたはそのクリーチャーの、あなたの〈怯ませる〉の試みに対する一時的な免疫を無視する。そして、あなたがトリガーとなった敵を正常に〈怯ませる〉たびに、代わりにその敵の既存の「恐れ」状態を1(大成功なら2)増加させることができる。最大で@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 4}までである。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
@@ -10183,7 +10183,7 @@
       ]
     },
     "Fear No Law, Fear No One": {
-      "name": "フィア・ノー・ロー、フィア・ノー・ワン/Fear No Law, Fear No One",
+      "name": "フィアー・ノー・ロー、フィアー・ノー・ワン/Fear No Law, Fear No One",
       "description": "<p>あなたが恐怖に立ち向かう姿を仲間が見ると、仲間も同じように勇気づけられる。〔ストライク〕を行う。命中してダメージを与えた場合、あなたの周囲@Template[type:emanation|distance:20]{20フィートの放射}内にいて、あなたを見ることができる仲間はそれぞれ、自分の@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態の値を1減少させる。あなたの〔ストライク〕の対象がその恐れている状態の原因であった場合、代わりに値を2減少させる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -10864,7 +10864,7 @@
       "source": "Pathfinder Player Core"
     },
     "Fulu Familiar": {
-      "name": "フール・ファミリア/Fulu Familiar",
+      "name": "フールー・ファミリア/Fulu Familiar",
       "description": "<p>あなたは、自分のファミリアの霊的本質を、物体、クリーチャー、または構造に取り付けることができる小さな紙のお守りであるふるーに刻印することができる。あなたは、1日に1回使用できる@UUID[Compendium.pf2e.actionspf2e.Item.NT1rtY5DFJGsR5QR]{〈クリエイト・ファミリア・フル〉}アクションを得る；12レベルで、これは1日に2回に増加し、18レベルで、1日に3回に増加する。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -14471,7 +14471,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Reminder of the Greater Fear": {
-      "name": "リマインダー・オブ・ザ・グレーター・フィア/Reminder of the Greater Fear",
+      "name": "リマインダー・オブ・ザ・グレーター・フィアー/Reminder of the Greater Fear",
       "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<p><strong>トリガー</strong>あなたから30フィート以内にいて、あなたを見ることができる別のクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態になろうとしている。</p>\n<hr />\n<p>あなたは対象を厳しく睨みつけ、彼らが真に恐れるべきなのはあなたであり、他の誰でもないことを思い出させる。そのクリーチャーが受けようとしているfrightened状態の値を1減少させる。</p>",
       "source": "Pathfinder Adventure: Night of the Gray Death",
       "prerequisites": [
@@ -18763,7 +18763,7 @@
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Crescent Cross Training": {
-      "name": "クレッセント・クロス・トレーニング/Crescent Cross Training",
+      "name": "クレセント・クロス・トレーニング/Crescent Cross Training",
       "description": "<p>あなたは@UUID[Compendium.pf2e.equipment-srd.Item.KaYvuSNXZaOammij]{クレッセント・クロス}に精通している。この武器は、腕に取り付けられた多室クロスボウと三日月型の刃を組み合わせた巧妙な武器である。習熟度の目的では、両方の形態を単純な武器として扱う。</p>\n<p>このアーキタイプの特技や能力は、通常はガントレットボウと一緒に機能するが、あなたの三日月クロスにも適用され、必要に応じて三日月クロスの近接型をガントレットとして扱う。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.2XQowhfM4SfAhJaf]{〈クレセント・スプレー〉}アクションを獲得する。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
@@ -22668,7 +22668,7 @@
       ]
     },
     "Avoid Fate's Gaze": {
-      "name": "アボイド・フェイツ・ゲイズ/Avoid Fate's Gaze",
+      "name": "アヴォイド・フェイツ・ゲイズ/Avoid Fate's Gaze",
       "description": "<p>あなたの過去と現在の敵はあなたの評判であなたを知っているかもしれないが、魔法であなたを監視することは非常に難しい。あなたがセーヴィング・スローを念視や効果に対して試みるたびに、あなたは神話級の習熟度でそれを行う。 念視効果は、抵抗するためのセーヴィング・スローを許さない場合(例: @UUID[Compendium.pf2e.spells-srd.Item.HXhWYJviWalN5tQ2]{クレアオーディエンス}や@UUID[Compendium.pf2e.spells-srd.Item.zvKWclOZ7A53DObE]{クレアヴォイアンス})は、あなたを@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}と見なし、積極的に 〔隠れる〕 または@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}しようとしていると扱う、神話級でない限り。</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star",
       "prerequisites": [
@@ -22846,7 +22846,7 @@
       ]
     },
     "Executioner Weapon Training": {
-      "name": "エグゼキューショナー・ウェポン・トレーニング/Executioner Weapon Training",
+      "name": "エクセキューショナー・ウェポン・トレーニング/Executioner Weapon Training",
       "description": "<p>あなたのグレーガーデナー訓練により、首を素早く切る武器に深いスキルを持つようになる。あなたは次の武器で訓練済みになる：@UUID[Compendium.pf2e.equipment-srd.Item.War0uyLBx1jA0Ge7]{バトル・アックス}、 @UUID[Compendium.pf2e.equipment-srd.Item.XGtIUZ4ZNKuFx1uL]{ファルシオン}、 @UUID[Compendium.pf2e.equipment-srd.Item.8COlYvHe6hKCXY8x]{グレイトアックス}、および@UUID[Compendium.pf2e.equipment-srd.Item.grmaV4GdoGD7sKbn]{シミター}。</p>\n<p>あなたが特定の武器または武器群に対して専門的またはそれ以上の習熟度を与えるクラス機能を得るたびに、これらの武器に対してもその習熟度を得る。</p>",
       "source": "Pathfinder Adventure: Night of the Gray Death",
       "prerequisites": [
@@ -25284,7 +25284,7 @@
       ]
     },
     "Mask of Fear": {
-      "name": "マスク・オブ・フィア/Mask of Fear",
+      "name": "マスク・オブ・フィアー/Mask of Fear",
       "description": "<p><strong>トリガー</strong>あなたはターンの開始時に@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}条件で開始する。</p>\n<p><strong>必要条件</strong>あなたは<em>温かいマスク</em>を身に着けている。</p>\n<hr />\n<p>あなたの<em>温かいマスク</em>はあなたの顔から燃え落ち、あなたの不安を解放する。あなたは怯え状態を解消する。あなたの<em>温かいマスク</em>は破壊され、次の日課の準備まで再装着できない。</p>\n<hr />\n<p><strong>特別</strong>あなたはこのフリー・アクションを使うことができる、たとえ怯え状態に結びついた条件があり、通常ならフリー・アクションを使うことが妨げられる場合でも、「@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}怯えている限り」や「@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}怯えている限り」などの場合でも。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
@@ -34970,7 +34970,7 @@
       ]
     },
     "Necromancer's Visage": {
-      "name": "ネクロマンサーズ・ヴィザージュ/Necromancer's Visage",
+      "name": "ネクロマンサーズ・ヴィサージ/Necromancer's Visage",
       "description": "<p>ネクロマンティックエネルギーはあなたのアンデッドに対する力を示し、その恐れと尊敬を命じる振る舞いを生み出す。アンデッドクリーチャーはあなたのネクロマンサーの容貌を即座に感知し、それに応じて行動する傾向がある。あなたがアンデッドクリーチャーに対して敵対的なアクションを取った場合、それはあなたのネクロマンサーの容貌に対して永続的に免疫となり、あなたのネクロマンサーの容貌は終了する。あなたは10分を消費してネクロマンサーの容貌を回復できるが、永続的に免疫となったクリーチャーはそのままとなる。あなたより2レベル以上低いアンデッドクリーチャーがあなたを攻撃するたびに、あなたの呪文DCに対して意志セーヴを試みなければならない。もしあなたが聖域や同様の効果の影響を受けているなら、攻撃者に影響を与えるのは1つだけであり(どれを選ぶかはあなた次第)。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーはあなたのネクロマンサーの容貌に対して永続的に免疫となる。</p>\n<p><strong>成功</strong>そのクリーチャーはこのターン中にあなたに対して攻撃の試みと他の攻撃をすることができる。</p>\n<p><strong>失敗</strong>そのクリーチャーはあなたに攻撃することができず、アクションを消費。このターン中にあなたに対して更なる攻撃を試みることはできない。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーはアクションを消費で、あなたのネクロマンサーの容貌が持続する限り攻撃を試みることができない。</p>\n<p><strong>特別</strong>この特技はあなたの呪文発動系統に一致するトレイトを持つ。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
@@ -37229,7 +37229,7 @@
       "source": "Pathfinder Player Core"
     },
     "Phantom Visage": {
-      "name": "ファントム・ヴィザージュ/Phantom Visage",
+      "name": "ファントム・ヴィサージ/Phantom Visage",
       "description": "<p>あなたはクロークし、あなた自身の幻影を仮面する。あなたのファントムビジョは、あなたが育った場所で一般的な小型または中型の人間系祖先の特定の代替形態である(通常は人間)。しかし、それはあなたの自然のゴブリンの姿に類似した物理的特徴を持つ必要はない。あなたのファントムビジョは@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}用の《欺瞞》の擬装を設定することに相当する。ファントムビジョの状態でゴブリンの遺産や祖先の特技から得た無手の攻撃を使用すると、幻影は直ちに壊れる。このアクションを再度使用することで、無制限にファントムビジョを維持でき、真のゴブリンの姿に戻ることができる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -39018,7 +39018,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "No Need to Fear": {
-      "name": "ノー・ニード・トゥ・フィア/No Need to Fear",
+      "name": "ノー・ニード・トゥ・フィアー/No Need to Fear",
       "description": "<p><strong>トリガー</strong>あなた、または60フィート以内にいる味方が、恐怖効果に対するセーヴィング・スローを行う。</p><hr /><p>忍耐を単純に思い出させることで、あなたはあなた自身と味方の勇気を奮い立たせる。あなたは@Check[warfare-lore]判定を用いて、トリガーとなった効果に対して打ち消しを試みる。その際、あなたのレベルの半分(端数切り上げ)を打ち消しランクとして使用する。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -41366,7 +41366,7 @@
       "source": "Pathfinder Player Core"
     },
     "Fear No Pain!": {
-      "name": "フィア・ノー・ペイン！/Fear No Pain!",
+      "name": "フィアー・ノー・ペイン！/Fear No Pain!",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong> 30フィート以内の味方が精神効果に対するセーヴに失敗した。</p><hr /><p>あなたは苦痛を不平を言わずに耐えることを学び、同様の決意で味方を奮い立たせることができる。あなたが彼らに励ましの叫びを送ると、トリガーとなった味方は失敗したセーヴを+2状況ボーナスを得て再ロールできる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.nCrYxbS8h3Ik9hyQ]{効果: フィアー No Pain!}</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [

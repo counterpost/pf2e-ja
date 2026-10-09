@@ -693,7 +693,7 @@
           "description": "<p>そのかかしの頭部は、熱のない幽霊のような炎を噴き出し、@Template[emanation|distance:20]の範囲に明るい光を放つ(そしてその次の20フィートには薄暗い光を放つ)。もしそのかかしが戦闘の最初のラウンドにこの能力を使用した場合、まだ行動していないクリーチャーは驚き、1ラウンドの間、そのかかしに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。かかしは、このアクションを再度使用することで光を抑止できる。</p>"
         },
         "oYtncLyCKuBAQThk": {
-          "name": "クローイング・フィア/Clawing Fear",
+          "name": "クローイング・フィアー/Clawing Fear",
           "description": "<p>そのかかしのストライクは、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態のクリーチャーに対して追加で1d6の精神ダメージを与える。</p>"
         },
         "NTWIBx9lvUwV7F1W": {
@@ -6426,7 +6426,7 @@
           "name": "ヴォイド・ヒーリング"
         },
         "c8oIWV04qJhdiZ0C": {
-          "name": "グリップ・オブ・フィア/Grip of Fear",
+          "name": "グリップ・オブ・フィアー/Grip of Fear",
           "description": "<p>レイスは隣接するクリーチャーの胸の中に手を伸ばし、その心臓を掴む。対象は@Damage[6d6[mental]]ダメージを受け、@Check[will|dc:24|basic]セーヴを行わなければならない。大失敗した場合、そのクリーチャーはレイスの次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態にもなる。</p>"
         },
         "ZcnrTHwnr0hYa74P": {

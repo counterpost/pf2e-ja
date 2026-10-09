@@ -429,7 +429,7 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Affix a Fulu": {
-      "name": "アフィックス・ア・フル/Affix a Fulu",
+      "name": "アフィックス・ア・フールー/Affix a Fulu",
       "description": "<p>あなたは鎧、武器、盾、クリーチャー、または自分と同じマスにある構造物に符を取り付けるする。クリーチャーは自分自身や射程内にある無人の物体から単一のアクションで符を取り外せる.</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -724,7 +724,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Ultimatum of Liberation": {
-      "name": "アルティメイタム・オブ・リベレーション/Ultimatum of Liberation",
+      "name": "アルティメイタム・オブ・リバレイション/Ultimatum of Liberation",
       "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは他者を抑圧しているとあなたが信じるクリーチャーと、その命令に従うすべての者に対して最後通牒を宣言する。あなたの最後通牒を聞いた、あるいは後から知った他のすべてのクリーチャー(あなた自身を含む)は、あなたの言葉によって1日の間勇気づけられ、抑圧するクリーチャーとその同盟者が生み出す効果に対する意志セーヴに+2の状況ボーナスを得る。もし彼らがあなたから30フィート以内にいる場合、このボーナスは+3に増加する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.RPfpy4WzUzdwTeo0]{効果: Ultimatum of Liberation}</p>\n<p>さらに、そのクリーチャーとその同盟者がそれぞれ1日につき初めてあなたから30フィート以内に近づいたとき、彼らはあなたのクラスDCまたは呪文DC(いずれか高い方)に対する@Check[will|against:class-spell|traits:emotion,fear,mental]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}(クリティカル失敗なら@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2})状態となる。この2つ目の効果は感情、恐怖、精神のトレイトを持つ。抑圧するクリーチャーは、抑圧を永久に終わらせることに真実を以て同意することで、フリー・アクションとしてすべての効果を終了させることができる。そうでなければ、あなたの「Ultimatum of Liberation」には持続時間はなく、ただし一度に有効にできる「Ultimatum of Liberation」は1つだけである。もしあなたが2つ目の「Ultimatum of Liberation」を宣言した場合、1つ目の効果は終了する。</p>",
       "source": "Pathfinder War of Immortals"
     },
@@ -1105,7 +1105,7 @@
       "source": "Pathfinder Stolen Fate Player's Guide"
     },
     "Tap Ley Line": {
-      "name": "タップ・レイライン/Tap Ley Line",
+      "name": "タップ・レイ・ライン/Tap Ley Line",
       "description": "<p>あなたは視認しているレイラインの、半径30フィート以内の魔力の本質を操作しようとする。GMはレイラインのレベルに対するハードなDCに基づいてDCを決定する。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 次の自分のターン終了時までレイラインの利益を得る。</p>\n<p><strong>成功</strong> このターン終了時までレイラインの利益を得る。</p>\n<p><strong>失敗</strong> 精神ダメージを1d6×レイラインのレベルだけ受ける。1時間はレイラインを再びタップできない。</p>\n<p><strong>クリティカル失敗</strong> 失敗と同様の効果に加え、レイラインの反動効果を受ける。24時間はレイラインを再びタップできない。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -1242,7 +1242,7 @@
       "source": "Pathfinder GM Core"
     },
     "Visions of Sin": {
-      "name": "ヴィジョンズ・オブ・シン/Visions of Sin",
+      "name": "ビジョンズ・オブ・シン/Visions of Sin",
       "description": "<p><strong>使用制限</strong> 10分に1回10分</p>\n<p>あなたのエイドロンは、30フィート以内の対象クリーチャーの精神にその罪のイメージを召喚し、対象を苦しめ混乱させる。対象は、以下の効果を伴うあなたの呪文のDCに対して、意志セーヴを行わなければならない。この効果はあなたの次のターン終了時まで持続するが、あなたのエイドロンは集中トレイトを持つ単一のアクションを使用して、効果を(呪文を維持するのと同様に)あなたの次のターン終了時まで延長することができる。最大持続時間は1分である。</p>\n<p>対象が悪である場合、そのセーヴに－2の状況ペナルティを受ける。成功したかどうかにかかわらず、対象は1日間1日の間、一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象はリアクションを使用できない。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となり、リアクションを使用できない。</p>\n<p><strong>クリティカル失敗</strong> 失敗と同様の効果に加え、対象は1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となる。混乱状態は延長できないが、その他の効果は延長できる。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -1729,7 +1729,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Create Familiar Fulu": {
-      "name": "クリエイト・ファミリア・フル/Create Familiar Fulu",
+      "name": "クリエイト・ファミリア・フールー/Create Familiar Fulu",
       "description": "<p><strong>使用制限</strong> 1日1回以上({@UUID[Compendium.pf2e.feats-srd.Item.BcYmYMUU8HDwGthh]{フール・ファミリア}}を参照)；</p>\n<p><strong>必要条件</strong> あなたの使い魔が30フィート以内にいて、あなたが片手を空けていること；</p><hr /><p><strong>効果</strong> あなたはつまむような動作を行い、使い魔は魔法のエネルギーへと溶解し、あなたの指の間で「お札」の魔法のアイテムとして再形成される。そのお札はあなたのレベルより少なくとも2レベル低くなければならず、あなたは魔法の構成要素にかかる通常の金銭的コストを支払う必要も、《製作》判定を行う必要もない。その後、この活動の一部として@UUID[Compendium.pf2e.actionspf2e.Item.UAaQk93a30nx0nYY]{〈タリスマンを取り付ける〉}ことを選択し、使い魔のお札を装着することができる。変身している間、使い魔は通常の利益を与えず、次の日課の準備まで、あるいはあなたがそのお札を起動するまで変身したままである。起動した時点で、使い魔はあなたに隣接する何物も占有していないスペースに再出現する。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
@@ -1755,7 +1755,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Ghost Shot": {
-      "name": "ゴーストショット/Ghost Shot",
+      "name": "ゴースト・ショット/Ghost Shot",
       "description": "<p>銃またはクロスボウによる〈ストライク〉を行う。もしあなたが対象から@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態であるか、@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}状態であるなら、その〈ストライク〉は@UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{〈ワン・ショット、ワン・キル〉}による追加の精密ダメージを加える。もしその〈ストライク〉ですでにその追加ダメージを受けている場合、効果は累積しない。もしあなたがクリーチャーからundetected状態または@UUID[Compendium.pf2e.conditionitems.Item.9evPzg9E6muFcoSk]{気が付かれていない}状態であったなら、あなたは代わりに彼らからhidden状態となる。ただし、その射撃がサイレンサーを用いて行われた場合はundetected状態となる。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -2471,7 +2471,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Liberate Self": {
-      "name": "リベレイト・セルフ/Liberate Self",
+      "name": "リバレイト・セルフ/Liberate Self",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong>あなたが@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている状態}、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能状態}、または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている状態}であること。</p><hr /><p><strong>効果</strong> 〈エスケープ〉を試みる。その際、判定を2回ロールし、良い方の結果を用いる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches"
     },
@@ -2794,7 +2794,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Overload Vision": {
-      "name": "オーバーロード・ヴィジョン/Overload Vision",
+      "name": "オーバーロード・ビジョン/Overload Vision",
       "description": "<p><strong>トリガー</strong> 60フィート以内にいるクリーチャーがあなたに対して攻撃ロールを行おうとする。</p>\n<hr />\n<p><strong>効果</strong>そのトリガーとなったクリーチャーは頑健セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる現在のターン終了時まで。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる現在のターン終了時まで。</p>\n<p><strong>クリティカル失敗</strong>対象は現在のターン終了時まで盲目状態となり、1分の間、幻惑状態となる。</p>",
       "source": "Pathfinder Secrets of Magic"
     },

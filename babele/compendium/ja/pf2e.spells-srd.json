@@ -1031,7 +1031,7 @@
       "time": "2"
     },
     "Fear": {
-      "name": "フィア/Fear",
+      "name": "フィアー/Fear",
       "description": "<p>対象に恐怖を植え付ける。その対象は意志セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}になる。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になる。</p>\n<p><strong>クリティカル失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}かつ@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}になり、1ラウンドの間続く。</p>\n<hr />\n<p><strong>高位化 (3rd)</strong>あなたは最大五体を対象にできる。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
@@ -2659,7 +2659,7 @@
       "time": "1"
     },
     "Horrific Visage": {
-      "name": "ホリフィック・ヴィザージュ/Horrific Visage",
+      "name": "ホリフィック・ヴィサージ/Horrific Visage",
       "description": "<p>あなたは一時的に自分の顔立ちをハグの恐ろしい形相に変え、敵に恐怖を与える。エリア内の敵は意志セーヴを行わなければならない。</p>\n<hr />\n<p><strong>成功</strong>その敵は影響を受けない。</p>\n<p><strong>失敗</strong>その敵は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}となる。</p>\n<p><strong>クリティカル失敗</strong>その敵は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる。</p>\n<hr />\n<p><strong>高位化 (5th)</strong>エリア内の敵は、成功で@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}、失敗で@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}、大失敗で@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}および1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}となる。大成功の場合、それらは依然として影響を受けない。</p>",
       "time": "2"
     },
@@ -3201,7 +3201,7 @@
       "time": "2"
     },
     "Crescent Scepter": {
-      "name": "クレッセント・セプター/Crescent Scepter",
+      "name": "クレセント・セプター/Crescent Scepter",
       "description": "<p>あなたは任意の物体を保持する。それはあなたを見ている者の目には光り輝く装飾のように見え、各クリーチャーが最も恐れる政治的または宗教的機関を表す。呪文の持続時間中にクリーチャーがあなたを攻撃しようとした場合、そのクリーチャーは意志セーヴを試みなければならない。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p> <p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}となり、そのペナルティが攻撃ロールに適用される。</p> <p><strong>失敗</strong>成功の場合と同様だが、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}。</p>",
       "duration": "あなたの次のターン開始時まで",
       "time": "1"
@@ -11055,7 +11055,7 @@
       "time": "2"
     },
     "Summoner's Visage": {
-      "name": "サモナーズ・ヴィザージュ/Summoner's Visage",
+      "name": "サモナーズ・ヴィサージ/Summoner's Visage",
       "description": "<p>あなたは　あなたのエイドロンをあなたと瓜二つの双子に変身させる。あなたがヒューマノイドであると仮定すると、エイドロンはこの形態の間、他のトレイトに加えてヒューマノイドのトレイトと、あなたの形態に関連するその他のトレイト(エルフやノームなど)を得る。あなたのエイドロンは、あなたに〈なりすます〉ための《欺瞞》判定に+4の状況ボーナスを得る。また、たとえ未習熟であっても、そのような判定に自身のレベルを加算できる。</p>\n<p>あなたのエイドロンはあなたのように見えるが、新たな能力を得ることはなく、その能力値も一切変化しない。この変身は純粋に外見的なものである。もしこの変身によってあなたのエイドロンのサイズが減少した場合、エイドロンはリーチの増加など、より大きいサイズによるその他の効果を失う。あなたのエイドロンは、エイドロンが使用することを許可するエイドロンのトレイトを持っている場合にのみ、引き続き道具を使用できる。エイドロンが着用していたそのようなエイドロン用アイテムは、必要であればサイズと形状が変化し、その効果は有効なままである。</p>\n<p>あなたは呪文を〈解除〉できる。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.0OC945wcZ4H4akLz]{呪文 効果: サモナーズ・ヴィサージュ}</p>\n<hr />\n<p><strong>高位化 (4th)</strong> 効果時間は1時間に増加する。</p>",
       "target": "あなたのエイドロン",
       "range": "接触",
@@ -11078,7 +11078,7 @@
       "requirements": "あなたの直前のアクションは成功した素手〔ストライク〕だった。"
     },
     "Fear the Sun": {
-      "name": "フィア・ザ・サン/Fear the Sun",
+      "name": "フィアー・ザ・サン/Fear the Sun",
       "description": "<p>あなたはそのクリーチャーの視覚を非常に敏感にする。そのクリーチャーは頑健セーヴを試みなければならない。そのクリーチャーはその後1分の間一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}となり、期間は1ラウンドである。</p>\n<p><strong>失敗</strong>対象は1分の間失敗である。</p>\n<p><strong>クリティカル失敗</strong>対象は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.I0HYG0ctCLP5JRsW]{ライト ブラインドネス}を1分の間得る。もしそのクリーチャーが既に明るい光にさらされている場合、新たに獲得した光盲に順応していないため、そのクリーチャーは直ちに次の自分のターン終了時まで@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}になる。</p><hr /><p><strong>高位化 (6th)</strong>あなたは最大10体まで対象にできる。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",

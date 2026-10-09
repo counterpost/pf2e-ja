@@ -54,7 +54,7 @@
       "description": "<p>この精巧な緋色のローブは、黄金のフィーンドとその武器が刺繍されており、黄金のエリニュス修道会の修道女たちの衣装を模して作られている。このローブのベルトは蛇のように見えるよう刺繍されており、金属製の牙まで備わっている。</p>\n<p><strong>起動—バイティング・ベルト</strong> <span class=\"action-glyph\">2</span> (精神集中、手作業)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> あなたはローブのベルトを取り外し、あなたのリーチ内にいる敵に向けてそれを振るう。そうすると、それは一瞬だけ動き出してその敵に噛みつき、基本の@Check[fortitude|dc:31]セーヴを伴う@Damage[6d8[poison]]ダメージを与える。大失敗した場合、対象はさらに@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>"
     },
     "Venomous Cure Fulu": {
-      "name": "ヴェノマス・キュア・フール/Venomous Cure Fulu",
+      "name": "ヴェノマス・キュア・フールー/Venomous Cure Fulu",
       "description": "<p><strong>使用法</strong>防具に取り付け</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">f</span>想像する</p>\n<p><strong>トリガー</strong>あなたが注入された毒に対してセーヴィング・スローを行う。</p>\n<hr />\n<p>この緑色のお札には有毒なクリーチャーや害獣が描かれている。起動すると、お札から毒が放出されてあなたの体内の毒と戦い、トリガーとなったセーヴィング・スローに+2のステータス・ボーナスを与える。</p>"
     },
     "Onyx Panther": {
@@ -311,7 +311,7 @@
       "description": "<p>この<em>+1ストライキング・スパイクド・チェイン</em>は、殺害された兵士から剥ぎ取られた血塗られた軍の記章やその他の恐ろしい戦利品が連ねられており、ホブゴブリンの指揮官が部下を鼓舞するためによく使用する。クリティカルヒットを与えた場合、この<em>チェイン・オヴ・コマンド</em>は追加で1d6の精神ダメージを与える。</p><hr /><p><strong>起動—指揮官の慈悲</strong> <span class=\"action-glyph\">1</span> (concentrate)</p>\n<p>このチェイン・オヴ・コマンドは1分の間、非致死トレイトを得る。</p><hr /><p><strong>起動—指揮官の意志</strong> <span class=\"action-glyph\">1</span> (concentrate)</p>\n<p><strong>必要条件</strong> あなたの最後のアクションが、このチェイン・オヴ・コマンドによるクリティカルヒットであった。</p>\n<p><strong>効果</strong> あなたは、あなたのクリティカルヒットの対象に対して、DC 22で@UUID[Compendium.pf2e.spells-srd.Item.aIHY2DArKFweIrpf]{コマンド}を発動する。結果にかかわらず、その対象はその後24時間の間、この効果に対して免疫となる。</p><hr /><p><strong>〈製作する〉 必要条件</strong> @UUID[Compendium.pf2e.spells-srd.Item.aIHY2DArKFweIrpf]{コマンド}を1回分供給すること。</p>"
     },
     "Detect Anathema Fulu": {
-      "name": "ディテクト・アナセマ・フール/Detect Anathema Fulu",
+      "name": "ディテクト・アナセマ・フールー/Detect Anathema Fulu",
       "description": "<p>誓いを破る危険のある規律なき侍祭に与えられるこのお札は、製作時に決定された特定の神格や大義に対して禁忌となる行為を着用者が行おうとすると、自動的に起動する。このお札は起動すると熱を帯び、あなたに行為を正すための十分な警告を与える。もしあなたがそのまま続行すれば、お札は炎を噴き出して燃え尽きる。これによって@Damage[4d6[fire]]ダメージを受け、適切な@UUID[Compendium.pf2e.spells-srd.Item.7Fd4lxozd11MQ55N]{アトーン}儀式を受けるまであなたの皮膚に焼き印が残る。いずれにせよ、このお札は起動すると消費される。</p>\n<p><strong>使用法</strong>鎧に装着</p>"
     },
     "Schematic Scanner": {
@@ -1116,7 +1116,7 @@
       "description": "<p>この<em>＋2レジリエント・チェイン・メイル</em>は、奇妙でわずかに半透明な淡色金属の細い白い輪から作られており、袖と裾は羽毛に似た小さな連なりへと仕立てられている。通常のチェイン・メイルと異なり、<em>ホーリー・チェイン</em>には移動速度の減少がなく、鎧による判定ペナルティは0、バルクは1である。</p>\n<p>あなたはフィーンドに対するACとセーヴィング・スローに＋1の状況ボーナスを得る。この鎧を着用している間、あなたは輝いて見え、フィーンド以外のすべてのクリーチャーに対する《交渉》判定に＋2のアイテム・ボーナスを得る。</p>\n<p>あなたが不浄である場合、<em>ホーリー・チェイン</em>を着用している間、@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{吸精状態2}になる。この鎧を着用している間、この状態から回復できない。</p><hr /><p><strong>起動—セレスティアル・フライト</strong> <span class=\"action-glyph\">1</span> (精神集中)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong> 鎧から輝く翼が生え、あなたは飛行移動速度30フィートを得る。翼は半径40フィートに明るい光を放つ(さらにその先40フィートを薄暗い光で照らす)。翼は10分後に消える。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.gDefAEEMXVVZgqXH]{効果：ホーリー・チェイン}</p><hr /><p><strong>〈製作する〉必要条件</strong> あなたが神聖であること。</p>"
     },
     "Dragonfly Fulu": {
-      "name": "ドラゴンフライ・フール/Dragonfly Fulu",
+      "name": "ドラゴンフライ・フールー/Dragonfly Fulu",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">F</span> (concentrate)</p>\n<p><strong>トリガー</strong> あなたは@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{〈跳躍〉}アクションを行う。</p><hr /><p>伝承によれば、トンボの符は昆虫の羽のように背中の上部に貼り付けるべきものとされる。あなたがこの符を起動すると、ステータス・ボーナスとして+2のボーナスを、@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}または@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を行うための《運動》判定に1分の間得る。この間、あなたは〈ストライド〉の要件なしで、単一のアクションとして〈ハイジャンプ〉または〈ロングジャンプ〉を行うための《運動》判定を試みることができる。また、空気や水のような非固体から〈ハイジャンプ〉または〈ロングジャンプ〉を行うこともできるが、この符の能力を使用した場合、その効果はあなたがジャンプした後に終了する。</p>"
     },
     "Bivouac Targe": {
@@ -1152,7 +1152,7 @@
       "description": "<p>白いトネリコの木から彫られた<em>staff of air</em>は電気の火花を散らしており、使い手には常に微風が付きまとう。<em>staff of air</em>を手に持っている間、あなたは足取りが軽くなったように感じ、困難な地形へ〈ステップ〉することができる　1ラウンドにつき1回。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p><hr /><p><strong>効果</strong>あなたはこの杖からチャージを消費して、そのリストにある呪文を発動する。</p><ul><li><strong>キャントリップ</strong> @UUID[Compendium.pf2e.spells-srd.Item.dDiOnjcsBFbAvP6t]{ゲイル・ブラスト}</li><li><strong>1</strong> @UUID[Compendium.pf2e.spells-srd.Item.W69zswpj0Trdy5rj]{エア・バブル}, @UUID[Compendium.pf2e.spells-srd.Item.g8QqHpv2CWDwmIm1]{ガスト・オブ・ウィンド}</li><li><strong>2</strong> @UUID[Compendium.pf2e.spells-srd.Item.23cv1p49NFd0Onng]{アッシュ・クラウド}, @UUID[Compendium.pf2e.spells-srd.Item.9XHmC2JgTUIQ1CCm]{ミスト}</li><li><strong>3</strong> @UUID[Compendium.pf2e.spells-srd.Item.KEkPxx7Sm6Xf4W3s]{ブレイジング・ダイブ}, @UUID[Compendium.pf2e.spells-srd.Item.9AAkVUCwF6WVNNY2]{ライトニング・ボルト}, @UUID[Compendium.pf2e.spells-srd.Item.it4ZsAi6XgvGcodc]{ウォール・オブ・ウィンド}</li><li><strong>4</strong> @UUID[Compendium.pf2e.spells-srd.Item.23cv1p49NFd0Onng]{アッシュ・クラウド}, @UUID[Compendium.pf2e.spells-srd.Item.b5sGjGlBf58f8jn0]{エア・ウォーク}</li><li><strong>5</strong> @UUID[Compendium.pf2e.spells-srd.Item.KEkPxx7Sm6Xf4W3s]{ブレイジング・ダイブ}, @UUID[Compendium.pf2e.spells-srd.Item.JyT346VmGtRLsDnV]{ライトニング・ストーム}</li></ul><hr /><p><strong>〈製作する〉必要条件</strong>リストされたすべての呪文の、リストされたすべてのランクを1回ずつ発動できること。</p>"
     },
     "Silver Crescent (Moderate)": {
-      "name": "シルバー・クレッセント（モデレート）/Silver Crescent (Moderate)",
+      "name": "シルバー・クレセント（モデレート）/Silver Crescent (Moderate)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (手作業)</p><hr /><p>ピリッとしたタマリンドとチリライムの風味が銀の三日月(シルバー・クレセント)に染み込んでいる。これは元々、アンデッドと戦う人々を助けるために作られた。1時間の間、あなたは松明のように冷たい白色の光を放ち、嗅覚効果に対するセーヴィング・スローに+2のアイテム・ボーナスを得る。この光を放っている間、あなたが可視状態であれば@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態になることはできず、もしあなたが@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}状態であれば、未感知状態ではなく隠蔽状態となる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.KFq5wnjdzyrycEnB]{効果: シルバー Crescent}</p><hr /><p><strong>副次的な効果</strong> <span class=\"action-glyph\">2</span></p>\n<p><strong>効果</strong>あなたが選択した120フィート以内の5フィートの広場に光の筋が降り注ぐ。その空間にいるクリーチャーは@Damage[7d6[vitality]|options:area-damage]と@Check[reflex|dc:28|basic|options:area-effect]を受け、セーヴに失敗すると次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。これは弱点、耐性、その他同様の目的において銀として扱われる。この銀の三日月は不活性となる。</p>"
     },
     "Bloodhound Mask (Greater)": {
@@ -1294,7 +1294,7 @@
       "description": "<p>この小さな箱には、地面をリズミカルに叩くクロックワークの機構が入っており、振動感知を持つクリーチャーは、通常の最大2倍の範囲でそれを探知できるようになる。この機構は、1ラウンドから1分の間叩き続けるようにゼンマイを巻くことができ、その後は役に立たない部品となってしまう。</p>"
     },
     "Ghost Delivery Fulu": {
-      "name": "ゴースト・デリバリー・フール/Ghost Delivery Fulu",
+      "name": "ゴースト・デリバリー・フールー/Ghost Delivery Fulu",
       "description": "<p><strong>持続時間</strong> 1週間</p>\n<p>ゴースト・デリバリー・フルの碑文は、その周囲に霊を伴う鳩小屋に似ており、赤い蝋の目立つスタンプが押されている。このフルは貼り付けると起動し、同じスタンプを持つゴースト・クーリエ・フルの帰還先となる。届けられたゴースト・クーリエ・フルのメッセージはゴースト・デリバリー・フルに付着するが、簡単に取り外すことができる。</p>"
     },
     "Shadowmist Cape": {
@@ -1605,7 +1605,7 @@
       "description": "<p>このルーンは敵を倒すたびにエネルギーを蓄え、勝利のたびに戦場を駆け抜けるあなたを突き動かす。</p>\n<p><strong>起動</strong><span class=\"action-glyph\">F</span> (精神集中)</p>\n<p><strong>必要条件</strong> あなたの最後のアクションまたはアクティビティが、敵のヒット・ポイントを0にした。</p><hr /><p><strong>効果</strong> あなたは15フィートまで〈ストライド〉する。この移動はリアクションを誘発しない。 あなたが対応する移動タイプを持っているなら、〈ストライド〉の代わりに〈穴掘り〉、〈登攀〉、〈飛行〉、または〈水泳〉を行うことができる。</p>"
     },
     "Golden Breath Fulu": {
-      "name": "ゴールデン・ブレス・フール/Golden Breath Fulu",
+      "name": "ゴールデン・ブレス・フールー/Golden Breath Fulu",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">f</span> (精神集中)</p>\n<p><strong>トリガー</strong>あなたがダメージを受ける。</p><hr /><p>ある進取の気性に富んだ外科医が、<em>虚無の千の苦痛のお札</em>によって引き起こされる力を逆転させ、<em>黄金の息吹のお札</em>を創造した。これは要素のバランスが崩れた際に気と肉体を強化する。あなたがこのお札を起動すると、あなたは@Damage[75[healing]]ヒット・ポイントを回復し、あなたに影響を与えているあらゆる持続ダメージを終了させるためにフラットな判定を行う。このお札は、持続ダメージを終了させる助けとして特に適切である。また、もしあなたがこのお札から自身の最大値を超えるヒット・ポイントを回復することになる場合、その超過分を一時的ヒット・ポイントとして得るか、30フィート以内のあなたが選んだクリーチャーに分配することができる。その一時的ヒット・ポイントは1分持続する。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.hwrH1R1ecWI16liX]{効果: Golden Breath Fulu}</p>"
     },
     "Aeon Stone (Agate Ellipsoid)": {
@@ -1641,7 +1641,7 @@
       "description": "<p>この非常に巨大な王冠は、きらめく宝石で飾られており、金が奇妙にきらめく潮だまりのように波打ち、うねるように見せる強力な魔法がかけられている。着用には不快だが、この王冠は着用者の周囲にいる者を魅了する。あなたから30フィート以内にいるクリーチャーは、あなたに対する態度が自動的に1段階改善される(最大で友好まで)。これは敵対的なクリーチャーがあなたを攻撃することを防ぐものではないが、彼らが攻撃する前に話をする機会を与えてくれるかもしれない。王冠のまばゆい性質のため、あなたは他者の意図を読むことが困難になり、誰かがあなたに対して《欺瞞》を使用した際、あなたの《知覚》 DCに－4の状況ペナルティを受ける。この王冠を投資する際、あなたは自身の魅力修正値を1増加させるか、+4に増加させるかのいずれかを行い、より高い値を得ることができる。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (集中)</p>\n<p><strong>使用制限</strong> 1ラウンドにつき1回</p><hr /><p><strong>効果</strong> あなたは@UUID[Compendium.pf2e.spells-srd.Item.8xRzLhwGL7Dgy3EZ]{サンクチュアリ}呪文の対象となるあなたの次のターン終了時まで。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">R</span> (集中)</p>\n<p><strong>使用制限</strong> 1時間に1回</p>\n<p><strong>トリガー</strong> クリーチャーがあなたに対する攻撃ロールで成功した</p><hr /><p><strong>効果</strong> そのクリーチャーは@Check[will|dc:41] セーヴに成功しなければならず、失敗するとその攻撃ロールは失敗となり、対象は自身のターンの終了時まであなたに対して友好となる。大失敗した場合、対象はあなたに対して友好となり、膝をつき、1分の間、あるいは別のクリーチャーが彼らに対して敵対的なアクションをとるまで、あなたに許しを請う。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">2</span> (集中、幸運、精神)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> あなたから30フィート以内にいる生きているクリーチャーを1体選ぶ。そのクリーチャーは@Check[will|dc:41] セーヴィング・スローに成功しなければならず、失敗すると次の24時間の間、あなたに対して協力的になる。成功した場合、彼らは1時間の間、あなたに対して友好となる。大成功した場合、彼らはこの効果に対して免疫となり、その期間は1年である。</p>"
     },
     "Ethereal Crescent (Greater)": {
-      "name": "エセリアル・クレッセント（グレーター）/Ethereal Crescent (Greater)",
+      "name": "エセリアル・クレセント（グレーター）/Ethereal Crescent (Greater)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (手作業)</p><hr /><p>この三日月形の虹色に輝く金属の破片は奇妙に半透明で、あまりに長く見つめているとぼやけた輪郭へと消えていく。<em>greater ethereal crescent</em>の効果を受けている武器は、1分の間、@UUID[Compendium.pf2e.equipment-srd.Item.6llILJtsTPgtYXgx]{アストラル}ルーンの効果を得る。これは武器の通常のルーンの最大数には数えられない。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.Vk9Fwo0Xl1EF9fEF]{効果: Ethereal Crescent}</p>"
     },
     "Dread (Moderate)": {
@@ -1649,7 +1649,7 @@
       "description": "<p>不気味なシンボルがあなたの鎧を覆い、敵に恐怖を植え付ける。あなたが見えている30フィート以内の恐れている状態の敵は、自身のターンの終了時に@Check[will|dc:29|name:Dread Rune|traits:fear|showDC:all]セーヴを行わなければならない。失敗した場合、そのターンの間、そのクリーチャーの@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態の値は2未満に減少することはない。</p>"
     },
     "Fulu Compendium": {
-      "name": "フール・コンペンディアム/Fulu Compendium",
+      "name": "フールー・コンペンディアム/Fulu Compendium",
       "description": "<p>このパンフレットサイズの書物には、お札に見られる様々なシンボルが記録されており、毎日日の出とともに自身を回復する特別なページに完成された魔法も含まれている。このコンペンディウムを参考資料として使用すると、お札の機能や真贋を判定するためのあらゆるスキル判定に+2のアイテム・ボーナスを得る。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> 〈扱う〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong> あなたはお札のコンペンディウムから1ページを破り取り、それを大きな弧を描くように投げる。そのページは弧を描いて飛ぶ間に、お札の嵐へと増殖する。@Template[emanation|distance:30]内のすべてのアンデッドは、難易度25の@Check[will|dc:25|name:spirit-sealing fulu|traits:fulu|showDC:all]セーヴを伴う@UUID[Compendium.pf2e.equipment-srd.Item.9FiSGqe8s8531Tyh]{スピリット・シーリング・フル}の影響を受ける。</p>"
     },
     "Howler Pistol": {
@@ -1963,7 +1963,7 @@
       "description": "<p>このルビーをちりばめたドーンシルバー製の聖杯は、どんなに腐食性の強い物質であっても、中に入れた物質によって害されることはない。さらに、<em>オゼムの聖杯</em>の中に入れた液体は、持ち主が（集中トレイトを持つ単一アクションを使用して）そうすることを選択しない限り、決してこぼれることはない。</p><hr />\n<p><strong>起動—アイオーメデイの祝福</strong> <span class=\"action-glyph\">2</span> (集中、手作業)</p>\n<p><strong>使用制限</strong> 1時間に1回</p>\n<p><strong>効果</strong> あなたは聖杯を掲げ、アイオーメデイの名を呼ぶ。その聖杯は@UUID[Compendium.pf2e.spells-srd.Item.JOdOpbPDl7nqvJUm]{ディスペリング・グローブ}を発動し、その打ち消し判定には[[/r 1d20+19 #Counteract]]{+19}の修正値を得る。</p><hr />\n<p><strong>破壊</strong> もし<em>オゼムの聖杯</em>がアイオーメデイの血で満たされ、アラズニがそれを飲んだ場合、聖杯は粉々に砕ける。</p>"
     },
     "Escape Fulu": {
-      "name": "エスケープ・フール/Escape Fulu",
+      "name": "エスケープ・フールー/Escape Fulu",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">f</span> (集中)</p>\n<p><strong>トリガー</strong>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みる。</p><hr /><p>この<em>エスケープ・フル</em>は富裕層の間で一般的なチャームであり、彼らは誘拐に備えてこのタリスマンを着用している。あなたがこのフルを起動すると、1分の間、あなたは〈エスケープ〉を行う試みと、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}および@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}を行うための《隠密》判定に+2のステータス・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.eWDmS4QTwmwPbBTb]{効果: 〈エスケープ〉 フル}</p>"
     },
     "Ghost Ampoule": {
@@ -2037,7 +2037,7 @@
       "name": "金めっきの枠を持つ銀の鏡/Silver mirror with gilded frame"
     },
     "Traveler's Fulu": {
-      "name": "トラベラーズ・フール/Traveler's Fulu",
+      "name": "トラベラーズ・フールー/Traveler's Fulu",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">F</span> (精神集中)</p>\n<p><strong>トリガー</strong>あなたが〈位置を定める〉を行う。</p>\n<p><strong>必要条件</strong>あなたは《生存術》において訓練済みである。</p><hr /><p>このお札には、夜空を通る天体の動きを描いた一連の星座と矢印が示されている。旅人のお札を起動すると、魔法があなたの心に、まるで以前この地域にいたかのようなデジャヴの感覚を吹き込む。あなたの〈位置を定める〉の試みは、コンパスを持っているかのように機能し、あなたは〈位置を定める〉ための《生存術》判定の結果よりも1段階成功度が高い結果を使用する。もしあなたが《生存術》でマスターであれば、2段階成功度が高い結果を使用する。</p>"
     },
     "Book of Warding Prayers": {
@@ -2926,7 +2926,7 @@
       "description": "<p><strong>矢弾</strong>アロー</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p><hr /><p>これらの矢はそれぞれ、巨大なロックの風切羽から作られており、その羽弁の大部分は矢の軸を露出させるために切り詰められている。アクティベートされたロックシャフト・アローが対象に命中すると、矢は短時間、一対の鳥の翼を生やし、対象を運び去ろうと試みる。対象は@Check[fortitude|dc:19]セーヴィング・スローに成功しなければならず、失敗するとあなたが選択した10フィート以内のマスに移動させられる(大失敗した場合は20フィート)。もしこれが対象を危険なマスへ移動させることになる場合、この効果は無力化のトレイトを得る。</p>"
     },
     "Thousand-Pains Fulu (Needle)": {
-      "name": "サウザンドペインズ・フール（ニードル）/Thousand-Pains Fulu (Needle)",
+      "name": "サウザンドペインズ・フールー（ニードル）/Thousand-Pains Fulu (Needle)",
       "description": "<p><strong>持続時間</strong> 1分</p>\n<p>道徳を捨てて永遠の命を求めた外科医によって作られた<em>千痛のお札</em>は、体内の元素の自然な流れを阻害する。このお札を貼り付けられたクリーチャーは、@Check[fortitude|dc:27|basic]を行わなければならない。失敗または大失敗した場合、その対象は、このお札の持続時間内に満たさなければならない特定の条件によって誘発される永続ダメージを受ける状態となる。</p>\n<p>この白いお札を手に取ると、まるで針で手を刺されたかのように感じる。髪、爪、結合組織が内側に突き刺さり、このお札は@Damage[7d6[piercing]]ダメージを与える。失敗または大失敗した場合、その対象がその後〈移動〉トレイトを持つアクションを行うと、その対象は@Damage[2d6[persistent,piercing]]ダメージを受ける。</p>"
     },
     "Ring of the Tiger (Greater)": {
@@ -3034,7 +3034,7 @@
       "description": "<p>この薄手の紫色のヴェールには、占いの意味を持つシンボルが刺繍されている。あなたの呪いが悪化するにつれて、ヴェールは目に見えない風の中で、ますます激しく波打つようになる。あなたは《宗教》判定に+2のアイテム・ボーナスを得る。</p>\n<p><strong>起動—未来を記憶する</strong> <span class=\"action-glyph\">f</span>(精神集中)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたはフォーカス・ポイントを1点得る。これは啓示呪文を発動するためにのみ消費できる。このターンの終了までにこのフォーカス・ポイントを消費しなかった場合、それは失われる。</p><hr /><p><strong>起動—運命の糸をねじる</strong> <span class=\"action-glyph\">r</span>(精神集中)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong> 30フィート以内の味方がセーヴィング・スローを行おうとしている</p>\n<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{カースバウンド}状態である</p><hr /><p><strong>効果</strong>その味方は、あなたのカースバウンド状態の値に等しいステータス・ボーナスをそのセーヴィング・スローに得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.oBOYt4Aon6Po1hwa]{効果: 運命の糸をねじる}</p><hr /><p><strong>〈製作する〉必要条件</strong>あなたはオラクルである。</p>"
     },
     "Demolition Fulu (Lesser)": {
-      "name": "デモリション・フール（レッサー）/Demolition Fulu (Lesser)",
+      "name": "デモリション・フールー（レッサー）/Demolition Fulu (Lesser)",
       "description": "<p>破壊のお札は、破壊工作員や発掘者が破壊の際に現場から遠く離れていることを可能にする。このお札は、あなたが設置する際に決定した5分から8時間の時間をかけて灰となって崩れ落ちる。持続時間が終了すると、このお札はそれが貼り付けられた対象の硬度をそのお札のレベルに等しい値だけ低下させ、その後その対象に@Damage[3d6[bludgeoning]]を与える。破壊のお札はハザードとして機能し、その種類に応じて、それを発見するための@Check[perception|dc:17]判定と、それを解除するための@Check[thievery|dc:17]判定が必要となる。</p>"
     },
     "Skunk Bomb (Greater)": {
@@ -3143,7 +3143,7 @@
       "description": "<p>多くのラストウォールの騎士によって携帯されるこの琥珀色で芳香のある油は、戦いで倒れた者がアンデッドとして蘇るのを防ぐためのものである。死体に<em>anointing oil</em>を塗布すると、その死体に@UUID[Compendium.pf2e.spells-srd.Item.xRgU9rrhmGAgG4Rc]{ピースフル・レスト}が発動する。その効果は24時間持続する。</p>\n<p>この油はアンデッドにとって忌まわしいものである。この油で処理された死体に接触するアンデッドクリーチャーは、接触が断たれるか油の効果が切れるまで、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態となる。</p>"
     },
     "Fulu of Fire Suppression": {
-      "name": "フール・オブ・ファイア・サプレッション/Fulu of Fire Suppression",
+      "name": "フールー・オブ・ファイア・サプレッション/Fulu of Fire Suppression",
       "description": "<p>この黒い紙の護符に銀色のインクで書かれた文字は、特に視界の端で捉えたとき、見えたり消えたりする。通常は台所に貼られ、この符籙は半径30フィート以内で火が燃え広がる速度を半分にする。</p>\n<p>符籙そのものに火がつくと、燃えながら@Template[cone|distance:30]の範囲へ水を降らせる。範囲内の非魔法の火を自動的に消し、魔法の［火炎］効果に対しては打ち消し修正値＋7、打ち消しランク2で打ち消しを試みる。この効果が発生すると、符籙の持続時間は直ちに終了する。</p>"
     },
     "Illuminated Folio": {
@@ -3569,7 +3569,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (手作業)</p><hr /><p>1分の間、あなたの四肢は極めて柔軟になり、微細な運動能力を犠牲にして、極端なまでに伸びたり捻じれたりできるようになる。</p>\n<p><strong>利益</strong>あなたは、@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}、@UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{〈無理矢理入り込む〉}、@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}を行うための《軽業》判定に+1のアイテム・ボーナスを得て、あなたのリーチを5フィート増加させる。</p>\n<p><strong>欠点</strong>あなたは《運動》判定、《隠密》判定、《盗賊術》判定、および攻撃ロールに–1のペナルティを受け、すべての武器および素手攻撃のダメージにダメージ・ダイス1個につき–1のペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.FDSl6DFblUjITOgP]{効果: チョーカー・アーム・ミュータジェン(レッサー)}</p>"
     },
     "Spirit-Sealing Fulu": {
-      "name": "スピリットシーリング・フール/Spirit-Sealing Fulu",
+      "name": "スピリットシーリング・フールー/Spirit-Sealing Fulu",
       "description": "<p><strong>使用法</strong> 1体のアンデッドクリーチャーに貼り付ける</p>\n<p><strong>持続時間</strong> 1ラウンド</p>\n<hr />\n<p>この古典的なお札は、アンデッド内部の虚無エネルギーを封印し、その場に凍りつかせる。貼り付けた際、対象のアンデッドは@Check[will|dc:17|name:spirit-sealing fulu|showDC:all]セーヴを行わなければならず、失敗すると1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる。</p>"
     },
     "Clockwork Monkey": {
@@ -4050,7 +4050,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<hr />\n<p>この鏡面の瓶には、混ざり合わない2種類の溶媒に溶解した様々な化学物質が入っている。瓶を振ると化学反応が起こり、瓶が発光する。1時間の間、瓶は20フィートの半径に明るい光を放ち(さらにその先の40フィートに薄暗い光を放つ)。</p>\n<p>この1時間の間、これは爆弾のように投擲できる。他の爆弾と同様に、〈ストライク〉で起動するには1アクションを要し、以下のダメージを与える。最初の起動から1時間以内に投擲されなければ、無害化して消費される。</p>\n<p>この爆弾は3d4の生命ダメージと3の生命力スプラッシュ・ダメージ、さらに3d4の追加の火炎ダメージを与える。通常通り、生命ダメージはアンデッドや「虚無による治癒」を持つ他のクリーチャーにのみ害を与える。日光に対する特別な脆弱性を持つアンデッド(吸血鬼やレイスなど)は、瓶詰めの太陽光から最大量の生命ダメージを受ける(3d4の代わりに@Damage[12[vitality]])。瓶詰めの太陽光が持つ武器ダイスの数に依存する能力については、生命ダメージのダイスのみを数えること。</p>"
     },
     "Thousand-Pains Fulu (Stone)": {
-      "name": "サウザンドペインズ・フール（ストーン）/Thousand-Pains Fulu (Stone)",
+      "name": "サウザンドペインズ・フールー（ストーン）/Thousand-Pains Fulu (Stone)",
       "description": "<p><strong>持続時間</strong> 1分</p>\n<p>無限の命を求めて道徳を捨てた外科医によって創造された、<em>thousand-pains fulu</em>は、身体における元素の自然な流れを阻害する。このお札が貼り付けられたクリーチャーは@Check[fortitude|dc:19|basic]を行わなければならない。失敗または大失敗した場合、その対象は、お札の持続時間内に満たさなければならない特定の条件によって引き起こされる持続ダメージを受ける状態になる。</p>\n<p>このお札の黄色い羊皮紙は埃っぽく、硬い感触がする。筋肉が膨れ上がり関節や骨を砕くため、このお札は@Damage[3d6[bludgeoning]]を与える。失敗または大失敗した場合、対象が電撃ダメージを受けると、それに追加して@Damage[1d6[persistent,bludgeoning]]も受ける。</p>"
     },
     "Binding Coil (Greater)": {
@@ -4126,7 +4126,7 @@
       "description": "<p>柔らかい革で作られ、足首付近に繊細な白い翼が取り付けられたこのサンダルには、強力な風の魔法がかけられている。</p>\n<p>このサンダルを着用中に落下したとき、自動的にあなたに{@UUID[Compendium.pf2e.spells-srd.Item.TTwOKGqmZeKSyNMH]{ジェントル・ランディング}}が発動する。この恩恵は10分の間は再びトリガーしない。</p>\n<hr />\n<p><strong>起動—翼の覚醒</strong> <span class=\"action-glyph\">2</span> (風、精神集中)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>翼が大きくなり、あなたを空中へと推進させ、10分間、飛行移動速度30フィートを与える。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.1S51uIRb9bnZtpFU]{効果：ウィングド・サンダル}</p>"
     },
     "Discord Fulu": {
-      "name": "ディスコード・フール/Discord Fulu",
+      "name": "ディスコード・フールー/Discord Fulu",
       "description": "<p><strong>持続時間</strong> 1時間</p><hr /><p>緑色の文字が書き込まれた<em>不和のお札</em>は、恋愛のライバルに対して、そのアプローチを妨害するために使用される、人気があるが非倫理的な道具である。このお札が貼り付けられている間、対象のクリーチャーは他のクリーチャーに対する態度を、本来よりも1段階悪いものとして扱う。また、そのクリーチャーは《交渉》判定に-1の状況ペナルティを受ける。そのクリーチャーが《交渉》判定で最初に出した失敗は、代わりに大失敗となり、お札は灰になって効果が終了する。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.b1y4mJG0CeNIuhc0]{効果：不和のお札}</p>"
     },
     "Jabali's Dice": {
@@ -4595,7 +4595,7 @@
       "description": "<p>ギャンブラーや予言者に等しく使用されるこのカードデッキには、いくつかの種類がある。</p>\n\n<hr />\n<p>コモンなハロー・デッキはより高品質な紙で作られており、イラストが描かれている。ハローの読み手は通常、これらのデッキを使用する。</p>"
     },
     "Inventor's Fulu": {
-      "name": "インベンターズ・フール/Inventor's Fulu",
+      "name": "インベンターズ・フールー/Inventor's Fulu",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">f</span> (精神集中)</p>\n<p><strong>トリガー</strong>あなたが不安定トレイトを持つアクションでクリティカル失敗した時。</p><hr /><p>ティエン・シアの一部のインヴェンターは、装置が意図した通りに動作するようにという願いを込めたチャームとして、自身の発明品の近くに揚げたスナックを置く。この習慣は他のインヴェンターにも広まり、彼らは食べ物の代わりに<em>インヴェンターのお札</em>に描かれた図を用いるようになった。あなたがそのお札を起動すると、あなたのクリティカル失敗は失敗となり、あなたはわずか1分を費やすことで、自分の発明品を完全に機能する状態に戻すことができる。その後、そのお札は燃え尽き、その効果は終了する。</p>"
     },
     "Seventh Prism (Pentagonal)": {
@@ -5181,7 +5181,7 @@
       "description": "<p>これらのタトゥーは、7つのショアンティクランの意匠と技法を用いて最初に作成された。各クランは特定の1つのタトゥーで知られている。古代、クランは自身のエンブレムを他のクランの構成員にタトゥーとして刻むことで同盟を締結し、象徴的にその贈り物を分かち合っていた。これらのタトゥーは尊重されているものの、クランは最も名誉あるシンボルを真のクラン構成員のために取っておいている。このタトゥーにより、あなたはショアンティを理解し話すことができるようになる。もしあなたがすでにその言語を知っているなら、代わりに、ショアンティを理解している誰かに対してショアンティで話す際に行う《交渉》判定に+1のアイテム・ボーナスを得る。</p>\n<p>サン・クランのタトゥーは、くちばしから炎を放つ鳴き鳥を描いている。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1 – 3</span></p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>このタトゥーは@UUID[Compendium.pf2e.spells-srd.Item.TSyFZNAbqfkRrcq0]{コンコーダント・クワイア}を発動する。</p>"
     },
     "Amaranthine Visage": {
-      "name": "アマランサイン・ヴィザージュ/Amaranthine Visage",
+      "name": "アマランサイン・ヴィサージ/Amaranthine Visage",
       "description": "<p>モーダント・スパイアに住まうエルフの秘密主義的な指導者たちが着用する、この高さ2フィートの木製の仮面の形状は、塔そのものを模している。これを着用している間、あなたの内臓は紫色の煙に変わり、精密ダメージに対する耐性10を得る。</p>\n<p><strong>起動—永遠の再生</strong> <span class=\"action-glyph\">r</span> (healing)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたのダイイング状態が、あなたを死亡させる値に達しようとしている。</p><hr /><p><strong>効果</strong>あなたは「自己昇華」を行う。あなたはダイイング状態を失い、通常通り負傷状態を得るか増加させ、1分の間、ファスト・ヒーリング20を得る。あなたは@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態であるか、その他の理由でアクション不能であっても「永遠の再生」を使用できる。</p>\n<p><strong>起動—自己昇華</strong> <span class=\"action-glyph\">2</span> (air, concentrate, polymorph)あなたの身体は5分の間、完全に紫色の蒸気に変身し、ヴェイパー・フォームの効果を得る。</p>"
     },
     "Mudlily": {
@@ -5620,7 +5620,7 @@
       "description": "<p>空を舞う鎧(ソアリング・アーマー)は、あなたがより速く飛行するのを助け、あなたと近くの味方を落下から守る。空を舞う鎧を着用している間、あなたは(もし持っていれば)飛行移動速度に+10フィートのアイテム・ボーナスを得る。通常通り、もしあなたの飛行移動速度があなたの地上移動速度に基づいており、あなたがすでに地上移動速度へのアイテム・ボーナスを持っている場合、これらのボーナスは累積しない。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">R</span> command</p>\n<p><strong>トリガー</strong>あなた、またはあなたから60フィート以内にいるクリーチャーが落下している。</p>\n<hr />\n<p><strong>効果</strong>あなたはトリガーとなったクリーチャーに対して@UUID[Compendium.pf2e.spells-srd.Item.TTwOKGqmZeKSyNMH]{ジェントル・ランディング}を発動する。</p>"
     },
     "Phoenix Fulu Holder": {
-      "name": "フェニックス・フール・ホルダー/Phoenix Fulu Holder",
+      "name": "フェニックス・フールー・ホルダー/Phoenix Fulu Holder",
       "description": "<p>この優雅な木製の枠は、接触すると不快なほど熱く感じる、無数の柔らかい赤い羽毛で飾られている。フェニックス・フル・ホルダーは、その枠内に一時的に置かれたあらゆるお札に一種の第二の「命」を与えるだけでなく、お札の使い手にそのような宝物をスタイリッシュで人目を引く方法で展示する手段も提供する。あなたは〈扱う〉アクションとして、どんなお札でもフェニックス・フル・ホルダーに置くことができる。</p>\n<p><strong>起動—お札複製</strong> <span class=\"action-glyph\">1</span> (手作業)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong> 11レベル以下のお札がフェニックス・フル・ホルダーに保管されていること</p><hr /><p><strong>効果</strong>あなたはフェニックス・フル・ホルダーからお札を取り出す。その瞬間、取り出したお札の輝く像が枠の中に現れる。以前に保管されていたお札が次の24時間以内に消費された場合、フェニックス・フル・ホルダー内の揺らめく像は、そのお札の実体化し完全に機能する複製となる。この複製されたお札は元のお札と同一に機能するが、形成されてから24時間以内に貼り付けられなければ、それは色あせて消滅する。複製されたお札をフェニックス・フル・ホルダーに入れてさらに複製することはできない。</p>"
     },
     "Tooth and Claw Tattoo (Greater)": {
@@ -7632,7 +7632,7 @@
       "description": "<p>この鮮やかな色のリネン製のローブは、生きている雷鳴、酸の溜まり、轟く炎、踊るマリドなど、その属性エネルギーにふさわしいクリーチャーや自然現象を描いた繊細な刺繍で覆われている。あなたは酸に対する耐性5を得る。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span>コマンド, 〈扱う〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>あなたが命令語を唱えると、ローブの刺繍された糸が鮮やかに輝く。あなたの手にある酸がより容易な足がかりを与えるため、あなたは自身の移動速度と等しい登攀移動速度を得る。</p>"
     },
     "Kaiju Fulu": {
-      "name": "カイジュウ・フール/Kaiju Fulu",
+      "name": "カイジュウ・フールー/Kaiju Fulu",
       "description": "<p><strong>持続時間</strong> 1週間</p>\n<p>その名に反して、怪獣のお札はあらゆる種類のダメージから建造物を保護する。100フィート×100フィート以下で、高さが最大50フィートの取り付けられた建造物がダメージを受けるとき、その建造物はそのダメージおよびその後1時間以内に発生するあらゆるダメージに対して、標準グレードのアダマンティンと同等の硬さになる。その後、お札は塵となって崩れ去り、その効果は終了する。</p>"
     },
     "Maw of Hungry Shadows": {
@@ -8203,7 +8203,7 @@
       "description": "<p>この<em>+2グレーター・ストライキング@UUID[Compendium.pf2e.equipment-srd.Item.XszNvxnymWYRaoTp]{フレイミング}ロングソード</em>は、装飾が施された真鍮の柄と、様式化された炎のような形の刃を持つ。装備している間、刃は揺らめく火光のような光を放ち、半径10フィートの半径に薄暗い光を放つ。</p>\n<p><strong>起動—シュート・ファイア</strong> <span class=\"action-glyph\">2</span> (concentrate, manipulate)</p>\n<hr />\n<p><strong>効果</strong>あなたはこの剣から7ランクのアーケイン呪文として@UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{イグニション}キャントリップを発動する。その際、あなたの近接攻撃修正値を<em>シアリング・ブレイド</em>の呪文攻撃修正値として使用する。</p>"
     },
     "Firecracker Fulu": {
-      "name": "ファイアクラッカー・フール/Firecracker Fulu",
+      "name": "ファイアクラッカー・フールー/Firecracker Fulu",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">F</span> (concentrate)</p>\n<p><strong>トリガー</strong>あなたが装着した武器での攻撃ロールでクリティカル・サクセスした時。</p><hr /><p>そのお札は爆発し、周囲に明るい火花を撒き散らす。攻撃を受けたクリーチャーは追加で@Damage[1d4[sonic]]のダメージを受け、@Check[fortitude|dc:15]のセーヴィング・スローに成功しなければ、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}となる(クリティカル・フェイラーの場合は1分間dazzled状態となる)。</p>"
     },
     "Rope of Climbing (Lesser)": {
@@ -8230,7 +8230,7 @@
       "description": "<p>このデヴィルの翼の小さな引き裂かれた破片は、銀のバッジに取り付けられる前に聖水で清められている。このアイテムを起動して発動した呪文の呪文攻撃修正は+14であり、呪文のDCは24である。</p><ul><li><strong>鎧</strong>あなたは火炎とアンホーリーに対する耐性5を得る。</li><li><strong>武器</strong>この<em>デヴィルウィング・バッジ</em>を起動して呪文を発動した後、その武器によるあなたのストライクは追加で1d6の精神ダメージを与えるあなたの次のターン終了時まで。</li></ul><p>@UUID[Compendium.pf2e.equipment-effects.Item.IdlSIN88G5Ca7TLe]{効果: デヴィルウィング・バッジ (鎧)}</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.JuyEDBlFwyDguEzG]{効果: デヴィルウィング・バッジ (武器)}</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.qwZBXN6zBoB9BHXE]{ディバイン・ランス}を発動する。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.3x6eUCm17n6ROzUa]{クライシス・オブ・フェイス}を発動する。</p>"
     },
     "Mourner's Dawnlight Fulu": {
-      "name": "モーナーズ・ドーンライト・フール/Mourner's Dawnlight Fulu",
+      "name": "モーナーズ・ドーンライト・フールー/Mourner's Dawnlight Fulu",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">3</span> (精神集中、手作業)</p><hr /><p><em>哀悼者の夜明けの光のお札</em>は、失われた者の遺体を見つけるために使用される、紙銭に似た紙の束である。あなたがこのお札を起動する際、あなたがよく知っており、見つけ出したい特定の物体や死亡したクリーチャーを思い浮かべる。その後、あなたはお札を断片に引き裂き、風に漂わせる。もし探しているアイテムやクリーチャーが500フィート以内にある場合、その断片は空を舞い、対象の上、あるいは埋められているか隠されている対象に最も近い地表に着地する。引き裂かれたお札が着地したか、対象を見つけることに失敗した場合、その魔法は終了する。</p>"
     },
     "Bands of Imprisonment": {
@@ -8242,7 +8242,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">A</span> (手作業)</p><hr /><p>A <em>ヒーリング・ポーション</em>は、飲むと傷が急速に癒えるにつれてピリピリとした感覚をもたらす、ルビー色の液体が入った小瓶である。あなたが<em>ヒーリング・ポーション</em>を飲むと、あなたは@Damage[(3d8+10)[healing]]ヒット・ポイントを回復する。</p>"
     },
     "Fulu of the Stoic Ox": {
-      "name": "フール・オブ・ザ・ストイック・オックス/Fulu of the Stoic Ox",
+      "name": "フールー・オブ・ザ・ストイック・オックス/Fulu of the Stoic Ox",
       "description": "<p><strong>使用法</strong>防具に装着</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">f</span>精神集中</p>\n<p><strong>トリガー</strong>あなたが病気に対して頑健セーヴを行う。</p>\n<hr />\n<p>このお札に描かれた牛は、着用者の心臓の真上にある防具の箇所で警戒を怠らず、病気から着用者を守り、健康を保護する。あなたがこのお札を起動すると、トリガーとなった頑健セーヴおよび、次の1分間に行う同じ病気に対するすべての頑健セーヴに+2のステータス・ボーナスを得る。</p>"
     },
     "Wand of Tormented Slumber": {
@@ -8848,7 +8848,7 @@
       "description": "<p><strong>起動</strong> 〈呪文の発動〉 (add one action)</p><hr /><p><em>ウォリプド・フリース</em>の小さな束には、冬の雪の記憶が宿っている。この触媒を@UUID[Compendium.pf2e.spells-srd.Item.8TQiFzGf4feoHeH0]{チリング・スプレー}の発動に加えると、効果範囲内のすべての広場が薄い氷の層で覆われる。これらの広場は　あなたの次のターン開始時まで移動困難な地形となる。</p>"
     },
     "Animal-Turning Fulu": {
-      "name": "アニマルターニング・フール/Animal-Turning Fulu",
+      "name": "アニマルターニング・フールー/Animal-Turning Fulu",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">R</span> (concentrate)</p>\n<p><strong>トリガー</strong>動物のトレイトを持つクリーチャーがあなたへのストライクに成功した。</p><hr /><p>恐れている状態の動物たちは、中央の人物(伝統的には人間の狩人として描かれるが、時には骨だけのアンデッドクリーチャーや、長く折れた腕を持つフィーンドとして描かれることもある)から四方八方へ逃げ出している。あなたはこのお札を起動し、トリガーとなった〈ストライク〉に対してACに+2のアイテム・ボーナスを得る。もしこれが原因でその〈ストライク〉が外れたなら、あなたはトリガーとなったクリーチャーに対してあなたの次のターン開始時まで@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となる。</p>"
     },
     "Mirror of Sleeping Vigil": {
@@ -9655,7 +9655,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">A</span> (〈手作業〉)</p>\n<hr />\n<p>あなたの眼球は眼窩から飛び出し、長く伸びる柄の上で頭部から上方に突き出し、視力と視野を大幅に強化するが、目を閉じることができなくなり、有害な視覚効果に対する脆弱性が高まる。</p>\n<p><strong>利益</strong> あなたは全方位視覚、視覚に関する《知覚》判定への+2のアイテム・ボーナス、そしてまだ持っていない場合は低光量視野を得る。これらの効果は1分持続する。</p>\n<p><strong>欠点</strong> 1分の間、あなたは〈視覚〉のトレイトを持つ効果に対するセーヴィング・スローに-2のペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.ZxT8Shp8NZaQRjlQ]{効果: 眼柄ミュータジェン}</p>"
     },
     "Magical Lock Fulu": {
-      "name": "マジカル・ロック・フール/Magical Lock Fulu",
+      "name": "マジカル・ロック・フールー/Magical Lock Fulu",
       "description": "<p><strong>使用法</strong>ドア、窓、または容器に貼り付ける</p>\n<p><strong>持続時間</strong> 1時間</p>\n<hr />\n<p>このお札のシンボルは、錠前と巻き付く鎖を描いている。このお札を対象の継ぎ目や枠の上に貼り付けると、ラッチや既存の錠前がなくても対象を施錠する。同じ対象に最大9枚までお札を適用できる。お札1枚は@UUID[Compendium.pf2e.equipment-srd.Item.PBlxTrEyr3qXFBqq]{粗末なロック}(DC 15)、3枚は@UUID[Compendium.pf2e.equipment-srd.Item.JZXCTwoIWoGKjMX6]{単純なロック}(DC 20)、9枚は@UUID[Compendium.pf2e.equipment-srd.Item.q2TYVAMaK6UfenbV]{平均的なロック}(DC 25)に相当する。</p>"
     },
     "Waterproof Journal": {
@@ -9904,7 +9904,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (手作業)</p>\n<p>あなたがこのポーションを飲むと、吸盤で覆われた8本の暴れ回るタコの腕があなたの体の側面から飛び出す。これらの腕はあなたのマルチアタック・ペナルティを共有し、あなたから15フィート以内にいるランダムな敵1体に対して@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を試みる。成功した場合、ダイスを[[/r 1d4 #Added Effect]]ロールして腕の追加効果を決定する。この効果は、対象が腕によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}されている間持続する。以降のターンでは、あなたは攻撃トレイトを持つ単一のアクションを使用して、腕に現在組み付かれているか拘束されているクリーチャーに対して〈組み付き〉を行わせる(追加効果なし)か、現在掴んでいるクリーチャーを解放させ、最初の効果を繰り返させることができる。1分が経過すると、腕は消滅し、ポーションの効果は終了する。</p>\n<p>《運動》修正値は[[/r 1d20+22 #Athletics]]{+22}であり、〈エスケープ〉DCは30である。</p><table class=\"pf2e remaster\"><thead><tr><th>[[/r 1d4]]</th><th>追加の効果</th></tr></thead><tbody><tr><td>1</td><td>腕が目を覆う。対象はさらに@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる。</td></tr><tr><td>2</td><td>腕が口を覆う。対象は話すことができない。</td></tr><tr><td>3</td><td>腕が四肢に巻き付く。対象が掴まれている間に手作業アクションを行うためのフラット・判定は、DC 5の代わりに@Check[flat|dc:7]となる。</td></tr><tr><td>4</td><td>腕が敵を押しつぶす。対象はポーションのレベルに等しい@Damage[13[bludgeoning]]{殴打ダメージ}を直ちに受け、さらに各ターンの終了時にも受ける。</td></tr></tbody></table>"
     },
     "Poracha Fulu": {
-      "name": "ポラチャ・フール/Poracha Fulu",
+      "name": "ポラチャ・フールー/Poracha Fulu",
       "description": "<p>精霊の森近くの伝承には、<em>ポラチャ・フルー</em>の起源が語られている。かつて、ある旅人が8本足のネコ科動物を救ったところ、それがポラチャの王子であった。お礼として、王子はその旅人に、後に即効性の毒から身を守ることになるフルーを授けた。伝統的に、最大9枚の<em>ポラチャ・フルー</em>を紐に通して身につける。これは1つのタリスマンとして数えられる。あなたが持続ダメージを受けるたびに、あなたに貼付されている<em>ポラチャ・フルー</em>が1枚、そのダメージを無効化して塵となって崩れ去る。この反応は自動的だが、あなたはフリー・アクション(精神集中)を使用して、フルーが反応しないようにすることができる。そうした場合、あなたに貼付されているいかなる<em>ポラチャ・フルー</em>も、その持続ダメージに対して決して反応しない。</p>"
     },
     "Bottled Sunlight (Lesser)": {
@@ -9956,7 +9956,7 @@
       "description": "<p><em>ギャンブラーズ・スタッフ</em>の頭部にある小さなガラスの球体には、中で動き回る一対の6面ダイスが入っている。運を競うゲームで生計を立てている呪文の使い手は、確率を自分に有利にするために<em>ギャンブラーズ・スタッフ</em>を使用する。ほとんどの賭博場は、そのような魔法のアイテムを使用しているのを発見したプレイヤーを出入り禁止にする。<em>ギャンブラーズ・スタッフ</em>は、賭博による@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}ための判定(通常はゲームズ《専門知識》を使用する)に+2の状況ボーナスをあなたに与える。この恩恵を得るには、賭博に費やすダウンタイムの間ずっと、そのスタッフを身につけていなければならない。</p>\n<p><strong>起動</strong> 〈呪文の発動〉</p><hr /><p><strong>効果</strong>あなたはそのスタッフからチャージを消費して、そのリストにある呪文を発動する。</p><ul><li><strong>キャントリップ</strong> @UUID[Compendium.pf2e.spells-srd.Item.lmHmKGs1N3yNAvln]{ウォッシュ・ユア・ラック}</li><li><strong>1</strong> @UUID[Compendium.pf2e.spells-srd.Item.QjdvYC1QkpMaemoX]{ナッジ・ザ・オッズ}</li><li><strong>2</strong> @UUID[Compendium.pf2e.spells-srd.Item.rDDYGY2ekZ1yVv7q]{ラッキー・ナンバー}</li><li><strong>3</strong> @UUID[Compendium.pf2e.spells-srd.Item.lONs4r14LEBZRLLw]{シフト・ブレイム}</li><li><strong>4</strong> @UUID[Compendium.pf2e.spells-srd.Item.pkcOby5prOausy1k]{リード・オーメンズ}, @UUID[Compendium.pf2e.spells-srd.Item.EGTTGI1pkmsVPqHp]{ウィニング・ストリーク}</li><li><strong>5</strong> @UUID[Compendium.pf2e.spells-srd.Item.QjdvYC1QkpMaemoX]{ナッジ・ザ・オッズ}</li></ul><hr /><p><strong>〈製作する〉必要条件</strong>リストにあるすべての呪文の、リストにあるすべてのランクを1回ずつ発動できるようにすること。</p>"
     },
     "Reaper's Crescent": {
-      "name": "リーパーズ・クレッセント/Reaper's Crescent",
+      "name": "リーパーズ・クレセント/Reaper's Crescent",
       "description": "<p>このアラバスター製の<em>+1ストライキング・シックル</em>の刃は、月が満ちるにつれて厚く窪みが多くなり、月が欠けるにつれて鋭い薄片へと薄くなる。月光はまた、刃にある2つ目のルーンを月の満ち欠けに合わせて変化させる。新月と三日月の間、その武器は<em>@UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]{ゴウスト・タッチ}</em>ルーンを持つ。上弦の月と下弦の月の間、<em>@UUID[Compendium.pf2e.equipment-srd.Item.P6v2AtJw7AUwaDzf]{フィアーサム}</em>ルーンを持つ。そして、凸月と満月の間、<em>@UUID[Compendium.pf2e.equipment-srd.Item.fo6Yhq5mbQXsnZs0]{ウーンディング}</em>ルーンを持つ。</p>\n<p>いかなる強さの月光の下であっても、それを使用しているとき、<em>リーパーズ・クレセント</em>はダメージダイスの数に等しい追加の冷気ダメージを与える。</p>"
     },
     "Viper Arrow": {
@@ -9991,7 +9991,7 @@
       "description": "<p>磁器製のラズミール仮面は、@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}または@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行うための《欺瞞》判定に+4のアイテム・ボーナスを与える。この仮面を装着(invest)する際、君は自身の魅力修正値を1増やすか、+4に上昇させるかのいずれか、より高い値になる方を選択する。</p><hr /><p><strong>起動—ラズミアの慈悲を求める</strong> <span class=\"action-glyph\">2</span>(精神集中、手作業、オカルト)</p>\n<p><strong>使用制限</strong> 1分に1回</p><hr /><p><strong>効果</strong>君はラズミールの聖職者たちから教わった技術を用いて、「神聖な」力を自身の意志に従わせる。君が接触した単一の対象に、君のレベルの2倍に等しい一時的ヒット・ポイントを与える。これは24時間持続する。もし対象が@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態であったなら、対象は意識を取り戻し、この効果による一時的ヒット・ポイントが残っている限り、ヒット・ポイントの減少によって再び意識を失うことはない。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.iOBkeWz0gTzplbXJ]{効果: ラズミアの慈悲を求める}</p><hr /><p><strong>起動—ラズミアの慈愛を求める</strong> <span class=\"action-glyph\">2</span>(精神集中、手作業、オカルト)</p>\n<p><strong>使用制限</strong> 1日3回</p><hr /><p><strong>効果</strong>対象から不浄を取り除くようラズミアに懇願し、君はリーチ内のクリーチャーに手を触れて、君のレベルの半分に等しい呪文ランクのオカルト呪文として@UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{クレンズ・アフリクション}を発動する。通常の<em>クレンズ・アフリクション</em>呪文とは異なり、これはアフリクションの段階を減少させない。その代わり、打ち消し判定が成功した場合、そのアフリクションの段階は一時的に1減少し、その効果は24時間の間抑制される。その後、アフリクションは完全な威力で再開する。</p>\n<p>もし対象が抑制されていた24時間の間にアフリクションに対して追加のセーヴィング・スローを行う必要があった場合、24時間の持続時間が終了した直後に、それらのセーヴィング・スローをすべて行わなければならない。これは、対象が成功してアフリクションが実際に治癒したかのように扱われることを意味する場合もあれば、アフリクションが戻ってきて一度に複数の段階が進行することを意味する場合もある。</p><hr /><p><strong>起動—ラズミアの憤怒を求める</strong> <span class=\"action-glyph\">2</span>(精神集中、手作業、オカルト)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>君はメルキャットで不信心者たちに対して行ったように、ラズミアにその燃え盛る憤怒を現すよう叫ぶ。君は8ランクのオカルト呪文として@UUID[Compendium.pf2e.spells-srd.Item.a3aQxCpoj1q1NQxC]{サンバースト}を発動するが、アンデッドの対象に対してこの呪文は無力化(incapacitation)のトレイトを持つ。</p><hr /><p><strong>起動—生ける神の力</strong> <span class=\"action-glyph\">3</span>(精神集中、手作業、オカルト)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>君は世界に力を要求し、自身の仮面を焦点具として用いて、現実を自身の意志に屈服させる。君は10ランクのオカルト呪文として@UUID[Compendium.pf2e.spells-srd.Item.AuIiqc7jjiy1GZ75]{マニフェステイション}を発動するが、それによってどの呪文を模倣したとしても、その呪文は無力化(incapacitation)のトレイトを持つ。</p>"
     },
     "Thousand-Pains Fulu (Void)": {
-      "name": "サウザンドペインズ・フール（ボイド）/Thousand-Pains Fulu (Void)",
+      "name": "サウザンドペインズ・フールー（ボイド）/Thousand-Pains Fulu (Void)",
       "description": "<p><strong>持続時間</strong> 1分</p>\n<p>永遠の命を求めて道徳を捨てた外科医によって作成された、<em>千の苦痛のお札(thousand-pains fulu)</em>は、身体内の元素の自然な流れを阻害する。このお札を貼り付けられたクリーチャーは、@Check[fortitude|dc:38|basic]を行わなければならない。失敗または大失敗は、お札の持続時間内に満たさなければならない特定の条件によって誘発される持続ダメージに対して、対象を準備させる。</p>\n<p>この紫のお札の中心にある黒い点は、底なしの穴のようにエネルギーを吸い込む。このお札は対象の気を散らすことで@Damage[12d10[void]]を与える。失敗または大失敗の場合、対象が1分以内に他のダメージを受けたなら、対象は@Damage[2d10[persistent,void]]も受ける。これらの効果は即死(death)と虚無(void)のトレイトを持つ。対象がこの持続ダメージを受けるたびに、対象から30フィート以内にいるクリーチャーは、リアクションを使用して、受けた持続ダメージに等しい一時的ヒット・ポイントを得ることができる。利用可能な一時的ヒット・ポイントは、そのリアクションを使用したクリーチャーたちの間で分配される。もしお札を貼り付けたクリーチャーが30フィート以内にいるなら、そのクリーチャーは望むならば、利用可能な一時的ヒット・ポイントすべてを得る。これらの一時的ヒット・ポイントは1分後に消失する。</p>"
     },
     "Entertainer's Cincture": {
@@ -10612,7 +10612,7 @@
       "description": "<p>ルーンロードザンダーグルは、お気に入りの幻術呪文へのアクセスを強化するために、しばしば<em>サイルシアン・ワンド</em>を作成した。すべての<em>サイルシアン・ワンド</em>は外見が異なるが、その色彩、形状、きらめく宝石の装飾は等しく大胆である。</p>\n<p><em>サイルシアン・ワンド</em>には、幻術のトレイトを持つ秘術呪文のみが収められている。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回、加えてオーバーチャージ</p>\n<p><strong>効果</strong>あなたは指定されたランクで呪文を発動する。この起動の一部として1ミシック・ポイントを消費する場合、その呪文の効果を神話的習熟度で解決する。</p><hr /><p><strong>起動—プリジューム・サクセス</strong> <span class=\"action-glyph\">r</span></p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたがワンドをオーバーチャージした際に@Check[flat|dc:10]に失敗した時</p>\n<p><strong>効果</strong>あなたは自身の失敗を信じず、判定を成功へと変える。1ミシック・ポイントを消費してフラット判定を振り直し、その後、呪文の効果を神話的習熟度で解決する。</p><hr /><p><strong>〈製作する〉必要条件</strong>あなたは、記載されたランクでその呪文を発動できる神話的秘術呪文の使い手でなければならない。</p>"
     },
     "Matchmaker Fulu": {
-      "name": "マッチメイカー・フール/Matchmaker Fulu",
+      "name": "マッチメイカー・フールー/Matchmaker Fulu",
       "description": "<p><strong>使用法</strong>鎧に装着</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">f</span>想像する</p>\n<p><strong>トリガー</strong>あなたが〈印象の改善〉を行うために《交渉》判定を行う時。</p>\n<hr />\n<p>この赤いお札には、美と愛の女神シェリンによる、人間関係に対する祝福が込められている。あなたは《交渉》判定に+2のステータス・ボーナスを得る。また、その判定で大失敗した場合は、代わりに失敗となる。</p>"
     },
     "Prey Mutagen (Moderate)": {
@@ -11184,7 +11184,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> envision</p>\n<hr />\n<p>この触媒は、血と墓の土の混合物に浸した鳥の爪である。これによって強化された@UUID[Compendium.pf2e.spells-srd.Item.aq76wpgsVEENDyau]{シャドウ・スパイ}呪文は、通常よりも長く持続するホムンクルスを作り出す。次に日課の準備を行う際に呪文が終了する代わりに、shadow spyの呪文スロットを再度消費することで呪文を更新し、同じホムンクルスを維持して観測を続けさせることができる。ステッドファスト・センチネルは、ゲブの強力な呪文の使い手がライバルを密かに監視するためにしばしば使用される。</p>"
     },
     "Crescent Cross": {
-      "name": "クレッセント・クロス/Crescent Cross",
+      "name": "クレセント・クロス/Crescent Cross",
       "description": "<p>クレセント・クロスは、小型のシザーと、一度に最大3本のボルトを装填できる腕装着型のクロスボウ装置を組み合わせたものである。</p>"
     },
     "Bougainvillea Blossom (Moderate)": {
@@ -12945,7 +12945,7 @@
       "description": "<p>この半透明で実体のないオイルが入った小瓶は、常に　接触すると冷たい。あなたが装備しているか運搬している近接武器に<em>ゴースト・オイル</em>を塗布すると、その武器は半透明になり、<em>@UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]{ゴウスト・タッチ}</em>ルーンの効果を得るが、同時にその武器は実体のあるクリーチャーを傷つけることができなくなる。このオイルは、他のクリーチャーの武器に塗布しても効果がない。オイルの効果は1分持続する。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.sk5LgfXestDKxCnK]{効果: ゴースト・オイル}</p>"
     },
     "Ghost Courier Fulu": {
-      "name": "ゴースト・クーリエ・フール/Ghost Courier Fulu",
+      "name": "ゴースト・クーリエ・フールー/Ghost Courier Fulu",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">2</span> (精神集中、手作業)</p><hr /><p><em>ゴースト・クーリエ・フル</em>の碑文にはメッセージ用の余白があり、目立つ赤いスタンプが、このフルがどのゴースト・デリバリー・フルを標的とするかを示している(下記参照)。あなたがこのフルを起動すると、最大25語までのメッセージを口述し、それが話した言語で魔法的に紙の上に現れる。その後、フルはエセリアル・プレーンへと消え、指定されたゴースト・デリバリー・フルが500マイル以内にある場合、[[/r 2d10 #hours]]{2d10時間}でそこに到着する。そこでフルの魔法は消散するが、メッセージは残る。輸送中にフルがダメージを受けた場合、50%の確率でユニバースに落下し、無傷だが魔法を失った状態になる。</p>"
     },
     "Sard": {
@@ -13313,7 +13313,7 @@
       "description": "<p>このフリントロック・ピストルは、銃身が並列に2本ついている。標準的なピストルよりも命中精度は劣るものの、ダブルバレル・ピストルは有用で汎用性の高い武器である。この武器は、ピストルによる決闘が比較的よく行われる地域では一般的に禁止されている。それは、貴族の決闘の場に散弾銃を持って現れることが、よく言っても無作法と見なされるのと同様である。</p>"
     },
     "Reflected Moonlight Fulu": {
-      "name": "リフレクテッド・ムーンライト・フール/Reflected Moonlight Fulu",
+      "name": "リフレクテッド・ムーンライト・フールー/Reflected Moonlight Fulu",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">r</span> (精神集中)</p>\n<p><strong>トリガー</strong>あなたが即死効果または虚無効果に対するセーヴに失敗した。</p><hr /><p>ある見習い神官が、スーパームーンの夜にのみ執り行われるツキヨへの神聖な儀式の最中、誤ってお札を屋外に一晩放置してしまい、最初の「月光を反射するお札」が生まれた。あなたがこの起動を行うと、トリガーとなった効果に対するあなたのセーヴィング・スローを再ロールし、良い方の結果を採用する。この新しいロールがクリティカル成功だった場合、その効果は作成者に反射され、その作成者が効果の対象として扱われる。その際、虚無ダメージはすべて生命ダメージに変換される。反射された効果や呪文は、たとえそれが範囲呪文であったり、複数のクリーチャーに影響を与えるものであったとしても、元の作成者にのみ影響を及ぼす。</p>"
     },
     "Elemental Ammunition (Greater, Fire)": {
@@ -13569,7 +13569,7 @@
       "description": "<p>優れた設計と卓越した職人技により、この鋼鉄製の盾は非魔法的な同種の盾よりも高い硬度を持っており、破壊されにくくなっている。</p>\n<p>この盾は硬度10、HP 80、BT 40を持つ。</p>"
     },
     "Anathema Fulu": {
-      "name": "アナセマ・フール/Anathema Fulu",
+      "name": "アナセマ・フールー/Anathema Fulu",
       "description": "<p><strong>持続時間</strong> 1時間</p><hr /><p>天経のセレスティアルと接触したネフィリムがクリッポスを弱体化させるために最初に使用したこの「忌避のお札」は4つの断片からなり、それぞれを枢機卿の方角に配置する。お札を起動する際、以下のトレイトから1つを選択する：セレスティアル、エレメンタル、フェイ、フィーンド、モニター、アンデッド。そのトレイトを持つクリーチャーがそのエリア内で自身のターンを開始した場合、そのクリーチャーは@Check[fortitude|dc:30]セーヴィング・スローに成功しなければならない。失敗すると、次の自身のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる。大成功した場合、そのクリーチャーは1時間の間、いかなる「忌避のお札」に対しても一時的な免疫となる。セーヴの結果にかかわらず、その後あなたがそのエリア内のそのようなクリーチャーに対して@UUID[Compendium.pf2e.spells-srd.Item.bay4AfSu2iIozNNW]{バニッシュメント}を発動した場合、そのクリーチャーは、そのクリーチャーにとって忌避すべき物品を特別なコストとして追加したことによる、その呪文に記載された-2のペナルティを受ける。このお札はその物品として機能するため、追加する必要はない。このペナルティの影響を受けているクリーチャーが<em>banishment</em>に対してセーヴィング・スローをロールした場合、発動者はフリー・アクションを使用して、その結果を1段階低下させることができる。そうした場合、お札はすべて燃え尽き、効果は終了する。起動後にお札の断片が移動させられたり破壊されたりした場合、効果は終了する。</p>"
     },
     "Specialist's Ring (Conjuration)": {
@@ -13687,7 +13687,7 @@
       "description": "<p>この1フィートの長さの導電ケーブルは、両端がスタシアン・コイルを内蔵した接地ハンドルで覆われている。これらのコイルは1回のアクションでオンまたはオフに切り替えることができる。オンの間、コイルはケーブルを帯電させ、ケーブルが接触したものすべてに対して、細く正確な線状に@Damage[1d6[electricity],1d6[fire]]ダメージを与える。ただし、このケーブルは武器として使うには扱いにくすぎる。エレクトロケーブルは通常、金属を細く直線状に「切断」するために使用される。これらは金属製のオブジェクトの硬度を10ポイント無視する。</p>"
     },
     "Fulu of the Drunken Monkey": {
-      "name": "フール・オブ・ザ・ドランクン・モンキー/Fulu of the Drunken Monkey",
+      "name": "フールー・オブ・ザ・ドランクン・モンキー/Fulu of the Drunken Monkey",
       "description": "<p><strong>使用法</strong>鎧に装着</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">f</span>念想</p>\n<p><strong>トリガー</strong>あなたが摂取した毒に対して頑健セーヴを行う。</p>\n<hr />\n<p>このお札に描かれた猿は、着用者の胃のすぐ上の鎧の先端に座り、流れ落ちてくるあらゆる毒物を楽しげに飲んでいる。このお札を起動すると、トリガーとなった頑健セーヴおよび、その後1分間、同じ毒に対する頑健セーヴに +2のステータス・ボーナスを得る。もしトリガーとなった毒が通常の@UUID[Compendium.pf2e.equipment-srd.Item.UMAXLDpI6YLSfYX1]{アルコール}であった場合、代わりにトリガーとなったセーヴに自動的に成功し、 1分の間、アルコールに対するセーヴに +4のステータス・ボーナスを得る。</p>"
     },
     "Unifying Emblem (Shadde-Quah)": {
@@ -13859,11 +13859,11 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (手作業)</p><hr /><p>革紐に吊るされた金属製の小さなインゴットで、表面には武器をはめ込むための深い溝がある。これを適用した武器は、その種類に応じて、1分の間、それが与える物理ダメージにおいてコールド・アイアンとして扱われる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.VECHAM3D71GWHw3A]{効果: Transmuting Ingot}</p>"
     },
     "Stormbreaker Fulu": {
-      "name": "ストームブレイカー・フール/Stormbreaker Fulu",
+      "name": "ストームブレイカー・フールー/Stormbreaker Fulu",
       "description": "<p><strong>使用法</strong>防具に貼り付ける</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">f</span>命令</p>\n<p><strong>トリガー</strong>あなたが移動を強制されようとしている、テレポートさせられようとしている、あるいは冷気、電撃、または音波ダメージを受けようとしている。</p>\n<hr />\n<p>この目立たない紙のお札には魔法の記号が刻まれている。このお札を起動すると、それは雲の切れ端となって消え、あなたは冷気、電撃、および音波ダメージに対する耐性15をあなたの次のターン終了時まで得る。その持続時間の間、あなたは風や天候による移動困難な地形を無視し、その効果がこのお札を打ち消さない限り(DC 40)、強制的に移動させられたりテレポートさせられたりすることはない。これらの防御は、トリガーとなった効果に対して適用される。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.FnCC5RNvnlWB2bmb]{効果: Stormbreaker Fulu}</p>"
     },
     "Spirit-Sealing Fulu (Greater)": {
-      "name": "スピリットシーリング・フール（グレーター）/Spirit-Sealing Fulu (Greater)",
+      "name": "スピリットシーリング・フールー（グレーター）/Spirit-Sealing Fulu (Greater)",
       "description": "<p><strong>使用法</strong> 1体のアンデッドクリーチャーに貼り付ける</p>\n<p><strong>持続時間</strong> 1ラウンドまたは4ラウンド</p>\n<hr />\n<p>この古典的なお札はアンデッド内部の虚無エネルギーを封印し、その場に凍りつかせる。貼り付けた際、対象のアンデッドは@Check[will|dc:27|name:spirit-sealing fulu|showDC:all]セーヴを行わなければならず、失敗すると1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}となる。大失敗した場合、そのアンデッドは4ラウンドの間麻痺する。各ターンの終了時に、それは新たな意志セーヴを試みて残りの持続時間を1ラウンド減少させるか、大成功すれば完全に終了させることができる。</p>"
     },
     "Atrophy Bomb (Greater)": {
@@ -15133,7 +15133,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (手作業)</p><hr /><p>青い仕上げがウィンド・オカリナの陶器の本体を飾っている。あなたがこのオカリナで音を奏でると、1分の間、あなたの周囲の@Template[emanation|distance:5]に強風が吹き荒れる。風は以下の効果を持つ。</p><ul><li>矢、ボルト、スリングの弾、および同程度のサイズの他の物体のような、物理的な遠隔攻撃による矢弾は、そのエリアを通過できない。投擲武器のような、より大きな遠隔武器による攻撃がそのエリアを通過する場合、その経路がエマナシオンを通過するなら、攻撃ロールに–2の状況ペナルティを受ける。巨大な遠隔武器および物理的な物体を生成しない呪文効果は、ペナルティなしでエマナシオンを通過できる。</li><li>そのエリアは、そこを移動しようとするクリーチャーにとって移動困難な地形である。</li><li>蒸気の姿をしたクリーチャーを含むガスは、エマナシオンを通過できない。エマナシオンが発生した時、そのようなガスはあなたのスペースを含め、エリアから取り除かれる。</li><li>あなたのスペースを含め、そのエリアには呼吸可能な空気がある。</li></ul><p>一度魔法が使用されると、そのオカリナは非魔法的な名手の楽器として残る。</p>"
     },
     "Demolition Fulu (Moderate)": {
-      "name": "デモリション・フール（モデレート）/Demolition Fulu (Moderate)",
+      "name": "デモリション・フールー（モデレート）/Demolition Fulu (Moderate)",
       "description": "<p>解体用のお札は、破壊工作員や発掘者が解体時に現場から遠く離れていることを可能にする。お札は、あなたが設置する際に決定した通り、5分から8時間かけて灰へと崩れ去る。効果時間が終了すると、お札はそれが貼り付けられた対象の硬度を、お札のレベルに等しい値だけ低下させ、その後対象に@Damage[6d6[bludgeoning]]を与える。解体用のお札は、その種類に応じて、それを発見するための@Check[perception|dc:28]判定と、それを無力化するための@Check[thievery|dc:28]判定を持つハザードとして機能する。</p>"
     },
     "Cyrusian Wand (3rd-Rank Spell)": {
@@ -15157,7 +15157,7 @@
       "description": "<p><em>ボリアル・スタッフ</em>は氷の円柱から削り出され、棘のあるギザギザのつららの形をしており、その表面はオーロラの色彩で輝いている。それはあなたの周囲の空気に明確な冷気を与える。武器として使用する場合、<em>グレーター・ボリアル・スタッフ</em>は<em>+2ストライキング・フロスト・スタッフ</em>である。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (精神集中)</p>\n<p><strong>使用制限</strong> 10分に1回</p><hr /><p><strong>効果</strong> そのスタッフを使用して〈ストライク〉を行う。その〈ストライク〉は2d4の冷気追加ダメージを与える。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p><hr /><p><strong>効果</strong> あなたはスタッフからチャージを消費して、そのリストにある呪文を発動する。</p><ul><li><strong>キャントリップ</strong> @UUID[Compendium.pf2e.spells-srd.Item.gYjPm7YwGtEa1oxh]{レイ・オブ・フロスト}</li><li><strong>1st</strong> @UUID[Compendium.pf2e.spells-srd.Item.8TQiFzGf4feoHeH0]{チリング・スプレー}, @UUID[Compendium.pf2e.spells-srd.Item.g8QqHpv2CWDwmIm1]{ガスト・オブ・ウィンド}</li><li><strong>2nd</strong> @UUID[Compendium.pf2e.spells-srd.Item.8TQiFzGf4feoHeH0]{チリング・スプレー}</li><li><strong>3rd</strong> @UUID[Compendium.pf2e.spells-srd.Item.8TQiFzGf4feoHeH0]{チリング・スプレー}, @UUID[Compendium.pf2e.spells-srd.Item.9TauMFkIsmvKJNzZ]{エレメンタル・アブソープション} (water only)</li><li><strong>4th</strong> @UUID[Compendium.pf2e.spells-srd.Item.8TQiFzGf4feoHeH0]{チリング・スプレー}, @UUID[Compendium.pf2e.spells-srd.Item.kHyjQbibRGPNCixx]{アイス・ストーム}</li><li><strong>5th</strong> @UUID[Compendium.pf2e.spells-srd.Item.xxWhyl81w3ckslAU]{ハウリング・ブリザード}, @UUID[Compendium.pf2e.spells-srd.Item.CcXtbTxtdV9MKQfu]{マントル・オブ・ザ・フローズン・ハート}</li></ul><hr /><p><strong>〈製作する〉 必要条件</strong> リストにあるすべての呪文の、リストにあるすべてのランクを1回ずつ発動できるように準備すること。</p>"
     },
     "Thousand-Pains Fulu (Icicle)": {
-      "name": "サウザンドペインズ・フール（アイシクル）/Thousand-Pains Fulu (Icicle)",
+      "name": "サウザンドペインズ・フールー（アイシクル）/Thousand-Pains Fulu (Icicle)",
       "description": "<p><strong>持続時間</strong> 1分</p>\n<p>無限の命を求めて道徳を捨てた外科医によって作成された、<em>サウザンド・ペインズ・フル</em>は、身体における元素の自然な流れを阻害する。このお札が貼り付けられたクリーチャーは@Check[fortitude|dc:30|basic|traits:cold]を行わなければならない。失敗または大失敗は、お札の持続時間内に満たさなければならない特定の条件によって誘発される持続ダメージに対して、対象を準備させる。</p>\n<p>この黒いお札を見ると、気分が悪くなり寒気がする。このお札は、対象の気が歪み、枯渇するにつれて@Damage[10d6[cold]]を与える。失敗または大失敗した場合、対象が毒や病気の効果からダメージを受けるか、病気状態になったなら、対象は@Damage[2d6[persistent,cold]]を受ける。これらの効果は冷気トレイトを持つ。</p>"
     },
     "Topology Protoplasm": {
@@ -15214,7 +15214,7 @@
       ]
     },
     "Privacy Ward Fulu (Chamber)": {
-      "name": "プライバシー・ウォード・フール（チェンバー）/Privacy Ward Fulu (Chamber)",
+      "name": "プライバシー・ウォード・フールー（チェンバー）/Privacy Ward Fulu (Chamber)",
       "description": "<p>このお札は、盗賊やスパイ、そして望まない注目を部屋から遠ざけることを目的としている。このお札の中央には錠の絵が現れ、その周囲を壊れた鍵の円が取り囲んでいる。部屋の中の壁に貼り付けると、部屋の中にいるすべてのクリーチャーは、部屋の外にいるクリーチャーに対する《隠密》判定にアイテム・ボーナスを得る。</p>\n<p>このお札は最大90平方フィートの部屋を保護し、+2のアイテム・ボーナスを与え、持続時間は24時間である。もしあなたがその部屋の中で@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態になったなら、あなたはそのお札のレベル以下のクリーチャーに対して自動的に「未発見」状態となる。</p>"
     },
     "Singularity Ammunition": {
@@ -15282,7 +15282,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">f</span> (手作業)</p>\n<p><strong>必要条件</strong>あなたがそのスタッフを準備している。</p><hr /><p>この未加工のルビーの塊は、銀の針金でスタッフの頂部に縛り付けられている。起動すると、スタッフに5つの使い捨てチャージを加える。ターンの終了前にスタッフから発動されたあらゆる呪文は、これらのチャージを優先的に消費する。使用されなかった使い捨てチャージは、あなたのターンの終了時に失われる。</p>"
     },
     "Privacy Ward Fulu (Room)": {
-      "name": "プライバシー・ウォード・フール（ルーム）/Privacy Ward Fulu (Room)",
+      "name": "プライバシー・ウォード・フールー（ルーム）/Privacy Ward Fulu (Room)",
       "description": "<p>このお札は、盗賊、スパイ、そして望まない注目を部屋から遠ざけることを目的としている。このお札の中央には錠の絵が描かれており、その周囲を壊れた鍵の輪が取り囲んでいる。部屋の内壁に貼り付けると、部屋の中にいるすべてのクリーチャーは、部屋の外にいるクリーチャーに対する《隠密》判定にアイテム・ボーナスを得る。</p>\n<p>このお札は最大30平方フィートの部屋を保護でき、+1のアイテム・ボーナスを与え、持続時間は8時間である。もしあなたが部屋の中で@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態になった場合、あなたはそのお札のレベル以下のクリーチャーに対して自動的に「未発見」状態となる。</p>"
     },
     "Resonant Guitar": {
@@ -15357,7 +15357,7 @@
       "description": "<p>小枝で作られた小さく平らな円盤のように見えるが、このアイテムは拡大・縮小することができる。一度形成されると、このオークのスタッフには全長にわたってねじれた模様が刻まれる。</p>\n<p><strong>起動—スタッフの形成スタッフ</strong> <span class=\"action-glyph\">A</span> (手作業)</p>\n<hr />\n<p><strong>効果</strong>あなたは小枝を急速に成長または収縮させ、<em>+1ストライキング・スタッフ</em>、<em>+1ストライキング・ボー・スタッフ</em>、または円盤形態へと変形させる。円盤形態では、このアイテムは無視できるほどのバルクしかなく、起動するには片手で保持しなければならない。他の形態では、通常の同種の武器と同じバルクを持つ。起動の一部として、あなたは持ち方を切り替えることができる。</p>\n<p>アイテムを拡張する際、その拡張の力を利用して〈ハイジャンプ〉を行うか、起動前に円盤を隙間に差し込むことで扉などを〈こじ開ける〉ことを試みることができる。スタッフは《運動》判定を[[/r 1d20+15]]の修正値で行う。</p>"
     },
     "Silver Crescent (Lesser)": {
-      "name": "シルバー・クレッセント（レッサー）/Silver Crescent (Lesser)",
+      "name": "シルバー・クレセント（レッサー）/Silver Crescent (Lesser)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (手作業)</p><hr /><p>ピリッとしたタマリンドとチリライムの風味が銀の三日月を吹き込んでいる。これは元々、アンデッドと戦う人々を助けるために作られた。1時間の間、あなたは松明のような冷たい白い光を放ち、嗅覚効果に対するセーヴィング・スローに+1のアイテム・ボーナスを得る。この光を放っている間、あなたが視認可能であれば、あなたは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態になることはできない。また、あなたが@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}状態である場合、あなたは未発見状態になるのではなく、代わりに隠蔽状態となる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.KFq5wnjdzyrycEnB]{効果: シルバー・クレセント}</p><hr /><p><strong>副次的効果</strong> <span class=\"action-glyph\">2</span></p>\n<p><strong>効果</strong>光の奔流が、120フィート以内のあなたが選択した5フィートの広場に降り注ぐ。その範囲内にいるクリーチャーは、セーヴに失敗すると@Damage[4d6[vitality]|options:area-damage]を@Check[reflex|dc:20|basic|options:area-effect]で受け、次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。これは弱点、耐性などに対しては銀として扱われる。銀の三日月は不活性となる。</p>"
     },
     "Depth Charge VI": {
@@ -16014,7 +16014,7 @@
       "description": "<p>筆記用具セットを使用することで、あなたは通信文の草案を作成したり、巻物を書き写したりできる。セットには、様々な紙や羊皮紙を含む文房具に加え、インク、羽ペンまたはインクペン、封蝋、単純な印章が含まれている。大量に書き物をした場合は、追加のインクと紙でキットを補充できる。</p>"
     },
     "Sentry Fulu": {
-      "name": "セントリー・フール/Sentry Fulu",
+      "name": "セントリー・フールー/Sentry Fulu",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">3</span> (精神集中, 手作業)</p><hr /><p>セントリー・フルは武装した衛兵を描いている。このお札を起動すると、それは紙でできた超小型な人型の衛兵の姿となり、20フィートのバーストの範囲を監視する。その衛兵は《知覚》 DC 20を持ち、さらに精密な視覚と、不精密な聴覚および振動感知を備えており、空中の移動を含め、範囲内を移動するクリーチャーを探知する。あなたは衛兵がその範囲内に留まるか、巡回するかを指示する。後者の場合、あなたは衛兵が移動する小径も決定し、その移動速度は25フィートとなる。また、他者が衛兵を通過するために衛兵に伝えなければならない合言葉も決定する。クリーチャーが合言葉を言わずにその範囲に入ると、セントリーは聴覚的または精神的な警報を発する。聴覚的な警報は人間が叫ぶ音と音量を持ち、聴覚トレイトも持つため、それを聞くことができる各クリーチャーは、眠っている場合に目覚めるための@Check[perception|dc:15]判定を行うことができる。精神的な警告は、あなたが起動中の衛兵から60フィート以内にいれば、あなたに届く(下記参照)。衛兵は8時間の間活動し、その後そのお札は消費される。</p>\n<p>もし複数のセントリー・フルを持っているなら、それらの範囲が　接触しているか重なっていれば、それらを1つのユニットとして機能するように設置できる。1つが警報を鳴らすと、その警報はすべてに伝わるため、それらを聞くか精神的な警告を受け取るには、どれか1つの　射程内のにいればよい。ユニット内の1つのセントリー・フルに正しい合言葉を伝えたクリーチャーは、他のものにその合言葉を再度伝える必要はない。ユニット内の1つのお札によって作られた衛兵が破壊されると、接続された範囲内の他のものも警報が鳴る。</p>"
     },
     "Jawbreaker Shield": {
@@ -16302,7 +16302,7 @@
       "description": "<p>この厚い銀貨は片面が深く着用しており、浅い窪みを作っている。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<p><strong>使用制限</strong> 1時間に1回</p>\n<hr />\n<p><strong>効果</strong>あなたは親指で溝のある面をこすり、安らぎと安全の感覚で満たされる。あなたは自身の@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態を1減少させる。</p>"
     },
     "Tracking Fulu": {
-      "name": "トラッキング・フール/Tracking Fulu",
+      "name": "トラッキング・フールー/Tracking Fulu",
       "description": "<p><strong>使用法</strong>クリーチャーまたは物体に取り付け</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">f</span> envision</p>\n<hr />\n<p>暗殺者やスパイによって密かに使用されるこの一対のお札は、作成時には互いにくっついているが、容易に引き離すことができる。ペアを起動する前に、一方のお札を対象に取り付けること。起動すると、取り付けられていないお札は、ラウンドにつき30フィートの速度で、取り付けられたお札に向かってひらひらと飛んでいく。最大1時間の間移動し、ペアに近づくほど速くひらひらと動く。取り付けられていないお札は常に、取り付けられたお札に向かって直線的に移動する。それは迷路を解いたり、曲がりくねった道を通る道を見つけたりすることはできない。</p>"
     },
     "Golden Spur": {
@@ -17273,7 +17273,7 @@
       "description": "<p>この小さな銀の缶には、ハーブを浸した軟膏と上質な絹の布の覆いが詰められている。軟膏はラベンダーとヒソップの香りがし、接触すると蝋のような感触がある。紡いだ絹で作られた覆いは、中型以下のクリーチャーを包むことができる。</p>\n<p>もしあなたが過去3日以内に死亡したクリーチャーに軟膏を塗り覆いをかけた場合(通常は1時間かかる工程である)、それは腐敗の進行を遅らせ、死亡から最大1週間経過したクリーチャーであっても@UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{レイズ・デッド}によって蘇生させることが可能になる。</p>"
     },
     "Stumbling Fulu": {
-      "name": "スタンブリング・フール/Stumbling Fulu",
+      "name": "スタンブリング・フールー/Stumbling Fulu",
       "description": "<p><strong>持続時間</strong> 1時間</p>\n<p>最初に<em>つまずきのお札</em>を作成したキツネは、最大限の効果を得るために、このお札を対象のベルトの下に挟むよう助言した。お札を貼り付けられたクリーチャーが〈ストライド〉アクションを完了したとき、そのクリーチャーは@Check[reflex|dc:17]セーヴを行わなければならない。失敗した場合、お札が貼り付けられている鎧の一部が解け、着用者は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}状態となる。大失敗した場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となり、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}状態となる。この不器用状態は、対象が合計1回の〈扱う〉アクションに加え、不器用状態の値が1を超えるごとに1回の追加の〈扱う〉アクションを行い、適切に衣服を整え直すまで持続する。お札が起動すると燃え尽き、その魔法は課した状態が持続する間のみ効果を発揮する。</p>"
     },
     "Alloy Orb (High-Grade)": {
@@ -18134,7 +18134,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (manipulate)</p><hr /><p>この悪臭を放つピンク色のペーストは、伝統的に密閉された瓶に入れて保管される。この軟膏を露出した皮膚に塗り広げると、菌類(fungus)のトレイトを持つ、あるいは菌類(fungus)のトレイトを持つクリーチャーに由来するあらゆる苦痛に対するセーヴィング・スローに+2のアイテム・ボーナスを得る。このボーナスは6時間持続する。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.MN7OSIN1oeRfV0h6]{効果: 抗真菌軟膏}</p>"
     },
     "Rebound Fulu": {
-      "name": "リバウンド・フール/Rebound Fulu",
+      "name": "リバウンド・フールー/Rebound Fulu",
       "description": "<p><strong>使用法</strong>盾に貼り付ける</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">f</span>想像する</p>\n<p><strong>トリガー</strong>あなたはこのお札が貼り付けられた盾を用いて〈シールド・ブロック〉リアクションを使用する。</p>\n<hr />\n<p>この青銅色のインクで描かれた淡く銀色のタリスマンは光を鋭く反射し、まるで発光しているかのように見える。このお札を起動すると、それは敵の暴力を彼ら自身に跳ね返す。〈シールド・ブロック〉リアクションを誘発した敵は、あなたの盾の硬度と、彼らが〈シールド・ブロック〉リアクションの前に与えるはずだったダメージのうち、少ない方の値に等しいダメージを受ける。</p>"
     },
     "Dragonprism Staff": {
@@ -18658,7 +18658,7 @@
       "description": "<p>この<em>+2グレーター・レジリエント・レザー・アーマー</em>は、エリシアン・ペガサスの剥製から作られ、新鮮な血で濡れているように見えるよう鮮やかな深紅色に染められている。<em>アサシンズ・スキン</em>の着用者は、@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}判定に+3のアイテム・ボーナスを得る。</p>\n<p><strong>起動—ブラッド・リヴァイタリゼーション</strong> <span class=\"action-glyph\">f</span> (concentrate)</p>\n<p><strong>使用制限</strong> 1時間に1回</p>\n<p><strong>トリガー</strong>あなたが持続的な出血ダメージを受けるところだった</p><hr /><p><strong>効果</strong>あなたはその持続的な出血ダメージを受けず、代わりにその出血ダメージに等しいヒット・ポイントを回復する。その持続的な出血ダメージは終了する。</p>"
     },
     "Thousand-Pains Fulu (Blade)": {
-      "name": "サウザンドペインズ・フール（ブレード）/Thousand-Pains Fulu (Blade)",
+      "name": "サウザンドペインズ・フールー（ブレード）/Thousand-Pains Fulu (Blade)",
       "description": "<p><strong>持続時間</strong> 1分</p>\n<p>永遠の命を求めて道徳を捨てた外科医によって創造された、<em>サウザンド・ペインズ・フル</em>は、身体内のエレメントの自然な流れを阻害する。このお札を貼り付けられたクリーチャーは@Check[fortitude|dc:23|basic]を行わなければならない。失敗または大失敗した場合、そのお札の持続時間内に満たさなければならない特定の条件によって誘発される持続ダメージに対して、対象は準備状態となる。</p>\n<p>この赤いお札は硬く感じられ、その縁は鋭く、見ていると熱っぽく感じられる。このお札は経絡が破裂して肉を切り裂くため、@Damage[5d6[slashing]]を与える。失敗または大失敗した場合、対象が自身の各ターンに〈手作業〉または〈移動〉のトレイトを持つアクションを行わなかったなら、対象は@Damage[1d6[persistent,slashing]]を受ける。</p>"
     },
     "Thieves' Tools (Concealable Picks)": {
@@ -18906,7 +18906,7 @@
       "description": "<p><em>フローティング・シールド</em>には、通常、翼のモチーフが彫られている。このバックラー(硬度6、HP 24、BT 12)は、それ単体であなたを守ることができる。</p>\n<p><strong>起動—浮遊</strong> <span class=\"action-glyph\">1アクション</span>(手作業)</p>\n<p><strong>使用制限</strong>望むまま</p>\n<hr />\n<p><strong>効果</strong>この盾は魔法的に自身を解放し、あなたの腕から離れて空中に浮き上がり、あなたの隣に留まる。これにより、あなたがシールドを掲げたかのように、自動的にそのボーナスを得る。</p>\n<p>あなたはこの盾を装備していないため、この盾を使用して〈シールド・ブロック〉のようなリアクションを行うことはできないが、両手を使用している時であってもその恩恵を得る。</p>\n<p>1分経過すると、盾は地面に落下し、浮遊効果は終了する。盾があなたに隣接している間、あなたは〈扱う〉を行ってそれを掴むことができ、それにより浮遊効果を早期に終了させることができる。</p>"
     },
     "Privacy Ward Fulu (Hallway)": {
-      "name": "プライバシー・ウォード・フール（ホールウェイ）/Privacy Ward Fulu (Hallway)",
+      "name": "プライバシー・ウォード・フールー（ホールウェイ）/Privacy Ward Fulu (Hallway)",
       "description": "<p>このお札は、泥棒、スパイ、そして望まない注目を部屋から遠ざけようとする。このお札の中央には錠の絵が描かれており、その周囲を壊れた鍵の円が取り囲んでいる。部屋の中の壁に貼り付けると、部屋の中にいるすべてのクリーチャーは、部屋の外にいるクリーチャーに対する《隠密》判定にアイテム・ボーナスを得る。</p>\n<p><em>プライバシー保護のお札</em>は最大10平方フィートの部屋を遮蔽でき、+1のアイテム・ボーナスを与え、持続時間は1時間である。</p>"
     },
     "Redsand Hourglass": {
@@ -19362,7 +19362,7 @@
       "description": "<p>この小型の木製プランシェットには、霊を引き寄せるために設計されたシンボルが刻まれている。装着するとシンボルが輝き始め、プランシェットはわずかに実体を持たなくなる。このアイテムを起動して発動した呪文の呪文DCは38である。</p><ul><li><p><strong>鎧</strong>プランシェットを起動して呪文を発動した後、あなたはすべての物理ダメージに対する耐性10をあなたの次のターン開始時まで得る(@UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]{ゴウスト・タッチ}を除く)。非実体クリーチャー(ゴーストの幽霊の手など)による攻撃は、<em>ゴースト接触</em>として扱われる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.EjLVjt3GMeHM0Ai3]{効果: ゴーストコーラーズ・プランシェット - 鎧}</p></li><li><p><strong>武器</strong>プランシェットを起動して呪文を発動した後、装着した武器は、<em>ゴースト接触</em>と@UUID[Compendium.pf2e.equipment-srd.Item.oVrVzML63VFvVfKk]{グレーター・ヴァイタライジング}プロパティ・ルーンの両方の効果をあなたの次のターン終了時まで得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.grXFmNl8Zy3VRVpR]{効果: ゴーストコーラーズ・プランシェット - 武器}</p></li></ul><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.mAMEt4FFbdqoRnkN]{ヴォイド・ワープ}を発動する。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>あなたは第7ランクの@UUID[Compendium.pf2e.spells-srd.Item.hghGRzOSzEl4UXdS]{インボーク・スピリッツ}を発動する。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.JLdbyGKhjwAAoRLs]{テンペスト・オブ・シェイズ}を発動する。</p>"
     },
     "Restful Sleep Fulu": {
-      "name": "レストフル・スリープ・フール/Restful Sleep Fulu",
+      "name": "レストフル・スリープ・フールー/Restful Sleep Fulu",
       "description": "<p><strong>使用法</strong>クリーチャーに貼付</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">f</span>心に描く</p>\n<p><strong>持続時間</strong> 1時間</p>\n<hr />\n<p>このお札は魔法と医学の神であるチー・チョンの五本スポークの車輪を描いており、線香のようにゆっくりと燃え尽きる。もしあなたがお札の持続時間内に眠りに落ちたなら、休息によって通常得るヒット・ポイントの2倍の量を回復する。あなたはまた、夢の中で発生する精神効果に対するセーヴに+2のステータス・ボーナスを得る。例えば@UUID[Compendium.pf2e.spells-srd.Item.Uqj344bezBq3ESdq]{ナイトメア}呪文などである。</p>"
     },
     "Warpriest's Cascade (Greater)": {
@@ -19386,7 +19386,7 @@
       "description": "<p>この魔法のバナーは、夏の草の豊かな緑を模している。ストールワーツ・バナーを保持している間、あなたは以下の能力を使用できる。</p>\n<p><strong>起動—スタンド・ファーム</strong> <span class=\"action-glyph\">1</span> (concentrate)</p>\n<p><strong>使用制限</strong> 1分に1回</p><hr /><p><strong>効果</strong>あなたとあなたのバナーのオーラ内にいる味方は、15の一時的ヒット・ポイントと、あなたを移動させる、あるいは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にするあらゆる効果に対する、あなたの頑健 DCおよび反応 DCへの+3のステータス・ボーナスを得る。これらの効果は1ラウンド持続する。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.f2r7r0t8n7LKuj6C]{効果: ストールワーツ・バナー}</p>"
     },
     "Apotropaic Fulu": {
-      "name": "アポトロパイク・フール/Apotropaic Fulu",
+      "name": "アポトロパイク・フールー/Apotropaic Fulu",
       "description": "<p><strong>使用法</strong>入口の上に貼り付ける</p>\n<hr />\n<p>ドアや門の上に貼り付けられたこの目立たない黄色い紙は、光の中でちらつく。属性のトレイトを1つ選ぶ：混沌、善、秩序、または悪。お札の反対の属性のトレイトを持つクリーチャー(悪のお札なら善、など)が入口を通過する際、そのクリーチャーは@Check[fortitude|dc:17]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる。成功したかどうかにかかわらず、そのクリーチャーは1日の間、一時的な免疫となる。</p>"
     },
     "Necrobinding Serum": {
@@ -19462,7 +19462,7 @@
       "description": "<p>仮面は、あなたが自分ではない誰かになりすますために@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}アクションを使用する助けとなる。</p>\n<p>ゴム製のマスクは、他のクリーチャーの顔に似せて彫刻されている。あなたは、あなたとは大きく異なる顔を持つ特定のクリーチャーになりすます際の難易度を下げる助けとして、この仮面を使用できる。</p>"
     },
     "Ghostbane Fulu": {
-      "name": "ゴーストベイン・フール/Ghostbane Fulu",
+      "name": "ゴーストベイン・フールー/Ghostbane Fulu",
       "description": "<p><strong>使用法</strong>武器に貼付</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">f</span>心像</p>\n<p><strong>トリガー</strong>あなたがこのお札を貼付した武器で非実体クリーチャーに対して〈ストライク〉に成功したが、ダメージ・ロールを行っていない。</p>\n<hr />\n<p>この白い紙のお札には赤いインクで文字が書かれており、武器を非実体クリーチャーの霊的な本質と同調させる。起動すると、その武器は起動の対象となった非実体クリーチャーに対して、<em>ゴースト・接触</em>プロパティ・ルーンの恩恵を1分の間得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.02LNcIl70TTy9XS1]{効果: ゴーストベイン・フル}</p>"
     },
     "Powder": {
@@ -20146,7 +20146,7 @@
       "description": "<p>このアラバスター製のワンドは、先端に透明な結晶がついている。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回、およびオーバーチャージ</p>\n<p><strong>効果</strong>あなたは6レベルの@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}を発動する。</p>\n<p>呪文を発動した後、次のあなたのターンの開始時に、過剰な治癒魔法がワンドから湧き出し、6レベルの<em>ヒール</em>をあなた自身に対して1アクション版で発動したかのように、あなたを治癒する。あなたは同じターン中に複数の<em>ヒール</em>呪文を<em>ワンド・オブ・オーバーフローイング・ライフ</em>から発動したとしても、この恩恵をターンに1回しか得られない。</p><hr /><p><strong>〈製作する〉必要条件</strong> 6レベルの<em>ヒール</em>の発動を供給すること。</p>"
     },
     "Thousand-Pains Fulu (Burl)": {
-      "name": "サウザンドペインズ・フール（バール）/Thousand-Pains Fulu (Burl)",
+      "name": "サウザンドペインズ・フールー（バール）/Thousand-Pains Fulu (Burl)",
       "description": "<p><strong>持続時間</strong> 1分</p>\n<p>永遠の命を求めて道徳を捨てた外科医によって作成された、<em>サウザンド・ペインズ・フル(千の苦痛のお札)</em>は、身体内の元素の自然な流れを阻害する。このお札を貼り付けられたクリーチャーは@Check[fortitude|dc:35|basic|traits:poison]を行わなければならない。失敗または大失敗は、お札の持続時間内に満たさなければならない特定の条件によって引き起こされる持続ダメージに対して、対象を準備させる。</p>\n<p>この緑色のお札は魅力的に見えるが、不吉なオーラを放っている。このお札は@Damage[10d8[poison]]を与え、対象の身体が自身の気に対して悪反応を起こすようにする。失敗または大失敗の場合、対象が火炎ダメージを受けたなら、対象は追加で@Damage[2d8[persistent,poison]]も受ける。これらの効果は毒のトレイトを持つ。</p>"
     },
     "Replacement Filter (Level 10)": {
@@ -20231,7 +20231,7 @@
       "description": "<p>このフード付きのクロークは、決して枯れることも腐ることもない荒々しい植物、つる、樹皮で裏打ちされている。このクロークを着用している間、あなたは森林が深い地域にいる際、《隠密》判定に+1のアイテム・ボーナスを得る。</p>\n<p><strong>起動—森との一体化</strong> <span class=\"action-glyph\">2</span> (手作業)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>次の1分間、あなたは茂み、つる、下草など、植物や菌類によって引き起こされるあらゆる移動困難な地形を無視する。</p>"
     },
     "Demolition Fulu (Greater)": {
-      "name": "デモリション・フール（グレーター）/Demolition Fulu (Greater)",
+      "name": "デモリション・フールー（グレーター）/Demolition Fulu (Greater)",
       "description": "<p>破壊のお札は、破壊工作員や発掘者が破壊の発生時に現場から遠く離れていることを可能にする。このお札は、あなたが設置する際に決定した5分から8時間の時間をかけて灰へと崩れ去る。持続時間が終了すると、お札はそれが貼り付けられた対象の硬度をそのお札のレベルに等しい値だけ低下させ、その後対象に@Damage[10d6[bludgeoning]]を与える。破壊のお札は、それを探知するための@Check[perception|dc:37]判定と、その種類に応じた無力化するための@Check[thievery|dc:37]判定を持つハザードとして機能する。</p>"
     },
     "Refined Pesh": {
@@ -20921,7 +20921,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (手作業)</p><hr /><p>ギアバインダー・オイルは、オイルを短距離噴射できる密閉されたポンプに入っている。このオイルは複雑な機構の内部に流れ込み、機械的な動作によって攪拌されると発泡して、機構を拘束するペーストを形成するように設計されている。このオイルは、多くの構成体、クロックワーク、機械的なハザードを含む、関節を持つ構成体や機械に対して有効である。あなたは拘束したい対象にオイルを塗布する。対象はあなたから10フィート以内にいなければならない。オイルを塗布した後、対象が攻撃、手作業、移動のトレイトを持つアクションを行ったラウンドの終了時に、対象は@Check[fortitude|dc:20]セーヴを行わなければならない。ギアバインダー・オイルによって@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 2}以上になっている機構は、リアクションも使用できない。ギアバインダー・オイルは最大6ラウンド機能し、その後は不活性な油状の残留物となる。</p><hr /><p><strong>クリティカル成功</strong>オイルは不活性になり、効果は終了する。</p>\n<p><strong>成功</strong>対象はその減速状態を1減少させる。減速状態の値が0になった場合、効果は終了する。</p>\n<p><strong>失敗</strong>対象はその減速状態を1増加させる(最大で@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 3}まで)。</p>\n<p><strong>クリティカル失敗</strong>対象はその減速状態を2増加させる(最大で減速3まで)。</p>"
     },
     "Ethereal Crescent": {
-      "name": "エセリアル・クレッセント/Ethereal Crescent",
+      "name": "エセリアル・クレセント/Ethereal Crescent",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (手作業)</p><hr /><p>この三日月形の玉虫色の金属片は奇妙なほど半透明で、長時間見つめているとぼやけた輪郭へと消えていく。<em>ethereal crescent</em>の効果下にある武器は、1分の間、@UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]{ゴースト・タッチ}武器となる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.Vk9Fwo0Xl1EF9fEF]{効果: Ethereal Crescent}</p>"
     },
     "Gorget of the Primal Roar": {
@@ -21655,7 +21655,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">A</span> (手作業)</p><hr /><p>解毒剤は毒素からあなたを守る。解毒剤を飲むと、6時間の間、毒に対する頑健セーヴィング・スローに+4のアイテム・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.TjBxxlTvb6tJP1jS]{効果: 解毒剤}</p>"
     },
     "Silver Crescent (Greater)": {
-      "name": "シルバー・クレッセント（グレーター）/Silver Crescent (Greater)",
+      "name": "シルバー・クレセント（グレーター）/Silver Crescent (Greater)",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (manipulate)</p><hr /><p>ピリッとしたタマリンドとチリライムの風味が、アンデッドと戦う人々を助けるために最初に作られた銀の三日月(シルバー・クレセント)に染み込んでいる。1時間の間、あなたは松明のように冷たい白色の光を放ち、嗅覚効果に対するセーヴィング・スローに+3のアイテム・ボーナスを得る。この光を放っている間、あなたが可視状態であれば、あなたは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態になることはできない。また、あなたが@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}状態である場合、あなたは未発見状態になる代わりに、隠蔽状態となる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.KFq5wnjdzyrycEnB]{効果: シルバー Crescent}</p><hr /><p><strong>二次効果</strong> <span class=\"action-glyph\">2</span></p>\n<p><strong>効果</strong> 120フィート以内のあなたが選んだ5フィートの広場に光の奔流が降り注ぐ。その空間にいるクリーチャーは、セーヴに失敗すると@Damage[9d6[vitality]|options:area-damage](@Check[reflex|dc:35|basic|options:area-effect]を伴う)を受け、次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。これは弱点、耐性などに関しては銀として扱われる。この銀の三日月は不活性となる。</p>"
     },
     "Dreadsmoke Thurible": {
@@ -22486,7 +22486,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> (manipulate)</p><hr /><p>この厚みのあるワックス状のジェルは、炎の効果を消し去る。それをクリーチャーの体に塗布すると、そのクリーチャーのヒット・ポイントを@Damage[2d12[healing]]回復する。もしそのクリーチャーが過去1分以内に火炎ダメージを受けていた場合、過去1分間に受けた火炎ダメージの量に等しい（最大+10）の追加のヒット・ポイントを回復する。最後に、そのクリーチャーは1時間の間、酷暑の効果に対して免疫となる。</p>"
     },
     "Fulu of Concealment": {
-      "name": "フール・オブ・コンシールメント/Fulu of Concealment",
+      "name": "フールー・オブ・コンシールメント/Fulu of Concealment",
       "description": "<p><strong>使用法</strong> 10フィートの半径の円に沿った4つのマスに地面へ固定する</p>\n<p><strong>持続時間</strong> 1時間</p>\n<hr />\n<p>このお札は4つの断片からなり、それぞれを枢機卿(方位)に1つずつ配置する。お札を起動する際、以下のトレイトから1つを選択する：動物、ビースト、セレスティアル、フェイ、フィーンド、ヒューマノイド、モニター、植物、またはアンデッド。起動時にそのお札の円の中にいる者(お札自身を含む)は、@UUID[Compendium.pf2e.spells-srd.Item.I0j56TNRmGcTyoqJ]{シェアード・インヴィジビリティ}の効果を得るが、それは選択したトレイトを持つクリーチャーに対してのみである。起動後にいずれかのお札が移動させられたり破壊されたりすると、その効果は終了する。</p>"
     },
     "Arboreal Wand (Rank 5)": {
@@ -22659,7 +22659,7 @@
       "description": "<p>この<em>+1レジリエント・チェイン・メイル</em>は、戦闘で負傷した際に傷を縛り上げ、戦い続けることを可能にする。</p>\n<p><strong>起動—軟膏</strong> <span class=\"action-glyph\">2</span> (精神集中, 治癒, 手作業, 生命力)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは@Damage[(5d10+10)[healing,vitality]|shortLabel|traits:concentrate,healing,manipulate,vitality]ヒット・ポイントを回復する。</p>"
     },
     "Fear Gem": {
-      "name": "フィア・ジェム/Fear Gem",
+      "name": "フィアー・ジェム/Fear Gem",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">2</span> (精神集中)</p><hr /><p>この黒曜石の宝石の中では、黒い煙がうごめいているように見える。あなたがその宝石を起動したとき、近接〈ストライク〉を行う。ヒットしてダメージを与えた場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態となる。クリティカルヒットの場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となる。</p>\n<p>もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.lkcM4V3VDAtjlR9P]{インティミデイティング・ストライク}の特技を持っているなら、その〈ストライク〉によって引き起こされる恐れ状態の値を、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}に増加させる。クリティカルヒットの場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}に増加させる。</p>"
     },
     "Batsbreath Cane": {
@@ -23099,7 +23099,7 @@
       "description": "<p>《盗賊術》スキルを使用して@UUID[Compendium.pf2e.actionspf2e.Item.2EE4aF4SZpYf0R6H]{鍵開け}や(いくつかの種類の)@UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{無力化 装置無力化}を行うには、盗賊道具が必要である。</p>\n<p>盗賊道具が壊れた場合、あなたの道具に適した@UUID[Compendium.pf2e.equipment-srd.Item.Sw7MBLASN3xK4Y44]{交換用ピック}とロックピックを交換することで修理できる。これには〈修理〉アクションを使用する必要はない。もしあなたが盗賊道具を着用しているなら、それを使用するアクションの一部として、それを取り出したり戻したりすることができる。</p>"
     },
     "Fulu of Flood Suppression": {
-      "name": "フール・オブ・フラッド・サプレッション/Fulu of Flood Suppression",
+      "name": "フールー・オブ・フラッド・サプレッション/Fulu of Flood Suppression",
       "description": "<p>この青いお札には、ゆっくりと渦巻いてねじれ、潮の満ち引きに合わせて一日を通して紙の上で膨張と収縮を繰り返す暗いインクが描かれている。このお札は、建造物の最も低い場所や、最も貴重な、あるいは耐水性の低いアイテムの近くで最も効果を発揮する。雨季が近づくとよく見かけるようになり、特に大きな嵐が来る直前には需要が急増する。</p>\n<p>このお札は、30フィートの半径内における洪水の水の広がりを半分に遅らせ、残りの水を追い払う。お札が水没すると、インクが水に溶け出し、@Template[emanation|distance:10]内に熱の奔流を放ち、この範囲内の非魔法的な水を無害に蒸気に変え、+7的の打ち消し修正値とランク2の打ち消しで魔法的な水のエフェクトを打ち消ししようとする。これが発生すると、お札の持続時間は早期に終了する。</p>"
     },
     "Leaf Weave": {
