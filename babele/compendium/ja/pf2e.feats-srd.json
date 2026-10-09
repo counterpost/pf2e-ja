@@ -18764,7 +18764,7 @@
     },
     "Crescent Cross Training": {
       "name": "クレセント・クロス・トレーニング/Crescent Cross Training",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.equipment-srd.Item.KaYvuSNXZaOammij]{クレッセント・クロス}に精通している。この武器は、腕に取り付けられた多室クロスボウと三日月型の刃を組み合わせた巧妙な武器である。習熟度の目的では、両方の形態を単純な武器として扱う。</p>\n<p>このアーキタイプの特技や能力は、通常はガントレットボウと一緒に機能するが、あなたの三日月クロスにも適用され、必要に応じて三日月クロスの近接型をガントレットとして扱う。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.2XQowhfM4SfAhJaf]{〈クレセント・スプレー〉}アクションを獲得する。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.equipment-srd.Item.KaYvuSNXZaOammij]{クレセント・クロス}に精通している。この武器は、腕に取り付けられた多室クロスボウと三日月型の刃を組み合わせた巧妙な武器である。習熟度の目的では、両方の形態を単純な武器として扱う。</p>\n<p>このアーキタイプの特技や能力は、通常はガントレットボウと一緒に機能するが、あなたの三日月クロスにも適用され、必要に応じて三日月クロスの近接型をガントレットとして扱う。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.2XQowhfM4SfAhJaf]{〈クレセント・スプレー〉}アクションを獲得する。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
@@ -37348,7 +37348,7 @@
     },
     "Rebellious Existence": {
       "name": "リベリアス・エグジステンス/Rebellious Existence",
-      "description": "|||<p>You have tied yourself so absolutely to the cause of liberty that your very existence is an act of rebellion. You ignore any mental effects without the fear trait that would rob you of your agency (for example, on a failed save against @UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{チャーム} you would still be able to take hostile actions, and against @UUID[Compendium.pf2e.spells-srd.Item.tlSE7Ly8vi1Dgddv]{ラフィング・フィット} you would still be able to take reactions but would remain @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}, but on a critical failure against @UUID[Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D]{フィア} you would still be @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走} because it's a fear effect).</p>\n<p>Additionally, you are immune to effects that would imprison your soul (such as @UUID[Compendium.pf2e.spells-srd.Item.GYmXvS9NJ7QwfWGg]{シーズ・ソウル}, or a @UUID[Compendium.pf2e.equipment-srd.Item.5Q5MfHX43Sjm8C6Z]{ファイナル・ブレード}).</p>|||",
+      "description": "|||<p>You have tied yourself so absolutely to the cause of liberty that your very existence is an act of rebellion. You ignore any mental effects without the fear trait that would rob you of your agency (for example, on a failed save against @UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{チャーム} you would still be able to take hostile actions, and against @UUID[Compendium.pf2e.spells-srd.Item.tlSE7Ly8vi1Dgddv]{ラフィング・フィット} you would still be able to take reactions but would remain @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}, but on a critical failure against @UUID[Compendium.pf2e.spells-srd.Item.4koZzrnMXhhosn0D]{フィアー} you would still be @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走} because it's a fear effect).</p>\n<p>Additionally, you are immune to effects that would imprison your soul (such as @UUID[Compendium.pf2e.spells-srd.Item.GYmXvS9NJ7QwfWGg]{シーズ・ソウル}, or a @UUID[Compendium.pf2e.equipment-srd.Item.5Q5MfHX43Sjm8C6Z]{ファイナル・ブレード}).</p>|||",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {

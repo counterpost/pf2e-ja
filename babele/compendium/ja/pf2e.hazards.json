@@ -364,7 +364,7 @@
         }
       },
       "stealth": "<p>(expert)</p>",
-      "name": "ヴォーパル・エグゼキューショナー/Vorpal Executioner",
+      "name": "ヴォーパル・エクセキューショナー/Vorpal Executioner",
       "description": "<p>凶悪に鋭いノコギリの刃が降りてきて、部屋全体に張り巡らされた溝に沿って複雑な経路で移動し、室内にいる全員の首を切り落とそうとする。</p>",
       "disable": "<p>@Check[thievery|dc:41|name:Jam Saw Blade|traits:action:disable-a-device](熟練)を4つの異なるジャンクションで行い、回転刃のすべての移動経路を塞ぎ、部屋の中を移動できないようにする</p>"
     },
