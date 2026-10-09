@@ -52,7 +52,7 @@
       "source": "Pathfinder Player Core"
     },
     "Deceptive Sidestep": {
-      "name": "デセプティブ・サイドステップ/Deceptive Sidestep",
+      "name": "ディセプティブ・サイドステップ/Deceptive Sidestep",
       "description": "<p><strong>誘発</strong> 敵がメレーの〔ストライク〕であなたに命中したがクリティカルヒットではなかったとき.</p>\n<p><strong>要件</strong> あなたは決闘中で、あなたは 訓練済み において 《欺瞞》 であり、この ラウンド に対して 《欺瞞》 判定を行っている.</p>\n<hr />\n<p>あなたは敵を引き寄せて寸前でかわす。誘発した相手は判定をもう一度行い、2回目の結果を採用する。この能力が使われたとき、相手がイニシアティブに 《威圧》 を使用しているなら、2回目の攻撃ロールにさらに -2 の状況ペナルティを受ける.</p>",
       "source": "Pathfinder GM Core"
     },
@@ -157,7 +157,7 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Devour Ambient Magic": {
-      "name": "デヴァー・アンビエント・マジック/Devour Ambient Magic",
+      "name": "ディヴァウア・アンビエント・マジック/Devour Ambient Magic",
       "description": "<p><strong>使用制限</strong> 1日につき1回</p>\n<p><strong>誘発</strong> クリーチャーがあなただけを対象にして呪文を詠唱する</p><hr /><p><strong>効果</strong> あなたのオスティリはシアンの光を放ち、触手状のフィルターで魔法効果を喰らおうとする。あなたは誘発した呪文に対して@Check[arcana]または@Check[nature]判定を行い、反呪文のランクはあなたのレベルの半分に等しくできる。</p>",
       "source": "Pathfinder Howl of the Wild"
     },
@@ -286,7 +286,7 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Thundering Roar": {
-      "name": "サンダリング・ロア/Thundering Roar",
+      "name": "サンダリング・ロアー/Thundering Roar",
       "description": "<p>対象が強烈な声を放つ。半径@Template[type:emanation|distance:10]内の各敵は@Damage[4d8[sonic]|options:area-damage]ダメージを受け、あなたの呪文DCに対する@Check[will|basic|against:spell|options:area-effect]セーヴを行う。意志セーヴに失敗した生物はさらに@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}される。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -332,7 +332,7 @@
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Stupefying Raid": {
-      "name": "スチューピファイング・レイド/Stupefying Raid",
+      "name": "ステューピファイング・レイド/Stupefying Raid",
       "description": "<p>あなたのチームは敵を混乱させる一連の機動で駆け回る。あなたのコマンダーのバナーのオーラ内にいる最大2人の分隊員に合図を送る。これらの分隊員はリアクションとして、自身の移動速度まで〈ストライド〉できる。この移動中のいかなる時点においても彼らが隣接している各敵は、あなたのクラスDCに対して@Check[will|against:commander|options:inflicts:stupefied|traits:mental]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態に1ラウンドの間なる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる)。これは精神効果である。</p>",
       "source": "Pathfinder Battlecry!"
     },
@@ -444,7 +444,7 @@
       "source": "Pathfinder Dark Archive"
     },
     "Host of Wrath": {
-      "name": "ホスト・オブ・ラース/Host of Wrath",
+      "name": "ホスト・オブ・ラス/Host of Wrath",
       "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> 1ミシック・ポイントを消費する。憤怒のルーンロード4人(アンゴセイン、ザイレン、サイビドス、アラズニスト)の霊が、1分の間、あなたの周囲を渦巻く。霊が留まっている間、あなたがリアクティブ〈ストライク〉でヒットまたはクリティカルヒットするたびに、対象は追加で5の精神ダメージを受ける。もしあなたのリアクティブ〈ストライク〉の対象が傲慢のルーンロードであるザンダーグルである場合、10の精神ダメージを受ける。</p>",
       "source": "Pathfinder #220: Crypt of Runes"
     },
@@ -517,7 +517,7 @@
       "source": "Pathfinder Claws of the Tyrant"
     },
     "Invoke Celestial Privilege": {
-      "name": "インヴォーク・セレスチャル・プリヴィレッジ/Invoke Celestial Privilege",
+      "name": "インボーク・セレスティアル・プリビレッジ/Invoke Celestial Privilege",
       "description": "<p><strong>トリガー</strong> あなたは神聖効果に対してセーヴを試みようとしているが、まだ判定を振っていないとき。</p>\n<hr />\n<p>あなたは発生した効果を超越し、害を受けることを拒否する。あなたは誘発したセーヴと、次のターン開始までの間に神聖効果に対して試みる他のすべてのセーヴィング・スローに+1の状況ボーナスを得る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -662,7 +662,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Bestial Clarity": {
-      "name": "ベスチャル・クラリティ/Bestial Clarity",
+      "name": "ベスティアル・クラリティ/Bestial Clarity",
       "description": "<p><strong>使用制限</strong> once per day</p>\n<p><strong>トリガー</strong> あなたがエンチャント効果に対して セーヴ に失敗したとき</p>\n<hr />\n<p><strong>効果</strong> あなたの獣的表出がより顕著になり、本能が優先して一瞬の明晰が訪れる。誘発した セーヴ を再ロールでき、その判定には +2 の状況ボーナスが付くが、新しい結果を必ず使用しなければならない。これはフォーチュン効果である。</p>",
       "source": "Pathfinder Lost Omens Firebrands"
     },
@@ -677,7 +677,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Channel Draconic Essence": {
-      "name": "チャンネル・ドラコニック・エッセンス/Channel Draconic Essence",
+      "name": "チャネル・ドラコニック・エッセンス/Channel Draconic Essence",
       "description": "<p><strong>必要条件</strong> あなたはdraconic essenceをチャネルしておらず、draconic gift を所持または装備していること</p><hr /><p><strong>効果</strong> あなたは竜の庇護者の魔素の一部を呼び下ろす。あなたの庇護者に似た 中型 の幻影の竜が 30 フィート以内の任意のマスに出現する。この幻影の竜は攻撃や呪文で目標にできず、ヒット・ポイント、セーヴ、スキルも持たない。生物や物体と同じ空間を占めることができる。幻影の竜があなたのマスにいる間、眠りと麻痺に対するセーヴに対して +1 のステータスボーナスを得る。</p>\n<p>Channel ドラコニック語 Essence は、再度 Channel ドラコニック語 Essence を行うか、あなたが〔解除〕して効果を消すか、遭遇が終わるか、あなたが @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶} で落下するか、幻影の竜があなたから 120 フィート以上離れるまで続く（いずれか早いほう）。</p>",
       "selfEffect": "効果: 竜の真髄を導くドラコニック",
       "source": "Pathfinder Lost Omens Draconic Codex"
@@ -698,7 +698,7 @@
       "source": "Pathfinder #169: Kindled Magic"
     },
     "Heavy is the Crown": {
-      "name": "ヘヴィ・イズ・ザ・クラウン/Heavy is the Crown",
+      "name": "ヘビー・イズ・ザ・クラウン/Heavy is the Crown",
       "description": "<p>権威の重みがあなたと近くの生物に重くのしかかる。@Template[type:burst|distance:15] の範囲内で、60 フィート以内にいるすべての敵は @Damage[(@actor.level)[spirit]|options:area-damage]{spirit damage damage equal to your level} を受ける。対象はあなたのクラス DC に対して @Check[will|against:exemplar|basic|options:area-effect] セーヴを行う。セーヴに失敗した敵は直ちにひざまずき、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている} を フリー・アクション として落とす必要がある。</p>",
       "source": "Pathfinder War of Immortals"
     },
@@ -900,7 +900,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Liar's Hidden Blade": {
-      "name": "ライアーズ・ヒドゥン・ブレイド/Liar's Hidden Blade",
+      "name": "ライアーズ・ヒドゥン・ブレード/Liar's Hidden Blade",
       "description": "<p><strong>必要条件</strong>あなたの直前のアクションが、@UUID[Compendium.pf2e.classfeatures.Item.ktgzHtKoeUZ5H8KA]{シャドウ・シース}</p>から取り出した武器による失敗した〈ストライク〉であったこと。<hr /><p><strong>効果</strong>あなたが投げたシャドウ武器は消え去り、その陽動が本来の意図を隠していた――最初の攻撃の死角に隠された2回目のストライクだ！シャドウ・シースから別の武器を抜くために〈扱う〉を行い、その後、失敗した攻撃と同じマルチアタック・ペナルティでその武器を用いて〈ストライク〉を行う。相手はこの攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}</p>となる。\n<p>この〈ストライク〉は通常通り、あなたのマルチアタック・ペナルティに数えられる。〈ストライク〉が解決した後、あなたはシャドウ・シースから別の武器を抜くために〈扱う〉を行うことができる。</p>",
       "source": "Pathfinder War of Immortals"
     },
@@ -981,7 +981,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Dispelling Bullet": {
-      "name": "ディスペリング・ブレット/Dispelling Bullet",
+      "name": "ディスペリング・バレット/Dispelling Bullet",
       "description": "<p>あなたは自身の魔法のシグネチャーに基づいて構築された破壊的なエネルギーのフィールドを弾丸に刻み込み、それが命中したものの魔法を妨害する。あなたが見ることのできる敵に対して、銃器またはクロスボウによる〈ストライク〉を行う。命中した場合、対象に作用している呪文効果を1つ(あなたが選択する。選択しない場合は最もレベルの高い効果)打ち消しすることを試みる。あなたの打ち消しランクはあなたのレベルの半分(端数切り上げ)に等しく、あなたの打ち消し判定修正値は、あなたのクラスDC – 10に等しい。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -1002,12 +1002,12 @@
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Empty Vessel": {
-      "name": "エンプティ・ヴェッセル/Empty Vessel",
+      "name": "エンプティー・ヴェッセル/Empty Vessel",
       "description": "<p><strong>使用制限</strong> once per day</p>\n<p><strong>トリガー</strong> あなたが精神ダメージを受けるか精神効果の影響を受けるとき</p>\n<hr />\n<p><strong>効果</strong> トリガーとなった効果に対して、意志のセーヴに+2の状況ボーナスを得るとともに、精神ダメージに対してあなたのレベルに等しい耐性を得る。これは初回の効果にのみ適用され、追加のセーヴや持続する精神ダメージ、その他の繰り返し効果には適用されない.</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Exploit Vulnerability": {
-      "name": "イクスプロイト・ヴァルネラビリティ/Exploit Vulnerability",
+      "name": "エクスプロイト・ヴァルネラビリティ/Exploit Vulnerability",
       "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<p><strong>必要条件</strong>あなたは自分のインプリメントを手に持っている。</p><hr /><p>あなたは経験と知識を総動員して、敵を退ける可能性のあるものを特定する。あなたは自分のエソテリカから適切な超自然的な性質を持つ物体を取り出し、インプリメントを使ってその力の残滓を燃え上がらせる。あなたが見ることのできるクリーチャーを1体選択し、そのクリーチャーのレベルに応じた標準的なDCに対して@Check[esoteric-lore]判定を行う。その際、あなたは自分のエソテリカから適切な物体を取り出し、インプリメントを使ってそれを強化する。あなたは「弱点特定」を再び行うまで、以下の効果を得る。</p><hr /><p><strong>クリティカル成功</strong>あなたはそのクリーチャーの弱点を思い出し、エソテリカを強化する際に、そのクリーチャーに関するさらなる知識を得るひらめきがある。あなたは、オニの豆に対するパニックのような、あらゆる異常な弱点や脆弱性を含め、そのクリーチャーのすべての抵抗、弱点、完全耐性を知る。これには抵抗や弱点の数値も含まれる。あなたはそのクリーチャーの致命的な弱点か、個人的なアンチテーゼ(下記参照)のいずれかを突くことができる。そのクリーチャーに対するあなたの素手攻撃と武器攻撃は、まだ魔法でなかったとしても魔法のものとなる。</p>\n<p><strong>成功</strong>あなたはそのクリーチャーに関する重要な事実を思い出し、その最も高い弱点(同じ値の弱点が複数ある場合はそのうちの1つ)を知るが、その他の弱点、抵抗、完全耐性は知ることができない。あなたはそのクリーチャーの致命的な弱点か、個人的なアンチテーゼのいずれかを突くことができる。そのクリーチャーに対するあなたの素手攻撃と武器攻撃は、まだ魔法でなかったとしても魔法のものとなる。</p>\n<p><strong>失敗</strong>そのクリーチャーに関する顕著な弱点を思い出すことに失敗したため、あなたは代わりに、より個人的な脆弱性を突こうと試みる。あなたはそのクリーチャーの個人的なアンチテーゼのみを突くことができる。そのクリーチャーに対するあなたの素手攻撃と武器攻撃は、まだ魔法でなかったとしても魔法のものとなる。</p>\n<p><strong>クリティカル失敗</strong>あなたは使用すべき正しい物体を思い出すことができず、エソテリカをかき回している間に注意が散漫になる。あなたは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}あなたの次のターン開始時まで状態となる。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
@@ -1032,7 +1032,7 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Channel Elements": {
-      "name": "チャンネル・エレメンツ/Channel Elements",
+      "name": "チャネル・エレメンツ/Channel Elements",
       "description": "<p><strong>必要条件</strong>あなたのキネティック・ゲートは起動していない。</p>\n<hr />\n<p>あなたはキネティック・ゲートを利用して、エレメントを自身の周囲に流す。あなたのキネティック・オーラが起動し、このアクションの一部として、1アクションのエレメンタル・ブラストまたは1アクションのスタンス・インパルスを使用できる。あなたのキネティック・オーラは10フィート放射の範囲であり、その中ではあなたのキネティック・エレメント(もし複数のエレメントを導けるなら、すべてのキネティック・エレメント)の断片があなたの周囲を流れる。キネティック・オーラは、他の能力によって許可されていない限り、何物にもダメージを与えず、周囲の環境に影響を及ぼすこともない。チャネル・エレメンツは、あなたのすべてのキネティック・エレメントのトレイトを持つ。</p>\n<p>あなたのキネティック・オーラは、あなたが気絶状態になった場合、オーバーフロートレイトを持つインパルスを使用した場合、あるいはあなたがオーラを〈解除〉した場合に自動的に終了する。キネティック・オーラが終了している間は新しいインパルスを使用できないが、すでに行ったものは持続し、維持可能なものは引き続き〈維持〉できる。構えインパルスはあなたのキネティック・オーラと結びついており、オーラが終了すると同時に終了する。</p>",
       "selfEffect": "効果: 運動のオーラ",
       "source": "Pathfinder Rage of Elements"
@@ -1058,7 +1058,7 @@
       "source": "Pathfinder #219: Lord of the Trinity Star"
     },
     "Executioner's Volley": {
-      "name": "エクセキューショナーズ・ヴォレー/Executioner's Volley",
+      "name": "エクセキューショナーズ・ボレー/Executioner's Volley",
       "description": "<p><strong>使用制限</strong> once per day</p><hr /><p> あなたは部隊に致命的な狙撃隊として行動するよう命じる。あなたと指揮旗のオーラ内にいる各分隊員は、あなたが選んだ単一の目標に対してリアクションで遠隔の〔ストライク〕を試みることができる；抵抗と弱点の判定に関しては全ての攻撃のダメージを合算する。指定対象が生きているクリーチャーである場合、これらの攻撃はデストレイトを得る。指定した対象がこの戦術の結果として死亡した場合、指揮旗の影響範囲内にいる他のすべての敵はあなたのクラスDCに対する@Check[will|against:commander|options:inflicts:frightened|traits:emotion,fear,mental]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になる；これは感情・恐怖・精神効果である。</p><hr /><p><strong>特殊</strong> もし分隊員のうちの一人が射程30フィート以上でダメージを与え、かつ唱えるのに2アクション以下で済むキャントリップを知っているか準備しているなら、その分隊員はこの戦術で通常与えられるアクションの代わりにそれを指定した敵に唱えることができ、その他記載の利点をすべて得る。</p>",
       "source": "Pathfinder Battlecry!"
     },
@@ -1171,7 +1171,7 @@
       "source": "Pathfinder #170: Spoken on the Song Wind"
     },
     "Draconic Salvation": {
-      "name": "ドラコニック・サルヴェーション/Draconic Salvation",
+      "name": "ドラコニック・サルベーション/Draconic Salvation",
       "description": "<p><strong>トリガー</strong>あなたは自身のドラゴンの恩人のものと同じ系統トレイトを持つ効果に対して、セーヴィング・スローにクリティカル失敗した(例えば、恩人がディアボリックなドラゴンである場合の神聖呪文など)</p>\n<p><strong>必要条件</strong>あなたのスペクトラルなドラゴンがあなたのいる場所にいる</p><hr /><p><strong>効果</strong>あなたは自身のセーヴィング・スローの結果を成功度で1段階改善し、「Channelドラコニック Essence」は終了する。</p>",
       "source": "Pathfinder Lost Omens Draconic Codex"
     },
@@ -1328,7 +1328,7 @@
       "source": "Pathfinder #220: Crypt of Runes"
     },
     "Restorative Teleportation": {
-      "name": "レストラティブ・テレポーテーション/Restorative Teleportation",
+      "name": "レストラティヴ・テレポーテーション/Restorative Teleportation",
       "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<p><strong>トリガー</strong>あなたがテレポーテーション効果によって場所に到着する</p><hr /><p><strong>効果</strong>テレポーテーションの後にあなたが再出現した際、あなたの体はテレポーテーションを利用してより健康な状態で自身を再構築し、あなたは1d6＋あなたのレベル＋あなたの【知力】修正値に等しいヒット・ポイントを回復する(@Damage[(1d6 + @actor.level + @actor.system.abilities.int.mod)[healing]])。</p>",
       "source": "Pathfinder Spore War Player's Guide"
     },
@@ -1374,7 +1374,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Captivating Charm": {
-      "name": "キャプティヴェイティング・チャーム/Captivating Charm",
+      "name": "キャプティベイティング・チャーム/Captivating Charm",
       "description": "<p>あなたは30フィート以内のクリーチャーに注意を集中し、その感覚を圧倒する。そのクリーチャーはあなたのクラスDCに対する@Check[will|against:exemplar]セーヴに成功しなければならず、失敗するとあなたの次のターン開始時まであなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}状態となる。あなたがその対象に対して敵対的なアクションを使用した場合、この状態は終了するが、その同盟者に対して敵対的なアクションを使用した場合は終了しない。</p>",
       "source": "Pathfinder War of Immortals"
     },
@@ -1452,12 +1452,12 @@
       "source": "Pathfinder War of Immortals"
     },
     "Primal Roar": {
-      "name": "プライマル・ロア/Primal Roar",
+      "name": "プライマル・ロアー/Primal Roar",
       "description": "<p>あなたのエイドロンは、あなたのエイドロンの姿にふさわしい、プライマルな咆哮やその他の恐ろしい音を放つ。あなたのエイドロンは、その咆哮を聞くことができる各敵に対して[[/act demoralize]]を行うために《威圧》判定を行う。これらの〈怯ませる〉試みは、言語を共有していないことによるペナルティを受けない。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Conjure Bullet": {
-      "name": "コンジャー・ブレット/Conjure Bullet",
+      "name": "コンジュア・バレット/Conjure Bullet",
       "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>あなたはありふれたレベル0のボルトや弾丸を何もない空間から作り出し、直ちにそれを武器に装填するために〈扱う〉を行う。もしそのボルトや弾丸があなたのターンの終了までに発射されなかった場合、その効果は無駄になる。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -1487,7 +1487,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Unwavering Resilience": {
-      "name": "アンウェイヴァリング・レジリエンス/Unwavering Resilience",
+      "name": "アンウェイバリング・レジリエンス/Unwavering Resilience",
       "description": "<p><strong>誘発</strong> あなたは毒、疾病、または精神効果に対するセーヴを試みようとしているが、まだ判定を振っていない。</p>\n<hr />\n<p>あなたは木の界の力に触れて、肉体と精神の強靭さを得る。誘発したセーヴに+1の状況ボーナスを得る。このセーヴでクリティカル成功すると、その成功により力づけられる：体中に一時的に花や新芽が芽生え、あなたはレベルに等しい数の一時的ヒットポイントを得る。これらの一時的ヒット・ポイントは1分間持続する。これらの一時的ヒット・ポイントが失われると、緑の成長は収まる。</p>",
       "selfEffect": "効果: 不屈の回復力",
       "source": "Pathfinder #202: Severed at the Root"
@@ -1528,7 +1528,7 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Dutiful Retaliation": {
-      "name": "デューティフル・リタリエーション/Dutiful Retaliation",
+      "name": "デューティフル・リタリエイション/Dutiful Retaliation",
       "description": "<p><strong>誘発</strong> あなたから15フィート以内の敵が〔ストライク〕であなたに命中してダメージを与えたとき。</p>\n<p><strong>必要条件</strong> あなたのエイドロンがあなたから15フィート以内にいること。</p>\n<p>あなたのエイドロンは本能的に幽体のエネルギーを閃かせ、あなたを傷つけた敵に反撃する。エイドロンは誘発した敵に対して、たとえその敵がエイドロンのリーチ内でなくても、近接の素手による〔ストライク〕を行う。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -1559,7 +1559,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Run Over": {
-      "name": "ラン・オーヴァー/Run Over",
+      "name": "ラン・オーバー/Run Over",
       "description": "<p><strong>必要条件</strong> あなたは乗り物を操縦している。</p>\n<p>(無謀) あなたは乗り物でクリーチャーを轢こうとし、場合によってはより大きなクリーチャーや物体に体当たりする。乗り物の制御を維持できれば、乗り物は現在の進行方向に、その移動速度の最大2倍まで直線的に移動する。あなたは乗り物より2段階以上小さいクリーチャーを轢こうと試み、乗り物より1段階小さいかそれ以上のクリーチャーや物体1つに体当たりを試みることができる。</p>\n<p>体当たりの対象を含め、あなたの経路上にいる各クリーチャーは、その乗り物の衝突ダメージを受ける(乗り物の衝突DCに対する基本反応セーヴ)。体当たりの対象が乗り物である場合、その操縦者はこの反応セーヴの代わりに操縦判定を行うことができ、結果は同じである。あなたの体当たりの対象がダメージを受ける場合、あなたとあなたの乗り物はそれぞれ衝突ダメージを受け(セーヴなし)、あなたの移動は終了する。</p>",
       "source": "Pathfinder GM Core"
     },
@@ -1569,7 +1569,7 @@
       "source": "Pathfinder Player Core"
     },
     "Extract Element": {
-      "name": "イクストラクト・エレメント/Extract Element",
+      "name": "エクストラクト・エレメント/Extract Element",
       "description": "<p>あなたにはクリーチャーの体から元素物質を抽出して弱体化させ、その力を自分のものにする。対象30フィート以内にいる、あなたのキネティック元素のいずれかと一致するトレイトを持つか、あなたのキネティック元素のいずれかで構成されているクリーチャーを対象とする。対象は@Damage[(ceil(@actor.level/2))d4[untyped]]ダメージ(ダメージ種別なし)を受け、あなたのクラスDCに対する@Check[fortitude|against:kineticist]判定の結果に応じて、あなたのインパルスに対して脆弱になる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない</p>\n<p><strong>成功</strong>クリーチャーは半分のダメージを受ける。あなたはその元素物質の一部を自分のキネティック・オーラに加える。あなたのインパルスは、そのクリーチャーが持つ元素トレイトに対するあらゆる無効化を無視し、対象はあなたのインパルスに対するセーヴとACに-1状況ペナルティを受ける。対象が通常、あなたのインパルスによるダメージに適用される耐性を持っている場合、その耐性を無視する。もし対象が通常そのダメージ種別に対して免疫であるならば、代わりにそのインパルスによるダメージに対して、そのレベルに等しい耐性を持つ。あなたが抽出した元素物質がすでにキネティック・オーラ内にある場合、そのクリーチャーを「元素抽出」の対象にすることはできない。これらの効果は5分、またはあなたのキネティック・オーラが終了するまでのいずれか早い方まで持続する</p>\n<p><strong>失敗</strong>成功時と同様だが、クリーチャーは全てのダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、クリーチャーは2倍のダメージを受ける。</p>\n<hr />\n<p><strong>レベル (+2)</strong>ダメージが1d4増加する。</p>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -1621,7 +1621,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Coughing Dragon": {
-      "name": "コーフィング・ドラゴン/Coughing Dragon",
+      "name": "コフィング・ドラゴン/Coughing Dragon",
       "description": "<p>聴覚または視覚の効果のいずれかを選択する。そのディスプレイはそのトレイトを得る。そしてあなたは、そのトレイトを持つ@Template[emanation|distance:60]内の1つ以上の効果に対して打ち消しを行う。成功した場合、その効果は完全に終了するのではなく、あなたの次のターン開始時まで抑制される。あなたの@Check[fireworks-lore]修正値をあなたの打ち消し修正値として使用し、あなたの打ち消しランクはあなたのレベルの半分(端数切り上げ)に等しい。あなたは(通常のコストとアクションの代わりに)2つのバーサタイル・バイアルと3アクションを消費して、聴覚と視覚の両方の効果を同時に打ち消ししようとする、より大きな咳き込むドラゴンディスプレイを作成できる。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -1724,7 +1724,7 @@
       "source": "Pathfinder Lost Omens Draconic Codex"
     },
     "Seething Frenzy": {
-      "name": "シージング・フレンジー/Seething Frenzy",
+      "name": "シーズィング・フレンジー/Seething Frenzy",
       "description": "<p>あなたのエイドロンの怒りが沸騰し、無謀で制御不能な熱狂状態となる。熱狂状態の間、あなたのエイドロンは<em>boost eidolon</em>の効果を受け、あなたのレベルに等しい一時的ヒット・ポイントを得るが、ACに-2のペナルティを受ける。あなたのエイドロンは、熱狂状態の間に自発的に熱狂状態を終了させることや、別の熱狂状態を開始することはできない。</p>\n<p>熱狂状態は1分間持続し、その後、1分間{@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}}状態となり、さらに1分間は別の熱狂状態を開始することができない。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -1760,7 +1760,7 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Pacifying Infusion": {
-      "name": "パシファイング・インフュージョン/Pacifying Infusion",
+      "name": "パシファイイング・インフュージョン/Pacifying Infusion",
       "description": "<p>次のアクションがインパルスであれば、それは非致死のトレイトを得る。範囲を持つアクションの場合、あなたがSafe Elementsで指定したクリーチャーを効果から除外できる。</p>",
       "source": "Pathfinder Rage of Elements"
     },
@@ -1830,7 +1830,7 @@
       "source": "Pathfinder Wake the Dead #4"
     },
     "Amulet's Abeyance": {
-      "name": "アミュレッツ・アビヤンス/Amulet's Abeyance",
+      "name": "アミュレッツ・アベイアンス/Amulet's Abeyance",
       "description": "<p><strong>トリガー</strong> あなたのExploit Vulnerabilityの対象が、あなたまたはあなたから15フィート以内の味方にダメージを与えようとしている。</p>\n<p><strong>要件</strong> あなたはアミュレットの実装具を手に持ち、Exploit Vulnerabilityの恩恵を受けていること。</p><hr /><p>あなたは害を逸らすためにアミュレットを力強く差し出す。あなたか範囲内の対象味方（15フィート以内）は、トリガーされたダメージに対してすべてのダメージに対する耐性を得る。耐性は2＋あなたのレベルに等しい。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.90dTxPhFtbhK6Nv4]{効果: Amulet's Abeyance}</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
@@ -1855,17 +1855,17 @@
       "source": "Pathfinder Player Core"
     },
     "Infiltrator's Draw": {
-      "name": "インフィルトレーターズ・ドロー/Infiltrator's Draw",
+      "name": "インフィルトレイターズ・ドロー/Infiltrator's Draw",
       "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p><hr /><p><strong>効果</strong>あなたはガントレット・ボウ、ハンド・クロスボウ、または連発ハンド・クロスボウを取り出すために〈扱う〉を行い、その後それを用いて〈ストライク〉を行う。あるいは、すでに手に持っている装填済みのハンド・クロスボウまたは連発ハンド・クロスボウで〈ストライク〉を行い、その後それをしまうために〈扱う〉を行うこともできる。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Enlightenment in Adversity": {
-      "name": "エンライトンメント・イン・アドヴァーシティ/Enlightenment in Adversity",
+      "name": "エンライトゥンメント・イン・アドヴァーシティ/Enlightenment in Adversity",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたが追放されたセレスティアルの背景から得たスキルを用いてスキル判定で大失敗する。</p><hr /><p><strong>効果</strong>次の1分以内に、この能力を誘発したスキルを使用してスキル判定を次に試みる際、2回ロールし、高い方の結果を用いる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Feed the Masses": {
-      "name": "フィード・ザ・マッシズ/Feed the Masses",
+      "name": "フィード・ザ・マシズ/Feed the Masses",
       "description": "<p>@UUID[Compendium.pf2e.classfeatures.Item.gjZXHLjezR0mkMnc]{豊穣の角笛}は、ポーションやエリクサーの効果を味方に移すことを可能にする。あなたは角笛から消耗品を取り出すために〈扱う〉を行い、次にそれを飲むために〈扱う〉を行う。あなた自身を滋養するのではなく、そのアイテムの効果は、あたかもその味方が自身でそれを消費したかのように、60フィート以内にいる同意する味方に移される。</p>\n<p>その消耗品がヒット・ポイントを回復する場合、(ダイスをロールして回復量を決定した後、)あなたとその味方の間で回復量を自由に分配することを選択できる。</p>",
       "source": "Pathfinder War of Immortals"
     },
@@ -2045,7 +2045,7 @@
       "source": "Pathfinder Player Core"
     },
     "Grim Swagger": {
-      "name": "グリム・スワッガー/Grim Swagger",
+      "name": "グリム・スワガー/Grim Swagger",
       "description": "<p><strong>必要条件</strong>あなたは片手用火器または片手用クロスボウを、目に見える形で着用しているか、手に持っている。</p><hr /><p>あなたは、自分の言うことを聞かない者には悲惨な運命が待っていると素早く約束することで、部屋を一掃しようと試みる。味方を除く、30フィート以内にいる各クリーチャーの意志DCに対して、@Check[deception]または@Check[intimidation]判定を行う。成功したか失敗したかに関わらず、各対象は10分の間、あなたの「Grim Swagger」に対して一時的な免疫となる。</p>\n<p>例えば、あなたが《欺瞞》判定を行う場合、あなたは自分の腕前や、自分を支援するために向かっている大勢の友人について嘘をつき、自慢する。もしあなたが《威圧》判定を行う場合、あなたは部屋にいる全員に対し、自分が彼らの最期に見るものになると約束する。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}となる。そのクリーチャーのレベルがあなたより低い場合、さらに1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}となる。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -2100,7 +2100,7 @@
       "source": "Pathfinder Stolen Fate Player's Guide"
     },
     "Divert Lightning": {
-      "name": "ダイヴァート・ライトニング/Divert Lightning",
+      "name": "ダイバート・ライトニング/Divert Lightning",
       "description": "<p><strong>必要条件</strong>あなたが電撃に対して免疫ではないこと。</p>\n<p><strong>トリガー</strong>あなたから30フィート以内にいるクリーチャーが、電撃の効果の対象となるか、電撃の効果範囲内にいる。</p>\n<hr />\n<p><strong>効果</strong>あなたは対象をかばうために、避雷針のように電撃をあなた自身に引き寄せる。もしトリガーとなった効果が対象指定型であったなら、それはトリガーとなったクリーチャーの代わりにあなたを対象とする。もしそれが範囲効果であったなら、それは　トリガーとなったクリーチャーのスペースから跳躍し、代わりにあなたのスペースを満たす。これは、その電撃の対象となっている、またはその範囲内にいる他のクリーチャーから電撃を逸らすものではない。あなたは自動的にその効果に命中するか、またはその効果に対するセーヴィング・スローに自動的に失敗する。その後、あなたは[[/r 1d4 #rounds]]{1d4 rounds}の間、Divert Lightningを使用できなくなる。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -2150,7 +2150,7 @@
       "source": "Pathfinder #169: Kindled Magic"
     },
     "Bullet Dancer Stance": {
-      "name": "ブレット・ダンサー・スタンス/Bullet Dancer Stance",
+      "name": "バレット・ダンサー・スタンス/Bullet Dancer Stance",
       "description": "<p><strong>必要条件</strong> あなたは鎧を着用しておらず、単純武器の銃器または単純武器の複合武器を装備している。</p><hr /><p><strong>効果</strong> あなたは単純武器の銃器の使用を中心とした独自の武術のための特殊な構えをとる。この構えの間、あなたが行える〈ストライク〉は、銃剣、強化銃床、単純武器の銃器、単純武器の複合武器を使用したものに限られる。あなたはこれらの武器で@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈フラーリー・オブ・ブロウズ〉}を使用できる。あなたは、通常は素手攻撃を必要とする他のモンクの特技や能力を、銃剣、強化銃床、および単純武器の複合武器の近接コンポーネントに対して使用できる(ただし、その特技や能力が単一の特定の〈ストライク〉を必要としない場合に限る)。また、最初の射程単位の半分以内で攻撃する場合、単純武器の銃器に対してもそれらを使用できる。</p>",
       "selfEffect": "構え: 弾丸の踊り手構え",
       "source": "Pathfinder Guns & Gears"
@@ -2308,7 +2308,7 @@
       "source": "Pathfinder Player Core"
     },
     "Defensive Retreat": {
-      "name": "ディフェンシブ・リトリート/Defensive Retreat",
+      "name": "ディフェンシヴ・リトリート/Defensive Retreat",
       "description": "<p>あなたは慎重な撤退を呼びかける。あなたのバナーのオーラ内にいるすべての分隊員に合図を送る。各分隊員はフリー・アクションとして、即座に最大3回まで〈ステップ〉を行える。各〈ステップ〉は、彼らが観測している少なくとも1体の敵対的なクリーチャーから彼らを遠ざけるものでなければならず、敵対的なクリーチャーに近づくことができるのは、安全な場所へ移動するための唯一の手段である場合(包囲されている場合など)に限られる。</p>",
       "source": "Pathfinder Battlecry!"
     },
@@ -2318,7 +2318,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Invigorating Fear": {
-      "name": "インヴィゴレイティング・フィアー/Invigorating Fear",
+      "name": "インビゴレイティング・フィアー/Invigorating Fear",
       "description": "<p><strong>使用制限</strong> 1時間に1回</p>\n<p><strong>トリガー</strong> 60フィート以内のクリーチャー1体が@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態になる。</p>\n<hr />\n<p>あなたは悪戯の衝撃や恐怖の震えによって活力を得る。あなたは、そのクリーチャーのレベルと3のいずれか高い方に等しい一時的ヒット・ポイントを得る。1分経過後、あなたはすべての一時的ヒット・ポイントを失う。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -2385,7 +2385,7 @@
       "source": "Pathfinder GM Core"
     },
     "Wind Them Up": {
-      "name": "ワインド・ゼム・アップ/Wind Them Up",
+      "name": "ウィンド・ゼム・アップ/Wind Them Up",
       "description": "<p>敵があなたの刃をパリィしたり、弾丸を避けたりすべきだろうか？いや、彼らは自分の財布を気にすべきだ。あなたの複合武器で近接〈ストライク〉を行い、その後、対象から@UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{〈盗み〉}を行うために–5のペナルティを伴う《盗賊術》判定を行う。あなたは厳重に守られた物体や、盗むのに長い時間がかかる物体を〈盗み〉することはできない。この方法で何かを〈盗み〉しようとするために、空いた手は必要ない。もしあなたの《盗賊術》判定が成功したなら、対象はあなたの遠隔攻撃に対して　　あなたの次のターン開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となり、あなたは移動や遠隔攻撃によって通常誘発されるリアクションを誘発しない。これらの効果は、対象が〈盗み〉できる物体を何も持っていなくても発生する。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands"
     },
@@ -2411,7 +2411,7 @@
       "source": "Pathfinder Player Core"
     },
     "Sever Conduit": {
-      "name": "セヴァー・コンジット/Sever Conduit",
+      "name": "セバー・コンデュイット/Sever Conduit",
       "description": "|||<p><strong>トリガー</strong> あなたのエイドロンが、あなたを0 ヒット・ポイントにしかねない、即死効果以外の効果によるダメージを受けるを受けた。</p>\n<hr />\n<p><strong>効果</strong> あなたはあなたのエイドロンとの絆にある緩衝装置を素早く閉じ、あなたが倒される前に、絆で結ばれた味方を存在から消し去る。あなたのエイドロンは非顕現状態となり、あなたは1分の間、Manifest your Eidolonを行うことができない。その代わり、あなたはその誘発したダメージを受けない。ただし、あなたのエイドロンはそのダメージに伴う他のあらゆる悪影響を依然として受ける。</p>|||",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -2486,7 +2486,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Set Explosives": {
-      "name": "セット・エクスプロージヴズ/Set Explosives",
+      "name": "セット・エクスプローシブズ/Set Explosives",
       "description": "<p><strong>必要条件</strong>あなたの手の中に1または2個の爆弾があること。</p><hr /><p><strong>効果</strong>あなたはリーチ内の無生物(扉、壁、柱など)に爆弾を取り付け、設定した時間に爆発するように仕掛ける。爆弾はあなたが決定した特定の時間(次のアクションの後や、次のターンの開始時など、最大1分まで)に爆発し、その無生物にダメージと爆風ダメージを与える。抵抗と弱点を適用する目的でこのダメージを合計する。このダメージは、あなたのレベルに等しい値だけ、そのオブジェクトの硬度を無視する。ハザードに隣接するクリーチャーは、爆弾の爆風ダメージを受ける(これも抵抗と弱点を適用する目的で合計される)。念のため言っておくと、あなたは爆弾を投げていないため、@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{フィールド・ディスカヴァリー(ボンバー)}や同様の効果は適用されない。タイミングを正確に合わせるには集中が必要なため、以前に仕掛けた爆弾が爆発するのを待っている間は、再び爆発物をセトすることはできない。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -2591,7 +2591,7 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Sever Four Dragonfly Wings": {
-      "name": "セヴァー・フォー・ドラゴンフライ・ウィングズ/Sever Four Dragonfly Wings",
+      "name": "セバー・フォー・ドラゴンフライ・ウィングズ/Sever Four Dragonfly Wings",
       "description": "<p>あなたの武器イコンで斬撃ダメージを与える〈ストライク〉を行う。その〈ストライク〉が成功した場合、あなたは即座に、あなたのリーチ内にいる別の対象に対して追加の〈ストライク〉を行うことができる。あなたは合計4回のストライクを行うか、〈ストライク〉を外すか、いずれか早い方まで、それぞれ異なる対象に対してこの方法でストライクを続けることができる。各攻撃はあなたのマルチアタック・ペナルティに数えられるが、すべての攻撃を終えるまでペナルティは増加しない。</p>",
       "source": "Pathfinder War of Immortals"
     },
@@ -2677,7 +2677,7 @@
       "source": "Pathfinder Stolen Fate Player's Guide"
     },
     "Compose Missive": {
-      "name": "コンポーズ・ミッシヴ/Compose Missive",
+      "name": "コンポーズ・ミッシブ/Compose Missive",
       "description": "<p>あなたは10分間10分を費やして描画、執筆、あるいは刻印を行い、書簡の表面を文章、画像、あるいは浮き彫りで覆う。</p>",
       "source": "Pathfinder Treasure Vault (Remastered)"
     },
@@ -2692,7 +2692,7 @@
       "source": "Pathfinder Player Core"
     },
     "Shielding Wave": {
-      "name": "シールディング・ウェイヴ/Shielding Wave",
+      "name": "シールディング・ウェイブ/Shielding Wave",
       "description": "<p>あなたは渦巻く潮流の魔法の障壁を掲げる。あなたの次のターンの開始時まで、あなたが酸酸または火炎ダメージを初めて受ける際、あなたはそのダメージに対する抵抗耐性を(あなたのレベルの半分、最低1)得る。もしあなたが水中に潜っている場合、すでに水トレイトを持つ〈呪文の発動〉を行っている場合、あるいはこのターンに水トレイトを持つ他の能力を使用している場合、その抵抗耐性は代わりにあなたのレベルに等しくなる。</p>",
       "selfEffect": "効果: 盾の波",
       "source": "Pathfinder Howl of the Wild"
@@ -2764,7 +2764,7 @@
       "source": "Pathfinder Player Core"
     },
     "Sorshen's Devotion": {
-      "name": "ソーシェンズ・デヴォーション/Sorshen's Devotion",
+      "name": "ソーシェンズ・ディヴォーション/Sorshen's Devotion",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong> あなたまたは60フィート以内の味方が@UUID[Compendium.pf2e.actionspf2e.Item.SNjmjFw30KQxIP4A]{運命書き換え}を使用してセーヴィング・スローを振り直す。</p><hr /><p><strong>効果</strong> ミシック・ポイントを1点消費する。誘発させたクリーチャーは@Damage[(7d10+28)[healing]]ヒット・ポイントを回復する。もし誘発させた効果の源が傲慢のルーンロード、ザンダーグルであった場合、回復量は@Damage[(10d10+40)[healing]]ヒット・ポイントに増加する。</p>",
       "source": "Pathfinder #220: Crypt of Runes"
     },
@@ -2784,7 +2784,7 @@
       "source": "Pathfinder #219: Lord of the Trinity Star"
     },
     "Sanguine Revitalization": {
-      "name": "サンギン・リヴァイタリゼーション/Sanguine Revitalization",
+      "name": "サングイン・リバイタライゼーション/Sanguine Revitalization",
       "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p>あなたの分隊は敵の動脈から噴き出す血によって活力を取り戻す。コマンダーのバナーのオーラ内にいるクリーチャーを1体選び、そのオーラ内にいる、刺突または斬撃の近接武器を装備している、あるいは刺突または斬撃の近接素手攻撃を持つすべての分隊員に合図を送る。その味方はフリー・アクションとして、自身の移動速度の半分まで〈ストライド〉できる。もし彼らがこの移動を対象のリーチ内で終了した場合、彼らはリアクションとして、要求された武器または素手攻撃でその対象を〈ストライク〉できる。</p>\n<p>すべての〈ストライク〉が完了した時点で、対象がダメージを受けており、かつ出血ダメージに対する免疫でない場合、対象はあなたのクラスDCに対する@Check[fortitude|against:commander|options:damaging-effect,inflicts:bleed] セーヴィング・スローを行わなければならず、失敗すると@Damage[10[persistent,bleed]]{10 points of persistent bleed}ダメージを受ける。対象はこの戦術の一部として行われた成功した〈ストライク〉の回数に等しい状況ペナルティをセーヴに受ける(最大で–4の状況ペナルティまで)。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.kJndFOHNBH8SR5IM]{効果: Sanguine Revitalization}</p>\n<p>あなたの分隊員は敵の差し迫った敗北の光景によって活力を与えられる。@Template[type:emanation|distance:20]にいる各分隊員は@Damage[10d6[healing]] ヒット・ポイントを回復する。</p>",
       "source": "Pathfinder Battlecry!"
     },
@@ -2794,7 +2794,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Overload Vision": {
-      "name": "オーヴァーロード・ヴィジョン/Overload Vision",
+      "name": "オーバーロード・ヴィジョン/Overload Vision",
       "description": "<p><strong>トリガー</strong> 60フィート以内にいるクリーチャーがあなたに対して攻撃ロールを行おうとする。</p>\n<hr />\n<p><strong>効果</strong>そのトリガーとなったクリーチャーは頑健セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる現在のターン終了時まで。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる現在のターン終了時まで。</p>\n<p><strong>クリティカル失敗</strong>対象は現在のターン終了時まで盲目状態となり、1分の間、幻惑状態となる。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
@@ -2809,7 +2809,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Claw Stance": {
-      "name": "クロウ・スタンス/Claw Stance",
+      "name": "クロー・スタンス/Claw Stance",
       "description": "<p><strong>効果</strong>あなたは手の爪を伸ばし、単一の対象を倒すことに注意を集中させる。あなたが行えるストライクは、フレンジード・クローの素手攻撃のみである。これらは@Damage[1d6[slashing]]ダメージを与え、剛腕グループに属し、アジャイル、フィネス、組み付き、素手、およびバーサタイル刺突のトレイトを持つ。</p>",
       "selfEffect": "構え: 鉤爪の構え",
       "source": "Pathfinder Howl of the Wild"
@@ -2835,7 +2835,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Overwhelming Combination": {
-      "name": "オーヴァーホエルミング・コンビネーション/Overwhelming Combination",
+      "name": "オーバーウェルミング・コンビネーション/Overwhelming Combination",
       "description": "<p><strong>必要条件</strong>あなたは片手用の近接武器、またはアジャイルかフィネスのトレイトを持つ近接武器を手に持っている。</p><hr /><p><strong>効果</strong>あなたのリーチ内の対象に対して2回のストライクを行う。1回は必要な武器を使用し、もう1回はあなたの拳による素手攻撃を使用する。両方が同じ対象に命中した場合、その対象の抵抗と弱点のためにダメージを合計する。各〈ストライク〉にあなたのマルチアタック・ペナルティを通常通り適用する。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
