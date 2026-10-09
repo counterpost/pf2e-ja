@@ -1606,7 +1606,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Prove Peace": {
-      "name": "プルーヴ・ピース/Prove Peace",
+      "name": "プルーブ・ピース/Prove Peace",
       "description": "<p><strong>必要条件</strong> 特定の攻城破片を作り出した紛争を知っており、その攻城破片が@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}であること。</p>\n<hr />\n<p>攻城破片に触れて精神的な接続を確立し、紛争の決着に関する事実を伝える。</p>\n<p>攻城破片の意志 DCを使って、その破片を生み出した紛争について@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}する判定を試みる。成功すれば、紛争の終結を証明でき、攻城破片は通常の石に戻る。クリティカル失敗すると過去の紛争の映像に圧倒され、次の自分のターン終了時まで@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}の状態になる。</p>",
       "source": "Pathfinder #157: Devil at the Dreaming Palace"
     },
@@ -1703,7 +1703,7 @@
       "source": "Pathfinder Battlecry!"
     },
     "Survive the Wilds": {
-      "name": "サヴァイヴ・ザ・ワイルズ/Survive the Wilds",
+      "name": "サバイブ・ザ・ワイルズ/Survive the Wilds",
       "description": "<p>あなたはその毛皮をあなた自身に巻き付ける。あなたはその毛皮が同調しているダメージ・タイプを変更することを選択できる。その毛皮は黄金色に輝き、不快なエネルギーを自身の中へと引き寄せる。</p>\n<p>次のあなたのターンの開始時まで、この輝きは@Template[type:emanation|distance:15]のオーラを作り出す。あなたと、そのエマナシオン内にいるすべての味方は、そのトレイトを持つ効果に対するACとセーヴィング・スローに+2の状況ボーナスを得る。</p>",
       "selfEffect": "効果: 野生の生存",
       "source": "Pathfinder War of Immortals"
@@ -1955,7 +1955,7 @@
       "source": "Pathfinder Player Core"
     },
     "Take a Breather": {
-      "name": "テイク・ア・ブレザー/Take a Breather",
+      "name": "テイク・ア・ブリーザー/Take a Breather",
       "description": "<p><strong>コスト</strong> 1 決意ポイント</p>\n<hr />\n<p>あなたは10分休息し、スタミナを回復する。この活動を完了した後、あなたは自身のスタミナ・ポイントをすべて回復する。</p>",
       "source": "Pathfinder Gamemastery Guide"
     },
@@ -1970,7 +1970,7 @@
       "source": "Pathfinder Player Core"
     },
     "Overawe Crowd": {
-      "name": "オーヴァオー・クラウド/Overawe Crowd",
+      "name": "オーバーオー・クラウド/Overawe Crowd",
       "description": "<p><strong>必要条件</strong> あなたはスウォームと同じ空間を共有しているか、トループに隣接している。</p><hr /><p><strong>効果</strong> 1 ミシック・ポイントを費やし、対象となるスウォームまたはトループの意志DCに対して、神話的習熟度で《威圧》判定を行う。失敗時、対象はあなたが選択した方向にストライドし、あなたもそれに伴って移動する。成功時、対象はあなたが選択した方向に2回ストライドし、あなたはその移動に伴うかどうかを決定できる。結果に関わらず、対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}状態となり、24時間の間、あなたの群衆威圧に対して一時的な免疫となる。</p>",
       "source": "Pathfinder War of Immortals"
     },
@@ -2035,7 +2035,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Raconteur's Reload": {
-      "name": "ラコンチュアーズ・リロード/Raconteur's Reload",
+      "name": "ラコンターズ・リロード/Raconteur's Reload",
       "description": "<p>あなたの素早く力強い言葉は、敵の注意をあなたの手から逸らし、その隙に別の弾丸を装填させる。〈扱う〉を行って装填し、その後、[[/act create-a-diversion variant=distracting-words]]{〈注意をそらす〉}ために《欺瞞》判定を行うか、[[/act demoralize]]ために《威圧》判定を行う。</p>",
       "source": "Pathfinder Guns & Gears"
     },
@@ -2461,7 +2461,7 @@
       "source": "Pathfinder Player Core"
     },
     "Stridulating Song": {
-      "name": "ストリデュレイティング・ソング/Stridulating Song",
+      "name": "ストリジュレイティング・ソング/Stridulating Song",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>あなたは翼に魔力を循環させ、高速で振動させることで、その擦れる音が破壊的な音を生み出すようにする。あなたは30フィート以内にいるクリーチャー1体にその音を集中させる。そのクリーチャーはあなたのクラスDCまたは呪文DC(高い方)に対して@Check[fortitude|against:class-spell]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となり、大失敗すると振動が内耳の平衡感覚を乱すため@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる。あなたは最大1分の間、この効果を〈維持〉できる。あなたが歌を続け、かつ対象がそれを聞くことができる限り、対象はそのsickened状態から回復できない。</p>",
       "source": "Pathfinder Howl of the Wild"
     },
@@ -2719,7 +2719,7 @@
       "source": "Pathfinder Spore War Player's Guide"
     },
     "Corpse Crenellation": {
-      "name": "コープス・クレネレーション/Corpse Crenellation",
+      "name": "コープス・クレネレイション/Corpse Crenellation",
       "description": "<p><strong>使用制限</strong> once per 10分</p><hr /><p>組織的かつ衝撃的な効率性をもって、一部のチェリアックスやヘルナイトの分隊は、倒した敵の死体を一時的な土塁に変えることができる。あなたのコマンダーのバナーのオーラ内にいる最大2人の分隊員に合図を送る。これらの分隊員は自身の移動速度の半分まで〈ストライド〉し、あなたが指定した敵1体に対して近接または遠隔の〈ストライク〉をリアクションとして試みることができる。もしその敵がこれらのストライクによって0ヒット・ポイントまで減少したなら、その敵の死体は、その敵のスペース内または隣接するすべての分隊員に対して、あなたの次のターン終了時まで、あるいはその敵が@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}でなくなるか死亡するまで、小遮蔽を提供する。この間、「遮蔽を取る」を行う分隊員は、最初に自身の移動速度の半分まで〈ストライド〉することもできるが、その移動を倒れた敵のスペース内または隣接する場所で終了しなければならない。倒れた敵よりも少なくとも2サイズ小さい分隊員は、代わりに通常遮蔽を得る。</p><hr /><p><strong>特殊</strong>もしあなたの分隊員の1人が、ダメージを与えるを行い、詠唱に2アクション以下を要するキャントリップを知っているか準備している場合、彼らはこの戦術によって通常与えられる他のアクションを取る代わりに、そのキャントリップを指定された敵を対象として発動できる。その場合、記載されている他のすべての恩恵を得る。</p>",
       "source": "Pathfinder Adventure Path: Hell's Destiny"
     },
