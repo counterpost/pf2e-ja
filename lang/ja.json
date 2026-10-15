@@ -1599,9 +1599,9 @@
         "Threats": {
           "extreme": "極限",
           "low": "低",
-          "moderate": "中級",
+          "moderate": "中程度",
           "severe": "深刻",
-          "trivial": "初級"
+          "trivial": "些細"
         },
         "XPBudget": "XP予算",
         "XPNeeded": "必要なXP"
