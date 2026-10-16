@@ -1302,7 +1302,7 @@
     },
     "Born of Vegetation": {
       "name": "植物の生まれ/Born of Vegetation",
-      "description": "<p>雨により心を授かるまで植物か菌類だった。植物か菌類のトレイトのどちらかを選んで得る.</p><ul><li><strong>ヒューマノイド形態</strong> 新鮮な植生があると、困っている者をよりよく助けられる。あなたは1の状況ボーナスをメディスン判定に対して得るために@UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{〈応急手当〉}.</li><li><strong>妖怪形態</strong> 誰かがメディスンスキルを使って@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{〈傷の手当て〉}すると、その治療で回復するヒット・ポイントに自分のレベルを加える。さらに、あなたが植物のトレイトを持ち明るい光の下にいるか、菌類のトレイトを持ち暗所にいる場合、その判定を試みる者は+1の状況ボーナスを得る.</li></ul>"
+      "description": "<p>雨により心を授かるまで植物か菌類だった。植物か菌類のトレイトのどちらかを選んで得る.</p><ul><li><strong>ヒューマノイド形態</strong> 新鮮な植生があると、困っている者をよりよく助けられる。あなたは1の状況ボーナスをメディスン判定に対して得るために@UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{〈応急手当〉}.</li><li><strong>妖怪形態</strong> 誰かがメディスンスキルを使って@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{〈傷の手当て〉}すると、その治療で回復するヒット・ポイントに自分のレベルを加える。さらに、あなたが植物のトレイトを持ち明るい光の下にいるか、菌類のトレイトを持ち暗所にいる場合、その判定を行う者は+1の状況ボーナスを得る.</li></ul>"
     },
     "Hopeful Athamaru": {
       "name": "希望のアサマル/Hopeful Athamaru",

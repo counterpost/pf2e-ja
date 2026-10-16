@@ -525,11 +525,11 @@
     },
     "GBiarRqqq8qwyZtJ": {
       "name": "パラリシス/Paralysis",
-      "description": "<p>ガストの攻撃が命中したすべての生きているクリーチャーは、@Check[type:fortitude|dc:25]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる。そのクリーチャーは自身のターンの終了時に新しいセーヴを試みることができ、そのセーヴを行うたびにDCは累積的に1減少する。</p>"
+      "description": "<p>ガストの攻撃が命中したすべての生きているクリーチャーは、@Check[type:fortitude|dc:25]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる。そのクリーチャーは自身のターンの終了時に新しいセーヴを行うことができ、そのセーヴを行うたびにDCは累積的に1減少する。</p>"
     },
     "Paralysis": {
       "name": "パラリシス",
-      "description": "<p>ガストの攻撃が命中したすべての生きているクリーチャーは、@Check[type:fortitude|dc:25]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる。そのクリーチャーは自身のターンの終了時に新しいセーヴを試みることができ、そのセーヴを行うたびにDCは累積的に1減少する。</p>"
+      "description": "<p>ガストの攻撃が命中したすべての生きているクリーチャーは、@Check[type:fortitude|dc:25]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる。そのクリーチャーは自身のターンの終了時に新しいセーヴを行うことができ、そのセーヴを行うたびにDCは累積的に1減少する。</p>"
     },
     "e7CxhtU5yoASkey8": {
       "name": "スウィフト・リープ/Swift Leap",
@@ -562,7 +562,7 @@
     },
     "9TCF9GcaMoTKkPSj": {
       "name": "パラリシス",
-      "description": "<p>グールの攻撃が命中したエルフ以外のすべての生きたクリーチャーは、@Check[type:fortitude|dc:15]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる。そのクリーチャーは自身のターンの終了時に新しいセーヴを試みることができ、そのセーヴを行うたびにDCは累積的に1減少する。</p>"
+      "description": "<p>グールの攻撃が命中したエルフ以外のすべての生きたクリーチャーは、@Check[type:fortitude|dc:15]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる。そのクリーチャーは自身のターンの終了時に新しいセーヴを行うことができ、そのセーヴを行うたびにDCは累積的に1減少する。</p>"
     },
     "rvraBop9oOSwcjkq": {
       "name": "スウィフト・リープ",
@@ -1205,11 +1205,11 @@
     },
     "OLPncUcxmvWRlCrU": {
       "name": "フック埋め込み/Embed Hook",
-      "description": "<p><strong>トリガー</strong>ゴーラックの直前のアクションが、自身のオーガフックによるクリーチャーへの成功した〈ストライク〉であった</p>\n<hr />\n<p><strong>効果</strong>ゴーラックは、対象の頑健 DCに対して@Check[type:athletics|defense:fortitude]判定を行うことで、フックをひねってそのクリーチャーに食い込ませる。成功した場合、そのクリーチャーは@Damage[(1d10+9)[piercing]]ダメージを受け(@Check[type:fortitude|dc:25|basic:true]セーヴ)、ゴーラックが自身のオーガフックで別の〈ストライク〉を試みるか、そのクリーチャーに対して「敵を投げ飛ばす」を試みるまで、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。</p>"
+      "description": "<p><strong>トリガー</strong>ゴーラックの直前のアクションが、自身のオーガフックによるクリーチャーへの成功した〈ストライク〉であった</p>\n<hr />\n<p><strong>効果</strong>ゴーラックは、対象の頑健 DCに対して@Check[type:athletics|defense:fortitude]判定を行うことで、フックをひねってそのクリーチャーに食い込ませる。成功した場合、そのクリーチャーは@Damage[(1d10+9)[piercing]]ダメージを受け(@Check[type:fortitude|dc:25|basic:true]セーヴ)、ゴーラックが自身のオーガフックで別の〈ストライク〉を行うか、そのクリーチャーに対して「敵を投げ飛ばす」を試みるまで、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。</p>"
     },
     "Embed Hook": {
       "name": "フック埋め込み",
-      "description": "<p><strong>トリガー</strong>ゴルラックの直前のアクションが、自身のオーガフックを用いた対象への〈ストライク〉による成功であった。</p>\n<hr />\n<p><strong>効果</strong>ゴルラックはフックをひねり、対象の頑健 DCに対して@Check[type:athletics|defense:fortitude]判定を行うことで、そのクリーチャーにフックを突き刺す。成功した場合、そのクリーチャーは@Damage[(1d10+9)[piercing]]ダメージ(@Check[type:fortitude|dc:25|basic:true]セーヴ)を受け、ゴルラックが自身のオーガフックで別の〈ストライク〉を試みるか、そのクリーチャーに対してフリング・フォーを試みるまで、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。</p>"
+      "description": "<p><strong>トリガー</strong>ゴルラックの直前のアクションが、自身のオーガフックを用いた対象への〈ストライク〉による成功であった。</p>\n<hr />\n<p><strong>効果</strong>ゴルラックはフックをひねり、対象の頑健 DCに対して@Check[type:athletics|defense:fortitude]判定を行うことで、そのクリーチャーにフックを突き刺す。成功した場合、そのクリーチャーは@Damage[(1d10+9)[piercing]]ダメージ(@Check[type:fortitude|dc:25|basic:true]セーヴ)を受け、ゴルラックが自身のオーガフックで別の〈ストライク〉を行うか、そのクリーチャーに対してフリング・フォーを試みるまで、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。</p>"
     },
     "OCQJPv0SiHaB7c4b": {
       "name": "敵投げ/Fling Foe",
@@ -1680,11 +1680,11 @@
     },
     "OSiq1CXChzTT7udW": {
       "name": "霊的腐敗/Spectral Corruption",
-      "description": "<p>そのスペクターは「邪悪な接触」〈ストライク〉を行う。それが生きているクリーチャーにダメージを与えた場合、そのスペクターは[[/r 5 #Temporary Hit Points]]{5 一時的ヒット・ポイント}を得て、対象のクリーチャーは堕落するのを避けるために@Check[type:will|dc:24]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、1分の間、スペクターの堕落に対して一時的な免疫となる。</p>\n<p><strong>成功</strong>そのクリーチャーは1時間の間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは堕落に屈し、一時的にスペクターの隷属者となる。そのクリーチャーはスペクターによって@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}され、スペクターのテレパシーによる命令や口頭での命令に従う。ただし、スペクターの隷属者は明らかに自滅的な命令には従わない。これは隷属者の次のターンの終了時まで持続し、その時点で制御は解かれるが、1時間の間、ステュピファイド2状態となる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、持続時間は無制限である。その隷属者はターンの終了ごとに新たな意志セーヴを試みることができる。成功すれば、スペクターによる制御は解かれるが、1時間の間、ステュピファイド2状態となる。</p>"
+      "description": "<p>そのスペクターは「邪悪な接触」〈ストライク〉を行う。それが生きているクリーチャーにダメージを与えた場合、そのスペクターは[[/r 5 #Temporary Hit Points]]{5 一時的ヒット・ポイント}を得て、対象のクリーチャーは堕落するのを避けるために@Check[type:will|dc:24]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、1分の間、スペクターの堕落に対して一時的な免疫となる。</p>\n<p><strong>成功</strong>そのクリーチャーは1時間の間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは堕落に屈し、一時的にスペクターの隷属者となる。そのクリーチャーはスペクターによって@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}され、スペクターのテレパシーによる命令や口頭での命令に従う。ただし、スペクターの隷属者は明らかに自滅的な命令には従わない。これは隷属者の次のターンの終了時まで持続し、その時点で制御は解かれるが、1時間の間、ステュピファイド2状態となる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、持続時間は無制限である。その隷属者はターンの終了ごとに新たな意志セーヴを行うことができる。成功すれば、スペクターによる制御は解かれるが、1時間の間、ステュピファイド2状態となる。</p>"
     },
     "Spectral Corruption": {
       "name": "霊的腐敗",
-      "description": "<p>そのスペクターは「不浄なる接触」の〈ストライク〉を行う。これが生きているクリーチャーにダメージを与えた場合、そのスペクターは[[/r 5 #Temporary Hit Points]]{5 一時的ヒット・ポイント}を獲得し、対象のクリーチャーは汚染されることを避けるために@Check[type:will|dc:24]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、1分の間、スペクターの汚染に対して一時的な免疫となる。</p>\n<p><strong>成功</strong>そのクリーチャーは1時間の間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは汚染に屈し、一時的にスペクターの隷属下となる。そのクリーチャーはスペクターによって@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}状態となり、スペクターのテレパシーによる命令や言葉による命令に従う。ただし、スペクターの隷属下にある者は、明らかに自滅的な命令には従わない。この効果は隷属下にある者の次のターンの終了時まで持続し、その時点で操られることはなくなるが、1時間の間、朦朧2状態となる。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、持続時間は無制限である。その隷属下にある者は、自身のターンの終了ごとに新たな意志セーヴを試みることができる。成功すれば、スペクターに操られることはなくなるが、1時間の間、朦朧2状態となる。</p>"
+      "description": "<p>そのスペクターは「不浄なる接触」の〈ストライク〉を行う。これが生きているクリーチャーにダメージを与えた場合、そのスペクターは[[/r 5 #Temporary Hit Points]]{5 一時的ヒット・ポイント}を獲得し、対象のクリーチャーは汚染されることを避けるために@Check[type:will|dc:24]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、1分の間、スペクターの汚染に対して一時的な免疫となる。</p>\n<p><strong>成功</strong>そのクリーチャーは1時間の間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは汚染に屈し、一時的にスペクターの隷属下となる。そのクリーチャーはスペクターによって@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}状態となり、スペクターのテレパシーによる命令や言葉による命令に従う。ただし、スペクターの隷属下にある者は、明らかに自滅的な命令には従わない。この効果は隷属下にある者の次のターンの終了時まで持続し、その時点で操られることはなくなるが、1時間の間、朦朧2状態となる。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、持続時間は無制限である。その隷属下にある者は、自身のターンの終了ごとに新たな意志セーヴを行うことができる。成功すれば、スペクターに操られることはなくなるが、1時間の間、朦朧2状態となる。</p>"
     },
     "c3gUtrnAh1QoPfD4": {
       "name": "恐るべき叫び/Fearful Cry",
@@ -2855,11 +2855,11 @@
     },
     "DoFn41kj4boZ6xAp": {
       "name": "煙の吐息/Exhale Smoke",
-      "description": "<p><strong>トリガー</strong> ゴブリンでないクリーチャーが、剥製のサンドポイント・デヴィルから10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong> 剥製のサンドポイント・デヴィルが前のめりによろめき、顎を開いて、血も凍るような咆哮と悪臭を放つ灰色の煙の噴出を発する。罠の南側(ピットへ通じる扉まで届く)に向けられた@Template[type:cone|distance:30]の範囲内にいる全てのクリーチャーは@Check[type:fortitude|dc:22]セーヴを試みなければならず、失敗すると1時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となる(クリティカル失敗の場合は8時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}となる)。</p>"
+      "description": "<p><strong>トリガー</strong> ゴブリンでないクリーチャーが、剥製のサンドポイント・デヴィルから10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong> 剥製のサンドポイント・デヴィルが前のめりによろめき、顎を開いて、血も凍るような咆哮と悪臭を放つ灰色の煙の噴出を発する。罠の南側(ピットへ通じる扉まで届く)に向けられた@Template[type:cone|distance:30]の範囲内にいる全てのクリーチャーは@Check[type:fortitude|dc:22]セーヴを行わなければならず、失敗すると1時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となる(クリティカル失敗の場合は8時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}となる)。</p>"
     },
     "Exhale Smoke": {
       "name": "煙の吐息",
-      "description": "<p><strong>トリガー</strong> ゴブリンでないクリーチャーが、剥製のサンドポイント・デヴィルから10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong> 剥製のサンドポイント・デヴィルが前のめりによろめき、顎を開いて、血も凍るような咆哮と悪臭を放つ灰色の煙の噴出を発する。罠の南側(ピットへ通じる扉まで届く)に向けられた@Template[type:cone|distance:30]の範囲内にいる全てのクリーチャーは@Check[type:fortitude|dc:22]セーヴを試みなければならず、失敗すると1時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となる(クリティカル失敗の場合は8時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}となる)。</p>"
+      "description": "<p><strong>トリガー</strong> ゴブリンでないクリーチャーが、剥製のサンドポイント・デヴィルから10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong> 剥製のサンドポイント・デヴィルが前のめりによろめき、顎を開いて、血も凍るような咆哮と悪臭を放つ灰色の煙の噴出を発する。罠の南側(ピットへ通じる扉まで届く)に向けられた@Template[type:cone|distance:30]の範囲内にいる全てのクリーチャーは@Check[type:fortitude|dc:22]セーヴを行わなければならず、失敗すると1時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となる(クリティカル失敗の場合は8時間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}となる)。</p>"
     },
     "QVTpVeHrwDHEBjjt": {
       "name": "ディバイン準備呪文"
@@ -2944,11 +2944,11 @@
     },
     "gK66sagQ0GhtdfqV": {
       "name": "筋力減退/Sap Strength",
-      "description": "<p><strong>トリガー</strong>クリーチャーが北側の階段の先の部屋に移動する</p>\n<hr />\n<p><strong>効果</strong>下の暗闇から影のような触手がゆらゆらと立ち上り、トリガーとなったクリーチャーの体に触れる。そのクリーチャーは@Check[type:fortitude|dc:30]セーヴを行わなければならず、失敗するとその体から筋力が吸い取られる。その後、このハザードはイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーの移動速度は1ラウンドの間、10フィート減少する。</p>\n<p><strong>失敗</strong>成功時と同様だが、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にもなる。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態にもなる。そのクリーチャーは自身のターンの終了時に新たなセーヴを試みることができ、そのセーヴを行うたびにDCが累積的に1減少する。</p>"
+      "description": "<p><strong>トリガー</strong>クリーチャーが北側の階段の先の部屋に移動する</p>\n<hr />\n<p><strong>効果</strong>下の暗闇から影のような触手がゆらゆらと立ち上り、トリガーとなったクリーチャーの体に触れる。そのクリーチャーは@Check[type:fortitude|dc:30]セーヴを行わなければならず、失敗するとその体から筋力が吸い取られる。その後、このハザードはイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーの移動速度は1ラウンドの間、10フィート減少する。</p>\n<p><strong>失敗</strong>成功時と同様だが、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にもなる。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態にもなる。そのクリーチャーは自身のターンの終了時に新たなセーヴを行うことができ、そのセーヴを行うたびにDCが累積的に1減少する。</p>"
     },
     "Sap Strength": {
       "name": "筋力減退",
-      "description": "<p><strong>トリガー</strong>クリーチャーが北側の階段の先の部屋に移動する</p>\n<hr />\n<p><strong>効果</strong>下の暗闇から影のような触手がゆらゆらと立ち上り、トリガーとなったクリーチャーの体に触れる。そのクリーチャーは@Check[type:fortitude|dc:30]セーヴを行わなければならず、失敗するとその体から筋力が吸い取られる。その後、このハザードはイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーの移動速度は1ラウンドの間、10フィート減少する。</p>\n<p><strong>失敗</strong>成功時と同様だが、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にもなる。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態にもなる。そのクリーチャーは自身のターンの終了時に新たなセーヴを試みることができ、そのセーヴを行うたびにDCが累積的に1減少する。</p>"
+      "description": "<p><strong>トリガー</strong>クリーチャーが北側の階段の先の部屋に移動する</p>\n<hr />\n<p><strong>効果</strong>下の暗闇から影のような触手がゆらゆらと立ち上り、トリガーとなったクリーチャーの体に触れる。そのクリーチャーは@Check[type:fortitude|dc:30]セーヴを行わなければならず、失敗するとその体から筋力が吸い取られる。その後、このハザードはイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーの移動速度は1ラウンドの間、10フィート減少する。</p>\n<p><strong>失敗</strong>成功時と同様だが、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にもなる。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態にもなる。そのクリーチャーは自身のターンの終了時に新たなセーヴを行うことができ、そのセーヴを行うたびにDCが累積的に1減少する。</p>"
     },
     "pRC5IW45o7eWNos1": {
       "name": "顎"
@@ -3066,7 +3066,7 @@
     },
     "djIV45njqtZPf85k": {
       "name": "ワインドアップ",
-      "description": "<p>24時間、@Check[type:thievery|dc:26]、待機状態</p>\n<hr />\n<p>クロックワークが行動するためには、別のクリーチャーによって専用の鍵でネジを巻かれなければならない。これには1分かかる。一度ネジを巻かれると、それは記載された時間(通常は24時間)の間作動し続け、その時間が経過すると周囲の状況を認識できなくなり、再びネジを巻かれるまで行動できなくなる。一部のクロックワークの能力は、残り作動時間の一部を消費することを要求する。それらは自身が持っている以上の時間を消費することはできず、残り時間が0になると即座に停止する。クロックワークが最後にネジを巻かれたのがいつか不明な場合、ほとんどのクロックワークの管理者は、すべてのクロックワークのネジを特定の時間(通常は午前8時)に巻く。</p>\n<p>ネジ巻きの項目に待機状態と記載されているクロックワークは、3アクションアクティビティとして待機状態モードに入ることができる。待機状態の間は作動時間は減少しないが、周囲を感知することはできる(《知覚》に-2のペナルティを受ける)。行動することはできないが、1つの例外がある。クリーチャーを感知したとき、リアクションとして待機状態を終了できる(必要に応じてイニシアチブをロールする)。</p>\n<p>クリーチャーは、クロックワークのネジを巻き戻すために〈装置無力化〉を試みることができる(ネジ巻きの項目に記載されているDCを使用する)。成功するたびに、クロックワークは作動時間を1時間失う。これはクロックワークが待機状態モードであっても行うことができる。</p>"
+      "description": "<p>24時間、@Check[type:thievery|dc:26]、待機状態</p>\n<hr />\n<p>クロックワークが行動するためには、別のクリーチャーによって専用の鍵でネジを巻かれなければならない。これには1分かかる。一度ネジを巻かれると、それは記載された時間(通常は24時間)の間作動し続け、その時間が経過すると周囲の状況を認識できなくなり、再びネジを巻かれるまで行動できなくなる。一部のクロックワークの能力は、残り作動時間の一部を消費することを要求する。それらは自身が持っている以上の時間を消費することはできず、残り時間が0になると即座に停止する。クロックワークが最後にネジを巻かれたのがいつか不明な場合、ほとんどのクロックワークの管理者は、すべてのクロックワークのネジを特定の時間(通常は午前8時)に巻く。</p>\n<p>ネジ巻きの項目に待機状態と記載されているクロックワークは、3アクションアクティビティとして待機状態モードに入ることができる。待機状態の間は作動時間は減少しないが、周囲を感知することはできる(《知覚》に-2のペナルティを受ける)。行動することはできないが、1つの例外がある。クリーチャーを感知したとき、リアクションとして待機状態を終了できる(必要に応じてイニシアチブをロールする)。</p>\n<p>クリーチャーは、クロックワークのネジを巻き戻すために〈装置無力化〉を行うことができる(ネジ巻きの項目に記載されているDCを使用する)。成功するたびに、クロックワークは作動時間を1時間失う。これはクロックワークが待機状態モードであっても行うことができる。</p>"
     },
     "Wind-Up": {
       "name": "ワインドアップ/Wind-Up",
@@ -3329,7 +3329,7 @@
     },
     "gcFxm6W1omvdDARf": {
       "name": "パラリシス",
-      "description": "<p>ガーストの攻撃が命中した生きているクリーチャーは、@Check[type:fortitude|dc:32]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}となる。対象は自身の各ターンの終了時に新しいセーヴを試みることができ、そのセーヴごとにDCは累積的に1減少する。</p>"
+      "description": "<p>ガーストの攻撃が命中した生きているクリーチャーは、@Check[type:fortitude|dc:32]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}となる。対象は自身の各ターンの終了時に新しいセーヴを行うことができ、そのセーヴごとにDCは累積的に1減少する。</p>"
     },
     "lmYi8tBleAX8ZpOu": {
       "name": "クイック・ボマー",
@@ -3810,7 +3810,7 @@
     },
     "Spore Domination": {
       "name": "スポア・ドミネーション",
-      "description": "<p>マイセロイドは、60フィート以内にいる紫斑病に感染したクリーチャー1体を対象とする。そのクリーチャーは@Check[type:will|dc:22]セーヴを試みなければならない。</p>\n<p>その後、10分間は胞子支配に対して一時的な完全耐性を得る。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は次のターンの終了時まで、マイセロイドに対して@UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{協力的}になり、マイセロイドに対して敵対的なアクションを取れなくなる。</p>\n<p><strong>失敗</strong> 成功と同じだが、1分間続く。</p>\n<p><strong>クリティカル失敗</strong> 成功と同じだが、紫斑病が治癒されるまで続く。</p>"
+      "description": "<p>マイセロイドは、60フィート以内にいる紫斑病に感染したクリーチャー1体を対象とする。そのクリーチャーは@Check[type:will|dc:22]セーヴを行わなければならない。</p>\n<p>その後、10分間は胞子支配に対して一時的な完全耐性を得る。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は次のターンの終了時まで、マイセロイドに対して@UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{協力的}になり、マイセロイドに対して敵対的なアクションを取れなくなる。</p>\n<p><strong>失敗</strong> 成功と同じだが、1分間続く。</p>\n<p><strong>クリティカル失敗</strong> 成功と同じだが、紫斑病が治癒されるまで続く。</p>"
     },
     "zrycs1fp75o2l8h0": {
       "name": "噛みつき"
@@ -3831,11 +3831,11 @@
     },
     "o8cbkspx01eskehx": {
       "name": "恐るべき笑い/Terrifying Laugh",
-      "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong> ガイストは@Template[type:emanation|distance:20]の範囲に魂を貫くような哄笑を解き放ち、その効果は次のターンの開始時まで続く。この範囲内にいる、またはこの範囲に入った全てのクリーチャーは@Check[type:will|dc:26]セーヴに成功しなければ、パニックに陥った哄笑に呑まれ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる(クリティカル失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3})。クリーチャーは「テリファイング・ラフ」1回につき1度しかセーヴを試みず、セーヴに成功したクリーチャーは24時間、一時的な完全耐性を得る。</p>"
+      "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong> ガイストは@Template[type:emanation|distance:20]の範囲に魂を貫くような哄笑を解き放ち、その効果は次のターンの開始時まで続く。この範囲内にいる、またはこの範囲に入った全てのクリーチャーは@Check[type:will|dc:26]セーヴに成功しなければ、パニックに陥った哄笑に呑まれ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる(クリティカル失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3})。クリーチャーは「テリファイング・ラフ」1回につき1度しかセーヴを行わず、セーヴに成功したクリーチャーは24時間、一時的な完全耐性を得る。</p>"
     },
     "Terrifying Laugh": {
       "name": "恐るべき笑い",
-      "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong> ガイストは@Template[type:emanation|distance:20]の範囲に魂を貫くような哄笑を解き放ち、その効果は次のターンの開始時まで続く。この範囲内にいる、またはこの範囲に入った全てのクリーチャーは@Check[type:will|dc:26]セーヴに成功しなければ、パニックに陥った哄笑に呑まれ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる(クリティカル失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3})。クリーチャーは「テリファイング・ラフ」1回につき1度しかセーヴを試みず、セーヴに成功したクリーチャーは24時間、一時的な完全耐性を得る。</p>"
+      "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong> ガイストは@Template[type:emanation|distance:20]の範囲に魂を貫くような哄笑を解き放ち、その効果は次のターンの開始時まで続く。この範囲内にいる、またはこの範囲に入った全てのクリーチャーは@Check[type:will|dc:26]セーヴに成功しなければ、パニックに陥った哄笑に呑まれ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる(クリティカル失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3})。クリーチャーは「テリファイング・ラフ」1回につき1度しかセーヴを行わず、セーヴに成功したクリーチャーは24時間、一時的な完全耐性を得る。</p>"
     },
     "58ox9o6ljire079b": {
       "name": "ハーントの憤怒/Wrath of the Haunt",
@@ -4064,11 +4064,11 @@
     },
     "fRkzUI9I50wuPJvX": {
       "name": "這い回り攻撃/Skittering Assault",
-      "description": "<p>ゴギテスは3回〈ストライド〉を行う。〈ストライド〉1回につき1回、その〈ストライド〉中の任意の時点で、リーチ内のクリーチャーに対して脚による〈ストライク〉を試みることができる。各攻撃は異なるクリーチャーに対して行わなければならないが、すべての〈ストライク〉を行うまでマルチアタック・ペナルティを適用しない。〈ストライク〉のいずれかが大失敗に終わった場合、「Skittering Assault」は終了する。</p>"
+      "description": "<p>ゴギテスは3回〈ストライド〉を行う。〈ストライド〉1回につき1回、その〈ストライド〉中の任意の時点で、リーチ内のクリーチャーに対して脚による〈ストライク〉を行うことができる。各攻撃は異なるクリーチャーに対して行わなければならないが、すべての〈ストライク〉を行うまでマルチアタック・ペナルティを適用しない。〈ストライク〉のいずれかが大失敗に終わった場合、「Skittering Assault」は終了する。</p>"
     },
     "Skittering Assault": {
       "name": "這い回り攻撃",
-      "description": "<p>ゴギテスは3回〈ストライド〉を行う。〈ストライド〉1回につき1回、その〈ストライド〉中の任意の時点で、リーチ内のクリーチャーに対して脚による〈ストライク〉を試みることができる。各攻撃は異なるクリーチャーに対して行わなければならないが、すべての〈ストライク〉を行うまでマルチアタック・ペナルティを適用しない。〈ストライク〉のいずれかが大失敗に終わった場合、「Skittering Assault」は終了する。</p>"
+      "description": "<p>ゴギテスは3回〈ストライド〉を行う。〈ストライド〉1回につき1回、その〈ストライド〉中の任意の時点で、リーチ内のクリーチャーに対して脚による〈ストライク〉を行うことができる。各攻撃は異なるクリーチャーに対して行わなければならないが、すべての〈ストライク〉を行うまでマルチアタック・ペナルティを適用しない。〈ストライク〉のいずれかが大失敗に終わった場合、「Skittering Assault」は終了する。</p>"
     },
     "zK2aR7Xwx6ctIIxv": {
       "name": "インプルーヴド・グラブ"
@@ -4212,11 +4212,11 @@
     },
     "DE2HiFd3EjYr3JoX": {
       "name": "スポアワープ/Sporewarp",
-      "description": "<p>その菌類の暴君は触手による〈ストライク〉を試みるが、自身が見ることのできる120フィート以内の任意の胞子ポッドを、その触手による〈ストライク〉の起点として扱う。</p>"
+      "description": "<p>その菌類の暴君は触手による〈ストライク〉を行うが、自身が見ることのできる120フィート以内の任意の胞子ポッドを、その触手による〈ストライク〉の起点として扱う。</p>"
     },
     "Sporewarp": {
       "name": "スポアワープ",
-      "description": "<p>その菌類の暴君は触手による〈ストライク〉を試みるが、自身が見ることのできる120フィート以内の任意の胞子ポッドを、その触手による〈ストライク〉の起点として扱う。</p>"
+      "description": "<p>その菌類の暴君は触手による〈ストライク〉を行うが、自身が見ることのできる120フィート以内の任意の胞子ポッドを、その触手による〈ストライク〉の起点として扱う。</p>"
     },
     "H0jCOnnhcKA0P999": {
       "name": "掴み"
@@ -4272,11 +4272,11 @@
     },
     "zNeDe02hwHzcyE1s": {
       "name": "スクワーミング・エンブレイス/Squirming Embrace",
-      "description": "<p>ワーム・ザット・ウォークスはストライドを行い、移動を終了した時点でクリーチャーとスペースを共有し、そのクリーチャーに@Damage[4d8[piercing]]ダメージを与える。そのクリーチャーは@Check[type:reflex|dc:27|basic:true]セーヴを試みることができる。</p>"
+      "description": "<p>ワーム・ザット・ウォークスはストライドを行い、移動を終了した時点でクリーチャーとスペースを共有し、そのクリーチャーに@Damage[4d8[piercing]]ダメージを与える。そのクリーチャーは@Check[type:reflex|dc:27|basic:true]セーヴを行うことができる。</p>"
     },
     "Squirming Embrace": {
       "name": "スクワーミング・エンブレイス",
-      "description": "<p>ワーム・ザット・ウォークスはストライドを行い、移動を終了した時点でクリーチャーとスペースを共有し、そのクリーチャーに@Damage[4d8[piercing]]ダメージを与える。そのクリーチャーは@Check[type:reflex|dc:27|basic:true]セーヴを試みることができる。</p>"
+      "description": "<p>ワーム・ザット・ウォークスはストライドを行い、移動を終了した時点でクリーチャーとスペースを共有し、そのクリーチャーに@Damage[4d8[piercing]]ダメージを与える。そのクリーチャーは@Check[type:reflex|dc:27|basic:true]セーヴを行うことができる。</p>"
     },
     "Gqr0UFpNbBT1bhtg": {
       "name": "ステディ・スペルキャスティング",

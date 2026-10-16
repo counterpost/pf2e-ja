@@ -521,7 +521,7 @@
         },
         "VkmU3zCSF1tm61N6": {
           "name": "コマンド・コンフュージョン/Command Confusion",
-          "description": "<p><strong>トリガー</strong>クリーチャーがムノゴス(Mnoghoth)のマインドフォッグ(精神の霧)オーラに対するセーヴに失敗する</p>\n<hr />\n<p><strong>効果</strong> @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態のクリーチャーがそのラウンドに誰を攻撃するかを、GMがランダムに決定する代わりに、ムノゴスが決定する。選択された対象が混乱状態のクリーチャーの味方である場合、そのクリーチャーは即座に@Check[will|dc:25]セーヴを試みることができる。成功すると、その対象は混乱の通常ルール通りランダムに決定され、大成功すると、対象はもはや混乱状態ではなくなる。</p>"
+          "description": "<p><strong>トリガー</strong>クリーチャーがムノゴス(Mnoghoth)のマインドフォッグ(精神の霧)オーラに対するセーヴに失敗する</p>\n<hr />\n<p><strong>効果</strong> @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態のクリーチャーがそのラウンドに誰を攻撃するかを、GMがランダムに決定する代わりに、ムノゴスが決定する。選択された対象が混乱状態のクリーチャーの味方である場合、そのクリーチャーは即座に@Check[will|dc:25]セーヴを行うことができる。成功すると、その対象は混乱の通常ルール通りランダムに決定され、大成功すると、対象はもはや混乱状態ではなくなる。</p>"
         },
         "7tCu8SPq0TpF1lJX": {
           "name": "マインドフォッグ・オーラ/Mindfog Aura",
@@ -593,7 +593,7 @@
         },
         "EZC0vt7I7K0Cu0Vy": {
           "name": "呪われた炎を呼び寄せる口笛/Whistle Up Cursed Flames",
-          "description": "<p>ミナルグルは甲高い鋭い音で口笛を吹き、そうしながら炎と悪臭を放つ煙の突風を吐き出す。@Template[cone|distance:15]内のすべてのクリーチャーは@Check[reflex|dc:24|options:area-effect,damaging-effect,inflicts:sickened]セーヴを試みなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d6[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[6d6[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d6[fire]|options:area-damage]ダメージを受け、呪われる。炎によって引き起こされた火傷は残り、焦げた肉は水ぶくれのままである。呪われたクリーチャーは、絶え間ない痛みからすべての判定に－1のステータス・ペナルティを受ける。治癒によって火傷の外見が変わったりペナルティが軽減されたりすることはないが、呪いを取り除くことで解消される。</p>"
+          "description": "<p>ミナルグルは甲高い鋭い音で口笛を吹き、そうしながら炎と悪臭を放つ煙の突風を吐き出す。@Template[cone|distance:15]内のすべてのクリーチャーは@Check[reflex|dc:24|options:area-effect,damaging-effect,inflicts:sickened]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d6[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[6d6[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d6[fire]|options:area-damage]ダメージを受け、呪われる。炎によって引き起こされた火傷は残り、焦げた肉は水ぶくれのままである。呪われたクリーチャーは、絶え間ない痛みからすべての判定に－1のステータス・ペナルティを受ける。治癒によって火傷の外見が変わったりペナルティが軽減されたりすることはないが、呪いを取り除くことで解消される。</p>"
         }
       },
       "blurb": "女性のゴブリンのウィッチ",
@@ -751,7 +751,7 @@
         },
         "VMzhTqEkTw0QRQvq": {
           "name": "アンキャニー・クライマー/Uncanny Climber",
-          "description": "<p>ジャイアント・ゲッコーの足は、どんなに滑りやすかったり切り立っていたりしても、事実上あらゆる表面を登ることを可能にする。ジャイアント・ゲッコーが@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{〈登攀〉}するために《運動》の判定を試みて大失敗した場合、代わりに失敗となる。</p>"
+          "description": "<p>ジャイアント・ゲッコーの足は、どんなに滑りやすかったり切り立っていたりしても、事実上あらゆる表面を登ることを可能にする。ジャイアント・ゲッコーが@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{〈登攀〉}するために《運動》の判定を行って大失敗した場合、代わりに失敗となる。</p>"
         }
       },
       "name": "スティックフット/Stickfoot",
@@ -792,7 +792,7 @@
         },
         "CXVQlp8TsdJY16il": {
           "name": "スナッチ・ウェポン/Snatch Weapon",
-          "description": "<p>チェルタスはクリーチャーに@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}を試みる。相手の握りから武器を叩き落とした場合、チェルタスはその武器を構え、その武器で相手に対して〈ストライク〉を試みる。これは彼のマルチアタック・ペナルティにおいて2回の攻撃としてカウントされる。</p>"
+          "description": "<p>チェルタスはクリーチャーに@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}を試みる。相手の握りから武器を叩き落とした場合、チェルタスはその武器を構え、その武器で相手に対して〈ストライク〉を行う。これは彼のマルチアタック・ペナルティにおいて2回の攻撃としてカウントされる。</p>"
         }
       },
       "blurb": "男性のヒューマンのファイター",
@@ -811,7 +811,7 @@
         },
         "zZdlKoZukVTRu2lC": {
           "name": "キャヴァーン・ディペンデント/Cavern Dependent",
-          "description": "<p>ランパードは単一の大洞窟またはその他の独立した地下エリアに神秘的に結びつけられており、そこから300フィート以内に留まらなければならない。</p>\n<p>その範囲を超えて移動した場合、彼らは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態になり、回復できなくなる。彼らは1時間ごとに@Check[fortitude|dc:19]セーヴを試みなければならず、失敗すると病気値が1増加する(最大で病気4まで)。</p>\n<p>24時間後、彼らは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態になり、この値はさらに24時間が経過するごとに1増加する。ランパードは新しい大洞窟と結びつくために、24時間の儀式を行うことができる。</p>"
+          "description": "<p>ランパードは単一の大洞窟またはその他の独立した地下エリアに神秘的に結びつけられており、そこから300フィート以内に留まらなければならない。</p>\n<p>その範囲を超えて移動した場合、彼らは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態になり、回復できなくなる。彼らは1時間ごとに@Check[fortitude|dc:19]セーヴを行わなければならず、失敗すると病気値が1増加する(最大で病気4まで)。</p>\n<p>24時間後、彼らは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態になり、この値はさらに24時間が経過するごとに1増加する。ランパードは新しい大洞窟と結びつくために、24時間の儀式を行うことができる。</p>"
         },
         "Mq1buiTxEF2rhIx8": {
           "name": "嘆き/Weep",
@@ -827,7 +827,7 @@
       "items": {
         "zgELFho6zK0oOi9X": {
           "name": "毒素放出/Vent Toxins",
-          "description": "<p><strong>トリガー</strong>クリーチャーが北の階段の先にある部屋に移動する。</p>\n<hr />\n<p><strong>効果</strong>床の上の血が激しく泡立ち、泡がはじけると同時に、有害なガスの波がトリガーとなったクリーチャーの周囲に噴き出す。そのクリーチャーは、息を止めているか呼吸する必要がない場合を除き、@Check[fortitude|dc:30]セーヴを試みなければならない。その後、このハザードはイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは悪臭を放つガスによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>失敗</strong>成功と同様だが、クリーチャーは毒ガスによって@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態にもなる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}状態となる。</p>"
+          "description": "<p><strong>トリガー</strong>クリーチャーが北の階段の先にある部屋に移動する。</p>\n<hr />\n<p><strong>効果</strong>床の上の血が激しく泡立ち、泡がはじけると同時に、有害なガスの波がトリガーとなったクリーチャーの周囲に噴き出す。そのクリーチャーは、息を止めているか呼吸する必要がない場合を除き、@Check[fortitude|dc:30]セーヴを行わなければならない。その後、このハザードはイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは悪臭を放つガスによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>失敗</strong>成功と同様だが、クリーチャーは毒ガスによって@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態にもなる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}状態となる。</p>"
         }
       },
       "routine": "<p>(2アクション)泡は、このハザードの最初の1アクション目で激しく音を立てて弾け、空気を有毒な蒸気で満たす。これにより、エリア<strong>J3b</strong>内のすべてのクリーチャーに@Damage[6d6[poison]]ダメージ(@Check[fortitude|dc:30|basic]セーヴ)を与える。息を止めているクリーチャーは、このセーヴに+4の状況ボーナスを得る。このハザードの2アクション目に、泡はエリア<strong>J3b</strong>内のランダムな対象に毒素放出を行う。</p>",
@@ -1109,7 +1109,7 @@
         },
         "DE2HiFd3EjYr3JoX": {
           "name": "スポアワープ/Sporewarp",
-          "description": "<p>ファンガス・タイラントは触手による〈ストライク〉を試みるが、自身が見通せる120フィート以内の任意のスポアポッド1つを、その触手〈ストライク〉の起点として扱う。</p>"
+          "description": "<p>ファンガス・タイラントは触手による〈ストライク〉を行うが、自身が見通せる120フィート以内の任意のスポアポッド1つを、その触手〈ストライク〉の起点として扱う。</p>"
         },
         "H0jCOnnhcKA0P999": {
           "name": "掴み/Grab"
@@ -1456,7 +1456,7 @@
         },
         "9TCF9GcaMoTKkPSj": {
           "name": "パラリシス",
-          "description": "<p>グールの攻撃が命中したエルフ以外のすべての生きたクリーチャーは、@Check[fortitude|dc:21|options:inflicts:paralyzed]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態になる。対象は自身のターンの終了時に毎回新しいセーヴを試みることができ、そのようなセーヴを行うたびに、そのDCは累積的に1減少する。</p>"
+          "description": "<p>グールの攻撃が命中したエルフ以外のすべての生きたクリーチャーは、@Check[fortitude|dc:21|options:inflicts:paralyzed]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態になる。対象は自身のターンの終了時に毎回新しいセーヴを行うことができ、そのようなセーヴを行うたびに、そのDCは累積的に1減少する。</p>"
         },
         "rvraBop9oOSwcjkq": {
           "name": "スウィフト・リープ",
@@ -1533,7 +1533,7 @@
         },
         "JRw4yyJi23UZoHax": {
           "name": "注意を逸らす口笛/Distracting Whistle",
-          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>タンチは口笛を吹き、その音を別の場所に発生させることで、敵の気をそらす。タンチが視認できる30フィート以内の対象1体は、@Check[will|dc:22]セーヴを試みなければならない。失敗すると、背後から聞こえる気が散る口笛の音によって、タンチの次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になる。その後、対象は一時的な免疫(気をそらす口笛に対して一時的免疫)に1時間の間なる。</p>"
+          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>タンチは口笛を吹き、その音を別の場所に発生させることで、敵の気をそらす。タンチが視認できる30フィート以内の対象1体は、@Check[will|dc:22]セーヴを行わなければならない。失敗すると、背後から聞こえる気が散る口笛の音によって、タンチの次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になる。その後、対象は一時的な免疫(気をそらす口笛に対して一時的免疫)に1時間の間なる。</p>"
         },
         "PhDx2NxQaVTrJgx5": {
           "name": "クイック・ボマー",
@@ -1623,7 +1623,7 @@
         },
         "OLPncUcxmvWRlCrU": {
           "name": "フック埋め込み/Embed Hook",
-          "description": "<p><strong>必要条件</strong>ゴーラックの直前の活動は、自身のオーガ・フックによるクリーチャーへの成功した〈ストライク〉であった。</p>\n<hr />\n<p><strong>効果</strong>ゴーラックはフックをひねってクリーチャーに埋め込むため、対象の頑健のDCに対して@Check[athletics|defense:fortitude]判定を行う。成功すると、そのクリーチャーは@Damage[(1d10+9)[piercing]]のダメージを受け(@Check[fortitude|dc:25|basic]セーヴ)、ゴーラックが自身のオーガ・フックで別の〈ストライク〉を試みるか、そのクリーチャーに敵投げを試みるまで@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。</p>"
+          "description": "<p><strong>必要条件</strong>ゴーラックの直前の活動は、自身のオーガ・フックによるクリーチャーへの成功した〈ストライク〉であった。</p>\n<hr />\n<p><strong>効果</strong>ゴーラックはフックをひねってクリーチャーに埋め込むため、対象の頑健のDCに対して@Check[athletics|defense:fortitude]判定を行う。成功すると、そのクリーチャーは@Damage[(1d10+9)[piercing]]のダメージを受け(@Check[fortitude|dc:25|basic]セーヴ)、ゴーラックが自身のオーガ・フックで別の〈ストライク〉を行うか、そのクリーチャーに敵投げを試みるまで@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。</p>"
         },
         "OCQJPv0SiHaB7c4b": {
           "name": "敵投げ/Fling Foe",
@@ -1655,7 +1655,7 @@
         },
         "9TCF9GcaMoTKkPSj": {
           "name": "パラリシス",
-          "description": "<p>グールの攻撃によって命中を受けた、エルフ以外のすべての生きたクリーチャーは、@Check[fortitude|dc:15|options:inflicts:paralyzed]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態になる。そのクリーチャーは自身の各ターンの終了時に新しいセーヴを試みることができ、そのようなセーヴを行うたびにDCは累積的に1ずつ減少する。</p>"
+          "description": "<p>グールの攻撃によって命中を受けた、エルフ以外のすべての生きたクリーチャーは、@Check[fortitude|dc:15|options:inflicts:paralyzed]セーヴに成功しなければ@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態になる。そのクリーチャーは自身の各ターンの終了時に新しいセーヴを行うことができ、そのようなセーヴを行うたびにDCは累積的に1ずつ減少する。</p>"
         },
         "rvraBop9oOSwcjkq": {
           "name": "スウィフト・リープ",
@@ -1770,7 +1770,7 @@
         },
         "x3sRV0Fub8ixWfBV": {
           "name": "放り投げ/Toss",
-          "description": "<p>ホダグは歩行し、その後リーチ内の対象に対して〈ストライク〉を1回行う。少なくとも20フィート移動し、かつその〈ストライク〉に成功した場合、ホダグは通常通りダメージを与えるし、その後、敵を空中に放り投げるために、そのクリーチャーの頑健のDCに対して@Check[athletics|defense:fortitude]の判定を試みる。</p>\n<p>成功すると、放り投げられたクリーチャーはホダグが選んだ方向の直線上に10フィート投げ飛ばされ、その後@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態で着地する。そのクリーチャーが固い物体にぶつかった場合、伏せ状態で着地する前に@Damage[1d6[bludgeoning]]のダメージも受ける。ホダグは代わりに、クリーチャーを真上に放り投げることもできる。そのクリーチャーは開始したのと同じマスに着地し、@Damage[1d6[bludgeoning]]のダメージを受け、伏せ状態で着地する。</p>"
+          "description": "<p>ホダグは歩行し、その後リーチ内の対象に対して〈ストライク〉を1回行う。少なくとも20フィート移動し、かつその〈ストライク〉に成功した場合、ホダグは通常通りダメージを与えるし、その後、敵を空中に放り投げるために、そのクリーチャーの頑健のDCに対して@Check[athletics|defense:fortitude]の判定を行う。</p>\n<p>成功すると、放り投げられたクリーチャーはホダグが選んだ方向の直線上に10フィート投げ飛ばされ、その後@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態で着地する。そのクリーチャーが固い物体にぶつかった場合、伏せ状態で着地する前に@Damage[1d6[bludgeoning]]のダメージも受ける。ホダグは代わりに、クリーチャーを真上に放り投げることもできる。そのクリーチャーは開始したのと同じマスに着地し、@Damage[1d6[bludgeoning]]のダメージを受け、伏せ状態で着地する。</p>"
         },
         "CwNuoWOgc2U8qCLd": {
           "name": "ノックダウン"
@@ -1918,7 +1918,7 @@
         },
         "djIV45njqtZPf85k": {
           "name": "ワインドアップ/Wind-Up",
-          "description": "<p>24時間、[[/act disable-device dc=26]]{DC 26 《盗賊術》}、待機</p>\n<hr />\n<p>クロックワークが活動するには、別のクリーチャーが専用のキーでネジを巻かなければならない。これには1分かかる。ネジを巻かれると、クロックワークは記載された時間(通常は24時間)の間、稼働状態を維持する。その時間が経過すると、周囲の状況を感知できなくなり、再びネジを巻かれるまで行動できなくなる。一部のクロックワークの能力は、残りの稼働時間を消費する必要がある。残りの稼働時間より多く消費することはできず、残り時間が0になると即座に停止する。クロックワークが最後にいつネジを巻かれたか不明な場合、ほとんどのクロックワークの管理者は、決まった時間(通常は午前8時)にすべてのクロックワークのネジを巻く。</p>\n<p>ネジ巻きの項目に待機と記載されているクロックワークは、3アクションアクティビティとして待機モードに入ることができる。待機モード中、稼働時間は減少しないが、周囲の状況を感知できる(《知覚》に-2ペナルティを受ける)。待機モード中は行動できないが、1つだけ例外がある。クリーチャーを感知したとき、リアクションとして待機モードを終了できる(必要に応じてイニシアチブをロールする)。</p>\n<p>クリーチャーは、クロックワークのネジを巻き戻すために〈装置無力化〉を試みることができる(難易度はネジ巻きの項目に記載されているDC)。成功するたびに、クロックワークは稼働時間を1時間失う。これはクロックワークが待機モードであっても行うことができる。</p>"
+          "description": "<p>24時間、[[/act disable-device dc=26]]{DC 26 《盗賊術》}、待機</p>\n<hr />\n<p>クロックワークが活動するには、別のクリーチャーが専用のキーでネジを巻かなければならない。これには1分かかる。ネジを巻かれると、クロックワークは記載された時間(通常は24時間)の間、稼働状態を維持する。その時間が経過すると、周囲の状況を感知できなくなり、再びネジを巻かれるまで行動できなくなる。一部のクロックワークの能力は、残りの稼働時間を消費する必要がある。残りの稼働時間より多く消費することはできず、残り時間が0になると即座に停止する。クロックワークが最後にいつネジを巻かれたか不明な場合、ほとんどのクロックワークの管理者は、決まった時間(通常は午前8時)にすべてのクロックワークのネジを巻く。</p>\n<p>ネジ巻きの項目に待機と記載されているクロックワークは、3アクションアクティビティとして待機モードに入ることができる。待機モード中、稼働時間は減少しないが、周囲の状況を感知できる(《知覚》に-2ペナルティを受ける)。待機モード中は行動できないが、1つだけ例外がある。クリーチャーを感知したとき、リアクションとして待機モードを終了できる(必要に応じてイニシアチブをロールする)。</p>\n<p>クリーチャーは、クロックワークのネジを巻き戻すために〈装置無力化〉を行うことができる(難易度はネジ巻きの項目に記載されているDC)。成功するたびに、クロックワークは稼働時間を1時間失う。これはクロックワークが待機モードであっても行うことができる。</p>"
         },
         "co4QqqzbDABHUIAu": {
           "name": "サーペント・モード起動/Activate Serpent Mode",

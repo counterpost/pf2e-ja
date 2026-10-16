@@ -809,7 +809,7 @@
         },
         "RAFn5P8tJAjf5eEe": {
           "name": "リタリエイトリー・ストライク/Retaliatory Strike",
-          "description": "<p><strong>トリガー</strong>フロストドレイクのリーチ内にいるクリーチャーが、〈ストライク〉でフロストドレイクにダメージを与えることに成功した時。</p>\n<hr />\n<p><strong>効果</strong>フロストドレイクは自身の尾で〈ストライク〉を試みる。その〈ストライク〉が命中した場合、追加で1d6のダメージを与える。</p>"
+          "description": "<p><strong>トリガー</strong>フロストドレイクのリーチ内にいるクリーチャーが、〈ストライク〉でフロストドレイクにダメージを与えることに成功した時。</p>\n<hr />\n<p><strong>効果</strong>フロストドレイクは自身の尾で〈ストライク〉を行う。その〈ストライク〉が命中した場合、追加で1d6のダメージを与える。</p>"
         },
         "QmJkEvQgW1G9i7g9": {
           "name": "ドラコニック・フレンジー/Draconic Frenzy",
@@ -1019,7 +1019,7 @@
         },
         "AsXbDxRSKFmiQ6jb": {
           "name": "エンフィーブリング・バイト/Enfeebling Bite",
-          "description": "<p>シェムハジアンの顎による〈ストライク〉がクリーチャーにダメージを与えた場合、対象は24時間の間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 3}となる。対象は@Check[fortitude|dc:37|options:inflicts:enfeebled]セーヴを試みて、これを@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}に軽減できる(大成功した場合は影響を受けない)。</p>"
+          "description": "<p>シェムハジアンの顎による〈ストライク〉がクリーチャーにダメージを与えた場合、対象は24時間の間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 3}となる。対象は@Check[fortitude|dc:37|options:inflicts:enfeebled]セーヴを行って、これを@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}に軽減できる(大成功した場合は影響を受けない)。</p>"
         },
         "aqwHyoUR6cj9y6s8": {
           "name": "フォーカスト・ゲイズ/Focused Gaze",
@@ -1359,7 +1359,7 @@
         },
         "3Fn7wuVzeuI4kT5H": {
           "name": "インペイリング・チャージ/Impaling Charge",
-          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を試みる。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
+          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
         },
         "VPryni3E3RGw5MdV": {
           "name": "ポイズン・ブレス/Poison Breath",
@@ -1748,7 +1748,7 @@
         },
         "3Fn7wuVzeuI4kT5H": {
           "name": "インペイリング・チャージ",
-          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を試みる。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
+          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
         },
         "VPryni3E3RGw5MdV": {
           "name": "ポイズン・ブレス",
@@ -2081,7 +2081,7 @@
         },
         "3Fn7wuVzeuI4kT5H": {
           "name": "インペイリング・チャージ",
-          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を試みる。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
+          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
         },
         "VPryni3E3RGw5MdV": {
           "name": "ポイズン・ブレス",
@@ -3683,7 +3683,7 @@
         },
         "tDvcon2bK9xEGh90": {
           "name": "デッドリー・スロウ/Deadly Throw",
-          "description": "<p><strong>必要条件</strong>ガスララスがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}している。</p>\n<hr />\n<p><strong>効果</strong>ガスララスはそのクリーチャーを空中に放り投げ、高さ100フィート、距離50フィートまで飛ばす。放り投げられたクリーチャーが別のクリーチャーの上に落下した場合、その落下先のクリーチャーは同量の殴打ダメージを受ける。</p>\n<p>落下先のクリーチャーは@Check[reflex|dc:41|basic]セーヴを試みることができる。</p>"
+          "description": "<p><strong>必要条件</strong>ガスララスがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}している。</p>\n<hr />\n<p><strong>効果</strong>ガスララスはそのクリーチャーを空中に放り投げ、高さ100フィート、距離50フィートまで飛ばす。放り投げられたクリーチャーが別のクリーチャーの上に落下した場合、その落下先のクリーチャーは同量の殴打ダメージを受ける。</p>\n<p>落下先のクリーチャーは@Check[reflex|dc:41|basic]セーヴを行うことができる。</p>"
         },
         "v8RLawIxRUNc3rnR": {
           "name": "パワフル・ブロウズ/Powerful Blows",
@@ -3722,7 +3722,7 @@
         },
         "nPZlZs1rfnERketf": {
           "name": "アンダイイング・ヴェンデッタ/Undying Vendetta",
-          "description": "<p>レヴナントを殺した者が死亡した場合、レヴナントは即座に滅びる。自分を殺した者を感知できないレヴナントは、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態および@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になるのを避けるため、24時間ごとに@Check[flat|dc:11]判定を試みなければならない。自分を殺した者を感知できるようになれば、レヴナントは即座に再び立ち上がる。アンデッドとなった殺害者は、最終的に滅ぼされるまでレヴナントの滅びのトリガーとはならない。レヴナントは自分を殺した者に対する判定とDCに+2のステータス・ボーナスを得る。</p>"
+          "description": "<p>レヴナントを殺した者が死亡した場合、レヴナントは即座に滅びる。自分を殺した者を感知できないレヴナントは、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態および@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になるのを避けるため、24時間ごとに@Check[flat|dc:11]判定を行わなければならない。自分を殺した者を感知できるようになれば、レヴナントは即座に再び立ち上がる。アンデッドとなった殺害者は、最終的に滅ぼされるまでレヴナントの滅びのトリガーとはならない。レヴナントは自分を殺した者に対する判定とDCに+2のステータス・ボーナスを得る。</p>"
         },
         "BsWqKRfyrcDU8ksf": {
           "name": "ヴォイド・ヒーリング"
@@ -4819,7 +4819,7 @@
         },
         "m4v6mQ47uFgY7Am8": {
           "name": "コイルズ・オブ・ナレッジ/Coils of Knowledge",
-          "description": "<p>ナーガの拘束は物理的なものというより霊的なものである。スマラナヴァの尾で攻撃を受けたクリーチャーは、@Check[will|dc:25]セーヴィング・スローに成功しなければ、その尾によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となる。この状態は、そのクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するか、ナーガが〈扱う〉アクションで解放するか、ナーガが死亡するまで続く。</p>\n<p>捕らえられたクリーチャーは〈エスケープ〉に–4の状況ペナルティを受けるが、通常の選択肢の代わりに《神秘学》または《宗教》の判定を行って〈エスケープ〉を試みることを選択できる。その場合、このペナルティは受けない。</p>"
+          "description": "<p>ナーガの拘束は物理的なものというより霊的なものである。スマラナヴァの尾で攻撃を受けたクリーチャーは、@Check[will|dc:25]セーヴィング・スローに成功しなければ、その尾によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となる。この状態は、そのクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するか、ナーガが〈扱う〉アクションで解放するか、ナーガが死亡するまで続く。</p>\n<p>捕らえられたクリーチャーは〈エスケープ〉に–4の状況ペナルティを受けるが、通常の選択肢の代わりに《神秘学》または《宗教》の判定を行って〈エスケープ〉を行うことを選択できる。その場合、このペナルティは受けない。</p>"
         },
         "J96Da1WLPtixjqAJ": {
           "name": "絞め付け",
@@ -5256,7 +5256,7 @@
         },
         "3Fn7wuVzeuI4kT5H": {
           "name": "インペイリング・チャージ",
-          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていないこと。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を試みる。ヒットした場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだままにしておくために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んだクリーチャーを一緒に連れて行く。</p>"
+          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていないこと。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。ヒットした場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだままにしておくために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んだクリーチャーを一緒に連れて行く。</p>"
         },
         "VPryni3E3RGw5MdV": {
           "name": "ポイズン・ブレス",
@@ -7632,7 +7632,7 @@
         },
         "3Fn7wuVzeuI4kT5H": {
           "name": "インペイリング・チャージ",
-          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが突き刺さっていない</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を試みる。命中した場合、対象はドラゴンの角に突き刺さった状態となる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、突き刺したクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動すれば、彼らは掴んだクリーチャーを一緒に連れて行く。</p>"
+          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが突き刺さっていない</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。命中した場合、対象はドラゴンの角に突き刺さった状態となる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、突き刺したクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動すれば、彼らは掴んだクリーチャーを一緒に連れて行く。</p>"
         },
         "VPryni3E3RGw5MdV": {
           "name": "ポイズン・ブレス",
@@ -7765,7 +7765,7 @@
         },
         "fRkzUI9I50wuPJvX": {
           "name": "這い回り攻撃/Skittering Assault",
-          "description": "<p>ゴギテスは3回ストライドを行う。各〈ストライド〉につき1回、その〈ストライド〉中の任意の時点で、リーチ内のクリーチャーに対して脚による〈ストライク〉を試みることができる。各攻撃は異なるクリーチャーに対して行わなければならないが、すべてのストライクを終えるまでマルチアタック・ペナルティは適用されない。いずれかのストライクが大失敗に終わった場合、スキタリング・アサルトは終了する。</p>"
+          "description": "<p>ゴギテスは3回ストライドを行う。各〈ストライド〉につき1回、その〈ストライド〉中の任意の時点で、リーチ内のクリーチャーに対して脚による〈ストライク〉を行うことができる。各攻撃は異なるクリーチャーに対して行わなければならないが、すべてのストライクを終えるまでマルチアタック・ペナルティは適用されない。いずれかのストライクが大失敗に終わった場合、スキタリング・アサルトは終了する。</p>"
         },
         "zK2aR7Xwx6ctIIxv": {
           "name": "インプルーヴド・グラブ"
@@ -7844,7 +7844,7 @@
         },
         "Nl0sqXtr54YzMawN": {
           "name": "コンシューム・デス/Consume Death",
-          "description": "<p>ヴロライカイは、30フィート以内で視認できる単一の対象に、死を盗む眼差しを集中させる。対象は直ちに、死を盗む眼差しに対する頑健セーヴを行わなければならない。</p>\n<hr />\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは死を盗む眼差しによる影響を受け、@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}となる。もしそのクリーチャーがセーヴを試みる前にすでに死を盗む眼差しによって消耗状態1になっていた場合、セーヴに失敗すると消耗状態の値が1増加し、最大で@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 4}になる。ヴロライカイは10一時的ヒット・ポイントを得て、消耗状態になったクリーチャーはヴロライカイの次のターンの開始時まで一時的な免疫となる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、そのクリーチャーの消耗状態の値は2増加する。</p>"
+          "description": "<p>ヴロライカイは、30フィート以内で視認できる単一の対象に、死を盗む眼差しを集中させる。対象は直ちに、死を盗む眼差しに対する頑健セーヴを行わなければならない。</p>\n<hr />\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは死を盗む眼差しによる影響を受け、@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}となる。もしそのクリーチャーがセーヴを行う前にすでに死を盗む眼差しによって消耗状態1になっていた場合、セーヴに失敗すると消耗状態の値が1増加し、最大で@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 4}になる。ヴロライカイは10一時的ヒット・ポイントを得て、消耗状態になったクリーチャーはヴロライカイの次のターンの開始時まで一時的な免疫となる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、そのクリーチャーの消耗状態の値は2増加する。</p>"
         },
         "ej0lyLnZuPKMNMnI": {
           "name": "フォーカスト・フレイムズ/Focused Flames",
@@ -9084,7 +9084,7 @@
         },
         "y5dVpyMy5aFYReOk": {
           "name": "エンブレイス・オブ・アイアン/Embrace of Iron",
-          "description": "<p><strong>必要条件</strong>クリーチャーがアイアン・ハグの爪によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態か@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態であること</p>\n<hr />\n<p><strong>効果</strong>ハグの爪が捕らえた犠牲者を切り裂き、@Damage[2d8[piercing]|traits:cold-iron]ダメージを与える(この爪は冷たい鉄である)。その後、ハグはそのクリーチャーに対して@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}を試みることができる。もしそのクリーチャーがハグに隣接しているなら、ハグは続けてそれに対して顎による〈ストライク〉を試みることができる。</p>"
+          "description": "<p><strong>必要条件</strong>クリーチャーがアイアン・ハグの爪によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態か@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態であること</p>\n<hr />\n<p><strong>効果</strong>ハグの爪が捕らえた犠牲者を切り裂き、@Damage[2d8[piercing]|traits:cold-iron]ダメージを与える(この爪は冷たい鉄である)。その後、ハグはそのクリーチャーに対して@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}を試みることができる。もしそのクリーチャーがハグに隣接しているなら、ハグは続けてそれに対して顎による〈ストライク〉を行うことができる。</p>"
         },
         "3ps9jwhU6IKTI1lp": {
           "name": "掴み"
@@ -9749,7 +9749,7 @@
         },
         "JChdzk7WZ7KUXqF7": {
           "name": "カルシフィケーション/Calcification",
-          "description": "<p>コカトリスの嘴によるつつきは、攻撃されたクリーチャーの肉体を硬化させる。対象は@Check[fortitude|dc:20|inflicts:slowed,inflicts:petrified]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 2}状態)になる。石化に対するセーヴに失敗し続けると、スロウ状態が進行する。石化によってクリーチャーのアクションが0に減少すると、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{石化}状態になる。クリーチャーが石化していない場合、石化に対するセーヴに失敗することなく1分が経過すれば、スロウ状態は終了する。</p>\n<p>石化してから24時間が経過するごとに、犠牲者は回復するために@Check[fortitude|dc:20]セーヴを試みることができる。成功すれば肉体に戻るが、次の24時間の間はスロウ1状態となる。大成功すれば、クリーチャーは回復し、スロウ状態にはならない。失敗すれば、クリーチャーは石化したままだが、24時間後に再び試みることができる。大失敗すれば、石化は永続的なものとなり、クリーチャーはそれ以上セーヴを試みることはできない。</p>"
+          "description": "<p>コカトリスの嘴によるつつきは、攻撃されたクリーチャーの肉体を硬化させる。対象は@Check[fortitude|dc:20|inflicts:slowed,inflicts:petrified]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 2}状態)になる。石化に対するセーヴに失敗し続けると、スロウ状態が進行する。石化によってクリーチャーのアクションが0に減少すると、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{石化}状態になる。クリーチャーが石化していない場合、石化に対するセーヴに失敗することなく1分が経過すれば、スロウ状態は終了する。</p>\n<p>石化してから24時間が経過するごとに、犠牲者は回復するために@Check[fortitude|dc:20]セーヴを行うことができる。成功すれば肉体に戻るが、次の24時間の間はスロウ1状態となる。大成功すれば、クリーチャーは回復し、スロウ状態にはならない。失敗すれば、クリーチャーは石化したままだが、24時間後に再び試みることができる。大失敗すれば、石化は永続的なものとなり、クリーチャーはそれ以上セーヴを行うことはできない。</p>"
         }
       },
       "name": "コカトリス/Cockatrice",
@@ -10160,7 +10160,7 @@
         },
         "jbjsVEFvVsslwVHa": {
           "name": "テイル・ラッシュ/Tail Lash",
-          "description": "<p><strong>トリガー</strong>川のドレイクのリーチ内にいるクリーチャーが、アクションを使用して〈ストライク〉を行うか、スキル判定を試みる。</p>\n<hr />\n<p><strong>効果</strong>川のドレイクは、その尾を使ってトリガーとなったクリーチャーに〈ストライク〉を試みる。命中した場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: Tail Lash}</p>"
+          "description": "<p><strong>トリガー</strong>川のドレイクのリーチ内にいるクリーチャーが、アクションを使用して〈ストライク〉を行うか、スキル判定を行う。</p>\n<hr />\n<p><strong>効果</strong>川のドレイクは、その尾を使ってトリガーとなったクリーチャーに〈ストライク〉を行う。命中した場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: Tail Lash}</p>"
         },
         "xheziaVMnj1iAjP5": {
           "name": "コースティック・ミューカス/Caustic Mucus",
@@ -11187,7 +11187,7 @@
         },
         "F0RaqdAbEfogkX2c": {
           "name": "ファン・ボルト/Fan Bolt",
-          "description": "<p>ハンターは注意深く編み込まれた海藻で鉤付きクロスボウ・ボルトを準備する。</p>\n<p>クロスボウによる〈ストライク〉が成功すると、ボルトが突き刺さり、海藻の扇が展開する。対象は自身の水泳移動速度に–10フィートの状況ペナルティを受ける。クリーチャーは〈扱う〉を行って@Check[athletics|dc:18]判定を試みることができ、成功すればボルトを取り除ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.seWuw1GMSm3kzCWV]{効果: Fan Bolt}</p>"
+          "description": "<p>ハンターは注意深く編み込まれた海藻で鉤付きクロスボウ・ボルトを準備する。</p>\n<p>クロスボウによる〈ストライク〉が成功すると、ボルトが突き刺さり、海藻の扇が展開する。対象は自身の水泳移動速度に–10フィートの状況ペナルティを受ける。クリーチャーは〈扱う〉を行って@Check[athletics|dc:18]判定を行うことができ、成功すればボルトを取り除ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.seWuw1GMSm3kzCWV]{効果: Fan Bolt}</p>"
         },
         "eBzYlEBFycddJLAk": {
           "name": "ハント・プレイ",
@@ -12686,7 +12686,7 @@
         },
         "UKfFDeN7IDKW1okj": {
           "name": "ダンサーズ・カース/Dancer's Curse",
-          "description": "<p>カリグニのダンサーは敵1体に接触し、呪いをかける。</p>\n<p>対象が@Check[will|dc:18]セーヴに失敗した場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}状態と@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態になる。</p>\n<p>対象はその後、24時間の間、この呪いに対して一時的な免疫となる。</p>\n<p>これらの状態は呪いが解除されるまで持続する。犠牲者は呪いを終了させるために、1時間に1回、新たな@Check[will|dc:18]セーヴを試みることができる。</p>"
+          "description": "<p>カリグニのダンサーは敵1体に接触し、呪いをかける。</p>\n<p>対象が@Check[will|dc:18]セーヴに失敗した場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}状態と@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態になる。</p>\n<p>対象はその後、24時間の間、この呪いに対して一時的な免疫となる。</p>\n<p>これらの状態は呪いが解除されるまで持続する。犠牲者は呪いを終了させるために、1時間に1回、新たな@Check[will|dc:18]セーヴを行うことができる。</p>"
         },
         "23duj3dLvK5Gn9tK": {
           "name": "スニーク・アタック",
@@ -13550,7 +13550,7 @@
         },
         "ZDJkjnIor7qxsiSU": {
           "name": "首絞め/Strangle",
-          "description": "<p><strong>必要条件</strong>デロは両手が空いているか、スパイクド・チェインを装備していなければならない</p>\n<hr />\n<p><strong>効果</strong>デロは+2の状況ボーナスを得て、@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を行うための《運動》判定を試みる。成功した場合、対象はさらに@Damage[(1d6+6)[bludgeoning]]ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態である限り、(〈呪文の発動〉を含め)話すことができない。</p>"
+          "description": "<p><strong>必要条件</strong>デロは両手が空いているか、スパイクド・チェインを装備していなければならない</p>\n<hr />\n<p><strong>効果</strong>デロは+2の状況ボーナスを得て、@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を行うための《運動》判定を行う。成功した場合、対象はさらに@Damage[(1d6+6)[bludgeoning]]ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態である限り、(〈呪文の発動〉を含め)話すことができない。</p>"
         }
       },
       "name": "デロ・ストラングラー/Dero Strangler",
@@ -14418,7 +14418,7 @@
         },
         "3Fn7wuVzeuI4kT5H": {
           "name": "インペイリング・チャージ",
-          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を試みる。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
+          "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
         },
         "VPryni3E3RGw5MdV": {
           "name": "ポイズン・ブレス",
