@@ -59,7 +59,7 @@
     },
     "Stupefied": {
       "name": "混濁/Stupefied",
-      "description": "<p>思考や本能がぼんやりする。混濁は常に数値を含む。この数値と同じ値の状態ペナルティを、知力・判断力および魅力に基づく判定やDC（例：意志へのセーヴ、呪文攻撃修正値、呪文DC、これらの能力修正を使うスキル判定）に受ける。スタペファイド状態で@UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{〈呪文の発動〉}を試みるたびに、呪文は妨害される。だが@Check[flat|showDC:all|dc:resolve(5+@item.badge.value)]に成功し、難易度が5 + あなたのスタペファイド値である場合は妨害されない。</p>"
+      "description": "<p>思考や本能がぼんやりする。混濁は常に数値を含む。この数値と同じ値の状態ペナルティを、知力・判断力および魅力に基づく判定やDC（例：意志へのセーヴ、呪文攻撃修正値、呪文DC、これらの能力修正を使うスキル判定）に受ける。スタペファイド状態で@UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{〈呪文の発動〉}を行うたびに、呪文は妨害される。だが@Check[flat|showDC:all|dc:resolve(5+@item.badge.value)]に成功し、難易度が5 + あなたのスタペファイド値である場合は妨害されない。</p>"
     },
     "Immobilized": {
       "name": "移動不能/Immobilized",
@@ -99,7 +99,7 @@
     },
     "Grabbed": {
       "name": "掴まれている/Grabbed",
-      "description": "<p>他の生物に押さえつけられている状態で、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備} と @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能} の状態を受ける。掴まれている間に手作業アクションを試みる場合、@Check[flat|showDC:all|dc:5] に成功しなければその手作業は失われる；アクションを消費した後、効果が適用される前にその判定を行う。</p>"
+      "description": "<p>他の生物に押さえつけられている状態で、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備} と @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能} の状態を受ける。掴まれている間に手作業アクションを行う場合、@Check[flat|showDC:all|dc:5] に成功しなければその手作業は失われる；アクションを消費した後、効果が適用される前にその判定を行う。</p>"
     },
     "Persistent Damage": {
       "name": "継続ダメージ/Persistent Damage",

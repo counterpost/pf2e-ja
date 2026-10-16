@@ -379,7 +379,7 @@
         },
         "Ita7hOSbzKOHxexv": {
           "name": "ドレンチ/Drench",
-          "description": "<p>このエレメンタルは@Template[emanation|distance:5]内のすべての火を消し去る。</p>\n<p>非魔法的な火はすべて自動的に消し去り、魔法的な火に対しては打ち消しを試みる([[/r 1d20+14 #Drench]]{+14}打ち消し修正)。</p>"
+          "description": "<p>このエレメンタルは@Template[emanation|distance:5]内のすべての火を消し去る。</p>\n<p>非魔法的な火はすべて自動的に消し去り、魔法的な火に対しては打ち消しを行う([[/r 1d20+14 #Drench]]{+14}打ち消し修正)。</p>"
         },
         "kZqLmEhJGdtImTFg": {
           "name": "プッシュ・オア・プル(5フィート)/Push or Pull 5 feet",
@@ -1015,7 +1015,7 @@
         },
         "4TtLSpRhmqV1Dvp1": {
           "name": "テイル・ウィップ/Tail Whip",
-          "description": "<p><strong>トリガー</strong>シェムハジアンのリーチ内にいるクリーチャーが、移動アクションを使用中にマスから離れる</p>\n<hr />\n<p><strong>効果</strong>シェムハジアンは[[/act trip]]トリガーとなったクリーチャーを試みる。成功した場合、そのクリーチャーはシェムハジアンが尾による〈ストライク〉を命中させたかのようにダメージを受けるし、もしそのクリーチャーが飛行していたならば、30フィート落下する。</p>"
+          "description": "<p><strong>トリガー</strong>シェムハジアンのリーチ内にいるクリーチャーが、移動アクションを使用中にマスから離れる</p>\n<hr />\n<p><strong>効果</strong>シェムハジアンは[[/act trip]]トリガーとなったクリーチャーを行う。成功した場合、そのクリーチャーはシェムハジアンが尾による〈ストライク〉を命中させたかのようにダメージを受けるし、もしそのクリーチャーが飛行していたならば、30フィート落下する。</p>"
         },
         "AsXbDxRSKFmiQ6jb": {
           "name": "エンフィーブリング・バイト/Enfeebling Bite",
@@ -1137,7 +1137,7 @@
         },
         "wP5r73zRcdD0VFws": {
           "name": "スライディング・アース/Sliding Earth",
-          "description": "<p>リビング・ランドスライドは通常の移動速度の最大2倍まで直線的にストライドし、その後、リーチ内のクリーチャー1体に対して@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を試みる。この〈足払い〉によってクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になった場合、リビング・ランドスライドが移動した距離10フィートごとに、そのクリーチャーは@Damage[1d4[bludgeoning]]ダメージを受ける。</p>"
+          "description": "<p>リビング・ランドスライドは通常の移動速度の最大2倍まで直線的にストライドし、その後、リーチ内のクリーチャー1体に対して@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を行う。この〈足払い〉によってクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になった場合、リビング・ランドスライドが移動した距離10フィートごとに、そのクリーチャーは@Damage[1d4[bludgeoning]]ダメージを受ける。</p>"
         }
       },
       "name": "リヴィング・ランドスライド/Living Landslide",
@@ -2421,7 +2421,7 @@
         },
         "e8BUlHLevzRJnHEc": {
           "name": "ブッシュワック/Bushwhack",
-          "description": "<p>バグベア・プラウラーは最大10フィートまで移動し、自身が@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}であるクリーチャーに対して@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を試みる。成功した場合、彼らはそのクリーチャーに拳によるダメージも与える。</p>"
+          "description": "<p>バグベア・プラウラーは最大10フィートまで移動し、自身が@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}であるクリーチャーに対して@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を行う。成功した場合、彼らはそのクリーチャーに拳によるダメージも与える。</p>"
         },
         "naotn6A029XPnJc1": {
           "name": "モーラー",
@@ -2513,7 +2513,7 @@
         },
         "p4OxahbPULEyOO31": {
           "name": "ドロー・イン/Draw In",
-          "description": "<p>ドランドラムズ・ヒープは、自身が@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態にしている最大3体までのクリーチャーに対して、@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}を試みる。これらの試みは、そのヒープのマルチアタック・ペナルティを適用せず、またそれに向けてカウントもしない。</p>\n<p>それはそれらを自身のスペースへ移動させることができ、@Damage[(1d12+10)[bludgeoning]]のダメージを与える。</p>"
+          "description": "<p>ドランドラムズ・ヒープは、自身が@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態にしている最大3体までのクリーチャーに対して、@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}を行う。これらの試みは、そのヒープのマルチアタック・ペナルティを適用せず、またそれに向けてカウントもしない。</p>\n<p>それはそれらを自身のスペースへ移動させることができ、@Damage[(1d12+10)[bludgeoning]]のダメージを与える。</p>"
         },
         "6CyMoYmnHC2gmehW": {
           "name": "掴み"
@@ -7126,7 +7126,7 @@
         },
         "dyWftDFNWQBORQLX": {
           "name": "アブソーブ・ウェポン/Absorb Weapon",
-          "description": "<p><strong>トリガー</strong>クリーチャーが近接武器でオモックスにヒットを与えた</p>\n<hr />\n<p><strong>効果</strong>オモックスはそのクリーチャーに対して[[/act disarm]]を試みる。クリティカル・サクセスとなった場合、その武器は地面に落ちるのではなく、オモックスの体内に吸収される。その武器を取り戻すには、オモックスからディスアームを行わなければならない。</p>"
+          "description": "<p><strong>トリガー</strong>クリーチャーが近接武器でオモックスにヒットを与えた</p>\n<hr />\n<p><strong>効果</strong>オモックスはそのクリーチャーに対して[[/act disarm]]を行う。クリティカル・サクセスとなった場合、その武器は地面に落ちるのではなく、オモックスの体内に吸収される。その武器を取り戻すには、オモックスからディスアームを行わなければならない。</p>"
         },
         "AEz7KLpjP8KnKGjx": {
           "name": "リキッド・リープ/Liquid Leap",
@@ -8951,7 +8951,7 @@
         },
         "Wsl0Qe07OtlNGmr0": {
           "name": "サブサービエンス/Subservience",
-          "description": "<p>オートは自らの意志をほとんど持たないが、他のデヴィルは彼らを指揮することができる。非オートのデヴィルは、1回のアクションで、自身から60フィート以内にいるすべてのオートに命令を下すことができる。このアクションは聴覚および精神集中トレイトを持つ。デヴィルはオートが理解できる以下の命令のうち1つを選択し、オートはその命令に従う。この命令とその効果は、指揮者がオートの視界から外れたとき、同じまたは別のデヴィルによって新しい命令が下されたとき、あるいはオートが死亡したときに終了する。</p>\n<ul>\n<li><strong>攻撃</strong>オートは指揮者が指定した1体の対象を攻撃し、その対象に対する攻撃ロールに+1の状況ボーナスを得る。</li>\n<li><strong>〈防御態勢〉</strong>オートは指揮者の周囲を旋回し、近づいてくるあらゆるクリーチャーを攻撃する。オートは ACとセーヴに+1の状況ボーナスを得る。</li>\n<li><strong>回収</strong>オートは自身の移動速度に+10フィートの状況ボーナスを得て、指揮者が指定した物体や人物の確保を試みる。オートは邪魔をするあらゆる者や物を攻撃する。</li>\n<li><strong>作業</strong>オートは指揮者に命じられた雑用を行う。\n\n</li>\n</ul>"
+          "description": "<p>オートは自らの意志をほとんど持たないが、他のデヴィルは彼らを指揮することができる。非オートのデヴィルは、1回のアクションで、自身から60フィート以内にいるすべてのオートに命令を下すことができる。このアクションは聴覚および精神集中トレイトを持つ。デヴィルはオートが理解できる以下の命令のうち1つを選択し、オートはその命令に従う。この命令とその効果は、指揮者がオートの視界から外れたとき、同じまたは別のデヴィルによって新しい命令が下されたとき、あるいはオートが死亡したときに終了する。</p>\n<ul>\n<li><strong>攻撃</strong>オートは指揮者が指定した1体の対象を攻撃し、その対象に対する攻撃ロールに+1の状況ボーナスを得る。</li>\n<li><strong>〈防御態勢〉</strong>オートは指揮者の周囲を旋回し、近づいてくるあらゆるクリーチャーを攻撃する。オートは ACとセーヴに+1の状況ボーナスを得る。</li>\n<li><strong>回収</strong>オートは自身の移動速度に+10フィートの状況ボーナスを得て、指揮者が指定した物体や人物の確保を行う。オートは邪魔をするあらゆる者や物を攻撃する。</li>\n<li><strong>作業</strong>オートは指揮者に命じられた雑用を行う。\n\n</li>\n</ul>"
         }
       },
       "name": "オート/Ort",
@@ -11792,7 +11792,7 @@
         },
         "tEPc3Xc3Pufff6D5": {
           "name": "ドレンチ",
-          "description": "<p>このエレメンタルは@Template[emanation|distance:20]内のすべての火を消し止める。</p>\n<p>これは非魔法的な火をすべて自動的に消し止め、魔法的な火に対しては打ち消しを試みる([[/r 1d20+20 #Drench]]{+20}の打ち消し修正値)。</p>"
+          "description": "<p>このエレメンタルは@Template[emanation|distance:20]内のすべての火を消し止める。</p>\n<p>これは非魔法的な火をすべて自動的に消し止め、魔法的な火に対しては打ち消しを行う([[/r 1d20+20 #Drench]]{+20}の打ち消し修正値)。</p>"
         },
         "AiKIcXFJx9lEEfnt": {
           "name": "サージ/Surge",
@@ -12576,7 +12576,7 @@
         },
         "dlkO5pQLIr9rvEo8": {
           "name": "ブラッディ・ダンス/Bloody Dance",
-          "description": "<p>セラプティスは最大4本の腕を使って〈ストライク〉を行い、それぞれ異なる対象に対して、状況に応じて爪またはシミターを使用する。これらの攻撃はセラプティスのマルチアタック・ペナルティに数えられるが、マルチアタック・ペナルティはすべての攻撃が終わるまで増加しない。セラプティスはこのアクティビティに続いて掴みを使用でき、爪で命中した各クリーチャーに対して個別に@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を試みることができる。</p>"
+          "description": "<p>セラプティスは最大4本の腕を使って〈ストライク〉を行い、それぞれ異なる対象に対して、状況に応じて爪またはシミターを使用する。これらの攻撃はセラプティスのマルチアタック・ペナルティに数えられるが、マルチアタック・ペナルティはすべての攻撃が終わるまで増加しない。セラプティスはこのアクティビティに続いて掴みを使用でき、爪で命中した各クリーチャーに対して個別に@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を行うことができる。</p>"
         },
         "xCd9cQPlMk6mi388": {
           "name": "ノーイング・アームズ/Gnawing Arms",
@@ -13519,7 +13519,7 @@
         },
         "1a3FizXwR28wkECc": {
           "name": "ラヴェナス・ヤング/Ravenous Young",
-          "description": "<p>ボグウィッドから射出された幼生は対象に取り付き、捕食を開始する。幼生が取り付けられると、対象は@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}状態となる。幼生が取り付けられている間、対象は持続ダメージから回復できない。幼生を取り除くため、対象は[[/act escape dc=21]]を試みることができる。加えて、対象に与えられた範囲ダメージは、取り付けられているすべての幼生を破壊する。</p>\n<hr />\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.WzvOyycUlTsCXt3M]{効果: Ravenous Young}</p>"
+          "description": "<p>ボグウィッドから射出された幼生は対象に取り付き、捕食を開始する。幼生が取り付けられると、対象は@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}状態となる。幼生が取り付けられている間、対象は持続ダメージから回復できない。幼生を取り除くため、対象は[[/act escape dc=21]]を行うことができる。加えて、対象に与えられた範囲ダメージは、取り付けられているすべての幼生を破壊する。</p>\n<hr />\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.WzvOyycUlTsCXt3M]{効果: Ravenous Young}</p>"
         }
       },
       "name": "ボグウィド/Bogwid",
@@ -13996,7 +13996,7 @@
         },
         "Y2EMKk7GwfhPvWS0": {
           "name": "エレクトリファイイング・ピアース/Electrifying Pierce",
-          "description": "<p><strong>必要条件</strong>そのアイランド・オニの最後のアクションが、中型以下の対象に対するロングスピアでの〈ストライク〉であったこと。</p>\n<hr />\n<p><strong>効果</strong>そのアイランド・オニは対象をスピアで突き刺し、スピアに雷を落とすよう呼びかける。対象は@Damage[6d6[electricity]]のダメージを受け、@Check[fortitude|dc:37|basic]セーヴを行わなければならない。失敗した場合、そのクリーチャーはスピアに串刺しにされる。そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり、オニが移動すれば、掴んでいるクリーチャーも一緒に連れて行く。</p>\n<p>そのアイランド・オニは、そのクリーチャーを掴み続けるために追加のアクションを使用する必要はない。クリーチャーは串刺しにされている限り、掴まれた状態のままとなる。掴まれたクリーチャーは通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる。そのアイランド・オニは、一度に1体のクリーチャーしかこの方法で串刺しにできない。</p>"
+          "description": "<p><strong>必要条件</strong>そのアイランド・オニの最後のアクションが、中型以下の対象に対するロングスピアでの〈ストライク〉であったこと。</p>\n<hr />\n<p><strong>効果</strong>そのアイランド・オニは対象をスピアで突き刺し、スピアに雷を落とすよう呼びかける。対象は@Damage[6d6[electricity]]のダメージを受け、@Check[fortitude|dc:37|basic]セーヴを行わなければならない。失敗した場合、そのクリーチャーはスピアに串刺しにされる。そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり、オニが移動すれば、掴んでいるクリーチャーも一緒に連れて行く。</p>\n<p>そのアイランド・オニは、そのクリーチャーを掴み続けるために追加のアクションを使用する必要はない。クリーチャーは串刺しにされている限り、掴まれた状態のままとなる。掴まれたクリーチャーは通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行うことができる。そのアイランド・オニは、一度に1体のクリーチャーしかこの方法で串刺しにできない。</p>"
         },
         "TFFWvw8pxkUHYXm4": {
           "name": "スワロウ・ホール",
@@ -14972,7 +14972,7 @@
         },
         "UVwLwFSrhe9YIUEC": {
           "name": "タイトン・コイルズ/Tighten Coils",
-          "description": "<p><strong>トリガー</strong>ジャイアント・アナコンダによって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態にされているクリーチャーが、@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みる。</p>\n<hr />\n<p><strong>効果</strong>その〈エスケープ〉の判定のDCは2増加する。</p>"
+          "description": "<p><strong>トリガー</strong>ジャイアント・アナコンダによって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態にされているクリーチャーが、@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行う。</p>\n<hr />\n<p><strong>効果</strong>その〈エスケープ〉の判定のDCは2増加する。</p>"
         },
         "plka6anhQ8CltSBM": {
           "name": "グレーター・コンストリクト",
@@ -15335,7 +15335,7 @@
         },
         "NeJvQpMPGMIfzdCG": {
           "name": "タイトン・コイルズ",
-          "description": "<p><strong>トリガー</strong>パイソンに@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}されているクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みる。</p>\n<hr />\n<p><strong>効果</strong>その〈エスケープ〉判定のDCは2増加する。</p>"
+          "description": "<p><strong>トリガー</strong>パイソンに@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}されているクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行う。</p>\n<hr />\n<p><strong>効果</strong>その〈エスケープ〉判定のDCは2増加する。</p>"
         },
         "aZ0lzdc6SrYbvfX6": {
           "name": "絞め付け",

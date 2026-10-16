@@ -98,7 +98,7 @@
     },
     "Pick a Lock": {
       "name": "解錠/Pick a Lock",
-      "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.equipment-srd.Item.zvLyCVD8g2PdHJAc]{盗賊道具}を手に持っているか、身に着けている。</p><hr /><p>鍵を使わずに錠を開けることは、@UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{装置無力化}と非常によく似ているが、その判定のDCは、あなたが開錠を試みている錠の複雑さと構造によって決定される。より高品質な錠は、開錠するために複数の成功を必要とする場合がある。適切な道具を持っていない場合、GMは即席のピックの使用を許可するかもしれない。それは粗悪品な道具セットとして扱われる。</p><hr /><p><strong>クリティカル成功</strong>あなたは錠を開けるか、1つ以上の成功を必要とする錠に対して2つの成功を達成する。あなたは改ざんの痕跡を一切残さない。</p>\n<p><strong>成功</strong>あなたは錠を開けるか、1つ以上の成功を必要とする錠に対して1つの成功を達成する。あなたは、注意深く調べれば錠が開けられたことが分かるような損傷を残す。</p>\n<p><strong>クリティカル失敗</strong>あなたは道具セットを壊し、明らかな損傷を残す。壊れた道具セットを修理するには、それに対して《製作》を使用して@UUID[Compendium.pf2e.actionspf2e.Item.bT3skovyLUtP22ME]{〈修理〉}を行うか、あるいは@UUID[Compendium.pf2e.equipment-srd.Item.Sw7MBLASN3xK4Y44]{交換用ピック}(3 sp、または@UUID[Compendium.pf2e.equipment-srd.Item.BznmPaRjI4Orb0IH]{潜入用盗賊道具}の場合は3 gp)と交換する必要がある。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.equipment-srd.Item.zvLyCVD8g2PdHJAc]{盗賊道具}を手に持っているか、身に着けている。</p><hr /><p>鍵を使わずに錠を開けることは、@UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{装置無力化}と非常によく似ているが、その判定のDCは、あなたが開錠を行っている錠の複雑さと構造によって決定される。より高品質な錠は、開錠するために複数の成功を必要とする場合がある。適切な道具を持っていない場合、GMは即席のピックの使用を許可するかもしれない。それは粗悪品な道具セットとして扱われる。</p><hr /><p><strong>クリティカル成功</strong>あなたは錠を開けるか、1つ以上の成功を必要とする錠に対して2つの成功を達成する。あなたは改ざんの痕跡を一切残さない。</p>\n<p><strong>成功</strong>あなたは錠を開けるか、1つ以上の成功を必要とする錠に対して1つの成功を達成する。あなたは、注意深く調べれば錠が開けられたことが分かるような損傷を残す。</p>\n<p><strong>クリティカル失敗</strong>あなたは道具セットを壊し、明らかな損傷を残す。壊れた道具セットを修理するには、それに対して《製作》を使用して@UUID[Compendium.pf2e.actionspf2e.Item.bT3skovyLUtP22ME]{〈修理〉}を行うか、あるいは@UUID[Compendium.pf2e.equipment-srd.Item.Sw7MBLASN3xK4Y44]{交換用ピック}(3 sp、または@UUID[Compendium.pf2e.equipment-srd.Item.BznmPaRjI4Orb0IH]{潜入用盗賊道具}の場合は3 gp)と交換する必要がある。</p>",
       "source": "Pathfinder Player Core"
     },
     "High Jump": {
@@ -203,7 +203,7 @@
     },
     "Haunting Visage": {
       "name": "ハーンティング・ヴィサージ/Haunting Visage",
-      "description": "<p><strong>必要条件</strong>あなたのエイドロンが凝縮状態であること。</p><hr /><p>あなたのエイドロンは、その構成体の位置を綿密に制御することで、単純な塊ではなく、自らが選んだ恐ろしい姿へと突然変形する。エイドロンは15フィート以内のクリーチャーに対して[[/act demoralize]]を試みる。この〈怯ませる〉試みは聴覚トレイトを失い、視覚トレイトを得る。また、対象と共通の言語を持っていなくても、エイドロンは判定に–4の状況ペナルティを受けない。成功または大成功の場合、対象はさらに1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>",
+      "description": "<p><strong>必要条件</strong>あなたのエイドロンが凝縮状態であること。</p><hr /><p>あなたのエイドロンは、その構成体の位置を綿密に制御することで、単純な塊ではなく、自らが選んだ恐ろしい姿へと突然変形する。エイドロンは15フィート以内のクリーチャーに対して[[/act demoralize]]を行う。この〈怯ませる〉試みは聴覚トレイトを失い、視覚トレイトを得る。また、対象と共通の言語を持っていなくても、エイドロンは判定に–4の状況ペナルティを受けない。成功または大成功の場合、対象はさらに1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Entity's Resurgence": {
@@ -302,12 +302,12 @@
     },
     "Pop, Drop, and Lock": {
       "name": "ポップ、ドロップ、ロック/Pop, Drop, and Lock",
-      "description": "<p><strong>使用制限</strong> 10分ごとに1回</p><hr /><p>君は分隊員に壊滅的な連携による排除を命じる。君の指揮官のバナーのオーラ内にいる同じ敵を射程内に持つ分隊員を最大3人まで合図する；その分隊員たちは反応としてその相手に対して〔ストライク〕、@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を試みることができる。各分隊員はこの戦術で与えられた特定の1つの行動しか試みられず、アクションの実行順は任意で、同じ具体的アクションはこの戦術の一部として一度しか試みられない。</p>",
+      "description": "<p><strong>使用制限</strong> 10分ごとに1回</p><hr /><p>君は分隊員に壊滅的な連携による排除を命じる。君の指揮官のバナーのオーラ内にいる同じ敵を射程内に持つ分隊員を最大3人まで合図する；その分隊員たちは反応としてその相手に対して〔ストライク〕、@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を行うことができる。各分隊員はこの戦術で与えられた特定の1つの行動しか試みられず、アクションの実行順は任意で、同じ具体的アクションはこの戦術の一部として一度しか試みられない。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Strike Hard!": {
       "name": "ストライク・ハード！/Strike Hard!",
-      "description": "<p>味方に攻撃を命じる。指揮官のバナーのオーラ内にいる分隊員に合図する。その味方は即座に反応として〔ストライク〕を試みる。</p>",
+      "description": "<p>味方に攻撃を命じる。指揮官のバナーのオーラ内にいる分隊員に合図する。その味方は即座に反応として〔ストライク〕を行う。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Mighty Rage": {
@@ -353,7 +353,7 @@
     },
     "Scrappy Defiance": {
       "name": "スクラッピー・ディファイアンス/Scrappy Defiance",
-      "description": "|||<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong> あなたのターンが開始し、あなたがトループを指揮している</p><hr /><p><strong>効果</strong> あなたは従者たちに、あらゆる困難に立ち向かうよう励ます。あなたが指揮するトループは、あなたのレベルの2倍に等しい一時的ヒット・ポイントを得る。これは1分間持続する。ダメージによってあなたのトループのサイズが減少することになる場合、あなたは@Check[flat|dc:16]を試みることができる。成功すれば、その閾値においてあなたのトループのサイズはあなたの次のターン終了時まで減少しない。</p>|||",
+      "description": "|||<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong> あなたのターンが開始し、あなたがトループを指揮している</p><hr /><p><strong>効果</strong> あなたは従者たちに、あらゆる困難に立ち向かうよう励ます。あなたが指揮するトループは、あなたのレベルの2倍に等しい一時的ヒット・ポイントを得る。これは1分間持続する。ダメージによってあなたのトループのサイズが減少することになる場合、あなたは@Check[flat|dc:16]を行うことができる。成功すれば、その閾値においてあなたのトループのサイズはあなたの次のターン終了時まで減少しない。</p>|||",
       "source": "Pathfinder Hell's Destiny Player's Guide"
     },
     "Anadi Venom": {
@@ -518,7 +518,7 @@
     },
     "Invoke Celestial Privilege": {
       "name": "インボーク・セレスティアル・プリビレッジ/Invoke Celestial Privilege",
-      "description": "<p><strong>トリガー</strong> あなたは神聖効果に対してセーヴを試みようとしているが、まだ判定を振っていないとき。</p>\n<hr />\n<p>あなたは発生した効果を超越し、害を受けることを拒否する。あなたは誘発したセーヴと、次のターン開始までの間に神聖効果に対して試みる他のすべてのセーヴィング・スローに+1の状況ボーナスを得る。</p>",
+      "description": "<p><strong>トリガー</strong> あなたは神聖効果に対してセーヴを試みようとしているが、まだ判定を振っていないとき。</p>\n<hr />\n<p>あなたは発生した効果を超越し、害を受けることを拒否する。あなたは誘発したセーヴと、次のターン開始までの間に神聖効果に対して行う他のすべてのセーヴィング・スローに+1の状況ボーナスを得る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Hellbreaker Strike": {
@@ -552,7 +552,7 @@
     },
     "Size Up": {
       "name": "サイズ・アップ/Size Up",
-      "description": "<p>あなたは単一の「非精神なき」クリーチャーをフォーカスとして指定し、その動機を評価する。あなたはそのクリーチャーを見聞きできなければならない。あなたがフォーカスに対して@UUID[Compendium.pf2e.actionspf2e.Sense Motive]{真意看破}を行う際、あなたの《知覚》判定に+2の状況ボーナスを得る。また、フォーカスがあなたに対して@UUID[Compendium.pf2e.actionspf2e.Lie]や@UUID[Compendium.pf2e.actionspf2e.Feint]を試みた場合、あなたの《知覚》DCに+2の状況ボーナスを得る。あなたはフォーカスに対する《欺瞞》、《交渉》、《威圧》判定に+2の状況ボーナスを得る。一度にフォーカスとして指定できるクリーチャーは1体のみである。すでにクリーチャーを指定している状態で別のクリーチャーに対してサイズ Upを使用した場合、前のクリーチャーは指定を失い、新しいフォーカスが指定を得る。指定はそれ以外の場合、次の日課の準備まで持続する。</p>",
+      "description": "<p>あなたは単一の「非精神なき」クリーチャーをフォーカスとして指定し、その動機を評価する。あなたはそのクリーチャーを見聞きできなければならない。あなたがフォーカスに対して@UUID[Compendium.pf2e.actionspf2e.Sense Motive]{真意看破}を行う際、あなたの《知覚》判定に+2の状況ボーナスを得る。また、フォーカスがあなたに対して@UUID[Compendium.pf2e.actionspf2e.Lie]や@UUID[Compendium.pf2e.actionspf2e.Feint]を行った場合、あなたの《知覚》DCに+2の状況ボーナスを得る。あなたはフォーカスに対する《欺瞞》、《交渉》、《威圧》判定に+2の状況ボーナスを得る。一度にフォーカスとして指定できるクリーチャーは1体のみである。すでにクリーチャーを指定している状態で別のクリーチャーに対してサイズ Upを使用した場合、前のクリーチャーは指定を失い、新しいフォーカスが指定を得る。指定はそれ以外の場合、次の日課の準備まで持続する。</p>",
       "selfEffect": "効果: サイズ拡大",
       "source": "Pathfinder Lost Omens Hellfire Dispatches"
     },
@@ -638,12 +638,12 @@
     },
     "A Challenge for Heroes": {
       "name": "ア・チャレンジ・フォー・ヒーローズ/A Challenge for Heroes",
-      "description": "<p>あなたは敵を選び、60フィート以内の敵を英雄の試練に指定する。1分の間、その敵はあなたを対象とする各成功した〔ストライク〕または呪文ごとに追加で10のスピリットダメージを与える。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.pUXV4sks4p9Jc8Wb]{効果: A Challenge for Heroes (Enemy)}</p>\n<p>その敵があなたにスピリットダメージを与えるたび、敵を近接射程にとらえている各味方は、たとえ通常その反応を持たなくても、その敵に対して@UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{〈リアクティブ・ストライク〉}を試みることができる。もしその味方がこの効果による反応的な〔ストライク〕で敵を撃破したなら、その味方は直ちにあなたのレベルと同等の一時的なヒット・ポイントを得る。これらは 1 分間持続する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Fky50BHCHmRTnHas]{効果: A Challenge for Heroes (Ally)}</p>",
+      "description": "<p>あなたは敵を選び、60フィート以内の敵を英雄の試練に指定する。1分の間、その敵はあなたを対象とする各成功した〔ストライク〕または呪文ごとに追加で10のスピリットダメージを与える。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.pUXV4sks4p9Jc8Wb]{効果: A Challenge for Heroes (Enemy)}</p>\n<p>その敵があなたにスピリットダメージを与えるたび、敵を近接射程にとらえている各味方は、たとえ通常その反応を持たなくても、その敵に対して@UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{〈リアクティブ・ストライク〉}を行うことができる。もしその味方がこの効果による反応的な〔ストライク〕で敵を撃破したなら、その味方は直ちにあなたのレベルと同等の一時的なヒット・ポイントを得る。これらは 1 分間持続する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Fky50BHCHmRTnHas]{効果: A Challenge for Heroes (Ally)}</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Double Team": {
       "name": "ダブル・チーム/Double Team",
-      "description": "<p>チームが連携して敵を致命的な一撃に備えさせる。射程内に相手をとらえている仲間一人に合図を送る。その仲間は対象に対して @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉} または @UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉} を フリー・アクション として行える。もしその操作が成功し、対象が移動を終えたときに別の仲間の隣接に止まっていれば、二番目の仲間はその対象に対して反応として近接の〔ストライク〕を試みることができる。</p>",
+      "description": "<p>チームが連携して敵を致命的な一撃に備えさせる。射程内に相手をとらえている仲間一人に合図を送る。その仲間は対象に対して @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉} または @UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉} を フリー・アクション として行える。もしその操作が成功し、対象が移動を終えたときに別の仲間の隣接に止まっていれば、二番目の仲間はその対象に対して反応として近接の〔ストライク〕を行うことができる。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Swim": {
@@ -709,7 +709,7 @@
     },
     "Mirror-Trickery": {
       "name": "ミラー・トリッカリー/Mirror-Trickery",
-      "description": "<p><strong>使用制限</strong> 1日につき1回</p>\n<p><strong>トリガー</strong> あなたがストライクで命中されるところである</p>\n<hr />\n<p><strong>効果</strong> 最後の瞬間に幻の複製を作り、敵をそれに攻撃させようとする。攻撃者は@Check[flat|dc:11]を試みる；失敗した場合、攻撃は複製に命中し、結果をクリティカル成功から成功に、または成功から失敗に変える。</p>",
+      "description": "<p><strong>使用制限</strong> 1日につき1回</p>\n<p><strong>トリガー</strong> あなたがストライクで命中されるところである</p>\n<hr />\n<p><strong>効果</strong> 最後の瞬間に幻の複製を作り、敵をそれに攻撃させようとする。攻撃者は@Check[flat|dc:11]を行う；失敗した場合、攻撃は複製に命中し、結果をクリティカル成功から成功に、または成功から失敗に変える。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Fly": {
@@ -755,7 +755,7 @@
     },
     "The Bigger They Are": {
       "name": "ザ・ビガー・ゼイ・アー/The Bigger They Are",
-      "description": "<p>個々の強さに関係なく、集団としてあなたの部隊には山を動かし巨人を倒す力がある。コマンダーのバナーのオーラ内にいる部隊員に合図を送る。その部隊員は、自身のリーチ内の対象に対して@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を試みることができる。元の部隊員または対象に隣接している他の各部隊員は、リアクションとしてその機動を支援することを試みることができる。</p>\n<p>このように支援する部隊員1人につき、元の部隊員は対象にできるクリーチャーの最大サイズを増加させる(例えば、合計2人の部隊員がこの機動に参加した場合、最初の部隊員は自分より最大2サイズ大きいクリーチャーまでを対象にできる)。元の部隊員は、〈位置をずらす〉、〈押し出す〉、または〈足払い〉を行うための自身の判定に、機動を支援した追加の部隊員の数に等しい状況ボーナスを得る(最大+4)。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.9Kjnwzu3DWs5U7NH]{効果: The Bigger They Are (Commander)}</p>",
+      "description": "<p>個々の強さに関係なく、集団としてあなたの部隊には山を動かし巨人を倒す力がある。コマンダーのバナーのオーラ内にいる部隊員に合図を送る。その部隊員は、自身のリーチ内の対象に対して@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を行うことができる。元の部隊員または対象に隣接している他の各部隊員は、リアクションとしてその機動を支援することを試みることができる。</p>\n<p>このように支援する部隊員1人につき、元の部隊員は対象にできるクリーチャーの最大サイズを増加させる(例えば、合計2人の部隊員がこの機動に参加した場合、最初の部隊員は自分より最大2サイズ大きいクリーチャーまでを対象にできる)。元の部隊員は、〈位置をずらす〉、〈押し出す〉、または〈足払い〉を行うための自身の判定に、機動を支援した追加の部隊員の数に等しい状況ボーナスを得る(最大+4)。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.9Kjnwzu3DWs5U7NH]{効果: The Bigger They Are (Commander)}</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Steel Your Resolve": {
@@ -1059,7 +1059,7 @@
     },
     "Executioner's Volley": {
       "name": "エクセキューショナーズ・ボレー/Executioner's Volley",
-      "description": "<p><strong>使用制限</strong> once per day</p><hr /><p> あなたは部隊に致命的な狙撃隊として行動するよう命じる。あなたと指揮旗のオーラ内にいる各分隊員は、あなたが選んだ単一の目標に対してリアクションで遠隔の〔ストライク〕を試みることができる；抵抗と弱点の判定に関しては全ての攻撃のダメージを合算する。指定対象が生きているクリーチャーである場合、これらの攻撃はデストレイトを得る。指定した対象がこの戦術の結果として死亡した場合、指揮旗の影響範囲内にいる他のすべての敵はあなたのクラスDCに対する@Check[will|against:commander|options:inflicts:frightened|traits:emotion,fear,mental]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になる；これは感情・恐怖・精神効果である。</p><hr /><p><strong>特殊</strong> もし分隊員のうちの一人が射程30フィート以上でダメージを与え、かつ唱えるのに2アクション以下で済むキャントリップを知っているか準備しているなら、その分隊員はこの戦術で通常与えられるアクションの代わりにそれを指定した敵に唱えることができ、その他記載の利点をすべて得る。</p>",
+      "description": "<p><strong>使用制限</strong> once per day</p><hr /><p> あなたは部隊に致命的な狙撃隊として行動するよう命じる。あなたと指揮旗のオーラ内にいる各分隊員は、あなたが選んだ単一の目標に対してリアクションで遠隔の〔ストライク〕を行うことができる；抵抗と弱点の判定に関しては全ての攻撃のダメージを合算する。指定対象が生きているクリーチャーである場合、これらの攻撃はデストレイトを得る。指定した対象がこの戦術の結果として死亡した場合、指揮旗の影響範囲内にいる他のすべての敵はあなたのクラスDCに対する@Check[will|against:commander|options:inflicts:frightened|traits:emotion,fear,mental]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になる；これは感情・恐怖・精神効果である。</p><hr /><p><strong>特殊</strong> もし分隊員のうちの一人が射程30フィート以上でダメージを与え、かつ唱えるのに2アクション以下で済むキャントリップを知っているか準備しているなら、その分隊員はこの戦術で通常与えられるアクションの代わりにそれを指定した敵に唱えることができ、その他記載の利点をすべて得る。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Drape Ambient Magic": {
@@ -1274,7 +1274,7 @@
     },
     "Ready, Aim, Fire!": {
       "name": "レディ、エイム、ファイア！/Ready, Aim, Fire!",
-      "description": "<p><strong>使用制限</strong> once per 10分</p><hr /><p> あなたは味方に遠隔攻撃の一斉射を合図する。敵を1体選び、指揮官のバナーのオーラ内にいる最大3人の部隊仲間に合図する。部隊仲間は〔扱う〕を行ってリロードをフリー・アクションとして行い、反応としてその敵に対して遠隔の〔ストライク〕を試みることができる.</p><hr /><p><strong>特殊</strong> 部隊仲間のうちの誰かが射程が30フィート以上でダメージを与え、かつ詠唱に2以下のアクションしか必要としないキャントリップを知っているか準備している場合、そのキャントリップを対象の敵に詠唱して、この戦術で通常与えられる他のアクションの代わりに使用できる.</p>",
+      "description": "<p><strong>使用制限</strong> once per 10分</p><hr /><p> あなたは味方に遠隔攻撃の一斉射を合図する。敵を1体選び、指揮官のバナーのオーラ内にいる最大3人の部隊仲間に合図する。部隊仲間は〔扱う〕を行ってリロードをフリー・アクションとして行い、反応としてその敵に対して遠隔の〔ストライク〕を行うことができる.</p><hr /><p><strong>特殊</strong> 部隊仲間のうちの誰かが射程が30フィート以上でダメージを与え、かつ詠唱に2以下のアクションしか必要としないキャントリップを知っているか準備している場合、そのキャントリップを対象の敵に詠唱して、この戦術で通常与えられる他のアクションの代わりに使用できる.</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Life Block": {
@@ -1289,7 +1289,7 @@
     },
     "Liberating Step": {
       "name": "リベレイティング・ステップ/Liberating Step",
-      "description": "<p><strong>トリガー</strong> 敵があなたの味方にダメージを与える、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}し、両者があなたのチャンピオンのオーラ内にいるとき</p><hr /><p> あなたは味方を拘束から解放する.</p>\n<p>もしトリガーが味方がダメージを受けたことなら、その味方はトリガーとなったダメージに対して耐性を得る。その量は2 + あなたのレベルである.</p>\n<p>味方は拘束、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}、または@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}の効果から解放される試みをできる。彼らはセーヴを許すその効果に対して新たなセーヴを行うか、あるいはその効果から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みる（これをフリー・アクションとして行う）。</p>\n<p>もし移動可能なら、その味方は逃げる必要がなくてもフリー・アクションとして〔ステップ〕を行える.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{効果: チャンピオン's Resistance}</p>",
+      "description": "<p><strong>トリガー</strong> 敵があなたの味方にダメージを与える、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}し、両者があなたのチャンピオンのオーラ内にいるとき</p><hr /><p> あなたは味方を拘束から解放する.</p>\n<p>もしトリガーが味方がダメージを受けたことなら、その味方はトリガーとなったダメージに対して耐性を得る。その量は2 + あなたのレベルである.</p>\n<p>味方は拘束、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}、または@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}の効果から解放される試みをできる。彼らはセーヴを許すその効果に対して新たなセーヴを行うか、あるいはその効果から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行う（これをフリー・アクションとして行う）。</p>\n<p>もし移動可能なら、その味方は逃げる必要がなくてもフリー・アクションとして〔ステップ〕を行える.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{効果: チャンピオン's Resistance}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Goblin Jubilee": {
@@ -1549,7 +1549,7 @@
     },
     "Recall Under Pressure": {
       "name": "リコール・アンダー・プレッシャー/Recall Under Pressure",
-      "description": "<p><strong>誘発</strong> 戦闘中にあなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を試みるとき</p>\n<p><strong>使用制限</strong> 1日につき1回</p>\n<hr />\n<p><strong>効果</strong> 戦闘中に別のスキルで〔思い出す〕を振る代わりに、記憶は古い本で読んだ何かにフラッシュバックする。この〔思い出す〕判定は代わりにアカデミア《専門知識》判定で行う。思い出した情報が次の自分のターンまでに明らかに役立ちかつ正のエネルギーであった場合、無作為にハロウカードを1枚引く。士気が高まり、戦闘終了までのセーヴに+1のステータスボーナスを得るか、引いたカードがBooksのスートだった場合は+2のステータスボーナスを得る。</p>",
+      "description": "<p><strong>誘発</strong> 戦闘中にあなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行うとき</p>\n<p><strong>使用制限</strong> 1日につき1回</p>\n<hr />\n<p><strong>効果</strong> 戦闘中に別のスキルで〔思い出す〕を振る代わりに、記憶は古い本で読んだ何かにフラッシュバックする。この〔思い出す〕判定は代わりにアカデミア《専門知識》判定で行う。思い出した情報が次の自分のターンまでに明らかに役立ちかつ正のエネルギーであった場合、無作為にハロウカードを1枚引く。士気が高まり、戦闘終了までのセーヴに+1のステータスボーナスを得るか、引いたカードがBooksのスートだった場合は+2のステータスボーナスを得る。</p>",
       "selfEffect": "効果: プレッシャー下での想起",
       "source": "Pathfinder Stolen Fate Player's Guide"
     },
@@ -2597,7 +2597,7 @@
     },
     "Dueling Counter": {
       "name": "デュエリング・カウンター/Dueling Counter",
-      "description": "<p><strong>トリガー</strong>あなたの対戦相手が、あなたの系統フォーカスと同じ系統の呪文を発動した時。</p>\n<p><strong>必要条件</strong>あなたが決闘中であり、系統フォーカスを持っていること。</p>\n<hr />\n<p>準備した呪文または呪文スロットを消費する。その後、あなたは消費した呪文を用いてトリガーとなった呪文に対して打ち消しを試みる。</p>",
+      "description": "<p><strong>トリガー</strong>あなたの対戦相手が、あなたの系統フォーカスと同じ系統の呪文を発動した時。</p>\n<p><strong>必要条件</strong>あなたが決闘中であり、系統フォーカスを持っていること。</p>\n<hr />\n<p>準備した呪文または呪文スロットを消費する。その後、あなたは消費した呪文を用いてトリガーとなった呪文に対して打ち消しを行う。</p>",
       "source": "Pathfinder GM Core"
     },
     "Plummeting Roll": {
@@ -2638,7 +2638,7 @@
     },
     "Anchor": {
       "name": "固定する/Anchor",
-      "description": "<p><strong>必要条件</strong>あなたは固い地面の上にいる。</p>\n<hr />\n<p><strong>効果</strong>あなたは根を地面の中や表面に張り巡らせ、つまずきにくくする。あなたが移動するまで、あなたに対して@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を試みる行為に対する、あなたの頑健または反応 DCに+2の状況ボーナスを得る(あなたがルート・レシーであれば+4の状況ボーナス)。このボーナスは、あなたを移動させたり、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にしようとする呪文や効果に対するセーヴィング・スローにも適用される。効果によって強制的に移動させられる場合、根を引き剥がすために労力の一部が割かれるため、通常の半分の距離しか移動しない。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは固い地面の上にいる。</p>\n<hr />\n<p><strong>効果</strong>あなたは根を地面の中や表面に張り巡らせ、つまずきにくくする。あなたが移動するまで、あなたに対して@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を行う行為に対する、あなたの頑健または反応 DCに+2の状況ボーナスを得る(あなたがルート・レシーであれば+4の状況ボーナス)。このボーナスは、あなたを移動させたり、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にしようとする呪文や効果に対するセーヴィング・スローにも適用される。効果によって強制的に移動させられる場合、根を引き剥がすために労力の一部が割かれるため、通常の半分の距離しか移動しない。</p>",
       "source": "Pathfinder Player Core"
     },
     "Pursue a Lead": {

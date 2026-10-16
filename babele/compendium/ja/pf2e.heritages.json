@@ -116,7 +116,7 @@
     },
     "Sailfish Merfolk": {
       "name": "セイルフィッシュ・マーフォーク/Sailfish Merfolk",
-      "description": "<p>下半身が強力なセイルフィッシュに似ており、大きな背びれを備えている。このひれを使って水中を速く移動し、より遠くに跳べる。泳ぎの移動速度が30フィートになる。@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}または@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を試みるとき、《運動》判定に+1の状況ボーナスを得、跳躍を試みる前にStridingの代わりに〔水泳〕を行える。</p>"
+      "description": "<p>下半身が強力なセイルフィッシュに似ており、大きな背びれを備えている。このひれを使って水中を速く移動し、より遠くに跳べる。泳ぎの移動速度が30フィートになる。@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}または@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を行うとき、《運動》判定に+1の状況ボーナスを得、跳躍を行う前にStridingの代わりに〔水泳〕を行える。</p>"
     },
     "Caveclimber Kobold": {
       "name": "ケイブクライマー・コボルド/Caveclimber Kobold",
@@ -386,7 +386,7 @@
     },
     "Root Leshy": {
       "name": "ルート・レシー/Root Leshy",
-      "description": "<p>あなたの体は、あなたを地面にしっかりと固定する頑丈な根でできている。あなたは祖先から8ではなく10のヒット・ポイントを得る。あなたは飢え始めるまで2週間日光なしで過ごすことができる。あなたは、あなたに対して@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を試みる行為に対する、あなたの頑健または反応 DCに+2の状況ボーナスを得る。このボーナスは、あなたを移動させたり、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にしようとしたりする呪文や効果に対するセーヴィング・スローにも適用される。</p>"
+      "description": "<p>あなたの体は、あなたを地面にしっかりと固定する頑丈な根でできている。あなたは祖先から8ではなく10のヒット・ポイントを得る。あなたは飢え始めるまで2週間日光なしで過ごすことができる。あなたは、あなたに対して@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を行う行為に対する、あなたの頑健または反応 DCに+2の状況ボーナスを得る。このボーナスは、あなたを移動させたり、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態にしようとしたりする呪文や効果に対するセーヴィング・スローにも適用される。</p>"
     },
     "Umbral Gnome": {
       "name": "アンブラル・ノーム/Umbral Gnome",
@@ -514,7 +514,7 @@
     },
     "Jinxed Tengu": {
       "name": "ジンクスのついたテング/Jinxed Tengu",
-      "description": "<p>一族は呪いを何度も受けてきたが、今ではそれらが羽から雨のように滑り落ちる。呪いや不運効果に対するセーヴで成功を出した場合、代わりに大成功になる。@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅}状態を得そうになったとき、@Check[flat|dc:17]を試みる。成功した場合、得るはずのドゥームド状態の値を1だけ減らす。</p>"
+      "description": "<p>一族は呪いを何度も受けてきたが、今ではそれらが羽から雨のように滑り落ちる。呪いや不運効果に対するセーヴで成功を出した場合、代わりに大成功になる。@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅}状態を得そうになったとき、@Check[flat|dc:17]を行う。成功した場合、得るはずのドゥームド状態の値を1だけ減らす。</p>"
     },
     "Peachchild Leshy": {
       "name": "ピーチチャイルド・レッシー/Peachchild Leshy",
@@ -639,7 +639,7 @@
     },
     "Lotus Leshy": {
       "name": "蓮のレシー/Lotus Leshy",
-      "description": "<p>あなたは水面にたやすく浮かぶ。静かな水面や他の害を与えない液体の表面を歩け、移動速度は通常の半分で移動する。また、流れる水の表面を移動するために@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{〈バランスを取る〉}を試みることができ、その際は水中を移動するために〔水泳〕判定のDCを使用する。こうする場合、速度は最大で半分しか出せず、失敗またはクリティカル失敗をした場合は通常の効果の代わりに水中に落ちる。</p>"
+      "description": "<p>あなたは水面にたやすく浮かぶ。静かな水面や他の害を与えない液体の表面を歩け、移動速度は通常の半分で移動する。また、流れる水の表面を移動するために@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{〈バランスを取る〉}を行うことができ、その際は水中を移動するために〔水泳〕判定のDCを使用する。こうする場合、速度は最大で半分しか出せず、失敗またはクリティカル失敗をした場合は通常の効果の代わりに水中に落ちる。</p>"
     },
     "Celestial Envoy Kitsune": {
       "name": "セレスティアル・エンボイ・キツネ/Celestial Envoy Kitsune",
@@ -723,7 +723,7 @@
     },
     "Pine Leshy": {
       "name": "松のレシー/Pine Leshy",
-      "description": "<p>あなたは樹皮のような肉体から粘り気のある厚い樹液を分泌しており、それによって登攀や道具を保持することが容易になっている。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー}特技を得る。また、あなたに対して@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}を試みる行為に対するあなたの反応 DCに+2の状況ボーナスを得る。</p>"
+      "description": "<p>あなたは樹皮のような肉体から粘り気のある厚い樹液を分泌しており、それによって登攀や道具を保持することが容易になっている。あなたはボーナス特技として@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー}特技を得る。また、あなたに対して@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}を行う行為に対するあなたの反応 DCに+2の状況ボーナスを得る。</p>"
     },
     "Pixie": {
       "name": "ピクシー/Pixie",
@@ -942,7 +942,7 @@
     },
     "Scalekeeper Vishkanya": {
       "name": "記録係のヴィシュカニャ/Scalekeeper Vishkanya",
-      "description": "<p>地域のヴィシュカーニャの一族で、民の歴史や経験を記録する役目を担っている。学識に優れ、1日1回、フリー・アクションとして〔思い出す〕を試みることができる。</p>"
+      "description": "<p>地域のヴィシュカーニャの一族で、民の歴史や経験を記録する役目を担っている。学識に優れ、1日1回、フリー・アクションとして〔思い出す〕を行うことができる。</p>"
     },
     "Bakuwa Lizardfolk": {
       "name": "バクワ・リザードフォーク/Bakuwa Lizardfolk",
@@ -1018,7 +1018,7 @@
     },
     "Hardshell Surki": {
       "name": "硬甲のスルキ/Hardshell Surki",
-      "description": "<p>あなたの外骨格は他のスルキよりもはるかに密で、自前の鎧として機能する。あなたの外骨格はplate armor の種扱いの中装で、ACに+4のアイテム・ボーナスを与え、敏捷の上限が+1、判定ペナルティが–2、移動速度のペナルティが–5フィート、筋力値が+3で、comfortトレイトを持つ。あなたは他の鎧を着用したり外骨格を取り外したりできない。外骨格には彫刻で防具ルーンを刻むことができる。</p>\n<ul>\n<li><strong>進化</strong> あなたのノード間を流れる魔力循環系は強化ネットワークとなり、外骨格を魔力で強化する。物理ダメージを与えるクリティカルヒットを受けた場合、反応を使って@Check[flat|dc:17|showDC:all]を試みることができる。成功すれば、その攻撃は通常のヒットになる。</li>\n<li><strong>進化</strong> 腹部のノードは周囲にあなたが最も親しい魔法の種類に対する防護フィールドを展開できる。@UUID[Compendium.pf2e.actionspf2e.Item.cczvLO5r7QuHaXwx]{〈ダンプニング・ハーモニクス〉}アクションを得る。</li>\n</ul>"
+      "description": "<p>あなたの外骨格は他のスルキよりもはるかに密で、自前の鎧として機能する。あなたの外骨格はplate armor の種扱いの中装で、ACに+4のアイテム・ボーナスを与え、敏捷の上限が+1、判定ペナルティが–2、移動速度のペナルティが–5フィート、筋力値が+3で、comfortトレイトを持つ。あなたは他の鎧を着用したり外骨格を取り外したりできない。外骨格には彫刻で防具ルーンを刻むことができる。</p>\n<ul>\n<li><strong>進化</strong> あなたのノード間を流れる魔力循環系は強化ネットワークとなり、外骨格を魔力で強化する。物理ダメージを与えるクリティカルヒットを受けた場合、反応を使って@Check[flat|dc:17|showDC:all]を行うことができる。成功すれば、その攻撃は通常のヒットになる。</li>\n<li><strong>進化</strong> 腹部のノードは周囲にあなたが最も親しい魔法の種類に対する防護フィールドを展開できる。@UUID[Compendium.pf2e.actionspf2e.Item.cczvLO5r7QuHaXwx]{〈ダンプニング・ハーモニクス〉}アクションを得る。</li>\n</ul>"
     },
     "Taloned Tengu": {
       "name": "鉤爪のテング/Taloned Tengu",
@@ -1114,7 +1114,7 @@
     },
     "Flexible Catfolk": {
       "name": "フレキシブル・キャットフォーク/Flexible Catfolk",
-      "description": "<p>ほとんどのヒューマノイドより柔軟性を受け継いでいる。〔無理矢理入り込む〕必要のない狭い場所を難地形と見なさない。さらに、〔エスケープ〕を試みる判定に対して+1の状況ボーナスを得る。</p>"
+      "description": "<p>ほとんどのヒューマノイドより柔軟性を受け継いでいる。〔無理矢理入り込む〕必要のない狭い場所を難地形と見なさない。さらに、〔エスケープ〕を行う判定に対して+1の状況ボーナスを得る。</p>"
     },
     "Hooded Nagaji": {
       "name": "フードのナガジ/Hooded Nagaji",
