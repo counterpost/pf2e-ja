@@ -1050,7 +1050,7 @@
     },
     "Shortshanks Hobgoblin": {
       "name": "短足のホブゴブリン/Shortshanks Hobgoblin",
-      "description": "<p>君はほとんどのホブゴブリンより胴が長く肩幅が広く、そのため脚が短く見える。これにより強い筋肉質の体幹と低い重心を持ち、乗馬や登攀に有利だ――そして非常に幼い頃から鞍での乗馬に訓練済みしている。@UUID[Compendium.pf2e.feats-srd.Item.Rq5wkA8DtsmbzoGV]{ライド}のフィートを得る。さらに、〔登攀〕している間は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}にならない。</p>"
+      "description": "<p>君はほとんどのホブゴブリンより胴が長く肩幅が広く、そのため脚が短く見える。これにより強い筋肉質の体幹と低い重心を持ち、乗馬や登攀に有利だ――そして非常に幼い頃から鞍での乗馬に訓練済みしている。@UUID[Compendium.pf2e.feats-srd.Item.Rq5wkA8DtsmbzoGV]{ライド}のフィートを得る。さらに、〔登攀〕している間は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態にならない。</p>"
     },
     "Warrior Android": {
       "name": "戦士アンドロイド/Warrior Android",

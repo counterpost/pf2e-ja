@@ -3,7 +3,7 @@
   "entries": {
     "Observed": {
       "name": "視認されている/Observed",
-      "description": "<p>視界にあるものはあなたに観察される。もし生物が、《隠密》を使って@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}のように発見を避ける手段を取れば、観察される代わりに@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}や@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}になることがある。視覚以外の明瞭な感覚を持っているなら、その感覚を使って生物や物体を観察できるかもしれない。精密な感覚だけで生物を観察できる。もし不精密な感覚のみで生物を@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉ing}する場合、その生物は観察されるのではなく隠れたままになる。</p>"
+      "description": "<p>視界にあるものはあなたに観察される。もし生物が、《隠密》を使って@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}のように発見を避ける手段を取れば、観察される代わりに@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}や@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}状態になることがある。視覚以外の明瞭な感覚を持っているなら、その感覚を使って生物や物体を観察できるかもしれない。精密な感覚だけで生物を観察できる。もし不精密な感覚のみで生物を@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉ing}する場合、その生物は観察されるのではなく隠れたままになる。</p>"
     },
     "Doomed": {
       "name": "破滅/Doomed",
@@ -95,7 +95,7 @@
     },
     "Prone": {
       "name": "伏せている/Prone",
-      "description": "<p>あなたは地面に倒れている。あなたは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となり、攻撃ロールに－2の状況ペナルティを受ける。伏せ状態の間に使用できる移動アクションは、@UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{〈 la 〉}と@UUID[Compendium.pf2e.actionspf2e.Item.OdIUybJ3ddfL7wzj]{〈立ち上がる〉}のみである。立ち上がると伏せ状態は終了する。伏せ状態の間に、物陰に隠れるために@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}を行うことができ、背後に隠れるオブジェクトがない場合でも、遠隔攻撃に対して大遮蔽を得る。これにより、遠隔攻撃に対するあなたのACに＋4の状況ボーナスが与えられる(ただし、あなたはoff-guardのままである)。</p>\n<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{「登攀」}中または@UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{「飛行」}中に伏せ状態にノックダウンされた場合、あなたは落下する。@UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{「水泳」}中には、伏せ状態にノックダウンされることはない。</p>"
+      "description": "<p>あなたは地面に倒れている。あなたは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となり、攻撃ロールに－2の状況ペナルティを受ける。伏せ状態の間に使用できる移動アクションは、@UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{〈 la 〉}と@UUID[Compendium.pf2e.actionspf2e.Item.OdIUybJ3ddfL7wzj]{〈立ち上がる〉}のみである。立ち上がると伏せ状態は終了する。伏せ状態の間に、物陰に隠れるために@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}を行うことができ、背後に隠れるオブジェクトがない場合でも、遠隔攻撃に対して大遮蔽を得る。これにより、遠隔攻撃に対するあなたのACに＋4の状況ボーナスが与えられる(ただし、あなたはoff-guardのままである)。</p>\n<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{「登攀」}中または@UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{「飛行」}中に伏せ状態にノックダウンされた場合、あなたは落下する。@UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{「水泳」}中には、伏せ状態にノックダウンされることはない。</p>"
     },
     "Grabbed": {
       "name": "掴まれている/Grabbed",
@@ -143,7 +143,7 @@
     },
     "Undetected": {
       "name": "未探知/Undetected",
-      "description": "<p>あなたがクリーチャーから「未感知」であるとき、そのクリーチャーはあなたをまったく見ることができず、あなたがどのマスを占有しているかも分からず、あなたを目標に指定することもできない。ただし、範囲を目標とする能力の影響は依然として受ける。あなたがクリーチャーから未感知であるとき、そのクリーチャーはあなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となる。</p>\n<p>あなたを未感知状態にしているクリーチャーは、あなたを目標に指定するために、あなたがどのスクエアにいるかを推測することができる。そのクリーチャーはスクエアを選択し、攻撃を試みなければならない。これは@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}クリーチャーを目標にするのと同様に機能する(@Check[flat|showDC:all|dc:11|traits:secret]を必要とする)が、難易度判定と攻撃ロールはGMが秘密裏にロールし、難易度判定の失敗、攻撃ロールの失敗、または間違ったスクエアの選択のどれによって攻撃がミスしたかは明かされない。彼らはあなたを見つけようとするために@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}を行うことができる。</p>"
+      "description": "<p>あなたがクリーチャーから「未感知」であるとき、そのクリーチャーはあなたをまったく見ることができず、あなたがどのマスを占有しているかも分からず、あなたを目標に指定することもできない。ただし、範囲を目標とする能力の影響は依然として受ける。あなたがクリーチャーから未感知であるとき、そのクリーチャーはあなたに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>\n<p>あなたを未感知状態にしているクリーチャーは、あなたを目標に指定するために、あなたがどのスクエアにいるかを推測することができる。そのクリーチャーはスクエアを選択し、攻撃を試みなければならない。これは@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}クリーチャーを目標にするのと同様に機能する(@Check[flat|showDC:all|dc:11|traits:secret]を必要とする)が、難易度判定と攻撃ロールはGMが秘密裏にロールし、難易度判定の失敗、攻撃ロールの失敗、または間違ったスクエアの選択のどれによって攻撃がミスしたかは明かされない。彼らはあなたを見つけようとするために@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}を行うことができる。</p>"
     },
     "Blinded": {
       "name": "盲目/Blinded",
@@ -155,7 +155,7 @@
     },
     "Confused": {
       "name": "混乱/Confused",
-      "description": "<p>あなたは正気を失っており、乱暴に攻撃を行う。あなたは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}となり、誰も味方として扱わず(ただし、他の者は依然としてあなたを味方として扱うかもしれない)、〈待機する〉、〈構える〉、またはリアクションを使用することはできない。</p>\n<p>あなたはすべての生命力(アクション)を〈ストライク〉または攻撃的な初級呪文の詠唱に使用する。ただし、GMは武器を抜く、対象が間合いに入るように移動するなど、攻撃を容易にするための他のアクションをあなたに行わせることができる。あなたの対象はGMによってランダムに決定される。他に有効な対象がない場合、あなたはあなた自身を対象とし、自動的に命中するがクリティカルヒットにはならない。攻撃することも呪文を詠唱することも不可能な場合、あなたは意味不明なことを口走り、アクションを無駄にする。</p>\n<p>攻撃または呪文からダメージを受けるたびに、あなたは混乱から回復してこの状態を終了するために、@Check[flat|showDC:all|dc:11]を行うことができる。</p>"
+      "description": "<p>あなたは正気を失っており、乱暴に攻撃を行う。あなたは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となり、誰も味方として扱わず(ただし、他の者は依然としてあなたを味方として扱うかもしれない)、〈待機する〉、〈構える〉、またはリアクションを使用することはできない。</p>\n<p>あなたはすべての生命力(アクション)を〈ストライク〉または攻撃的な初級呪文の詠唱に使用する。ただし、GMは武器を抜く、対象が間合いに入るように移動するなど、攻撃を容易にするための他のアクションをあなたに行わせることができる。あなたの対象はGMによってランダムに決定される。他に有効な対象がない場合、あなたはあなた自身を対象とし、自動的に命中するがクリティカルヒットにはならない。攻撃することも呪文を詠唱することも不可能な場合、あなたは意味不明なことを口走り、アクションを無駄にする。</p>\n<p>攻撃または呪文からダメージを受けるたびに、あなたは混乱から回復してこの状態を終了するために、@Check[flat|showDC:all|dc:11]を行うことができる。</p>"
     },
     "Wounded": {
       "name": "負傷/Wounded",
@@ -163,11 +163,11 @@
     },
     "Dying": {
       "name": "瀕死/Dying",
-      "description": "<p>あなたは出血多量であるか、さもなければ死の淵に立っている。この状態の間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}となる。瀕死は常に値を伴い、その値が「瀕死4」に達すると、あなたは死亡する。瀕死状態のとき、あなたは状態が良くなるか悪くなるかを決定するため、各ラウンドのあなたのターンの開始時に回復判定を行わなければならない。瀕死状態の間にダメージを受けた場合、あなたの瀕死状態の値は1増加し、敵のクリティカルヒットまたはあなたのセーヴィング・スローの大失敗によってダメージを受けた場合は2増加する。</p>\n<p>回復判定に成功して瀕死状態を失い、かつ依然として0ヒット・ポイントである場合、あなたは気絶のままであるが、その状態の説明にあるように目覚めることができる。1ヒット・ポイント以上になった場合、あなたは自動的に瀕死状態を失い、目覚める。瀕死状態を失うたびに、あなたは@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷1}状態を得るか、すでにその状態を持っている場合は負傷状態の値を1増加させる。</p>"
+      "description": "<p>あなたは出血多量であるか、さもなければ死の淵に立っている。この状態の間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態となる。瀕死は常に値を伴い、その値が「瀕死4」に達すると、あなたは死亡する。瀕死状態のとき、あなたは状態が良くなるか悪くなるかを決定するため、各ラウンドのあなたのターンの開始時に回復判定を行わなければならない。瀕死状態の間にダメージを受けた場合、あなたの瀕死状態の値は1増加し、敵のクリティカルヒットまたはあなたのセーヴィング・スローの大失敗によってダメージを受けた場合は2増加する。</p>\n<p>回復判定に成功して瀕死状態を失い、かつ依然として0ヒット・ポイントである場合、あなたは気絶のままであるが、その状態の説明にあるように目覚めることができる。1ヒット・ポイント以上になった場合、あなたは自動的に瀕死状態を失い、目覚める。瀕死状態を失うたびに、あなたは@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷1}状態を得るか、すでにその状態を持っている場合は負傷状態の値を1増加させる。</p>"
     },
     "Invisible": {
       "name": "不可視/Invisible",
-      "description": "<p>見つからない状態だ。あなたは全員に対して@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}だ。生物はあなたを感知するために@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}できる;もし生物があなたの《隠密》 DCに対する知覚判定に成功したなら、その生物に対して@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}となり、再び未発見状態になるまで@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}。誰かに既に見られている状態で透明になった場合、その人に対しては最初は〔忍び歩き〕に成功するまで隠れた状態で始まる(未発見ではなく)。特殊能力や魔法による場合を除き、透明の間に@UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{視認されている}になることはできない。</p>"
+      "description": "<p>見つからない状態だ。あなたは全員に対して@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}だ。生物はあなたを感知するために@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}できる;もし生物があなたの《隠密》 DCに対する知覚判定に成功したなら、その生物に対して@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態となり、再び未発見状態になるまで@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}。誰かに既に見られている状態で透明になった場合、その人に対しては最初は〔忍び歩き〕に成功するまで隠れた状態で始まる(未発見ではなく)。特殊能力や魔法による場合を除き、透明の間に@UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{視認されている}状態になることはできない。</p>"
     },
     "Cursebound": {
       "name": "呪縛/Cursebound",
