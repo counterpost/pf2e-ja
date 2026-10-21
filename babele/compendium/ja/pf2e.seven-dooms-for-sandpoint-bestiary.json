@@ -24,7 +24,7 @@
         },
         "9KHwXUjSzKnP6AIN": {
           "name": "唸る翼/Droning Wings",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>コロクスは、きらめく薄い絹のような羽を羽ばたかせ、音を和らげるブーンという羽音とともに、魅惑的な色彩のディスプレイを作り出す。コロクスが@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}状態である場合、その効果は終了し、コロクスは視認できるようになる。@Template[emanation|distance:30]内のすべてのクリーチャーは、@Check[will|dc:29]セーヴに成功しなければ、コロクスの次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}(大失敗時は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 2})となる。この羽音を立てる羽が持続している限り、コロクスは完全耐性(音波ダメージ)を得る。コロクスは羽音を立てる羽を最大1分の間〈維持〉できる。</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>コロクスは、きらめく薄い絹のような羽を羽ばたかせ、音を和らげるブーンという羽音とともに、魅惑的な色彩のディスプレイを作り出す。コロクスが@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}状態である場合、その効果は終了し、コロクスは視認できるようになる。@Template[emanation|distance:30]内のすべてのクリーチャーは、@Check[will|dc:29]セーヴに成功しなければ、コロクスの次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}(大失敗時は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ2})となる。この羽音を立てる羽が持続している限り、コロクスは完全耐性(音波ダメージ)を得る。コロクスは羽音を立てる羽を最大1分の間〈維持〉できる。</p>"
         },
         "5VeD2S9TsGfOspa9": {
           "name": "吸い上げ/Siphon",
@@ -327,7 +327,7 @@
         },
         "o8cbkspx01eskehx": {
           "name": "恐るべき笑い/Terrifying Laugh",
-          "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong>ガイストは@Template[emanation|distance:20]の中に魂を刺突切り裂くような笑い声を放ち、これはガイストの次のターンの開始時まで持続する。このエリアの中にいる、またはエリアに入るすべてのクリーチャーは、@Check[will|dc:26]セーヴに成功しなければならず、失敗するとパニックに陥った笑いに圧倒され、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3})となる。クリーチャーは恐るべき哄笑1回につき1回しかセーヴを行わず、セーヴィング・スローに成功したクリーチャーは24時間の間、一時的な免疫となる。</p>"
+          "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong>ガイストは@Template[emanation|distance:20]の中に魂を刺突切り裂くような笑い声を放ち、これはガイストの次のターンの開始時まで持続する。このエリアの中にいる、またはエリアに入るすべてのクリーチャーは、@Check[will|dc:26]セーヴに成功しなければならず、失敗するとパニックに陥った笑いに圧倒され、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3})となる。クリーチャーは恐るべき哄笑1回につき1回しかセーヴを行わず、セーヴィング・スローに成功したクリーチャーは24時間の間、一時的な免疫となる。</p>"
         },
         "58ox9o6ljire079b": {
           "name": "ハーントの憤怒/Wrath of the Haunt",
@@ -647,7 +647,7 @@
         },
         "o0zcolRXYCvgYOGA": {
           "name": "有害な噴霧/Noxious Spray",
-          "description": "<p>シックルファング・ロングレッグスは隣接する単一の対象に有害な化学物質を吹きかけ、対象は@Check[fortitude|dc:24]セーヴィング・スローを行わなければならない。シックルファング・ロングレッグスは1分の間、有害な霧吹きを使用できない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けず、1分の間、有害な霧吹きに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}となり、その病気が持続する限り@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となる。</p>"
+          "description": "<p>シックルファング・ロングレッグスは隣接する単一の対象に有害な化学物質を吹きかけ、対象は@Check[fortitude|dc:24]セーヴィング・スローを行わなければならない。シックルファング・ロングレッグスは1分の間、有害な霧吹きを使用できない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けず、1分の間、有害な霧吹きに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}となり、その病気が持続する限り@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}となる。</p>"
         }
       },
       "name": "シックルファング・ロングレッグス/Sicklefang Longlegs",
@@ -717,7 +717,7 @@
         },
         "q9qnT4OPhxU6cbs9": {
           "name": "デヴィルズ・カースト・ブレス/Devil's Cursed Breath",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ジョルダスは自身の舌を噛み切り(@Damage[1[slashing]]ダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[reflex|dc:26|options:area-effect,damaging-effect]セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d8[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[7d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[10d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって病気1となり、呪われる。犠牲者の火傷が完全に消えることはなく、呪われたクリーチャーは絶え間ない痛みからすべての攻撃に－2のステータス・ペナルティを受ける。治癒によって火傷の外見が変わったりペナルティが軽減されたりすることはないが、呪いを取り除くことで解消される。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果：デヴィルズ・カースド・ブレス}</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ジョルダスは自身の舌を噛み切り(@Damage[1[slashing]]ダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[reflex|dc:26|options:area-effect,damaging-effect]セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d8[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[7d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[10d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって病気1となり、呪われる。犠牲者の火傷が完全に消えることはなく、呪われたクリーチャーは絶え間ない痛みからすべての攻撃に－2のステータス・ペナルティを受ける。治癒によって火傷の外見が変わったりペナルティが軽減されたりすることはないが、呪いを取り除くことで解消される。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果：デヴィルズ・カースド・ブレス}</p>"
         }
       },
       "blurb": "男性のヒューマンのバード",
@@ -815,7 +815,7 @@
         },
         "Mq1buiTxEF2rhIx8": {
           "name": "嘆き/Weep",
-          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>ランパードは胸が張り裂けるような号泣を始め、周囲のクリーチャーに同情的なすすり泣きを呼び起こす。ランパードの泣き声を聞いた@Template[emanation|distance:30]{30フィート}以内にいるランパード以外の各クリーチャーは、@Check[will|dc:20]セーヴに成功しなければならず、失敗すると、制御できずにすすり泣くため、1ラウンドの間リアクションを使用できなくなり、次のターンに@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となる。</p>"
+          "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>ランパードは胸が張り裂けるような号泣を始め、周囲のクリーチャーに同情的なすすり泣きを呼び起こす。ランパードの泣き声を聞いた@Template[emanation|distance:30]{30フィート}以内にいるランパード以外の各クリーチャーは、@Check[will|dc:20]セーヴに成功しなければならず、失敗すると、制御できずにすすり泣くため、1ラウンドの間リアクションを使用できなくなり、次のターンに@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態となる。</p>"
         }
       },
       "blurb": "変種ランパス",
@@ -925,7 +925,7 @@
         },
         "sCv6nwuflODCdMaO": {
           "name": "前兆の眼差し/Portentous Gaze",
-          "description": "<p>30フィート。クリーチャーがこのオーラの中でターンを終了したとき、それは@Check[will|dc:31]セーヴを行わなければならない。失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}(大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2})となる。</p>\n<p>モスマンは、精神集中トレイトを持つ単一のアクションで、このオーラを起動または停止できる。</p>"
+          "description": "<p>30フィート。クリーチャーがこのオーラの中でターンを終了したとき、それは@Check[will|dc:31]セーヴを行わなければならない。失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}(大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2})となる。</p>\n<p>モスマンは、精神集中トレイトを持つ単一のアクションで、このオーラを起動または停止できる。</p>"
         },
         "OhL4iYLf0PKLjM4R": {
           "name": "チェンジ・シェイプ",
@@ -937,7 +937,7 @@
         },
         "Wm8dymSLkG00xtyc": {
           "name": "恐怖を抽出する/Extract Fear",
-          "description": "<p>レッド・ビショップは30フィート以内にいる視認できる@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態のクリーチャーに片手を伸ばし、そのクリーチャーの恐怖を引き抜いて喰らうために掴み取るような動作をする。レッド・ビショップは自身のヒット・ポイントを@Damage[(7d8+8)[healing]]回復し、対象のクリーチャーは怯え状態を失うが、他の感情も心から引き出されて無駄に消え去るため、精神的トラウマと心自体に奇妙な麻痺が生じ、@Check[will|dc:34]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@Damage[3d6[mental]]ダメージを受ける。</p>\n<p><strong>失敗</strong>対象は@Damage[6d6[mental]]ダメージを受け、自身の次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}となる。</p>\n<p><strong>クリティカル失敗</strong>対象は@Damage[12d6[mental]]ダメージを受け、レストレーションなどの効果によって状態が取り除かれるまで愚鈍1となる。</p>"
+          "description": "<p>レッド・ビショップは30フィート以内にいる視認できる@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態のクリーチャーに片手を伸ばし、そのクリーチャーの恐怖を引き抜いて喰らうために掴み取るような動作をする。レッド・ビショップは自身のヒット・ポイントを@Damage[(7d8+8)[healing]]回復し、対象のクリーチャーは怯え状態を失うが、他の感情も心から引き出されて無駄に消え去るため、精神的トラウマと心自体に奇妙な麻痺が生じ、@Check[will|dc:34]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@Damage[3d6[mental]]ダメージを受ける。</p>\n<p><strong>失敗</strong>対象は@Damage[6d6[mental]]ダメージを受け、自身の次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}となる。</p>\n<p><strong>クリティカル失敗</strong>対象は@Damage[12d6[mental]]ダメージを受け、レストレーションなどの効果によって状態が取り除かれるまで愚鈍1となる。</p>"
         },
         "iommO8SU4yNamwC1": {
           "name": "フォーカス・ゲイズ/Focus Gaze",
@@ -1207,7 +1207,7 @@
         },
         "yIgMRyJRd4jIcbTr": {
           "name": "アザトースの過酷な呪い",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ジラディニは30フィート以内に見えているクリーチャー1体を凝視しながら、アクロでアザトースの名を唱える。彼の目はオレンジ色に輝き、対象は物質界の中心で渦巻く混沌の短い幻視に耐え、その瞬間、宇宙における自分自身の無意味さを目撃する。対象は@Check[will|dc:26]セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは1時間の間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態となる。</p>\n<p><strong>失敗</strong>クリーチャーは stupefied 1状態となる。また、毎夜初めて夜空を見上げたとき、@Check[will|dc:26]セーヴィング・スローを行わなければならず、失敗すると stupefied状態の値を1増加させる(最大で@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 4}状態まで、またはこの状態になっていない場合は stupefied 1状態となる)。たとえ stupefied状態が取り除かれても、対象は呪いが解けるまで、1晩に1回夜空を見上げたときにセーヴィング・スローを行い続けなければならない。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、対象は物質界や大いなる彼方のどこにいようとも、故郷の国で太陽が沈むときに宇宙の重みを感じる。夜空を見上げる必要はない。</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ジラディニは30フィート以内に見えているクリーチャー1体を凝視しながら、アクロでアザトースの名を唱える。彼の目はオレンジ色に輝き、対象は物質界の中心で渦巻く混沌の短い幻視に耐え、その瞬間、宇宙における自分自身の無意味さを目撃する。対象は@Check[will|dc:26]セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは1時間の間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}状態となる。</p>\n<p><strong>失敗</strong>クリーチャーは stupefied 1状態となる。また、毎夜初めて夜空を見上げたとき、@Check[will|dc:26]セーヴィング・スローを行わなければならず、失敗すると stupefied状態の値を1増加させる(最大で@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁4}状態まで、またはこの状態になっていない場合は stupefied 1状態となる)。たとえ stupefied状態が取り除かれても、対象は呪いが解けるまで、1晩に1回夜空を見上げたときにセーヴィング・スローを行い続けなければならない。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、対象は物質界や大いなる彼方のどこにいようとも、故郷の国で太陽が沈むときに宇宙の重みを感じる。夜空を見上げる必要はない。</p>"
         }
       },
       "blurb": "男性、デロ、クレリック",
@@ -1493,11 +1493,11 @@
         },
         "oVn3oZARiqT7Hf3P": {
           "name": "ドッグスライサーの残虐/Dogslicer Cruelty",
-          "description": "<p>ドッグスライサーによるクリティカルヒット時、リプナゲットは刃を引き抜く際に犠牲者の肉体をむしり取る。標的はその痛みから@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態になり、病気状態である限り@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になる。</p>"
+          "description": "<p>ドッグスライサーによるクリティカルヒット時、リプナゲットは刃を引き抜く際に犠牲者の肉体をむしり取る。標的はその痛みから@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態になり、病気状態である限り@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になる。</p>"
         },
         "snOrUVs5f8v8gtuP": {
           "name": "グレイブナイツ・カース/Graveknight's Curse",
-          "description": "<p>この呪いは、グレイヴナイトの鎧を少なくとも1時間着用した者に影響を与える。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[will|dc:24]セーヴ</p>\n<hr />\n<p><strong>潜伏期</strong> 1時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 1}、かつ鎧を外せない(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅 2}、クリーチャーの移動速度が10減少し、かつ鎧を外せない(1日)</p>\n<p><strong>第3段階</strong>死亡し、鎧のグレイヴナイトへと変化する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6rnB7nK6J6zF4vea]{効果: グレイヴナイトの呪い}</p>"
+          "description": "<p>この呪いは、グレイヴナイトの鎧を少なくとも1時間着用した者に影響を与える。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[will|dc:24]セーヴ</p>\n<hr />\n<p><strong>潜伏期</strong> 1時間</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅1}、かつ鎧を外せない(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅2}、クリーチャーの移動速度が10減少し、かつ鎧を外せない(1日)</p>\n<p><strong>第3段階</strong>死亡し、鎧のグレイヴナイトへと変化する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6rnB7nK6J6zF4vea]{効果: グレイヴナイトの呪い}</p>"
         },
         "cYzNZC3Tju4useHD": {
           "name": "ファントム・マウント/Phantom Mount",
@@ -1549,10 +1549,10 @@
       "items": {
         "aTL1rhGZBmPfUbXX": {
           "name": "吐き気を催す波動/Nauseating Pulse",
-          "description": "<p><strong>トリガー</strong>生きているクリーチャーが緑色の結晶から20フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>結晶が吐き気を催すような光で明滅する。エリア<strong>E14</strong>内、またはこのエリアから出る2つの通路のいずれかの最初の10フィート以内にいる全てのクリーチャーは、@Check[fortitude|dc:25]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}となる(大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 3})。</p>"
+          "description": "<p><strong>トリガー</strong>生きているクリーチャーが緑色の結晶から20フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>結晶が吐き気を催すような光で明滅する。エリア<strong>E14</strong>内、またはこのエリアから出る2つの通路のいずれかの最初の10フィート以内にいる全てのクリーチャーは、@Check[fortitude|dc:25]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}となる(大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調3})。</p>"
         }
       },
-      "routine": "<p>(1アクション)(光、毒)各ラウンドの自身のアクション時、有毒な結晶は鋭いハミング音を発し、緑色の光で明るく点滅する。エリア<strong>E14</strong>内、またはこのエリアから外に通じるいずれかの通路の最初の10フィート以内にいるすべてのクリーチャーは、@Check[fortitude|traits:light,poison|dc:25]セーヴを行わなければならない。</p>\n<hr>\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[2d8[poison]]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[4d8[poison]]ダメージを受け、1分の間@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[4d8[poison]]ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}となり、1分の間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる。</p>",
+      "routine": "<p>(1アクション)(光、毒)各ラウンドの自身のアクション時、有毒な結晶は鋭いハミング音を発し、緑色の光で明るく点滅する。エリア<strong>E14</strong>内、またはこのエリアから外に通じるいずれかの通路の最初の10フィート以内にいるすべてのクリーチャーは、@Check[fortitude|traits:light,poison|dc:25]セーヴを行わなければならない。</p>\n<hr>\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[2d8[poison]]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[4d8[poison]]ダメージを受け、1分の間@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[4d8[poison]]ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}となり、1分の間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる。</p>",
       "stealth": "<p>(訓練済み)</p>",
       "name": "トキシック・クリスタルズ/Toxic Crystals",
       "description": "<p>生きたクリーチャーが存在すると、緑の結晶はより明るく光を放ち始める。さまざまな結晶からのこの照度の変動は、不気味なことに、部屋にいる者たちの呼吸のペースや心拍の鼓動と一致している。</p>",
@@ -1881,7 +1881,7 @@
         },
         "MpNlJrdPvv9bECNE": {
           "name": "シンフル・バイト/Sinful Bite",
-          "description": "<p>シンスポーンの顎による攻撃が命中したクリーチャーは、罪深い思考に襲われるため、@Check[will|dc:18]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>影響を受けない</p>\n<p><strong>成功</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}</p>\n<p><strong>失敗</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}</p>\n<p><strong>クリティカル失敗</strong> sickened 2、かつ1分の間@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}</p>"
+          "description": "<p>シンスポーンの顎による攻撃が命中したクリーチャーは、罪深い思考に襲われるため、@Check[will|dc:18]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>影響を受けない</p>\n<p><strong>成功</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}</p>\n<p><strong>失敗</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}</p>\n<p><strong>クリティカル失敗</strong> sickened 2、かつ1分の間@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない2}</p>"
         }
       },
       "name": "グリードスポーン/Greedspawn",
@@ -1898,7 +1898,7 @@
         },
         "dyNhPooeY6ACzEdg": {
           "name": "デヴィルズ・ブレス",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>デヴィルズ・ディサイプルは手に持っている斬撃武器で自身の舌を切り(@Damage[1[slashing]]ダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。範囲内の各クリーチャーは@Check[reflex|dc:18|options:area-effect,damaging-effect]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[1d8[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[2d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[4d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによってsickened 1状態となり、さらに1分の間、煙によって@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態となる。</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>デヴィルズ・ディサイプルは手に持っている斬撃武器で自身の舌を切り(@Damage[1[slashing]]ダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。範囲内の各クリーチャーは@Check[reflex|dc:18|options:area-effect,damaging-effect]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[1d8[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[2d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[4d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによってsickened 1状態となり、さらに1分の間、煙によって@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となる。</p>"
         },
         "wLSyDiWVFxcv4ShC": {
           "name": "サンドポイント・デヴィル・ロア/Sandpoint Devil Lore"
@@ -1922,15 +1922,15 @@
         },
         "co4QqqzbDABHUIAu": {
           "name": "サーペント・モード起動/Activate Serpent Mode",
-          "description": "<p><strong>トリガー</strong>クロックワーク・サーペントが自身のターンを開始する</p>\n<hr />\n<p><strong>効果</strong>クロックワーク・サーペントは別のモードに変形する。1d3をロールし、以下の選択肢を参照すること。現在起動できないモードの出目が出た場合、クロックワーク・サーペントは自身の次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}状態となる。自身のターンの終了時に、サーペント・モードは自動的に解除される。</p>\n<p><strong>1コブラ・モード</strong>クロックワーク・サーペントは威嚇のフードを使用できる。</p>\n<p><strong>2コンストリクター・モード</strong>クロックワーク・サーペントはとぐろによる〈ストライク〉を使用でき、締め付けを行うことができる。</p>\n<p><strong>3ガラガラヘビ・モード</strong>クロックワーク・サーペントは粉砕のガラガラ音を使用できる。</p>"
+          "description": "<p><strong>トリガー</strong>クロックワーク・サーペントが自身のターンを開始する</p>\n<hr />\n<p><strong>効果</strong>クロックワーク・サーペントは別のモードに変形する。1d3をロールし、以下の選択肢を参照すること。現在起動できないモードの出目が出た場合、クロックワーク・サーペントは自身の次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない1}状態となる。自身のターンの終了時に、サーペント・モードは自動的に解除される。</p>\n<p><strong>1コブラ・モード</strong>クロックワーク・サーペントは威嚇のフードを使用できる。</p>\n<p><strong>2コンストリクター・モード</strong>クロックワーク・サーペントはとぐろによる〈ストライク〉を使用でき、締め付けを行うことができる。</p>\n<p><strong>3ガラガラヘビ・モード</strong>クロックワーク・サーペントは粉砕のガラガラ音を使用できる。</p>"
         },
         "dh0Wmrxx4eTODFrz": {
           "name": "クリティカル停止/Critical Deactivation",
-          "description": "<p>クロックワーク・サーペントが精密ダメージを受けるか、またはクリティカルヒットを受け、かつサーペント・モードが起動している場合、@Check[flat|dc:16]を行わなければならない。失敗すると、通常通りクリティカルヒットによるダメージを受け、さらに@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}状態となり、サーペント・モードが解除される。</p>"
+          "description": "<p>クロックワーク・サーペントが精密ダメージを受けるか、またはクリティカルヒットを受け、かつサーペント・モードが起動している場合、@Check[flat|dc:16]を行わなければならない。失敗すると、通常通りクリティカルヒットによるダメージを受け、さらに@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}状態となり、サーペント・モードが解除される。</p>"
         },
         "vifFDe9xdMiljKzm": {
           "name": "クロックワーク・サーペントの毒/Clockwork Serpent Venom",
-          "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:26]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}、およびoff-guard(1ラウンド)</p>"
+          "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:26]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージ、および@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージ、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}、およびoff-guard(1ラウンド)</p>"
         },
         "UBS0sNTttXtjVkf8": {
           "name": "絞め付け/Constrict",
@@ -1938,7 +1938,7 @@
         },
         "J7cCWQ1eDSYDRFmV": {
           "name": "威圧のフード/Intimidating Hood",
-          "description": "<p><strong>必要条件</strong> クロックワーク・サーペントがコブラ・モード(コブラ形態)であること</p>\n<hr />\n<p><strong>効果</strong> クロックワーク・サーペントはコブラのフードを広げる。@Template[emanation|distance:15]内のすべてのクリーチャーは@Check[will|dc:26]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態（大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態）となる。</p>"
+          "description": "<p><strong>必要条件</strong> クロックワーク・サーペントがコブラ・モード(コブラ形態)であること</p>\n<hr />\n<p><strong>効果</strong> クロックワーク・サーペントはコブラのフードを広げる。@Template[emanation|distance:15]内のすべてのクリーチャーは@Check[will|dc:26]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態（大失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態）となる。</p>"
         },
         "TnRX0VH540FcF5oy": {
           "name": "粉砕のガラガラ/Shattering Rattle",

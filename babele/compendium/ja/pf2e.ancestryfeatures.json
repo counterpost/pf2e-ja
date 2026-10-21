@@ -27,7 +27,7 @@
     },
     "Sunlight": {
       "name": "日光/Sunlight",
-      "description": "|||<p>直射日光にさらされると、あなたは即座に @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} となる。日光の中でターンを終了するたびに、このスロウ状態の値は1増加する。この方法ですべてのアクションを失った場合、あなたは破壊される。光に対するあなたの超自然的な嫌悪感のため、あなたは影を落とさず、鏡に姿も映らない。</p>|||"
+      "description": "|||<p>直射日光にさらされると、あなたは即座に @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1} となる。日光の中でターンを終了するたびに、このスロウ状態の値は1増加する。この方法ですべてのアクションを失った場合、あなたは破壊される。光に対するあなたの超自然的な嫌悪感のため、あなたは影を落とさず、鏡に姿も映らない。</p>|||"
     },
     "Aquatic Grace": {
       "name": "水棲の優雅さ/Aquatic Grace",

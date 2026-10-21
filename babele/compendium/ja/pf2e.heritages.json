@@ -1194,7 +1194,7 @@
     },
     "Vivacious Gnome": {
       "name": "生気あるノーム/Vivacious Gnome",
-      "description": "<p>あなたは第一世界を流れる生命エネルギーと非常に強力に繋がっており、虚無エネルギーであなたの生命力を攻撃することが困難になっている。あなたはレベルの半分(最低1)に等しい虚無への抵抗を得る。あなたが@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅}状態である時、その状態は実際よりも値が1低いものとしてあなたに影響する(doomed 1は効果がなく、doomed 2は@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死 3}で死亡することになる、といった具合である)。</p>"
+      "description": "<p>あなたは第一世界を流れる生命エネルギーと非常に強力に繋がっており、虚無エネルギーであなたの生命力を攻撃することが困難になっている。あなたはレベルの半分(最低1)に等しい虚無への抵抗を得る。あなたが@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅}状態である時、その状態は実際よりも値が1低いものとしてあなたに影響する(doomed 1は効果がなく、doomed 2は@UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死3}で死亡することになる、といった具合である)。</p>"
     },
     "Enchanting Lily": {
       "name": "魅惑のユリ/Enchanting Lily",

@@ -43,7 +43,7 @@
     },
     "Encumbered": {
       "name": "過重/Encumbered",
-      "description": "<p>あなたは扱えるよりも運搬中多くの重量を負っている。エンクンバーされている間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}で、全ての移動速度に対して10-フィートのペナルティを受ける。速度への全てのペナルティと同様に、これで移動速度が5フィート未満になることはない。</p>"
+      "description": "<p>あなたは扱えるよりも運搬中多くの重量を負っている。エンクンバーされている間、あなたは@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない1}で、全ての移動速度に対して10-フィートのペナルティを受ける。速度への全てのペナルティと同様に、これで移動速度が5フィート未満になることはない。</p>"
     },
     "Stunned": {
       "name": "スタン/Stunned",

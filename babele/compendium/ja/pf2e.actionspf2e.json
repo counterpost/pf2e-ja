@@ -18,7 +18,7 @@
     },
     "Restore the Moment": {
       "name": "リストア・ザ・モーメント/Restore the Moment",
-      "description": "<p><strong>トリガー</strong>あなたのターンが開始する</p><hr /><p><strong>効果</strong>ミシック・ポイントを1点消費する。保存されたモーメントで行ったのと同じアクションを同じ順番で取り、それらのアクションを解決するために同じダイスロール結果を使用する。ただし、それらのロールには(ループを記録した時点のものではなく)現在存在する修正値を適用し、ミシック習熟度を用いる。復元したアクションをどのように達成するかの正確な詳細は変更できる。例えば、繰り返される〈ストライド〉において、まったく同じパターンや距離で移動する必要はなく、最初のアクションセットで攻撃したのと同じ敵に対して繰り返される〈ストライク〉を行う必要もない。しかし、〈ストライド〉を行う際には同じ種類の移動方法を使用しなければならず、〈ストライク〉を行う際には同じ種類の武器を使用しなければならない。ターンの途中でループ内の次のアクションを実行できない場合、あなたのターンは終了し、あなたは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}状態となる。例えば、あなたがファイアワームに対して行った上記の例を、オーガと戦っているラウンドに復元し、2番目のアクションとしてそのオーガに対してロングソードで〈ストライク〉を行うことができなかった場合、あなたはスタン1状態となる。同様に、ターンの終了時に〈登攀〉を試みる対象が何もなかった場合、あなたはスタン1状態となる。あなたは〈呪文の発動〉アクションを保存および復元できるが、「モーメント復元」を行う際に同じ呪文を発動しなかった場合、あなたはスタン1状態となる(ただし、呪文を異なるランクで発動することはできる)。</p>",
+      "description": "<p><strong>トリガー</strong>あなたのターンが開始する</p><hr /><p><strong>効果</strong>ミシック・ポイントを1点消費する。保存されたモーメントで行ったのと同じアクションを同じ順番で取り、それらのアクションを解決するために同じダイスロール結果を使用する。ただし、それらのロールには(ループを記録した時点のものではなく)現在存在する修正値を適用し、ミシック習熟度を用いる。復元したアクションをどのように達成するかの正確な詳細は変更できる。例えば、繰り返される〈ストライド〉において、まったく同じパターンや距離で移動する必要はなく、最初のアクションセットで攻撃したのと同じ敵に対して繰り返される〈ストライク〉を行う必要もない。しかし、〈ストライド〉を行う際には同じ種類の移動方法を使用しなければならず、〈ストライク〉を行う際には同じ種類の武器を使用しなければならない。ターンの途中でループ内の次のアクションを実行できない場合、あなたのターンは終了し、あなたは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}状態となる。例えば、あなたがファイアワームに対して行った上記の例を、オーガと戦っているラウンドに復元し、2番目のアクションとしてそのオーガに対してロングソードで〈ストライク〉を行うことができなかった場合、あなたはスタン1状態となる。同様に、ターンの終了時に〈登攀〉を試みる対象が何もなかった場合、あなたはスタン1状態となる。あなたは〈呪文の発動〉アクションを保存および復元できるが、「モーメント復元」を行う際に同じ呪文を発動しなかった場合、あなたはスタン1状態となる(ただし、呪文を異なるランクで発動することはできる)。</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star"
     },
     "Dazzle Seeker": {
@@ -123,7 +123,7 @@
     },
     "Demoralize": {
       "name": "怯ませる/Demoralize",
-      "description": "<p>突然の叫び、的確な挑発、あるいは切り返しの一言で、敵の決意を揺らすことができる。あなたが認識している範囲内であなたから30フィート以内にいるクリーチャーを選ぶ。その対象に対して[[/act demoralize]]{Intimidation}判定を、その対象の意志 DCに対して行う。対象があなたの話す言語を理解していないか、あなたが言語を話していない場合、判定に対して–4の状況罰を受ける。結果にかかわらず、対象は10分の間、あなたがそれを〔怯ませる〕試みに対して一時的に免疫となる。</p><hr /><p><strong>クリティカル成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になる。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}になる。</p>",
+      "description": "<p>突然の叫び、的確な挑発、あるいは切り返しの一言で、敵の決意を揺らすことができる。あなたが認識している範囲内であなたから30フィート以内にいるクリーチャーを選ぶ。その対象に対して[[/act demoralize]]{Intimidation}判定を、その対象の意志 DCに対して行う。対象があなたの話す言語を理解していないか、あなたが言語を話していない場合、判定に対して–4の状況罰を受ける。結果にかかわらず、対象は10分の間、あなたがそれを〔怯ませる〕試みに対して一時的に免疫となる。</p><hr /><p><strong>クリティカル成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}になる。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}になる。</p>",
       "source": "Pathfinder Player Core"
     },
     "Crescent Spray": {
@@ -163,7 +163,7 @@
     },
     "Buckle-Cut Blitz": {
       "name": "バックル・カット・ブリッツ/Buckle-Cut Blitz",
-      "description": "<p>あなたのスクワッドは敵の横を駆け抜け、彼らのブーツの靴紐を切り、ベルト(ベルト)のバックルを壊す。コマンダーのバナーのオーラ内にいる最大2人のスクワッドメイトに合図を送る。これらのスクワッドメイトはリアクション(リアクション)として、自身の移動速度(移動速度)まで〈ストライド〉できる。この移動のいずれかの時点で彼らが隣接した各敵は、あなたのクラスDCに対して@Check[reflex|against:commander|options:inflicts:clumsy]セーヴを行わなければならず、失敗すると1ラウンド(1ラウンド)の間、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}(クラムジー1)状態となる(クリティカル失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}(クラムジー2)状態となる)。</p>",
+      "description": "<p>あなたのスクワッドは敵の横を駆け抜け、彼らのブーツの靴紐を切り、ベルト(ベルト)のバックルを壊す。コマンダーのバナーのオーラ内にいる最大2人のスクワッドメイトに合図を送る。これらのスクワッドメイトはリアクション(リアクション)として、自身の移動速度(移動速度)まで〈ストライド〉できる。この移動のいずれかの時点で彼らが隣接した各敵は、あなたのクラスDCに対して@Check[reflex|against:commander|options:inflicts:clumsy]セーヴを行わなければならず、失敗すると1ラウンド(1ラウンド)の間、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない1}(クラムジー1)状態となる(クリティカル失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない2}(クラムジー2)状態となる)。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Grab an Edge": {
@@ -178,7 +178,7 @@
     },
     "Drink Blood": {
       "name": "ドリンク・ブラッド/Drink Blood",
-      "description": "<p><strong>必要条件</strong> @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}、あるいは同意するクリーチャーのいずれかであるクリーチャーが、あなたのリーチ内にいる。</p>\n<hr />\n<p><strong>効果</strong>あなたはそのクリーチャーに牙を突き立て、その血を吸う。対象が掴まれている場合、これには対象の頑健 DCに対する@Check[athletics|defense:fortitude]判定が必要となるが、その他の状態であれば自動的に成功する。成功した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}状態となり、あなたは対象のレベルに等しい一時的HPを得る。この一時的HPは10分持続する。対象に対してこの能力をさらに使用しても、ドレイン状態が増加したり、追加の一時的HPを得たりすることはない。</p>",
+      "description": "<p><strong>必要条件</strong> @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}、あるいは同意するクリーチャーのいずれかであるクリーチャーが、あなたのリーチ内にいる。</p>\n<hr />\n<p><strong>効果</strong>あなたはそのクリーチャーに牙を突き立て、その血を吸う。対象が掴まれている場合、これには対象の頑健 DCに対する@Check[athletics|defense:fortitude]判定が必要となるが、その他の状態であれば自動的に成功する。成功した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態となり、あなたは対象のレベルに等しい一時的HPを得る。この一時的HPは10分持続する。対象に対してこの能力をさらに使用しても、ドレイン状態が増加したり、追加の一時的HPを得たりすることはない。</p>",
       "source": "Pathfinder Book of the Dead"
     },
     "Subsist": {
@@ -252,7 +252,7 @@
     },
     "Brandish the Gorgon's Gaze": {
       "name": "ブランディッシュ・ザ・ゴーゴンズ・ゲイズ/Brandish the Gorgon's Gaze",
-      "description": "<p>あなたは自分の@UUID[Compendium.pf2e.classfeatures.Item.lJAQPRT2t8IABR4v]{ミラー・イージス}を掲げるが、それは通常の光沢を失い石の鈍い光沢を帯びているように見える。次の自分のターン開始前に鏡状の楯で近接攻撃を@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{シールド・ブロック}すると、そこにあるゴルゴンの目が誘発したクリーチャーに閃き、そのクリーチャーはあなたのクラスDCに対する@Check[fortitude|against:exemplar|options:inflicts:slowed]セーヴを行わなければならない。失敗すると、その者は体が部分的に石化しているため@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態になり、1分間続く。結果にかかわらず、そのクリーチャーはこの効果に対して一時的に免疫となり、24時間続く.</p>",
+      "description": "<p>あなたは自分の@UUID[Compendium.pf2e.classfeatures.Item.lJAQPRT2t8IABR4v]{ミラー・イージス}を掲げるが、それは通常の光沢を失い石の鈍い光沢を帯びているように見える。次の自分のターン開始前に鏡状の楯で近接攻撃を@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{シールド・ブロック}すると、そこにあるゴルゴンの目が誘発したクリーチャーに閃き、そのクリーチャーはあなたのクラスDCに対する@Check[fortitude|against:exemplar|options:inflicts:slowed]セーヴを行わなければならない。失敗すると、その者は体が部分的に石化しているため@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態になり、1分間続く。結果にかかわらず、そのクリーチャーはこの効果に対して一時的に免疫となり、24時間続く.</p>",
       "source": "Pathfinder #217: Death Sails a Wine-Dark Sea"
     },
     "Winged Leap": {
@@ -267,7 +267,7 @@
     },
     "Death Drone": {
       "name": "デス・ドローン/Death Drone",
-      "description": "<p>群れのセミたちが低いうなり声を立てて恐怖反応を刺激する。あなたの群れの空間内にいる各生物は@Damage[6d4[mental]]ダメージを受け、クラスDCまたは呪文DCのうち高い方に対する@Check[will|against:class-spell]セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong> その生物は影響を受けない。</p>\n<p><strong>成功</strong> その生物は半分のダメージを受ける。</p>\n<p><strong>失敗</strong> その生物は全ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}となり、聴覚を必要とする知覚判定に対して状況ペナルティ–2を受ける。</p>\n<p><strong>クリティカル失敗</strong> その生物は2倍のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になり、あなたの次のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態になる。</p>",
+      "description": "<p>群れのセミたちが低いうなり声を立てて恐怖反応を刺激する。あなたの群れの空間内にいる各生物は@Damage[6d4[mental]]ダメージを受け、クラスDCまたは呪文DCのうち高い方に対する@Check[will|against:class-spell]セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong> その生物は影響を受けない。</p>\n<p><strong>成功</strong> その生物は半分のダメージを受ける。</p>\n<p><strong>失敗</strong> その生物は全ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}となり、聴覚を必要とする知覚判定に対して状況ペナルティ–2を受ける。</p>\n<p><strong>クリティカル失敗</strong> その生物は2倍のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}になり、あなたの次のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態になる。</p>",
       "source": "Pathfinder Howl of the Wild"
     },
     "Elemental Blast": {
@@ -287,7 +287,7 @@
     },
     "Thundering Roar": {
       "name": "サンダリング・ロアー/Thundering Roar",
-      "description": "<p>対象が強烈な声を放つ。半径@Template[type:emanation|distance:10]内の各敵は@Damage[4d8[sonic]|options:area-damage]ダメージを受け、あなたの呪文DCに対する@Check[will|basic|against:spell|options:area-effect]セーヴを行う。意志セーヴに失敗した生物はさらに@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}される。</p>",
+      "description": "<p>対象が強烈な声を放つ。半径@Template[type:emanation|distance:10]内の各敵は@Damage[4d8[sonic]|options:area-damage]ダメージを受け、あなたの呪文DCに対する@Check[will|basic|against:spell|options:area-effect]セーヴを行う。意志セーヴに失敗した生物はさらに@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}される。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Convocation of Greed": {
@@ -327,13 +327,13 @@
     },
     "Unleash Psyche": {
       "name": "アンリーシュ・サイキ/Unleash Psyche",
-      "description": "<p><strong>発動</strong> あなたのターンが始まったとき.</p>\n<p><strong>必要条件</strong> あなたが遭遇中で、前のターンに〔呪文の発動〕を行っており、かつあなたが@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁}でないこと.</p><hr /><p>あなたは心の深淵に呼びかけ、サイキックの力をあふれさせる。あなたのPsycheは2ラウンドの間、またはあなたが@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}するまで解放された状態のままである（先に起こるほうまで）。自分の意思でその状態を鎮めることはできない。Psycheが解放されている間、以下の効果が発生する.</p><ul><li>常にあなたはサイキック魔法の視覚的顕現に包まれる.</li><li> あなたがサイキックの呪文でダメージを与える呪文を唱えたとき、その呪文のランクの2倍に等しい状態ボーナスをそのダメージに得る。これは呪文を唱えたときに与える最初のダメージにのみ適用され、たとえ呪文が同じクリーチャーに複数回ダメージを与える場合でも、そのクリーチャーはその呪文につき一度だけこの追加ダメージを受ける.</li><li> あなたはpsycheトレイトを持つアクションを使用できる。解放されたPsycheが収まった後、心はチャネルした全能力の負担から回復しなければならない。あなたは2ラウンドの間Unleash Psycheを再び使用できず、あなたは@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}となり2ラウンド続く.</li></ul>",
+      "description": "<p><strong>発動</strong> あなたのターンが始まったとき.</p>\n<p><strong>必要条件</strong> あなたが遭遇中で、前のターンに〔呪文の発動〕を行っており、かつあなたが@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁}でないこと.</p><hr /><p>あなたは心の深淵に呼びかけ、サイキックの力をあふれさせる。あなたのPsycheは2ラウンドの間、またはあなたが@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}するまで解放された状態のままである（先に起こるほうまで）。自分の意思でその状態を鎮めることはできない。Psycheが解放されている間、以下の効果が発生する.</p><ul><li>常にあなたはサイキック魔法の視覚的顕現に包まれる.</li><li> あなたがサイキックの呪文でダメージを与える呪文を唱えたとき、その呪文のランクの2倍に等しい状態ボーナスをそのダメージに得る。これは呪文を唱えたときに与える最初のダメージにのみ適用され、たとえ呪文が同じクリーチャーに複数回ダメージを与える場合でも、そのクリーチャーはその呪文につき一度だけこの追加ダメージを受ける.</li><li> あなたはpsycheトレイトを持つアクションを使用できる。解放されたPsycheが収まった後、心はチャネルした全能力の負担から回復しなければならない。あなたは2ラウンドの間Unleash Psycheを再び使用できず、あなたは@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}となり2ラウンド続く.</li></ul>",
       "selfEffect": "効果: プシュケー解放",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Stupefying Raid": {
       "name": "ステューピファイング・レイド/Stupefying Raid",
-      "description": "<p>あなたのチームは敵を混乱させる一連の機動で駆け回る。あなたのコマンダーのバナーのオーラ内にいる最大2人の分隊員に合図を送る。これらの分隊員はリアクションとして、自身の移動速度まで〈ストライド〉できる。この移動中のいかなる時点においても彼らが隣接している各敵は、あなたのクラスDCに対して@Check[will|against:commander|options:inflicts:stupefied|traits:mental]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態に1ラウンドの間なる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる)。これは精神効果である。</p>",
+      "description": "<p>あなたのチームは敵を混乱させる一連の機動で駆け回る。あなたのコマンダーのバナーのオーラ内にいる最大2人の分隊員に合図を送る。これらの分隊員はリアクションとして、自身の移動速度まで〈ストライド〉できる。この移動中のいかなる時点においても彼らが隣接している各敵は、あなたのクラスDCに対して@Check[will|against:commander|options:inflicts:stupefied|traits:mental]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}状態に1ラウンドの間なる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁2}状態となる)。これは精神効果である。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Warding Sign": {
@@ -450,7 +450,7 @@
     },
     "Blizzard Evasion": {
       "name": "ブリザード・エヴェイジョン/Blizzard Evasion",
-      "description": "<p><strong>使用制限</strong> 1日につき1回</p>\n<p><strong>トリガー</strong> 単一の攻撃で物理ダメージを40以上受けたとき</p>\n<hr />\n<p><strong>効果</strong> あなたは最大3ラウンドの間、吹雪のように体を離散させる。効果中、あなたは物理ダメージに対して耐性 10を、そして力（フォース）ダメージに対して弱点 10を得る。飛行速度は40フィートを得るが、アクションとして取れるのは@UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{フライ}のみになる。あなたが体を離散させた状態で他のクリーチャーのスペースに入るたび（各ラウンドごとに最初の1回）、またはクリーチャーが最初にあなたのスペースに入ったとき、そのクリーチャーは@Damage[4d8[cold]]ダメージを受け、あなたのクラスDCか呪文DCのうち高い方を対象にした@Check[fortitude|against:class-spell] セーヴに成功しなければならない。失敗すると@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}になる。自分のターンの開始時に、あなたはこの効果をフリー・アクションとして終了できる.</p>",
+      "description": "<p><strong>使用制限</strong> 1日につき1回</p>\n<p><strong>トリガー</strong> 単一の攻撃で物理ダメージを40以上受けたとき</p>\n<hr />\n<p><strong>効果</strong> あなたは最大3ラウンドの間、吹雪のように体を離散させる。効果中、あなたは物理ダメージに対して耐性 10を、そして力（フォース）ダメージに対して弱点 10を得る。飛行速度は40フィートを得るが、アクションとして取れるのは@UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{フライ}のみになる。あなたが体を離散させた状態で他のクリーチャーのスペースに入るたび（各ラウンドごとに最初の1回）、またはクリーチャーが最初にあなたのスペースに入ったとき、そのクリーチャーは@Damage[4d8[cold]]ダメージを受け、あなたのクラスDCか呪文DCのうち高い方を対象にした@Check[fortitude|against:class-spell] セーヴに成功しなければならない。失敗すると@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}になる。自分のターンの開始時に、あなたはこの効果をフリー・アクションとして終了できる.</p>",
       "selfEffect": "効果: 吹雪回避",
       "source": "Pathfinder Lost Omens Monsters of Myth"
     },
@@ -542,7 +542,7 @@
     },
     "Salt Wound": {
       "name": "ソルト・ウーンド/Salt Wound",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>血液を持ち、最大ヒット・ポイントではないクリーチャーが、あなたに対して近接〈ストライク〉を行う。</p>\n<hr />\n<p><strong>効果</strong>あなたは自身の血液から塩と塩水をそのクリーチャーの傷口へと流し込む。そのクリーチャーは、あなたのクラスDCか呪文DC(いずれか高い方)を使用して、@Check[fortitude|against:class-spell]を行わなければならない。失敗すると、そのクリーチャーは@Damage[1d6[persistent,acid]]ダメージを受け、痛みにより@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。大失敗すると、代わりに@Damage[2d6[persistent,acid]]ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>血液を持ち、最大ヒット・ポイントではないクリーチャーが、あなたに対して近接〈ストライク〉を行う。</p>\n<hr />\n<p><strong>効果</strong>あなたは自身の血液から塩と塩水をそのクリーチャーの傷口へと流し込む。そのクリーチャーは、あなたのクラスDCか呪文DC(いずれか高い方)を使用して、@Check[fortitude|against:class-spell]を行わなければならない。失敗すると、そのクリーチャーは@Damage[1d6[persistent,acid]]ダメージを受け、痛みにより@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。大失敗すると、代わりに@Damage[2d6[persistent,acid]]ダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となる。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Venom Draw": {
@@ -608,7 +608,7 @@
     },
     "Debilitating Strike": {
       "name": "デビリテイティング・ストライク/Debilitating Strike",
-      "description": "<p><strong>トリガー</strong>あなたの〈ストライク〉がoff-guard状態のクリーチャーに命中し、ダメージを与える</p><hr /><p>あなたは以下の弱体化のうち1つを適用する。これはあなたの次のターン終了時まで持続する：</p><ul><li><strong>弱体化</strong>対象は移動速度に–10フィートの状況ペナルティを受ける。</li><li><strong>弱体化</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}状態となる。</li></ul>",
+      "description": "<p><strong>トリガー</strong>あなたの〈ストライク〉がoff-guard状態のクリーチャーに命中し、ダメージを与える</p><hr /><p>あなたは以下の弱体化のうち1つを適用する。これはあなたの次のターン終了時まで持続する：</p><ul><li><strong>弱体化</strong>対象は移動速度に–10フィートの状況ペナルティを受ける。</li><li><strong>弱体化</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となる。</li></ul>",
       "source": "Pathfinder Player Core"
     },
     "Entreat Pact": {
@@ -689,7 +689,7 @@
     },
     "Tangle in Riddle": {
       "name": "タングル・イン・リドル/Tangle in Riddle",
-      "description": "<p>あなたは言葉を超越した奇妙な公案を唱え、30フィート以内のただ一体の生物だけがそれを理解する。対象はあなたのクラス DC に対する @Check[will|against:exemplar] セーヴを行わなければならない。その後、対象はこの能力に対して 免疫 になる（免疫など） 1 時間。</p><hr /><p><strong>クリティカル成功</strong> 対象には影響がない。</p>\n<p><strong>成功</strong> 対象は @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1} 状態になり、1 の ラウンド を受ける。</p>\n<p><strong>失敗</strong> 対象はスタペファイド 1 になり、[[/gmr 1d4 #rounds]]{1d4 rounds} の間続く。</p>\n<p><strong>クリティカル失敗</strong> 対象はスタペファイド 1 かつ @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱} になり、[[/gmr 1d4 #rounds]]{1d4 rounds} の間続く。</p>",
+      "description": "<p>あなたは言葉を超越した奇妙な公案を唱え、30フィート以内のただ一体の生物だけがそれを理解する。対象はあなたのクラス DC に対する @Check[will|against:exemplar] セーヴを行わなければならない。その後、対象はこの能力に対して 免疫 になる（免疫など） 1 時間。</p><hr /><p><strong>クリティカル成功</strong> 対象には影響がない。</p>\n<p><strong>成功</strong> 対象は @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1} 状態になり、1 の ラウンド を受ける。</p>\n<p><strong>失敗</strong> 対象はスタペファイド 1 になり、[[/gmr 1d4 #rounds]]{1d4 rounds} の間続く。</p>\n<p><strong>クリティカル失敗</strong> 対象はスタペファイド 1 かつ @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱} になり、[[/gmr 1d4 #rounds]]{1d4 rounds} の間続く。</p>",
       "source": "Pathfinder #217: Death Sails a Wine-Dark Sea"
     },
     "Practical Research": {
@@ -725,7 +725,7 @@
     },
     "Ultimatum of Liberation": {
       "name": "アルティメイタム・オブ・リバレイション/Ultimatum of Liberation",
-      "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは他者を抑圧しているとあなたが信じるクリーチャーと、その命令に従うすべての者に対して最後通牒を宣言する。あなたの最後通牒を聞いた、あるいは後から知った他のすべてのクリーチャー(あなた自身を含む)は、あなたの言葉によって1日の間勇気づけられ、抑圧するクリーチャーとその同盟者が生み出す効果に対する意志セーヴに+2の状況ボーナスを得る。もし彼らがあなたから30フィート以内にいる場合、このボーナスは+3に増加する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.RPfpy4WzUzdwTeo0]{効果: Ultimatum of Liberation}</p>\n<p>さらに、そのクリーチャーとその同盟者がそれぞれ1日につき初めてあなたから30フィート以内に近づいたとき、彼らはあなたのクラスDCまたは呪文DC(いずれか高い方)に対する@Check[will|against:class-spell|traits:emotion,fear,mental]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}(クリティカル失敗なら@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2})状態となる。この2つ目の効果は感情、恐怖、精神のトレイトを持つ。抑圧するクリーチャーは、抑圧を永久に終わらせることに真実を以て同意することで、フリー・アクションとしてすべての効果を終了させることができる。そうでなければ、あなたの「Ultimatum of Liberation」には持続時間はなく、ただし一度に有効にできる「Ultimatum of Liberation」は1つだけである。もしあなたが2つ目の「Ultimatum of Liberation」を宣言した場合、1つ目の効果は終了する。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは他者を抑圧しているとあなたが信じるクリーチャーと、その命令に従うすべての者に対して最後通牒を宣言する。あなたの最後通牒を聞いた、あるいは後から知った他のすべてのクリーチャー(あなた自身を含む)は、あなたの言葉によって1日の間勇気づけられ、抑圧するクリーチャーとその同盟者が生み出す効果に対する意志セーヴに+2の状況ボーナスを得る。もし彼らがあなたから30フィート以内にいる場合、このボーナスは+3に増加する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.RPfpy4WzUzdwTeo0]{効果: Ultimatum of Liberation}</p>\n<p>さらに、そのクリーチャーとその同盟者がそれぞれ1日につき初めてあなたから30フィート以内に近づいたとき、彼らはあなたのクラスDCまたは呪文DC(いずれか高い方)に対する@Check[will|against:class-spell|traits:emotion,fear,mental]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}(クリティカル失敗なら@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2})状態となる。この2つ目の効果は感情、恐怖、精神のトレイトを持つ。抑圧するクリーチャーは、抑圧を永久に終わらせることに真実を以て同意することで、フリー・アクションとしてすべての効果を終了させることができる。そうでなければ、あなたの「Ultimatum of Liberation」には持続時間はなく、ただし一度に有効にできる「Ultimatum of Liberation」は1つだけである。もしあなたが2つ目の「Ultimatum of Liberation」を宣言した場合、1つ目の効果は終了する。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Beast's Charge": {
@@ -1059,7 +1059,7 @@
     },
     "Executioner's Volley": {
       "name": "エクセキューショナーズ・ボレー/Executioner's Volley",
-      "description": "<p><strong>使用制限</strong> once per day</p><hr /><p> あなたは部隊に致命的な狙撃隊として行動するよう命じる。あなたと指揮旗のオーラ内にいる各分隊員は、あなたが選んだ単一の目標に対してリアクションで遠隔の〔ストライク〕を行うことができる；抵抗と弱点の判定に関しては全ての攻撃のダメージを合算する。指定対象が生きているクリーチャーである場合、これらの攻撃はデストレイトを得る。指定した対象がこの戦術の結果として死亡した場合、指揮旗の影響範囲内にいる他のすべての敵はあなたのクラスDCに対する@Check[will|against:commander|options:inflicts:frightened|traits:emotion,fear,mental]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}になる；これは感情・恐怖・精神効果である。</p><hr /><p><strong>特殊</strong> もし分隊員のうちの一人が射程30フィート以上でダメージを与え、かつ唱えるのに2アクション以下で済むキャントリップを知っているか準備しているなら、その分隊員はこの戦術で通常与えられるアクションの代わりにそれを指定した敵に唱えることができ、その他記載の利点をすべて得る。</p>",
+      "description": "<p><strong>使用制限</strong> once per day</p><hr /><p> あなたは部隊に致命的な狙撃隊として行動するよう命じる。あなたと指揮旗のオーラ内にいる各分隊員は、あなたが選んだ単一の目標に対してリアクションで遠隔の〔ストライク〕を行うことができる；抵抗と弱点の判定に関しては全ての攻撃のダメージを合算する。指定対象が生きているクリーチャーである場合、これらの攻撃はデストレイトを得る。指定した対象がこの戦術の結果として死亡した場合、指揮旗の影響範囲内にいる他のすべての敵はあなたのクラスDCに対する@Check[will|against:commander|options:inflicts:frightened|traits:emotion,fear,mental]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}になる；これは感情・恐怖・精神効果である。</p><hr /><p><strong>特殊</strong> もし分隊員のうちの一人が射程30フィート以上でダメージを与え、かつ唱えるのに2アクション以下で済むキャントリップを知っているか準備しているなら、その分隊員はこの戦術で通常与えられるアクションの代わりにそれを指定した敵に唱えることができ、その他記載の利点をすべて得る。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Drape Ambient Magic": {
@@ -1152,7 +1152,7 @@
     },
     "Jinx": {
       "name": "ジンクス/Jinx",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong> あなたは別のクリーチャーに不器用さの呪いをかけることができる。この呪いの射程は30フィートで、対象を視認できなければならない。対象はあなたのクラスDCまたは呪文DCのうち高い方に対して、@Check[will|against:class-spell]のセーヴを得る。</p>\n<hr />\n<p><strong>成功</strong> 対象は影響を受けず、一時的に免疫となる（24時間）。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}となり、1分続く。</p>\n<p><strong>クリティカル失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}となり、1分続く。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong> あなたは別のクリーチャーに不器用さの呪いをかけることができる。この呪いの射程は30フィートで、対象を視認できなければならない。対象はあなたのクラスDCまたは呪文DCのうち高い方に対して、@Check[will|against:class-spell]のセーヴを得る。</p>\n<hr />\n<p><strong>成功</strong> 対象は影響を受けず、一時的に免疫となる（24時間）。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない1}となり、1分続く。</p>\n<p><strong>クリティカル失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない2}となり、1分続く。</p>",
       "source": "Pathfinder Player Core"
     },
     "Influence Rumor": {
@@ -1162,7 +1162,7 @@
     },
     "Fight with Fear": {
       "name": "ファイト・ウィズ・フィアー/Fight with Fear",
-      "description": "<p><strong>誘発</strong> あなたの視界にいるクリーチャーがあなたに対して精神効果を使おうとするとき</p>\n<hr />\n<p><strong>効果</strong> 誘発したクリーチャーは意志セーヴを行わなければならず、その結果は以下の通りである。</p>\n<hr />\n<p><strong>成功</strong> クリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong> クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となり、あなたは誘発した精神効果に対する自分のセーヴまたはその他の防御に+2の状態ボーナスを得る。</p>\n<p><strong>クリティカル失敗</strong> クリーチャーは2の恐怖状態になり、あなたは誘発した精神効果の影響を受けない。</p>",
+      "description": "<p><strong>誘発</strong> あなたの視界にいるクリーチャーがあなたに対して精神効果を使おうとするとき</p>\n<hr />\n<p><strong>効果</strong> 誘発したクリーチャーは意志セーヴを行わなければならず、その結果は以下の通りである。</p>\n<hr />\n<p><strong>成功</strong> クリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong> クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}となり、あなたは誘発した精神効果に対する自分のセーヴまたはその他の防御に+2の状態ボーナスを得る。</p>\n<p><strong>クリティカル失敗</strong> クリーチャーは2の恐怖状態になり、あなたは誘発した精神効果の影響を受けない。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Spin Tale": {
@@ -1243,7 +1243,7 @@
     },
     "Visions of Sin": {
       "name": "ビジョンズ・オブ・シン/Visions of Sin",
-      "description": "<p><strong>使用制限</strong> 10分に1回10分</p>\n<p>あなたのエイドロンは、30フィート以内の対象クリーチャーの精神にその罪のイメージを召喚し、対象を苦しめ混乱させる。対象は、以下の効果を伴うあなたの呪文のDCに対して、意志セーヴを行わなければならない。この効果はあなたの次のターン終了時まで持続するが、あなたのエイドロンは集中トレイトを持つ単一のアクションを使用して、効果を(呪文を維持するのと同様に)あなたの次のターン終了時まで延長することができる。最大持続時間は1分である。</p>\n<p>対象が悪である場合、そのセーヴに－2の状況ペナルティを受ける。成功したかどうかにかかわらず、対象は1日間1日の間、一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象はリアクションを使用できない。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となり、リアクションを使用できない。</p>\n<p><strong>クリティカル失敗</strong> 失敗と同様の効果に加え、対象は1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となる。混乱状態は延長できないが、その他の効果は延長できる。</p>",
+      "description": "<p><strong>使用制限</strong> 10分に1回10分</p>\n<p>あなたのエイドロンは、30フィート以内の対象クリーチャーの精神にその罪のイメージを召喚し、対象を苦しめ混乱させる。対象は、以下の効果を伴うあなたの呪文のDCに対して、意志セーヴを行わなければならない。この効果はあなたの次のターン終了時まで持続するが、あなたのエイドロンは集中トレイトを持つ単一のアクションを使用して、効果を(呪文を維持するのと同様に)あなたの次のターン終了時まで延長することができる。最大持続時間は1分である。</p>\n<p>対象が悪である場合、そのセーヴに－2の状況ペナルティを受ける。成功したかどうかにかかわらず、対象は1日間1日の間、一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象はリアクションを使用できない。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態となり、リアクションを使用できない。</p>\n<p><strong>クリティカル失敗</strong> 失敗と同様の効果に加え、対象は1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となる。混乱状態は延長できないが、その他の効果は延長できる。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Palm an Object": {
@@ -1253,7 +1253,7 @@
     },
     "Roaring Charge": {
       "name": "ロアリング・チャージ/Roaring Charge",
-      "description": "<p><strong>使用制限</strong> once per 10分</p><hr /><p>あなたと分隊は大いに吠えて突進する。司令官の旗のオーラ内にいる全ての分隊員に合図を送る。これらの分隊員は反応として、観察している任意の敵に向かって自分の移動速度の最大2倍までを直接〔ストライド〕できる。</p>\n<p>この戦術での全ての移動が完了した後、分隊員の近く（各分隊員から10フィート以内）にいる任意の生物は、あなたのクラスのDCに対する@Check[will|against:commander|options:inflicts:frightened,inflicts:fleeing|traits:emotion,fear,incapacitation,mental]セーヴを行わなければならない。これは感情・恐怖・無力化・精神効果である。</p><hr /><p><strong>クリティカル成功</strong> いいえ効果。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}。</p>\n<p><strong>クリティカル失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}かつ@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}となり、1 ラウンドの間続く。</p>",
+      "description": "<p><strong>使用制限</strong> once per 10分</p><hr /><p>あなたと分隊は大いに吠えて突進する。司令官の旗のオーラ内にいる全ての分隊員に合図を送る。これらの分隊員は反応として、観察している任意の敵に向かって自分の移動速度の最大2倍までを直接〔ストライド〕できる。</p>\n<p>この戦術での全ての移動が完了した後、分隊員の近く（各分隊員から10フィート以内）にいる任意の生物は、あなたのクラスのDCに対する@Check[will|against:commander|options:inflicts:frightened,inflicts:fleeing|traits:emotion,fear,incapacitation,mental]セーヴを行わなければならない。これは感情・恐怖・無力化・精神効果である。</p><hr /><p><strong>クリティカル成功</strong> いいえ効果。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}。</p>\n<p><strong>クリティカル失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3}かつ@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}となり、1 ラウンドの間続く。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Talon Stance": {
@@ -1269,7 +1269,7 @@
     },
     "Psychic Defense": {
       "name": "サイキック・ディフェンス/Psychic Defense",
-      "description": "<p><strong>トリガー</strong> 対戦相手があなたに対してサイキックな顕現を使用する。</p>\n<p><strong>必要条件</strong> あなたはサイキック・デュエル中であり、サイキック・センターが集中状態にある。</p>\n<hr />\n<p>あなたは、トリガーとなった顕現に対して、自身のサイキック・センターと一致する恩恵を得る。その後、あなたのサイキック・センターは消費される。</p>\n<p><strong>洞察の鎧(《知覚》)</strong> 迫りくる攻撃を感知し、あなたは精神をサイキックによる危害に抵抗させる。あなたはトリガーとなった効果に対して、精神ダメージへの、自身のレベルの半分(最低1)に等しい耐性を得る。この耐性は、あなたが《知覚》のマスターであれば2倍になり、レジェンダリーであれば3倍になる。</p>\n<p><strong>共感の軌道(《交渉》)</strong> 共感を示すことで、あなたは攻撃者に疑念を植え付け、サイキック戦闘に対する彼らの決意を減退させる。相手は、次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}状態となり、もしあなたが《交渉》でレジェンダリーであれば@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる。</p>\n<p><strong>憤怒の槍(《威圧》)</strong> 精神の中に燃え上がる怒りが湧き上がり、あなたを傷つける者に反動を与える。その顕現があなたにダメージを与えた場合、相手はそれを使用した顕現の対抗ランク打ち消しに等しいダメージを受ける。このダメージは、あなたが《威圧》のマスターであれば2倍になり、レジェンダリーであれば3倍になる。</p>\n<p><strong>理性の迷宮(《神秘学》)</strong> 攻撃を分析的に分解することで、あなたは精神の防御を、それを困惑させるように設計されたパズルへと再構成する。あなたは自身の意志セーヴまたは意志DCに＋2の状況ボーナスを得る。その効果が感情トレイトを持つ場合、このボーナスは＋4になる。</p>\n<p><strong>感覚の幻影(《欺瞞》)</strong> 自身の策略を用いて、あなたは精神的なリンクを通じて敵にサイキックな幻影を送り込み、あなた自身を特定しにくくする。あなたは相手の次のターンの終了時まで、その相手に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となる。</p>",
+      "description": "<p><strong>トリガー</strong> 対戦相手があなたに対してサイキックな顕現を使用する。</p>\n<p><strong>必要条件</strong> あなたはサイキック・デュエル中であり、サイキック・センターが集中状態にある。</p>\n<hr />\n<p>あなたは、トリガーとなった顕現に対して、自身のサイキック・センターと一致する恩恵を得る。その後、あなたのサイキック・センターは消費される。</p>\n<p><strong>洞察の鎧(《知覚》)</strong> 迫りくる攻撃を感知し、あなたは精神をサイキックによる危害に抵抗させる。あなたはトリガーとなった効果に対して、精神ダメージへの、自身のレベルの半分(最低1)に等しい耐性を得る。この耐性は、あなたが《知覚》のマスターであれば2倍になり、レジェンダリーであれば3倍になる。</p>\n<p><strong>共感の軌道(《交渉》)</strong> 共感を示すことで、あなたは攻撃者に疑念を植え付け、サイキック戦闘に対する彼らの決意を減退させる。相手は、次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}状態となり、もしあなたが《交渉》でレジェンダリーであれば@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁2}状態となる。</p>\n<p><strong>憤怒の槍(《威圧》)</strong> 精神の中に燃え上がる怒りが湧き上がり、あなたを傷つける者に反動を与える。その顕現があなたにダメージを与えた場合、相手はそれを使用した顕現の対抗ランク打ち消しに等しいダメージを受ける。このダメージは、あなたが《威圧》のマスターであれば2倍になり、レジェンダリーであれば3倍になる。</p>\n<p><strong>理性の迷宮(《神秘学》)</strong> 攻撃を分析的に分解することで、あなたは精神の防御を、それを困惑させるように設計されたパズルへと再構成する。あなたは自身の意志セーヴまたは意志DCに＋2の状況ボーナスを得る。その効果が感情トレイトを持つ場合、このボーナスは＋4になる。</p>\n<p><strong>感覚の幻影(《欺瞞》)</strong> 自身の策略を用いて、あなたは精神的なリンクを通じて敵にサイキックな幻影を送り込み、あなた自身を特定しにくくする。あなたは相手の次のターンの終了時まで、その相手に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となる。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Ready, Aim, Fire!": {
@@ -1354,7 +1354,7 @@
     },
     "Drain Life": {
       "name": "ドレイン・ライフ/Drain Life",
-      "description": "<p>あなたのエイドロンは生きているクリーチャーを攻撃し、そのクリーチャーの生命力の一部を吸収して、あなたとの共有リンクを養う。あなたのエイドロンは生きている敵に対して〈ストライク〉を行う。その〈ストライク〉が命中し、ダメージを与えるを与えた場合、対象は頑健セーヴを行わなければならない。結果は以下の通りとなる。クリティカルヒットの場合、その敵は出目よりも1段階悪い結果を使用する。</p>\n<p><strong>クリティカル成功</strong> 効果なし。</p>\n<p><strong>成功</strong> あなたのエイドロンは少量の生命力を吸収する。その敵はあなたのレベルの半分に等しい虚無ダメージを追加で受ける。</p>\n<p><strong>失敗</strong> あなたのエイドロンは満足するのに十分な生命力を吸収する。その敵はあなたのレベルの半分に等しい虚無ダメージを追加で受け、@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}状態となる。あなたのエイドロンは敵のレベルに等しい　一時的ヒット・ポイントを得る。これは1分持続する。</p>\n<p><strong>クリティカル失敗</strong> あなたのエイドロンは莫大な生命力を吸収し、エネルギーで完全に満たされる。効果は「失敗」と同様だが、その敵は@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}状態となり、一時的ヒット・ポイントは敵のレベルの2倍に等しい。</p>",
+      "description": "<p>あなたのエイドロンは生きているクリーチャーを攻撃し、そのクリーチャーの生命力の一部を吸収して、あなたとの共有リンクを養う。あなたのエイドロンは生きている敵に対して〈ストライク〉を行う。その〈ストライク〉が命中し、ダメージを与えるを与えた場合、対象は頑健セーヴを行わなければならない。結果は以下の通りとなる。クリティカルヒットの場合、その敵は出目よりも1段階悪い結果を使用する。</p>\n<p><strong>クリティカル成功</strong> 効果なし。</p>\n<p><strong>成功</strong> あなたのエイドロンは少量の生命力を吸収する。その敵はあなたのレベルの半分に等しい虚無ダメージを追加で受ける。</p>\n<p><strong>失敗</strong> あなたのエイドロンは満足するのに十分な生命力を吸収する。その敵はあなたのレベルの半分に等しい虚無ダメージを追加で受け、@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態となる。あなたのエイドロンは敵のレベルに等しい　一時的ヒット・ポイントを得る。これは1分持続する。</p>\n<p><strong>クリティカル失敗</strong> あなたのエイドロンは莫大な生命力を吸収し、エネルギーで完全に満たされる。効果は「失敗」と同様だが、その敵は@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2}状態となり、一時的ヒット・ポイントは敵のレベルの2倍に等しい。</p>",
       "source": "Pathfinder Book of the Dead"
     },
     "Reloading Strike": {
@@ -1407,7 +1407,7 @@
     },
     "Makes Me Stronger": {
       "name": "メイクス・ミー・ストロンガー/Makes Me Stronger",
-      "description": "<p><strong>トリガー</strong>あなたが自身の英雄的な弱点からダメージを受け、かつそのダメージによってヒット・ポイントが1未満にならない場合</p><hr /><p><strong>効果</strong>あなたは自身の弱点を克服する様子を見せつける。筋肉を誇示する、挑戦的な咆哮を上げる、痛みを笑い飛ばす、あるいは単にそのダメージが全く気にならないかのように振る舞うなど、その方法は問わない。あなたの呪文は、トリガーとなったクリーチャーに対するダメージに、その呪文のランクの2倍に等しい状況ボーナスを得る。これはあなたがこのリアクションを次に行うまで持続する。加えて、あなたの英雄的な弱点によってあなたにダメージを与えたクリーチャーは、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2})になることを避けるため、あなたのクラスDCまたは呪文発動DCのいずれか高い方に対して意志セーヴを行わなければならない。</p>",
+      "description": "<p><strong>トリガー</strong>あなたが自身の英雄的な弱点からダメージを受け、かつそのダメージによってヒット・ポイントが1未満にならない場合</p><hr /><p><strong>効果</strong>あなたは自身の弱点を克服する様子を見せつける。筋肉を誇示する、挑戦的な咆哮を上げる、痛みを笑い飛ばす、あるいは単にそのダメージが全く気にならないかのように振る舞うなど、その方法は問わない。あなたの呪文は、トリガーとなったクリーチャーに対するダメージに、その呪文のランクの2倍に等しい状況ボーナスを得る。これはあなたがこのリアクションを次に行うまで持続する。加えて、あなたの英雄的な弱点によってあなたにダメージを与えたクリーチャーは、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2})になることを避けるため、あなたのクラスDCまたは呪文発動DCのいずれか高い方に対して意志セーヴを行わなければならない。</p>",
       "source": "Pathfinder #218: Titanbane"
     },
     "Feral Swing": {
@@ -1555,7 +1555,7 @@
     },
     "End It!": {
       "name": "エンド・イット！/End It!",
-      "description": "<p><strong>必要条件</strong> 現在、戦場においてあなたとあなたの同盟者は敵の数より多く、かつあなたの前回のターンの開始以降に、あなたか分隊員が敵1体のヒット・ポイントを0にしている。</p><hr /><p>勝利は目前であるというあなたの宣言とともに、あなたの同盟者は威圧的な足踏みをして前進し、敵を恐怖で散り散りにする。あなたのバナーのオーラ内にいるすべての分隊員に合図を送る。あなたと各同盟者は、敵対的なクリーチャーに向かって直接、フリー・アクションとして〈ステップ〉を行える。この移動の後、分隊員の10フィート以内にいる敵対的なクリーチャーはすべて、あなたのクラスDCに対して@Check[will|against:commander|options:area-effect,inflicts:fleeing,inflicts:frightened|traits:emotion,fear,mental]を行わなければならない。失敗した場合、そのクリーチャーは1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}状態となる。大失敗した場合、そのクリーチャーは1ラウンドの間、逃走状態となり、さらに@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となる。これは感情、恐怖、精神の各効果である。</p>",
+      "description": "<p><strong>必要条件</strong> 現在、戦場においてあなたとあなたの同盟者は敵の数より多く、かつあなたの前回のターンの開始以降に、あなたか分隊員が敵1体のヒット・ポイントを0にしている。</p><hr /><p>勝利は目前であるというあなたの宣言とともに、あなたの同盟者は威圧的な足踏みをして前進し、敵を恐怖で散り散りにする。あなたのバナーのオーラ内にいるすべての分隊員に合図を送る。あなたと各同盟者は、敵対的なクリーチャーに向かって直接、フリー・アクションとして〈ステップ〉を行える。この移動の後、分隊員の10フィート以内にいる敵対的なクリーチャーはすべて、あなたのクラスDCに対して@Check[will|against:commander|options:area-effect,inflicts:fleeing,inflicts:frightened|traits:emotion,fear,mental]を行わなければならない。失敗した場合、そのクリーチャーは1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}状態となる。大失敗した場合、そのクリーチャーは1ラウンドの間、逃走状態となり、さらに@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態となる。これは感情、恐怖、精神の各効果である。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Run Over": {
@@ -1846,7 +1846,7 @@
     },
     "Slip and Sizzle": {
       "name": "スリップ・アンド・シズル/Slip and Sizzle",
-      "description": "<p>あなたのチームは、相手を転倒させ、魔法による壊滅的な打撃を与えるために設計されたブルータルな戦術を実行する。あなたのコマンダーのバナーのオーラ内にいる最大2人の分隊員に合図を送る。そのうち1人は相手に隣接していなければならず、もう1人はダメージを与える呪文を発動できなければならない。最初の分隊員は、隣接する相手に対して@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}をリアクションとして行うことができる。この〈足払い〉が成功した場合、2人目の分隊員は、ダメージを与えるかつ発動に2アクション以下を要する遠隔呪文を発動できる。この呪文はリアクションとして発動され、転倒した相手を対象とするか、転倒した相手をその呪文の範囲に含めなければならない。</p>\n<p>2人目の分隊員がこの戦術の一環としてスロットやフォーカス・ポイントを使用して呪文を発動した場合、その分隊員は次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1}状態となり、次のターンの開始時にアクションを回復する際、リアクションを得られない。</p>",
+      "description": "<p>あなたのチームは、相手を転倒させ、魔法による壊滅的な打撃を与えるために設計されたブルータルな戦術を実行する。あなたのコマンダーのバナーのオーラ内にいる最大2人の分隊員に合図を送る。そのうち1人は相手に隣接していなければならず、もう1人はダメージを与える呪文を発動できなければならない。最初の分隊員は、隣接する相手に対して@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}をリアクションとして行うことができる。この〈足払い〉が成功した場合、2人目の分隊員は、ダメージを与えるかつ発動に2アクション以下を要する遠隔呪文を発動できる。この呪文はリアクションとして発動され、転倒した相手を対象とするか、転倒した相手をその呪文の範囲に含めなければならない。</p>\n<p>2人目の分隊員がこの戦術の一環としてスロットやフォーカス・ポイントを使用して呪文を発動した場合、その分隊員は次のターンの終了時まで@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態となり、次のターンの開始時にアクションを回復する際、リアクションを得られない。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Make an Impression": {
@@ -1936,7 +1936,7 @@
     },
     "Demoralizing Charge": {
       "name": "デモラライジング・チャージ/Demoralizing Charge",
-      "description": "<p>チームの連携した強襲は、敵の心に恐怖を植え付ける。コマンダーのバナーのオーラ内にいる最大2人の分隊員に合図を送る。フリー・アクションとして、それらの分隊員は直ちに、彼らが観測している敵に向かって〈ストライド〉できる。</p>\n<p>もし彼らがこの移動を敵に隣接して終了したなら、彼らはリアクションとしてその敵に対して〈ストライク〉を行うことができる。これらのストライクが成功するたびに、対象の敵は君のクラスDCに対して@Check[will|against:commander|options:inflicts:frightened|traits:emotion,fear,mental]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態となる(クリティカル失敗なら@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となる)。これは感情、恐怖、精神の効果である。</p>\n<p>両方のストライクが同じ敵を目標とした場合、その敵は最後の攻撃の後に1回だけセーヴを行い、この効果に抵抗するための意志セーヴに－1の状況ペナルティを受ける(このペナルティは、両方のストライクが成功した場合は－2に、あるいは両方のストライクが成功し、かつどちらかがクリティカルヒットであった場合は－3に増加する)。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.91qBP1n04xsKeXkE]{効果: Demoralizing Charge}</p>",
+      "description": "<p>チームの連携した強襲は、敵の心に恐怖を植え付ける。コマンダーのバナーのオーラ内にいる最大2人の分隊員に合図を送る。フリー・アクションとして、それらの分隊員は直ちに、彼らが観測している敵に向かって〈ストライド〉できる。</p>\n<p>もし彼らがこの移動を敵に隣接して終了したなら、彼らはリアクションとしてその敵に対して〈ストライク〉を行うことができる。これらのストライクが成功するたびに、対象の敵は君のクラスDCに対して@Check[will|against:commander|options:inflicts:frightened|traits:emotion,fear,mental]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態となる(クリティカル失敗なら@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態となる)。これは感情、恐怖、精神の効果である。</p>\n<p>両方のストライクが同じ敵を目標とした場合、その敵は最後の攻撃の後に1回だけセーヴを行い、この効果に抵抗するための意志セーヴに－1の状況ペナルティを受ける(このペナルティは、両方のストライクが成功した場合は－2に、あるいは両方のストライクが成功し、かつどちらかがクリティカルヒットであった場合は－3に増加する)。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.91qBP1n04xsKeXkE]{効果: Demoralizing Charge}</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Identify Alchemy": {
@@ -1971,7 +1971,7 @@
     },
     "Overawe Crowd": {
       "name": "オーバーオー・クラウド/Overawe Crowd",
-      "description": "<p><strong>必要条件</strong> あなたはスウォームと同じ空間を共有しているか、トループに隣接している。</p><hr /><p><strong>効果</strong> 1 ミシック・ポイントを費やし、対象となるスウォームまたはトループの意志DCに対して、神話的習熟度で《威圧》判定を行う。失敗時、対象はあなたが選択した方向にストライドし、あなたもそれに伴って移動する。成功時、対象はあなたが選択した方向に2回ストライドし、あなたはその移動に伴うかどうかを決定できる。結果に関わらず、対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1}状態となり、24時間の間、あなたの群衆威圧に対して一時的な免疫となる。</p>",
+      "description": "<p><strong>必要条件</strong> あなたはスウォームと同じ空間を共有しているか、トループに隣接している。</p><hr /><p><strong>効果</strong> 1 ミシック・ポイントを費やし、対象となるスウォームまたはトループの意志DCに対して、神話的習熟度で《威圧》判定を行う。失敗時、対象はあなたが選択した方向にストライドし、あなたもそれに伴って移動する。成功時、対象はあなたが選択した方向に2回ストライドし、あなたはその移動に伴うかどうかを決定できる。結果に関わらず、対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}状態となり、24時間の間、あなたの群衆威圧に対して一時的な免疫となる。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Quick Tincture": {
@@ -2046,7 +2046,7 @@
     },
     "Grim Swagger": {
       "name": "グリム・スワガー/Grim Swagger",
-      "description": "<p><strong>必要条件</strong>あなたは片手用火器または片手用クロスボウを、目に見える形で着用しているか、手に持っている。</p><hr /><p>あなたは、自分の言うことを聞かない者には悲惨な運命が待っていると素早く約束することで、部屋を一掃しようと試みる。味方を除く、30フィート以内にいる各クリーチャーの意志DCに対して、@Check[deception]または@Check[intimidation]判定を行う。成功したか失敗したかに関わらず、各対象は10分の間、あなたの「Grim Swagger」に対して一時的な免疫となる。</p>\n<p>例えば、あなたが《欺瞞》判定を行う場合、あなたは自分の腕前や、自分を支援するために向かっている大勢の友人について嘘をつき、自慢する。もしあなたが《威圧》判定を行う場合、あなたは部屋にいる全員に対し、自分が彼らの最期に見るものになると約束する。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 3}となる。そのクリーチャーのレベルがあなたより低い場合、さらに1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}となる。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは片手用火器または片手用クロスボウを、目に見える形で着用しているか、手に持っている。</p><hr /><p>あなたは、自分の言うことを聞かない者には悲惨な運命が待っていると素早く約束することで、部屋を一掃しようと試みる。味方を除く、30フィート以内にいる各クリーチャーの意志DCに対して、@Check[deception]または@Check[intimidation]判定を行う。成功したか失敗したかに関わらず、各対象は10分の間、あなたの「Grim Swagger」に対して一時的な免疫となる。</p>\n<p>例えば、あなたが《欺瞞》判定を行う場合、あなたは自分の腕前や、自分を支援するために向かっている大勢の友人について嘘をつき、自慢する。もしあなたが《威圧》判定を行う場合、あなたは部屋にいる全員に対し、自分が彼らの最期に見るものになると約束する。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3}となる。そのクリーチャーのレベルがあなたより低い場合、さらに1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}となる。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}となる。</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Pitch-Perfect Projection": {
@@ -2066,7 +2066,7 @@
     },
     "Master Strike": {
       "name": "マスター・ストライク/Master Strike",
-      "description": "<p><strong>トリガー</strong>あなたの〈ストライク〉が@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーに命中し、ダメージを与えるを与えた。</p>\n<hr />\n<p>対象はあなたのクラスDCに対して@Check[fortitude|against:rogue]セーヴィング・スローを行う。その後、対象はあなたのマスター〈ストライク〉に対して1日の間、一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}状態となる。あなたの次のターン終了時まで。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる(期間は4ラウンド)。</p>\n<p><strong>クリティカル失敗</strong>対象は麻痺状態となる(期間は4ラウンド)、@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態となる(期間は2時間)、あるいは死亡する(あなたの選択)。</p>",
+      "description": "<p><strong>トリガー</strong>あなたの〈ストライク〉が@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーに命中し、ダメージを与えるを与えた。</p>\n<hr />\n<p>対象はあなたのクラスDCに対して@Check[fortitude|against:rogue]セーヴィング・スローを行う。その後、対象はあなたのマスター〈ストライク〉に対して1日の間、一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}状態となる。あなたの次のターン終了時まで。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となる(期間は4ラウンド)。</p>\n<p><strong>クリティカル失敗</strong>対象は麻痺状態となる(期間は4ラウンド)、@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態となる(期間は2時間)、あるいは死亡する(あなたの選択)。</p>",
       "source": "Pathfinder Player Core"
     },
     "Craft": {
@@ -2076,7 +2076,7 @@
     },
     "Toxic Touch": {
       "name": "トキシック・タッチ/Toxic Touch",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong>あなたの直前のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}であり、かつ敵のスペースを通り抜けることに成功していること。</p>\n<hr />\n<p><strong>効果</strong>あなたが通り抜けたスペースの敵に対して、近接の素手による〈ストライク〉を行う。命中した場合、対象は@Damage[1d6[persistent,poison]]のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる(クリティカルヒットの場合は、@Damage[2d6[persistent,poison]]のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる)。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong>あなたの直前のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}であり、かつ敵のスペースを通り抜けることに成功していること。</p>\n<hr />\n<p><strong>効果</strong>あなたが通り抜けたスペースの敵に対して、近接の素手による〈ストライク〉を行う。命中した場合、対象は@Damage[1d6[persistent,poison]]のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる(クリティカルヒットの場合は、@Damage[2d6[persistent,poison]]のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となる)。</p>",
       "source": "Pathfinder Rage of Elements"
     },
     "Runelord's Response": {
@@ -2269,7 +2269,7 @@
     },
     "Glimpse of Redemption": {
       "name": "グリンプス・オブ・リデンプション/Glimpse of Redemption",
-      "description": "<p><strong>トリガー</strong> An enemy damages your ally, and both are in your champion's aura;</p><hr /><p><strong>効果</strong> Your enemy hesitates under the weight of sin as visions of redemption play in their mind's eye. The enemy must choose to repent or refuse, with the following effects. If the enemy is mindless or otherwise unable to repent, use the refuse result.</p><ul><li><strong>Repent</strong> The ally is unharmed by the triggering damage.</li><li><p><strong>Refuse</strong> The ally gains 耐性 to all damage against the triggering damage equal to 2 + your level. After the damaging effect is applied, the enemy becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2} until the end of its next turn</p></li></ul><p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{効果: チャンピオン's Resistance}</p>",
+      "description": "<p><strong>トリガー</strong> An enemy damages your ally, and both are in your champion's aura;</p><hr /><p><strong>効果</strong> Your enemy hesitates under the weight of sin as visions of redemption play in their mind's eye. The enemy must choose to repent or refuse, with the following effects. If the enemy is mindless or otherwise unable to repent, use the refuse result.</p><ul><li><strong>Repent</strong> The ally is unharmed by the triggering damage.</li><li><p><strong>Refuse</strong> The ally gains 耐性 to all damage against the triggering damage equal to 2 + your level. After the damaging effect is applied, the enemy becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2} until the end of its next turn</p></li></ul><p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{効果: チャンピオン's Resistance}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Clear a Path": {
@@ -2279,7 +2279,7 @@
     },
     "Bullying Press": {
       "name": "ブリーイング・プレス/Bullying Press",
-      "description": "<p><strong>トリガー</strong>あなたは対戦相手に対して近接〈ストライク〉を行うが、まだダイスを振っていない。</p>\n<p><strong>必要条件</strong>あなたは決闘中であり、《威圧》に訓練済みしており、このラウンドのイニシアチブのために《威圧》判定をロールしている。</p>\n<hr />\n<p>もしあなたが命中させたなら、対戦相手は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}となる。この能力が使用された際に対戦相手がイニシアチブのために《知覚》を使用していたなら、代わりに@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}となる。</p>",
+      "description": "<p><strong>トリガー</strong>あなたは対戦相手に対して近接〈ストライク〉を行うが、まだダイスを振っていない。</p>\n<p><strong>必要条件</strong>あなたは決闘中であり、《威圧》に訓練済みしており、このラウンドのイニシアチブのために《威圧》判定をロールしている。</p>\n<hr />\n<p>もしあなたが命中させたなら、対戦相手は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}となる。この能力が使用された際に対戦相手がイニシアチブのために《知覚》を使用していたなら、代わりに@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}となる。</p>",
       "source": "Pathfinder GM Core"
     },
     "Giant-Felling Comet": {
@@ -2294,7 +2294,7 @@
     },
     "Ring Bell": {
       "name": "リング・ベル/Ring Bell",
-      "description": "<p><strong>トリガー</strong>あなたの「Exploit Vulnerability」の対象が、あなたまたはあなたの味方の1人に影響を及ぼす〈ストライク〉を行うか、呪文を発動する。</p>\n<p><strong>必要条件</strong>あなたはベルのインプリメントを保持しており、トリガーとなったクリーチャーがあなたから30フィート以内にいる。</p><hr /><p>あなたのインプリメントが突然鳴り響き、敵を妨害する。演奏される曲は、トリガーが〈ストライク〉であったか呪文であったかによって異なり、特に記載がない限り、トリガーとなった〈ストライク〉または呪文に適用される。</p><ul><li><strong>ディストラクティング・カコフォニー</strong>トリガーが呪文である。あなたは対象を襲い、その集中を乱す音響エネルギーの音楽的な衝突を作り出す。対象はあなたのクラスDCに対する@Check[fortitude|against:thaumaturge]セーヴに成功しなければならず、失敗するとあなたの次のターン終了時まで@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 1}となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}となる)。対象はトリガーとなった呪文を失うことを避けるためのフラット・判定を行う必要はないが、不協和音の響きは、stupefied状態によってトリガーとなった呪文の呪文攻撃修正や呪文DCを低下させる。</li><li><strong>ディスラプティング・ハーモニー</strong>トリガーが〈ストライク〉である。あなたは敵の肉体に染み込み、その動きを狂わせる奇妙な不協和音を作り出す。対象はあなたのクラスDCに対する@Check[will|against:thaumaturge]セーヴに成功しなければならず、失敗するとあなたの次のターン終了時まで、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}か@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1}のいずれか(あなたが選択する)となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}か@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2}となる)。</li></ul>",
+      "description": "<p><strong>トリガー</strong>あなたの「Exploit Vulnerability」の対象が、あなたまたはあなたの味方の1人に影響を及ぼす〈ストライク〉を行うか、呪文を発動する。</p>\n<p><strong>必要条件</strong>あなたはベルのインプリメントを保持しており、トリガーとなったクリーチャーがあなたから30フィート以内にいる。</p><hr /><p>あなたのインプリメントが突然鳴り響き、敵を妨害する。演奏される曲は、トリガーが〈ストライク〉であったか呪文であったかによって異なり、特に記載がない限り、トリガーとなった〈ストライク〉または呪文に適用される。</p><ul><li><strong>ディストラクティング・カコフォニー</strong>トリガーが呪文である。あなたは対象を襲い、その集中を乱す音響エネルギーの音楽的な衝突を作り出す。対象はあなたのクラスDCに対する@Check[fortitude|against:thaumaturge]セーヴに成功しなければならず、失敗するとあなたの次のターン終了時まで@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁2}となる)。対象はトリガーとなった呪文を失うことを避けるためのフラット・判定を行う必要はないが、不協和音の響きは、stupefied状態によってトリガーとなった呪文の呪文攻撃修正や呪文DCを低下させる。</li><li><strong>ディスラプティング・ハーモニー</strong>トリガーが〈ストライク〉である。あなたは敵の肉体に染み込み、その動きを狂わせる奇妙な不協和音を作り出す。対象はあなたのクラスDCに対する@Check[will|against:thaumaturge]セーヴに成功しなければならず、失敗するとあなたの次のターン終了時まで、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}か@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない1}のいずれか(あなたが選択する)となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}か@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない2}となる)。</li></ul>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Fire in the Hole": {
@@ -2407,7 +2407,7 @@
     },
     "Patron's Presence": {
       "name": "パトロンズ・プレゼンス/Patron's Presence",
-      "description": "<p><strong>使用制限</strong> 1時間に1回</p>\n<hr />\n<p><strong>効果</strong>触知可能な重圧が、あなたの使い魔から@Template[emanation|distance:15]に広がる。オーラ内に入った、あるいはオーラ内でターンを開始した敵は、あなたの呪文DCに対する意志セーヴに成功しなければならず、失敗した場合はオーラ内に留まっている間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 2}状態となる。大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁 3}状態となる。オーラは　あなたの次のターン終了時まで持続するが、使い魔はそれを最大1分〈維持〉できる。</p>",
+      "description": "<p><strong>使用制限</strong> 1時間に1回</p>\n<hr />\n<p><strong>効果</strong>触知可能な重圧が、あなたの使い魔から@Template[emanation|distance:15]に広がる。オーラ内に入った、あるいはオーラ内でターンを開始した敵は、あなたの呪文DCに対する意志セーヴに成功しなければならず、失敗した場合はオーラ内に留まっている間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁2}状態となる。大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁3}状態となる。オーラは　あなたの次のターン終了時まで持続するが、使い魔はそれを最大1分〈維持〉できる。</p>",
       "source": "Pathfinder Player Core"
     },
     "Sever Conduit": {
@@ -2462,7 +2462,7 @@
     },
     "Stridulating Song": {
       "name": "ストリジュレイティング・ソング/Stridulating Song",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>あなたは翼に魔力を循環させ、高速で振動させることで、その擦れる音が破壊的な音を生み出すようにする。あなたは30フィート以内にいるクリーチャー1体にその音を集中させる。そのクリーチャーはあなたのクラスDCまたは呪文DC(高い方)に対して@Check[fortitude|against:class-spell]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となり、大失敗すると振動が内耳の平衡感覚を乱すため@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる。あなたは最大1分の間、この効果を〈維持〉できる。あなたが歌を続け、かつ対象がそれを聞くことができる限り、対象はそのsickened状態から回復できない。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>あなたは翼に魔力を循環させ、高速で振動させることで、その擦れる音が破壊的な音を生み出すようにする。あなたは30フィート以内にいるクリーチャー1体にその音を集中させる。そのクリーチャーはあなたのクラスDCまたは呪文DC(高い方)に対して@Check[fortitude|against:class-spell]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となり、大失敗すると振動が内耳の平衡感覚を乱すため@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となる。あなたは最大1分の間、この効果を〈維持〉できる。あなたが歌を続け、かつ対象がそれを聞くことができる限り、対象はそのsickened状態から回復できない。</p>",
       "source": "Pathfinder Howl of the Wild"
     },
     "Shadow Step": {
@@ -2502,7 +2502,7 @@
     },
     "Threatening Approach": {
       "name": "スレトニング・アプローチ/Threatening Approach",
-      "description": "<p>あなたは敵に隣接するように〈ストライド〉し、その敵を[[/act demoralize]]する。成功した場合、その敵は「恐れ1」ではなく@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2状態}となる。</p>",
+      "description": "<p>あなたは敵に隣接するように〈ストライド〉し、その敵を[[/act demoralize]]する。成功した場合、その敵は「恐れ1」ではなく@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2状態}となる。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Tell Me More": {
@@ -2542,7 +2542,7 @@
     },
     "Primal Howl": {
       "name": "プライマル・ハウル/Primal Howl",
-      "description": "<p><strong>使用制限</strong> 1時間に1回</p><hr /><p><strong>効果</strong>あなたのアニマル・コンパニオンが自然の魔法を帯びて金切り声を上げ、遠吠えする。@Template[cone|distance:30]にいるすべてのクリーチャーは、あなたのコンパニオンのレベル2ごとに@Damage[(floor(@actor.level/2))d6[sonic]|options:area-damage]ダメージを受ける。これに対し、あなたの呪文のDCに対する@Check[fortitude|against:spell|basic|options:area-effect]セーヴを行える。失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態となり、大失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態となる。この恐怖は感情、恐怖、精神の効果である。</p>",
+      "description": "<p><strong>使用制限</strong> 1時間に1回</p><hr /><p><strong>効果</strong>あなたのアニマル・コンパニオンが自然の魔法を帯びて金切り声を上げ、遠吠えする。@Template[cone|distance:30]にいるすべてのクリーチャーは、あなたのコンパニオンのレベル2ごとに@Damage[(floor(@actor.level/2))d6[sonic]|options:area-damage]ダメージを受ける。これに対し、あなたの呪文のDCに対する@Check[fortitude|against:spell|basic|options:area-effect]セーヴを行える。失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態となり、大失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態となる。この恐怖は感情、恐怖、精神の効果である。</p>",
       "source": "Pathfinder Player Core"
     },
     "Touch and Go": {
@@ -2572,7 +2572,7 @@
     },
     "Sickening Assault": {
       "name": "シックニング・アサルト/Sickening Assault",
-      "description": "|||<p><strong>使用制限</strong> 1分に1回</p>\n<p><strong>必要条件</strong> あなたのエイドロンが分散している。</p><hr /><p>あなたエイドロンは敵に可能な限り最大のダメージを与えることに集中する。あなたのエイドロンの次のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.Wukpm200zHDuS85V]{〈スウォーミング・アサルト〉}を使用することである場合、そのSwarming Assaultのダメージダイスの数は2倍になる。さらに、そのSwarming Assaultに対して反応セーヴに失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となり(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 4}状態となる)。</p>|||",
+      "description": "|||<p><strong>使用制限</strong> 1分に1回</p>\n<p><strong>必要条件</strong> あなたのエイドロンが分散している。</p><hr /><p>あなたエイドロンは敵に可能な限り最大のダメージを与えることに集中する。あなたのエイドロンの次のアクションが@UUID[Compendium.pf2e.actionspf2e.Item.Wukpm200zHDuS85V]{〈スウォーミング・アサルト〉}を使用することである場合、そのSwarming Assaultのダメージダイスの数は2倍になる。さらに、そのSwarming Assaultに対して反応セーヴに失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となり(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調4}状態となる)。</p>|||",
       "source": "Pathfinder Battlecry!"
     },
     "Indomitable Act": {
@@ -2816,7 +2816,7 @@
     },
     "Bloody Guillotine": {
       "name": "ブラッディ・ギロチン/Bloody Guillotine",
-      "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p>あなたの分隊は、敵を打ち倒し、永久に無力化しようとする残忍な複合攻撃を行う。あなたのコマンダーのバナーのオーラ内にいる最大3人の分隊員を選び、合図を送る。各分隊員は、あなたがフリー・アクションとして指定した単一の敵に向かって、自身の移動速度の半分まで〈ストライド〉できる。移動を終えた時点で指定した対象に隣接している者は誰でも、@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}または〈ストライク〉をリアクションとして試みることができる。</p>\n<p>この戦術による〈ストライク〉で@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態の敵が初めてダメージを受けた場合、その敵は直ちにあなたのクラスDCに対して@Check[fortitude|against:commander|traits:death,incapacitation]セーヴを行わなければならず、失敗すると死亡する。これは即死効果および無力化効果である。「ブラッディ・ギロチン」によってクリーチャーが殺されるのを目撃したすべての敵は、あなたのクラスDCに対して@Check[will|against:commander|options:inflicts:sickened|traits:emotion,mental]セーヴに成功しなければ、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる(大失敗した場合は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる)。これは感情効果および精神効果である。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p>あなたの分隊は、敵を打ち倒し、永久に無力化しようとする残忍な複合攻撃を行う。あなたのコマンダーのバナーのオーラ内にいる最大3人の分隊員を選び、合図を送る。各分隊員は、あなたがフリー・アクションとして指定した単一の敵に向かって、自身の移動速度の半分まで〈ストライド〉できる。移動を終えた時点で指定した対象に隣接している者は誰でも、@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}または〈ストライク〉をリアクションとして試みることができる。</p>\n<p>この戦術による〈ストライク〉で@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態の敵が初めてダメージを受けた場合、その敵は直ちにあなたのクラスDCに対して@Check[fortitude|against:commander|traits:death,incapacitation]セーヴを行わなければならず、失敗すると死亡する。これは即死効果および無力化効果である。「ブラッディ・ギロチン」によってクリーチャーが殺されるのを目撃したすべての敵は、あなたのクラスDCに対して@Check[will|against:commander|options:inflicts:sickened|traits:emotion,mental]セーヴに成功しなければ、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる(大失敗した場合は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となる)。これは感情効果および精神効果である。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Dragon's Protection": {

@@ -21,7 +21,7 @@
         },
         "nCcx1LK7XrbDnVXI": {
           "name": "スポートルボア・インフェステーション/Sportlebore Infestation",
-          "description": "<p><strong>セーヴ</strong> @Check[fortitude|dc:22|basic]</p>\n<p><strong>第1段階</strong> 無症状のキャリア（1日）</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 1}（1時間）</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱 2}（1時間）</p>\n<p><strong>第4段階</strong> @Damage[4d6[bludgeoning]]ダメージ（@Check[fortitude|dc:25|basic]セーヴ）。宿主は苦痛と共にスポートルボア・スウォーム/Sportlebore swarmを吐き出し、第1段階に戻る。</p>"
+          "description": "<p><strong>セーヴ</strong> @Check[fortitude|dc:22|basic]</p>\n<p><strong>第1段階</strong> 無症状のキャリア（1日）</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}（1時間）</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}（1時間）</p>\n<p><strong>第4段階</strong> @Damage[4d6[bludgeoning]]ダメージ（@Check[fortitude|dc:25|basic]セーヴ）。宿主は苦痛と共にスポートルボア・スウォーム/Sportlebore swarmを吐き出し、第1段階に戻る。</p>"
         }
       },
       "stealth": "<p>（熟練）</p>",
@@ -91,7 +91,7 @@
         },
         "qBQpsAk64L9c0sJ2": {
           "name": "タイタニック・フライトラップ・トキシン/Titanic Flytrap Toxin",
-          "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:21]</p>\n<p><strong>最大持続時間</strong> 4ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[4d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺} (1ラウンド)</p>"
+          "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:21]</p>\n<p><strong>最大持続時間</strong> 4ラウンド</p>\n<p><strong>第1段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[4d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺} (1ラウンド)</p>"
         }
       },
       "stealth": "<p>(訓練済み)</p>",
@@ -138,7 +138,7 @@
       "items": {
         "CHZ0RRKgpq6eI2AS": {
           "name": "エンスネア/Ensnare",
-          "description": "<p><strong>トリガー</strong> 蜘蛛ではないクリーチャーが蜘蛛の巣の中へ歩いて入る</p>\n<hr />\n<p><strong>効果</strong> 蜘蛛の巣がトリガーとなったクリーチャーの体に巻き付き、その四肢にまとわりつく。トリガーとなったクリーチャーは@Check[reflex|dc:20]セーヴに成功しなければならず、失敗すると、その蜘蛛の巣から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するまで、すべての移動速度に–10フィートの状況ペナルティを受ける (DC 20)。大失敗した場合、蜘蛛の巣はそのクリーチャーの顔にもまとわりつき、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となり、その蜘蛛の巣から〈エスケープ〉するまでこの状態を軽減することはできない。</p>"
+          "description": "<p><strong>トリガー</strong> 蜘蛛ではないクリーチャーが蜘蛛の巣の中へ歩いて入る</p>\n<hr />\n<p><strong>効果</strong> 蜘蛛の巣がトリガーとなったクリーチャーの体に巻き付き、その四肢にまとわりつく。トリガーとなったクリーチャーは@Check[reflex|dc:20]セーヴに成功しなければならず、失敗すると、その蜘蛛の巣から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するまで、すべての移動速度に–10フィートの状況ペナルティを受ける (DC 20)。大失敗した場合、蜘蛛の巣はそのクリーチャーの顔にもまとわりつき、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となり、その蜘蛛の巣から〈エスケープ〉するまでこの状態を軽減することはできない。</p>"
         }
       },
       "stealth": "<p>（上級）</p>",
@@ -154,7 +154,7 @@
         },
         "tyAeSBnHmP9Nuh2k": {
           "name": "イエロー・モールド・スポアーズ/Yellow Mold Spores",
-          "description": "<p>胞子によって生じた消耗は、毒の持続時間が終了した後も残る。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:26]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d8[poison]]ダメージおよび @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d8[poison]]ダメージおよび @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 3} (1ラウンド)</p>"
+          "description": "<p>胞子によって生じた消耗は、毒の持続時間が終了した後も残る。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:26]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージおよび @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d8[poison]]ダメージおよび @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d8[poison]]ダメージおよび @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗3} (1ラウンド)</p>"
         }
       },
       "stealth": "<p>(訓練済み)</p>",
@@ -244,7 +244,7 @@
       "items": {
         "oZGdTS4jvoAj1myH": {
           "name": "プロフェイン・チャント/Profane Chant",
-          "description": "<p><strong>トリガー</strong> クリーチャーが聖歌隊が出現する床の区画から10フィート以内に移動する。</p>\n<hr />\n<p><strong>効果</strong> 聖歌隊が立ち上がり、その歌は魂の霊的な姿から30フィート以内にいる生きているクリーチャーに@Damage[(4d8+18)[mental]]ダメージを与える。影響を受けた各クリーチャーは@Check[will|dc:24|traits:damaging-effect]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong> クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong> クリーチャーは半分のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{怖がっている 1}状態となる。</p>\n<p><strong>失敗</strong> クリーチャーは全てのダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{怖がっている 2}状態となる。</p>\n<p><strong>クリティカル失敗</strong> クリーチャーは2倍のダメージを受ける。さらに、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{怖がっている 3}状態と@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}状態になり、1ラウンド続く。</p>"
+          "description": "<p><strong>トリガー</strong> クリーチャーが聖歌隊が出現する床の区画から10フィート以内に移動する。</p>\n<hr />\n<p><strong>効果</strong> 聖歌隊が立ち上がり、その歌は魂の霊的な姿から30フィート以内にいる生きているクリーチャーに@Damage[(4d8+18)[mental]]ダメージを与える。影響を受けた各クリーチャーは@Check[will|dc:24|traits:damaging-effect]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong> クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong> クリーチャーは半分のダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{怖がっている1}状態となる。</p>\n<p><strong>失敗</strong> クリーチャーは全てのダメージを受け、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{怖がっている2}状態となる。</p>\n<p><strong>クリティカル失敗</strong> クリーチャーは2倍のダメージを受ける。さらに、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{怖がっている3}状態と@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}状態になり、1ラウンド続く。</p>"
         }
       },
       "stealth": "<p>(熟練)</p>",
@@ -260,7 +260,7 @@
           "description": "<p><strong>トリガー</strong> 3体以上のクリーチャーがそのハーントの範囲内に入る</p>\n<hr />\n<p><strong>効果</strong>鋭い破片が地面から浮き上がり、5フィートの広場1つ分を占める急速な円を描いて回転し始める。そのハーントはイニシアチブをロールする。</p>"
         }
       },
-      "routine": "<p>(3アクション) 刃の竜巻は3アクションを使用して移動し、1アクションごとに最大30フィート移動して@Damage[(2d10+10)[slashing]]のダメージを与える。進路上にいる各クリーチャーは@Check[reflex|dc:33]を行わなければならない。</p>\n<p><strong>クリティカル成功</strong> そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong> そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong> そのクリーチャーは全てのダメージを受けるとともに@Damage[1d10[bleed]]を受ける。</p>\n<p><strong>クリティカル失敗</strong> そのクリーチャーは2倍のダメージと@Damage[1d10[bleed]]を受ける。さらに@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷 1}状態になる（すでに負傷している場合は負傷の値が1増加する）。</p>\n<p>このハザードを無力化する判定が1回成功するごとに、ハーントの移動が30フィート減少し、4回目の成功で完全に無力化される。</p>",
+      "routine": "<p>(3アクション) 刃の竜巻は3アクションを使用して移動し、1アクションごとに最大30フィート移動して@Damage[(2d10+10)[slashing]]のダメージを与える。進路上にいる各クリーチャーは@Check[reflex|dc:33]を行わなければならない。</p>\n<p><strong>クリティカル成功</strong> そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong> そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong> そのクリーチャーは全てのダメージを受けるとともに@Damage[1d10[bleed]]を受ける。</p>\n<p><strong>クリティカル失敗</strong> そのクリーチャーは2倍のダメージと@Damage[1d10[bleed]]を受ける。さらに@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷1}状態になる（すでに負傷している場合は負傷の値が1増加する）。</p>\n<p>このハザードを無力化する判定が1回成功するごとに、ハーントの移動が30フィート減少し、4回目の成功で完全に無力化される。</p>",
       "stealth": "<p>(エキスパート)</p>",
       "name": "フレンシング・ブレイド/Flensing Blades",
       "description": "<p>幽霊の力で推進されるガラスと鋼の渦が、触れたものをすべて細長いリボンのように切り裂く。</p>",
@@ -376,10 +376,10 @@
         },
         "Pz2JfI4HEqH5iEwA": {
           "name": "フィルス・フィーヴァー/Filth Fever",
-          "description": "<p>フィルス・フィーヴァーによる不調および@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態は、その病気が治癒するまで自然には回復しない。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:20]</p>\n<p><strong>第1段階</strong> 保菌者(無症状)([[/gmr 1d4 #hours]]{1d4時間})</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1} (1日)</p>\n<p><strong>第3段階</strong> 不調 1 かつ、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ 1} (1日)</p>\n<p><strong>第4段階</strong> 気絶 (1日)</p>\n<p><strong>第5段階</strong> 死亡</p>"
+          "description": "<p>フィルス・フィーヴァーによる不調および@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態は、その病気が治癒するまで自然には回復しない。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:20]</p>\n<p><strong>第1段階</strong> 保菌者(無症状)([[/gmr 1d4 #hours]]{1d4時間})</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1} (1日)</p>\n<p><strong>第3段階</strong> 不調1 かつ、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1} (1日)</p>\n<p><strong>第4段階</strong> 気絶 (1日)</p>\n<p><strong>第5段階</strong> 死亡</p>"
         }
       },
-      "routine": "<p>(1アクション)洪水は前方へ60フィート進み、その範囲内のすべてのクリーチャーに衝突する。洪水がクリーチャーを打ちのめし、下流へと引きずり込むため、各クリーチャーは@Check[fortitude|dc:30]セーヴを行わなければならない。与えるダメージの量と種類は洪水の性質に基づき、特定の種類の洪水は追加の効果を課す。荒れ狂う水のため、洪水の範囲内にいるクリーチャーは移動するために〈水泳〉の@Check[athletics|dc:20|name:Swim|traits:action:swim]判定を行わなければならず、各ラウンドに〈水泳〉の判定に成功しなかった者は溺れる可能性がある。</p>\n<hr>\n<p><strong>クリティカル成功</strong>：そのクリーチャーはダメージを受けない。</p>\n<p><strong>成功</strong>：そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>：そのクリーチャーは全てのダメージを受けるとともに、水と共に10フィート移動させられる。</p>\n<p><strong>クリティカル失敗</strong>：そのクリーチャーは2倍のダメージを受けるとともに、水と共に20フィート移動させられる。</p>\n<hr>\n<ul>\n<li><strong>酸性の流出物</strong>：この腐食性の洪水は移動しながら肉を溶かし、@Damage[1d12[bludgeoning],(1d12+8)[acid]]{1d12 殴打ダメージおよび1d12+8 酸ダメージ}を与える。さらに、頑健セーヴでクリティカルに失敗したクリーチャーには@Damage[2d6[persistent,acid]]ダメージを与える。</li>\n<li><strong>打ち寄せる波</strong>：この押し寄せる水の洪水は@Damage[(2d12+10)[bludgeoning]]ダメージを与える。</li>\n<li><strong>不快な廃棄物</strong>：この洪水は下水の流出物や腐った食べ物のような汚染された、あるいは病気を媒介する物体を巻き込んでいる。これは@Damage[(2d12+8)[bludgeoning]]ダメージを与える。洪水にさらされた各クリーチャーは@Check[fortitude|dc:29]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{気分が悪い 1}状態となり、クリティカル失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{気分が悪い 2}状態となる。さらに、洪水の水に接触したクリーチャーは汚物熱(@Check[fortitude|dc:20])にさらされる。</li>\n<li><strong>鋭利な瓦礫</strong>：水は様々な物体を巻き込んでおり、その中には特に鋭利なものもある。この洪水は@Damage[1d12[bludgeoning]]ダメージと@Damage[(1d12+12)[piercing]]ダメージを与える。</li>\n<li><strong>粘着性のグー</strong>：この物質は特に粘着性が高い。これは@Damage[(2d12+6)[bludgeoning]]ダメージを与える。さらに、洪水の中にいる各クリーチャーは、各ラウンドの自身のターンの開始時に@Check[reflex|dc:29]セーヴを行わなければならない。セーヴに失敗すると、1ラウンドの間、すべての移動速度に–10フィートの状況ペナルティを受ける。クリティカル失敗すると、代わりに@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態になり、1ラウンドの間続く。</li>\n</ul>",
+      "routine": "<p>(1アクション)洪水は前方へ60フィート進み、その範囲内のすべてのクリーチャーに衝突する。洪水がクリーチャーを打ちのめし、下流へと引きずり込むため、各クリーチャーは@Check[fortitude|dc:30]セーヴを行わなければならない。与えるダメージの量と種類は洪水の性質に基づき、特定の種類の洪水は追加の効果を課す。荒れ狂う水のため、洪水の範囲内にいるクリーチャーは移動するために〈水泳〉の@Check[athletics|dc:20|name:Swim|traits:action:swim]判定を行わなければならず、各ラウンドに〈水泳〉の判定に成功しなかった者は溺れる可能性がある。</p>\n<hr>\n<p><strong>クリティカル成功</strong>：そのクリーチャーはダメージを受けない。</p>\n<p><strong>成功</strong>：そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>：そのクリーチャーは全てのダメージを受けるとともに、水と共に10フィート移動させられる。</p>\n<p><strong>クリティカル失敗</strong>：そのクリーチャーは2倍のダメージを受けるとともに、水と共に20フィート移動させられる。</p>\n<hr>\n<ul>\n<li><strong>酸性の流出物</strong>：この腐食性の洪水は移動しながら肉を溶かし、@Damage[1d12[bludgeoning],(1d12+8)[acid]]{1d12 殴打ダメージおよび1d12+8 酸ダメージ}を与える。さらに、頑健セーヴでクリティカルに失敗したクリーチャーには@Damage[2d6[persistent,acid]]ダメージを与える。</li>\n<li><strong>打ち寄せる波</strong>：この押し寄せる水の洪水は@Damage[(2d12+10)[bludgeoning]]ダメージを与える。</li>\n<li><strong>不快な廃棄物</strong>：この洪水は下水の流出物や腐った食べ物のような汚染された、あるいは病気を媒介する物体を巻き込んでいる。これは@Damage[(2d12+8)[bludgeoning]]ダメージを与える。洪水にさらされた各クリーチャーは@Check[fortitude|dc:29]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{気分が悪い1}状態となり、クリティカル失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{気分が悪い2}状態となる。さらに、洪水の水に接触したクリーチャーは汚物熱(@Check[fortitude|dc:20])にさらされる。</li>\n<li><strong>鋭利な瓦礫</strong>：水は様々な物体を巻き込んでおり、その中には特に鋭利なものもある。この洪水は@Damage[1d12[bludgeoning]]ダメージと@Damage[(1d12+12)[piercing]]ダメージを与える。</li>\n<li><strong>粘着性のグー</strong>：この物質は特に粘着性が高い。これは@Damage[(2d12+6)[bludgeoning]]ダメージを与える。さらに、洪水の中にいる各クリーチャーは、各ラウンドの自身のターンの開始時に@Check[reflex|dc:29]セーヴを行わなければならない。セーヴに失敗すると、1ラウンドの間、すべての移動速度に–10フィートの状況ペナルティを受ける。クリティカル失敗すると、代わりに@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態になり、1ラウンドの間続く。</li>\n</ul>",
       "stealth": "<p>(熟練)</p>",
       "name": "ペリラス・フラッシュ・フラッド/Perilous Flash Flood",
       "description": "<p>通りを駆け抜け、途中で危険な瓦礫を巻き上げる水であれ、容器から勢いよく飛び出した人工的な物質であれ、この容赦ない洪水は進路上のすべてのものを打ちのめす。</p>",
@@ -416,7 +416,7 @@
         },
         "eY731rvsYJZ2o5Sh": {
           "name": "フレセット・毒/Flesset Poison",
-          "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:22]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない 3} (1ラウンド)</p>"
+          "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:22]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない2} (1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない3} (1ラウンド)</p>"
         }
       },
       "routine": "<p>(1アクション) この罠はギャラリー内のすべてのクリーチャーそれぞれに対してダーツを1本発射する。継続的にダーツを発射するため、コンティニュアス・バラージのフリー・アクション（下記参照）を使用して、各クリーチャーのターン中にそのクリーチャーへダーツを発射することもできる。</p>",
@@ -477,7 +477,7 @@
       "items": {
         "E8X8ETVNwXuUF08C": {
           "name": "シアリング・アゴニー/Searing Agony",
-          "description": "<p><strong>トリガー</strong>生きているクリーチャーが、かつての火災の犠牲者の遺骸から10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>火災の過去の犠牲者が受けた苦痛の記憶が、トリガーとなったクリーチャーの精神を襲う。そのクリーチャーは@Check[will|dc:25]セーヴを行わなければならず、その後ハーントがイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 1}状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 2}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調 3}状態となり、そのハーントのエリア内に留まっている間およびその後3ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
+          "description": "<p><strong>トリガー</strong>生きているクリーチャーが、かつての火災の犠牲者の遺骸から10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>火災の過去の犠牲者が受けた苦痛の記憶が、トリガーとなったクリーチャーの精神を襲う。そのクリーチャーは@Check[will|dc:25]セーヴを行わなければならず、その後ハーントがイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調3}状態となり、そのハーントのエリア内に留まっている間およびその後3ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         }
       },
       "routine": "<p>(1アクション)ファントムの炎が怨念の宿る区域全体に猛威を振るい、区域内の各生きているクリーチャーに@Damage[4d6[fire]]ダメージを与える (@Check[will|dc:23|basic]セーヴ)。区域内のアンデッドのクリーチャーは、次のラウンドの間、炎を吹き込まれる。それらは火炎のトレイトと火炎に対する完全耐性を獲得し、すべての攻撃が追加で@Damage[1d6[fire]]ダメージを与える。区域内の物体は影響を受けない。</p>",
@@ -591,7 +591,7 @@
       "items": {
         "0FpzSygcs7G688GT": {
           "name": "クワイエタス/Quietus",
-          "description": "<p><strong>トリガー</strong> トリガーとなったクリーチャーがその取り憑かれた物体から10フィート以内に移動する</p>\n<hr />\n<p><strong>効果</strong> ハーントはトリガーとなったクリーチャーを支配し、自分自身を攻撃させる。そのクリーチャーは@Check[will|dc:29]意志セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は自分自身に対して〈ストライク〉を行い、自動的に命中する。対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 1}状態になる。</p>\n<p><strong>失敗</strong> 対象は自分自身に対して〈ストライク〉を行い、自動的にクリティカルヒットとなる。対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている 2}状態になる。</p>\n<p><strong>クリティカル失敗</strong> 対象は頑健セーヴを行う。対象が成功した場合は代わりに失敗の効果を受ける。対象が失敗した場合、HPが0になり死亡する。</p>"
+          "description": "<p><strong>トリガー</strong> トリガーとなったクリーチャーがその取り憑かれた物体から10フィート以内に移動する</p>\n<hr />\n<p><strong>効果</strong> ハーントはトリガーとなったクリーチャーを支配し、自分自身を攻撃させる。そのクリーチャーは@Check[will|dc:29]意志セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は自分自身に対して〈ストライク〉を行い、自動的に命中する。対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態になる。</p>\n<p><strong>失敗</strong> 対象は自分自身に対して〈ストライク〉を行い、自動的にクリティカルヒットとなる。対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態になる。</p>\n<p><strong>クリティカル失敗</strong> 対象は頑健セーヴを行う。対象が成功した場合は代わりに失敗の効果を受ける。対象が失敗した場合、HPが0になり死亡する。</p>"
         }
       },
       "stealth": "<p>(訓練済み)</p>",
@@ -641,7 +641,7 @@
         },
         "17gJOHIRtWXfYMKa": {
           "name": "サップ・バイタリティ/Sap Vitality",
-          "description": "<p>リフレクションの影の棘によってヒットされたクリーチャーは、ハーントがその生命の本質の一部を鏡の中に引き込もうとするため、@Check[fortitude|dc:22]セーヴを行わなければならない。対象はセーヴィング・スローに失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}状態となり、大失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}状態となる。</p>"
+          "description": "<p>リフレクションの影の棘によってヒットされたクリーチャーは、ハーントがその生命の本質の一部を鏡の中に引き込もうとするため、@Check[fortitude|dc:22]セーヴを行わなければならない。対象はセーヴィング・スローに失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態となり、大失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2}状態となる。</p>"
         },
         "V7tWWuB9NSEsMEae": {
           "name": "スペシャル/Special",
@@ -664,7 +664,7 @@
         },
         "HoWRGPkBlJjsL9zl": {
           "name": "クラディス・毒/Cladis Poison",
-          "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:19]</p>\n<p><strong>最大持続時間</strong> 4時間</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1} (1時間)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2} (1時間)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよびdrained 2 (1時間)</p>"
+          "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:19]</p>\n<p><strong>最大持続時間</strong> 4時間</p>\n<p><strong>第1段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1} (1時間)</p>\n<p><strong>第2段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2} (1時間)</p>\n<p><strong>第3段階</strong> @Damage[3d6[poison]]ダメージおよびdrained 2 (1時間)</p>"
         }
       },
       "stealth": "<p>(訓練済み)</p>",
@@ -715,7 +715,7 @@
       "items": {
         "8yNeU3TLczTIlFjP": {
           "name": "ランジング・デッド/Lunging Dead",
-          "description": "<p><strong>トリガー</strong> 生きているクリーチャーがトンネルの中間地点を横切る。</p>\n<hr />\n<p><strong>効果</strong> 死者たちが壁や天井から手を伸ばし、うめき声を上げながら、のたうち回るウジ虫を吐き出す。部屋にいるクリーチャーは@Check[will|dc:21]セーヴを行わなければならない。その後、この罠はイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐怖}状態となる。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐怖 2}状態となる。対象は罠のエリア内にいる間、自身の恐怖の値を1未満に減らすことはできない。</p>\n<p><strong>クリティカル失敗</strong> 失敗時と同様の効果に加え、対象は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となり、1ラウンドの間持続する。</p>"
+          "description": "<p><strong>トリガー</strong> 生きているクリーチャーがトンネルの中間地点を横切る。</p>\n<hr />\n<p><strong>効果</strong> 死者たちが壁や天井から手を伸ばし、うめき声を上げながら、のたうち回るウジ虫を吐き出す。部屋にいるクリーチャーは@Check[will|dc:21]セーヴを行わなければならない。その後、この罠はイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐怖}状態となる。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐怖2}状態となる。対象は罠のエリア内にいる間、自身の恐怖の値を1未満に減らすことはできない。</p>\n<p><strong>クリティカル失敗</strong> 失敗時と同様の効果に加え、対象は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となり、1ラウンドの間持続する。</p>"
         }
       },
       "routine": "<p>(1アクション)アンデッドの拳が広間内のすべてのクリーチャーを襲い、@Damage[4d6[bludgeoning]]ダメージを与える。広間内のクリーチャーは@Check[reflex|dc:21]を行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は半分のダメージを受ける。</p>\n<p><strong>失敗</strong>対象は全てのダメージを受ける。さらに、対象の移動速度は1ラウンドの間、10フィート減少する(最低でも5フィート)。</p>\n<p><strong>クリティカル失敗</strong>対象は2倍のダメージを受けるし、1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。</p>",
