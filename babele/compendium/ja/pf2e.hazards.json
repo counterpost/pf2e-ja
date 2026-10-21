@@ -641,7 +641,7 @@
         },
         "17gJOHIRtWXfYMKa": {
           "name": "サップ・バイタリティ/Sap Vitality",
-          "description": "<p>リフレクションの影の棘によってヒットされたクリーチャーは、ハーントがその生命の本質の一部を鏡の中に引き込もうとするため、@Check[fortitude|dc:22]セーヴを行わなければならない。対象はセーヴィング・スローに失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}となり、大失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}となる。</p>"
+          "description": "<p>リフレクションの影の棘によってヒットされたクリーチャーは、ハーントがその生命の本質の一部を鏡の中に引き込もうとするため、@Check[fortitude|dc:22]セーヴを行わなければならない。対象はセーヴィング・スローに失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 1}状態となり、大失敗すると@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗 2}状態となる。</p>"
         },
         "V7tWWuB9NSEsMEae": {
           "name": "スペシャル/Special",
@@ -718,7 +718,7 @@
           "description": "<p><strong>トリガー</strong> 生きているクリーチャーがトンネルの中間地点を横切る。</p>\n<hr />\n<p><strong>効果</strong> 死者たちが壁や天井から手を伸ばし、うめき声を上げながら、のたうち回るウジ虫を吐き出す。部屋にいるクリーチャーは@Check[will|dc:21]セーヴを行わなければならない。その後、この罠はイニシアチブをロールする。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐怖}状態となる。</p>\n<p><strong>失敗</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐怖 2}状態となる。対象は罠のエリア内にいる間、自身の恐怖の値を1未満に減らすことはできない。</p>\n<p><strong>クリティカル失敗</strong> 失敗時と同様の効果に加え、対象は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となり、1ラウンドの間持続する。</p>"
         }
       },
-      "routine": "<p>(1アクション)アンデッドの拳が広間内のすべてのクリーチャーを襲い、@Damage[4d6[bludgeoning]]ダメージを与える。広間内のクリーチャーは@Check[reflex|dc:21]を行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は半分のダメージを受ける。</p>\n<p><strong>失敗</strong>対象は全てのダメージを受ける。さらに、対象の移動速度は1ラウンドの間、10フィート減少する(最低でも5フィート)。</p>\n<p><strong>クリティカル失敗</strong>対象は2倍のダメージを受けるし、1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}となる。</p>",
+      "routine": "<p>(1アクション)アンデッドの拳が広間内のすべてのクリーチャーを襲い、@Damage[4d6[bludgeoning]]ダメージを与える。広間内のクリーチャーは@Check[reflex|dc:21]を行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は半分のダメージを受ける。</p>\n<p><strong>失敗</strong>対象は全てのダメージを受ける。さらに、対象の移動速度は1ラウンドの間、10フィート減少する(最低でも5フィート)。</p>\n<p><strong>クリティカル失敗</strong>対象は2倍のダメージを受けるし、1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。</p>",
       "name": "グレイヴホール・トラップ/Gravehall Trap",
       "description": "<p>生きているクリーチャーが罠の仕掛けられたトンネルの中間地点を横切ると、死霊術の魔法が壁や天井に埋められた死体を部分的に動かす。</p>",
       "disable": "<p>@Check[thievery|dc:24|name:Disrupt Magical Trigger|traits:action:disable-a-device](熟練)を行ってハザードがイニシアチブをロールする前に魔法のトリガーを妨害する。あるいは、@Check[religion|dc:18|name:Overwhelm the Area with Vitality Energy](訓練済み)を行ってそのエリアを生命エネルギーで圧倒し、ハザードが1ラウンドの間ルーチンを使用するのを防ぐ。3回目の《宗教》判定に成功すると、死霊術的なエネルギーは妨害され、ハザードは破壊される。</p>"
