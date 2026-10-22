@@ -2776,7 +2776,7 @@
     },
     "GdnX1i87yKmvFsjB": {
       "name": "フューム/Fume",
-      "description": "<p>ブリモラックは@Template[type:burst|distance:10]に濃い黒煙の雲を放ち、それは[[/br 1d4 #Duration Fume]]{1d4ラウンド}の間その場に留まる。</p>\n<p>煙の中にいるすべてのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となり、煙の外にいるすべてのクリーチャーは煙の中にいるクリーチャーに対して視認困難となる。煙の中に入った、あるいは煙の中で自身のターンを開始したクリーチャーは、@Check[type:fortitude|dc:21]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となる)。</p>"
+      "description": "<p>ブリモラックは@Template[type:burst|distance:10]に濃い黒煙の雲を放ち、それは[[/br 1d4 #Duration Fume]]{1d4ラウンド}の間その場に留まる。</p>\n<p>煙の中にいるすべてのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となり、煙の外にいるすべてのクリーチャーは煙の中にいるクリーチャーに対して視認困難状態となる。煙の中に入った、あるいは煙の中で自身のターンを開始したクリーチャーは、@Check[type:fortitude|dc:21]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となる)。</p>"
     },
     "Fume": {
       "name": "フューム",

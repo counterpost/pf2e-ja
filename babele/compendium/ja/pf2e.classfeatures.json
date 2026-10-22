@@ -331,7 +331,7 @@
     },
     "Encroaching Presence": {
       "name": "エンクローチング・プレゼンス/Encroaching Presence",
-      "description": "<p>彼方を見ること、そして彼方に接触することは、あなたをその異界の影響に対して無防備にし、あなたの知覚と思考を歪める。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.cqgbTZCvqaSvtQdz]{効果: Encroaching Presence}</p>\n<p><strong>マイルド・バックラッシュ</strong>何か不可解なものがあなたの精神に接触し、あなたに消えない恐怖を残す。あなたは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3}状態となる。</p>\n<p><strong>モデレート・バックラッシュ</strong>方向感覚を失わせる幻影と作り事のイメージがあなたの視界を覆う。まるであなたが別の異界の感覚を通して見ているかのようだ。10分の間、すべてのクリーチャーはあなたに対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となる。なぜなら、それらはあなたにしか見えない視覚的な歪みに覆われているからである。</p>\n<p><strong>シヴィア・バックラッシュ</strong>その存在があなたの魂をその住処へ引き寄せようとするため、あなたの生命力が吸い取られる。あなたは@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅1}状態となり、さらに@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2}状態と次の日課の準備までなる。</p>"
+      "description": "<p>彼方を見ること、そして彼方に接触することは、あなたをその異界の影響に対して無防備状態にし、あなたの知覚と思考を歪める。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.cqgbTZCvqaSvtQdz]{効果: Encroaching Presence}</p>\n<p><strong>マイルド・バックラッシュ</strong>何か不可解なものがあなたの精神に接触し、あなたに消えない恐怖を残す。あなたは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3}状態となる。</p>\n<p><strong>モデレート・バックラッシュ</strong>方向感覚を失わせる幻影と作り事のイメージがあなたの視界を覆う。まるであなたが別の異界の感覚を通して見ているかのようだ。10分の間、すべてのクリーチャーはあなたに対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となる。なぜなら、それらはあなたにしか見えない視覚的な歪みに覆われているからである。</p>\n<p><strong>シヴィア・バックラッシュ</strong>その存在があなたの魂をその住処へ引き寄せようとするため、あなたの生命力が吸い取られる。あなたは@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅1}状態となり、さらに@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2}状態と次の日課の準備までなる。</p>"
     },
     "Flurry": {
       "name": "フラリー/Flurry",

@@ -198,7 +198,7 @@
     },
     "Cup of Dust": {
       "name": "カップ・オブ・ダスト/Cup of Dust",
-      "description": "<p>あなたは飲み物で癒せない渇きで対象を呪う。あなたは呪文を〔解除〕できる。対象は頑健セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、一時的な免疫で1時間の間である。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}で1ラウンドの間である。</p>\n<p><strong>失敗</strong>そのクリーチャーは即座に数日飲んでいなかったかのような渇きにかかる。対象は疲労になり、渇きが癒えるまで回復できない状態で毎時間1d4のダメージを受ける。呪文の持続時間中、どれだけ飲んでもそのクリーチャーの渇きを癒すことはできない。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、そのクリーチャーは毎時間2d4のダメージを受ける。</p><hr /><p><strong>高位化 (+3)</strong>渇きはより耐え難くなり、毎時間のダメージが1d4増加する。クリティカル失敗の場合は2d4増加する。</p>",
+      "description": "<p>あなたは飲み物で癒せない渇きで対象を呪う。あなたは呪文を〔解除〕できる。対象は頑健セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、一時的な免疫で1時間の間である。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}で1ラウンドの間である。</p>\n<p><strong>失敗</strong>そのクリーチャーは即座に数日飲んでいなかったかのような渇きにかかる。対象は疲労状態になり、渇きが癒えるまで回復できない状態で毎時間1d4のダメージを受ける。呪文の持続時間中、どれだけ飲んでもそのクリーチャーの渇きを癒すことはできない。</p>\n<p><strong>クリティカル失敗</strong>失敗時と同様だが、そのクリーチャーは毎時間2d4のダメージを受ける。</p><hr /><p><strong>高位化 (+3)</strong>渇きはより耐え難くなり、毎時間のダメージが1d4増加する。クリティカル失敗の場合は2d4増加する。</p>",
       "target": "1体の生きているクリーチャー",
       "range": "30フィート",
       "duration": "1日",
@@ -369,7 +369,7 @@
     },
     "Firework Blast": {
       "name": "ファイアワーク・ブラスト/Firework Blast",
-      "description": "<p>あなたは大規模で派手かつ騒々しい爆発の演出を作り出す。爆発は4d6の火ダメージを与える。セーヴに失敗したクリーチャーは追加で@Check[fortitude]のセーヴを行わなければならない。セーヴに致命的に失敗したクリーチャーはこの頑健セーヴに対して-2の状況罰を受ける。</p>\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}かつ@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}の状態になり、期間は1ラウンドである。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは1ラウンドおよび@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}の間盲目になり、1分の間聴覚喪失になる。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>ダメージが2d6増加する。</p>",
+      "description": "<p>あなたは大規模で派手かつ騒々しい爆発の演出を作り出す。爆発は4d6の火ダメージを与える。セーヴに失敗したクリーチャーは追加で@Check[fortitude]のセーヴを行わなければならない。セーヴに致命的に失敗したクリーチャーはこの頑健セーヴに対して-2の状況罰を受ける。</p>\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}かつ@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}の状態になり、期間は1ラウンドである。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは1ラウンドおよび@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}の間盲目状態になり、1分の間聴覚喪失状態になる。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>ダメージが2d6増加する。</p>",
       "range": "500フィート",
       "time": "2"
     },
@@ -461,7 +461,7 @@
     },
     "Mind Games": {
       "name": "マインド・ゲームズ/Mind Games",
-      "description": "<p>あなたは対象と精神を接続し、精神的に屈服させようと試みる。　対象は意志セーヴを行わなければならない。あなたがこの呪文を〈維持〉するたびに、対象は再度意志セーヴを行う。</p>\n<hr />\n<p><strong>クリティカル成功</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}状態となり、この呪文は終了する。</p>\n<p><strong>成功</strong>対象は影響を受けない。</p>\n<p><strong>失敗</strong>対象はスタン1となる。</p>\n<p><strong>クリティカル失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン2}状態となる。</p>",
+      "description": "<p>あなたは対象と精神を接続し、精神的に屈服させようと試みる。　対象は意志セーヴを行わなければならない。あなたがこの呪文を〈維持〉するたびに、対象は再度意志セーヴを行う。</p>\n<hr />\n<p><strong>クリティカル成功</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}状態となり、この呪文は終了する。</p>\n<p><strong>成功</strong>対象は影響を受けない。</p>\n<p><strong>失敗</strong>対象はスタン1状態となる。</p>\n<p><strong>クリティカル失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン2}状態となる。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
       "duration": "1分",
@@ -1697,7 +1697,7 @@
     },
     "Power Word Stun": {
       "name": "パワー・ワード・スタン/Power Word Stun",
-      "description": "<p>あなたは秘儀の力の言葉で対象を気絶させる。対象はその後一時的な免疫になり、10分の間続く。</p>\n<p>この呪文の効果は対象のレベルに依存する。</p>\n<ul>\n<li><strong>第13以下</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン}で[[/r 1d6 #rounds]].{1d6 rounds}.</li>\n<li><strong>第14〜15</strong>対象はスタンになり、1ラウンドの間続く。</li>\n<li><strong>第16以上</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}である。</li>\n</ul>\n<hr />\n<p><strong>高位化 (+1)</strong>各結果が適用されるレベルは2増える。</p>",
+      "description": "<p>あなたは秘儀の力の言葉で対象を気絶させる。対象はその後一時的な免疫になり、10分の間続く。</p>\n<p>この呪文の効果は対象のレベルに依存する。</p>\n<ul>\n<li><strong>第13以下</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン}で[[/r 1d6 #rounds]].{1d6 rounds}.</li>\n<li><strong>第14〜15</strong>対象はスタン状態になり、1ラウンドの間続く。</li>\n<li><strong>第16以上</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}である。</li>\n</ul>\n<hr />\n<p><strong>高位化 (+1)</strong>各結果が適用されるレベルは2増える。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
       "duration": "様々",
@@ -1845,7 +1845,7 @@
     },
     "Briny Bolt": {
       "name": "ブライニー・ボルト/Briny Bolt",
-      "description": "<p>あなたは伸ばした手から塩水の矢を投げる。射程内の対象に対して遠隔呪文攻撃を行う。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは4d6殴打ダメージを受け、塩水が目に飛び散って@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}で1ラウンドされ、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}で1分される。そのクリーチャーは〔扱う〕アクションを費やして目をこすり盲目状態を終了できるが、目くらまし状態は終了できない。</p>\n<p><strong>成功</strong>そのクリーチャーは2d6殴打ダメージを受け、1ラウンドのあいだ盲目になる。そのクリーチャーは目の塩水を拭うために〔扱う〕アクションを費やして盲目状態を終了できる。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>ダメージは2d6増加する。</p>",
+      "description": "<p>あなたは伸ばした手から塩水の矢を投げる。射程内の対象に対して遠隔呪文攻撃を行う。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは4d6殴打ダメージを受け、塩水が目に飛び散って@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}で1ラウンドされ、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}で1分される。そのクリーチャーは〔扱う〕アクションを費やして目をこすり盲目状態を終了できるが、目くらまし状態は終了できない。</p>\n<p><strong>成功</strong>そのクリーチャーは2d6殴打ダメージを受け、1ラウンドのあいだ盲目状態になる。そのクリーチャーは目の塩水を拭うために〔扱う〕アクションを費やして盲目状態を終了できる。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>ダメージは2d6増加する。</p>",
       "target": "1体のクリーチャー",
       "range": "60フィート",
       "time": "2"
@@ -3113,7 +3113,7 @@
     },
     "Cinder Swarm": {
       "name": "シンダー・スウォーム",
-      "description": "<p>あなたは炎の小さな生き物の塊に命を吹き込む。それらは対象に群がり、@Template[emanation|distance:5]にその周囲を作り出す。対象とオーラ内の敵は、あなたが選ぶ昆虫に応じた効果の対象となる。以降のラウンドでは、毎ラウンドにこの呪文を最初に〔維持〕するたび、あなたは対象と昆虫オーラ内のあなたのすべての敵にその効果を繰り返す。つるはし効果を決定する昆虫の種類を選ぶ。</p>\n<ul>\n<li><strong>火炎アント</strong>あなたは燃える飛行するアントを作り出し、基本の反応セーヴで3d6の刺突ダメージと2d6の持続火ダメージを与える。あるクリーチャーがそのセーヴに失敗した場合、そのクリーチャーは噛みつくアントから逃げようとする際にあなたの選んだ方向へ5フィート移動しなければならない；これはすべてのクリーチャーがセーヴを行った後に起こり、主対象が移動した場合はオーラに新たなクリーチャーを追加できない。</li>\n<li><strong>ファイアフライ</strong>(無力化)あなたは多数のファイアフライを生み出し、3d6の火ダメージを与え、対象の頑健セーヴに応じて眩暈または盲目にすることがある。</li>\n</ul>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーはダメージを受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受けるし、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}で1ラウンド続く。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるし、@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}で1ラウンド続く。そのクリーチャーはその後一時的な免疫となり、灰の群れによって盲目にされることに対して24時間の間脆弱になる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、ダメージが二倍になり、1分の間盲目になる。</p>\n<hr />\n<p><strong>高位化(+1)</strong>増加アントの刺突ダメージとファイアフライの火ダメージを2d6増加させる。</p>",
+      "description": "<p>あなたは炎の小さな生き物の塊に命を吹き込む。それらは対象に群がり、@Template[emanation|distance:5]にその周囲を作り出す。対象とオーラ内の敵は、あなたが選ぶ昆虫に応じた効果の対象となる。以降のラウンドでは、毎ラウンドにこの呪文を最初に〔維持〕するたび、あなたは対象と昆虫オーラ内のあなたのすべての敵にその効果を繰り返す。つるはし効果を決定する昆虫の種類を選ぶ。</p>\n<ul>\n<li><strong>火炎アント</strong>あなたは燃える飛行するアントを作り出し、基本の反応セーヴで3d6の刺突ダメージと2d6の持続火ダメージを与える。あるクリーチャーがそのセーヴに失敗した場合、そのクリーチャーは噛みつくアントから逃げようとする際にあなたの選んだ方向へ5フィート移動しなければならない；これはすべてのクリーチャーがセーヴを行った後に起こり、主対象が移動した場合はオーラに新たなクリーチャーを追加できない。</li>\n<li><strong>ファイアフライ</strong>(無力化)あなたは多数のファイアフライを生み出し、3d6の火ダメージを与え、対象の頑健セーヴに応じて眩暈または盲目状態にすることがある。</li>\n</ul>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーはダメージを受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受けるし、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}で1ラウンド続く。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるし、@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}で1ラウンド続く。そのクリーチャーはその後一時的な免疫となり、灰の群れによって盲目にされることに対して24時間の間脆弱になる。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、ダメージが二倍になり、1分の間盲目状態になる。</p>\n<hr />\n<p><strong>高位化(+1)</strong>増加アントの刺突ダメージとファイアフライの火ダメージを2d6増加させる。</p>",
       "target": "1体のクリーチャー",
       "range": "60フィート",
       "duration": "1分",
@@ -3727,7 +3727,7 @@
     },
     "Paralyze": {
       "name": "パラライズ/Paralyze",
-      "description": "<p>対象の身体を動かすための信号を遮り、その場で硬直させる。 対象は意志セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}状態となる。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となり、1ラウンドの間続く。</p>\n<p><strong>クリティカル失敗</strong>対象は麻痺となり、4ラウンドの間続く。各ターンの終了時に、対象は残りの継続時間を1ラウンド短縮するために新しい意志セーヴを行うことができる。クリティカル成功なら完全に終了する。</p>\n<hr />\n<p><strong>高位化 (7th)</strong>あなたは最大10体のクリーチャーを対象にできる。</p>",
+      "description": "<p>対象の身体を動かすための信号を遮り、その場で硬直させる。 対象は意志セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}状態となる。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態となり、1ラウンドの間続く。</p>\n<p><strong>クリティカル失敗</strong>対象は麻痺状態となり、4ラウンドの間続く。各ターンの終了時に、対象は残りの継続時間を1ラウンド短縮するために新しい意志セーヴを行うことができる。クリティカル成功なら完全に終了する。</p>\n<hr />\n<p><strong>高位化 (7th)</strong>あなたは最大10体のクリーチャーを対象にできる。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
       "duration": "様々",
@@ -4244,7 +4244,7 @@
     },
     "Concealment's Curtain": {
       "name": "コンシールメンツ・カーテン",
-      "description": "<p>あなたは夕暮れ時に5日、鏡の前に果実を並べ、対象の名前を唱え、その目を心に思い描く。最終日の真夜中ちょうどにあなたはピンを果実に突き刺し、対象を系統的に盲目にする仕草を真似する。対象は直ちに影響を受け、儀式に関与したキャスターたちを視覚的に検出できなくなる—儀式が成功していて、対象が効果を認識していない場合に限る。儀式は対象がキャスターを視認する能力に影響を与えるため、キャスターを@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}にする効果ではない。そのため、@UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{トゥルーサイト}のような効果は<em>concealment's curtain</em>に対して無効である。代わりに対象は@UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{クレンズ・アフリクション}のような効果で呪いを除去する必要がある。あなたは対象の目をよく見るのに十分な距離で少なくとも一度対象の5フィート以内にいたことがある必要がある。対象は一時的な免疫で、さらに<em>concealment's curtain</em>を詠唱されることに対して1年である。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は持続時間中キャスターを視覚的に検出できず、対象の検知呪文はキャスターを検出しない。</p>\n<p><strong>成功</strong>対象は持続時間中キャスターを視覚的に検出できないが、その検知呪文は通常どおり機能する。</p>\n<p><strong>失敗</strong>儀式は効果がない。</p>\n<p><strong>クリティカル失敗</strong>儀式は暴発し、参加したすべてのキャスターが次の24時間の間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}される。</p>\n<hr />\n<p><strong>高位化 (8th)</strong>あなたは対象から単に自身を隠すだけでは満足しない。儀式鏡の費用は1,000gpに増加し、対象の個人的所持品が必要となる。儀式完了後、対象は@Damage[6d6[mental]]のダメージを受け、1週間の間盲目になる。この効果を早期に終わらせるには<em>cleanse affliction</em>と@UUID[Compendium.pf2e.spells-srd.Item.Et8RSCLx8w7uOLvo]{サウンド・ボディ}の両方が必要である。対象は儀式が自分に対して行われたことを認識するが、追加の情報は得られない。</p>",
+      "description": "<p>あなたは夕暮れ時に5日、鏡の前に果実を並べ、対象の名前を唱え、その目を心に思い描く。最終日の真夜中ちょうどにあなたはピンを果実に突き刺し、対象を系統的に盲目状態にする仕草を真似する。対象は直ちに影響を受け、儀式に関与したキャスターたちを視覚的に検出できなくなる—儀式が成功していて、対象が効果を認識していない場合に限る。儀式は対象がキャスターを視認する能力に影響を与えるため、キャスターを@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}にする効果ではない。そのため、@UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{トゥルーサイト}のような効果は<em>concealment's curtain</em>に対して無効である。代わりに対象は@UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{クレンズ・アフリクション}のような効果で呪いを除去する必要がある。あなたは対象の目をよく見るのに十分な距離で少なくとも一度対象の5フィート以内にいたことがある必要がある。対象は一時的な免疫で、さらに<em>concealment's curtain</em>を詠唱されることに対して1年である。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は持続時間中キャスターを視覚的に検出できず、対象の検知呪文はキャスターを検出しない。</p>\n<p><strong>成功</strong>対象は持続時間中キャスターを視覚的に検出できないが、その検知呪文は通常どおり機能する。</p>\n<p><strong>失敗</strong>儀式は効果がない。</p>\n<p><strong>クリティカル失敗</strong>儀式は暴発し、参加したすべてのキャスターが次の24時間の間@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}される。</p>\n<hr />\n<p><strong>高位化 (8th)</strong>あなたは対象から単に自身を隠すだけでは満足しない。儀式鏡の費用は1,000gpに増加し、対象の個人的所持品が必要となる。儀式完了後、対象は@Damage[6d6[mental]]のダメージを受け、1週間の間盲目状態になる。この効果を早期に終わらせるには<em>cleanse affliction</em>と@UUID[Compendium.pf2e.spells-srd.Item.Et8RSCLx8w7uOLvo]{サウンド・ボディ}の両方が必要である。対象は儀式が自分に対して行われたことを認識するが、追加の情報は得られない。</p>",
       "target": "1体の生きているクリーチャー",
       "range": "惑星規模",
       "duration": "1週間",
@@ -4371,7 +4371,7 @@
     },
     "Inner Radiance Torrent": {
       "name": "インナー・レイディアンス・トレント/Inner Radiance Torrent",
-      "description": "<p>あなたは両手に霊的エネルギーを徐々に具現化し、その後ボルトとビームの嵐を放ち、60-フィートの直線内にいるすべてのクリーチャーに4d4のフォースダメージを与える。範囲内のクリーチャーは基本反応セーヴを行わなければならない。クリティカル失敗した場合、さらに1ラウンドのあいだ盲目になる。あなたがこの呪文を唱えるときに費やすアクション数が範囲を決定する。もし直線が魔法の闇の領域を通るか魔法の闇の影響を受けているクリーチャーを対象にする場合、<em>inner radiance torrent</em>はその闇を打ち消ししようと試みる。</p>\n<p><span class=\"action-glyph\">2</span> <strong>（動作、音声）</strong>直線の長さは60フィートである。</p>\n<p><span class=\"action-glyph\">3</span> <strong>（物質、動作、音声）</strong>直線の長さは@Template[line|distance:120]{120フィート}である。</p>\n<p><strong>2ラウンド</strong>直線の長さは120フィートである。もしあなたが3アクションを使って呪文を唱えるなら、呪文を完成させずに次のターンにさらに3アクションを費やしてさらに強化することができる。そうすることを選んだ場合、この呪文の与えるダメージは4d4増加し、あなたは1分のあいだ輝く状態になり光を放ち、あなたに隣接してターンを終了したクリーチャーに@Damage[1[force]]のダメージを与える。</p><hr /><p><strong>高位化 (+1)</strong>即時ダメージ、および2-ラウンドの詠唱時間に対する追加ダメージはそれぞれ2d4増加し、輝く状態で隣接するクリーチャーに与えるダメージは1増加する。</p>",
+      "description": "<p>あなたは両手に霊的エネルギーを徐々に具現化し、その後ボルトとビームの嵐を放ち、60-フィートの直線内にいるすべてのクリーチャーに4d4のフォースダメージを与える。範囲内のクリーチャーは基本反応セーヴを行わなければならない。クリティカル失敗した場合、さらに1ラウンドのあいだ盲目状態になる。あなたがこの呪文を唱えるときに費やすアクション数が範囲を決定する。もし直線が魔法の闇の領域を通るか魔法の闇の影響を受けているクリーチャーを対象にする場合、<em>inner radiance torrent</em>はその闇を打ち消ししようと試みる。</p>\n<p><span class=\"action-glyph\">2</span> <strong>（動作、音声）</strong>直線の長さは60フィートである。</p>\n<p><span class=\"action-glyph\">3</span> <strong>（物質、動作、音声）</strong>直線の長さは@Template[line|distance:120]{120フィート}である。</p>\n<p><strong>2ラウンド</strong>直線の長さは120フィートである。もしあなたが3アクションを使って呪文を唱えるなら、呪文を完成させずに次のターンにさらに3アクションを費やしてさらに強化することができる。そうすることを選んだ場合、この呪文の与えるダメージは4d4増加し、あなたは1分のあいだ輝く状態になり光を放ち、あなたに隣接してターンを終了したクリーチャーに@Damage[1[force]]のダメージを与える。</p><hr /><p><strong>高位化 (+1)</strong>即時ダメージ、および2-ラウンドの詠唱時間に対する追加ダメージはそれぞれ2d4増加し、輝く状態で隣接するクリーチャーに与えるダメージは1増加する。</p>",
       "time": "2〜2ラウンド",
       "spellVariants": {
         "owbdx5mwkhnfjfe8": {
@@ -5449,7 +5449,7 @@
     },
     "Shifting Sand": {
       "name": "シフティング・サンド/Shifting Sand",
-      "description": "<p><strong>範囲</strong> (continued)水平な土または砂の表面を20フィート爆発内に指定する</p><hr /><p>あなたは地表を隆起させる。範囲は困難地形になり、範囲内の足跡は攪拌する地面によって破壊される。範囲に立っているクリーチャーは、@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{〈バランスを取る〉}および@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}を行うための《軽業》判定に–1のステータス罰を受け、@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}および@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を行うための《運動》判定にも–1のステータス罰を受ける。あなたが〔呪文の維持〕を行う各ラウンドの最初のとき、あなたは攪拌する領域を任意の方向に最大20フィート移動できる。呪文に@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}クリーチャーは可能なら同じ方向に動く砂とともに運ばれる。攪拌する砂の中に入るかその中でターンを開始するクリーチャーは反応セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、そのターンの終了時まで範囲の困難地形とスキル判定へのペナルティを無視する。</p>\n<p><strong>成功</strong>そのクリーチャーはそのターンの終了時まで範囲のスキル判定へのペナルティを無視する。</p>\n<p><strong>失敗</strong>そのクリーチャーはそのターンは呪文の通常の効果を受ける。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは呪文の範囲内で拘束されるまで移動不能になる。もしそのクリーチャーが既に攪拌する砂で移動不能になっていたなら、さらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}落下する。</p><hr /><p><strong>高位化 (5th)</strong>ステータス罰は–2に増加し、呪文の射程は60フィートに増加する。</p>\n<p><strong>高位化 (7th)</strong>ステータス罰は–3に増加し、呪文の射程は60フィートに増加し、呪文の範囲は30フィート爆発になる。</p>\n<p><strong>高位化 (9th)</strong>ステータス罰は–4に増加し、呪文の射程は60フィートに増加し、呪文の範囲は40フィート爆発になる。</p>",
+      "description": "<p><strong>範囲</strong> (continued)水平な土または砂の表面を20フィート爆発内に指定する</p><hr /><p>あなたは地表を隆起させる。範囲は困難地形になり、範囲内の足跡は攪拌する地面によって破壊される。範囲に立っているクリーチャーは、@UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{〈バランスを取る〉}および@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}を行うための《軽業》判定に–1のステータス罰を受け、@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}および@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を行うための《運動》判定にも–1のステータス罰を受ける。あなたが〔呪文の維持〕を行う各ラウンドの最初のとき、あなたは攪拌する領域を任意の方向に最大20フィート移動できる。呪文に@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}クリーチャーは可能なら同じ方向に動く砂とともに運ばれる。攪拌する砂の中に入るかその中でターンを開始するクリーチャーは反応セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、そのターンの終了時まで範囲の困難地形とスキル判定へのペナルティを無視する。</p>\n<p><strong>成功</strong>そのクリーチャーはそのターンの終了時まで範囲のスキル判定へのペナルティを無視する。</p>\n<p><strong>失敗</strong>そのクリーチャーはそのターンは呪文の通常の効果を受ける。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは呪文の範囲内で拘束されるまで移動不能状態になる。もしそのクリーチャーが既に攪拌する砂で移動不能状態になっていたなら、さらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}落下する。</p><hr /><p><strong>高位化 (5th)</strong>ステータス罰は–2に増加し、呪文の射程は60フィートに増加する。</p>\n<p><strong>高位化 (7th)</strong>ステータス罰は–3に増加し、呪文の射程は60フィートに増加し、呪文の範囲は30フィート爆発になる。</p>\n<p><strong>高位化 (9th)</strong>ステータス罰は–4に増加し、呪文の射程は60フィートに増加し、呪文の範囲は40フィート爆発になる。</p>",
       "range": "30フィート",
       "duration": "1分",
       "time": "3",
@@ -6352,7 +6352,7 @@
     },
     "Home Among Mulberry Leaves": {
       "name": "ホーム・アモング・マルベリー・リーブズ/Home Among Mulberry Leaves",
-      "description": "<p><strong>必要条件</strong>あなたは気の注入された布を振るっている。</p><hr /><p>攻撃が敵に当たると、召喚された針に沿ってあなたの布から気で形成された糸がほどけ、虫の繭のように対象を巻き付ける。あなたは気の注入された布で近接 〔ストライク〕を行う。成功すると、対象は@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}あなたの次のターン開始時まで、ただし対象はあなたの呪文DCに対して@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行うことができる。クリティカル成功なら、糸が対象を縛った後にあなたの針が対象の神経中枢に食い込み、対象はあなたの選択で@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない1}か@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}あなたの次のターン開始時までになり、さらに移動不能になる。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは気の注入された布を振るっている。</p><hr /><p>攻撃が敵に当たると、召喚された針に沿ってあなたの布から気で形成された糸がほどけ、虫の繭のように対象を巻き付ける。あなたは気の注入された布で近接 〔ストライク〕を行う。成功すると、対象は@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}あなたの次のターン開始時まで、ただし対象はあなたの呪文DCに対して@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行うことができる。クリティカル成功なら、糸が対象を縛った後にあなたの針が対象の神経中枢に食い込み、対象はあなたの選択で@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない1}か@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}あなたの次のターン開始時までになり、さらに移動不能状態になる。</p>",
       "time": "1",
       "requirements": "あなたは気で満たされた布を手に持っている。"
     },
@@ -8312,7 +8312,7 @@
     },
     "Sleep": {
       "name": "スリープ",
-      "description": "<p>その範囲内の各クリーチャーは眠気を催し、居眠りをすることがある。この呪文で@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}するそのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}せず、持っているものを離さない。この呪文は成功した知覚判定によってそのクリーチャーが目を覚ますことを阻止しないため、戦闘での有用性は限定される。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは1ラウンドの間、知覚判定に対して–1のステータス罰を受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは気絶に陥る。もし1分の後も気絶のままであれば、自動的に目を覚ます。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは気絶に陥る。もし1時間の後も気絶のままであれば、自動的に目を覚ます。</p><hr /><p><strong>高位化 (4th)</strong>失敗ならそのクリーチャーたちは気絶になり1ラウンドの間そうなる。クリティカル失敗なら1分になる。彼らは伏せて持っているものを放し、知覚判定で目を覚ますことができない。持続時間が終了しても、そのクリーチャーは自動的には目覚めず、普通の睡眠を続ける。</p>",
+      "description": "<p>その範囲内の各クリーチャーは眠気を催し、居眠りをすることがある。この呪文で@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}するそのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}せず、持っているものを離さない。この呪文は成功した知覚判定によってそのクリーチャーが目を覚ますことを阻止しないため、戦闘での有用性は限定される。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは1ラウンドの間、知覚判定に対して–1のステータス罰を受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは気絶に陥る。もし1分の後も気絶状態のままであれば、自動的に目を覚ます。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは気絶に陥る。もし1時間の後も気絶状態のままであれば、自動的に目を覚ます。</p><hr /><p><strong>高位化 (4th)</strong>失敗ならそのクリーチャーたちは気絶状態になり1ラウンドの間そうなる。クリティカル失敗なら1分になる。彼らは伏せて持っているものを放し、知覚判定で目を覚ますことができない。持続時間が終了しても、そのクリーチャーは自動的には目覚めず、普通の睡眠を続ける。</p>",
       "range": "30フィート",
       "time": "2"
     },
@@ -8399,7 +8399,7 @@
     },
     "Impaling Briars": {
       "name": "インペイリング・ブライアーズ/Impaling Briars",
-      "description": "<p>範囲内の地面が危険な茨の塊に変化し、敵を襲い妨げる。あなたは呪文を唱えたとき、そしてその後のラウンドで毎ターン最初にそれを〔維持〕するとき、範囲内で次の効果のうち一つを選ぶ。</p>\n<ul>\n<li><strong>エンスネア</strong>茨が敵の周りに固まり、対象をその場に保持しようと試みる。範囲内の敵(または範囲の上空最大20フィートまで飛行している者)は反応セーヴを行わなければならない。失敗すると、1ラウンドの間すべての移動速度に対して–10-フィートの状況罰を受け、クリティカル失敗のときは脱出に成功しない限り@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}で1ラウンドの間拘束される。</li>\n<li><strong>インピード</strong>茨がよじれうねり、範囲全体を困難地形にする。</li>\n<li><strong>ウォール</strong>範囲内に@UUID[Compendium.pf2e.spells-srd.Item.KsWhliKfUs3IpW3c]{ウォール・オヴ・ソーンズ}が出現し、1ラウンドの間持続する。壁は困難地形の代わりにより強い困難地形となる。</li>\n</ul>\n<p>加えて、1回につきラウンドごとに、あなたは視界に入る範囲内の(または範囲の上空最大20フィートまで飛行している)任意の対象に向かって、集中と手作業のトレイトを持つ単一アクションを使って茨を突き刺すよう指示できる。呪文攻撃ロールを行う。成功すると、対象は10d6の刺突ダメージを受け、1ラウンドの間すべての速度に対して–10-フィートの状況罰を受ける。クリティカル成功なら、対象は脱出に成功しない限り1ラウンドの間移動不能となる。</p>",
+      "description": "<p>範囲内の地面が危険な茨の塊に変化し、敵を襲い妨げる。あなたは呪文を唱えたとき、そしてその後のラウンドで毎ターン最初にそれを〔維持〕するとき、範囲内で次の効果のうち一つを選ぶ。</p>\n<ul>\n<li><strong>エンスネア</strong>茨が敵の周りに固まり、対象をその場に保持しようと試みる。範囲内の敵(または範囲の上空最大20フィートまで飛行している者)は反応セーヴを行わなければならない。失敗すると、1ラウンドの間すべての移動速度に対して–10-フィートの状況罰を受け、クリティカル失敗のときは脱出に成功しない限り@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}で1ラウンドの間拘束される。</li>\n<li><strong>インピード</strong>茨がよじれうねり、範囲全体を困難地形にする。</li>\n<li><strong>ウォール</strong>範囲内に@UUID[Compendium.pf2e.spells-srd.Item.KsWhliKfUs3IpW3c]{ウォール・オヴ・ソーンズ}が出現し、1ラウンドの間持続する。壁は困難地形の代わりにより強い困難地形となる。</li>\n</ul>\n<p>加えて、1回につきラウンドごとに、あなたは視界に入る範囲内の(または範囲の上空最大20フィートまで飛行している)任意の対象に向かって、集中と手作業のトレイトを持つ単一アクションを使って茨を突き刺すよう指示できる。呪文攻撃ロールを行う。成功すると、対象は10d6の刺突ダメージを受け、1ラウンドの間すべての速度に対して–10-フィートの状況罰を受ける。クリティカル成功なら、対象は脱出に成功しない限り1ラウンドの間移動不能状態となる。</p>",
       "duration": "1分",
       "time": "3"
     },
@@ -9098,13 +9098,13 @@
     },
     "Veil of Confidence": {
       "name": "ベール・オブ・コンフィデンス/Veil of Confidence",
-      "description": "<p>あなたは自身を自信のヴェールで包む。あなたは現在の@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}条件を1減少させ、持続時間中にあなたが恐れているになる場合はその量を1減少させる。もしあなたが恐怖に対するセーヴでクリティカル失敗をした場合、<em>自信のヴェール</em>はその効果によるあなたの恐怖値を減らし、その後終了する。</p>",
+      "description": "<p>あなたは自身を自信のヴェールで包む。あなたは現在の@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}条件を1減少させ、持続時間中にあなたが恐れている状態になる場合はその量を1減少させる。もしあなたが恐怖に対するセーヴでクリティカル失敗をした場合、<em>自信のヴェール</em>はその効果によるあなたの恐怖値を減らし、その後終了する。</p>",
       "duration": "1分",
       "time": "1"
     },
     "Blinding Beauty": {
       "name": "ブラインディング・ビューティー/Blinding Beauty",
-      "description": "<p>あなたは自分のニンフ血統の魅力を恐ろしくも美しい一瞥に込める。範囲内の各敵は意志セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは次の自分のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}。</p>\n<p><strong>失敗</strong>そのクリーチャーは次の自分のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは盲目となり、期間は1分である。</p>",
+      "description": "<p>あなたは自分のニンフ血統の魅力を恐ろしくも美しい一瞥に込める。範囲内の各敵は意志セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは次の自分のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}。</p>\n<p><strong>失敗</strong>そのクリーチャーは次の自分のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは盲目状態となり、期間は1分である。</p>",
       "time": "1"
     },
     "Befitting Attire": {
@@ -9603,7 +9603,7 @@
     },
     "Impending Doom": {
       "name": "インペンディング・ドゥーム",
-      "description": "<p>あなたは無数の可能な未来を選り分け、対象が特に凄惨で致命的な最期を迎えるある瞬間を捉え、その差し迫った滅びの幻を対象に見せる。強烈な精神的幻影は滅びが近づくにつれて対象にとってますます恐ろしくなり、結末に至るまでに3ラウンドからリーチかかる。対象は効果を判定するために意志セーヴィング・スローを行わなければならない。呪文の継続時間の終了時に、もし対象が影響を受けていたなら、対象は自分の死を目撃し、6d6の精神ダメージを受ける。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは1ラウンドの間影響を受けない。第二のラウンドに、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になる。最後に第三のラウンドに、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態になる。第三のラウンドの終わりに、そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは直ちに不意を突かれた状態になる。第二のラウンドに、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態になる。最後に第三のラウンドに、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}にもなる。第三のラウンドの終わりに、そのクリーチャーは全てのダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは直ちに不意を突かれ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3}。第二のラウンドに、そのクリーチャーはスタン1になる。最後に第三のラウンドに、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}にもなる。第三のラウンドの終わりに、そのクリーチャーは2倍のダメージを受ける。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>ダメージは2d6増加する。</p>",
+      "description": "<p>あなたは無数の可能な未来を選り分け、対象が特に凄惨で致命的な最期を迎えるある瞬間を捉え、その差し迫った滅びの幻を対象に見せる。強烈な精神的幻影は滅びが近づくにつれて対象にとってますます恐ろしくなり、結末に至るまでに3ラウンドからリーチかかる。対象は効果を判定するために意志セーヴィング・スローを行わなければならない。呪文の継続時間の終了時に、もし対象が影響を受けていたなら、対象は自分の死を目撃し、6d6の精神ダメージを受ける。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは1ラウンドの間影響を受けない。第二のラウンドに、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になる。最後に第三のラウンドに、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態になる。第三のラウンドの終わりに、そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは直ちに不意を突かれた状態になる。第二のラウンドに、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態になる。最後に第三のラウンドに、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}にもなる。第三のラウンドの終わりに、そのクリーチャーは全てのダメージを受ける。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは直ちに不意を突かれ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3}。第二のラウンドに、そのクリーチャーはスタン1状態になる。最後に第三のラウンドに、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}にもなる。第三のラウンドの終わりに、そのクリーチャーは2倍のダメージを受ける。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>ダメージは2d6増加する。</p>",
       "target": "1体の生きているクリーチャー",
       "range": "30フィート",
       "duration": "3ラウンド",
@@ -9706,7 +9706,7 @@
     },
     "Vibrant Pattern": {
       "name": "ヴァイブラント・パターン/Vibrant Pattern",
-      "description": "<p>あなたは激しく明滅する光のパターンを作り出す。クリーチャーはそのパターンの中にいる間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。さらに、クリーチャーがこの呪文を唱えた時にパターンの中にいる場合、パターンに入った場合、パターン内でターンを終了した場合、あるいはパターンに対して〈見回す〉や〈扱う〉アクションを行った場合、そのクリーチャーは意志セーヴィング・スローを行わなければならない。現在このパターンによって@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となっているクリーチャーは、新たなセーヴィング・スローを行う必要はない。</p>\n<hr />\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーはパターンによって盲目となる。もしそのクリーチャーがパターンから出た場合、各ターンの終了時に盲目状態から回復するための新たなセーヴを行うことができる(最大持続時間は1分)。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは1分の間、盲目となる。</p>",
+      "description": "<p>あなたは激しく明滅する光のパターンを作り出す。クリーチャーはそのパターンの中にいる間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。さらに、クリーチャーがこの呪文を唱えた時にパターンの中にいる場合、パターンに入った場合、パターン内でターンを終了した場合、あるいはパターンに対して〈見回す〉や〈扱う〉アクションを行った場合、そのクリーチャーは意志セーヴィング・スローを行わなければならない。現在このパターンによって@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となっているクリーチャーは、新たなセーヴィング・スローを行う必要はない。</p>\n<hr />\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーはパターンによって盲目状態となる。もしそのクリーチャーがパターンから出た場合、各ターンの終了時に盲目状態から回復するための新たなセーヴを行うことができる(最大持続時間は1分)。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは1分の間、盲目状態となる。</p>",
       "range": "120フィート",
       "duration": "1分",
       "time": "2"
@@ -10163,7 +10163,7 @@
     },
     "Moonbeam": {
       "name": "ムーンビーム/Moonbeam",
-      "description": "<p>あなたは月光の光線を放つ。 呪文攻撃ロールを行う。 光線は2d6の火ダメージを与える。これは弱点や耐性などに関して銀ダメージである。</p>\n<hr />\n<p><strong>クリティカル成功</strong>光線は二倍のダメージを与え、対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる1分。</p>\n<p><strong>成功</strong>光線は完全なダメージを与え、対象は目が眩んだとなる1ラウンド。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>光線のダメージが1d6増加する。</p>",
+      "description": "<p>あなたは月光の光線を放つ。 呪文攻撃ロールを行う。 光線は2d6の火ダメージを与える。これは弱点や耐性などに関して銀ダメージである。</p>\n<hr />\n<p><strong>クリティカル成功</strong>光線は二倍のダメージを与え、対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる1分。</p>\n<p><strong>成功</strong>光線は完全なダメージを与え、対象は目が眩んだ状態となる1ラウンド。</p>\n<hr />\n<p><strong>高位化 (+1)</strong>光線のダメージが1d6増加する。</p>",
       "target": "1体のクリーチャー",
       "range": "120フィート",
       "time": "2"
@@ -10442,7 +10442,7 @@
     },
     "Mantis's Grasp": {
       "name": "マンティスズ・グラスプ",
-      "description": "***<p>あなたは赤く幽霊のようなカマキリの腕を近くの表面から生えさせて生物を押し潰し、8d6フォース・ダメージのダメージを与え、対象を固定しようとする。効果はそのクリーチャーの反応セーヴによって決まる。</p><hr /><p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は半分のダメージを受ける。</p>\n<p><strong>失敗</strong>対象は全てのダメージを受けるとなり、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}の影響を1ラウンドの間受ける。</p>\n<p><strong>クリティカル失敗</strong>対象は2倍のダメージを受けるとなり、1分の間移動不能になる。各ターンの終了時に、対象は@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行うことができる。〔エスケープ〕 DCはあなたの呪文DCに等しい。</p><hr /><p><strong>高位化 (7th)</strong>あなたは対象を最大5体のクリーチャー指定できる。</p>",
+      "description": "***<p>あなたは赤く幽霊のようなカマキリの腕を近くの表面から生えさせて生物を押し潰し、8d6フォース・ダメージのダメージを与え、対象を固定しようとする。効果はそのクリーチャーの反応セーヴによって決まる。</p><hr /><p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は半分のダメージを受ける。</p>\n<p><strong>失敗</strong>対象は全てのダメージを受けるとなり、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}の影響を1ラウンドの間受ける。</p>\n<p><strong>クリティカル失敗</strong>対象は2倍のダメージを受けるとなり、1分の間移動不能状態になる。各ターンの終了時に、対象は@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行うことができる。〔エスケープ〕 DCはあなたの呪文DCに等しい。</p><hr /><p><strong>高位化 (7th)</strong>あなたは対象を最大5体のクリーチャー指定できる。</p>",
       "target": "1体のクリーチャー",
       "range": "120フィート",
       "time": "2"
@@ -10570,7 +10570,7 @@
     },
     "Pyrotechnics": {
       "name": "パイロテクニクス",
-      "description": "<p>あなたは火を、呪文を詠唱するときに選んだ、まばゆい花火の爆発か濃い窒息性の煙雲のいずれかに変える。呪文は火源1つを対象とし、それがキャンプファイア大以下の非魔法の火なら即座に消える。もし火源が生物なら、そのクリーチャーは1d6点の冷気ダメージを受け、消えない。</p>\n<ul>\n<li><strong>ファイアワークス</strong>標的の火は20フィートの半径の範囲で、派手で燃えるように光る空中花火のカラフルな配列に爆発する。あなたが各ラウンドで初めて〔呪文の維持〕を行うと、花火の範囲を最大で20フィートまで上昇させることができるが、範囲を横方向に移動させることはできない。花火の範囲内でターンを開始するクリーチャーは頑健セーヴを行わなければならず、その後一時的な免疫となり1分の間続く。\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となり次のターンの終わりまで続く。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となり次のターンの終わりまで続く。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは盲目となり1分の間続く。</p></li>\n<li><strong>スモーク・クラウド</strong>標的の火から濃い煙が噴き出して雲を形成し、標的の火を中心に20フィートの半径の範囲を満たすように広がる。煙雲内のクリーチャーは視覚による知覚判定に対して-4の状況ペナルティを受け、煙雲の外にいるクリーチャーは煙雲内のクリーチャーや物体を感知するための視覚による知覚判定に対して-4の状況ペナルティを受ける。あなたが各ラウンドで初めて〔呪文の維持〕を行うと、煙雲を最大で20フィートまで下降させることができるが、範囲を横方向に移動させることはできない。煙雲内でターンを開始するクリーチャーは頑健セーヴを行わなければならず、その後一時的な免疫となり1分の間続く。\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}.</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは不調1となり、煙雲の範囲内にいる間はsickened状態から回復できない。</p></li>\n</ul>",
+      "description": "<p>あなたは火を、呪文を詠唱するときに選んだ、まばゆい花火の爆発か濃い窒息性の煙雲のいずれかに変える。呪文は火源1つを対象とし、それがキャンプファイア大以下の非魔法の火なら即座に消える。もし火源が生物なら、そのクリーチャーは1d6点の冷気ダメージを受け、消えない。</p>\n<ul>\n<li><strong>ファイアワークス</strong>標的の火は20フィートの半径の範囲で、派手で燃えるように光る空中花火のカラフルな配列に爆発する。あなたが各ラウンドで初めて〔呪文の維持〕を行うと、花火の範囲を最大で20フィートまで上昇させることができるが、範囲を横方向に移動させることはできない。花火の範囲内でターンを開始するクリーチャーは頑健セーヴを行わなければならず、その後一時的な免疫となり1分の間続く。\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となり次のターンの終わりまで続く。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となり次のターンの終わりまで続く。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは盲目状態となり1分の間続く。</p></li>\n<li><strong>スモーク・クラウド</strong>標的の火から濃い煙が噴き出して雲を形成し、標的の火を中心に20フィートの半径の範囲を満たすように広がる。煙雲内のクリーチャーは視覚による知覚判定に対して-4の状況ペナルティを受け、煙雲の外にいるクリーチャーは煙雲内のクリーチャーや物体を感知するための視覚による知覚判定に対して-4の状況ペナルティを受ける。あなたが各ラウンドで初めて〔呪文の維持〕を行うと、煙雲を最大で20フィートまで下降させることができるが、範囲を横方向に移動させることはできない。煙雲内でターンを開始するクリーチャーは頑健セーヴを行わなければならず、その後一時的な免疫となり1分の間続く。\n<p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}.</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは不調1状態となり、煙雲の範囲内にいる間はsickened状態から回復できない。</p></li>\n</ul>",
       "target": "火1つ",
       "range": "120フィート",
       "duration": "1分",
@@ -10856,7 +10856,7 @@
     },
     "Dizzying Colors": {
       "name": "ディジーイング・カラーズ/Dizzying Colors",
-      "description": "<p>あなたは色が渦巻く多彩な光を放ち、その色がそのクリーチャーの意志のセーヴに基づいて圧倒する。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}で、持続時間は1ラウンド。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}、@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}は1ラウンドの間、眩惑は1分の間続く。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは1ラウンドの間スタンし、1分の間盲目になる。</p>",
+      "description": "<p>あなたは色が渦巻く多彩な光を放ち、その色がそのクリーチャーの意志のセーヴに基づいて圧倒する。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}で、持続時間は1ラウンド。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}、@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}は1ラウンドの間、眩惑は1分の間続く。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは1ラウンドの間スタンし、1分の間盲目状態になる。</p>",
       "duration": "1ラウンド以上(下記参照)",
       "time": "2"
     },
@@ -11303,7 +11303,7 @@
     },
     "Blindness": {
       "name": "ブラインドネス",
-      "description": "<p>対象を盲目にする。 効果は対象の頑健セーヴで決まる。 対象はその後一時的な免疫になる。1分の間。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は次のターンが始まるまで@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}である。</p>\n<p><strong>失敗</strong>対象は盲目になる。1分の間。</p>\n<p><strong>クリティカル失敗</strong>対象は永続的に盲目である。</p>",
+      "description": "<p>対象を盲目状態にする。 効果は対象の頑健セーヴで決まる。 対象はその後一時的な免疫になる。1分の間。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けない。</p>\n<p><strong>成功</strong>対象は次のターンが始まるまで@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}である。</p>\n<p><strong>失敗</strong>対象は盲目状態になる。1分の間。</p>\n<p><strong>クリティカル失敗</strong>対象は永続的に盲目である。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
       "time": "2"
@@ -12110,7 +12110,7 @@
     },
     "Indolent Haze": {
       "name": "インドレント・ヘイズ",
-      "description": "<p>ポピーのかすかな香りと穏やかな静けさが範囲を満たし、クリーチャーに横になって休むこと、永遠に何もしないことを促す。あなたが呪文を唱えたとき範囲内にいるクリーチャーは意志セーヴを行わなければならない。ターン終了時に範囲内にいるクリーチャーもセーヴを行わなければならない。あなたは呪文を〔解除〕できる。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは横になって休み、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になる。もし既に伏せているなら、代わりに眠りに落ちて@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態になる。</p>\n<p><strong>失敗</strong>成功と同様だが、そのクリーチャーは横になっていることに非常に満足しているため、次のターンに〔立ち上がる〕を行ったり、その他の方法で自自身を地面から動かしたりすることができない。ただし@UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{〈這い進む〉}は行える(呪文の範囲から逃れる可能性がある)。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは直ちに横になり眠りに落ち、伏せた状態になり気絶となる。あなたが呪文を唱えたとき既に気絶であった(またはターン終了時に呪文の範囲内で彼らが気絶であった)クリーチャーは、夢を通じて生命力が奪われ6d4のスピリットダメージを受ける。このダメージは自動的に彼らを覚醒させない。</p><hr /><p><strong>高位化 (+1)</strong>スピリットダメージは2d4増加する。</p>",
+      "description": "<p>ポピーのかすかな香りと穏やかな静けさが範囲を満たし、クリーチャーに横になって休むこと、永遠に何もしないことを促す。あなたが呪文を唱えたとき範囲内にいるクリーチャーは意志セーヴを行わなければならない。ターン終了時に範囲内にいるクリーチャーもセーヴを行わなければならない。あなたは呪文を〔解除〕できる。</p><hr /><p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは横になって休み、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になる。もし既に伏せているなら、代わりに眠りに落ちて@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態になる。</p>\n<p><strong>失敗</strong>成功と同様だが、そのクリーチャーは横になっていることに非常に満足しているため、次のターンに〔立ち上がる〕を行ったり、その他の方法で自自身を地面から動かしたりすることができない。ただし@UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{〈這い進む〉}は行える(呪文の範囲から逃れる可能性がある)。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは直ちに横になり眠りに落ち、伏せた状態になり気絶状態となる。あなたが呪文を唱えたとき既に気絶であった(またはターン終了時に呪文の範囲内で彼らが気絶であった)クリーチャーは、夢を通じて生命力が奪われ6d4のスピリットダメージを受ける。このダメージは自動的に彼らを覚醒させない。</p><hr /><p><strong>高位化 (+1)</strong>スピリットダメージは2d4増加する。</p>",
       "range": "120フィート",
       "duration": "1分",
       "time": "3"
@@ -12555,7 +12555,7 @@
     },
     "Power Word Blind": {
       "name": "パワー・ワード・ブラインド/Power Word Blind",
-      "description": "<p>あなたは、対象がそれを聞いたときに@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}にする力のある秘儀的な言葉を発する。対象はその後一時的な免疫となり、10分続く。呪文の効果は対象のレベルに依存する。</p>\n<hr />\n<p><strong>第11以下</strong>対象は恒久的に盲目となる。</p>\n<p><strong>第12〜13</strong>対象は[[/r 1d4 #minutes]]の間盲目となる。{1d4 minutes}.</p>\n<p><strong>第14以上</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}の間1分となる。</p>\n<hr />\n<p><strong>高位化(+1)</strong>各結果が適用されるレベルは2上がる。</p>",
+      "description": "<p>あなたは、対象がそれを聞いたときに@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}にする力のある秘儀的な言葉を発する。対象はその後一時的な免疫となり、10分続く。呪文の効果は対象のレベルに依存する。</p>\n<hr />\n<p><strong>第11以下</strong>対象は恒久的に盲目状態となる。</p>\n<p><strong>第12〜13</strong>対象は[[/r 1d4 #minutes]]の間盲目状態となる。{1d4 minutes}.</p>\n<p><strong>第14以上</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}の間1分となる。</p>\n<hr />\n<p><strong>高位化(+1)</strong>各結果が適用されるレベルは2上がる。</p>",
       "target": "1体のクリーチャー",
       "range": "30フィート",
       "duration": "様々",
@@ -13318,7 +13318,7 @@
     },
     "Dazzling Flash": {
       "name": "ダズリング・フラッシュ/Dazzling Flash",
-      "description": "<p>あなたは宗教的なシンボルを掲げ、眩しい閃光を作り出す。範囲内の各クリーチャーは頑健セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となり1ラウンド続く。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となり1ラウンドの間および1分の間は目が眩んだとなる。そのクリーチャーは目をこすることで〔扱う〕アクションを費やして盲目状態を終わらせることができる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは盲目で1ラウンド続き、目が眩んだで1時間続く。</p>\n<hr />\n<p><strong>高位化 (3rd)</strong>範囲は30-フィートコーンに増加する。</p>",
+      "description": "<p>あなたは宗教的なシンボルを掲げ、眩しい閃光を作り出す。範囲内の各クリーチャーは頑健セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となり1ラウンド続く。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となり1ラウンドの間および1分の間は目が眩んだ状態となる。そのクリーチャーは目をこすることで〔扱う〕アクションを費やして盲目状態を終わらせることができる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは盲目で1ラウンド続き、目が眩んだで1時間続く。</p>\n<hr />\n<p><strong>高位化 (3rd)</strong>範囲は30-フィートコーンに増加する。</p>",
       "time": "2"
     },
     "Explosive Barrage": {
