@@ -6028,7 +6028,7 @@
     },
     "Embrace the Pit": {
       "name": "エンブレイス・ザ・ピット/Embrace the Pit",
-      "description": "<p>デヴィルの角が頭蓋骨から生え、あなたの皮膚はあなたの魔的な血筋の原因であるデヴィルの特徴を帯びる。あなたは火炎と毒に対する耐性5、および物理ダメージ(銀を除く)に対する耐性1を得る。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.gX8O0ArQXbEVDUbW]{呪文 効果: Embrace the ピット}</p><hr /><p><strong>高位化 (+2)</strong>火炎と毒に対する耐性は5増加し、物理ダメージ(銀を除く)に対する耐性は2増加する。</p>",
+      "description": "<p>デヴィルの角が頭蓋骨から生え、あなたの皮膚はあなたの魔的な血脈の原因であるデヴィルの特徴を帯びる。あなたは火炎と毒に対する耐性5、および物理ダメージ(銀を除く)に対する耐性1を得る。</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.gX8O0ArQXbEVDUbW]{呪文 効果: Embrace the ピット}</p><hr /><p><strong>高位化 (+2)</strong>火炎と毒に対する耐性は5増加し、物理ダメージ(銀を除く)に対する耐性は2増加する。</p>",
       "duration": "1分",
       "time": "1"
     },
@@ -6294,7 +6294,7 @@
     },
     "Dragon Breath": {
       "name": "ドラゴン・ブレス/Dragon Breath",
-      "description": "<p>あなたは口からエネルギーを吐き出し、基本の反応セーヴを伴う5d6のダメージを与える。ダメージ種別は、あなたの血筋に影響を与えたドラゴンに関連する魔法の系統に依存する。</p><hr /><p><strong>　高位化 (+1)</strong>ダメージが2d6増加する。</p>",
+      "description": "<p>あなたは口からエネルギーを吐き出し、基本の反応セーヴを伴う5d6のダメージを与える。ダメージ種別は、あなたの血脈に影響を与えたドラゴンに関連する魔法の系統に依存する。</p><hr /><p><strong>　高位化 (+1)</strong>ダメージが2d6増加する。</p>",
       "time": "2"
     },
     "Jassim's Allegiance": {
@@ -6672,7 +6672,7 @@
     },
     "Flurry of Claws": {
       "name": "フラリー・オブ・クロウズ/Flurry of Claws",
-      "description": "<p>凶悪なドラゴンの爪が現れ、近くの敵二体を斬りつける。あなたは各クリーチャーに対して呪文攻撃ロールを行う。これはあなたのマルチアタック・ペナルティにおいて二回の攻撃として扱われるが、両方の攻撃を行うまでペナルティは増加しない。命中したクリーチャーは1d8斬撃を受け、さらにあなたの血統に影響を与えたドラゴンに関連する魔術的な系統によって定まる種類の追加ダメージ1d4を受ける: <strong>アーケイン</strong> force、<strong>ディバイン</strong> spirit、<strong>オカルト</strong> mental、または<strong>プライマル</strong> fire。</p><hr /><p><strong>高位化 (+1)</strong>その即時ダメージが1d8増加し、追加ダメージが1d4増加する。</p>",
+      "description": "<p>凶悪なドラゴンの爪が現れ、近くの敵二体を斬りつける。あなたは各クリーチャーに対して呪文攻撃ロールを行う。これはあなたのマルチアタック・ペナルティにおいて二回の攻撃として扱われるが、両方の攻撃を行うまでペナルティは増加しない。命中したクリーチャーは1d8斬撃を受け、さらにあなたの血脈に影響を与えたドラゴンに関連する魔術的な系統によって定まる種類の追加ダメージ1d4を受ける: <strong>アーケイン</strong> force、<strong>ディバイン</strong> spirit、<strong>オカルト</strong> mental、または<strong>プライマル</strong> fire。</p><hr /><p><strong>高位化 (+1)</strong>その即時ダメージが1d8増加し、追加ダメージが1d4増加する。</p>",
       "target": "互いの距離が10フィート以内の2体のクリーチャー",
       "range": "30フィート",
       "time": "2"
@@ -9104,7 +9104,7 @@
     },
     "Blinding Beauty": {
       "name": "ブラインディング・ビューティー/Blinding Beauty",
-      "description": "<p>あなたは自分のニンフ血統の魅力を恐ろしくも美しい一瞥に込める。範囲内の各敵は意志セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは次の自分のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}。</p>\n<p><strong>失敗</strong>そのクリーチャーは次の自分のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは盲目状態となり、期間は1分である。</p>",
+      "description": "<p>あなたは自分のニンフ血脈の魅力を恐ろしくも美しい一瞥に込める。範囲内の各敵は意志セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは次の自分のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}。</p>\n<p><strong>失敗</strong>そのクリーチャーは次の自分のターン開始まで@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは盲目状態となり、期間は1分である。</p>",
       "time": "1"
     },
     "Befitting Attire": {
@@ -12744,7 +12744,7 @@
     },
     "Terminate Bloodline": {
       "name": "ターミネイト・ブラッドライン/Terminate Bloodline",
-      "description": "<p>強大なドロウの貴族家、シュレーン家を含む、は台頭する前に新興の貴族家を根絶するためにこの儀式を使う。儀式の完了時、あなたは対象はそのクリーチャーに伝染性の消耗病をかけ、その家系を絶やす意図を持つ。</p>\n<p>儀式は抑圧された対象に対して最も容易に行える。たいてい標的の家系の低位の者が拉致され記憶を消されている場合が多い。対象は儀式が唱えられたとき意識がある場合、対象は儀式のDCに対して頑健セーヴを行う；成功すると儀式は失敗する。さもなければ対象は自動的に死にゆく家系の病に冒される。</p>\n<p><strong>瀕死血統</strong>(呪い、病気)この病気の頑健セーヴに失敗または大失敗すると、病気は通常どおり次の段階に進行する；しかし、セーヴに成功または大成功しても何の効果もない。病気は最初に呪いを成功裏に対抗し、その後に病気を対抗して初めて除去できる</p>\n<p><strong>レベル</strong>が儀式のレベルの2倍に等しい</p>\n<p><strong>段階1</strong>保菌者で影響なし(1ヶ月)</p>\n<p><strong>段階2</strong> @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}(1週間)</p>\n<p><strong>段階3</strong>疲労し、@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}(1日)</p>\n<p><strong>段階4</strong>疲労し、@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗3}(1日)</p>\n<p><strong>段階5</strong>死亡。</p>\n<hr />\n<p>感染したクリーチャーの直系家族の各メンバー(血縁関係または親または子)がその感染したクリーチャーと物理的接触をすると、当該メンバーは頑健セーヴを行うか病気にかかる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは病気にかからず、その特定のクリーチャーと物理的接触する際にさらにセーヴを行う必要はない(しかしそのクリーチャーは病気に対して免疫ではなく、別の感染した家族と物理的接触した場合は通常どおりセーヴを行わなければならない)。</p>\n<p><strong>成功</strong>そのクリーチャーは影響を受けないが、次にその特定の感染したクリーチャーと物理的接触した際には別のセーヴを行わなければならない。</p>\n<p><strong>失敗</strong>そのクリーチャーは病気にかかり、元の対象と同じ方法でそれを広げることができる。</p>",
+      "description": "<p>強大なドロウの貴族家、シュレーン家を含む、は台頭する前に新興の貴族家を根絶するためにこの儀式を使う。儀式の完了時、あなたは対象はそのクリーチャーに伝染性の消耗病をかけ、その家系を絶やす意図を持つ。</p>\n<p>儀式は抑圧された対象に対して最も容易に行える。たいてい標的の家系の低位の者が拉致され記憶を消されている場合が多い。対象は儀式が唱えられたとき意識がある場合、対象は儀式のDCに対して頑健セーヴを行う；成功すると儀式は失敗する。さもなければ対象は自動的に死にゆく家系の病に冒される。</p>\n<p><strong>瀕死血脈</strong>(呪い、病気)この病気の頑健セーヴに失敗または大失敗すると、病気は通常どおり次の段階に進行する；しかし、セーヴに成功または大成功しても何の効果もない。病気は最初に呪いを成功裏に対抗し、その後に病気を対抗して初めて除去できる</p>\n<p><strong>レベル</strong>が儀式のレベルの2倍に等しい</p>\n<p><strong>段階1</strong>保菌者で影響なし(1ヶ月)</p>\n<p><strong>段階2</strong> @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}(1週間)</p>\n<p><strong>段階3</strong>疲労し、@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}(1日)</p>\n<p><strong>段階4</strong>疲労し、@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗3}(1日)</p>\n<p><strong>段階5</strong>死亡。</p>\n<hr />\n<p>感染したクリーチャーの直系家族の各メンバー(血縁関係または親または子)がその感染したクリーチャーと物理的接触をすると、当該メンバーは頑健セーヴを行うか病気にかかる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは病気にかからず、その特定のクリーチャーと物理的接触する際にさらにセーヴを行う必要はない(しかしそのクリーチャーは病気に対して免疫ではなく、別の感染した家族と物理的接触した場合は通常どおりセーヴを行わなければならない)。</p>\n<p><strong>成功</strong>そのクリーチャーは影響を受けないが、次にその特定の感染したクリーチャーと物理的接触した際には別のセーヴを行わなければならない。</p>\n<p><strong>失敗</strong>そのクリーチャーは病気にかかり、元の対象と同じ方法でそれを広げることができる。</p>",
       "target": "1体のクリーチャーで、そのレベルはterminate bloodline ritualのレベルの2倍以下",
       "range": "10マイル",
       "time": "1日",

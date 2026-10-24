@@ -1301,7 +1301,7 @@
           "value": "基本のソーサラースペルキャスティング"
         },
         {
-          "value": "《秘術》、《自然》、《神秘学》、または《宗教》のマスター、血統に応じて"
+          "value": "《秘術》、《自然》、《神秘学》、または《宗教》のマスター、血脈に応じて"
         }
       ]
     },
@@ -4875,7 +4875,7 @@
     },
     "Sorcerer Dedication": {
       "name": "ソーサラー・デディケーション/Sorcerer Dedication",
-      "description": "<p>適切な@UUID[Compendium.pf2e.classfeatures.Item.2goYo6VNbwC6aKF1]{ブラッドライン}を選ぶ。あなたは血統の二つのスキルで訓練済みになる；そのうちの各スキルであなたがすでに訓練済みであった場合、あなたは選択したスキルで訓練済みになる。</p>\n<p>あなたはソーサラーのように呪文を唱える。あなたは〔呪文の発動〕アクティビティにアクセスする。あなたは血統に関連する呪文リストから二つの一般的なカントリップ、または血統によって与えられた呪文、またはあなたが学ぶか発見するその系統の他のカントリップから成る呪文レパートリーを得る。あなたは呪文攻撃修正値と呪文DCの統計で訓練済みである。あなたのソーサラーアーキタイプの呪文のための主要な呪文発動能力値は魅力で、これらはあなたの血統の系統のソーサラー呪文である。血統を選んだことによる他の能力は得られない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DJiYP5tFBrBMD0We]{ソーサラー}</p>",
+      "description": "<p>適切な@UUID[Compendium.pf2e.classfeatures.Item.2goYo6VNbwC6aKF1]{ブラッドライン}を選ぶ。あなたは血脈の二つのスキルで訓練済みになる；そのうちの各スキルであなたがすでに訓練済みであった場合、あなたは選択したスキルで訓練済みになる。</p>\n<p>あなたはソーサラーのように呪文を唱える。あなたは〔呪文の発動〕アクティビティにアクセスする。あなたは血脈に関連する呪文リストから二つの一般的なカントリップ、または血脈によって与えられた呪文、またはあなたが学ぶか発見するその系統の他のカントリップから成る呪文レパートリーを得る。あなたは呪文攻撃修正値と呪文DCの統計で訓練済みである。あなたのソーサラーアーキタイプの呪文のための主要な呪文発動能力値は魅力で、これらはあなたの血脈の系統のソーサラー呪文である。血脈を選んだことによる他の能力は得られない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DJiYP5tFBrBMD0We]{ソーサラー}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -5698,7 +5698,7 @@
     },
     "Bloodline Perfection": {
       "name": "ブラッドライン・パーフェクション/Bloodline Perfection",
-      "description": "<p>あなたは血統と系統の究極の力を掌握する。あなたは追加で10ランクの呪文スロットを得る。</p>",
+      "description": "<p>あなたは血脈と系統の究極の力を掌握する。あなたは追加で10ランクの呪文スロットを得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -6897,11 +6897,11 @@
     },
     "Blessed Blood (Sorcerer)": {
       "name": "ブレスド・ブラッド（ソーサラー）/Blessed Blood (Sorcerer)",
-      "description": "<p>あなたの神格の祝福は、あなたの血筋に宿る力として現れる。最大で三つのあなたの神格の呪文(あなたの神格がクレリックに授ける呪文)をあなたの呪文リストに追加する。それらは自動的にはあなたのレパートリーには追加されないが、あなたは通常の神聖な呪文リストと同様に選択することができる。</p>",
+      "description": "<p>あなたの神格の祝福は、あなたの血脈に宿る力として現れる。最大で三つのあなたの神格の呪文(あなたの神格がクレリックに授ける呪文)をあなたの呪文リストに追加する。それらは自動的にはあなたのレパートリーには追加されないが、あなたは通常の神聖な呪文リストと同様に選択することができる。</p>",
       "source": "Pathfinder Lost Omens Gods & Magic",
       "prerequisites": [
         {
-          "value": "神聖な呪文を授ける血統"
+          "value": "神聖な呪文を授ける血脈"
         },
         {
           "value": "あなたは神格に従う"
@@ -7167,7 +7167,7 @@
     },
     "Greater Mental Evolution": {
       "name": "グレーター・メンタル・エヴォリューション/Greater Mental Evolution",
-      "description": "<p>あなたの血統の精神的な本質への深いつながりは、あなたの呪文レパートリーを大いに強化する。あなたが唱えることのできる呪文ランクごとに呪文を1つ、呪文レパートリーに追加する。</p>",
+      "description": "<p>あなたの血脈の精神的な本質への深いつながりは、あなたの呪文レパートリーを大いに強化する。あなたが唱えることのできる呪文ランクごとに呪文を1つ、呪文レパートリーに追加する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -10053,7 +10053,7 @@
     },
     "Basic Sorcerer Spellcasting": {
       "name": "ベーシック・ソーサラー・スペルキャスティング/Basic Sorcerer Spellcasting",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DOc3Pf8wmVxanTIv#basic-spellcasting-feat]{Basic スペルキャスティング 特技}恩恵を得る。あなたがソーサラーのアーキタイプから新しいレベルの呪文スロットを得るたびに、適切な呪文ランクの呪文をあなたのレパートリーに追加する: あなたの血統の系統の一般的な呪文、あなたの血統から与えられた呪文、またはあなたが学んだか発見した他の呪文。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DOc3Pf8wmVxanTIv#basic-spellcasting-feat]{Basic スペルキャスティング 特技}恩恵を得る。あなたがソーサラーのアーキタイプから新しいレベルの呪文スロットを得るたびに、適切な呪文ランクの呪文をあなたのレパートリーに追加する: あなたの血脈の系統の一般的な呪文、あなたの血脈から与えられた呪文、またはあなたが学んだか発見した他の呪文。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -12847,7 +12847,7 @@
           "value": "ドラゴンの弟子デディケーション"
         },
         {
-          "value": "ドラゴンの息の魔術師の血統呪文"
+          "value": "ドラゴンの息の魔術師の血脈呪文"
         }
       ]
     },
@@ -13119,7 +13119,7 @@
     },
     "Crossblooded Evolution": {
       "name": "クロスブラッディッド・エヴォリューション/Crossblooded Evolution",
-      "description": "<p>あなたの血統の奇妙な相互作用があなたに予期しない効果をもたらす。別の@UUID[Compendium.pf2e.classfeatures.Item.2goYo6VNbwC6aKF1]{ブラッドライン}を選ぶ。あなたはその血統の血魔法効果を知っている。その血魔法効果が、あなたが1レベルの時に行った選択に基づく可変効果を持つ場合(例えば、元素の血統の元素影響など)、この特技を取得するときにその決定を行う。</p>",
+      "description": "<p>あなたの血脈の奇妙な相互作用があなたに予期しない効果をもたらす。別の@UUID[Compendium.pf2e.classfeatures.Item.2goYo6VNbwC6aKF1]{ブラッドライン}を選ぶ。あなたはその血脈の血魔法効果を知っている。その血魔法効果が、あなたが1レベルの時に行った選択に基づく可変効果を持つ場合(例えば、元素の血脈の元素影響など)、この特技を取得するときにその決定を行う。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Animalistic Resistance": {
@@ -14056,7 +14056,7 @@
     },
     "Consume Spell": {
       "name": "コンシューム・スペル/Consume Spell",
-      "description": "<p>あなたが血統に合った系統の呪文を成功裏に@UUID[Compendium.pf2e.feats-srd.Item.deoHKUzpzT7iwWhL]{カウンタースペル（スポンテニアス）}した場合、あなたはそれを消費し、あなた自身にそのエネルギーを補充する。</p>\n<p>それを行うと、あなたは食事を取ったかのように養われ、カウンターされた呪文のレベルの2倍に等しいヒット・ポイントを回復する。</p>",
+      "description": "<p>あなたが血脈に合った系統の呪文を成功裏に@UUID[Compendium.pf2e.feats-srd.Item.deoHKUzpzT7iwWhL]{カウンタースペル（スポンテニアス）}した場合、あなたはそれを消費し、あなた自身にそのエネルギーを補充する。</p>\n<p>それを行うと、あなたは食事を取ったかのように養われ、カウンターされた呪文のレベルの2倍に等しいヒット・ポイントを回復する。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -14806,7 +14806,7 @@
     },
     "Greater Crossblooded Evolution": {
       "name": "グレーター・クロスブラッディッド・エヴォリューション/Greater Crossblooded Evolution",
-      "description": "<p>あなたの血統は非常に複雑だ。あなたの副血統から付与される3つまでの魔法のギフト呪文を選ぶ。これらの呪文をあなたの呪文レパートリーに追加し、あなたがキャストできる最高レベルの呪文か、あなたがキャストできる最高レベルよりも低い最高レベルまで高位化される。これらの呪文をあなたの主血統の系統としてキャストする。</p>",
+      "description": "<p>あなたの血脈は非常に複雑だ。あなたの副血脈から付与される3つまでの魔法のギフト呪文を選ぶ。これらの呪文をあなたの呪文レパートリーに追加し、あなたがキャストできる最高レベルの呪文か、あなたがキャストできる最高レベルよりも低い最高レベルまで高位化される。これらの呪文をあなたの主血脈の系統としてキャストする。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -14886,7 +14886,7 @@
     },
     "Greater Bloodline": {
       "name": "グレーター・ブラッドライン/Greater Bloodline",
-      "description": "<p>あなたはあなたの血統のより大きな秘密を発見する。あなたはあなたの血統に関連するより大きな血統の呪文を得る。</p>",
+      "description": "<p>あなたはあなたの血脈のより大きな秘密を発見する。あなたはあなたの血脈に関連するより大きな血脈の呪文を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -15487,7 +15487,7 @@
     },
     "Gift of the Hoard": {
       "name": "ギフト・オブ・ザ・ホード/Gift of the Hoard",
-      "description": "<p>強大なドラゴンの欲望を満たすことで、彼らはあなたの身体に魔法のエッセンスの一部を授けることに決めた。あなたの目は光り、色が変わり、四肢と首には鱗のような表面が現れ、関連するドラゴンと視覚的に一致し、指示不能なほどの自らの宝物を集めたいという欲望を伴う。あなたは関連するドラゴンの息を模した@UUID[Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE]{ドラゴン・ブレス}のソーサラー血統呪文を得る。もしそれを持っていない場合、あなたは1つのフォーカスポイントの焦点プールを得る。あなたは宝物を数え、整理して〔再フォーカス〕する。</p>",
+      "description": "<p>強大なドラゴンの欲望を満たすことで、彼らはあなたの身体に魔法のエッセンスの一部を授けることに決めた。あなたの目は光り、色が変わり、四肢と首には鱗のような表面が現れ、関連するドラゴンと視覚的に一致し、指示不能なほどの自らの宝物を集めたいという欲望を伴う。あなたは関連するドラゴンの息を模した@UUID[Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE]{ドラゴン・ブレス}のソーサラー血脈呪文を得る。もしそれを持っていない場合、あなたは1つのフォーカスポイントの焦点プールを得る。あなたは宝物を数え、整理して〔再フォーカス〕する。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -15767,11 +15767,11 @@
     },
     "Entreat with Forebears": {
       "name": "エントリート・ウィズ・フォアベアーズ/Entreat with Forebears",
-      "description": "<p>あなたの存在が、あなたの血統のクリーチャーに、意識的であれ無意識であれ、あなたを彼らの仲間として認識させる何かをもたらし、あなたは彼らのトリックに対して免疫を持つようになる。</p>\n<p>あなたは、あなたの血統に該当するトレイトを持つクリーチャーとやり取りする際に、 《交渉》、 《欺瞞》、および《威圧》の判定に +1の状況ボーナスを得、またそのようなクリーチャーに対する知覚およびセーヴィング・スローに +1の状況ボーナスを得る。</p>\n<p>例えば、異常血統のソーサラーは、異常トレイトを持つクリーチャーに対してこの恩恵を得るであろう。GMがあなたの血統に合致するクリーチャーを最終的に判断する。</p>",
+      "description": "<p>あなたの存在が、あなたの血脈のクリーチャーに、意識的であれ無意識であれ、あなたを彼らの仲間として認識させる何かをもたらし、あなたは彼らのトリックに対して免疫を持つようになる。</p>\n<p>あなたは、あなたの血脈に該当するトレイトを持つクリーチャーとやり取りする際に、 《交渉》、 《欺瞞》、および《威圧》の判定に +1の状況ボーナスを得、またそのようなクリーチャーに対する知覚およびセーヴィング・スローに +1の状況ボーナスを得る。</p>\n<p>例えば、異常血脈のソーサラーは、異常トレイトを持つクリーチャーに対してこの恩恵を得るであろう。GMがあなたの血脈に合致するクリーチャーを最終的に判断する。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
-          "value": "クリーチャーのトレイトに対応する血統"
+          "value": "クリーチャーのトレイトに対応する血脈"
         }
       ]
     },
@@ -17083,11 +17083,11 @@
     },
     "Advanced Bloodline": {
       "name": "アドヴァンスト・ブラッドライン/Advanced Bloodline",
-      "description": "<p>あなたは血統からより多くの力を引き出す。あなたは血統に関連する上級血統呪文を得る。</p>",
+      "description": "<p>あなたは血脈からより多くの力を引き出す。あなたは血脈に関連する上級血脈呪文を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "血統呪文"
+          "value": "血脈呪文"
         }
       ]
     },
@@ -19366,7 +19366,7 @@
     },
     "Bloodline Metamorphosis": {
       "name": "ブラッドライン・メタモルフォシス/Bloodline Metamorphosis",
-      "description": "<p>あなたは自分の血統の内なる力を操作し、それを自分のニーズに適応させることを学んだ。あなたの日課の準備を行うとき、9ランク以下の呪文を別の同じランクの呪文と交換できる。血統によって特に付与された呪文を交換することはできない。</p>",
+      "description": "<p>あなたは自分の血脈の内なる力を操作し、それを自分のニーズに適応させることを学んだ。あなたの日課の準備を行うとき、9ランク以下の呪文を別の同じランクの呪文と交換できる。血脈によって特に付与された呪文を交換することはできない。</p>",
       "source": "Pathfinder #150: Broken Promises"
     },
     "Emissary Familiar": {
@@ -19562,7 +19562,7 @@
     },
     "Dragon Arcana": {
       "name": "ドラゴン・アルカナ/Dragon Arcana",
-      "description": "<p>あなたはドラゴンの魔法をあなたの系統に追加する方法を発見した。</p>\n<p>ドラコニックの血統が授けたスペルをあなたの呪文リストに追加する。これらの呪文は、あなたはそれらを通常通り学ぶか、レパートリーに追加する必要がある。これらの呪文は@UUID[Compendium.pf2e.spells-srd.Item.TVKNbcgTee19PXZR]{シールド}, @UUID[Compendium.pf2e.spells-srd.Item.Gb7SeieEvd0pL2Eh]{シュア・ストライク}, @UUID[Compendium.pf2e.spells-srd.Item.Fr58LDSrbndgld9n]{レジスト・エナジー}, @UUID[Compendium.pf2e.spells-srd.Item.o6YCGx4lycsYpww4]{ヘイスト}, @UUID[Compendium.pf2e.spells-srd.Item.tgIhRUFtgDSELpJE]{スペル・イミュニティ}, @UUID[Compendium.pf2e.spells-srd.Item.forsqeofEszBNtLq]{クロマティック・ウォール}, @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{ドラゴン・フォーム}, @UUID[Compendium.pf2e.spells-srd.Item.O6VQC1Bs4aSYDa6R]{マスク・オヴ・テラー}, @UUID[Compendium.pf2e.spells-srd.Item.iL6TujgTCtRRa0Y0]{プリズマティック・ウォール}, および@UUID[Compendium.pf2e.spells-srd.Item.fkDeKktdmbeplYRY]{オーヴァーウェルミング・プレゼンス}である。</p>",
+      "description": "<p>あなたはドラゴンの魔法をあなたの系統に追加する方法を発見した。</p>\n<p>ドラコニックの血脈が授けたスペルをあなたの呪文リストに追加する。これらの呪文は、あなたはそれらを通常通り学ぶか、レパートリーに追加する必要がある。これらの呪文は@UUID[Compendium.pf2e.spells-srd.Item.TVKNbcgTee19PXZR]{シールド}, @UUID[Compendium.pf2e.spells-srd.Item.Gb7SeieEvd0pL2Eh]{シュア・ストライク}, @UUID[Compendium.pf2e.spells-srd.Item.Fr58LDSrbndgld9n]{レジスト・エナジー}, @UUID[Compendium.pf2e.spells-srd.Item.o6YCGx4lycsYpww4]{ヘイスト}, @UUID[Compendium.pf2e.spells-srd.Item.tgIhRUFtgDSELpJE]{スペル・イミュニティ}, @UUID[Compendium.pf2e.spells-srd.Item.forsqeofEszBNtLq]{クロマティック・ウォール}, @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{ドラゴン・フォーム}, @UUID[Compendium.pf2e.spells-srd.Item.O6VQC1Bs4aSYDa6R]{マスク・オヴ・テラー}, @UUID[Compendium.pf2e.spells-srd.Item.iL6TujgTCtRRa0Y0]{プリズマティック・ウォール}, および@UUID[Compendium.pf2e.spells-srd.Item.fkDeKktdmbeplYRY]{オーヴァーウェルミング・プレゼンス}である。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -25090,7 +25090,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "プライマル呪文を授ける血統"
+          "value": "プライマル呪文を授ける血脈"
         }
       ]
     },
@@ -27430,7 +27430,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "オカルト呪文を授ける血統"
+          "value": "オカルト呪文を授ける血脈"
         }
       ]
     },
@@ -29932,11 +29932,11 @@
     },
     "Bloodline Mutation": {
       "name": "ブラッドライン・ミューテーション/Bloodline Mutation",
-      "description": "<p>あなたは、血統のクリーチャーにより近くなるように永続的に変異する。あなたはそれらのクリーチャータイプに適したトレイトを得る(異形には異形トレイト、天使には天使および天体トレイト、デーモンにはデーモントレイト等)。あなたは、それらのトレイトを持つクリーチャーに適した場合、低光視または暗視を得る。次のいずれかを選ぶ。</p><ul><li>血統に関連するクリーチャーが飛ぶ能力を持っている場合、あなたは陸上の移動速度に等しい飛行移動速度を得る。</li><li>血統に関連するクリーチャーが水生または両生類である場合、あなたは両生類となり、水と空気を同じように呼吸できるようになり、陸上の移動速度に等しい水泳移動速度を得る。</li><li><p>血統に関連するクリーチャーが耐性または酸に対する免疫を持っている場合、あなたの血統が免疫または抵抗のあるエネルギータイプを選択し、そのエネルギータイプに対して耐性20を得る。</p></li></ul>",
+      "description": "<p>あなたは、血脈のクリーチャーにより近くなるように永続的に変異する。あなたはそれらのクリーチャータイプに適したトレイトを得る(異形には異形トレイト、天使には天使および天体トレイト、デーモンにはデーモントレイト等)。あなたは、それらのトレイトを持つクリーチャーに適した場合、低光視または暗視を得る。次のいずれかを選ぶ。</p><ul><li>血脈に関連するクリーチャーが飛ぶ能力を持っている場合、あなたは陸上の移動速度に等しい飛行移動速度を得る。</li><li>血脈に関連するクリーチャーが水生または両生類である場合、あなたは両生類となり、水と空気を同じように呼吸できるようになり、陸上の移動速度に等しい水泳移動速度を得る。</li><li><p>血脈に関連するクリーチャーが耐性または酸に対する免疫を持っている場合、あなたの血脈が免疫または抵抗のあるエネルギータイプを選択し、そのエネルギータイプに対して耐性20を得る。</p></li></ul>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "特定のクリーチャーに基づく血統"
+          "value": "特定のクリーチャーに基づく血脈"
         }
       ]
     },
@@ -34057,7 +34057,7 @@
           "value": "エキスパートソーサラースペルキャスティング"
         },
         {
-          "value": "《秘術》、《自然》、《神秘学》、または《宗教》で血統によってレジェンダリー"
+          "value": "《秘術》、《自然》、《神秘学》、または《宗教》で血脈によってレジェンダリー"
         }
       ]
     },
@@ -36576,7 +36576,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "秘術の呪文を付与する血統"
+          "value": "秘術の呪文を付与する血脈"
         }
       ]
     },
@@ -39484,7 +39484,7 @@
     },
     "Breath of the Dragon (Dragon Disciple)": {
       "name": "ブレス・オブ・ザ・ドラゴン（ドラゴン・ディサイプル）/Breath of the Dragon (Dragon Disciple)",
-      "description": "<p>あなたは、あなたが模倣するドラゴンのような強力なブレス武器を使用できる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE]{ドラゴン・ブレス}ソーサラーの血統呪文を得ると、1のフォーカスポイントのフォーカスプールを持つ。すでにフォーカスポイントを持っている場合、フォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは、あなたが模倣するドラゴンのような強力なブレス武器を使用できる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE]{ドラゴン・ブレス}ソーサラーの血脈呪文を得ると、1のフォーカスポイントのフォーカスプールを持つ。すでにフォーカスポイントを持っている場合、フォーカスポイントの数を1増加させる。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -41346,7 +41346,7 @@
     },
     "Bespell Strikes": {
       "name": "ビスペル・ストライクス/Bespell Strikes",
-      "description": "<p><strong>使用制限</strong>ターン1回</p>\n<p><strong>必要条件</strong>あなたの最近のアクションは、ノンカナtrip呪文を発動することだった。</p><hr /><p><strong>オラクル</strong>あなたは、あなたが持っている武器の1つ、または素手攻撃の1つに呪文エネルギーを吸い取る。ターンの終了まで、その武器または素手攻撃は追加の1d6のフォース・ダメージを与え、もしそれが既に持っていなければ神聖トレイトを得る。呪文が異なるタイプのダメージを与える場合、〔ストライク〕は代わりにこのタイプのダメージを与える(または、呪文が複数のダメージタイプを与えることができる場合は、あなたの選ぶ1つのタイプを与える)。</p>\n<p><strong>ソーサラー</strong>あなたは、あなたが持っている武器の1つ、または素手攻撃の1つに呪文エネルギーを吸い取る。ターンの終了まで、その武器または素手攻撃は追加の1d6のフォース・ダメージを与え、もしそれが既に持っていなければあなたの血統の魔法的系統のトレイトを得る。呪文が異なるタイプのダメージを与える場合、〔ストライク〕は代わりにこのタイプのダメージを与える(または、呪文が複数のダメージタイプを与えることができる場合は、あなたの選ぶ1つのタイプを与える)。</p>\n<p><strong>ウィザード</strong>あなたは、あなたが持っている武器の1つ、または素手攻撃の1つに呪文エネルギーを吸い取る。ターンの終了まで、その武器または素手攻撃は追加の1d6のフォース・ダメージを与え、もしそれが既に持っていなければ秘術的トレイトを得る。呪文が異なるタイプのダメージを与える場合、〔ストライク〕は代わりにこのタイプのダメージを与える(または、呪文が複数のダメージタイプを与えることができる場合は、あなたの選ぶ1つのタイプを与える)。</p>",
+      "description": "<p><strong>使用制限</strong>ターン1回</p>\n<p><strong>必要条件</strong>あなたの最近のアクションは、ノンカナtrip呪文を発動することだった。</p><hr /><p><strong>オラクル</strong>あなたは、あなたが持っている武器の1つ、または素手攻撃の1つに呪文エネルギーを吸い取る。ターンの終了まで、その武器または素手攻撃は追加の1d6のフォース・ダメージを与え、もしそれが既に持っていなければ神聖トレイトを得る。呪文が異なるタイプのダメージを与える場合、〔ストライク〕は代わりにこのタイプのダメージを与える(または、呪文が複数のダメージタイプを与えることができる場合は、あなたの選ぶ1つのタイプを与える)。</p>\n<p><strong>ソーサラー</strong>あなたは、あなたが持っている武器の1つ、または素手攻撃の1つに呪文エネルギーを吸い取る。ターンの終了まで、その武器または素手攻撃は追加の1d6のフォース・ダメージを与え、もしそれが既に持っていなければあなたの血脈の魔法的系統のトレイトを得る。呪文が異なるタイプのダメージを与える場合、〔ストライク〕は代わりにこのタイプのダメージを与える(または、呪文が複数のダメージタイプを与えることができる場合は、あなたの選ぶ1つのタイプを与える)。</p>\n<p><strong>ウィザード</strong>あなたは、あなたが持っている武器の1つ、または素手攻撃の1つに呪文エネルギーを吸い取る。ターンの終了まで、その武器または素手攻撃は追加の1d6のフォース・ダメージを与え、もしそれが既に持っていなければ秘術的トレイトを得る。呪文が異なるタイプのダメージを与える場合、〔ストライク〕は代わりにこのタイプのダメージを与える(または、呪文が複数のダメージタイプを与えることができる場合は、あなたの選ぶ1つのタイプを与える)。</p>",
       "selfEffect": "効果: 呪文攻撃",
       "source": "Pathfinder Player Core"
     },
@@ -43467,7 +43467,7 @@
     },
     "Wings of the Dragon": {
       "name": "ウィングズ・オブ・ザ・ドラゴン/Wings of the Dragon",
-      "description": "<p>あなたはドラゴンの翼を現して、空を大きな速さで飛ぶことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.HWJODX2zPg5cg34F]{ドラゴン・ウィングス}ソーサラーの血統魔法と1ポイントのフォーカスポイントのフォーカスプールを得る。もし既にフォーカスポールを持っているなら、フォーカスポイントを1増加させる。</p>",
+      "description": "<p>あなたはドラゴンの翼を現して、空を大きな速さで飛ぶことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.HWJODX2zPg5cg34F]{ドラゴン・ウィングス}ソーサラーの血脈魔法と1ポイントのフォーカスポイントのフォーカスプールを得る。もし既にフォーカスポールを持っているなら、フォーカスポイントを1増加させる。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -45482,7 +45482,7 @@
     },
     "Basic Bloodline Spell": {
       "name": "ベーシック・ブラッドライン・スペル/Basic Bloodline Spell",
-      "description": "<p>あなたは自分の血統の最初の血統呪文を獲得する。もしまだ持っていない場合、1つのフォーカスポイントのフォーカスプールも獲得し、特別な努力なしに〔再フォーカス〕することができる。</p>",
+      "description": "<p>あなたは自分の血脈の最初の血脈呪文を獲得する。もしまだ持っていない場合、1つのフォーカスポイントのフォーカスプールも獲得し、特別な努力なしに〔再フォーカス〕することができる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -45659,11 +45659,11 @@
     },
     "Divine Evolution": {
       "name": "ディバイン・エヴォリューション/Divine Evolution",
-      "description": "<p>あなたの血統によって与えられる神聖な力があなたを流れる。最高のレベルの追加呪文スロットを1つ得る。このスロットはあなたが選択した@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}または@UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz]{ハーム}を唱えるためだけに使用できる。これらの呪文は、たとえ呪文レパートリーに含まれていなくても、この呪文スロットを使用して唱えることができる。</p>",
+      "description": "<p>あなたの血脈によって与えられる神聖な力があなたを流れる。最高のレベルの追加呪文スロットを1つ得る。このスロットはあなたが選択した@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}または@UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz]{ハーム}を唱えるためだけに使用できる。これらの呪文は、たとえ呪文レパートリーに含まれていなくても、この呪文スロットを使用して唱えることができる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "神聖な魔法を授ける血統"
+          "value": "神聖な魔法を授ける血脈"
         }
       ]
     },
@@ -51041,7 +51041,7 @@
     },
     "Blood Rising": {
       "name": "ブラッド・ライジング/Blood Rising",
-      "description": "<p> <strong>トリガー</strong>クリーチャーがあなたの血統と同じ系統の呪文を対象とする。</p> <hr /> <p>あなたの血に宿る魔法が敵の呪文に反応して湧き出る。あなたは、すでに血の魔法の効果を受けている場合でも、知っている血の魔法の効果を生成する。対象はあなたまたはBlood Risingを引き起こしたクリーチャーでなければならない。血の魔法の効果がACまたは適切なセーヴィング・スローにボーナスを与える場合、そのボーナスはトリガーした呪文に対して適用される。効果に持続時間がある場合、その効果はあなたの次のターン開始時まで持続する。</p> <hr /> <p> <strong>特別</strong>この特技はあなたの血統の系統に対応するトレイトを持つ。</p>",
+      "description": "<p> <strong>トリガー</strong>クリーチャーがあなたの血脈と同じ系統の呪文を対象とする。</p> <hr /> <p>あなたの血に宿る魔法が敵の呪文に反応して湧き出る。あなたは、すでに血の魔法の効果を受けている場合でも、知っている血の魔法の効果を生成する。対象はあなたまたはBlood Risingを引き起こしたクリーチャーでなければならない。血の魔法の効果がACまたは適切なセーヴィング・スローにボーナスを与える場合、そのボーナスはトリガーした呪文に対して適用される。効果に持続時間がある場合、その効果はあなたの次のターン開始時まで持続する。</p> <hr /> <p> <strong>特別</strong>この特技はあなたの血脈の系統に対応するトレイトを持つ。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Grim Insight": {
@@ -51065,7 +51065,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "血統呪文"
+          "value": "血脈呪文"
         }
       ]
     },
