@@ -20282,7 +20282,7 @@
       ]
     },
     "Hybrid Study Spell": {
-      "name": "ハイブリッド・スタディ・スペル/Hybrid Study Spell",
+      "name": "ハイブリッド・スタディ呪文/Hybrid Study Spell",
       "description": "<p>あなたの選んだハイブリッド学問からConflux呪文を得る。すでに持っていない場合、あなたは1つのフォーカスポイントのフォーカスプールを得て、呪文書を学び、身体的なトレーニングを行うことで〔再フォーカス〕することができる。ハイブリッド学問の他の恩恵は得られない。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
