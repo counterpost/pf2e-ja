@@ -470,7 +470,7 @@
       "description": "<p>あなたの永続的な注入が向上し、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{〈クイック錬金術〉}を使用してコストなしでより強力なアイテムを作成できるようになる。選択できるアイテムはあなたの〈研究〉分野に依存し、かつあなたの調合書になければならない。</p>\n<p>3レベル以下の爆弾を2つ選択する。</p>"
     },
     "Druidic Order": {
-      "name": "ドルイディック・オーダー/Druidic Order",
+      "name": "ドルイドのオーダー/Druidic Order",
       "description": "<p>ドルイドになる際、あなたはドルイドの教団と　あなた自身　を同調させる。これにより、あなたはクラス特技、教団呪文(下記参照)、およびあなたの教団に関連する追加の訓練済みスキルを得る。あなたは常に最初の教団の一員であり続けるが、自然界へのより深い理解を求めて他の教団で学ぶことを〈要請する〉ドルイドも珍しくなく、PCのドルイドは異なる教団の力を組み合わせる可能性が最も高い者たちに含まれる。</p>\n<p>教団呪文はフォーカス呪文の一種である。フォーカス呪文を詠唱するにはフォーカス・ポイントが1点必要であり、あなたはフォーカス・ポイント1点のフォーカス・プールから開始する。あなたは日課の準備の間にフォーカス・プールを補充し、〈再フォーカス〉活動を使用して10分を費やすことで、地元の自然の精霊と交信したり、あるいはあなたの教団にふさわしい方法で荒野の手入れをしたりして、フォーカス・ポイントを1点回復できる。</p>\n<p>フォーカス呪文は、キャントリップと同様に、自動的にあなたのレベルの半分(端数切り上げ)に高められる。フォーカス呪文は呪文スロットを必要とせず、呪文スロットを使用して詠唱することもできない。特定の特技は、あなたにより多くのフォーカス呪文を与える。あなたのフォーカス・プールが保持できるフォーカス・ポイントの最大値は、あなたが持つフォーカス呪文の数に等しいが、決して3点を超えることはない。</p>\n<p><strong>教団スキル</strong> あなたは記載されたスキルに訓練済みする。もしそのスキルにすでに訓練済みしているなら、あなたは選択した別のスキルに訓練済みする。</p>\n<p><strong>ドルイド 特技</strong> あなたはこの1レベルのドルイド特技を得る。</p>\n<p><strong>教団呪文</strong> あなたは1レベル時に記載された教団呪文を自動的に得る。</p>\n<p><strong>アナセマ</strong> このアナセマをすべてのドルイドのアナセマに追加する。</p><hr /><p>@UUID[Compendium.pf2e.classfeatures.Item.POBvoXifa9HaejAg]{動物教団}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.NdeFvIXdHwKYLiUj]{炎の教団}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.u4nlOzPj2WHkIj9l]{葉の教団}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.fKTewWlYgFuhl4KA]{石の教団}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.acqqlYmti8D9QJi0]{嵐の教団}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.v0EjtiwdeMj8ykI0]{野生の教団}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.FuUXyv2yBs7zRgqT]{波の教団}</p>"
     },
     "Wood Gate": {
@@ -609,7 +609,7 @@
       "description": "<p>内なる炎が、定命の肉体の脆さを焼き払った。あなたの頑健セーヴの習熟ランクは「マスター」に上昇する。あなたが頑健セーヴで成功をロールしたとき、代わりにクリティカル成功を得る。</p>"
     },
     "Storm Order": {
-      "name": "ストーム・オーダー/Storm Order",
+      "name": "嵐のオーダー/Storm Order",
       "description": "<p>嵐の下で生まれたのであれ、晴れ渡った青空からの落雷を生き延びたのであれ、あなたは今や嵐の怒りを心に抱き、雷鳴を恐るべき破壊効果へと導き、風に乗って空を駆ける。</p>\n<p><strong>教団スキル</strong> 《軽業》</p>\n<p><strong>ドルイド特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.UpEjRfQkCJCruAfb]{ストーム・ボーン}</p>\n<p><strong>教団呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.ho1jSoYKrHUNnM90]{テンペスト・サージ}</p>\n<p><strong>アナセマ</strong>空気を汚染すること、大規模な大気汚染や気候変動を引き起こす者を罰せられないままにすること。(これは、単なる潜在的な環境への害に対してアクションを起こすことや、明らかに強大な敵に対して　あなた自身を犠牲にすることをあなたに強制するものではない。)</p>"
     },
     "Artisan's Calling": {
@@ -1137,7 +1137,7 @@
       "description": "<p>あなたはハイブリッド研究からコンフラックス呪文を習得し、特定の特技を選択することで追加のコンフラックス呪文を発動できるようになる。コンフラックス呪文は戦闘用に創造されたメイガス専用の呪文であり、フォーカス呪文の一種である。フォーカス呪文の発動にはフォーカス・ポイントを1点消費し、あなたはフォーカス・ポイント1点のフォーカス・プールを持って開始する。フォーカス・プールは日課の準備の間に回復し、〈再フォーカス〉活動に10分を費やして呪文の書を研究しつつ身体の鍛錬を行うことで、フォーカス・ポイントを1点回復できる。</p>\n<p>フォーカス呪文は自動的にあなたのレベルの半分(端数切り上げ)に高められる。フォーカス呪文は呪文スロットを必要とせず、呪文スロットを使用して発動することもできない。特技を取得することで、より多くのフォーカス呪文を得たり、フォーカス・プールのサイズを大きくしたりできるが、フォーカス・プールが3点を超えることはない。完全なルールは『コア・ルールブック』の300ページを参照のこと。</p>"
     },
     "Stone Order": {
-      "name": "ストーン・オーダー/Stone Order",
+      "name": "石のオーダー/Stone Order",
       "description": "<p>あなたは石のように忍耐強く、自然のものであれ加工されたものであれ、その揺るぎない存在感に安らぎを覚える。</p>\n<p><strong>教団のスキル</strong> 《製作》</p>\n<p><strong>ドルイドの特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.QEOe9AhQzdqIx1ei]{ステディイング・ストーン}</p>\n<p><strong>教団の呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.AiWtiVmyasyL42J8]{クラッシング・グラウンド}</p>\n<p><strong>禁忌</strong>大地を毒したり汚染したりすること、および天然資源を略奪するために無思慮に大地を切り開くこと。(これは責任を持って掘削や採掘を行うことを妨げるものではない)。</p>"
     },
     "Master Detective": {
@@ -1173,7 +1173,7 @@
       "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.f9uqHnNBMU0774SF]{〈エレメンタル〉の裏切り}ヘックスを得る。あなたの使い魔は、@UUID[Compendium.pf2e.spells-srd.Item.y6rAdMK6EFlV6U0t]{〈ブリーズ・ファイア〉}、@UUID[Compendium.pf2e.spells-srd.Item.W69zswpj0Trdy5rj]{〈エア・バブル〉}、@UUID[Compendium.pf2e.spells-srd.Item.jfVCuOpzC6mUrf6f]{〈ハイドローリック・プッシュ〉}、または@UUID[Compendium.pf2e.spells-srd.Item.Rn2LkoSq1XhLsODV]{〈パメリング・ラブル〉}のうちあなたが選択したものを習得する。</p>"
     },
     "Wave Order": {
-      "name": "ウェイヴ・オーダー/Wave Order",
+      "name": "波のオーダー/Wave Order",
       "description": "<p>水は生命の源であり、あなたはその流れを形作る術を学んだ。</p>\n<p><strong>教団のスキル</strong> 《医術》</p>\n<p><strong>ドルイドの特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.kS4wxSKrZxcOvSNK]{岸の〈ステップ〉}</p>\n<p><strong>教団の呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.zTN6zuruDUKOea6h]{〈ライジング・サーフ〉}</p>\n<p><strong>アナセマ</strong> 水を汚染すること、または水源を汚染する者を罰せずに放置すること。(これは、潜在的な水質汚染に対してアクションを起こすことや、明らかに格上の敵に対してあなた自身を犠牲にすることを強制するものではない)。</p>"
     },
     "Will of the Pupil": {
@@ -1469,7 +1469,7 @@
       "description": "<p>他の恩恵に加え、あなたの書物の情報は、敵からの待ち伏せや攻撃をあなたに警告する。あなたの書物を持っている間、あなたはクリーチャーやハーントに対するイニシアチブ判定として、エソテリック《専門知識》を用いたスキル判定を常に行うことができる。もしそうするなら、あなたはイニシアチブ・ロールに+3の状況ボーナスを得る。</p>\n<p>あなたの書物を持っていることによる〈思い出す〉への状況ボーナスは、イニシエイトの恩恵によって+1から+2に増加する。その書物のアデプトの恩恵によって与えられる〈思い出す〉判定に成功したとき、そのボーナスは次の1回だけでなく、あなたの次のターンの開始までに行うすべての攻撃ロールに適用される。最後に、一時的なスキル習熟を得るとき、その両方はレジェンダリーとなる。</p>"
     },
     "Cultivation Order": {
-      "name": "カルティヴェーション・オーダー/Cultivation Order",
+      "name": "栽培のオーダー/Cultivation Order",
       "description": "<p>あなたは、自然とは手入れされ、剪定され、維持されるのが最善であると信じている。《自然》は生存の必要性から本質的にランダムで混沌としている――花は種を遠くまで広げ、いくつかが芽吹くことを望むが、あなたは植物が秩序ある環境でこそ真に繁栄すると信じている。そのため、あなたは手を貸し、停滞しているものを取り除き、理想的な場所に植え、最適でない場所に育っているものを植え替え、土壌にマルチングを施し、その他のメンテナンスを行う。多くのドルイドはあなたのアプローチを「おせっかい」や「不自然」とみなすかもしれないが、あなたは自分が行う作業が、手入れをする環境全体の健康にとって不可欠であることを知っている。</p>\n<p>あなたは《製作》に訓練済みしている。また、あなたはレーシー使い魔のドルイドの特技を得る。あなたはコーヌコピアのオーダー呪文を得る。植物や菌類に対して不当な残酷さを行うこと、あるいは手入れを必要とする植物を育てることを怠ることは、あなたのオーダーにとっての禁忌である。これは、あなたが植物や菌類を殺すことを妨げるものではなく、植物や菌類に対してあなた自身を守ることを妨げるものでもない。</p>\n<hr />\n<p><strong>オーダーのスキル</strong> 《製作》</p>\n<p><strong>ドルイド特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.7y1BCJLrdk9mKXlc]{レーシー使い魔}</p>\n<p><strong>オーダーの呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.vQuwLqtFFYt0K15N]{コーヌコピア}</p>\n<p><strong>禁忌</strong>植物や菌類に対して不当な残酷さを行うこと、あるいは不必要にそれらを殺すこと。(これは、あなた自身を守ることや、生存のためにそれらを収穫することを妨げるものではない。)</p>\n<hr />\n<p><strong>特殊</strong>: 栽培のオーダーは、葉のオーダーの亜種である。もしあなたが栽培のオーダーを持っているなら、あなたは葉のオーダーのメンバーとして数えられ、葉のオーダーの特技の受講資格を得る。</p>"
     },
     "Steward of Stone and Fire": {
@@ -1974,7 +1974,7 @@
       "description": "<p>あなたのエイドロンとの絆は頂点に近づき、各エイドロンの項目の「エイドロンの能力」に記載されている通り、そのタイプに応じた強力な新しい能力へのアクセスをあなたのエイドロンに与える。この能力はまた、エイドロンの能力値の1つを2上昇させる。</p>"
     },
     "Flame Order": {
-      "name": "フレイム・オーダー/Flame Order",
+      "name": "炎のオーダー/Flame Order",
       "description": "<p>あなたは炎との親近感を覚え、それを救済や破壊のために使用できる。</p>\n<p><strong>オーダースキル</strong> 《軽業》</p>\n<p><strong>ドルイド特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.yOloZIGkulrrPYG4]{ファイア・ラング}</p>\n<p><strong>オーダー呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.jks2h5pMsm8pCi8e]{ワイルドファイア}</p>\n<p><strong>禁忌</strong>不自然な火災の拡大を許すこと、あるいは環境に害を及ぼすような形で自然な火災の発生を妨げること。(これはあなたが火を破壊的に使用することを妨げるものではなく、また制御された火災や自然な火災と戦うことを強制するものでもない)。</p>"
     },
     "Noble Branch": {
@@ -2243,7 +2243,7 @@
       "description": "<p>隙を突く者として、あなたはそうした隙をあなた自身残さないよう注意している。あなたは、あなたのレベル以下のクリーチャーによる@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}、@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}、または挟撃に対して、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になることはない。また、不意打ちを使用しているあなたのレベル以下のクリーチャーに対しても同様である。ただし、彼らは依然として味方の挟撃を助けることはできる。</p>"
     },
     "Animal Order": {
-      "name": "アニマル・オーダー",
+      "name": "動物のオーダー",
       "description": "<p>あなたは獣と強い結びつきを持っており、自分の同族よりも彼らを(そして彼らもあなたを)よく理解していると常に感じている。あなたは自然の動物たちのために立ち上がり、強力な動物の相棒を傍らに従えている。</p>\n<p><strong>秩序のスキル</strong> 《運動》</p>\n<p><strong>ドルイド特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.f2Pl5dWEL9ZvEyI1]{動物 コンパニオン}</p>\n<p><strong>秩序の呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.Zmh4ynfnCtwKeAYl]{ヒール 動物}</p>\n<p><strong>アナセマ</strong>動物に対して理不尽な残酷な行為を行うこと、または不必要に動物を殺すこと。(これは、動物に対してあなた自身を守ることや、食料のために清潔に殺すことを妨げるものではない)。</p>"
     },
     "Amulet": {
@@ -2745,7 +2745,7 @@
       "description": "<p>知識と情報はあなたのもとに自由に集まる。あなたはこの伝承を用いて力を得ることもあれば、多元宇宙の神聖な神秘を理解しようとすることもあるだろう。あなたは伝説的なアカシック・レコードへの導管を持っているかもしれないし、すべての生きとし生けるものの集合的無意識への微かなテレパシーによる繋がりを維持しているかもしれない。あるいは、アバダー、イローリ、ネセス、イローリの学識ある甥であるグルハスタ、運命を司るフェイの三位一体の女神であるマグド、あるいはモナドとして知られるイーオンの神格といった神々の足跡を辿るのかもしれない。</p>\n<p><strong>授けられし呪文</strong></p><ul><li><strong>キャントリップ：</strong> @UUID[Compendium.pf2e.spells-srd.Item.OhD2Z6rIGGD5ocZA]{リード・オーラ}</li><li><strong>1レベル：</strong> @UUID[Compendium.pf2e.spells-srd.Item.D442XMADp01qJ7Cs]{マインドリンク}</li><li><strong>3レベル：</strong> @UUID[Compendium.pf2e.spells-srd.Item.ZYoC630tNGutgbE0]{ハイパーコグニション}</li><li><strong>6レベル：</strong> @UUID[Compendium.pf2e.spells-srd.Item.5BbU1V6wGSGbrmRD]{ネバー・マインド}</li></ul><p><strong>啓示 呪文</strong></p><ul><li><strong>初期：</strong> @UUID[Compendium.pf2e.spells-srd.Item.k2QrUk7jWMAWozMh]{ブレイン・ドレイン}</li><li><strong>上級：</strong> @UUID[Compendium.pf2e.spells-srd.Item.LbPLNWlLCxKCo5gF]{アクセス・ロア}</li><li><strong>大いなる：</strong> @UUID[Compendium.pf2e.spells-srd.Item.XULNb8ItUsfupxqH]{ドレッド・シークレット}</li></ul><p><strong>関連領域</strong> 知識、魔法、秘密、真実</p>\n<p><strong>神秘のスキル</strong> 《神秘学》およびあなたが選択した1つの《専門知識》スキル</p>\n<p><strong>オラクルの特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.55WR55op9BIdgF1B]{ウィスパーズ・オブ・ウィークネス}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.XQjR07LkDedC7tkc]{カース・オブ・トレントシャル・ナレッジ}</p>"
     },
     "Leaf Order": {
-      "name": "リーフ・オーダー/Leaf Order",
+      "name": "葉のオーダー/Leaf Order",
       "description": "<p>あなたは自然の恵みを崇拝し、荒野の庭師であり守護者として振る舞う。あなたはレシーの使い魔を傍らに従え、災害や無謀な開発の後に地域が再生する手助けをし、自然を乱用する者たちに対して植物を差し向ける。</p>\n<p><strong>秩序のスキル</strong> 《交渉》</p>\n<p><strong>ドルイド 特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.7y1BCJLrdk9mKXlc]{レシー・ファミリア}</p>\n<p><strong>秩序の呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.vQuwLqtFFYt0K15N]{コルヌコピア}</p>\n<p><strong>アナセマ</strong> 植物や菌類に対して理不尽な残酷な行為を行う、あるいは不必要にそれらを殺すこと。(これは　あなた自身を守ることや、生存のためにそれらを収穫することを妨げるものではない。)</p>"
     },
     "Precision": {
@@ -2850,7 +2850,7 @@
       "description": "<p>あなたの反射神経は極めて敏感である。あなたの反応セーヴの習熟ランクはマスターに上昇する。あなたが反応セーヴで成功をロールした時、代わりに大成功となる。</p>"
     },
     "Untamed Order": {
-      "name": "アンテイムド・オーダー/Untamed Order",
+      "name": "野性のオーダー/Untamed Order",
       "description": "<p>自然界の抑えがたい呼び声があなたの身体を駆け巡る。あなたは野生動物に育てられたのかもしれないし、都市で育った後に都市の人工的なものを拒絶するようになったのかもしれない。今や、プライマル魔法はあなたに、野生のクリーチャーの姿を着用する能力を授けている。</p>\n<p><strong>オーダー・スキル</strong> 《威圧》</p>\n<p><strong>ドルイド特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.VaIHQzOE5ibmbtqU]{アンテイムド・フォーム}</p>\n<p><strong>オーダー呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.0xR9vrt6uDFl0Umo]{アンテイムド・シフト}</p>\n<p><strong>禁忌</strong>文明の誘惑によって完全に飼い慣らされること。(これは、あなたが加工品を購入・使用したり、冒険のために都市に滞在したりすることを妨げるものではないが、これらの利便性に依存したり、そのような場所を真に自分の永住の地と呼んだりすることは決してできない。)</p>"
     },
     "Choir Politic": {
@@ -3082,7 +3082,7 @@
       "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{レイジ}アクションを得る。これを使用すると、あなたは熱狂することができる。</p>"
     },
     "Spore Order": {
-      "name": "スポア・オーダー/Spore Order",
+      "name": "胞子のオーダー/Spore Order",
       "description": "<p>あなたはカビや菌類に魅了されており、それらが生態系の健全な維持において果たす重要な役割を理解している。この関心は、カビや菌類を育むべきものではなく根絶すべきものと見なす地域社会と、あなたを対立させることが多い。</p>\n<p>あなたは《威圧》に訓練済みしている。また、あなたはレーシー使い魔のドルイド・フィーチャーを得るが、あなたは菌類レシーを作成しなければならない。あなたは<em>マッシュルーム・パッチ</em>オーダー呪文を得る。カビや菌類に対して不当に残酷な行為を行うこと、不必要にカビや菌類を殺すこと、あるいは自然な腐敗の過程を妨害することは、あなたのオーダーにとってアナセマである。これは、あなたが菌類やカビから　あなた自身を守ることや、生存のために菌類やカビを採取することを妨げるものではない。</p>\n<hr />\n<p><strong>オーダーのスキル</strong> 《威圧》</p>\n<p><strong>ドルイド特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.7y1BCJLrdk9mKXlc]{レシー・ファミリア}</p>\n<p><strong>オーダーの呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.xCfOskoogDf9LBlD]{マッシュルーム・パッチ}</p>\n<p><strong>アナセマ</strong>カビや菌類に対して不当に残酷な行為を行うこと、不必要にカビや菌類を殺すこと、あるいは自然な腐敗の過程を妨害することは、あなたのオーダーにとってアナセマである。これは、あなたが菌類やカビから　あなた自身を守ることや、生存のために菌類やカビを採取することを妨げるものではない。</p>\n<hr />\n<p><strong>特殊</strong>: 胞子オーダーは葉オーダーの亜種である。あなたが胞子オーダーを持つ場合、あなたは葉オーダーのメンバーとして数えられ、葉オーダーのフィーチャーの前提条件を満たす。</p>"
     },
     "Air Gate": {

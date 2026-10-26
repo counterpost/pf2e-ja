@@ -5863,7 +5863,7 @@
       "source": "Pathfinder #202: Severed at the Root",
       "prerequisites": [
         {
-          "value": "スポア・オーダー"
+          "value": "胞子のオーダー"
         }
       ]
     },
@@ -36382,7 +36382,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "リーフ・オーダー"
+          "value": "葉のオーダー"
         }
       ]
     },
@@ -38216,7 +38216,7 @@
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
-          "value": "ストーン・オーダー"
+          "value": "石のオーダー"
         }
       ]
     },
@@ -45096,7 +45096,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "ストーム・オーダー"
+          "value": "嵐のオーダー"
         }
       ]
     },
