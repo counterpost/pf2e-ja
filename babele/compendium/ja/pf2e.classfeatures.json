@@ -1923,7 +1923,7 @@
     },
     "Hunter's Edge": {
       "name": "ハンターズ・エッジ/Hunter's Edge",
-      "description": "<p>あなたは熟練した狩人および追跡者となるべく訓練済みしており、訓練の焦点に応じて、「獲物指定」を行う際にさらなる恩恵を得る。ハンターの「エッジ」を1つ選択する。</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.6v4Rj7wWfOH1882r]{連撃}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.NBHyoTrI8q62uDsU]{機略}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.u6cBjqz2fiRBadBt]{精密}</li>\n</ul>"
+      "description": "<p>あなたは熟練した狩人および追跡者となるべく訓練済みしており、訓練の焦点に応じて、「獲物指定」を行う際にさらなる恩恵を得る。ハンターの「エッジ」を1つ選択する。</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.6v4Rj7wWfOH1882r]{連撃}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.NBHyoTrI8q62uDsU]{出し抜く}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.u6cBjqz2fiRBadBt]{精密}</li>\n</ul>"
     },
     "Adept Benefit (Shield)": {
       "name": "アデプト・ベネフィット(シールド)",
@@ -1966,7 +1966,7 @@
       "description": "<p>鈍器の表面と頑丈な構造により、あなたの武器は重量感があり、メイスのようなものになる。あなたのイノベーションは〈押し出す〉、破砕、バーサタイルBのトレイトを得る。</p>"
     },
     "Outwit": {
-      "name": "アウトウィット/Outwit",
+      "name": "出し抜く/Outwit",
       "description": "<p>あなたは獲物を出し抜くことに長けている。あなたは獲物の攻撃に対するACへの+1状況ボーナスと、《欺瞞》判定、《威圧》判定、《隠密》判定、および獲物について〈思い出す〉ためのあらゆる判定への+2状況ボーナスを得る。</p>"
     },
     "Eidolon Transcendence": {
@@ -2958,7 +2958,7 @@
       "description": "<p>あなたのパトロンは魔女の女王、バーバ・ヤーガである。あなたは、自分の手に負えないような出来事に巻き込まれた若い女性である可能性が最も高いが、この老いた魔女に忠誠を誓った若い男性や勇敢な騎士である可能性もある。あなたはバーバ・ヤーガの助けを求め、その大胆さにもかかわらず、どういうわけか無傷で逃げ延びたのかもしれない。彼女は、足の生えた臼のような、アニメート・オブジェクトの姿をした使いを送り、あなたに接触してきたのかもしれない。あるいは、彼女自身があなたの前に現れ、何か到底不可能に思える雑用を手伝うよう要求したのかもしれない。多くの者はこれらの課題に失敗し、バーバ・ヤーガの食事となるか、それよりもさらに悪い運命をたどるが、あなたはそれを成し遂げ、彼女の敬意を勝ち取った。彼女があなたに与えた贈り物は、彼女の庇護(とあなたの命)である。</p>\n<p><strong>呪文リスト</strong>オカルト</p>\n<p><strong>パトロンスキル</strong> 《神秘学》</p>\n<p><strong>バーバの理解のレッスン</strong>バーバ・ヤーガはあなたに彼女のようになることを教え、精霊を物体に移し替えたり、敵を凍らせたりできるようにする。あなたはヘックス・キャントリップである@UUID[Compendium.pf2e.spells-srd.Item.yp4w9SG4RuqRM8KD]{スピリット オブジェクト}を獲得し、あなたの使い魔は@UUID[Compendium.pf2e.spells-srd.Item.8TQiFzGf4feoHeH0]{チリング・スプレー}を習得する。</p>\n<p><strong>雪を遮る使い魔</strong>あなたの使い魔は常に薄い雪の層に覆われており、必要に応じてそれを振り落とす。あなたがヘックスを詠唱(Cast)するか〈維持〉する際、あなたの使い魔のスペースのマスを中心とした@Template[type:burst|distance:5]を発生させ、まとわりつく雪を降らせることができる。この降雪はあなたの次のターン開始時まで持続し、その期間中にこれらのマスに進入した敵はあなたの次のターン開始時まで@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>"
     },
     "Masterful Hunter (Outwit)": {
-      "name": "マスターフル・ハンター(アウトウィット)/Masterful Hunter (Outwit)",
+      "name": "マスターフル・ハンター（出し抜く）/Masterful Hunter (Outwit)",
       "description": "<p>あなたのスキルの習熟度は、獲物を圧倒することを可能にする。もしあなたが《欺瞞》、《威圧》、《隠密》、または獲物について〈思い出す〉ために使用するスキルにおいて達人(マスター)の習熟度を持っているなら、そのスキルを用いて獲物に対する状況ボーナスを+2から+4に増加させる。もしあなたが鎧において達人の習熟度を持っているなら、獲物に対するACへの状況ボーナスを+1から+2に増加させる。</p>"
     },
     "Slinger's Precision": {
