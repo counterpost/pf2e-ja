@@ -5863,7 +5863,7 @@
       "source": "Pathfinder #202: Severed at the Root",
       "prerequisites": [
         {
-          "value": "胞子のオーダー"
+          "value": "胞子の宗派"
         }
       ]
     },
@@ -8153,8 +8153,8 @@
       ]
     },
     "Order Explorer": {
-      "name": "オーダー・エクスプローラー/Order Explorer",
-      "description": "<p>あなたは別のドルイド教団の秘密を学び、その教団が要求するあらゆる入会儀式を通過し、その秘密にアクセスできるようになる。自分のもの以外の教団を選ぶ。あなたはその教団を前提条件としている1レベルの特技を得て、特技の前提条件を満たすためにその教団のメンバーとなる。新しい教団に反する行為を行った場合、その教団に必要なすべての特技と能力を失うが、他のドルイドの特技と能力は保持する。あなたは選んだ教団の他の恩恵を得ない。</p>\n<hr />\n<p><strong>特別</strong>この特技は複数回取得できる。每回取得するたびに、自分のもの以外の異なる教団を選ばなければならない。</p>",
+      "name": "他宗派の探究者/Order Explorer",
+      "description": "<p>あなたは別のドルイドの宗派の秘密を学び、その宗派が要求するあらゆる入会儀式を通過し、その秘密にアクセスできるようになる。自分のもの以外の宗派を選ぶ。あなたはその宗派を前提条件としている1レベルの特技を得て、特技の前提条件を満たすためにその宗派のメンバーとなる。新しい宗派に反する行為を行った場合、その宗派に必要なすべての特技と能力を失うが、他のドルイドの特技と能力は保持する。あなたは選んだ宗派の他の恩恵を得ない。</p>\n<hr />\n<p><strong>特別</strong>この特技は複数回取得できる。毎回取得するたびに、自分のもの以外の異なる宗派を選ばなければならない。</p>",
       "source": "Pathfinder Player Core"
     },
     "World-Breaking Footfall": {
@@ -32239,8 +32239,8 @@
       ]
     },
     "Order Magic": {
-      "name": "オーダー・マジック/Order Magic",
-      "description": "<p>あなたは新しい秩序の教えを深く探求し、著名な秩序呪文にアクセスする。@UUID[Compendium.pf2e.feats-srd.Item.9onf3uGvZRnNLPR6]{オーダー・エクスプローラー}で選択した秩序を選ぶ。その秩序から初期の秩序呪文を得る。</p>\n<hr />\n<p><strong>特別</strong>このfeatは複数回取得できる。取得するたび、Order Explorerで選択した異なる秩序を選ばなければならない。</p>",
+      "name": "他宗派の魔法/Order Magic",
+      "description": "<p>あなたは新しい宗派の教えを深く探求し、著名な宗派呪文にアクセスする。@UUID[Compendium.pf2e.feats-srd.Item.9onf3uGvZRnNLPR6]{他宗派の探究者}で選択した宗派を選ぶ。その宗派から初期の宗派呪文を得る。</p>\n<hr />\n<p><strong>特別</strong>このfeatは複数回取得できる。取得するたび、他宗派の探究者で選択した異なる宗派を選ばなければならない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -36382,7 +36382,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "葉のオーダー"
+          "value": "葉の宗派"
         }
       ]
     },
@@ -38216,7 +38216,7 @@
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
-          "value": "石のオーダー"
+          "value": "石の宗派"
         }
       ]
     },
@@ -40195,7 +40195,7 @@
       ]
     },
     "Order Spell": {
-      "name": "オーダー・スペル/Order Spell",
+      "name": "宗派呪文/Order Spell",
       "description": "<p>あなたはあなたの組織から初期秩序の呪文を得る。これはフォーカス呪文であり、あなたにフォーカス・ポイントプールを与えるか、そのプールを拡張する。あなたは自然と一体となることによって〔再フォーカス〕できる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -42996,7 +42996,7 @@
     },
     "Impaling Briars": {
       "name": "インペイリング・ブライアーズ/Impaling Briars",
-      "description": "<p>あなたは破壊的な苔にエリアを満たすことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.oGV6YdpZLIG4G4gH]{インペイリング・ブライアズ}オーダー呪文を得る。</p>",
+      "description": "<p>あなたは破壊的な苔にエリアを満たすことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.oGV6YdpZLIG4G4gH]{インペイリング・ブライアズ}宗派呪文を得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -45096,7 +45096,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "嵐のオーダー"
+          "value": "嵐の宗派"
         }
       ]
     },
@@ -45162,7 +45162,7 @@
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
-          "value": "ウェーブ・オーダー"
+          "value": "波の宗派"
         }
       ]
     },
@@ -49310,7 +49310,7 @@
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
-          "value": "フレームオーダー"
+          "value": "炎の宗派"
         }
       ]
     },
@@ -50150,7 +50150,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "嵐のオーダー"
+          "value": "嵐の宗派"
         }
       ]
     },
