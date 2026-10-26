@@ -982,7 +982,7 @@
     },
     "Master of the Dead": {
       "name": "マスター・オブ・ザ・デッド/Master of the Dead",
-      "description": "<p>あなたは再生者の技の頂点に達した。ほとんどの死体や骸骨を、かつてのクリーチャーの恐ろしい模倣としてよみがえらせる能力を得た。あなたは@UUID[Compendium.pf2e.spells-srd.Item.Z82DvtSXafPmh4KV]{シャンブリング・ホラー}のフォーカス呪文を学ぶ。あなたのフォーカスプールは1フォーカスポイント増加する。</p>",
+      "description": "<p>あなたは再生者の技の頂点に達した。ほとんどの死体や骸骨を、かつてのクリーチャーの恐ろしい模倣としてよみがえらせる能力を得た。あなたは@UUID[Compendium.pf2e.spells-srd.Item.Z82DvtSXafPmh4KV]{シャンブリング・ホラー}のフォーカス呪文を学ぶ。あなたのフォーカス・プールは1フォーカス・ポイント増加する。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -1827,7 +1827,7 @@
     },
     "Warden's Focus": {
       "name": "ウォーデンズ・フォーカス/Warden's Focus",
-      "description": "<p>あなたは周囲との結びつきが深まり、広がり、集中することで自然の原初の力をさらに引き寄せることができる。あなたが〔再フォーカス〕する時、あなたは1ではなく全てのフォーカスポイントを回復する。</p>",
+      "description": "<p>あなたは周囲との結びつきが深まり、広がり、集中することで自然の原初の力をさらに引き寄せることができる。あなたが〔再フォーカス〕する時、あなたは1ではなく全てのフォーカス・ポイントを回復する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -1837,7 +1837,7 @@
     },
     "Unfetter Eidolon": {
       "name": "アンフェッター・アイドロン/Unfetter Eidolon",
-      "description": "<p>あなたはあなたのエイドロンがあなたの側から遠くへ移動するのを許可できる。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.hW9pgce6vTme61g1]{アンフェッター・エイドロン}リンク呪文を学ぶ。増加フォーカスプールのフォーカスポイントの数が1増える。</p>",
+      "description": "<p>あなたはあなたのエイドロンがあなたの側から遠くへ移動するのを許可できる。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.hW9pgce6vTme61g1]{アンフェッター・エイドロン}リンク呪文を学ぶ。増加フォーカス・プールのフォーカス・ポイントの数が1増える。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Extra Squishy": {
@@ -3293,7 +3293,7 @@
     },
     "Revelation's Focus": {
       "name": "レヴェレーションズ・フォーカス/Revelation's Focus",
-      "description": "<p>あなたのミステリーのさらなる範囲は無限の魔法の泉を提供する。あなたが〔再フォーカス〕を行うとき、あなたは1ではなく全てのフォーカスポイントを取り戻す。</p>",
+      "description": "<p>あなたのミステリーのさらなる範囲は無限の魔法の泉を提供する。あなたが〔再フォーカス〕を行うとき、あなたは1ではなく全てのフォーカス・ポイントを取り戻す。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Histrionic Injury": {
@@ -3353,7 +3353,7 @@
     },
     "Shall not Falter, Shall not Rout": {
       "name": "シャル・ノット・フォールター・シャル・ノット・ラウト/Shall not Falter, Shall not Rout",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.rnFAHvKpcsU4BJD4]{シャル・ノット・フォールター、シャル・ノット・ラウト}のフォーカス呪文を得る。まだ持っていない場合、1のフォーカスポイントのフォーカスプールを得る。また、〔再フォーカス〕アクティビティを使用してクリムゾンオースを詠唱し、その教えを瞑想することで再取得できる。フォーカスプールをすでに持っている場合、フォーカスプール内のフォーカスポイントの数を1増加させる。あなたの騎士の再請求者のフォーカス呪文は神聖な呪文であり、この特技を得た際、あなたは神聖な呪文攻撃と呪文DCにおいて訓練済みとなり、あなたの呪文発動能力は魅力になる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.rnFAHvKpcsU4BJD4]{シャル・ノット・フォールター、シャル・ノット・ラウト}のフォーカス呪文を得る。まだ持っていない場合、1のフォーカス・ポイントのフォーカス・プールを得る。また、〔再フォーカス〕アクティビティを使用してクリムゾンオースを詠唱し、その教えを瞑想することで再取得できる。フォーカス・プールをすでに持っている場合、フォーカス・プール内のフォーカス・ポイントの数を1増加させる。あなたの騎士の再請求者のフォーカス呪文は神聖な呪文であり、この特技を得た際、あなたは神聖な呪文攻撃と呪文DCにおいて訓練済みとなり、あなたの呪文発動能力は魅力になる。</p>",
       "source": "Pathfinder Lost Omens Legends",
       "prerequisites": [
         {
@@ -3398,7 +3398,7 @@
     },
     "Waking Dream": {
       "name": "ウェイキング・ドリーム/Waking Dream",
-      "description": "<p>あなたは、トランス状態の間、他者にとって夢と現実の境界をぼかすことができる。あなたは、@UUID[Compendium.pf2e.spells-srd.Item.OmhnoYOzFhrp6rXv]{ウェイキング・ドリーム}のフォーカス呪文を得る。この呪文は、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.5LW1k5DUkzbbYuYL]{〈デイドリーム・トランス〉}の間だけ使用できる。あなたは1ポイントのフォーカスポイントを持つプールを得て、あなたは10分のために昼寝をすることで〔再フォーカス〕することができる。あなたは呪文攻撃修正値と呪文DCの統計で訓練済みになり、これらの呪文に対する呪文キャスティング属性は知恵である。</p>",
+      "description": "<p>あなたは、トランス状態の間、他者にとって夢と現実の境界をぼかすことができる。あなたは、@UUID[Compendium.pf2e.spells-srd.Item.OmhnoYOzFhrp6rXv]{ウェイキング・ドリーム}のフォーカス呪文を得る。この呪文は、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.5LW1k5DUkzbbYuYL]{〈デイドリーム・トランス〉}の間だけ使用できる。あなたは1ポイントのフォーカス・ポイントを持つプールを得て、あなたは10分のために昼寝をすることで〔再フォーカス〕することができる。あなたは呪文攻撃修正値と呪文DCの統計で訓練済みになり、これらの呪文に対する呪文キャスティング属性は知恵である。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -3471,7 +3471,7 @@
     },
     "Song of the Fallen": {
       "name": "ソング・オブ・ザ・フォールン/Song of the Fallen",
-      "description": "<p>あなたの歌の動く力は、死者の霊を再び呼び起こし、あなたと共に戦わせることができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.IGXGs9PlqUCvODcH]{ソング・オヴ・ザ・フォールン}の構成呪文を学ぶ。増加は、あなたのフォーカスポイントプールのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたの歌の動く力は、死者の霊を再び呼び起こし、あなたと共に戦わせることができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.IGXGs9PlqUCvODcH]{ソング・オヴ・ザ・フォールン}の構成呪文を学ぶ。増加は、あなたのフォーカス・ポイントプールのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder #150: Broken Promises",
       "prerequisites": [
         {
@@ -4022,7 +4022,7 @@
     },
     "Mantis Form": {
       "name": "マンティス・フォーム/Mantis Form",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.bKDsmKVosexwJ80i]{マンティス・フォーム}フォーカス呪文を得る。 もしまだ持っていなければ、フォーカスポイントのプールを1得る。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.bKDsmKVosexwJ80i]{マンティス・フォーム}フォーカス呪文を得る。 もしまだ持っていなければ、フォーカス・ポイントのプールを1得る。</p>",
       "source": "Pathfinder Adventure: Prey for Death",
       "prerequisites": [
         {
@@ -5080,7 +5080,7 @@
     },
     "Hallowed Necromancer Dedication": {
       "name": "ハロウド・ネクロマンサー・デディケーション/Hallowed Necromancer Dedication",
-      "description": "<p>あなたは、生活を強化し、亡霊を破壊するために、いわゆる神聖な死霊術を自分の呪文発動に統合する技術を学んだ。あなたは@UUID[Compendium.pf2e.spells-srd.Item.4bFxUA59xeq6Snhw]{ハロウド・グラウンド}フォーカス呪文を得る。それを発動するには1つのフォーカスポイントを消費する。この特技は、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}活動を使用して回復できる1ポイントのフォーカスポールを与える。あなたは 〔再フォーカス〕 することで、あなた自身を生命エネルギーの導管につなげるために瞑想または祈ることができる。神聖な死霊術師アーキタイプのフォーカス呪文は、あなたの呪文スロットと同じ系統を持つ。</p>\n<p>創造、治癒、またはその他の形で亡霊を助けたり促進したりする呪文を唱えることは、あなたには禁忌であり、亡霊と協力することも同様である。 虚無エネルギーを使用することは禁忌ではなく、それは自然な目的に役立つが、その虚無エネルギーを創造のために歪めることは、あなたにとって冒涜的である。あなたの原則に反する行為を行えば、このアーキタイプからのすべての特技へのアクセスを失う。これらの能力は@UUID[Compendium.pf2e.spells-srd.Item.7Fd4lxozd11MQ55N]{アトーン}儀式を行うことでのみ再獲得できる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.3B1PqqSZYQj9YXac]{Hallowed Necromancer}</p>",
+      "description": "<p>あなたは、生活を強化し、亡霊を破壊するために、いわゆる神聖な死霊術を自分の呪文発動に統合する技術を学んだ。あなたは@UUID[Compendium.pf2e.spells-srd.Item.4bFxUA59xeq6Snhw]{ハロウド・グラウンド}フォーカス呪文を得る。それを発動するには1つのフォーカス・ポイントを消費する。この特技は、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}活動を使用して回復できる1ポイントのフォーカスポールを与える。あなたは 〔再フォーカス〕 することで、あなた自身を生命エネルギーの導管につなげるために瞑想または祈ることができる。神聖な死霊術師アーキタイプのフォーカス呪文は、あなたの呪文スロットと同じ系統を持つ。</p>\n<p>創造、治癒、またはその他の形で亡霊を助けたり促進したりする呪文を唱えることは、あなたには禁忌であり、亡霊と協力することも同様である。 虚無エネルギーを使用することは禁忌ではなく、それは自然な目的に役立つが、その虚無エネルギーを創造のために歪めることは、あなたにとって冒涜的である。あなたの原則に反する行為を行えば、このアーキタイプからのすべての特技へのアクセスを失う。これらの能力は@UUID[Compendium.pf2e.spells-srd.Item.7Fd4lxozd11MQ55N]{アトーン}儀式を行うことでのみ再獲得できる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.3B1PqqSZYQj9YXac]{Hallowed Necromancer}</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -5585,7 +5585,7 @@
     },
     "Divine Healing": {
       "name": "ディバイン・ヒーリング/Divine Healing",
-      "description": "<p>あなたは自分の信仰の正式なチャンピオンではないが、あなたの神格はあなたの努力を認めており、他者を助けるための小さな神聖な能力を与える。あなたは@UUID[Compendium.pf2e.spells-srd.Item.zNN9212H2FGfM7VS]{レイ・オン・ハンズ}の献身呪文を得る。</p>\n<p>あなたは1ポイントのフォーカスポイントの焦点プールを得るか、焦点プールのフォーカスポイントの数を1増加させる。あなたは日課の準備の間に焦点プールを回復し、あなたは10分を使って〔再フォーカス〕のアクティビティを行うことで、あなたの神格に祈りを捧げるか、彼らの目的に対して奉仕することによって1ポイントのフォーカスポイントを再獲得する。あなたは神聖な呪文攻撃ロールと呪文DCにおいて訓練済みである。あなたの呪文キャスティング能力は魅力である。</p>\n<p>あなたは神格の非道を行うことを控えなければならず、贖罪を行うまでこの呪文を唱える能力を失う。</p>",
+      "description": "<p>あなたは自分の信仰の正式なチャンピオンではないが、あなたの神格はあなたの努力を認めており、他者を助けるための小さな神聖な能力を与える。あなたは@UUID[Compendium.pf2e.spells-srd.Item.zNN9212H2FGfM7VS]{レイ・オン・ハンズ}の献身呪文を得る。</p>\n<p>あなたは1ポイントのフォーカス・ポイントの焦点プールを得るか、焦点プールのフォーカス・ポイントの数を1増加させる。あなたは日課の準備の間に焦点プールを回復し、あなたは10分を使って〔再フォーカス〕のアクティビティを行うことで、あなたの神格に祈りを捧げるか、彼らの目的に対して奉仕することによって1ポイントのフォーカス・ポイントを再獲得する。あなたは神聖な呪文攻撃ロールと呪文DCにおいて訓練済みである。あなたの呪文キャスティング能力は魅力である。</p>\n<p>あなたは神格の非道を行うことを控えなければならず、贖罪を行うまでこの呪文を唱える能力を失う。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
         {
@@ -5675,7 +5675,7 @@
     },
     "Basic Red Mantis Magic": {
       "name": "ベーシック・レッド・マンティス・マジック/Basic Red Mantis Magic",
-      "description": "<p>あなたはレッド・マンティスの訓練から制限された神聖魔法を学んだ。あなたは〔呪文の発動〕活動を得る。毎日神殿の呪文リストから2つの一般的なカントリップを準備するか、アクセス可能な他の神聖カントリップを準備することができる。また、基本的な呪文発動恩恵も得る。あなたは呪文攻撃修正値と呪文DC統計に訓練済みである。レッド・マンティスアーキタイプの呪文に対するあなたの主な呪文発動属性は魅力で、これらは神聖レッド・マンティス呪文である。あなたがいかなるレッド・マンティスアサシンクラスの特技からフォーカスプールを得た場合、あなたはアチャケクに祈るか、任務の対象を調査することで〔再フォーカス〕できる。</p>\n<p>あなたはまた、@UUID[Compendium.pf2e.classfeatures.Item.srcPBNjhq7FBSmi3]{レッド・マンティス・マジック・スクール}にアクセスできる。神聖魔法リストから呪文を準備することに加えて、この流派から呪文を準備することができる。通常の魔法系統に関わらず、この流派から呪文を準備する際、これらは神聖呪文であり、あなたが得るいかなるレッド・マンティス焦点呪文もそうである。</p>",
+      "description": "<p>あなたはレッド・マンティスの訓練から制限された神聖魔法を学んだ。あなたは〔呪文の発動〕活動を得る。毎日神殿の呪文リストから2つの一般的なカントリップを準備するか、アクセス可能な他の神聖カントリップを準備することができる。また、基本的な呪文発動恩恵も得る。あなたは呪文攻撃修正値と呪文DC統計に訓練済みである。レッド・マンティスアーキタイプの呪文に対するあなたの主な呪文発動属性は魅力で、これらは神聖レッド・マンティス呪文である。あなたがいかなるレッド・マンティスアサシンクラスの特技からフォーカス・プールを得た場合、あなたはアチャケクに祈るか、任務の対象を調査することで〔再フォーカス〕できる。</p>\n<p>あなたはまた、@UUID[Compendium.pf2e.classfeatures.Item.srcPBNjhq7FBSmi3]{レッド・マンティス・マジック・スクール}にアクセスできる。神聖魔法リストから呪文を準備することに加えて、この流派から呪文を準備することができる。通常の魔法系統に関わらず、この流派から呪文を準備する際、これらは神聖呪文であり、あなたが得るいかなるレッド・マンティス焦点呪文もそうである。</p>",
       "source": "Pathfinder Adventure: Prey for Death",
       "prerequisites": [
         {
@@ -8338,7 +8338,7 @@
     },
     "Perfect Ki Grandmaster": {
       "name": "パーフェクト・キ・グランドマスター/Perfect Ki Grandmaster",
-      "description": "<p>あなたはあなたの完全の学校に適した気の呪文を得る：@UUID[Compendium.pf2e.spells-srd.Item.aFd00WT266VYPqOG]{アンブリンキング・フレイム・イグニション}は瞬視の炎のため、@UUID[Compendium.pf2e.spells-srd.Item.axYqY70kYu2lN20R]{アンブレイキング・ウェーブ・コンテインメント}は不壊の波のため、@UUID[Compendium.pf2e.spells-srd.Item.XjNROFtWnwovhCsq]{アンフォールディング・ウィンド・クラッシュ}は展開する風のため、または@UUID[Compendium.pf2e.spells-srd.Item.9DtuMEyHhtHFRp5a]{アントゥウィスティング・アイアン・ピラー}は巻き取る鉄のためである。増加フォーカスポイントの数を1増加させる。あなたはオカルト呪文のDCとオカルト呪文の攻撃ロールの達人となる。</p>",
+      "description": "<p>あなたはあなたの完全の学校に適した気の呪文を得る：@UUID[Compendium.pf2e.spells-srd.Item.aFd00WT266VYPqOG]{アンブリンキング・フレイム・イグニション}は瞬視の炎のため、@UUID[Compendium.pf2e.spells-srd.Item.axYqY70kYu2lN20R]{アンブレイキング・ウェーブ・コンテインメント}は不壊の波のため、@UUID[Compendium.pf2e.spells-srd.Item.XjNROFtWnwovhCsq]{アンフォールディング・ウィンド・クラッシュ}は展開する風のため、または@UUID[Compendium.pf2e.spells-srd.Item.9DtuMEyHhtHFRp5a]{アントゥウィスティング・アイアン・ピラー}は巻き取る鉄のためである。増加フォーカス・ポイントの数を1増加させる。あなたはオカルト呪文のDCとオカルト呪文の攻撃ロールの達人となる。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -8712,7 +8712,7 @@
     },
     "Wronged Monk's Wrath": {
       "name": "ロングド・モンクス・ラス/Wronged Monk's Wrath",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.8TBgEzjZxPaOJOm1]{ロングド・モンクス・ラス}気の呪文を獲得する。増加フォーカスプールのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.8TBgEzjZxPaOJOm1]{ロングド・モンクス・ラス}気の呪文を獲得する。増加フォーカス・プールのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder #166: Despair on Danger Island",
       "prerequisites": [
         {
@@ -9222,7 +9222,7 @@
     },
     "Special Sentinel Technique": {
       "name": "スペシャル・センチネル・テクニック/Special Sentinel Technique",
-      "description": "<p>あなたはあなたの星座の力を独自の技術に注入することができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.1H3T9UwxW44Y0YaS]{ルミナス・スターダスト・ヒーリング}または@UUID[Compendium.pf2e.spells-srd.Item.yuhhRjqBzFgkKYrq]{シャイニング・スターライト・アタック}のいずれかのフォーカス呪文を得る。これはあなたがセントリーの形でのみ詠唱できる。あなたはこの特技を得るときに、技術の名前を決め、その名前が呪文の詠唱となる。</p>\n<p>あなたがまだ持っていない場合、あなたは1ポイントのフォーカスプールを得る。これは、10分を消費してああなたの星座の価値観を反映させるために、あなたのセントリーの形の外で 〔再フォーカス〕できる。星明かりのセントリーのフォーカス呪文は、アーケイン呪文である。あなたは呪文攻撃修正に訓練済み、呪文DCに魅力を得る。</p><hr /><p><strong>特別</strong>この特技を2回目に取得し、最初に得なかったフォーカス呪文を取得することができる。</p>",
+      "description": "<p>あなたはあなたの星座の力を独自の技術に注入することができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.1H3T9UwxW44Y0YaS]{ルミナス・スターダスト・ヒーリング}または@UUID[Compendium.pf2e.spells-srd.Item.yuhhRjqBzFgkKYrq]{シャイニング・スターライト・アタック}のいずれかのフォーカス呪文を得る。これはあなたがセントリーの形でのみ詠唱できる。あなたはこの特技を得るときに、技術の名前を決め、その名前が呪文の詠唱となる。</p>\n<p>あなたがまだ持っていない場合、あなたは1ポイントのフォーカス・プールを得る。これは、10分を消費してああなたの星座の価値観を反映させるために、あなたのセントリーの形の外で 〔再フォーカス〕できる。星明かりのセントリーのフォーカス呪文は、アーケイン呪文である。あなたは呪文攻撃修正に訓練済み、呪文DCに魅力を得る。</p><hr /><p><strong>特別</strong>この特技を2回目に取得し、最初に得なかったフォーカス呪文を取得することができる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -9456,7 +9456,7 @@
     },
     "Red Mantis School Spell": {
       "name": "レッド・マンティス・スクール・スペル/Red Mantis School Spell",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.classfeatures.Item.srcPBNjhq7FBSmi3]{レッド・マンティス・マジック・スクール}の初級学校の呪文を得る。まだ持っていない場合、1つのフォーカスポイントを持つフォーカスプールを得る。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.classfeatures.Item.srcPBNjhq7FBSmi3]{レッド・マンティス・マジック・スクール}の初級学校の呪文を得る。まだ持っていない場合、1つのフォーカス・ポイントを持つフォーカス・プールを得る。</p>",
       "source": "Pathfinder Adventure: Prey for Death",
       "prerequisites": [
         {
@@ -9726,7 +9726,7 @@
     },
     "Perfect Ki Adept": {
       "name": "パーフェクト・キー・アデプト/Perfect Ki Adept",
-      "description": "<p>あなたはあなたの完璧の流派に適した気の呪文を得る。: @UUID[Compendium.pf2e.spells-srd.Item.VBNevVovTCpn04vL]{アンブリンキング・フレイム・レヴェレーション}は瞬きしない炎のため、 @UUID[Compendium.pf2e.spells-srd.Item.ytboJsyZEbE1MLeV]{アンブレイキング・ウェーブ・アドバンス}は壊れない波のため、 @UUID[Compendium.pf2e.spells-srd.Item.tvO6Kmc2pQve9DC5]{アンフォールディング・ウィンド・ラッシュ}は広がる風のため、または@UUID[Compendium.pf2e.spells-srd.Item.FPnkOYyWIaOzkmqn]{アントウィスティング・アイアン・バッファー}はほどけた鉄のため。 増加あなたのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたはあなたの完璧の流派に適した気の呪文を得る。: @UUID[Compendium.pf2e.spells-srd.Item.VBNevVovTCpn04vL]{アンブリンキング・フレイム・レヴェレーション}は瞬きしない炎のため、 @UUID[Compendium.pf2e.spells-srd.Item.ytboJsyZEbE1MLeV]{アンブレイキング・ウェーブ・アドバンス}は壊れない波のため、 @UUID[Compendium.pf2e.spells-srd.Item.tvO6Kmc2pQve9DC5]{アンフォールディング・ウィンド・ラッシュ}は広がる風のため、または@UUID[Compendium.pf2e.spells-srd.Item.FPnkOYyWIaOzkmqn]{アントウィスティング・アイアン・バッファー}はほどけた鉄のため。 増加あなたのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
@@ -10649,7 +10649,7 @@
     },
     "Achaekek's Grip": {
       "name": "アチャケクズ・グリップ/Achaekek's Grip",
-      "description": "<p>あなたは、過去1年にあなたが slainしたクリーチャーが生き返っているかどうかを感知することができる、それぞれの次元界にいる限り。あなたはまた、@UUID[Compendium.pf2e.spells-srd.Item.IT1aaqDBAISlHDUV]{アチャエケクズ・クラッチ}フォーカス呪文を得る。すでに1つを持っていない場合、フォーカスポイント1のフォーカスプールを得る。</p>",
+      "description": "<p>あなたは、過去1年にあなたが slainしたクリーチャーが生き返っているかどうかを感知することができる、それぞれの次元界にいる限り。あなたはまた、@UUID[Compendium.pf2e.spells-srd.Item.IT1aaqDBAISlHDUV]{アチャエケクズ・クラッチ}フォーカス呪文を得る。すでに1つを持っていない場合、フォーカス・ポイント1のフォーカス・プールを得る。</p>",
       "source": "Pathfinder Adventure: Prey for Death",
       "prerequisites": [
         {
@@ -11087,7 +11087,7 @@
     },
     "Crimson Oath Devotion": {
       "name": "クリムゾン・オース・ディヴォーション/Crimson Oath Devotion",
-      "description": "<p>あなたはクリムゾンの誓いをあなた自身の一部にした。あなたはそれを夢の中でつぶやき、行進中には口の中で反復する。あなたは神聖な呪文攻撃と呪文DCのエキスパートになる。もしあなたが最後に再フォーカスしてから少なくとも2つのフォーカスポイントを使っているなら、あなたは〔再フォーカス〕を行うときに1ポイントではなく2ポイントを回復する。</p>",
+      "description": "<p>あなたはクリムゾンの誓いをあなた自身の一部にした。あなたはそれを夢の中でつぶやき、行進中には口の中で反復する。あなたは神聖な呪文攻撃と呪文DCのエキスパートになる。もしあなたが最後に再フォーカスしてから少なくとも2つのフォーカス・ポイントを使っているなら、あなたは〔再フォーカス〕を行うときに1ポイントではなく2ポイントを回復する。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
         {
@@ -11716,7 +11716,7 @@
     },
     "Speaking Sky": {
       "name": "スピーキング・スカイ/Speaking Sky",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.Zvg0FWzClGbzucFd]{スピーキング・スカイ}の気の呪文を得る。増加あなたのフォーカスプールのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.Zvg0FWzClGbzucFd]{スピーキング・スカイ}の気の呪文を得る。増加あなたのフォーカス・プールのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -12296,7 +12296,7 @@
     },
     "Shadow Illusion": {
       "name": "シャドウ・イリュージョン/Shadow Illusion",
-      "description": "<p>芸術的な目を持って、あなたは影を幻想的な形に形作る。あなたは@UUID[Compendium.pf2e.spells-srd.Item.EOWh6VVcSjB3WPjX]{シャドウ・イリュージョン}フォーカス呪文を得る。増加あなたのフォーカスポイントの数を1増加させる。あなたはオカルト呪文攻撃ロールとDCにおいて専門家となる。</p>",
+      "description": "<p>芸術的な目を持って、あなたは影を幻想的な形に形作る。あなたは@UUID[Compendium.pf2e.spells-srd.Item.EOWh6VVcSjB3WPjX]{シャドウ・イリュージョン}フォーカス呪文を得る。増加あなたのフォーカス・ポイントの数を1増加させる。あなたはオカルト呪文攻撃ロールとDCにおいて専門家となる。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -12840,7 +12840,7 @@
     },
     "Disciple's Breath": {
       "name": "ディサイプルズ・ブレス/Disciple's Breath",
-      "description": "<p>あなたはフォーカスを消費せずにブレス武器を放つ。これはあなたのドラゴンブレス呪文の効果を持つが、通常のダメージではなく@Damage[9d6[@actor.flags.system.dragonDisciple.energyType]]ダメージを与え、あなたはそれを発動したりフォーカスポイントを消費する必要がない。あなたは[[/r 1d4 #rounds]]の間、ディサイプルズブレスを再度使用することができない。{1d4 rounds}。</p>",
+      "description": "<p>あなたはフォーカスを消費せずにブレス武器を放つ。これはあなたのドラゴンブレス呪文の効果を持つが、通常のダメージではなく@Damage[9d6[@actor.flags.system.dragonDisciple.energyType]]ダメージを与え、あなたはそれを発動したりフォーカス・ポイントを消費する必要がない。あなたは[[/r 1d4 #rounds]]の間、ディサイプルズブレスを再度使用することができない。{1d4 rounds}。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -12908,7 +12908,7 @@
     },
     "Deific Font": {
       "name": "ディーイフィック・フォント/Deific Font",
-      "description": "<p><strong>使用制限</strong> 1時間ごとに</p><hr /><p>あなたのライフフォースは奇跡の材質を供給できる。あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態になるか、すでに吸収状態であれば吸収状態の値を1増加させる。次のターンの終了前に、もしあなたが〔呪文の発動〕を4ランク以下で行った場合、その呪文のスロットを消費せずに発動できる。また、フォーカス呪文を発動した場合は、フォーカスポイントを消費せずに発動できる。この呪文は通常持つ系統トレイトを失い、神聖トレイトを得る。</p>",
+      "description": "<p><strong>使用制限</strong> 1時間ごとに</p><hr /><p>あなたのライフフォースは奇跡の材質を供給できる。あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態になるか、すでに吸収状態であれば吸収状態の値を1増加させる。次のターンの終了前に、もしあなたが〔呪文の発動〕を4ランク以下で行った場合、その呪文のスロットを消費せずに発動できる。また、フォーカス呪文を発動した場合は、フォーカス・ポイントを消費せずに発動できる。この呪文は通常持つ系統トレイトを失い、神聖トレイトを得る。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
@@ -12961,7 +12961,7 @@
     },
     "Beastmaster's Trance": {
       "name": "ビーストマスターズ・トランス/Beastmaster's Trance",
-      "description": "<p>あなたはトランスに入ることで、あなたの動物の仲間の身体を一時的に使い、その感覚を共有することができる。あなたはフォーカス呪文@UUID[Compendium.pf2e.spells-srd.Item.5WM3WjshXgrkVCg6]{ビーストマスター・トランス}を得る。増加あなたのフォーカスプールのフォーカスポイントを1増加させる。</p>",
+      "description": "<p>あなたはトランスに入ることで、あなたの動物の仲間の身体を一時的に使い、その感覚を共有することができる。あなたはフォーカス呪文@UUID[Compendium.pf2e.spells-srd.Item.5WM3WjshXgrkVCg6]{ビーストマスター・トランス}を得る。増加あなたのフォーカス・プールのフォーカス・ポイントを1増加させる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -14387,7 +14387,7 @@
     },
     "Steal the Sky": {
       "name": "スティール・ザ・スカイ/Steal the Sky",
-      "description": "<p>あなたは飛んでいる敵を保つ空気を奪うことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.zoY0fQYTF1NzezTg]{スティール・ザ・スカイ}気の呪文を得る。 増加あなたの集中池のフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは飛んでいる敵を保つ空気を奪うことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.zoY0fQYTF1NzezTg]{スティール・ザ・スカイ}気の呪文を得る。 増加あなたの集中池のフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -14851,7 +14851,7 @@
     },
     "Advanced Elemental Spell": {
       "name": "アドヴァンスト・エレメンタル・スペル/Advanced Elemental Spell",
-      "description": "<p>あなたは自然の偉大な元素の一つとのつながりを深め、その力をさらに制御できるようになる。</p>\n<p>あなたはあなたの秩序に関連する高度な秩序呪文を得る：</p><ul><li>炎の秩序のメンバーであれば、あなたは@UUID[Compendium.pf2e.spells-srd.Item.Z3kJty995FkrsZRb]{コンバスチョン}を得る；</li><li>石の秩序のメンバーであれば、あなたは@UUID[Compendium.pf2e.spells-srd.Item.ECApRjIIxD0JogOa]{ストーン・ランス}を得る；</li><li>嵐の秩序のメンバーであれば、あなたは@UUID[Compendium.pf2e.spells-srd.Item.v4QHuVOhFD1JMAqu]{パワフル・インヘレイション}を得る；</li><li>波の秩序のメンバーであれば、あなたは@UUID[Compendium.pf2e.spells-srd.Item.E80SrXuBdZViPGiH]{パルヴァライジング・カスケイド}を得る。</li></ul><p>増加フォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは自然の偉大な元素の一つとのつながりを深め、その力をさらに制御できるようになる。</p>\n<p>あなたはあなたの秩序に関連する高度な秩序呪文を得る：</p><ul><li>炎の秩序のメンバーであれば、あなたは@UUID[Compendium.pf2e.spells-srd.Item.Z3kJty995FkrsZRb]{コンバスチョン}を得る；</li><li>石の秩序のメンバーであれば、あなたは@UUID[Compendium.pf2e.spells-srd.Item.ECApRjIIxD0JogOa]{ストーン・ランス}を得る；</li><li>嵐の秩序のメンバーであれば、あなたは@UUID[Compendium.pf2e.spells-srd.Item.v4QHuVOhFD1JMAqu]{パワフル・インヘレイション}を得る；</li><li>波の秩序のメンバーであれば、あなたは@UUID[Compendium.pf2e.spells-srd.Item.E80SrXuBdZViPGiH]{パルヴァライジング・カスケイド}を得る。</li></ul><p>増加フォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
@@ -15487,7 +15487,7 @@
     },
     "Gift of the Hoard": {
       "name": "ギフト・オブ・ザ・ホード/Gift of the Hoard",
-      "description": "<p>強大なドラゴンの欲望を満たすことで、彼らはあなたの身体に魔法のエッセンスの一部を授けることに決めた。あなたの目は光り、色が変わり、四肢と首には鱗のような表面が現れ、関連するドラゴンと視覚的に一致し、指示不能なほどの自らの宝物を集めたいという欲望を伴う。あなたは関連するドラゴンの息を模した@UUID[Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE]{ドラゴン・ブレス}のソーサラー血脈呪文を得る。もしそれを持っていない場合、あなたは1つのフォーカスポイントの焦点プールを得る。あなたは宝物を数え、整理して〔再フォーカス〕する。</p>",
+      "description": "<p>強大なドラゴンの欲望を満たすことで、彼らはあなたの身体に魔法のエッセンスの一部を授けることに決めた。あなたの目は光り、色が変わり、四肢と首には鱗のような表面が現れ、関連するドラゴンと視覚的に一致し、指示不能なほどの自らの宝物を集めたいという欲望を伴う。あなたは関連するドラゴンの息を模した@UUID[Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE]{ドラゴン・ブレス}のソーサラー血脈呪文を得る。もしそれを持っていない場合、あなたは1つのフォーカス・ポイントの焦点プールを得る。あなたは宝物を数え、整理して〔再フォーカス〕する。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -15737,7 +15737,7 @@
     },
     "Ranger's Bramble": {
       "name": "レンジャーズ・ブランブル/Ranger's Bramble",
-      "description": "<p>あなたは植物を成長させ、棘で敵を捕らえることができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.KktHf7zIAWOr499h]{レンジャーズ・ブランブル}ウォーデンスペルを得る。増加あなたのフォーカスプールのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは植物を成長させ、棘で敵を捕らえることができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.KktHf7zIAWOr499h]{レンジャーズ・ブランブル}ウォーデンスペルを得る。増加あなたのフォーカス・プールのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -16110,7 +16110,7 @@
     },
     "Familiar Form": {
       "name": "ファミリア・フォーム/Familiar Form",
-      "description": "<p>あなたは魔法を使って、一般的に呪文使いのファミリアとして仕える小さなクリーチャーに変身できる。これは、あなたがパーティーのために安全に探索を行いながら、ある程度の呪文発動能力を維持することを可能にする。あなたは@UUID[Compendium.pf2e.spells-srd.Item.CHZQJg7O7991Vl4m]{ファミリア・フォーム}フォーカス呪文を得る。 増加あなたのフォーカスプールのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは魔法を使って、一般的に呪文使いのファミリアとして仕える小さなクリーチャーに変身できる。これは、あなたがパーティーのために安全に探索を行いながら、ある程度の呪文発動能力を維持することを可能にする。あなたは@UUID[Compendium.pf2e.spells-srd.Item.CHZQJg7O7991Vl4m]{ファミリア・フォーム}フォーカス呪文を得る。 増加あなたのフォーカス・プールのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
         {
@@ -16148,7 +16148,7 @@
     },
     "Student of Perfection Dedication": {
       "name": "スチューデント・オブ・パーフェクション・デディケーション/Student of Perfection Dedication",
-      "description": "<p><strong>アクセス</strong>あなたはジャルメレー出身である。</p><hr /><p>あなたは完璧なる家の武道の技術を習得した。あなたは訓練済みにおいて《軽業》または《運動》及び戦闘に関する《専門知識》のいずれかで卓越する；もしすでに訓練済みであれば、代わりに専門家となる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.yA9tsWT9uzL2REnw]{チー・スペルズ}僧侶クラス特技を得て、これにより気撃の気呪文と、僧侶が行うのと同様に1つのフォーカスポイントを回復するための〔再フォーカス〕アクティビティを持つ焦点プールを得る。あなたの完璧なる学生からの気呪文はオカルト呪文である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.EwlYs1OzaMj9BB5I]{Student of Perfection}</p>",
+      "description": "<p><strong>アクセス</strong>あなたはジャルメレー出身である。</p><hr /><p>あなたは完璧なる家の武道の技術を習得した。あなたは訓練済みにおいて《軽業》または《運動》及び戦闘に関する《専門知識》のいずれかで卓越する；もしすでに訓練済みであれば、代わりに専門家となる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.yA9tsWT9uzL2REnw]{チー・スペルズ}僧侶クラス特技を得て、これにより気撃の気呪文と、僧侶が行うのと同様に1つのフォーカス・ポイントを回復するための〔再フォーカス〕アクティビティを持つ焦点プールを得る。あなたの完璧なる学生からの気呪文はオカルト呪文である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.EwlYs1OzaMj9BB5I]{Student of Perfection}</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
@@ -17174,7 +17174,7 @@
     },
     "Storm Retribution": {
       "name": "ストーム・リトリビューション/Storm Retribution",
-      "description": "<p><strong>トリガー</strong>あなたの隣にいる敵が近接武器または近接素手攻撃であなたにクリティカルヒットする。</p>\n<p><strong>必要条件</strong>あなたは少なくとも1つの使用可能なフォーカスポイントを持っている。</p>\n<hr />\n<p>あなたは反撃し、あなたを傷つけたクリーチャーに向けて嵐の怒りの爆発を放つ。発動した敵に@UUID[Compendium.pf2e.spells-srd.Item.ho1jSoYKrHUNnM90]{テンペスト・サージ}をキャストし、そのクリーチャーを5フィートあなたから押しやる。もしそれが反応セーヴに失敗した場合、または10フィートにクリティカル失敗した場合、そうなる。この移動は強制移動である。</p>",
+      "description": "<p><strong>トリガー</strong>あなたの隣にいる敵が近接武器または近接素手攻撃であなたにクリティカルヒットする。</p>\n<p><strong>必要条件</strong>あなたは少なくとも1つの使用可能なフォーカス・ポイントを持っている。</p>\n<hr />\n<p>あなたは反撃し、あなたを傷つけたクリーチャーに向けて嵐の怒りの爆発を放つ。発動した敵に@UUID[Compendium.pf2e.spells-srd.Item.ho1jSoYKrHUNnM90]{テンペスト・サージ}をキャストし、そのクリーチャーを5フィートあなたから押しやる。もしそれが反応セーヴに失敗した場合、または10フィートにクリティカル失敗した場合、そうなる。この移動は強制移動である。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -17545,7 +17545,7 @@
     },
     "Meditative Focus": {
       "name": "メディテイティブ・フォーカス/Meditative Focus",
-      "description": "<p>あなたの瞑想は非常に効果的であり、周囲の世界と深く集中することができる。あなたが 〔再フォーカス〕を行うと、1ではなくすべてのフォーカスポイントを回復する。</p>",
+      "description": "<p>あなたの瞑想は非常に効果的であり、周囲の世界と深く集中することができる。あなたが 〔再フォーカス〕を行うと、1ではなくすべてのフォーカス・ポイントを回復する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -17708,7 +17708,7 @@
     },
     "Floral Restoration": {
       "name": "フローラル・レストレイション/Floral Restoration",
-      "description": "<p><strong>使用制限</strong>1日1回</p><hr /><p>あなたは近くの植物に自らの活力を分け与えるよう依頼し、身体と魔法を回復させる。あなたは1つのフォーカスポイントを回復し、@Damage[ceil(@item.level/2)d8[healing]]ヒット・ポイント。</p>\n<p>あなたは少なくとも15フィートによる15フィートの健康な植物が存在する場所にいなければならないが、草、コケ、海藻、または他の自然に生じる植物のどの形でも構わない。特定の自然の一部にフローラルリストレーションを使用してもそれを傷つけることはないが、その自然の一部が他のフローラルリストレーションに活力を与えることを24時間の間妨げる。</p>\n<p>9レベルおよびその後のすべての2レベルごとに、治癒を1d8増加させる。</p>",
+      "description": "<p><strong>使用制限</strong>1日1回</p><hr /><p>あなたは近くの植物に自らの活力を分け与えるよう依頼し、身体と魔法を回復させる。あなたは1つのフォーカス・ポイントを回復し、@Damage[ceil(@item.level/2)d8[healing]]ヒット・ポイント。</p>\n<p>あなたは少なくとも15フィートによる15フィートの健康な植物が存在する場所にいなければならないが、草、コケ、海藻、または他の自然に生じる植物のどの形でも構わない。特定の自然の一部にフローラルリストレーションを使用してもそれを傷つけることはないが、その自然の一部が他のフローラルリストレーションに活力を与えることを24時間の間妨げる。</p>\n<p>9レベルおよびその後のすべての2レベルごとに、治癒を1d8増加させる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -17838,7 +17838,7 @@
     },
     "Heal Companion": {
       "name": "ヒール・コンパニオン/Heal Companion",
-      "description": "<p>あなたはあなたの動物の仲間に深い献身を持ち、その傷を魔法で癒す能力がある。あなたは@UUID[Compendium.pf2e.spells-srd.Item.KIV2LqzS5KtqOItV]{ヒール・コンパニオン}のウォーデン呪文と1のフォーカスポイントのフォーカスプールを得る。</p>",
+      "description": "<p>あなたはあなたの動物の仲間に深い献身を持ち、その傷を魔法で癒す能力がある。あなたは@UUID[Compendium.pf2e.spells-srd.Item.KIV2LqzS5KtqOItV]{ヒール・コンパニオン}のウォーデン呪文と1のフォーカス・ポイントのフォーカス・プールを得る。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -17868,7 +17868,7 @@
     },
     "Devoted Focus": {
       "name": "デヴォテッド・フォーカス/Devoted Focus",
-      "description": "<p>あなたの献身は、あなたのフォーカスを信じられない高みに増加させるのに十分強い。あなたが〔再フォーカス〕するたびに、フォーカスプールを完全に補充する。</p>",
+      "description": "<p>あなたの献身は、あなたのフォーカスを信じられない高みに増加させるのに十分強い。あなたが〔再フォーカス〕するたびに、フォーカス・プールを完全に補充する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -18226,11 +18226,11 @@
     },
     "Dissolution's Clarity": {
       "name": "ディソリューションズ・クラリティ/Dissolution's Clarity",
-      "description": "<p><strong>必要条件</strong>あなたは暗闇の中にいる。</p><hr /><p>解体は、暗闇が明晰さと集中力、静けさと力をもたらすことを教えている─ そしてあなたは近くの影を利用して魔法を補充する。あなたは1つのフォーカスポイントを回復する、通常の最大まで。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは暗闇の中にいる。</p><hr /><p>解体は、暗闇が明晰さと集中力、静けさと力をもたらすことを教えている─ そしてあなたは近くの影を利用して魔法を補充する。あなたは1つのフォーカス・ポイントを回復する、通常の最大まで。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
-          "value": "フォーカスプール"
+          "value": "フォーカス・プール"
         }
       ]
     },
@@ -18251,7 +18251,7 @@
     },
     "Wyldsinger": {
       "name": "ワイルドシンガー/Wyldsinger",
-      "description": "<p>情熱と歌はあなたの選んだ武器である。あなたは@UUID[Compendium.pf2e.spells-srd.Item.6TudR1rDkxWMj1cv]{メナシング・ラメント}または@UUID[Compendium.pf2e.spells-srd.Item.nRsBM1zkhMmV3VST]{ヴァリアント・アンセム}フォーカス呪文のいずれかを学ぶ。まだ持っていない場合、あなたは1フォーカスポイントのフォーカスプールを得る。</p><hr /><p><strong>特別</strong>あなたはこの特技を2回取得でき、初めて得なかったフォーカス呪文を得る。</p>",
+      "description": "<p>情熱と歌はあなたの選んだ武器である。あなたは@UUID[Compendium.pf2e.spells-srd.Item.6TudR1rDkxWMj1cv]{メナシング・ラメント}または@UUID[Compendium.pf2e.spells-srd.Item.nRsBM1zkhMmV3VST]{ヴァリアント・アンセム}フォーカス呪文のいずれかを学ぶ。まだ持っていない場合、あなたは1フォーカス・ポイントのフォーカス・プールを得る。</p><hr /><p><strong>特別</strong>あなたはこの特技を2回取得でき、初めて得なかったフォーカス呪文を得る。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
@@ -19625,7 +19625,7 @@
     },
     "Wisteria-and-Peony Reunion": {
       "name": "ウィステリアアンドピオニー・リユニオン/Wisteria-and-Peony Reunion",
-      "description": "<p><strong>使用制限</strong>1時間に1回</p>\n<p><strong>トリガー</strong>あなたはフォーカス呪文を発動する。</p><hr /><p>あなたの気の根は堅固であり、冬の雪の中で落ちる花や葉のように痛みや苦痛を振り払う。あなたは@Damage[(@actor.level + @actor.system.resources.focus.max)[healing,vitality]]{regain ヒット・ポイント}自分のレベルにフォーカスポイントの最大数を加えた数。</p>",
+      "description": "<p><strong>使用制限</strong>1時間に1回</p>\n<p><strong>トリガー</strong>あなたはフォーカス呪文を発動する。</p><hr /><p>あなたの気の根は堅固であり、冬の雪の中で落ちる花や葉のように痛みや苦痛を振り払う。あなたは@Damage[(@actor.level + @actor.system.resources.focus.max)[healing,vitality]]{regain ヒット・ポイント}自分のレベルにフォーカス・ポイントの最大数を加えた数。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -20283,7 +20283,7 @@
     },
     "Hybrid Study Spell": {
       "name": "ハイブリッド・スタディ呪文/Hybrid Study Spell",
-      "description": "<p>あなたの選んだハイブリッド学問からConflux呪文を得る。すでに持っていない場合、あなたは1つのフォーカスポイントのフォーカスプールを得て、呪文書を学び、身体的なトレーニングを行うことで〔再フォーカス〕することができる。ハイブリッド学問の他の恩恵は得られない。</p>",
+      "description": "<p>あなたの選んだハイブリッド学問からConflux呪文を得る。すでに持っていない場合、あなたは1つのフォーカス・ポイントのフォーカス・プールを得て、呪文書を学び、身体的なトレーニングを行うことで〔再フォーカス〕することができる。ハイブリッド学問の他の恩恵は得られない。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
@@ -20361,7 +20361,7 @@
     },
     "The Tyrant Falls!": {
       "name": "ザ・タイラント・フォールズ！/The Tyrant Falls!",
-      "description": "<p>あなたはクリムゾンの誓いの力の頂点に達した。誓約の力は圧倒的で、亡者の身体には過剰だが、勝利は何よりも価値がある。この特技を使用する際、あなたはクリムゾンの誓いの最後の一行を叫び、1分のために解放された力を放つ。あなたはこの効果を〔解除〕できる。この効果が発動している間、あなたは以下の効果を得る：</p>\n<ul>\n<li>あなたの各ターンの開始時、あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態になるか、すでにドレイン状態であればその値を1増加させることができる。「Tyrant Falls!」が発動している間、あなたはドレイン状態の値を減少させたり、解除することはできない。「Tyrant Falls!」が発動している間、あなたのドレイン状態はあなたの頑健セーヴにペナルティを与えない。</li>\n<li>あなたは@UUID[Compendium.pf2e.spells-srd.Item.AsKLseOo8hwv5Jha]{インヴォーク・ザ・クリムゾン・オース}を自由に唱えることができ、フォーカスポイントを消費する必要はない。これを行う際、範囲を@Template[cone|distance:40]に拡大する。</li>\n<li>あなたはすべてのダメージに耐性をあなたのキャラクターレベルの半分に等しい量得る。</li>\n<li>あなたが近接武器を装備する際、その武器がすでに持っていなければリーチトレイトを得、すでにリーチトレイトを持っている場合はそのリーチを5フィートだけ増加させる。あなたがその武器で行うストライクは、追加で2d6のバイタリティまたは虚無ダメージ(いずれが対象に対してより効果的か)を与える。</li>\n</ul>",
+      "description": "<p>あなたはクリムゾンの誓いの力の頂点に達した。誓約の力は圧倒的で、亡者の身体には過剰だが、勝利は何よりも価値がある。この特技を使用する際、あなたはクリムゾンの誓いの最後の一行を叫び、1分のために解放された力を放つ。あなたはこの効果を〔解除〕できる。この効果が発動している間、あなたは以下の効果を得る：</p>\n<ul>\n<li>あなたの各ターンの開始時、あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態になるか、すでにドレイン状態であればその値を1増加させることができる。「Tyrant Falls!」が発動している間、あなたはドレイン状態の値を減少させたり、解除することはできない。「Tyrant Falls!」が発動している間、あなたのドレイン状態はあなたの頑健セーヴにペナルティを与えない。</li>\n<li>あなたは@UUID[Compendium.pf2e.spells-srd.Item.AsKLseOo8hwv5Jha]{インヴォーク・ザ・クリムゾン・オース}を自由に唱えることができ、フォーカス・ポイントを消費する必要はない。これを行う際、範囲を@Template[cone|distance:40]に拡大する。</li>\n<li>あなたはすべてのダメージに耐性をあなたのキャラクターレベルの半分に等しい量得る。</li>\n<li>あなたが近接武器を装備する際、その武器がすでに持っていなければリーチトレイトを得、すでにリーチトレイトを持っている場合はそのリーチを5フィートだけ増加させる。あなたがその武器で行うストライクは、追加で2d6のバイタリティまたは虚無ダメージ(いずれが対象に対してより効果的か)を与える。</li>\n</ul>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
         {
@@ -20449,7 +20449,7 @@
     },
     "Rivethun Emissary Dedication": {
       "name": "リヴェスン・エミサリー・デディケーション/Rivethun Emissary Dedication",
-      "description": "<p><strong>アクセス</strong>リヴェサンの信者はこの特技にアクセスできる。</p><hr /><p>あなたは実践しているリヴェサンの使者であり、生きているクリーチャーの精霊と交流し、絆を深めることに秀でている。あなたは《交渉》と《宗教》のエキスパートになる。さらに、@UUID[Compendium.pf2e.actionspf2e.Item.4d6QSFBP4lMUYrVK]{〈ボンド・ウィズ・スピリット〉}アクティビティと@UUID[Compendium.pf2e.spells-srd.Item.Yph1UqZU8vMc9bJG]{エントリート・スピリット}フォーカス呪文を得る。まだ持っていない場合、フォーカスプールを得ることになり、あなたの霊的力の個人的な泉を育むために〔再フォーカス〕アクティビティを使用して回復できる。あなたのリヴェサンのフォーカス呪文は神聖呪文であり、この特技を得ると、呪文攻撃修正および呪文DCの統計で訓練済みになる。リヴェサンフォーカス呪文に対するあなたの主な呪文発動属性は知恵である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.mozFKLZrgEO3F7sE]{リヴァスーン Emissary}</p>",
+      "description": "<p><strong>アクセス</strong>リヴェサンの信者はこの特技にアクセスできる。</p><hr /><p>あなたは実践しているリヴェサンの使者であり、生きているクリーチャーの精霊と交流し、絆を深めることに秀でている。あなたは《交渉》と《宗教》のエキスパートになる。さらに、@UUID[Compendium.pf2e.actionspf2e.Item.4d6QSFBP4lMUYrVK]{〈ボンド・ウィズ・スピリット〉}アクティビティと@UUID[Compendium.pf2e.spells-srd.Item.Yph1UqZU8vMc9bJG]{エントリート・スピリット}フォーカス呪文を得る。まだ持っていない場合、フォーカス・プールを得ることになり、あなたの霊的力の個人的な泉を育むために〔再フォーカス〕アクティビティを使用して回復できる。あなたのリヴェサンのフォーカス呪文は神聖呪文であり、この特技を得ると、呪文攻撃修正および呪文DCの統計で訓練済みになる。リヴェサンフォーカス呪文に対するあなたの主な呪文発動属性は知恵である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.mozFKLZrgEO3F7sE]{リヴァスーン Emissary}</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
@@ -20499,7 +20499,7 @@
     },
     "Greater Sun Blessing": {
       "name": "グレーター・サン・ブレッシング/Greater Sun Blessing",
-      "description": "<p>あなたは古き太陽神との繋がりが強くなる。あなたは太陽神の祝福で選んだ領域から高位の領域呪文を得る。増加あなたのフォーカスポイントプールのポイント数を1増加させる。</p>\n<p><strong>特別</strong>あなたはこの特技を複数回選択できる。各回選択するたびに、太陽神の祝福から得た初期の領域呪文を持つ異なる領域を選ばなければならない。</p>",
+      "description": "<p>あなたは古き太陽神との繋がりが強くなる。あなたは太陽神の祝福で選んだ領域から高位の領域呪文を得る。増加あなたのフォーカス・ポイントプールのポイント数を1増加させる。</p>\n<p><strong>特別</strong>あなたはこの特技を複数回選択できる。各回選択するたびに、太陽神の祝福から得た初期の領域呪文を持つ異なる領域を選ばなければならない。</p>",
       "source": "Pathfinder #172: Secrets of the Temple-City",
       "prerequisites": [
         {
@@ -20595,7 +20595,7 @@
     },
     "Imbue Spell": {
       "name": "インビュー・スペル/Imbue Spell",
-      "description": "<p><strong>トリガー</strong>あなたの前のアクションは 〔呪文の発動〕 だった。</p><hr /><p>あなたはあなたの魔法のエネルギーを味方に渡し、他の者がその呪文を発動できるようにする。 呪文を発動した後、通常の呪文の効果の代わりに、その呪文のエネルギーをあなたに隣接する味方またはあなたの@UUID[Compendium.pf2e.spells-srd.Item.XIgvCPaSy5WXStVD]{スペルサージ}オーラ内にいる味方に注入する。あなたは通常通りに呪文、呪文スロット、またはフォーカスポイントを消費する。次の1時間の間、味方は集中と手作業のトレイトを持つ単一のアクションで呪文のエネルギーを発動することができ、その際に呪文スロットやフォーカスポイントを消費する必要はない。呪文のすべての属性は、あなたの最初の呪文の発動に基づいて決定され、使用された呪文形状の特技を含むが、味方は呪文の起源を決定し、呪文が必要とする選択を行う際に呪文発動者として扱われる。呪文が維持されなければならないか、維持できる場合、あなたの味方は 〔維持〕 のアクションを取る。あなたはこの能力であなた自身を対象にすることはできない。呪文が味方によって1時間の間に発動されなかった場合、エネルギーは消失する。あなたは一度に一つの呪文しか注入することができず、この能力の追加の使用は以前に注入した呪文を直ちに消失させる。</p>",
+      "description": "<p><strong>トリガー</strong>あなたの前のアクションは 〔呪文の発動〕 だった。</p><hr /><p>あなたはあなたの魔法のエネルギーを味方に渡し、他の者がその呪文を発動できるようにする。 呪文を発動した後、通常の呪文の効果の代わりに、その呪文のエネルギーをあなたに隣接する味方またはあなたの@UUID[Compendium.pf2e.spells-srd.Item.XIgvCPaSy5WXStVD]{スペルサージ}オーラ内にいる味方に注入する。あなたは通常通りに呪文、呪文スロット、またはフォーカス・ポイントを消費する。次の1時間の間、味方は集中と手作業のトレイトを持つ単一のアクションで呪文のエネルギーを発動することができ、その際に呪文スロットやフォーカス・ポイントを消費する必要はない。呪文のすべての属性は、あなたの最初の呪文の発動に基づいて決定され、使用された呪文形状の特技を含むが、味方は呪文の起源を決定し、呪文が必要とする選択を行う際に呪文発動者として扱われる。呪文が維持されなければならないか、維持できる場合、あなたの味方は 〔維持〕 のアクションを取る。あなたはこの能力であなた自身を対象にすることはできない。呪文が味方によって1時間の間に発動されなかった場合、エネルギーは消失する。あなたは一度に一つの呪文しか注入することができず、この能力の追加の使用は以前に注入した呪文を直ちに消失させる。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
@@ -20630,7 +20630,7 @@
     },
     "First Revelation": {
       "name": "ファースト・レヴェレイション/First Revelation",
-      "description": "<p>あなたはあなたのミステリーの初期の明示呪文を得る。それを持っていない場合、1つのフォーカスポイントのフォーカスプールが得られる。あなたはミステリーの対立する性質を調和させることで 〔再フォーカス〕 を行うことができ、これによりあなたの@UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{カースバウンド}値が1減少する。</p>",
+      "description": "<p>あなたはあなたのミステリーの初期の明示呪文を得る。それを持っていない場合、1つのフォーカス・ポイントのフォーカス・プールが得られる。あなたはミステリーの対立する性質を調和させることで 〔再フォーカス〕 を行うことができ、これによりあなたの@UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{カースバウンド}値が1減少する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -20860,14 +20860,14 @@
     },
     "Cascade Countermeasure": {
       "name": "カスケード・カウンターメジャー/Cascade Countermeasure",
-      "description": "<p>あなたは、アーケインカスケードにいるとき、あなた自身を魔法に対して抵抗を持たせることができる。あなたは、@UUID[Compendium.pf2e.spells-srd.Item.rtisvvvhkpZPdgXc]{カスケード・カウンターメジャー}カンクフラックス呪文を習得する。</p>\n<p>増加あなたの焦点プールのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは、アーケインカスケードにいるとき、あなた自身を魔法に対して抵抗を持たせることができる。あなたは、@UUID[Compendium.pf2e.spells-srd.Item.rtisvvvhkpZPdgXc]{カスケード・カウンターメジャー}カンクフラックス呪文を習得する。</p>\n<p>増加あなたの焦点プールのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
           "value": "アーケインカスケード"
         },
         {
-          "value": "フォーカスプール"
+          "value": "フォーカス・プール"
         }
       ]
     },
@@ -20883,7 +20883,7 @@
     },
     "Psi Development": {
       "name": "サイ・ディベロップメント/Psi Development",
-      "description": "<p>あなたは、新しい精神的な形を見つけた。あなたは、意識の中から別のサイのカントリップを得る。標準のカントリップで、あなたがサイキックデディケーションで取らなかったもの、またはユニークなサーフェスサイカントリップのいずれかを得る。この第二のサイのカントリップには、サイキック恩恵を得る。あなたは、サイのカントリップを増幅させる能力を得る。もしあなたがそのようなものを持っていない場合、あなたは1フォーカスポイントの焦点プールを得る。これを使用してサイのカントリップを増幅させることができ、あなたは新しい力について瞑想することで〔再フォーカス〕を行うことができる。</p>",
+      "description": "<p>あなたは、新しい精神的な形を見つけた。あなたは、意識の中から別のサイのカントリップを得る。標準のカントリップで、あなたがサイキックデディケーションで取らなかったもの、またはユニークなサーフェスサイカントリップのいずれかを得る。この第二のサイのカントリップには、サイキック恩恵を得る。あなたは、サイのカントリップを増幅させる能力を得る。もしあなたがそのようなものを持っていない場合、あなたは1フォーカス・ポイントの焦点プールを得る。これを使用してサイのカントリップを増幅させることができ、あなたは新しい力について瞑想することで〔再フォーカス〕を行うことができる。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -21412,7 +21412,7 @@
     },
     "Domain Initiate": {
       "name": "領域の入門者/Domain Initiate",
-      "description": "<p>あなたの神格は彼らの力に関連する特別な呪文を授ける。あなたの神格のリストから、あなたの宗教の中で特に関心のある領域を1つ選択する。あなたはその領域の初期領域呪文を得る。これはその領域に特有の呪文であり、他のクレリックには利用できない。</p>\n<p>領域呪文はフォーカス呪文の一種である。フォーカス呪文を唱えるには1フォーカスポイントが必要で、あなたは1フォーカスポイントのフォーカスプールから始まる。あなたは日課の準備の間にフォーカスプールを補充し、あなたの神格に祈ったり、彼らの目的に奉仕したりするために〔再フォーカス〕アクティビティを使用して10分を消費することで1フォーカスポイントを取り戻すことができる。</p>\n<p>フォーカス呪文は、基本呪文と同様に、レベルを半分に丸めた結果に自動的に高位化される。フォーカス呪文は呪文スロットを必要とせず、呪文スロットを使って唱えることはできない。あなたのフォーカスプールは、あなたが持っているフォーカス呪文ごとに1フォーカスポイントを保持でき、最大で3ポイントまでである。</p>\n<hr />\n<p><strong>特別</strong>あなたはこの特技を複数回選択でき、毎回異なる領域を選ぶことでその領域呪文を得る。</p>",
+      "description": "<p>あなたの神格は彼らの力に関連する特別な呪文を授ける。あなたの神格のリストから、あなたの宗教の中で特に関心のある領域を1つ選択する。あなたはその領域の初期領域呪文を得る。これはその領域に特有の呪文であり、他のクレリックには利用できない。</p>\n<p>領域呪文はフォーカス呪文の一種である。フォーカス呪文を唱えるには1フォーカス・ポイントが必要で、あなたは1フォーカス・ポイントのフォーカス・プールから始まる。あなたは日課の準備の間にフォーカス・プールを補充し、あなたの神格に祈ったり、彼らの目的に奉仕したりするために〔再フォーカス〕アクティビティを使用して10分を消費することで1フォーカス・ポイントを取り戻すことができる。</p>\n<p>フォーカス呪文は、基本呪文と同様に、レベルを半分に丸めた結果に自動的に高位化される。フォーカス呪文は呪文スロットを必要とせず、呪文スロットを使って唱えることはできない。あなたのフォーカス・プールは、あなたが持っているフォーカス呪文ごとに1フォーカス・ポイントを保持でき、最大で3ポイントまでである。</p>\n<hr />\n<p><strong>特別</strong>あなたはこの特技を複数回選択でき、毎回異なる領域を選ぶことでその領域呪文を得る。</p>",
       "source": "Pathfinder Player Core"
     },
     "Advanced General Training": {
@@ -22490,7 +22490,7 @@
     },
     "Amp Focus": {
       "name": "アンプ・フォーカス/Amp Focus",
-      "description": "<p>あなたは自分の心の最も奥深くを垣間見る。あなたが〔再フォーカス〕を行ったとき、あなたはすべてのフォーカスポイントを回復する(たとえそれをアンプ以外のものに使っても)。</p>",
+      "description": "<p>あなたは自分の心の最も奥深くを垣間見る。あなたが〔再フォーカス〕を行ったとき、あなたはすべてのフォーカス・ポイントを回復する(たとえそれをアンプ以外のものに使っても)。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Ardent Armiger": {
@@ -23999,7 +23999,7 @@
     },
     "Linked Focus": {
       "name": "リンクド・フォーカス/Linked Focus",
-      "description": "<p>あなたは結びついたアイテムをあなたの学校の呪文に力を与えるエネルギーの井戸にリンクさせた。1日1回、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.v82XtjAVN4ffgVVR]{〈ドレイン・ボンデッド・アイテム〉}してあなたの秘術学校のカリキュラム呪文の1つを唱えるとき、1つのフォーカスポイントも回復する。</p>",
+      "description": "<p>あなたは結びついたアイテムをあなたの学校の呪文に力を与えるエネルギーの井戸にリンクさせた。1日1回、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.v82XtjAVN4ffgVVR]{〈ドレイン・ボンデッド・アイテム〉}してあなたの秘術学校のカリキュラム呪文の1つを唱えるとき、1つのフォーカス・ポイントも回復する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -24012,7 +24012,7 @@
     },
     "Irezoko Tattoo": {
       "name": "イレゾコ・タトゥー/Irezoko Tattoo",
-      "description": "<p><strong>アクセス</strong>あなたは神秘の学派の一員である。</p>\n<hr />\n<p>あなたの顔には<em>イレゾコ</em>として知られる複雑な魔法のタトゥーが施されており、それはあなたが選んだ魔法の分野の理解の証であり、アブサロムの神秘の学派におけるあなたの進歩を認識するものである。あなたがアクセスできるフォーカスプールを持つクラスを選び、この特技を取得すると、その特技にはあなたの選んだクラスに適用されるトレイトが与えられる。1日1回、あなたは<em>イレゾコ</em>のパターンに集中することで、3アクション活動として1つのフォーカスポイントを回復することができる。</p>",
+      "description": "<p><strong>アクセス</strong>あなたは神秘の学派の一員である。</p>\n<hr />\n<p>あなたの顔には<em>イレゾコ</em>として知られる複雑な魔法のタトゥーが施されており、それはあなたが選んだ魔法の分野の理解の証であり、アブサロムの神秘の学派におけるあなたの進歩を認識するものである。あなたがアクセスできるフォーカス・プールを持つクラスを選び、この特技を取得すると、その特技にはあなたの選んだクラスに適用されるトレイトが与えられる。1日1回、あなたは<em>イレゾコ</em>のパターンに集中することで、3アクション活動として1つのフォーカス・ポイントを回復することができる。</p>",
       "source": "Pathfinder Lost Omens Absalom, City of Lost Omens",
       "prerequisites": [
         {
@@ -24468,7 +24468,7 @@
     },
     "Light of Revelation": {
       "name": "ライト・オブ・レヴェレイション/Light of Revelation",
-      "description": "<p>あなたは隠されたものを明らかにするために光を呼び出すことを学んだ。あなたは@UUID[Compendium.pf2e.spells-srd.Item.ou56ShiFH7GWF8hX]{ライト・オヴ・リベレイション}献身の呪文を得る。 増加あなたのフォーカスプールのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは隠されたものを明らかにするために光を呼び出すことを学んだ。あなたは@UUID[Compendium.pf2e.spells-srd.Item.ou56ShiFH7GWF8hX]{ライト・オヴ・リベレイション}献身の呪文を得る。 増加あなたのフォーカス・プールのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Lost Omens Character Guide"
     },
     "Venom Gulp": {
@@ -24483,7 +24483,7 @@
     },
     "Consecrate Spell": {
       "name": "コンセクレイト・スペル/Consecrate Spell",
-      "description": "<p>あなたはあなたの信仰の力で呪文に命を吹き込み、それを聖別する。次のアクションが単一のアンデッドを対象とする〔呪文の発動〕である場合、あなたはフォーカスポイントを消費することができ、フォーカス呪文の力を主要な呪文に流し込む。もしそうした場合、あなたが発動した呪文は、あなたのフォーカス呪文のランクに等しい追加の霊または生命ダメージ(あなたの選択)を与える。追加のダメージは通常のように、呪文が攻撃ロールを要求し、その攻撃ロールの結果がクリティカルヒットである場合、または呪文がセーヴィング・スローを要求し、セーヴィング・スローの結果がクリティカル失敗である場合に倍増する。</p>",
+      "description": "<p>あなたはあなたの信仰の力で呪文に命を吹き込み、それを聖別する。次のアクションが単一のアンデッドを対象とする〔呪文の発動〕である場合、あなたはフォーカス・ポイントを消費することができ、フォーカス呪文の力を主要な呪文に流し込む。もしそうした場合、あなたが発動した呪文は、あなたのフォーカス呪文のランクに等しい追加の霊または生命ダメージ(あなたの選択)を与える。追加のダメージは通常のように、呪文が攻撃ロールを要求し、その攻撃ロールの結果がクリティカルヒットである場合、または呪文がセーヴィング・スローを要求し、セーヴィング・スローの結果がクリティカル失敗である場合に倍増する。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
         {
@@ -26119,7 +26119,7 @@
     },
     "Well of Potential": {
       "name": "ウェル・オブ・ポテンシャル/Well of Potential",
-      "description": "<p> <strong>使用制限</strong> 1日1回</p>\n<hr />\n<p>あなたの心は深いサイキックの潜在能力の井戸である。あなたは1つのフォーカスポイントを回復し、通常の最大値まで回復できる。</p>",
+      "description": "<p> <strong>使用制限</strong> 1日1回</p>\n<hr />\n<p>あなたの心は深いサイキックの潜在能力の井戸である。あなたは1つのフォーカス・ポイントを回復し、通常の最大値まで回復できる。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -26348,7 +26348,7 @@
     },
     "Timeline-Splitting Spell": {
       "name": "タイムラインスプリッティング・スペル/Timeline-Splitting Spell",
-      "description": "<p><strong>使用制限</strong>1日1回</p><hr /><p>あなたは二つの未来に投資し、その後現実にするものを選ぶ。あなたはそれぞれ1または2アクションを必要とする二つの呪文を唱える。これらは異なる階級に高位化された同じ呪文ではない。あなたは両方の呪文のリソースを消費する。これには呪文スロット、フォーカスポイント、ゴールドや貴重品のようなコストが含まれる。両方の呪文の即時結果を決定し、攻撃ロール、セーヴィング・スロー、ダメージ、およびその他のダイスロールを含める。その後、どちらの呪文が効果を発揮するかを選び、事前に試みたロールを使用する。他の呪文のリソースは消費されたままだが、その呪文は他の時間軸に魔法が消えたため、効果を持たない。</p>",
+      "description": "<p><strong>使用制限</strong>1日1回</p><hr /><p>あなたは二つの未来に投資し、その後現実にするものを選ぶ。あなたはそれぞれ1または2アクションを必要とする二つの呪文を唱える。これらは異なる階級に高位化された同じ呪文ではない。あなたは両方の呪文のリソースを消費する。これには呪文スロット、フォーカス・ポイント、ゴールドや貴重品のようなコストが含まれる。両方の呪文の即時結果を決定し、攻撃ロール、セーヴィング・スロー、ダメージ、およびその他のダイスロールを含める。その後、どちらの呪文が効果を発揮するかを選び、事前に試みたロールを使用する。他の呪文のリソースは消費されたままだが、その呪文は他の時間軸に魔法が消えたため、効果を持たない。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -26619,11 +26619,11 @@
     },
     "Hasted Assault": {
       "name": "ヘイステッド・アサルト/Hasted Assault",
-      "description": "<p>あなたは、より速く動き、攻撃をより迅速に行うためにあなた自身を速めることができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.3MzuRDc7ccylpW2e]{ヘイステッド・アサルト}の融合呪文を学ぶ。</p>\n<p>増加あなたのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは、より速く動き、攻撃をより迅速に行うためにあなた自身を速めることができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.3MzuRDc7ccylpW2e]{ヘイステッド・アサルト}の融合呪文を学ぶ。</p>\n<p>増加あなたのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
-          "value": "フォーカスプール"
+          "value": "フォーカス・プール"
         }
       ]
     },
@@ -27269,7 +27269,7 @@
     },
     "Snare Hopping": {
       "name": "スネア・ホッピング/Snare Hopping",
-      "description": "<p>あなたは魔法で罠を移動させることができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.dDt8VFuLuhznT19v]{スネアー・ホッピング}のワーデンスペルを得る。増加あなたのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは魔法で罠を移動させることができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.dDt8VFuLuhznT19v]{スネアー・ホッピング}のワーデンスペルを得る。増加あなたのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -27804,7 +27804,7 @@
     },
     "Recharging Transference": {
       "name": "リチャージング・トランスファレンス/Recharging Transference",
-      "description": "<p>あなたは呪文を生の魔法的潜在能力に分解し、それを味方に移すことができる。1つの準備した呪文、呪文スロット、またはフォーカスポイントを消費し、隣接している味方またはあなたの@UUID[Compendium.pf2e.spells-srd.Item.XIgvCPaSy5WXStVD]{スペルサージ}のオーラ内の味方を選ぶ。呪文または呪文スロットを消費した場合、味方は消費した呪文または呪文スロットと同じレベルかそれ以下の呪文または呪文スロットを1つ取り戻す。フォーカスポイントを消費した場合、味方はフォーカスポイントを1つ取り戻す。この特技は、対象が通常所持できる以上の呪文スロットやフォーカスポイントを提供できない。あなたはこの能力であなた自身を対象にすることはできない。この能力の各使用ごとに、1つの呪文、呪文スロット、またはフォーカスポイントだけを移すことができる。</p>",
+      "description": "<p>あなたは呪文を生の魔法的潜在能力に分解し、それを味方に移すことができる。1つの準備した呪文、呪文スロット、またはフォーカス・ポイントを消費し、隣接している味方またはあなたの@UUID[Compendium.pf2e.spells-srd.Item.XIgvCPaSy5WXStVD]{スペルサージ}のオーラ内の味方を選ぶ。呪文または呪文スロットを消費した場合、味方は消費した呪文または呪文スロットと同じレベルかそれ以下の呪文または呪文スロットを1つ取り戻す。フォーカス・ポイントを消費した場合、味方はフォーカス・ポイントを1つ取り戻す。この特技は、対象が通常所持できる以上の呪文スロットやフォーカス・ポイントを提供できない。あなたはこの能力であなた自身を対象にすることはできない。この能力の各使用ごとに、1つの呪文、呪文スロット、またはフォーカス・ポイントだけを移すことができる。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
@@ -27920,7 +27920,7 @@
     },
     "Retributive Focus": {
       "name": "リトリビューティブ・フォーカス/Retributive Focus",
-      "description": "<p> <strong>使用制限</strong> 1日に1回</p>\n<p> <strong>必要条件</strong>あなたの集中プールは現在空である。</p> <hr /> <p>あなたの敵の攻撃はあなたの正義の力を高める。敵があなたのチャンピオンのリアクションを引き起こすと、あなたは1フォーカスポイントを回復する。</p>",
+      "description": "<p> <strong>使用制限</strong> 1日に1回</p>\n<p> <strong>必要条件</strong>あなたの集中プールは現在空である。</p> <hr /> <p>あなたの敵の攻撃はあなたの正義の力を高める。敵があなたのチャンピオンのリアクションを引き起こすと、あなたは1フォーカス・ポイントを回復する。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
@@ -28424,7 +28424,7 @@
     },
     "Circle of Spirits": {
       "name": "サークル・オブ・スピリッツ/Circle of Spirits",
-      "description": "<p><strong>使用制限</strong>1回のラウンド</p><hr /><p>意図、言葉、またはジェスチャーで、あなたは他の精神に心を通わせる。あなたが調和している他の出現物の中から別の出現物を選ぶ。それはあなたの主要な出現物となり、現在のものに代わる。</p><hr /><p><strong>特殊</strong>あなたのフォーカスプールのフォーカスポイントの数は、あなたの持っているフォーカススペルの数か、あなたが調和している出現物の数のいずれか多い方(最大3)である。</p>",
+      "description": "<p><strong>使用制限</strong>1回のラウンド</p><hr /><p>意図、言葉、またはジェスチャーで、あなたは他の精神に心を通わせる。あなたが調和している他の出現物の中から別の出現物を選ぶ。それはあなたの主要な出現物となり、現在のものに代わる。</p><hr /><p><strong>特殊</strong>あなたのフォーカス・プールのフォーカス・ポイントの数は、あなたの持っているフォーカススペルの数か、あなたが調和している出現物の数のいずれか多い方(最大3)である。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Secret Eyes": {
@@ -28766,7 +28766,7 @@
     },
     "Gaze of Veracity": {
       "name": "ゲイズ・オブ・ヴェラシティ/Gaze of Veracity",
-      "description": "<p>あなたは仮面の力を引き出し、嘘を突き破り、あらゆる状況で真実を見ることができる。増加あなたのフォーカスポイントの数を1増やす。あなたの仮面を着用している間、あなたは@UUID[Compendium.pf2e.spells-srd.Item.ZjbVgIIqMstmdkqP]{グリンプス・ザ・トゥルース}クレリックの領域呪文をディバイン・フォーカス呪文として唱えることができる。</p>",
+      "description": "<p>あなたは仮面の力を引き出し、嘘を突き破り、あらゆる状況で真実を見ることができる。増加あなたのフォーカス・ポイントの数を1増やす。あなたの仮面を着用している間、あなたは@UUID[Compendium.pf2e.spells-srd.Item.ZjbVgIIqMstmdkqP]{グリンプス・ザ・トゥルース}クレリックの領域呪文をディバイン・フォーカス呪文として唱えることができる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -29351,7 +29351,7 @@
     },
     "Surging Focus": {
       "name": "サージング・フォーカス/Surging Focus",
-      "description": "<p><strong>使用制限</strong>あなたが一日一度</p>\n<p><strong>トリガー</strong>あなたが見ることができる友好者が0ヒット・ポイントまで落ちる。</p>\n<hr />\n<p>あなたが見ることができる友好者が戦闘で倒れたとき、あなたの正義の憤慨の高まりは、未使用の神の力を引き出すことを可能にする。あなたは瞬時に1フォーカスポイントを取り戻す。</p>",
+      "description": "<p><strong>使用制限</strong>あなたが一日一度</p>\n<p><strong>トリガー</strong>あなたが見ることができる友好者が0ヒット・ポイントまで落ちる。</p>\n<hr />\n<p>あなたが見ることができる友好者が戦闘で倒れたとき、あなたの正義の憤慨の高まりは、未使用の神の力を引き出すことを可能にする。あなたは瞬時に1フォーカス・ポイントを取り戻す。</p>",
       "source": "Pathfinder Player Core"
     },
     "Empathetic Plea": {
@@ -29845,7 +29845,7 @@
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
-          "value": "フォーカスプール"
+          "value": "フォーカス・プール"
         }
       ]
     },
@@ -30339,11 +30339,11 @@
     },
     "Energized Font": {
       "name": "エナジャイズド・フォント/Energized Font",
-      "description": "<p>\n<strong>\n使用制限\n</strong>1日に1回</p>\n<hr />\n<p>あなたは、内に流れる魔法のおかげで、より迅速に心を集中させることができる。あなたは1つのフォーカスポイントを再取得し、最大の通常の値まで戻る。</p>",
+      "description": "<p>\n<strong>\n使用制限\n</strong>1日に1回</p>\n<hr />\n<p>あなたは、内に流れる魔法のおかげで、より迅速に心を集中させることができる。あなたは1つのフォーカス・ポイントを再取得し、最大の通常の値まで戻る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "フォーカスプール"
+          "value": "フォーカス・プール"
         },
         {
           "value": "少なくとも1つのゴブリン遺産またはアンセストラル特技からの内在呪文で、あなたのフォーカス呪文の少なくとも1つと系統を共有している"
@@ -30909,7 +30909,7 @@
     },
     "Blaze of Revelation": {
       "name": "ブレイズ・オブ・レヴェレイション/Blaze of Revelation",
-      "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{カースバウンド4}。</p><hr /><p>あなたの心と体は、一時的にそして大きな危険を伴って、呪いの最終限界を超えることができる。1分の間、あなたは激しい炎を放出し、精霊に囲まれるか、またはあなたの神秘にふさわしい方法で神聖な力があふれる。あなたのターンごとに、その間に1つの啓示呪文をフォーカスポイントを消費せずに唱えることができる。</p>\n<p>1分の終わりに、その間に唱えた啓示呪文の継続時間は終了し、あなたは@Check[fortitude|dc:40]セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>あなたは他の影響を受けない。</p>\n<p><strong>成功</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2}であり、この状態を次の準備が終わるまで減少させたり取り除いたりできない。</p>\n<p><strong>失敗</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗4}であり、この状態を次の準備が終わるまで減少させたり取り除いたりできない。</p>\n<p><strong>クリティカル失敗</strong>あなたは死ぬ。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{カースバウンド4}。</p><hr /><p>あなたの心と体は、一時的にそして大きな危険を伴って、呪いの最終限界を超えることができる。1分の間、あなたは激しい炎を放出し、精霊に囲まれるか、またはあなたの神秘にふさわしい方法で神聖な力があふれる。あなたのターンごとに、その間に1つの啓示呪文をフォーカス・ポイントを消費せずに唱えることができる。</p>\n<p>1分の終わりに、その間に唱えた啓示呪文の継続時間は終了し、あなたは@Check[fortitude|dc:40]セーヴを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>あなたは他の影響を受けない。</p>\n<p><strong>成功</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2}であり、この状態を次の準備が終わるまで減少させたり取り除いたりできない。</p>\n<p><strong>失敗</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗4}であり、この状態を次の準備が終わるまで減少させたり取り除いたりできない。</p>\n<p><strong>クリティカル失敗</strong>あなたは死ぬ。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Winter's Embrace": {
@@ -30964,7 +30964,7 @@
     },
     "Additional Shadow Magic": {
       "name": "アディショナル・シャドウ・マジック/Additional Shadow Magic",
-      "description": "<p>追加のシャドーダンサーのフォーカス呪文を選んでいないものの中から、シャドウ魔法の中から選ぶ。増加あなたのフォーカスポイントの合計を1増加させる。</p>",
+      "description": "<p>追加のシャドーダンサーのフォーカス呪文を選んでいないものの中から、シャドウ魔法の中から選ぶ。増加あなたのフォーカス・ポイントの合計を1増加させる。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -31204,7 +31204,7 @@
     },
     "Blessed Sacrifice": {
       "name": "ブレスド・サクリファイス/Blessed Sacrifice",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.rQYob0QMJ0I1U2sU]{プロテクターズ・サクリファイス}の領域呪文を献身的な呪文として得る。増加あなたのフォーカスポイントプールのフォーカスポイントの数を1つ増加させる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.rQYob0QMJ0I1U2sU]{プロテクターズ・サクリファイス}の領域呪文を献身的な呪文として得る。増加あなたのフォーカス・ポイントプールのフォーカス・ポイントの数を1つ増加させる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -31250,7 +31250,7 @@
     },
     "Crystal Ward Spells": {
       "name": "クリスタル・ウォード・スペルズ/Crystal Ward Spells",
-      "description": "<p>あなたのクリスタルと宝石のファセットに秘められたエネルギーの研究は、特別な神秘のクリスタル・ウォード呪文を授け、これは焦点呪文の一種である。焦点呪文を唱えるには1つのフォーカスポイントが必要で、あなたは1つのフォーカスポイントのフォーカスプールから始まる。次の日課の準備を行うときにフォーカスプールを補充し、〔再フォーカス〕アクティビティを使用して宝石の特性を研究し記憶することで10分を消費することにより1つのフォーカスポイントを回復できる。</p>\n<p>焦点呪文は自動的にレベルを切り上げて半分に高位化される。特定の特技は、より多くの焦点呪文を得たり、フォーカスプールのサイズを増やしたりすることができるが、フォーカスプールが保持できるのは最大で3つのフォーカスポイントのみである。あなたは@UUID[Compendium.pf2e.spells-srd.Item.57ulIxg3Of2wCbEh]{エレクトリファイド・クリスタル・ウォード}焦点呪文を得て、あなたは神秘の呪文攻撃ロールと呪文DCに訓練済みである。あなたの呪文発動能力は知性である。</p>",
+      "description": "<p>あなたのクリスタルと宝石のファセットに秘められたエネルギーの研究は、特別な神秘のクリスタル・ウォード呪文を授け、これは焦点呪文の一種である。焦点呪文を唱えるには1つのフォーカス・ポイントが必要で、あなたは1つのフォーカス・ポイントのフォーカス・プールから始まる。次の日課の準備を行うときにフォーカス・プールを補充し、〔再フォーカス〕アクティビティを使用して宝石の特性を研究し記憶することで10分を消費することにより1つのフォーカス・ポイントを回復できる。</p>\n<p>焦点呪文は自動的にレベルを切り上げて半分に高位化される。特定の特技は、より多くの焦点呪文を得たり、フォーカス・プールのサイズを増やしたりすることができるが、フォーカス・プールが保持できるのは最大で3つのフォーカス・ポイントのみである。あなたは@UUID[Compendium.pf2e.spells-srd.Item.57ulIxg3Of2wCbEh]{エレクトリファイド・クリスタル・ウォード}焦点呪文を得て、あなたは神秘の呪文攻撃ロールと呪文DCに訓練済みである。あなたの呪文発動能力は知性である。</p>",
       "source": "Pathfinder #148: Fires of the Haunted City",
       "prerequisites": [
         {
@@ -31732,7 +31732,7 @@
     },
     "Conflux Wellspring": {
       "name": "コンフラックス・ウェルスプリング/Conflux Wellspring",
-      "description": "<p>あなたは完璧な魔法と物理のバランスを達成し、魔法がより容易にあなたの中に流れ込むことを可能にした。</p>\n<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}の際に3のフォーカスポイントを回復できる。ただし、最後にリフォーカスしたときから少なくとも3のフォーカスポイントを消費している場合に限る。</p>",
+      "description": "<p>あなたは完璧な魔法と物理のバランスを達成し、魔法がより容易にあなたの中に流れ込むことを可能にした。</p>\n<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}の際に3のフォーカス・ポイントを回復できる。ただし、最後にリフォーカスしたときから少なくとも3のフォーカス・ポイントを消費している場合に限る。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
@@ -31833,7 +31833,7 @@
           "value": "キャットナップ"
         },
         {
-          "value": "フォーカスプール"
+          "value": "フォーカス・プール"
         }
       ]
     },
@@ -32043,7 +32043,7 @@
     },
     "Mythic Refocus": {
       "name": "ミシック・リフォーカス/Mythic Refocus",
-      "description": "<p>あなたは、神話的な力を制御する能力が高まるにつれて、それを使って他の力を回復し強化することを学ぶ。 ミシック・ポイントを消費することで、あなたは即座に全てのフォーカスポイントを回復し、フォーカスプールを現在の最大値まで満たす。</p>",
+      "description": "<p>あなたは、神話的な力を制御する能力が高まるにつれて、それを使って他の力を回復し強化することを学ぶ。 ミシック・ポイントを消費することで、あなたは即座に全てのフォーカス・ポイントを回復し、フォーカス・プールを現在の最大値まで満たす。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
@@ -32389,7 +32389,7 @@
     },
     "Heal Animal": {
       "name": "ヒール・アニマル/Heal Animal",
-      "description": "<p>あなたはあなたの動物の仲間の傷を癒すことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.Zmh4ynfnCtwKeAYl]{ヒール・アニマル}をビーストマスターのフォーカス呪文として使用することができる。増加フォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたはあなたの動物の仲間の傷を癒すことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.Zmh4ynfnCtwKeAYl]{ヒール・アニマル}をビーストマスターのフォーカス呪文として使用することができる。増加フォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -33387,7 +33387,7 @@
     },
     "Apex Companion": {
       "name": "エイペックス・コンパニオン/Apex Companion",
-      "description": "<p>あなたは特定の種の各動物の本質を呼び起こして、あなたの動物をその種の模範に一時的に変えることができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.qqQYrXaRJXr7uc4i]{エイペックス・コンパニオン}の命令呪文を学ぶ。増加あなたのフォーカスプールのフォーカスポイントの数が1増加する。</p>",
+      "description": "<p>あなたは特定の種の各動物の本質を呼び起こして、あなたの動物をその種の模範に一時的に変えることができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.qqQYrXaRJXr7uc4i]{エイペックス・コンパニオン}の命令呪文を学ぶ。増加あなたのフォーカス・プールのフォーカス・ポイントの数が1増加する。</p>",
       "source": "Pathfinder #150: Broken Promises",
       "prerequisites": [
         {
@@ -33580,7 +33580,7 @@
     },
     "Transcribe Moment": {
       "name": "トランスクライブ・モーメント/Transcribe Moment",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.NxOYiKCqcuAHVRCj]{トランスクライブ・モーメント}フォーカス呪文を得る。すでに持っていない場合、1つのフォーカスポイントのフォーカスプールを得る。これは、10分を使ってテキストを学ぶか、最近の経験についてメモを取ることで〔再フォーカス〕 することができる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.NxOYiKCqcuAHVRCj]{トランスクライブ・モーメント}フォーカス呪文を得る。すでに持っていない場合、1つのフォーカス・ポイントのフォーカス・プールを得る。これは、10分を使ってテキストを学ぶか、最近の経験についてメモを取ることで〔再フォーカス〕 することができる。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
         {
@@ -34182,7 +34182,7 @@
     },
     "Annotate Composition": {
       "name": "アノテート・コンポジション/Annotate Composition",
-      "description": "<p>作曲を紙に書くことで、他の人が読み理解できる感動的な言葉や歌の源を生み出すことができる。あなたは、10分と1つのフォーカスポイントを消費して、あなたや他のクリーチャーが後でアクティベートできる特別なスクロールに作曲呪文を転写する。 この作曲呪文はキャストするのに1つのアクションを要する。選択した作曲呪文が発動の一部として《芸能》判定を必要とする場合、GMはあなたがスコアを注釈する際にこの判定をシークレット判定として振る。</p>\n<p>あなたが@UUID[Compendium.pf2e.spells-srd.Item.kF0rs9mCPvJGfAZE]{フォルティッシモ・コンポジション}または@UUID[Compendium.pf2e.spells-srd.Item.irTdhxTixU9u9YUm]{リンガリング・コンポジション}を持っている場合、注釈された作曲が修正から恩恵できる限り、これらの呪文のいずれかを使用してその注釈された作曲を修正することができる。GMは秘密の《芸能》判定を振る。もしそうなった場合、たとえシークレット判定が失敗しても、追加のフォーカスポイントを消費する。</p>\n<p>あなたが作曲を注釈する際に使用した言語を読めるあらゆるクリーチャーは、集中のトレイトを持つ単一のアクションを消費することで起動できるアイテムを得る。この効果は、アクティベートするクリーチャーが呪文をキャストしたかのように作曲の効果を生み出す。</p>\n<p>この方法で作成した作曲は、次にあなたが日課の準備を行うときに力を失う。その作曲があなたの所持にある間、集中のトレイトを持つ単一のアクションを使用してそれを無効にすることができる。注釈された作曲がアクティベートされるまで、その作曲を作成するために消費したフォーカスポイントを回復することはできない。</p>",
+      "description": "<p>作曲を紙に書くことで、他の人が読み理解できる感動的な言葉や歌の源を生み出すことができる。あなたは、10分と1つのフォーカス・ポイントを消費して、あなたや他のクリーチャーが後でアクティベートできる特別なスクロールに作曲呪文を転写する。 この作曲呪文はキャストするのに1つのアクションを要する。選択した作曲呪文が発動の一部として《芸能》判定を必要とする場合、GMはあなたがスコアを注釈する際にこの判定をシークレット判定として振る。</p>\n<p>あなたが@UUID[Compendium.pf2e.spells-srd.Item.kF0rs9mCPvJGfAZE]{フォルティッシモ・コンポジション}または@UUID[Compendium.pf2e.spells-srd.Item.irTdhxTixU9u9YUm]{リンガリング・コンポジション}を持っている場合、注釈された作曲が修正から恩恵できる限り、これらの呪文のいずれかを使用してその注釈された作曲を修正することができる。GMは秘密の《芸能》判定を振る。もしそうなった場合、たとえシークレット判定が失敗しても、追加のフォーカス・ポイントを消費する。</p>\n<p>あなたが作曲を注釈する際に使用した言語を読めるあらゆるクリーチャーは、集中のトレイトを持つ単一のアクションを消費することで起動できるアイテムを得る。この効果は、アクティベートするクリーチャーが呪文をキャストしたかのように作曲の効果を生み出す。</p>\n<p>この方法で作成した作曲は、次にあなたが日課の準備を行うときに力を失う。その作曲があなたの所持にある間、集中のトレイトを持つ単一のアクションを使用してそれを無効にすることができる。注釈された作曲がアクティベートされるまで、その作曲を作成するために消費したフォーカス・ポイントを回復することはできない。</p>",
       "source": "Pathfinder Player Core"
     },
     "Iruxi Spirit Strike": {
@@ -34197,7 +34197,7 @@
     },
     "Deathly Secrets": {
       "name": "デスリー・シークレッツ/Deathly Secrets",
-      "description": "<p>あなたの手に負えない死者を創造したり支配したりする手段はなく、あなた自身の魔法的伝統でないものさえも。あなたは@UUID[Compendium.pf2e.spells-srd.Item.DLFupJuCfzyLCQcO]{アイズ・オヴ・ザ・デッド}または@UUID[Compendium.pf2e.spells-srd.Item.Cd6Crl4wpQaMSYrF]{サブジュゲイト・アンデッド}のフォーカス呪文を学ぶ。既に持っていない場合、あなたは1つのフォーカスポイントのフォーカスプールを得る。これを、死んだ知性のあるクリーチャーの肉体的遺骸を瞑想することによって〔再フォーカス〕することができる。再生者アーキタイプによって与えられたフォーカス呪文は、アーキタイプの前提条件を満たすために使用されるものと同じ系統から得られる。</p>\n<p><strong>特別</strong>あなたはこの特技を何度でも選択できる。毎回異なる呪文を学び、フォーカスプールを1つのフォーカスポイント分増加させる。</p>",
+      "description": "<p>あなたの手に負えない死者を創造したり支配したりする手段はなく、あなた自身の魔法的伝統でないものさえも。あなたは@UUID[Compendium.pf2e.spells-srd.Item.DLFupJuCfzyLCQcO]{アイズ・オヴ・ザ・デッド}または@UUID[Compendium.pf2e.spells-srd.Item.Cd6Crl4wpQaMSYrF]{サブジュゲイト・アンデッド}のフォーカス呪文を学ぶ。既に持っていない場合、あなたは1つのフォーカス・ポイントのフォーカス・プールを得る。これを、死んだ知性のあるクリーチャーの肉体的遺骸を瞑想することによって〔再フォーカス〕することができる。再生者アーキタイプによって与えられたフォーカス呪文は、アーキタイプの前提条件を満たすために使用されるものと同じ系統から得られる。</p>\n<p><strong>特別</strong>あなたはこの特技を何度でも選択できる。毎回異なる呪文を学び、フォーカス・プールを1つのフォーカス・ポイント分増加させる。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -35127,11 +35127,11 @@
     },
     "Unending Emptiness": {
       "name": "アンエンディング・エンプティネス/Unending Emptiness",
-      "description": "<p>あなたは視界の中にある激しい空虚さの玉を暗闇から集める能力を得るために、あなたの目の中に影の力を集める。あなたは@UUID[Compendium.pf2e.spells-srd.Item.sFwoKj0TsacsmoWj]{ダークライト}領域呪文を得る。増加フォーカスプールのフォーカスポイントを1増加させる。</p>",
+      "description": "<p>あなたは視界の中にある激しい空虚さの玉を暗闇から集める能力を得るために、あなたの目の中に影の力を集める。あなたは@UUID[Compendium.pf2e.spells-srd.Item.sFwoKj0TsacsmoWj]{ダークライト}領域呪文を得る。増加フォーカス・プールのフォーカス・ポイントを1増加させる。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
-          "value": "フォーカスプール"
+          "value": "フォーカス・プール"
         },
         {
           "value": "シャドウキャスターデディケーション"
@@ -35442,7 +35442,7 @@
     },
     "Bonded Focus": {
       "name": "ボンデッド・フォーカス/Bonded Focus",
-      "description": "<p>あなたの絆のあるアイテムとのつながりが、あなたのフォーカスプールを増加させる。あなたが絆のあるアイテムを所持している状態で、〔再フォーカス〕を行うたびに、あなたのフォーカスプールは完全に回復する。</p>",
+      "description": "<p>あなたの絆のあるアイテムとのつながりが、あなたのフォーカス・プールを増加させる。あなたが絆のあるアイテムを所持している状態で、〔再フォーカス〕を行うたびに、あなたのフォーカス・プールは完全に回復する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -35708,7 +35708,7 @@
     },
     "Greater Deathly Secrets": {
       "name": "グレーター・デスリー・シークレッツ/Greater Deathly Secrets",
-      "description": "<p>あなたのアンデッドの秘密はさらに強化される。あなたは@UUID[Compendium.pf2e.spells-srd.Item.qzsQmpiQodHBBWYI]{マリグナント・サステナンス}か@UUID[Compendium.pf2e.spells-srd.Item.2YIr0S2Gt14PMMQp]{グラスピング・グレイブ}の焦点呪文を学ぶ。あなたの焦点プールは1ポイント増加する。</p>\n<p><strong>特別</strong>あなたはこの特技を複数回選択することができる。毎回、異なる呪文を学び、あなたの焦点プールは1フォーカスポイント増加する。</p>",
+      "description": "<p>あなたのアンデッドの秘密はさらに強化される。あなたは@UUID[Compendium.pf2e.spells-srd.Item.qzsQmpiQodHBBWYI]{マリグナント・サステナンス}か@UUID[Compendium.pf2e.spells-srd.Item.2YIr0S2Gt14PMMQp]{グラスピング・グレイブ}の焦点呪文を学ぶ。あなたの焦点プールは1ポイント増加する。</p>\n<p><strong>特別</strong>あなたはこの特技を複数回選択することができる。毎回、異なる呪文を学び、あなたの焦点プールは1フォーカス・ポイント増加する。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -36240,7 +36240,7 @@
     },
     "Arcane School Spell": {
       "name": "アーケイン・スクール・スペル/Arcane School Spell",
-      "description": "<p>あなたは学校の初期の学校呪文を得る。もし既に持っていなければ、1つのフォーカスポイントのフォーカスプールを得て、これを勉強することで@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}できる。</p>",
+      "description": "<p>あなたは学校の初期の学校呪文を得る。もし既に持っていなければ、1つのフォーカス・ポイントのフォーカス・プールを得て、これを勉強することで@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}できる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -39229,7 +39229,7 @@
     },
     "Mighty Wings": {
       "name": "マイティ・ウィングズ/Mighty Wings",
-      "description": "<p>あなたのドラゴンの翼は今やあなたの体の一部となり、あなたの移動速度に等しい飛行移動速度を与える。1つのフォーカスポイントを使って@UUID[Compendium.pf2e.spells-srd.Item.HWJODX2zPg5cg34F]{ドラゴン・ウィングス}を唱えると、飛行移動速度はその間90フィートに増加し、対象の移動速度がそれより速くない限り、その間@UUID[Compendium.pf2e.spells-srd.Item.K8vvrOgW4bGakXxm]{フラリー・オブ・クロウズ}の効果を得る。</p>",
+      "description": "<p>あなたのドラゴンの翼は今やあなたの体の一部となり、あなたの移動速度に等しい飛行移動速度を与える。1つのフォーカス・ポイントを使って@UUID[Compendium.pf2e.spells-srd.Item.HWJODX2zPg5cg34F]{ドラゴン・ウィングス}を唱えると、飛行移動速度はその間90フィートに増加し、対象の移動速度がそれより速くない限り、その間@UUID[Compendium.pf2e.spells-srd.Item.K8vvrOgW4bGakXxm]{フラリー・オブ・クロウズ}の効果を得る。</p>",
       "source": "Pathfinder #171: Hurricane's Howl",
       "prerequisites": [
         {
@@ -39346,7 +39346,7 @@
     },
     "Ki Cutting Sight": {
       "name": "キー・カッティング・サイト/Ki Cutting Sight",
-      "description": "<p>すべてはつながっている—全ては全体の一部であり、全体は無限の部分に分配されている。あなたの気をどこに加えるかを見つければ、全体を壊すことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.jrlCEw9rqBi4qU6g]{キー・カッティング・サイト}気呪文を得る。 増加あなたのフォーカスプールのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>すべてはつながっている—全ては全体の一部であり、全体は無限の部分に分配されている。あなたの気をどこに加えるかを見つければ、全体を壊すことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.jrlCEw9rqBi4qU6g]{キー・カッティング・サイト}気呪文を得る。 増加あなたのフォーカス・プールのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Wake the Dead #2",
       "prerequisites": [
         {
@@ -39484,7 +39484,7 @@
     },
     "Breath of the Dragon (Dragon Disciple)": {
       "name": "ブレス・オブ・ザ・ドラゴン（ドラゴン・ディサイプル）/Breath of the Dragon (Dragon Disciple)",
-      "description": "<p>あなたは、あなたが模倣するドラゴンのような強力なブレス武器を使用できる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE]{ドラゴン・ブレス}ソーサラーの血脈呪文を得ると、1のフォーカスポイントのフォーカスプールを持つ。すでにフォーカスポイントを持っている場合、フォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは、あなたが模倣するドラゴンのような強力なブレス武器を使用できる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE]{ドラゴン・ブレス}ソーサラーの血脈呪文を得ると、1のフォーカス・ポイントのフォーカス・プールを持つ。すでにフォーカス・ポイントを持っている場合、フォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -39573,7 +39573,7 @@
     },
     "Perfect Ki Exemplar": {
       "name": "パーフェクト・キー・エグゼンプラー/Perfect Ki Exemplar",
-      "description": "<p>あなたは自己流の流派に適した気の呪文を得る：@UUID[Compendium.pf2e.spells-srd.Item.KADeCawMG6WAzYHa]{アンブリンキング・フレイム・エンブレム}は瞬きする炎のための、@UUID[Compendium.pf2e.spells-srd.Item.YtJXpiu4ijkB6nP2]{アンブレイキング・ウェーブ・バリアー}は折れない波のための、@UUID[Compendium.pf2e.spells-srd.Item.Ww4cPZ3QHTSpaM1m]{アンフォールディング・ウィンド・ブリッツ}は繰り広げる風のための、または@UUID[Compendium.pf2e.spells-srd.Item.8eOMAIvT7S1CJSit]{アントゥイスティング・アイアン・オーグメンテーション}はほどける鉄のための。増加あなたのフォーカスプールのフォーカスポイントの数を1増加させる。あなたはオカルト呪文の難易度DCとオカルト呪文攻撃ロールの専門家になる。</p>",
+      "description": "<p>あなたは自己流の流派に適した気の呪文を得る：@UUID[Compendium.pf2e.spells-srd.Item.KADeCawMG6WAzYHa]{アンブリンキング・フレイム・エンブレム}は瞬きする炎のための、@UUID[Compendium.pf2e.spells-srd.Item.YtJXpiu4ijkB6nP2]{アンブレイキング・ウェーブ・バリアー}は折れない波のための、@UUID[Compendium.pf2e.spells-srd.Item.Ww4cPZ3QHTSpaM1m]{アンフォールディング・ウィンド・ブリッツ}は繰り広げる風のための、または@UUID[Compendium.pf2e.spells-srd.Item.8eOMAIvT7S1CJSit]{アントゥイスティング・アイアン・オーグメンテーション}はほどける鉄のための。増加あなたのフォーカス・プールのフォーカス・ポイントの数を1増加させる。あなたはオカルト呪文の難易度DCとオカルト呪文攻撃ロールの専門家になる。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -40105,7 +40105,7 @@
     },
     "Bond Companion": {
       "name": "ボンド・コンパニオン/Bond Companion",
-      "description": "<p>あなたは仲間に対して、主と使い魔のような親密な絆を形成し、あなたの固有の魔法を接触することができる。あなたは日課の準備の間、他のプレイヤーキャラクターと時間を過ごして、その日あなたの指定した仲間にすることができる。そのプレイヤーはフォーカスポイントプールを持っている必要がある。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.SRdiCXHSLxqu3C67]{〈フォーティファイ・フォーカス〉}の活動を得る。</p>",
+      "description": "<p>あなたは仲間に対して、主と使い魔のような親密な絆を形成し、あなたの固有の魔法を接触することができる。あなたは日課の準備の間、他のプレイヤーキャラクターと時間を過ごして、その日あなたの指定した仲間にすることができる。そのプレイヤーはフォーカス・ポイントプールを持っている必要がある。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.SRdiCXHSLxqu3C67]{〈フォーティファイ・フォーカス〉}の活動を得る。</p>",
       "source": "Pathfinder Lost Omens Draconic Codex"
     },
     "Master Spotter (Investigator)": {
@@ -40196,7 +40196,7 @@
     },
     "Order Spell": {
       "name": "オーダー・スペル/Order Spell",
-      "description": "<p>あなたはあなたの組織から初期秩序の呪文を得る。これはフォーカス呪文であり、あなたにフォーカスポイントプールを与えるか、そのプールを拡張する。あなたは自然と一体となることによって〔再フォーカス〕できる。</p>",
+      "description": "<p>あなたはあなたの組織から初期秩序の呪文を得る。これはフォーカス呪文であり、あなたにフォーカス・ポイントプールを与えるか、そのプールを拡張する。あなたは自然と一体となることによって〔再フォーカス〕できる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -40490,7 +40490,7 @@
     },
     "Invoke the Crimson Oath": {
       "name": "インボーク・ザ・クリムゾン・オース/Invoke the Crimson Oath",
-      "description": "<p>あなたはクリムゾンの誓いを発動して武器からルビーのエネルギーの爆風を解き放つことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.AsKLseOo8hwv5Jha]{インヴォーク・ザ・クリムゾン・オース}フォーカス呪文を得る。もしすでに持っていない場合、あなたは1つのフォーカスポイントを持つフォーカスプールを得ることができ、クリムゾンの誓いを唱えてその教えを瞑想するために 〔再フォーカス〕 アクティビティを使ってフォーカスポイントを取り戻すことができる。すでにフォーカスプールがある場合は、フォーカスポイントの数を1増加させる。あなたの騎士の回収者のフォーカス呪文は神聖な呪文である。この特技を得ると、あなたは神聖な呪文攻撃と呪文DCにおいて訓練済みとなる。これらの呪文のためのあなたの主要な呪文発動能は魅力である。</p>",
+      "description": "<p>あなたはクリムゾンの誓いを発動して武器からルビーのエネルギーの爆風を解き放つことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.AsKLseOo8hwv5Jha]{インヴォーク・ザ・クリムゾン・オース}フォーカス呪文を得る。もしすでに持っていない場合、あなたは1つのフォーカス・ポイントを持つフォーカス・プールを得ることができ、クリムゾンの誓いを唱えてその教えを瞑想するために 〔再フォーカス〕 アクティビティを使ってフォーカス・ポイントを取り戻すことができる。すでにフォーカス・プールがある場合は、フォーカス・ポイントの数を1増加させる。あなたの騎士の回収者のフォーカス呪文は神聖な呪文である。この特技を得ると、あなたは神聖な呪文攻撃と呪文DCにおいて訓練済みとなる。これらの呪文のためのあなたの主要な呪文発動能は魅力である。</p>",
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
@@ -40500,7 +40500,7 @@
     },
     "Shadow Magic": {
       "name": "シャドウ・マジック/Shadow Magic",
-      "description": "<p>あなたはシャドウダンサーに特有のフォーカス呪文を使用して影を融合させ、遊ぶ能力を得る。</p>\n<p>あなたは自分の選んだシャドウダンサーのフォーカス呪文を学ぶ：@UUID[Compendium.pf2e.spells-srd.Item.9BGEf9Sv5rgNBCk0]{ダンス・オヴ・ダークネス}または@UUID[Compendium.pf2e.spells-srd.Item.5ttAVJbWg2GVKmrN]{シャドウ・ジャンプ}。まだ持っていない場合、あなたは1フォーカスポイントのフォーカスプールを得て、それを@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}することができる、薄暗い光や闇の中で瞑想することによって。</p>\n<p>シャドウダンサーのフォーカス呪文はオカルト呪文である。あなたはオカルト呪文の攻撃ロールと呪文DCにおいて訓練済みとなり、これらの呪文のためのあなたの呪文詠唱能力は魅力である。</p>",
+      "description": "<p>あなたはシャドウダンサーに特有のフォーカス呪文を使用して影を融合させ、遊ぶ能力を得る。</p>\n<p>あなたは自分の選んだシャドウダンサーのフォーカス呪文を学ぶ：@UUID[Compendium.pf2e.spells-srd.Item.9BGEf9Sv5rgNBCk0]{ダンス・オヴ・ダークネス}または@UUID[Compendium.pf2e.spells-srd.Item.5ttAVJbWg2GVKmrN]{シャドウ・ジャンプ}。まだ持っていない場合、あなたは1フォーカス・ポイントのフォーカス・プールを得て、それを@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}することができる、薄暗い光や闇の中で瞑想することによって。</p>\n<p>シャドウダンサーのフォーカス呪文はオカルト呪文である。あなたはオカルト呪文の攻撃ロールと呪文DCにおいて訓練済みとなり、これらの呪文のためのあなたの呪文詠唱能力は魅力である。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -40849,7 +40849,7 @@
     },
     "Sun Blade": {
       "name": "サン・ブレード/Sun Blade",
-      "description": "<p><strong>アクセス</strong>次のクラス特技はラストウォールの騎士に利用可能である。</p>\n<hr />\n<p>あなたは剣または槍から燃える太陽光を解放することができる。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.pMTltbI3S3UIuFaR]{サン・ブレード}の献身呪文を得る。 増加あなたのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p><strong>アクセス</strong>次のクラス特技はラストウォールの騎士に利用可能である。</p>\n<hr />\n<p>あなたは剣または槍から燃える太陽光を解放することができる。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.pMTltbI3S3UIuFaR]{サン・ブレード}の献身呪文を得る。 増加あなたのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Lost Omens Character Guide"
     },
     "Terrain Shield": {
@@ -41123,7 +41123,7 @@
     },
     "Enlarge Companion": {
       "name": "エンラージ・コンパニオン/Enlarge Companion",
-      "description": "<p>あなたは仲間を巨大化させる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.8rj45fKzCFcB0fxs]{エンラージ・コンパニオン}の監視者呪文を得る。増加フォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは仲間を巨大化させる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.8rj45fKzCFcB0fxs]{エンラージ・コンパニオン}の監視者呪文を得る。増加フォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -41188,7 +41188,7 @@
     },
     "Disciple of Shade": {
       "name": "ディサイプル・オブ・シェイド/Disciple of Shade",
-      "description": "<p>あなたは影の神秘を深く探求し、欺きと説得の技術を高める魔法の力を授かる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.YQWq1DZuLRk32M3h]{インスクルータブル・マスク}領域呪文を得る。増加あなたのフォーカスポイント池のフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは影の神秘を深く探求し、欺きと説得の技術を高める魔法の力を授かる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.YQWq1DZuLRk32M3h]{インスクルータブル・マスク}領域呪文を得る。増加あなたのフォーカス・ポイント池のフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
@@ -41765,7 +41765,7 @@
     },
     "Extend Boost": {
       "name": "エクステンド・ブースト/Extend Boost",
-      "description": "<p>あなたはあなたのエイドロンのブーストの持続時間を増加させることができる。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.CR8OKDbeFJoZbOCu]{エクステンド・ブースト}リンク呪文を学ぶ。 増加あなたのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたはあなたのエイドロンのブーストの持続時間を増加させることができる。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.CR8OKDbeFJoZbOCu]{エクステンド・ブースト}リンク呪文を学ぶ。 増加あなたのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Scroll Adept": {
@@ -41875,7 +41875,7 @@
     },
     "Strain Mind": {
       "name": "ストレイン・マインド/Strain Mind",
-      "description": "<p><strong>使用制限</strong>1時間に1回</p>\n<p><strong>トリガー</strong>あなたはサイのカントリップを発動する。</p>\n<p><strong>必要条件</strong>あなたはフォーカスポイントを0持つ。</p><hr /><p>あなたは、身体を限界を超えて酷使し、精神的な力が枯渇していてもアンプを使用する。あなたは呪文に1のフォーカスポイントを必要とするアンプを加える。通常のフォーカスポイントのコストを支払う代わりに、あなたはアンプされたサイのカントリップの呪文のランクの4倍に等しいヒット・ポイントを失い、鼻から出血したり、他のストレスの明らかな印象を受けたりする。</p>",
+      "description": "<p><strong>使用制限</strong>1時間に1回</p>\n<p><strong>トリガー</strong>あなたはサイのカントリップを発動する。</p>\n<p><strong>必要条件</strong>あなたはフォーカス・ポイントを0持つ。</p><hr /><p>あなたは、身体を限界を超えて酷使し、精神的な力が枯渇していてもアンプを使用する。あなたは呪文に1のフォーカス・ポイントを必要とするアンプを加える。通常のフォーカス・ポイントのコストを支払う代わりに、あなたはアンプされたサイのカントリップの呪文のランクの4倍に等しいヒット・ポイントを失い、鼻から出血したり、他のストレスの明らかな印象を受けたりする。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Azarketi Purification": {
@@ -42888,7 +42888,7 @@
     },
     "For Love, For Lightning": {
       "name": "フォー・ラブ、フォー・ライトニング/For Love, For Lightning",
-      "description": "<p><strong>アクセス</strong>クラレス・イオメダーのために特別なミッションを遂行するキャラクターは、このオプションにアクセスできる。</p>\n<hr />\n<p>噂によると、この技術はクラレス・イオメダーのために半月にミッションを行った騎士たちによって開発されたが、その後多くのクリムゾン・リクレイマーがこれをマスターした。あなたは@UUID[Compendium.pf2e.spells-srd.Item.mtxMpGWpwwWSbySj]{フォー・ラヴ・フォー・ライトニング}焦点呪文を学ぶ。すでに持っていない場合、1つのフォーカスポイントのフォーカスプールを得ることができ、これを使って〔再フォーカス〕活動でクリムゾンの誓いを朗読し、その教えについて瞑想することで回復できる。すでにフォーカスプールを持っている場合は、そのフォーカスプールのフォーカスポイントの数を1増やす。あなたの騎士リクレイメント焦点呪文は神聖な呪文であり、この特技を得ると、神聖な呪文攻撃と呪文DCにおいて訓練済みになる。魅力は、騎士リクレイメント焦点呪文のための主な呪文唱え能力である。</p>",
+      "description": "<p><strong>アクセス</strong>クラレス・イオメダーのために特別なミッションを遂行するキャラクターは、このオプションにアクセスできる。</p>\n<hr />\n<p>噂によると、この技術はクラレス・イオメダーのために半月にミッションを行った騎士たちによって開発されたが、その後多くのクリムゾン・リクレイマーがこれをマスターした。あなたは@UUID[Compendium.pf2e.spells-srd.Item.mtxMpGWpwwWSbySj]{フォー・ラヴ・フォー・ライトニング}焦点呪文を学ぶ。すでに持っていない場合、1つのフォーカス・ポイントのフォーカス・プールを得ることができ、これを使って〔再フォーカス〕活動でクリムゾンの誓いを朗読し、その教えについて瞑想することで回復できる。すでにフォーカス・プールを持っている場合は、そのフォーカス・プールのフォーカス・ポイントの数を1増やす。あなたの騎士リクレイメント焦点呪文は神聖な呪文であり、この特技を得ると、神聖な呪文攻撃と呪文DCにおいて訓練済みになる。魅力は、騎士リクレイメント焦点呪文のための主な呪文唱え能力である。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
         {
@@ -43416,7 +43416,7 @@
     },
     "Advanced Seeker of Truths": {
       "name": "アドヴァンスト・シーカー・オブ・トゥルース/Advanced Seeker of Truths",
-      "description": "<p>あなたはより深い秘密を解き明かし、知識を貯えることができるようになった。あなたは真実の探求者で選択した1つの分野から上級領域呪文を得る。増加あなたのフォーカスプールのフォーカスポイントの数を1増加させる。</p>\n<hr />\n<p><strong>特別</strong>あなたはこの特技を最大3回取得できる。毎回、真実の探求者で選択した異なる上級領域呪文を選択する。</p>",
+      "description": "<p>あなたはより深い秘密を解き明かし、知識を貯えることができるようになった。あなたは真実の探求者で選択した1つの分野から上級領域呪文を得る。増加あなたのフォーカス・プールのフォーカス・ポイントの数を1増加させる。</p>\n<hr />\n<p><strong>特別</strong>あなたはこの特技を最大3回取得できる。毎回、真実の探求者で選択した異なる上級領域呪文を選択する。</p>",
       "source": "Pathfinder #164: Hands of the Devil",
       "prerequisites": [
         {
@@ -43467,7 +43467,7 @@
     },
     "Wings of the Dragon": {
       "name": "ウィングズ・オブ・ザ・ドラゴン/Wings of the Dragon",
-      "description": "<p>あなたはドラゴンの翼を現して、空を大きな速さで飛ぶことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.HWJODX2zPg5cg34F]{ドラゴン・ウィングス}ソーサラーの血脈魔法と1ポイントのフォーカスポイントのフォーカスプールを得る。もし既にフォーカスポールを持っているなら、フォーカスポイントを1増加させる。</p>",
+      "description": "<p>あなたはドラゴンの翼を現して、空を大きな速さで飛ぶことができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.HWJODX2zPg5cg34F]{ドラゴン・ウィングス}ソーサラーの血脈魔法と1ポイントのフォーカス・ポイントのフォーカス・プールを得る。もし既にフォーカスポールを持っているなら、フォーカス・ポイントを1増加させる。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -44533,7 +44533,7 @@
     },
     "Sun's Fury": {
       "name": "サンズ・フューリー/Sun's Fury",
-      "description": "<p>古き太陽神々は、ウォルケナとの戦いにおけるあなたへの贈り物を与えた。あなたは@UUID[Compendium.pf2e.spells-srd.Item.LrFUj76CHDBV0vHW]{サンズ・フューリー}フォーカス呪文を得る。もしあなたが既に持っていないなら、あなたは1ポイントのフォーカスプールを得て、古き太陽神々に祈るために〔再フォーカス〕行動を用いることで再取得できる。このフォーカスプールを持っている場合は、フォーカスプール内のフォーカスポイントの数を1増加させる。あなたのブライトライオンのフォーカス呪文は神聖な呪文であり、この特技を得るとき、あなたがすでにそうでないなら、神聖呪文攻撃と呪文DCの際に訓練済みになる。魅力を呪文キャスティング能力値として使用する。</p>",
+      "description": "<p>古き太陽神々は、ウォルケナとの戦いにおけるあなたへの贈り物を与えた。あなたは@UUID[Compendium.pf2e.spells-srd.Item.LrFUj76CHDBV0vHW]{サンズ・フューリー}フォーカス呪文を得る。もしあなたが既に持っていないなら、あなたは1ポイントのフォーカス・プールを得て、古き太陽神々に祈るために〔再フォーカス〕行動を用いることで再取得できる。このフォーカス・プールを持っている場合は、フォーカス・プール内のフォーカス・ポイントの数を1増加させる。あなたのブライトライオンのフォーカス呪文は神聖な呪文であり、この特技を得るとき、あなたがすでにそうでないなら、神聖呪文攻撃と呪文DCの際に訓練済みになる。魅力を呪文キャスティング能力値として使用する。</p>",
       "source": "Pathfinder Lost Omens Legends",
       "prerequisites": [
         {
@@ -44848,7 +44848,7 @@
     },
     "Domain Focus": {
       "name": "領域のフォーカス/Domain Focus",
-      "description": "<p>あなたの神格への献身は強まっていき、そのため授けられる力も強まる。あなたが〔再フォーカス〕するたびに、あなたのフォーカスプールを完全に再充填する。</p>",
+      "description": "<p>あなたの神格への献身は強まっていき、そのため授けられる力も強まる。あなたが〔再フォーカス〕するたびに、あなたのフォーカス・プールを完全に再充填する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -45029,7 +45029,7 @@
     },
     "Rites of Liberation": {
       "name": "ライツ・オブ・リバレイション/Rites of Liberation",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.4ddJSjC9Zz5DX0oG]{フリーダム}儀式を学ぶ。儀式を唱える際に追加でミシック・ポイントを支払うと、発動時間が1時間に短縮され、主要な術者と副術者はそれぞれのスキル判定を神話級の熟練度で試みる。儀式でクリティカル失敗する場合、代わりに失敗する。また、あなたは@UUID[Compendium.pf2e.spells-srd.Item.gwOYh5zMVZB0HNcT]{アンインピーディド・ストライド}と@UUID[Compendium.pf2e.spells-srd.Item.2jB9eyX7YekwoCvA]{ワード・オヴ・フリーダム}の領域呪文を獲得する。これらはフォーカス呪文で、あなたには2フォーカスポイントのフォーカスプールが与えられるか、既にある場合はそのプールが拡大する。自由と自由性の概念を瞑想する際に、あなたは〔再フォーカス〕することができる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.4ddJSjC9Zz5DX0oG]{フリーダム}儀式を学ぶ。儀式を唱える際に追加でミシック・ポイントを支払うと、発動時間が1時間に短縮され、主要な術者と副術者はそれぞれのスキル判定を神話級の熟練度で試みる。儀式でクリティカル失敗する場合、代わりに失敗する。また、あなたは@UUID[Compendium.pf2e.spells-srd.Item.gwOYh5zMVZB0HNcT]{アンインピーディド・ストライド}と@UUID[Compendium.pf2e.spells-srd.Item.2jB9eyX7YekwoCvA]{ワード・オヴ・フリーダム}の領域呪文を獲得する。これらはフォーカス呪文で、あなたには2フォーカス・ポイントのフォーカス・プールが与えられるか、既にある場合はそのプールが拡大する。自由と自由性の概念を瞑想する際に、あなたは〔再フォーカス〕することができる。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
@@ -45234,7 +45234,7 @@
     },
     "Shield of Faith": {
       "name": "シールド・オブ・フェイス/Shield of Faith",
-      "description": "<p>あなたの領域呪文からの残留エネルギーが防御を強化する。フォーカスポイントを使って領域呪文を唱えると、あなたはACに+1の状態ボーナスを得る。あなたの次のターン開始時まで。</p>\n<p> @UUID[Compendium.pf2e.feat-effects.Item.5uMMLUvJOEmfMgeV]{効果: シールド of Faith} </p>",
+      "description": "<p>あなたの領域呪文からの残留エネルギーが防御を強化する。フォーカス・ポイントを使って領域呪文を唱えると、あなたはACに+1の状態ボーナスを得る。あなたの次のターン開始時まで。</p>\n<p> @UUID[Compendium.pf2e.feat-effects.Item.5uMMLUvJOEmfMgeV]{効果: シールド of Faith} </p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -45482,7 +45482,7 @@
     },
     "Basic Bloodline Spell": {
       "name": "ベーシック・ブラッドライン・スペル/Basic Bloodline Spell",
-      "description": "<p>あなたは自分の血脈の最初の血脈呪文を獲得する。もしまだ持っていない場合、1つのフォーカスポイントのフォーカスプールも獲得し、特別な努力なしに〔再フォーカス〕することができる。</p>",
+      "description": "<p>あなたは自分の血脈の最初の血脈呪文を獲得する。もしまだ持っていない場合、1つのフォーカス・ポイントのフォーカス・プールも獲得し、特別な努力なしに〔再フォーカス〕することができる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -45742,7 +45742,7 @@
     },
     "Qi Center": {
       "name": "チー・センター/Qi Center",
-      "description": "<p><strong>使用制限</strong>1分につき1回</p><hr /><p>あなたはあなた自身を宇宙の中心に置き、その広大な力を引き出す。あなたはフォーカスポイントを使わずに立ちポーズトレイトを持つ単一アクションの気の呪文をキャストする。</p>",
+      "description": "<p><strong>使用制限</strong>1分につき1回</p><hr /><p>あなたはあなた自身を宇宙の中心に置き、その広大な力を引き出す。あなたはフォーカス・ポイントを使わずに立ちポーズトレイトを持つ単一アクションの気の呪文をキャストする。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -46565,7 +46565,7 @@
     },
     "Desperate Prayer": {
       "name": "デスペレイト・プレイヤー/Desperate Prayer",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたはターンの開始時にフォーカスポイントを持っていない。</p><hr /><p>あなたは自分の神格に助けを求めるように呼びかける。あなたは1つのフォーカスポイントを得るが、それは献身呪文を唱えるためだけに使える。このフォーカスポイントをこのターンの終了時までに使用しなければ失われる。</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>トリガー</strong>あなたはターンの開始時にフォーカス・ポイントを持っていない。</p><hr /><p>あなたは自分の神格に助けを求めるように呼びかける。あなたは1つのフォーカス・ポイントを得るが、それは献身呪文を唱えるためだけに使える。このフォーカス・ポイントをこのターンの終了時までに使用しなければ失われる。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Dragonet Immunities": {
@@ -47089,7 +47089,7 @@
     },
     "Perfect Ki Expert": {
       "name": "パーフェクト・キー・エキスパート/Perfect Ki Expert",
-      "description": "<p>あなたは、あなたのパーフェクションの学校に適した気の呪文を得る：@UUID[Compendium.pf2e.spells-srd.Item.floDCUOSzT0F6r77]{アンブリンキング・フレイム・オーラ}不動の炎の、 @UUID[Compendium.pf2e.spells-srd.Item.ZQk2cGBCkATO25w0]{アンブレイキング・ウェイヴ・ベイパー}不壊の波の、 @UUID[Compendium.pf2e.spells-srd.Item.ALuvl9GYawnsZZCx]{アンフォールディング・ウィンド・ビュッフェ}展開する風の、または@UUID[Compendium.pf2e.spells-srd.Item.9o5aG5025ZczjkPb]{ウントウィスティング・アイアン・ルーツ}反転する鉄の。 増加あなたの焦点プール内のフォーカスポイントの数を1増加させる。あなたはオカルト呪文DCとオカルト呪文攻撃ロールの専門家となる。</p>",
+      "description": "<p>あなたは、あなたのパーフェクションの学校に適した気の呪文を得る：@UUID[Compendium.pf2e.spells-srd.Item.floDCUOSzT0F6r77]{アンブリンキング・フレイム・オーラ}不動の炎の、 @UUID[Compendium.pf2e.spells-srd.Item.ZQk2cGBCkATO25w0]{アンブレイキング・ウェイヴ・ベイパー}不壊の波の、 @UUID[Compendium.pf2e.spells-srd.Item.ALuvl9GYawnsZZCx]{アンフォールディング・ウィンド・ビュッフェ}展開する風の、または@UUID[Compendium.pf2e.spells-srd.Item.9o5aG5025ZczjkPb]{ウントウィスティング・アイアン・ルーツ}反転する鉄の。 増加あなたの焦点プール内のフォーカス・ポイントの数を1増加させる。あなたはオカルト呪文DCとオカルト呪文攻撃ロールの専門家となる。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -48450,7 +48450,7 @@
     },
     "Perfect Strike": {
       "name": "パーフェクト・ストライク/Perfect Strike",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.GQopUYTuhmtb7WMG]{パーフェクト・ストライク}の気の呪文を得る。増加あなたのフォーカスプール内のフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.GQopUYTuhmtb7WMG]{パーフェクト・ストライク}の気の呪文を得る。増加あなたのフォーカス・プール内のフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
@@ -48734,7 +48734,7 @@
     },
     "Spellmaster's Ward": {
       "name": "スペルマスターズ・ウォード/Spellmaster's Ward",
-      "description": "<p>あなたは、危険な呪文に対する防御を強化する強力なシールドルーンを作成することができ、エネルギーの最悪の部分を吸収して安全を保つ。あなたは@UUID[Compendium.pf2e.spells-srd.Item.VrhCpCIQB8PFax77]{スペルマスターズ・ウォード}フォーカス呪文を得る。 増加フォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは、危険な呪文に対する防御を強化する強力なシールドルーンを作成することができ、エネルギーの最悪の部分を吸収して安全を保つ。あなたは@UUID[Compendium.pf2e.spells-srd.Item.VrhCpCIQB8PFax77]{スペルマスターズ・ウォード}フォーカス呪文を得る。 増加フォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
         {
@@ -49407,7 +49407,7 @@
     },
     "Cathartic Focus Spell": {
       "name": "カサーティック・フォーカス・スペル/Cathartic Focus Spell",
-      "description": "<p>あなたは感情のエントリーに記載されているフォーカス呪文を学ぶ。あなたは感情の高まりの中でのみそれを唱えることができる。すでに持っていない場合、あなたは1点のフォーカスポイントを持つフォーカスプールを得て、@UUID[Compendium.pf2e.actionspf2e.Item.EhLvRWFKhZ3HtrZO]{〈セトル・エモーションズ〉}を使用する際にそれを〔再フォーカス〕することができる。</p>",
+      "description": "<p>あなたは感情のエントリーに記載されているフォーカス呪文を学ぶ。あなたは感情の高まりの中でのみそれを唱えることができる。すでに持っていない場合、あなたは1点のフォーカス・ポイントを持つフォーカス・プールを得て、@UUID[Compendium.pf2e.actionspf2e.Item.EhLvRWFKhZ3HtrZO]{〈セトル・エモーションズ〉}を使用する際にそれを〔再フォーカス〕することができる。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
@@ -49570,7 +49570,7 @@
     },
     "Conflux Focus": {
       "name": "コンフラックス・フォーカス/Conflux Focus",
-      "description": "<p>あなたは未来の戦闘における魔法と戦闘の織り交ぜ方を想像し、集中力を向上させる。</p>\n<p>もしあなたが前回@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}以来、少なくとも2つのフォーカスポイントを使った場合、あなたは〔再フォーカス〕を行うときに1ではなく2つのフォーカスポイントを回復する。</p>",
+      "description": "<p>あなたは未来の戦闘における魔法と戦闘の織り交ぜ方を想像し、集中力を向上させる。</p>\n<p>もしあなたが前回@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}以来、少なくとも2つのフォーカス・ポイントを使った場合、あなたは〔再フォーカス〕を行うときに1ではなく2つのフォーカス・ポイントを回復する。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
@@ -49866,7 +49866,7 @@
     },
     "Lifelink Surge": {
       "name": "ライフリンク・サージ/Lifelink Surge",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.lOZhcvtej10TqlQm]{ライフリンク・サージ}のリンク呪文を学ぶ。増加フォーカスポイントをあなたのフォーカスプールに1増加させる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.lOZhcvtej10TqlQm]{ライフリンク・サージ}のリンク呪文を学ぶ。増加フォーカス・ポイントをあなたのフォーカス・プールに1増加させる。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Versatile Font": {
@@ -50319,7 +50319,7 @@
     },
     "Jalmeri Heavenseeker Dedication": {
       "name": "ジャルメリ・ヘブンシーカー・デディケーション/Jalmeri Heavenseeker Dedication",
-      "description": "<p>あなたは訓練済みになり、《軽業》か《神秘学》のいずれかのスキルである；もしすでにこれら両方のスキルで訓練済みであれば、そのうちの1つのスキルでエキスパートになる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.yA9tsWT9uzL2REnw]{チー・スペルズ}の僧侶の特技を得て、1のフォーカスポイントを持つ気の呪文とフォーカスプールを得る。それを僧侶のように@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}活動を使って回復できる。もしすでに気の呪文の特技を持っている場合、代わりに単一の1レベル僧侶特技を選ぶことができる。</p><hr /><p><strong>特別</strong>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.NaG4fy33coUdSFtH]{Jalmeri Heavenseeker}か@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.EwlYs1OzaMj9BB5I]{Student of Perfection}のアーキタイプから他の2つの特技を得るまで、他の献身の特技を選べない。</p>",
+      "description": "<p>あなたは訓練済みになり、《軽業》か《神秘学》のいずれかのスキルである；もしすでにこれら両方のスキルで訓練済みであれば、そのうちの1つのスキルでエキスパートになる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.yA9tsWT9uzL2REnw]{チー・スペルズ}の僧侶の特技を得て、1のフォーカス・ポイントを持つ気の呪文とフォーカス・プールを得る。それを僧侶のように@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}活動を使って回復できる。もしすでに気の呪文の特技を持っている場合、代わりに単一の1レベル僧侶特技を選ぶことができる。</p><hr /><p><strong>特別</strong>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.NaG4fy33coUdSFtH]{Jalmeri Heavenseeker}か@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.EwlYs1OzaMj9BB5I]{Student of Perfection}のアーキタイプから他の2つの特技を得るまで、他の献身の特技を選べない。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -50733,11 +50733,11 @@
     },
     "Runic Impression": {
       "name": "ルーニック・インプレッション/Runic Impression",
-      "description": "<p>あなたは武器または素手攻撃のためにプロパティルーンの効果を一時的に複製することができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.oOaEfsdVpgTXRhrY]{ルーニック・インプレッション}のアトリビュート呪文を学ぶ。</p>\n<p>増加あなたのフォーカスポイントの数を1増加させる。</p>",
+      "description": "<p>あなたは武器または素手攻撃のためにプロパティルーンの効果を一時的に複製することができる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.oOaEfsdVpgTXRhrY]{ルーニック・インプレッション}のアトリビュート呪文を学ぶ。</p>\n<p>増加あなたのフォーカス・ポイントの数を1増加させる。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
-          "value": "フォーカスプール"
+          "value": "フォーカス・プール"
         }
       ]
     },
@@ -50991,7 +50991,7 @@
     },
     "Brain Drain": {
       "name": "ブレイン・ドレイン/Brain Drain",
-      "description": "<p>意志を搾り取ることで、あなたはクリーチャーの精神エネルギーを吸収し、自分のものを補充する。30フィート内の1体の非無心のクリーチャーは、あなたの呪文DCに対して@Check[will|against:occult|options:inflicts:stupefied]セーヴを行わなければならない。</p><hr /><p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}の間1分になり、あなたは1つのフォーカスポイントを回復し、通常の最大値まで回復する。あなたは次に日課の準備を行うまで、ブレインドレインを再び使用できない。</p>\n<p><strong>クリティカル失敗</strong>失敗として、クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁2}状態になる。</p>",
+      "description": "<p>意志を搾り取ることで、あなたはクリーチャーの精神エネルギーを吸収し、自分のものを補充する。30フィート内の1体の非無心のクリーチャーは、あなたの呪文DCに対して@Check[will|against:occult|options:inflicts:stupefied]セーヴを行わなければならない。</p><hr /><p><strong>成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}の間1分になり、あなたは1つのフォーカス・ポイントを回復し、通常の最大値まで回復する。あなたは次に日課の準備を行うまで、ブレインドレインを再び使用できない。</p>\n<p><strong>クリティカル失敗</strong>失敗として、クリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁2}状態になる。</p>",
       "source": "Pathfinder Dark Archive (Remastered)"
     },
     "Dragon's Flight": {
