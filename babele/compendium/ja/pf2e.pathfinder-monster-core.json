@@ -11091,7 +11091,7 @@
           "description": "<p>シー・サーペントの首の周りにあるバラスト器官内の水は、向精神性の藻類で満たされている。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:34]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となり、飛行中の場合は毎ターンの最初のアクションを消費して20フィート降下する( 1ラウンド)</p>\n<p><strong>第2段階</strong>混乱状態となり、飛行中の場合は地面または下の水面に達するまで降下する( 1ラウンド)</p>"
         },
         "d3l2xwpTV1XkZBAO": {
-          "name": "スパイン・レイク/Spine Rake",
+          "name": "スパイン・レーキ/Spine Rake",
           "description": "<p>そのシー・サーペントは背中の棘を広げ、水泳(Swim)またはストライド(Stride)を行う。移動中のいずれかの時点でサーペントに隣接した各クリーチャーは、@Damage[(4d6+8)[slashing]]ダメージを受ける(@Check[reflex|dc:32|basic]セーヴ)。</p>"
         },
         "4tsSsz41K5abcM8D": {
@@ -11843,7 +11843,7 @@
           "name": "コンスタント・スペルズ"
         },
         "1uZuWVNr0woQanKG": {
-          "name": "クロー・レイク/Claw Rake",
+          "name": "クロー・レーキ/Claw Rake",
           "description": "<p>そのスフィンクスは後ろ足で立ち上がり、同じ対象に対して2回の爪のストライクを行う。その際、最も高い近接攻撃と同じ攻撃ボーナスを使用する。両方の攻撃がダメージを与えた場合、対象は爪の〈ストライク〉1回分に等しい追加ダメージを受ける。</p>"
         },
         "XbyGgxrnfchvOdm3": {

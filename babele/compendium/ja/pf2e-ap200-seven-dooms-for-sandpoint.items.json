@@ -3643,11 +3643,11 @@
       "description": "<p>グラブレズの嘘は彼らを維持し、真実は彼らを滅ぼしうる。啓示効果がグラブレズの幻影を相殺または露呈させたとき、あるいはグラブレズが嘘をつくことを妨げる効果(@UUID[Compendium.pf2e.spells-srd.Item.aewxsale5xWEPKLk]{リング・オブ・トゥルース}など)に対するセーヴに失敗したとき、そのデーモンは@Damage[3d6[mental]]ダメージを受ける。このダメージは、その効果が複数の幻影を露呈させたり、複数の嘘を妨げたりした場合であっても、効果ごとに1回しか受けない。</p>"
     },
     "pl4CFdDU1X88olbS": {
-      "name": "キャプティブ・レイク/Captive Rake",
+      "name": "キャプティブ・レーキ/Captive Rake",
       "description": "<p><strong>必要条件</strong>クリーチャーがグラブレズのハサミで@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態になっている。</p>\n<hr />\n<p><strong>効果</strong>グラブレズは掴んでいるクリーチャーを最大5フィート引き寄せ、その後それに対して2回の爪のストライクを行う。それらのストライクは、裏切りのデーモンのマルチアタック・ペナルティを決定する際には1回の攻撃として数えられ、ペナルティは両方のストライクが終わるまで増加しない。</p>"
     },
     "Captive Rake": {
-      "name": "キャプティブ・レイク",
+      "name": "キャプティブ・レーキ",
       "description": "<p><strong>必要条件</strong>クリーチャーがグラブレズのハサミで@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態になっている。</p>\n<hr />\n<p><strong>効果</strong>グラブレズは掴んでいるクリーチャーを最大5フィート引き寄せ、その後それに対して2回の爪のストライクを行う。それらのストライクは、裏切りのデーモンのマルチアタック・ペナルティを決定する際には1回の攻撃として数えられ、ペナルティは両方のストライクが終わるまで増加しない。</p>"
     },
     "fRDoPX53siUmNijE": {

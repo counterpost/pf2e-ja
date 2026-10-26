@@ -12359,7 +12359,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Spiteful Rake": {
-      "name": "スパイトフル・レイク/Spiteful Rake",
+      "name": "スパイトフル・レーキ/Spiteful Rake",
       "description": "<p><strong>必要条件</strong>あなたは両手が自由である。</p>\n<hr />\n<p>あなたの本能は恨みと悪意を歌い、あなたは壊滅的なトリックを学んだ：目を狙え。あなたは爪による〔ストライク〕を行う。命中してダメージを与えた場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}され1ラウンド。クリティカルヒットの場合、対象は代わりに@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}され、1ラウンドの間眩惑するまで最大ヒットポイントに回復する。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
@@ -16890,7 +16890,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Tangled Forest Rake": {
-      "name": "タングルド・フォレスト・レイク/Tangled Forest Rake",
+      "name": "タングルド・フォレスト・レーキ/Tangled Forest Rake",
       "description": "<p><strong>必要条件</strong>あなたは絡まりし森構え状態である。</p><hr /><p>あなたは引き裂く攻撃で敵の位置をずらす。打ち付ける枝による〈ストライク〉を行う。ヒットしてダメージを与えたなら、対象を最大10フィートまで@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}ことができる。この移動の間、対象をあなたの占めるマスを通って移動させることができる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
