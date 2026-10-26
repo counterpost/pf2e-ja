@@ -36239,7 +36239,7 @@
       ]
     },
     "Arcane School Spell": {
-      "name": "アーケイン・スクール・スペル/Arcane School Spell",
+      "name": "秘術学派呪文/Arcane School Spell",
       "description": "<p>あなたは学校の初期の学校呪文を得る。もし既に持っていなければ、1つのフォーカス・ポイントのフォーカス・プールを得て、これを勉強することで@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}できる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
