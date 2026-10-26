@@ -102,11 +102,11 @@
       "description": "<p><strong>使用制限</strong> 10分に1回 </p>\n<hr />\n<p><strong>効果</strong> モボゴは轟くような鳴き声を上げる。50フィート以内のすべてのボガードとモボゴは、1ラウンドの間、ダメージ・ロールと恐怖に対するセーヴィング・スローに+2の状況ボーナスを得る。効果範囲内の他のクリーチャーは@Template[type:emanation|distance:50]{50フィート} @Check[type:will|dc:27]セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>成功</strong> そのクリーチャーは影響を受けず、24時間の間、一時的免疫を得る。</p>\n<p><strong>失敗</strong> そのクリーチャーは[[/br 1d4 #Duration Slowed]]{1d4ラウンド}の間、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{減速1}状態となる。</p>\n<p><strong>クリティカル失敗</strong> そのクリーチャーは[[/br 1d4 #Duration Slowed]]{1d4ラウンド}の間、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{減速2}状態となる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.hftFxE8JGJGzXAtU]{効果: 沼地の歌}</p>"
     },
     "Ad7v2ldIjRYpmP6V": {
-      "name": "スワロウ・ホール/Swallow Whole",
+      "name": "スワロー・ホール/Swallow Whole",
       "description": "<p>大型、@Damage[(2d12+6)[bludgeoning]]、破裂19</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
     },
     "Swallow Whole": {
-      "name": "スワロウ・ホール",
+      "name": "スワロー・ホール",
       "description": "<p>大型、@Damage[(2d12+6)[bludgeoning]]、破裂19</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
     },
     "2BRmODyR3yH6ev3Q": {
@@ -126,11 +126,11 @@
       "description": "<p>モボゴの舌にヒットされたクリーチャーは、モボゴによって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{つかみ状態}となる。そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能状態}ではないが、モボゴの舌のリーチを超えて移動することはできない。</p>\n<p>クリーチャーは、AC 27に対して少なくとも10の斬撃ダメージを与える〈ストライク〉を行うことで、舌を切断できる。これはモボゴにダメージを与えないが、舌が再生するまでの間、モボゴは舌による〈ストライク〉を使用できなくなる。舌の再生には1ラウンドかかる。</p>\n<p>モボゴは、そのクリーチャーが舌のリーチ内に留まっている限り、つかみ状態を終了させることなく移動できる。</p>"
     },
     "phtWMfKuIsMCi5cE": {
-      "name": "タン・リポジション/Tongue Reposition",
+      "name": "タング・リポジション/Tongue Reposition",
       "description": "<p>モボゴは、舌で@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{つかみ状態}のクリーチャーを移動させようと試みる。モボゴは@Check[type:athletics|defense:fortitude] 判定を行い、そのクリーチャーの頑健 DCと比べる。</p>\n<p>成功すると、モボゴはそのクリーチャーを舌のリーチ内の任意のマスへ移動させる。モボゴは望むなら、つかみ状態のクリーチャーを自身の顎へ移すことができる。</p>"
     },
     "Tongue Reposition": {
-      "name": "タン・リポジション",
+      "name": "タング・リポジション",
       "description": "<p>モボゴは、舌で@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{つかみ状態}のクリーチャーを移動させようと試みる。モボゴは@Check[type:athletics|defense:fortitude] 判定を行い、そのクリーチャーの頑健 DCと比べる。</p>\n<p>成功すると、モボゴはそのクリーチャーを舌のリーチ内の任意のマスへ移動させる。モボゴは望むなら、つかみ状態のクリーチャーを自身の顎へ移すことができる。</p>"
     },
     "tetpWKxbpwLYXdRP": {
@@ -187,11 +187,11 @@
       "description": "<p>90フィート。@Check[type:will|dc:31]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
     },
     "D4C1yHkCqpQckxgr": {
-      "name": "テイル・ラッシュ/Tail Lash",
+      "name": "テール・ラッシュ/Tail Lash",
       "description": "<p><strong>トリガー</strong> ドラゴンのリーチ内にいるクリーチャーが、〈ストライク〉を行うか、スキル判定を行うアクションをとる。</p>\n<hr />\n<p><strong>効果</strong> ドラゴンはトリガーとなったクリーチャーに対して-2のペナルティで尾による〈ストライク〉を行う。ヒットした場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: 尾の強打 (攻撃ロール)}</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.4HJJdogS751Z04lD]{効果: 尾の強打 (スキル 判定)}</p>"
     },
     "Tail Lash": {
-      "name": "テイル・ラッシュ",
+      "name": "テール・ラッシュ",
       "description": "<p><strong>トリガー</strong> ドラゴンのリーチ内にいるクリーチャーが、〈ストライク〉を行うか、スキル判定を行うアクションをとる。</p>\n<hr />\n<p><strong>効果</strong> ドラゴンは　トリガーとなったクリーチャーに対して-2のペナルティで尾による〈ストライク〉を行う。ヒットした場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: 尾の強打 (攻撃ロール)}</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.4HJJdogS751Z04lD]{効果: 尾の強打 (スキル 判定)}</p>"
     },
     "GeAJNEdtRdXSvZvk": {
@@ -403,11 +403,11 @@
       "name": "コンポジット・ショートボウ"
     },
     "lKCBlYHM1b1jr4kU": {
-      "name": "デヴィルズ・ブレス/Devil's Breath",
+      "name": "デビルズ・ブレス/Devil's Breath",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>昇華した門弟は、手に持った斬撃武器で自身の舌を切り(@Damage[1[slashing]]ダメージを受ける)、燃える煙の@Template[type:cone|distance:15]を吐き出す。範囲内の各クリーチャーは@Check[type:reflex|dc:22]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@Damage[2d8[fire]]ダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは@Damage[4d8[fire]]ダメージを受け、火傷の激痛により@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@Damage[6d8[fire]]ダメージを受け、火傷の激痛によりシックンド1状態となり、さらに煙によって1分の間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となる。</p>"
     },
     "Devil's Breath": {
-      "name": "デヴィルズ・ブレス",
+      "name": "デビルズ・ブレス",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>昇華した門弟は、手に持った斬撃武器で自身の舌を切り(@Damage[1[slashing]]ダメージを受ける)、それから燃える煙の@Template[type:cone|distance:15]を吐き出す。範囲内の各クリーチャーは@Check[type:reflex|dc:22]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@Damage[2d8[fire]]ダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは@Damage[4d8[fire]]ダメージを受け、火傷の激痛により@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@Damage[6d8[fire]]ダメージを受け、火傷の激痛により病気持ち1状態となり、さらに煙によって1分の間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となる。</p>"
     },
     "QaupL7Xcp6m5YmUB": {
@@ -553,11 +553,11 @@
       "description": "<p><strong>必要条件</strong>グールが、過去1時間以内に死亡したクリーチャーの死体に隣接している。</p>\n<hr />\n<p><strong>効果</strong>グールは死体の一部を貪り食い、[[/r 1d6[healing]]]のヒット・ポイントを回復する。</p>\n<p>グールがいかなる死体からでもヒット・ポイントを回復できるのは、1回限りである。</p>"
     },
     "oa6JQCeL4B2WQMPI": {
-      "name": "グール・フィーヴァー/Ghoul Fever",
+      "name": "グール・フィーバー/Ghoul Fever",
       "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:15]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[2d6[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中にグールとして立ち上がる。@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.LHHgGSs0ELCR4CYK]{Ghoul}</p>"
     },
     "Ghoul Fever": {
-      "name": "グール・フィーヴァー",
+      "name": "グール・フィーバー",
       "description": "<p><strong>セーヴィング・スロー</strong> @Check[type:fortitude|dc:15]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[2d6[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中にグールとして立ち上がる。@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.LHHgGSs0ELCR4CYK]{Ghoul}</p>"
     },
     "9TCF9GcaMoTKkPSj": {
@@ -1159,11 +1159,11 @@
       "description": "<p>シャンタクの鱗は滑りやすい粘液で覆われているため、シャンタクは@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}に＋3の状況ボーナスを得る。</p>\n<p>シャンタクに騎乗しているクリーチャーは、騎乗中、反応セーヴに対する通常の状況ペナルティが2倍になる(ほとんどの場合、－2ではなく－4となる)。</p>"
     },
     "tX7g78Vle2NcjulW": {
-      "name": "フライング・ストレイフ/Flying Strafe",
+      "name": "フライング・ストレーフ/Flying Strafe",
       "description": "<p>シャンタクは自身の飛行移動速度まで飛行し、その移動中の任意の時点で2回の　爪のストライクを行う。各〈ストライク〉は異なるクリーチャーを対象としなければならない。これらの攻撃は通常のマルチアタック・ペナルティを受ける。</p>"
     },
     "Flying Strafe": {
-      "name": "フライング・ストレイフ",
+      "name": "フライング・ストレーフ",
       "description": "<p>シャンタクは自身の飛行移動速度まで飛行し、その移動中の任意の時点で2回の　爪のストライクを行う。各〈ストライク〉は異なるクリーチャーを対象としなければならない。これらの攻撃は通常のマルチアタック・ペナルティを受ける。</p>"
     },
     "iJaSMrCi07AzcK4L": {
@@ -1559,7 +1559,7 @@
       "name": "ダガー"
     },
     "dyNhPooeY6ACzEdg": {
-      "name": "デヴィルズ・ブレス",
+      "name": "デビルズ・ブレス",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>デヴィルの使徒は手に持った斬撃武器で自身の舌を切り(@Damage[1[slashing]]ダメージを受ける)、その後、燃える煙の@Template[type:cone|distance:15]を吐き出す。範囲内にいる各クリーチャーは@Check[type:reflex|dc:18]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@Damage[1d8[fire]]ダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは@Damage[2d8[fire]]ダメージを受け、火傷の激痛により@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@Damage[4d8[fire]]ダメージを受け、火傷の激痛によりsickened 1状態となり、さらに煙によって1分の間、@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となる。</p>"
     },
     "wLSyDiWVFxcv4ShC": {
@@ -1591,11 +1591,11 @@
     },
     "dkfqFFDoPeLbQKNp": {
       "name": "構造体の装甲(硬度7)/Construct Armor (Hardness 7)",
-      "description": "<p>通常の物体と同様に、アニメイテッド・スタチューは硬度を持つ。この硬度は、それが受けるあらゆるダメージを、その硬度に等しい値だけ減少させる。</p>\n<p>アニメイテッド・スタチューのヒット・ポイントが半分未満になった時点、あるいはクリティカルヒットによってダメージを受けた直後に、そのコンストラクト・アーマーは破壊され、そのアーマー・クラスは15に減少する。</p>"
+      "description": "<p>通常の物体と同様に、アニメーテッド・スタチューは硬度を持つ。この硬度は、それが受けるあらゆるダメージを、その硬度に等しい値だけ減少させる。</p>\n<p>アニメーテッド・スタチューのヒット・ポイントが半分未満になった時点、あるいはクリティカルヒットによってダメージを受けた直後に、そのコンストラクト・アーマーは破壊され、そのアーマー・クラスは15に減少する。</p>"
     },
     "Construct Armor (Hardness 7)": {
       "name": "構造体の装甲(硬度7)",
-      "description": "<p>通常の物体と同様に、アニメイテッド・スタチューは硬度を持つ。この硬度は、それが受けるあらゆるダメージを、その硬度に等しい値だけ減少させる。</p>\n<p>アニメイテッド・スタチューのヒット・ポイントが半分未満になった時点、あるいはクリティカルヒットによってダメージを受けた直後に、そのコンストラクト・アーマーは破壊され、そのアーマー・クラスは15に減少する。</p>"
+      "description": "<p>通常の物体と同様に、アニメーテッド・スタチューは硬度を持つ。この硬度は、それが受けるあらゆるダメージを、その硬度に等しい値だけ減少させる。</p>\n<p>アニメーテッド・スタチューのヒット・ポイントが半分未満になった時点、あるいはクリティカルヒットによってダメージを受けた直後に、そのコンストラクト・アーマーは破壊され、そのアーマー・クラスは15に減少する。</p>"
     },
     "jXA5HoAgw4h7Xg7Y": {
       "name": "ドッグスライサー/Dogslicer"
@@ -2298,11 +2298,11 @@
       "name": "ショートボウ"
     },
     "uxi7mZBlBZgzITyC": {
-      "name": "デヴィルズ・カースト・ブレス/Devil's Cursed Breath",
+      "name": "デビルズ・カースト・ブレス/Devil's Cursed Breath",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>アスメレリは自身の舌を噛み切り(@Damage[1[slashing]]のダメージを受ける)、それから燃える煙の@Template[type:cone|distance:15]を吐き出す。範囲内にいる各クリーチャーは@Check[type:reflex|dc:24]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@Damage[3d8[fire]]のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは@Damage[6d8[fire]]のダメージを受け、火傷の苦痛により@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@Damage[6d8[fire]]のダメージを受け、火傷の苦痛により病気状態1となり、呪われる。犠牲者の火傷は完全には消えず、呪われたクリーチャーは絶え間ない苦痛によりすべての攻撃に－2の状況ペナルティを受ける。治癒は火傷の外見を変えたりペナルティを軽減したりはしないが、呪いを解除すればそうなる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果: デヴィルの呪われし吐息}</p>"
     },
     "Devil's Cursed Breath": {
-      "name": "デヴィルズ・カースト・ブレス",
+      "name": "デビルズ・カースト・ブレス",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>アスメレリは自身の舌を噛み切り(@Damage[1[slashing]]のダメージを受ける)、それから燃える煙の@Template[type:cone|distance:15]を吐き出す。範囲内にいる各クリーチャーは@Check[type:reflex|dc:24]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@Damage[3d8[fire]]のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは@Damage[6d8[fire]]のダメージを受け、火傷の苦痛により@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@Damage[6d8[fire]]のダメージを受け、火傷の苦痛により病気状態1となり、呪われる。犠牲者の火傷は完全には消えず、呪われたクリーチャーは絶え間ない苦痛によりすべての攻撃に－2の状況ペナルティを受ける。治癒は火傷の外見を変えたりペナルティを軽減したりはしないが、呪いを解除すればそうなる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果: デヴィルの呪われし吐息}</p>"
     },
     "zrZA50r5Dh8VELO4": {
@@ -2592,7 +2592,7 @@
     },
     "oKuYToU9Nv9ALIIv": {
       "name": "リジュヴェネーション",
-      "description": "<p>グレイヴナイトが破壊されたとき、その鎧は[[/br 1d10 #days]]{1d10日}かけてその肉体を再構築する。生きた宿主がその鎧を着用している場合は、より早く再構築される。それまでに肉体が破壊された場合、プロセスは再スタートする。</p>\n<p>グレイヴナイトを永久に破壊するには、その鎧を完全に消滅させる(@UUID[Compendium.pf2e.spells-srd.Item.r7ihOgKv19eJQnik]{ディスインテグレイト}などを使用する)、それをクリエイションのフォージに運ぶ、または火山の中心部に投げ入れるしかない。</p>"
+      "description": "<p>グレイヴナイトが破壊されたとき、その鎧は[[/br 1d10 #days]]{1d10日}かけてその肉体を再構築する。生きた宿主がその鎧を着用している場合は、より早く再構築される。それまでに肉体が破壊された場合、プロセスは再スタートする。</p>\n<p>グレイヴナイトを永久に破壊するには、その鎧を完全に消滅させる(@UUID[Compendium.pf2e.spells-srd.Item.r7ihOgKv19eJQnik]{ディスインテグレート}などを使用する)、それをクリエイションのフォージに運ぶ、または火山の中心部に投げ入れるしかない。</p>"
     },
     "xH6NrBw4bYEHU7e3": {
       "name": "サクリリジャス・オーラ/Sacrilegious Aura",
@@ -2606,11 +2606,11 @@
       "name": "ヴォイド・ヒーリング"
     },
     "1UmNfowZ4HWxS9rx": {
-      "name": "デヴァステイティング・ブラスト/Devastating Blast",
+      "name": "デバステーティング・ブラスト/Devastating Blast",
       "description": "<p>グレイヴナイトはエネルギーの@Template[type:cone|distance:30]を放出する。エリア内のクリーチャーは@Damage[4d12[fire]]ダメージを受ける(@Check[type:reflex|dc:24|basic:true]セーヴ)。</p>\n<p>グレイヴナイトはこの能力を[[/br 1d4 #Recharge Devastating Blast]]{1d4ラウンド}に1回使用できる。</p>"
     },
     "Devastating Blast": {
-      "name": "デヴァステイティング・ブラスト",
+      "name": "デバステーティング・ブラスト",
       "description": "<p>グレイヴナイトはエネルギーの@Template[type:cone|distance:30]を放出する。エリア内のクリーチャーは@Damage[4d12[fire]]ダメージを受ける(@Check[type:reflex|dc:24|basic:true]セーヴ)。</p>\n<p>グレイヴナイトはこの能力を[[/br 1d4 #Recharge Devastating Blast]]{1d4ラウンド}に1回使用できる。</p>"
     },
     "oVn3oZARiqT7Hf3P": {
@@ -2743,7 +2743,7 @@
       "name": "テレパシー(60フィート)"
     },
     "MzHIjOVqhOXnluws": {
-      "name": "エクスティングイッシング・アヴァージョン/Extinguishing Aversion",
+      "name": "エクスティングイッシング・アバージョン/Extinguishing Aversion",
       "description": "<p>ブリモラックに水を浴びせる(普通の水であれ、水の効果によるものであれ)ことは、このフィーンドに物理的な害を与えないが、@Damage[3d6[mental]]ダメージを与える。ブリモラックを完全に水に浸すと、ラウンドごとに@Damage[5d6[mental]]ダメージを与える。</p>"
     },
     "Extinguishing Aversion": {
@@ -3005,7 +3005,7 @@
       "name": "振動感知(不明瞭、60フィート)"
     },
     "9uDPkhvDHQvs18xG": {
-      "name": "ビビパラス・バース/Viviparous Birth",
+      "name": "ヴィビパラス・バース/Viviparous Birth",
       "description": "<p>殺された時、エンプレス・ボア・ワームは宿している幼体を激しく排出する。これらの幼体はエンプレス・ボア・ワームの占める空間に@UUID[Compendium.pf2e.pathfinder-bestiary-3.Actor.aQusm2Uh1tw00IVb]{ボア・ワーム・スウォーム}として噴出する。</p>\n<p>さらに、腐食性の内臓が飛び散ることにより、@Template[type:emanation|distance:20]{20フィート}以内のすべてのクリーチャーは@Damage[5d10[acid]]ダメージを受ける(@Check[type:reflex|dc:25|basic:true]セーヴ)。</p>"
     },
     "Viviparous Birth": {
@@ -3136,11 +3136,11 @@
       "name": "アタック・オブ・オポチュニティ"
     },
     "jZf3j2xK5YKD3uC0": {
-      "name": "アクティヴェイト・ディフェンシズ/Activate Defenses",
+      "name": "アクティベート・ディフェンシズ/Activate Defenses",
       "description": "<p>ソルジャーの外装プレートの1枚が機械式アクチュエータによって展開し、ソルジャー自身またはソルジャーが選択した隣接するクリーチャーを防御する。</p>\n<p>そのクリーチャーは、ソルジャーの次のターンの開始時まで、あるいはソルジャーに隣接しなくなるまでのいずれか早いほうまで、ACに+2の状況ボーナスを得る。ソルジャーは一度に1枚以上のプレートを展開することはできない。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.ya8r3IdzQ7QGNH8N]{効果: 起動 防御態勢}</p>"
     },
     "Activate Defenses": {
-      "name": "アクティヴェイト・ディフェンシズ",
+      "name": "アクティベート・ディフェンシズ",
       "description": "<p>ソルジャーの外装プレートの1枚が機械式アクチュエータによって展開し、ソルジャー自身またはソルジャーが選択した隣接するクリーチャーを防御する。</p>\n<p>そのクリーチャーは、ソルジャーの次のターンの開始時まで、あるいはソルジャーに隣接しなくなるまでのいずれか早いほうまで、ACに+2の状況ボーナスを得る。ソルジャーは一度に1枚以上のプレートを展開することはできない。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.ya8r3IdzQ7QGNH8N]{効果: 起動 防御態勢}</p>"
     },
     "Urwp7vLcfy6avc98": {
@@ -3297,11 +3297,11 @@
       "description": "<p>カンカーは以下の注入されたアイテムを携帯している。これらは24時間、または彼が次に日課の準備を行うまで持続する：@UUID[Compendium.pf2e.equipment-srd.Item.jC8GmH0Un6vDxdMj]{酸フラスコ(グレーター)} (8)、@UUID[Compendium.pf2e.equipment-srd.Item.n5yTlTs63o53n3k6]{アルケミストの火炎(グレーター)} (8)、@UUID[Compendium.pf2e.equipment-srd.Item.Cc4SokzVBoBCkHId]{ブライトバーン・レジン}、@UUID[Compendium.pf2e.equipment-srd.Item.t4X6GDybqLmt7UkN]{チーターのエリクサー(グレーター)} (2)、@UUID[Compendium.pf2e.equipment-srd.Item.EX8Ta6J56SNrYbqJ]{ミッドナイト・ミルク(リファインド)} (5)、@UUID[Compendium.pf2e.equipment-srd.Item.04giYigfDL5geu5f]{ミストフォーム・エリクサー(グレーター)}、@UUID[Compendium.pf2e.equipment-srd.Item.Wjkw0lEUOhypYvzo]{シャドウエッセンス} (5)、@UUID[Compendium.pf2e.equipment-srd.Item.dsMkvuLgpOOGLWDy]{サンダーストーン(グレーター)} (8)</p>"
     },
     "0Fov7JFb1MdJaHxP": {
-      "name": "イヴェイジョン/Evasion",
+      "name": "イベージョン/Evasion",
       "description": "<p>カンカーが反応セーヴで成功をロールしたとき、代わりに大成功となる。</p>"
     },
     "Evasion": {
-      "name": "イヴェイジョン",
+      "name": "イベージョン",
       "description": "<p>カンカーが反応セーヴで成功をロールしたとき、代わりに大成功となる。</p>"
     },
     "DU4FmtvzdaEohExI": {
@@ -3389,11 +3389,11 @@
       "name": "光のウィスプ"
     },
     "zZdlKoZukVTRu2lC": {
-      "name": "キャヴァーン・ディペンデント/Cavern Dependent",
+      "name": "キャバーン・ディペンデント/Cavern Dependent",
       "description": "<p>ランパッドは単一の大洞窟またはその他の自己完結した地下エリアと神秘的に絆で結ばれており、その場所から300フィート以内に留まらなければならない。</p>\n<p>もしその範囲外へ移動した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となり、回復できなくなる。そのクリーチャーは1時間ごとに@Check[type:fortitude|dc:19]セーヴを行わなければならず、失敗すると病変の値を1増加させる(最大で病変4まで)。</p>\n<p>24時間が経過した後、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態となり、この値は追加の24時間が経過するごとに1ずつ増加する。ランパッドは24時間の儀式を行って新しい大洞窟と絆を結ぶことができる。</p>"
     },
     "Cavern Dependent": {
-      "name": "キャヴァーン・ディペンデント",
+      "name": "キャバーン・ディペンデント",
       "description": "<p>ランパッドは単一の大洞窟またはその他の自己完結した地下エリアと神秘的に絆で結ばれており、その場所から300フィート以内に留まらなければならない。</p>\n<p>もしその範囲外へ移動した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となり、回復できなくなる。そのクリーチャーは1時間ごとに@Check[type:fortitude|dc:19]セーヴを行わなければならず、失敗すると病変の値を1増加させる(最大で病変4まで)。</p>\n<p>24時間が経過した後、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態となり、この値は追加の24時間が経過するごとに1ずつ増加する。ランパッドは24時間の儀式を行って新しい大洞窟と絆を結ぶことができる。</p>"
     },
     "Mq1buiTxEF2rhIx8": {
@@ -3469,7 +3469,7 @@
       "name": "ショートソード"
     },
     "q9qnT4OPhxU6cbs9": {
-      "name": "デヴィルズ・カースト・ブレス",
+      "name": "デビルズ・カースト・ブレス",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ジョーダスは自身の舌を噛み(@Damage[1[slashing]]のダメージを受ける)、それから燃える煙の@Template[type:cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[type:reflex|dc:26]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@Damage[3d8[fire]]のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは@Damage[7d8[fire]]のダメージを受け、火傷の苦痛により@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@Damage[10d8[fire]]のダメージを受け、火傷の苦痛によりsickened 1状態となり、呪われる。被害者の火傷は完全には消えず、呪われたクリーチャーは絶え間ない苦痛によりすべての攻撃に–2の状況ペナルティを受ける。治癒は火傷の外見を変えることもペナルティを軽減することもできないが、呪いを除去すれば可能である。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果: Devil's Cursed Breath}</p>"
     },
     "Jqh53awrV2X4sb81": {
@@ -3643,11 +3643,11 @@
       "description": "<p>グラブレズの嘘は彼らを維持し、真実は彼らを滅ぼしうる。啓示効果がグラブレズの幻影を相殺または露呈させたとき、あるいはグラブレズが嘘をつくことを妨げる効果(@UUID[Compendium.pf2e.spells-srd.Item.aewxsale5xWEPKLk]{リング・オブ・トゥルース}など)に対するセーヴに失敗したとき、そのデーモンは@Damage[3d6[mental]]ダメージを受ける。このダメージは、その効果が複数の幻影を露呈させたり、複数の嘘を妨げたりした場合であっても、効果ごとに1回しか受けない。</p>"
     },
     "pl4CFdDU1X88olbS": {
-      "name": "キャプティヴ・レイク/Captive Rake",
+      "name": "キャプティブ・レイク/Captive Rake",
       "description": "<p><strong>必要条件</strong>クリーチャーがグラブレズのハサミで@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態になっている。</p>\n<hr />\n<p><strong>効果</strong>グラブレズは掴んでいるクリーチャーを最大5フィート引き寄せ、その後それに対して2回の爪のストライクを行う。それらのストライクは、裏切りのデーモンのマルチアタック・ペナルティを決定する際には1回の攻撃として数えられ、ペナルティは両方のストライクが終わるまで増加しない。</p>"
     },
     "Captive Rake": {
-      "name": "キャプティヴ・レイク",
+      "name": "キャプティブ・レイク",
       "description": "<p><strong>必要条件</strong>クリーチャーがグラブレズのハサミで@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態になっている。</p>\n<hr />\n<p><strong>効果</strong>グラブレズは掴んでいるクリーチャーを最大5フィート引き寄せ、その後それに対して2回の爪のストライクを行う。それらのストライクは、裏切りのデーモンのマルチアタック・ペナルティを決定する際には1回の攻撃として数えられ、ペナルティは両方のストライクが終わるまで増加しない。</p>"
     },
     "fRDoPX53siUmNijE": {
@@ -4004,11 +4004,11 @@
     },
     "G8ZyBYyApK8QcRaL": {
       "name": "消失する言葉/Vanishing Words",
-      "description": "<p><strong>トリガー</strong>コロクサスが《欺瞞》または《交渉》でイニシアチブをロールし、@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{インヴィジビリティ}を発動できる</p>\n<hr />\n<p><strong>効果</strong>コロクサスは自身に4ランクの<em>invisibility</em>を発動する。</p>"
+      "description": "<p><strong>トリガー</strong>コロクサスが《欺瞞》または《交渉》でイニシアチブをロールし、@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{インビジビリティ}を発動できる</p>\n<hr />\n<p><strong>効果</strong>コロクサスは自身に4ランクの<em>invisibility</em>を発動する。</p>"
     },
     "Vanishing Words": {
       "name": "消失する言葉",
-      "description": "<p><strong>トリガー</strong>コロクサスが《欺瞞》または《交渉》でイニシアチブをロールし、@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{インヴィジビリティ}を発動できる</p>\n<hr />\n<p><strong>効果</strong>コロクサスは自身に4ランクの<em>invisibility</em>を発動する。</p>"
+      "description": "<p><strong>トリガー</strong>コロクサスが《欺瞞》または《交渉》でイニシアチブをロールし、@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{インビジビリティ}を発動できる</p>\n<hr />\n<p><strong>効果</strong>コロクサスは自身に4ランクの<em>invisibility</em>を発動する。</p>"
     },
     "9KHwXUjSzKnP6AIN": {
       "name": "唸る翼/Droning Wings",
@@ -4047,7 +4047,7 @@
       "description": "<p><strong>トリガー</strong>ゴギテスのリーチの外で移動を開始したクリーチャーが、そのリーチ内に移動する。</p>\n<hr />\n<p><strong>効果</strong>ゴギテスは10フィート移動する。これはリアクションを誘発しない。</p>"
     },
     "Skittering Reposition": {
-      "name": "スキタリング・リポジション",
+      "name": "スキッタリング・リポジション",
       "description": "<p><strong>トリガー</strong>ゴギテスのリーチの外で移動を開始したクリーチャーが、そのリーチ内に移動する。</p>\n<hr />\n<p><strong>効果</strong>ゴギテスは10フィート移動する。これはリアクションを誘発しない。</p>"
     },
     "drMUmP8Z6LhZyhRI": {
@@ -4271,11 +4271,11 @@
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ザラヴェクサスの次のアクションが3ランク以下の呪文またはキャントリップの詠唱である場合、それを詠唱するためのアクション数を1減少させる(最低1アクション)。</p>"
     },
     "zNeDe02hwHzcyE1s": {
-      "name": "スクワーミング・エンブレイス/Squirming Embrace",
+      "name": "スクワーミング・エンブレース/Squirming Embrace",
       "description": "<p>ワーム・ザット・ウォークスはストライドを行い、移動を終了した時点でクリーチャーとスペースを共有し、そのクリーチャーに@Damage[4d8[piercing]]ダメージを与える。そのクリーチャーは@Check[type:reflex|dc:27|basic:true]セーヴを行うことができる。</p>"
     },
     "Squirming Embrace": {
-      "name": "スクワーミング・エンブレイス",
+      "name": "スクワーミング・エンブレース",
       "description": "<p>ワーム・ザット・ウォークスはストライドを行い、移動を終了した時点でクリーチャーとスペースを共有し、そのクリーチャーに@Damage[4d8[piercing]]ダメージを与える。そのクリーチャーは@Check[type:reflex|dc:27|basic:true]セーヴを行うことができる。</p>"
     },
     "Gqr0UFpNbBT1bhtg": {
@@ -4342,11 +4342,11 @@
       "description": "<p>20フィート。このオーラの中でターンを開始したクリーチャーは、@Check[type:will|dc:25]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態に1ラウンドなる。成功した場合、そのクリーチャーは1分の間、一時的な免疫となる。ムノゴスは集中トレイトを持つ単一アクションとして、このオーラを抑制または起動できる。</p>"
     },
     "tNfhf1JnOxOHfY86": {
-      "name": "エンヴェノム・ウェポン/Envenom Weapon",
+      "name": "エンベノム・ウェポン/Envenom Weapon",
       "description": "<p>ムノゴスは自身のロングソードにスグアシーの毒を塗布する。</p>"
     },
     "Envenom Weapon": {
-      "name": "エンヴェノム・ウェポン",
+      "name": "エンベノム・ウェポン",
       "description": "<p>ムノゴスは自身のロングソードにスグアシーの毒を塗布する。</p>"
     },
     "MnAW3prtfTZxnv7T": {
@@ -4521,13 +4521,13 @@
     },
     "dB7IzP1AXtBOqr2H": {
       "name": "儀式コレクション/Collection of Rituals",
-      "description": "<p>サーシロンで書かれている――ソーシェンの多くの弟子の1人が書き記した儀式のコレクション。この本には、@Compendium[pf2e.spells-srd.Q690d3mw3TUrKX7E]{ギアス}、@Compendium[pf2e.spells-srd.5pwK2FZX6QwgtfqX]{インヴェイグル}、そして@Compendium[pf2e.spells-srd.vgy00hnqxN9VoeoF]{プレイナー・サーヴィター}の公式が含まれている。</p>",
+      "description": "<p>サーシロンで書かれている――ソーシェンの多くの弟子の1人が書き記した儀式のコレクション。この本には、@Compendium[pf2e.spells-srd.Q690d3mw3TUrKX7E]{ギアス}、@Compendium[pf2e.spells-srd.5pwK2FZX6QwgtfqX]{インベーグル}、そして@Compendium[pf2e.spells-srd.vgy00hnqxN9VoeoF]{プレイナー・サーヴィター}の公式が含まれている。</p>",
       "unidentifiedName": "サーシロン語で書かれた書物",
       "unidentifiedDescription": "<p>&lrm;&nbsp;</p>"
     },
     "Collection of Rituals": {
       "name": "儀式コレクション",
-      "description": "<p>　サーシロン語で書かれている――これはソーシェンの多くの弟子の1人が書き記した儀式のコレクションである。この本には、@Compendium[pf2e.spells-srd.Q690d3mw3TUrKX7E]{ギアス}、@Compendium[pf2e.spells-srd.5pwK2FZX6QwgtfqX]{インヴェイグル}、そして@Compendium[pf2e.spells-srd.vgy00hnqxN9VoeoF]{プレイナー・サーヴィター}の公式が含まれている。</p>",
+      "description": "<p>　サーシロン語で書かれている――これはソーシェンの多くの弟子の1人が書き記した儀式のコレクションである。この本には、@Compendium[pf2e.spells-srd.Q690d3mw3TUrKX7E]{ギアス}、@Compendium[pf2e.spells-srd.5pwK2FZX6QwgtfqX]{インベーグル}、そして@Compendium[pf2e.spells-srd.vgy00hnqxN9VoeoF]{プレイナー・サーヴィター}の公式が含まれている。</p>",
       "unidentifiedName": "サーシロン語で書かれた書物",
       "unidentifiedDescription": "<p>&lrm;&nbsp;</p>"
     },
@@ -4754,7 +4754,7 @@
       "description": "<p>Angry townsfolkは、身体的特徴を知っているクリーチャー1体を標的として指定するために1分を費やすことができる。彼らはその標的に対する《知覚》判定に+2の状況ボーナスを得る。</p>"
     },
     "Seek Quarry": {
-      "name": "シーク・クォーリー",
+      "name": "シーク・クォリー",
       "description": "<p>Angry townsfolkは、身体的特徴を知っているクリーチャー1体を標的として指定するために1分を費やすことができる。彼らはその標的に対する《知覚》判定に+2の状況ボーナスを得る。</p>"
     },
     "9X9mEo92lODvZP6d": {

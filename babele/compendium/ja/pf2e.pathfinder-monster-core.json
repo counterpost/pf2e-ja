@@ -386,7 +386,7 @@
           "description": "<p>リビング・ウォーターフォールは、ヒットが成功した際にクリーチャーを押すか引くかを選択できる。</p>\n<hr />\n<p><strong>押す</strong> <span class=\"action-glyph\">1</span></p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>\n<hr />\n<p><strong>引く</strong> <span class=\"action-glyph\">1</span></p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Pull]</p>"
         }
       },
-      "name": "リヴィング・ウォーターフォール/Living Waterfall",
+      "name": "リビング・ウォーターフォール/Living Waterfall",
       "publicNotes": "<p>Living waterfalls are humanoid-shaped columns of churning water. They see the water as their natural domain and even aquatic animals as interlopers. When summoned, they are surly, but will grudgingly guard all forms of aquatic sites.</p>\n<hr />\n<p>Water elementals can be very destructive, but often not intentionally so; just as water can bring life to mortals in need, its waves can pound shores and rains can flood cities. Water elementals are similarly difficult to predict.</p>"
     },
     "Hyaenodon": {
@@ -477,7 +477,7 @@
           "name": "ショートボウ"
         },
         "JQcN49zNIu4wTuSg": {
-          "name": "ディフェンシヴ・クイルズ/Defensive Quills",
+          "name": "ディフェンシブ・クイルズ/Defensive Quills",
           "description": "<p>パクウッジーに対して素手による〈ストライク〉または間合いを持たない近接〈ストライク〉でヒットを与えたクリーチャーは、@Damage[3d8[piercing]]ダメージを受ける(@Check[reflex|dc:22|basic]セーヴ)。大失敗した場合、そのクリーチャーは毒の針によってさらに@Damage[1d6[persistent,poison]]のダメージを受ける。</p>\n<hr />\n<p><em>注： Paizoはこの能力のDCを提供していない。ここに記載されているDCは、『GM Core』のクリーチャー作成テーブルに基づく、そのクリーチャーのレベルに対する標準的なDCである。</em></p>"
         },
         "e81mjeZGp9mKBDKv": {
@@ -639,7 +639,7 @@
           "description": "<p><strong>必要条件</strong> @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャーがグールのリーチ内にいる</p><hr /><p><strong>効果</strong> グールはそのクリーチャーの耳に邪悪な思考と卑劣な渇望を囁く。そのクリーチャーは禁じられた渇望の呪いに対してセーヴを行わなければならない。</p>\n<p><strong>禁じられた渇望</strong> (呪い) この呪いによって不調状態であっても、クリーチャーは飲食を行うことができる。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[will|dc:18|traits:curse]</p>\n<p><strong>第1段階</strong> キャリアーであり、悪影響はない(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]] ダメージを受け、生肉を消費するまで@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる(1日)</p>\n<p><strong>第3段階</strong> 第2段階と同様</p>\n<p><strong>第4段階</strong> 過去24時間以内に生肉を消費していない限り第2段階と同様。消費していた場合、@Damage[4d6[void]] ダメージを受け、生肉を消費するまで@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となる;</p>\n<p><strong>第5段階</strong> 過去24時間以内に生肉を食べていた場合、そのクリーチャーは死亡しグールとして蘇る。食べていなかった場合、第4段階に戻る</p>"
         },
         "dbJMknRXkshhKBXb": {
-          "name": "グレイヴ・ナレッジ/Grave Knowledge",
+          "name": "グレイブ・ナレッジ/Grave Knowledge",
           "description": "<p>[[/r 1d20+8]]{+8}スキル修正値</p><hr /><p><strong>使用制限</strong> 1時間に1回</p><hr /><p><strong>効果</strong>グールは過去7日以内に捕食した1体のクリーチャーから保持している知識を呼び起こす。グールは、その捕食されたクリーチャーが訓練済みであったスキルを使用してスキル判定を行う(そのクリーチャーが訓練済みであったかどうかが不明な場合、GMが決定する)。グールは訓練済みとして扱われ、グールのレベルに対する高いスキル修正値を使用する。これには、その判定に通常かかるのと同じ量のアクションまたは時間がかかる。</p>\n<p>代わりに、グールは過去7日以内に捕食したクリーチャーが知っていた特定の事柄(@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}財宝の場所や愛する者の名前など)を自動的に学ぶことができる。グールは、そのクリーチャーの肉をどれだけ捕食したかに関わらず、特定のクリーチャーに対してこれを1回しか行うことができない。</p>"
         },
         "R9q9hezMY3S2b5ha": {
@@ -689,7 +689,7 @@
           "description": "<p>40フィート。</p>\n<p>そのかかしの目は不気味な輝きを放ち、明滅している。クリーチャーがこのオーラの放射範囲内にいる間、そのクリーチャーは自身の@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態を1未満にすることはできない。クリーチャーがこのオーラに入った時、またはこのオーラ内で自身のターンを開始した時、そのクリーチャーは@Check[will|dc:18]セーヴを行わなければならない。鳥類やその他の鳥のようなクリーチャーは、このセーヴに-2の状況ペナルティを受ける。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けず、その後24時間の間、一時的な免疫となる。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態となり、次の自身のターンの終了時まで、そのかかしに@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}される。</p>\n<p><strong>クリティカル失敗</strong>失敗と同様だが、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3}状態となる。</p>"
         },
         "1V1IFVEwiJA8p72B": {
-          "name": "ベイルフル・グロウ/Baleful Glow",
+          "name": "ベールフル・グロー/Baleful Glow",
           "description": "<p>そのかかしの頭部は、熱のない幽霊のような炎を噴き出し、@Template[emanation|distance:20]の範囲に明るい光を放つ(そしてその次の20フィートには薄暗い光を放つ)。もしそのかかしが戦闘の最初のラウンドにこの能力を使用した場合、まだ行動していないクリーチャーは驚き、1ラウンドの間、そのかかしに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。かかしは、このアクションを再度使用することで光を抑止できる。</p>"
         },
         "oYtncLyCKuBAQThk": {
@@ -697,7 +697,7 @@
           "description": "<p>そのかかしのストライクは、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}状態のクリーチャーに対して追加で1d6の精神ダメージを与える。</p>"
         },
         "NTWIBx9lvUwV7F1W": {
-          "name": "マンデイン・アピアランス/Mundane Appearance",
+          "name": "マンデーン・アピアランス/Mundane Appearance",
           "description": "<p>行動するまで、そのかかしは普通のかかしのように見える。普通のかかしになりすますための《欺瞞》判定およびDCにおいて、自動的に32の結果を得る。</p>"
         }
       },
@@ -808,7 +808,7 @@
           "description": "<p>雪はフロストドレイクの視界を妨げない。彼らは降雪による@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を無視する。</p>"
         },
         "RAFn5P8tJAjf5eEe": {
-          "name": "リタリエイトリー・ストライク/Retaliatory Strike",
+          "name": "リタリエートリー・ストライク/Retaliatory Strike",
           "description": "<p><strong>トリガー</strong>フロストドレイクのリーチ内にいるクリーチャーが、〈ストライク〉でフロストドレイクにダメージを与えることに成功した時。</p>\n<hr />\n<p><strong>効果</strong>フロストドレイクは自身の尾で〈ストライク〉を行う。その〈ストライク〉が命中した場合、追加で1d6のダメージを与える。</p>"
         },
         "QmJkEvQgW1G9i7g9": {
@@ -1014,7 +1014,7 @@
           "description": "<p>シェムハジアンの切断は彼らの一部であり、彼らはそれが元に戻るのを見るに堪えない。シェムハジアンが直前のターンに与えたダメージからクリーチャーが回復するたび、その各ラウンドの最初の1回、そのデーモンは@Damage[3d6[mental]]ダメージを受ける。</p>"
         },
         "4TtLSpRhmqV1Dvp1": {
-          "name": "テイル・ウィップ/Tail Whip",
+          "name": "テール・ウィップ/Tail Whip",
           "description": "<p><strong>トリガー</strong>シェムハジアンのリーチ内にいるクリーチャーが、移動アクションを使用中にマスから離れる</p>\n<hr />\n<p><strong>効果</strong>シェムハジアンは[[/act trip]]トリガーとなったクリーチャーを行う。成功した場合、そのクリーチャーはシェムハジアンが尾による〈ストライク〉を命中させたかのようにダメージを受けるし、もしそのクリーチャーが飛行していたならば、30フィート落下する。</p>"
         },
         "AsXbDxRSKFmiQ6jb": {
@@ -1140,7 +1140,7 @@
           "description": "<p>リビング・ランドスライドは通常の移動速度の最大2倍まで直線的にストライドし、その後、リーチ内のクリーチャー1体に対して@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を行う。この〈足払い〉によってクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になった場合、リビング・ランドスライドが移動した距離10フィートごとに、そのクリーチャーは@Damage[1d4[bludgeoning]]ダメージを受ける。</p>"
         }
       },
-      "name": "リヴィング・ランドスライド/Living Landslide",
+      "name": "リビング・ランドスライド/Living Landslide",
       "publicNotes": "<p>Living landslides resemble humanoids made of earth and gravel. They find moving across the many surfaces of the mortal Universe strangely liberating.</p>\n<hr />\n<p>Earth elementals make excellent bodyguards for adventuresome spelunkers and are ideal protectors of important subterranean locations such as vaults and treasuries.</p>"
     },
     "Gigantopithecus": {
@@ -1342,7 +1342,7 @@
           "description": "<p>90フィート。 @Check[will|dc:24|options:area-effect,inflicts:frightened]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         "ItyDWQiPz0eJ2hOb": {
-          "name": "ツイスティング・テイル/Twisting Tail",
+          "name": "ツイスティング・テール/Twisting Tail",
           "description": "<p><strong>トリガー</strong>ドラゴンの尾のリーチ内にいるクリーチャーが、移動アクションを使用するか、使用中の移動アクションの最中にマスから離れる。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、－2のペナルティを受けて、そのクリーチャーに対して尾による〈ストライク〉を行う。その〈ストライク〉が命中した場合、そのドラゴンはそのクリーチャーのアクションを妨害する。</p>"
         },
         "Iv8LMCTGw5NLD5aD": {
@@ -1358,7 +1358,7 @@
           "description": "<p>その角のあるドラゴンは、茂み、つる、下草といった植物によって引き起こされるあらゆる移動困難地形を無視する。魔法によって操作された植物でさえ、その進行を妨げることはできない。</p>"
         },
         "3Fn7wuVzeuI4kT5H": {
-          "name": "インペイリング・チャージ/Impaling Charge",
+          "name": "インペーリング・チャージ/Impaling Charge",
           "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
         },
         "VPryni3E3RGw5MdV": {
@@ -1699,7 +1699,7 @@
           "name": "エニイ・ワン・ロア/Any One Lore"
         }
       },
-      "name": "グレイト・サイクロプス/Great Cyclops",
+      "name": "グレート・サイクロプス/Great Cyclops",
       "publicNotes": "<p>Gigantic loners, the great cyclopes are their lesser kin writ large. They're stronger and more violent, but their uncontrolled vision of possible futures has driven them beyond reason. They see every moment as a potential storm of uncontrollable fury and, out of a desperate desire for peace, quiet, and an end to their hunger, lash out at any who come near. Wise creatures avoid great cyclopes at all cost. It's fortunate for humanoids that great cyclopes prefer to dwell far from settlements.</p>\n<p>Debate has long raged over the origins of these massive, destructive giants. They are so large that it had long been assumed they were used as beasts of burden by their lesser kin, now free to hunt and kill without restraint. Other scholars believe the great cyclops is the ultimate fate of the entire cyclops species. Whatever foolish decision or wayward curse caused the end of their civilization is still playing out, occasionally causing a cyclops to withdraw from their own kind, lose all semblance of intellect, and mutate into a lumbering, feral colossus.</p>\n<hr />\n<p>The cyclopes are violent giants with a tragic past. Although they possess only one eye, they could once see far more than most, possessing occult wisdom and divinatory magic that gave them the mystic ability of foresight. But their legendary oracular powers failed to prevent the fall of their society, and the vast kingdoms of the cyclops long ago collapsed into ruin. Today, cyclopes have forgotten much of what they once knew, and they skulk among the crumbling remains of their fallen cities like forgotten kings and queens of their own fallen kingdoms.</p>"
     },
     "Horned Dragon (Ancient, Spellcaster)": {
@@ -1739,7 +1739,7 @@
           "description": "<p>20フィート。</p>\n<p>そのドラゴンが自身の毒・ブレスを使用したあと、毒ガスの雲が1ラウンドの間、その体から放たれ続ける。その瘴気の中でターンを終了したクリーチャーは、@Damage[4d6[poison]|options:area-damage]ダメージを受ける(@Check[fortitude|dc:37|basic|options:area-effect]セーヴ)。</p>\n<p>その瘴気の中にいるクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となり、他のクリーチャーも隠蔽されているものとして扱う。そのドラゴンはこの隠蔽を見通すことができる。</p>"
         },
         "ItyDWQiPz0eJ2hOb": {
-          "name": "ツイスティング・テイル",
+          "name": "ツイスティング・テール",
           "description": "<p><strong>トリガー</strong>ドラゴンの尾のリーチ内にいるクリーチャーが、移動アクションを使用するか、使用中の移動アクションの最中にマスから離れる。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、－2のペナルティを受けて、そのクリーチャーに対して尾による〈ストライク〉を行う。その〈ストライク〉が命中した場合、そのドラゴンはそのクリーチャーのアクションを妨害する。</p>"
         },
         "1FbPUVt1mVdHjwrB": {
@@ -1747,7 +1747,7 @@
           "description": "<p>その角のあるドラゴンは、茂み、つる、下草といった植物によって引き起こされるあらゆる移動困難地形を無視する。魔法によって操作された植物でさえ、その進行を妨げることはできない。</p>"
         },
         "3Fn7wuVzeuI4kT5H": {
-          "name": "インペイリング・チャージ",
+          "name": "インペーリング・チャージ",
           "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
         },
         "VPryni3E3RGw5MdV": {
@@ -1781,7 +1781,7 @@
           "name": "テレパシー(60フィート)/Telepathy 60 feet"
         },
         "MzHIjOVqhOXnluws": {
-          "name": "エクスティングイッシング・アヴァージョン/Extinguishing Aversion",
+          "name": "エクスティングイッシング・アバージョン/Extinguishing Aversion",
           "description": "<p>ブリモラックに水を浴びせることは(通常の水であれ、水に関連する効果であれ)、そのフィーンドに物理的な害を与えないが、@Damage[3d6[mental]]ダメージを与える。ブリモラックを完全に水に浸すと、ラウンドごとに@Damage[5d6[mental]]ダメージを与える。</p>"
         },
         "EViJHho1D7U93moQ": {
@@ -1875,7 +1875,7 @@
           "name": "スウォーム・マインド"
         },
         "DiGgJNOY5Na3eYp8": {
-          "name": "ピュートリッド・プレイグ/Putrid Plague",
+          "name": "ピュートリッド・プレーグ/Putrid Plague",
           "description": "<p>腐敗の疫病による@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{病気}状態と@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{無力化}状態は、その病気が治癒するまで自然には改善しない。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:14]</p>\n<hr />\n<p><strong>第1段階</strong> 悪影響のない保菌者([[/gmr 1d4 #hours]]{1d4時間})</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{病気1}(1日)</p>\n<p><strong>第3段階</strong> 病気 1および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{減速1}(1日)</p>\n<p><strong>第4段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{無力化}(1日)</p>\n<p><strong>第5段階</strong> 死亡</p>"
         },
         "LTwSnVSVWZeWrLAC": {
@@ -2017,10 +2017,10 @@
         },
         "mVB17TASKITmaKOR": {
           "name": "コンジャー・ディスガイズ/Conjure Disguise",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong> ドラゴンは、自身が見たことのある、自身と同じサイズかそれ以下の人型のクリーチャーの完璧な肉体のレプリカを作り出し、その中に自身を圧縮する。同時に、その人型生物にふさわしい衣服も生成する。このプロセスには1分かかり、その間、ドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしドラゴンがこのプロセスを停止したり中断されたりした場合、スーツは破壊される。プロセスが完了すると、ドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、この変装は本質的に能動的な魔法ではなく、ディテクト・マジックや類似の効果に対して魔法として感知されることはない。ドラゴンは変身中、リトラクト・ボディを失う。</p>\n<p>もしドラゴンが変装中にクリティカル・ヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネイト・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い結果を使用する。</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong> ドラゴンは、自身が見たことのある、自身と同じサイズかそれ以下の人型のクリーチャーの完璧な肉体のレプリカを作り出し、その中に自身を圧縮する。同時に、その人型生物にふさわしい衣服も生成する。このプロセスには1分かかり、その間、ドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしドラゴンがこのプロセスを停止したり中断されたりした場合、スーツは破壊される。プロセスが完了すると、ドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、この変装は本質的に能動的な魔法ではなく、ディテクト・マジックや類似の効果に対して魔法として感知されることはない。ドラゴンは変身中、リトラクト・ボディを失う。</p>\n<p>もしドラゴンが変装中にクリティカル・ヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネート・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い結果を使用する。</p>"
         },
         "kK41S41L533fMggZ": {
-          "name": "デトネイト・ディスガイズ/Detonate Disguise",
+          "name": "デトネート・ディスガイズ/Detonate Disguise",
           "description": "<p><strong>必要条件</strong>ドラゴンが魔法で作り出した変装を身にまとっている</p>\n<hr />\n<p><strong>効果</strong>ドラゴンは変装から飛び出し、それを破壊する。この爆発的な露呈は、@Check[reflex|dc:39|basic|options:area-effect]セーヴを行わなければならない@Template[emanation|distance:5]内のクリーチャーに@Damage[18d6[bludgeoning]|options:area-damage]ダメージを与える。セーヴに失敗したクリーチャーは、変装の破片を浴びてしまい、1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p>爆発後にドラゴンと同じスペースにいるクリーチャーは、最も近い空いているスペースへ押し出される。</p>"
         },
         "IUwmirxfv4K0PcJf": {
@@ -2072,7 +2072,7 @@
           "description": "<p>90フィート。 @Check[will|dc:31|options:area-effect,inflicts:frightened]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         "ItyDWQiPz0eJ2hOb": {
-          "name": "ツイスティング・テイル",
+          "name": "ツイスティング・テール",
           "description": "<p><strong>トリガー</strong>ドラゴンの尾のリーチ内にいるクリーチャーが、移動アクションを使用するか、使用中の移動アクションの最中にマスから離れる。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、－2のペナルティを受けて、そのクリーチャーに対して尾による〈ストライク〉を行う。その〈ストライク〉が命中した場合、そのドラゴンはそのクリーチャーのアクションを妨害する。</p>"
         },
         "1FbPUVt1mVdHjwrB": {
@@ -2080,7 +2080,7 @@
           "description": "<p>その角のあるドラゴンは、茂み、つる、下草といった植物によって引き起こされるあらゆる移動困難地形を無視する。魔法によって操作された植物でさえ、その進行を妨げることはできない。</p>"
         },
         "3Fn7wuVzeuI4kT5H": {
-          "name": "インペイリング・チャージ",
+          "name": "インペーリング・チャージ",
           "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
         },
         "VPryni3E3RGw5MdV": {
@@ -2293,7 +2293,7 @@
           "name": "+2ステイタス・トゥ・オール・セーヴズ・ヴァーサス・アーケイン"
         },
         "PjUGlZciMNB5ad4R": {
-          "name": "シンティレイティング・ディフェンス/Scintillating Defense",
+          "name": "シンティレーティング・ディフェンス/Scintillating Defense",
           "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。</p>"
         },
         "WMdK1rdUjXn9ZjQJ": {
@@ -2441,7 +2441,7 @@
           "description": "<p>下水道のウーズは、振動と空気の動きを通じて近くの動きを感知できる。</p>"
         },
         "mdqK7RuSjtezVyS8": {
-          "name": "フィルス・ウェイブ/Filth Wave",
+          "name": "フィルス・ウェーブ/Filth Wave",
           "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong>下水道のウーズは汚物の波を解き放ち、@Template[emanation|distance:20]内のすべてのクリーチャーを覆う。範囲内の各クリーチャーは@Check[reflex|dc:17|options:area-effect,damaging-effect]セーヴに成功しなければ、@Damage[1d4[acid]|options:area-damage]ダメージを受け、1分の間、移動速度に–10フィートのペナルティを受ける(大失敗した場合、そのクリーチャーはさらに@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になる)。</p>\n<p>クリーチャーは〈扱う〉アクションを消費して誰かの汚れを落とすことができ、1回のアクションごとに移動速度ペナルティを5フィート減少させる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.Qomp2EujVCbzJb4X]{効果: Filth Wave}</p>"
         }
       },
@@ -2543,7 +2543,7 @@
           "description": "<p><strong>必要条件</strong>メガロドンがこのターンの直前のアクションで、顎による〈ストライク〉を命中させている。</p>\n<hr />\n<p><strong>効果</strong>メガロドンが命中させたクリーチャーは@Damage[2d12[slashing]]ダメージを受ける。</p>"
         },
         "gC0TpsGsMQ5RDDau": {
-          "name": "スワロウ・ホール/Swallow Whole",
+          "name": "スワロー・ホール/Swallow Whole",
           "description": "<p>超大型, @Damage[(2d8+5)[bludgeoning]], Rupture 20</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "E3WrwhsH06axDfAu": {
@@ -2767,7 +2767,7 @@
           "description": "<p>コン・リットはプロパルシブな毒の噴出を吐き出し、@Template[line|distance:30]内に@Damage[2d10[poison],2d10[bludgeoning]|options:area-damage]ダメージを与える(@Check[fortitude|dc:25|basic|options:area-effect]セーヴ)。セーヴに失敗したクリーチャーは、さらに10フィート押しやられる。</p>\n<p>コン・リットは[[/gmr 1d4 #Recharge Spit Venom]]{1d4ラウンド}の間、Spit Venomを再び使用できない。</p>"
         },
         "1AR7cN1zlEwxiuGD": {
-          "name": "アンジュレイト/Undulate",
+          "name": "アンジュレート/Undulate",
           "description": "<p>コン・リットは水泳を行う。この移動の間、それは狭所移動を行わずに5フィートの狭さの空間を通り抜けることができる。</p>"
         }
       },
@@ -3048,7 +3048,7 @@
           "description": "<p><strong>必要条件</strong>クアイ・ダウ・トーが少なくとも10フィートの深さがある水域から10フィート以内にあり、かつその水袋が空である。</p>\n<hr />\n<p><strong>効果</strong>クアイ・ダウ・トーは鼻から水を吸い込んで水袋を満たし、その水域の水位を10フィート低下させる。@Template[emanation|distance:30]内の水中にいるすべてのクリーチャーは、クアイ・ダウ・トーの次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         },
         "lKHf5F9ygDnaArKZ": {
-          "name": "インフレイト/Inflate",
+          "name": "インフレート/Inflate",
           "description": "<p>クアイ・ダウ・トーは体を膨らませる。彼らは巨大となり、次のターンの終了時まで30フィートの飛行移動速度を得て、その後〈飛行〉する。彼らは@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態になるか、この効果を〈解除〉すると萎む。</p>"
         },
         "0Dm3vaDCIPaVUTYN": {
@@ -3082,13 +3082,13 @@
         },
         "RhGXKyPEo0bWS5D1": {
           "name": "ゾンビ・ロット/Zombie Rot",
-          "description": "<p>感染したクリーチャーは、その病気から治癒するまで、ゾンビ・ロットによって受けたダメージを回復できない。</p>\n<hr />\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:18]</p>\n<p><strong>第1段階</strong>悪影響なしのキャリア(1日)</p>\n<p><strong>第2段階</strong>ダメージ(1日)@Damage[1d6[void]]</p>\n<p><strong>第3段階</strong>ダメージ(1日)@Damage[1d6[void]]</p>\n<p><strong>第4段階</strong>ダメージ(1日)@Damage[1d6[void]]</p>\n<p><strong>第5段階</strong>死亡し、直ちにプレイグ・ゾンビとして蘇る</p>"
+          "description": "<p>感染したクリーチャーは、その病気から治癒するまで、ゾンビ・ロットによって受けたダメージを回復できない。</p>\n<hr />\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:18]</p>\n<p><strong>第1段階</strong>悪影響なしのキャリア(1日)</p>\n<p><strong>第2段階</strong>ダメージ(1日)@Damage[1d6[void]]</p>\n<p><strong>第3段階</strong>ダメージ(1日)@Damage[1d6[void]]</p>\n<p><strong>第4段階</strong>ダメージ(1日)@Damage[1d6[void]]</p>\n<p><strong>第5段階</strong>死亡し、直ちにプレーグ・ゾンビとして蘇る</p>"
         },
         "MRMj6jc7E8e5c7UF": {
           "name": "掴み"
         }
       },
-      "name": "プレイグ・ゾンビ/Plague Zombie",
+      "name": "プレーグ・ゾンビ/Plague Zombie",
       "publicNotes": "<p>Plague zombies are infested with horrible contagions.</p>\n<hr />\n<p>A zombie's only desire is to consume the living. Unthinking and ever-shambling harbingers of death, zombies stop only when they're destroyed.</p>"
     },
     "Omen Dragon (Adult)": {
@@ -3155,7 +3155,7 @@
           "name": "スティンガー"
         },
         "esaeLxI8stHVxilE": {
-          "name": "ツイスティング・テイル",
+          "name": "ツイスティング・テール",
           "description": "<p><strong>トリガー</strong>密林ドレイクの毒針のリーチ内にいるクリーチャーが、移動アクションを使用するか、使用中の移動アクションの最中にマスから離れる。</p>\n<hr />\n<p><strong>効果</strong>密林ドレイクはその毒針で対象にストライクを行う。命中した場合、密林ドレイクはそのクリーチャーのアクションを妨害する。</p>"
         },
         "rw75XVfj9XlY7JGq": {
@@ -3250,7 +3250,7 @@
           "name": "テレパシー(100フィート)"
         },
         "uGne7svJszeghy3d": {
-          "name": "プレイグセンス(不明瞭、60フィート)/Plaguesense (Imprecise) 60 feet",
+          "name": "プレーグセンス(不明瞭、60フィート)/Plaguesense (Imprecise) 60 feet",
           "description": "<p>ロイコデーモンは病気にかかっているクリーチャーを感知し、射程内にいるクリーチャーが保持しているすべての病気の種類と現在の段階を知ることができる。</p>"
         },
         "DG1zbZJXQydDgeBF": {
@@ -3265,7 +3265,7 @@
           "description": "<p>ルウコデーモンは、同じ次元界にいれば、距離に関係なく、罹患したクリーチャーとテレパシーで意思疎通できる。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:28]</p>\n<hr />\n<p><strong>第1段階</strong>キャリア(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}(1日)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2}(1日)</p>\n<p><strong>第4段階</strong>消耗2(1日)</p>\n<p><strong>第5段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗3}(1週間)</p>\n<p><strong>第6段階</strong>死亡</p>"
         },
         "cPq1a6i8dlZo6SPu": {
-          "name": "プレイグ・ブレス/Plague Breath",
+          "name": "プレーグ・ブレス/Plague Breath",
           "description": "<p>ルウコデーモンは、死体で膨れ上がった噛みつく黒いハエの雲を@Template[cone|distance:20]に吐き出す。この円錐内のクリーチャーは@Damage[4d8[piercing]|options:area-damage]ダメージを受ける(@Check[reflex|dc:28|basic|options:area-effect,inflicts:sickened]セーヴ)。セーヴに失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2})となる。</p>"
         },
         "3ViZWXlxM2CUiPGG": {
@@ -3357,8 +3357,8 @@
           "description": "<p>ドラゴンの素手の　近接ストライクはアダマンティンである。</p>"
         },
         "S1Ztj3jcXHNboSRl": {
-          "name": "アヴァランチ・ブレス/Avalanche Breath",
-          "description": "<p>そのドラゴンは岩の塊を吐き出し、@Template[cone|distance:40]の範囲内に@Damage[11d8[bludgeoning]|options:area-damage]ダメージを与える(@Check[reflex|dc:33|basic|options:area-effect]セーヴィング・スロー)。</p>\n<p>彼らは[[/gmr 1d4 #Recharge Avalanche Breath]]{1d4ラウンド}の間、再びアヴァランチ・ブレスを使用できない。</p>"
+          "name": "アバランチ・ブレス/Avalanche Breath",
+          "description": "<p>そのドラゴンは岩の塊を吐き出し、@Template[cone|distance:40]の範囲内に@Damage[11d8[bludgeoning]|options:area-damage]ダメージを与える(@Check[reflex|dc:33|basic|options:area-effect]セーヴィング・スロー)。</p>\n<p>彼らは[[/gmr 1d4 #Recharge Avalanche Breath]]{1d4ラウンド}の間、再びアバランチ・ブレスを使用できない。</p>"
         },
         "oIGArcTy5v4hSbt2": {
           "name": "バロウイング・パウンス/Burrowing Pounce",
@@ -3369,7 +3369,7 @@
           "description": "<p>ドラゴンは固い石の中を20フィートの移動速度で穴掘りできる。彼らは望むならトンネルを残すことができるが、通常はそうしない。</p>"
         },
         "uFP1Yw0V53Uii1mE": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>大型、@Damage[(3d12+7)[bludgeoning]]、Rupture 29</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "2iyCQPtD05LBG8Gz": {
@@ -3686,7 +3686,7 @@
           "description": "<p><strong>必要条件</strong>ガスララスがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}している。</p>\n<hr />\n<p><strong>効果</strong>ガスララスはそのクリーチャーを空中に放り投げ、高さ100フィート、距離50フィートまで飛ばす。放り投げられたクリーチャーが別のクリーチャーの上に落下した場合、その落下先のクリーチャーは同量の殴打ダメージを受ける。</p>\n<p>落下先のクリーチャーは@Check[reflex|dc:41|basic]セーヴを行うことができる。</p>"
         },
         "v8RLawIxRUNc3rnR": {
-          "name": "パワフル・ブロウズ/Powerful Blows",
+          "name": "パワフル・ブローズ/Powerful Blows",
           "description": "<p>ガスララスが攻撃を行い、d20のロールで出目19(自然の出目)を出した場合、その攻撃はクリティカルヒットとなる。出目19が失敗となる場合、この効果は発生しない。</p>"
         },
         "pSI2QoLhvn9RpREJ": {
@@ -3728,7 +3728,7 @@
           "name": "ヴォイド・ヒーリング"
         },
         "azVkPps7BUkHzups": {
-          "name": "ベイルフル・シュリーク/Baleful Shriek",
+          "name": "ベールフル・シュリーク/Baleful Shriek",
           "description": "<p>レヴナントは恐ろしく泣き叫ぶ。@Template[burst|distance:60]の範囲内にいる各クリーチャーは、@Check[will|dc:23]セーヴを行わなければならない。そのセーヴィング・スローの結果にかかわらず、影響を受けたクリーチャーはその後、1時間の間、Baleful Shriekに対して免疫となる。レヴナントの殺害者は、この能力の無力化トレイトのため、成功度を改善することは決してできない。</p>\n<p>レヴナントは[[/gmr 1d4 #Recharge Baleful Shriek]]{1d4ラウンド}の間、Baleful Shriekを再び使用することはできない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態となる。</p>\n<p><strong>失敗</strong>そのクリーチャーはfrightened 2状態となり、さらに@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態に1ラウンドの間なる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3}状態となり、[[/gmr 1d4 #rounds]]{1d4ラウンド}の間paralyzed状態となる。</p>"
         },
         "uekYQ2OOlHBFFZEA": {
@@ -3739,7 +3739,7 @@
           "name": "掴み"
         }
       },
-      "name": "レヴェナント/Revenant",
+      "name": "レベナント/Revenant",
       "publicNotes": "<p>Revenants are obsessed, undead stalkers who arise from their own murders and are driven by only one thing: revenge against their killers. The common wisdom is that revenants arise only from individuals who have been utterly betrayed or abandoned to die a grueling death, but even then, such victims might not rise from their graves. In other cases, revenants might even rise from what might legitimately be considered an accident if the revenant doesn't understand the full circumstances of their demise. In such cases, it doesn't matter that the \"murderer\" may not have intended to kill, for revenants understands no pity and can never forgive. Revenants have little memory of their lives other than anything they might need to recall in order to achieve their goal of vengeance.</p>"
     },
     "Dhampir Wizard": {
@@ -4068,10 +4068,10 @@
         },
         "mVB17TASKITmaKOR": {
           "name": "コンジャー・ディスガイズ",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、自身と同じサイズ以下の、見たことのあるヒューマノイドの完璧な肉体のレプリカを生成し、その中に自身を圧縮する。同時に、そのヒューマノイドにふさわしい衣服も生成する。このプロセスには1分かかり、その間、そのドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしそのドラゴンがこのプロセスを停止したり、中断されたりした場合、スーツは破壊される。プロセスが完了すると、そのドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、その変装は本質的に能動的な魔法ではなく、ディテクト・マジックや同様の効果に対して魔法として検知されることはない。そのドラゴンは変身中、ボディ・リトラクトを失う。</p>\n<p>もしそのドラゴンが変装中にクリティカルヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネイト・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い成功度を使用する。</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、自身と同じサイズ以下の、見たことのあるヒューマノイドの完璧な肉体のレプリカを生成し、その中に自身を圧縮する。同時に、そのヒューマノイドにふさわしい衣服も生成する。このプロセスには1分かかり、その間、そのドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしそのドラゴンがこのプロセスを停止したり、中断されたりした場合、スーツは破壊される。プロセスが完了すると、そのドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、その変装は本質的に能動的な魔法ではなく、ディテクト・マジックや同様の効果に対して魔法として検知されることはない。そのドラゴンは変身中、ボディ・リトラクトを失う。</p>\n<p>もしそのドラゴンが変装中にクリティカルヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネート・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い成功度を使用する。</p>"
         },
         "kK41S41L533fMggZ": {
-          "name": "デトネイト・ディスガイズ",
+          "name": "デトネート・ディスガイズ",
           "description": "<p><strong>必要条件</strong>ドラゴンが魔法で作り出した変装を身にまとっていること</p>\n<hr />\n<p><strong>効果</strong>ドラゴンが変装から飛び出し、それを破壊する。この爆発的な正体の露呈は、@Template[emanation|distance:5]内のクリーチャーに@Damage[18d6[bludgeoning]|options:area-damage]ダメージを与え、@Check[reflex|dc:39|basic|options:area-effect]セーヴを行わせる。セーヴに失敗したクリーチャーは、変装の破片を浴びて@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態に1ラウンドなる。</p>\n<p>飛び出した後、ドラゴンと同じスペースにいるクリーチャーは、最も近い空いているスペースへ押しやられる。</p>"
         },
         "lhnqwfK5RkPmG7XJ": {
@@ -4167,7 +4167,7 @@
           "name": "エレメンタル・ロア/Elemental Lore"
         }
       },
-      "name": "アイウヴァリン・エレメンタリスト/Aiuvarin Elementalist",
+      "name": "アイウーヴァリン・エレメンタリスト/Aiuvarin Elementalist",
       "publicNotes": "<p>Commonly referred to as half-elves, aiuvarins often have trouble fitting into society. This can lead to many aiuvarins diverting their full attention towards their own personal pursuits, such as studying spellcasting.</p>\n<hr />\n<p>Elves are mysterious and intelligent, and graceful and cunning in battle.</p>"
     },
     "Faydhaan": {
@@ -4288,17 +4288,17 @@
     "Animated Armor": {
       "items": {
         "MCgl5uKpwtTh48E4": {
-          "name": "グレイヴ"
+          "name": "グレイブ"
         },
         "jAZY8WC1BtImPyEF": {
           "name": "ガントレット/Gauntlet"
         },
         "GhnXpFtWM1vyvu8V": {
           "name": "構造体の装甲(硬度9)/Construct Armor (Hardness 9)",
-          "description": "<p>通常の物体と同様に、アニメイテッド・アーマーは硬度を持つ。この硬度は、それが受けるあらゆるダメージを、その硬度に等しい値だけ減少させる。アニメイテッド・アーマーのヒット・ポイントが半分未満に減少したとき、あるいはクリティカルヒットによってダメージを受けた直後に、そのコンストラクト・アーマーは破壊され、そのアーマー・クラスは13に低下する。</p>"
+          "description": "<p>通常の物体と同様に、アニメーテッド・アーマーは硬度を持つ。この硬度は、それが受けるあらゆるダメージを、その硬度に等しい値だけ減少させる。アニメーテッド・アーマーのヒット・ポイントが半分未満に減少したとき、あるいはクリティカルヒットによってダメージを受けた直後に、そのコンストラクト・アーマーは破壊され、そのアーマー・クラスは13に低下する。</p>"
         }
       },
-      "name": "アニメイテッド・アーマー/Animated Armor",
+      "name": "アニメーテッド・アーマー/Animated Armor",
       "publicNotes": "<p>Suits of animated armor see use both as guardians and as training partners in high-end martial academies able to afford the extravagance. Often, a warrior's old suit of armor can be turned into animated armor once it accrues too much battle damage to provide adequate protection. They're found most often in wizard laboratories and ancient dungeons.</p>\n<hr />\n<p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>"
     },
     "Hippocampus": {
@@ -4572,12 +4572,12 @@
           "name": "+2ステイタス・トゥ・オール・セーヴズ・ヴァーサス・アーケイン"
         },
         "PjUGlZciMNB5ad4R": {
-          "name": "シンティレイティング・ディフェンス",
+          "name": "シンティレーティング・ディフェンス",
           "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。</p>"
         },
         "9XSp9GMrL4MBcCPF": {
           "name": "キャプティヴェイティング・ディスプレイ/Captivating Display",
-          "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは頭部のひれを広げ、魅了する色彩の輝かしいディスプレイを作り出す。@Template[emanation|distance:30]内の各クリーチャーは@Check[will|dc:33|options:area-effect,inflicts:dazzled,inflicts:slowed]セーヴに成功しなければならず、失敗すると1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態かつ@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ2}状態となる)。結果にかかわらず、そのクリーチャーはその後1分の間、キャプティベイティング・ディスプレイに対して一時的な免疫となる。</p>"
+          "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは頭部のひれを広げ、魅了する色彩の輝かしいディスプレイを作り出す。@Template[emanation|distance:30]内の各クリーチャーは@Check[will|dc:33|options:area-effect,inflicts:dazzled,inflicts:slowed]セーヴに成功しなければならず、失敗すると1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態かつ@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ2}状態となる)。結果にかかわらず、そのクリーチャーはその後1分の間、キャプティベーティング・ディスプレイに対して一時的な免疫となる。</p>"
         },
         "WMdK1rdUjXn9ZjQJ": {
           "name": "ドラコニック・フレンジー",
@@ -4746,8 +4746,8 @@
           "description": "<p>ドラゴンの素手の近接ストライクはアダマンティンである。</p>"
         },
         "S1Ztj3jcXHNboSRl": {
-          "name": "アヴァランチ・ブレス",
-          "description": "<p>そのドラゴンは岩の塊を吐き出し、@Template[cone|distance:30]内の対象に@Damage[8d8[bludgeoning]|options:area-damage]のダメージを与える(@Check[reflex|dc:28|basic|options:area-effect]セーヴ)。</p>\n<p>彼らは[[/gmr 1d4 #Recharge Avalanche Breath]]{1d4ラウンド}の間、アヴァランチ・ブレスを再び使用できない。</p>"
+          "name": "アバランチ・ブレス",
+          "description": "<p>そのドラゴンは岩の塊を吐き出し、@Template[cone|distance:30]内の対象に@Damage[8d8[bludgeoning]|options:area-damage]のダメージを与える(@Check[reflex|dc:28|basic|options:area-effect]セーヴ)。</p>\n<p>彼らは[[/gmr 1d4 #Recharge Avalanche Breath]]{1d4ラウンド}の間、アバランチ・ブレスを再び使用できない。</p>"
         },
         "oIGArcTy5v4hSbt2": {
           "name": "バロウイング・パウンス",
@@ -4759,14 +4759,14 @@
         },
         "EkcaWZenNTH0adjS": {
           "name": "ドラコニック・モメンタム",
-          "description": "<p>そのドラゴンは、〈ストライク〉でクリティカルヒットを出すたびにアヴァランチ・ブレスを再充填する。</p>"
+          "description": "<p>そのドラゴンは、〈ストライク〉でクリティカルヒットを出すたびにアバランチ・ブレスを再充填する。</p>"
         },
         "GxvACJ69DbxdcfgE": {
           "name": "ロック・トンネラー",
           "description": "<p>そのドラゴンは固い石の中を20フィートの移動速度で穴掘りできる。望むならばトンネルを残すこともできるが、通常はそうしない。</p>"
         },
         "uFP1Yw0V53Uii1mE": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>中型、 @Damage[(2d12+4)[bludgeoning]]、破砕22</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "2iyCQPtD05LBG8Gz": {
@@ -4795,7 +4795,7 @@
           "name": "足"
         },
         "hbr6Uqs0GRk0t1JI": {
-          "name": "パニッシング・テイル/Punishing Tail",
+          "name": "パニッシング・テール/Punishing Tail",
           "description": "<p>アンキロサウルスの尾で攻撃されたクリーチャーは@Check[fortitude|dc:24]セーヴを行わなければならない。</p>\n<p>失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}状態となる。大失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン3}状態となる。</p>"
         },
         "qZG63nOxzyyLxiMs": {
@@ -4927,7 +4927,7 @@
           "name": "ダガー"
         },
         "jctfdTEk17wxWNxa": {
-          "name": "グレイヴ・ウェポン/Grave Weapon",
+          "name": "グレイブ・ウェポン/Grave Weapon",
           "description": "<p>そのワイトは、共に埋葬された短剣に縛り付けられている。他のワイトは異なる武器に縛り付けられている場合がある。</p>"
         },
         "Kpl3lLjfHM0hWhT5": {
@@ -5043,7 +5043,7 @@
           "name": "顎"
         },
         "HFyEFMKsCld64B15": {
-          "name": "アヴェンジング・バイト/Avenging Bite",
+          "name": "アベンジング・バイト/Avenging Bite",
           "description": "<p><strong>トリガー</strong>ウィッチワーグのリーチ内にいるクリーチャーが、ウィッチワーグの味方の1体を攻撃する。</p>\n\n<hr />\n<p><strong>効果</strong>ウィッチワーグはトリガーとなったクリーチャーに対して顎による〈ストライク〉を行う。</p>"
         },
         "hdyD6t2duHPLOLyi": {
@@ -5105,10 +5105,10 @@
         },
         "mVB17TASKITmaKOR": {
           "name": "コンジャー・ディスガイズ",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、自身と同じサイズ以下の、見たことのあるヒューマノイドの完璧な肉体のレプリカを生成し、その中に自身を圧縮する。同時に、そのヒューマノイドにふさわしい衣服も生成する。このプロセスには1分かかり、その間、そのドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしそのドラゴンがこのプロセスを停止したり、中断されたりした場合、スーツは破壊される。プロセスが完了すると、そのドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、その変装は本質的に能動的な魔法ではなく、ディテクト・マジックや同様の効果に対して魔法として検知されることはない。そのドラゴンは変身中、ボディ・リトラクトを失う。</p>\n<p>もしそのドラゴンが変装中にクリティカルヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネイト・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い成功度を使用する。</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、自身と同じサイズ以下の、見たことのあるヒューマノイドの完璧な肉体のレプリカを生成し、その中に自身を圧縮する。同時に、そのヒューマノイドにふさわしい衣服も生成する。このプロセスには1分かかり、その間、そのドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしそのドラゴンがこのプロセスを停止したり、中断されたりした場合、スーツは破壊される。プロセスが完了すると、そのドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、その変装は本質的に能動的な魔法ではなく、ディテクト・マジックや同様の効果に対して魔法として検知されることはない。そのドラゴンは変身中、ボディ・リトラクトを失う。</p>\n<p>もしそのドラゴンが変装中にクリティカルヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネート・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い成功度を使用する。</p>"
         },
         "kK41S41L533fMggZ": {
-          "name": "デトネイト・ディスガイズ",
+          "name": "デトネート・ディスガイズ",
           "description": "<p><strong>必要条件</strong>そのドラゴンは魔法で作り出した変装をまとっている。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは変装から飛び出し、それを破壊する。この爆発的な正体の露呈は、@Template[emanation|distance:5]にいるクリーチャーに対して@Check[reflex|dc:26|basic|options:area-effect]セーヴを行わせ、@Damage[9d6[bludgeoning]|options:area-damage]ダメージを与える。セーヴに失敗したクリーチャーは、変装の破片を浴びて1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p>飛び出した後、そのドラゴンとスペースを共有しているクリーチャーは、最も近い空いているスペースへ押しやられる。</p>"
         },
         "IUwmirxfv4K0PcJf": {
@@ -5239,7 +5239,7 @@
           "description": "<p>20フィート。</p>\n<p>そのドラゴンが自身の毒・ブレスを使用したあと、毒ガスの雲が1ラウンドの間、その体から放たれ続ける。その瘴気の中でターンを終了したクリーチャーは、@Damage[4d6[poison]|options:area-damage]ダメージを受ける(@Check[fortitude|dc:37|basic|options:area-effect]セーヴ)。</p>\n<p>その瘴気の中にいるクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となり、他のクリーチャーも隠蔽されているものとして扱う。そのドラゴンはこの隠蔽を見通すことができる。</p>"
         },
         "ItyDWQiPz0eJ2hOb": {
-          "name": "ツイスティング・テイル",
+          "name": "ツイスティング・テール",
           "description": "<p><strong>トリガー</strong>ドラゴンの尾のリーチ内にいるクリーチャーが、移動アクションを使用するか、使用中の移動アクションの最中にマスから離れる。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、－2のペナルティを受けて、そのクリーチャーに対して尾による〈ストライク〉を行う。その〈ストライク〉が命中した場合、そのドラゴンはそのクリーチャーのアクションを妨害する。</p>"
         },
         "Iv8LMCTGw5NLD5aD": {
@@ -5255,7 +5255,7 @@
           "description": "<p>その角のあるドラゴンは、茂み、つる、下草といった植物によって引き起こされるあらゆる移動困難地形を無視する。魔法によって操作された植物でさえ、その進行を妨げることはできない。</p>"
         },
         "3Fn7wuVzeuI4kT5H": {
-          "name": "インペイリング・チャージ",
+          "name": "インペーリング・チャージ",
           "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていないこと。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。ヒットした場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだままにしておくために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んだクリーチャーを一緒に連れて行く。</p>"
         },
         "VPryni3E3RGw5MdV": {
@@ -5402,7 +5402,7 @@
           "name": "バック"
         },
         "NWD8KA0NNOrEyrvq": {
-          "name": "フライング・ストレイフ/Flying Strafe",
+          "name": "フライング・ストレーフ/Flying Strafe",
           "description": "<p>ヒッポグリフは自身の飛行速度まで飛行(フライ)し、その移動中の任意の時点でタロンによるストライクを2回行う。各〈ストライク〉は異なるクリーチャーを対象としなければならない。これらの攻撃には通常のマルチアタック・ペナルティが適用される。</p>"
         }
       },
@@ -5646,7 +5646,7 @@
           "name": "掴み"
         }
       },
-      "name": "リヴィング・タール/Living Tar",
+      "name": "リビング・タール/Living Tar",
       "publicNotes": "<p>Most often found belowground, these oozes scour caves for objects to dissolve with their corrosive secretions. These sticky masses are often filled with bones, fossils, and discarded weaponry from adventurers.</p>\n<hr />\n<p>Slimes, molds, and other oozes can be found in dank dungeons and shadowed forests. While not necessarily evil, some grow to enormous sizes and have insatiable appetites.</p>"
     },
     "War Horse": {
@@ -5836,7 +5836,7 @@
           "name": "尾"
         },
         "ONIHyZ3rL5vCjJod": {
-          "name": "インティミデイティング・ディスプレイ/Intimidating Display",
+          "name": "インティミデーティング・ディスプレイ/Intimidating Display",
           "description": "<p>そのジャイアント・フリルド・リザードはストライドを行う。もしその移動を他の少なくとも1体のクリーチャーに隣接して終了したなら、それは突然色鮮やかな首の襟飾りを広げ、恐ろしいシューという音を立てる。隣接する各クリーチャーは@Check[will|dc:21]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3}状態)となる。</p>\n<p>そのクリーチャーはその後、1分の間、「威嚇の誇示」に対して一時的な免疫となる。</p>"
         }
       },
@@ -5859,7 +5859,7 @@
           "name": "クイル/Quill"
         },
         "HYnUw0h1bJQMkzBc": {
-          "name": "プレイナー・アクリメーション/Planar Acclimation",
+          "name": "プレーナー・アクリメーション/Planar Acclimation",
           "description": "<p>バンダースナッチは、自身がいる次元界を自身の故郷の次元界として扱う。</p>"
         },
         "pPppryZClUfw47fK": {
@@ -6080,7 +6080,7 @@
           "description": "<p><strong>トリガー</strong>敵がアルコンの味方にダメージを与え、かつその両方がアルコンから15フィート以内にいること</p>\n<hr />\n<p><strong>効果</strong>その味方はトリガーとなったダメージに対して耐性15を得る。また、アルコンはその敵に対して〈ストライク〉を行うことができる。</p>"
         },
         "LdEN5s6f2sFfdIBK": {
-          "name": "リヴィング・シールド/Living Shield",
+          "name": "リビング・シールド/Living Shield",
           "description": "<p>レケプは隣接する味方に、隣接状態でなくなるか、アルコンの次のターンの開始時までのいずれか早い方まで、ACへの+2の状況ボーナスを与える。レケプが守られている味方への攻撃に対してアルコンのプロテクションを使用する際、レケプは耐性を得て、味方の代わりにダメージを受ける。</p>\n<hr />\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.Xu7QxeF9S8ysJpuI]{効果: 生けるシールド}</p>"
         },
         "7d8ehNB4xdcJDNst": {
@@ -6434,7 +6434,7 @@
           "description": "<p><strong>使用制限</strong> 1ラウンドにつき1回</p>\n<hr />\n<p><strong>効果</strong>レイスは隣接する生きているクリーチャーに自身のローブを巻き付け、虚無の抱擁にさらす。何らかのクリーチャーがレイスの虚無の抱擁によって呪われている場合、レイスは他のクリーチャーに虚無の抱擁を課すことはできない。</p>"
         },
         "UHqRmL7WFwTZuFam": {
-          "name": "ボイドズ・エンブレイス/Void's Embrace",
+          "name": "ボイドズ・エンブレース/Void's Embrace",
           "description": "<p>日光の下で犠牲者がこの呪いに対するセーヴィング・スローに成功した場合、呪いは終了する。この呪いを受けている間、あなたを呪ったレイスの耐性を無視する。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[will|dc:24]</p><hr /><p><strong>第1段階</strong> 犠牲者はあらゆる光の下で@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる (1時間)</p>\n<p><strong>第2段階</strong> 犠牲者は生命感知(lifesense)30フィートを得るが、あらゆる光の下で@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる (1時間)</p>\n<p><strong>第3段階</strong> 第2段階と同様だが、そのクリーチャーはさらに@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.TTCw5NusiSSkJU1x]{虚無 治癒}を持つ (1時間)</p>\n<p><strong>第4段階</strong> 犠牲者は@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態となり、目覚めることができなくなる (1日)</p>\n<p><strong>第5段階</strong> そのクリーチャーは死亡してレイスとなり、その体は灰となって崩れ去る</p>"
         }
       },
@@ -6478,7 +6478,7 @@
           "name": "ウィング"
         },
         "GCyLSeOtTMt3wLur": {
-          "name": "フライング・ストレイフ",
+          "name": "フライング・ストレーフ",
           "description": "<p>そのグリフォンは自身の飛行移動速度まで飛行し、その移動中の任意の時点で2回の鉤爪のストライクを行う。各〈ストライク〉は異なるクリーチャーを対象としなければならない。これらの攻撃には通常のマルチアタック・ペナルティが適用される。</p>"
         },
         "OAt8guQQNXMQRYHW": {
@@ -6707,7 +6707,7 @@
           "description": "<p>グロブスターの触手に攻撃された生きているクリーチャーは、@Check[fortitude|dc:19]セーヴを行わなければならない。失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。そのクリーチャーがすでに病気状態である場合、その状態値は1増加し、最大で病気4となる。</p>\n<p>クリーチャーがそのセーヴィング・スローに成功すると、そのクリーチャーは24時間の間、一時的な免疫となる。</p>"
         },
         "NO59VkQbOQIqZLrI": {
-          "name": "サチュレイテッド/Saturated",
+          "name": "サチュレーテッド/Saturated",
           "description": "<p>グロブスターは水から出ても1時間の間は生存できるが、それを過ぎると溺れや窒息の危険が生じる。</p>"
         },
         "mfooCk9alzoismP0": {
@@ -6747,12 +6747,12 @@
           "name": "+2ステイタス・トゥ・オール・セーヴズ・ヴァーサス・アーケイン"
         },
         "PjUGlZciMNB5ad4R": {
-          "name": "シンティレイティング・ディフェンス",
+          "name": "シンティレーティング・ディフェンス",
           "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。</p>"
         },
         "9XSp9GMrL4MBcCPF": {
           "name": "キャプティヴェイティング・ディスプレイ",
-          "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは頭部のヒレを広げ、魅了する色彩の輝かしいディスプレイを作り出す。@Template[emanation|distance:30]内の各クリーチャーは@Check[will|dc:41|options:area-effect,inflicts:dazzled,inflicts:slowed]セーヴに成功しなければならず、失敗すると1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態かつ@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ2}状態)となる。結果にかかわらず、そのクリーチャーはその後1分の間、キャプティベイティング・ディスプレイに対して一時的な免疫となる。</p>"
+          "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは頭部のヒレを広げ、魅了する色彩の輝かしいディスプレイを作り出す。@Template[emanation|distance:30]内の各クリーチャーは@Check[will|dc:41|options:area-effect,inflicts:dazzled,inflicts:slowed]セーヴに成功しなければならず、失敗すると1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態かつ@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ2}状態)となる。結果にかかわらず、そのクリーチャーはその後1分の間、キャプティベーティング・ディスプレイに対して一時的な免疫となる。</p>"
         },
         "cuSg2YxJeOWsi3XS": {
           "name": "ハルシナトリー・ブレス",
@@ -6950,7 +6950,7 @@
           "description": "<p><strong>トリガー</strong>プレローマがセーヴィング・スローに大失敗した。</p>\n<hr />\n<p><strong>効果</strong>その大失敗は通常の失敗となる。</p>"
         },
         "U2tR8Q1CtVF8rXKj": {
-          "name": "ジェネレイト・スフィア/Generate Sphere",
+          "name": "ジェネレート・スフィア/Generate Sphere",
           "description": "<p>プレローマは直径2フィートのエネルギーの球体を出現させる。これは左手の上に浮かぶ白色の創造の球体か、右手の上に浮かぶ黒色の忘却の球体のいずれかである。このアクションは、創造の球体であれば生命力トレイトを持ち、忘却の球体であれば虚無トレイトを持つ。球体は1分経過するか、プレローマから300フィート以上離れるか、あるいはプレローマがそのタイプの球体を再度生成した時に消滅する。忘却の球体は消滅する際に瞬時に存在から消え去るが、創造の球体は眩い光を放って爆発する。@Template[emanation|distance:30]内の各クリーチャーは@Check[fortitude|dc:43]セーヴに成功しなければならず、失敗すると永続的に@UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}状態となる。これは光トレイトの効果である。</p>"
         }
       },
@@ -7246,7 +7246,7 @@
           "description": "<p>ドラゴンの素手の　近接ストライクはアダマンティンである。</p>"
         },
         "S1Ztj3jcXHNboSRl": {
-          "name": "アヴァランチ・ブレス",
+          "name": "アバランチ・ブレス",
           "description": "<p>そのドラゴンは岩の塊を吐き出し、@Template[cone|distance:40]の範囲内に@Damage[11d8[bludgeoning]|options:area-damage]ダメージを与える(@Check[reflex|dc:33|basic|options:area-effect]セーヴ)。</p>\n<p>彼らは[[/gmr 1d4 #Recharge Avalanche Breath]]{1d4ラウンド}の間、再びアバランチ・ブレスを使用できない。</p>"
         },
         "oIGArcTy5v4hSbt2": {
@@ -7259,14 +7259,14 @@
         },
         "EkcaWZenNTH0adjS": {
           "name": "ドラコニック・モメンタム",
-          "description": "<p>そのドラゴンは、〈ストライク〉でクリティカルヒットを出すたびにアヴァランチ・ブレスを再充填する。</p>"
+          "description": "<p>そのドラゴンは、〈ストライク〉でクリティカルヒットを出すたびにアバランチ・ブレスを再充填する。</p>"
         },
         "GxvACJ69DbxdcfgE": {
           "name": "ロック・トンネラー",
           "description": "<p>ドラゴンは固い石の中を20フィートの移動速度で穴掘りできる。彼らは望むならトンネルを残すことができるが、通常はそうしない。</p>"
         },
         "uFP1Yw0V53Uii1mE": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>大型、@Damage[(3d12+7)[bludgeoning]]、Rupture 29</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "2iyCQPtD05LBG8Gz": {
@@ -7296,21 +7296,21 @@
         },
         "FHYZijWKqxyPWq4b": {
           "name": "構造体の装甲(硬度10)/Construct Armor (Hardness 10)",
-          "description": "<p>通常の物体と同様に、巨大なアニメイテッド・スタチューは硬度を持つ。この硬度は、それが受けるあらゆるダメージをその硬度に等しい値だけ減少させる。巨大なアニメイテッド・スタチューのヒット・ポイントが半分未満に減少した時点、またはクリティカルヒットによってダメージを受けた直後に、そのコンストラクトの鎧は破壊され、そのアーマー・クラスは22に減少する。</p>"
+          "description": "<p>通常の物体と同様に、巨大なアニメーテッド・スタチューは硬度を持つ。この硬度は、それが受けるあらゆるダメージをその硬度に等しい値だけ減少させる。巨大なアニメーテッド・スタチューのヒット・ポイントが半分未満に減少した時点、またはクリティカルヒットによってダメージを受けた直後に、そのコンストラクトの鎧は破壊され、そのアーマー・クラスは22に減少する。</p>"
         },
         "v0n7ntTptPAp7TPz": {
           "name": "ブレイジャー/Brazier",
           "description": "<p>そのスタチューは熱い石炭で満たされた大きな火鉢を運んでいる。燃える石炭によるストライクを行ったり、生きたまま焼く(Burn Alive)を使用したりするには、スタチューはその火鉢を片手に持っているか、あるいは手が届く範囲に置いていなければならない。</p>\n<p>クリーチャーはスタチューを攻撃対象にする代わりに、直接火鉢を対象にすることができる。火鉢はスタチューと同じACとセーヴを持つ。</p>\n<p>火鉢に15の冷気ダメージを与えるか、少なくとも2ガロンの水で消火すると、石炭は消える。これにより、スタチューは生きたまま焼くを使用できなくなり、その遠隔攻撃は火炎ダメージを与えなくなる。</p>"
         },
         "M203mlcBNFvAqyIJ": {
-          "name": "バーン・アライヴ/Burn Alive",
+          "name": "バーン・アライブ/Burn Alive",
           "description": "<p>スタチューは、自身が@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態にしているクリーチャーを、火鉢の赤熱した石炭の中に押し付ける。対象は@Damage[3d8[fire],1d8[persistent,fire]]ダメージを受ける。</p>"
         },
         "J2jO45MMtWXrfesA": {
           "name": "掴み"
         }
       },
-      "name": "ジャイアント・アニメイテッド・スタチュー/Giant Animated Statue",
+      "name": "ジャイアント・アニメーテッド・スタチュー/Giant Animated Statue",
       "publicNotes": "<p>Giant animated statues' increased size and power make them most useful in large vaults, spacious chambers, or outdoor locations. Tasks beyond their capabilities typically require a more advanced construct, not an animated object.</p>\n<hr />\n<p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>"
     },
     "Empyreal Dragon (Adult)": {
@@ -7390,7 +7390,7 @@
           "name": "レッグ"
         },
         "kB3jH0EObomim8bP": {
-          "name": "テイル・ラッシュ"
+          "name": "テール・ラッシュ"
         },
         "Oqdlw7Axr5oYYU4m": {
           "name": "振動感知(不明瞭、60フィート)"
@@ -7449,8 +7449,8 @@
           "name": "顎"
         },
         "Mjlek9OZ25Tga7Cg": {
-          "name": "ピュートリッド・プレイグ",
-          "description": "<p>ピュートリッド・プレイグによる@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調}状態と@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態は、その病気が治癒するまで自然には改善しない。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:14]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のない保菌者 ([[/gmr 1d4 #hours]]{1d4時間})</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1} (1日)</p>\n<p><strong>第3段階</strong>不調1および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1} (1日)</p>\n<p><strong>第4段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶} (1日)</p>\n<p><strong>第5段階</strong>死亡</p>"
+          "name": "ピュートリッド・プレーグ",
+          "description": "<p>ピュートリッド・プレーグによる@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調}状態と@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態は、その病気が治癒するまで自然には改善しない。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:14]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のない保菌者 ([[/gmr 1d4 #hours]]{1d4時間})</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1} (1日)</p>\n<p><strong>第3段階</strong>不調1および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1} (1日)</p>\n<p><strong>第4段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶} (1日)</p>\n<p><strong>第5段階</strong>死亡</p>"
         }
       },
       "name": "ジャイアント・ラット/Giant Rat",
@@ -7468,7 +7468,7 @@
           "name": "シールド・ブロック"
         },
         "jb9E7ZFU9kKOnFns": {
-          "name": "ドワーヴン・ダウティネス/Dwarven Doughtiness",
+          "name": "ドワーブン・ダウティネス/Dwarven Doughtiness",
           "description": "<p>ドワーフは差し迫った危険に直面しても、冷静沈着であることが多い。このドワーフのターンの終了時に、彼らの恐れ状態を1ではなく2減少させる。</p>"
         },
         "cpqUwml8DxSmjuyw": {
@@ -7476,7 +7476,7 @@
           "description": "<p>ドワーフの戦士はシールドを掲げ、2回ストライドを行う。</p>"
         },
         "GxpJQqoZ231AmuaZ": {
-          "name": "ドワーヴン・ロア/Dwarven Lore"
+          "name": "ドワーブン・ロア/Dwarven Lore"
         }
       },
       "name": "ドワーフ・ウォリアー/Dwarf Warrior",
@@ -7554,7 +7554,7 @@
           "description": "<p><strong>必要条件</strong> @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態のクリーチャーがグールのリーチ内にいること</p><hr /><p><strong>効果</strong> グールはそのクリーチャーの耳元で、邪悪な思考と卑劣な渇望を囁く。そのクリーチャーは「禁じられた渇望」の呪いに対してセーヴを行わなければならない。</p>\n<p><strong>禁じられた渇望</strong> (呪い) この呪いによって病気状態の間も、クリーチャーは飲食が可能である。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[will|dc:17|traits:curse]</p>\n<p><strong>第1段階</strong> 悪影響なしの保菌者(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]] ダメージを受け、対象は生の肉を食べるまで@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる(1日)</p>\n<p><strong>第3段階</strong> 第2段階と同様</p>\n<p><strong>第4段階</strong> 対象が過去24時間の間に生の肉を食べていない限り第2段階と同様。食べていた場合、@Damage[4d6[void]] ダメージを受け、生の肉を食べるまで@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となる。</p>\n<p><strong>第5段階</strong> クリーチャーが過去24時間の間に生の肉を食べていた場合、死亡してグールとして蘇る。食べていなかった場合、第4段階に戻る。</p>"
         },
         "Eio9qRZi4Wxz6XXD": {
-          "name": "グレイヴ・ナレッジ",
+          "name": "グレイブ・ナレッジ",
           "description": "<p>[[/r 1d20+7]]{+7}〈スキル〉修正値</p>\n<hr />\n<p><strong>使用制限</strong> 1時間に1回</p>\n<hr />\n<p><strong>効果</strong> グールは過去7日の間に捕食したクリーチャーのうち1体から保持している知識を呼び出す。グールは、捕食したクリーチャーが訓練済みであったスキルを使用して、スキル判定を行う(そのクリーチャーが訓練済みであったかどうかが不明な場合、GMが決定する)。グールは訓練済みとして扱われ、グールのレベルに対する高い方のスキル修正値を使用する。これには、そのスキル判定に通常必要な量のアクションまたは時間を要する。</p>\n<p>代わりにグールは、過去7日の間に捕食したクリーチャーが知っていた特定の事柄(@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}宝の場所や愛する者の名前など)を自動的に学習することができる。グールがその肉をどれだけ捕食したかに関わらず、グールはこの能力を特定のクリーチャーに対して1回しか使用できない。</p>"
         },
         "rvraBop9oOSwcjkq": {
@@ -7615,7 +7615,7 @@
           "description": "<p>90フィート。 @Check[will|dc:31|options:area-effect,inflicts:frightened]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         "ItyDWQiPz0eJ2hOb": {
-          "name": "ツイスティング・テイル",
+          "name": "ツイスティング・テール",
           "description": "<p><strong>トリガー</strong>ドラゴンのリーチ内にいるクリーチャーが移動アクションを使用する、または使用中の移動アクションの最中にマスから離れる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、そのクリーチャーに対して-2のペナルティで尾による〈ストライク〉を行う。もしその〈ストライク〉が命中すれば、そのドラゴンはそのクリーチャーのアクションを妨害する。</p>"
         },
         "Iv8LMCTGw5NLD5aD": {
@@ -7631,7 +7631,7 @@
           "description": "<p>その角のあるドラゴンは、茂み、つる、下草といった植物によって引き起こされるあらゆる移動困難地形を無視する。魔法によって操作された植物でさえ、その進行を妨げることはできない。</p>"
         },
         "3Fn7wuVzeuI4kT5H": {
-          "name": "インペイリング・チャージ",
+          "name": "インペーリング・チャージ",
           "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが突き刺さっていない</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。命中した場合、対象はドラゴンの角に突き刺さった状態となる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、突き刺したクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動すれば、彼らは掴んだクリーチャーを一緒に連れて行く。</p>"
         },
         "VPryni3E3RGw5MdV": {
@@ -7808,7 +7808,7 @@
           "description": "<p><strong>必要条件</strong>対象は水中に完全に沈んでおり、マーフォーク・ウェイヴコーラーから30フィート以内で、息を止めていること。</p>\n<hr />\n<p><strong>効果</strong>マーフォーク・ウェイヴコーラーは潮を操って敵の喉を締め上げ、対象をその場に固定し、貴重な空気を吐き出させる。対象は@Check[fortitude|dc:18]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となり、1ラウンドの間、直ちに[[/gmr 1d4 #rounds]]{1d4 rounds}分の空気を失う(大失敗した場合はその2倍)。</p>"
         }
       },
-      "name": "マーフォーク・ウェイブコーラー/Merfolk Wavecaller",
+      "name": "マーフォーク・ウェーブコーラー/Merfolk Wavecaller",
       "publicNotes": "<p>Merfolk wavecallers use their primal magic to defend their people. Their ability to asphyxiate airbreathers makes them crucial when surface dwellers invade.</p>\n<hr />\n<p>Elegant, mysterious, and graceful; all this and more can be said of merfolk. These enigmatic people resemble humanoids with delicate features from the waist up but with the fins and tail of a massive fish from the waist down. Found in nearly all of Golarion's oceans, merfolk are as varied in appearance as humans, their skin ranging from pale to umber and all shades in between, while their gleaming scales shimmer with the majesty of the sea.</p>"
     },
     "Vrolikai": {
@@ -7898,7 +7898,7 @@
           "description": "<p><strong>必要条件</strong>コボルドの洞窟魔術師が少なくとも1体の敵に隣接している</p>\n<hr />\n<p><strong>効果</strong>コボルドの洞窟魔術師は自身の移動速度に5フィートを加えた距離までストライドを行い、この移動によって誘発されるリアクションに対して、ACに+2の状況ボーナスを得る。彼らはこの移動を、どの敵にも隣接していないマスで終了しなければならない。</p>"
         }
       },
-      "name": "コボルド・キャヴァーン・メイジ/Kobold Cavern Mage",
+      "name": "コボルド・キャバーン・メイジ/Kobold Cavern Mage",
       "publicNotes": "<p>Kobold cavern mages are born more than trained, hatching from eggs that absorbed particularly large amounts of primal earth energy. Although there are many elementals and even natural terrain features that can give rise to cavern mages, most are related to the cavern-dwelling earth nymphs known as lampads. These lonely and capricious fey are as enthusiastic to receive the company of a kobold tribe as the kobolds are for the protection they receive in return.</p>\n<hr />\n<p>Kobolds are small reptilian humanoids. They lurk in dark spaces, usually tunnels and mines beneath the earth, in either warrens of their own design or complexes discovered and colonized after the original builders have moved on. Though kobolds are far more pragmatic than courageous, they use every inch of their cunning to even the playing field between themselves and other, stronger creatures. They attack from the darkness and at range, and kobold artificers and engineers master the art of simple but effective traps, which they use to protect their lairs. Kobolds are skilled at working together by necessity, and they often set up ambushes or hit-and-run assaults that allow them to do the most damage possible without being harmed in return.</p>\n<p>Kobolds are diligent and hardworking creatures. While some kobolds live in communal collectives that maintain neutral relations with the creatures around them, they can be easily swayed into serving malevolent powers or megalomaniacal leaders. This is in part due to kobolds' innate pragmatism, as they would rather concede to servitude than risk being killed, but it is also in part due to a reverence for the power they generally lack. Notably, kobold eggs left in the proximity of magical creatures or places tend to absorb similar traits from the exposure. The resulting physical changes mark the appearance of each tribe, but a few lucky kobolds are also born with magical power that reflects their tribe's patron.</p>"
     },
     "Tiger": {
@@ -7952,7 +7952,7 @@
           "description": "<p>マグマ・ワームはターンの終了時に@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}、@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン}状態から回復する。また、自身の移動速度へのペナルティおよび@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態に対して免疫であり、移動困難地形およびより移動困難な地形を無視する。</p>"
         },
         "fifv91vxtwlIpzXx": {
-          "name": "ファスト・スワロウ/Fast Swallow",
+          "name": "ファスト・スワロー/Fast Swallow",
           "description": "<p><strong>トリガー</strong>そのワームがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}した時</p>\n<hr />\n<p><strong>効果</strong>そのワームはSwallow Wholeを使用する。</p>"
         },
         "hdZW9dGdp8kUzUjv": {
@@ -7968,7 +7968,7 @@
           "description": "<p>マグマ・ワームは固い石の中を移動速度20フィートで穴掘り移動できる。望むならばトンネルを残すことができ、通常はそうする。</p>"
         },
         "8VCoSCtEbUqhtmnI": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>超大型、@Damage[(3d10+10)[bludgeoning],2d6[fire]]、Rupture 36</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "D1ZUrE1107HIW39r": {
@@ -8205,7 +8205,7 @@
           ]
         }
       ],
-      "name": "アザーケティ・タイド・テイマー/Azarketi Tide Tamer",
+      "name": "アザルケティ・タイド・テイマー/Azarketi Tide Tamer",
       "publicNotes": "<p>The most ambitious and capable azarketis become tide tamers, learning how to speak with and train aquatic animals.</p>\n<hr />\n<p>Azarketis, also known as gillmen, can be found all over Golarion, with a particularly high concentration around Absalom and the Inner Sea. Descendants of the ancient Azlanti, the azarketis survived the cataclysm of Earthfall by fleeing into the ocean, where they were warped into amphibious forms by the alghollthu.</p>"
     },
     "Hobgoblin Archer": {
@@ -8438,7 +8438,7 @@
           "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:22]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d10[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[2d10[poison]]ダメージおよびenfeebled 1(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[2d10[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}(1ラウンド)</p>"
         }
       },
-      "name": "マンティコア（スコーピオン・テイル）/Manticore (Scorpion Tail)",
+      "name": "マンティコア（スコーピオン・テール）/Manticore (Scorpion Tail)",
       "publicNotes": "<p>A manticore is a monstrous amalgamation of lion, dragon, and human with a penchant for feasting on human flesh. Its distinctive tail is festooned with large quills like those of a porcupine, which the manticore flings at prey by whipping its tail like a sling. These deadly spikes give the manticore the power to slaughter even well-armed warriors from the safety of the sky.</p>\n<p>Although the anthropomorphic face of the manticore suggests a keen intellect, most creatures of its kind are single-minded killers. They can be clever liars, however, and their voices have a strangely musical sound that has lured many unwitting travelers into an ambush. A manticore discovered by uneducated or spiteful humanoids can sometimes become the center of adoration and even worship. A manticore in this situation swiftly gives in to its laziness and allows its acolytes to bring it tribute in the form of food and treasure, feasting upon its own followers when offerings become scarce. Stronger humanoids who encounter a manticore can cow it through intimidation and violence, sometimes even forcing it into service as a mount. As long as the manticore is well fed with human flesh and its master leads it to victory, a manticore mount can prove surprisingly loyal.</p>\n<p>A manticore enjoys taking plunder from the corpses of its prey as trophies that flatter its vanity and testify to its strength. It has little interest in money, but sometimes accepts gold and jewels as tribute. Because manticores prefer lonely places in the wilderness far from humanoids, they remain content to enjoy their spoils alone rather than show them off to visitors.</p>"
     },
     "Giant Flytrap": {
@@ -8462,7 +8462,7 @@
           "description": "<p>フライトラップはそれぞれ異なる対象に対して、-2のペナルティで4回の葉のストライクを行う。これらの攻撃はフライトラップのマルチアタック・ペナルティに数えられるが、マルチアタック・ペナルティはすべての攻撃を行った後まで増加しない。</p>"
         },
         "FEiMSx6vAjQ1oKaY": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>大型、@Damage[(2d8+3)[bludgeoning],(2d6)[acid]]、破裂17</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "3nwKZarzSffmcKzH": {
@@ -8621,8 +8621,8 @@
           "description": "<p>ドラゴンの素手の　近接ストライクはアダマンティンである。</p>"
         },
         "S1Ztj3jcXHNboSRl": {
-          "name": "アヴァランチ・ブレス",
-          "description": "<p>そのドラゴンは岩の塊を吐き出し、@Damage[15d8[bludgeoning]|options:area-damage]ダメージを@Template[cone|distance:40]の範囲に与える(@Check[reflex|dc:40|basic|options:area-effect]セーヴ)。</p>\n<p>彼らは[[/gmr 1d4 #Recharge Avalanche Breath]]{1d4ラウンド}の間、アヴァランチ・ブレスを再び使用できない。</p>"
+          "name": "アバランチ・ブレス",
+          "description": "<p>そのドラゴンは岩の塊を吐き出し、@Damage[15d8[bludgeoning]|options:area-damage]ダメージを@Template[cone|distance:40]の範囲に与える(@Check[reflex|dc:40|basic|options:area-effect]セーヴ)。</p>\n<p>彼らは[[/gmr 1d4 #Recharge Avalanche Breath]]{1d4ラウンド}の間、アバランチ・ブレスを再び使用できない。</p>"
         },
         "oIGArcTy5v4hSbt2": {
           "name": "バロウイング・パウンス",
@@ -8634,18 +8634,18 @@
         },
         "EkcaWZenNTH0adjS": {
           "name": "ドラコニック・モメンタム",
-          "description": "<p>そのドラゴンは、〈ストライク〉でクリティカルヒットを出すたびに、アヴァランチ・ブレスをリチャージする。</p>"
+          "description": "<p>そのドラゴンは、〈ストライク〉でクリティカルヒットを出すたびに、アバランチ・ブレスをリチャージする。</p>"
         },
         "kqrMTY4rXUkU8TAS": {
-          "name": "ファスト・スワロウ",
-          "description": "<p><strong>トリガー</strong>そのドラゴンがクリーチャーをグラブした。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンはスワロウ・ホールを使用する。</p>"
+          "name": "ファスト・スワロー",
+          "description": "<p><strong>トリガー</strong>そのドラゴンがクリーチャーをグラブした。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンはスワロー・ホールを使用する。</p>"
         },
         "GxvACJ69DbxdcfgE": {
           "name": "ロック・トンネラー",
           "description": "<p>ドラゴンは固い石の中を20フィートの移動速度で穴掘りできる。彼らは望むならトンネルを残すことができるが、通常はそうしない。</p>"
         },
         "uFP1Yw0V53Uii1mE": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>大型、@Damage[(3d12+14)[bludgeoning]]、破裂35</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "2iyCQPtD05LBG8Gz": {
@@ -8712,7 +8712,7 @@
           "name": "ショック/Shock"
         },
         "wChn2PEw9GYziq2n": {
-          "name": "グロウ/Glow",
+          "name": "グロー/Glow",
           "description": "<p>20フィート。</p>\n<p>ウィル・オ・ウィスプは本来不可視であるが、有色の光を放っており、そのオーラ内に明るい光を放ち、自身を可視状態にしている。</p>"
         },
         "F8xpT7h5a5ZviXU5": {
@@ -8919,7 +8919,7 @@
         },
         "pNhF7GFjrQ8VQQ9Y": {
           "name": "カヴン/Coven",
-          "description": "<p>カッコウ・ハグは、自身のコーヴンの呪文に@UUID[Compendium.pf2e.spells-srd.Item.OsOhx3TGIZ7AhD0P]{ドミネイト}、@UUID[Compendium.pf2e.spells-srd.Item.Uqj344bezBq3ESdq]{ナイトメア}、@UUID[Compendium.pf2e.spells-srd.Item.KSAEhNfZyXMO7Z7V]{アウトキャストズ・カース}、そして@UUID[Compendium.pf2e.spells-srd.Item.r784cIz17eWujtQj]{スクライング}を加える。</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
+          "description": "<p>カッコウ・ハグは、自身のコーヴンの呪文に@UUID[Compendium.pf2e.spells-srd.Item.OsOhx3TGIZ7AhD0P]{ドミネート}、@UUID[Compendium.pf2e.spells-srd.Item.Uqj344bezBq3ESdq]{ナイトメア}、@UUID[Compendium.pf2e.spells-srd.Item.KSAEhNfZyXMO7Z7V]{アウトキャストズ・カース}、そして@UUID[Compendium.pf2e.spells-srd.Item.r784cIz17eWujtQj]{スクライング}を加える。</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
         },
         "YfGqOsiIhx0TaiUj": {
           "name": "+1・ステイタス・トゥ・オール・セーヴズ・ヴァーサス・マジック"
@@ -8971,7 +8971,7 @@
           "description": "<p>スウォームのスペース内にいる各ステュピファイド状態のクリーチャーは、スウォームがアウター・リフトの終わりのない合唱をわめき立てる中、 @Check[will|dc:21]セーヴィング・スローを行わなければならない。</p><hr /><p><strong>クリティカル成功</strong>対象は影響を受けず、 1分の間、マッドニング・ギバーズに対して一時的な免疫となる。</p>\n<p><strong>成功</strong>対象は影響を受けず、 1ラウンドの間、マッドニング・ギバーズに対して免疫となる。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となり、 1ラウンドの間持続する。</p>\n<p><strong>クリティカル失敗</strong>対象は1ラウンドの間コンフューズド状態となり、この方法でコンフューズド状態である間はフィーンドを対象に取ることができない。</p>"
         },
         "1IPpNFHT1dgYNnrz": {
-          "name": "ラヴェナス・バイツ/Ravenous Bites",
+          "name": "ラベナス・バイツ/Ravenous Bites",
           "description": "<p>スウォームの占める空間にいる各敵は@Damage[3d6[piercing]]ダメージを受ける(@Check[fortitude|dc:20|basic]セーヴ)。セーヴに失敗したクリーチャーは、さらに1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}状態となる。</p>"
         }
       },
@@ -9015,7 +9015,7 @@
           "description": "<p>トラブルメーカーは、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーに対して1d6の追加の精密ダメージを与える。</p>"
         }
       },
-      "name": "ハーフリング・トラブルメイカー/Halfling Troublemaker",
+      "name": "ハーフリング・トラブルメーカー/Halfling Troublemaker",
       "publicNotes": "<p>A halfling's bravado can sometimes lead them into trouble. These tricksters often roam in groups trying to one-up each other's last prank. While troublemakers rarely intend to kill, occasionally their pranks get out of hand.</p>\n<hr />\n<p>Despite their small stature, a halfling can prove to be a mighty foe if you find yourself on the wrong side of their frying pan.</p>"
     },
     "Jinkin": {
@@ -9069,7 +9069,7 @@
         },
         "51uNm4VZXCCKduJt": {
           "name": "カヴン/Coven",
-          "description": "<p>アイアン・ハグは、自身のコーヴンの呪文に@UUID[Compendium.pf2e.spells-srd.Item.gPvtmKMRpg9I9D7H]{アースバインド}、 @UUID[Compendium.pf2e.spells-srd.Item.oXeEbcUdgJGWHGEJ]{インペイリング・スパイク}、そして@UUID[Compendium.pf2e.spells-srd.Item.8Umt1AzYfFbC4fui]{スペルラック}を加える。コーヴンを率いている時の彼女たちの呪文 DCは24である。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
+          "description": "<p>アイアン・ハグは、自身のコーヴンの呪文に@UUID[Compendium.pf2e.spells-srd.Item.gPvtmKMRpg9I9D7H]{アースバインド}、 @UUID[Compendium.pf2e.spells-srd.Item.oXeEbcUdgJGWHGEJ]{インペーリング・スパイク}、そして@UUID[Compendium.pf2e.spells-srd.Item.8Umt1AzYfFbC4fui]{スペルラック}を加える。コーヴンを率いている時の彼女たちの呪文 DCは24である。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
         },
         "S4fkYk7Id7nDaDF3": {
           "name": "+1・ステイタス・トゥ・オール・セーヴズ・ヴァーサス・マジック"
@@ -9083,7 +9083,7 @@
           "description": "<p>アイアン・ハグは、任意の中型の女性ヒューマノイドの姿をとることができる。これによってその移動速度やストライクの攻撃ボーナスおよびダメージボーナスが変化することはないが、ストライクが与えるダメージ種別(通常は殴打に変更される)が変化する可能性がある。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "y5dVpyMy5aFYReOk": {
-          "name": "エンブレイス・オブ・アイアン/Embrace of Iron",
+          "name": "エンブレース・オブ・アイアン/Embrace of Iron",
           "description": "<p><strong>必要条件</strong>クリーチャーがアイアン・ハグの爪によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態か@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態であること</p>\n<hr />\n<p><strong>効果</strong>ハグの爪が捕らえた犠牲者を切り裂き、@Damage[2d8[piercing]|traits:cold-iron]ダメージを与える(この爪は冷たい鉄である)。その後、ハグはそのクリーチャーに対して@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}を試みることができる。もしそのクリーチャーがハグに隣接しているなら、ハグは続けてそれに対して顎による〈ストライク〉を行うことができる。</p>"
         },
         "3ps9jwhU6IKTI1lp": {
@@ -9166,7 +9166,7 @@
           "name": "コープス・ウェイヴ/Corpse Wave"
         },
         "QKtfubIn7OYITmUL": {
-          "name": "アニメイテッド・武器/Animated Weapon"
+          "name": "アニメーテッド・武器/Animated Weapon"
         },
         "Xd6tMydNtV3GyWPm": {
           "name": "スクラップ・ボール/Scrap Ball"
@@ -9185,7 +9185,7 @@
           "name": "ヴォイド・ヒーリング"
         },
         "qaGJzO6SddpAXZKg": {
-          "name": "アニメイテッド・ウェポンズ/Animated Weapons",
+          "name": "アニメーテッド・ウェポンズ/Animated Weapons",
           "description": "<p>100フィート。</p>\n<p>ウォースウォーンはオーラ内にある保持していないの武器を自動的に制御し、それらはウォースウォーンの周囲を浮遊する。ウォースウォーンは念動力によってこれらの武器を装備し、リーチ100フィートの近接ストライクを行うことができる。これらのストライクは、その武器のダメージ・ダイス4個＋9のダメージを与え、その武器のダメージ種別を使用する。</p>"
         },
         "yLFnxHxGno0eHAjr": {
@@ -9390,7 +9390,7 @@
         },
         "oKuYToU9Nv9ALIIv": {
           "name": "リジュヴェネーション",
-          "description": "<p>グレイヴナイトが破壊されると、その鎧は[[/gmr 1d10]]日かけて肉体を再構築する。もしその鎧が生きている宿主に着用されている場合は、より早く再構築される。それ以前に肉体が破壊された場合、プロセスは最初からやり直しとなる。</p>\n<p>グレイヴナイトを完全に破壊するには、鎧を消滅させる(@UUID[Compendium.pf2e.spells-srd.Item.r7ihOgKv19eJQnik]{ディスインテグレイト}などを使用する)、クリエイションのフォージへ運ぶ、あるいは火山の火口に投げ込むといった方法しかない。</p>"
+          "description": "<p>グレイヴナイトが破壊されると、その鎧は[[/gmr 1d10]]日かけて肉体を再構築する。もしその鎧が生きている宿主に着用されている場合は、より早く再構築される。それ以前に肉体が破壊された場合、プロセスは最初からやり直しとなる。</p>\n<p>グレイヴナイトを完全に破壊するには、鎧を消滅させる(@UUID[Compendium.pf2e.spells-srd.Item.r7ihOgKv19eJQnik]{ディスインテグレート}などを使用する)、クリエイションのフォージへ運ぶ、あるいは火山の火口に投げ込むといった方法しかない。</p>"
         },
         "xH6NrBw4bYEHU7e3": {
           "name": "サクリリジャス・オーラ/Sacrilegious Aura",
@@ -9400,7 +9400,7 @@
           "name": "ヴォイド・ヒーリング"
         },
         "1UmNfowZ4HWxS9rx": {
-          "name": "デヴァステイティング・ブラスト/Devastating Blast",
+          "name": "デバステーティング・ブラスト/Devastating Blast",
           "description": "<p>グレイヴナイトはエネルギーの@Template[cone|distance:30]を解き放つ。範囲内にいるクリーチャーは@Damage[11d6[cold]|options:area-damage]を受け、@Check[reflex|dc:29|basic|options:area-effect]を行わなければならない。</p>\n<p>グレイヴナイトはこの能力を[[/gmr 1d4 #Recharge Devastating Blast]]ラウンドに1回使用できる。</p>"
         },
         "snOrUVs5f8v8gtuP": {
@@ -9452,7 +9452,7 @@
           "description": "<p>サキュバスは、あらゆる小型または中型のヒューマノイドの姿をとることができる。これは彼らの移動速度や、ストライクによる攻撃修正値およびダメージ修正値を変更することはないが、ストライクが与えるダメージ種別(通常は殴打)を変更する可能性がある。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "vkMvsL1nrlHkiJQQ": {
-          "name": "エンブレイス/Embrace",
+          "name": "エンブレース/Embrace",
           "description": "<p>サキュバスは《運動》の代わりに《交渉》ボーナスを使用してクリーチャーを[[/act grapple skill=diplomacy]]しようと試みる。対象のクリーチャーが同意している場合、サキュバスは自動的に成功する。</p>"
         }
       },
@@ -9672,7 +9672,7 @@
           "description": "<p>20フィート。@Damage[4d6[fire]|options:area-damage]、@Check[reflex|dc:37|basic|options:area-effect]セーヴ。</p>\n<p>このオーラが有効な間、フェニックスに近接攻撃を命中させるか、あるいはその他の方法で彼らに接触した隣接するクリーチャーは、@Damage[2d6[fire]]ダメージを受ける。フェニックスは1アクションでこのオーラを起動または停止できる。このアクションは集中(コンセントレイト)のトレイトを持つ。</p>"
         },
         "eBfnitbq2Wb56ZRG": {
-          "name": "フレイミング・ストレイフ/Flaming Strafe",
+          "name": "フレイミング・ストレーフ/Flaming Strafe",
           "description": "<p>フェニックスは超高温の炎を纏って輝き、自身の移動速度まで飛行(フライ)する。彼らが通過する各マスの20フィート以内にいる各クリーチャーに@Damage[6d6[fire]]ダメージを与える(@Check[reflex|dc:37|basic]セーヴ)。</p>"
         }
       },
@@ -10088,7 +10088,7 @@
           "description": "<p>ストーンキャスターは足元の地面を震わせる。@Template[emanation|distance:10]内にいて地面に接している各クリーチャーは、@Check[fortitude|dc:21|basic|options:area-effect,inflicts:prone]セーヴを行い、@Damage[2d8[bludgeoning]|options:area-damage]ダメージを受ける。大失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
         },
         "KNVsyoI6UUP4bDvA": {
-          "name": "ドワーヴン・ロア"
+          "name": "ドワーブン・ロア"
         }
       },
       "name": "ドワーフ・ストーンキャスター/Dwarf Stonecaster",
@@ -10118,7 +10118,7 @@
           "description": "<p>ラクタヴァルナは超小型の無生物の姿をとる。変身中にラクタヴァルナが純粋に精神的なもの(〈思い出す〉など)以外のアクションを行うと、即座に元の姿に戻る。それまでは、《欺瞞》を使用してその物体に〈なりすます〉ことができる。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "IE75LW4gCgc5TOPJ": {
-          "name": "デジグネイト・マスター/Designate Master",
+          "name": "デジグネート・マスター/Designate Master",
           "description": "<p>ラクタヴァルナは、別のクリーチャーと共に10分の詠唱を行う。そのクリーチャーは、ラクタヴァルナが死亡するか、この効果を終了させるまで、ラクタヴァルナの主人となる。主人は、この絆が続く限り、マスター's Eyesというアクティビティを得る。</p>\n<p>@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.1obHWaFiFI1pnC3R]{マスター's Eye}</p>"
         },
         "bgr9Qyvp6pX1W3KQ": {
@@ -10159,7 +10159,7 @@
           "name": "尾"
         },
         "jbjsVEFvVsslwVHa": {
-          "name": "テイル・ラッシュ/Tail Lash",
+          "name": "テール・ラッシュ/Tail Lash",
           "description": "<p><strong>トリガー</strong>川のドレイクのリーチ内にいるクリーチャーが、アクションを使用して〈ストライク〉を行うか、スキル判定を行う。</p>\n<hr />\n<p><strong>効果</strong>川のドレイクは、その尾を使ってトリガーとなったクリーチャーに〈ストライク〉を行う。命中した場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: Tail Lash}</p>"
         },
         "xheziaVMnj1iAjP5": {
@@ -10350,7 +10350,7 @@
           "name": "ショートソード"
         },
         "xH8E3TYe6R3G6KEv": {
-          "name": "ロケイト・イーオン/Locate Aeon",
+          "name": "ロケート・イーオン/Locate Aeon",
           "description": "<p>アービターは、その次元界上で最も近いアービター以外のイーオンの方向を常に感知できるが、そのイーオンまでの距離を感知することはできない。</p>"
         },
         "kayBhD4IXys5Ppt8": {
@@ -10559,7 +10559,7 @@
           "name": "ノックダウン"
         }
       },
-      "name": "エレメンタル・アヴァランチ/Elemental Avalanche",
+      "name": "エレメンタル・アバランチ/Elemental Avalanche",
       "publicNotes": "<p>Stubborn and ponderous, elemental avalanches are massive beings of living rock and dirt. Once their ire is raised, they will take the shortest route to resolving the problem, usually by burying it in rock.</p>\n<hr />\n<p>Earth elementals make excellent bodyguards for adventuresome spelunkers and are ideal protectors of important subterranean locations such as vaults and treasuries.</p>"
     },
     "Empyreal Dragon (Ancient, Spellcaster)": {
@@ -10760,7 +10760,7 @@
           "description": "<p>ラージャ・クローダは、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーに対して2d6の追加精密ダメージを与える。</p>"
         },
         "JDzXvNjrTE7u1cNi": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>中型、@Damage[(2d12+6)[bludgeoning]]、Rupture 15</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "zLcSqQtp0M4z3yDF": {
@@ -10851,7 +10851,7 @@
           "name": "爪"
         },
         "nQA2ksXUJhTw0O7I": {
-          "name": "グレイヴ"
+          "name": "グレイブ"
         },
         "hk7qH9BpvzM7rFGe": {
           "name": "シン・セント(不明瞭、30フィート)",
@@ -10959,8 +10959,8 @@
           "description": "<p>クリーチャーが〈Drink Blood〉によって0 HPまで減少した後に死亡した場合、ヴァンパイアは自身の血の一部をその犠牲者に与え、3夜の間その犠牲者を地中に埋めることで、その犠牲者をヴァンパイアの従者へと変えることができる。</p>\n<p>ヴァンパイアの従者はその創造者に従うことを強制されるが、ヴァンパイアが一度にあまりにも多くのヴァンパイアの従者を制御している場合(GMの判断によって)、あるいは従者がそれを創造したヴァンパイアよりも高いレベルである場合、意志の強い従者はヴァンパイアの意志 DCに対する @Check[will|defense:will] セーヴィング・スローに成功することで、自らを解放できる。</p>"
         },
         "AWS8p85NHI3IGL2n": {
-          "name": "ドミネイト/Dominate",
-          "description": "<p>ヴァンパイアは@UUID[Compendium.pf2e.spells-srd.Item.OsOhx3TGIZ7AhD0P]{ドミネイト}を、信仰の生得呪文として望むままに発動できる。これを発動するには対象の目を見つめる必要があり、この呪文に視覚トレイトを与える(@Check[will|dc:22])。セーヴ DCはヴァンパイアのレベルの呪文 DC(高)を使用し、成功したクリーチャーはそのヴァンパイアのドミネイトに対して24時間の間一時的な免疫となる。</p>\n<p>ヴァンパイアを完全に滅ぼせば支配は終了するが、単にヴァンパイアを0 HPまで減少させるだけでは呪文を打ち破るには不十分である。</p>"
+          "name": "ドミネート/Dominate",
+          "description": "<p>ヴァンパイアは@UUID[Compendium.pf2e.spells-srd.Item.OsOhx3TGIZ7AhD0P]{ドミネート}を、信仰の生得呪文として望むままに発動できる。これを発動するには対象の目を見つめる必要があり、この呪文に視覚トレイトを与える(@Check[will|dc:22])。セーヴ DCはヴァンパイアのレベルの呪文 DC(高)を使用し、成功したクリーチャーはそのヴァンパイアのドミネートに対して24時間の間一時的な免疫となる。</p>\n<p>ヴァンパイアを完全に滅ぼせば支配は終了するが、単にヴァンパイアを0 HPまで減少させるだけでは呪文を打ち破るには不十分である。</p>"
         },
         "KESgZ7EFPclSlLY8": {
           "name": "ドリンク・ブラッド",
@@ -11018,7 +11018,7 @@
           "description": "<p>ドラゴンの素手の　近接ストライクはアダマンティンである。</p>"
         },
         "S1Ztj3jcXHNboSRl": {
-          "name": "アヴァランチ・ブレス",
+          "name": "アバランチ・ブレス",
           "description": "<p>そのドラゴンは岩の塊を吐き出し、@Template[cone|distance:40]内で@Damage[15d8[bludgeoning]|options:area-damage]ダメージを与える(@Check[reflex|dc:40|basic|options:area-effect]セーヴ)。</p>\n<p>それは[[/gmr 1d4 #Recharge Avalanche Breath]]{1d4ラウンド}の間、アバランチ・ブレスを再び使用できない。</p>"
         },
         "oIGArcTy5v4hSbt2": {
@@ -11026,15 +11026,15 @@
           "description": "<p><strong>必要条件</strong>ドラゴンが穴掘り状態である</p>\n<hr />\n<p><strong>効果</strong>ドラゴンは穴掘りを行い、その後地面から跳躍し、25フィート以内の地点に着地する。ドラゴンは着地した際、リーチ内のクリーチャーに対して近接〈ストライク〉を行う。その〈ストライク〉がクリティカルヒットだった場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になる。</p>"
         },
         "kqrMTY4rXUkU8TAS": {
-          "name": "ファスト・スワロウ",
-          "description": "<p><strong>トリガー</strong>そのドラゴンがクリーチャーをグラブした。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンはスワロウ・ホールを使用する。</p>"
+          "name": "ファスト・スワロー",
+          "description": "<p><strong>トリガー</strong>そのドラゴンがクリーチャーをグラブした。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンはスワロー・ホールを使用する。</p>"
         },
         "GxvACJ69DbxdcfgE": {
           "name": "ロック・トンネラー",
           "description": "<p>ドラゴンは固い石の中を20フィートの移動速度で穴掘りできる。彼らは望むならトンネルを残すことができるが、通常はそうしない。</p>"
         },
         "uFP1Yw0V53Uii1mE": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>大型、@Damage[(3d12+14)[bludgeoning]]、破裂35</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "2iyCQPtD05LBG8Gz": {
@@ -11095,7 +11095,7 @@
           "description": "<p>そのシー・サーペントは背中の棘を広げ、水泳(Swim)またはストライド(Stride)を行う。移動中のいずれかの時点でサーペントに隣接した各クリーチャーは、@Damage[(4d6+8)[slashing]]ダメージを受ける(@Check[reflex|dc:32|basic]セーヴ)。</p>"
         },
         "4tsSsz41K5abcM8D": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>超大型、@Damage[(2d10+6)[bludgeoning]]、Rupture 20</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "WQlpCiZyHiNu4LE0": {
@@ -11127,7 +11127,7 @@
           "description": "<p><strong>必要条件</strong>リビング・ワイルドファイアの最後のアクションが火炎ダメージを与えた〈ストライク〉であったこと。</p>\n<hr />\n<p><strong>効果</strong>火炎が燃え上がり、その対象に隣接する各クリーチャーに@Damage[3d6[fire]]ダメージを与える。 @Check[reflex|dc:19|basic]セーヴを行うこと。</p>"
         }
       },
-      "name": "リヴィング・ワイルドファイア/Living Wildfire",
+      "name": "リビング・ワイルドファイア/Living Wildfire",
       "publicNotes": "<p>Living wildfires appear as humanoids made of living fire, burning everything they come across for the pure joy of it. Summoners take advantage of this joy and the elementals' explosive ends to spread destruction.</p>\n<hr />\n<p>Fire elementals are destructive manifestations of the scorching Plane of Fire. Although most fire elementals revel in the chance to experience new kinds of fires away from their home plane, even the most considerate fire elemental can be a danger to humanoids and their property.</p>"
     },
     "Catfolk Pouncer": {
@@ -11346,7 +11346,7 @@
           "name": "ショートソード/Shortsword"
         },
         "ltvMN7K0itu2l3WZ": {
-          "name": "スネイク・ファングズ/Snake Fangs"
+          "name": "スネーク・ファングズ/Snake Fangs"
         },
         "F8wXzsUNliJVU8bv": {
           "name": "コンポジット・ショートボウ/Composite Shortbow"
@@ -11355,7 +11355,7 @@
           "name": "全方位視覚"
         },
         "zGXZKhk95VPsSdKN": {
-          "name": "バイティング・スネイクス/Biting Snakes",
+          "name": "バイティング・スネークス/Biting Snakes",
           "description": "<p><strong>トリガー</strong>クリーチャーがメデューサに隣接してターンを終了する。</p>\n<hr />\n<p><strong>効果</strong>メデューサはそのクリーチャーに対してスネーク・ファングの〈ストライク〉を行う。</p>"
         },
         "hSGaU1UT8mzmPFWl": {
@@ -11740,7 +11740,7 @@
           "description": "<p>ハイヴ・マザーは@Template[cone|distance:60]に酸を噴き出し、@Damage[8d6[acid],1d6[persistent,acid]|options:area-damage]{8d6の酸ダメージと1d6の持続酸ダメージ}を与える(@Check[reflex|dc:26|basic|options:area-effect]セーヴ)。</p>\n<p>ハイヴ・マザーは[[/gmr 1d4 #Recharge Spray Acid]]{1d4ラウンド}の間、再び酸を噴き出すことはできない。</p>"
         }
       },
-      "name": "アンクラブ・ハイブ・マザー/Ankhrav Hive Mother",
+      "name": "アンクラヴ・ハイブ・マザー/Ankhrav Hive Mother",
       "publicNotes": "<p>Ankhrav hive mothers are fearsome predators that one can easily distinguish from the typical ankhrav not only by their greater size, but the presence of a large pair of razor-sharp, mantis-like arms.</p>\n<hr />\n<p>Ankhravs are immense, burrowing, and insectile predators, considered by inhabitants of the rural areas of the world to be an all-too-common plague.</p>"
     },
     "String Slime": {
@@ -12230,7 +12230,7 @@
           "description": "<p>ロックは、片方または両方の鉤爪でクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態にしている間、そのクリーチャーを運びながら、通常の移動速度の半分で〈飛行〉できる。</p>"
         },
         "4N1vw9fFoiAgxSn1": {
-          "name": "フライング・ストレイフ",
+          "name": "フライング・ストレーフ",
           "description": "<p>ロックは自身の移動速度まで〈飛行〉し、その移動中の任意の時点で2回の鉤爪によるストライクを行う。各〈ストライク〉は異なるクリーチャーを対象としなければならない。各攻撃は通常のマルチアタック・ペナルティを受ける。</p>"
         },
         "fLIOuEGoDxmXYqNf": {
@@ -12340,7 +12340,7 @@
       "hpDetails": "虚無治癒",
       "items": {
         "4uWQE7ermpG8oEr3": {
-          "name": "グレイヴ/Glaive"
+          "name": "グレイブ/Glaive"
         },
         "l4eldMZrkZle4K3Y": {
           "name": "ホーンズ"
@@ -12350,7 +12350,7 @@
         },
         "4gkC6A8D27Jzv7nH": {
           "name": "ブロード・スワイプ/Broad Swipe",
-          "description": "<p>そのジャイアントは、自身のリーチ内にいる隣接する2体の敵に対して、グレイヴでストライクを2回行う。両方の攻撃はジャイアントのマルチアタック・ペナルティに数えられるが、ペナルティは両方の攻撃が終わるまで増加しない。</p>"
+          "description": "<p>そのジャイアントは、自身のリーチ内にいる隣接する2体の敵に対して、グレイブでストライクを2回行う。両方の攻撃はジャイアントのマルチアタック・ペナルティに数えられるが、ペナルティは両方の攻撃が終わるまで増加しない。</p>"
         },
         "emPcqeSFXdyr6CgV": {
           "name": "テリファイイング・チャージ/Terrifying Charge",
@@ -12420,12 +12420,12 @@
           "name": "+2・ステイタス・トゥ・オール・セーヴズ・ヴァーサス・アーケイン"
         },
         "PjUGlZciMNB5ad4R": {
-          "name": "シンティレイティング・ディフェンス",
+          "name": "シンティレーティング・ディフェンス",
           "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。</p>"
         },
         "9XSp9GMrL4MBcCPF": {
           "name": "キャプティヴェイティング・ディスプレイ",
-          "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは頭部のひれを広げ、魅了する色彩の輝かしいディスプレイを作り出す。@Template[emanation|distance:30]内の各クリーチャーは@Check[will|dc:33|options:area-effect,inflicts:dazzled,inflicts:slowed]セーヴに成功しなければならず、失敗すると1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態かつ@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ2}状態となる)。結果にかかわらず、そのクリーチャーはその後1分の間、キャプティベイティング・ディスプレイに対して一時的な免疫となる。</p>"
+          "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは頭部のひれを広げ、魅了する色彩の輝かしいディスプレイを作り出す。@Template[emanation|distance:30]内の各クリーチャーは@Check[will|dc:33|options:area-effect,inflicts:dazzled,inflicts:slowed]セーヴに成功しなければならず、失敗すると1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態かつ@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ2}状態となる)。結果にかかわらず、そのクリーチャーはその後1分の間、キャプティベーティング・ディスプレイに対して一時的な免疫となる。</p>"
         },
         "cuSg2YxJeOWsi3XS": {
           "name": "ハルシナトリー・ブレス",
@@ -12732,10 +12732,10 @@
         },
         "mVB17TASKITmaKOR": {
           "name": "コンジャー・ディスガイズ",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、自身と同じサイズ以下の、見たことのあるヒューマノイドの完璧な肉体のレプリカを生成し、その中に自身を圧縮する。同時に、そのヒューマノイドにふさわしい衣服も生成する。このプロセスには1分かかり、その間、そのドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしそのドラゴンがこのプロセスを停止したり、中断されたりした場合、スーツは破壊される。プロセスが完了すると、そのドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、その変装は本質的に能動的な魔法ではなく、ディテクト・マジックや同様の効果に対して魔法として検知されることはない。そのドラゴンは変身中、ボディ・リトラクトを失う。</p>\n<p>もしそのドラゴンが変装中にクリティカルヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネイト・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い成功度を使用する。</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、自身と同じサイズ以下の、見たことのあるヒューマノイドの完璧な肉体のレプリカを生成し、その中に自身を圧縮する。同時に、そのヒューマノイドにふさわしい衣服も生成する。このプロセスには1分かかり、その間、そのドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしそのドラゴンがこのプロセスを停止したり、中断されたりした場合、スーツは破壊される。プロセスが完了すると、そのドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、その変装は本質的に能動的な魔法ではなく、ディテクト・マジックや同様の効果に対して魔法として検知されることはない。そのドラゴンは変身中、ボディ・リトラクトを失う。</p>\n<p>もしそのドラゴンが変装中にクリティカルヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネート・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い成功度を使用する。</p>"
         },
         "kK41S41L533fMggZ": {
-          "name": "デトネイト・ディスガイズ",
+          "name": "デトネート・ディスガイズ",
           "description": "<p><strong>必要条件</strong> そのドラゴンは魔法で作り出した変装をまとっている</p>\n<hr />\n<p><strong>効果</strong> そのドラゴンは変装を突き破って現れ、それを破壊する。この爆発的な正体の露呈は、@Check[reflex|dc:31|basic|options:area-effect]セーヴを行う@Template[emanation|distance:5]内のクリーチャーに@Damage[13d6[bludgeoning]|options:area-damage]ダメージを与える。セーヴに失敗したクリーチャーは、変装の破片に覆われるため、1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p>出現後にそのドラゴンと同じスペースを共有しているクリーチャーは、最も近い空いているスペースへ押しやられる。</p>"
         },
         "lhnqwfK5RkPmG7XJ": {
@@ -12809,7 +12809,7 @@
           "name": "+2・ステイタス・トゥ・オール・セーヴズ・ヴァーサス・アーケイン"
         },
         "PjUGlZciMNB5ad4R": {
-          "name": "シンティレイティング・ディフェンス",
+          "name": "シンティレーティング・ディフェンス",
           "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象となる</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは攻撃を逸らすため、トリガーとなったクリーチャーに向けて虹色の鱗をきらめかせる。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を得る。</p>"
         },
         "cuSg2YxJeOWsi3XS": {
@@ -12936,10 +12936,10 @@
         },
         "mVB17TASKITmaKOR": {
           "name": "コンジャー・ディスガイズ",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、自身と同じサイズ以下の、見たことのあるヒューマノイドの完璧な肉体のレプリカを生成し、その中に自身を圧縮する。同時に、そのヒューマノイドにふさわしい衣服も生成する。このプロセスには1分かかり、その間、そのドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしそのドラゴンがこのプロセスを停止したり、中断されたりした場合、スーツは破壊される。プロセスが完了すると、そのドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、その変装は本質的に能動的な魔法ではなく、ディテクト・マジックや同様の効果に対して魔法として検知されることはない。そのドラゴンは変身中、ボディ・リトラクトを失う。</p>\n<p>もしそのドラゴンが変装中にクリティカルヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネイト・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い成功度を使用する。</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、自身と同じサイズ以下の、見たことのあるヒューマノイドの完璧な肉体のレプリカを生成し、その中に自身を圧縮する。同時に、そのヒューマノイドにふさわしい衣服も生成する。このプロセスには1分かかり、その間、そのドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしそのドラゴンがこのプロセスを停止したり、中断されたりした場合、スーツは破壊される。プロセスが完了すると、そのドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、その変装は本質的に能動的な魔法ではなく、ディテクト・マジックや同様の効果に対して魔法として検知されることはない。そのドラゴンは変身中、ボディ・リトラクトを失う。</p>\n<p>もしそのドラゴンが変装中にクリティカルヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネート・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い成功度を使用する。</p>"
         },
         "kK41S41L533fMggZ": {
-          "name": "デトネイト・ディスガイズ",
+          "name": "デトネート・ディスガイズ",
           "description": "<p><strong>必要条件</strong>ドラゴンが変装の魔法をまとっている。</p>\n<hr />\n<p><strong>効果</strong>ドラゴンが変装を突き破って現れ、変装を破壊する。この爆発的な顕現は、@Template[emanation|distance:5]の範囲内にいるクリーチャーに@Damage[13d6[bludgeoning]|options:area-damage]ダメージを与える(@Check[reflex|dc:31|basic|options:area-effect]セーヴ)。セーヴに失敗したクリーチャーは、変装の破片を浴びてしまい、1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p>爆発後にドラゴンと同じスペースにいるクリーチャーは、最も近い空いているスペースへと押し出される。</p>"
         },
         "IUwmirxfv4K0PcJf": {
@@ -13043,7 +13043,7 @@
           "description": "<p><strong>トリガー</strong> ティラノサウルスが足で大型以下の敵にクリティカルヒットを与える</p>\n<hr />\n<p><strong>効果</strong> 足で攻撃されたクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になり、その場に押さえつけられる。ティラノサウルスがその位置から移動しない限り、押さえつけられたクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となる。</p>\n<p>ティラノサウルスはこの方法で押さえつけたクリーチャーに対する攻撃に+2の状況ボーナスを得るが、そのクリーチャーが顎で掴まれている場合にのみ〈丸呑み〉を行える。</p>"
         },
         "nbClUIeaboa77zlN": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>中型、@Damage[(3d6+8)[bludgeoning]]ダメージ、破裂26</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "9wiqhTppGBReF5MG": {
@@ -13226,8 +13226,8 @@
           "description": "<p>〈吸血〉によってHPが0になった後にクリーチャーが死亡した場合、ヴァンパイアは自身の血液の一部を犠牲者に与え、その犠牲者を3夜の間、地中に埋めることによって、この犠牲者をヴァンパイアの従僕に変えることができる。</p>\n<p>ヴァンパイアの従僕はその創造者に従うことを強制されるが、ヴァンパイアが一度にあまりに多くのヴァンパイアの従僕を制御している場合(GMの判断によって)、またはその従僕がそれを創造したヴァンパイアよりも高レベルである場合、意志の強い従僕は、そのヴァンパイアの意志DCに対する@Check[will|defense:will]セーヴィング・スローに成功することで、自らを解放することができる。</p>"
         },
         "3ZSVEZBMKleuEd84": {
-          "name": "ドミネイト/Dominate",
-          "description": "<p>ヴァンパイアは、神聖な生得呪文として@UUID[Compendium.pf2e.spells-srd.Item.OsOhx3TGIZ7AhD0P]{ドミネイト}を望むままに発動できる。これを発動するには対象の目を見つめる必要があり、この呪文に視覚のトレイトを与える(@Check[will|dc:26])。セーヴに成功したクリーチャーは、そのヴァンパイアのドミネイトに対して一時的な免疫となる(24時間間)。</p>\n<p>ヴァンパイアを完全に滅ぼせば支配は終了するが、単にヴァンパイアのHPを0にするだけでは呪文を打ち破るには不十分である。</p>"
+          "name": "ドミネート/Dominate",
+          "description": "<p>ヴァンパイアは、神聖な生得呪文として@UUID[Compendium.pf2e.spells-srd.Item.OsOhx3TGIZ7AhD0P]{ドミネート}を望むままに発動できる。これを発動するには対象の目を見つめる必要があり、この呪文に視覚のトレイトを与える(@Check[will|dc:26])。セーヴに成功したクリーチャーは、そのヴァンパイアのドミネートに対して一時的な免疫となる(24時間間)。</p>\n<p>ヴァンパイアを完全に滅ぼせば支配は終了するが、単にヴァンパイアのHPを0にするだけでは呪文を打ち破るには不十分である。</p>"
         },
         "9ewh7tMyC0NRIpZx": {
           "name": "ドレイン・ボンデッド・アイテム",
@@ -13290,7 +13290,7 @@
           "description": "<p>ハーピーは風を利用して獲物を引き寄せる。20フィート以内の対象は@Check[fortitude|dc:21]セーヴに成功しなければ、ハーピーに隣接する位置まで引き寄せられ、そこで対象に対して顎による〈ストライク〉を行う。対象が地面から引き離され、飛行できない場合、その後通常通り落下する。</p>"
         },
         "qcy89Ztl9BMxwhem": {
-          "name": "ピュートリッド・プレイグ",
+          "name": "ピュートリッド・プレーグ",
           "description": "<p>不浄の疫病による病気状態と気絶状態は、その病気が治癒されるまで終了したり軽減されたりすることはない</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:19]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のない保菌者(1d4時間)、</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}(1日)、</p>\n<p><strong>第3段階</strong>病気状態1および@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}(1日)、</p>\n<p><strong>第4段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}(1日)、</p>\n<p><strong>第5段階</strong>死亡</p>"
         }
       },
@@ -13323,12 +13323,12 @@
           "name": "+2ステイタス・トゥ・オール・セーヴズ・ヴァーサス・アーケイン"
         },
         "PjUGlZciMNB5ad4R": {
-          "name": "シンティレイティング・ディフェンス",
+          "name": "シンティレーティング・ディフェンス",
           "description": "<p><strong>トリガー</strong>そのドラゴンが攻撃の対象になった</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンはトリガーとなったクリーチャーに対して虹色の鱗を閃かせ、攻撃を逸らす。そのドラゴンはトリガーとなった攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{コンシールメント}を得る。</p>"
         },
         "9XSp9GMrL4MBcCPF": {
           "name": "キャプティヴェイティング・ディスプレイ",
-          "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは頭部のヒレを広げ、魅了する色彩の輝かしいディスプレイを作り出す。@Template[emanation|distance:30]内の各クリーチャーは@Check[will|dc:41|options:area-effect,inflicts:dazzled,inflicts:slowed]セーヴに成功しなければならず、失敗すると1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態かつ@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ2}状態)となる。結果にかかわらず、そのクリーチャーはその後1分の間、キャプティベイティング・ディスプレイに対して一時的な免疫となる。</p>"
+          "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは頭部のヒレを広げ、魅了する色彩の輝かしいディスプレイを作り出す。@Template[emanation|distance:30]内の各クリーチャーは@Check[will|dc:41|options:area-effect,inflicts:dazzled,inflicts:slowed]セーヴに成功しなければならず、失敗すると1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態かつ@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}状態(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ2}状態)となる。結果にかかわらず、そのクリーチャーはその後1分の間、キャプティベーティング・ディスプレイに対して一時的な免疫となる。</p>"
         },
         "WMdK1rdUjXn9ZjQJ": {
           "name": "ドラコニック・フレンジー",
@@ -13448,7 +13448,7 @@
           "description": "<p><strong>必要条件</strong>そのサメがこのターンの直前のアクションで顎による〈ストライク〉を命中させている。</p>\n<hr />\n<p><strong>効果</strong>そのサメが命中させたクリーチャーは@Damage[1d12[slashing]]ダメージを受ける。</p>"
         },
         "BbFyjI0o6Aed5DYL": {
-          "name": "ストレイフィング・チョンプ/Strafing Chomp",
+          "name": "ストレーフィング・チョンプ/Strafing Chomp",
           "description": "<p>そのサメは自身の水泳移動速度の半分まで〈水泳〉を行い、顎による〈ストライク〉を1回行い、その後自身の移動速度の半分までさらに〈水泳〉を行う。この〈ストライク〉は半分のダメージを与える。</p>"
         }
       },
@@ -13514,11 +13514,11 @@
           "description": "<p>20フィート。</p>\n<p>このオーラに進入した、あるいはこのオーラ内で自身のターンを開始したクリーチャーは、@Check[fortitude|dc:20|options:area-effect,inflicts:sickened]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となる)。成功したクリーチャーは、1分の間、このオーラに対して一時的な免疫となる。</p>"
         },
         "66T3Q6Azf009sHhc": {
-          "name": "ボグウィド・フィーヴァー/Bogwid Fever",
+          "name": "ボグウィド・フィーバー/Bogwid Fever",
           "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:20]</p>\n<p><strong>発症</strong> 1日</p>\n<hr />\n<p><strong>第1段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態(1日)</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}状態となり、持続ダメージからの回復に必要なDCが2増加する(1日)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱3}状態となり、持続ダメージからの回復に必要なDCが5増加する(1日)</p>\n<p><strong>第4段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱4}状態となり、持続ダメージからの回復に必要なDCが5増加し、さらに@Damage[1d8[bleed]]{1d8持続出血ダメージ}を[[/gmr 1d4 #hours]]{1d4時間}ごとに受ける(1日)</p>\n<hr />\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.Q5pWxWsb4MIgfwxd]{効果: Bogwid Fever}</p>"
         },
         "1a3FizXwR28wkECc": {
-          "name": "ラヴェナス・ヤング/Ravenous Young",
+          "name": "ラベナス・ヤング/Ravenous Young",
           "description": "<p>ボグウィッドから射出された幼生は対象に取り付き、捕食を開始する。幼生が取り付けられると、対象は@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態となる。幼生が取り付けられている間、対象は持続ダメージから回復できない。幼生を取り除くため、対象は[[/act escape dc=21]]を行うことができる。加えて、対象に与えられた範囲ダメージは、取り付けられているすべての幼生を破壊する。</p>\n<hr />\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.WzvOyycUlTsCXt3M]{効果: Ravenous Young}</p>"
         }
       },
@@ -13537,7 +13537,7 @@
           "name": "ハンド・クロスボウ/Hand Crossbow"
         },
         "HCUXasleODboE32A": {
-          "name": "イル・グロウ/Ill Glow",
+          "name": "イル・グロー/Ill Glow",
           "description": "<p>そのストラングラーによって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態にされている非デロの生きているクリーチャーは、ストラングラーのサイトレッシュ・ツールキットから放たれる病的な青い光に晒される。そのクリーチャーは@Check[fortitude|dc:19]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。ストラングラーがツールキットを装備していない場合、この効果は発生しない。</p>"
         },
         "uldVZLVdwiLD1q6v": {
@@ -13631,7 +13631,7 @@
           "description": "<p><strong>使用制限</strong> 1時間に1回</p>\n<hr />\n<p><strong>効果</strong>アンクラーヴは@Template[cone|distance:30]に酸を吐き出し、@Damage[3d6[acid],1d6[persistent,acid]|options:area-damage]{3d6の酸ダメージと1d6の持続酸ダメージ}を与える(@Check[reflex|dc:20|basic|options:area-effect]セーヴ)。</p>"
         }
       },
-      "name": "アンクラブ/Ankhrav",
+      "name": "アンクラヴ/Ankhrav",
       "publicNotes": "<p>These horse-sized, burrowing monsters generally avoid heavily settled areas like cities, but ankhravs' predilection for livestock and humanoid flesh ensures that the creatures do not remain in the deep wilderness for long. Desperate farmers whose fields become infested by ankhravs often have little recourse but to seek the aid of adventurers.</p>\n<hr />\n<p>Ankhravs are immense, burrowing, and insectile predators, considered by inhabitants of the rural areas of the world to be an all-too-common plague.</p>"
     },
     "Leaf Leshy": {
@@ -13657,7 +13657,7 @@
           "description": "<p>リーフ・レシーは小型の木に変身する。この能力はそれ以外については@UUID[Compendium.pf2e.spells-srd.Item.dileJ0Yxqg76LMvu]{ワン・ウィズ・プランツ}の効果を用いる。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "WPtFVQLHQ2T2WxY7": {
-          "name": "デフニング・ブロウ/Deafening Blow",
+          "name": "デフニング・ブロー/Deafening Blow",
           "description": "<p>リーフ・レシーがシードポッドによる〈ストライク〉を命中させた時、そのポッドは大きな音を立てて爆発する。対象は@Check[fortitude|dc:16]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>対象は影響を受けず、24時間の間、一時的な免疫となる。</p>\n<p><strong>成功</strong>対象は影響を受けない。</p>\n<p><strong>失敗</strong>対象は@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}状態で1ラウンドの間過ごす。</p>\n<p><strong>クリティカル失敗</strong>対象は聴覚喪失状態で1分の間過ごす。</p>"
         },
         "4vfOgL2x3vJgpsBu": {
@@ -13749,11 +13749,11 @@
           "description": "<p>ベンシック・ワームは自身の水泳移動速度まで水泳(Swim)し、その後水面から垂直に最大30フィート@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{リープ(〈跳躍〉)}し、跳躍の頂点でクリーチャーに対して〈ストライク〉を行う(これにより、水面から45フィート以内のクリーチャーを攻撃できる)。〈ストライク〉の後、ワームは水しぶきを上げて水中に戻る。この〈ストライク〉に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI]{インプルーヴド・グラブ(Improved Grab)}を使用し、続けてファスト・スワロー(Fast Swallow)を行うことができる。</p>"
         },
         "IYYi7B0j0PD17IXo": {
-          "name": "ファスト・スワロウ",
+          "name": "ファスト・スワロー",
           "description": "<p><strong>トリガー</strong>ワームがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}する。</p>\n<hr />\n<p><strong>効果</strong>ワームはスワロー・ホール(Swallow Whole)を使用する。</p>"
         },
         "T2hVNG1lQgAAAy70": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>超大型、@Damage[(3d8+10)[bludgeoning]]、Rupture 27</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "PF9LIocpqPbxqnvR": {
@@ -13805,7 +13805,7 @@
           "description": "<p>そのリザードフォークの偵察者は、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーに対して1d6の精密ダメージを追加で与える。</p>"
         },
         "55Hvc61MUgVoahwb": {
-          "name": "テレイン・アドヴァンテージ/Terrain Advantage",
+          "name": "テレイン・アドバンテージ/Terrain Advantage",
           "description": "<p>困難な地形にいるか、水中にいて水泳移動速度を持たない非リザードフォークのクリーチャーは、そのリザードフォークの防御者に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         }
       },
@@ -13999,7 +13999,7 @@
           "description": "<p><strong>必要条件</strong>そのアイランド・オニの最後のアクションが、中型以下の対象に対するロングスピアでの〈ストライク〉であったこと。</p>\n<hr />\n<p><strong>効果</strong>そのアイランド・オニは対象をスピアで突き刺し、スピアに雷を落とすよう呼びかける。対象は@Damage[6d6[electricity]]のダメージを受け、@Check[fortitude|dc:37|basic]セーヴを行わなければならない。失敗した場合、そのクリーチャーはスピアに串刺しにされる。そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり、オニが移動すれば、掴んでいるクリーチャーも一緒に連れて行く。</p>\n<p>そのアイランド・オニは、そのクリーチャーを掴み続けるために追加のアクションを使用する必要はない。クリーチャーは串刺しにされている限り、掴まれた状態のままとなる。掴まれたクリーチャーは通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行うことができる。そのアイランド・オニは、一度に1体のクリーチャーしかこの方法で串刺しにできない。</p>"
         },
         "TFFWvw8pxkUHYXm4": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>中型、@Damage[(3d8+10)[bludgeoning]]、Rupture 30</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "AzI191A2HnKNQL2z": {
@@ -14026,7 +14026,7 @@
           "name": "ボディ"
         },
         "9AEzHj5y2T93e7EF": {
-          "name": "リガージテイト/Regurgitate"
+          "name": "リガージテート/Regurgitate"
         },
         "BJ1PhJfeJAlUL4sL": {
           "name": "振動感知(不明瞭、100フィート)"
@@ -14036,15 +14036,15 @@
           "description": "<p>そのケイヴ・ワームは、ターンの終了時に@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}、および@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン}の各状態から回復する。また、自身の移動速度へのペナルティと@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態に対して免疫であり、移動困難地形および移動困難地形(上位)を無視する。</p>"
         },
         "53LkbbyoyISSppMe": {
-          "name": "ケイブ・ワーム毒液/Cave Worm Venom",
+          "name": "ケーブ・ワーム毒液/Cave Worm Venom",
           "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:32]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[5d6[poison]]ダメージと@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[6d6[poison]]ダメージ、およびenfeebled 2(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[8d6[poison]]ダメージとenfeebled 2(1ラウンド)</p>"
         },
         "rGTmjeER3V1KY02w": {
-          "name": "ファスト・スワロウ",
+          "name": "ファスト・スワロー",
           "description": "<p><strong>トリガー</strong>そのケイヴ・ワームがクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}した。</p>\n<hr />\n<p><strong>効果</strong>そのワームはSwallow Wholeを使用する。</p>"
         },
         "crXV18abZr2DcEh8": {
-          "name": "リガージテイト",
+          "name": "リガージテート",
           "description": "<p>パープル・ワームは、飲み込んだクリーチャーや巨岩を激しく吐き出し、遠隔の〈ストライク〉を行うことができる。この〈ストライク〉は、投射物のサイズに応じて殴打ダメージを与える：</p>\n<ul>\n<li>超小型@Damage[(2d6+13)[bludgeoning]]{2d6+13}</li>\n<li>小型@Damage[(3d6+13)[bludgeoning]]{3d6+13}</li>\n<li>中型@Damage[(4d6+13)[bludgeoning]]{4d6+13}</li>\n<li>大型@Damage[(5d6+13)[bludgeoning]]{5d6+13}</li>\n<li>超大型@Damage[(6d6+13)[bludgeoning]]{6d6+13}</li>\n</ul>\n<p>吐き出されたクリーチャーは、対象の高さ、あるいは20フィートのいずれか高い方から落下したダメージを受ける。</p>\n<p>巨岩は同サイズのクリーチャーとしてワームの胃の中のスペースを占有し、パープル・ワームはしばしば複数の巨岩を飲み込んでいる。パープル・ワームは1回のアクションを使用して、新しい巨岩を飲み込むことができる。</p>"
         },
         "8EY2qfk7YZdvckfJ": {
@@ -14052,7 +14052,7 @@
           "description": "<p>そのケイヴ・ワームは固い石の中を20フィートの移動速度で穴掘りできる。望むならばトンネルを残すことができ、通常はそうする。</p>"
         },
         "rTDme0840mDZkokU": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>超大型、@Damage[(3d6+9)[bludgeoning]]、Rupture 24</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "zEZW1atU8KQCSsNi": {
@@ -14063,7 +14063,7 @@
           "name": "インプルーヴド・グラブ"
         }
       },
-      "name": "ケイブ・ワーム/Cave Worm",
+      "name": "ケーブ・ワーム/Cave Worm",
       "publicNotes": "<p>The most common and infamous of the cave worms gives its name to the entire family—a much-feared monster wandering the twisting tunnels of the Darklands that is capable of carving out entire cave systems. Tunnels bored by a cave worm don't always last long after these creature's passage, and areas where they nest are maddening mazes of passageways that lead nowhere, yet navigating the labyrinth to find the worm's central nest often yields amazing treasures left behind by the worm's prior victims.</p>\n<hr />\n<p>Cave worms are gigantic scavengers that bore through the depths of the world, eating whatever material they find. Named for their distinctive habitats, these worms are ravenous and display overwhelming destructive capabilities. Cave worms of different types and abilities lurk in the more remote corners of the world—tales speak of arctic worms that dwell within immense glaciers or icebergs and grave worms that burrow through the boneyards of long-forgotten ruins, to name a few.</p>"
     },
     "Minotaur Hunter": {
@@ -14200,7 +14200,7 @@
           "description": "<p>フライトラップはそれぞれ異なる対象に対して、-2のペナルティで2回の葉によるストライクを行う。これらの攻撃はフライトラップのマルチアタック・ペナルティに対して数えられるが、マルチアタック・ペナルティはすべての攻撃を行った後まで増加しない。</p>"
         },
         "0JCakW3iPRouHFU2": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>中型、@Damage[(1d8+1)[bludgeoning],1d6[acid]]、破裂5</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "CyCkk2GjnKUtz2Va": {
@@ -14325,7 +14325,7 @@
           "description": "<p><strong>必要条件</strong>ジャイアント・モレイ・イールがその顎でクリーチャーを@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}している。</p>\n<hr />\n<p><strong>効果</strong>ジャイアント・モレイ・イールは2番目の顎を使って獲物を喉へと引きずり込む。このウナギは掴まれているクリーチャーに@Damage[(1d6+4)[piercing]]ダメージを与え、自身の丸呑みの試行およびそのクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を行うためのDCに対して+2の状況ボーナスを得る。この効果は、対象がエスケープするか、ジャイアント・モレイ・イールが対象を丸呑みした時点で終了する。</p>"
         },
         "7pkevpR7Am9eNCD5": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>小型、@Damage[(1d6+6)[bludgeoning]]、Rupture 12</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "G9f4Fx5llYjESmPt": {
@@ -14409,7 +14409,7 @@
           "description": "<p>90フィート。 @Check[will|dc:24|options:area-effect,inflicts:frightened]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         "ItyDWQiPz0eJ2hOb": {
-          "name": "ツイスティング・テイル",
+          "name": "ツイスティング・テール",
           "description": "<p><strong>トリガー</strong>ドラゴンのテールのリーチ内にいるクリーチャーが、移動アクションを使用する、または使用中の移動アクションの最中に広場を離れる</p>\n<hr />\n<p><strong>効果</strong>ドラゴンはそのクリーチャーに対して–2のペナルティでテールの〈ストライク〉を行う。その〈ストライク〉がヒットした場合、ドラゴンはそのクリーチャーのアクションを妨害する。</p>"
         },
         "1FbPUVt1mVdHjwrB": {
@@ -14417,7 +14417,7 @@
           "description": "<p>その角のあるドラゴンは、茂み、つる、下草といった植物によって引き起こされるあらゆる移動困難地形を無視する。魔法によって操作された植物でさえ、その進行を妨げることはできない。</p>"
         },
         "3Fn7wuVzeuI4kT5H": {
-          "name": "インペイリング・チャージ",
+          "name": "インペーリング・チャージ",
           "description": "<p><strong>必要条件</strong>そのドラゴンの角にクリーチャーが串刺しになっていない。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは敵を角で突こうと試みる。彼らは〈ストライド〉を行い、続いて角による〈ストライク〉を行う。命中した場合、対象はドラゴンの角に串刺しとなる。そのクリーチャーは角に刺さっている間、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となり(通常通り@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}を試みることができる)。そのドラゴンは、串刺しにしたクリーチャーを掴んだ状態に保つために追加のアクションを使用する必要はない。もしそのドラゴンが移動するなら、彼らは掴んでいるクリーチャーを伴って移動する。</p>"
         },
         "VPryni3E3RGw5MdV": {
@@ -14646,7 +14646,7 @@
           "description": "<p>ディノニクスは最大10フィートまでストライドし、その後〈ストライク〉を行うか、〈ストライク〉を行い、その後最大10フィートまでストライドする。</p>"
         },
         "0xo9GafMlJXTsSNk": {
-          "name": "プレデターズ・アドヴァンテージ/Predator's Advantage",
+          "name": "プレデターズ・アドバンテージ/Predator's Advantage",
           "description": "<p>出血しているクリーチャーは、デイノニクスに対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         }
       },
@@ -14749,8 +14749,8 @@
           "name": "足"
         },
         "cHbcVpImsTWKA9DW": {
-          "name": "テイル・スウィープ/Tail Sweep",
-          "description": "<p>ブロントサウルスは尻尾による〈ストライク〉を行い、その攻撃ロールを最大3体までの敵のACと比較する。それぞれの敵は、ブロントサウルスの尻尾の近接リーチ内にあり、かつ他の少なくとも1体の対象と隣接していなければならない。ブロントサウルスはダメージロールを1回だけ行い、命中した各クリーチャーにそのダメージを適用する。</p>\n<p>テイル・スウィープは、そのマルチアタック・ペナルティにおいて2回の攻撃として数える。</p>"
+          "name": "テール・スウィープ/Tail Sweep",
+          "description": "<p>ブロントサウルスは尻尾による〈ストライク〉を行い、その攻撃ロールを最大3体までの敵のACと比較する。それぞれの敵は、ブロントサウルスの尻尾の近接リーチ内にあり、かつ他の少なくとも1体の対象と隣接していなければならない。ブロントサウルスはダメージロールを1回だけ行い、命中した各クリーチャーにそのダメージを適用する。</p>\n<p>テール・スウィープは、そのマルチアタック・ペナルティにおいて2回の攻撃として数える。</p>"
         },
         "sgLK6WwDNZXG3X0e": {
           "name": "踏みつぶし",
@@ -14811,7 +14811,7 @@
           "description": "<p>リザードフォーク・ディフェンダーは15分間息を止めておくことができる。</p>"
         },
         "8wxpM0AIu2KtOOy1": {
-          "name": "テレイン・アドヴァンテージ",
+          "name": "テレイン・アドバンテージ",
           "description": "<p>困難な地形にいるか、水中にいて水泳移動速度を持たない非リザードフォークのクリーチャーは、そのリザードフォークの防御者に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。</p>"
         }
       },
@@ -14881,7 +14881,7 @@
           "name": "顎"
         },
         "z4Mouf0sgt0pO2Vz": {
-          "name": "アヴェンジング・バイト",
+          "name": "アベンジング・バイト",
           "description": "<p><strong>トリガー</strong>ワーグの顎のリーチ内にいるクリーチャーが、ワーグの味方の1体を攻撃する。</p>\n<hr />\n<p><strong>効果</strong>ワーグはトリガーとなったクリーチャーに対して顎による〈ストライク〉を行う。</p>"
         },
         "VfGIlE5o88e6ZuW6": {
@@ -14889,7 +14889,7 @@
           "description": "<p>ワーグのストライクは、ワーグの味方の少なくとも2体のリーチ内にいるクリーチャーに対して、追加で1d4のダメージを与える。</p>"
         },
         "gxJrJPqtpVlM0Xe6": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>小型, @Damage[(1d6+2)[bludgeoning]], Rupture 9</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "ydL0czc2qFw4RnCW": {
@@ -14916,7 +14916,7 @@
           "description": "<p>オーガ・グラットンは2回ストライドを行い、顎による〈ストライク〉を1回行う。もし彼らがこの〈ストライク〉で生きているクリーチャーにダメージを与えたなら、Glutton's Feastから得る一時的ヒット・ポイントは2d4に増加する。</p>"
         },
         "OQICdYHqGHNlnuut": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>小型、 @Damage[(2d4+4)[bludgeoning]]、Rupture 14</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "iw0W5WgXZN9Y21ul": {
@@ -14943,7 +14943,7 @@
           "description": "<p>50フィート</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
         },
         "Saaz9FC4uuWqbzUs": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>大型, @Damage[(2d8+7)[bludgeoning]], Rupture 18</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "YHERBUpSRZoR3Ox8": {
@@ -14983,7 +14983,7 @@
           "description": "<p>ジャイアント・アナコンダは、自身の移動速度の半分までストライド、クライム、またはスイムを行い、自身が@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}しているクリーチャーをすべて引き連れる。</p>"
         },
         "4s0p8fCnssqfycUf": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>大型, @Damage[(1d10+7)[bludgeoning]], Rupture 21</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "765hQtSimhXMwS7m": {
@@ -15049,13 +15049,13 @@
           "description": "<p>リビング・ワールウィンドは激しい風の@Template[line|distance:60]を作り出す。エリア内のクリーチャーは@Check[fortitude|dc:25]セーヴに成功しなければならず、失敗すると10フィート押し戻され、@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
         }
       },
-      "name": "リヴィング・ワールウィンド/Living Whirlwind",
+      "name": "リビング・ワールウィンド/Living Whirlwind",
       "publicNotes": "<p>A living whirlwind resembles a dust devil with a vague mouth and eyes formed among the dust and debris swirling within it.</p>\n<hr />\n<p>Hailing from the Plane of Air, these beings appear in a variety of sizes and shapes. They're noted for being elusive, swift, and often difficult to detect due to being composed primarily of air.</p>"
     },
     "Hobgoblin General": {
       "items": {
         "kXAwzMH9r670KlCp": {
-          "name": "グレイヴ"
+          "name": "グレイブ"
         },
         "t1tq9YiGmfqQQV5C": {
           "name": "コンポジット・ショートボウ"
@@ -15390,14 +15390,14 @@
         },
         "3SNH7v25J8TbPWvC": {
           "name": "構造体の装甲(硬度2)/Construct Armor (Hardness 2)",
-          "description": "<p>通常の物体と同様に、アニメイテッド・ブルームは硬度を持つ。この硬度は、それが受けるあらゆるダメージを、その硬度に等しい値だけ減少させる。アニメイテッド・ブルームのヒット・ポイントが半分未満に減少した時、またはクリティカルヒットによってダメージを受けた直後に、そのコンストラクト・アーマーは破壊され、そのアーマー・クラスは13になる。</p>"
+          "description": "<p>通常の物体と同様に、アニメーテッド・ブルームは硬度を持つ。この硬度は、それが受けるあらゆるダメージを、その硬度に等しい値だけ減少させる。アニメーテッド・ブルームのヒット・ポイントが半分未満に減少した時、またはクリティカルヒットによってダメージを受けた直後に、そのコンストラクト・アーマーは破壊され、そのアーマー・クラスは13になる。</p>"
         },
         "zXDFVZKb5GlrVnod": {
           "name": "ダスト/Dust",
-          "description": "<p>アニメイテッド・ブルームの穂先に命中されたクリーチャーは、@Check[fortitude|dc:15]セーヴに成功しなければ、次のアクションを咳き込むことに費やさなければならない。複数の塵攻撃に命中された場合でも、そのクリーチャーは塵を追い出すために咳き込むことに1アクションを費やすだけでよい。</p>\n<p>呼吸を行わないクリーチャーは、この効果に対して免疫である。</p>"
+          "description": "<p>アニメーテッド・ブルームの穂先に命中されたクリーチャーは、@Check[fortitude|dc:15]セーヴに成功しなければ、次のアクションを咳き込むことに費やさなければならない。複数の塵攻撃に命中された場合でも、そのクリーチャーは塵を追い出すために咳き込むことに1アクションを費やすだけでよい。</p>\n<p>呼吸を行わないクリーチャーは、この効果に対して免疫である。</p>"
         }
       },
-      "name": "アニメイテッド・ブルーム/Animated Broom",
+      "name": "アニメーテッド・ブルーム/Animated Broom",
       "publicNotes": "<p>Animated brooms perform menial tasks of cleaning and upkeep, but they can step in to defend a room from intrusion if needed. These simple animated objects can be found with greater frequency than more complicated and costly objects.</p>\n<hr />\n<p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>"
     },
     "Goblin Dog": {
@@ -15464,10 +15464,10 @@
         },
         "mVB17TASKITmaKOR": {
           "name": "コンジャー・ディスガイズ",
-          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、自身と同じサイズ以下の、見たことのあるヒューマノイドの完璧な肉体のレプリカを生成し、その中に自身を圧縮する。同時に、そのヒューマノイドにふさわしい衣服も生成する。このプロセスには1分かかり、その間、そのドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしそのドラゴンがこのプロセスを停止したり、中断されたりした場合、スーツは破壊される。プロセスが完了すると、そのドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、その変装は本質的に能動的な魔法ではなく、ディテクト・マジックや同様の効果に対して魔法として検知されることはない。そのドラゴンは変身中、ボディ・リトラクトを失う。</p>\n<p>もしそのドラゴンが変装中にクリティカルヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネイト・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い成功度を使用する。</p>"
+          "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは、自身と同じサイズ以下の、見たことのあるヒューマノイドの完璧な肉体のレプリカを生成し、その中に自身を圧縮する。同時に、そのヒューマノイドにふさわしい衣服も生成する。このプロセスには1分かかり、その間、そのドラゴンは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。もしそのドラゴンがこのプロセスを停止したり、中断されたりした場合、スーツは破壊される。プロセスが完了すると、そのドラゴンはこの変装状態を無期限に維持できる。</p>\n<p>この変身は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]{チェンジ・シェイプ}の効果を持つが、その変装は本質的に能動的な魔法ではなく、ディテクト・マジックや同様の効果に対して魔法として検知されることはない。そのドラゴンは変身中、ボディ・リトラクトを失う。</p>\n<p>もしそのドラゴンが変装中にクリティカルヒットを受けた場合、スーツは破壊され、即座に爆発する。これはデトネート・ディスガイズの効果を持つが、クリーチャーはセーヴの出目よりも1段階良い成功度を使用する。</p>"
         },
         "kK41S41L533fMggZ": {
-          "name": "デトネイト・ディスガイズ",
+          "name": "デトネート・ディスガイズ",
           "description": "<p><strong>必要条件</strong>そのドラゴンは魔法で作り出した変装をまとっている。</p>\n<hr />\n<p><strong>効果</strong>そのドラゴンは変装から飛び出し、それを破壊する。この爆発的な正体の露呈は、@Template[emanation|distance:5]にいるクリーチャーに対して@Check[reflex|dc:26|basic|options:area-effect]セーヴを行わせ、@Damage[9d6[bludgeoning]|options:area-damage]ダメージを与える。セーヴに失敗したクリーチャーは、変装の破片を浴びて1ラウンドの間、@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態となる。</p>\n<p>飛び出した後、そのドラゴンとスペースを共有しているクリーチャーは、最も近い空いているスペースへ押しやられる。</p>"
         },
         "lhnqwfK5RkPmG7XJ": {
@@ -15722,13 +15722,13 @@
         },
         "dkfqFFDoPeLbQKNp": {
           "name": "構造体の装甲(硬度6)/Construct Armor (Hardness 6)",
-          "description": "<p>通常の物体と同様に、アニメイテッド・スタチューは硬度を持つ。この硬度は、それが受けるあらゆるダメージを、その硬度と等しい値だけ減少させる。アニメイテッド・スタチューのヒット・ポイントが半分未満になった時、あるいはクリティカルヒットによってダメージを受けた直後に、そのコンストラクト・アーマーは破壊され、そのアーマー・クラスは15に減少する。</p>"
+          "description": "<p>通常の物体と同様に、アニメーテッド・スタチューは硬度を持つ。この硬度は、それが受けるあらゆるダメージを、その硬度と等しい値だけ減少させる。アニメーテッド・スタチューのヒット・ポイントが半分未満になった時、あるいはクリティカルヒットによってダメージを受けた直後に、そのコンストラクト・アーマーは破壊され、そのアーマー・クラスは15に減少する。</p>"
         },
         "gx4QtoqFUMcJKh9b": {
           "name": "掴み"
         }
       },
-      "name": "アニメイテッド・スタチュー/Animated Statue",
+      "name": "アニメーテッド・スタチュー/Animated Statue",
       "publicNotes": "<p>Animated statues are often used to guard crypts, small shrines, or areas in government buildings where they can be positioned amid normal statues to hide their true nature until an intruder arouses their ire. Many less scrupulous adventurers, fueled by paranoia that statues will animate and attack, smash any statues they encounter, ruining harmless, ancient relics.</p>\n<hr />\n<p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>"
     },
     "Orc Scrapper": {
@@ -15977,8 +15977,8 @@
           "description": "<p>ドラゴンの素手の　近接ストライクはアダマンティンである。</p>"
         },
         "S1Ztj3jcXHNboSRl": {
-          "name": "アヴァランチ・ブレス",
-          "description": "<p>そのドラゴンは岩の塊を吐き出し、@Template[cone|distance:30]内の対象に@Damage[8d8[bludgeoning]|options:area-damage]のダメージを与える(@Check[reflex|dc:28|basic|options:area-effect]セーヴ)。</p>\n<p>彼らは[[/gmr 1d4 #Recharge Avalanche Breath]]{1d4ラウンド}の間、アヴァランチ・ブレスを再び使用できない。</p>"
+          "name": "アバランチ・ブレス",
+          "description": "<p>そのドラゴンは岩の塊を吐き出し、@Template[cone|distance:30]内の対象に@Damage[8d8[bludgeoning]|options:area-damage]のダメージを与える(@Check[reflex|dc:28|basic|options:area-effect]セーヴ)。</p>\n<p>彼らは[[/gmr 1d4 #Recharge Avalanche Breath]]{1d4ラウンド}の間、アバランチ・ブレスを再び使用できない。</p>"
         },
         "oIGArcTy5v4hSbt2": {
           "name": "バロウイング・パウンス",
@@ -15989,7 +15989,7 @@
           "description": "<p>ドラゴンは20フィートの移動速度で固い石の中を穴掘りできる。望むならばトンネルを残すこともできるが、通常はそうしない。</p>"
         },
         "uFP1Yw0V53Uii1mE": {
-          "name": "スワロウ・ホール",
+          "name": "スワロー・ホール",
           "description": "<p>中型、@Damage[(2d12+4)[bludgeoning]]、Rupture 22</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "2iyCQPtD05LBG8Gz": {
@@ -16143,7 +16143,7 @@
           "description": "<p>@Damage[(1d10+15)[bludgeoning]]、@Check[fortitude|dc:42|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
         },
         "BudK3JDDVjbWqw8G": {
-          "name": "ワープウェイブ・ストライク/Warpwave Strike",
+          "name": "ワープウェーブ・ストライク/Warpwave Strike",
           "description": "<p>ケケターの顎または爪による〈ストライク〉で攻撃されたクリーチャーは、@Check[fortitude|dc:36]セーヴに成功しなければ、@UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.HKFoOZZV4WdjkeeJ]{ワープウェーヴ}の影響を受ける。</p>"
         },
         "QblhIHkvSph67WTI": {
@@ -16360,7 +16360,7 @@
           "description": "<p>マンティコアは尾から最大2本のスパイクを放ち、2体の異なるクリーチャー、または単一のクリーチャーを対象とする。マンティコアが2体の異なるクリーチャーを対象とする場合、これらのクリーチャーは互いに20フィート以内でなければならず、マンティコアはそれぞれに対して個別に〈ストライク〉を行う。これはマンティコアのマルチアタック・ペナルティにおいては1回の〈ストライク〉としてのみ数えられ、ペナルティは両方の攻撃が終わるまで増加しない。</p>\n<p>マンティコアが両方のスパイクを同じクリーチャーに放つ場合、1回の〈ストライク〉を行う。攻撃がヒットした場合、単一のスパイクのダメージを与えるが、対象は釘付けにされ、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。クリーチャーは、そのスパイクを[[/act force-open dc=23]]{Forces Open}するか、[[/act escape dc=23]]{Escapes}することで自由になることができる。どちらの選択肢もDCは23である。</p>\n<p>マンティコアは24時間の間に12本を超えるスパイクを放つことはできない。</p>"
         }
       },
-      "name": "マンティコア（クイル・テイル）/Manticore (Quill Tail)",
+      "name": "マンティコア（クイル・テール）/Manticore (Quill Tail)",
       "publicNotes": "<p>A manticore is a monstrous amalgamation of lion, dragon, and human with a penchant for feasting on human flesh. Its distinctive tail is festooned with large quills like those of a porcupine, which the manticore flings at prey by whipping its tail like a sling. These deadly spikes give the manticore the power to slaughter even well-armed warriors from the safety of the sky.</p>\n<p>Although the anthropomorphic face of the manticore suggests a keen intellect, most creatures of its kind are single-minded killers. They can be clever liars, however, and their voices have a strangely musical sound that has lured many unwitting travelers into an ambush. A manticore discovered by uneducated or spiteful humanoids can sometimes become the center of adoration and even worship. A manticore in this situation swiftly gives in to its laziness and allows its acolytes to bring it tribute in the form of food and treasure, feasting upon its own followers when offerings become scarce. Stronger humanoids who encounter a manticore can cow it through intimidation and violence, sometimes even forcing it into service as a mount. As long as the manticore is well fed with human flesh and its master leads it to victory, a manticore mount can prove surprisingly loyal.</p>\n<p>A manticore enjoys taking plunder from the corpses of its prey as trophies that flatter its vanity and testify to its strength. It has little interest in money, but sometimes accepts gold and jewels as tribute. Because manticores prefer lonely places in the wilderness far from humanoids, they remain content to enjoy their spoils alone rather than show them off to visitors.</p>"
     },
     "Skulltaker": {
@@ -16450,7 +16450,7 @@
           "description": "<p>ポルターガイストはある場所に縛り付けられており、それが創造された、あるいは形成された場所から120フィートを超えて移動することはできない。一部のポルターガイストは代わりに、特定の部屋、建造物、あるいは同様の区域に縛り付けられている。</p>"
         },
         "smEk0yh1Pe95Nvsc": {
-          "name": "ナチュラル・インヴィジビリティ/Natural Invisibility",
+          "name": "ナチュラル・インビジビリティ/Natural Invisibility",
           "description": "<p>ポルターガイストは本来、@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}である。これはフライトゥンを使用した時にのみ可視状態となる。</p>"
         },
         "pvdHMw62l3uanob8": {
@@ -16665,7 +16665,7 @@
           ]
         }
       ],
-      "name": "アザーケティ・クラブ・キャッチャー/Azarketi Crab Catcher",
+      "name": "アザルケティ・クラブ・キャッチャー/Azarketi Crab Catcher",
       "publicNotes": "<p>The average azarketi citizen in Absalom makes a living fishing or catching crabs.</p>\n<hr />\n<p>Azarketis, also known as gillmen, can be found all over Golarion, with a particularly high concentration around Absalom and the Inner Sea. Descendants of the ancient Azlanti, the azarketis survived the cataclysm of Earthfall by fleeing into the ocean, where they were warped into amphibious forms by the alghollthu.</p>"
     }
   },

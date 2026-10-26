@@ -35,7 +35,7 @@
     },
     "Wanderer's Soul": {
       "name": "放浪者の魂/Wanderer's Soul",
-      "description": "<p>あなたの魂は特に輪廻の輪へと戻りやすい。あなたが@UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{レイズ・デッド}、@UUID[Compendium.pf2e.spells-srd.Item.gIVaSCrLhhBzGHQY]{リインカーネイト}、あるいはあなたを生き返らせる同様の儀式の対象となった際、主たる術者はそのロールの結果を1段階良いものとして扱う。儀式によってあなたが別の祖先の肉体に転生することになったとしても、あなたは常にサムサランとして生き返る。</p>"
+      "description": "<p>あなたの魂は特に輪廻の輪へと戻りやすい。あなたが@UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{レイズ・デッド}、@UUID[Compendium.pf2e.spells-srd.Item.gIVaSCrLhhBzGHQY]{リインカーネート}、あるいはあなたを生き返らせる同様の儀式の対象となった際、主たる術者はそのロールの結果を1段階良いものとして扱う。儀式によってあなたが別の祖先の肉体に転生することになったとしても、あなたは常にサムサランとして生き返る。</p>"
     },
     "Fangs": {
       "name": "牙/Fangs",
@@ -87,7 +87,7 @@
     },
     "Innate Venom": {
       "name": "生来の毒/Innate Venom",
-      "description": "<p>あなたの血液には、あなた自身以外のすべてにとって致命的な毒が含まれている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{〈エンヴェノム〉}アクションを得る。これは少量のヴィシュカンヤの毒を注入できる。あなたの毒のセーヴDCは、あなたのクラスDCか呪文DCのいずれか高い方と等しい。</p>"
+      "description": "<p>あなたの血液には、あなた自身以外のすべてにとって致命的な毒が含まれている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{〈エンベノム〉}アクションを得る。これは少量のヴィシュカンヤの毒を注入できる。あなたの毒のセーヴDCは、あなたのクラスDCか呪文DCのいずれか高い方と等しい。</p>"
     },
     "Bite": {
       "name": "噛みつき/Bite",

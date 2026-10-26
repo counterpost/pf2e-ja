@@ -196,7 +196,7 @@
           "description": "<p>90フィート。 @Check[will|dc:31|options:area-effect,inflicts:frightened]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         "D4C1yHkCqpQckxgr": {
-          "name": "テイル・ラッシュ/Tail Lash",
+          "name": "テール・ラッシュ/Tail Lash",
           "description": "<p><strong>トリガー</strong>ドラゴンの尾の攻撃範囲内にいるクリーチャーが、〈ストライク〉を行うか、スキル判定を行おうとしてアクションを費やす。</p>\n<hr />\n<p><strong>効果</strong>ドラゴンは-2のペナルティを伴って、トリガーとなったクリーチャーに対して尾で〈ストライク〉を行う。ヒットした場合、そのクリーチャーはトリガーとなったロールに-2の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.QqC9xymSXSVunDgl]{効果: 尾の一払い}</p>"
         },
         "GeAJNEdtRdXSvZvk": {
@@ -347,7 +347,7 @@
           "name": "コンポジット・ショートボウ"
         },
         "lKCBlYHM1b1jr4kU": {
-          "name": "デヴィルズ・ブレス/Devil's Breath",
+          "name": "デビルズ・ブレス/Devil's Breath",
           "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>昇華せし弟子は、手に持っている斬撃武器で自分の舌を切り(@Damage[1[slashing]]ダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[reflex|dc:22|options:area-effect,damaging-effect]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[2d8[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[4d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによってシックンド1となり、煙によって1分の間@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となる。</p>"
         },
         "QaupL7Xcp6m5YmUB": {
@@ -528,7 +528,7 @@
           "description": "<p>20フィート。このオーラの中でターンを開始したクリーチャーは、@Check[will|dc:25|options:area-effect,inflicts:confused]セーヴに成功しなければならず、失敗すると1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となる。成功した場合、そのクリーチャーは1分の間一時的な免疫となる。ムノゴスは、精神集中(concentrate)のトレイトを持つ単一のアクションとして、このオーラを抑制または起動できる。</p>"
         },
         "tNfhf1JnOxOHfY86": {
-          "name": "エンヴェノム・ウェポン/Envenom Weapon",
+          "name": "エンベノム・ウェポン/Envenom Weapon",
           "description": "<p>ムノゴスは自身のロングソードにセウガシの毒を塗布する。</p>"
         },
         "MnAW3prtfTZxnv7T": {
@@ -716,7 +716,7 @@
           "name": "ショートソード/Shortsword"
         },
         "q9qnT4OPhxU6cbs9": {
-          "name": "デヴィルズ・カースト・ブレス/Devil's Cursed Breath",
+          "name": "デビルズ・カースト・ブレス/Devil's Cursed Breath",
           "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ジョルダスは自身の舌を噛み切り(@Damage[1[slashing]]ダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[reflex|dc:26|options:area-effect,damaging-effect]セーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d8[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[7d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[10d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって病気1となり、呪われる。犠牲者の火傷が完全に消えることはなく、呪われたクリーチャーは絶え間ない痛みからすべての攻撃に－2のステータス・ペナルティを受ける。治癒によって火傷の外見が変わったりペナルティが軽減されたりすることはないが、呪いを取り除くことで解消される。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果：デヴィルズ・カースド・ブレス}</p>"
         }
       },
@@ -810,7 +810,7 @@
           "name": "ライト・ウィスプ/Light Wisp"
         },
         "zZdlKoZukVTRu2lC": {
-          "name": "キャヴァーン・ディペンデント/Cavern Dependent",
+          "name": "キャバーン・ディペンデント/Cavern Dependent",
           "description": "<p>ランパードは単一の大洞窟またはその他の独立した地下エリアに神秘的に結びつけられており、そこから300フィート以内に留まらなければならない。</p>\n<p>その範囲を超えて移動した場合、彼らは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態になり、回復できなくなる。彼らは1時間ごとに@Check[fortitude|dc:19]セーヴを行わなければならず、失敗すると病気値が1増加する(最大で病気4まで)。</p>\n<p>24時間後、彼らは@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}状態になり、この値はさらに24時間が経過するごとに1増加する。ランパードは新しい大洞窟と結びつくために、24時間の儀式を行うことができる。</p>"
         },
         "Mq1buiTxEF2rhIx8": {
@@ -887,7 +887,7 @@
           "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>ザラヴェクサスの次のアクションが第3ランク以下の呪文または変得(キャントリップ)の発動である場合、それを発動するためのアクション数を1減らす(最低1アクション)。</p>"
         },
         "zNeDe02hwHzcyE1s": {
-          "name": "スクワーミング・エンブレイス/Squirming Embrace",
+          "name": "スクワーミング・エンブレース/Squirming Embrace",
           "description": "<p>ワーム・ザット・ウォークスは歩行し、クリーチャーとスペースを共有して移動を終了し、そのクリーチャーに@Damage[4d8[piercing]]ダメージを与える。そのクリーチャーは@Check[reflex|dc:27|basic]セーヴを行うことができる。</p>"
         },
         "Gqr0UFpNbBT1bhtg": {
@@ -1133,14 +1133,14 @@
       "disable": "<p>扉の周囲に巧妙に隠されたトリガーのルーンを削り取るための@Check[thievery|dc:27](マスター)、または罠を打ち消しするための@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{ディスペル・マジック}(第4ランク、打ち消し DC23)</p>"
     },
     "Devil's Breath": {
-      "reset": "<p>デヴィルズ・ブレスは1時間後に自動的に再装填される。</p>",
+      "reset": "<p>デビルズ・ブレスは1時間後に自動的に再装填される。</p>",
       "items": {
         "DoFn41kj4boZ6xAp": {
           "name": "煙の吐息/Exhale Smoke",
           "description": "<p><strong>トリガー</strong>ゴブリン以外のクリーチャーが、剥製のサンドポイント・デヴィルから10フィート以内に近づく</p>\n<hr />\n<p><strong>効果</strong>剥製のサンドポイント・デヴィルが前方に突進し、顎を開け、血も凍るような遠吠えと悪臭を放つ灰色の煙を吐き出す。罠の南側(ピットへと通じる扉まで届く範囲)に向けられた@Template[cone|distance:30]の中にいるすべてのクリーチャーは、@Check[fortitude|dc:22|options:area-effect,inflicts:enfeebled]セーヴを行わなければならず、失敗すると1時間の間@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となり(大失敗の場合は8時間の間@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}状態となる)。</p>"
         }
       },
-      "name": "デヴィルズ・ブレス",
+      "name": "デビルズ・ブレス",
       "description": "<p>剥製のモンスターは前方に突進し、遠吠えを上げ、悪臭を放つ煙を吐き出す。</p>",
       "disable": "<p>剥製の宝石の目を取り外すための@Check[thievery|dc:23]判定</p>"
     },
@@ -1262,7 +1262,7 @@
           "name": "グレーター・サンダーストーン/Greater Thunderstone"
         },
         "0Fov7JFb1MdJaHxP": {
-          "name": "イヴェイジョン/Evasion",
+          "name": "イベージョン/Evasion",
           "description": "<p>カンカーが反応セーヴで成功をロールしたとき、彼は代わりに大成功を得る。</p>"
         },
         "DU4FmtvzdaEohExI": {
@@ -1396,7 +1396,7 @@
           "description": "<p>通常の物体と同様に、生命を吹き込まれた像は硬度を持つ。この硬度は、自身が受けるあらゆるダメージを硬度と等しい値だけ減少させる。</p>\n<p>生命を吹き込まれた像のヒット・ポイントが半分未満に減少するか、あるいはクリティカルヒットによってダメージを受けると直ちに、そのコンストラクトの鎧が壊れ、そのアーマー・クラスは19に減少する。</p>"
         }
       },
-      "blurb": "アニメイテッド・スタチューの異能個体",
+      "blurb": "アニメーテッド・スタチューの異能個体",
       "name": "スタチュー・オブ・アラズニスト/Statue of Alaznist",
       "publicNotes": "<p>Animated statues are often used to guard crypts, small shrines, or areas in government buildings where they can be positioned amid normal statues to hide their true nature until an intruder arouses their ire. Adventurers' suspicions regarding statues suddenly animating and attacking has led many less scrupulous adventurers to automatically attack any statues they encounter, ruining harmless, ancient relics.</p>\n<hr />\n<p>Granted a semblance of life through the use of rituals or other strange magic, animated objects take many forms and serve a variety of uses. A few examples of typical animated objects are listed below. Many of these creatures serve as guardians, surprising unsuspecting adventurers when they suddenly attack. Others serve as idle distractions for the exceptionally rich, simple servants created to handle odd jobs, and the like.</p>"
     },
@@ -1451,7 +1451,7 @@
           "description": "<p><strong>必要条件</strong>グールが、過去1時間以内に死亡したクリーチャーの死体に隣接している。</p>\n<hr />\n<p><strong>効果</strong>グールは死体の一部を貪り食い、@Damage[3d6[healing]]のヒット・ポイントを回復する。</p>\n<p>グールが特定の死体からヒット・ポイントを回復できるのは1回のみである。</p>"
         },
         "oa6JQCeL4B2WQMPI": {
-          "name": "グール・フィーヴァー/Ghoul Fever",
+          "name": "グール・フィーバー/Ghoul Fever",
           "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:21]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響なしのキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]]ダメージ、およびすべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[2d6[void]]ダメージ、および回復から恩恵を得られない(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.LHHgGSs0ELCR4CYK]{グール}として立ち上がる。</p>"
         },
         "9TCF9GcaMoTKkPSj": {
@@ -1478,7 +1478,7 @@
         },
         "oKuYToU9Nv9ALIIv": {
           "name": "リジュヴェネーション",
-          "description": "<p>グレイヴナイトが破壊されたとき、その鎧は[[/gmr 1d10 #days]]{1d10日}かけてその肉体を再構築する。生きた宿主が鎧を着用している場合は、より早く再構築される。それ以前に肉体が破壊された場合、このプロセスは再スタートする。</p>\n<p>グレイヴナイトを完全に破壊するには、鎧を消滅させる(@UUID[Compendium.pf2e.spells-srd.Item.r7ihOgKv19eJQnik]{ディスインテグレイト}など)、鎧をクリエイションのフォージに運ぶ、あるいは火山の中心部に投げ込むしかない。</p>"
+          "description": "<p>グレイヴナイトが破壊されたとき、その鎧は[[/gmr 1d10 #days]]{1d10日}かけてその肉体を再構築する。生きた宿主が鎧を着用している場合は、より早く再構築される。それ以前に肉体が破壊された場合、このプロセスは再スタートする。</p>\n<p>グレイヴナイトを完全に破壊するには、鎧を消滅させる(@UUID[Compendium.pf2e.spells-srd.Item.r7ihOgKv19eJQnik]{ディスインテグレート}など)、鎧をクリエイションのフォージに運ぶ、あるいは火山の中心部に投げ込むしかない。</p>"
         },
         "xH6NrBw4bYEHU7e3": {
           "name": "サクリリジャス・オーラ/Sacrilegious Aura",
@@ -1488,7 +1488,7 @@
           "name": "ヴォイド・ヒーリング"
         },
         "1UmNfowZ4HWxS9rx": {
-          "name": "デヴァステイティング・ブラスト/Devastating Blast",
+          "name": "デバステーティング・ブラスト/Devastating Blast",
           "description": "<p>グレイヴナイトはエネルギーの@Template[cone|distance:30]を放出する。エリア内のクリーチャーは@Damage[4d12[fire]|options:area-damage]ダメージを受ける(@Check[reflex|dc:24|basic|options:area-effect]セーヴ)。</p>\n<p>グレイヴナイトはこの能力を[[/gmr 1d4 #Recharge Devastating Blast]]{1d4ラウンド}に1回使用できる。</p>"
         },
         "oVn3oZARiqT7Hf3P": {
@@ -1650,7 +1650,7 @@
           "description": "<p><strong>必要条件</strong>グールが、過去1時間以内に死亡したクリーチャーの死体に隣接している。</p>\n<hr />\n<p><strong>効果</strong>グールは死体の一部をむさぼり食い、@Damage[1d6[healing]]のヒット・ポイントを回復する。</p>\n<p>特定の死体からヒット・ポイントを回復できるのは、1回限りである。</p>"
         },
         "oa6JQCeL4B2WQMPI": {
-          "name": "グール・フィーヴァー",
+          "name": "グール・フィーバー",
           "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:15]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のないキャリアー(1日)</p>\n<p><strong>第2段階</strong> @Damage[2d6[void]]ダメージを受け、すべての回復から得られるヒット・ポイントが半分になる(1日)</p>\n<p><strong>第3段階</strong>段階2と同様(1日)</p>\n<p><strong>第4段階</strong> @Damage[2d6[void]]ダメージを受け、回復から何の恩恵も得られなくなる(1日)</p>\n<p><strong>第5段階</strong>段階4と同様(1日)</p>\n<p><strong>段階6</strong>死亡し、次の真夜中に@UUID[Compendium.pf2e.pathfinder-bestiary.Actor.LHHgGSs0ELCR4CYK]{グール}として立ち上がる。</p>"
         },
         "9TCF9GcaMoTKkPSj": {
@@ -1844,7 +1844,7 @@
           "name": "ショートボウ"
         },
         "uxi7mZBlBZgzITyC": {
-          "name": "デヴィルズ・カースト・ブレス",
+          "name": "デビルズ・カースト・ブレス",
           "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>アスメレリは自分の舌を噛み切り(@Damage[1[slashing]]のダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。エリア内の各クリーチャーは@Check[reflex|dc:24|options:area-effect,damaging-effect]のセーヴィング・スローを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[3d8[fire]|options:area-damage]のダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[6d8[fire]|options:area-damage]のダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[6d8[fire]|options:area-damage]のダメージを受け、火傷の激しい痛みによって病気1状態となり、さらに呪われる。犠牲者の火傷が完全に消えることはなく、呪われたクリーチャーは絶え間ない痛みによってすべての攻撃に–2の状況ペナルティを受ける。治癒によって火傷の見た目が変わったりペナルティが軽減されたりすることはないが、呪いを取り除くことで回復する。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.khL2A1slsnufpJp4]{効果:悪魔の呪いの息}</p>"
         },
         "zrZA50r5Dh8VELO4": {
@@ -1897,7 +1897,7 @@
           "name": "ダガー"
         },
         "dyNhPooeY6ACzEdg": {
-          "name": "デヴィルズ・ブレス",
+          "name": "デビルズ・ブレス",
           "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong>デヴィルズ・ディサイプルは手に持っている斬撃武器で自身の舌を切り(@Damage[1[slashing]]ダメージを受ける)、その後、燃え盛る煙の@Template[cone|distance:15]を吐き出す。範囲内の各クリーチャーは@Check[reflex|dc:18|options:area-effect,damaging-effect]セーヴを行わなければならない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>クリーチャーは@Damage[1d8[fire]|options:area-damage]ダメージを受ける。</p>\n<p><strong>失敗</strong>クリーチャーは@Damage[2d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによって@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる。</p>\n<p><strong>クリティカル失敗</strong>クリーチャーは@Damage[4d8[fire]|options:area-damage]ダメージを受け、火傷の激しい痛みによってsickened 1状態となり、さらに1分の間、煙によって@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態となる。</p>"
         },
         "wLSyDiWVFxcv4ShC": {
