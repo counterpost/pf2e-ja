@@ -7018,7 +7018,7 @@
     },
     "Stunning Blows": {
       "name": "スタニング・ブロウズ/Stunning Blows",
-      "description": "<p>あなたのフラリーの集中した力は、相手を圧倒しようとする。同じクリーチャーをあなたの@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈フラーリー・オブ・ブロウズ〉}から2回のストライクで狙った場合、そのクリーチャーをスタンさせることを試みることができる。いずれかの〔ストライク〕がヒットし、ダメージを与えるした場合、対象はあなたのクラスDCに対する頑健セーヴに成功しなければならず、さもなくば@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}される(クリティカル失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン3})。これは無力化効果である。</p>",
+      "description": "<p>あなたのフラリーの集中した力は、相手を圧倒しようとする。同じクリーチャーをあなたの@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈連打〉}から2回のストライクで狙った場合、そのクリーチャーをスタンさせることを試みることができる。いずれかの〔ストライク〕がヒットし、ダメージを与えるした場合、対象はあなたのクラスDCに対する頑健セーヴに成功しなければならず、さもなくば@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}される(クリティカル失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン3})。これは無力化効果である。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -9217,7 +9217,7 @@
     },
     "Pinning Fire": {
       "name": "ピニング・ファイア/Pinning Fire",
-      "description": "<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈フラーリー・オブ・ブロウズ〉}を使用して、同じ対象に対して2回の 遠隔刺突ウェポンストライクを行う。</p>\n<hr />\n<p>あなたは、対象の衣服、装備品、または緩い肉に刺突プロジェクタイルを使用して、それらを地面または近くの表面に固定する。</p>\n<p>もし両方の攻撃が命中した場合、対象はあなたのクラスDCに対する反応セーヴに成功しなければならず、そうでないと@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態になり、その対象または隣接するクリーチャーがピン留めされたプロジェクタイルを取り除くために@Check[athletics|dc:10|name:Remove Pinning Projectiles]判定に成功するまでそのままでいる。</p>\n<p>そのクリーチャーは、非実体である場合、液体(ウォーターエレメンタルやいくつかのウーズのような)である場合、または他の方法で努力せずに脱出できる場合、固定されることはない。</p>",
+      "description": "<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈連打〉}を使用して、同じ対象に対して2回の 遠隔刺突ウェポンストライクを行う。</p>\n<hr />\n<p>あなたは、対象の衣服、装備品、または緩い肉に刺突プロジェクタイルを使用して、それらを地面または近くの表面に固定する。</p>\n<p>もし両方の攻撃が命中した場合、対象はあなたのクラスDCに対する反応セーヴに成功しなければならず、そうでないと@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態になり、その対象または隣接するクリーチャーがピン留めされたプロジェクタイルを取り除くために@Check[athletics|dc:10|name:Remove Pinning Projectiles]判定に成功するまでそのままでいる。</p>\n<p>そのクリーチャーは、非実体である場合、液体(ウォーターエレメンタルやいくつかのウーズのような)である場合、または他の方法で努力せずに脱出できる場合、固定されることはない。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Special Sentinel Technique": {
@@ -10739,7 +10739,7 @@
     },
     "Monk's Flurry": {
       "name": "モンクス・フラリー/Monk's Flurry",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈フラーリー・オブ・ブロウズ〉}アクションを得る。しかし、あなたの拳の力はあなたのコンディショニングを超えており、一度フラリー・オブ・ブローズを使用すると、筋肉が回復するまで[[/r 1d4 #Recharge it]]{1d4 rounds}再度使用することができない。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈連打〉}アクションを得る。しかし、あなたの拳の力はあなたのコンディショニングを超えており、一度フラリー・オブ・ブローズを使用すると、筋肉が回復するまで[[/r 1d4 #Recharge it]]{1d4 rounds}再度使用することができない。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -26368,7 +26368,7 @@
     },
     "Stumbling Feint": {
       "name": "スタンブリング・フェイント/Stumbling Feint",
-      "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.7FRYyKXDKjGoANYj]{スタンブリング・スタンス}にいる。</p>\n<hr />\n<p>あなたは一見弱い動きで混乱を引き起こすけれど、それはあなたが無警戒な敵に危険な一連の攻撃を解き放つことを可能にする。</p>\n<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈フラーリー・オブ・ブロウズ〉}を使用すると、最初の 〔ストライク〕 の直前に@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}をフリー・アクションとして試みることができる判定。</p>\n<p>成功した場合、対象はあなたの次の攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}を行う代わりに、フルーリー・オブ・ブローの両方の攻撃に対して無防備状態になる。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.7FRYyKXDKjGoANYj]{スタンブリング・スタンス}にいる。</p>\n<hr />\n<p>あなたは一見弱い動きで混乱を引き起こすけれど、それはあなたが無警戒な敵に危険な一連の攻撃を解き放つことを可能にする。</p>\n<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈連打〉}を使用すると、最初の 〔ストライク〕 の直前に@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}をフリー・アクションとして試みることができる判定。</p>\n<p>成功した場合、対象はあなたの次の攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}を行う代わりに、フルーリー・オブ・ブローの両方の攻撃に対して無防備状態になる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -48917,7 +48917,7 @@
     },
     "Monastic Archer Stance": {
       "name": "モナスティック・アーチャー・スタンス/Monastic Archer Stance",
-      "description": "<p><strong>必要条件</strong>あなたは鎧を着ておらず、ロングボウ、ショートボウ、または僧侶トレイトを持つ弓を使っている。</p>\n<hr />\n<p>あなたは弓を使ったユニークな武道に特化した構えに入る。この構えの間、あなたが行えるストライクはロングボウ、ショートボウ、または僧侶トレイトを持つ弓を使用したものだけである。</p>\n<p>あなたはこれらの弓で@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈フラーリー・オブ・ブロウズ〉}を使用できる。あなたは攻撃が最初の射程増分の半分以内である限り(通常ロングボウは50フィート、ショートボウは30フィート)、他の僧侶のフィートや通常は無手攻撃を必要とする僧侶の能力を使用できる。ただし、そのフィートや能力が単一の特定の〔ストライク〕を必要としない場合に限る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.1dxD3xsTzak6GNj5]{構え: Monastic Archer 構え}</p>\n<hr />\n<p><strong>特別</strong>あなたがこのフィートを選ぶと、ロングボウ、ショートボウ、そして僧侶トレイトを持つすべてのシンプルな武器と武道武器で訓練済みになる。あなたがエキスパートストライクのクラス機能を得ると、これらの武器の熟練度ランクはエキスパートに上がり、マスターストライクのクラス機能を得ると、熟練度ランクはマスターに上がる。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは鎧を着ておらず、ロングボウ、ショートボウ、または僧侶トレイトを持つ弓を使っている。</p>\n<hr />\n<p>あなたは弓を使ったユニークな武道に特化した構えに入る。この構えの間、あなたが行えるストライクはロングボウ、ショートボウ、または僧侶トレイトを持つ弓を使用したものだけである。</p>\n<p>あなたはこれらの弓で@UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{〈連打〉}を使用できる。あなたは攻撃が最初の射程増分の半分以内である限り(通常ロングボウは50フィート、ショートボウは30フィート)、他の僧侶のフィートや通常は無手攻撃を必要とする僧侶の能力を使用できる。ただし、そのフィートや能力が単一の特定の〔ストライク〕を必要としない場合に限る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.1dxD3xsTzak6GNj5]{構え: Monastic Archer 構え}</p>\n<hr />\n<p><strong>特別</strong>あなたがこのフィートを選ぶと、ロングボウ、ショートボウ、そして僧侶トレイトを持つすべてのシンプルな武器と武道武器で訓練済みになる。あなたがエキスパートストライクのクラス機能を得ると、これらの武器の熟練度ランクはエキスパートに上がり、マスターストライクのクラス機能を得ると、熟練度ランクはマスターに上がる。</p>",
       "selfEffect": "構え：修道アーチャー構え",
       "source": "Pathfinder Player Core 2"
     },
