@@ -32681,7 +32681,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Behold, a Pale Horse": {
-      "name": "ビホールド・ア・ペール・ホース/Behold, a Pale Horse",
+      "name": "ビホールド・ア・ペイル・ホース/Behold, a Pale Horse",
       "description": "<p>あなたの終末の乗馬が最終的な終末の騎手にふさわしくなる。あなたの終末の乗馬はあなたの選択したスペシャライゼーションを1つ得る。</p><hr /><p><strong>特別</strong>あなたはこの特技を最大3回選ぶことができる。毎回、異なるスペシャライゼーションをあなたの終末の乗馬に追加する。あなたの終末の乗馬は特別化を3つ以上持つことはできない。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
@@ -36098,7 +36098,7 @@
       "source": "Pathfinder Player Core"
     },
     "Pale Horse": {
-      "name": "ペール・ホース/Pale Horse",
+      "name": "ペイル・ホース/Pale Horse",
       "description": "<p>あなたの騎乗動物は、あなたが乗ると不気味なクリーチャーに変わる。その外見は、肌から炎が噴き出し、虚無エネルギーの渦が周囲を取り巻き、または毒がその肉から漏れ出すように変わる。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.PM5jvValFkbFH3TV]{〈騎乗〉}あなたの忠実な馬に乗っている間、あなたは火、毒、または虚無を選ぶことができる。その間、あなたの馬は選択したダメージ種別に対して耐性10を得る。また、あなたの馬に接触したクリーチャーは選択したタイプの1d6ダメージを受ける。これは、無防備な攻撃で馬を攻撃したり、馬の隣で近接の武器を使って〔ストライク〕した場合を含む。このダメージは16レベルで2d6に、20レベルで3d6に増加する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.21P9Xc6DslCjfq0Y]{効果: Pale ホース}</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
