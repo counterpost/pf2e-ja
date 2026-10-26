@@ -10,7 +10,7 @@
       "description": "<p>あなたが魔法を装備した後、特別な構えに入って攻撃をより効果的にすることができる。</p>\n<p>@UUID[Compendium.pf2e.actionspf2e.Item.HbejhIywqIufrmVM]{〈アーケイン・カスケード〉}</p>"
     },
     "Warpriest": {
-      "name": "ウォープリースト/Warpriest",
+      "name": "戦闘神官/Warpriest",
       "description": "<p>あなたは教会のより好戦的な教義について訓練済みしており、呪文と戦闘の両方に焦点を当てている。</p>\n<p><strong>第一の教義(1レベル):</strong>あなたは軽装鎧と中装鎧に訓練済みしており、頑健セーヴに熟練の習熟度を持つ。あなたは@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{〈シールド・ブロック〉}汎用特技を得る。これは盾でダメージを軽減するためのリアクションである。もしあなたの神格の好みの武器が単純武器または素手攻撃であるなら、あなたは@UUID[Compendium.pf2e.feats-srd.Item.DfLkIIg2reyYW3a8]{デッドリー・シンプリシティー}クレリック特技を得る。13レベルで、もしあなたが@UUID[Compendium.pf2e.classfeatures.Item.0mJTp4LdEHBLInoe]{ディバイン・ディフェンス}クラス特徴を得るなら、軽装鎧と中装鎧の習熟度も熟練になる。</p>\n<p><strong>第二の教義(3レベル):</strong>あなたは軍用武器に訓練済みしている。</p>\n<p><strong>第三の教義(7レベル):</strong>あなたはあなたの神格の好みの武器、軍用武器、単純武器、および素手攻撃の習熟度が熟練になる。あなたの神格の好みの武器を使用した攻撃ロールでクリティカル成功したとき、あなたはその武器のクリティカル時のスペシャライゼーション効果を適用する。あなたは自身のクラスDCの代わりに呪文DCを使用できる。</p>\n<p><strong>第四の教義(11レベル):</strong>あなたの呪文攻撃修正値と呪文DCの統計値の習熟度ランクが熟練に上昇する。</p>\n<p><strong>第五の教義(15レベル):</strong>あなたの頑健セーヴの習熟度ランクが達人に上昇する。あなたが頑健セーヴで成功をロールしたとき、代わりにクリティカル成功となる。</p>\n<p><strong>最終教義(19レベル):</strong>あなたはあなたの神格の好みの武器、呪文攻撃修正値、および呪文DCの習熟度が達人になる。</p>"
     },
     "Animal Instinct": {
@@ -637,7 +637,7 @@
       "description": "<p>バードとして、あなたは1レベル時にミューズを1つ選択する。このミューズはあなたを偉大な事柄へと導き、それはあなたの知人、超自然的クリーチャー、場所、神格、哲学、あるいは魅惑的な謎である可能性がある。あなたが受けるインスピレーションの種類に応じて、あなたの1レベルのミューズは特定の1レベルのバードの特技をあなたに与え、あなたのレパートリーに呪文を1つ追加する。</p>\n<p>これに加えて、各ミューズは後の多くのバードの特技への扉を開く。もし1種類のインスピレーションではあなたのミューズを表現するのに不十分なら、@UUID[Compendium.pf2e.feats-srd.Item.a898miJnjgD93ZsX]{マルチファリアス・ミューズ}特技を検討すること。</p><ul><li>@UUID[Compendium.pf2e.classfeatures.Item.4ripp6EfdVpS0d60]{エニグマ}</li><li>@UUID[Compendium.pf2e.classfeatures.Item.YMBsi4bndRAk5CX4]{マエストロ}</li><li>@UUID[Compendium.pf2e.classfeatures.Item.y0jGimYdMGDJWrEq]{ポリマス}</li><li>@UUID[Compendium.pf2e.classfeatures.Item.N03BtRvjX9TeHRa4]{ウォーリアー}</li><li>@UUID[Compendium.pf2e.classfeatures.Item.jHOlcSnGyjCnwoPP]{ズーフォニア}</li></ul>"
     },
     "First Doctrine (Cloistered Cleric)": {
-      "name": "ファースト・ドクトリン(クロイスタード・クレリック)",
+      "name": "ファースト・ドクトリン(修道院聖職者)",
       "description": "<p>あなたは@UUID[Compendium.pf2e.feats-srd.Item.hT4INKGtly4QY8KN]{領域の入門者}クレリック特技を獲得する。</p>"
     },
     "Guardian Expertise": {
@@ -853,7 +853,7 @@
       "description": "<p>自身の意志を物理攻撃に集中させることで、それらに神秘的なエネルギーを吹き込む。あなたの素手攻撃は魔法のものとなり、非魔法的な攻撃に対する抵抗を無視できるようになる。ただし、攻撃ロールへのアイテム・ボーナスを得たり、攻撃の武器ダメージ・ダイスを増加させたりするには、@UUID[Compendium.pf2e.equipment-srd.Item.FNDq4NFSN0g2HKWO]{ハンドラップス・オブ・マイティ・ブロウズ}のようなアイテムが依然として必要である。</p>"
     },
     "Second Doctrine (Warpriest)": {
-      "name": "セカンド・ドクトリン(ウォープリースト)/Second Doctrine (Warpriest)",
+      "name": "セカンド・ドクトリン(戦闘神官)/Second Doctrine (Warpriest)",
       "description": "<p>あなたはマーシャル武器に訓練済みしている。</p>"
     },
     "Cause": {
@@ -885,7 +885,7 @@
       "description": "<p>あなたは、特定の単純なアイテムをほぼ無限に供給できる永続的な錬金術的注入を作成する方法を学んだ。</p>\n<p>あなたは、注入試薬のバッチを消費することなく、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{クイック・アルケミー}を使用して1レベルの錬金術アイテムを2つ作成する能力を獲得する。選択できるアイテムはあなたの〈研究〉分野に依存し、あなたの処方本になければならない。</p>\n<p>レベルが上がるたびに、あなたは永続的な注入のいくつかを、他の適格な注入と入れ替えることができる。</p>\n<hr />\n<p>1レベルの爆弾を2つ選択すること。</p>"
     },
     "Final Doctrine (Cloistered Cleric)": {
-      "name": "ファイナル・ドクトリン(クロイスタード・クレリック)",
+      "name": "ファイナル・ドクトリン(修道院聖職者)",
       "description": "<p>呪文攻撃修正値と呪文DCの統計値に対するあなたの習熟ランクはレジェンダリーに上昇する。</p>"
     },
     "Kinetic Expertise": {
@@ -1693,7 +1693,7 @@
       "description": "<p>あなたは自身のイノヴェーションを、同種の他の武器よりも強力なものにした。あなたのイノヴェーションの武器ダメージ・ダイスを1段階増加する(d4からd6へ、d6からd8へ、d8からd10へ、d10からd12へ)。通常通り、ダイスを1サイズより大きく増加させることはできないため、この改造は《複雑な単純さ》と累積しない。</p>"
     },
     "Fifth Doctrine (Warpriest)": {
-      "name": "フィフス・ドクトリン(ウォープリースト)/Fifth Doctrine (Warpriest)",
+      "name": "フィフス・ドクトリン(戦闘神官)/Fifth Doctrine (Warpriest)",
       "description": "<p>あなたの頑健セーヴの習熟ランクがマスターに上昇する。あなたが頑健セーヴで成功をロールした時、代わりに大成功を得る。</p>"
     },
     "Perfected Form": {
@@ -1942,7 +1942,7 @@
       "description": "|||<p><strong>使用法</strong> 着用アンクレット、腕輪、またはサークレット(多くはヘッドバンド)</p><hr /><p>これらの重みのあるバンドはあなたの力を高めるものではない。むしろ、あなたの力を判定し、規律を研ぎ澄ますものだ。</p>\n<p><strong>内在</strong> 拘束のバンドが締め付けられ、あなたの精神を鋭く保つ。あなたは意志セーヴィング・スローへの+1状況ボーナスと、レベルの半分に等しい精神ダメージへの耐性を得る。</p>\n<p><strong>超越—</strong>@UUID[Compendium.pf2e.actionspf2e.Item.ZL5o9c4jV5fRwTGR]{〈ブレイク・フリー〉} <span class=\"action-glyph\">2</span>(超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.ZL5o9c4jV5fRwTGR inline]</p>|||"
     },
     "Final Doctrine (Warpriest)": {
-      "name": "ファイナル・ドクトリン(ウォープリースト)/Final Doctrine (Warpriest)",
+      "name": "ファイナル・ドクトリン(戦闘神官)/Final Doctrine (Warpriest)",
       "description": "<p>あなたは、あなたの神格の好む武器、呪文攻撃修正、および呪文DCについて、習熟度が「達人」になる。</p>"
     },
     "School of the Reclamation": {
@@ -1958,7 +1958,7 @@
       "description": "<p>鏡のインプリメントはミスディレクション、幻術、手品を象徴しており、視点や物事の見方を曲げたり変化させたりする。より大きな鏡も同様の神秘的な意味を持つが、ソーマタージは冒険中に容易に使用できるよう、常に小さく携帯可能な手持ちの鏡をインプリメントとして選ぶ。鏡のインプリメントはハローの〈鍵〉のスート、そして〈異邦人〉と〈燕〉の占星術的な徴と関連付けられている。</p><h3><strong>イニシエートの利益</strong></h3><p>@Embed[Compendium.pf2e.classfeatures.Item.AehJwnLCUyASCQlu inline]</p><h3><strong>アデプトの利益</strong></h3><p>@Embed[Compendium.pf2e.classfeatures.Item.AEibGHmDzLiqGR0F inline]</p><h3><strong>脆弱性露呈</strong></h3><p>鏡を強化することで、鏡が光をあちらこちらに屈折させ、敵の感覚を欺くことができるようになる。鏡が敵の知覚を歪めるため、あなたは〈脆弱性露呈〉の対象に対して@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態となる。全体的な位置が依然として明白である場合の隠蔽状態と同様に、あなたはこの隠蔽状態を利用して@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}や@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}を行うことはできない。</p><h3><strong>パラゴンの利益</strong></h3><p>@Embed[Compendium.pf2e.classfeatures.Item.jyfTDSYuzXaNuJ2r inline]</p>"
     },
     "Fifth Doctrine (Cloistered Cleric)": {
-      "name": "フィフス・ドクトリン(クロイスタード・クレリック)",
+      "name": "フィフス・ドクトリン(修道院聖職者)",
       "description": "<p>呪文攻撃修正値および呪文DCの統計値に対するあなたの習熟ランクはマスターに上昇する。</p>"
     },
     "Hefty Composition": {
@@ -2067,7 +2067,7 @@
     },
     "Fourth Doctrine": {
       "name": "フォース・ドクトリン/Fourth Doctrine",
-      "description": "<p>あなたは自身の教義の4番目の恩恵を得る：</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.vxOf4LXZcqUG3P7a]{フォース・ドクトリン(クロイスタード・クレリック)}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.px3gVYp7zlEQIpcl]{フォース・ドクトリン(ウォープリースト)}</li>\n</ul>"
+      "description": "<p>あなたは自身の教義の4番目の恩恵を得る：</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.vxOf4LXZcqUG3P7a]{フォース・ドクトリン(修道院聖職者)}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.px3gVYp7zlEQIpcl]{フォース・ドクトリン(戦闘神官)}</li>\n</ul>"
     },
     "Gleaming Blade": {
       "name": "グリーミング・ブレイド/Gleaming Blade",
@@ -2124,7 +2124,7 @@
     },
     "Second Doctrine": {
       "name": "セカンド・ドクトリン/Second Doctrine",
-      "description": "<p>あなたは自身の教義の2つ目の恩恵を得る：</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.sa7BWfnyCswAvBVa]{セカンド・ドクトリン(クロイスタード・クレリック)}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.D34mPo29r1J3DPaX]{セカンド・ドクトリン(ウォープリースト)}</li>\n</ul>"
+      "description": "<p>あなたは自身の教義の2つ目の恩恵を得る：</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.sa7BWfnyCswAvBVa]{セカンド・ドクトリン(修道院聖職者)}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.D34mPo29r1J3DPaX]{セカンド・ドクトリン(戦闘神官)}</li>\n</ul>"
     },
     "Avenger": {
       "name": "アヴェンジャー/Avenger",
@@ -2288,7 +2288,7 @@
       ]
     },
     "Fourth Doctrine (Warpriest)": {
-      "name": "フォース・ドクトリン(ウォープリースト)/Fourth Doctrine (Warpriest)",
+      "name": "フォース・ドクトリン(戦闘神官)/Fourth Doctrine (Warpriest)",
       "description": "<p>呪文攻撃修正と呪文のDCの統計値に対するあなたの習熟ランクは、エキスパートに上昇する。</p>"
     },
     "Confident Finisher": {
@@ -2548,11 +2548,11 @@
       "description": "<p>献身的な研究と練習を通じて、あなたは学術的な厳密さをもって呪文を構築し、秘術魔法を形成することができる。あなたは呪文の使い手であり、〈呪文の発動〉活動を使用して秘術の系統の呪文を発動できる。ウィザードとして呪文を発動する際、あなたの詠唱はあなたが呼び出す力とそれをどのように形成するかを正確に指定するものであり、あなたの身振りは魔法を正確に形作り、導き、その周囲で秘術のルーンが輝き出す。</p>\n<p>1レベルの時点で、あなたは毎朝、自身の呪文書(下記参照)にある呪文の中から、1ランクの呪文を最大2つ、キャントリップを5つ準備できる。さらに、あなたの秘術学派から、発動可能な各ランクのカリキュラム・キャントリップを1つと、カリキュラム呪文を1つ追加で準備できる。準備された呪文は、発動するか、あるいは再び呪文を準備するまで、使用可能な状態のままとなる。準備できる呪文の数は、あなたの呪文スロットと呼ばれる。</p>\n<p>ウィザードとしてレベルが上がるにつれて、毎日準備できる呪文の数が増加し、発動可能な呪文の最高ランクも上昇する。これはウィザードの「1日あたりの呪文」表に示されている通りである。</p>\n<p>呪文の中には、その効果を確認するために呪文攻撃ロールを行う必要があるものや、敵にあなたの呪文DCに対してロールを行わせるもの(通常はセーヴィング・スローを行うことによる)がある。あなたの主要能力値は知力であるため、あなたの呪文攻撃修正と呪文DCは、あなたの知力修正値を使用する。これらの統計値の算出に関する詳細は403ページを参照のこと。</p><h3>呪文の高位化</h3><p>2ランク以上の呪文スロットを得ると、それらのスロットにより低いランクの呪文の強力なバージョンを充填できる。これにより呪文のランクが上昇し、呪文スロットに合わせて高位化される。多くの呪文には、特定のランクに高位化された際に得られる固有の強化がある。</p><h3>キャントリップ</h3><p>あなたの呪文の中にはキャントリップがある。キャントリップは呪文スロットを使用しない特殊な種類の呪文である。あなたはキャントリップを、1日に何度でも、望むだけ発動できる。キャントリップは常に自動的にあなたのレベルの半分(端数切り上げ)にまで高められる。これは通常、あなたが持つウィザードの呪文スロットの最高ランクと等しい。例えば、1レベルのウィザードであればキャントリップは1ランクの呪文となり、5レベルのウィザードであればキャントリップは3ランクの呪文となる。</p><h3>呪文書</h3><p>すべての秘術呪文には書かれたバージョンが存在し、あなたはそれを自身のパーソナライズされた呪文書に記録する。あなたは10sp以下の価値がある呪文書を所持した状態で開始する。これは無料で受け取れるものであり、呪文を準備するために毎日研究しなければならない。呪文書の形状や名前はあなた次第である。古びた革表紙の書物であってもよいし、真鍮の輪で繋がれた薄い金属板の束であってもよい。その名前は<em>The Tome of Silent Shadows</em>のように難解なものでも、<em>Advanced Pyromantic Applications of Jalmeriエレメンタル Theory</em>のように学術的なものでもよい。</p>\n<p>呪文書には、あなたが選択した10個の秘術キャントリップと、5個の1ランク秘術呪文が含まれている。これらは秘術呪文リストにある一般的な呪文、またはあなたがアクセス権を得た他の秘術呪文から選択する。また、あなたの秘術学派のカリキュラムから1ランク呪文を2つ追加する(その学派の説明にある通り、統合魔法理論学派の場合を除く)。</p>\n<p>レベルが上がるたびに、あなたは呪文スロットを持つ任意のランクの秘術呪文を2つ、自身の系統の一般的な呪文、またはアクセス権を得た他の呪文から選択して呪文書に追加する。また、〈呪文の修得〉活動を使用して呪文を呪文書に追加することもできる。新しいランクの呪文スロットを獲得した際には、自身の学派のカリキュラムから呪文を1つ追加で加える(統合魔法理論学派の場合を除く)。</p>"
     },
     "Third Doctrine (Cloistered Cleric)": {
-      "name": "サード・ドクトリン(クロイスタード・クレリック)",
+      "name": "サード・ドクトリン(修道院聖職者)",
       "description": "<p>呪文攻撃修正と呪文DCの統計値に対するあなたの習熟ランクが「熟練」に上昇する。</p>"
     },
     "Second Doctrine (Cloistered Cleric)": {
-      "name": "セカンド・ドクトリン(クロイスタード・クレリック)",
+      "name": "セカンド・ドクトリン(修道院聖職者)",
       "description": "<p>頑健セーヴに対するあなたの習熟ランクが「熟練」に上昇する。</p>"
     },
     "Powerful Fist": {
@@ -2738,7 +2738,7 @@
     },
     "Doctrine": {
       "name": "ドクトリン/Doctrine",
-      "description": "<p>同じ神格の信徒の間であっても、アプローチは異なる。1レベル時に、あなたはクロイスタード・クレリックかウォー・プリーストのいずれかを選択し、その最初の教義の恩恵を得る。3レベル時、およびその後4レベルごとに、あなたは自分の教義から別の恩恵を得る。</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.ZZzLMOUAtBVgV1DF]{クロイスタード・クレリック}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.0Aocw3igLwna9cjp]{ウォー・プリースト}</li>\n</ul>"
+      "description": "<p>同じ神格の信徒の間であっても、アプローチは異なる。1レベル時に、あなたは修道院聖職者かウォー・プリーストのいずれかを選択し、その最初の教義の恩恵を得る。3レベル時、およびその後4レベルごとに、あなたは自分の教義から別の恩恵を得る。</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.ZZzLMOUAtBVgV1DF]{修道院聖職者}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.0Aocw3igLwna9cjp]{ウォー・プリースト}</li>\n</ul>"
     },
     "Lore": {
       "name": "《専門知識》/Lore",
@@ -2811,7 +2811,7 @@
     },
     "Final Doctrine": {
       "name": "ファイナル・ドクトリン/Final Doctrine",
-      "description": "<p>あなたは自身の教義の最終的な恩恵を得る：</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.DgGefatQ4v6xT6f9]{ファイナル・ドクトリン(クロイスタード・クレリック)}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.N1ugDqZlslxbp3Uy]{ファイナル・ドクトリン(ウォープリースト)}</li>\n</ul>"
+      "description": "<p>あなたは自身の教義の最終的な恩恵を得る：</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.DgGefatQ4v6xT6f9]{ファイナル・ドクトリン(修道院聖職者)}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.N1ugDqZlslxbp3Uy]{ファイナル・ドクトリン(戦闘神官)}</li>\n</ul>"
     },
     "Guardian's Techniques": {
       "name": "ガーディアンズ・テクニクス/Guardian's Techniques",
@@ -2970,7 +2970,7 @@
       "description": "<p>あなたが交信する祖先の精霊たちはあなたに取り憑き、あなたの持ち物やアクションに干渉する。それは、あなたを助けようとする善意(しかし最終的には有害)な試みによるものか、伝統的な手段を回避して神の力を得ようとした大胆さに対する罰か、彼ら自身の楽しみのためか、あるいはその混合である。あなたが@UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{カースバウンド}状態であるとき、あなたは自身のカースバウンド値に等しい値の@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない}状態となる。これは、祖先の精霊たちが一時的にあなたに憑依し、あなたの精神の支配権を争い、あなたの動きを妨げるためである。</p>"
     },
     "Fourth Doctrine (Cloistered Cleric)": {
-      "name": "フォース・ドクトリン(クロイスタード・クレリック)",
+      "name": "フォース・ドクトリン(修道院聖職者)",
       "description": "<p>あなたは神格の好みの武器、単純武器、および素手攻撃において熟練(エキスパート)の習熟度を得る。神格の好みの武器を使用して攻撃ロールでクリティカル成功した際、その武器のクリティカルスペシャライゼーション効果を適用する。この際、クラスDCの代わりに呪文DCを使用できる。</p>"
     },
     "Thaumaturgic Mastery": {
@@ -3174,7 +3174,7 @@
       "description": "<p>あなたは狩人であり、どこかで伝説的な捕食者があなたの究極の挑戦として待ち受けている。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}または@UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{〈追跡〉}を行うための判定を行う際、ミシック・ポイントを消費することで、その判定を神話的習熟度で行うことができる。敵対的または非友好的なクリーチャーを〈見回す〉または〈追跡〉するための判定でクリティカル成功した際、1日1回に限り、あなたはミシック・ポイントを回復する。</p><hr /><p><strong>誓約</strong>未知で危険な可能性のある地域をグループ内で最初に偵察すること、自然界の均衡を乱しているクリーチャーを探し出し、その均衡を正すこと</p>\n<p><strong>禁忌</strong>傷つけた動物やビーストを、将来的な危害を加えるまま放置すること、危険な動物やビーストを狩るという要請を拒否すること</p>"
     },
     "First Doctrine (Warpriest)": {
-      "name": "ファースト・ドクトリン(ウォープリースト)/First Doctrine (Warpriest)",
+      "name": "ファースト・ドクトリン(戦闘神官)/First Doctrine (Warpriest)",
       "description": "<p>あなたは軽装鎧と中装鎧に訓練済みであり、頑健セーヴに熟練の習熟度を持つ。あなたは@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{〈シールド・ブロック〉}汎用特技を得る。これは盾でダメージを軽減するためのリアクションである。もしあなたの神格の推奨武器が単純武器または素手攻撃であるなら、あなたは@UUID[Compendium.pf2e.feats-srd.Item.DfLkIIg2reyYW3a8]{デッドリー・シンプリシティー}クレリックを得る。13レベルで、あなたが@UUID[Compendium.pf2e.classfeatures.Item.0mJTp4LdEHBLInoe]{ディバイン・ディフェンス}クラス特徴を得る場合、あなたも軽装鎧と中装鎧の熟練の習熟度を得る。</p>"
     },
     "School of Gates": {
@@ -3315,7 +3315,7 @@
     },
     "Fifth Doctrine": {
       "name": "フィフス・ドクトリン/Fifth Doctrine",
-      "description": "<p>あなたは教義の5番目の恩恵を得る：</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.n9W8MjjRgPpUTvWf]{クローイスタード・クレリック}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.kmimy4VOaoEOgOiQ]{ウォープリースト}</li>\n</ul>"
+      "description": "<p>あなたは教義の5番目の恩恵を得る：</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.n9W8MjjRgPpUTvWf]{クローイスタード・クレリック}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.kmimy4VOaoEOgOiQ]{戦闘神官}</li>\n</ul>"
     },
     "Greater Unassailable Soul": {
       "name": "グレーター・アンアセイラブル・ソウル/Greater Unassailable Soul",
@@ -3442,7 +3442,7 @@
       "description": "<p>あなた歌と踊りの力によってアパリションを引き出し、霊的なものと物理的なものを結びつける。これらの演目はあなた自身の創作であってもよいし、あなたの宗教の特定の儀式に従うものであってもよい。</p>\n<p><strong>招喚の歌(1レベル):</strong>あなたは精霊たちに向かって歌い、彼らをあなたの周りで回転させたり舞わせたりすることができる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.M8jbV0il124Ve5oV]{サークル・オブ・スピリッツ}特技を獲得する。</p>\n<p><strong>舞踏招喚(9レベル):</strong>あなたの身体の動きがあなたの魔法に力を与える。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{〈跳躍〉}、〈ステップ〉、または@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}を行う時、あなたはアパリション呪文またはヴェッセル呪文を〈維持〉することもできる。</p>\n<p><strong>賛美の招喚(17レベル):</strong>あなたの典礼は戦いの最中であっても精霊たちを呼び出す。イニシアチブをロールする時、あなたはCircle of Spiritsをフリー・アクションとして使用できる。あなたの最初のターンの最初のアクションが、あなたの主要なアパリションによって与えられたアパリション・キャントリップを詠唱することである場合、その詠唱に必要なアクション数を1減らす(最低1アクション)。</p>"
     },
     "Cloistered Cleric": {
-      "name": "クロイスタード・クレリック",
+      "name": "修道院聖職者",
       "description": "<p>あなたは聖職者としてのクレリックであり、神聖魔法とあなたの神格の領域との結びつきに焦点を当てている。</p>\n<p><strong>第一教義(1レベル):</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.hT4INKGtly4QY8KN]{領域の入門者}クレリック特技を獲得する。</p>\n<p><strong>第二教義(3レベル):</strong>あなたの頑健セーヴの習熟ランクがエキスパートに上昇する。</p>\n<p><strong>第三教義(7レベル):</strong>あなたの呪文攻撃修正値と呪文DCの統計値の習熟ランクがエキスパートに上昇する。</p>\n<p><strong>第四教義(11レベル):</strong>あなたはあなたの神格の好む武器、単純武器、および素手攻撃に対するエキスパート習熟度を獲得する。あなたがあなたの神格の好む武器を使用して攻撃ロールでクリティカル成功した時、その武器のクリティカルスペシャライゼーション効果を適用する。あなたは自身のクラスDCの代わりに自身の呪文DCを使用できる。</p>\n<p><strong>第五教義(15レベル):</strong>あなたの呪文攻撃修正値と呪文DCの統計値の習熟ランクがマスターに上昇する。</p>\n<p><strong>最終教義(19レベル):</strong>あなたの呪文攻撃修正値と呪文DCの統計値の習熟ランクがレジェンダリーに上昇する。</p>"
     }
   },
