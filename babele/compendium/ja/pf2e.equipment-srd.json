@@ -466,7 +466,7 @@
       "description": "<p>ライトライターのためのプレート</p>"
     },
     "Knave's Standard (Major)": {
-      "name": "ネーブズ・スタンダード（メジャー）/Knave's Standard (Major)",
+      "name": "ネイブズ・スタンダード（メジャー）/Knave's Standard (Major)",
       "description": "<p>この魔法のバナーは、黒から赤へのグラデーションでディップダイされており、まだらで不均一である。あなたまたはバナーのオーラ内にいる味方が、 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態の対象に対して〈ストライク〉で大成功するたびに、その〈ストライク〉は追加で1d8の精密ダメージを与える。</p>"
     },
     "Pendant of the Occult (Greater)": {
@@ -2764,7 +2764,7 @@
     },
     "Wand of Toxic Blades (6th-Rank)": {
       "name": "ワンド・オブ・トキシック・ブレーズ（6ランク呪文）/Wand of Toxic Blades (6th-Rank)",
-      "description": "<p>この細い金属製のワンドは緑色に染められており、表面には刃のついた武器の小さな絵が刻まれている。</p>\n<p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回、およびオーバーチャージ</p><hr /><p><strong>効果</strong>あなたは6レベルの@UUID[Compendium.pf2e.spells-srd.Item.jj5d830iUi2ZlQfs]{ブレスド・バウンダリー}を発動する。壁からのダメージは、ダメージを受けたクリーチャーを@UUID[Compendium.pf2e.equipment-srd.Item.iRDCa4OVSTGUD3vi]{ケーブ・ワーム毒液}にもさらす。その毒は通常のDCを使用する。クリーチャーがその毒にさらされるのは、1ターンに1回までである。</p><hr /><p><strong>〈製作する〉必要条件</strong>適切なランクの@UUID[Compendium.pf2e.spells-srd.Item.jj5d830iUi2ZlQfs]{ブレスド・バウンダリー}の発動を供給すること。</p>"
+      "description": "<p>この細い金属製のワンドは緑色に染められており、表面には刃のついた武器の小さな絵が刻まれている。</p>\n<p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回、およびオーバーチャージ</p><hr /><p><strong>効果</strong>あなたは6レベルの@UUID[Compendium.pf2e.spells-srd.Item.jj5d830iUi2ZlQfs]{ブレスド・バウンダリー}を発動する。壁からのダメージは、ダメージを受けたクリーチャーを@UUID[Compendium.pf2e.equipment-srd.Item.iRDCa4OVSTGUD3vi]{ケイブ・ワーム毒液}にもさらす。その毒は通常のDCを使用する。クリーチャーがその毒にさらされるのは、1ターンに1回までである。</p><hr /><p><strong>〈製作する〉必要条件</strong>適切なランクの@UUID[Compendium.pf2e.spells-srd.Item.jj5d830iUi2ZlQfs]{ブレスド・バウンダリー}の発動を供給すること。</p>"
     },
     "Eidetic Potion": {
       "name": "アイデティック・ポーション/Eidetic Potion",
@@ -7062,7 +7062,7 @@
       "description": "<p>アブサロムのスタイルはかつて、高名な冒険者たちに、異常な数のバックル、ポーチ、ストラップがついた衣服を着用させるに至った。この流行は「バックル・アーマー」と呼ばれるトレンドを生み出した。これは、広々とした道具収納を備えたシックな鎧の通称である。バックル・アーマーには、収納の鎧調整が付属している。</p>"
     },
     "Knave's Standard (Greater)": {
-      "name": "ネーブズ・スタンダード（グレーター）/Knave's Standard (Greater)",
+      "name": "ネイブズ・スタンダード（グレーター）/Knave's Standard (Greater)",
       "description": "<p>この魔法のバナーは、黒から赤へのグラデーションで浸染されており、まだらで不均一である。あなたまたはそのバナーのオーラ内にいる味方が、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}対象に対して〈ストライク〉でクリティカル成功するたびに、その〈ストライク〉は追加で1d6の精密ダメージを与える。</p>"
     },
     "Dragontooth Trophy": {
@@ -8215,7 +8215,7 @@
       "description": "<p>柔軟な竹に取り付けられた漆塗りの和紙の巻物のこのコレクションには、兵法に関する書道のエッセイや絵画が豊富に含まれており、特に戦時における様々な武器の使用法や、それらの武器を使用して戦士を最大限に有利に配置する戦術的な方法に焦点を当てている。この論文を調べることで、〈戦争学〉《専門知識》判定に+2のアイテム・ボーナスを得る。ほとんどの学術的な要覧と同様に、この使用には片手で論文を保持する必要がある。</p>\n<p>この論文は、武器や弾薬のための次元を超えた武器庫としても機能する。この論文の容量は5 バルクであり、内部には武器と弾薬のみを収納できる。あなたや他の者は、この論文に対して〈扱う〉を行うことで、一般的な容器のように武器や弾薬を収納したり取り出したりできる。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong> 千刃の論文が劇的に広がり、中に収められていた武器が飛び出して空中に印象的に整列し、簡単に手が届く範囲に浮遊する。1分の間、あなたはフリー・アクションを使用して〈扱う〉を行い、浮遊している武器を1つ引き抜くことができる。他者が空中の武器を奪おうと試みることもできるが、そのためには〈ディスアーム〉 判定で大成功しなければならない。1分が経過するまで、武器を論文の中に戻すことはできない。</p>"
     },
     "Palstave": {
-      "name": "パルステーブ/Palstave",
+      "name": "パルステイブ/Palstave",
       "description": "<p>この単純な斧は、重量のある金属製の楔を、上部にY字型の溝がある湾曲した木製の柄に挿入し、革紐でその割楔を固定することで作られている。</p>"
     },
     "Illustrated book": {
@@ -10100,7 +10100,7 @@
       "description": "<p>この+3 高グレード ダスクウッド メジャー・ストライキング・スピアは、穂先を含め、その全体が着用でひび割れ、ささくれた木でできている。<em></em>あなたがこの武器を保持している間、これらのささくれがあなたを傷つけることはないが、この槍で攻撃を命中させると、ささくれが対象の体内で折れ、@Damage[1d6[bleed]]のダメージを与える。</p>\n<hr />\n<p><strong>起動—シャター</strong> <span class=\"action-glyph\">2</span></p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong> あなたは槍を地面や近くの別の表面に叩きつけ、それを何千ものダスクウッドのささくれへと粉砕する。範囲は@Template[cone|distance:30]か@Template[emanation|distance:10]のいずれかを選択する。範囲内の各クリーチャーは、@Check[reflex|dc:43|basic|options:area-effect]セーヴを行い、@Damage[18d6[piercing]|options:area-damage]のダメージを受ける。セーヴに失敗したクリーチャーは、この槍が命中時に与えるのと同じ量の持続出血ダメージも受ける。この槍はこのターンの終了時に元の完全な姿へと再生する。</p>"
     },
     "Cave Worm Venom": {
-      "name": "ケーブ・ワーム毒液/Cave Worm Venom",
+      "name": "ケイブ・ワーム毒液/Cave Worm Venom",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">2</span> (manipulate)</p><hr /><p>巨大な洞窟ワームの毒は、犠牲者を衰弱させる。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:32]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[5d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[6d6[poison]]ダメージおよびenfeebled 2(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[8d6[poison]]ダメージおよびenfeebled 2(1ラウンド)</p>"
     },
     "Godrending Ammunition (Greater)": {
@@ -10149,7 +10149,7 @@
       "description": "<p>この革製のサッチェルには、空の小瓶、ピンセット1組、小さなリネン製の布の束、距離を測定するための真鍮製のカリパス1組と結び目のある紐、数本のチョーク、ペン、メモを取るための白紙のノートが入っている。探偵キットのすべての構成品は極めて高品質であり、そのため探偵キットは犯罪現場、手がかり、または同様の詳細を調査するための判定に+1のアイテム・ボーナスを与える。他のツールキットと同様に、探偵キットは、それを着用している場合は片手を使用し、そうでない場合は両手を使用する。</p>"
     },
     "Knave's Standard": {
-      "name": "ネーブズ・スタンダード/Knave's Standard",
+      "name": "ネイブズ・スタンダード/Knave's Standard",
       "description": "<p>この魔法のバナーは黒から赤へのグラデーションに浸染されており、まだらで不均一である。あなたまたはこのバナーのオーラ内にいる味方が、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態の対象に対して〈ストライク〉でクリティカル成功するたびに、その〈ストライク〉は追加で1d4の精密ダメージを与える。</p>"
     },
     "Water Bomb (Greater)": {
@@ -20154,7 +20154,7 @@
       "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.kDrlBnkDMVxPrahI]{浄水器}用の交換フィルター。このフィルターを使用した打ち消し修正値は+17である。</p>"
     },
     "Thrower's Bandolier": {
-      "name": "スロウアーズ・バンダリアー/Thrower's Bandolier",
+      "name": "スロワーズ・バンダリアー/Thrower's Bandolier",
       "description": "<p>このバンダリアは、片手用投擲武器を最大2バルクまで収納できるストラップとポーチで覆われている。スローワーズ・バンダリアには<em>+1武器ポテンシー・ルーン</em>が刻まれており、片手用投擲武器であるかのようにルーンを刻むことができる。あなたがスローワーズ・バンダリアを装着(invest)した際、その中に収められたすべての武器に対して同調(attune)させることができる(これは、そのバンダリアで行われた以前の同調をすべて終了させる)。あなたがバンダリアから武器を抜くたびに、バンダリアのルーンがその武器に複製される。その武器に元々あったルーンは抑制され、この方法で以前に別の武器に複製されたルーンは削除され、元の状態に戻る。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">2</span> (精神集中、手作業)</p>\n<p><strong>効果</strong>バンダリアに同調しているすべての武器は(あなたが現在手に持っている武器を除き)、バンダリアに戻る。</p>"
     },
     "Retaliation (Moderate)": {
@@ -21322,7 +21322,7 @@
       "description": "<p><strong>使用法</strong>鎧に装着</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">f</span>コマンド</p>\n<p><strong>必要条件</strong>あなたは片手が空いている。</p>\n<hr />\n<p>内部で黒い模様が渦巻くこの三角柱は、あなたがどこに取り付けるしても、鎧の上を絶えず動き回る。このタリスマンを起動したとき、あなたが起動時に選択した、所持している1バルク以下のアイテム1つが、即座にあなたの手にテレポートする。</p>\n<p>このリトリーバル・プリズムは、あなたの次元界上にないアイテムを取り出すことはできない。これには、<em>バッグ・オブ・ホールディング</em>のような次元を超えた空間にあるアイテムも含まれる。</p>"
     },
     "Dwarven Thrower": {
-      "name": "ドワーブン・スロウアー/Dwarven Thrower",
+      "name": "ドワーブン・スロワー/Dwarven Thrower",
       "description": "<p>この+2ストライキング・ウォーハンマーは、貴金属が象嵌され、ドワーフ様式の幾何学模様で装飾されている。もしあなたがドワーフであれば、ドワーヴン・スロワーはあなたにとって、投擲30フィートのトレイトを持つ+2グレーター・ストライキング・リターニング・ウォーハンマーとして機能し、このハンマーによる攻撃は巨人に対して1d8の追加ダメージを与える。</p>"
     },
     "Repeating Hand Crossbow Magazine": {

@@ -4717,7 +4717,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Raging Thrower": {
-      "name": "レイジング・スロウアー/Raging Thrower",
+      "name": "レイジング・スロワー/Raging Thrower",
       "description": "<p>あなたは投擲武器を特に致命的にする激怒を体得した。あなたは投擲武器攻撃に@UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{レイジ}からの追加ダメージを適用する。あなたが@UUID[Compendium.pf2e.feats-srd.Item.oNHmfpe8ezZ3eKDD]{ブルータル・クリティカル}の特技または@UUID[Compendium.pf2e.classfeatures.Item.VLiT503OLOM3vaDx]{デバステーター}のクラス特徴を持っている場合、それらの恩恵を投擲武器攻撃に適用する。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -11432,7 +11432,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Cave Climber": {
-      "name": "ケーブ・クライマー/Cave Climber",
+      "name": "ケイブ・クライマー/Cave Climber",
       "description": "<p>数年にわたって洞窟を這い回った後、あなたはどこにいても簡単に登ることができる。あなたはクライム移動速度を10フィート得る。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -33847,7 +33847,7 @@
       ]
     },
     "Axe Thrower": {
-      "name": "アックス・スロウアー/Axe Thrower",
+      "name": "アックス・スロワー/Axe Thrower",
       "description": "<p>あなたは多様な斧の重さとバランスをマスターし、それを楽に投げることができる。あなたが装備したいずれかの一対の手の斧武器は、投げられるトレイトを持ち、範囲は10フィートである。すでに投げられるトレイトを持つ斧の場合、範囲は10フィート増加する。投げた斧武器で攻撃ロールがクリティカル成功した場合、斧のクリティカルスペシャライゼーション効果を適用する。</p>",
       "source": "Pathfinder #153: Life's Long Shadows",
       "prerequisites": [
@@ -34488,7 +34488,7 @@
       "source": "Pathfinder #194: Cult of the Cave Worm",
       "prerequisites": [
         {
-          "value": "訓練済みが《自然》にある場合、またはケーブ・ワーム《専門知識》"
+          "value": "訓練済みが《自然》にある場合、またはケイブ・ワーム《専門知識》"
         }
       ]
     },
@@ -37659,7 +37659,7 @@
       ]
     },
     "Stave off Catastrophe": {
-      "name": "ステーブ・オフ・カタストロフィ/Stave off Catastrophe",
+      "name": "ステイブ・オフ・カタストロフィ/Stave off Catastrophe",
       "description": "<p>あなたは仲間を最もひどい攻撃から完全に守る。あなたがショルダー・カタストロフィ  リアクションを使用する際、あなたは攻撃からの完全なクリティカルダメージと効果を受けることを選択でき、クリティカルヒットで適用される効果を含み、あなたの仲間はダメージを受けず、攻撃の効果を回避する。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
@@ -38211,7 +38211,7 @@
       ]
     },
     "Sheltering Cave": {
-      "name": "シェルタリング・ケーブ/Sheltering Cave",
+      "name": "シェルタリング・ケイブ/Sheltering Cave",
       "description": "<p><strong>必要条件</strong>あなたは土、石、または類似の素材で構成された地面に立っている。</p>\n<hr />\n<p>あなたは10分を使って地面と石の精霊と交信し、避難所を求める。この時間が経過した後、地面が上昇し、開いて直径20フィートと高さ10フィートの小さな洞窟または土盛りを形成する。この洞窟は構造トレイトを持ち、魔法アイテムによって作られた構造と同じ制限がある。この洞窟には単一の入り口があり、要素からの避難所を提供する。</p>\n<p>この洞窟は12時間またはあなたが10分を使って地面を閉じるまで残る。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
@@ -48307,7 +48307,7 @@
     },
     "Tree Climber (Goblin)": {
       "name": "ツリー・クライマー（ゴブリン）/Tree Climber (Goblin)",
-      "description": "<p>あなたの森やジャングルの樹冠での生活は、枝を確かな足取りで渡る方法を教えてくれた。あなたは移動速度としての登る能力を得る。10フィート。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.bo4JG09pkoS7ywSZ]{ケーブ・クライマー}アンセストラル特技を持っているなら、樹木を登る際のあなたの合計登る能力移動速度はあなたの地上移動速度に増加する。</p>",
+      "description": "<p>あなたの森やジャングルの樹冠での生活は、枝を確かな足取りで渡る方法を教えてくれた。あなたは移動速度としての登る能力を得る。10フィート。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.bo4JG09pkoS7ywSZ]{ケイブ・クライマー}アンセストラル特技を持っているなら、樹木を登る際のあなたの合計登る能力移動速度はあなたの地上移動速度に増加する。</p>",
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
@@ -50435,7 +50435,7 @@
       ]
     },
     "Dual Thrower": {
-      "name": "デュアル・スロウアー/Dual Thrower",
+      "name": "デュアル・スロワー/Dual Thrower",
       "description": "<p>あなたは武器を投げるのをストライクするのと同じくらい簡単に行う方法を知っている。デュアルウェポンウォリアーアーキタイプから得た特技が近接の〔ストライク〕を行うことを許可するたびに、あなたは代わりに投げ武器またはあなたが持っている片手投擲武器での 遠隔 〔ストライク〕を行うことができる(「1+」手が必要な武器、たとえばロングボウは適用されない)。</p>\n<p>これらの特技からの片手近接武器や近接ストライクに適用される効果は、片手の 遠隔武器や 遠隔ストライクにも適用される。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [

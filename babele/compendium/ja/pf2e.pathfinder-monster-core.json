@@ -14036,7 +14036,7 @@
           "description": "<p>そのケイヴ・ワームは、ターンの終了時に@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}、および@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン}の各状態から回復する。また、自身の移動速度へのペナルティと@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態に対して免疫であり、移動困難地形および移動困難地形(上位)を無視する。</p>"
         },
         "53LkbbyoyISSppMe": {
-          "name": "ケーブ・ワーム毒液/Cave Worm Venom",
+          "name": "ケイブ・ワーム毒液/Cave Worm Venom",
           "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:32]</p>\n<hr />\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[5d6[poison]]ダメージと@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[6d6[poison]]ダメージ、およびenfeebled 2(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[8d6[poison]]ダメージとenfeebled 2(1ラウンド)</p>"
         },
         "rGTmjeER3V1KY02w": {
@@ -14063,7 +14063,7 @@
           "name": "インプルーヴド・グラブ"
         }
       },
-      "name": "ケーブ・ワーム/Cave Worm",
+      "name": "ケイブ・ワーム/Cave Worm",
       "publicNotes": "<p>The most common and infamous of the cave worms gives its name to the entire family—a much-feared monster wandering the twisting tunnels of the Darklands that is capable of carving out entire cave systems. Tunnels bored by a cave worm don't always last long after these creature's passage, and areas where they nest are maddening mazes of passageways that lead nowhere, yet navigating the labyrinth to find the worm's central nest often yields amazing treasures left behind by the worm's prior victims.</p>\n<hr />\n<p>Cave worms are gigantic scavengers that bore through the depths of the world, eating whatever material they find. Named for their distinctive habitats, these worms are ravenous and display overwhelming destructive capabilities. Cave worms of different types and abilities lurk in the more remote corners of the world—tales speak of arctic worms that dwell within immense glaciers or icebergs and grave worms that burrow through the boneyards of long-forgotten ruins, to name a few.</p>"
     },
     "Minotaur Hunter": {

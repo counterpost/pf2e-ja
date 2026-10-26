@@ -119,7 +119,7 @@
       "description": "<p>下半身が強力なセイルフィッシュに似ており、大きな背びれを備えている。このひれを使って水中を速く移動し、より遠くに跳べる。泳ぎの移動速度が30フィートになる。@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}または@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を行うとき、《運動》判定に+1の状況ボーナスを得、跳躍を行う前にStridingの代わりに〔水泳〕を行える。</p>"
     },
     "Caveclimber Kobold": {
-      "name": "ケーブクライマー・コボルド/Caveclimber Kobold",
+      "name": "ケイブクライマー・コボルド/Caveclimber Kobold",
       "description": "<p>垂直方向に伸びた住処で暮らし、登攀の達人だ。前提を満たしていなくても@UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{コンバット・クライマー}のスキル特技を得る。鉤爪のある足と尾を使って手を空けたまま〔登攀〕できる。さらに、〔登攀〕のための《運動》判定に成功した場合、それは代わりにクリティカル成功になる。</p>",
       "rules": [
         {
@@ -706,7 +706,7 @@
       "description": "<p>多くのタヌキは徳を持って行動することを自分に思い出させるために酒の瓢箪を持ち歩いており、この基準に照らせば、あなたは実に徳が高い。あなたは自身のレベルの半分(最低1)に等しい毒への抵抗を得る。あなたは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調}状態であっても物を飲食できる。あなたが望まない限り、通常のアルコールによって無力状態になることはない。</p>"
     },
     "Cave Kholo": {
-      "name": "ケーブ・コロ/Cave Kholo",
+      "name": "ケイブ・コロ/Cave Kholo",
       "description": "<p>語り部たちは、ホロロは多くの仲間が光のもとへ出る前には洞窟や地下で暮らしていたと伝える古い物語を紡いでいる。君はこれら古代の面影を残しており、胸板が厚く、斑点の代わりに短い黒い切り傷のような模様がある。君の目は暗闇で完全に見えるよう発達しており、一族にとって価値ある利点になる。君はダークビジョンを得る。</p>"
     },
     "Weaver Jotunborn": {
