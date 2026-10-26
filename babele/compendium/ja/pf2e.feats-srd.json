@@ -4399,7 +4399,7 @@
     },
     "Glutton for Flesh": {
       "name": "グラトン・フォー・フレッシュ/Glutton for Flesh",
-      "description": "<p>あなたは自分のガウン体内により多くの肉を蓄える能力を発展させ、あなた自身をより長く満たしておくことができる。もしあなたが@UUID[Compendium.pf2e.actionspf2e.Item.1If9lLVoZdO8woVg]{〈コンシューム・フレッシュ〉}している間に満たされているなら、完全に満たされる。あなたは3時間の間、完全に満たされた状態を維持し、その後は1時間の間、満たされる。もしあなたが完全に満たされた状態で、能力があなたの満足状態を終わらせるなら、完全に満たされた状態が解除されるが、満たされた状態は残る。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.7GrACprIxZuarGDs]{グレーブ・ストレングス}を持っているなら、完全に満たされているときのあなたの移動速度に+10フィートの状態ボーナスを得る。そうでない場合は、満たされていることに対して+5フィートの状態ボーナスを得る。</p>",
+      "description": "<p>あなたは自分のガウン体内により多くの肉を蓄える能力を発展させ、あなた自身をより長く満たしておくことができる。もしあなたが@UUID[Compendium.pf2e.actionspf2e.Item.1If9lLVoZdO8woVg]{〈コンシューム・フレッシュ〉}している間に満たされているなら、完全に満たされる。あなたは3時間の間、完全に満たされた状態を維持し、その後は1時間の間、満たされる。もしあなたが完全に満たされた状態で、能力があなたの満足状態を終わらせるなら、完全に満たされた状態が解除されるが、満たされた状態は残る。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.7GrACprIxZuarGDs]{グレイブ・ストレングス}を持っているなら、完全に満たされているときのあなたの移動速度に+10フィートの状態ボーナスを得る。そうでない場合は、満たされていることに対して+5フィートの状態ボーナスを得る。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -6212,7 +6212,7 @@
       ]
     },
     "Grave Strength": {
-      "name": "グレーブ・ストレングス/Grave Strength",
+      "name": "グレイブ・ストレングス/Grave Strength",
       "description": "<p>あなたがグールとしての存在の過程で消費した肉はあなたを強くし、あなたが捕食した知性のあるクリーチャーの精神から奇妙な洞察を与え、あなたをアンデッドの完璧な状態に近づけた。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{上級アンデッドの利益}を得る。さらに、あなたは満腹のときに移動速度に +5フィートの状態ボーナスを得る。 </p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
@@ -16991,7 +16991,7 @@
       "source": "Pathfinder #220: Crypt of Runes"
     },
     "Grave Sense": {
-      "name": "グレーブ・センス/Grave Sense",
+      "name": "グレイブ・センス/Grave Sense",
       "description": "<p>アンデッドを狩ることに費やした時間は、あなたに彼らを感知する能力をもたらす。あなたはアンデッドを、人間の嗅覚に似た曖昧な感覚として感知する。それは、甘ったるく腐った何かを嗅いだ時のような不快な感覚である。アンデッドの近くにいる時、あなたは最終的にその存在を感知するが、即座に感知できるとは限らず、その位置を特定することはできない。変装を使用している、あるいはその他の方法でその存在を隠そうとしているアンデッドは、あなたからその存在を隠すために、あなたの《知覚》 DCに対して《欺瞞》判定を行わなければならない。そのクリーチャーがその《欺瞞》判定に成功した場合、それは1日の間、あなたの墓の感知に対して一時的な免疫となる。</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
@@ -21603,7 +21603,7 @@
       ]
     },
     "Gravesight": {
-      "name": "グレーブサイト/Gravesight",
+      "name": "グレイブサイト/Gravesight",
       "description": "<p>あなたは闇の中でもサイコポンプのように見ることができる。あなたはダークビジョンを得る。</p><hr /><p><strong>特別</strong>この特技は1レベルでのみ選択でき、他の特技に再訓練することはできない。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -26282,7 +26282,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Grave Mummification": {
-      "name": "グレーブ・マミフィケーション/Grave Mummification",
+      "name": "グレイブ・マミフィケーション/Grave Mummification",
       "description": "<p>元素、魔法、錬金術、その他の現象への曝露は、あなたのミイラ化からの変化を強めた。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{上級アンデッドの利益}を得る。</p>\n<p>さらに、あなたは自分のレベルの半分に等しい耐性を、束縛された地形から受けるいかなるダメージに対して得る。これには、その危険な温度、天候、危険な地形、環境的危険が含まれる。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
@@ -27886,7 +27886,7 @@
       ]
     },
     "Grave Sight": {
-      "name": "グレーブ・サイト/Grave Sight",
+      "name": "グレイブ・サイト/Grave Sight",
       "description": "<p>あなたのアンデッドを感知する能力が向上した。あなたは不明瞭な感覚としてアンデッドを感知し、範囲は60フィート：不快な感覚があなたの精神に触れ、腐敗の匂いがする。アンデッドに近接しているとき、あなたはその存在を感知することができるが、それは@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態を持ち、 @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{視認されている}状態ではない。なにか変装しているアンデッドや、存在を隠そうとしている場合は、あなたの知覚 DCに対して、《欺瞞》または《隠密》判定を行わなければならない。クリーチャーが成功すれば、認識されず、あなたはそのクリーチャーを感知するために@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}基本アクションを使用する必要がある。聴覚やその他の不正確な感覚と同様に、発見されていないクリーチャーを見つけるためには、あなたは 〔見回す〕 を行う必要がある。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
@@ -35708,7 +35708,7 @@
     },
     "Greater Deathly Secrets": {
       "name": "グレーター・デスリー・シークレッツ/Greater Deathly Secrets",
-      "description": "<p>あなたのアンデッドの秘密はさらに強化される。あなたは@UUID[Compendium.pf2e.spells-srd.Item.qzsQmpiQodHBBWYI]{マリグナント・サステナンス}か@UUID[Compendium.pf2e.spells-srd.Item.2YIr0S2Gt14PMMQp]{グラスピング・グレーブ}の焦点呪文を学ぶ。あなたの焦点プールは1ポイント増加する。</p>\n<p><strong>特別</strong>あなたはこの特技を複数回選択することができる。毎回、異なる呪文を学び、あなたの焦点プールは1フォーカス・ポイント増加する。</p>",
+      "description": "<p>あなたのアンデッドの秘密はさらに強化される。あなたは@UUID[Compendium.pf2e.spells-srd.Item.qzsQmpiQodHBBWYI]{マリグナント・サステナンス}か@UUID[Compendium.pf2e.spells-srd.Item.2YIr0S2Gt14PMMQp]{グラスピング・グレイブ}の焦点呪文を学ぶ。あなたの焦点プールは1ポイント増加する。</p>\n<p><strong>特別</strong>あなたはこの特技を複数回選択することができる。毎回、異なる呪文を学び、あなたの焦点プールは1フォーカス・ポイント増加する。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -37811,7 +37811,7 @@
       "source": "Pathfinder Rage of Elements"
     },
     "Grave Threat": {
-      "name": "グレーブ・スレット/Grave Threat",
+      "name": "グレイブ・スレット/Grave Threat",
       "description": "<p>あなたは自身の威圧的な態度を用いて、アンデッドを敗北へと追い込む。あなたが習熟度「達人」を持つ武器を使用して、アンデッドクリーチャーに対して〈ストライク〉を行う。ヒットした場合、そのクリーチャーに対するすべてのストライクは、1ラウンドの間、@UUID[Compendium.pf2e.feats-srd.Item.xmccXo6U7P0IMM3z]{リーパー・オブ・リポーズ}の恩恵を得る。</p>",
       "source": "Pathfinder Claws of the Tyrant",
       "prerequisites": [
@@ -38925,7 +38925,7 @@
       ]
     },
     "Grave's Voice": {
-      "name": "グレーブズ・ボイス/Grave's Voice",
+      "name": "グレイブズ・ボイス/Grave's Voice",
       "description": "<p>あなたはスピリット《専門知識》またはハント《専門知識》を使用して、非実体クリーチャーのものを〔印象の改善〕または〔要請する〕ことができる。GMの裁量により、非実体の精霊があなたの話を聞くかもしれない。</p>",
       "source": "Pathfinder #163: Ruins of Gauntlight",
       "prerequisites": [
@@ -41998,7 +41998,7 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Graveshift": {
-      "name": "グレーブシフト/Graveshift",
+      "name": "グレイブシフト/Graveshift",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong>あなたは、クリーチャーとほぼ同じサイズの最大4体までの同意する対象のクリーチャーまたは物体に隣接した、開いた墓の底に立っている。</p>\n<hr />\n<p>あなたの体に住み着いているウジ虫は、墓から墓へと移動する知識をあなたに授ける。それは、エヴァーグラット(Everglut)と物質界を繋ぐ魔法の巣穴やトンネルの迷宮ネットワークの神秘的な力を利用するものである。あなたは10分を費やしてこの力を導き、あなた自身と、あなたが立っている墓の中にいるすべての対象のクリーチャーまたは物体を、100マイル以内であなたが知っている(無人または有人)選んだ墓へと転送できる。有人または埋められた墓を対象とした場合、あなたと転送されたすべてのクリーチャーおよび物体は、対象とした墓の周囲の地上(または利用可能な場合は隣接するトンネルや通路の地下)に散らばって出現する。</p>",
       "source": "Pathfinder #184: The Ghouls Hunger",
       "prerequisites": [

@@ -4110,7 +4110,7 @@
       "description": "<p>ライオン・サイズは一般的な鎌に似ているが、攻撃時により大きな威力を発揮できるよう特別な重み付けがされている。</p>"
     },
     "Voice From The Grave": {
-      "name": "ボイス・フロム・ザ・グレーブ/Voice From The Grave",
+      "name": "ボイス・フロム・ザ・グレイブ/Voice From The Grave",
       "description": "<p>このオニキス・スカルはそれ単体では不気味な囁きを放つが、手に持っていると、あなたが見ることのできる霊やハーントと会話できるようになる。たとえ共通の言語を持っていなくても会話は可能だ。墓からの声は、その霊やハーントが発する言葉をあなたが理解できる言語に翻訳し、あなたの言葉も同様にその霊やハーントのために翻訳する。これによって対象が友好的になったり協力的になったりするわけではないが、コミュニケーションは可能になる。ハーントの場合、言語はGMが決定する。このスカルを使ってマインドレスの霊とコミュニケーションをとることはできない。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> (精神集中)</p>\n<p><strong>使用制限</strong> 1時間に1回</p><hr /><p><strong>効果</strong>このオニキス・スカルは、このスカルを使ってコミュニケーションをとれる霊またはハーント1体を対象として、DC 27のDC {@UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{チャーム}}呪文を発動する。意志修正値を持たないハーントを対象とした場合、それは自動的にセーヴィング・スローに失敗する。</p>"
     },
     "Silvanshee Collar": {
@@ -8618,7 +8618,7 @@
       "description": "<p>プレート・メイルは、ほぼ全身を鋼鉄の甲殻で包み込む、噛み合う板金で構成されている。これは高価かつ重量があり、着用者が正しく身に着けるには助けが必要なことが多いが、防具が提供しうる最高の防御の一部を提供する。この防具一式には、@UUID[Compendium.pf2e.equipment-srd.Item.zBYEU9E7034ENCmh]{パッディド・アーマー}の下着と、1組の@UUID[Compendium.pf2e.equipment-srd.Item.Ix2vicchE79d6Cl3]{ガントレット}が付属する。</p>"
     },
     "Gravedigger's Call": {
-      "name": "グレーブディガーズ・コール/Gravedigger's Call",
+      "name": "グレイブディガーズ・コール/Gravedigger's Call",
       "description": "<p>この錆びたシャベルは、武器として使用した際には<em>＋2ストライキング・ディケイイング・グレイブ</em>として機能するが、どちらかと言えば放置された道具のように見える。その柄は、かつて放棄された共同墓地の壊れた石の間に生えていた、とうの昔に枯れた木の幹から彫り出されたものであり、その刃はそこに埋葬された人々を守れなかった防具の砕けた残骸から鍛造されたものである。あなたが<em>グレイヴディガーズ・コール</em>を携帯または装備している間、あなたは《知覚》判定で[[/act seek options=gravediggers-call]]ハーントを見つけるため、およびハーントや霊の存在理由を特定するためのスキル判定に＋1のアイテム・ボーナスを得る。</p><hr /><p><strong>起動—死者を呼ぶ</strong> <span class=\"action-glyph\">2</span> (精神集中、手作業)</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>効果</strong>あなたは@UUID[Compendium.pf2e.spells-srd.Item.0JWyMwVnLxX9CDYQ]{ラウズ・スケルトンズ}を第5位階のオカルト呪文として発動する。DCは30である。</p><hr /><p><strong>〈製作する〉必要条件</strong> <em>ラウズ・スケルトンズ</em>(第5位階)の呪文1回分を供給すること。</p>"
     },
     "Clockwork Spider Bomb": {
@@ -16250,7 +16250,7 @@
       "description": "<p>このアラバスター製のワンドは、先端に透明な結晶がついている。</p><hr /><p><strong>起動</strong> 〈呪文の発動〉</p>\n<p><strong>使用制限</strong> 1日1回、およびオーバーチャージ</p>\n<p><strong>効果</strong> あなたは3ランクの @UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール} を発動する。</p>\n<p>呪文を発動した後、あなたの次のターンの開始時に、過剰な治癒魔法がワンドから湧き上がり、あたかもあなたが あなた自身 に対して3ランクの <em>heal</em> の 1アクション 版を発動したかのように、あなたを回復させる。同じターン中に複数の <em>wands of overflowing life</em> から <em>heal</em> 呪文を発動したとしても、この 恩恵 を得られるのは1ターンに1回のみである。</p><hr /><p><strong>〈製作する〉 必要条件</strong> 3ランクの <em>heal</em> の発動を供給すること。</p>"
     },
     "Graveroot": {
-      "name": "グレーブルート/Graveroot",
+      "name": "グレイブルート/Graveroot",
       "description": "<p>グレイヴルート低木の不透明な白い樹液は、精神を曇らせる。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span>(手作業)</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:19]</p>\n<p><strong>最大持続時間</strong> 4ラウンド</p>\n<p><strong>第1段階</strong> @Damage[1d8[poison]]ダメージ(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[1d10[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁1}(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[2d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁2}(1ラウンド)</p>"
     },
     "Wand of Paralytic Shock (3rd-Rank)": {
@@ -18228,7 +18228,7 @@
       "description": "<p>レイピアは籠手状の鍔を備えた、細長い刀身の刺突武器だ。多くの者に決闘用武器として重宝される。</p>"
     },
     "Grave Token": {
-      "name": "グレーブ・トークン/Grave Token",
+      "name": "グレイブ・トークン/Grave Token",
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">A</span>エンヴィジョン</p>\n<hr />\n<p>この単純なチャームは、骨の粉末を混ぜ込んだ固められた墓の土で作られている。この触媒によって強化された@UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz]{ハーム}呪文は、遠くの対象に届くことができる。もし<em>harm</em>呪文が　1アクションで発動された場合、その射程は30フィートになる。もし　2アクションで発動された場合、その射程は60フィートになる。これには3アクション版の範囲型<em>harm</em>に対する効果はない。とはいえ、ほとんどの場合、あなたにはトークンを起動して3アクションの<em>harm</em>を唱えるためのアクションが残っていないだろう。</p>"
     },
     "Reinforced Stock": {
@@ -20662,7 +20662,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">2</span> (手作業)</p><hr /><p>この毒は四肢を不規則に刺激し、予期せぬ勢いの変化を強制する。その結果は、ぎこちなくよろめくダンスのように見える。各ターンの開始時に、犠牲者は可能であればランダムな方向に1回以上の〈ステップ〉を行う。この移動は強制的なものであり、そのラウンドの犠牲者のアクション数には数えない。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:30]</p>\n<p><strong>最大持続時間</strong> 6ラウンド</p>\n<p><strong>第1段階</strong> @Damage[4d6[poison]]および1回の強制的な〈ステップ〉(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[6d6[poison]]、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない1}、および1回の強制的な〈ステップ〉(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[8d6[poison]]、@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない2}、2回の強制的な〈ステップ〉(1ラウンド)</p>"
     },
     "Gravemist Taper": {
-      "name": "グレーブミスト・テーパー/Gravemist Taper",
+      "name": "グレイブミスト・テーパー/Gravemist Taper",
       "description": "<p><strong>起動</strong> 〈呪文の発動〉</p><hr /><p><em>グラヴィミスト・テーパー</em>は、恐怖と死のシンボルが蝋に刻まれた円錐形のろうそくである。@UUID[Compendium.pf2e.spells-srd.Item.9XHmC2JgTUIQ1CCm]{ミスト}呪文を発動する際、これを触媒として用いられる。テーパーは燃え尽き、霧を灰色に染め、不気味な影の姿で満たす。その霧による@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態を克服する平目判定のDCは7に上昇し、この判定に失敗したクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れ状態1}状態になる。この呪文の側面は［感情］、［恐怖］、［精神］トレイトを持つ。</p>"
     },
     "Numbing Tonic (Moderate)": {
@@ -21891,7 +21891,7 @@
       "description": "<p>これらのゴーグルは反射率の高いレンズを特徴としている。このゴーグルを着用している間、あなたは視覚的な《知覚》判定および視覚的な効果に対するセーヴィング・スローに+1のアイテム・ボーナスを得る。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">R</span> (手作業)</p>\n<p><strong>トリガー</strong> 60フィート以内のクリーチャーがあなたを対象として視覚的な効果を使用した</p>\n<p><strong>効果</strong>あなたは頭を向け、トリガーとなった効果の側面をその作成者へと反射させる。そのクリーチャーはこの反射によって方向感覚を失うため、@Check[fortitude|dc:20]セーヴを行わなければならない。失敗すると、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態となる)。そのクリーチャーは一時的な免疫となる(期間は1時間)。</p>"
     },
     "Corrosive Engravings": {
-      "name": "コロシブ・エングレービングズ/Corrosive Engravings",
+      "name": "コロシブ・エングレイビングズ/Corrosive Engravings",
       "description": "<p>これらの錫のシートは真鍮で縁取られており、著しい浸食の兆候が見られる。このグリモワールのタイトルは酸でエッチングされており、シートをめくると指に錆と粉状の金属が付着する。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">F</span> (精神集中)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>もしあなたのアクションが、持続ダメージを与える酸または毒の呪文を唱えることであるなら、その呪文によって持続ダメージを受けたクリーチャーは、その持続ダメージが終了するまで@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2}状態にもなる。アクションを使用して吐き気をもよおすことで通常通り病気状態の値を減少させることができるが、持続ダメージが終了するまでは病気状態の値を1未満にすることはできない。</p>"
     },
     "Corpsecaller Round": {
