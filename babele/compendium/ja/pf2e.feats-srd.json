@@ -4534,7 +4534,7 @@
     },
     "Patron Reborn": {
       "name": "パトロン・リボーン/Patron Reborn",
-      "description": "<p>あなたは、パトロンとしての能力を完全に実現した。</p>\n<p>あなたの新たな能力は感覚を高め、ほとんどの人間にとって隠された領域のベールを巻き戻し、偉大な存在が広大な世界に対して想像を絶する影響を争う場となる。あなたはダークビジョン、常時@UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{トゥルーサイト}を得て、今いる平面を重なるすべての他の移行的平面を視る能力を得る。</p>\n<p>あなたは他の魔女のためのパトロンになることができる。表すパトロンの単一のタイプを選ぶ、例えば@UUID[Compendium.pf2e.classfeatures.Item.9OwWgOP8ZWxTAqbg]{ザ・リゼントメント}や@UUID[Compendium.pf2e.classfeatures.Item.r2ZPRAw9c3VGZi8A]{スターレス・シャドウ}など。あなたが観察できる、あなたの顧客としてそのパトロンを持つ味方の魔女は、あなたの@UUID[Compendium.pf2e.feats-srd.Item.52QyoGaysrfBOy5H]{ウィッチズ・チャージ}フィートの恩恵と見なされ、仮にあなたが彼女たちをあなたのチャージとして選ばなかった場合でも、適用される。日課の準備\n</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{ウィッシュ}儀式を学び、その知識をチャージに伝えることができる。月に一度、あなたのチャージの一人が<em>ウィッシュ</em>儀式を行う時、あなたは彼らの代わりにスキル判定を振ることができる。</p>",
+      "description": "<p>あなたは、パトロンとしての能力を完全に実現した。</p>\n<p>あなたの新たな能力は感覚を高め、ほとんどの人間にとって隠された領域のベールを巻き戻し、偉大な存在が広大な世界に対して想像を絶する影響を争う場となる。あなたはダークビジョン、常時@UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{トゥルーサイト}を得て、今いる平面を重なるすべての他の移行的平面を視る能力を得る。</p>\n<p>あなたは他の魔女のためのパトロンになることができる。表すパトロンの単一のタイプを選ぶ、例えば@UUID[Compendium.pf2e.classfeatures.Item.9OwWgOP8ZWxTAqbg]{怨恨}や@UUID[Compendium.pf2e.classfeatures.Item.r2ZPRAw9c3VGZi8A]{星なき影}など。あなたが観察できる、あなたの顧客としてそのパトロンを持つ味方の魔女は、あなたの@UUID[Compendium.pf2e.feats-srd.Item.52QyoGaysrfBOy5H]{ウィッチズ・チャージ}フィートの恩恵と見なされ、仮にあなたが彼女たちをあなたのチャージとして選ばなかった場合でも、適用される。日課の準備\n</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{ウィッシュ}儀式を学び、その知識をチャージに伝えることができる。月に一度、あなたのチャージの一人が<em>ウィッシュ</em>儀式を行う時、あなたは彼らの代わりにスキル判定を振ることができる。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
