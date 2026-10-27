@@ -31360,7 +31360,7 @@
       ]
     },
     "Mastermind's Eye": {
-      "name": "マスターマインドズ・アイ/Mastermind's Eye",
+      "name": "策士の眼/Mastermind's Eye",
       "description": "<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を使ってクリーチャーを特定することに成功すると、そのクリーチャーはあなたの攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になるあなたの次のターン開始時まで; 重大に成功した場合、それはあなたの攻撃に対して1分になる。この特技は、要件を満たす目的でローグの@UUID[Compendium.pf2e.classfeatures.Item.RyOkmu0W9svavuAB]{策士}の裏稼業として機能する。</p>",
       "source": "Pathfinder #166: Despair on Danger Island",
       "prerequisites": [
