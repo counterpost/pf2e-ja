@@ -3518,7 +3518,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "盗賊のラケット"
+          "value": "盗人の裏稼業"
         }
       ]
     },
@@ -12120,7 +12120,7 @@
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
-          "value": "アヴェンジャーデディケーションまたはヴィンディケーターデディケーション"
+          "value": "アベンジャー・デディケーションまたはヴィンディケーターデディケーション"
         }
       ]
     },
@@ -12975,7 +12975,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "マスターマインドの立ち回り"
+          "value": "策士の裏稼業"
         },
         {
           "value": "弱体化 〔ストライク〕"
@@ -13804,7 +13804,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "マスターマインド・ラケット"
+          "value": "策士の裏稼業"
         }
       ]
     },
@@ -16947,7 +16947,7 @@
     },
     "Plant Evidence": {
       "name": "プラント・エビデンス/Plant Evidence",
-      "description": "<p>あなたは、自分が持っている軽量または微 negligibleバルクの単一アイテムを、対象の知覚 DCに対して成功した@Check[thievery|defense:perception]判定で、相手に気付かれずに渡すことができる。あなたがラフィアンラックを持っている場合、成功した場合に対象を@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}する際に、これをフリー・アクションとして行うことができる。</p>",
+      "description": "<p>あなたは、自分が持っている軽量または微 negligibleバルクの単一アイテムを、対象の知覚 DCに対して成功した@Check[thievery|defense:perception]判定で、相手に気付かれずに渡すことができる。あなたが荒くれ者の裏稼業を持っている場合、成功した場合に対象を@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}する際に、これをフリー・アクションとして行うことができる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -21052,7 +21052,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "悪党のラケット"
+          "value": "食わせ者の裏稼業"
         }
       ]
     },
@@ -26186,7 +26186,7 @@
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
-          "value": "エルドリッチ・トリックスター・ラケット"
+          "value": "エルドリッチ・トリックスターの裏稼業"
         },
         {
           "value": "衰弱する 〔ストライク〕"
@@ -31361,7 +31361,7 @@
     },
     "Mastermind's Eye": {
       "name": "マスターマインドズ・アイ/Mastermind's Eye",
-      "description": "<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を使ってクリーチャーを特定することに成功すると、そのクリーチャーはあなたの攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になるあなたの次のターン開始時まで; 重大に成功した場合、それはあなたの攻撃に対して1分になる。この特技は、要件を満たす目的でローグの@UUID[Compendium.pf2e.classfeatures.Item.RyOkmu0W9svavuAB]{マスターマインド}ラケットとして機能する。</p>",
+      "description": "<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を使ってクリーチャーを特定することに成功すると、そのクリーチャーはあなたの攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態になるあなたの次のターン開始時まで; 重大に成功した場合、それはあなたの攻撃に対して1分になる。この特技は、要件を満たす目的でローグの@UUID[Compendium.pf2e.classfeatures.Item.RyOkmu0W9svavuAB]{策士}の裏稼業として機能する。</p>",
       "source": "Pathfinder #166: Despair on Danger Island",
       "prerequisites": [
         {
@@ -32027,7 +32027,7 @@
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
-          "value": "アヴェンジャーデディケーション"
+          "value": "アベンジャー・デディケーション"
         }
       ]
     },
