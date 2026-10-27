@@ -48,7 +48,7 @@
           "description": "<p>クリーチャーがこの毒によって不器用状態である間、それは同じ値の@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅}状態となる。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:42]</p>\n<hr />\n<p><strong>最大持続時間</strong> 10ラウンド</p>\n<p><strong>第1段階</strong> @Damage[3d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[5d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない2}(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[7d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない3}(1ラウンド)</p>"
         },
         "s4eMY3meCcZpGDrL": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         },
         "y7wtukvra9IyHCPL": {
           "name": "ボーンヤード・ロア"
@@ -181,7 +181,7 @@
           "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:44];</p>\n<hr />\n<p><strong>最大持続時間</strong> 10ラウンド</p>\n<p><strong>第1段階</strong> @Damage[8d6[fire]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[12d6[fire]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2} (1ラウンド)</p>"
         },
         "5pZXZ7pLE1RdGKX5": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "name": "トール・リンノーム/Tor Linnorm",
@@ -863,10 +863,10 @@
           "description": "<p>テロトリカスの胞子に命中したクリーチャーは、1分の間、すべての移動速度に-10フィートの状況ペナルティを受ける。もしその〈ストライク〉がクリティカルヒットであった場合、そのクリーチャーは[[/act escape dc=40]]{エスケープ}するまで@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態にもなる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.g4CRjb2zS1pkVDbk]{効果: スティッキー・スポア}</p>"
         },
         "ZfDN0qrqMsIVdq7W": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         },
         "pyVnqo4FLO0RWxrX": {
-          "name": "インプルーヴド・プッシュ・20フィート/Improved Push 20 feet"
+          "name": "インプルーブド・プッシュ・20フィート/Improved Push 20 feet"
         }
       },
       "name": "テロトリクス/Terotricus",
@@ -1030,7 +1030,7 @@
           "description": "<p>爪</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
         },
         "5THRshFo5sJLDIle": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "name": "シェムハジアン/Shemhazian",
@@ -2547,7 +2547,7 @@
           "description": "<p>超大型, @Damage[(2d8+5)[bludgeoning]], Rupture 20</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "E3WrwhsH06axDfAu": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         },
         "JWS021oC5szbCrAS": {
           "name": "プッシュ・15フィート/Push 15 feet"
@@ -3581,7 +3581,7 @@
           "description": "<p>ネッサリは、600フィートの放射内にいる大量のオルトを、地獄の軍勢を増強するために、より強力なデヴィルへと作り変える。ネッサリは以下の表に記載された数のオルトを利用できなければならない。</p><table class=\"pf2e remaster\"><thead><tr><th>デヴィル レベル</th><th>オルトの数</th></tr></thead><tbody><tr><td>4以下</td><td>4</td></tr><tr><td>5-6</td><td>8</td></tr><tr><td>7-8</td><td>16</td></tr><tr><td>9-10</td><td>32</td></tr><tr><td>11-12</td><td>64</td></tr><tr><td>13-14</td><td>128</td></tr><tr><td>15-16</td><td>256</td></tr><tr><td>17-18</td><td>512</td></tr><tr><td>19-20</td><td>1,024</td></tr></tbody></table><p>ネッサリは1日につき100体のオルトを形成でき、11日間で最大1,100体まで形成できる。この方法で作成されたデヴィルはネッサリの支配下にあり、その命令に従う。ただし、作成されたネッサリや同等の力を持つ他のデヴィルは例外であり、常に独立している。その結果、仲間となるデヴィルを作成することを選ぶネッサリはほとんどいない。〈デヴィル形成〉アクティビティの終了時に、ネッサリは目的のデヴィルのレベルに対する信じがたい難易度の@Check[religion] 判定を行い、結果は以下の通りとなる。</p><hr /><p><strong>クリティカル成功</strong> ネッサリは集められたオルトから、1体ではなく2体のデヴィルを形成する。</p>\n<p><strong>成功</strong> ネッサリは目的のタイプとレベルのデヴィルを形成する。</p>\n<p><strong>失敗</strong> オルトから形成されたデヴィルは、意図したデヴィルより2レベル低い。</p>\n<p><strong>クリティカル失敗</strong> ネッサリはデヴィルの形成に失敗し、資源を浪費したとしてアークデヴィルの怒りを買う。</p>"
         },
         "uT4KswZKvsTixIVs": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "name": "ネサリ/Nessari",
@@ -3665,7 +3665,7 @@
         },
         "5Yp3kZDHE8gZhhLe": {
           "name": "拳/Fist",
-          "description": "<p>ガサラスは、拳攻撃がヒットした際、@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI]{インプルーヴド・グラブ}または@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.6l7e7CHQLESlI57U]{インプルーヴド・プッシュ 20フィート}のいずれかを選択できる。</p>"
+          "description": "<p>ガサラスは、拳攻撃がヒットした際、@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI]{インプルーブド・グラブ}または@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.6l7e7CHQLESlI57U]{インプルーブド・プッシュ 20フィート}のいずれかを選択できる。</p>"
         },
         "ZrnTtQzYoMMf79j0": {
           "name": "足"
@@ -3694,13 +3694,13 @@
           "description": "<p>超大型以下のクリーチャー、足、@Check[reflex|dc:45|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         "ByItiXXLE0ZzOvm8": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         },
         "qa0M1ZbNy1NNa2x3": {
-          "name": "インプルーヴド・ノックダウン"
+          "name": "インプルーブド・ノックダウン"
         },
         "Uzinvon7QqcS48NH": {
-          "name": "インプルーヴド・プッシュ・20フィート/Improved Push 20 feet"
+          "name": "インプルーブド・プッシュ・20フィート/Improved Push 20 feet"
         }
       },
       "name": "ガサラス/Guthallath",
@@ -7768,7 +7768,7 @@
           "description": "<p>ゴギテスは3回ストライドを行う。各〈ストライド〉につき1回、その〈ストライド〉中の任意の時点で、リーチ内のクリーチャーに対して脚による〈ストライク〉を行うことができる。各攻撃は異なるクリーチャーに対して行わなければならないが、すべてのストライクを終えるまでマルチアタック・ペナルティは適用されない。いずれかのストライクが大失敗に終わった場合、スキタリング・アサルトは終了する。</p>"
         },
         "zK2aR7Xwx6ctIIxv": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "skillSpecialSurvival": [
@@ -7976,7 +7976,7 @@
           "description": "<p>そのワームはリーチ内の各クリーチャーに対して1回ずつ〈ストライク〉を行う。顎で最大1回、刺針で最大1回、そして体で何回でも〈ストライク〉を行うことができる。各攻撃はワームのマルチアタック・ペナルティに数えられるが、すべての攻撃を行うまでマルチアタック・ペナルティは増加しない。</p>"
         },
         "oCe57tAkaWpqe976": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "name": "マグマ・ワーム/Magma Worm",
@@ -8110,7 +8110,7 @@
           "description": "<p>クラッグ・リンノームはマグマの奔流を@Template[line|distance:120]に吐き出し、範囲内のクリーチャーに@Damage[12d6[fire]|options:area-damage]ダメージを与える(@Check[reflex|dc:34|basic|options:area-effect]セーヴ)。セーヴに失敗したクリーチャーは、さらに@Damage[4d6[persistent,fire]]ダメージを受ける。</p>\n<p>そのリンノームは、[[/gmr 1d4 #Recharge Magma Breath]]{1d4ラウンド}の間、マグマ・ブレスを再び使用できない。</p>\n<p>マグマは、そのリンノームの次のターンの開始時まで残る。そのリンノームが地上にいた場合、マグマはマグマ・ブレスの線の直下の地面に燃える線として残る。そのリンノームが空中にいた場合、マグマは高さ60フィートのシート状になって降り注ぐ。マグマの上を移動するか、マグマを通り抜けたクリーチャーは@Damage[6d6[fire]]ダメージを受ける(@Check[reflex|dc:34|basic]セーヴ)。</p>\n<p>そのリンノームの次のターンの開始時に、マグマは冷えて薄い脆い石の層になるか、マグマの雨が降り止んで無害な小石に変わる。冷えたマグマは数時間かけて急速に粉末と砂へと劣化する。</p>"
         },
         "OFEj9wltNrZpJ77C": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "name": "クラグ・リンノーム/Crag Linnorm",
@@ -8291,7 +8291,7 @@
           "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:44]</p>\n<hr />\n<p><strong>最大持続時間</strong> 10ラウンド</p>\n<p><strong>第1段階</strong> @Damage[7d6[acid]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[11d6[acid]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2}(1ラウンド)</p>"
         },
         "yKfR5JdxSC3YITNP": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "name": "ターン・リンノーム/Tarn Linnorm",
@@ -8466,7 +8466,7 @@
           "description": "<p>大型、@Damage[(2d8+3)[bludgeoning],(2d6)[acid]]、破裂17</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "3nwKZarzSffmcKzH": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "skillSpecialStealth": [
@@ -8652,7 +8652,7 @@
           "name": "スロー・ロック"
         },
         "gdjy3xyy8xjmihqH": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         },
         "U7XnR0V6Ep934osJ": {
           "name": "ノックダウン"
@@ -9950,10 +9950,10 @@
           "description": "<p>ドラゴンは地獄の火炎の爆風を放ち、@Template[cone|distance:60]内の各クリーチャーに@Damage[21d6[fire]|options:area-damage]ダメージを与える(@Check[reflex|dc:42|basic|options:area-effect]セーヴ)。</p>\n<p>ドラゴンは[[/gmr 1d4 #Recharge Hellfire Breath]]{1d4 rounds}の間、ヘルファイア・ブレスを再び使用できない。</p>"
         },
         "GLvwhJcnT0YW1PUg": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         },
         "94q35docA6iq3SHD": {
-          "name": "インプルーヴド・ノックダウン"
+          "name": "インプルーブド・ノックダウン"
         },
         "m0bT3f8L7NHTgdxb": {
           "name": "ヘル・ロア"
@@ -10222,7 +10222,7 @@
           "description": "<p>氷のリンノームは、凍てつく粘着性のウーズを@Template[cone|distance:60]に噴出し、範囲内のクリーチャーに@Damage[15d6[cold]|options:area-damage]ダメージを与える(@Check[reflex|dc:38|basic|options:area-effect]セーヴ)。</p>\n<p>凍てつくウーズは命中した者に付着し、厚い氷の層となって固まる。セーヴィング・スローに失敗したクリーチャーは、[[/act escape dc=34]]を行うための判定に成功するか、自身または味方がその氷を[[/act force-open dc=34]]{Forces Open}(いずれの場合もDC 34)するまで、氷によって@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。自身のターンの開始時に、氷によって依然として移動不能状態にあるクリーチャーは@Damage[4d6[cold]]ダメージを受ける。別のクリーチャーは、凍結した対象に合計20の火炎ダメージを与えることで、その対象を解放できる。保持していない状態であれば、氷は1分で自然に崩れ落ちる。</p>\n<p>火炎のトレイトを持つクリーチャーは、アイスマイア・ブレスによってその場に凍りつくことはない。飛行しているクリーチャーは凍結すると落下し、水泳しているクリーチャーは凍結するとラウンドにつき60フィートの速度で水面に向かって浮上する。</p>\n<p>そのリンノームは、[[/gmr 1d4 #Recharge Icemire Breath]]{1d4ラウンド}の間、アイスマイア・ブレスを再び使用することはできない。</p>"
         },
         "Vy7eGgsZwEtFCJod": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "name": "アイス・リンノーム/Ice Linnorm",
@@ -11041,7 +11041,7 @@
           "name": "スロー・ロック"
         },
         "gdjy3xyy8xjmihqH": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         },
         "U7XnR0V6Ep934osJ": {
           "name": "ノックダウン"
@@ -12241,7 +12241,7 @@
           "name": "インプルーブド・グラブ/Improved Grab"
         },
         "yrKXLmbaekza05cd": {
-          "name": "インプルーヴド・プッシュ・10フィート/Improved Push 10 feet"
+          "name": "インプルーブド・プッシュ・10フィート/Improved Push 10 feet"
         }
       },
       "name": "ロック鳥/Roc",
@@ -13746,7 +13746,7 @@
         },
         "k8mtTYrWrnHjBMCO": {
           "name": "ブリーチ",
-          "description": "<p>ベンシック・ワームは自身の水泳移動速度まで水泳(Swim)し、その後水面から垂直に最大30フィート@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{リープ(〈跳躍〉)}し、跳躍の頂点でクリーチャーに対して〈ストライク〉を行う(これにより、水面から45フィート以内のクリーチャーを攻撃できる)。〈ストライク〉の後、ワームは水しぶきを上げて水中に戻る。この〈ストライク〉に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI]{インプルーヴド・グラブ(Improved Grab)}を使用し、続けてファスト・スワロー(Fast Swallow)を行うことができる。</p>"
+          "description": "<p>ベンシック・ワームは自身の水泳移動速度まで水泳(Swim)し、その後水面から垂直に最大30フィート@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{リープ(〈跳躍〉)}し、跳躍の頂点でクリーチャーに対して〈ストライク〉を行う(これにより、水面から45フィート以内のクリーチャーを攻撃できる)。〈ストライク〉の後、ワームは水しぶきを上げて水中に戻る。この〈ストライク〉に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI]{インプルーブド・グラブ(Improved Grab)}を使用し、続けてファスト・スワロー(Fast Swallow)を行うことができる。</p>"
         },
         "IYYi7B0j0PD17IXo": {
           "name": "ファスト・スワロー",
@@ -13761,7 +13761,7 @@
           "description": "<p>そのワームはリーチ内の各クリーチャーに対して1回ずつ〈ストライク〉を行う。顎で最大1回、刺針で最大1回、そして体で何回でも〈ストライク〉を行うことができる。各攻撃はワームのマルチアタック・ペナルティに数えられるが、すべての攻撃を行うまでマルチアタック・ペナルティは増加しない。</p>"
         },
         "jN4atm9Y2nSfZFtO": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "skillSpecialStealth": [
@@ -14007,7 +14007,7 @@
           "description": "<p>そのアイランド・オニはスピアを円を描くように振り回し、海水の波を放つ。@Template[emanation|distance:20]内のすべてのクリーチャーは@Check[reflex|dc:37]セーヴィング・スローに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
         },
         "6nTCovyYhG00o6m8": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "name": "アイランド・オニ/Island Oni",
@@ -14060,7 +14060,7 @@
           "description": "<p>そのワームはリーチ内の各クリーチャーに対して1回ずつ〈ストライク〉を行う。顎で最大1回、刺針で最大1回、そして体で何回でも〈ストライク〉を行うことができる。各攻撃はワームのマルチアタック・ペナルティに数えられるが、すべての攻撃を行うまでマルチアタック・ペナルティは増加しない。</p>"
         },
         "TKaqHg2KqjNmg24t": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "name": "ケイブ・ワーム/Cave Worm",
@@ -14204,7 +14204,7 @@
           "description": "<p>中型、@Damage[(1d8+1)[bludgeoning],1d6[acid]]、破裂5</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "CyCkk2GjnKUtz2Va": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         }
       },
       "skillSpecialStealth": [
@@ -14512,7 +14512,7 @@
           "name": "ヴォイド・ヒーリング"
         },
         "Is4V63biDtNBVpi2": {
-          "name": "インプルーヴド・プッシュ/Improved Push"
+          "name": "インプルーブド・プッシュ/Improved Push"
         }
       },
       "name": "ゾンビ・ブルート/Zombie Brute",
@@ -15649,10 +15649,10 @@
           "description": "<p>ドラゴンは地獄の火炎の爆風を放ち、@Template[cone|distance:60]内の各クリーチャーに@Damage[21d6[fire]|options:area-damage]ダメージを与える(@Check[reflex|dc:42|basic|options:area-effect]セーヴ)。</p>\n<p>ドラゴンは[[/gmr 1d4 #Recharge Hellfire Breath]]{1d4 rounds}の間、ヘルファイア・ブレスを再び使用できない。</p>"
         },
         "GLvwhJcnT0YW1PUg": {
-          "name": "インプルーヴド・グラブ"
+          "name": "インプルーブド・グラブ"
         },
         "94q35docA6iq3SHD": {
-          "name": "インプルーヴド・ノックダウン"
+          "name": "インプルーブド・ノックダウン"
         },
         "m0bT3f8L7NHTgdxb": {
           "name": "ヘル・ロア"
