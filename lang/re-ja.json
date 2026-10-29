@@ -245,8 +245,8 @@
         "Prompt": "デヴィルを選択する。"
       },
       "ElementEmbodied": {
-        "AirPushNote": "かつ@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{押し流し}10フィート",
-        "WaterPushPullNote": "さらに@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{押し出し}または引き寄せ10フィート"
+        "AirPushNote": "かつ@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{プッシュ}10フィート",
+        "WaterPushPullNote": "さらに@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{プッシュ}または引き寄せ10フィート"
       },
       "FeyForm": {
         "ChoiceSet": {
@@ -293,7 +293,7 @@
         "Kaiju": "怪獣"
       },
       "Note": {
-        "Grab": "あなたは命中した直後に1アクションを消費して、対象を@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{掴む}ことができる",
+        "Grab": "あなたは命中した直後に1アクションを消費して、対象に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{掴み}を行うことができる",
         "GrabbingTrunk": {
           "Text": "あなたの鼻が命中した、2サイズ以上小さいクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}となる。あなたの鼻に掴まれているクリーチャーに対する@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}の判定に成功した場合、あなたはそのクリーチャーをあなたの鼻のリーチ内にある別のスペースに再配置できる。",
           "Title": "掴み鼻"
@@ -2462,7 +2462,7 @@
         }
       },
       "PunishingStrike": {
-        "Note": "この無謀な攻撃により、使用者は自身の次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。攻撃がヒットした場合、使用者は〈ストライク〉に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{突き飛ばし}を追加できる。"
+        "Note": "この無謀な攻撃により、使用者は自身の次のターンの開始時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。攻撃がヒットした場合、使用者は〈ストライク〉に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{プッシュ}を追加できる。"
       },
       "Puppet": {
         "Fiend": {
@@ -2598,7 +2598,7 @@
           },
           "RuneOfSmiting": {
             "Label": "強打のルーン",
-            "Text": "この武器が命中したとき、ジャイアントは対象を10フィート(10フィート)@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{押し戻す}ことができ、クリティカルヒット(クリティカル・ヒット)の場合は20フィート(20フィート)押し戻すことができる。"
+            "Text": "この武器が命中したとき、ジャイアントは対象を10フィート(10フィート)@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{プッシュ}で押し戻すことができ、クリティカルヒット(クリティカル・ヒット)の場合は20フィート(20フィート)押し戻すことができる。"
           },
           "RuneOfSpace": {
             "Label": "空間のルーン"

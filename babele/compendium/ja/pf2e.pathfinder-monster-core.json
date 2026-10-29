@@ -48,7 +48,7 @@
           "description": "<p>クリーチャーがこの毒によって不器用状態である間、それは同じ値の@UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{破滅}状態となる。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:42]</p>\n<hr />\n<p><strong>最大持続時間</strong> 10ラウンド</p>\n<p><strong>第1段階</strong> @Damage[3d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[5d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない2}(1ラウンド)</p>\n<p><strong>第3段階</strong> @Damage[7d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{ぎこちない3}(1ラウンド)</p>"
         },
         "s4eMY3meCcZpGDrL": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         },
         "y7wtukvra9IyHCPL": {
           "name": "ボーンヤード・ロア"
@@ -181,7 +181,7 @@
           "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:44];</p>\n<hr />\n<p><strong>最大持続時間</strong> 10ラウンド</p>\n<p><strong>第1段階</strong> @Damage[8d6[fire]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1} (1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[12d6[fire]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2} (1ラウンド)</p>"
         },
         "5pZXZ7pLE1RdGKX5": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "name": "トール・リンノーム/Tor Linnorm",
@@ -451,7 +451,7 @@
           "name": "足"
         },
         "qX4zB0ycmWv3B6wH": {
-          "name": "踏みつぶし/Trample",
+          "name": "蹂躙/Trample",
           "description": "<p>大型以下のクリーチャー、足、@Check[reflex|dc:24|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         "5O3D1KLFuAtqX80b": {
@@ -863,10 +863,10 @@
           "description": "<p>テロトリカスの胞子に命中したクリーチャーは、1分の間、すべての移動速度に-10フィートの状況ペナルティを受ける。もしその〈ストライク〉がクリティカルヒットであった場合、そのクリーチャーは[[/act escape dc=40]]{エスケープ}するまで@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態にもなる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.g4CRjb2zS1pkVDbk]{効果: スティッキー・スポア}</p>"
         },
         "ZfDN0qrqMsIVdq7W": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         },
         "pyVnqo4FLO0RWxrX": {
-          "name": "インプルーブド・プッシュ・20フィート/Improved Push 20 feet"
+          "name": "プッシュ強化（20フィート）/Improved Push 20 feet"
         }
       },
       "name": "テロトリクス/Terotricus",
@@ -1030,7 +1030,7 @@
           "description": "<p>爪</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
         },
         "5THRshFo5sJLDIle": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "name": "シェムハジアン/Shemhazian",
@@ -1108,7 +1108,7 @@
           "description": "<p><strong>使用制限</strong> 1分に1回</p>\n<hr />\n<p><strong>効果</strong> そのハドロサウルス類は2回〈ストライド〉を行う。この〈ストライド〉の間、その移動速度に+20フィートの状況ボーナスを得る。</p>"
         },
         "rASGf5YkW2lQXMFQ": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>大型以下、フィート、@Check[reflex|dc:21|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         }
       },
@@ -2398,7 +2398,7 @@
         },
         "6OspJylC319MBk17": {
           "name": "チェンジ・シェイプ",
-          "description": "<ul><li><p><strong>リザード</strong></p><ul><li><strong>移動速度</strong> 20フィート</li><li><strong>近接</strong>顎 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d8+1刺突</li></ul></li><li><p><strong>オクトパス</strong></p><ul><li><strong>サイズ</strong>小型</li><li><strong>移動速度</strong> 20フィート、水泳30フィート</li><li><strong>スキル</strong> 《運動》 +6</li><li><strong>近接</strong>触手 +8 (フィネス)、<strong>ダメージ</strong> 1d8+1殴打加えて@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{グラブ}</li><li><strong>近接</strong>嘴 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6刺突加えて2毒</li></ul></li><li><p><strong>スコーピオン</strong></p><ul><li><strong>サイズ</strong>小型</li><li><strong>移動速度</strong> 30フィート</li><li><strong>スキル</strong> 《運動》 +6</li><li><strong>近接</strong>鋏 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6+1殴打加えてグラブ</li><li><strong>近接</strong>毒針 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6+1刺突加えて1d4毒</li></ul></li></ul><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+          "description": "<ul><li><p><strong>リザード</strong></p><ul><li><strong>移動速度</strong> 20フィート</li><li><strong>近接</strong>顎 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d8+1刺突</li></ul></li><li><p><strong>オクトパス</strong></p><ul><li><strong>サイズ</strong>小型</li><li><strong>移動速度</strong> 20フィート、水泳30フィート</li><li><strong>スキル</strong> 《運動》 +6</li><li><strong>近接</strong>触手 +8 (フィネス)、<strong>ダメージ</strong> 1d8+1殴打加えて@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{掴み}</li><li><strong>近接</strong>嘴 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6刺突加えて2毒</li></ul></li><li><p><strong>スコーピオン</strong></p><ul><li><strong>サイズ</strong>小型</li><li><strong>移動速度</strong> 30フィート</li><li><strong>スキル</strong> 《運動》 +6</li><li><strong>近接</strong>鋏 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6+1殴打加えてグラブ</li><li><strong>近接</strong>毒針 +8 (アジャイル、フィネス)、<strong>ダメージ</strong> 1d6+1刺突加えて1d4毒</li></ul></li></ul><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "glwIs2UR3O1wG0tc": {
           "name": "ソウル・ロック/Soul Lock",
@@ -2477,7 +2477,7 @@
         },
         "E0mO28h15c34tr9P": {
           "name": "チェンジ・シェイプ",
-          "description": "<p>カッシシアンは鳩、翼のある人型生物、犬、あるいは魚の姿をとることができる。通常、これによって彼らの移動速度やストライクの攻撃およびダメージ・ボーナスが変化することはないが、ストライクが与えるダメージ種別が変化する場合がある(典型的には殴打になる)。特定の形態に関するその他の変更点は以下に記す。</p><ul><li><p><strong>ドッグ</strong></p><ul><li><strong>サイズ</strong>小型;</li><li>@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.rqfnQ5VHT5hxm25r]{嗅覚 (Imprecise) 30フィート},</li><li><strong>移動速度</strong> 40フィート;</li><li><strong>スキル</strong> 《運動》 [[/r 1d20+6]]{+6};</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> jaws +7, <strong>ダメージ</strong> 1d6+2刺突 plus @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.BCLvAx4Pz4MLa2pu]{Knockdown}</li></ul></li><li><p><strong>フィッシュ</strong></p><ul><li><strong>移動速度</strong> 〈水泳〉 30フィート</li></ul></li></ul><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+          "description": "<p>カッシシアンは鳩、翼のある人型生物、犬、あるいは魚の姿をとることができる。通常、これによって彼らの移動速度やストライクの攻撃およびダメージ・ボーナスが変化することはないが、ストライクが与えるダメージ種別が変化する場合がある(典型的には殴打になる)。特定の形態に関するその他の変更点は以下に記す。</p><ul><li><p><strong>ドッグ</strong></p><ul><li><strong>サイズ</strong>小型;</li><li>@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.rqfnQ5VHT5hxm25r]{嗅覚 (Imprecise) 30フィート},</li><li><strong>移動速度</strong> 40フィート;</li><li><strong>スキル</strong> 《運動》 [[/r 1d20+6]]{+6};</li><li><strong>近接</strong> <span class=\"action-glyph\">1</span> jaws +7, <strong>ダメージ</strong> 1d6+2刺突 plus @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.BCLvAx4Pz4MLa2pu]{ノックダウン}</li></ul></li><li><p><strong>フィッシュ</strong></p><ul><li><strong>移動速度</strong> 〈水泳〉 30フィート</li></ul></li></ul><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "nlXD4kgKurvpC2DF": {
           "name": "アイ・ビームズ/Eye Beams",
@@ -2547,10 +2547,10 @@
           "description": "<p>超大型, @Damage[(2d8+5)[bludgeoning]], Rupture 20</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "E3WrwhsH06axDfAu": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         },
         "JWS021oC5szbCrAS": {
-          "name": "プッシュ・15フィート/Push 15 feet"
+          "name": "プッシュ（15フィート）/Push 15 feet"
         }
       },
       "name": "メガロドン/Megalodon",
@@ -3581,7 +3581,7 @@
           "description": "<p>ネッサリは、600フィートの放射内にいる大量のオルトを、地獄の軍勢を増強するために、より強力なデヴィルへと作り変える。ネッサリは以下の表に記載された数のオルトを利用できなければならない。</p><table class=\"pf2e remaster\"><thead><tr><th>デヴィル レベル</th><th>オルトの数</th></tr></thead><tbody><tr><td>4以下</td><td>4</td></tr><tr><td>5-6</td><td>8</td></tr><tr><td>7-8</td><td>16</td></tr><tr><td>9-10</td><td>32</td></tr><tr><td>11-12</td><td>64</td></tr><tr><td>13-14</td><td>128</td></tr><tr><td>15-16</td><td>256</td></tr><tr><td>17-18</td><td>512</td></tr><tr><td>19-20</td><td>1,024</td></tr></tbody></table><p>ネッサリは1日につき100体のオルトを形成でき、11日間で最大1,100体まで形成できる。この方法で作成されたデヴィルはネッサリの支配下にあり、その命令に従う。ただし、作成されたネッサリや同等の力を持つ他のデヴィルは例外であり、常に独立している。その結果、仲間となるデヴィルを作成することを選ぶネッサリはほとんどいない。〈デヴィル形成〉アクティビティの終了時に、ネッサリは目的のデヴィルのレベルに対する信じがたい難易度の@Check[religion] 判定を行い、結果は以下の通りとなる。</p><hr /><p><strong>クリティカル成功</strong> ネッサリは集められたオルトから、1体ではなく2体のデヴィルを形成する。</p>\n<p><strong>成功</strong> ネッサリは目的のタイプとレベルのデヴィルを形成する。</p>\n<p><strong>失敗</strong> オルトから形成されたデヴィルは、意図したデヴィルより2レベル低い。</p>\n<p><strong>クリティカル失敗</strong> ネッサリはデヴィルの形成に失敗し、資源を浪費したとしてアークデヴィルの怒りを買う。</p>"
         },
         "uT4KswZKvsTixIVs": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "name": "ネサリ/Nessari",
@@ -3665,7 +3665,7 @@
         },
         "5Yp3kZDHE8gZhhLe": {
           "name": "拳/Fist",
-          "description": "<p>ガサラスは、拳攻撃がヒットした際、@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI]{インプルーブド・グラブ}または@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.6l7e7CHQLESlI57U]{インプルーブド・プッシュ 20フィート}のいずれかを選択できる。</p>"
+          "description": "<p>ガサラスは、拳攻撃がヒットした際、@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI]{掴み強化}または@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.6l7e7CHQLESlI57U]{プッシュ強化 20フィート}のいずれかを選択できる。</p>"
         },
         "ZrnTtQzYoMMf79j0": {
           "name": "足"
@@ -3690,17 +3690,17 @@
           "description": "<p>ガスララスが攻撃を行い、d20のロールで出目19(自然の出目)を出した場合、その攻撃はクリティカルヒットとなる。出目19が失敗となる場合、この効果は発生しない。</p>"
         },
         "pSI2QoLhvn9RpREJ": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>超大型以下のクリーチャー、足、@Check[reflex|dc:45|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         "ByItiXXLE0ZzOvm8": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         },
         "qa0M1ZbNy1NNa2x3": {
-          "name": "インプルーブド・ノックダウン"
+          "name": "ノックダウン強化"
         },
         "Uzinvon7QqcS48NH": {
-          "name": "インプルーブド・プッシュ・20フィート/Improved Push 20 feet"
+          "name": "プッシュ強化（20フィート）/Improved Push 20 feet"
         }
       },
       "name": "ガサラス/Guthallath",
@@ -4799,7 +4799,7 @@
           "description": "<p>アンキロサウルスの尾で攻撃されたクリーチャーは@Check[fortitude|dc:24]セーヴを行わなければならない。</p>\n<p>失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}状態となる。大失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン3}状態となる。</p>"
         },
         "qZG63nOxzyyLxiMs": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>中型以下、足、 @Check[reflex|dc:24|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         }
       },
@@ -5199,7 +5199,7 @@
           "description": "<p>ターゲットは、この病気が治癒するまで、モータシーンによって引き起こされた疲労状態から回復できない。モータシーンは動物および植物に対して猛毒のトレイトを得る。</p>\n<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:28]</p>\n<hr />\n<p><strong>第1段階</strong>悪影響のない保菌者(1日)；</p>\n<p><strong>第2段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}および@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態(1日)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2}および疲労状態(1日)</p>\n<p><strong>第4段階</strong>死亡</p>"
         },
         "sJmlL0pxIhzEUZxO": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>中型以下、蹄、@Check[reflex|dc:28|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         }
       },
@@ -7419,7 +7419,7 @@
           "description": "<p>ムクラディは、自身のリーチ内にいる各クリーチャーに対して1回ずつストライクを行う。このストライクのうち1回はそれぞれの顎で行い、1回は尾の鞭打ちで行い、残りは脚で行うことができる。各攻撃には－2の状況ペナルティがかかり、ムクラディのマルチアタック・ペナルティに数えられるが、マルチアタック・ペナルティはすべての攻撃が行われるまで増加しない。</p>"
         },
         "Cp2wPvwVrx6QHzjb": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>超大型以下、脚、@Check[reflex|dc:36|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         "reBqKuVcCW8B0Kfe": {
@@ -7768,7 +7768,7 @@
           "description": "<p>ゴギテスは3回ストライドを行う。各〈ストライド〉につき1回、その〈ストライド〉中の任意の時点で、リーチ内のクリーチャーに対して脚による〈ストライク〉を行うことができる。各攻撃は異なるクリーチャーに対して行わなければならないが、すべてのストライクを終えるまでマルチアタック・ペナルティは適用されない。いずれかのストライクが大失敗に終わった場合、スキタリング・アサルトは終了する。</p>"
         },
         "zK2aR7Xwx6ctIIxv": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "skillSpecialSurvival": [
@@ -7976,7 +7976,7 @@
           "description": "<p>そのワームはリーチ内の各クリーチャーに対して1回ずつ〈ストライク〉を行う。顎で最大1回、刺針で最大1回、そして体で何回でも〈ストライク〉を行うことができる。各攻撃はワームのマルチアタック・ペナルティに数えられるが、すべての攻撃を行うまでマルチアタック・ペナルティは増加しない。</p>"
         },
         "oCe57tAkaWpqe976": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "name": "マグマ・ワーム/Magma Worm",
@@ -8005,7 +8005,7 @@
           "description": "<p>マンモスは異なるクリーチャーを対象に、タスクで2回ストライクを行う。これはマンモスのマルチアタック・ペナルティにおいて1回の攻撃として数えられ、両方の攻撃が終わるまでペナルティは増加しない。</p>"
         },
         "O2U2on80bNw6GMEe": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>大型以下、足、@Check[reflex|dc:28|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         "xBi3GMrwnT7AE4mq": {
@@ -8110,7 +8110,7 @@
           "description": "<p>クラッグ・リンノームはマグマの奔流を@Template[line|distance:120]に吐き出し、範囲内のクリーチャーに@Damage[12d6[fire]|options:area-damage]ダメージを与える(@Check[reflex|dc:34|basic|options:area-effect]セーヴ)。セーヴに失敗したクリーチャーは、さらに@Damage[4d6[persistent,fire]]ダメージを受ける。</p>\n<p>そのリンノームは、[[/gmr 1d4 #Recharge Magma Breath]]{1d4ラウンド}の間、マグマ・ブレスを再び使用できない。</p>\n<p>マグマは、そのリンノームの次のターンの開始時まで残る。そのリンノームが地上にいた場合、マグマはマグマ・ブレスの線の直下の地面に燃える線として残る。そのリンノームが空中にいた場合、マグマは高さ60フィートのシート状になって降り注ぐ。マグマの上を移動するか、マグマを通り抜けたクリーチャーは@Damage[6d6[fire]]ダメージを受ける(@Check[reflex|dc:34|basic]セーヴ)。</p>\n<p>そのリンノームの次のターンの開始時に、マグマは冷えて薄い脆い石の層になるか、マグマの雨が降り止んで無害な小石に変わる。冷えたマグマは数時間かけて急速に粉末と砂へと劣化する。</p>"
         },
         "OFEj9wltNrZpJ77C": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "name": "クラグ・リンノーム/Crag Linnorm",
@@ -8291,7 +8291,7 @@
           "description": "<p><strong>セーヴィング・スロー</strong> @Check[fortitude|dc:44]</p>\n<hr />\n<p><strong>最大持続時間</strong> 10ラウンド</p>\n<p><strong>第1段階</strong> @Damage[7d6[acid]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗1}(1ラウンド)</p>\n<p><strong>第2段階</strong> @Damage[11d6[acid]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗2}(1ラウンド)</p>"
         },
         "yKfR5JdxSC3YITNP": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "name": "ターン・リンノーム/Tarn Linnorm",
@@ -8412,7 +8412,7 @@
         },
         "coknqLEZIU2gBBH1": {
           "name": "ライジング・アームズ/Writhing Arms",
-          "description": "<p>ジャイアント・オクトパスは異なる腕を使って最大4回のストライクを行い、それぞれ異なる対象に対して行う。各攻撃はオクトパスのマルチアタック・ペナルティに個別に数えられるが、オクトパスがすべての攻撃を行うまで、ペナルティは増加しない。</p>\n<p>もしオクトパスがその後で@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Grab}アクションを使用する場合、Writhing Armsでヒットした任意の数のクリーチャーをGrabできる。</p>"
+          "description": "<p>ジャイアント・オクトパスは異なる腕を使って最大4回のストライクを行い、それぞれ異なる対象に対して行う。各攻撃はオクトパスのマルチアタック・ペナルティに個別に数えられるが、オクトパスがすべての攻撃を行うまで、ペナルティは増加しない。</p>\n<p>もしオクトパスがその後で@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{掴み}アクションを使用する場合、Writhing Armsでヒットした任意の数のクリーチャーに掴みを行える。</p>"
         },
         "5NPT2o7xLwm4QVG0": {
           "name": "掴み"
@@ -8466,7 +8466,7 @@
           "description": "<p>大型、@Damage[(2d8+3)[bludgeoning],(2d6)[acid]]、破裂17</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "3nwKZarzSffmcKzH": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "skillSpecialStealth": [
@@ -8527,7 +8527,7 @@
         },
         "MqZKv72y1ZKA6RAE": {
           "name": "キャプチャリング・グラブ/Capturing Grab",
-          "description": "<p>この能力は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{グラブ}として機能する。さらに成功時には、マンティスは対象を自身に隣接するマスへ引き寄せることを選択でき、その後そのクリーチャーに対してマンディブル〈ストライク〉を行う。この追加の恩恵は、マンティスがグラブを維持する際には適用されない。</p>"
+          "description": "<p>この能力は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{掴み}として機能する。さらに成功時には、マンティスは対象を自身に隣接するマスへ引き寄せることを選択でき、その後そのクリーチャーに対してマンディブル〈ストライク〉を行う。この追加の恩恵は、マンティスがグラブを維持する際には適用されない。</p>"
         },
         "yEhFyHlybvFRrc0k": {
           "name": "ランジング・ストライク/Lunging Strike",
@@ -8652,7 +8652,7 @@
           "name": "スロー・ロック"
         },
         "gdjy3xyy8xjmihqH": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         },
         "U7XnR0V6Ep934osJ": {
           "name": "ノックダウン"
@@ -8689,10 +8689,10 @@
         },
         "QleXAKxC6oYMhWIK": {
           "name": "ロール/Roll",
-          "description": "<p>そのアオラズは頭を引っ込めて、装甲に覆われた球体へと丸まる。ローリング中、アオラズはAC44、頑健+37、反応+29、意志+33、そして移動速度100フィートを得るが、トランクによるストライクやウルトラソニック・ブラストは使用できない。丸まっている間もフットによるストライクを行うことはできるが、それは@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.UNah0bxXxkcZjxO3]{トランプル}の一部としてのみである。アオラズはこのアクションを再度使用することで、丸まりを解いて立ち姿に戻ることができる。</p>"
+          "description": "<p>そのアオラズは頭を引っ込めて、装甲に覆われた球体へと丸まる。ローリング中、アオラズはAC44、頑健+37、反応+29、意志+33、そして移動速度100フィートを得るが、トランクによるストライクやウルトラソニック・ブラストは使用できない。丸まっている間もフットによるストライクを行うことはできるが、それは@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.UNah0bxXxkcZjxO3]{蹂躙}の一部としてのみである。アオラズはこのアクションを再度使用することで、丸まりを解いて立ち姿に戻ることができる。</p>"
         },
         "KmdxRqIdBe3pc6XL": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>超大型以下、フット、@Check[reflex|dc:40|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         "IZ5Q9oQE8jylYahf": {
@@ -9107,7 +9107,7 @@
           "description": "<p>サイは2回移動(Stride)し、その後、角による〈ストライク〉を行う。サイが少なくとも20フィート移動していれば、その〈ストライク〉のダメージは@Damage[(3d8+6)[piercing]]ダメージに増加する。この攻撃で打撃を受けた中型以下のクリーチャーは、@Check[reflex|dc:21]セーヴに成功しなければならず、失敗すると一撃の衝撃によって自動的に@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}され、5フィート後退して@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
         },
         "VQZuQhcA0A15y8kQ": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>中型以下、足、@Check[reflex|dc:18|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         }
       },
@@ -9197,7 +9197,7 @@
           "description": "<p>ウォースウォーンのスクラップ・ボール〈ストライク〉でヒットされたクリーチャーは、@Check[reflex|dc:37]セーヴを行わなければならない。失敗した場合、対象は@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。もし対象が空中にいた場合、最大120フィート落下し、落下ダメージを受け、もしその降下によって地面に到達したなら伏せ状態(prone)となる。大失敗した場合、対象はさらにスクラップの山の下に押し込められる([[/act escape dc=37]])。</p>"
         },
         "S2UbYSN0YRKJbMS0": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>超大型以下のサイズ、コープス・ウェーヴ、 @Check[reflex|dc:37|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         }
       },
@@ -9260,7 +9260,7 @@
           "description": "<p>ウーリー・ライノセラスは2回〈ストライク〉を行い、その後角による〈ストライク〉を行う。ウーリー・ライノセラスが少なくとも20フィート移動していた場合、その〈ストライク〉のダメージは@Damage[(3d12+6)[piercing]]ダメージに増加する。この攻撃で打撃を受けた中型以下のクリーチャーは、@Check[reflex|dc:24]セーヴに成功しなければならず、失敗するとその一撃の威力によって自動的に@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}され、5フィート後退させられて@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
         },
         "vorcYiRkw5YIs0Qy": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>中型以下、足、@Check[reflex|dc:21|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         }
       },
@@ -9557,7 +9557,7 @@
           "name": "足"
         },
         "NhKBmdf3sh4wyA1u": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>中型以下、足、@Check[reflex|dc:21|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         }
       },
@@ -9833,7 +9833,7 @@
           "description": "<p>エレメンタルは風の@Template[cone|distance:30]を吐き出す。円錐内のクリーチャーは@Check[fortitude|dc:29|options:area-effect,damaging-effect]セーヴに成功しなければならず、失敗するとエレメンタルから遠ざかる方向に吹き飛ばされる。</p>\n<p>固形物にぶつかったクリーチャーは移動を停止し、@Damage[10d6[bludgeoning]|options:area-damage]ダメージを受ける(ダメージはすべてのクリーチャーに対して1回ロールする)。</p>\n<p>エレメンタル・ハリケーンは[[/gmr 1d4 #Recharge Gale Breath]]{1d4ラウンド}の間、再びGale Breathを使用できない。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。</p>\n<p><strong>成功</strong>そのクリーチャーは20フィート押し出される。</p>\n<p><strong>失敗</strong>そのクリーチャーは40フィート押し出される。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは40フィート押し出され、かつ@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態になる。</p>"
         },
         "m0piXEdTBGvW1oIY": {
-          "name": "プッシュ・10フィート"
+          "name": "プッシュ（10フィート）"
         }
       },
       "name": "エレメンタル・ハリケーン/Elemental Hurricane",
@@ -9950,10 +9950,10 @@
           "description": "<p>ドラゴンは地獄の火炎の爆風を放ち、@Template[cone|distance:60]内の各クリーチャーに@Damage[21d6[fire]|options:area-damage]ダメージを与える(@Check[reflex|dc:42|basic|options:area-effect]セーヴ)。</p>\n<p>ドラゴンは[[/gmr 1d4 #Recharge Hellfire Breath]]{1d4 rounds}の間、ヘルファイア・ブレスを再び使用できない。</p>"
         },
         "GLvwhJcnT0YW1PUg": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         },
         "94q35docA6iq3SHD": {
-          "name": "インプルーブド・ノックダウン"
+          "name": "ノックダウン強化"
         },
         "m0bT3f8L7NHTgdxb": {
           "name": "ヘル・ロア"
@@ -10222,7 +10222,7 @@
           "description": "<p>氷のリンノームは、凍てつく粘着性のウーズを@Template[cone|distance:60]に噴出し、範囲内のクリーチャーに@Damage[15d6[cold]|options:area-damage]ダメージを与える(@Check[reflex|dc:38|basic|options:area-effect]セーヴ)。</p>\n<p>凍てつくウーズは命中した者に付着し、厚い氷の層となって固まる。セーヴィング・スローに失敗したクリーチャーは、[[/act escape dc=34]]を行うための判定に成功するか、自身または味方がその氷を[[/act force-open dc=34]]{Forces Open}(いずれの場合もDC 34)するまで、氷によって@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。自身のターンの開始時に、氷によって依然として移動不能状態にあるクリーチャーは@Damage[4d6[cold]]ダメージを受ける。別のクリーチャーは、凍結した対象に合計20の火炎ダメージを与えることで、その対象を解放できる。保持していない状態であれば、氷は1分で自然に崩れ落ちる。</p>\n<p>火炎のトレイトを持つクリーチャーは、アイスマイア・ブレスによってその場に凍りつくことはない。飛行しているクリーチャーは凍結すると落下し、水泳しているクリーチャーは凍結するとラウンドにつき60フィートの速度で水面に向かって浮上する。</p>\n<p>そのリンノームは、[[/gmr 1d4 #Recharge Icemire Breath]]{1d4ラウンド}の間、アイスマイア・ブレスを再び使用することはできない。</p>"
         },
         "Vy7eGgsZwEtFCJod": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "name": "アイス・リンノーム/Ice Linnorm",
@@ -10552,7 +10552,7 @@
           "description": "<p>そのエレメンタル・アバランチは、そのエレメンタルの近接リーチ内にいる各@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態のクリーチャーに対し、@Check[reflex|dc:30|basic]セーヴを行わせ、@Damage[4d12[bludgeoning]]ダメージを与える。</p>"
         },
         "62o3Ky65LWW5uKNE": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>大型以下、拳、@Check[reflex|dc:30|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         "G6jROiFd4STQSy6X": {
@@ -11041,7 +11041,7 @@
           "name": "スロー・ロック"
         },
         "gdjy3xyy8xjmihqH": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         },
         "U7XnR0V6Ep934osJ": {
           "name": "ノックダウン"
@@ -11218,7 +11218,7 @@
           "description": "<p><strong>必要条件</strong> ケンタウロスのハーバリストは少なくとも1つのハーブの小袋を持っている。</p>\n<hr />\n<p><strong>効果</strong> ケンタウロスのハーバリストは〈扱う〉を行ってスリングにハーブの小袋を装填する。彼女がスリングで行う次の遠隔 〈ストライク〉は、追加で1d6の毒ダメージを与える。</p>"
         },
         "ihI9TF3YdNJFYytf": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>中型以下、蹄、@Check[reflex|dc:18|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         }
       },
@@ -11582,7 +11582,7 @@
           "description": "<p><strong>トリガー</strong>ステゴサウルスが近接攻撃の対象となった。</p>\n\n<hr />\n<p><strong>効果</strong>ステゴサウルスはその攻撃に対して背中のプレートを傾け、トリガーとなった攻撃に対する自身のACに+2の状況ボーナスを得る。もしその攻撃が外れたなら、ステゴサウルスはその攻撃の後にステップを行う。</p>"
         },
         "GoUIra7KXFd9kUhH": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>大型以下、足、@Check[reflex|dc:25|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         }
       },
@@ -12238,10 +12238,10 @@
           "description": "<p>ロックは、対象が自身の鉤爪で@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}である場合、その嘴による〈ストライク〉の命中判定に+2の状況ボーナスを得る。</p>"
         },
         "ZfVwcTmrbWAVaOCX": {
-          "name": "インプルーブド・グラブ/Improved Grab"
+          "name": "掴み強化/Improved Grab"
         },
         "yrKXLmbaekza05cd": {
-          "name": "インプルーブド・プッシュ・10フィート/Improved Push 10 feet"
+          "name": "プッシュ強化（10フィート）/Improved Push 10 feet"
         }
       },
       "name": "ロック鳥/Roc",
@@ -13020,7 +13020,7 @@
           "description": "<p>ストーン・モーラーは岩を含むあらゆる土質の物質を〈穴掘り〉できる。そうするとき、ストーン・モーラーはその穴掘り移動速度で移動し、トンネルや通過した痕跡を残さない。</p>"
         },
         "fK43gOGpvZ5SUgT8": {
-          "name": "プッシュ10フィート"
+          "name": "プッシュ（10フィート）"
         }
       },
       "name": "ストーン・モーラー/Stone Mauler",
@@ -13047,7 +13047,7 @@
           "description": "<p>中型、@Damage[(3d6+8)[bludgeoning]]ダメージ、破裂26</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "9wiqhTppGBReF5MG": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>超大型以下、足、@Check[reflex|dc:29|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         "kxRli3zYiks3nckW": {
@@ -13746,7 +13746,7 @@
         },
         "k8mtTYrWrnHjBMCO": {
           "name": "ブリーチ",
-          "description": "<p>ベンシック・ワームは自身の水泳移動速度まで水泳(Swim)し、その後水面から垂直に最大30フィート@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{リープ(〈跳躍〉)}し、跳躍の頂点でクリーチャーに対して〈ストライク〉を行う(これにより、水面から45フィート以内のクリーチャーを攻撃できる)。〈ストライク〉の後、ワームは水しぶきを上げて水中に戻る。この〈ストライク〉に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI]{インプルーブド・グラブ(Improved Grab)}を使用し、続けてファスト・スワロー(Fast Swallow)を行うことができる。</p>"
+          "description": "<p>ベンシック・ワームは自身の水泳移動速度まで水泳(Swim)し、その後水面から垂直に最大30フィート@UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{リープ(〈跳躍〉)}し、跳躍の頂点でクリーチャーに対して〈ストライク〉を行う(これにより、水面から45フィート以内のクリーチャーを攻撃できる)。〈ストライク〉の後、ワームは水しぶきを上げて水中に戻る。この〈ストライク〉に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI]{掴み強化(Improved Grab)}を使用し、続けてファスト・スワロー(Fast Swallow)を行うことができる。</p>"
         },
         "IYYi7B0j0PD17IXo": {
           "name": "ファスト・スワロー",
@@ -13761,7 +13761,7 @@
           "description": "<p>そのワームはリーチ内の各クリーチャーに対して1回ずつ〈ストライク〉を行う。顎で最大1回、刺針で最大1回、そして体で何回でも〈ストライク〉を行うことができる。各攻撃はワームのマルチアタック・ペナルティに数えられるが、すべての攻撃を行うまでマルチアタック・ペナルティは増加しない。</p>"
         },
         "jN4atm9Y2nSfZFtO": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "skillSpecialStealth": [
@@ -14007,7 +14007,7 @@
           "description": "<p>そのアイランド・オニはスピアを円を描くように振り回し、海水の波を放つ。@Template[emanation|distance:20]内のすべてのクリーチャーは@Check[reflex|dc:37]セーヴィング・スローに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p>"
         },
         "6nTCovyYhG00o6m8": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "name": "アイランド・オニ/Island Oni",
@@ -14060,7 +14060,7 @@
           "description": "<p>そのワームはリーチ内の各クリーチャーに対して1回ずつ〈ストライク〉を行う。顎で最大1回、刺針で最大1回、そして体で何回でも〈ストライク〉を行うことができる。各攻撃はワームのマルチアタック・ペナルティに数えられるが、すべての攻撃を行うまでマルチアタック・ペナルティは増加しない。</p>"
         },
         "TKaqHg2KqjNmg24t": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "name": "ケイブ・ワーム/Cave Worm",
@@ -14204,7 +14204,7 @@
           "description": "<p>中型、@Damage[(1d8+1)[bludgeoning],1d6[acid]]、破裂5</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         "CyCkk2GjnKUtz2Va": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         }
       },
       "skillSpecialStealth": [
@@ -14377,7 +14377,7 @@
           "description": "<p>ジャバリがクリーチャーを石の障壁に押し付けると、その表面が石の指となって対象を掴む。対象は@Check[reflex|dc:22]セーヴに成功しなければ、その表面によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となる([[/act escape dc=28]])。</p>"
         },
         "pV2kE2wYrZjLyBiR": {
-          "name": "プッシュ10フィート"
+          "name": "プッシュ（10フィート）"
         }
       },
       "name": "ジャバリ/Jabali",
@@ -14491,7 +14491,7 @@
           "description": "<p>ナイトメアは自身の移動速度の3倍までストライドまたはフライを行う。その蹄は激しい炎を噴き上げ、ナイトメアが疾走中に隣接した、ナイトメアの乗り手以外の各クリーチャーに@Damage[6d6[fire]]ダメージを与え、@Check[reflex|dc:30|basic]セーヴを行わせる。各クリーチャーは炎の疾走の1回の使用につき1度しか影響を受けない。</p>"
         },
         "XCbPDCIugQCZ6Euc": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>大型以下、蹄、@Check[reflex|dc:30|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         }
       },
@@ -14512,7 +14512,7 @@
           "name": "ヴォイド・ヒーリング"
         },
         "Is4V63biDtNBVpi2": {
-          "name": "インプルーブド・プッシュ/Improved Push"
+          "name": "プッシュ強化/Improved Push"
         }
       },
       "name": "ゾンビ・ブルート/Zombie Brute",
@@ -14753,11 +14753,11 @@
           "description": "<p>ブロントサウルスは尻尾による〈ストライク〉を行い、その攻撃ロールを最大3体までの敵のACと比較する。それぞれの敵は、ブロントサウルスの尻尾の近接リーチ内にあり、かつ他の少なくとも1体の対象と隣接していなければならない。ブロントサウルスはダメージロールを1回だけ行い、命中した各クリーチャーにそのダメージを適用する。</p>\n<p>テール・スウィープは、そのマルチアタック・ペナルティにおいて2回の攻撃として数える。</p>"
         },
         "sgLK6WwDNZXG3X0e": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>超大型以下、足、@Check[reflex|dc:29|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         "bzNpoAXw0BCP1dGK": {
-          "name": "インプルーブド・ノックダウン/Improved Knockdown"
+          "name": "ノックダウン強化/Improved Knockdown"
         }
       },
       "name": "ブロントサウルス/Brontosaurus",
@@ -14994,7 +14994,7 @@
           "name": "掴み"
         },
         "eOgrqVcnppzRiPms": {
-          "name": "プッシュ10フィート"
+          "name": "プッシュ（10フィート）"
         }
       },
       "name": "ジャイアント・アナコンダ/Giant Anaconda",
@@ -15649,10 +15649,10 @@
           "description": "<p>ドラゴンは地獄の火炎の爆風を放ち、@Template[cone|distance:60]内の各クリーチャーに@Damage[21d6[fire]|options:area-damage]ダメージを与える(@Check[reflex|dc:42|basic|options:area-effect]セーヴ)。</p>\n<p>ドラゴンは[[/gmr 1d4 #Recharge Hellfire Breath]]{1d4 rounds}の間、ヘルファイア・ブレスを再び使用できない。</p>"
         },
         "GLvwhJcnT0YW1PUg": {
-          "name": "インプルーブド・グラブ"
+          "name": "掴み強化"
         },
         "94q35docA6iq3SHD": {
-          "name": "インプルーブド・ノックダウン"
+          "name": "ノックダウン強化"
         },
         "m0bT3f8L7NHTgdxb": {
           "name": "ヘル・ロア"
@@ -16292,7 +16292,7 @@
           "description": "<p>トリケラトプスは最大10フィートまでストライドし、その後〈ストライク〉を行う。</p>"
         },
         "OKzqL9XBxnlVikDo": {
-          "name": "踏みつぶし",
+          "name": "蹂躙",
           "description": "<p>大型以下の、足、@Check[reflex|dc:26|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         "bWfE1BR1kz8fIanF": {
@@ -16490,7 +16490,7 @@
         },
         "vXxTQUxFEXV4Ldxm": {
           "name": "リーピング・グラブ/Leaping Grab",
-          "description": "<p>マンティスは垂直に最大40フィート、水平に最大20フィート跳躍する。跳躍中の任意の時点で、脚による〈ストライク〉を行うことができる。ヒットした場合、自動的に対象を@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{グラブ}し、跳躍が終わるまでそのクリーチャーを連れて行く。</p>"
+          "description": "<p>マンティスは垂直に最大40フィート、水平に最大20フィート跳躍する。跳躍中の任意の時点で、脚による〈ストライク〉を行うことができる。ヒットした場合、自動的に対象に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{掴み}を行い、跳躍が終わるまでそのクリーチャーを連れて行く。</p>"
         },
         "ZyTjl37PC8e0rtsy": {
           "name": "レンディング・マンディブルズ/Rending Mandibles",

@@ -134,10 +134,10 @@
       "description": "<p>モボゴは、舌で@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{つかみ状態}のクリーチャーを移動させようと試みる。モボゴは@Check[type:athletics|defense:fortitude] 判定を行い、そのクリーチャーの頑健 DCと比べる。</p>\n<p>成功すると、モボゴはそのクリーチャーを舌のリーチ内の任意のマスへ移動させる。モボゴは望むなら、つかみ状態のクリーチャーを自身の顎へ移すことができる。</p>"
     },
     "tetpWKxbpwLYXdRP": {
-      "name": "インプルーブド・グラブ/Improved Grab"
+      "name": "掴み強化/Improved Grab"
     },
     "Improved Grab": {
-      "name": "インプルーブド・グラブ"
+      "name": "掴み強化"
     },
     "BMRz951juyBwJNqu": {
       "name": "アーケインの準備呪文/Arcane Prepared Spells"
@@ -970,11 +970,11 @@
       "description": "<p>スペクトラル・デヴィルは恐るべき嘶きを@Template[type:cone|distance:30]{30フィートの円錐}の範囲に放ち、@Damage[5d10[sonic]]ダメージを与える。範囲内の各クリーチャーは@Check[type:reflex|dc:29]セーヴを行わなければならない。</p>\n<p>スペクトラル・デヴィルは[[/br 1d4 #Recharge Accursed Shriek]]{1d4ラウンド}の間、Accursed Shriekを使用できない。</p>\n<strong>クリティカル成功</strong>そのクリーチャーは影響を受けない。\n<p><strong>成功</strong>そのクリーチャーは半分のダメージを受ける。</p>\n<p><strong>失敗</strong>そのクリーチャーは全てのダメージを受けるし、不気味な音によって@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態となる。</p>\n<p><strong>クリティカル失敗</strong>そのクリーチャーは全てのダメージを受けるし、frightened 2状態となり、呪われる。被害者の精神には嘶きの音が反響し、集中を妨げる。呪われたクリーチャーは、その呪いが解除されるまで@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{混濁2}状態となる。</p>"
     },
     "FZOeInuA5uaA7PVK": {
-      "name": "踏みつぶし/Trample",
+      "name": "蹂躙/Trample",
       "description": "<p>中型以下、幽体の蹄、@Check[type:reflex|dc:26|basic:true]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
     },
     "Trample": {
-      "name": "踏みつぶし",
+      "name": "蹂躙",
       "description": "<p>中型以下、幽体の蹄、@Check[type:reflex|dc:26|basic:true]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
     },
     "f33ibm0weYFRsbLf": {
@@ -1112,7 +1112,7 @@
       "description": "<p>サンドポイント・デヴィルは何マイルも先まで聞こえるような血も凍るような遠吠えを放つ。@Template[type:emanation|distance:100]内の各クリーチャーは、@Check[type:will|dc:26]セーヴに成功しなければ、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態となる(大失敗した場合は@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている3}状態となり、そのクリーチャーが恐慌状態である限り逃走する)。</p>\n<p>この意志セーヴを行ったクリーチャーは、その後24時間の間、デヴィルの遠吠えに対して免疫となる。</p>"
     },
     "B6PM6Ak7BCncLxYT": {
-      "name": "踏みつぶし",
+      "name": "蹂躙",
       "description": "<p>中型以下、蹄、@Check[type:reflex|dc:23|basic:true]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
     },
     "5rP5cz0JHgxkYHIF": {
@@ -1257,10 +1257,10 @@
       "description": "<p>シャイタンがクリーチャーを石の障壁に押し込んだ場合、対象は@Check[type:reflex|dc:22]セーヴに成功しなければならず、失敗するとその障壁と融合してしまう(@UUID[Compendium.pf2e.spells-srd.Item.vh1RpbWfqdNC4L3P]{ワン・ウィズ・ストーン}と同様)。犠牲者は〈エスケープ〉(DC 28)を試みることができる。</p>"
     },
     "pV2kE2wYrZjLyBiR": {
-      "name": "プッシュ・10フィート/Push 10 feet"
+      "name": "プッシュ（10フィート）/Push 10 feet"
     },
     "Push 10 feet": {
-      "name": "プッシュ・10フィート/Push 10 feet"
+      "name": "プッシュ（10フィート）/Push 10 feet"
     },
     "iKBkndIrL6R367bc": {
       "name": "憤怒の爆発/Wrathful Blast",
@@ -2561,11 +2561,11 @@
       "description": "<p><strong>トリガー</strong>ゴブリンの味方が、そのゴブリンに隣接する位置で移動アクションを終了する。</p>\n<hr />\n<p><strong>効果</strong>そのゴブリンは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{ステップ}を行う。</p>"
     },
     "zAINumOCEOZSUfFs": {
-      "name": "ファミリア/Familiar",
+      "name": "使い魔/Familiar",
       "description": "<p>ホイッスルウィング(コウモリ)</p>"
     },
     "Familiar": {
-      "name": "ファミリア",
+      "name": "使い魔",
       "description": "<p>ホイッスルウィング(コウモリ)</p>"
     },
     "8qZTg70ZjxEYRUO4": {
@@ -4071,7 +4071,7 @@
       "description": "<p>ゴギテスは3回〈ストライド〉を行う。〈ストライド〉1回につき1回、その〈ストライド〉中の任意の時点で、リーチ内のクリーチャーに対して脚による〈ストライク〉を行うことができる。各攻撃は異なるクリーチャーに対して行わなければならないが、すべての〈ストライク〉を行うまでマルチアタック・ペナルティを適用しない。〈ストライク〉のいずれかが大失敗に終わった場合、「Skittering Assault」は終了する。</p>"
     },
     "zK2aR7Xwx6ctIIxv": {
-      "name": "インプルーブド・グラブ"
+      "name": "掴み強化"
     },
     "zgELFho6zK0oOi9X": {
       "name": "毒素放出/Vent Toxins",
@@ -4429,7 +4429,7 @@
       "description": "<p>ドラカウシクスは回転し、周囲のクリーチャーを鞭打つ。ドラカウシクスは自身のリーチ内にいるすべてのクリーチャーに対して、触手による〈ストライク〉を行う。</p>"
     },
     "cL9t5xg0FTPCRpjR": {
-      "name": "インプルーブド・グラブ"
+      "name": "掴み強化"
     },
     "0N6DFWthPSW5OUpi": {
       "name": "コンセクレイトの儀式式文",

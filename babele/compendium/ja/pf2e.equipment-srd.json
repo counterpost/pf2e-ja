@@ -2452,7 +2452,7 @@
     },
     "Dinosaur Boots (Greater)": {
       "name": "ダイナソー・ブーツ（グレーター）/Dinosaur Boots (Greater)",
-      "description": "<p>これらの重いブーツの丈夫な鱗のある革は、強力な恐竜から取られたものであり、あなたにのろのろと動く獣のような安定性を与える。アクションや効果があなたに強制移動を行わせるたびに、@Check[flat|dc:17]判定を行え。成功すれば、その強制移動はあなたに影響を与えない。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">1</span>指令 (魔法、モーフ、変成)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは望むならば、1分の4レベルの@UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{エンラージ}の効果を受けて、超大型サイズまで成長する。その間、あなたは恐竜の特徴を獲得し、あなたの脚と足は恐竜のものに変身する。あなたは足による素手攻撃を獲得する。これはあなたの拳による素手攻撃と同じ統計値を持つが、ダメージダイスが1d4から1d8に増加している。持続時間中、あなたは@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.UNah0bxXxkcZjxO3]{踏みつけ} 3アクション活動を使用して、あなたより1サイズ小さいかそれ以下のクリーチャーを踏みつけることができる。これは各クリーチャーに、あなたの足による素手攻撃と同量のダメージを与え(通常の追加武器ダメージダイス、ボーナス、または追加ダメージを含む)、@Check[reflex|dc:27|basic|name:Dinosaur Trample|traits:magical,transmutation|showDC:all]セーヴを伴う。あなたは起動を〈解除〉できる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.eAkGNoob2HWHXNP7]{効果: 恐竜のブーツ}</p>"
+      "description": "<p>これらの重いブーツの丈夫な鱗のある革は、強力な恐竜から取られたものであり、あなたにのろのろと動く獣のような安定性を与える。アクションや効果があなたに強制移動を行わせるたびに、@Check[flat|dc:17]判定を行え。成功すれば、その強制移動はあなたに影響を与えない。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">1</span>指令 (魔法、モーフ、変成)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは望むならば、1分の4レベルの@UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{エンラージ}の効果を受けて、超大型サイズまで成長する。その間、あなたは恐竜の特徴を獲得し、あなたの脚と足は恐竜のものに変身する。あなたは足による素手攻撃を獲得する。これはあなたの拳による素手攻撃と同じ統計値を持つが、ダメージダイスが1d4から1d8に増加している。持続時間中、あなたは@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.UNah0bxXxkcZjxO3]{蹂躙} 3アクション活動を使用して、あなたより1サイズ小さいかそれ以下のクリーチャーを踏みつけることができる。これは各クリーチャーに、あなたの足による素手攻撃と同量のダメージを与え(通常の追加武器ダメージダイス、ボーナス、または追加ダメージを含む)、@Check[reflex|dc:27|basic|name:Dinosaur Trample|traits:magical,transmutation|showDC:all]セーヴを伴う。あなたは起動を〈解除〉できる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.eAkGNoob2HWHXNP7]{効果: 恐竜のブーツ}</p>"
     },
     "Leaper's Elixir (Greater)": {
       "name": "リーパーズ・エリクサー（グレーター）/Leaper's Elixir (Greater)",
@@ -17064,7 +17064,7 @@
     },
     "Dinosaur Boots": {
       "name": "ダイナソー・ブーツ/Dinosaur Boots",
-      "description": "<p>このヘヴィ・ブーツの頑丈な鱗状の革は強力な恐竜から取られたものであり、あなたに鈍重な獣のような安定性を与える。アクションや効果によってあなたが強制移動させられるたびに、@Check[flat|dc:17] 判定を行う。成功すれば、その強制移動はあなたに影響を及ぼさない。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">1</span> コマンド(魔法、モーフ、変成)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> あなたは巨大化し、@UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{エンラージ}の効果を1分の間得る。その間、あなたは恐竜の特徴を獲得し、あなたの脚と足が恐竜のものに変身する。あなたは自身の拳の素手攻撃と同じ統計値を持つ足の素手攻撃を得るが、そのダメージ・ダイスは1d4から1d6に増加する。持続時間中に1回だけ、@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.UNah0bxXxkcZjxO3]{Trample} 3アクション活動を使用して、あなたより1サイズ小さいかそれ以下のクリーチャーを踏みつけることができる。これは各クリーチャーに、あなたの足の素手攻撃と同じダメージ(通常の追加武器ダメージ・ダイス、ボーナス、その他の追加ダメージを含む)を与え、@Check[reflex|dc:27|basic|name:Dinosaur Trample|traits:magical,transmutation|showDC:all]セーヴを行わせる。あなたはこの起動を〈解除〉できる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.eAkGNoob2HWHXNP7]{効果: Dinosaur Boots}</p>"
+      "description": "<p>このヘヴィ・ブーツの頑丈な鱗状の革は強力な恐竜から取られたものであり、あなたに鈍重な獣のような安定性を与える。アクションや効果によってあなたが強制移動させられるたびに、@Check[flat|dc:17] 判定を行う。成功すれば、その強制移動はあなたに影響を及ぼさない。</p><hr /><p><strong>起動</strong> <span class=\"action-glyph\">1</span> コマンド(魔法、モーフ、変成)</p>\n<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong> あなたは巨大化し、@UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{エンラージ}の効果を1分の間得る。その間、あなたは恐竜の特徴を獲得し、あなたの脚と足が恐竜のものに変身する。あなたは自身の拳の素手攻撃と同じ統計値を持つ足の素手攻撃を得るが、そのダメージ・ダイスは1d4から1d6に増加する。持続時間中に1回だけ、@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.UNah0bxXxkcZjxO3]{蹂躙} 3アクション活動を使用して、あなたより1サイズ小さいかそれ以下のクリーチャーを踏みつけることができる。これは各クリーチャーに、あなたの足の素手攻撃と同じダメージ(通常の追加武器ダメージ・ダイス、ボーナス、その他の追加ダメージを含む)を与え、@Check[reflex|dc:27|basic|name:Dinosaur Trample|traits:magical,transmutation|showDC:all]セーヴを行わせる。あなたはこの起動を〈解除〉できる。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.eAkGNoob2HWHXNP7]{効果: Dinosaur Boots}</p>"
     },
     "Sash of Prowess": {
       "name": "サッシュ・オブ・プラウェス/Sash of Prowess",
@@ -19584,7 +19584,7 @@
     },
     "Wondrous Figurine, Stuffed Fox": {
       "name": "ワンドラス・フィギュリン・スタッフド・フォックス/Wondrous Figurine, Stuffed Fox",
-      "description": "<p>この小さなキツネのぬいぐるみは、房状のふわふわした耳とボタンの目を持っている。起動すると、それは@UUID[Compendium.pf2e.pathfinder-monster-core.Actor.ECe2DkOgSSqXHBqv]{Riding ドッグ}の統計値を持つ大きなキツネに変身する。そのキツネのぬいぐるみは、常にあなたを乗せることができる。乗っている間、あなたは騎乗時の反応セーヴへの－2のペナルティを受けず、その顎の〈ストライク〉は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.BCLvAx4Pz4MLa2pu]{Knockdown}を得る。キツネのぬいぐるみは1日1回起動でき、最大1時間その形態を維持する。</p>"
+      "description": "<p>この小さなキツネのぬいぐるみは、房状のふわふわした耳とボタンの目を持っている。起動すると、それは@UUID[Compendium.pf2e.pathfinder-monster-core.Actor.ECe2DkOgSSqXHBqv]{Riding ドッグ}の統計値を持つ大きなキツネに変身する。そのキツネのぬいぐるみは、常にあなたを乗せることができる。乗っている間、あなたは騎乗時の反応セーヴへの－2のペナルティを受けず、その顎の〈ストライク〉は@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.BCLvAx4Pz4MLa2pu]{ノックダウン}を得る。キツネのぬいぐるみは1日1回起動でき、最大1時間その形態を維持する。</p>"
     },
     "Blood-Drinker Blade": {
       "name": "ブラッドドリンカー・ブレード/Blood-Drinker Blade",

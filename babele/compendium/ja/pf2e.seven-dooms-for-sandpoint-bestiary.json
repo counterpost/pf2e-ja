@@ -584,7 +584,7 @@
           "description": "<p><strong>トリガー</strong> ゴブリンの味方が、このゴブリンに隣接する位置で移動アクションを終了する。</p>\n<hr />\n<p><strong>効果</strong> このゴブリンは@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{ステップ}を行う。</p>"
         },
         "zAINumOCEOZSUfFs": {
-          "name": "ファミリア/Familiar",
+          "name": "使い魔/Familiar",
           "description": "<p>ホイッスルウィング(コウモリ)</p>"
         },
         "8qZTg70ZjxEYRUO4": {
@@ -675,7 +675,7 @@
           "description": "<p>シャイタンは、自身の穴掘り移動速度の全速力で、土や石を通り抜けて@UUID[Compendium.pf2e.actionspf2e.Item.H6v1VgowHaKHnVlG]{〈穴掘り〉}を行うことができ、トンネルや通過した痕跡を残さない。</p>"
         },
         "pV2kE2wYrZjLyBiR": {
-          "name": "プッシュ・10フィート/Push 10 feet"
+          "name": "プッシュ（10フィート）/Push 10 feet"
         }
       },
       "blurb": "精鋭の女性のシャイターン",

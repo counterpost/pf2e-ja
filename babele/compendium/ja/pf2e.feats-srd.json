@@ -2453,7 +2453,7 @@
       ]
     },
     "Improved Familiar (Witch)": {
-      "name": "インプルーブド・ファミリア（ウィッチ）/Improved Familiar (Witch)",
+      "name": "使い魔強化（ウィッチ）/Improved Familiar (Witch)",
       "description": "<p>あなたは強力で異常な使い魔を引き寄せるのが容易だ。特定の使い魔を作るために必要な能力の数は、通常よりも2少ない。</p>",
       "source": "Pathfinder Advanced Player's Guide"
     },
@@ -7485,7 +7485,7 @@
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Improved Elemental Blast": {
-      "name": "インプルーブド・エレメンタル・ブラスト/Improved Elemental Blast",
+      "name": "エレメンタル・ブラスト強化/Improved Elemental Blast",
       "description": "<p>あなたの元素爆発の力が向上する。あなたの元素爆発のダメージは1つのダイス分増加する。</p>\n<hr />\n<p><strong>特別</strong>あなたは14レベルで改善されたエレメンタルブラストを2回目に行うことで、あなたのエレメンタルブラストを3つのダメージダイスに増加させ、18レベルで3回目を行うことであなたのエレメンタルブラストを4つのダメージダイスに増加させることができる。</p>",
       "source": "Pathfinder Rage of Elements",
       "prerequisites": [
@@ -7711,7 +7711,7 @@
       "source": "Pathfinder Player Core"
     },
     "Improved Familiar (Familiar Master)": {
-      "name": "インプルーブド・ファミリア（ファミリア・マスター）/Improved Familiar (Familiar Master)",
+      "name": "使い魔強化（ファミリア・マスター）/Improved Familiar (Familiar Master)",
       "description": "<p>あなたは強力で特異な使い魔を引き寄せることが容易だ。あなたの使い魔を特定の使い魔にするために必要な能力の数は通常より2つ少ない。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -7868,7 +7868,7 @@
       ]
     },
     "Improved Poison Weapon": {
-      "name": "インプルーブド・ポイズン・ウェポン/Improved Poison Weapon",
+      "name": "ポイズン・ウェポン強化/Improved Poison Weapon",
       "description": "<p>あなたは毒を最大限に有害な効果を発揮する方法で与える。あなたが@UUID[Compendium.pf2e.feats-srd.Item.ALbosSUygdq4T1Yk]{毒 武器}で簡単な毒を塗るとき、毒は1d4毒ダメージの代わりに@Damage[2d4[poison]]ダメージを与える。あなたはクリティカルに失敗した攻撃ロールで毒武器を使用した毒を無駄にしない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -8446,7 +8446,7 @@
       ]
     },
     "Improved Command Undead": {
-      "name": "インプルーブド・コマンド・アンデッド/Improved Command Undead",
+      "name": "コマンド・アンデッド強化/Improved Command Undead",
       "description": "<p>アンデッドクリーチャーはあなたの命令に抵抗することがほとんど不可能である。あなたは@UUID[Compendium.pf2e.feats-srd.Item.xYakFeP6olBsxpZN]{コマンド・アンデッド}を使用したとき、アンデッドがそのセーヴに成功したがクリティカル成功しなかった場合、対象は1ラウンドの間あなたの手下となる。アンデッドがセーヴに失敗した場合、対象は10分の間あなたの手下となる。クリティカル失敗した場合、対象は24時間の間あなたの手下となる。</p>",
       "source": "Pathfinder Core Rulebook",
       "prerequisites": [
@@ -8478,7 +8478,7 @@
     },
     "Reprepare Spell": {
       "name": "呪文の再準備/Reprepare Spell",
-      "description": "<p>あなたはいくつかの呪文スロットを何度も再利用する方法を発見した。あなたは10分を消費して、今日すでに唱えた呪文を再び準備することができ、その呪文スロットを再び得る。呪文は4級以下でなければならず、持続時間を持っていてはいけない。あなたはその日に既にその呪文を再準備している場合でも、この方法で呪文を再準備することができる。</p>\n<p>あなたが@UUID[Compendium.pf2e.classfeatures.Item.QzWXMCSGNfvvpYgF]{スペル・サブスティテューション}の秘儀を持っている場合、持続時間を持たない新しい呪文を消費したスロットに準備することができる。そのスロットには再び呪文の置き換えを使用できるが、そのスロットで持続時間を持たない呪文しか準備できない次に日課の準備を行うまで。</p>",
+      "description": "<p>あなたはいくつかの呪文スロットを何度も再利用する方法を発見した。あなたは10分を消費して、今日すでに唱えた呪文を再び準備することができ、その呪文スロットを再び得る。呪文は4級以下でなければならず、持続時間を持っていてはいけない。あなたはその日に既にその呪文を再準備している場合でも、この方法で呪文を再準備することができる。</p>\n<p>あなたが@UUID[Compendium.pf2e.classfeatures.Item.QzWXMCSGNfvvpYgF]{呪文差し替え}の秘儀を持っている場合、持続時間を持たない新しい呪文を消費したスロットに準備することができる。そのスロットには再び呪文の置き換えを使用できるが、そのスロットで持続時間を持たない呪文しか準備できない次に日課の準備を行うまで。</p>",
       "source": "Pathfinder Player Core"
     },
     "Pistol Twirl": {
@@ -10859,7 +10859,7 @@
       ]
     },
     "Familiar": {
-      "name": "ファミリア/Familiar",
+      "name": "使い魔/Familiar",
       "description": "<p><strong>メイガス、ソーサラー</strong>動物があなたに仕え、あなたの魔法を助ける。</p>\n<p><strong>ウィザード</strong>あなたに仕え、あなたの魔法を助けるクリーチャーと契約を結ぶ。</p>\n<p><strong>サイオマージスト</strong>隠秘の儀式に従い、神秘的な理論の断片を組み合わせるか、その他の方法で、あなたの超自然的の研究において常にあなたの仲間となるクリーチャーを呼び出した。</p>\n<hr />\n<p>あなたは使い魔を得る。</p>",
       "source": "Pathfinder Player Core"
     },
@@ -12564,7 +12564,7 @@
     },
     "Kineticist Dedication": {
       "name": "キネティシスト・デディケーション/Kineticist Dedication",
-      "description": "<p>あなたは、キネティシストクラスの訓練済みにおいて、インパルス攻撃ロールでDCになる。1つの要素を選び、それをあなたのキネティック要素にする(空気、土、火、金属、水、または木)。あなたはキネティックオーラと@UUID[Compendium.pf2e.actionspf2e.Item.g8QrV39TmZfkbXgE]{〈チャンネル・エレメンツ〉}アクションを得るが、そのアクションを取るときに@UUID[Compendium.pf2e.actionspf2e.Item.6lbr0Jnv0zMB5uGb]{エレメンタル・ブラスト}やスタンスインパルスを使用することはできない。あなたはエレメンタルブラストアクションを得る。あなたのエレメンタルブラストは、4レベルごとに追加のダメージダイスを自動的に得ることはなく、@UUID[Compendium.pf2e.feats-srd.Item.8VlGHrDKjlY69jFv]{インプルーブド・エレメンタル・ブラスト}特技を取得する必要がある。あなたは訓練済みにおいて《自然》となる；もし既に訓練済みで《自然》にいる場合は、代わりに他のあなたの選んだスキルで訓練済みとなる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.1kRGIb5LPPKypQpN]{Kineticist}</p>",
+      "description": "<p>あなたは、キネティシストクラスの訓練済みにおいて、インパルス攻撃ロールでDCになる。1つの要素を選び、それをあなたのキネティック要素にする(空気、土、火、金属、水、または木)。あなたはキネティックオーラと@UUID[Compendium.pf2e.actionspf2e.Item.g8QrV39TmZfkbXgE]{〈チャンネル・エレメンツ〉}アクションを得るが、そのアクションを取るときに@UUID[Compendium.pf2e.actionspf2e.Item.6lbr0Jnv0zMB5uGb]{エレメンタル・ブラスト}やスタンスインパルスを使用することはできない。あなたはエレメンタルブラストアクションを得る。あなたのエレメンタルブラストは、4レベルごとに追加のダメージダイスを自動的に得ることはなく、@UUID[Compendium.pf2e.feats-srd.Item.8VlGHrDKjlY69jFv]{エレメンタル・ブラスト強化}特技を取得する必要がある。あなたは訓練済みにおいて《自然》となる；もし既に訓練済みで《自然》にいる場合は、代わりに他のあなたの選んだスキルで訓練済みとなる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.1kRGIb5LPPKypQpN]{Kineticist}</p>",
       "source": "Pathfinder Rage of Elements",
       "prerequisites": [
         {
@@ -12794,7 +12794,7 @@
       ]
     },
     "Improved Twin Riposte (Ranger)": {
-      "name": "インプルーブド・ツイン・リポスト（レンジャー）/Improved Twin Riposte (Ranger)",
+      "name": "ツイン・リポスト強化（レンジャー）/Improved Twin Riposte (Ranger)",
       "description": "<p>各ターンの開始時、あなたはリアクションを追加で得る。それは@UUID[Compendium.pf2e.feats-srd.Item.GJIAecRq1bD2r8O0]{ツイン・リポスト}の実行にのみ使用できる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.GJIAecRq1bD2r8O0]{ツイン・リポスト}を使用することができ、@UUID[Compendium.pf2e.feats-srd.Item.Y8LHfkzGyOhPlUou]{ツイン・パリィ}の恩恵を受けていなくても構わない(ただし、各手に一つずつ近接武器を持っている必要がある)。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -17634,7 +17634,7 @@
       ]
     },
     "Improved Reflexive Shield": {
-      "name": "インプルーブド・リフレクシブ・シールド/Improved Reflexive Shield",
+      "name": "リフレクシブ・シールド強化/Improved Reflexive Shield",
       "description": "<p>あなたの盾は近くの味方を危険から救う助けとなる。あなたが反応セーヴの結果生じるダメージに対して@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{〈シールド・ブロック〉}を使用する際、同じ効果に対する反応セーヴによってダメージを受ける可能性のある隣接する味方も、そのダメージ減少の恩恵を得る。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
@@ -19118,7 +19118,7 @@
     },
     "Pushing Attack": {
       "name": "プッシング・アタック/Pushing Attack",
-      "description": "<p>あなたのエイドロンは敵を押しのける攻撃を持っている。エイドロンの押しのけトレイトを持つ未装備攻撃の1つを選べ。その攻撃に対して@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{Push}アクションを得る。</p>",
+      "description": "<p>あなたのエイドロンは敵を押しのける攻撃を持っている。エイドロンの押しのけトレイトを持つ未装備攻撃の1つを選べ。その攻撃に対して@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{プッシュ}アクションを得る。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Repelling Enforcer": {
@@ -20982,7 +20982,7 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Improved Command Corpse": {
-      "name": "インプルーブド・コマンド・コープス/Improved Command Corpse",
+      "name": "コマンド・コープス強化/Improved Command Corpse",
       "description": "<p>あなたが@UUID[Compendium.pf2e.feats-srd.Item.xYakFeP6olBsxpZN]{コマンド・アンデッド}を無知なアンデッドに使用した場合、そのアンデッドはセーヴを成功させたが、クリティカル成功しなかった場合、あなたの手下になるのは1ラウンドとなる。もしそのアンデッドがセーヴに失敗した場合、あなたの手下になるのは1時間となる。もしクリティカル失敗した場合、あなたの手下になるのは24時間となる。</p>",
       "source": "Pathfinder #181: Zombie Feast",
       "prerequisites": [
@@ -21222,7 +21222,7 @@
       "source": "Pathfinder Player Core"
     },
     "Improved Knockback": {
-      "name": "インプルーブド・ノックバック/Improved Knockback",
+      "name": "ノックバック強化/Improved Knockback",
       "description": "<p>クリーチャーを成功裏に@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}したとき、あなたは押し出せる距離と、そのターゲットを追いかけるために動ける距離を、成功した場合は5フィート、クリティカル成功した場合は10フィートだけ増加させる。もしあなたがターゲットを他のクリーチャーや障害物に押し出すと、両方は動きが妨げられた5フィートに対して@Damage[1d6[bludgeoning]]のダメージを受ける。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -23669,7 +23669,7 @@
       ]
     },
     "Improved Invigorating Elixir": {
-      "name": "インプルーブド・インビゴレーティング・エリクサー/Improved Invigorating Elixir",
+      "name": "インビゴレーティング・エリクサー強化/Improved Invigorating Elixir",
       "description": "<p>身体的活力または精神的活力を選択し、それにリストされた状態をあなたが作成する活力のエリクサーに選べる条件として追加する。打ち消し:</p>\n<p><strong>身体的活力</strong> @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{盲目}, @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{聴覚喪失}, @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{消耗}, @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}, @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}</p>\n<p><strong>精神的活力</strong> @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}, controlled, @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}, @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}, @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}, @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}.</p><hr /><p><strong>特別</strong>あなたはこの特技を二回選ぶことができ、別の種類の活力を選択し、そのオプションを選べるものに追加する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -24968,7 +24968,7 @@
     },
     "Weighty Impact": {
       "name": "ウェーティ・インパクト/Weighty Impact",
-      "description": "<p>あなたのアイドラコが敵を倒す。アイドラコのトリップトレイトを持つ無武器攻撃の1つを選択する。その攻撃のために、@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.BCLvAx4Pz4MLa2pu]{Knockdown}アクションを得る。 </p>",
+      "description": "<p>あなたのアイドラコが敵を倒す。アイドラコのトリップトレイトを持つ無武器攻撃の1つを選択する。その攻撃のために、@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.BCLvAx4Pz4MLa2pu]{ノックダウン}アクションを得る。 </p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Pact of Eldritch Eyes": {
@@ -26468,7 +26468,7 @@
           "value": "エレメンタリストデディケーション"
         },
         {
-          "value": "ファミリア"
+          "value": "使い魔"
         }
       ]
     },
@@ -28568,7 +28568,7 @@
       ]
     },
     "Improved Swift Banishment": {
-      "name": "インプルーブド・スウィフト・バニッシュメント/Improved Swift Banishment",
+      "name": "スウィフト・バニッシュメント強化/Improved Swift Banishment",
       "description": "<p>あなたは武器でクリーチャーを容易に追放する。あなたは、5級以上の呪文スロットが残っている限り、 @UUID[Compendium.pf2e.feats-srd.Item.t3unBu3PX6AO0uIW]{スウィフト・バニッシュメント}を使用でき、たとえあなたが@UUID[Compendium.pf2e.spells-srd.Item.bay4AfSu2iIozNNW]{バニッシュメント}を準備していなくても可能である。あなたは5級以上の準備された呪文を犠牲にしなければならず、あなたが作成する<em>バニッシュメント</em>効果はその呪文のランクに高位化される。対象はそのセーヴに対して-2の状況ペナルティを受ける、あなたが<em>バニッシュメント</em>のために追加費用を支払ったかのようである。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -28780,7 +28780,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Improved Dueling Riposte": {
-      "name": "インプルーブド・デュエリング・リポスト/Improved Dueling Riposte",
+      "name": "デュエリング・リポスト強化/Improved Dueling Riposte",
       "description": "<p>あなたの武器は翻弄し、わずかな隙間や弱点の瞬間に敵を打つ自身。あなたは@UUID[Compendium.pf2e.feats-srd.Item.mf2cdCRV8uowOMOm]{デュエリング・リポスト}を使うことができる、たとえ@UUID[Compendium.pf2e.feats-srd.Item.n7nQQR940OvFbw7T]{デュエリング・パリィ}の恩恵を受けていなくても(ただし、あなたは片手で武器を一つだけ持っている必要がある)。各ターンの最初に、あなたはデュエリング・リポストを行うためだけに使える追加のリアクションを得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -30104,11 +30104,11 @@
     },
     "Enhanced Familiar": {
       "name": "エンハンスト・ファミリア/Enhanced Familiar",
-      "description": "<p><strong>アニミスト</strong>あなたは同調した幻影の本質をより多く具現化することができ、それによってそれが住むためのより強力な器を作り、あなたを手助けする。</p>\n<p><strong>ドルイド</strong>あなたはあなたの親友に追加のプライマルエネルギーを注入し、その能力を高める。</p>\n<p><strong>メイガス</strong>あなたはあなたの親友に魔法のエネルギーをより多く注入する。</p>\n<p><strong>ソーサラー, ウィザード, ウィッチ</strong>あなたはあなたの親友に追加の魔法のエネルギーを注入する。</p>\n<p><strong>ソーサラー</strong>あなたは複数の魔法の系統からの最良のものを適用することによって、親友がエネルギーを蓄えるより効率的な方法を見つけた。</p><hr /><p>あなたは毎日4つの親友またはマスター能力を選択できる。二つの代わりに。</p><hr /><p><strong>特別</strong>ウィッチであるために得るボーナスの親友能力をこの数に加える。あなたのアーケインの主題が@UUID[Compendium.pf2e.classfeatures.Item.SNZ46g3u7U6x0XJj]{インプルーブド・ファミリア・アチューンメント}である場合、あなたの親友の基本的な親友能力の数は、追加の能力を加える前に4である。</p>",
+      "description": "<p><strong>アニミスト</strong>あなたは同調した幻影の本質をより多く具現化することができ、それによってそれが住むためのより強力な器を作り、あなたを手助けする。</p>\n<p><strong>ドルイド</strong>あなたはあなたの親友に追加のプライマルエネルギーを注入し、その能力を高める。</p>\n<p><strong>メイガス</strong>あなたはあなたの親友に魔法のエネルギーをより多く注入する。</p>\n<p><strong>ソーサラー, ウィザード, ウィッチ</strong>あなたはあなたの親友に追加の魔法のエネルギーを注入する。</p>\n<p><strong>ソーサラー</strong>あなたは複数の魔法の系統からの最良のものを適用することによって、親友がエネルギーを蓄えるより効率的な方法を見つけた。</p><hr /><p>あなたは毎日4つの親友またはマスター能力を選択できる。二つの代わりに。</p><hr /><p><strong>特別</strong>ウィッチであるために得るボーナスの親友能力をこの数に加える。あなたのアーケインの主題が@UUID[Compendium.pf2e.classfeatures.Item.SNZ46g3u7U6x0XJj]{使い魔との同調強化}である場合、あなたの親友の基本的な親友能力の数は、追加の能力を加える前に4である。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "ファミリア"
+          "value": "使い魔"
         }
       ]
     },
@@ -43822,7 +43822,7 @@
       ]
     },
     "Improved Signature Weapon": {
-      "name": "インプルーブド・シグネチャー・ウェポン/Improved Signature Weapon",
+      "name": "シグネチャー・ウェポン強化/Improved Signature Weapon",
       "description": "<p>あなたのシグネチャー武器は、アンデッドや精霊、その他のクリーチャーを倒すことで名高い神秘的な素材の特性を帯びる。あなたのシグネチャー武器は、耐性を克服する目的で、ドーンシルバー、ダスクウッド、およびピーチウッドとして扱われる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -45213,7 +45213,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Improved Twin Riposte (Fighter)": {
-      "name": "インプルーブド・ツイン・リポスト（ファイター）/Improved Twin Riposte (Fighter)",
+      "name": "ツイン・リポスト強化（ファイター）/Improved Twin Riposte (Fighter)",
       "description": "<p>あなたの武器はぼやけた動きで敵を防ぎ、噛みついて攻撃する。あなたは、@UUID[Compendium.pf2e.feats-srd.Item.GJIAecRq1bD2r8O0]{ツイン・リポスト}を使用できるが、@UUID[Compendium.pf2e.feats-srd.Item.Y8LHfkzGyOhPlUou]{ツイン・パリィ}を活かしていなくても構わない。あなたのターンの最初に、加えてリアクションを得る。これはツインリポストを行うためだけに使うことができる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -46290,7 +46290,7 @@
     },
     "Grasping Limbs": {
       "name": "グラスピング・リムズ/Grasping Limbs",
-      "description": "<p>あなたのエイドロンは敵をつかむ。タメのトレイトを持つエイドロンの非武装攻撃の1つを選ぶ。その非武装攻撃はその時に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Grab}アクションを得る。</p>",
+      "description": "<p>あなたのエイドロンは敵をつかむ。タメのトレイトを持つエイドロンの非武装攻撃の1つを選ぶ。その非武装攻撃はその時に@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{掴み}アクションを得る。</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Hook 'Em": {
@@ -48004,7 +48004,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Improved Elemental Bulwark": {
-      "name": "インプルーブド・エレメンタル・ブルワーク/Improved Elemental Bulwark",
+      "name": "エレメンタル・ブルワーク強化/Improved Elemental Bulwark",
       "description": "<p>あなたは耐性でエレメンタル Bulwarkから10を得る代わりに5を得る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
@@ -50639,7 +50639,7 @@
       ]
     },
     "Improved Hijack Undead": {
-      "name": "インプルーブド・ハイジャック・アンデッド/Improved Hijack Undead",
+      "name": "ハイジャック・アンデッド強化/Improved Hijack Undead",
       "description": "<p>アンダードのクリーチャーはあなたの命令に抵抗することがほとんど不可能である。あなたがアンダードをハイジャックする際、アンダードがセーヴに失敗すると、そのアンダードは10分の間あなたの手下になる。クリティカル失敗した場合、24時間の間あなたの手下になる。</p>",
       "source": "Pathfinder #180: The Smoking Gun",
       "prerequisites": [

@@ -418,7 +418,7 @@
       "description": "<p>あなたの激怒は強まり、戦闘の開始時に強力な一撃を繰り出せるようになる。あなたのバーバリアン・クラスのDCの習熟ランクがエキスパートに上昇する。さらに、あなたがQuick-Temperedを使用する際、最初のターンに行う最初の〈ストライク〉は、あなたの@UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{レイジ}ダメージに等しい追加ダメージを与える。</p>"
     },
     "Experimental Spellshaping": {
-      "name": "エクスペリメンタル・スペルシェイピング/Experimental Spellshaping",
+      "name": "実験的呪文変形/Experimental Spellshaping",
       "description": "<p>あなたのテーゼは、スペルシェイプの魔法的実践は、呪文を詠唱する際に変数やパラメータを変化させることでより効率的に実現できると仮定している。これは、かつて自分自身で呪文を構築しなければならなかった魔法使いたちを模倣するものである。これにより、あなたはさまざまなスペルシェイプ効果へ効率的にアクセスできるようになる。</p>\n<p>あなたは1レベルのスペルシェイプ・ウィザード・フィートを1つ選択して得る。4レベルから、日課の準備の間に、レベル要件があなたのレベルの半分以下であるスペルシェイプ・ウィザード・フィートを1つ選択して得ることができ、それは次の日課の準備まで使用できる。</p>"
     },
     "Sovereignty Epithet": {
@@ -1733,7 +1733,7 @@
       "description": "<p>あなたのアミュレットは継続的な守護を提供する。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.Or6RLXeoZkN8CLdi]{〈アミュレッツ・アビヤンス〉}を使用する際、あなたまたはあなたの味方は、トリガーとなった攻撃によって与えられたダメージのタイプを1つ選択し、そのダメージ種別に対する耐性5をあなたの次のターン開始時まで得る。15レベルになると、この持続する耐性は5から10に増加する。</p>"
     },
     "Improved Evasion": {
-      "name": "インプルーブド・イベージョン/Improved Evasion",
+      "name": "イベージョン強化/Improved Evasion",
       "description": "<p>危険を回避するあなたの能力は比類なきものだ。あなたの反応セーヴの習熟ランクはレジェンダリーになる。あなたが反応セーヴで大失敗をロールした際、代わりに失敗となる。ダメージを与える効果に対する反応セーヴで失敗をロールした際、あなたはそのダメージを半減する。</p>"
     },
     "School of Mentalism": {
@@ -1825,8 +1825,8 @@
       "description": "<p>轟く水の先陣は、川が山を切り裂き、恐るべき急流を生み出している場所で見られる。彼らはまた、川が海と合流して荒れ狂う砕波や予測不能な引き波を生み出す湾、不注意な船の船底を引き裂いて島を孤立させる海岸の岩礁、あるいは水が荒れ、安全な航行が困難になるその他の場所でも見られる。轟く水の先陣は混沌を助長し、すぐに退屈する。</p><hr /><p><strong>アパリションのスキル</strong>山《専門知識》, 川《専門知識》</p>\n<p><strong>アパリションの呪文</strong></p><ul><li><strong>キャントリップ</strong> @UUID[Compendium.pf2e.spells-srd.Item.zhDIiQlJmrd4UDNC]{奮起させる飛散}</li><li><strong>1レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.jfVCuOpzC6mUrf6f]{ハイドローリック・プッシュ}</li><li><strong>2レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.9XHmC2JgTUIQ1CCm]{ミスト}</li><li><strong>3レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.T4QKmtYPeCgYxVGe]{クラッシング・ウェイヴ}</li><li><strong>4レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.Y3G6Y6EDgCY0s3fq]{ハイドローリック・トレント}</li><li><strong>5レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.zfn5RqAdF63neqpP]{コントロール・ウォーター}</li><li><strong>6レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.K2bTUhucPyhXlzjw]{パーソナル・オーシャン}</li><li><strong>7レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.smiVuoFMSgY2FTOO]{ダンシング・ファウンテン}</li><li><strong>8レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.0fjz8qc9NfkmWmJZ]{ホワールプール}</li><li><strong>9レベル</strong> @UUID[Compendium.pf2e.spells-srd.Item.yLJROsQtyrPIKcDx]{ラスフル・ストーム}</li></ul><p><strong>ヴェッセル呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.ew4ToaTU3o8ahKio]{山を切り裂く川}</p>\n<p><strong>アバター</strong> <em>世界を分かつ川</em>移動速度50フィート, 水泳移動速度70フィート</p>\n<p><strong>近接</strong> <span class=\"action-glyph\">1</span>山を分かつもの(リーチ15フィート、バーサタイルS、水)、 <strong>ダメージ</strong> @Damage[(6d10+6)[bludgeoning]]</p>\n<p><strong>遠隔</strong> <span class=\"action-glyph\">1</span>海への激突(射程120フィート、バーサタイルP、水)、 <strong>ダメージ</strong> @Damage[(6d6+6)[bludgeoning]]</p>"
     },
     "Arcane Thesis": {
-      "name": "アーケイン・セシス",
-      "description": "<p>一人前のウィザードになるための研究の過程で、君は独自の魔法研究に関する論文を執筆した。君は論文研究のトピックに応じて特別な恩恵を得る。本書で提示されている秘術論文のトピックは以下の通りである。君の特定の論文には、おそらく<em>「呪文補間の手法と魔法の構成要素に関する新たな理解の創生について」</em>のような、はるかに長く専門的なタイトルがついているだろう。</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.89zWKD2CN7nRu2xp]{実験的呪文形成}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.SNZ46g3u7U6x0XJj]{使い魔の同調強化}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.OAcxS625AXSGrQIC]{呪文融合}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.QzWXMCSGNfvvpYgF]{呪文置換}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.Klb35AwlkNrq1gpB]{スタッフの結節点}</p>"
+      "name": "秘術論文",
+      "description": "<p>一人前のウィザードになるための研究の過程で、君は独自の魔法研究に関する論文を執筆した。君は論文研究のトピックに応じて特別な恩恵を得る。本書で提示されている秘術論文のトピックは以下の通りである。君の特定の論文には、おそらく<em>「呪文補間の手法と魔法の構成要素に関する新たな理解の創生について」</em>のような、はるかに長く専門的なタイトルがついているだろう。</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.89zWKD2CN7nRu2xp]{実験的呪文変形}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.SNZ46g3u7U6x0XJj]{使い魔との同調強化}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.OAcxS625AXSGrQIC]{呪文混合}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.QzWXMCSGNfvvpYgF]{呪文差し替え}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.Klb35AwlkNrq1gpB]{スタッフ・ネクサス}</p>"
     },
     "Sparkling Targe": {
       "name": "スパークリング・タージ/Sparkling Targe",
@@ -2090,7 +2090,7 @@
       "description": "<p>あなたは爆発やドラゴンのブレス、さらに悪いものから回避するために素早く動くことを学んだ。あなたの反応セーヴの習熟ランクはマスターに上昇する。あなたが反応セーヴで成功をロールしたとき、代わりに大成功となる。</p>"
     },
     "Spell Blending": {
-      "name": "スペル・ブレンディング",
+      "name": "呪文混合",
       "description": "<p>あなたは、呪文スロットとはすべての呪文発動の源となる根源的なエネルギーの簡略表現であると理論づけ、呪文スロットの階層をいじり、それらを組み合わせてより強力な呪文の燃料とする方法を見出した。</p>\n<p>あなたの日課の準備の間、同じ呪文ランクの呪文スロット2つを、その呪文スロットより最大2ランク高いボーナス呪文スロット1つと交換できる。あなたは利用可能な呪文スロットであればいくつでも交換できる。ボーナス呪文スロットは、あなたが通常発動できる呪文ランクのものでなければならず、各ボーナス呪文スロットは異なる呪文ランクでなければならない。また、任意の呪文スロットを2つの追加キャントリップと交換することもできるが、この方法で追加キャントリップのために一度に交換できる呪文スロットは1つまでである。</p>"
     },
     "Initiate Benefit (Tome)": {
@@ -2408,7 +2408,7 @@
       "description": "<p>あなたは、確実な命中精度と最初の射撃の完璧な配置に頼る射撃スタイルを実践している。あなたは隠れているか距離を保ち、戦いの渦中から離れ、敵に目に見えない死をもたらす。</p>\n<p><strong>スリンガーの装填</strong> @UUID[Compendium.pf2e.actionspf2e.Item.gBhWEy3ToxQeCLQm]{カバード・リロード}</p>\n<p><strong>偉業</strong> <em>初期</em> @UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{ワン・ショット、ワン・キル}; <em>上級</em> @UUID[Compendium.pf2e.actionspf2e.Item.vO0Y1dVjNfbDyT4S]{ヴァイタル・ショット}; <em>最上級</em> @UUID[Compendium.pf2e.actionspf2e.Item.O1iircZOOCo42r9Y]{ゴースト・ショット}</p>\n<p><strong>路のスキル</strong> 《隠密》</p>"
     },
     "Spell Substitution": {
-      "name": "スペル・サブスティテューション",
+      "name": "呪文差し替え",
       "description": "<p>あなたは呪文が一度準備されると　次の日課の準備まで　変更できないという事実を受け入れず、元々準備していた呪文を新しい呪文に置き換えることを可能にする近道を発見した。</p>\n<p>あなたは10分を費やすことで、準備済みの呪文スロットの1つを空にし、その場所にあなたの呪文帳から別の呪文を準備することができる。そのような入れ替えの最中に中断された場合、元の呪文は準備されたままであり、依然として発動することができる。あなたは後で呪文の入れ替えを再試行できるが、そのプロセスを最初からやり直さなければならない。</p>"
     },
     "Thief's Calling": {
@@ -2593,8 +2593,8 @@
       "description": "<p>あなたのエイドロンとの絆が強まり、各エイドロンの項目の「エイドロンの能力」に記述されている通り、そのタイプに応じてあなたのエイドロンに新しい能力へのアクセスを付与する。</p>"
     },
     "Improved Familiar Attunement": {
-      "name": "インプルーブド・ファミリア・アチューンメント/Improved Familiar Attunement",
-      "description": "<p>あなたは、ウィザードと使い魔を結びつける魔法を微調整することで、ほとんどのウィザードが現在使用している安全だが一般的な絆と比較して、神秘的なつながりを改善し、より大きな成果をもたらすことができると長年考えてきた。あなたは使い魔とそのような契約を結び、ほとんどのウィザードよりも多くの利益を使い魔から得ている。あなたはウィザードの特技である@UUID[Compendium.pf2e.feats-srd.Item.bcxIg7wi8ZAhvhOD]{ファミリア}を獲得する。あなたの使い魔は追加の能力を1つ獲得し、あなたが6レベル、12レベル、18レベルに達するたびに追加の能力を1つ獲得する。</p>\n<p>あなたと使い魔とのつながりは、あなたのアーケイン・ボンド・クラス特徴を変更し、あなたが所有するアイテムではなく、あなたの使い魔に魔力を蓄えるようにする。また、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.v82XtjAVN4ffgVVR]{〈ドレイン・ボンデッド・アイテム〉}の代わりに、Drain Familiarフリー・アクションを獲得する。Drain Familiarは、Drain Bondedアイテムの使用を許可する能力であればいつでも使用でき、アイテムの代わりに使い魔から魔力を引き出す点を除いて、機能は同一である。</p>"
+      "name": "使い魔との同調強化/Improved Familiar Attunement",
+      "description": "<p>あなたは、ウィザードと使い魔を結びつける魔法を微調整することで、ほとんどのウィザードが現在使用している安全だが一般的な絆と比較して、神秘的なつながりを改善し、より大きな成果をもたらすことができると長年考えてきた。あなたは使い魔とそのような契約を結び、ほとんどのウィザードよりも多くの利益を使い魔から得ている。あなたはウィザードの特技である@UUID[Compendium.pf2e.feats-srd.Item.bcxIg7wi8ZAhvhOD]{使い魔}を獲得する。あなたの使い魔は追加の能力を1つ獲得し、あなたが6レベル、12レベル、18レベルに達するたびに追加の能力を1つ獲得する。</p>\n<p>あなたと使い魔とのつながりは、あなたのアーケイン・ボンド・クラス特徴を変更し、あなたが所有するアイテムではなく、あなたの使い魔に魔力を蓄えるようにする。また、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.v82XtjAVN4ffgVVR]{〈ドレイン・ボンデッド・アイテム〉}の代わりに、Drain Familiarフリー・アクションを獲得する。Drain Familiarは、Drain Bondedアイテムの使用を許可する能力であればいつでも使用でき、アイテムの代わりに使い魔から魔力を引き出す点を除いて、機能は同一である。</p>"
     },
     "Witch Lessons": {
       "name": "ウィッチ・レッスンズ/Witch Lessons",
@@ -2919,7 +2919,7 @@
     },
     "War Magic": {
       "name": "ウォー・マジック/War Magic",
-      "description": "<p>あなたの研究は、戦術の基礎とともに戦場での魔法の使用に焦点を当てている。飛来する矢を逸らすための頑丈なブレストプレートを身につけ、あなたは自信を持って呪文を使い、戦況を覆す。もしあなたがこのクラス・アーキタイプを選択するなら、2レベルのクラス特技として@UUID[Compendium.pf2e.feats-srd.Item.OlGO7dCLaghUXlQb]{ウォー・メイジ・デディケーション}を選択しなければならない。</p>\n<p><strong>前提条件：</strong>あなたはウィザードでなければならない。</p>\n<p><strong>ウォー・メイジの調整：</strong>あなたは軽装鎧と中装鎧に訓練済みとなる。11レベルで、あなたは軽装鎧と中装鎧、および鎧なし防御の熟練度がエキスパートとなる。</p>\n<p>あなたは1レベルで@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{〈シールド・ブロック〉}汎用特技を得る。</p>\n<p>あなたは1レベルでウォー・マジックのクラス特徴を得る。</p>\n<p>あなたは自身の秘術の学派として@UUID[Compendium.pf2e.classfeatures.Item.E4GZDMn4DYk6qSEV]{戦闘魔法の学派}を選択しなければならない。</p>\n<p>あなたは軍用武器に習熟しており、熟練度の目的においてはそれらを単純武器として扱う。あなたは@UUID[Compendium.pf2e.classfeatures.Item.au0lwQ1nAcNQwcGh]{アーケイン・ボンド}または@UUID[Compendium.pf2e.classfeatures.Item.M89l9FOnjHe63wD7]{アーケイン・セシス}のクラス特徴を得ない。</p>\n<p>あなたは13レベルで@UUID[Compendium.pf2e.classfeatures.Item.gU7epgcPSm0TD1UK]{ディフェンシヴ・ローブズ}の特徴を得ない。</p>\n<p><strong>ウォー・メイジ：</strong>あなたのターンの開始時に1ラウンドにつき1回使用できるフリー・アクションとして、あなたは現在記憶している呪文を、置き換えた呪文と同じレベルに高められた@UUID[Compendium.pf2e.spells-srd.Item.Gb7SeieEvd0pL2Eh]{シュア・ストライク}と交換できる。通常通り、あなたは手に武器を装備したままほとんどの呪文を発動できる。あなたは呪文の書を研究する代わりに、作戦計画、部隊移動の地図、そして進行中の紛争に関する戦地からの報告を研究することで〈再フォーカス〉できる。</p>"
+      "description": "<p>あなたの研究は、戦術の基礎とともに戦場での魔法の使用に焦点を当てている。飛来する矢を逸らすための頑丈なブレストプレートを身につけ、あなたは自信を持って呪文を使い、戦況を覆す。もしあなたがこのクラス・アーキタイプを選択するなら、2レベルのクラス特技として@UUID[Compendium.pf2e.feats-srd.Item.OlGO7dCLaghUXlQb]{ウォー・メイジ・デディケーション}を選択しなければならない。</p>\n<p><strong>前提条件：</strong>あなたはウィザードでなければならない。</p>\n<p><strong>ウォー・メイジの調整：</strong>あなたは軽装鎧と中装鎧に訓練済みとなる。11レベルで、あなたは軽装鎧と中装鎧、および鎧なし防御の熟練度がエキスパートとなる。</p>\n<p>あなたは1レベルで@UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{〈シールド・ブロック〉}汎用特技を得る。</p>\n<p>あなたは1レベルでウォー・マジックのクラス特徴を得る。</p>\n<p>あなたは自身の秘術の学派として@UUID[Compendium.pf2e.classfeatures.Item.E4GZDMn4DYk6qSEV]{戦闘魔法の学派}を選択しなければならない。</p>\n<p>あなたは軍用武器に習熟しており、熟練度の目的においてはそれらを単純武器として扱う。あなたは@UUID[Compendium.pf2e.classfeatures.Item.au0lwQ1nAcNQwcGh]{アーケイン・ボンド}または@UUID[Compendium.pf2e.classfeatures.Item.M89l9FOnjHe63wD7]{秘術論文}のクラス特徴を得ない。</p>\n<p>あなたは13レベルで@UUID[Compendium.pf2e.classfeatures.Item.gU7epgcPSm0TD1UK]{ディフェンシヴ・ローブズ}の特徴を得ない。</p>\n<p><strong>ウォー・メイジ：</strong>あなたのターンの開始時に1ラウンドにつき1回使用できるフリー・アクションとして、あなたは現在記憶している呪文を、置き換えた呪文と同じレベルに高められた@UUID[Compendium.pf2e.spells-srd.Item.Gb7SeieEvd0pL2Eh]{シュア・ストライク}と交換できる。通常通り、あなたは手に武器を装備したままほとんどの呪文を発動できる。あなたは呪文の書を研究する代わりに、作戦計画、部隊移動の地図、そして進行中の紛争に関する戦地からの報告を研究することで〈再フォーカス〉できる。</p>"
     },
     "Devastator": {
       "name": "デバステーター/Devastator",
@@ -2982,7 +2982,7 @@
       "description": "<p>あなたの機会攻撃は特に有害である。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.bp0Up04x3dzGK5bB]{弱体化させる〈ストライク〉}を使用する際、2つの弱体化を同時に適用できる。片方を取り除くと両方が取り除かれる。</p>"
     },
     "Improved Flexibility": {
-      "name": "インプルーブド・フレキシビリティ/Improved Flexibility",
+      "name": "フレキシビリティ強化/Improved Flexibility",
       "description": "<p>あなたの豊富な経験は、日々の課題に適応するさらなる能力をあなたに与える。あなたが戦闘の柔軟性を使用する際、ファイターの特技を1つではなく2つ獲得できる。最初の特技は依然として8レベル以下でなければならないが、2つ目の特技は14レベルまでのものでよく、最初の特技を2つ目の特技の前提条件を満たすために使用できる。あなたはすべての特技の前提条件を満たさなければならない。</p>"
     },
     "Alchemy": {
