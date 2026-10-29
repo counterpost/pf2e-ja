@@ -4819,7 +4819,7 @@
         },
         "m4v6mQ47uFgY7Am8": {
           "name": "コイルズ・オブ・ナレッジ/Coils of Knowledge",
-          "description": "<p>ナーガの拘束は物理的なものというより霊的なものである。スマラナヴァの尾で攻撃を受けたクリーチャーは、@Check[will|dc:25]セーヴィング・スローに成功しなければ、その尾によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となる。この状態は、そのクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するか、ナーガが〈扱う〉アクションで解放するか、ナーガが死亡するまで続く。</p>\n<p>捕らえられたクリーチャーは〈エスケープ〉に–4の状況ペナルティを受けるが、通常の選択肢の代わりに《神秘学》または《宗教》の判定を行って〈エスケープ〉を行うことを選択できる。その場合、このペナルティは受けない。</p>"
+          "description": "<p>ナーガの拘束は物理的なものというより霊的なものである。スマラナヴァの尾で攻撃を受けたクリーチャーは、@Check[will|dc:25]セーヴィング・スローに成功しなければ、その尾によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となる。この状態は、そのクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するか、ナーガが〈扱う〉アクションで解放するか、ナーガが死亡するまで続く。</p>\n<p>捕らえられたクリーチャーは〈エスケープ〉に–4の状況ペナルティを受けるが、通常の選択肢の代わりに《オカルト学》または《宗教》の判定を行って〈エスケープ〉を行うことを選択できる。その場合、このペナルティは受けない。</p>"
         },
         "J96Da1WLPtixjqAJ": {
           "name": "絞め付け",
@@ -9284,7 +9284,7 @@
         },
         "J3DAGpBG4ZrskPZr": {
           "name": "コイルズ・オブ・ナレッジ",
-          "description": "<p>ヴィチャラムニの締め付けは物理的というより霊的なものである。ヴィチャラムニの尾による攻撃を受けたクリーチャーは、@Check[will|dc:29]セーヴに成功しなければならず、失敗するとその尾によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となる。この状態は、そのクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するか、ナーガが〈扱う〉アクションで解放するか、ナーガが死亡するまで続く。</p>\n<p>捕らえられたクリーチャーは〈エスケープ〉に–4の状況ペナルティを受けるが、通常の選択肢の代わりに《神秘学》または《宗教》の判定を行って〈エスケープ〉することを選択できる。その場合、このペナルティは受けない。</p>"
+          "description": "<p>ヴィチャラムニの締め付けは物理的というより霊的なものである。ヴィチャラムニの尾による攻撃を受けたクリーチャーは、@Check[will|dc:29]セーヴに成功しなければならず、失敗するとその尾によって@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}状態となる。この状態は、そのクリーチャーが@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するか、ナーガが〈扱う〉アクションで解放するか、ナーガが死亡するまで続く。</p>\n<p>捕らえられたクリーチャーは〈エスケープ〉に–4の状況ペナルティを受けるが、通常の選択肢の代わりに《オカルト学》または《宗教》の判定を行って〈エスケープ〉することを選択できる。その場合、このペナルティは受けない。</p>"
         },
         "xvGau5hX8027JRb0": {
           "name": "グレーター・コンストリクト/Greater Constrict",

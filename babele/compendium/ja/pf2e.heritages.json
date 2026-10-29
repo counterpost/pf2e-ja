@@ -108,7 +108,7 @@
     },
     "Liminal Catfolk": {
       "name": "境界のキャットフォーク/Liminal Catfolk",
-      "description": "<p>あなたは世界の遠い隅々、次元間の境界が薄くなる場所への親近感を受け継いでいる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{〈ディテクト・マジック〉}キャントリップを、心術の生来呪文として望むままに発動できる。キャントリップはあなたのレベルの半分(端数切り上げ)に高められる。また、あなたは「宇宙」以外の次元界を起源とするクリーチャーについて@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}ための《神秘学》判定に状況ボーナス+1を得る。</p>"
+      "description": "<p>あなたは世界の遠い隅々、次元間の境界が薄くなる場所への親近感を受け継いでいる。あなたは@UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{〈ディテクト・マジック〉}キャントリップを、心術の生来呪文として望むままに発動できる。キャントリップはあなたのレベルの半分(端数切り上げ)に高められる。また、あなたは「宇宙」以外の次元界を起源とするクリーチャーについて@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}ための《オカルト学》判定に状況ボーナス+1を得る。</p>"
     },
     "Coral Athamaru": {
       "name": "コーラル・アサマル/Coral Athamaru",
@@ -623,7 +623,7 @@
     },
     "Surgewise Fleshwarp": {
       "name": "サージワイズ・フレッシュワープ/Surgewise Fleshwarp",
-      "description": "<p>あなたの体の繊毛のうねりは魔力の湧き出す場所に極めて敏感で、秘儀エネルギーへの洞察で震え、振動で秘密の存在を察知する。あなたは《神秘学》で訓練済みの熟練度ランクを得る。もしあなたが《神秘学》で訓練済みであるなら、代わりに任意の他のスキルで訓練済みになる。また、@UUID[Compendium.pf2e.feats-srd.Item.hDGosy2ZTwnyctEP]{オディティ・アイデンティフィケーション}スキル特技を得る。</p>"
+      "description": "<p>あなたの体の繊毛のうねりは魔力の湧き出す場所に極めて敏感で、秘儀エネルギーへの洞察で震え、振動で秘密の存在を察知する。あなたは《オカルト学》で訓練済みの熟練度ランクを得る。もしあなたが《オカルト学》で訓練済みであるなら、代わりに任意の他のスキルで訓練済みになる。また、@UUID[Compendium.pf2e.feats-srd.Item.hDGosy2ZTwnyctEP]{オディティ・アイデンティフィケーション}スキル特技を得る。</p>"
     },
     "Born of Celestial": {
       "name": "ボーン・オブ・セレスティアル/Born of Celestial",
@@ -695,7 +695,7 @@
     },
     "Seer Elf": {
       "name": "先見のエルフ/Seer Elf",
-      "description": "<p>あなたは魔法的な現象を探知し理解する生来の能力を持っている。あなたは@UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{〈ディテクト・マジック〉}キャントリップを、アーケインの生来呪文として、望む時にいつでも発動できる。キャントリップは、あなたのレベルの半分(端数切り上げ)に等しい呪文ランクまで高められる。</p>\n<p>加えて、あなたは魔法的な性質を持つ@UUID[Compendium.pf2e.actionspf2e.Item.eReSHVEPCsdkSL4G]{〈魔法の識別〉}および@UUID[Compendium.pf2e.actionspf2e.Item.d9gbpiQjChYDYA2L]{〈解読する〉}の判定に+1の状況ボーナスを得る。これらのスキルアクションは通常、《秘術》、《自然》、《神秘学》、または《宗教》スキルを使用する。</p>"
+      "description": "<p>あなたは魔法的な現象を探知し理解する生来の能力を持っている。あなたは@UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{〈ディテクト・マジック〉}キャントリップを、アーケインの生来呪文として、望む時にいつでも発動できる。キャントリップは、あなたのレベルの半分(端数切り上げ)に等しい呪文ランクまで高められる。</p>\n<p>加えて、あなたは魔法的な性質を持つ@UUID[Compendium.pf2e.actionspf2e.Item.eReSHVEPCsdkSL4G]{〈魔法の識別〉}および@UUID[Compendium.pf2e.actionspf2e.Item.d9gbpiQjChYDYA2L]{〈解読する〉}の判定に+1の状況ボーナスを得る。これらのスキルアクションは通常、《秘術》、《自然》、《オカルト学》、または《宗教》スキルを使用する。</p>"
     },
     "Glacier Cavern Minotaur": {
       "name": "氷河洞窟のミノタウロス/Glacier Cavern Minotaur",
