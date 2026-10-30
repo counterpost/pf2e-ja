@@ -823,7 +823,7 @@
         "DeathVoid": "即死および虚無効果に対する{item}",
         "Fear": "恐怖に対する{item}"
       },
-      "NoSanctification": "聖別なし",
+      "NoSanctification": "神聖化なし",
       "PreviousAction": {
         "ClimbLeapStride": "あなたの直前の生命が〈登攀〉、〈跳躍〉、または〈ストライド〉であった"
       },
@@ -1297,8 +1297,8 @@
       },
       "Chimera": {
         "DivineHead": {
-          "Label": "ドラゴンの頭部の聖別",
-          "NoSanctification": "聖別なし"
+          "Label": "ドラゴンの頭部の神聖化",
+          "NoSanctification": "神聖化なし"
         },
         "DragonHead": "ドラゴンの頭部の魔法の系統",
         "PrimalHead": "ドラゴンのブレスのエネルギー種別"
@@ -1317,7 +1317,7 @@
       },
       "ClayEffigy": {
         "SacredArt": {
-          "NoSanctification": "聖別なし"
+          "NoSanctification": "神聖化なし"
         }
       },
       "ClockworkCreature": {
@@ -1522,7 +1522,7 @@
           "Name": "信仰の器"
         },
         "Sanctification": {
-          "Name": "聖別"
+          "Name": "神聖化"
         }
       },
       "Dragon": {
@@ -7596,7 +7596,7 @@
         "Rank": "階級を選択する。",
         "Resistance": "耐性を選択する。",
         "Rune": "ルーンを選択する。",
-        "Sanctification": "聖別を選択する。",
+        "Sanctification": "神聖化を選択する。",
         "SavingThrow": "セーヴィング・スローを選択する。",
         "SecondAbility": "2つ目の能力を選択する。",
         "SecondImplement": "2つ目の器物を選択する。",
