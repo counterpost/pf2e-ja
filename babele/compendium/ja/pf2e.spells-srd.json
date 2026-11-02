@@ -4039,7 +4039,7 @@
       "description": "<p>あなたは聖なるエネルギーを呼び起こし、@UUID[Compendium.pf2e.equipment-srd.Item.z9T4c1hXwOotsMCp]{ホーリー・ウォーター}の小瓶を増幅して驚異的な距離に投げる。それは巨大な爆発を起こし、水の奔流で範囲内の生物に3d6の殴打ダメージを与える。その水は範囲内で不浄のトレイトを持つ生物に追加で@Damage[((@item.level*2)-2)d6[spirit]]のダメージを与える。</p><hr /><p><strong>高位化 (+1)</strong>殴打ダメージが1d6増加し、追加のスピリットダメージが2d6増加する。</p>",
       "range": "500フィート",
       "time": "2",
-      "requirements": "ホーリー・ウォーター1バイアル"
+      "requirements": "ホーリー・ウォーターの小瓶1本"
     },
     "Heartbond": {
       "name": "ハートボンド/Heartbond",

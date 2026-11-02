@@ -323,7 +323,7 @@
     },
     "Alchemical Discoveries": {
       "name": "アルケミカル・ディスカバリーズ/Alchemical Discoveries",
-      "description": "<p>あなたはラボでの追加の時間を費やして錬金術についての知識を改善した。レベルアップのたびに錬金術アイテムの公式を二つ学ぶことができ、これは依然としてエリクサーまたは道具でなければならない。あなたが《製作》の専門家である場合、作成できる多目的バイアルの数は一日一つ増加し、あなたが達人であれば二つ、伝説であれば三つになる。</p>",
+      "description": "<p>あなたはラボでの追加の時間を費やして錬金術についての知識を改善した。レベルアップのたびに錬金術アイテムの公式を二つ学ぶことができ、これは依然としてエリクサーまたは道具でなければならない。あなたが《製作》の専門家である場合、作成できる汎用小瓶の数は一日一つ増加し、あなたが達人であれば二つ、伝説であれば三つになる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -1746,7 +1746,7 @@
     },
     "Additional Servings": {
       "name": "アディショナル・サービングズ/Additional Servings",
-      "description": "<p>あなたの日ごとの多用途バイアルの数が5に増加する。</p><hr /><p><strong>特別</strong> 12レベル以上で、この特技を二回選択すると、あなたの日ごとの多用途バイアルの数が6に増加する。18レベル以上で、この特技を三回選択すると、あなたの日ごとの多用途バイアルの数が7に増加する。</p>",
+      "description": "<p>あなたの日ごとの汎用小瓶の数が5に増加する。</p><hr /><p><strong>特別</strong> 12レベル以上で、この特技を二回選択すると、あなたの日ごとの汎用小瓶の数が6に増加する。18レベル以上で、この特技を三回選択すると、あなたの日ごとの汎用小瓶の数が7に増加する。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -7793,7 +7793,7 @@
     },
     "Wandering Chef Dedication": {
       "name": "ワンダリング・シェフ・デディケーション/Wandering Chef Dedication",
-      "description": "<p>貴族の厨房であれ質素な家庭であれ、あなたは訓練済みしており、美味しい料理を作る方法や、荒野や都市環境から食材を調達する方法を知っている。あなたは《製作》を訓練済みする。もし既に《製作》を訓練済みしていたなら、代わりに任意のスキルを1つ訓練済みする。あなたは錬金術の食品を製作する際、錬金術師の道具の代わりに調理器具を使用できる。ダウンタイム・アクティビティである@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{〈生存〉}を行う際、あなたは《生存術》の代わりに《製作》またはクッキング《専門知識》を使用でき、失敗の出目を出した場合でも成功として扱う。</p>\n<p>あなたはクイック錬金術の@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Jkl5KOZih7MoMqAJ#quick-alchemy-benefits]{恩恵}を得るが、消耗品を作成するためにしか使用できず、その消耗品は錬金術の食品でなければならない。@UUID[Compendium.pf2e.feats-srd.Item.is3Oz9wt11lNq62K]{錬金術 《製作》}で選択するアイテムはすべて錬金術の食品でなければならないが、それらは1レベルのみではなく、1レベルまたは2レベルのアイテムであってもよい。</p>\n<p>あなたは日課の準備の間に最大4つのバーサタイル・バイアルを作成する。通常、遊行の料理人のバーサタイル・バイアルは、採集した食材の包みの形をとる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.kWN0nFzOq3VvONC5]{Wandering Chef}</p>",
+      "description": "<p>貴族の厨房であれ質素な家庭であれ、あなたは訓練済みしており、美味しい料理を作る方法や、荒野や都市環境から食材を調達する方法を知っている。あなたは《製作》を訓練済みする。もし既に《製作》を訓練済みしていたなら、代わりに任意のスキルを1つ訓練済みする。あなたは錬金術の食品を製作する際、錬金術師の道具の代わりに調理器具を使用できる。ダウンタイム・アクティビティである@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{〈生存〉}を行う際、あなたは《生存術》の代わりに《製作》またはクッキング《専門知識》を使用でき、失敗の出目を出した場合でも成功として扱う。</p>\n<p>あなたはクイック錬金術の@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Jkl5KOZih7MoMqAJ#quick-alchemy-benefits]{恩恵}を得るが、消耗品を作成するためにしか使用できず、その消耗品は錬金術の食品でなければならない。@UUID[Compendium.pf2e.feats-srd.Item.is3Oz9wt11lNq62K]{錬金術 《製作》}で選択するアイテムはすべて錬金術の食品でなければならないが、それらは1レベルのみではなく、1レベルまたは2レベルのアイテムであってもよい。</p>\n<p>あなたは日課の準備の間に最大4つの汎用小瓶を作成する。通常、遊行の料理人の汎用小瓶は、採集した食材の包みの形をとる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.kWN0nFzOq3VvONC5]{Wandering Chef}</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Spiritual Strike": {
@@ -10659,7 +10659,7 @@
     },
     "Soothing Vials": {
       "name": "スージング・バイアルズ/Soothing Vials",
-      "description": "<p>あなたの多用途のバイアルに含まれる治療薬は、患者の心を落ち着けるのにも役立つ。あなたの多用途のバイアルから精神効果を受けた生きているクリーチャーがヒット・ポイントを回復すると、即座に新しい意志セーヴィング・スローを行うことができ、自分の選択する精神効果を終了させる。対象は、セーヴィング・スローに対して+1のアイテム・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.fqK8TsXmHr1JiM5e]{効果: Soothing Vials}</p>",
+      "description": "<p>あなたの汎用小瓶に含まれる治療薬は、患者の心を落ち着けるのにも役立つ。あなたの汎用小瓶から精神効果を受けた生きているクリーチャーがヒット・ポイントを回復すると、即座に新しい意志セーヴィング・スローを行うことができ、自分の選択する精神効果を終了させる。対象は、セーヴィング・スローに対して+1のアイテム・ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.fqK8TsXmHr1JiM5e]{効果: Soothing Vials}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Hypnotic Lure": {
@@ -12941,7 +12941,7 @@
     },
     "Alchemist Dedication": {
       "name": "アルケミスト・デディケーション/Alchemist Dedication",
-      "description": "<p>あなたは自分の錬金術の興味を実践に移す。あなたは錬金術爆弾、錬金術師クラスのDC、および《製作》において訓練済みになる。もしあなたがすでに訓練済みであった場合、《製作》においてあなたは代わりに選択したスキルで訓練済みになる。</p>\n<p>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Jkl5KOZih7MoMqAJ]{Quick Alchemy}恩恵を得て、あなたの日課の準備の間に最大4つの多用途バイアルを作成する。あなたは錬金術《製作》から得たものに加えて、4つの追加の一般的な錬金術アイテムの公式をあなたの公式帳に追加する。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Ux0sa5SUBu616i5k]{アルケミスト}</p>",
+      "description": "<p>あなたは自分の錬金術の興味を実践に移す。あなたは錬金術爆弾、錬金術師クラスのDC、および《製作》において訓練済みになる。もしあなたがすでに訓練済みであった場合、《製作》においてあなたは代わりに選択したスキルで訓練済みになる。</p>\n<p>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Jkl5KOZih7MoMqAJ]{Quick Alchemy}恩恵を得て、あなたの日課の準備の間に最大4つの汎用小瓶を作成する。あなたは錬金術《製作》から得たものに加えて、4つの追加の一般的な錬金術アイテムの公式をあなたの公式帳に追加する。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Ux0sa5SUBu616i5k]{アルケミスト}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -14271,7 +14271,7 @@
     },
     "Expert Fireworks Crafter": {
       "name": "エキスパート・ファイアワークス・クラフター/Expert Fireworks Crafter",
-      "description": "<p>あなたは花火を作るのが特に得意で、他の方法よりも多くの花火を作ることができる。あなたの1日あたりの多用途バイアルの数は5に増加する。</p>",
+      "description": "<p>あなたは花火を作るのが特に得意で、他の方法よりも多くの花火を作ることができる。あなたの1日あたりの汎用小瓶の数は5に増加する。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -19735,7 +19735,7 @@
     },
     "Mutant Physique": {
       "name": "ミュータント・フィジーク/Mutant Physique",
-      "description": "<p>身体の形状に影響を与える基本的な変異薬は、あなたの内に潜む獣を引き出し、ほぼ無敵にし、またはあなたの身体をより弾力的にすることができる。リストにある変異薬の影響を受けている間、あなたは追加の恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.IQK9N2mEOyAj3iWU]{ベスティアル・ミュータジェン}</strong>あなたは変異薬のアイテム・ボーナスをあなたの《威圧》判定に得る。さらに、あなたの爪と顎のダメージダイスのサイズを一段階増加させ、致死的d10トレイトを得る。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH]{ジャガーノート・ミュータジェン}</strong>あなたは耐性を全ての物理ダメージに対してレベルの半分だけ得る。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.5MKBwpE401uz4kNN]{クイックシルバー・ミュータジェン}</strong>あなたは脚を伸ばし、10フィートまで〔ステップ〕することができ、体をつぶすことができるので、すき間を通り抜けることができ、サイズが一つ小さいかのように扱われ、圧迫の効果も受ける。</p></li></ul><hr /><p><strong>特別</strong>あなたが複数の変異薬の効果を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{グレーター・フィールド・ディスカバリー(ミュータジェニスト)}を持っている場合)、あなたは全ての関連する恩恵を得る。</p>",
+      "description": "<p>身体の形状に影響を与える基本的な変異薬は、あなたの内に潜む獣を引き出し、ほぼ無敵にし、またはあなたの身体をより弾力的にすることができる。リストにある変異薬の影響を受けている間、あなたは追加の恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.IQK9N2mEOyAj3iWU]{ベスティアル・ミュータジェン}</strong>あなたは変異薬のアイテム・ボーナスをあなたの《威圧》判定に得る。さらに、あなたの爪と顎のダメージダイスのサイズを一段階増加させ、致死的d10トレイトを得る。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH]{ジャガーノート・ミュータジェン}</strong>あなたは耐性を全ての物理ダメージに対してレベルの半分だけ得る。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.5MKBwpE401uz4kNN]{クイックシルバー・ミュータジェン}</strong>あなたは脚を伸ばし、10フィートまで〔ステップ〕することができ、体をつぶすことができるので、すき間を通り抜けることができ、サイズが一つ小さいかのように扱われ、圧迫の効果も受ける。</p></li></ul><hr /><p><strong>特別</strong>あなたが複数の変異薬の効果を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{研究分野の大発見(ミュータジェニスト)}を持っている場合)、あなたは全ての関連する恩恵を得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Thaumaturge Dedication": {
@@ -20379,7 +20379,7 @@
     },
     "Improvise Admixture": {
       "name": "インプロバイズ・アドミクスチャー/Improvise Admixture",
-      "description": "<p><strong>使用制限</strong>1日に1回</p>\n<p><strong>必要条件</strong>あなたは最大の汎用バイアルの数より少なく持っており、錬金術師のツールキットを持っているか着用している。</p><hr /><p>あなたは錬金術師のツールキットに残された材料からいくつかの汎用バイアルをその場で生産するためにスカベンジする。@Check[crafting|dc:@self.level]判定の判定を行う。DCは通常、あなたのレベルに対する標準難易度のDCだが、GMは状況に応じて別のDCを割り当てることができる。あなたが取り戻すバイアルの数は、あなたの判定の結果による(最大まで)。</p><hr /><p><strong>クリティカル成功</strong>あなたは3つの汎用バイアルを取り戻す。</p>\n<p><strong>成功</strong>あなたは2つの汎用バイアルを取り戻す。</p>\n<p><strong>失敗</strong>あなたは1つの汎用バイアルを取り戻す。</p>\n<p><strong>クリティカル失敗</strong>あなたは汎用バイアルを取り戻さない。</p>",
+      "description": "<p><strong>使用制限</strong>1日に1回</p>\n<p><strong>必要条件</strong>あなたは最大の汎用小瓶の数より少なく持っており、錬金術師のツールキットを持っているか着用している。</p><hr /><p>あなたは錬金術師のツールキットに残された材料からいくつかの汎用小瓶をその場で生産するためにスカベンジする。@Check[crafting|dc:@self.level]判定の判定を行う。DCは通常、あなたのレベルに対する標準難易度のDCだが、GMは状況に応じて別のDCを割り当てることができる。あなたが取り戻す小瓶の数は、あなたの判定の結果による(最大まで)。</p><hr /><p><strong>クリティカル成功</strong>あなたは3つの汎用小瓶を取り戻す。</p>\n<p><strong>成功</strong>あなたは2つの汎用小瓶を取り戻す。</p>\n<p><strong>失敗</strong>あなたは1つの汎用小瓶を取り戻す。</p>\n<p><strong>クリティカル失敗</strong>あなたは汎用小瓶を取り戻さない。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Mist Escape": {
@@ -22042,7 +22042,7 @@
     },
     "Chemical Contagion": {
       "name": "ケミカル・コンテージョン/Chemical Contagion",
-      "description": "<p>あなたの傷の毒はクリーチャーに吹きかけることができる。あなたは毒物専門のアルケミストの@UUID[Compendium.pf2e.classfeatures.Item.tnqyQrhrZeDtDvcO]{グレーター・フィールド・ディスカバリー(トキシコロジスト)}を得る。</p>",
+      "description": "<p>あなたの傷の毒はクリーチャーに吹きかけることができる。あなたは毒物専門のアルケミストの@UUID[Compendium.pf2e.classfeatures.Item.tnqyQrhrZeDtDvcO]{研究分野の大発見(トキシコロジスト)}を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -24590,7 +24590,7 @@
     },
     "Combine Elixirs": {
       "name": "コンバイン・エリクサーズ/Combine Elixirs",
-      "description": "<p>あなたは作成したエリクサーに二つ目のエリクサーの全成分を加えてハイブリッドな調合を作ることができる。この組み合わされたエリクサーを作るには追加の多用途バイアルを消費しなければならず、成分は@UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]{〈クイック・アルケミー〉}で作成可能なエリクサーのものでなければならない。この組み合わされたエリクサーが消費されると、両方の成分エリクサーが効果を発揮する。例えば、二つの@UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{エリクサー・オブ・ライフ（レッサー）}を組み合わせて通常の二倍の量を癒す組み合わされたエリクサーを作成したり、@UUID[Compendium.pf2e.equipment-srd.Item.88pGCHV0uKMskTVO]{ダークビジョン・エリクサー（レッサー）}と@UUID[Compendium.pf2e.equipment-srd.Item.7Y2yOr4ltpP2tyuL]{イーグル・アイ・エリクサー（レッサー）}を組み合わせて暗視を得つつ隠れた扉を見つけることができる。</p>",
+      "description": "<p>あなたは作成したエリクサーに二つ目のエリクサーの全成分を加えてハイブリッドな調合を作ることができる。この組み合わされたエリクサーを作るには追加の汎用小瓶を消費しなければならず、成分は@UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]{〈クイック・アルケミー〉}で作成可能なエリクサーのものでなければならない。この組み合わされたエリクサーが消費されると、両方の成分エリクサーが効果を発揮する。例えば、二つの@UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{エリクサー・オブ・ライフ（レッサー）}を組み合わせて通常の二倍の量を癒す組み合わされたエリクサーを作成したり、@UUID[Compendium.pf2e.equipment-srd.Item.88pGCHV0uKMskTVO]{ダークビジョン・エリクサー（レッサー）}と@UUID[Compendium.pf2e.equipment-srd.Item.7Y2yOr4ltpP2tyuL]{イーグル・アイ・エリクサー（レッサー）}を組み合わせて暗視を得つつ隠れた扉を見つけることができる。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Aerial Boomerang": {
@@ -28875,7 +28875,7 @@
     },
     "Mutant Innervation": {
       "name": "ミュータント・イナベーション/Mutant Innervation",
-      "description": "<p>あなたの心と思考に影響を与える基本的な変異体は、あなたにテレパシーで通信させたり、探知されないように保護したり、誰とでも通信できるようにすることができる。リストされている変異体の一つの影響を受けている間、あなたは追加で恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.wbr6rkyaVYnDhdgV]{コグニティブ・ミュータジェン}</strong>あなたはまた、その変異体のアイテム・ボーナスを《欺瞞》、 《交渉》、 《威圧》、 メディスン、 《自然》、 《芸能》、 《宗教》、および《生存術》判定に得る。さらに、あなたは自分の言語を共有するクリーチャーと60フィート内でテレパシーで通信できる。その通信は一方通行でなく、確立された後は、接触したクリーチャーもあなたと通信できる。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.bOPQDM54W8ZDoULY]{セリーン・ミュータジェン}</strong>探知、啓示、及び念視エフェクトは9位(または17レベル)以下はあなたやあなたの所持品、オーラの何も検出しない。例えば、マジック探知はエリア内の他の魔法を検出するが、あなたにかかっている魔法は検出しない。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.YwRAHWW8yUI07sy9]{シルバータング・ミュータジェン}</strong>あなたは《欺瞞》、 《交渉》、 《威圧》、および《芸能》判定に対する状況ペナルティを無視する。さらに、あなたの言葉は言語の壁を超越する。あなたの言葉を聞いているすべての人が、あなたがその言語を話しているかのようにあなたの言葉を聞く(ただし、実際にはその言語を話しておらず、この能力によって追加の言語を理解することはできない)。</p></li></ul><hr /><p><strong>特殊</strong>あなたが複数の変異体の影響を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{グレーター・フィールド・ディスカバリー(ミュータジェニスト)}など)、あなたは関連する全ての恩恵を得る。</p>",
+      "description": "<p>あなたの心と思考に影響を与える基本的な変異体は、あなたにテレパシーで通信させたり、探知されないように保護したり、誰とでも通信できるようにすることができる。リストされている変異体の一つの影響を受けている間、あなたは追加で恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.wbr6rkyaVYnDhdgV]{コグニティブ・ミュータジェン}</strong>あなたはまた、その変異体のアイテム・ボーナスを《欺瞞》、 《交渉》、 《威圧》、 メディスン、 《自然》、 《芸能》、 《宗教》、および《生存術》判定に得る。さらに、あなたは自分の言語を共有するクリーチャーと60フィート内でテレパシーで通信できる。その通信は一方通行でなく、確立された後は、接触したクリーチャーもあなたと通信できる。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.bOPQDM54W8ZDoULY]{セリーン・ミュータジェン}</strong>探知、啓示、及び念視エフェクトは9位(または17レベル)以下はあなたやあなたの所持品、オーラの何も検出しない。例えば、マジック探知はエリア内の他の魔法を検出するが、あなたにかかっている魔法は検出しない。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.YwRAHWW8yUI07sy9]{シルバータング・ミュータジェン}</strong>あなたは《欺瞞》、 《交渉》、 《威圧》、および《芸能》判定に対する状況ペナルティを無視する。さらに、あなたの言葉は言語の壁を超越する。あなたの言葉を聞いているすべての人が、あなたがその言語を話しているかのようにあなたの言葉を聞く(ただし、実際にはその言語を話しておらず、この能力によって追加の言語を理解することはできない)。</p></li></ul><hr /><p><strong>特殊</strong>あなたが複数の変異体の影響を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{研究分野の大発見(ミュータジェニスト)}など)、あなたは関連する全ての恩恵を得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Mimic Protections": {
@@ -29548,7 +29548,7 @@
     },
     "Firework Technician Dedication": {
       "name": "ファイアワーク・テクニシャン・デディケーション/Firework Technician Dedication",
-      "description": "|||<p>あなたは黒色火薬、金属、紙を用いて火と音を咲かせる秘訣を学んだ。あなたはこの知識を、ティエン・シアの火薬の家やヴドラの花火会社での正式な訓練を通じて得た可能性が高いが、古い難破船で秘密の隠し場所を見つけた後にあなた自身で完全に花火を習得したのかもしれない。</p>\n<p>あなたは《専門知識》〈花火〉において訓練済みとなる。もしすでに訓練済みであれば、エキスパートとなる。あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Jkl5KOZih7MoMqAJ#quick-alchemy-benefits]{クイック・アルケミーの恩恵}を得て、日課の準備の間に最大4個のパイロテクニック・バーサタイル・バイアルを作成できる。これらのバイアルは〈火炎〉のトレイトを持ち、酸の代わりに火炎ダメージを与える。あなたはパイロテクニック・バーサタイル・バイアルを、爆弾として投擲するため、@UUID[Compendium.pf2e.actionspf2e.Item.yUjuLbBMflVum8Yn]{〈ローンチ・ファイアワークス〉}アクションのため、あるいは@UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]{〈クイック・アルケミー〉}を用いて花火の消耗品(@UUID[Compendium.pf2e.equipment-srd.Item.AOOQJfSkTPiSzfB9]{黒色火薬（ドーズ）}や黒色火薬の弾、@UUID[Compendium.pf2e.equipment-srd.Item.hd8D1Dm6aVhMYpEL]{スパークラー}アイテム、その他GMが決定するアイテムを含む)を作成するためにのみ使用できる。あなたはアルケミストと同様の方法で、探索の間にバーサタイル・バイアルを補充できる。</p>\n<p>あなたは観衆を驚かせ、戦闘で有利を得るために使用できる独特の効果を持つ花火のディスプレイを作成できる。あなたはLaunch Fireworksアクションを得て、いくつかの基本的な効果を学ぶ。あなたは他の花火技師の特技を通じて、バーサタイル・バイアルを使用する追加のより複雑なディスプレイを学ぶことができる。これらはLaunch Fireworksの選択肢に新しい花火のディスプレイを追加する。それぞれのディスプレイには必要なアクション数と効果が記載されている。Launch FireworksのDCは、あなたのクラスDCまたは呪文DCのいずれか高い方と等しい。</p><hr />|||<p><strong>特殊</strong>もしあなたが(@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.Om4e4tsgNWrComie]{アルケミスト}クラスやマルチクラスのアーキタイプのような)他の出典からクイック・アルケミーを得ているなら、標準のバーサタイル・バイアルを使用してLaunch Fireworksを行ったり、花火の消耗品を作成したりできる。バーサタイル・バイアルを作成するたびに、あなたはそれが標準のバイアルかパイロテクニック・バイアルかを選択する。両方のタイプが、あなたのバーサタイル・バイアルの最大数にカウントされる。あなたは探索の間にパイロテクニック・バイアルのみを補充できる。ただし、標準のバーサタイル・バイアルを補充できる他の能力(アルケミスト・クラスの恩恵など)がある場合は例外であり、その場合は補充するたびにタイプを選択できる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.S4BZW9c5n6CctDxl]{ファイアワーク・テクニシャン}</p>",
+      "description": "|||<p>あなたは黒色火薬、金属、紙を用いて火と音を咲かせる秘訣を学んだ。あなたはこの知識を、ティエン・シアの火薬の家やヴドラの花火会社での正式な訓練を通じて得た可能性が高いが、古い難破船で秘密の隠し場所を見つけた後にあなた自身で完全に花火を習得したのかもしれない。</p>\n<p>あなたは《専門知識》〈花火〉において訓練済みとなる。もしすでに訓練済みであれば、エキスパートとなる。あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Jkl5KOZih7MoMqAJ#quick-alchemy-benefits]{クイック・アルケミーの恩恵}を得て、日課の準備の間に最大4個の花火の汎用小瓶を作成できる。これらの小瓶は〈火炎〉のトレイトを持ち、酸の代わりに火炎ダメージを与える。あなたは花火の汎用小瓶を、爆弾として投擲するため、@UUID[Compendium.pf2e.actionspf2e.Item.yUjuLbBMflVum8Yn]{〈ローンチ・ファイアワークス〉}アクションのため、あるいは@UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]{〈クイック・アルケミー〉}を用いて花火の消耗品(@UUID[Compendium.pf2e.equipment-srd.Item.AOOQJfSkTPiSzfB9]{黒色火薬（ドーズ）}や黒色火薬の弾、@UUID[Compendium.pf2e.equipment-srd.Item.hd8D1Dm6aVhMYpEL]{スパークラー}アイテム、その他GMが決定するアイテムを含む)を作成するためにのみ使用できる。あなたはアルケミストと同様の方法で、探索の間に汎用小瓶を補充できる。</p>\n<p>あなたは観衆を驚かせ、戦闘で有利を得るために使用できる独特の効果を持つ花火のディスプレイを作成できる。あなたはLaunch Fireworksアクションを得て、いくつかの基本的な効果を学ぶ。あなたは他の花火技師の特技を通じて、汎用小瓶を使用する追加のより複雑なディスプレイを学ぶことができる。これらはLaunch Fireworksの選択肢に新しい花火のディスプレイを追加する。それぞれのディスプレイには必要なアクション数と効果が記載されている。Launch FireworksのDCは、あなたのクラスDCまたは呪文DCのいずれか高い方と等しい。</p><hr />|||<p><strong>特殊</strong>もしあなたが(@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.Om4e4tsgNWrComie]{アルケミスト}クラスやマルチクラスのアーキタイプのような)他の出典からクイック・アルケミーを得ているなら、標準の汎用小瓶を使用してLaunch Fireworksを行ったり、花火の消耗品を作成したりできる。汎用小瓶を作成するたびに、あなたはそれが標準の小瓶か花火の小瓶かを選択する。両方のタイプが、あなたの汎用小瓶の最大数にカウントされる。あなたは探索の間に花火の小瓶のみを補充できる。ただし、標準の汎用小瓶を補充できる他の能力(アルケミスト・クラスの恩恵など)がある場合は例外であり、その場合は補充するたびにタイプを選択できる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.S4BZW9c5n6CctDxl]{ファイアワーク・テクニシャン}</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -39376,7 +39376,7 @@
     },
     "Voluminous Vials": {
       "name": "ヴォリューミナス・バイアルズ/Voluminous Vials",
-      "description": "<p>あなたの毎日の多用途バイアルの数が5に増加する。</p><hr /><p><strong>特別</strong> 12レベル以上で、この特技を2回目に選んで毎日の多用途バイアルの数を6に増やすことができる。18レベル以上で、この特技を3回目に選んで毎日の多用途バイアルの数を7に増やすことができる。</p>",
+      "description": "<p>あなたの毎日の汎用小瓶の数が5に増加する。</p><hr /><p><strong>特別</strong> 12レベル以上で、この特技を2回目に選んで毎日の汎用小瓶の数を6に増やすことができる。18レベル以上で、この特技を3回目に選んで毎日の汎用小瓶の数を7に増やすことができる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -41994,7 +41994,7 @@
     },
     "Natural Mutagen": {
       "name": "ナチュラル・ミュータジェン/Natural Mutagen",
-      "description": "<p>あなたは自分の自然な変身能力を抽出して、より小さな変身能力を与えるエリクサーを作り出すことができる。この特技を得ると、一般的な1レベルのミュータジェンを選択する。あなたの日課の準備の毎日、選択したミュータジェンの一時的なバイアルを1つ作ることができる。消費されない場合、それはあなたの次の日課の準備までに消え去る。ミュータジェンに複数のバージョン(例えば、より強力なバージョン)がある場合、あなたのレベルがミュータジェンのレベルと等しくなると、自動的にそのより高いレベルのバージョンになる。</p>",
+      "description": "<p>あなたは自分の自然な変身能力を抽出して、より小さな変身能力を与えるエリクサーを作り出すことができる。この特技を得ると、一般的な1レベルのミュータジェンを選択する。あなたの日課の準備の毎日、選択したミュータジェンの一時的な小瓶を1つ作ることができる。消費されない場合、それはあなたの次の日課の準備までに消え去る。ミュータジェンに複数のバージョン(例えば、より強力なバージョン)がある場合、あなたのレベルがミュータジェンのレベルと等しくなると、自動的にそのより高いレベルのバージョンになる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Graveshift": {
@@ -49022,14 +49022,14 @@
     },
     "Controlled Blast": {
       "name": "コントロールド・ブラスト/Controlled Blast",
-      "description": "<p>あなたは爆発物の効果を最大化し、爆風のすべてのパラメーターを入念に制御する。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.ozvYhY4hG1deXly8]{ダイレクショナル・ボムズ}特技を持っているなら、あなたはそれを@UUID[Compendium.pf2e.actionspf2e.Item.vvYsE7OiSSCXhPdr]{〈セット・エクスプロージヴズ〉}または@UUID[Compendium.pf2e.feats-srd.Item.KCwXj3y7Nm4e3NbI]{デモリション・チャージ}で使用できる、爆弾を投げなかったとしても。もしあなたが@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{フィールド・ディスカバリー(ボンバー)}または@UUID[Compendium.pf2e.feats-srd.Item.gyVcJfZTmBytLsXq]{エクスパンデッド・スプラッシュ}特技を持っているなら、爆薬をセットするときや爆破チャージを使用するとき、追加の飛び散りダメージを1つの爆弾に適用でき、拡張された飛散からの増加した飛び散り範囲をすべての爆弾に適用できる。</p>",
+      "description": "<p>あなたは爆発物の効果を最大化し、爆風のすべてのパラメーターを入念に制御する。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.ozvYhY4hG1deXly8]{ダイレクショナル・ボムズ}特技を持っているなら、あなたはそれを@UUID[Compendium.pf2e.actionspf2e.Item.vvYsE7OiSSCXhPdr]{〈セット・エクスプロージヴズ〉}または@UUID[Compendium.pf2e.feats-srd.Item.KCwXj3y7Nm4e3NbI]{デモリション・チャージ}で使用できる、爆弾を投げなかったとしても。もしあなたが@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{研究分野の発見(ボンバー)}または@UUID[Compendium.pf2e.feats-srd.Item.gyVcJfZTmBytLsXq]{エクスパンデッド・スプラッシュ}特技を持っているなら、爆薬をセットするときや爆破チャージを使用するとき、追加の飛び散りダメージを1つの爆弾に適用でき、拡張された飛散からの増加した飛び散り範囲をすべての爆弾に適用できる。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
           "value": "爆破工作員デディケーション"
         },
         {
-          "value": "ボンバーのフィールド・ディスカバリー、指向性爆弾、または拡張飛散"
+          "value": "ボンバーの研究分野の発見、指向性爆弾、または拡張飛散"
         }
       ]
     },
