@@ -429,16 +429,16 @@
       },
       "FrostVial": {
         "Greater": {
-          "success": "<strong>効果</strong>対象は自身の次のターンの終了時まで、すべての速度に-10フィートのペナルティを受ける(@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{効果：フロスト・ヴァイアル})。"
+          "success": "<strong>効果</strong>対象は自身の次のターンの終了時まで、すべての速度に-10フィートのペナルティを受ける(@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{効果：フロスト・バイアル})。"
         },
         "Lesser": {
-          "success": "<strong>効果</strong>対象は自身の次のターンの終了時まで、すべての速度に-5フィートのペナルティを受ける(@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{効果：フロスト・ヴァイアル})。"
+          "success": "<strong>効果</strong>対象は自身の次のターンの終了時まで、すべての速度に-5フィートのペナルティを受ける(@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{効果：フロスト・バイアル})。"
         },
         "Major": {
-          "success": "<strong>効果</strong>対象は自身の次のターンの終了時まで、すべての速度に-15フィートのペナルティを受ける(@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{効果：フロスト・ヴァイアル})。"
+          "success": "<strong>効果</strong>対象は自身の次のターンの終了時まで、すべての速度に-15フィートのペナルティを受ける(@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{効果：フロスト・バイアル})。"
         },
         "Moderate": {
-          "success": "<strong>効果</strong>対象は自身の次のターンの終了時まで、すべての速度に-10フィートのペナルティを受ける(@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{効果：フロスト・ヴァイアル})。"
+          "success": "<strong>効果</strong>対象は自身の次のターンの終了時まで、すべての速度に-10フィートのペナルティを受ける(@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{効果：フロスト・バイアル})。"
         }
       },
       "GhostCharge": {
@@ -923,7 +923,7 @@
         "VariantSaveLabel": "{item}：病気、毒、疲労に対して"
       },
       "SereneMutagen": {
-        "PenaltyLabel": "セリーン・ミューテージェン — 攻撃的な呪文の詠唱"
+        "PenaltyLabel": "セリーン・ミュータジェン — 攻撃的な呪文の詠唱"
       }
     },
     "NPCAbility": {
@@ -4135,13 +4135,13 @@
             }
           },
           "FieldBenefit": "研究分野の特典",
-          "FieldVials": "フィールド・ヴァイアル",
+          "FieldVials": "フィールド・バイアル",
           "Mutagenist": {
             "FieldBenefit": {
-              "Description": "あなたがミューテージェンを使用するとき、あなたは自身の知力修正値(最低0)に自身のレベルの半分を加えた値に等しい一時的ヒット・ポイントを得る。この一時的ヒット・ポイントは1分、またはそのミューテージェンの持続時間が終了するまでの、いずれか早い方の間持続する。あなたはミューテージェンを飲むことによって再び一時的HPを得ることは、1分の間できない。"
+              "Description": "あなたがミュータジェンを使用するとき、あなたは自身の知力修正値(最低0)に自身のレベルの半分を加えた値に等しい一時的ヒット・ポイントを得る。この一時的ヒット・ポイントは1分、またはそのミュータジェンの持続時間が終了するまでの、いずれか早い方の間持続する。あなたはミュータジェンを飲むことによって再び一時的HPを得ることは、1分の間できない。"
             },
             "FieldVials": {
-              "Description": "あなたは自身の万能薬瓶の1つの内容物を飲むことで、現在あなたに影響を及ぼしている1つのミューテージェンから受けているデメリットを1分の間抑制できる。このように使用された薬瓶は酸、爆弾、スプラッシュ系統を失い、エリクサー系統を得る。あなたが@UUID[Compendium.pf2e.feats-srd.Item.jSkJIWPfSZZzvYzq]{Combine Elixirs}または同様の能力によって複数のデメリットを受けている場合、薬瓶を飲むことであなたが選択した1つのデメリットを抑制する。"
+              "Description": "あなたは自身の万能薬瓶の1つの内容物を飲むことで、現在あなたに影響を及ぼしている1つのミュータジェンから受けているデメリットを1分の間抑制できる。このように使用された薬瓶は酸、爆弾、スプラッシュ系統を失い、エリクサー系統を得る。あなたが@UUID[Compendium.pf2e.feats-srd.Item.jSkJIWPfSZZzvYzq]{Combine Elixirs}または同様の能力によって複数のデメリットを受けている場合、薬瓶を飲むことであなたが選択した1つのデメリットを抑制する。"
             }
           },
           "Prompt": "研究分野を選択する。",

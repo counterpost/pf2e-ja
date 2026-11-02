@@ -79,7 +79,7 @@
     },
     "Greater Field Discovery (Mutagenist)": {
       "name": "グレーター・フィールド・ディスカバリー(ミュータジェニスト)/Greater Field Discovery (Mutagenist)",
-      "description": "<p>ミューテージェンの効果を受けている間に別のミューテージェンを摂取した場合、両方のミューテージェンがポリモーフトレイトを持っており、通常であれば共存しないにもかかわらず、両方のミューテージェンの恩恵と欠点を同時に得ることができる。</p>\n<p>2つのミューテージェンの恩恵を受けている間にさらに別のミューテージェンの効果を受けた場合、あなたは以前のミューテージェンのうち1つを選択し、その恩恵を失うが、すべてのミューテージェンの欠点は維持する。</p>\n<p>2つのミューテージェンの効果を受けている間に、ミューテージェンではないポリモーフ効果を受けた場合、あなたはミューテージェンの恩恵を失うが、両方の欠点は維持する。</p>\n<p>あなたの研究分野のバイアルの恩恵は、あなたが選択した1つのミューテージェンに適用される。</p>"
+      "description": "<p>ミュータジェンの効果を受けている間に別のミュータジェンを摂取した場合、両方のミュータジェンがポリモーフトレイトを持っており、通常であれば共存しないにもかかわらず、両方のミュータジェンの恩恵と欠点を同時に得ることができる。</p>\n<p>2つのミュータジェンの恩恵を受けている間にさらに別のミュータジェンの効果を受けた場合、あなたは以前のミュータジェンのうち1つを選択し、その恩恵を失うが、すべてのミュータジェンの欠点は維持する。</p>\n<p>2つのミュータジェンの効果を受けている間に、ミュータジェンではないポリモーフ効果を受けた場合、あなたはミュータジェンの恩恵を失うが、両方の欠点は維持する。</p>\n<p>あなたの研究分野のバイアルの恩恵は、あなたが選択した1つのミュータジェンに適用される。</p>"
     },
     "Acrobat's Calling": {
       "name": "アクロバッツ・コーリング/Acrobat's Calling",
@@ -266,7 +266,7 @@
       "description": "<p>あなたが意志を四肢に集中させる時、あなたの打撃は最も硬い金属のように屈しないものとなる。あなたの素手攻撃はアダマンティンとして扱われる。</p>"
     },
     "Advanced Vials (Bomber)": {
-      "name": "アドヴァンスト・ヴァイアルズ(ボンバー)/Advanced Vials (Bomber)",
+      "name": "アドバンスト・バイアルズ(ボンバー)/Advanced Vials (Bomber)",
       "description": "<p>あなたは魔法の粉や貴重な鉱物の破片といった特別な材料をバイアルに混ぜることができる。あなたがバーサタイル・バイアルを作成する時、アダマンティン、コールド・アイアン、ドーンシルバーの中から選択した1つの特殊素材として扱われるように選ぶことができる。もしあなたがバイアルを作成する時に、異なる貴重な素材のアイテムを着用または装備しているなら、代わりにその素材を選ぶことができる。</p>"
     },
     "Battledancer": {
@@ -306,8 +306,8 @@
       "description": "<p>あなたの鎧の中にある断熱層が、急激な温度変化からあなたを守る。あなたは冷気と火炎ダメージに対する、自身のレベルの半分に等しい耐性を得る。〈オーバードライブ〉の効果を受けている間、その耐性は2増加する。</p>"
     },
     "Advanced Vials (Chirurgeon)": {
-      "name": "アドヴァンスト・ヴァイアルズ(カイラージョン)/Advanced Vials (Chirurgeon)",
-      "description": "<p>あなたが最大ヒット・ポイントの半分以下のクリーチャーを回復させるためにフィールド・ヴァイアルを使用する場合、その回復には〈凝血〉のトレイトは適用されない。</p>"
+      "name": "アドバンスト・バイアルズ(カイラージャン)/Advanced Vials (Chirurgeon)",
+      "description": "<p>あなたが最大ヒット・ポイントの半分以下のクリーチャーを回復させるためにフィールド・バイアルを使用する場合、その回復には〈凝血〉のトレイトは適用されない。</p>"
     },
     "Thousand-League Sandals": {
       "name": "サウザンド・リーグ・サンダルズ/Thousand-League Sandals",
@@ -375,7 +375,7 @@
     },
     "Bomber": {
       "name": "ボンバー/Bomber",
-      "description": "<p>あなたは爆発やその他の激しい反応を専門としている。</p>\n<p><strong>フォーミュラ</strong> 2種類の一般的な1レベルの錬金術爆弾。</p>\n<p><strong>研究分野の恩恵</strong> 〈スプラッシュ〉のトレイトを持つ錬金術爆弾を投擲する際、通常の飛散範囲の代わりに、あなたの主要な対象のみに飛散ダメージを与えることを選択できる。</p>\n<p><strong>研究分野のバイアル</strong> あなたがバーサタイル・バイアルで@UUID[Compendium.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR]{〈ストライク〉}を行う際、酸ダメージの代わりに冷気、電撃、または火炎ダメージを与えることを選択できる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{フィールド・ディスカバリー} (5レベル)</strong> あなたは爆弾の飛散を最大化するためのあらゆる角度を計算した。〈スプラッシュ〉のトレイトを持つ錬金術爆弾を投擲する際、通常の量の代わりに、あなたの【知力】修正値(最低1)に等しい飛散ダメージを爆弾に与えさせることができる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.5FnyPYPaRbJthT3I]{アドヴァンスド・ヴァイアル} (11レベル)</strong> あなたは魔法の粉や貴重な鉱物の欠片のような特別な材料を小瓶に混ぜることができる。バーサタイル・バイアルを作成する際、アダマンティン、コールド・アイアン、ドーンシルバーの中から選択した1種類の特殊素材として扱わせることを選択できる。あなたが小瓶を作成する際に、異なる貴重な素材のアイテムを着用または装備している場合、代わりにその素材を選択できる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.RGs4uR3CAvgbtBAA]{グレーター・フィールド・ディスカバリー} (13レベル)</strong> あなたは爆弾の飛散を増加させ、10フィート以内のクリーチャーにダメージを与えることができる。もしあなたが拡張飛散を持っているなら、その範囲は15フィートとなる。</p>"
+      "description": "<p>あなたは爆発やその他の激しい反応を専門としている。</p>\n<p><strong>フォーミュラ</strong> 2種類の一般的な1レベルの錬金術爆弾。</p>\n<p><strong>研究分野の恩恵</strong> 〈スプラッシュ〉のトレイトを持つ錬金術爆弾を投擲する際、通常の飛散範囲の代わりに、あなたの主要な対象のみに飛散ダメージを与えることを選択できる。</p>\n<p><strong>研究分野のバイアル</strong> あなたがバーサタイル・バイアルで@UUID[Compendium.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR]{〈ストライク〉}を行う際、酸ダメージの代わりに冷気、電撃、または火炎ダメージを与えることを選択できる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{フィールド・ディスカバリー} (5レベル)</strong> あなたは爆弾の飛散を最大化するためのあらゆる角度を計算した。〈スプラッシュ〉のトレイトを持つ錬金術爆弾を投擲する際、通常の量の代わりに、あなたの【知力】修正値(最低1)に等しい飛散ダメージを爆弾に与えさせることができる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.5FnyPYPaRbJthT3I]{アドバンスト・バイアルズ} (11レベル)</strong> あなたは魔法の粉や貴重な鉱物の欠片のような特別な材料を小瓶に混ぜることができる。バーサタイル・バイアルを作成する際、アダマンティン、コールド・アイアン、ドーンシルバーの中から選択した1種類の特殊素材として扱わせることを選択できる。あなたが小瓶を作成する際に、異なる貴重な素材のアイテムを着用または装備している場合、代わりにその素材を選択できる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.RGs4uR3CAvgbtBAA]{グレーター・フィールド・ディスカバリー} (13レベル)</strong> あなたは爆弾の飛散を増加させ、10フィート以内のクリーチャーにダメージを与えることができる。もしあなたが拡張飛散を持っているなら、その範囲は15フィートとなる。</p>"
     },
     "Greater Weapon Specialization (Barbarian)": {
       "name": "グレーター・ウェポン・スペシャライゼーション(バーバリアン)",
@@ -1153,7 +1153,7 @@
       "description": "<p>あなたは鋭く湾曲した刃で敵を打ち倒し、切り裂くことができる。あなたのイノヴェーションは引き裂き、〈足払い〉、およびバーサタイル(斬)のトレイトを得る。</p>"
     },
     "Advanced Vials (Toxicologist)": {
-      "name": "アドヴァンスト・ヴァイアルズ(トキシコロジスト)/Advanced Vials (Toxicologist)",
+      "name": "アドバンスト・バイアルズ(トキシコロジスト)/Advanced Vials (Toxicologist)",
       "description": "<p>負傷毒として使用したバーサタイル・バイアルでクリーチャーにダメージを与えたとき、そのクリーチャーは即時ダメージに加えて、そのバイアルの飛散ダメージに等しい持続的な毒ダメージを受ける。</p>"
     },
     "Armor Innovation": {
@@ -1181,7 +1181,7 @@
       "description": "<p>使い魔との交感により、あなたの精神的な不屈さは鍛え上げられた。あなたの〈意志〉セーヴの習熟ランクは〈達人〉に上昇する。意志セーヴで成功をロールしたとき、代わりに大成功となる。</p>"
     },
     "Perpetual Infusions (Chirurgeon)": {
-      "name": "パーペチュアル・インフュージョンズ(キルルジョン)/Perpetual Infusions (Chirurgeon)",
+      "name": "パーペチュアル・インフュージョンズ(カイラージャン)/Perpetual Infusions (Chirurgeon)",
       "description": "<p>あなたは、特定の単純なアイテムをほぼ無限に供給できる、永続的な錬金術インフュージョンを作成する方法を学んだ。</p>\n<p>あなたは、インフューズド・リージェントのバッチを消費することなく、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{〈クイック・アルケミー〉}を使用して1レベルの錬金術アイテムを2つ作成する能力を得る。選択できるアイテムはあなたの〈研究〉分野に依存し、あなたの調合書に含まれていなければならない。</p>\n<p>レベルが上がるたびに、あなたは永続的なインフュージョンを任意の数だけ、他の適格なインフュージョンと入れ替えることができる。</p>\n<hr />\n<p>〈治癒〉のトレイトを持つ1レベルのエリクサーを2つ選択すること。クリーチャーが永続的なインフュージョンからヒット・ポイントを回復した場合、そのクリーチャーは10分の間、その後の永続的なインフュージョンからヒット・ポイントを回復することに対して一時的な免疫となる(ただし、それらのインフュージョンの他の効果に対しては免疫ではない)。</p>"
     },
     "Ashes": {
@@ -2167,8 +2167,8 @@
       "description": "<p>あなたのインプリメントの力は、より一般的な戦闘の任務に向けることもでき、その力はルーンやその他の魔法的な強化の効果を加え、増幅させる。あなたが〈ストライク〉を行う際、手に持っているインプリメントで神秘的な模様を描くことでその〈ストライク〉を強化でき、武器ダメージ・ダイス1個につき2の追加のダメージを与えるようにできる。その力をチャネリングするには、両手を完全に使用する必要がある。もしあなたが片手に単一の片手武器、他のインプリメント、またはエソテリカ以外の何かを持っている場合、インプリメントの強化による恩恵を得ることはなく、恩恵を得るには少なくとも1つのインプリメントを持っていなければならない。</p>"
     },
     "Versatile Vials": {
-      "name": "ヴァーサタイル・ヴァイアルズ/Versatile Vials",
-      "description": "<p>あなたは即効性のある化学薬品をバーサタイル・ヴァイアル(汎用小瓶)に調合する方法を知っている。これは爆弾として使用したり、特殊な試薬を加えることで他の錬金術アイテムに変えたりできる特殊なアイテムである。日課の準備の間、あなたは2＋あなたの【知力】修正値に等しい数までのバーサタイル・ヴァイアルを作成できる。これがあなたのヴァイアルの最大数でもある。あなたが最大数未満である場合、周囲の環境から試薬を集めることができる。探索モードで過ごす10分ごとに、あなたは2個のヴァイアルを回復する。これを行っても、他の探索行動に参加することは妨げられない。</p>\n<p>バーサタイル・ヴァイアルは注入アイテムであり、次に日課の準備を行う時までに使用されなければ破壊される。あなたが作成するヴァイアルは、常にあなたが〈製作する〉ことのできる最高レベルのタイプとなる。バーサタイル・ヴァイアルを爆弾として使用する場合の統計値についてはサイドバーを参照すること。あなたはヴァイアルを@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{クイック・アルケミー}に使用することもでき、あなたの研究分野はヴァイアルを使用する方法を増やすことができる。</p>\n<p>あなたはすべてのバーサタイル・ヴァイアルを@UUID[Compendium.pf2e.equipment-srd.Item.4ftXXUCBHcf4b0MH]{錬金術師用具}の中に収納でき、そのバルクは増加しない。バーサタイル・ヴァイアルは物理的な物体ではあるが、いかなる方法でも複製や保存はできない。</p>"
+      "name": "バーサタイル・バイアルズ/Versatile Vials",
+      "description": "<p>あなたは即効性のある化学薬品をバーサタイル・バイアルに調合する方法を知っている。これは爆弾として使用したり、特殊な試薬を加えることで他の錬金術アイテムに変えたりできる特殊なアイテムである。日課の準備の間、あなたは2＋あなたの【知力】修正値に等しい数までのバーサタイル・バイアルを作成できる。これがあなたのバイアルの最大数でもある。あなたが最大数未満である場合、周囲の環境から試薬を集めることができる。探索モードで過ごす10分ごとに、あなたは2個のバイアルを回復する。これを行っても、他の探索行動に参加することは妨げられない。</p>\n<p>バーサタイル・バイアルは注入アイテムであり、次に日課の準備を行う時までに使用されなければ破壊される。あなたが作成するバイアルは、常にあなたが〈製作する〉ことのできる最高レベルのタイプとなる。バーサタイル・バイアルを爆弾として使用する場合の統計値についてはサイドバーを参照すること。あなたはバイアルを@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{クイック・アルケミー}に使用することもでき、あなたの研究分野はバイアルを使用する方法を増やすことができる。</p>\n<p>あなたはすべてのバーサタイル・バイアルを@UUID[Compendium.pf2e.equipment-srd.Item.4ftXXUCBHcf4b0MH]{錬金術師用具}の中に収納でき、そのバルクは増加しない。バーサタイル・バイアルは物理的な物体ではあるが、いかなる方法でも複製や保存はできない。</p>"
     },
     "Eidolon Unarmed Expertise": {
       "name": "エイドロン・アンアームド・エキスパーティス/Eidolon Unarmed Expertise",
@@ -2260,7 +2260,7 @@
     },
     "Mystery": {
       "name": "神秘/Mystery",
-      "description": "<p>オラクルは神聖な力を振るうが、それは単一の神的存在から得たものではない。この力は、強力な概念や理想、その司る事柄がすべてその主題に関わる複数の神的存在の注目、あるいは純粋な神聖な力への直接的で危険な導管から生じる可能性がある。これがオラクルの神秘であり、いかなる神格にも縛られない神聖魔法の源である。</p>\n<p>あなたの魔法を強化する神秘を選択する。神秘はあなたに追加の呪文と、啓示呪文と呼ばれる特別なフォーカス呪文を授ける。また、神秘は神聖な力を引き出すためのユニークなカースバウンド能力を与えるとともに、あなたがこの力に触れすぎた際にあなたに降りかかるオラクルの呪いの効果を決定する。</p><hr /><ul><li>@UUID[Compendium.pf2e.classfeatures.Item.qvRlih3u7vK3FYUR]{アンセスターズ}過去の世代の声があなたを教え、そして取り憑く。</li><li><p>@UUID[Compendium.pf2e.classfeatures.Item.g3HTg0z3doXZZzAV]{アッシュズ}あなたは世界のあらゆるものを儚く一時的なものと見なし、それらが燃え尽きた後に残る灰という本来の本質へと浄化されるのを待っている。</p></li><li>@UUID[Compendium.pf2e.classfeatures.Item.gjOGOR30Czpnx3tM]{バトル}あなたは伝説の英雄たちが掲げた美徳を体現する。</li><li><p>@UUID[Compendium.pf2e.classfeatures.Item.1PHDn7WJFtR3NgTr]{ブライト}泉の蕾は枯れ、巨大なオークは森の地面に倒れ、未熟な若者は成熟し、やがて老いて衰える。</p></li><li>@UUID[Compendium.pf2e.classfeatures.Item.IaxmCkdsPlA52spu]{ボーンズ}死は常に近くにあるように思え、死者があなたに語りかける。</li><li>@UUID[Compendium.pf2e.classfeatures.Item.RI2EMRBBPNSoTJXu]{コスモス}あなたは星々とその間の空間から力を引き出す。</li><li>@UUID[Compendium.pf2e.classfeatures.Item.GTSvbFb36InvuH0w]{フレイムズ}あなたは炎と共に踊り、それによって焼かれないように最善を尽くす。</li><li>@UUID[Compendium.pf2e.classfeatures.Item.o1gGG36wpn9mxeop]{ライフ}生命の満ち溢れるエネルギーがあなたを通り抜け、世界へと流れ出る。</li><li>@UUID[Compendium.pf2e.classfeatures.Item.tZBb3Kh4nJcNoUFI]{《専門知識》}あなたは比類なき圧倒的な知識へのアクセスを得る。</li><li>@UUID[Compendium.pf2e.classfeatures.Item.W9cF7wZztLDb1WGY]{テンペスト}風、波、嵐があなたの意のままに荒れ狂う。</li><li><p>@UUID[Compendium.pf2e.classfeatures.Item.EslxR2sbDK9XJaAl]{タイム}偶然か、運命か、あるいは意図的な干渉か、あなたは時間からわずかに外れた存在である。</p></li></ul><h3>神秘の項目を読む</h3><p>神秘の項目には以下の情報が含まれており、その後にその神秘の呪いの説明が続く。</p>\n<p><strong>授けられた呪文</strong> ここに記載された呪文は、130ページの呪文レパートリーで説明されている通り、自動的にあなたの呪文レパートリーに追加される。1レベルの時点で、あなたはキャントリップ1つと1ランク呪文1つを得る。リストにある他の呪文は、そのランクのオラクル呪文を詠唱する能力を得た時点で習得する。</p>\n<p><strong>啓示呪文</strong> あなたは1レベルで自分の神秘の初期啓示呪文を自動的に得て、上級啓示、大啓示、およびダイバース・ミステリーの各オラクル特技を選択することでさらに多くの呪文を得ることができる。これらの呪文は259ページから始まる。</p>\n<p><strong>関連する領域</strong> これらはあなたの神秘に関連するクレリックの領域である。あなたはDomain Acumen特技とDomain Fluency特技を取得することで、啓示呪文として詠唱できる領域呪文を得る。11レベルになると、〈神聖なるアクセス〉クラス特徴によって、領域に基づいた追加のスロット呪文も得られる。領域とその領域呪文は『Player Core』の372ページに記載されている。アスタリスク(*)が付いた領域は『Pathfinder Lost Omens ディバイン Mysteries』にある。</p>\n<p><strong>神秘のスキル</strong> あなたはリストされたスキルについて訓練済みになる。いくつかの神秘では、複数のスキルについて訓練済みになる。</p>\n<p><strong>オラクルの特技</strong> あなたはこの1レベルのオラクル特技を得る。これはカースバウンドの特技であるため、使用するとオラクルの呪いが悪化する。</p>"
+      "description": "<p>オラクルは神聖な力を振るうが、それは単一の神的存在から得たものではない。この力は、強力な概念や理想、その司る事柄がすべてその主題に関わる複数の神的存在の注目、あるいは純粋な神聖な力への直接的で危険な導管から生じる可能性がある。これがオラクルの神秘であり、いかなる神格にも縛られない神聖魔法の源である。</p>\n<p>あなたの魔法を強化する神秘を選択する。神秘はあなたに追加の呪文と、啓示呪文と呼ばれる特別なフォーカス呪文を授ける。また、神秘は神聖な力を引き出すためのユニークなカースバウンド能力を与えるとともに、あなたがこの力に触れすぎた際にあなたに降りかかるオラクルの呪いの効果を決定する。</p><hr /><ul><li>@UUID[Compendium.pf2e.classfeatures.Item.qvRlih3u7vK3FYUR]{アンセスターズ}過去の世代の声があなたを教え、そして取り憑く。</li><li><p>@UUID[Compendium.pf2e.classfeatures.Item.g3HTg0z3doXZZzAV]{アッシュズ}あなたは世界のあらゆるものを儚く一時的なものと見なし、それらが燃え尽きた後に残る灰という本来の本質へと浄化されるのを待っている。</p></li><li>@UUID[Compendium.pf2e.classfeatures.Item.gjOGOR30Czpnx3tM]{バトル}あなたは伝説の英雄たちが掲げた美徳を体現する。</li><li><p>@UUID[Compendium.pf2e.classfeatures.Item.1PHDn7WJFtR3NgTr]{ブライト}泉の蕾は枯れ、巨大なオークは森の地面に倒れ、未熟な若者は成熟し、やがて老いて衰える。</p></li><li>@UUID[Compendium.pf2e.classfeatures.Item.IaxmCkdsPlA52spu]{ボーンズ}死は常に近くにあるように思え、死者があなたに語りかける。</li><li>@UUID[Compendium.pf2e.classfeatures.Item.RI2EMRBBPNSoTJXu]{コスモス}あなたは星々とその間の空間から力を引き出す。</li><li>@UUID[Compendium.pf2e.classfeatures.Item.GTSvbFb36InvuH0w]{フレイムズ}あなたは炎と共に踊り、それによって焼かれないように最善を尽くす。</li><li>@UUID[Compendium.pf2e.classfeatures.Item.o1gGG36wpn9mxeop]{ライフ}生命の満ち溢れるエネルギーがあなたを通り抜け、世界へと流れ出る。</li><li>@UUID[Compendium.pf2e.classfeatures.Item.tZBb3Kh4nJcNoUFI]{ロア}あなたは比類なき圧倒的な知識へのアクセスを得る。</li><li>@UUID[Compendium.pf2e.classfeatures.Item.W9cF7wZztLDb1WGY]{テンペスト}風、波、嵐があなたの意のままに荒れ狂う。</li><li><p>@UUID[Compendium.pf2e.classfeatures.Item.EslxR2sbDK9XJaAl]{タイム}偶然か、運命か、あるいは意図的な干渉か、あなたは時間からわずかに外れた存在である。</p></li></ul><h3>神秘の項目を読む</h3><p>神秘の項目には以下の情報が含まれており、その後にその神秘の呪いの説明が続く。</p>\n<p><strong>授けられた呪文</strong> ここに記載された呪文は、130ページの呪文レパートリーで説明されている通り、自動的にあなたの呪文レパートリーに追加される。1レベルの時点で、あなたはキャントリップ1つと1ランク呪文1つを得る。リストにある他の呪文は、そのランクのオラクル呪文を詠唱する能力を得た時点で習得する。</p>\n<p><strong>啓示呪文</strong> あなたは1レベルで自分の神秘の初期啓示呪文を自動的に得て、上級啓示、大啓示、およびダイバース・ミステリーの各オラクル特技を選択することでさらに多くの呪文を得ることができる。これらの呪文は259ページから始まる。</p>\n<p><strong>関連する領域</strong> これらはあなたの神秘に関連するクレリックの領域である。あなたはDomain Acumen特技とDomain Fluency特技を取得することで、啓示呪文として詠唱できる領域呪文を得る。11レベルになると、〈神聖なるアクセス〉クラス特徴によって、領域に基づいた追加のスロット呪文も得られる。領域とその領域呪文は『Player Core』の372ページに記載されている。アスタリスク(*)が付いた領域は『Pathfinder Lost Omens ディバイン Mysteries』にある。</p>\n<p><strong>神秘のスキル</strong> あなたはリストされたスキルについて訓練済みになる。いくつかの神秘では、複数のスキルについて訓練済みになる。</p>\n<p><strong>オラクルの特技</strong> あなたはこの1レベルのオラクル特技を得る。これはカースバウンドの特技であるため、使用するとオラクルの呪いが悪化する。</p>"
     },
     "Pacification Tools": {
       "name": "パシフィケーション・ツールズ/Pacification Tools",
@@ -2316,7 +2316,7 @@
       "description": "<p>たとえ攻撃を受けたとしても、鎧があなたをある程度の危害から守る。中装鎧または重装鎧を着用している間、あなたは1＋あなたのレベルの半分の物理ダメージに対する耐性を得る。加えて、あなたは中装鎧や重装鎧を着用したまま通常通り休息できる。</p>"
     },
     "Field Discovery (Chirurgeon)": {
-      "name": "フィールド・ディスカバリー(キルルジョン)/Field Discovery (Chirurgeon)",
+      "name": "フィールド・ディスカバリー(カイラージャン)/Field Discovery (Chirurgeon)",
       "description": "<p>あなたの薬用エリクサーは非常に強壮効果が高い。あなたが作成した〈治癒〉トレイトを持つ注入エリクサーをクリーチャーが飲んだ時、そのクリーチャーはあなたの〈知力〉修正値(最低0)に等しい数の　一時的ヒット・ポイントを得る。これらの　一時的ヒット・ポイントは1分持続する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.eS9I5kaig0i1j3z0]{効果: 研究分野の発見(外科医)}</p>"
     },
     "First Doctrine": {
@@ -2717,12 +2717,12 @@
       "description": "<p>あなたは危険を回避するコツを身につけた。あなたの反応セーヴの習熟ランクはエキスパートに上昇する。</p>\n<p><strong>ガーディアン</strong>最も重い鎧を着ていても、あなたは広範囲に及ぶ効果に対して　あなた自身を固めることができる。あなたの反応セーヴの習熟ランクはエキスパートに上昇する。</p>"
     },
     "Mutagenist": {
-      "name": "ムタジェニスト/Mutagenist",
-      "description": "|||<p>You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature's physical or psychological being in order to strengthen another.</p>\n<p><strong>Formulas</strong> Two common 1st-level alchemical mutagens.</p>\n<p><strong>Field Benefit</strong> When you use a mutagen, you gain a number of temporary Hit Points equal to your Intelligence modifier (minimum 0) plus half your level. These temporary Hit Points last for 1 minute or until the mutagen's duration expires, whichever comes first. You can't gain temporary HP from drinking a mutagen again for 1 minute.</p>\n<p><strong>Field Vials</strong> You can drink the contents of one your versatile vials to suppress the drawback you take from one mutagen currently affecting you for 1 minute. A vial used this way loses the acid, bomb, and splash traits and gains the elixir trait. If you have more than one drawback due to @UUID[Compendium.pf2e.feats-srd.Item.jSkJIWPfSZZzvYzq]{コンバイン・エリクサーズ} or a similar ability, drinking the vial suppresses one drawback of your choice.</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.V4Jt7eDnJBLv5bDj]{フィールド・ディスカバリー(ムタジェニスト)} (5th)</strong> The mutagens flowing through your blood have altered your body chemistry. When you roll a Fortitude save while affected by a mutagen and dislike the result, you can end the effect of the mutagen to reroll the save. This is a fortune effect.</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.wYOdTCWQQ6ec8I6b]{アドヴァンスト・ヴァイアルズ(ミュータジェニスト)} (11th)</strong> When you drink one of your field vials, you also gain resistance to physical damage for the same duration. The resistance is equal to half your level.</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{グレーター・フィールド・ディスカバリー(ミュータジェニスト)} (13th)</strong> If you imbibe another mutagen while you are under the effects of a mutagen, you can gain the benefits and the drawbacks of both mutagens at once, despite the fact that they both have the polymorph trait and would not normally function together. If you come under the effects of any further mutagens while benefiting from two mutagens, you lose the benefit of one of the former mutagens of your choice, while retaining the drawbacks of all the mutagens. If you are under the effects of two mutagens and you come under the effect of a non-mutagen polymorph effect, you lose the benefits of the mutagens while retaining the drawbacks of both. Your field vial benefit applies to one mutagen of your choice.</p>|||"
+      "name": "ミュータジェニスト/Mutagenist",
+      "description": "<p>あなたは、クリーチャーの肉体または精神の一面を犠牲にして別の一面を強める、ミュータジェンによる奇妙な変容を専門とする。</p>\n<p><strong>フォーミュラ</strong> 2種類の一般的な1レベルの錬金術ミュータジェン。</p>\n<p><strong>研究分野の恩恵</strong> ミュータジェンを使用したとき、あなたは【知力】修正値(最低0)にあなたのレベルの半分を加えた値に等しい一時的ヒット・ポイントを得る。この一時的ヒット・ポイントは、1分が経過するか、そのミュータジェンの持続時間が終了するか、いずれか早い方まで持続する。あなたは1分間、再びミュータジェンを飲んで一時的ヒット・ポイントを得ることはできない。</p>\n<p><strong>研究分野のバイアル</strong> あなたはバーサタイル・バイアル1つの中身を飲んで、現在あなたに影響を与えているミュータジェン1つから受けている欠点を1分間抑えることができる。この方法で使用したバイアルは、酸・ボム・飛散のトレイトを失い、エリクサーのトレイトを得る。@UUID[Compendium.pf2e.feats-srd.Item.jSkJIWPfSZZzvYzq]{コンバイン・エリクサーズ}または類似の能力によって欠点を2つ以上受けている場合、バイアルを飲むと、あなたが選んだ欠点1つを抑える。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.V4Jt7eDnJBLv5bDj]{フィールド・ディスカバリー} (5レベル)</strong> あなたの血液中を流れるミュータジェンが、あなたの身体の化学的性質を変えた。ミュータジェンの影響を受けている間に頑健セーヴをロールし、その結果が気に入らない場合、あなたはそのミュータジェンの効果を終了させてセーヴを振り直すことができる。これは幸運効果である。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.wYOdTCWQQ6ec8I6b]{アドバンスト・バイアルズ} (11レベル)</strong> 研究分野のバイアルを1つ飲んだとき、あなたは同じ持続時間の間、物理ダメージへの抵抗も得る。その抵抗はあなたのレベルの半分に等しい。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{グレーター・フィールド・ディスカバリー} (13レベル)</strong> ミュータジェンの効果を受けている間に別のミュータジェンを摂取した場合、どちらもポリモーフのトレイトを持ち通常は同時に機能しないにもかかわらず、両方のミュータジェンの恩恵と欠点を同時に得ることができる。2つのミュータジェンの恩恵を受けている間にさらに別のミュータジェンの効果を受けた場合、あなたは前のミュータジェンのうち1つを選んでその恩恵を失うが、すべてのミュータジェンの欠点は維持する。2つのミュータジェンの効果を受けている間に、ミュータジェンでないポリモーフ効果を受けた場合、あなたはミュータジェンの恩恵を失うが、両方の欠点は維持する。あなたの研究分野のバイアルの恩恵は、あなたが選んだミュータジェン1つに適用される。</p>"
     },
     "Abundant Vials": {
-      "name": "アバンダント・ヴァイアルズ/Abundant Vials",
-      "description": "<p>あなたは永続的に@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}状態であり、その追加アクションは@UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]{クイック・アルケミー}を使用してクイック・ヴァイアルを作成するためにのみ使用できる。@UUID[Compendium.pf2e.classfeatures.Item.76cwNLJEm4Yetnee]{ダブル・ブリュー}や同様のアビリティを持っていても、このアクションで作成できる小瓶は1つだけである。</p>"
+      "name": "アバンダント・バイアルズ/Abundant Vials",
+      "description": "<p>あなたは永続的に@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}状態であり、その追加アクションは@UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]{クイック・アルケミー}を使用してクイック・バイアルを作成するためにのみ使用できる。@UUID[Compendium.pf2e.classfeatures.Item.76cwNLJEm4Yetnee]{ダブル・ブリュー}や同様のアビリティを持っていても、このアクションで作成できる小瓶は1つだけである。</p>"
     },
     "Bloodline: Phoenix": {
       "name": "ブラッドライン：フェニックス/Bloodline: Phoenix",
@@ -2741,7 +2741,7 @@
       "description": "<p>同じ神格の信徒の間であっても、アプローチは異なる。1レベル時に、あなたは修道院聖職者かウォー・プリーストのいずれかを選択し、その最初の教義の恩恵を得る。3レベル時、およびその後4レベルごとに、あなたは自分の教義から別の恩恵を得る。</p>\n<ul>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.ZZzLMOUAtBVgV1DF]{修道院聖職者}</li>\n<li>@UUID[Compendium.pf2e.classfeatures.Item.0Aocw3igLwna9cjp]{ウォー・プリースト}</li>\n</ul>"
     },
     "Lore": {
-      "name": "《専門知識》/Lore",
+      "name": "ロア/Lore",
       "description": "<p>知識と情報はあなたのもとに自由に集まる。あなたはこの伝承を用いて力を得ることもあれば、多元宇宙の神聖な神秘を理解しようとすることもあるだろう。あなたは伝説的なアカシック・レコードへの導管を持っているかもしれないし、すべての生きとし生けるものの集合的無意識への微かなテレパシーによる繋がりを維持しているかもしれない。あるいは、アバダー、イローリ、ネセス、イローリの学識ある甥であるグルハスタ、運命を司るフェイの三位一体の女神であるマグド、あるいはモナドとして知られるイーオンの神格といった神々の足跡を辿るのかもしれない。</p>\n<p><strong>授けられし呪文</strong></p><ul><li><strong>キャントリップ：</strong> @UUID[Compendium.pf2e.spells-srd.Item.OhD2Z6rIGGD5ocZA]{リード・オーラ}</li><li><strong>1レベル：</strong> @UUID[Compendium.pf2e.spells-srd.Item.D442XMADp01qJ7Cs]{マインドリンク}</li><li><strong>3レベル：</strong> @UUID[Compendium.pf2e.spells-srd.Item.ZYoC630tNGutgbE0]{ハイパーコグニション}</li><li><strong>6レベル：</strong> @UUID[Compendium.pf2e.spells-srd.Item.5BbU1V6wGSGbrmRD]{ネバー・マインド}</li></ul><p><strong>啓示 呪文</strong></p><ul><li><strong>初期：</strong> @UUID[Compendium.pf2e.spells-srd.Item.k2QrUk7jWMAWozMh]{ブレイン・ドレイン}</li><li><strong>上級：</strong> @UUID[Compendium.pf2e.spells-srd.Item.LbPLNWlLCxKCo5gF]{アクセス・ロア}</li><li><strong>大いなる：</strong> @UUID[Compendium.pf2e.spells-srd.Item.XULNb8ItUsfupxqH]{ドレッド・シークレット}</li></ul><p><strong>関連領域</strong> 知識、魔法、秘密、真実</p>\n<p><strong>神秘のスキル</strong> 《オカルト学》およびあなたが選択した1つの《専門知識》スキル</p>\n<p><strong>オラクルの特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.55WR55op9BIdgF1B]{ウィスパーズ・オブ・ウィークネス}</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.XQjR07LkDedC7tkc]{カース・オブ・トレントシャル・ナレッジ}</p>"
     },
     "Leaf Order": {
@@ -2858,8 +2858,8 @@
       "description": "<p>あなたのパトロンが語りかけるとき、それは一つに響き合う声の合唱となる。それらは、町の祭りや評議会の集まりの最中、全員が協力することに成否がかかっているときに、あなたの隣人たちの顔として最初に現れた。あなたはパトロンの力を背に、共通の目標のためにコミュニティを団結させた。あなたのパトロンは、未知の目的のために臣下の集団を集める単一の存在かもしれないし、同じ志を持つ神々や精霊の盟約かもしれない。いずれにせよ、あなたのパトロンは――ひいてはあなたも――定命の者は協力することでより強くなれると理解している。</p>\n<p><strong>呪文リスト</strong>神聖</p>\n<p><strong>パトロンスキル</strong> 《社会》</p>\n<p><strong>レッスン・オブ・コミュニティ・ナレッジ</strong>あなたのパトロンは、共通の目的を持つグループを助けるために情報を共有することの重要性をあなたに教えた。あなたはヘックス・キャントリップである@UUID[Compendium.pf2e.spells-srd.Item.TRlI5zAbNW2hDiH9]{シェア・ビジョン}を獲得し、あなたの使い魔は@UUID[Compendium.pf2e.spells-srd.Item.nXmC2Xx9WmS5NsAo]{シェア・ロア}を習得する。</p>\n<p><strong>援護の使い魔〈援護〉</strong>あなたの使い魔は、助けとなるあらゆる種類の芸を知っている！あなたがヘックスを詠唱または〈維持〉し、かつあなたの使い魔が味方に隣接している場合、その味方は、あなたの次のターンの開始前までにその味方が行う次の非攻撃スキル判定に+2の状況ボーナスを得る。</p>"
     },
     "Field Discovery (Mutagenist)": {
-      "name": "フィールド・ディスカバリー(ムタジェニスト)/Field Discovery (Mutagenist)",
-      "description": "<p>あなたの血を流れるミューテージェンが、あなたの身体の化学的性質を変化させた。ミューテージェンの影響を受けている間に頑健セーヴを行い、その結果が気に入らない場合、あなたはそのミューテージェンの効果を終了させることで、そのセーヴを振り直すことができる。これは幸運効果である。</p>"
+      "name": "フィールド・ディスカバリー(ミュータジェニスト)/Field Discovery (Mutagenist)",
+      "description": "<p>あなたの血を流れるミュータジェンが、あなたの身体の化学的性質を変化させた。ミュータジェンの影響を受けている間に頑健セーヴを行い、その結果が気に入らない場合、あなたはそのミュータジェンの効果を終了させることで、そのセーヴを振り直すことができる。これは幸運効果である。</p>"
     },
     "Hyper Boosters": {
       "name": "ハイパー・ブースターズ/Hyper Boosters",
@@ -2938,7 +2938,7 @@
       "description": "<p>あなたは春に繁栄し、夏に怠け、秋に与え、冬に奪う。あなたは冷気、火炎、虚無、木の中から選択したものの@UUID[Compendium.pf2e.feats-srd.Item.9rHQn9Hn8JhY2e4V]{エナジャイズド・スパーク}の特技を得る。あなたが〈ストライク〉でクリティカル成功した時、木の葉、雪、花びら、あるいは揺らめく熱気の渦の中で、フリー・アクションとして〈ステップ〉できる。この能力を使用するたびに季節が回転し、変化する。</p>\n<p>あなたがスパーク・トランセンデンスを行う時、季節の移ろいによって活力を取り戻し、自身のレベルの半分に等しい一時的ヒット・ポイントを得る。これらの一時的ヒット・ポイントはあなたの次のターン開始時まで持続する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.FL24cTM3EDqWLgHA]{効果：季節の踊り手}</p>"
     },
     "Perpetual Potency (Chirurgeon)": {
-      "name": "パーペチュアル・ポテンシー(キルジャン)/Perpetual Potency (Chirurgeon)",
+      "name": "パーペチュアル・ポテンシー(カイラージャン)/Perpetual Potency (Chirurgeon)",
       "description": "<p>あなたの永続的な注入は向上し、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{クイック・アルケミー}を使用して、より強力なアイテムをコストなしで作成できるようになる。あなたが選択できるアイテムは、あなたの〈研究〉分野に依存し、あなたの調合書になければならない。</p>\n<p>〈治癒〉のトレイトを持つ6レベル以下のエリクサーを2つ選択せよ。</p>"
     },
     "Churning Mind": {
@@ -3070,7 +3070,7 @@
       "description": "<p><strong>使用法</strong>着用クロークまたはベルト</p><hr /><p>この獣の皮は、肩に着用していようと腰に巻いていようと、最も過酷な環境で生き残るために必要なすべてである。日課の準備を行う際、冷気、電撃、火炎、毒、または音波ダメージを選択する。その毛皮はそのダメージ種別に同調する。</p>\n<p><strong>内在</strong>あなたは、その毛皮が同調しているダメージ種別に対する、自身のレベルの半分に等しい耐性を得る。また、環境による寒冷および酷暑の影響を1段階軽減されたものとして扱う。</p>\n<p><strong>超越—</strong>@UUID[Compendium.pf2e.actionspf2e.Item.NdMSHDtV9G7MbdP2]{荒野の生存} <span class=\"action-glyph\">1</span> (オーラ、手作業、超越)</p>\n<p>@Embed[Compendium.pf2e.actionspf2e.Item.NdMSHDtV9G7MbdP2 inline]</p>"
     },
     "Advanced Vials (Mutagenist)": {
-      "name": "アドヴァンスト・ヴァイアルズ(ミュータジェニスト)/Advanced Vials (Mutagenist)",
+      "name": "アドバンスト・バイアルズ(ミュータジェニスト)/Advanced Vials (Mutagenist)",
       "description": "<p>フィールド・バイアルを1つ飲むと、同じ持続時間の間、物理ダメージに対する耐性も得る。その耐性は、あなたのレベルの半分に等しい。</p>"
     },
     "Infused Reagents": {
@@ -3106,7 +3106,7 @@
       "description": "<p>あなたにとって、時間は他の誰とも異なる流れ方をしている。あなたは、白髪が1本混じる、皺が消えるといった日常的な外見年齢のわずかな変化や、時折あなたの動きにわずかに遅れてついてくる幽霊のような時間的な残像として現れるような、時間の揺らぎを経験する。あなたの呪いの影響が強まるにつれ、あなたにとって時間の経過はより支離滅裂なものとなり、他者の素早いアクションに反応することが困難になる。あなたは、リアクションやフリー・アクションによってあなたに対して行われる攻撃に対するACに状況ペナルティを受け、また、あなたを@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態や@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}状態にする効果に対するセーヴィング・スローに、あなたのカースバウンド値に等しい状況ペナルティを受ける。</p>"
     },
     "Advanced Vials": {
-      "name": "アドバンスト・ヴァイアルズ/Advanced Vials",
+      "name": "アドバンスト・バイアルズ/Advanced Vials",
       "description": "<p>あなたの経験は、あなたの研究分野に特有の恩恵を持つ野外用小瓶を改良する助けとなる。</p>"
     },
     "Lesson of Mischief": {
@@ -3214,7 +3214,7 @@
       "description": "<p>あなたの血に宿る魔法の力により、あなたが傷つける、あるいは癒やす呪文は、他の呪文の使い手よりも強力になる。あなたが呪文スロットからダメージを与えるまたはヒット・ポイントを回復させる呪文を〈呪文の発動〉する際、あなたはその呪文のダメージまたは回復量に、その呪文のランクに等しい状況ボーナスを得る。これは、その呪文を発動した際に与える即時ダメージまたは回復量にのみ適用される。その呪文が対象のクリーチャーを複数回ダメージを与えたり回復させたりする場合であっても、個々のクリーチャーがこのダメージを受けたり、この回復から恩恵を得たりするのは、呪文1回につき1回のみである。</p>"
     },
     "Perpetual Perfection (Chirurgeon)": {
-      "name": "パーペチュアル・パーフェクション(サージャン)/Perpetual Perfection (Chirurgeon)",
+      "name": "パーペチュアル・パーフェクション(カイラージャン)/Perpetual Perfection (Chirurgeon)",
       "description": "<p>あなたは永続的な注入を完成させた。これにより、あなたは@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{クイック・アルケミー}を使用して、コストなしでさらに強力なアイテムを作成できる。あなたが選択できるアイテムは、あなたの研究分野に依存し、かつあなたの公式本になければならない。</p>\n<p>「回復」のトレイトを持つ11レベル以下のエリクサーを2つ選択する。</p>"
     },
     "Light Mortar Innovation": {
