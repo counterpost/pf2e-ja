@@ -327,7 +327,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "化学科学の方法論"
+          "value": "錬金術科学の手法"
         }
       ]
     },
@@ -3293,7 +3293,7 @@
     },
     "Revelation's Focus": {
       "name": "レベレーションズ・フォーカス/Revelation's Focus",
-      "description": "<p>あなたのミステリーのさらなる範囲は無限の魔法の泉を提供する。あなたが〔再フォーカス〕を行うとき、あなたは1ではなく全てのフォーカス・ポイントを取り戻す。</p>",
+      "description": "<p>あなたの神秘のさらなる範囲は無限の魔法の泉を提供する。あなたが〔再フォーカス〕を行うとき、あなたは1ではなく全てのフォーカス・ポイントを取り戻す。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Histrionic Injury": {
@@ -19735,7 +19735,7 @@
     },
     "Mutant Physique": {
       "name": "ミュータント・フィジーク/Mutant Physique",
-      "description": "<p>身体の形状に影響を与える基本的な変異薬は、あなたの内に潜む獣を引き出し、ほぼ無敵にし、またはあなたの身体をより弾力的にすることができる。リストにある変異薬の影響を受けている間、あなたは追加の恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.IQK9N2mEOyAj3iWU]{ベスティアル・ミュータジェン}</strong>あなたは変異薬のアイテム・ボーナスをあなたの《威圧》判定に得る。さらに、あなたの爪と顎のダメージダイスのサイズを一段階増加させ、致死的d10トレイトを得る。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH]{ジャガーノート・ミュータジェン}</strong>あなたは耐性を全ての物理ダメージに対してレベルの半分だけ得る。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.5MKBwpE401uz4kNN]{クイックシルバー・ミュータジェン}</strong>あなたは脚を伸ばし、10フィートまで〔ステップ〕することができ、体をつぶすことができるので、すき間を通り抜けることができ、サイズが一つ小さいかのように扱われ、圧迫の効果も受ける。</p></li></ul><hr /><p><strong>特別</strong>あなたが複数の変異薬の効果を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{グレーター・フィールド・ディスカヴァリー(ミュータジェニスト)}を持っている場合)、あなたは全ての関連する恩恵を得る。</p>",
+      "description": "<p>身体の形状に影響を与える基本的な変異薬は、あなたの内に潜む獣を引き出し、ほぼ無敵にし、またはあなたの身体をより弾力的にすることができる。リストにある変異薬の影響を受けている間、あなたは追加の恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.IQK9N2mEOyAj3iWU]{ベスティアル・ミュータジェン}</strong>あなたは変異薬のアイテム・ボーナスをあなたの《威圧》判定に得る。さらに、あなたの爪と顎のダメージダイスのサイズを一段階増加させ、致死的d10トレイトを得る。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH]{ジャガーノート・ミュータジェン}</strong>あなたは耐性を全ての物理ダメージに対してレベルの半分だけ得る。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.5MKBwpE401uz4kNN]{クイックシルバー・ミュータジェン}</strong>あなたは脚を伸ばし、10フィートまで〔ステップ〕することができ、体をつぶすことができるので、すき間を通り抜けることができ、サイズが一つ小さいかのように扱われ、圧迫の効果も受ける。</p></li></ul><hr /><p><strong>特別</strong>あなたが複数の変異薬の効果を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{グレーター・フィールド・ディスカバリー(ミュータジェニスト)}を持っている場合)、あなたは全ての関連する恩恵を得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Thaumaturge Dedication": {
@@ -20630,7 +20630,7 @@
     },
     "First Revelation": {
       "name": "ファースト・レベレーション/First Revelation",
-      "description": "<p>あなたはあなたのミステリーの初期の明示呪文を得る。それを持っていない場合、1つのフォーカス・ポイントのフォーカス・プールが得られる。あなたはミステリーの対立する性質を調和させることで 〔再フォーカス〕 を行うことができ、これによりあなたの@UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{カースバウンド}値が1減少する。</p>",
+      "description": "<p>あなたはあなたの神秘の初期の啓示呪文を得る。それを持っていない場合、1つのフォーカス・ポイントのフォーカス・プールが得られる。あなたは神秘の対立する性質を調和させることで 〔再フォーカス〕 を行うことができ、これによりあなたの@UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{カースバウンド}値が1減少する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -22509,7 +22509,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "経験主義の方法論"
+          "value": "経験主義の手法"
         }
       ]
     },
@@ -28875,7 +28875,7 @@
     },
     "Mutant Innervation": {
       "name": "ミュータント・イナベーション/Mutant Innervation",
-      "description": "<p>あなたの心と思考に影響を与える基本的な変異体は、あなたにテレパシーで通信させたり、探知されないように保護したり、誰とでも通信できるようにすることができる。リストされている変異体の一つの影響を受けている間、あなたは追加で恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.wbr6rkyaVYnDhdgV]{コグニティブ・ミュータジェン}</strong>あなたはまた、その変異体のアイテム・ボーナスを《欺瞞》、 《交渉》、 《威圧》、 メディスン、 《自然》、 《芸能》、 《宗教》、および《生存術》判定に得る。さらに、あなたは自分の言語を共有するクリーチャーと60フィート内でテレパシーで通信できる。その通信は一方通行でなく、確立された後は、接触したクリーチャーもあなたと通信できる。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.bOPQDM54W8ZDoULY]{セリーン・ミュータジェン}</strong>探知、啓示、及び念視エフェクトは9位(または17レベル)以下はあなたやあなたの所持品、オーラの何も検出しない。例えば、マジック探知はエリア内の他の魔法を検出するが、あなたにかかっている魔法は検出しない。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.YwRAHWW8yUI07sy9]{シルバータング・ミュータジェン}</strong>あなたは《欺瞞》、 《交渉》、 《威圧》、および《芸能》判定に対する状況ペナルティを無視する。さらに、あなたの言葉は言語の壁を超越する。あなたの言葉を聞いているすべての人が、あなたがその言語を話しているかのようにあなたの言葉を聞く(ただし、実際にはその言語を話しておらず、この能力によって追加の言語を理解することはできない)。</p></li></ul><hr /><p><strong>特殊</strong>あなたが複数の変異体の影響を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{グレーター・フィールド・ディスカヴァリー(ミュータジェニスト)}など)、あなたは関連する全ての恩恵を得る。</p>",
+      "description": "<p>あなたの心と思考に影響を与える基本的な変異体は、あなたにテレパシーで通信させたり、探知されないように保護したり、誰とでも通信できるようにすることができる。リストされている変異体の一つの影響を受けている間、あなたは追加で恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.wbr6rkyaVYnDhdgV]{コグニティブ・ミュータジェン}</strong>あなたはまた、その変異体のアイテム・ボーナスを《欺瞞》、 《交渉》、 《威圧》、 メディスン、 《自然》、 《芸能》、 《宗教》、および《生存術》判定に得る。さらに、あなたは自分の言語を共有するクリーチャーと60フィート内でテレパシーで通信できる。その通信は一方通行でなく、確立された後は、接触したクリーチャーもあなたと通信できる。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.bOPQDM54W8ZDoULY]{セリーン・ミュータジェン}</strong>探知、啓示、及び念視エフェクトは9位(または17レベル)以下はあなたやあなたの所持品、オーラの何も検出しない。例えば、マジック探知はエリア内の他の魔法を検出するが、あなたにかかっている魔法は検出しない。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.YwRAHWW8yUI07sy9]{シルバータング・ミュータジェン}</strong>あなたは《欺瞞》、 《交渉》、 《威圧》、および《芸能》判定に対する状況ペナルティを無視する。さらに、あなたの言葉は言語の壁を超越する。あなたの言葉を聞いているすべての人が、あなたがその言語を話しているかのようにあなたの言葉を聞く(ただし、実際にはその言語を話しておらず、この能力によって追加の言語を理解することはできない)。</p></li></ul><hr /><p><strong>特殊</strong>あなたが複数の変異体の影響を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{グレーター・フィールド・ディスカバリー(ミュータジェニスト)}など)、あなたは関連する全ての恩恵を得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Mimic Protections": {
@@ -28933,7 +28933,7 @@
     },
     "Glean Lore": {
       "name": "グリーン・ロア/Glean Lore",
-      "description": "<p>あなたは神聖な知識を活用し、様々な有用な情報にアクセスする。</p>\n<p>あなたが得る情報を理解するために@Check[religion]判定を行う。GMはDCを設定し(DCに対する@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}と同様)、あなたのミステリーから遠く離れたトピックの判定のDCを調整する可能性がある。</p>\n<hr />\n<p><strong>クリティカル成功</strong>あなたは知識を正確に理解するか、神聖からのあなたの状況に関する有用な手がかりを得る。</p>\n<p><strong>成功</strong>あなたはそのトピックについて2つの情報を学び、1つは真実で、もう1つは誤りだが、どちらがどちらかは分からない。</p>\n<p><strong>失敗</strong>あなたは間違った情報を思い出すか、誤ったり誤解を招く手がかりを得る。</p>\n<p><strong>クリティカル失敗</strong>あなたは2つの間違った情報を思い出すか、2つの誤ったり誤解を招く手がかりを得る。</p>",
+      "description": "<p>あなたは神聖な知識を活用し、様々な有用な情報にアクセスする。</p>\n<p>あなたが得る情報を理解するために@Check[religion]判定を行う。GMはDCを設定し(DCに対する@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}と同様)、あなたの神秘から遠く離れたトピックの判定のDCを調整する可能性がある。</p>\n<hr />\n<p><strong>クリティカル成功</strong>あなたは知識を正確に理解するか、神聖からのあなたの状況に関する有用な手がかりを得る。</p>\n<p><strong>成功</strong>あなたはそのトピックについて2つの情報を学び、1つは真実で、もう1つは誤りだが、どちらがどちらかは分からない。</p>\n<p><strong>失敗</strong>あなたは間違った情報を思い出すか、誤ったり誤解を招く手がかりを得る。</p>\n<p><strong>クリティカル失敗</strong>あなたは2つの間違った情報を思い出すか、2つの誤ったり誤解を招く手がかりを得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Necromantic Resistance (Undead Slayer)": {
@@ -33001,7 +33001,7 @@
     },
     "Oracle Dedication": {
       "name": "オラクル・デディケーション/Oracle Dedication",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.classfeatures.Item.PRJYLksQEwT39bTl]{ミステリー}を選ぶ。あなたは訓練済みにおいて《宗教》とその神秘のスキルにおいて熟達する；もしあなたがすでに訓練済みであった場合、あなたは自分の選択したスキルにおいて訓練済みになる。あなたはあなたの神秘に関連した呪いを得る。これはオラクル呪いの通常のルールに従う。</p>\n<p>あなたはオラクルのように呪文を発動し、〔呪文の発動〕アクティビティを得る。あなたは2つのカントリップを持つ呪文レパートリーを得る。一般的な神のカントリップまたはあなたが学ぶか発見する別の神のカントリップのいずれか。あなたは呪文攻撃修正値と呪文 DCの統計で訓練済みである。オラクルアーキタイプの呪文に対するあなたの主要な呪文発動特性は魅力であり、これらは神聖なオラクル呪文である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ngVnNmi1Qke3lTy0]{Oracle}</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.classfeatures.Item.PRJYLksQEwT39bTl]{神秘}を選ぶ。あなたは訓練済みにおいて《宗教》とその神秘のスキルにおいて熟達する；もしあなたがすでに訓練済みであった場合、あなたは自分の選択したスキルにおいて訓練済みになる。あなたはあなたの神秘に関連した呪いを得る。これはオラクル呪いの通常のルールに従う。</p>\n<p>あなたはオラクルのように呪文を発動し、〔呪文の発動〕アクティビティを得る。あなたは2つのカントリップを持つ呪文レパートリーを得る。一般的な神のカントリップまたはあなたが学ぶか発見する別の神のカントリップのいずれか。あなたは呪文攻撃修正値と呪文 DCの統計で訓練済みである。オラクルアーキタイプの呪文に対するあなたの主要な呪文発動特性は魅力であり、これらは神聖なオラクル呪文である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ngVnNmi1Qke3lTy0]{Oracle}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -33858,7 +33858,7 @@
     },
     "Oracular Providence": {
       "name": "オラキュラー・プロビデンス/Oracular Providence",
-      "description": "<p>あなたのミステリーは、真に驚くべき神の力の深い蓄えへのアクセスを与える。あなたは追加の10レベルの呪文スロットを得る。</p>",
+      "description": "<p>あなたの神秘は、真に驚くべき神の力の深い蓄えへのアクセスを与える。あなたは追加の10レベルの呪文スロットを得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -35966,7 +35966,7 @@
     },
     "Domain Acumen": {
       "name": "領域への洞察/Domain Acumen",
-      "description": "<p>すべてのオラクルのミステリーは、神々が供給する神聖な領域に接触し、その力にアクセスできる。あなたは、ミステリーに関連する領域の中から、すでに初期領域呪文を持っていないものを1つ選ぶ。その領域から初期領域呪文を得る。それを啓示呪文としてキャストする。</p> <hr /> <p> <strong>特別</strong>あなたはこの特技を複数回選ぶことができ、選ぶたびに異なる領域を選び、その領域呪文を啓示呪文として得る。</p>",
+      "description": "<p>すべてのオラクルの神秘は、神々が供給する神聖な領域に接触し、その力にアクセスできる。あなたは、神秘に関連する領域の中から、すでに初期領域呪文を持っていないものを1つ選ぶ。その領域から初期領域呪文を得る。それを啓示呪文としてキャストする。</p> <hr /> <p> <strong>特別</strong>あなたはこの特技を複数回選ぶことができ、選ぶたびに異なる領域を選び、その領域呪文を啓示呪文として得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Reclaimant Plea": {
@@ -49022,14 +49022,14 @@
     },
     "Controlled Blast": {
       "name": "コントロールド・ブラスト/Controlled Blast",
-      "description": "<p>あなたは爆発物の効果を最大化し、爆風のすべてのパラメーターを入念に制御する。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.ozvYhY4hG1deXly8]{ダイレクショナル・ボムズ}特技を持っているなら、あなたはそれを@UUID[Compendium.pf2e.actionspf2e.Item.vvYsE7OiSSCXhPdr]{〈セット・エクスプロージヴズ〉}または@UUID[Compendium.pf2e.feats-srd.Item.KCwXj3y7Nm4e3NbI]{デモリション・チャージ}で使用できる、爆弾を投げなかったとしても。もしあなたが@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{フィールド・ディスカヴァリー(ボンバー)}または@UUID[Compendium.pf2e.feats-srd.Item.gyVcJfZTmBytLsXq]{エクスパンデッド・スプラッシュ}特技を持っているなら、爆薬をセットするときや爆破チャージを使用するとき、追加の飛び散りダメージを1つの爆弾に適用でき、拡張された飛散からの増加した飛び散り範囲をすべての爆弾に適用できる。</p>",
+      "description": "<p>あなたは爆発物の効果を最大化し、爆風のすべてのパラメーターを入念に制御する。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.ozvYhY4hG1deXly8]{ダイレクショナル・ボムズ}特技を持っているなら、あなたはそれを@UUID[Compendium.pf2e.actionspf2e.Item.vvYsE7OiSSCXhPdr]{〈セット・エクスプロージヴズ〉}または@UUID[Compendium.pf2e.feats-srd.Item.KCwXj3y7Nm4e3NbI]{デモリション・チャージ}で使用できる、爆弾を投げなかったとしても。もしあなたが@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{フィールド・ディスカバリー(ボンバー)}または@UUID[Compendium.pf2e.feats-srd.Item.gyVcJfZTmBytLsXq]{エクスパンデッド・スプラッシュ}特技を持っているなら、爆薬をセットするときや爆破チャージを使用するとき、追加の飛び散りダメージを1つの爆弾に適用でき、拡張された飛散からの増加した飛び散り範囲をすべての爆弾に適用できる。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
           "value": "爆破工作員デディケーション"
         },
         {
-          "value": "ボンバーの野原の発見、指向性爆弾、または拡張飛散"
+          "value": "ボンバーのフィールド・ディスカバリー、指向性爆弾、または拡張飛散"
         }
       ]
     },
@@ -51510,7 +51510,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "法医学の方法論"
+          "value": "法医学の手法"
         }
       ]
     },

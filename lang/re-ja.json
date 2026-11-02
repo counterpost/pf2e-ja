@@ -6844,7 +6844,7 @@
           "QuickenedAddendum": "あなたは永久に加速状態となり、その追加のアクションを〈思い出す〉ために使用できる。"
         },
         "Methodology": {
-          "Prompt": "方法論を1つ選択する。"
+          "Prompt": "手法を1つ選択する。"
         },
         "PursueALead": {
           "Label": "手がかりの追跡 ―― 調査ボーナス"
