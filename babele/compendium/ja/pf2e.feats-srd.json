@@ -8,7 +8,7 @@
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
         {
-          "value": "スピリット・インスティンクト"
+          "value": "スピリットの本能"
         }
       ]
     },
@@ -1527,7 +1527,7 @@
       "source": "Pathfinder Core Rulebook",
       "prerequisites": [
         {
-          "value": "動物本能"
+          "value": "動物の本能"
         }
       ]
     },
@@ -3069,7 +3069,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "ドラゴン本能"
+          "value": "ドラゴンの本能"
         }
       ]
     },
@@ -3906,8 +3906,8 @@
       ]
     },
     "Instinct Ability": {
-      "name": "インスティンクト・アビリティ/Instinct Ability",
-      "description": "<p>あなたはバーバリアンのデディケーションのために選択した本能(インスティンクト)に対する本能能力を獲得する。</p>",
+      "name": "本能能力/Instinct Ability",
+      "description": "<p>あなたはバーバリアンのデディケーションのために選択した本能に対する本能能力を獲得する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -7187,7 +7187,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "迷信本能"
+          "value": "迷信の本能"
         }
       ]
     },
@@ -9056,7 +9056,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "動物本能"
+          "value": "動物の本能"
         }
       ]
     },
@@ -12729,7 +12729,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "精霊の本能"
+          "value": "スピリットの本能"
         }
       ]
     },
@@ -15632,7 +15632,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "動物の本能または未開の秩序"
+          "value": "動物の本能または野性の宗派"
         }
       ]
     },
@@ -15963,7 +15963,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "動物本能または未開の秩序"
+          "value": "動物の本能または野性の宗派"
         }
       ]
     },
@@ -20839,7 +20839,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "スピリットインスティンクト"
+          "value": "スピリットの本能"
         }
       ]
     },
@@ -26509,7 +26509,7 @@
     },
     "Animalistic Brutality": {
       "name": "アニマリスティック・ブルタリティ/Animalistic Brutality",
-      "description": "<p>あなたは動物本能との繋がりを深める。獣の怒りからのあなたの素手攻撃は、あなたが怒りを止めるまで、以下のトレイトのいずれかを得る：バックスイング、フォースフル、パリー、ラージング、またはスイープ。あなたは次に@UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{レイジ}するまでこの能力を再度使用できない。あなたは『アニマリスティック・ブルータリティ』を使用するたびに異なるトレイトを選ぶことができる。</p>",
+      "description": "<p>あなたは動物の本能との繋がりを深める。獣の怒りからのあなたの素手攻撃は、あなたが怒りを止めるまで、以下のトレイトのいずれかを得る：バックスイング、フォースフル、パリー、ラージング、またはスイープ。あなたは次に@UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{レイジ}するまでこの能力を再度使用できない。あなたは『アニマリスティック・ブルータリティ』を使用するたびに異なるトレイトを選ぶことができる。</p>",
       "selfEffect": "効果: 動物的残虐性",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -28692,7 +28692,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "巨人の本能"
+          "value": "ジャイアントの本能"
         }
       ]
     },
@@ -29245,7 +29245,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "迷信本能"
+          "value": "迷信の本能"
         }
       ]
     },
@@ -32330,7 +32330,7 @@
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
-          "value": "動物本能または未開の秩序"
+          "value": "動物の本能または野性の宗派"
         }
       ]
     },
@@ -32672,7 +32672,7 @@
     },
     "Dragon Disciple Dedication": {
       "name": "ドラゴン・ディサイプル・デディケーション/Dragon Disciple Dedication",
-      "description": "<p><strong>アクセス</strong>あなたはドラゴンスケールドまたはスペルスケールドの継承を持つコボルドであり、ドラゴン本能のバーバリアン、またはドラコニック血統のソーサラーである。</p><hr /><p>あなたは一種類のドラゴンの研究または崇拝を選び、その焦点があなたにその力を一定程度与える。あなたは、魔法の呪文DCと魔法攻撃ロールにおいて訓練済みになる。あなたはこの特技を選ぶ際にドラゴンの色を一つ選ぶ; もしあなたがドラコニック血統のソーサラーであれば、それはあなたの血統と同じ種類でなければならない。</p>\n<p>あなたは、選ばれたドラゴンの種類によって決定される一種類のダメージに対し、自分のレベルの半分に等しい耐性を得る。GMは、下記に記載されていないドラゴンの種類を選ぶことを許可する場合があり、そのダメージ種別はそのドラゴンに適したものを決定する。</p><ul><li><strong>黒または銅</strong>酸</li><li><strong>青、青銅、または雲</strong>電気</li><li><strong>真鍮、金、または赤</strong>火</li><li><strong>緑</strong>毒</li><li><strong>シルバーまたは白</strong>冷気</li></ul><p>あなたはまた、睡眠効果やあなたを@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}させる効果に対して、+1の状況ボーナスを得る。</p>\n<p><strong>特別</strong>後でソーサラーのアーキタイプを取得する場合、ドラコニック血統を選ばなければならない。</p><hr /><p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.SO9d7RSf1zqmTlmW]{ドラゴン Disciple}</p>",
+      "description": "<p><strong>アクセス</strong>あなたはドラゴンスケールドまたはスペルスケールドの継承を持つコボルドであり、ドラゴンの本能のバーバリアン、またはドラコニック血統のソーサラーである。</p><hr /><p>あなたは一種類のドラゴンの研究または崇拝を選び、その焦点があなたにその力を一定程度与える。あなたは、魔法の呪文DCと魔法攻撃ロールにおいて訓練済みになる。あなたはこの特技を選ぶ際にドラゴンの色を一つ選ぶ; もしあなたがドラコニック血統のソーサラーであれば、それはあなたの血統と同じ種類でなければならない。</p>\n<p>あなたは、選ばれたドラゴンの種類によって決定される一種類のダメージに対し、自分のレベルの半分に等しい耐性を得る。GMは、下記に記載されていないドラゴンの種類を選ぶことを許可する場合があり、そのダメージ種別はそのドラゴンに適したものを決定する。</p><ul><li><strong>黒または銅</strong>酸</li><li><strong>青、青銅、または雲</strong>電気</li><li><strong>真鍮、金、または赤</strong>火</li><li><strong>緑</strong>毒</li><li><strong>シルバーまたは白</strong>冷気</li></ul><p>あなたはまた、睡眠効果やあなたを@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}させる効果に対して、+1の状況ボーナスを得る。</p>\n<p><strong>特別</strong>後でソーサラーのアーキタイプを取得する場合、ドラコニック血統を選ばなければならない。</p><hr /><p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.SO9d7RSf1zqmTlmW]{ドラゴン Disciple}</p>",
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Panache Paragon": {
@@ -33114,7 +33114,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "精霊の本能"
+          "value": "スピリットの本能"
         }
       ]
     },
@@ -42435,7 +42435,7 @@
       "source": "Pathfinder Rage of Elements",
       "prerequisites": [
         {
-          "value": "エレメンタル本能"
+          "value": "元素の本能"
         }
       ]
     },
@@ -43763,7 +43763,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "未開の秩序"
+          "value": "野性の宗派"
         }
       ]
     },
@@ -43808,7 +43808,7 @@
     },
     "Share Rage": {
       "name": "シェア・レイジ/Share Rage",
-      "description": "<p><strong>必要条件</strong>あなたは最後に rageをした以降、この能力を使用していない。</p><hr /><p>あなたは味方の怒りを煽る。あなたが rageしている間、1体の同意するクリーチャーが30フィート内でレイジアクションの効果を得るが、集中アクションは使用できる。あなたのインスティンクトや技や類似のものでの追加の恩恵は得られない。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.RoGEt7lrCdfaueB9]{効果: Share レイジ}</p>",
+      "description": "<p><strong>必要条件</strong>あなたは最後に rageをした以降、この能力を使用していない。</p><hr /><p>あなたは味方の怒りを煽る。あなたが rageしている間、1体の同意するクリーチャーが30フィート内でレイジアクションの効果を得るが、集中アクションは使用できる。あなたの本能や技や類似のものでの追加の恩恵は得られない。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.RoGEt7lrCdfaueB9]{効果: Share レイジ}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Improvisational Warrior": {
@@ -45198,7 +45198,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "巨人の本能"
+          "value": "ジャイアントの本能"
         }
       ]
     },
@@ -47458,7 +47458,7 @@
       "source": "Pathfinder Rage of Elements",
       "prerequisites": [
         {
-          "value": "エレメンタルインスティンクト"
+          "value": "元素の本能"
         }
       ]
     },
@@ -50927,7 +50927,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "動物本能"
+          "value": "動物の本能"
         }
       ]
     },
