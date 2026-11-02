@@ -288,11 +288,11 @@
     },
     "rCo3WVukDgsbPhLD": {
       "name": "スポア・クラウド/Spore Cloud",
-      "description": "<p>ヴロックは自身の体から胞子の雲を放ち、隣接するすべてのクリーチャーに@Damage[2d8[poison]]ダメージを与える。この方法でダメージを受けた各クリーチャーは、@Check[type:fortitude|dc:28|traits:damaging-effect]セーヴを行わなければならず、失敗すると胞子が皮膚に浸透して太く緑色のつるへと成長するため、@Damage[2d8[persistent,piercing]]ダメージを受ける。つるは10ラウンド後に成長を停止し、それまでに削り落とさなければ[[/br 1d4 #Spore Cloud Duration]]{1d4日}で枯れ落ちる。つるは、そのクリーチャーが善の呪文の影響を受けるか、つるに<em>@UUID[Compendium.pf2e.equipment-srd.Item.z9T4c1hXwOotsMCp]{聖水}</em>を(〈扱う〉アクションで)塗布することで破壊できる。</p>\n<p>ヴロックがSpore Cloudを使用すると、その能力は[[/br 1d6 #Recharge Spore Cloud]]{1d6ラウンド}の間使用できない。</p>"
+      "description": "<p>ヴロックは自身の体から胞子の雲を放ち、隣接するすべてのクリーチャーに@Damage[2d8[poison]]ダメージを与える。この方法でダメージを受けた各クリーチャーは、@Check[type:fortitude|dc:28|traits:damaging-effect]セーヴを行わなければならず、失敗すると胞子が皮膚に浸透して太く緑色のつるへと成長するため、@Damage[2d8[persistent,piercing]]ダメージを受ける。つるは10ラウンド後に成長を停止し、それまでに削り落とさなければ[[/br 1d4 #Spore Cloud Duration]]{1d4日}で枯れ落ちる。つるは、そのクリーチャーが善の呪文の影響を受けるか、つるに<em>@UUID[Compendium.pf2e.equipment-srd.Item.z9T4c1hXwOotsMCp]{ホーリー・ウォーター}</em>を(〈扱う〉アクションで)塗布することで破壊できる。</p>\n<p>ヴロックがSpore Cloudを使用すると、その能力は[[/br 1d6 #Recharge Spore Cloud]]{1d6ラウンド}の間使用できない。</p>"
     },
     "Spore Cloud": {
       "name": "スポア・クラウド",
-      "description": "<p>ヴロックは自身の体から胞子の雲を放ち、隣接するすべてのクリーチャーに@Damage[2d8[poison]]ダメージを与える。この方法でダメージを受けた各クリーチャーは、@Check[type:fortitude|dc:28|traits:damaging-effect]セーヴを行わなければならず、失敗すると胞子が皮膚に浸透して太く緑色のつるへと成長するため、@Damage[2d8[persistent,piercing]]ダメージを受ける。つるは10ラウンド後に成長を停止し、それまでに削り落とさなければ[[/br 1d4 #Spore Cloud Duration]]{1d4日}で枯れ落ちる。つるは、そのクリーチャーが善の呪文の影響を受けるか、つるに<em>@UUID[Compendium.pf2e.equipment-srd.Item.z9T4c1hXwOotsMCp]{聖水}</em>を(〈扱う〉アクションで)塗布することで破壊できる。</p>\n<p>ヴロックがSpore Cloudを使用すると、その能力は[[/br 1d6 #Recharge Spore Cloud]]{1d6ラウンド}の間使用できない。</p>"
+      "description": "<p>ヴロックは自身の体から胞子の雲を放ち、隣接するすべてのクリーチャーに@Damage[2d8[poison]]ダメージを与える。この方法でダメージを受けた各クリーチャーは、@Check[type:fortitude|dc:28|traits:damaging-effect]セーヴを行わなければならず、失敗すると胞子が皮膚に浸透して太く緑色のつるへと成長するため、@Damage[2d8[persistent,piercing]]ダメージを受ける。つるは10ラウンド後に成長を停止し、それまでに削り落とさなければ[[/br 1d4 #Spore Cloud Duration]]{1d4日}で枯れ落ちる。つるは、そのクリーチャーが善の呪文の影響を受けるか、つるに<em>@UUID[Compendium.pf2e.equipment-srd.Item.z9T4c1hXwOotsMCp]{ホーリー・ウォーター}</em>を(〈扱う〉アクションで)塗布することで破壊できる。</p>\n<p>ヴロックがSpore Cloudを使用すると、その能力は[[/br 1d6 #Recharge Spore Cloud]]{1d6ラウンド}の間使用できない。</p>"
     },
     "nLB0CpyqlvJpfjnr": {
       "name": "朦朧化させる叫び/Stunning Screech",
