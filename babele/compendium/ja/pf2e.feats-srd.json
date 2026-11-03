@@ -1345,7 +1345,7 @@
     },
     "Disarming Flair": {
       "name": "ディスアーミング・フレア/Disarming Flair",
-      "description": "<p>あなたは敵の手から武器をスタイリッシュに叩き落とす。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}する時、そのアクションはブラバードトレイトを持つ。</p>",
+      "description": "<p>あなたは敵の手から武器をスタイリッシュに叩き落とす。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}する時、そのアクションはブラバード・トレイトを持つ。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Cutting Flattery": {
@@ -2174,7 +2174,7 @@
       ]
     },
     "Vivacious Bravado": {
-      "name": "ヴィベーシャス・ブラバド/Vivacious Bravado",
+      "name": "ヴィベーシャス・ブラバード/Vivacious Bravado",
       "description": "<p><strong>必要条件</strong>あなたはこのターンに@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{パナッシュ}を得る。</p>\n<hr />\n<p>あなたのエゴは膨れ上がり、痛みからの一時的な猶予を与える。あなたは自分のレベルに魅力修正値を加えた一時的なヒット・ポイントを得る。この効果はあなたの次のターン開始時まで持続する。</p>",
       "selfEffect": "効果: 活力ある大胆さ",
       "source": "Pathfinder Player Core 2"
@@ -14741,7 +14741,7 @@
     },
     "Pure Legion Enforcer Dedication": {
       "name": "ピュア・リージョン・エンフォーサー・デディケーション/Pure Legion Enforcer Dedication",
-      "description": "<p>あなたはラハドームの境界内において定命の理を遵守することを誓っている。任務の一環として、あなたは遭遇する可能性のある様々な種類の崇拝や神聖魔法について学んだ。あなたは《威圧》と《宗教》が訓練済みになる。もしあなたがすでにこれらのスキルの片方または両方が訓練済みであるなら、そのスキルがエキスパートになる。もしあなたがすでに両方のスキルでエキスパートであるなら、君は選択したスキルが訓練済みになる。</p>\n<p>また、君は@UUID[Compendium.pf2e.feats-srd.Item.MjQyTcV8Jiv1Jtln]{レコグナイズ・スペル}スキルアクションを得る。神聖呪文を認識しようと試みるたび、君はそれが神聖なものであることを常に判別でき、《宗教》スキル判定に+2の状況ボーナスを得る。</p>\n<p>最後に、君は以下の信条と禁忌を得る。禁忌に違反する行為を故意に行うと、GMの判断により、このアーキタイプから得た能力へのアクセスを失う。君は、適切な期間をかけてあなた自身をピュア・リージョンに再献身させることで、これらの失った能力を取り戻すことができる。通常は、自身のレベル×20gpに相当する金額を適切な大義のために寄付し、少なくとも1日の間、すべての神聖魔法(他者が発動した呪文を含む)を避けることである。</p>\n<p><strong>信条</strong>ラハドーム内のすべての神聖な物品を没収、封じ込め、または破壊すること。ラハドームから神聖な呪文の使い手を追い出すこと。</p>\n<p><strong>禁忌</strong>神聖な能力、アイテム、または呪文を使用すること。ラハドーム内での宗教の改宗活動を許可すること。神格を崇拝すること。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.FHblB2CP7wYXLsBa]{Pure Legion Enforcer}</p>",
+      "description": "<p>あなたはラハドームの境界内において定命の理を遵守することを誓っている。任務の一環として、あなたは遭遇する可能性のある様々な種類の崇拝や神聖魔法について学んだ。あなたは《威圧》と《宗教》が訓練済みになる。もしあなたがすでにこれらのスキルの片方または両方が訓練済みであるなら、そのスキルがエキスパートになる。もしあなたがすでに両方のスキルでエキスパートであるなら、あなたは選択したスキルが訓練済みになる。</p>\n<p>また、あなたは@UUID[Compendium.pf2e.feats-srd.Item.MjQyTcV8Jiv1Jtln]{レコグナイズ・スペル}スキルアクションを得る。神聖呪文を認識しようと試みるたび、あなたはそれが神聖なものであることを常に判別でき、《宗教》スキル判定に+2の状況ボーナスを得る。</p>\n<p>最後に、あなたは以下の信条と禁忌を得る。禁忌に違反する行為を故意に行うと、GMの判断により、このアーキタイプから得た能力へのアクセスを失う。あなたは、適切な期間をかけてあなた自身をピュア・リージョンに再献身させることで、これらの失った能力を取り戻すことができる。通常は、自身のレベル×20gpに相当する金額を適切な大義のために寄付し、少なくとも1日の間、すべての神聖魔法(他者が発動した呪文を含む)を避けることである。</p>\n<p><strong>信条</strong>ラハドーム内のすべての神聖な物品を没収、封じ込め、または破壊すること。ラハドームから神聖な呪文の使い手を追い出すこと。</p>\n<p><strong>禁忌</strong>神聖な能力、アイテム、または呪文を使用すること。ラハドーム内での宗教の改宗活動を許可すること。神格を崇拝すること。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.FHblB2CP7wYXLsBa]{Pure Legion Enforcer}</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -14911,7 +14911,7 @@
     },
     "Gorilla Stance": {
       "name": "ゴリラ・スタンス/Gorilla Stance",
-      "description": "<p>あなたはあなた自身を地面に低く構え、威圧的なナックル・ウォーキングの姿勢をとる。</p>\n<p>このスタンスの間、あなたが行えるストライクはゴリラ・スラムの素手攻撃のみである。これらは1d8の殴打ダメージを与え、剛腕グループに属し、バックスイング、フォースフル、組み付き、非致死、素手のトレイトを持つ。</p>\n<p>あなたがゴリラ・スタンスをとっている間、君は@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{〈登攀〉}を行うための《運動》判定に+2の状況ボーナスを得る。また、〈登攀〉を行うための《運動》判定で成功をロールした場合、代わりに大成功となる。</p>",
+      "description": "<p>あなたはあなた自身を地面に低く構え、威圧的なナックル・ウォーキングの姿勢をとる。</p>\n<p>このスタンスの間、あなたが行えるストライクはゴリラ・スラムの素手攻撃のみである。これらは1d8の殴打ダメージを与え、剛腕グループに属し、バックスイング、フォースフル、組み付き、非致死、素手のトレイトを持つ。</p>\n<p>あなたがゴリラ・スタンスをとっている間、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{〈登攀〉}を行うための《運動》判定に+2の状況ボーナスを得る。また、〈登攀〉を行うための《運動》判定で成功をロールした場合、代わりに大成功となる。</p>",
       "selfEffect": "構え: ゴリラ構え",
       "source": "Pathfinder Advanced Player's Guide"
     },
@@ -15005,7 +15005,7 @@
     },
     "Tidal Wave": {
       "name": "タイダル・ウェーブ/Tidal Wave",
-      "description": "<p>嵐の中の大洋のように、あなたは速度と力で対戦相手を圧倒する。あなたの移動速度まで移動し、2回のストライクを行う。これらのストライクは移動中のどの時点でも行うことができる。いずれかの〈ストライク〉が対象のヒット・ポイントを0にした場合、君は@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}状態を1ラウンドの間得る。君はこの追加アクションを〈ストライド〉または〈水泳〉にのみ使用できる。</p>",
+      "description": "<p>嵐の中の大洋のように、あなたは速度と力で対戦相手を圧倒する。あなたの移動速度まで移動し、2回のストライクを行う。これらのストライクは移動中のどの時点でも行うことができる。いずれかの〈ストライク〉が対象のヒット・ポイントを0にした場合、あなたは@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}状態を1ラウンドの間得る。あなたはこの追加アクションを〈ストライド〉または〈水泳〉にのみ使用できる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -15172,7 +15172,7 @@
     },
     "Encouraging Words": {
       "name": "エンカレッジング・ワーズ/Encouraging Words",
-      "description": "<p><strong>必要条件</strong>対象の味方が直近のラウンドの間にスタミナ・ポイントを失っていること。</p>\n<hr />\n<p>あなたは30フィート以内にいる味方に素早い激励を行い、回復を助ける。《交渉》判定を行う。DCは通常15だが、GMは状況に基づいて調整してもよい。もし君が《交渉》でエキスパートの習熟度を持っているなら、代わりにDC 20の判定を行って回復するスタミナ・ポイントを5増やすことができる。もしマスターの習熟度を持っているなら、DC 30の判定を行ってスタミナ・ポイントを15増やすことができる。もしレジェンダリーの習熟度を持っているなら、DC 40の判定を行ってスタミナ・ポイントを25増やすことができる。結果に関わらず、その味方は彼らが@UUID[Compendium.pf2e.actionspf2e.Item.qc0VsZ0UesnurUUB]{〈テイク・ア・ブレザー〉}するか、その日の休息をとるまで、Encouraging Wordsに対して一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>その味方は2d8スタミナ・ポイントを回復する。</p>\n<p><strong>成功</strong>その味方は1d8スタミナ・ポイントを回復する。</p>\n<p><strong>クリティカル失敗</strong>その味方は1d8の精神ダメージを受けるが、これはスタミナ・ポイントのみを減少させることができ、ヒット・ポイントを減少させることは決してない。</p>",
+      "description": "<p><strong>必要条件</strong>対象の味方が直近のラウンドの間にスタミナ・ポイントを失っていること。</p>\n<hr />\n<p>あなたは30フィート以内にいる味方に素早い激励を行い、回復を助ける。《交渉》判定を行う。DCは通常15だが、GMは状況に基づいて調整してもよい。もしあなたが《交渉》でエキスパートの習熟度を持っているなら、代わりにDC 20の判定を行って回復するスタミナ・ポイントを5増やすことができる。もしマスターの習熟度を持っているなら、DC 30の判定を行ってスタミナ・ポイントを15増やすことができる。もしレジェンダリーの習熟度を持っているなら、DC 40の判定を行ってスタミナ・ポイントを25増やすことができる。結果に関わらず、その味方は彼らが@UUID[Compendium.pf2e.actionspf2e.Item.qc0VsZ0UesnurUUB]{〈テイク・ア・ブレザー〉}するか、その日の休息をとるまで、Encouraging Wordsに対して一時的な免疫となる。</p>\n<hr />\n<p><strong>クリティカル成功</strong>その味方は2d8スタミナ・ポイントを回復する。</p>\n<p><strong>成功</strong>その味方は1d8スタミナ・ポイントを回復する。</p>\n<p><strong>クリティカル失敗</strong>その味方は1d8の精神ダメージを受けるが、これはスタミナ・ポイントのみを減少させることができ、ヒット・ポイントを減少させることは決してない。</p>",
       "source": "Pathfinder Gamemastery Guide",
       "prerequisites": [
         {
@@ -15777,7 +15777,7 @@
     },
     "Swashbuckler Dedication": {
       "name": "スワッシュバックラー・デディケーション/Swashbuckler Dedication",
-      "description": "<p>スワッシュバックラーのスタイルを1つ選ぶ。あなたは@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{パナッシュ}と@UUID[Compendium.pf2e.classfeatures.Item.TALz3cU06Hb14Key]{スタイリッシュ・コンバタント}のクラス特徴を得る。また、@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}と、あなたのスワッシュバックラーのスタイルに示されたアクションにブラバド・トレイトを適用し、パナッシュを得られるようになる。あなたは《軽業》、またはあなたのスタイルに関連するスキルに訓練済みとなる。既に両方のスキルに訓練済みであった場合、代わりにあなたが選んだスキル1つに訓練済みとなる。あなたはまた、スワッシュバックラーのクラスDCに訓練済みとなる。あなたは選んだスタイルの他の効果は得ない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.k9Ebp52kt0ZLHtMl]{スワッシュバックラー}</p>",
+      "description": "<p>スワッシュバックラーのスタイルを1つ選ぶ。あなたは@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{パナッシュ}と@UUID[Compendium.pf2e.classfeatures.Item.TALz3cU06Hb14Key]{スタイリッシュ・コンバタント}のクラス特徴を得る。また、@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}と、あなたのスワッシュバックラーのスタイルに示されたアクションにブラバード・トレイトを適用し、パナッシュを得られるようになる。あなたは《軽業》、またはあなたのスタイルに関連するスキルに訓練済みとなる。既に両方のスキルに訓練済みであった場合、代わりにあなたが選んだスキル1つに訓練済みとなる。あなたはまた、スワッシュバックラーのクラスDCに訓練済みとなる。あなたは選んだスタイルの他の効果は得ない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.k9Ebp52kt0ZLHtMl]{スワッシュバックラー}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -50087,7 +50087,7 @@
     },
     "Domino Effect": {
       "name": "ドミノ・エフェクト/Domino Effect",
-      "description": "<p><strong>トリガー</strong> クリーチャーが君の作成した魔法の罠(スネア)を起動した。</p><hr /><p>君は魔法の見えない糸を操り、通常なら影響を受けない対象にも影響を与える術を学んだ。トリガーとなったクリーチャーの15フィート以内で君が選択したクリーチャー1体は、そのクリーチャー自身が罠を起動したかのように、同じ罠の影響を受ける。</p>",
+      "description": "<p><strong>トリガー</strong> クリーチャーがあなたの作成した魔法の罠(スネア)を起動した。</p><hr /><p>あなたは魔法の見えない糸を操り、通常なら影響を受けない対象にも影響を与える術を学んだ。トリガーとなったクリーチャーの15フィート以内であなたが選択したクリーチャー1体は、そのクリーチャー自身が罠を起動したかのように、同じ罠の影響を受ける。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {

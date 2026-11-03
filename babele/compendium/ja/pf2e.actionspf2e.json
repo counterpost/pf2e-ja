@@ -262,7 +262,7 @@
     },
     "Protective Screen": {
       "name": "プロテクティブ・スクリーン/Protective Screen",
-      "description": "<p>君は戦魔道士を守る技で仲間を訓練済みした。1人の分隊員に合図する；その分隊員は反応としてバナーのオーラ内にいる任意の他の分隊員に向かって直接移動する。最初の分隊員が移動を終えて別の分隊員と隣接している場合、第二の分隊員は次の自分のターン終了まで、あるいは最初の分隊員から離れるまでのいずれか早い方まで呪文詠唱や遠隔攻撃で反応を誘発しなくなる。最初の分隊員が複数の分隊員と隣接して移動を終えた場合、最初の分隊員はどの隣接分隊員がこの恩恵を受けるかを選ばなければならない。</p>",
+      "description": "<p>あなたは戦魔道士を守る技で仲間を訓練済みした。1人の分隊員に合図する；その分隊員は反応としてバナーのオーラ内にいる任意の他の分隊員に向かって直接移動する。最初の分隊員が移動を終えて別の分隊員と隣接している場合、第二の分隊員は次の自分のターン終了まで、あるいは最初の分隊員から離れるまでのいずれか早い方まで呪文詠唱や遠隔攻撃で反応を誘発しなくなる。最初の分隊員が複数の分隊員と隣接して移動を終えた場合、最初の分隊員はどの隣接分隊員がこの恩恵を受けるかを選ばなければならない。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Death Drone": {
@@ -302,7 +302,7 @@
     },
     "Pop, Drop, and Lock": {
       "name": "ポップ、ドロップ、ロック/Pop, Drop, and Lock",
-      "description": "<p><strong>使用制限</strong> 10分ごとに1回</p><hr /><p>君は分隊員に壊滅的な連携による排除を命じる。君の指揮官のバナーのオーラ内にいる同じ敵を射程内に持つ分隊員を最大3人まで合図する；その分隊員たちは反応としてその相手に対して〔ストライク〕、@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を行うことができる。各分隊員はこの戦術で与えられた特定の1つの行動しか試みられず、アクションの実行順は任意で、同じ具体的アクションはこの戦術の一部として一度しか試みられない。</p>",
+      "description": "<p><strong>使用制限</strong> 10分ごとに1回</p><hr /><p>あなたは分隊員に壊滅的な連携による排除を命じる。あなたの指揮官のバナーのオーラ内にいる同じ敵を射程内に持つ分隊員を最大3人まで合図する；その分隊員たちは反応としてその相手に対して〔ストライク〕、@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}を行うことができる。各分隊員はこの戦術で与えられた特定の1つの行動しか試みられず、アクションの実行順は任意で、同じ具体的アクションはこの戦術の一部として一度しか試みられない。</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Strike Hard!": {
@@ -977,7 +977,7 @@
     },
     "Upstage": {
       "name": "アップステージ/Upstage",
-      "description": "<p><strong>トリガー</strong> 敵がスキル判定を試み、クリティカル成功を出さなかったとき</p><hr /><p>敵が最善を尽くした後で、君が本当のやり方を見せてやる番だ。同じスキルを使って判定を行う.</p><hr /><p><strong>クリティカル成功</strong> あなたは次のあなたのターン終了時まで攻撃ロール、Perception判定、セーヴ、スキル判定に+1の状態ボーナスを得る.</p>\n<p><strong>成功</strong> クリティカル成功と同様だが、起動したクリーチャーがスキル判定に失敗していた場合にのみその利得を得る.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.fSZH0aVKyPxatE6i]{効果: Upstage}</p>",
+      "description": "<p><strong>トリガー</strong> 敵がスキル判定を試み、クリティカル成功を出さなかったとき</p><hr /><p>敵が最善を尽くした後で、あなたが本当のやり方を見せてやる番だ。同じスキルを使って判定を行う.</p><hr /><p><strong>クリティカル成功</strong> あなたは次のあなたのターン終了時まで攻撃ロール、Perception判定、セーヴ、スキル判定に+1の状態ボーナスを得る.</p>\n<p><strong>成功</strong> クリティカル成功と同様だが、起動したクリーチャーがスキル判定に失敗していた場合にのみその利得を得る.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.fSZH0aVKyPxatE6i]{効果: Upstage}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Dispelling Bullet": {
@@ -1911,22 +1911,22 @@
     },
     "Climb": {
       "name": "登攀/Climb",
-      "description": "<p><strong>必要条件</strong> 両手が空いていること</p><hr /><p>君は斜面を上、下、または横切る方向に最大5フィート移動するために、[[/act climb]]{《運動》} 判定を行う。登攀速度を持っていない限り、登攀中は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。GMは斜面の性質と環境状況に基づいてDCを決定する。登攀が極めて容易な斜面では、自動的にクリティカル成功となる場合がある。君の陸上移動速度が40フィート以上である場合、20フィートを超える移動速度20フィートごとに、最大移動距離が5フィート増加する。</p><hr /><p><strong>クリティカル成功</strong> 君はその斜面に沿って移動し、最大移動距離が5フィート増加する。</p>\n<p><strong>成功</strong> 君はその斜面に沿って移動する。</p>\n<p><strong>クリティカル失敗</strong> 君は落下する。もし安定した地面から登攀を開始していたなら、君は落下して@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p><h2>Sample 〈登攀〉 Tasks</h2><ul><li><strong>未訓練</strong> はしご、急な斜面、低い枝の木</li><li><strong>訓練済み</strong> 索具、ロープ、一般的な木</li><li><strong>エキスパート</strong> 小さな手掛かりと足掛かりのある壁</li><li><strong>マスター</strong> 手掛かりと足掛かりのある天井、岩壁</li><li><strong>レジェンダリー</strong> 滑らかな表面</li></ul>",
+      "description": "<p><strong>必要条件</strong> 両手が空いていること</p><hr /><p>あなたは斜面を上、下、または横切る方向に最大5フィート移動するために、[[/act climb]]{《運動》} 判定を行う。登攀速度を持っていない限り、登攀中は@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態となる。GMは斜面の性質と環境状況に基づいてDCを決定する。登攀が極めて容易な斜面では、自動的にクリティカル成功となる場合がある。あなたの陸上移動速度が40フィート以上である場合、20フィートを超える移動速度20フィートごとに、最大移動距離が5フィート増加する。</p><hr /><p><strong>クリティカル成功</strong> あなたはその斜面に沿って移動し、最大移動距離が5フィート増加する。</p>\n<p><strong>成功</strong> あなたはその斜面に沿って移動する。</p>\n<p><strong>クリティカル失敗</strong> あなたは落下する。もし安定した地面から登攀を開始していたなら、あなたは落下して@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}状態となる。</p><h2>Sample 〈登攀〉 Tasks</h2><ul><li><strong>未訓練</strong> はしご、急な斜面、低い枝の木</li><li><strong>訓練済み</strong> 索具、ロープ、一般的な木</li><li><strong>エキスパート</strong> 小さな手掛かりと足掛かりのある壁</li><li><strong>マスター</strong> 手掛かりと足掛かりのある天井、岩壁</li><li><strong>レジェンダリー</strong> 滑らかな表面</li></ul>",
       "source": "Pathfinder Player Core"
     },
     "Stitching Strike": {
       "name": "スティッチング・ストライク/Stitching Strike",
-      "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong> 君の使い魔は魔法の繊維へとほどけ、30フィート以内の敵を包み込んで@Damage[(6+max(0,(ceil((@actor.level -8)/2)*2)))d6[slashing]]ダメージを与え、君の呪文DCに対して@Check[reflex|basic]セーヴを行わせる。失敗した場合、対象は1ラウンドの間、または君の呪文DCに対して@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するまで、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。その後、使い魔は元の広場に再形成される。9レベルおよびそれ以降2レベルごとに、この攻撃は追加で2d6ダメージを与える。</p>",
+      "description": "<p><strong>使用制限</strong> 10分に1回</p>\n<hr />\n<p><strong>効果</strong> あなたの使い魔は魔法の繊維へとほどけ、30フィート以内の敵を包み込んで@Damage[(6+max(0,(ceil((@actor.level -8)/2)*2)))d6[slashing]]ダメージを与え、あなたの呪文DCに対して@Check[reflex|basic]セーヴを行わせる。失敗した場合、対象は1ラウンドの間、またはあなたの呪文DCに対して@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するまで、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。その後、使い魔は元の広場に再形成される。9レベルおよびそれ以降2レベルごとに、この攻撃は追加で2d6ダメージを与える。</p>",
       "source": "Pathfinder Player Core"
     },
     "Smoke Blending": {
       "name": "スモーク・ブレンディング/Smoke Blending",
-      "description": "<p><strong>トリガー</strong>霧、霞、靄、または煙のために君が@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態または@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態であるため、クリーチャーが君を目標にするためにフラット判定を行う</p>\n<hr />\n<p><strong>効果</strong>君は煙であなた自身を覆い、敵が君に命中させるのをより困難にする。君が「隠蔽」状態なら、フラット判定のDCは5から@Check[flat|dc:7]に増加する。君が「隠れ身」状態なら、それは11から@Check[flat|dc:13]に増加する。</p>",
+      "description": "<p><strong>トリガー</strong>霧、霞、靄、または煙のためにあなたが@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態または@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}状態であるため、クリーチャーがあなたを目標にするためにフラット判定を行う</p>\n<hr />\n<p><strong>効果</strong>あなたは煙であなた自身を覆い、敵があなたに命中させるのをより困難にする。あなたが「隠蔽」状態なら、フラット判定のDCは5から@Check[flat|dc:7]に増加する。あなたが「隠れ身」状態なら、それは11から@Check[flat|dc:13]に増加する。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Interact": {
       "name": "扱う/Interact",
-      "description": "<p>君は片手または両手を使って物体や地形を操作する。君は保持していない物体や収納された物体を掴む、武器を抜く、手に持っているアイテムを別のものと交換する、扉を開ける、あるいは同様の効果を得ることができる。稀に、君の〈扱う〉アクションが成功したかどうかを判断するためにスキル判定を行わなければならない場合がある。</p>",
+      "description": "<p>あなたは片手または両手を使って物体や地形を操作する。あなたは保持していない物体や収納された物体を掴む、武器を抜く、手に持っているアイテムを別のものと交換する、扉を開ける、あるいは同様の効果を得ることができる。稀に、あなたの〈扱う〉アクションが成功したかどうかを判断するためにスキル判定を行わなければならない場合がある。</p>",
       "source": "Pathfinder Player Core"
     },
     "Administer Ambient Magic": {
@@ -1936,12 +1936,12 @@
     },
     "Demoralizing Charge": {
       "name": "デモラライジング・チャージ/Demoralizing Charge",
-      "description": "<p>チームの連携した強襲は、敵の心に恐怖を植え付ける。コマンダーのバナーのオーラ内にいる最大2人の分隊員に合図を送る。フリー・アクションとして、それらの分隊員は直ちに、彼らが観測している敵に向かって〈ストライド〉できる。</p>\n<p>もし彼らがこの移動を敵に隣接して終了したなら、彼らはリアクションとしてその敵に対して〈ストライク〉を行うことができる。これらのストライクが成功するたびに、対象の敵は君のクラスDCに対して@Check[will|against:commander|options:inflicts:frightened|traits:emotion,fear,mental]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態となる(クリティカル失敗なら@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態となる)。これは感情、恐怖、精神の効果である。</p>\n<p>両方のストライクが同じ敵を目標とした場合、その敵は最後の攻撃の後に1回だけセーヴを行い、この効果に抵抗するための意志セーヴに－1の状況ペナルティを受ける(このペナルティは、両方のストライクが成功した場合は－2に、あるいは両方のストライクが成功し、かつどちらかがクリティカルヒットであった場合は－3に増加する)。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.91qBP1n04xsKeXkE]{効果: Demoralizing Charge}</p>",
+      "description": "<p>チームの連携した強襲は、敵の心に恐怖を植え付ける。コマンダーのバナーのオーラ内にいる最大2人の分隊員に合図を送る。フリー・アクションとして、それらの分隊員は直ちに、彼らが観測している敵に向かって〈ストライド〉できる。</p>\n<p>もし彼らがこの移動を敵に隣接して終了したなら、彼らはリアクションとしてその敵に対して〈ストライク〉を行うことができる。これらのストライクが成功するたびに、対象の敵はあなたのクラスDCに対して@Check[will|against:commander|options:inflicts:frightened|traits:emotion,fear,mental]セーヴを行わなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態となる(クリティカル失敗なら@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2}状態となる)。これは感情、恐怖、精神の効果である。</p>\n<p>両方のストライクが同じ敵を目標とした場合、その敵は最後の攻撃の後に1回だけセーヴを行い、この効果に抵抗するための意志セーヴに－1の状況ペナルティを受ける(このペナルティは、両方のストライクが成功した場合は－2に、あるいは両方のストライクが成功し、かつどちらかがクリティカルヒットであった場合は－3に増加する)。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.91qBP1n04xsKeXkE]{効果: Demoralizing Charge}</p>",
       "source": "Pathfinder Battlecry!"
     },
     "Identify Alchemy": {
       "name": "錬金術の識別/Identify Alchemy",
-      "description": "<p><strong>必要条件</strong>君は@UUID[Compendium.pf2e.equipment-srd.Item.4ftXXUCBHcf4b0MH]{錬金術師用具}を手に持っているか、身に着けている。</p>\n<hr />\n<p>君はアルケミストの道具セットを使用して10分の検査を行うことで、錬金術アイテムの性質を識別できる。もし試みが何らかの形で中断された場合、君は最初からやり直さなければならない。</p>\n<hr />\n<p><strong>成功</strong>君はそのアイテムと、それを起動する方法を識別する。</p>\n<p><strong>失敗</strong>君はそのアイテムを識別できないが、再試行できる。</p>\n<p><strong>クリティカル失敗</strong>君はそのアイテムを、GMが選択した別のアイテムであると誤認する。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.equipment-srd.Item.4ftXXUCBHcf4b0MH]{錬金術師用具}を手に持っているか、身に着けている。</p>\n<hr />\n<p>あなたはアルケミストの道具セットを使用して10分の検査を行うことで、錬金術アイテムの性質を識別できる。もし試みが何らかの形で中断された場合、あなたは最初からやり直さなければならない。</p>\n<hr />\n<p><strong>成功</strong>あなたはそのアイテムと、それを起動する方法を識別する。</p>\n<p><strong>失敗</strong>あなたはそのアイテムを識別できないが、再試行できる。</p>\n<p><strong>クリティカル失敗</strong>あなたはそのアイテムを、GMが選択した別のアイテムであると誤認する。</p>",
       "source": "Pathfinder Player Core"
     },
     "Learn a Spell": {

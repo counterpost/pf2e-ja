@@ -9704,7 +9704,7 @@
           "Note": "<p>1日の中で最初にあなたが《欺瞞》、《交渉》、または《威圧》の判定で出目1をロールしたとき、あなたの成功段階は自動的には下がらない(結果がDCより10以上低かった場合にのみ大失敗となる)。</p>"
         },
         "SmoothDiversions": {
-          "Failure": "クリーチャーは、あなたが〈注意をそらす〉に大失敗した場合にのみ、あなたが騙そうとしていたことに気づく。そうでない場合、そのクリーチャーはあなたの注意逸らしが通常のブラヴァードの一部であると見なす。",
+          "Failure": "クリーチャーは、あなたが〈注意をそらす〉に大失敗した場合にのみ、あなたが騙そうとしていたことに気づく。そうでない場合、そのクリーチャーはあなたの注意逸らしが通常のブラバードの一部であると見なす。",
           "Success": "あなたがan attempt to @UUID[Compendium.pf2e.actionspf2e.アイテム.GkmbTGfg8KcgynOA]{Create a Diversion}に成功したとき、you can immediately @UUID[Compendium.pf2e.actionspf2e.アイテム.VMozDqMMuK5kpoX4]{Sneak} or Step as a フリー・アクション。"
         },
         "TakeEmAlive": {
