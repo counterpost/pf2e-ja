@@ -49022,14 +49022,14 @@
     },
     "Controlled Blast": {
       "name": "コントロールド・ブラスト/Controlled Blast",
-      "description": "<p>あなたは爆発物の効果を最大化し、爆風のすべてのパラメーターを入念に制御する。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.ozvYhY4hG1deXly8]{ダイレクショナル・ボムズ}特技を持っているなら、あなたはそれを@UUID[Compendium.pf2e.actionspf2e.Item.vvYsE7OiSSCXhPdr]{〈セット・エクスプロージヴズ〉}または@UUID[Compendium.pf2e.feats-srd.Item.KCwXj3y7Nm4e3NbI]{デモリション・チャージ}で使用できる、爆弾を投げなかったとしても。もしあなたが@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{研究分野の発見(ボンバー)}または@UUID[Compendium.pf2e.feats-srd.Item.gyVcJfZTmBytLsXq]{エクスパンデッド・スプラッシュ}特技を持っているなら、爆薬をセットするときや爆破チャージを使用するとき、追加の飛び散りダメージを1つの爆弾に適用でき、拡張された飛散からの増加した飛び散り範囲をすべての爆弾に適用できる。</p>",
+      "description": "<p>あなたは爆発物の効果を最大化し、爆風のすべてのパラメーターを入念に制御する。もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.ozvYhY4hG1deXly8]{ダイレクショナル・ボムズ}特技を持っているなら、あなたはそれを@UUID[Compendium.pf2e.actionspf2e.Item.vvYsE7OiSSCXhPdr]{〈セット・エクスプロージヴズ〉}または@UUID[Compendium.pf2e.feats-srd.Item.KCwXj3y7Nm4e3NbI]{デモリション・チャージ}で使用できる、爆弾を投げなかったとしても。もしあなたが@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{研究分野の発見(ボマー)}または@UUID[Compendium.pf2e.feats-srd.Item.gyVcJfZTmBytLsXq]{エクスパンデッド・スプラッシュ}特技を持っているなら、爆薬をセットするときや爆破チャージを使用するとき、追加の飛び散りダメージを1つの爆弾に適用でき、拡張された飛散からの増加した飛び散り範囲をすべての爆弾に適用できる。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
           "value": "爆破工作員デディケーション"
         },
         {
-          "value": "ボンバーの研究分野の発見、指向性爆弾、または拡張飛散"
+          "value": "ボマーの研究分野の発見、指向性爆弾、または拡張飛散"
         }
       ]
     },

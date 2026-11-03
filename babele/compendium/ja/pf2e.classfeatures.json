@@ -266,7 +266,7 @@
       "description": "<p>あなたが意志を四肢に集中させる時、あなたの打撃は最も硬い金属のように屈しないものとなる。あなたの素手攻撃はアダマンティンとして扱われる。</p>"
     },
     "Advanced Vials (Bomber)": {
-      "name": "上級小瓶(ボンバー)/Advanced Vials (Bomber)",
+      "name": "上級小瓶(ボマー)/Advanced Vials (Bomber)",
       "description": "<p>あなたは魔法の粉や貴重な鉱物の破片といった特別な材料を小瓶に混ぜることができる。あなたが汎用小瓶を作成する時、アダマンティン、コールド・アイアン、ドーンシルバーの中から選択した1つの特殊素材として扱われるように選ぶことができる。もしあなたが小瓶を作成する時に、異なる貴重な素材のアイテムを着用または装備しているなら、代わりにその素材を選ぶことができる。</p>"
     },
     "Battledancer": {
@@ -374,7 +374,7 @@
       "description": "<p>あなたは倒木や激しい雹を避けることで反射神経を鍛え上げた。あなたの反応セーヴの習熟ランクは「達人」に上昇する。あなたが反応セーヴで成功をロールしたとき、代わりにクリティカル成功となる。</p>"
     },
     "Bomber": {
-      "name": "ボンバー/Bomber",
+      "name": "ボマー/Bomber",
       "description": "<p>あなたは爆発やその他の激しい反応を専門としている。</p>\n<p><strong>フォーミュラ</strong> 2種類の一般的な1レベルの錬金術爆弾。</p>\n<p><strong>研究分野の恩恵</strong> 〈スプラッシュ〉のトレイトを持つ錬金術爆弾を投擲する際、通常の飛散範囲の代わりに、あなたの主要な対象のみに飛散ダメージを与えることを選択できる。</p>\n<p><strong>研究分野の小瓶</strong> あなたが汎用小瓶で@UUID[Compendium.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR]{〈ストライク〉}を行う際、酸ダメージの代わりに冷気、電撃、または火炎ダメージを与えることを選択できる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.8QAFgy9U8PxEa7Dw]{研究分野の発見} (5レベル)</strong> あなたは爆弾の飛散を最大化するためのあらゆる角度を計算した。〈スプラッシュ〉のトレイトを持つ錬金術爆弾を投擲する際、通常の量の代わりに、あなたの【知力】修正値(最低1)に等しい飛散ダメージを爆弾に与えさせることができる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.5FnyPYPaRbJthT3I]{上級小瓶} (11レベル)</strong> あなたは魔法の粉や貴重な鉱物の欠片のような特別な材料を小瓶に混ぜることができる。汎用小瓶を作成する際、アダマンティン、コールド・アイアン、ドーンシルバーの中から選択した1種類の特殊素材として扱わせることを選択できる。あなたが小瓶を作成する際に、異なる貴重な素材のアイテムを着用または装備している場合、代わりにその素材を選択できる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.RGs4uR3CAvgbtBAA]{研究分野の大発見} (13レベル)</strong> あなたは爆弾の飛散を増加させ、10フィート以内のクリーチャーにダメージを与えることができる。もしあなたが拡張飛散を持っているなら、その範囲は15フィートとなる。</p>"
     },
     "Greater Weapon Specialization (Barbarian)": {
@@ -462,11 +462,11 @@
       "description": "<p>あなたがデヴィアント能力を通じてエネルギーをチャネルする際、その一部があなた自身に跳ね返り、体温を急上昇させたり、皮膚の上で踊ったりする。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.0AD7BiKjT8a6Uh92]{効果: エネルギー過負荷}</p>\n<p><strong>軽度のバックラッシュ</strong>エネルギーがあなたの身体を激しく襲うにつれて、あなたは[[/r @actor.level]]{レベルに等しいダメージ}を受ける。</p>\n<p><strong>中程度のバックラッシュ</strong>エネルギーがあなたの身体を苛む。ダメージを受けた後、あなたはそのバックラッシュのエネルギー種別に対する弱点を次の日課の準備まで得る。その弱点はあなたのレベルの3分の1に等しい。また、もしそのエネルギー種別に対する完全耐性を持っていた場合、それも次の日課の準備まで失う。</p>\n<p><strong>重度のバックラッシュ</strong>あなたのデヴィエーションにエネルギーを供給している体内の炉や泉が完全に過負荷となり、制御不能な爆発となってあなたから溢れ出す。あなたは[[/r (@actor.level)d6]]{レベルごとに1d6ダメージ}を@Template[emanation|distance:30]内のすべてのクリーチャーに与える(@Check[fortitude|against:class-spell|basic]セーヴ)。あなたはセーヴを行わず、自動的に最大ダメージを受ける。</p>"
     },
     "Field Discovery (Bomber)": {
-      "name": "研究分野の発見(ボンバー)/Field Discovery (Bomber)",
+      "name": "研究分野の発見(ボマー)/Field Discovery (Bomber)",
       "description": "<p>あなたは爆弾の飛散を最大化するためにあらゆる角度を計算している。〈飛散〉トレイトを持つ錬金術爆弾を投げる際、あなたは通常の量の代わりに、自身の【知力】修正値(最低1)に等しい飛散ダメージをその爆弾に与えさせることができる。</p>"
     },
     "Perpetual Potency (Bomber)": {
-      "name": "パーペチュアル・ポテンシー(ボンバー)/Perpetual Potency (Bomber)",
+      "name": "パーペチュアル・ポテンシー(ボマー)/Perpetual Potency (Bomber)",
       "description": "<p>あなたの永続的な注入が向上し、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{〈クイック錬金術〉}を使用してコストなしでより強力なアイテムを作成できるようになる。選択できるアイテムはあなたの〈研究〉分野に依存し、かつあなたの調合書になければならない。</p>\n<p>3レベル以下の爆弾を2つ選択する。</p>"
     },
     "Druidic Order": {
@@ -881,7 +881,7 @@
       "description": "<p>あなたのウィッチのパトロンは不可解にも沈黙してしまった。あなたは依然として自分の能力にアクセスでき、使い魔はパトロンの力をあなたに注ぎ込み続けている。その力を利用する方法を学ぶにつれて、あなたは使い魔にその力を自ら形成するよう影響を与え、新しい呪文を学び続け、他のウィッチのクラス特徴をあなたに提供させる。</p>\n<p>パトロンがあなたの力を監視していないため、あなたはより多くの制御を得るが、重要な教訓も逃してしまう。あなたは2レベルのクラス特技として@UUID[Compendium.pf2e.feats-srd.Item.HIu1miRRGvGvHevN]{セネシャル・ウィッチ・デディケーション}を選択しなければならない。</p>\n<p><strong>前提条件：</strong>あなたはパトロンとの接触を失ったウィッチでなければならない。</p>\n<p><strong>調整：</strong>パトロンの教訓の代わりに、あなたはヘックス・キャントリップである@UUID[Compendium.pf2e.spells-srd.Item.IqBfoUaWDennHYoZ]{マニフェスト・ウィル}を獲得し、あなたの使い魔はあなたの呪文リストからあなたが選択したコモンの1ランク呪文を1つ学ぶ。</p>"
     },
     "Perpetual Infusions (Bomber)": {
-      "name": "パーペチュアル・インフュージョンズ(ボンバー)/Perpetual Infusions (Bomber)",
+      "name": "パーペチュアル・インフュージョンズ(ボマー)/Perpetual Infusions (Bomber)",
       "description": "<p>あなたは、特定の単純なアイテムをほぼ無限に供給できる永続的な錬金術的注入を作成する方法を学んだ。</p>\n<p>あなたは、注入試薬のバッチを消費することなく、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{クイック・アルケミー}を使用して1レベルの錬金術アイテムを2つ作成する能力を獲得する。選択できるアイテムはあなたの〈研究〉分野に依存し、あなたの処方本になければならない。</p>\n<p>レベルが上がるたびに、あなたは永続的な注入のいくつかを、他の適格な注入と入れ替えることができる。</p>\n<hr />\n<p>1レベルの爆弾を2つ選択すること。</p>"
     },
     "Final Doctrine (Cloistered Cleric)": {
@@ -2448,7 +2448,7 @@
       "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.g4MAIQodRDVfNp1B]{パーソナル・ブリザード}ヘックスを得て、あなたの使い魔は@UUID[Compendium.pf2e.spells-srd.Item.it4ZsAi6XgvGcodc]{ウォール・オブ・ウィンド}を習得する。</p>"
     },
     "Greater Field Discovery (Bomber)": {
-      "name": "研究分野の大発見(ボンバー)/Greater Field Discovery (Bomber)",
+      "name": "研究分野の大発見(ボマー)/Greater Field Discovery (Bomber)",
       "description": "<p>あなたは爆弾の飛散ダメージを増加させ、10フィート以内のクリーチャーにダメージを与えることができる。もし@UUID[Compendium.pf2e.feats-srd.Item.gyVcJfZTmBytLsXq]{エクスパンデッド・スプラッシュ}を持っているなら、その範囲は15フィートになる。</p>"
     },
     "Flicker Deviant Classification": {
@@ -3150,7 +3150,7 @@
       "description": "<p>あなたの鎧の金属は、電撃を接地し、酸性の化学反応から防護するために慎重に合金化されている。あなたは酸および電撃ダメージに対する、3＋あなたのレベルの半分に等しい耐性を得る。オーヴァードライヴの効果を受けている間、その耐性は2増加する。</p>"
     },
     "Perpetual Perfection (Bomber)": {
-      "name": "パーペチュアル・パーフェクション(ボンバー)/Perpetual Perfection (Bomber)",
+      "name": "パーペチュアル・パーフェクション(ボマー)/Perpetual Perfection (Bomber)",
       "description": "<p>あなたは永続調合を完成させ、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{クイック・アルケミー}を使用して、コストなしでさらに強力なアイテムを作成できるようになった。選択できるアイテムはあなたの〈研究〉分野に依存し、あなたの公式本に含まれていなければならない。</p>\n<p>11レベル以下の爆弾を2つ選択する。</p>"
     },
     "Formula Book": {

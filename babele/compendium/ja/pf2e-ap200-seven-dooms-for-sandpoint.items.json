@@ -360,11 +360,11 @@
     },
     "SPZSRTQIIUwfpV4a": {
       "name": "インフューズド・アイテムズ/Infused Items",
-      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Y8115p3cmQJBqk5d]{ダークヴィジョンエリクサー(中級)}、@UUID[Compendium.pf2e.equipment-srd.Item.T4ouD4mVFHA3EHs6]{ボンバーズ・アイエリクサー(下級)}(2)、@UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{ライフのエリクサー(下級)}(4)、@UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]{フロスト・バイアル(中級)}(8)、@UUID[Compendium.pf2e.equipment-srd.Item.aBOPYlfHAcXUmhF7]{ジャイアントワスプ・ヴェノム}(7)</p>"
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Y8115p3cmQJBqk5d]{ダークヴィジョンエリクサー(中級)}、@UUID[Compendium.pf2e.equipment-srd.Item.T4ouD4mVFHA3EHs6]{ボマーズ・アイ・エリクサー（レッサー）}(2)、@UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{ライフのエリクサー(下級)}(4)、@UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]{フロスト・バイアル(中級)}(8)、@UUID[Compendium.pf2e.equipment-srd.Item.aBOPYlfHAcXUmhF7]{ジャイアントワスプ・ヴェノム}(7)</p>"
     },
     "Infused Items": {
       "name": "インフューズド・アイテムズ",
-      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Y8115p3cmQJBqk5d]{ダークヴィジョンエリクサー(中級)}、@UUID[Compendium.pf2e.equipment-srd.Item.T4ouD4mVFHA3EHs6]{ボンバーズ・アイエリクサー(下級)}(2)、@UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{ライフのエリクサー(下級)}(4)、@UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]{フロスト・バイアル(中級)}(8)、@UUID[Compendium.pf2e.equipment-srd.Item.aBOPYlfHAcXUmhF7]{ジャイアントワスプ・ヴェノム}(7)</p>"
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Y8115p3cmQJBqk5d]{ダークヴィジョンエリクサー(中級)}、@UUID[Compendium.pf2e.equipment-srd.Item.T4ouD4mVFHA3EHs6]{ボマーズ・アイ・エリクサー（レッサー）}(2)、@UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{ライフのエリクサー(下級)}(4)、@UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]{フロスト・バイアル(中級)}(8)、@UUID[Compendium.pf2e.equipment-srd.Item.aBOPYlfHAcXUmhF7]{ジャイアントワスプ・ヴェノム}(7)</p>"
     },
     "ymEtt6PtcG7bIALW": {
       "name": "不快な調合薬/Foul Concoction",
