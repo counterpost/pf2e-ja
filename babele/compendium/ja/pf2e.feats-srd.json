@@ -1273,7 +1273,7 @@
       "source": "Pathfinder Lost Omens High Seas",
       "prerequisites": [
         {
-          "value": "経験主義のメソドロジー"
+          "value": "経験主義の手法"
         }
       ]
     },
@@ -2136,7 +2136,7 @@
           "value": "《芸能》のレジェンダリー"
         },
         {
-          "value": "ジャグラーデディケーション"
+          "value": "ジャグラー・デディケーション"
         }
       ]
     },
@@ -12978,7 +12978,7 @@
           "value": "策士の裏稼業"
         },
         {
-          "value": "弱体化 〔ストライク〕"
+          "value": "デビリテーティング・ストライク"
         }
       ]
     },
@@ -15443,7 +15443,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "無頼のランケット"
+          "value": "荒くれ者の裏稼業"
         }
       ]
     },
@@ -15777,7 +15777,7 @@
     },
     "Swashbuckler Dedication": {
       "name": "スワッシュバックラー・デディケーション/Swashbuckler Dedication",
-      "description": "<p>スワッシュバックラーのスタイルを1つ選ぶ。あなたは@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{パナッシュ}と@UUID[Compendium.pf2e.classfeatures.Item.TALz3cU06Hb14Key]{スタイリッシュ・コンバタント}のクラス特徴を得る。また、@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〔すり抜ける〕}と、あなたのスワッシュバックラー・スタイルに示されたアクションにブラバド・トレイトを適用し、パナッシュを得られるようになる。あなたは《軽業》、またはあなたのスタイルに関連するスキルに訓練済みとなる。既に両方のスキルに訓練済みであった場合、代わりにあなたが選んだスキル1つに訓練済みとなる。あなたはまた、スワッシュバックラーのクラスDCに訓練済みとなる。あなたは選んだスタイルの他の効果は得ない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.k9Ebp52kt0ZLHtMl]{スワッシュバックラー}</p>",
+      "description": "<p>スワッシュバックラーのスタイルを1つ選ぶ。あなたは@UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{パナッシュ}と@UUID[Compendium.pf2e.classfeatures.Item.TALz3cU06Hb14Key]{スタイリッシュ・コンバタント}のクラス特徴を得る。また、@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}と、あなたのスワッシュバックラーのスタイルに示されたアクションにブラバド・トレイトを適用し、パナッシュを得られるようになる。あなたは《軽業》、またはあなたのスタイルに関連するスキルに訓練済みとなる。既に両方のスキルに訓練済みであった場合、代わりにあなたが選んだスキル1つに訓練済みとなる。あなたはまた、スワッシュバックラーのクラスDCに訓練済みとなる。あなたは選んだスタイルの他の効果は得ない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.k9Ebp52kt0ZLHtMl]{スワッシュバックラー}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -21683,7 +21683,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "法医学的方法"
+          "value": "法医学の手法"
         }
       ]
     },
@@ -21761,7 +21761,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "経験主義または尋問方法"
+          "value": "経験主義または尋問の手法"
         }
       ]
     },
@@ -22882,7 +22882,7 @@
           "value": "《軽業》のエキスパート"
         },
         {
-          "value": "ジャグラーデディケーション"
+          "value": "ジャグラー・デディケーション"
         }
       ]
     },
@@ -26189,7 +26189,7 @@
           "value": "エルドリッチ・トリックスターの裏稼業"
         },
         {
-          "value": "衰弱する 〔ストライク〕"
+          "value": "デビリテーティング・ストライク"
         }
       ]
     },
@@ -27742,7 +27742,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "衰弱させる 〔ストライク〕"
+          "value": "デビリテーティング・ストライク"
         }
       ]
     },
@@ -28195,7 +28195,7 @@
       "source": "Pathfinder #151: The Show Must Go On",
       "prerequisites": [
         {
-          "value": "曲芸師デディケーション"
+          "value": "ジャグラー・デディケーション"
         }
       ]
     },
@@ -32925,7 +32925,7 @@
       "source": "Pathfinder #151: The Show Must Go On",
       "prerequisites": [
         {
-          "value": "ジャグラーデディケーション"
+          "value": "ジャグラー・デディケーション"
         },
         {
           "value": "《芸能》のエキスパート"
@@ -34586,7 +34586,7 @@
       "source": "Pathfinder Lost Omens High Seas",
       "prerequisites": [
         {
-          "value": "錬金術科学の流儀"
+          "value": "錬金術科学の手法"
         }
       ]
     },
@@ -35780,7 +35780,7 @@
           "value": "《医術》の訓練済み"
         },
         {
-          "value": "弱体化する〔ストライク〕"
+          "value": "デビリテーティング・ストライク"
         }
       ]
     },
@@ -38226,7 +38226,7 @@
       "source": "Pathfinder #150: Broken Promises",
       "prerequisites": [
         {
-          "value": "衰弱する〔ストライク〕"
+          "value": "デビリテーティング・ストライク"
         }
       ]
     },
@@ -39786,7 +39786,7 @@
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
-          "value": "尋問の方法"
+          "value": "尋問の手法"
         }
       ]
     },
@@ -46440,10 +46440,10 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "泥棒の流儀"
+          "value": "盗人の裏稼業"
         },
         {
-          "value": "衰弱させる〔ストライク〕"
+          "value": "デビリテーティング・ストライク"
         }
       ]
     },
@@ -47118,10 +47118,10 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "悪党ランケット"
+          "value": "食わせ者の裏稼業"
         },
         {
-          "value": "衰弱 〔ストライク〕"
+          "value": "デビリテーティング・ストライク"
         }
       ]
     },
@@ -47552,7 +47552,7 @@
           "value": "《芸能》のマスター"
         },
         {
-          "value": "ジャグラーデディケーション"
+          "value": "ジャグラー・デディケーション"
         }
       ]
     },
@@ -51100,10 +51100,10 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "乱暴者のレッケット"
+          "value": "荒くれ者の裏稼業"
         },
         {
-          "value": "衰弱する〔ストライク〕"
+          "value": "デビリテーティング・ストライク"
         }
       ]
     },

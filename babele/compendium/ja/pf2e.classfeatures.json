@@ -227,7 +227,7 @@
     },
     "Wit": {
       "name": "ウィット/Wit",
-      "description": "<p>あなたは友好的で賢く、ユーモアにあふれ、常に何を言うべきかを心得ている。あなたの機知は、敵をあなたの攻撃の技術と速度に対して無防備にさせる。あなたは《交渉》に訓練済みしており、@UUID[Compendium.pf2e.feats-srd.Item.0GF2j54roPFIDmXf]{ボン・モット}スキル・フィートを獲得する。あなたがBon Motを使用する際、そのアクションはブラヴァードのトレイトを得る</p>"
+      "description": "<p>あなたは人当たりがよく、賢く、ユーモアにあふれ、いつも言うべきことを心得ている。あなたの気の利いた言葉によって、敵はあなたの攻撃の技と速さに備えられなくなる。あなたは《交渉》に訓練済みであり、@UUID[Compendium.pf2e.feats-srd.Item.0GF2j54roPFIDmXf]{ボン・モット}のスキル特技を得る。あなたがボン・モットを使うとき、そのアクションはブラヴァード・トレイトを得る。</p>"
     },
     "Bard Weapon Expertise": {
       "name": "バード・ウェポン・エキスパーティス",
@@ -271,7 +271,7 @@
     },
     "Battledancer": {
       "name": "バトルダンサー/Battledancer",
-      "description": "<p>あなたにとって、戦いとは一種の舞台芸術であり、あなたは魅惑的な動きで敵の注意を惹きつける。あなたは《芸能》に訓練済みであり、@UUID[Compendium.pf2e.feats-srd.Item.7LB00jkh6JaJr3vS]{ファシネイティング・《芸能》}のスキル特技を得る。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{〈芸をする〉}を行う時、そのアクションはブラヴァードのトレイトを得る。</p>"
+      "description": "<p>あなたにとって戦いは一種の舞台芸術であり、あなたは魅惑的な動きで敵の注意を引きつける。あなたは《芸能》に訓練済みであり、@UUID[Compendium.pf2e.feats-srd.Item.7LB00jkh6JaJr3vS]{ファシネーティング・パフォーマンス}のスキル特技を得る。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{〈芸をする〉}を行うとき、そのアクションはブラヴァード・トレイトを得る。</p>"
     },
     "Ranger Expertise": {
       "name": "レンジャー・エキスパーティス",
@@ -694,7 +694,7 @@
     },
     "Gymnast": {
       "name": "ジムナスト/Gymnast",
-      "description": "<p>あなたは大胆な身体能力の偉業によって敵を位置変更し、機動し、当惑させる。あなたは《運動》において訓練済みである。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}、@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を行う際、そのアクションはブラヴァードのトレイトを得る。</p>"
+      "description": "<p>あなたは大胆な身体能力の妙技で、敵の位置をずらし、思うままに動かし、惑わせる。あなたは《運動》に訓練済みである。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}、@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}を行うとき、そのアクションはブラヴァード・トレイトを得る。</p>"
     },
     "Druid Spellcasting": {
       "name": "ドルイド・スペルキャスティング",
@@ -717,8 +717,8 @@
       "description": "<p>あなたの護符は、広範囲の攻撃に対してさえ聖域を提供する。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.Or6RLXeoZkN8CLdi]{アミュレッツ・アベイアンス}を使用するとき、あなたはあなた自身と15フィート以内のすべての味方を対象とする。各対象は、誘発したダメージに対する初期の耐性と、あなたの護符の熟練の恩恵による持続的な耐性の両方を得る。味方は、たとえ初期の誘発ダメージをまったく受けなかったとしても、持続的な耐性を得る。</p>\n<p>もし敵の攻撃が複数のダメージ・タイプを与える場合、各対象は持続的な耐性を得るダメージ種別を個別に選択できる。</p>"
     },
     "Swashbuckler's Style": {
-      "name": "スワッシュバックラーズ・スタイル/Swashbuckler's Style",
-      "description": "<p>あなた独自のスタイルにより、あなたはあらゆる状況を優雅に切り抜けることができる。スワッシュバックラーのスタイルを1つ選択する。このスタイルは、あなたがパンナッシュを得るために用いる追加のアクションを決定し、そのアクションに関連するスキルを訓練済みにする。</p>"
+      "name": "スワッシュバックラーのスタイル/Swashbuckler's Style",
+      "description": "<p>あなた独自のスタイルにより、あなたはどんな状況も優雅に切り抜けられる。スワッシュバックラーのスタイルを1つ選ぶ。このスタイルによって、パナッシュを得るために使う追加のアクションが決まり、そのアクションに関係するスキルに訓練済みとなる。</p>"
     },
     "Saga's Calling": {
       "name": "サーガズ・コーリング/Saga's Calling",
@@ -1542,7 +1542,7 @@
     },
     "Fencer": {
       "name": "フェンサー/Fencer",
-      "description": "<p>あなたは慎重に動き、フェイントをかけ、偽の隙を作り出すことで、敵を不適切な攻撃へと誘い込む。あなたは《欺瞞》において訓練済みである。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{〈注意をそらす〉}または@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行うとき、そのアクションはブラヴァードのトレイトを得る。</p>"
+      "description": "<p>あなたは慎重に動き、フェイントをかけて偽の隙を作り、敵を不用意な攻撃へと誘い込む。あなたは《欺瞞》に訓練済みである。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{〈注意をそらす〉}または@UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{〈フェイント〉}を行うとき、そのアクションはブラヴァード・トレイトを得る。</p>"
     },
     "Peerless Inventor": {
       "name": "ピアレス・インヴェンター/Peerless Inventor",
@@ -1658,7 +1658,7 @@
     },
     "Braggart": {
       "name": "ブラガート/Braggart",
-      "description": "<p>あなたは敵を自慢し、嘲り、心理的に追い詰める。あなたは《威圧》において訓練済みである。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}を行う際、そのアクションはブラヴァードのトレイトを得る。</p>"
+      "description": "<p>あなたは自慢し、嘲り、心理的に敵の神経を逆なでする。あなたは《威圧》に訓練済みである。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}を行うとき、そのアクションはブラヴァード・トレイトを得る。</p>"
     },
     "Deadly Strike": {
       "name": "デッドリー・ストライク/Deadly Strike",
@@ -3139,7 +3139,7 @@
     },
     "Rascal": {
       "name": "ラスカル/Rascal",
-      "description": "<p>あなたは対戦相手に対して優位に立つために卑劣な戦術を使うことを恐れない。あなたは《盗賊術》において訓練済みであり、@UUID[Compendium.pf2e.feats-srd.Item.5eNKs6738aykAhK2]{ダーティ・トリック}汎用特技を獲得する。あなたがDirty Trickを使用する際、そのアクションはブラヴァードトレイトを得る。</p>"
+      "description": "<p>あなたは相手より優位に立つためなら、卑怯な戦術を使うことも恐れない。あなたは《盗賊術》に訓練済みであり、@UUID[Compendium.pf2e.feats-srd.Item.5eNKs6738aykAhK2]{ダーティ・トリック}の汎用特技を得る。あなたがダーティ・トリックを使うとき、そのアクションはブラヴァード・トレイトを得る。</p>"
     },
     "Agile Mind": {
       "name": "アジャイル・マインド/Agile Mind",
