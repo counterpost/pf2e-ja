@@ -2244,7 +2244,7 @@
     },
     "Animal Order": {
       "name": "動物の宗派",
-      "description": "<p>あなたは獣と強い結びつきを持っており、自分の同族よりも彼らを(そして彼らもあなたを)よく理解していると常に感じている。あなたは自然の動物たちのために立ち上がり、強力な動物の相棒を傍らに従えている。</p>\n<p><strong>秩序のスキル</strong> 《運動》</p>\n<p><strong>ドルイド特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.f2Pl5dWEL9ZvEyI1]{動物 コンパニオン}</p>\n<p><strong>秩序の呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.Zmh4ynfnCtwKeAYl]{ヒール 動物}</p>\n<p><strong>アナセマ</strong>動物に対して理不尽な残酷な行為を行うこと、または不必要に動物を殺すこと。(これは、動物に対してあなた自身を守ることや、食料のために清潔に殺すことを妨げるものではない)。</p>"
+      "description": "<p>あなたは獣と強い結びつきを持っており、自分の同族よりも彼らを(そして彼らもあなたを)よく理解していると常に感じている。あなたは自然の動物たちのために立ち上がり、強力なアニマル・コンパニオンを傍らに従えている。</p>\n<p><strong>秩序のスキル</strong> 《運動》</p>\n<p><strong>ドルイド特技</strong> @UUID[Compendium.pf2e.feats-srd.Item.f2Pl5dWEL9ZvEyI1]{動物 コンパニオン}</p>\n<p><strong>秩序の呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.Zmh4ynfnCtwKeAYl]{ヒール 動物}</p>\n<p><strong>アナセマ</strong>動物に対して理不尽な残酷な行為を行うこと、または不必要に動物を殺すこと。(これは、動物に対してあなた自身を守ることや、食料のために清潔に殺すことを妨げるものではない)。</p>"
     },
     "Amulet": {
       "name": "アミュレット/Amulet",
