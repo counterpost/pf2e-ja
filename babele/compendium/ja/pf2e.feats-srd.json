@@ -906,8 +906,8 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Advanced Qi Spells": {
-      "name": "アドバンスト・チー・スペルズ/Advanced Qi Spells",
-      "description": "<p>あなたの気のコントロール技術が新たな高みへと達した。あなたは@UUID[Compendium.pf2e.spells-srd.Item.oo7YcRC2gcez81PV]{チー・ブラスト}、@UUID[Compendium.pf2e.spells-srd.Item.Az3PmWnlWSb5ELX9]{シリンク・ザ・スパン}、または他のアクセス可能な3級気の呪文を得る。</p>",
+      "name": "高度な気呪文/Advanced Qi Spells",
+      "description": "<p>あなたの気のコントロール技術が新たな高みへと達した。あなたは@UUID[Compendium.pf2e.spells-srd.Item.oo7YcRC2gcez81PV]{気の爆発}、@UUID[Compendium.pf2e.spells-srd.Item.Az3PmWnlWSb5ELX9]{シリンク・ザ・スパン}、または他のアクセス可能な3級気の呪文を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -5349,8 +5349,8 @@
       "source": "Pathfinder Player Core"
     },
     "Grandmaster Qi Spells": {
-      "name": "グランドマスター・チー・スペルズ/Grandmaster Qi Spells",
-      "description": "<p>あなたは身体と精神の両方を完全にマスターした者のみが達成可能な気の技術を解放した。あなたは@UUID[Compendium.pf2e.spells-srd.Item.mau1Olq58ECF0ZPi]{エンブレース・ナッシングネス}、@UUID[Compendium.pf2e.spells-srd.Item.YDMOqndvYFu3OjA6]{チー・フォーム}、または他の9レベルの気の呪文を得る。</p>",
+      "name": "極致の気呪文/Grandmaster Qi Spells",
+      "description": "<p>あなたは身体と精神の両方を完全にマスターした者のみが達成可能な気の技術を解放した。あなたは@UUID[Compendium.pf2e.spells-srd.Item.mau1Olq58ECF0ZPi]{エンブレース・ナッシングネス}、@UUID[Compendium.pf2e.spells-srd.Item.YDMOqndvYFu3OjA6]{気の姿}、または他の9レベルの気の呪文を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -5379,7 +5379,7 @@
       ]
     },
     "Align Qi": {
-      "name": "アライン・チー/Align Qi",
+      "name": "気を整える/Align Qi",
       "description": "<p><strong>使用制限</strong> 1時間に1回</p>\n<p><strong>トリガー</strong>あなたが持っている呪文を〔呪文の発動〕する。これは修道士のトレイトを持つ。</p><hr /><p>あなたの気の力はあなたの傷を癒し、戦闘への活力を与える。あなたは@Damage[(@actor.abilities.wis.mod + @actor.level)[healing]]{regain ヒット・ポイント}等しい量のダメージ回復を得る、あなたのレベルにあなたの知恵の修飾子を加えたもの。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -14085,7 +14085,7 @@
       ]
     },
     "Master Qi Spells": {
-      "name": "マスター・チー・スペルズ/Master Qi Spells",
+      "name": "熟達の気呪文/Master Qi Spells",
       "description": "<p>あなたは気のほぼ完全な習熟を達成した。あなたは@UUID[Compendium.pf2e.spells-srd.Item.wTYxxYJWN348oV15]{メデューサズ・ラス}、 @UUID[Compendium.pf2e.spells-srd.Item.Ovvflf5aFbmBxqq8]{タッチ・オヴ・デス}、またはあなたがアクセスできる別の8ランクの気の呪文を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -16148,7 +16148,7 @@
     },
     "Student of Perfection Dedication": {
       "name": "スチューデント・オブ・パーフェクション・デディケーション/Student of Perfection Dedication",
-      "description": "<p><strong>アクセス</strong>あなたはジャルメレー出身である。</p><hr /><p>あなたは完璧なる家の武道の技術を習得した。あなたは訓練済みにおいて《軽業》または《運動》及び戦闘に関する《専門知識》のいずれかで卓越する；もしすでに訓練済みであれば、代わりに専門家となる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.yA9tsWT9uzL2REnw]{チー・スペルズ}僧侶クラス特技を得て、これにより気撃の気呪文と、僧侶が行うのと同様に1つのフォーカス・ポイントを回復するための〔再フォーカス〕アクティビティを持つ焦点プールを得る。あなたの完璧なる学生からの気呪文はオカルト呪文である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.EwlYs1OzaMj9BB5I]{Student of Perfection}</p>",
+      "description": "<p><strong>アクセス</strong>あなたはジャルメレー出身である。</p><hr /><p>あなたは完璧なる家の武道の技術を習得した。あなたは訓練済みにおいて《軽業》または《運動》及び戦闘に関する《専門知識》のいずれかで卓越する；もしすでに訓練済みであれば、代わりに専門家となる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.yA9tsWT9uzL2REnw]{気呪文}僧侶クラス特技を得て、これにより気撃の気呪文と、僧侶が行うのと同様に1つのフォーカス・ポイントを回復するための〔再フォーカス〕アクティビティを持つ焦点プールを得る。あなたの完璧なる学生からの気呪文はオカルト呪文である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.EwlYs1OzaMj9BB5I]{Student of Perfection}</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
@@ -33318,7 +33318,7 @@
       ]
     },
     "Disrupt Qi": {
-      "name": "ディスラプト・チー/Disrupt Qi",
+      "name": "気を断つ/Disrupt Qi",
       "description": "<p>あなたは慎重にクリーチャーの圧力点を狙い、その内なるライフフォースをブロックする。無手の〔ストライク〕を行う。もしそれがダメージを与えるに生きているクリーチャーに成功した場合、そのクリーチャーは@Damage[(floor(@actor.level/6))d6[persistent,void]]のダメージを受け、持続ダメージが終わるまで@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}される。もしあなたが18レベル以上であれば、持続虚無ダメージは3d6に増加する。</p>",
       "source": "Pathfinder Player Core 2"
     },
@@ -35809,7 +35809,7 @@
     },
     "Heaven's Thunder": {
       "name": "ヘブンズ・サンダー/Heaven's Thunder",
-      "description": "|||<p>Until the end of your next turn, your unarmed attacks and any monk weapons you wield deal additional electricity and sonic damage; the amount of each damage type is equal to the number of damage dice for the weapon or unarmed attack. Any creature who successfully @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉} you or is successfully Grappled by you takes this damage immediately after the Grapple check is resolved (using the number of damage dice of your unarmed attack to determine the damage dealt).</p>\n<p>If you also know the @UUID[Compendium.pf2e.spells-srd.Item.oo7YcRC2gcez81PV]{チー・ブラスト} ki spell, you can choose to deal either electricity or sonic damage with the spell instead of force while this effect is active (<em>ki blast</em> loses the force trait and gains the electricity or sonic trait instead).</p>|||",
+      "description": "|||<p>Until the end of your next turn, your unarmed attacks and any monk weapons you wield deal additional electricity and sonic damage; the amount of each damage type is equal to the number of damage dice for the weapon or unarmed attack. Any creature who successfully @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉} you or is successfully Grappled by you takes this damage immediately after the Grapple check is resolved (using the number of damage dice of your unarmed attack to determine the damage dealt).</p>\n<p>If you also know the @UUID[Compendium.pf2e.spells-srd.Item.oo7YcRC2gcez81PV]{気の爆発} ki spell, you can choose to deal either electricity or sonic damage with the spell instead of force while this effect is active (<em>ki blast</em> loses the force trait and gains the electricity or sonic trait instead).</p>|||",
       "selfEffect": "効果: 天の雷",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
@@ -45741,7 +45741,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Qi Center": {
-      "name": "チー・センター/Qi Center",
+      "name": "気の中心/Qi Center",
       "description": "<p><strong>使用制限</strong>1分につき1回</p><hr /><p>あなたはあなた自身を宇宙の中心に置き、その広大な力を引き出す。あなたはフォーカス・ポイントを使わずに立ちポーズトレイトを持つ単一アクションの気の呪文をキャストする。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -48572,8 +48572,8 @@
       "source": "Pathfinder Player Core"
     },
     "Qi Spells": {
-      "name": "チー・スペルズ/Qi Spells",
-      "description": "<p>あなたは気を高めて魔法的な効果を生み出す。あなたは@UUID[Compendium.pf2e.spells-srd.Item.ZL8NTvB22NeEWhVG]{インナー・アプヒーヴァル}、@UUID[Compendium.pf2e.spells-srd.Item.ps0nmhclT6aIXgd8]{チー・ラッシュ}、または他の1ランクの僧侶の気の呪文を得ることができる。</p>",
+      "name": "気呪文/Qi Spells",
+      "description": "<p>あなたは気を高めて魔法的な効果を生み出す。あなたは@UUID[Compendium.pf2e.spells-srd.Item.ZL8NTvB22NeEWhVG]{インナー・アプヒーヴァル}、@UUID[Compendium.pf2e.spells-srd.Item.ps0nmhclT6aIXgd8]{気の疾駆}、または他の1ランクの僧侶の気の呪文を得ることができる。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Clan Protector": {
@@ -50319,7 +50319,7 @@
     },
     "Jalmeri Heavenseeker Dedication": {
       "name": "ジャルメリ・ヘブンシーカー・デディケーション/Jalmeri Heavenseeker Dedication",
-      "description": "<p>あなたは訓練済みになり、《軽業》か《オカルト学》のいずれかのスキルである；もしすでにこれら両方のスキルで訓練済みであれば、そのうちの1つのスキルでエキスパートになる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.yA9tsWT9uzL2REnw]{チー・スペルズ}の僧侶の特技を得て、1のフォーカス・ポイントを持つ気の呪文とフォーカス・プールを得る。それを僧侶のように@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}活動を使って回復できる。もしすでに気の呪文の特技を持っている場合、代わりに単一の1レベル僧侶特技を選ぶことができる。</p><hr /><p><strong>特別</strong>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.NaG4fy33coUdSFtH]{Jalmeri Heavenseeker}か@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.EwlYs1OzaMj9BB5I]{Student of Perfection}のアーキタイプから他の2つの特技を得るまで、他の献身の特技を選べない。</p>",
+      "description": "<p>あなたは訓練済みになり、《軽業》か《オカルト学》のいずれかのスキルである；もしすでにこれら両方のスキルで訓練済みであれば、そのうちの1つのスキルでエキスパートになる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.yA9tsWT9uzL2REnw]{気呪文}の僧侶の特技を得て、1のフォーカス・ポイントを持つ気の呪文とフォーカス・プールを得る。それを僧侶のように@UUID[Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh]{〈再フォーカス〉}活動を使って回復できる。もしすでに気の呪文の特技を持っている場合、代わりに単一の1レベル僧侶特技を選ぶことができる。</p><hr /><p><strong>特別</strong>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.NaG4fy33coUdSFtH]{Jalmeri Heavenseeker}か@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.EwlYs1OzaMj9BB5I]{Student of Perfection}のアーキタイプから他の2つの特技を得るまで、他の献身の特技を選べない。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -50530,7 +50530,7 @@
       ]
     },
     "Lightning Qi": {
-      "name": "ライトニング・チー/Lightning Qi",
+      "name": "電光の気/Lightning Qi",
       "description": "<p><strong>使用制限</strong>1回の10分</p><hr /><p>気が自分の体内から自由に流れる。次のアクションが2アクション以上かかる気の呪文を唱える場合、そのアクションに必要なアクション数を1減らす(最低1アクション)。</p>",
       "source": "Pathfinder Player Core 2"
     },
