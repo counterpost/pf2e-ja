@@ -78,8 +78,8 @@
       ]
     },
     "Advanced Domain Spirit": {
-      "name": "上級領域の精霊/Advanced Domain Spirit",
-      "description": "<p>あなたの領域の精霊とのつながりが深まった。あなたは、あなたの領域の精霊によって授与された領域の上級領域呪文を得る。</p>",
+      "name": "高度な領域の精霊/Advanced Domain Spirit",
+      "description": "<p>あなたの領域の精霊とのつながりが深まった。あなたは、あなたの領域の精霊によって授与された領域の高度な領域呪文を得る。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
@@ -3775,7 +3775,7 @@
     },
     "Advanced Hallowed Spell": {
       "name": "アドバンスト・ハロード・スペル/Advanced Hallowed Spell",
-      "description": "<p>あなたはウィザードの学派や神聖な領域に見られる魔法の道具をより深く掘り下げる。あなたは上級フォーカス呪文を1つ得る。ネクロマンサーの上級学派呪文である@UUID[Compendium.pf2e.spells-srd.Item.zvvHOQV78WKUB33l]{ライフ・サイフォン}か、死の領域の上級領域呪文である@UUID[Compendium.pf2e.spells-srd.Item.J5MNC4xq3CHH31qT]{エラディケイト・アンデッド}のいずれかである。あなたのフォーカス・プール内のフォーカス・ポイントの数を1増加する。もし<em>ライフ・サイフォン</em>を選択した場合、それはウィザードの呪文スロットでなかったとしても、クラスの呪文スロットを消費したときに発動する。</p>\n<p><strong>特殊</strong>あなたはこの特技を2回目に選択し、もう一方の上級フォーカス呪文を選ぶことができる。</p>",
+      "description": "<p>あなたはウィザードの学派や神聖な領域に見られる魔法の道具をより深く掘り下げる。あなたは上級フォーカス呪文を1つ得る。ネクロマンサーの上級学派呪文である@UUID[Compendium.pf2e.spells-srd.Item.zvvHOQV78WKUB33l]{ライフ・サイフォン}か、死の領域の高度な領域呪文である@UUID[Compendium.pf2e.spells-srd.Item.J5MNC4xq3CHH31qT]{エラディケイト・アンデッド}のいずれかである。あなたのフォーカス・プール内のフォーカス・ポイントの数を1増加する。もし<em>ライフ・サイフォン</em>を選択した場合、それはウィザードの呪文スロットでなかったとしても、クラスの呪文スロットを消費したときに発動する。</p>\n<p><strong>特殊</strong>あなたはこの特技を2回目に選択し、もう一方の上級フォーカス呪文を選ぶことができる。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -4136,7 +4136,7 @@
     },
     "Numb": {
       "name": "ナム/Numb",
-      "description": "<p>あなたの体が腐敗し続け、腐臭が立ち込めると、感覚は鈍くなり、アンデッドの力が増大する。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{上級アンデッドの利益}を得るとともに、感情と痛みの影響に対するセーヴィング・スローに+1の状況ボーナスを得る。あなたの体が@UUID[Compendium.pf2e.feat-effects.Item.94MzLpLykQIWKcA1]{Deteriorated}である限り、その鈍さは二つの方法で増幅される。この特技から得た状況ボーナスは+2に増加し、感情または痛みの影響に対するセーヴィング・スローで成功を収めた場合、代わりにクリティカル成功を得る。</p>",
+      "description": "<p>あなたの体が腐敗し続け、腐臭が立ち込めると、感覚は鈍くなり、アンデッドの力が増大する。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{高度なアンデッドの恩恵}を得るとともに、感情と痛みの影響に対するセーヴィング・スローに+1の状況ボーナスを得る。あなたの体が@UUID[Compendium.pf2e.feat-effects.Item.94MzLpLykQIWKcA1]{Deteriorated}である限り、その鈍さは二つの方法で増幅される。この特技から得た状況ボーナスは+2に増加し、感情または痛みの影響に対するセーヴィング・スローで成功を収めた場合、代わりにクリティカル成功を得る。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -5665,7 +5665,7 @@
     },
     "Claim Cardinal Domains": {
       "name": "主要領域の主張/Claim Cardinal Domains",
-      "description": "<p>あなたの世界の神聖な真実に対する支配が強まる。あなたは合計4つの領域にまで主張できる、最大3つの追加領域を主張できる。しかし、あなたの物質的な形はそのような力を簡単に保持することができない。毎日あなたの日課の準備の間に、現在どの領域から力を引き出しているかを決定する。あなたはその日のためにこの領域にアクセスでき、その領域の呪文を通常通りに唱えることができるが、他の領域の力にアクセスできる能力は休眠状態になる。あなたは神の能力を使って主張した任意の領域の上級領域呪文を学ぶ。</p>\n<p>この特技を得たとき、あなたはすぐに一つ以上の領域を主張しないことを選択でき、物語の後に空間を開いたままにすることができる。未割り当ての領域を一つ以上持っている限り、戦闘の最中でも単一アクションとして領域を主張するためにミシック・ポイントを消費することができる。この領域は永遠にあなたのポートフォリオの一部となり、この時点以降に変更できない。</p>\n<p>あなたはまた、ミシック・ポイントを消費して神聖な力を過充電でき、次の1分間に主張したすべての領域にアクセスできるようになる。通常通りにヒエロファントにこのアクセスを渡す。1分が終了した後、あなたはどの4つの領域にアクセスを保持するかを次の日課の準備まで選ぶことができる。</p>",
+      "description": "<p>あなたの世界の神聖な真実に対する支配が強まる。あなたは合計4つの領域にまで主張できる、最大3つの追加領域を主張できる。しかし、あなたの物質的な形はそのような力を簡単に保持することができない。毎日あなたの日課の準備の間に、現在どの領域から力を引き出しているかを決定する。あなたはその日のためにこの領域にアクセスでき、その領域の呪文を通常通りに唱えることができるが、他の領域の力にアクセスできる能力は休眠状態になる。あなたは神の能力を使って主張した任意の領域の高度な領域呪文を学ぶ。</p>\n<p>この特技を得たとき、あなたはすぐに一つ以上の領域を主張しないことを選択でき、物語の後に空間を開いたままにすることができる。未割り当ての領域を一つ以上持っている限り、戦闘の最中でも単一アクションとして領域を主張するためにミシック・ポイントを消費することができる。この領域は永遠にあなたのポートフォリオの一部となり、この時点以降に変更できない。</p>\n<p>あなたはまた、ミシック・ポイントを消費して神聖な力を過充電でき、次の1分間に主張したすべての領域にアクセスできるようになる。通常通りにヒエロファントにこのアクセスを渡す。1分が終了した後、あなたはどの4つの領域にアクセスを保持するかを次の日課の準備まで選ぶことができる。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
@@ -6213,7 +6213,7 @@
     },
     "Grave Strength": {
       "name": "グレイブ・ストレングス/Grave Strength",
-      "description": "<p>あなたがグールとしての存在の過程で消費した肉はあなたを強くし、あなたが捕食した知性のあるクリーチャーの精神から奇妙な洞察を与え、あなたをアンデッドの完璧な状態に近づけた。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{上級アンデッドの利益}を得る。さらに、あなたは満腹のときに移動速度に +5フィートの状態ボーナスを得る。 </p>",
+      "description": "<p>あなたがグールとしての存在の過程で消費した肉はあなたを強くし、あなたが捕食した知性のあるクリーチャーの精神から奇妙な洞察を与え、あなたをアンデッドの完璧な状態に近づけた。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{高度なアンデッドの恩恵}を得る。さらに、あなたは満腹のときに移動速度に +5フィートの状態ボーナスを得る。 </p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -12126,7 +12126,7 @@
     },
     "Holy Flower": {
       "name": "ホーリー・フラワー/Holy Flower",
-      "description": "<p>メラニーの恩寵があなたをさらに強化する。あなたは「ホーリー・ブルーム」で選択した領域の上級領域呪文を得る。</p><hr /><p><strong>特殊</strong>もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.p6TGLeRmYINvbLNW]{ホーリー・ブルーム}を2回選択したなら、あなたはこの特技を2回目に選択でき、もう一方の領域の上級領域呪文を得る。</p>",
+      "description": "<p>メラニーの恩寵があなたをさらに強化する。あなたは「ホーリー・ブルーム」で選択した領域の高度な領域呪文を得る。</p><hr /><p><strong>特殊</strong>もしあなたが@UUID[Compendium.pf2e.feats-srd.Item.p6TGLeRmYINvbLNW]{ホーリー・ブルーム}を2回選択したなら、あなたはこの特技を2回目に選択でき、もう一方の領域の高度な領域呪文を得る。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -15166,7 +15166,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "上級領域"
+          "value": "高度な領域"
         }
       ]
     },
@@ -16161,7 +16161,7 @@
     },
     "Ghoul Dedication": {
       "name": "グール・デディケーション/Ghoul Dedication",
-      "description": "<p>あなたはグール熱にかかり、死んでグールとして戻ってきた。これは、死肉に対する終わりのない飢餓に呪われたアンデッドであり、それが次第にあなたの理性と意志を覆い隠し、あなたが求める食事のために何でもするようになる。性格の変化に加え、あなたの身体も変わる。耳が尖り、肌は青白くなる。爪は爪先が鋭くなり、歯は骨から肉を引き剥がすために鋭く尖る；舌は長く、尖るようになる。</p>\n<p>あなたはグールとアンデッドのトレイトと@UUID[Compendium.pf2e.ancestryfeatures.Item.SAbzItAI4uwbdnQk]{アンデッドの基本利益}を得る。あなたのアンデッドの渇望は死んだクリーチャーの肉である；自我のあるクリーチャーからの新鮮な死体は、非自我の死体や腐った死体よりも遥かに渇望を満たすが、どんな死んだクリーチャーも少なくともほんの少しは飢えを抑えることができる。あなたは剛腕武器種において、二つの素手攻撃を得る。最初の素手攻撃は鋭い爪で、1d4の斬撃ダメージを与え、敏捷と技巧のトレイトを持ち、二番目の素手攻撃は顎のセットで、1d6の刺突ダメージを与え、技巧のトレイトを持つ。</p>\n<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.1If9lLVoZdO8woVg]{〈コンシューム・フレッシュ〉}アクションを得る。渇望を満たすのは難しい。肉を消費することで一時的に満たされる。多くのグール特技には、満たされているときに使用できる追加の能力や機能があるが、それらの能力を使用すると満たされた状態を失う。あなたは常に肉を消費することができるが、通常の量以上を食べてもそれ以上の効果はない；グールの飢えは、満たされているか、満たされていないかのいずれかである。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.bKoV037XO3qiakGw]{Ghoul}</p>",
+      "description": "<p>あなたはグール熱にかかり、死んでグールとして戻ってきた。これは、死肉に対する終わりのない飢餓に呪われたアンデッドであり、それが次第にあなたの理性と意志を覆い隠し、あなたが求める食事のために何でもするようになる。性格の変化に加え、あなたの身体も変わる。耳が尖り、肌は青白くなる。爪は爪先が鋭くなり、歯は骨から肉を引き剥がすために鋭く尖る；舌は長く、尖るようになる。</p>\n<p>あなたはグールとアンデッドのトレイトと@UUID[Compendium.pf2e.ancestryfeatures.Item.SAbzItAI4uwbdnQk]{基本のアンデッドの恩恵}を得る。あなたのアンデッドの渇望は死んだクリーチャーの肉である；自我のあるクリーチャーからの新鮮な死体は、非自我の死体や腐った死体よりも遥かに渇望を満たすが、どんな死んだクリーチャーも少なくともほんの少しは飢えを抑えることができる。あなたは剛腕武器種において、二つの素手攻撃を得る。最初の素手攻撃は鋭い爪で、1d4の斬撃ダメージを与え、敏捷と技巧のトレイトを持ち、二番目の素手攻撃は顎のセットで、1d6の刺突ダメージを与え、技巧のトレイトを持つ。</p>\n<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.1If9lLVoZdO8woVg]{〈コンシューム・フレッシュ〉}アクションを得る。渇望を満たすのは難しい。肉を消費することで一時的に満たされる。多くのグール特技には、満たされているときに使用できる追加の能力や機能があるが、それらの能力を使用すると満たされた状態を失う。あなたは常に肉を消費することができるが、通常の量以上を食べてもそれ以上の効果はない；グールの飢えは、満たされているか、満たされていないかのいずれかである。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.bKoV037XO3qiakGw]{Ghoul}</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -16425,7 +16425,7 @@
     },
     "Domain Fluency": {
       "name": "領域への精通/Domain Fluency",
-      "description": "<p>あなたはあなたの神秘に関連する領域の深い理解を持つ。あなたの神秘に関連する領域の中から初期の領域呪文を1つ選ぶ。その領域から上級領域呪文を得て、それを啓示呪文として唱える。</p>",
+      "description": "<p>あなたはあなたの神秘に関連する領域の深い理解を持つ。あなたの神秘に関連する領域の中から初期の領域呪文を1つ選ぶ。その領域から高度な領域呪文を得て、それを啓示呪文として唱える。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -18106,7 +18106,7 @@
     },
     "Paradoxical Mystery": {
       "name": "パラドキシカル・ミステリー/Paradoxical Mystery",
-      "description": "<p>あなたの神聖な神秘の真実の深さは計り知れず矛盾しており、あなたがほとんど理解できない変化する力を与える。あなたの日課の準備の毎日、あなたの神秘によって与えられた領域のいずれかから、<em>Player Core</em>のいずれか、または他の神秘からの初期または上級啓示呪文を選ぶ。最初の基本または上級領域呪文を選択する。その呪文を啓示呪文として次の日課の準備まで取得する。</p>",
+      "description": "<p>あなたの神聖な神秘の真実の深さは計り知れず矛盾しており、あなたがほとんど理解できない変化する力を与える。あなたの日課の準備の毎日、あなたの神秘によって与えられた領域のいずれかから、<em>Player Core</em>のいずれか、または他の神秘からの初期または上級啓示呪文を選ぶ。最初の基本または高度な領域呪文を選択する。その呪文を啓示呪文として次の日課の準備まで取得する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -19735,7 +19735,7 @@
     },
     "Mutant Physique": {
       "name": "ミュータント・フィジーク/Mutant Physique",
-      "description": "<p>身体の形状に影響を与える基本的な変異薬は、あなたの内に潜む獣を引き出し、ほぼ無敵にし、またはあなたの身体をより弾力的にすることができる。リストにある変異薬の影響を受けている間、あなたは追加の恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.IQK9N2mEOyAj3iWU]{ベスティアル・ミュータジェン}</strong>あなたは変異薬のアイテム・ボーナスをあなたの《威圧》判定に得る。さらに、あなたの爪と顎のダメージダイスのサイズを一段階増加させ、致死的d10トレイトを得る。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH]{ジャガーノート・ミュータジェン}</strong>あなたは耐性を全ての物理ダメージに対してレベルの半分だけ得る。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.5MKBwpE401uz4kNN]{クイックシルバー・ミュータジェン}</strong>あなたは脚を伸ばし、10フィートまで〔ステップ〕することができ、体をつぶすことができるので、すき間を通り抜けることができ、サイズが一つ小さいかのように扱われ、圧迫の効果も受ける。</p></li></ul><hr /><p><strong>特別</strong>あなたが複数の変異薬の効果を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{研究分野の大発見(ミュータジェニスト)}を持っている場合)、あなたは全ての関連する恩恵を得る。</p>",
+      "description": "<p>身体の形状に影響を与える基本的な変異薬は、あなたの内に潜む獣を引き出し、ほぼ無敵にし、またはあなたの身体をより弾力的にすることができる。リストにある変異薬の影響を受けている間、あなたは追加の恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.IQK9N2mEOyAj3iWU]{ベスティアル・ミュータジェン}</strong>あなたは変異薬のアイテム・ボーナスをあなたの《威圧》判定に得る。さらに、あなたの爪と顎のダメージダイスのサイズを一段階増加させ、致死的d10トレイトを得る。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH]{ジャガーノート・ミュータジェン}</strong>あなたは耐性を全ての物理ダメージに対してレベルの半分だけ得る。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.5MKBwpE401uz4kNN]{クイックシルバー・ミュータジェン}</strong>あなたは脚を伸ばし、10フィートまで〔ステップ〕することができ、体をつぶすことができるので、すき間を通り抜けることができ、サイズが一つ小さいかのように扱われ、圧迫の効果も受ける。</p></li></ul><hr /><p><strong>特別</strong>あなたが複数の変異薬の効果を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{強力な研究分野の発見(ミュータジェニスト)}を持っている場合)、あなたは全ての関連する恩恵を得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Thaumaturge Dedication": {
@@ -22042,7 +22042,7 @@
     },
     "Chemical Contagion": {
       "name": "ケミカル・コンテージョン/Chemical Contagion",
-      "description": "<p>あなたの傷の毒はクリーチャーに吹きかけることができる。あなたは毒物専門のアルケミストの@UUID[Compendium.pf2e.classfeatures.Item.tnqyQrhrZeDtDvcO]{研究分野の大発見(トキシコロジスト)}を得る。</p>",
+      "description": "<p>あなたの傷の毒はクリーチャーに吹きかけることができる。あなたは毒物専門のアルケミストの@UUID[Compendium.pf2e.classfeatures.Item.tnqyQrhrZeDtDvcO]{強力な研究分野の発見(トキシコロジスト)}を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -24051,7 +24051,7 @@
       "source": "Pathfinder Player Core"
     },
     "Advanced Deity's Domain": {
-      "name": "上級神格の領域/Advanced Deity's Domain",
+      "name": "高度な神格の領域/Advanced Deity's Domain",
       "description": "<p>あなたの信念を通じて、あなたは神格の領域の深い秘密を垣間見た。あなたは、神の領域として選んだ領域から上級の領域呪文を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -25737,7 +25737,7 @@
     },
     "Horselord's Bond": {
       "name": "ホースロードズ・ボンド/Horselord's Bond",
-      "description": "<p>あなたとあなたの馬がゾン＝クーソンの支配に対する聖戦を続けるにつれて、あなたと馬の絆は超自然的なほどに強くなる。あなたとあなたの馬は上級暗視を得る。さらに、あなたの馬が@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}、@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}、または@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}状態を引き起こす効果に対するセーヴに成功した際、代わりに大成功となる。</p>",
+      "description": "<p>あなたとあなたの馬がゾン＝クーソンの支配に対する聖戦を続けるにつれて、あなたと馬の絆は超自然的なほどに強くなる。あなたとあなたの馬は強力な暗視を得る。さらに、あなたの馬が@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}、@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}、または@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}状態を引き起こす効果に対するセーヴに成功した際、代わりに大成功となる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -26283,7 +26283,7 @@
     },
     "Grave Mummification": {
       "name": "グレイブ・マミフィケーション/Grave Mummification",
-      "description": "<p>元素、魔法、錬金術、その他の現象への曝露は、あなたのミイラ化からの変化を強めた。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{上級アンデッドの利益}を得る。</p>\n<p>さらに、あなたは自分のレベルの半分に等しい耐性を、束縛された地形から受けるいかなるダメージに対して得る。これには、その危険な温度、天候、危険な地形、環境的危険が含まれる。</p>",
+      "description": "<p>元素、魔法、錬金術、その他の現象への曝露は、あなたのミイラ化からの変化を強めた。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{高度なアンデッドの恩恵}を得る。</p>\n<p>さらに、あなたは自分のレベルの半分に等しい耐性を、束縛された地形から受けるいかなるダメージに対して得る。これには、その危険な温度、天候、危険な地形、環境的危険が含まれる。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -26742,7 +26742,7 @@
     },
     "Daywalker (Vampire)": {
       "name": "デイウォーカー（ヴァンパイア）/Daywalker (Vampire)",
-      "description": "<p>あなたは邪悪な誓いまたは血統の特異性を通じて、太陽の光に耐えることができる。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{上級アンデッドの利益}を得て、太陽光によって破壊されることはない。これは、太陽にさらされて@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}状態になることを防がない。</p>",
+      "description": "<p>あなたは邪悪な誓いまたは血統の特異性を通じて、太陽の光に耐えることができる。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{高度なアンデッドの恩恵}を得て、太陽光によって破壊されることはない。これは、太陽にさらされて@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}状態になることを防がない。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -28492,7 +28492,7 @@
     },
     "Hand of the Lich": {
       "name": "ハンド・オブ・ザ・リッチ/Hand of the Lich",
-      "description": "<p>虚無のエネルギーは、あなたのアンデッドの形を強化し、あなたの接触を生命の対極にする。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{上級アンデッドの利益}手のダメージダイスは1d4ではなく1d6に増加し、虚無ダメージを与え、殴打ダメージのトレイトを失う。あなたの手は魔法的なものになる。</p>\n<p>あなたが手で自分の拳〔ストライク〕で生きているクリーチャーにクリティカルヒットした場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}あなたの次のターン終了時まで成功しなかった場合、@Check[fortitude|against:spell]セーヴに対してあなたの呪文DCに失敗する。この効果はクリティカルスペシャライゼーション効果である。</p>",
+      "description": "<p>虚無のエネルギーは、あなたのアンデッドの形を強化し、あなたの接触を生命の対極にする。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{高度なアンデッドの恩恵}手のダメージダイスは1d4ではなく1d6に増加し、虚無ダメージを与え、殴打ダメージのトレイトを失う。あなたの手は魔法的なものになる。</p>\n<p>あなたが手で自分の拳〔ストライク〕で生きているクリーチャーにクリティカルヒットした場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ1}あなたの次のターン終了時まで成功しなかった場合、@Check[fortitude|against:spell]セーヴに対してあなたの呪文DCに失敗する。この効果はクリティカルスペシャライゼーション効果である。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -28875,7 +28875,7 @@
     },
     "Mutant Innervation": {
       "name": "ミュータント・イナベーション/Mutant Innervation",
-      "description": "<p>あなたの心と思考に影響を与える基本的な変異体は、あなたにテレパシーで通信させたり、探知されないように保護したり、誰とでも通信できるようにすることができる。リストされている変異体の一つの影響を受けている間、あなたは追加で恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.wbr6rkyaVYnDhdgV]{コグニティブ・ミュータジェン}</strong>あなたはまた、その変異体のアイテム・ボーナスを《欺瞞》、 《交渉》、 《威圧》、 メディスン、 《自然》、 《芸能》、 《宗教》、および《生存術》判定に得る。さらに、あなたは自分の言語を共有するクリーチャーと60フィート内でテレパシーで通信できる。その通信は一方通行でなく、確立された後は、接触したクリーチャーもあなたと通信できる。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.bOPQDM54W8ZDoULY]{セリーン・ミュータジェン}</strong>探知、啓示、及び念視エフェクトは9位(または17レベル)以下はあなたやあなたの所持品、オーラの何も検出しない。例えば、マジック探知はエリア内の他の魔法を検出するが、あなたにかかっている魔法は検出しない。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.YwRAHWW8yUI07sy9]{シルバータング・ミュータジェン}</strong>あなたは《欺瞞》、 《交渉》、 《威圧》、および《芸能》判定に対する状況ペナルティを無視する。さらに、あなたの言葉は言語の壁を超越する。あなたの言葉を聞いているすべての人が、あなたがその言語を話しているかのようにあなたの言葉を聞く(ただし、実際にはその言語を話しておらず、この能力によって追加の言語を理解することはできない)。</p></li></ul><hr /><p><strong>特殊</strong>あなたが複数の変異体の影響を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{研究分野の大発見(ミュータジェニスト)}など)、あなたは関連する全ての恩恵を得る。</p>",
+      "description": "<p>あなたの心と思考に影響を与える基本的な変異体は、あなたにテレパシーで通信させたり、探知されないように保護したり、誰とでも通信できるようにすることができる。リストされている変異体の一つの影響を受けている間、あなたは追加で恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.wbr6rkyaVYnDhdgV]{コグニティブ・ミュータジェン}</strong>あなたはまた、その変異体のアイテム・ボーナスを《欺瞞》、 《交渉》、 《威圧》、 メディスン、 《自然》、 《芸能》、 《宗教》、および《生存術》判定に得る。さらに、あなたは自分の言語を共有するクリーチャーと60フィート内でテレパシーで通信できる。その通信は一方通行でなく、確立された後は、接触したクリーチャーもあなたと通信できる。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.bOPQDM54W8ZDoULY]{セリーン・ミュータジェン}</strong>探知、啓示、及び念視エフェクトは9位(または17レベル)以下はあなたやあなたの所持品、オーラの何も検出しない。例えば、マジック探知はエリア内の他の魔法を検出するが、あなたにかかっている魔法は検出しない。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.YwRAHWW8yUI07sy9]{シルバータング・ミュータジェン}</strong>あなたは《欺瞞》、 《交渉》、 《威圧》、および《芸能》判定に対する状況ペナルティを無視する。さらに、あなたの言葉は言語の壁を超越する。あなたの言葉を聞いているすべての人が、あなたがその言語を話しているかのようにあなたの言葉を聞く(ただし、実際にはその言語を話しておらず、この能力によって追加の言語を理解することはできない)。</p></li></ul><hr /><p><strong>特殊</strong>あなたが複数の変異体の影響を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{強力な研究分野の発見(ミュータジェニスト)}など)、あなたは関連する全ての恩恵を得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Mimic Protections": {
@@ -33216,7 +33216,7 @@
     },
     "Ghostly Grasp": {
       "name": "ゴーストリー・グラスプ/Ghostly Grasp",
-      "description": "<p>あなたの幽霊のような形に対する制御が強まる。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{上級アンデッドの利益}を得て、限界はあるが物理的な物体と対話することができる。あなたは物理的なクリーチャーと物体に対して力に基づくスキル判定を行うことができる。あなたは物理的な物体を〔扱う〕ことができるが、そのアクションは成功しない限り効果がない。@Check[athletics|dc:20]または@Check[thievery|dc:20]判定。</p>",
+      "description": "<p>あなたの幽霊のような形に対する制御が強まる。あなたは@UUID[Compendium.pf2e.ancestryfeatures.Item.YGk41WV42aTM7CQV]{高度なアンデッドの恩恵}を得て、限界はあるが物理的な物体と対話することができる。あなたは物理的なクリーチャーと物体に対して力に基づくスキル判定を行うことができる。あなたは物理的な物体を〔扱う〕ことができるが、そのアクションは成功しない限り効果がない。@Check[athletics|dc:20]または@Check[thievery|dc:20]判定。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -42932,8 +42932,8 @@
       ]
     },
     "Advanced Domain": {
-      "name": "上級領域/Advanced Domain",
-      "description": "<p>あなたの祈りがあなたの神格の領域のより深い秘密を解き放った。あなたは初期の領域呪文を持つ領域のいずれかから上級領域呪文を得る。</p>\n<hr />\n<p><strong>特別</strong>この特技は複数回選択できる。毎回、異なる高位の領域呪文を選択しなければならない。</p>",
+      "name": "高度な領域/Advanced Domain",
+      "description": "<p>あなたの祈りがあなたの神格の領域のより深い秘密を解き放った。あなたは初期の領域呪文を持つ領域のいずれかから高度な領域呪文を得る。</p>\n<hr />\n<p><strong>特別</strong>この特技は複数回選択できる。毎回、異なる高位の領域呪文を選択しなければならない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -43416,7 +43416,7 @@
     },
     "Advanced Seeker of Truths": {
       "name": "アドバンスト・シーカー・オブ・トゥルース/Advanced Seeker of Truths",
-      "description": "<p>あなたはより深い秘密を解き明かし、知識を貯えることができるようになった。あなたは真実の探求者で選択した1つの分野から上級領域呪文を得る。増加あなたのフォーカス・プールのフォーカス・ポイントの数を1増加させる。</p>\n<hr />\n<p><strong>特別</strong>あなたはこの特技を最大3回取得できる。毎回、真実の探求者で選択した異なる上級領域呪文を選択する。</p>",
+      "description": "<p>あなたはより深い秘密を解き明かし、知識を貯えることができるようになった。あなたは真実の探求者で選択した1つの分野から高度な領域呪文を得る。増加あなたのフォーカス・プールのフォーカス・ポイントの数を1増加させる。</p>\n<hr />\n<p><strong>特別</strong>あなたはこの特技を最大3回取得できる。毎回、真実の探求者で選択した異なる高度な領域呪文を選択する。</p>",
       "source": "Pathfinder #164: Hands of the Devil",
       "prerequisites": [
         {

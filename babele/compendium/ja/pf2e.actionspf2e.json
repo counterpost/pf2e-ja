@@ -2653,7 +2653,7 @@
     },
     "Break the Sun's Legs": {
       "name": "ブレイク・ザ・サンズ・レッグズ/Break the Sun's Legs",
-      "description": "<p>あなたは松明であれ空の太陽であれ、最も明るい光源の上で斬撃の動作を行う。光源の上に切り傷が現れ、誰からも見えるようになり、光を飲み込む。あなたの周囲@Template[type:burst|distance:120]以内の全エリアは、1分の間、9レベルの@UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{ダークネス}呪文の影響を受ける。奪われた光はあなたの目に導かれ、効果時間中、あなたに上級暗視を与える。</p>",
+      "description": "<p>あなたは松明であれ空の太陽であれ、最も明るい光源の上で斬撃の動作を行う。光源の上に切り傷が現れ、誰からも見えるようになり、光を飲み込む。あなたの周囲@Template[type:burst|distance:120]以内の全エリアは、1分の間、9レベルの@UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{ダークネス}呪文の影響を受ける。奪われた光はあなたの目に導かれ、効果時間中、あなたに強力な暗視を与える。</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Detect Magic": {

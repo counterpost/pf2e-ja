@@ -174,7 +174,7 @@
       "description": "<p>あなたの最大バルクと過重バルクの制限を2増加させる。</p>"
     },
     "Basic Undead Benefits": {
-      "name": "アンデッドの基本利益/Basic Undead Benefits",
+      "name": "基本のアンデッドの恩恵/Basic Undead Benefits",
       "description": "<p><strong>ネクリル:</strong>あなたはネクリル語を知っている。</p>\n<p><strong>アンデッドの暗視:</strong>あなたは薄暗視を得る。もしあなたの祖先がすでに薄暗視を持っているなら、暗視を得る。</p>\n<p><strong>ヴォイドによる治癒:</strong>あなたは生命ダメージによってダメージを受け、生命力による回復効果では回復しない。あなたは虚無ダメージを受けず、アンデッドを回復させるヴォイドの効果によって回復する。</p>\n<p><strong>ヴォイド《生存術》:</strong>通常のアンデッドとは異なり、あなたは0ヒット・ポイントになっても破壊されない。その代わり、強力な虚無エネルギーが、窮地にあってもあなたが破壊されるのを防ごうと試みる。あなたは0ヒット・ポイントになった場合、気絶状態となり、瀕死状態が始まる。あなたはアンデッドであるため、@UUID[Compendium.pf2e.spells-srd.Item.SnjhtQYexDtNDdEg]{安定化}のような、瀕死状態から誰かを回復させる多くの方法は、あなたに恩恵をもたらさない。あなたが死亡する時、他のアンデッドと同様に、あなたは死ぬのではなく破壊される。</p>\n<p><strong>死の効果に対する完全耐性:</strong>あなたは死の効果に対して免疫である。これは、あなたが自動的に殺されたり、瀕死状態の値が自動的に上昇したりすることを防ぐが、その呪文や効果の他の部分に対して免疫になるわけではない。例えば、あなたは依然として@UUID[Compendium.pf2e.spells-srd.Item.tlcrVRqW1MSKJ5IC]{幻影殺し}によって精神ダメージを受けたり、恐れ状態になったりする可能性がある。単にそれによって即座に死亡しないだけである。</p>\n<p><strong>病気および毒の保護:</strong>あなたは病気および毒に対するセーヴィング・スロー(またはその他の防御)に+1の状況ボーナスを得る。</p>\n<p><strong>アンデッドの飢え:</strong>あなたはヒューマノイドと同じ食物を食べたり飲んだりすることはないが、グールのヒューマノイドの肉への飢え、ゾンビの脳への渇望、ヴァンパイアの血への欲求のように、通常はアンデッドの状態に関連した渇きや飢えを持っている。さらに、あなたは睡眠をとらないが、回復のために1日少なくとも4時間の間、静止状態に入る。これにより、あなたのアンデッドの肉体は再結合し、自然に回復する。多くのアンデッドは、太陽が最も高い位置にある時に休息することを選択する。</p>"
     },
     "Land on Your Feet": {
@@ -202,7 +202,7 @@
       "description": "<p>あなたは複雑な感情を理解し表現することが困難である。あなたは《交渉》判定と《芸能》判定、および@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{〈真意看破〉}を行うための《知覚》判定に-1の状況ペナルティを受ける。</p>"
     },
     "Greater Darkvision": {
-      "name": "上級暗視/Greater Darkvision",
+      "name": "強力な暗視/Greater Darkvision",
       "description": "<p>あなたは暗闇や薄暗い光の中でも、明るい光の中と同じように見ることができる。ただし、暗闇の中での視覚は白黒になる。4レベルの@UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{闇}呪文のような、一部の魔法的な暗闇は、通常の暗視を遮る。しかし、あなたはそのような魔法的な暗闇であっても見通すことができる。</p>"
     },
     "Hydration": {
@@ -218,7 +218,7 @@
       "description": "<p>あなたの目は鋭く、他の者が見逃すような@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}や、さらには@UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{不可視}クリーチャーに関する小さな詳細を見分けることができる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{〈見回す〉}アクションを使用して、あなたから30フィート以内にいる@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}や@UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{未探知}のクリーチャーを見つける際、+2の状況ボーナスを得る。あなたに対して隠蔽状態にある、あるいは隠れている相手を対象とする場合、フラット・判定のDCを、隠蔽状態の対象に対しては3に、隠れている対象に対しては9に減少させる。</p>"
     },
     "Advanced Undead Benefits": {
-      "name": "上級アンデッドの利益/Advanced Undead Benefits",
+      "name": "高度なアンデッドの恩恵/Advanced Undead Benefits",
       "description": "<p><strong>暗視：</strong>あなたは暗視を持っていない場合、それを獲得する。</p>\n<p><strong>強力な病気および毒への防護：</strong>病気と毒に対するあなたのボーナスは+2に上昇する。あなたは自身のレベルの半分に等しい毒への抵抗を得る。</p>\n<p><strong>麻痺および睡眠への防護：</strong>あなたは、あなたを@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態にする効果や睡眠のトレイトを持つ効果に対するセーヴィング・スロー(またはその他の防御)に+1の状況ボーナスを得る。</p>"
     }
   },
