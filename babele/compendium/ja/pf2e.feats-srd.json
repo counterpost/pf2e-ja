@@ -45138,7 +45138,7 @@
     },
     "Second Blessing": {
       "name": "セカンド・ブレッシング/Second Blessing",
-      "description": "<p>あなたの継続的な奉仕があなたにもう一つの恩恵を与える。あなたは二つ目の@UUID[Compendium.pf2e.classfeatures.Item.ERwuazupczhUSZ73]{ブレッシング・オブ・ザ・ディヴォーテッド}(最初のものとは異なる)を選び、その恩恵を得る。</p>",
+      "description": "<p>あなたの継続的な奉仕があなたにもう一つの恩恵を与える。あなたは二つ目の@UUID[Compendium.pf2e.classfeatures.Item.ERwuazupczhUSZ73]{献身者の祝福}(最初のものとは異なる)を選び、その恩恵を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
