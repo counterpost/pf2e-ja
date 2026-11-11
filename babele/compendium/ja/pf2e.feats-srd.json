@@ -1054,7 +1054,7 @@
       "source": "Pathfinder #168: King of the Mountain"
     },
     "Greater Deific Power": {
-      "name": "グレーター・ディーイフィック・パワー/Greater Deific Power",
+      "name": "強力な神性の力/Greater Deific Power",
       "description": "<p>ディバインの力があなたを満たし続ける。一般的な神聖呪文を2つ選ぶ。1つは4ランク、もう1つは5ランクのものとする。あなたはこれらの呪文をそれぞれ、神聖な生得呪文として1日1回発動できる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -14885,8 +14885,8 @@
       ]
     },
     "Greater Bloodline": {
-      "name": "グレーター・ブラッドライン/Greater Bloodline",
-      "description": "<p>あなたはあなたの血脈のより大きな秘密を発見する。あなたはあなたの血脈に関連するより大きな血脈の呪文を得る。</p>",
+      "name": "強力な血脈/Greater Bloodline",
+      "description": "<p>あなたはあなたの血脈のより大きな秘密を発見する。あなたはあなたの血脈に関連する強力な血脈呪文を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -17082,8 +17082,8 @@
       ]
     },
     "Advanced Bloodline": {
-      "name": "アドバンスト・ブラッドライン/Advanced Bloodline",
-      "description": "<p>あなたは血脈からより多くの力を引き出す。あなたは血脈に関連する上級血脈呪文を得る。</p>",
+      "name": "高度な血脈/Advanced Bloodline",
+      "description": "<p>あなたは血脈からより多くの力を引き出す。あなたは血脈に関連する高度な血脈呪文を得る。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -18106,7 +18106,7 @@
     },
     "Paradoxical Mystery": {
       "name": "パラドキシカル・ミステリー/Paradoxical Mystery",
-      "description": "<p>あなたの神聖な神秘の真実の深さは計り知れず矛盾しており、あなたがほとんど理解できない変化する力を与える。あなたの日課の準備の毎日、あなたの神秘によって与えられた領域のいずれかから、<em>Player Core</em>のいずれか、または他の神秘からの初期または上級啓示呪文を選ぶ。最初の基本または高度な領域呪文を選択する。その呪文を啓示呪文として次の日課の準備まで取得する。</p>",
+      "description": "<p>あなたの神聖な神秘の真実の深さは計り知れず矛盾しており、あなたがほとんど理解できない変化する力を与える。あなたの日課の準備の毎日、あなたの神秘によって与えられた領域のいずれかから、<em>Player Core</em>のいずれか、または他の神秘からの初期または高度な啓示呪文を選ぶ。最初の基本または高度な領域呪文を選択する。その呪文を啓示呪文として次の日課の準備まで取得する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -18290,8 +18290,8 @@
       ]
     },
     "Advanced Revelation": {
-      "name": "アドバンスト・レベレーション/Advanced Revelation",
-      "description": "<p>ディバインの力があなたにより大きな謎を明らかにする。あなたはあなたの神秘に関連する高等啓示呪文を学ぶ。</p>",
+      "name": "高度な啓示/Advanced Revelation",
+      "description": "<p>ディバインの力があなたにより大きな謎を明らかにする。あなたはあなたの神秘に関連する高度な啓示呪文を学ぶ。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -21379,8 +21379,8 @@
       ]
     },
     "Greater Revelation": {
-      "name": "グレーター・レベレーション/Greater Revelation",
-      "description": "<p>あなたは神秘の中に隠された深い啓示を明らかにする。あなたはあなたの神秘の大きな啓示呪文を得る</p>",
+      "name": "強力な啓示/Greater Revelation",
+      "description": "<p>あなたは神秘の中に隠された深い啓示を明らかにする。あなたはあなたの神秘の強力な啓示呪文を得る</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -32473,7 +32473,7 @@
       ]
     },
     "Major Deific Power": {
-      "name": "メジャー・ディーイフィック・パワー/Major Deific Power",
+      "name": "絶大な神性の力/Major Deific Power",
       "description": "<p>生ける神性への神格化が近づくにつれ、あなたは最強の神聖な力を蓄積する。コモン・ディバイン・スペルを3つ選択せよ。1つはランク6、1つはランク7、もう1つはランク8のものとする。あなたはこれらの各呪文を、ディバイン・イネイト・スペルとして1日1回発動できる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -38960,7 +38960,7 @@
       ]
     },
     "Advanced Deific Power": {
-      "name": "アドバンスト・ディーイフィック・パワー/Advanced Deific Power",
+      "name": "高度な神性の力/Advanced Deific Power",
       "description": "<p>筋肉と同じで、神聖な力を鍛えれば鍛えるほど、それは強くなる。一般的な神聖呪文を2つ選択する。1つは第2ランク、もう1つは第3ランクのものとする。あなたはこれらの呪文をそれぞれ、神聖な生得呪文として1日1回発動できる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -41257,7 +41257,7 @@
       "source": "Pathfinder Rage of Elements"
     },
     "Minor Deific Power": {
-      "name": "マイナー・ディーイフィック・パワー/Minor Deific Power",
+      "name": "ささやかな神性の力/Minor Deific Power",
       "description": "<p>あなたの精神的、肉体的、そして霊的な訓練は、他のいかなる神格やパトロンにも依存しない神聖魔法へのアクセスをあなたに与えた。一般的な神聖キャントリップ1つと、一般的な1レベルの神聖呪文1つを選択すること。あなたはそのキャントリップを神聖生得呪文として望むだけ唱えることができ、その1レベル呪文を神聖生得呪文として　1日1回唱えることができる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
@@ -45076,7 +45076,7 @@
           "value": "ドラゴンの弟子デディケーション"
         },
         {
-          "value": "ドラゴンウィングのソーサラーブラッドライン呪文"
+          "value": "ドラゴンウィングのソーサラーの血脈呪文"
         }
       ]
     },
@@ -45481,7 +45481,7 @@
       ]
     },
     "Basic Bloodline Spell": {
-      "name": "ベーシック・ブラッドライン・スペル/Basic Bloodline Spell",
+      "name": "基本の血脈呪文/Basic Bloodline Spell",
       "description": "<p>あなたは自分の血脈の最初の血脈呪文を獲得する。もしまだ持っていない場合、1つのフォーカス・ポイントのフォーカス・プールも獲得し、特別な努力なしに〔再フォーカス〕することができる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
