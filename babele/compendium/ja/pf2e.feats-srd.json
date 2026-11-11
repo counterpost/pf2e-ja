@@ -4465,7 +4465,7 @@
       ]
     },
     "Advanced School Spell": {
-      "name": "アドバンスト・スクール・スペル/Advanced School Spell",
+      "name": "高度な学派呪文/Advanced School Spell",
       "description": "<p>あなたは、呪文学校の強力な新しい学校呪文を学び、あなたの秘術院の高度な教えにアクセスできる。あなたはあなたの秘術学校の高度な学校呪文を得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
