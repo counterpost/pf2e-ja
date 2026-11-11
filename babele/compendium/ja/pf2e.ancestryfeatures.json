@@ -155,7 +155,7 @@
     },
     "Cryptomnesia": {
       "name": "潜在記憶/Cryptomnesia",
-      "description": "<p>あなたは前世の知識の断片を保持している。あなたは未習熟のスキル判定に+1の状況ボーナスを得る。</p>"
+      "description": "<p>あなたは前世の知識の断片を保持している。あなたは未訓練のスキル判定に+1の状況ボーナスを得る。</p>"
     },
     "Empathic Sense": {
       "name": "共感的感知/Empathic Sense",

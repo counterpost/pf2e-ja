@@ -238,7 +238,7 @@
     },
     "Puzzle Solver": {
       "name": "パズル・ソルバー/Puzzle Solver",
-      "description": "<p><strong>使用制限</strong>1時間につき</p>\n<hr />\n<p>あなたは問題解決と未知に対する自然な親和性を持っている。あなたが対象やクリーチャーについて@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行うと、あなたはそのクリーチャーや対象に関する次のスキル判定に+1の状況ボーナスを得る(たとえ判定に成功しなかったとしても)。そのスキルが〔思い出す〕の達人であれば、このボーナスは+2に増加する。</p>",
+      "description": "<p><strong>使用制限</strong>1時間につき</p>\n<hr />\n<p>あなたは問題解決と未知に対する自然な親和性を持っている。あなたが対象やクリーチャーについて@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行うと、あなたはそのクリーチャーや対象に関する次のスキル判定に+1の状況ボーナスを得る(たとえ判定に成功しなかったとしても)。そのスキルが〔思い出す〕のマスターであれば、このボーナスは+2に増加する。</p>",
       "source": "Pathfinder Howl of the Wild"
     },
     "Apparition Sense": {
@@ -298,7 +298,7 @@
     },
     "Ice Crafter": {
       "name": "アイス・クラフター/Ice Crafter",
-      "description": "<p>サウメン・カーの古代の氷作りの技術があなたの中で目覚める。あなたは訓練済みの《製作》になるか、すでに訓練済みであれば専門家になる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.xWY5omyIcILNR7y1]{マジカル・《製作》}のスキル特技を得る。あなたは金属や木でなく氷から永久的なアイテムを作ることができる；これらのアイテムは半透明のクリスタルブルーの色を持ち、氷柱や氷河の氷に似ており、冷たい鉄と同じ統計と特性を持つ。氷で作られた装備品を扱うか身に着けているクリーチャーは、その作られた氷の原始的な冷気との接触から、冷気ダメージを1点受ける。ラウンド毎。</p>",
+      "description": "<p>サウメン・カーの古代の氷作りの技術があなたの中で目覚める。あなたは訓練済みの《製作》になるか、すでに訓練済みであればエキスパートになる。あなたは@UUID[Compendium.pf2e.feats-srd.Item.xWY5omyIcILNR7y1]{マジカル・《製作》}のスキル特技を得る。あなたは金属や木でなく氷から永久的なアイテムを作ることができる；これらのアイテムは半透明のクリスタルブルーの色を持ち、氷柱や氷河の氷に似ており、冷たい鉄と同じ統計と特性を持つ。氷で作られた装備品を扱うか身に着けているクリーチャーは、その作られた氷の原始的な冷気との接触から、冷気ダメージを1点受ける。ラウンド毎。</p>",
       "source": "Pathfinder Lost Omens Monsters of Myth",
       "prerequisites": [
         {
@@ -323,7 +323,7 @@
     },
     "Alchemical Discoveries": {
       "name": "アルケミカル・ディスカバリーズ/Alchemical Discoveries",
-      "description": "<p>あなたはラボでの追加の時間を費やして錬金術についての知識を改善した。レベルアップのたびに錬金術アイテムの公式を二つ学ぶことができ、これは依然としてエリクサーまたは道具でなければならない。あなたが《製作》の専門家である場合、作成できる汎用小瓶の数は一日一つ増加し、あなたが達人であれば二つ、伝説であれば三つになる。</p>",
+      "description": "<p>あなたはラボでの追加の時間を費やして錬金術についての知識を改善した。レベルアップのたびに錬金術アイテムの公式を二つ学ぶことができ、これは依然としてエリクサーまたは道具でなければならない。あなたが《製作》のエキスパートである場合、作成できる汎用小瓶の数は一日一つ増加し、あなたがマスターであれば二つ、レジェンダリーであれば三つになる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -343,7 +343,7 @@
     },
     "Pack Stalker": {
       "name": "パック・ストーカー/Pack Stalker",
-      "description": "<p>待ち伏せは名誉あるフローの系統。あなたは@UUID[Compendium.pf2e.feats-srd.Item.beyw5bdA5hkQbmaG]{テレイン・ストーカー}の特技を得て、その効果を一人の味方にまで拡張できる、彼らがあなたの10フィートの範囲内に留まる限り。あなたが《隠密》の達人であれば、その効果を二人の味方に拡張できる。あなたが《隠密》の伝説の達人であれば、その効果を四人の味方に拡張できる。</p>",
+      "description": "<p>待ち伏せは名誉あるフローの系統。あなたは@UUID[Compendium.pf2e.feats-srd.Item.beyw5bdA5hkQbmaG]{テレイン・ストーカー}の特技を得て、その効果を一人の味方にまで拡張できる、彼らがあなたの10フィートの範囲内に留まる限り。あなたが《隠密》のマスターであれば、その効果を二人の味方に拡張できる。あなたが《隠密》でレジェンダリーであれば、その効果を四人の味方に拡張できる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -417,7 +417,7 @@
     },
     "Harrower Dedication": {
       "name": "ハロワー・デディケーション/Harrower Dedication",
-      "description": "<p>あなたは訓練済みにおいて《オカルト学》の専門家になる。もしこのスキルで既に訓練済みであれば、別のあなたの選択したスキルで訓練済みになる。あなたはまた、幸運-テリング《専門知識》において訓練済みになり、@UUID[Compendium.pf2e.spells-srd.Item.ofAQyLtLEGnOIs3N]{ハロウィング}の儀式を習得する。</p>\n<p>さらに、毎日あなたの日課の準備を行うとき、あなたはハロー・デッキにアクセスがあればあなた自身のためにハローリーディングを行うことができる。ハロー・デッキからカードを引く。そのカードのスートは次の24時間の間、あなたのアクティブなハローの前兆となり、次のページに詳述されたようにいくつかの他のハロウィンのフィートを修正する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.ePfdZYZRmycMpSWU]{〈アボイド・ダイア・フェイト〉}リアクションを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.rp6hA52dWVwtuu5F]{効果: Harrow Omen}</p>\n<p><strong>特別</strong>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.OtBPlgtudM4PlTWD]{Harrower}アーキタイプから他の2つのフィートを得るまで、別の献身フィートを選択できない。もしこのフィートからリトレーニングを行うと、習得したハロウィンの儀式を失う。</p>",
+      "description": "<p>あなたは訓練済みにおいて《オカルト学》のエキスパートになる。もしこのスキルで既に訓練済みであれば、別のあなたの選択したスキルで訓練済みになる。あなたはまた、幸運-テリング《専門知識》において訓練済みになり、@UUID[Compendium.pf2e.spells-srd.Item.ofAQyLtLEGnOIs3N]{ハロウィング}の儀式を習得する。</p>\n<p>さらに、毎日あなたの日課の準備を行うとき、あなたはハロー・デッキにアクセスがあればあなた自身のためにハローリーディングを行うことができる。ハロー・デッキからカードを引く。そのカードのスートは次の24時間の間、あなたのアクティブなハローの前兆となり、次のページに詳述されたようにいくつかの他のハロウィンのフィートを修正する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.ePfdZYZRmycMpSWU]{〈アボイド・ダイア・フェイト〉}リアクションを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.rp6hA52dWVwtuu5F]{効果: Harrow Omen}</p>\n<p><strong>特別</strong>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.OtBPlgtudM4PlTWD]{Harrower}アーキタイプから他の2つのフィートを得るまで、別の献身フィートを選択できない。もしこのフィートからリトレーニングを行うと、習得したハロウィンの儀式を失う。</p>",
       "source": "Pathfinder Stolen Fate Player's Guide"
     },
     "Turpin Rowe Lumberjack Dedication": {
@@ -604,7 +604,7 @@
     },
     "Dodge Away": {
       "name": "ドッジ・アウェイ/Dodge Away",
-      "description": "<p><strong>トリガー</strong>あなたは近接攻撃の対象である。</p>\n<p><strong>必要条件</strong>あなたは攻撃を認識しており、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}ではない。</p>\n<hr />\n<p>あなたは自分のアクロバティックな技量を使って攻撃を避け、あなた自身を動かし続けることができる場合、勢いを使って選択する場合。</p>\n<p>あなたは、トリガー攻撃に対してACに+1の状況ボーナスを得る。もし攻撃があなたに外れた場合、あなたは〔ストライク〕の後に@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{〈ステップ〉}できる。</p>\n<p>もしあなたが《軽業》の達人であれば、この〔ステップ〕で10フィートを移動することができ、5フィートを移動する代わりに。</p>",
+      "description": "<p><strong>トリガー</strong>あなたは近接攻撃の対象である。</p>\n<p><strong>必要条件</strong>あなたは攻撃を認識しており、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}ではない。</p>\n<hr />\n<p>あなたは自分のアクロバティックな技量を使って攻撃を避け、あなた自身を動かし続けることができる場合、勢いを使って選択する場合。</p>\n<p>あなたは、トリガー攻撃に対してACに+1の状況ボーナスを得る。もし攻撃があなたに外れた場合、あなたは〔ストライク〕の後に@UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{〈ステップ〉}できる。</p>\n<p>もしあなたが《軽業》のマスターであれば、この〔ステップ〕で10フィートを移動することができ、5フィートを移動する代わりに。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -749,7 +749,7 @@
           "value": "ラストウォール・セントリーデディケーション"
         },
         {
-          "value": "《宗教》の専門家または アンデッド《専門知識》"
+          "value": "《宗教》のエキスパートまたは アンデッド《専門知識》"
         }
       ]
     },
@@ -803,7 +803,7 @@
     },
     "Statue Form": {
       "name": "スタチュー・フォーム/Statue Form",
-      "description": "<p>店の前にある目立たない彫像は、事態が収まるのを待つのに完璧な姿だ。あなたが《姿変え》を行う際、彫像、店の看板、あるいはその他の最大で大型サイズの重い物体の姿を取ることができる。彫像の姿を使用することは、《欺瞞》の〈なりすます〉の使用に対する変装の準備として数えられる。ただし、クリーチャーの代わりに物体を〈なりすます〉ことができ、他者があなたの変装を見破るのを防ぐための《欺瞞》判定に+4の状況ボーナスを得る。また、たとえ未習熟であっても自身のレベルを加算する。彫像の姿の間、あなたの体重はなりすましている物体に合わせて増加し、強制的な移動(通常は頑健)に抵抗するために、関連するDCの代わりに、自身の呪文のDCまたはクラスのDCを使用できる(もしそれらの方が高い場合)。彫像の姿の間は話すことができるが、攻撃、呪文の発動、移動はできない。</p>",
+      "description": "<p>店の前にある目立たない彫像は、事態が収まるのを待つのに完璧な姿だ。あなたが《姿変え》を行う際、彫像、店の看板、あるいはその他の最大で大型サイズの重い物体の姿を取ることができる。彫像の姿を使用することは、《欺瞞》の〈なりすます〉の使用に対する変装の準備として数えられる。ただし、クリーチャーの代わりに物体を〈なりすます〉ことができ、他者があなたの変装を見破るのを防ぐための《欺瞞》判定に+4の状況ボーナスを得る。また、たとえ未訓練であっても自身のレベルを加算する。彫像の姿の間、あなたの体重はなりすましている物体に合わせて増加し、強制的な移動(通常は頑健)に抵抗するために、関連するDCの代わりに、自身の呪文のDCまたはクラスのDCを使用できる(もしそれらの方が高い場合)。彫像の姿の間は話すことができるが、攻撃、呪文の発動、移動はできない。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -823,7 +823,7 @@
     },
     "Warpriest's Armor": {
       "name": "ウォープリーストズ・アーマー/Warpriest's Armor",
-      "description": "<p>あなたの訓練は、ますます重い鎧に適応する助けとなった。あなたは重装鎧の訓練済みである。あなたが中装鎧で専門家またはそれ以上の熟練度を与えるクラス特徴を得るたびに、重装鎧でもその熟練度を得る。あなたは着用が2バルク以上の鎧を1バルク軽く扱うかのように扱う(最低1バルク)。</p>",
+      "description": "<p>あなたの訓練は、ますます重い鎧に適応する助けとなった。あなたは重装鎧の訓練済みである。あなたが中装鎧でエキスパートまたはそれ以上の熟練度を与えるクラス特徴を得るたびに、重装鎧でもその熟練度を得る。あなたは着用が2バルク以上の鎧を1バルク軽く扱うかのように扱う(最低1バルク)。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -854,7 +854,7 @@
     },
     "Champion Dedication": {
       "name": "チャンピオン・デディケーション/Champion Dedication",
-      "description": "<p>あなたは神格を選ぶ。あなたはあなたの神格の禁忌によって束縛され、チャンピオンクラスに記載されているチャンピオンのオーラと聖化を得る。あなたはチャンピオンであった場合のように原因を選び、チャンピオンが従う必要のある同じ選択肢を持つ。あなたはその教義と禁忌を得るが、他の能力は得られない。</p>\n<p>あなたは訓練済みに《宗教》とあなたの神格の関連するスキルを持つ。これらのスキルの中であなたがすでに訓練済みである場合、あなたは代わりに選んだスキルで訓練済みになる。あなたはチャンピオンクラスDCで訓練済みになる。後に奉納呪文を得ると、呪文攻撃修正と呪文DCで訓練済みになる。</p>\n<p>あなたは軽装甲と中装甲で訓練済みになる。もしすでに軽装甲と中装甲で訓練済みであった場合、重装甲でも訓練を得る。クラス特徴でいずれかのタイプの装甲で専門的またはそれ以上の熟練を与える場合(無防備な防御ではない)、この特技によって与えられた装甲タイプでその熟練も得る。無防備な防御で専門的な熟練を得る特技を持ち、あなたが13レベル以上の場合、この特技によって与えられた装甲タイプで専門家になる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DXtjeVaWNB8zSjpA]{チャンピオン}</p>",
+      "description": "<p>あなたは神格を選ぶ。あなたはあなたの神格の禁忌によって束縛され、チャンピオンクラスに記載されているチャンピオンのオーラと聖化を得る。あなたはチャンピオンであった場合のように原因を選び、チャンピオンが従う必要のある同じ選択肢を持つ。あなたはその教義と禁忌を得るが、他の能力は得られない。</p>\n<p>あなたは訓練済みに《宗教》とあなたの神格の関連するスキルを持つ。これらのスキルの中であなたがすでに訓練済みである場合、あなたは代わりに選んだスキルで訓練済みになる。あなたはチャンピオンクラスDCで訓練済みになる。後に奉納呪文を得ると、呪文攻撃修正と呪文DCで訓練済みになる。</p>\n<p>あなたは軽装甲と中装甲で訓練済みになる。もしすでに軽装甲と中装甲で訓練済みであった場合、重装甲でも訓練を得る。クラス特徴でいずれかのタイプの装甲で専門的またはそれ以上の熟練を与える場合(無防備な防御ではない)、この特技によって与えられた装甲タイプでその熟練も得る。無防備な防御で専門的な熟練を得る特技を持ち、あなたが13レベル以上の場合、この特技によって与えられた装甲タイプでエキスパートになる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DXtjeVaWNB8zSjpA]{チャンピオン}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -897,7 +897,7 @@
     },
     "Godling Dedication": {
       "name": "ゴッドリング・デディケーション/Godling Dedication",
-      "description": "<p>あなたのコーリングは、真の神格昇華への小径を歩み始めることを可能にし、あなたの神聖な種が成長するにつれて信奉者を鼓舞する。あなたの最初の信奉者はあなたのハイエロファント(あなたの新しい信仰の大神官)であり、あなたの言葉を広め、あなたの視点がますます宇宙的なものへと引き寄せられる中で、地に足のついた人間としての存在を提供する役割を彼らに頼ることになる。この特技を獲得したとき、ハイエロファントとなる意志のある味方を1人選ぶ。もしあなたのハイエロファントが呪文攻撃修正値と呪文DCにおいて訓練済みでない場合、彼らはあなたが指定したハイエロファントである間、訓練済みとなる。ハイエロファントが死亡したか、あなたと袂を分かつことを選んだ場合、選んだ味方と24時間の期間交信することで、新しいハイエロファントを指名できる。</p>\n<p>あなたのコーリングは、通常は神々に制限されている神聖魔法を掌握することを可能にする。Player Coreのリスト、またはアクセス権を持つ他の領域から、主張する領域を1つ選ぶ。あなたはこの領域の初期領域呪文を習得する。あなたは1フォーカス・ポイントを持つフォーカス・ポイントの泉を獲得し、10分をかけて彼方にある次元界から神聖なエネルギーを補充することで、〈再フォーカス〉を行うことができる。あなたは呪文修正値と呪文DCにおいて習熟度「達人」を獲得し、これらの呪文の呪文発動能力値は、この特技を獲得したときに決定する判断力または魅力のいずれかを選択する。</p>\n<p>あなたのハイエロファントも〈呪文の発動〉アクティビティを獲得し、あなたがGodlingデディケーションで習得した領域呪文を発動できる。彼らがこの方法で呪文を発動するとき、呪文のコストとしてあなたのフォーカス・ポイントが消費される。あなたのハイエロファントはこの方法で呪文を発動する際、呪文修正値と呪文DCにおいて自身の呪文発動習熟度を使用し、自身の判断力または魅力修正値(あなたの選択に合わせる)を使用する。もしあなたのハイエロファントがミシックの力を持っているなら、彼らはミシック・ポイントを消費して、ハイエロファントであることによって得たあらゆる神聖呪文をミシック習熟度で発動できる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.AJQCccOtbPq1dIWY]{Godling}</p>",
+      "description": "<p>あなたのコーリングは、真の神格昇華への小径を歩み始めることを可能にし、あなたの神聖な種が成長するにつれて信奉者を鼓舞する。あなたの最初の信奉者はあなたのハイエロファント(あなたの新しい信仰の大神官)であり、あなたの言葉を広め、あなたの視点がますます宇宙的なものへと引き寄せられる中で、地に足のついた人間としての存在を提供する役割を彼らに頼ることになる。この特技を獲得したとき、ハイエロファントとなる意志のある味方を1人選ぶ。もしあなたのハイエロファントが呪文攻撃修正値と呪文DCにおいて訓練済みでない場合、彼らはあなたが指定したハイエロファントである間、訓練済みとなる。ハイエロファントが死亡したか、あなたと袂を分かつことを選んだ場合、選んだ味方と24時間の期間交信することで、新しいハイエロファントを指名できる。</p>\n<p>あなたのコーリングは、通常は神々に制限されている神聖魔法を掌握することを可能にする。Player Coreのリスト、またはアクセス権を持つ他の領域から、主張する領域を1つ選ぶ。あなたはこの領域の初期領域呪文を習得する。あなたは1フォーカス・ポイントを持つフォーカス・ポイントの泉を獲得し、10分をかけて彼方にある次元界から神聖なエネルギーを補充することで、〈再フォーカス〉を行うことができる。あなたは呪文修正値と呪文DCにおいてマスター習熟度を獲得し、これらの呪文の呪文発動能力値は、この特技を獲得したときに決定する判断力または魅力のいずれかを選択する。</p>\n<p>あなたのハイエロファントも〈呪文の発動〉アクティビティを獲得し、あなたがGodlingデディケーションで習得した領域呪文を発動できる。彼らがこの方法で呪文を発動するとき、呪文のコストとしてあなたのフォーカス・ポイントが消費される。あなたのハイエロファントはこの方法で呪文を発動する際、呪文修正値と呪文DCにおいて自身の呪文発動習熟度を使用し、自身の判断力または魅力修正値(あなたの選択に合わせる)を使用する。もしあなたのハイエロファントがミシックの力を持っているなら、彼らはミシック・ポイントを消費して、ハイエロファントであることによって得たあらゆる神聖呪文をミシック習熟度で発動できる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.AJQCccOtbPq1dIWY]{Godling}</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Four-Armed Aspect": {
@@ -1118,7 +1118,7 @@
     },
     "Seasoned": {
       "name": "シーズンド/Seasoned",
-      "description": "<p>あなたは多くの食べ物や飲み物の準備を習得した。あなたは食べ物と飲み物を@UUID[Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{〈製作する〉}するための判定に+1の状況ボーナスを得る。これは、あなたが@UUID[Compendium.pf2e.feats-srd.Item.is3Oz9wt11lNq62K]{アルケミカル・《製作》}を持っている場合のエリクサーや、 @UUID[Compendium.pf2e.feats-srd.Item.xWY5omyIcILNR7y1]{マジカル・《製作》}を持っている場合のポーションにも含まれる。前提となるスキルの1つで達人であれば、このボーナスは+2に増加する。</p>",
+      "description": "<p>あなたは多くの食べ物や飲み物の準備を習得した。あなたは食べ物と飲み物を@UUID[Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{〈製作する〉}するための判定に+1の状況ボーナスを得る。これは、あなたが@UUID[Compendium.pf2e.feats-srd.Item.is3Oz9wt11lNq62K]{アルケミカル・《製作》}を持っている場合のエリクサーや、 @UUID[Compendium.pf2e.feats-srd.Item.xWY5omyIcILNR7y1]{マジカル・《製作》}を持っている場合のポーションにも含まれる。前提となるスキルの1つでマスターであれば、このボーナスは+2に増加する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -1289,7 +1289,7 @@
     },
     "Fearsome Brute": {
       "name": "フィアサム・ブルート/Fearsome Brute",
-      "description": "<p>あなたの恐怖は敵を衰弱させ、あなたの攻撃に対してより脆弱にする。あなたは、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}クリーチャーに対する攻撃ロールのダメージロールに状況ボーナスを得る。そのボーナスは、対象の恐怖値の2倍に等しい。</p>\n<p>あなたが《威圧》の達人であれば、そのボーナスは対象の恐怖値の3倍に増加する。</p>",
+      "description": "<p>あなたの恐怖は敵を衰弱させ、あなたの攻撃に対してより脆弱にする。あなたは、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}クリーチャーに対する攻撃ロールのダメージロールに状況ボーナスを得る。そのボーナスは、対象の恐怖値の2倍に等しい。</p>\n<p>あなたが《威圧》のマスターであれば、そのボーナスは対象の恐怖値の3倍に増加する。</p>",
       "source": "Pathfinder Player Core"
     },
     "Expert Sorcerer Spellcasting": {
@@ -1606,7 +1606,7 @@
     },
     "Knight Vigilant Dedication": {
       "name": "ナイト・ヴィジラント・デディケーション/Knight Vigilant Dedication",
-      "description": "<p>あなたは輝く衛兵のために献身している。あなたは《宗教》に熟練した専門家になる。あなたが仲間と敵の間にいるとき、敵の攻撃に対して仲間に小遮蔽を提供するとき、あなたはさらに目立つようにひねり、通常遮蔽を提供する。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.57rElfZ9sWKFQ8Ep]{ナイト・ヴィジラント}</p>",
+      "description": "<p>あなたは輝く衛兵のために献身している。あなたは《宗教》でエキスパートになる。あなたが仲間と敵の間にいるとき、敵の攻撃に対して仲間に小遮蔽を提供するとき、あなたはさらに目立つようにひねり、通常遮蔽を提供する。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.57rElfZ9sWKFQ8Ep]{ナイト・ヴィジラント}</p>",
       "source": "Pathfinder Lost Omens Character Guide",
       "prerequisites": [
         {
@@ -1664,7 +1664,7 @@
     },
     "Oozemorph Dedication": {
       "name": "ウーズモーフ・デディケーション/Oozemorph Dedication",
-      "description": "<p>あなたは不規則な解剖学的再配置に悩まされ、異常な解剖を持つ他のクリーチャーについての洞察を得る。あなたは訓練済みに《オカルト学》およびオーズ《専門知識》になる。すでに訓練済みであれば、代わりに専門家になる。あなたはクリーチャーに飲み込まれるのを避けるための反応セーヴに+2の状況ボーナスを得る。また、飲み込まれた後に@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するための判定にもボーナスが適用される。</p>\n<p>あなたの無形の病に基づいてさらなる能力を発展させるにつれ、普通のクリーチャーにはますます不快に思われる。あなたは動物および人型生物に対する《交渉》判定にペナルティを受ける。このペナルティは、オーズモルフのアーキタイプからのクラス特技の数に等しく、特技が4つ以上であれば最大-4である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.tJQ5f8C8m5gpZsF1]{Oozemorph}</p>",
+      "description": "<p>あなたは不規則な解剖学的再配置に悩まされ、異常な解剖を持つ他のクリーチャーについての洞察を得る。あなたは訓練済みに《オカルト学》およびオーズ《専門知識》になる。すでに訓練済みであれば、代わりにエキスパートになる。あなたはクリーチャーに飲み込まれるのを避けるための反応セーヴに+2の状況ボーナスを得る。また、飲み込まれた後に@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}するための判定にもボーナスが適用される。</p>\n<p>あなたの無形の病に基づいてさらなる能力を発展させるにつれ、普通のクリーチャーにはますます不快に思われる。あなたは動物および人型生物に対する《交渉》判定にペナルティを受ける。このペナルティは、オーズモルフのアーキタイプからのクラス特技の数に等しく、特技が4つ以上であれば最大-4である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.tJQ5f8C8m5gpZsF1]{Oozemorph}</p>",
       "source": "Pathfinder Adventure: The Slithering"
     },
     "Electrogenesis": {
@@ -1720,7 +1720,7 @@
     },
     "Root Magic": {
       "name": "ルート・マジック/Root Magic",
-      "description": "<p>あなたの talismansは、卑劣な魔法から守る。あなたの日課の準備中に、ハーブのかけら、髪、聖なる油、その他の儀式の材料で小さな袋を組み立てることができ、1人の味方に渡す。この味方はあなた自身であってはならない。その日、味方が呪文や幽霊に対してセーヴィング・スローを行う最初の回で、彼らはロールに+1の状況ボーナスを得る。このボーナスは、あなたが《オカルト学》に専門家であれば+2になり、伝説的であれば+3になる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.jO7wMhnjT7yoAtQg]{効果: Root Magic}</p>",
+      "description": "<p>あなたの talismansは、卑劣な魔法から守る。あなたの日課の準備中に、ハーブのかけら、髪、聖なる油、その他の儀式の材料で小さな袋を組み立てることができ、1人の味方に渡す。この味方はあなた自身であってはならない。その日、味方が呪文や幽霊に対してセーヴィング・スローを行う最初の回で、彼らはロールに+1の状況ボーナスを得る。このボーナスは、あなたが《オカルト学》にエキスパートであれば+2になり、レジェンダリーであれば+3になる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.jO7wMhnjT7yoAtQg]{効果: Root Magic}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -2708,7 +2708,7 @@
     },
     "Punishing Shove": {
       "name": "パニッシング・シャヴ/Punishing Shove",
-      "description": "<p>あなたが敵を押し戻すとき、あなたは自分の鎧を着た体全体の力を注ぎ込む。クリーチャーを成功裏に@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}した場合、そのクリーチャーは@Damage[(@actor.abilities.str.mod + @actor.skills.athletics.rank*(@actor.skills.athletics.rank - 1))[bludgeoning]]{殴打ダメージ equal to your Strength modifier}の量のダメージを受ける(クリティカル成功の場合は@Damage[(2*(@actor.abilities.str.mod + @actor.skills.athletics.rank*(@actor.skills.athletics.rank - 1)))[bludgeoning]]{double that amount})。このダメージは、あなたが《運動》の専門家になると2増加し、マスターになると6増加し、レジェンダリーになると12増加する。</p>",
+      "description": "<p>あなたが敵を押し戻すとき、あなたは自分の鎧を着た体全体の力を注ぎ込む。クリーチャーを成功裏に@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}した場合、そのクリーチャーは@Damage[(@actor.abilities.str.mod + @actor.skills.athletics.rank*(@actor.skills.athletics.rank - 1))[bludgeoning]]{殴打ダメージ equal to your Strength modifier}の量のダメージを受ける(クリティカル成功の場合は@Damage[(2*(@actor.abilities.str.mod + @actor.skills.athletics.rank*(@actor.skills.athletics.rank - 1)))[bludgeoning]]{double that amount})。このダメージは、あなたが《運動》のエキスパートになると2増加し、マスターになると6増加し、レジェンダリーになると12増加する。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
@@ -3007,7 +3007,7 @@
     },
     "Alter Ego Dedication": {
       "name": "オルター・エゴ・デディケーション/Alter Ego Dedication",
-      "description": "<p>あなたはあなた自身を生きた鏡に変えて、目立たない誰かのダブルになり、セキュリティを通過したり、敏感な施設に入るための役割にぴったり当てはまる。あなたは《欺瞞》の専門家になる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.lAvEK4yNL3Y7pVmr]{〈アシューム・ア・ロール〉}の活動を得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.HZHzpATOyhTjUDrR]{Alter Ego}</p>",
+      "description": "<p>あなたはあなた自身を生きた鏡に変えて、目立たない誰かのダブルになり、セキュリティを通過したり、敏感な施設に入るための役割にぴったり当てはまる。あなたは《欺瞞》のエキスパートになる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.lAvEK4yNL3Y7pVmr]{〈アシューム・ア・ロール〉}の活動を得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.HZHzpATOyhTjUDrR]{Alter Ego}</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -3155,7 +3155,7 @@
     },
     "Viking Vindicator": {
       "name": "ヴァイキング・ヴィンディケーター/Viking Vindicator",
-      "description": "<p>あなたは、ウィスパリング・タイラントの恐怖の島への海上襲撃を計画している襲撃者の一人である。あなたは@UUID[Compendium.pf2e.feats-srd.Item.qQt3CMrhLkUV1wCv]{サドゥン・チャージ}ファイターの特技を得るが、これはあなたにとってはバイキングの特技となる。追加の特技をアーキタイプ特技から得る場合は、通常どおり、サドンチャージを得てもバイキングデディケーションの特別要件を満たすことにはならない。すでにサドンチャージを持っている場合、この特技を得る際に再訓練できる。サドンチャージを使用して浅い水中の対象を〔ストライク〕すると、対象はあなたの〔ストライク〕に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}され、あなたの通過によってかき立てられた水を利用して攻撃の角度を隠すことができる。あなたが@UUID[Compendium.pf2e.feats-srd.Item.j9Rp4fOZIxizyvYy]{ヴァイキング・ウェポン・ファミリアリティ}またはバイキング武器の専門家である場合、その特技の武器リストにバスタードソードとレイピアを追加する。</p>",
+      "description": "<p>あなたは、ウィスパリング・タイラントの恐怖の島への海上襲撃を計画している襲撃者の一人である。あなたは@UUID[Compendium.pf2e.feats-srd.Item.qQt3CMrhLkUV1wCv]{サドゥン・チャージ}ファイターの特技を得るが、これはあなたにとってはバイキングの特技となる。追加の特技をアーキタイプ特技から得る場合は、通常どおり、サドンチャージを得てもバイキングデディケーションの特別要件を満たすことにはならない。すでにサドンチャージを持っている場合、この特技を得る際に再訓練できる。サドンチャージを使用して浅い水中の対象を〔ストライク〕すると、対象はあなたの〔ストライク〕に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}され、あなたの通過によってかき立てられた水を利用して攻撃の角度を隠すことができる。あなたが@UUID[Compendium.pf2e.feats-srd.Item.j9Rp4fOZIxizyvYy]{ヴァイキング・ウェポン・ファミリアリティ}またはバイキング武器のエキスパートである場合、その特技の武器リストにバスタードソードとレイピアを追加する。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
         {
@@ -4374,7 +4374,7 @@
     },
     "Magic Warrior Dedication": {
       "name": "マジック・ウォリアー・デディケーション/Magic Warrior Dedication",
-      "description": "<p><strong>アクセス</strong>あなたはムワンギ語エクスパンセから来ている。</p><hr /><p>あなたは名前のない仮面を引き受け、魔法の戦士の誓約を誓った。あなたは訓練済みの選択において《秘術》または《自然》そしてマジック・ウォリアー《専門知識》のスキルにおいて専門的になる；もしあなたがすでにそのスキルにおいて訓練済みであれば、代わりに専門家になる。</p>\n<p>あなたは、あなたが選んだ動物を表す仮面の背後に自分のアイデンティティを隠し、これは@UUID[Compendium.pf2e.spells-srd.Item.wp09USMB3GIW1qbp]{アニマル・フォーム}呪文の一般的な動物タイプの1つに対応する。あなたは占い効果に対するセーヴィング・スローに+1の状況ボーナスを得るが、時にはあなたの仮面を外さないことが、魔法の戦士系統を理解または尊重しない地域で問題を引き起こすことがある。</p>\n<p>この特技を取得すると、他のクリーチャーがあなたの本当の顔や名前を知る場合、あなたはこのアーキタイプの能力を失う。あなたの献身の前に仮面を取得することを知っていた親しい仲間は、他の誰かに話さない限り、このタブーを破らない。能力を取り戻すには、あなたは仮面を手放し、異なる動物の新しいものを取得し、その新しい仮面で新たに魔法の戦士デディケーションを新しい魔法の戦士デディケーションに訓練し直さなければならない。あなたの魔法の戦士アーキタイプからのフォーカス呪文は、他の呪文と同じ系統である(複数の伝統から呪文を持つ場合は1つ選択する)。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.zxY04QNfB90gjLoh]{Magic Warrior}</p>",
+      "description": "<p><strong>アクセス</strong>あなたはムワンギ語エクスパンセから来ている。</p><hr /><p>あなたは名前のない仮面を引き受け、魔法の戦士の誓約を誓った。あなたは訓練済みの選択において《秘術》または《自然》そしてマジック・ウォリアー《専門知識》のスキルにおいて専門的になる；もしあなたがすでにそのスキルにおいて訓練済みであれば、代わりにエキスパートになる。</p>\n<p>あなたは、あなたが選んだ動物を表す仮面の背後に自分のアイデンティティを隠し、これは@UUID[Compendium.pf2e.spells-srd.Item.wp09USMB3GIW1qbp]{アニマル・フォーム}呪文の一般的な動物タイプの1つに対応する。あなたは占い効果に対するセーヴィング・スローに+1の状況ボーナスを得るが、時にはあなたの仮面を外さないことが、魔法の戦士系統を理解または尊重しない地域で問題を引き起こすことがある。</p>\n<p>この特技を取得すると、他のクリーチャーがあなたの本当の顔や名前を知る場合、あなたはこのアーキタイプの能力を失う。あなたの献身の前に仮面を取得することを知っていた親しい仲間は、他の誰かに話さない限り、このタブーを破らない。能力を取り戻すには、あなたは仮面を手放し、異なる動物の新しいものを取得し、その新しい仮面で新たに魔法の戦士デディケーションを新しい魔法の戦士デディケーションに訓練し直さなければならない。あなたの魔法の戦士アーキタイプからのフォーカス呪文は、他の呪文と同じ系統である(複数の伝統から呪文を持つ場合は1つ選択する)。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.zxY04QNfB90gjLoh]{Magic Warrior}</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
@@ -4425,7 +4425,7 @@
     },
     "Focused Fascination": {
       "name": "フォーカスト・ファシネーション/Focused Fascination",
-      "description": "<p>戦闘遭遇で@UUID[Compendium.pf2e.feats-srd.Item.7LB00jkh6JaJr3vS]{ファシネイティング・《芸能》}を使用した時、あなたは対象を@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}するために、クリティカル成功ではなく成功のみで構わない。これは、一つの対象を魅了しようとしている場合のみ機能する。たとえば、あなたが《芸能》の専門家であれば、通常通り複数のクリーチャーを対象にしてもよいし、一つのクリーチャーを対象にして成功で魅了することもできる。</p>",
+      "description": "<p>戦闘遭遇で@UUID[Compendium.pf2e.feats-srd.Item.7LB00jkh6JaJr3vS]{ファシネイティング・《芸能》}を使用した時、あなたは対象を@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}するために、クリティカル成功ではなく成功のみで構わない。これは、一つの対象を魅了しようとしている場合のみ機能する。たとえば、あなたが《芸能》のエキスパートであれば、通常通り複数のクリーチャーを対象にしてもよいし、一つのクリーチャーを対象にして成功で魅了することもできる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -4435,7 +4435,7 @@
     },
     "Nagaji Spell Expertise": {
       "name": "ナガジ・スペル・エキスパーティス/Nagaji Spell Expertise",
-      "description": "<p>あなたの魔法の技術は、優れたナガの呪文使いに匹敵する。あなたの日課の準備の間に、@UUID[Compendium.pf2e.spells-srd.Item.zR67Rt3UMHKC5evy]{フリッカー}、@UUID[Compendium.pf2e.spells-srd.Item.zfn5RqAdF63neqpP]{コントロール・ウォーター}、または@UUID[Compendium.pf2e.spells-srd.Item.GP3wewkQXEPrLxYj]{サブコンシャス・サジェスチョン}を選択する。この呪文をその日一度、5ランクのオカルトの固有呪文として唱えることができる。あなたはオカルト呪文のDCとオカルト呪文攻撃ロールの専門家になる。</p>",
+      "description": "<p>あなたの魔法の技術は、優れたナガの呪文使いに匹敵する。あなたの日課の準備の間に、@UUID[Compendium.pf2e.spells-srd.Item.zR67Rt3UMHKC5evy]{フリッカー}、@UUID[Compendium.pf2e.spells-srd.Item.zfn5RqAdF63neqpP]{コントロール・ウォーター}、または@UUID[Compendium.pf2e.spells-srd.Item.GP3wewkQXEPrLxYj]{サブコンシャス・サジェスチョン}を選択する。この呪文をその日一度、5ランクのオカルトの固有呪文として唱えることができる。あなたはオカルト呪文のDCとオカルト呪文攻撃ロールのエキスパートになる。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -4456,7 +4456,7 @@
     },
     "Animist Dedication": {
       "name": "アニミスト・デディケーション/Animist Dedication",
-      "description": "<p>あなたは霊と絆を結び、神秘呪文を唱えることができる。アニミストが利用可能な霊の中から一つを選ぶ。あなたはその霊に束縛され、毎日あなたの日課の準備の間にそれに調整し、霊のスキルにおいて訓練済みになる。あなたが8レベルの場合、調整している間、その霊のスキルにおいて専門家になり、16レベルの場合、調整している間、その霊のスキルにおいて達人になる。あなたは、ダウntimeの1日を使ってこの霊との関係を終わらせ、新しい霊と絆を結ぶことができる。</p>\n<p>あなたは〔呪文の発動〕アクティビティを得る。毎日神秘呪文リストから2つの一般的なカンプリを準備することができ、あなたがアクセスできる他の神秘カンプリも含まれる。あなたの呪文攻撃修正値と呪文 DCの統計において訓練済みである。アニミストアーキタイプ呪文のための主要な呪文発動属性は知恵であり、それらは神秘アニミスト呪文である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ZNz2aC4wQ7KC6Ixe]{Animist}</p>",
+      "description": "<p>あなたは霊と絆を結び、神秘呪文を唱えることができる。アニミストが利用可能な霊の中から一つを選ぶ。あなたはその霊に束縛され、毎日あなたの日課の準備の間にそれに調整し、霊のスキルにおいて訓練済みになる。あなたが8レベルの場合、調整している間、その霊のスキルにおいてエキスパートになり、16レベルの場合、調整している間、その霊のスキルにおいてマスターになる。あなたは、ダウntimeの1日を使ってこの霊との関係を終わらせ、新しい霊と絆を結ぶことができる。</p>\n<p>あなたは〔呪文の発動〕アクティビティを得る。毎日神秘呪文リストから2つの一般的なカンプリを準備することができ、あなたがアクセスできる他の神秘カンプリも含まれる。あなたの呪文攻撃修正値と呪文 DCの統計において訓練済みである。アニミストアーキタイプ呪文のための主要な呪文発動属性は知恵であり、それらは神秘アニミスト呪文である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ZNz2aC4wQ7KC6Ixe]{Animist}</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
         {
@@ -4476,7 +4476,7 @@
     },
     "Nimble Crawl": {
       "name": "ニンブル・クロール/Nimble Crawl",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{〈這い進む〉}驚くほど速く—あなたの移動速度の半分まで、 5フィートではなく。あなたが《軽業》において達人であれば、あなたはフル移動速度で〔這い進む〕ことができ、そしてあなたが伝説的であれば、あなたは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}ではなくなる。@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}.</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{〈這い進む〉}驚くほど速く—あなたの移動速度の半分まで、 5フィートではなく。あなたが《軽業》においてマスターであれば、あなたはフル移動速度で〔這い進む〕ことができ、そしてあなたがレジェンダリーであれば、あなたは@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}ではなくなる。@UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}.</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -4845,7 +4845,7 @@
     },
     "Myth Hunter": {
       "name": "ミス・ハンター/Myth Hunter",
-      "description": "<p><strong>トリガー</strong> あなたがミシックのトレイトを持つクリーチャーを識別するために@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を成功させた。</p>\n<p><strong>使用制限</strong> 10分に1回</p><hr /><p>あなたの祖先はイブリダンの古代における神話的な獣と対峙し、打ち勝った。これらの物語を聞き、それらの戦士たちのミシックの力の断片をチャネリングすることの組み合わせにより、あなたはミシック・クリーチャーの伝説的な防御を回避するコツを身につけた。次にあなたがトリガーとなったクリーチャーに対して〈ストライク〉を成功させた際、その〈ストライク〉は対象のミシック抵抗を2低いものとして扱う。もしあなたの《専門知識》がヒーロー・ゴッドまたはレジェンダリービーストの専門家ランクであれば、その耐性を4低いものとして扱い、ランクが達人であれば6低いものとして扱い、ランクが伝説であれば8低いものとして扱う。</p>\n<p>もしあなたの〈ストライク〉が(あなたがミシック・キャラクターであるか、ミシック武器を使用しているために)すでにミシック抵抗を無視する場合、そのクリーチャーに対する次の〈ストライク〉の成功は、代わりに1d6の精密ダメージを追加で与える。この追加ダメージは、あなたの《専門知識》がヒーロー・ゴッドまたはレジェンダリービーストの専門家ランクであれば1d8に増加し、ランクが達人であれば1d10に、ランクが伝説であれば1d12に増加する。</p>",
+      "description": "<p><strong>トリガー</strong> あなたがミシックのトレイトを持つクリーチャーを識別するために@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を成功させた。</p>\n<p><strong>使用制限</strong> 10分に1回</p><hr /><p>あなたの祖先はイブリダンの古代における神話的な獣と対峙し、打ち勝った。これらの物語を聞き、それらの戦士たちのミシックの力の断片をチャネリングすることの組み合わせにより、あなたはミシック・クリーチャーの伝説的な防御を回避するコツを身につけた。次にあなたがトリガーとなったクリーチャーに対して〈ストライク〉を成功させた際、その〈ストライク〉は対象のミシック抵抗を2低いものとして扱う。もしあなたの《専門知識》がヒーロー・ゴッドまたはレジェンダリービーストのエキスパートの習熟ランクであれば、その耐性を4低いものとして扱い、ランクがマスターであれば6低いものとして扱い、ランクがレジェンダリーであれば8低いものとして扱う。</p>\n<p>もしあなたの〈ストライク〉が(あなたがミシック・キャラクターであるか、ミシック武器を使用しているために)すでにミシック抵抗を無視する場合、そのクリーチャーに対する次の〈ストライク〉の成功は、代わりに1d6の精密ダメージを追加で与える。この追加ダメージは、あなたの《専門知識》がヒーロー・ゴッドまたはレジェンダリービーストのエキスパートの習熟ランクであれば1d8に増加し、ランクがマスターであれば1d10に、ランクがレジェンダリーであれば1d12に増加する。</p>",
       "source": "Pathfinder #216: The Acropolis Pyre",
       "prerequisites": [
         {
@@ -5023,7 +5023,7 @@
     },
     "Charmed Sleep": {
       "name": "チャームド・スリープ/Charmed Sleep",
-      "description": "<p>あなたが眠るとき、あなたは人間の親指より少し小さい無生物の物体に変身する。これは容易に見過ごされ、持ち運ぶことができる。あなたの魅了されたスリープ状態にあることは、@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}を使用するための変装の準備としてカウントされる(ただし、あなたはクリーチャーの代わりに物体に〈なりすます〉)。これは、他者があなたの変装を見破るのを防ぐための《欺瞞》判定に+4の状況ボーナスを与え、あなたが未習熟であってもレベルを加算する。魅了されたスリープ状態の間、あなたは小さな物体と同じくらい簡単に拾い上げられ、運ばれることができる。この効果はあなたが目覚めるとすぐに終了する。</p>",
+      "description": "<p>あなたが眠るとき、あなたは人間の親指より少し小さい無生物の物体に変身する。これは容易に見過ごされ、持ち運ぶことができる。あなたの魅了されたスリープ状態にあることは、@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}を使用するための変装の準備としてカウントされる(ただし、あなたはクリーチャーの代わりに物体に〈なりすます〉)。これは、他者があなたの変装を見破るのを防ぐための《欺瞞》判定に+4の状況ボーナスを与え、あなたが未訓練であってもレベルを加算する。魅了されたスリープ状態の間、あなたは小さな物体と同じくらい簡単に拾い上げられ、運ばれることができる。この効果はあなたが目覚めるとすぐに終了する。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Triangle Shot": {
@@ -5041,7 +5041,7 @@
     },
     "Hellknight Signifer Preferment": {
       "name": "ヘルナイト・シグニファー・プリファーメント/Hellknight Signifer Preferment",
-      "description": "<p>あなたは「尺度」と「鎖」の力で意志の力を強化した。あなたは正式にヘルナイトシニファーの階級に加わり、@UUID[Compendium.pf2e.equipment-srd.Item.XlmoKh60WMF9ou3J]{シグニファーズ・マスク}を受け取る。これは多くの場合、目の穴やその他の装飾的な特徴を欠いている。この仮面はあなたの視界を遮ることはないが、他者があなたの目を見ることを不可能にする。シニファーの仮面を着用している間、あなたは[[/act lie]]に対する《欺瞞》判定、[[/act coerce]]に対する《威圧》判定、および[[/act sense-motive]]に対する《欺瞞》DCに+1の状況ボーナスを得る。《威圧》の専門家ランク(または、すでに《威圧》の専門家であった場合は、あなたが訓練済みである他のスキルのいずれか)に加え、《秘術》、《自然》、《オカルト学》、《宗教》の中から選択した1つのスキルでも専門家ランクを得る。</p><hr /><p><strong>特殊</strong>あなたはこの特技と@UUID[Compendium.pf2e.feats-srd.Item.3acizttblPMfO1O7]{ヘルナイトエラント}または@UUID[Compendium.pf2e.feats-srd.Item.oNh2vedij8xbDbph]{ヘルナイト・プリファーメント}の両方を取得することはできない。</p>",
+      "description": "<p>あなたは「尺度」と「鎖」の力で意志の力を強化した。あなたは正式にヘルナイトシニファーの階級に加わり、@UUID[Compendium.pf2e.equipment-srd.Item.XlmoKh60WMF9ou3J]{シグニファーズ・マスク}を受け取る。これは多くの場合、目の穴やその他の装飾的な特徴を欠いている。この仮面はあなたの視界を遮ることはないが、他者があなたの目を見ることを不可能にする。シニファーの仮面を着用している間、あなたは[[/act lie]]に対する《欺瞞》判定、[[/act coerce]]に対する《威圧》判定、および[[/act sense-motive]]に対する《欺瞞》DCに+1の状況ボーナスを得る。《威圧》のエキスパートの習熟ランク(または、すでに《威圧》のエキスパートであった場合は、あなたが訓練済みである他のスキルのいずれか)に加え、《秘術》、《自然》、《オカルト学》、《宗教》の中から選択した1つのスキルでもエキスパートの習熟ランクを得る。</p><hr /><p><strong>特殊</strong>あなたはこの特技と@UUID[Compendium.pf2e.feats-srd.Item.3acizttblPMfO1O7]{ヘルナイトエラント}または@UUID[Compendium.pf2e.feats-srd.Item.oNh2vedij8xbDbph]{ヘルナイト・プリファーメント}の両方を取得することはできない。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -5754,7 +5754,7 @@
     },
     "Lasting Coercion": {
       "name": "ラスティング・コアージョン/Lasting Coercion",
-      "description": "<p>あなたが誰かを@UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{〈強要する〉}に成功した場合、彼らが従う最大の時間は1週間に増加し、依然としてGMによって決定される。あなたが伝説的であれば、最大は1ヶ月に増加する。</p>",
+      "description": "<p>あなたが誰かを@UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{〈強要する〉}に成功した場合、彼らが従う最大の時間は1週間に増加し、依然としてGMによって決定される。あなたがレジェンダリーであれば、最大は1ヶ月に増加する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -5889,7 +5889,7 @@
     },
     "Confabulator": {
       "name": "コンファビュレーター/Confabulator",
-      "description": "<p>虚偽に捕らえられていても、あなたは嘘を重ねる。対象は、あなたの以前の試みから得た状況ボーナスを@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{〈注意をそらす〉}や@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}に対して+4から+2に減少させる。あなたが《欺瞞》の達人である場合、ボーナスは+1に減少し、伝説的な存在であれば、対象はこれらのボーナスを全く受け取らない。</p>",
+      "description": "<p>虚偽に捕らえられていても、あなたは嘘を重ねる。対象は、あなたの以前の試みから得た状況ボーナスを@UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{〈注意をそらす〉}や@UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{〈嘘をつく〉}に対して+4から+2に減少させる。あなたが《欺瞞》のマスターである場合、ボーナスは+1に減少し、伝説的な存在であれば、対象はこれらのボーナスを全く受け取らない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -6362,7 +6362,7 @@
     },
     "Fascinating Performance": {
       "name": "ファシネーティング・パフォーマンス/Fascinating Performance",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{〈芸をする〉}、結果を一人の観察者の意志DCと比較する。成功した場合、対象はあなたによって@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}され、1ラウンドの間対象となる。観察者が戦闘などの迅速な注意を要する状況にいる場合、魅了するにはクリティカル成功が必要であり、〔芸をする〕アクションは無力化トレイトを持つ。あなたは判定を振る前に魅了しようとしているクリーチャーを選択し、その後対象は一時的な免疫となる1時間。</p>\n<p>あなたが《芸能》の専門家であれば、最大で4人の観察者を魅了できる。マスターであれば最大10人、伝説級であれば同時に任意の人数を魅了できる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{〈芸をする〉}、結果を一人の観察者の意志DCと比較する。成功した場合、対象はあなたによって@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}され、1ラウンドの間対象となる。観察者が戦闘などの迅速な注意を要する状況にいる場合、魅了するにはクリティカル成功が必要であり、〔芸をする〕アクションは無力化トレイトを持つ。あなたは判定を振る前に魅了しようとしているクリーチャーを選択し、その後対象は一時的な免疫となる1時間。</p>\n<p>あなたが《芸能》のエキスパートであれば、最大で4人の観察者を魅了できる。マスターであれば最大10人、伝説級であれば同時に任意の人数を魅了できる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -6387,7 +6387,7 @@
     },
     "Expert Skysage Divination": {
       "name": "エキスパート・スカイセイジ・ディビネーション/Expert Skysage Divination",
-      "description": "<p>あなたの星の研究は、宇宙の神秘について教えてくれた。あなたは以下の4級呪文の中から1つを呪文レパートリーに追加する：@UUID[Compendium.pf2e.spells-srd.Item.zvKWclOZ7A53DObE]{クレアヴォイアンス}または@UUID[Compendium.pf2e.spells-srd.Item.pkcOby5prOausy1k]{リード・オーメンズ}。12レベルで、以下の5級呪文の中から1つを呪文レパートリーに追加する：@UUID[Compendium.pf2e.spells-srd.Item.9BnhadUO8FMLmeZ3]{マインド・プローブ}または@UUID[Compendium.pf2e.spells-srd.Item.Ek5XI0aEdZhBgm21]{スカウティング・アイ}。14レベルで、以下の6級呪文の中から1つを呪文レパートリーに追加する：@UUID[Compendium.pf2e.spells-srd.Item.r784cIz17eWujtQj]{スクライング}または@UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{トゥルーサイト}。あなたはオカルト呪文の呪文攻撃ロールと呪文DCの専門家になる。</p>",
+      "description": "<p>あなたの星の研究は、宇宙の神秘について教えてくれた。あなたは以下の4級呪文の中から1つを呪文レパートリーに追加する：@UUID[Compendium.pf2e.spells-srd.Item.zvKWclOZ7A53DObE]{クレアヴォイアンス}または@UUID[Compendium.pf2e.spells-srd.Item.pkcOby5prOausy1k]{リード・オーメンズ}。12レベルで、以下の5級呪文の中から1つを呪文レパートリーに追加する：@UUID[Compendium.pf2e.spells-srd.Item.9BnhadUO8FMLmeZ3]{マインド・プローブ}または@UUID[Compendium.pf2e.spells-srd.Item.Ek5XI0aEdZhBgm21]{スカウティング・アイ}。14レベルで、以下の6級呪文の中から1つを呪文レパートリーに追加する：@UUID[Compendium.pf2e.spells-srd.Item.r784cIz17eWujtQj]{スクライング}または@UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{トゥルーサイト}。あなたはオカルト呪文の呪文攻撃ロールと呪文DCのエキスパートになる。</p>",
       "source": "Pathfinder #187: The Seventh Arch",
       "prerequisites": [
         {
@@ -6417,7 +6417,7 @@
     },
     "Monkey Spirits": {
       "name": "モンキー・スピリッツ/Monkey Spirits",
-      "description": "<p>ヴァナラは一般に退場したサルの霊を、自らの先祖が存在のサイクルを旅するよりも情報が少ない・面白くないと考えているが、これらのサルの霊は状況が厳しい時に役立つことがある。あなたは1日1回、5級の原始の固有呪文として@UUID[Compendium.pf2e.spells-srd.Item.tFKJCPvOQZxKq6ON]{マッド・モンキーズ}をキャストできる。あなたは原始呪文のDCと攻撃ロールの専門家になる。あなたがこの狂ったサルたちのために派手に泥棒を選ぶと、サルたちはあなたの《盗賊術》修正値を使用し、あなたの呪文DC – 10ではなくなる。</p>",
+      "description": "<p>ヴァナラは一般に退場したサルの霊を、自らの先祖が存在のサイクルを旅するよりも情報が少ない・面白くないと考えているが、これらのサルの霊は状況が厳しい時に役立つことがある。あなたは1日1回、5級の原始の固有呪文として@UUID[Compendium.pf2e.spells-srd.Item.tFKJCPvOQZxKq6ON]{マッド・モンキーズ}をキャストできる。あなたは原始呪文のDCと攻撃ロールのエキスパートになる。あなたがこの狂ったサルたちのために派手に泥棒を選ぶと、サルたちはあなたの《盗賊術》修正値を使用し、あなたの呪文DC – 10ではなくなる。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Hop Up": {
@@ -7033,7 +7033,7 @@
     },
     "Ward Medic": {
       "name": "ウォード・メディック/Ward Medic",
-      "description": "<p>あなたは大きな医療施設で学び、同時に複数の患者を治療し、全てのニーズに応えてきた。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{〈病気の手当て〉}または@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{〈傷の手当て〉}を使用する時、あなたは2対象まで治療することができる。あなたがメディスンの達人であれば、4対象まで治療でき、レジェンダリーであれば8対象まで治療できる。</p>",
+      "description": "<p>あなたは大きな医療施設で学び、同時に複数の患者を治療し、全てのニーズに応えてきた。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{〈病気の手当て〉}または@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{〈傷の手当て〉}を使用する時、あなたは2対象まで治療することができる。あなたがメディスンのマスターであれば、4対象まで治療でき、レジェンダリーであれば8対象まで治療できる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -7231,7 +7231,7 @@
     },
     "Lepidstadt Surgeon Dedication": {
       "name": "レピッドシュタット・サージョン・デディケーション/Lepidstadt Surgeon Dedication",
-      "description": "<p>あなたは何よりも、血とクリーチャー、スタシアン技術、恐怖の前に、医者である。実際、あなたは非常に優れた医者である。あなたはメディスンの専門家になる。</p>\n<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{〈応急手当〉}に成功し、まだ@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷}状態を持っていない倒れたクリーチャーを安定させると、そのクリーチャーは@Damage[(2d8 + 10*max(0,(@actor.system.skills.medicine.rank - 2)))[healing]]ヒット・ポイントを回復する; この治療は、あなたがメディスンの達人である場合は10増加し、メディスンの伝説的存在である場合はさらに10増加する。</p>\n<p>あなたが成功裏に〔応急手当〕をして出血を止めると、対象は平面的判定を2回振り(介助された回復のために DCが低下した)、より良い結果を得る; これは幸運効果である。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.45nzYsMBTP6PIxDN]{効果: Lepidstadt Surgeon デディケーション (Stop Bleeding)}</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.siGGQuh9SijE9nlt]{Lepidstadt Surgeon}</p>",
+      "description": "<p>あなたは何よりも、血とクリーチャー、スタシアン技術、恐怖の前に、医者である。実際、あなたは非常に優れた医者である。あなたはメディスンのエキスパートになる。</p>\n<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{〈応急手当〉}に成功し、まだ@UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{負傷}状態を持っていない倒れたクリーチャーを安定させると、そのクリーチャーは@Damage[(2d8 + 10*max(0,(@actor.system.skills.medicine.rank - 2)))[healing]]ヒット・ポイントを回復する; この治療は、あなたがメディスンのマスターである場合は10増加し、メディスンの伝説的存在である場合はさらに10増加する。</p>\n<p>あなたが成功裏に〔応急手当〕をして出血を止めると、対象は平面的判定を2回振り(介助された回復のために DCが低下した)、より良い結果を得る; これは幸運効果である。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.45nzYsMBTP6PIxDN]{効果: Lepidstadt Surgeon デディケーション (Stop Bleeding)}</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.siGGQuh9SijE9nlt]{Lepidstadt Surgeon}</p>",
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
         {
@@ -7379,7 +7379,7 @@
     },
     "Alkenstar Agent Dedication": {
       "name": "アルケンスター・エージェント・デディケーション/Alkenstar Agent Dedication",
-      "description": "<p><strong>アクセス</strong>あなたはアルケンスタールの公爵夫人または彼女のエージェントによって導入された。</p><hr /><p>あなたは粗野で乱暴な無法者の人格を装うが、あなたの本当の目標は、アルケンスタールの脅威を公爵夫人に報告することだ。あなたは、アンダーワールド《専門知識》または法的《専門知識》において《欺瞞》と訓練済みの専門家になる。もしあなたがすでに訓練済みであれば、代わりに専門家になる。@UUID[Compendium.pf2e.feats-srd.Item.Dvz54d6aPhjsmUux]{ライ・トゥ・ミー}スキル特技を得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ttkG4geKXTao5pku]{Alkenstar Agent}</p>",
+      "description": "<p><strong>アクセス</strong>あなたはアルケンスタールの公爵夫人または彼女のエージェントによって導入された。</p><hr /><p>あなたは粗野で乱暴な無法者の人格を装うが、あなたの本当の目標は、アルケンスタールの脅威を公爵夫人に報告することだ。あなたは、アンダーワールド《専門知識》または法的《専門知識》において《欺瞞》と訓練済みの専門家になる。もしあなたがすでに訓練済みであれば、代わりにエキスパートになる。@UUID[Compendium.pf2e.feats-srd.Item.Dvz54d6aPhjsmUux]{ライ・トゥ・ミー}スキル特技を得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ttkG4geKXTao5pku]{Alkenstar Agent}</p>",
       "source": "Pathfinder #178: Punks in a Powder Keg",
       "prerequisites": [
         {
@@ -7389,7 +7389,7 @@
     },
     "Forager": {
       "name": "フォーリジャー/Forager",
-      "description": "<p>あなたが《生存術》を使って〔生存〕を行う際に、成功未満のいずれかの結果を振った場合、成功を得る。成功した場合、あなたはあなた自身と4体の追加のクリーチャーのための自給自足を提供できる。クリティカル成功の場合、その倍の数の追加クリーチャーの世話をすることができる。あなたは快適な暮らしを支えるために、クリーチャーの半数を選ぶことができる。</p>\n<p>増加あなたが成功した際に与える追加クリーチャーの数を、あなたが《生存術》の専門家であれば8体、マスターであれば16体、レジェンダリーであれば32体に増加させる。</p>",
+      "description": "<p>あなたが《生存術》を使って〔生存〕を行う際に、成功未満のいずれかの結果を振った場合、成功を得る。成功した場合、あなたはあなた自身と4体の追加のクリーチャーのための自給自足を提供できる。クリティカル成功の場合、その倍の数の追加クリーチャーの世話をすることができる。あなたは快適な暮らしを支えるために、クリーチャーの半数を選ぶことができる。</p>\n<p>増加あなたが成功した際に与える追加クリーチャーの数を、あなたが《生存術》のエキスパートであれば8体、マスターであれば16体、レジェンダリーであれば32体に増加させる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -8101,7 +8101,7 @@
     },
     "Lassoing Lash": {
       "name": "ラッソーイング・ラッシュ/Lassoing Lash",
-      "description": "<p><strong>必要条件</strong>対象はあなたよりも1サイズ以上大きくしてはいけない。</p><hr /><p>あなたは素早く相手の周りに鞭を巻きつけ、引き寄せる。あなたは、対象の鞭の到達範囲内にある頑健 DCに対して@Check[athletics|against:fortitude]判定を行う。</p><hr /><p><strong>クリティカル成功</strong>あなたは対象をあなたに隣接する任意の空いている地面に引き寄せる。</p>\n<p><strong>成功</strong>あなたは対象をあなたに隣接する最寄りの空いている地面に引き寄せる。</p>\n<p><strong>クリティカル失敗</strong>あなたは自分の力を誤って評価し、 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}に転ぶ。</p><hr /><p><strong>特殊</strong>あなたがタイタンレスラーの特技を持っていれば、あなたは自分よりも2サイズ大きいクリーチャーを対象にできる。あるいは、 《運動》において伝説的であれば、あなたは3サイズ大きいクリーチャーを対象にできる。</p>",
+      "description": "<p><strong>必要条件</strong>対象はあなたよりも1サイズ以上大きくしてはいけない。</p><hr /><p>あなたは素早く相手の周りに鞭を巻きつけ、引き寄せる。あなたは、対象の鞭の到達範囲内にある頑健 DCに対して@Check[athletics|against:fortitude]判定を行う。</p><hr /><p><strong>クリティカル成功</strong>あなたは対象をあなたに隣接する任意の空いている地面に引き寄せる。</p>\n<p><strong>成功</strong>あなたは対象をあなたに隣接する最寄りの空いている地面に引き寄せる。</p>\n<p><strong>クリティカル失敗</strong>あなたは自分の力を誤って評価し、 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{伏せている}に転ぶ。</p><hr /><p><strong>特殊</strong>あなたがタイタンレスラーの特技を持っていれば、あなたは自分よりも2サイズ大きいクリーチャーを対象にできる。あるいは、 《運動》においてレジェンダリーであれば、あなたは3サイズ大きいクリーチャーを対象にできる。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
@@ -8114,7 +8114,7 @@
     },
     "Graft Technician": {
       "name": "グラフト・テクニシャン/Graft Technician",
-      "description": "<p>あなたは嫁接を作成し、それを植え付けることができる。この特技を選ぶと、あなたはレベル3以下の4つの一般的な嫁接の公式を得る。あなたは嫁接を植え付けるためのメディスン判定に +1の状況ボーナスを得る。あなたがメディスンにおいて達人であれば、このボーナスは +2に増加する。</p>",
+      "description": "<p>あなたは嫁接を作成し、それを植え付けることができる。この特技を選ぶと、あなたはレベル3以下の4つの一般的な嫁接の公式を得る。あなたは嫁接を植え付けるためのメディスン判定に +1の状況ボーナスを得る。あなたがメディスンにおいてマスターであれば、このボーナスは +2に増加する。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
@@ -9072,7 +9072,7 @@
     },
     "Acrobat Dedication": {
       "name": "アクロバット・デディケーション/Acrobat Dedication",
-      "description": "<p>あなたは《軽業》の専門家になる。7レベルで、あなたは《軽業》の達人になり、15レベルで《軽業》の伝説的な存在になる。《軽業》判定を敵のスペースに@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}しようとしてクリティカル成功した場合、敵のスペースを難地形とはみなさない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.rhDvoOHAhAlABiae]{Acrobat}</p>",
+      "description": "<p>あなたは《軽業》のエキスパートになる。7レベルで、あなたは《軽業》のマスターになり、15レベルで《軽業》の伝説的な存在になる。《軽業》判定を敵のスペースに@UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{〈すり抜ける〉}しようとしてクリティカル成功した場合、敵のスペースを難地形とはみなさない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.rhDvoOHAhAlABiae]{Acrobat}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -9682,7 +9682,7 @@
     },
     "Haunting Memories": {
       "name": "ハーンティング・メモリーズ/Haunting Memories",
-      "description": "<p>あなたの魂は、逃げ出した@UUID[Compendium.pf2e.equipment-srd.Item.5Q5MfHX43Sjm8C6Z]{ファイナル・ブレード}に囚われている無数の他の霊の形而上学的な印象を持ち、それらの記憶を引き出すことができる。あなたが日課の準備を行う時、あなたは未熟であるスキルの一つにおいてエキスパート習熟度を得るか、あるいは訓練済み以上のスキルにおいて習熟度をマスターに引き上げることができる。さらに、選んだスキルにおける新しいランクの最低要件を持つスキル特技を1つ得る。このフィートのレベル要件を満たすために、あなたのレベルはあなたのレベルの半分と見なす。</p>\n<p>この習熟度とフィートは、あなたが再度日課の準備を行うまで続く。この習熟度は一時的なため、永続的なキャラクターオプションの前提条件として使用することはできない。</p>",
+      "description": "<p>あなたの魂は、逃げ出した@UUID[Compendium.pf2e.equipment-srd.Item.5Q5MfHX43Sjm8C6Z]{ファイナル・ブレード}に囚われている無数の他の霊の形而上学的な印象を持ち、それらの記憶を引き出すことができる。あなたが日課の準備を行う時、あなたは未訓練であるスキルの一つにおいてエキスパート習熟度を得るか、あるいは訓練済み以上のスキルにおいて習熟度をマスターに引き上げることができる。さらに、選んだスキルにおける新しいランクの最低要件を持つスキル特技を1つ得る。このフィートのレベル要件を満たすために、あなたのレベルはあなたのレベルの半分と見なす。</p>\n<p>この習熟度とフィートは、あなたが再度日課の準備を行うまで続く。この習熟度は一時的なため、永続的なキャラクターオプションの前提条件として使用することはできない。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
@@ -9741,7 +9741,7 @@
     },
     "Unconventional Expertise": {
       "name": "アンカンベンショナル・エキスパーティス/Unconventional Expertise",
-      "description": "<p>あなたは独特な武器を使ってあなたの力を進展させ続けている。特定の武器において専門家またはそれ以上の習熟度を得るクラスフィーチャーを得るたびに、あなたは@UUID[Compendium.pf2e.feats-srd.Item.49mBVNF4SK6iYdJm]{アンカンベンショナル・ウェポンリー}のために選んだ武器のその習熟度も得る。</p>",
+      "description": "<p>あなたは独特な武器を使ってあなたの力を進展させ続けている。特定の武器においてエキスパートまたはそれ以上の習熟度を得るクラスフィーチャーを得るたびに、あなたは@UUID[Compendium.pf2e.feats-srd.Item.49mBVNF4SK6iYdJm]{アンカンベンショナル・ウェポンリー}のために選んだ武器のその習熟度も得る。</p>",
       "source": "Pathfinder Core Rulebook",
       "prerequisites": [
         {
@@ -11009,7 +11009,7 @@
     },
     "Quick Swim": {
       "name": "クイック・スウィム/Quick Swim",
-      "description": "<p>あなたは〔水泳〕に成功すると5フィートより遠くに進み、クリティカル成功すると10フィートより遠くに進むが、最大であなたの移動速度までである。あなたが《運動》において伝説的であれば、あなたは移動速度に等しい水泳移動速度を得る。</p>",
+      "description": "<p>あなたは〔水泳〕に成功すると5フィートより遠くに進み、クリティカル成功すると10フィートより遠くに進むが、最大であなたの移動速度までである。あなたが《運動》においてレジェンダリーであれば、あなたは移動速度に等しい水泳移動速度を得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -11323,7 +11323,7 @@
     },
     "Arcane Sense": {
       "name": "アーケイン・センス/Arcane Sense",
-      "description": "<p>あなたの魔法の研究は、魔法の存在を直感的に感じ取ることを可能にする。あなたは1ランクの@UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{ディテクト・マジック}を意のままに、秘術的な固有呪文として唱えることができる。あなたが《秘術》の達人であれば、呪文は3ランクに高位化され、レジェンダリーであれば4ランクに高位化される。</p>",
+      "description": "<p>あなたの魔法の研究は、魔法の存在を直感的に感じ取ることを可能にする。あなたは1ランクの@UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{ディテクト・マジック}を意のままに、秘術的な固有呪文として唱えることができる。あなたが《秘術》のマスターであれば、呪文は3ランクに高位化され、レジェンダリーであれば4ランクに高位化される。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -12050,7 +12050,7 @@
     },
     "Mask of Pain": {
       "name": "マスク・オブ・ペイン/Mask of Pain",
-      "description": "<p> <strong>トリガー</strong>あなたは〔怯ませる〕の判定に成功する。 </p> <hr /> <p> <strong>必要条件</strong>あなたは<em>ウォーマスクを装備している。 </em>。 </p> <hr /> <p>あなたの仮面はあなたの痛みの具現化に成長しており、それを解放することができる。あなたが成功裏に恐れさせたクリーチャーは@Damage[2d6[mental]]のダメージを受ける、もしくはあなたが《威圧》において伝説的であれば@Damage[4d6[mental]]のダメージを受ける。対象は一時的な免疫に対するさらなるダメージを24時間の間受ける。 </p>",
+      "description": "<p> <strong>トリガー</strong>あなたは〔怯ませる〕の判定に成功する。 </p> <hr /> <p> <strong>必要条件</strong>あなたは<em>ウォーマスクを装備している。 </em>。 </p> <hr /> <p>あなたの仮面はあなたの痛みの具現化に成長しており、それを解放することができる。あなたが成功裏に恐れさせたクリーチャーは@Damage[2d6[mental]]のダメージを受ける、もしくはあなたが《威圧》においてレジェンダリーであれば@Damage[4d6[mental]]のダメージを受ける。対象は一時的な免疫に対するさらなるダメージを24時間の間受ける。 </p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
@@ -12201,7 +12201,7 @@
     },
     "Inspiring Recitation": {
       "name": "インスパイアリング・レシテーション/Inspiring Recitation",
-      "description": "<p><strong>使用制限</strong>1時間に1回</p><hr /><p>あなたは静かに暗号化されたフレーズやメタファーを話すか思い出し、その意味があなたを促して任務を達成させる。あなたは選んだスキルに+1の状態ボーナスを得るあなたの次のターン開始時まで。あなたは最大1分のためにこの効果を〔維持〕できる。あなたが《芸能》のエキスパートであれば、ボーナスは+2に増加する。あなたが《芸能》のマスターであれば、ボーナスは+3になり、伝説的であればボーナスは+4になる。</p>",
+      "description": "<p><strong>使用制限</strong>1時間に1回</p><hr /><p>あなたは静かに暗号化されたフレーズやメタファーを話すか思い出し、その意味があなたを促して任務を達成させる。あなたは選んだスキルに+1の状態ボーナスを得るあなたの次のターン開始時まで。あなたは最大1分のためにこの効果を〔維持〕できる。あなたが《芸能》のエキスパートであれば、ボーナスは+2に増加する。あなたが《芸能》のマスターであれば、ボーナスは+3になり、レジェンダリーであればボーナスは+4になる。</p>",
       "selfEffect": "効果: インスパイアリング・レサイテーション",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
@@ -12380,7 +12380,7 @@
     },
     "Assured Knowledge": {
       "name": "アシュアード・ナレッジ/Assured Knowledge",
-      "description": "<p>あなたは自信を持って情報を取得できる。あなたがスキルのいずれかを使用して@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}するたび(バードの《専門知識》を含む)、あなたは判定のロールを省略し、代わりに10 + あなたの習熟ボーナスの結果を受け取ることができる(他のボーナス、ペナルティ、修正は適用しない)。</p>\n<p>あなたがスキルの専門家である限り、そのスキルの@UUID[Compendium.pf2e.feats-srd.Item.H3I2X0f7v4EzwxuN]{オートマティック・ナレッジ}スキル特技の前提条件を満たすことができる、たとえそのスキルの@UUID[Compendium.pf2e.feats-srd.Item.W6Gl9ePmItfDHji0]{アシュランス}が無くても。</p>",
+      "description": "<p>あなたは自信を持って情報を取得できる。あなたがスキルのいずれかを使用して@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}するたび(バードの《専門知識》を含む)、あなたは判定のロールを省略し、代わりに10 + あなたの習熟ボーナスの結果を受け取ることができる(他のボーナス、ペナルティ、修正は適用しない)。</p>\n<p>あなたがスキルのエキスパートである限り、そのスキルの@UUID[Compendium.pf2e.feats-srd.Item.H3I2X0f7v4EzwxuN]{オートマティック・ナレッジ}スキル特技の前提条件を満たすことができる、たとえそのスキルの@UUID[Compendium.pf2e.feats-srd.Item.W6Gl9ePmItfDHji0]{アシュランス}が無くても。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -12395,7 +12395,7 @@
     },
     "Chorus Companion": {
       "name": "コーラス・コンパニオン/Chorus Companion",
-      "description": "<p>動物は音楽的なパートナーになることができる、主題または観客と同じように。あなたの動物の仲間は訓練済みになり《芸能》で(または、それがすでに訓練済みなら専門家になる)。あなたが構成呪文を唱えるとき、あなたはそれがあなたから始まるか、あるいはあなたの動物の仲間から始まることを選べる、もしあなたの動物の仲間があなたから30フィートの範囲内にいるなら。</p>",
+      "description": "<p>動物は音楽的なパートナーになることができる、主題または観客と同じように。あなたの動物の仲間は訓練済みになり《芸能》で(または、それがすでに訓練済みならエキスパートになる)。あなたが構成呪文を唱えるとき、あなたはそれがあなたから始まるか、あるいはあなたの動物の仲間から始まることを選べる、もしあなたの動物の仲間があなたから30フィートの範囲内にいるなら。</p>",
       "source": "Pathfinder Howl of the Wild",
       "prerequisites": [
         {
@@ -12460,7 +12460,7 @@
           "value": "ローグデディケーションまたはインヴェスティゲーターデディケーション"
         },
         {
-          "value": "少なくとも1つのスキルにおいて訓練済みであり、かつ少なくとも1つのスキルにおいて専門家である"
+          "value": "少なくとも1つのスキルにおいて訓練済みであり、かつ少なくとも1つのスキルにおいてエキスパートである"
         }
       ]
     },
@@ -12755,7 +12755,7 @@
     },
     "Automaton Lore": {
       "name": "オートマトン・ロア/Automaton Lore",
-      "description": "<p>あなたは自身の身体を作り上げた過程と、それを動かす魔法についてより深く理解するようになった。あなたは《秘術》と《製作》において訓練済みの習熟ランクを得る。もし(背景やクラスなどから)これらのスキルのいずれかにおいて自動的に訓練済みになるはずだった場合、代わりにあなたが選択したスキルにおいて訓練済みになる。また、あなたはオートマトンの《専門知識》に対する追加の《専門知識》特技を@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{追加の《専門知識》}として得る。</p>\n<p><strong>強化</strong> あなたはより深い理解を得る。《秘術》または《製作》のうちあなたが選択した一方の習熟ランクを熟練に増加させる。もし選択したスキルがすでに熟練であった場合、代わりに習熟ランクを達人に上昇させる。</p>",
+      "description": "<p>あなたは自身の身体を作り上げた過程と、それを動かす魔法についてより深く理解するようになった。あなたは《秘術》と《製作》において訓練済みの習熟ランクを得る。もし(背景やクラスなどから)これらのスキルのいずれかにおいて自動的に訓練済みになるはずだった場合、代わりにあなたが選択したスキルにおいて訓練済みになる。また、あなたはオートマトンの《専門知識》に対する追加の《専門知識》特技を@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{追加の《専門知識》}として得る。</p>\n<p><strong>強化</strong> あなたはより深い理解を得る。《秘術》または《製作》のうちあなたが選択した一方の習熟ランクをエキスパートに増加させる。もし選択したスキルがすでにエキスパートであった場合、代わりに習熟ランクをマスターに上昇させる。</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Unfettered Growth": {
@@ -12858,7 +12858,7 @@
     },
     "Greater Esoteric Spellcasting": {
       "name": "グレーター・エソテリック・スペルキャスティング/Greater Esoteric Spellcasting",
-      "description": "<p>あなたは魔法の理解が進化し、呪文の発動も進化した。あなたは呪文攻撃修正値と呪文 DC統計の専門家になる。また、エソテリックスペルキャスティング抜きの特技により、固有の呪文を発動するために選べる系統を選ぶ。あなたはその系統の4ランクの呪文を、1日1回発動できる固有の呪文として得る。12レベルで、あなたは5ランクの呪文を得、14レベルで6ランクの呪文を同じ系統で得る。</p><hr /><p><strong>特技</strong>この特技を2回取得でき、異なる資格のある系統を選ぶことができる。</p>",
+      "description": "<p>あなたは魔法の理解が進化し、呪文の発動も進化した。あなたは呪文攻撃修正値と呪文 DC統計のエキスパートになる。また、エソテリックスペルキャスティング抜きの特技により、固有の呪文を発動するために選べる系統を選ぶ。あなたはその系統の4ランクの呪文を、1日1回発動できる固有の呪文として得る。12レベルで、あなたは5ランクの呪文を得、14レベルで6ランクの呪文を同じ系統で得る。</p><hr /><p><strong>特技</strong>この特技を2回取得でき、異なる資格のある系統を選ぶことができる。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
@@ -13451,7 +13451,7 @@
     },
     "Sixth Pillar Dedication": {
       "name": "シックスス・ピラー・デディケーション/Sixth Pillar Dedication",
-      "description": "<p>あなたは肉体の規律を用いて魔法をチャネルする。素手攻撃の習熟度が専門以上である場合、呪文攻撃の習熟度は専門に増加する。同様に、呪文攻撃の習熟度が専門以上である場合、素手攻撃の習熟度は専門に向上する。あなたは《運動》の専門家になり、または《運動》で既に専門であれば別の訓練済みスキルの専門家になる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.F5gBiVGbS8YSgPSI]{Sixth Pillar}</p>",
+      "description": "<p>あなたは肉体の規律を用いて魔法をチャネルする。素手攻撃の習熟度が専門以上である場合、呪文攻撃の習熟度は専門に増加する。同様に、呪文攻撃の習熟度が専門以上である場合、素手攻撃の習熟度は専門に向上する。あなたは《運動》のエキスパートになり、または《運動》で既に専門であれば別の訓練済みスキルのエキスパートになる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.F5gBiVGbS8YSgPSI]{Sixth Pillar}</p>",
       "source": "Pathfinder Fists of the Ruby Phoenix Hardcover Compilation",
       "prerequisites": [
         {
@@ -13846,7 +13846,7 @@
     },
     "Tactical Acumen": {
       "name": "タクティカル・アキュメン/Tactical Acumen",
-      "description": "<p>その構成クリーチャーについてあまり知らなくても、トループが移動する陣形や、他の者が気づかないようなさらに微妙なヒントといった特徴を通じて、常にその能力を見抜くことができる。あなたはトループを識別するために、@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行う際、常に《専門知識》〈戦争〉を使用できる。これは、クリーチャーを識別するために適切な《専門知識》を使用するのと同様に機能する。もしあなたが《専門知識》〈戦争〉において伝説的であるなら、トループの希少性によって生じる〈思い出す〉判定のDCへの調整を5減少させる。</p>\n<p>もしあなたがトループを率いているなら、トループを識別するために《専門知識》〈戦争〉を成功させたとき、そのトループはあなたのトループの攻撃能力に対するセーヴに–1の状況ペナルティをあなたの次のターン終了時まで受ける。</p>",
+      "description": "<p>その構成クリーチャーについてあまり知らなくても、トループが移動する陣形や、他の者が気づかないようなさらに微妙なヒントといった特徴を通じて、常にその能力を見抜くことができる。あなたはトループを識別するために、@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}を行う際、常に《専門知識》〈戦争〉を使用できる。これは、クリーチャーを識別するために適切な《専門知識》を使用するのと同様に機能する。もしあなたが《専門知識》〈戦争〉においてレジェンダリーであるなら、トループの希少性によって生じる〈思い出す〉判定のDCへの調整を5減少させる。</p>\n<p>もしあなたがトループを率いているなら、トループを識別するために《専門知識》〈戦争〉を成功させたとき、そのトループはあなたのトループの攻撃能力に対するセーヴに–1の状況ペナルティをあなたの次のターン終了時まで受ける。</p>",
       "source": "Pathfinder Adventure Path: Hell's Destiny",
       "prerequisites": [
         {
@@ -14000,7 +14000,7 @@
     },
     "Operatic Adventurer": {
       "name": "オペラティック・アドベンチャラー/Operatic Adventurer",
-      "description": "<p>あなたの訓練はオペラに集中しており、それは確かに目立つ。あなたは《芸能》の達人になり、15レベルで《芸能》のスキルがレジェンダリーに増加する。あなたはまた、劇場《専門知識》に専門家になるか、すでに専門家であれば劇場《専門知識》の達人になる。あなたがステージ上やアリーナで、そこに集まった観客の前で演技をする際、始めることへの eagernessがあなたのイニシアティブロールに＋3の状況ボーナスを与える。これは、あなたがイニシアティブのために《軽業》、 《威圧》、または《芸能》を振った場合に適用される。</p>",
+      "description": "<p>あなたの訓練はオペラに集中しており、それは確かに目立つ。あなたは《芸能》のマスターになり、15レベルで《芸能》のスキルがレジェンダリーに増加する。あなたはまた、劇場《専門知識》にエキスパートになるか、すでにエキスパートであれば劇場《専門知識》のマスターになる。あなたがステージ上やアリーナで、そこに集まった観客の前で演技をする際、始めることへの eagernessがあなたのイニシアティブロールに＋3の状況ボーナスを与える。これは、あなたがイニシアティブのために《軽業》、 《威圧》、または《芸能》を振った場合に適用される。</p>",
       "source": "Pathfinder #204: Stage Fright",
       "prerequisites": [
         {
@@ -14076,7 +14076,7 @@
     },
     "Resourceful Ritualist": {
       "name": "リソースフル・リチュアリスト/Resourceful Ritualist",
-      "description": "<p>あなたは、あなたのスキルを超えるかもしれない難しい儀式をキャストすることができる。あなたは、あなたが訓練済みの場合はエキスパート習熟度を要求する儀式のキャスト判定を行うことができ、あなたが専門家の場合はマスター習熟度を、あなたが達人の場合はレジェンダリー習熟度を要求する。</p>",
+      "description": "<p>あなたは、あなたのスキルを超えるかもしれない難しい儀式をキャストすることができる。あなたは、あなたが訓練済みの場合はエキスパート習熟度を要求する儀式のキャスト判定を行うことができ、あなたがエキスパートの場合はマスター習熟度を、あなたがマスターの場合はレジェンダリー習熟度を要求する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -14245,7 +14245,7 @@
     },
     "Larcenous Hand": {
       "name": "ラーセナス・ハンド/Larcenous Hand",
-      "description": "<p>あなたが@UUID[Compendium.pf2e.spells-srd.Item.pwzdSlJgYqN7bs2w]{テレキネティック・ハンド}を唱えるとき、その持続時間を取り除き、範囲を20フィートに変更し、対象を呪文のバルクの制限内で取り除くのに時間がかからない保持しているの物体に変更できる。呪文の標準効果に以下の内容を追加する: 対象の物体に付随するクリーチャーが、そのアイテムを取られることに同意する場合、<em>テレキネティック・ハンド</em>がそのアイテムをあなたに運ぶ。クリーチャーが同意しない場合、あなたは対象の物体を@UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{〈盗み〉}することを試みなければならない[[/act steal]]{Thievery}判定を。物体を〔盗み〕する際の通常の制限が適用され、極めて目立つ、あるいは取り除くのに時間がかかる物体(着用靴や防具、または実際に武装している物体など)を盗むことはできず、戦闘中または警戒中のクリーチャーからは〔盗み〕ができない。成功した〔盗み〕判定の場合、<em>テレキネティック・ハンド</em>はそのアイテムをあなたに運び、クリティカル失敗した場合、1時間の間、この変更を再度使用することはできない。あなたが《盗賊術》の達人であれば、戦闘中または警戒中のクリーチャーからの〔盗み〕を行うことができるが、そうすると呪文の発動時間は1アクション増加する。</p>",
+      "description": "<p>あなたが@UUID[Compendium.pf2e.spells-srd.Item.pwzdSlJgYqN7bs2w]{テレキネティック・ハンド}を唱えるとき、その持続時間を取り除き、範囲を20フィートに変更し、対象を呪文のバルクの制限内で取り除くのに時間がかからない保持しているの物体に変更できる。呪文の標準効果に以下の内容を追加する: 対象の物体に付随するクリーチャーが、そのアイテムを取られることに同意する場合、<em>テレキネティック・ハンド</em>がそのアイテムをあなたに運ぶ。クリーチャーが同意しない場合、あなたは対象の物体を@UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{〈盗み〉}することを試みなければならない[[/act steal]]{Thievery}判定を。物体を〔盗み〕する際の通常の制限が適用され、極めて目立つ、あるいは取り除くのに時間がかかる物体(着用靴や防具、または実際に武装している物体など)を盗むことはできず、戦闘中または警戒中のクリーチャーからは〔盗み〕ができない。成功した〔盗み〕判定の場合、<em>テレキネティック・ハンド</em>はそのアイテムをあなたに運び、クリティカル失敗した場合、1時間の間、この変更を再度使用することはできない。あなたが《盗賊術》のマスターであれば、戦闘中または警戒中のクリーチャーからの〔盗み〕を行うことができるが、そうすると呪文の発動時間は1アクション増加する。</p>",
       "source": "Pathfinder Lost Omens The Grand Bazaar",
       "prerequisites": [
         {
@@ -14917,7 +14917,7 @@
     },
     "Gadget Specialist": {
       "name": "ガジェット・スペシャリスト/Gadget Specialist",
-      "description": "<p>あなたは様々な強化や調整のためにガジェットを使うだけでなく、毎日特定の一時的消費物をいくつか作成する。あなたは3つの一般的または珍しいガジェットの設計図を得る。毎日あなたの日課の準備の間に、あなたは設計図から2つの一時的ガジェットを作成できる。この方法で準備したガジェットは、あなたにリソースをかけることなく 〔製作する〕 ことができ、販売価値もない。それらは一時的アイテムであり、次にあなたが日課の準備を作成する際、まだ使用していなければ崩壊する。</p>\n<p>あなたが《製作》の達人であれば、毎日3つのガジェットを作成でき、さらに3つの一般的または珍しいガジェットの設計図を得る。あなたが《製作》の伝説的存在であれば、毎日4つのガジェットを作成でき、追加でさらに3つの一般的または珍しいガジェットの設計図を得る、合計9つになる。</p>",
+      "description": "<p>あなたは様々な強化や調整のためにガジェットを使うだけでなく、毎日特定の一時的消費物をいくつか作成する。あなたは3つの一般的または珍しいガジェットの設計図を得る。毎日あなたの日課の準備の間に、あなたは設計図から2つの一時的ガジェットを作成できる。この方法で準備したガジェットは、あなたにリソースをかけることなく 〔製作する〕 ことができ、販売価値もない。それらは一時的アイテムであり、次にあなたが日課の準備を作成する際、まだ使用していなければ崩壊する。</p>\n<p>あなたが《製作》のマスターであれば、毎日3つのガジェットを作成でき、さらに3つの一般的または珍しいガジェットの設計図を得る。あなたが《製作》の伝説的存在であれば、毎日4つのガジェットを作成でき、追加でさらに3つの一般的または珍しいガジェットの設計図を得る、合計9つになる。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -14927,7 +14927,7 @@
     },
     "Devil You Know": {
       "name": "デビル・ユー・ノウ/Devil You Know",
-      "description": "<p>あなたは敵に関する知識がその敵に対しての利点を与え、彼らの悪事に対して迅速なリアクションを授ける。出会いの開始時にデヴィルやヘルナイトと戦っていることが分かる場合、あなたはそのための_ロアスキルをダイスロールすることができる。</p>\n<p>さらに、デビル《専門知識》またはヘルナイト《専門知識》に関してクリーチャーに成功して 〔思い出す〕 ことができれば、次の自分以外の同じクリーチャーへのスキル判定に +1状況ボーナスを得る。あなたがデビル《専門知識》またはヘルナイト《専門知識》の達人であれば、ボーナスは +2になる。</p>\n<p> @UUID[Compendium.pf2e.feat-effects.Item.3Qej6bMkgJ5ntllg]{効果: Devil You Know} </p>",
+      "description": "<p>あなたは敵に関する知識がその敵に対しての利点を与え、彼らの悪事に対して迅速なリアクションを授ける。出会いの開始時にデヴィルやヘルナイトと戦っていることが分かる場合、あなたはそのための_ロアスキルをダイスロールすることができる。</p>\n<p>さらに、デビル《専門知識》またはヘルナイト《専門知識》に関してクリーチャーに成功して 〔思い出す〕 ことができれば、次の自分以外の同じクリーチャーへのスキル判定に +1状況ボーナスを得る。あなたがデビル《専門知識》またはヘルナイト《専門知識》のマスターであれば、ボーナスは +2になる。</p>\n<p> @UUID[Compendium.pf2e.feat-effects.Item.3Qej6bMkgJ5ntllg]{効果: Devil You Know} </p>",
       "source": "Pathfinder Adventure Path: Hellbreakers",
       "prerequisites": [
         {
@@ -15597,7 +15597,7 @@
     },
     "Quick Disguise": {
       "name": "クイック・ディスガイズ/Quick Disguise",
-      "description": "<p>あなたは通常の時間の十分の一で変装をセットアップできる(一般的には1分)。あなたが《欺瞞》の達人であれば、完全な変装を作成し、@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}を3アクションアクティビティとして行える。あなたが伝説的であれば、1アクションで行う。</p>",
+      "description": "<p>あなたは通常の時間の十分の一で変装をセットアップできる(一般的には1分)。あなたが《欺瞞》のマスターであれば、完全な変装を作成し、@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}を3アクションアクティビティとして行える。あなたがレジェンダリーであれば、1アクションで行う。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -15835,7 +15835,7 @@
     },
     "Azarketi Weapon Expertise": {
       "name": "アザルケティ・ウェポン・エキスパーティス/Azarketi Weapon Expertise",
-      "description": "<p>あなたの水上および水中での武器の扱いは比類がない。特定の武器において専門家またはそれ以上の熟練度を付与するクラス機能を得るたびに、あなたは@UUID[Compendium.pf2e.equipment-srd.Item.62nnVQvGhoVLLl2K]{クロスボウ}、@UUID[Compendium.pf2e.equipment-srd.Item.XyA6PKV46aNlLXOd]{ハンド・クロスボウ}、@UUID[Compendium.pf2e.equipment-srd.Item.aXuJh4i8HqSu6NYV]{ロングスピア}、@UUID[Compendium.pf2e.equipment-srd.Item.tOhoGvmCMw4JpWcS]{スピア}、@UUID[Compendium.pf2e.equipment-srd.Item.FJrsDoaIXksVjld9]{トライデント}、およびあなたが訓練済みであるすべてのアザルケティ武器に対してもその熟練度を得る。</p>",
+      "description": "<p>あなたの水上および水中での武器の扱いは比類がない。特定の武器においてエキスパートまたはそれ以上の熟練度を付与するクラス機能を得るたびに、あなたは@UUID[Compendium.pf2e.equipment-srd.Item.62nnVQvGhoVLLl2K]{クロスボウ}、@UUID[Compendium.pf2e.equipment-srd.Item.XyA6PKV46aNlLXOd]{ハンド・クロスボウ}、@UUID[Compendium.pf2e.equipment-srd.Item.aXuJh4i8HqSu6NYV]{ロングスピア}、@UUID[Compendium.pf2e.equipment-srd.Item.tOhoGvmCMw4JpWcS]{スピア}、@UUID[Compendium.pf2e.equipment-srd.Item.FJrsDoaIXksVjld9]{トライデント}、およびあなたが訓練済みであるすべてのアザルケティ武器に対してもその熟練度を得る。</p>",
       "source": "Pathfinder Lost Omens Absalom, City of Lost Omens",
       "prerequisites": [
         {
@@ -16216,7 +16216,7 @@
     },
     "Perpetual Scout": {
       "name": "パーペチュアル・スカウト/Perpetual Scout",
-      "description": "<p>あなたは最もよく知っているエリアで異常なものを見つけられる。あなたが@UUID[Compendium.pf2e.feats-srd.Item.sgo7J9BVofBqwlsF]{フェイバード・テレイン}にいる間、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.kV3XM0YJeS2KCSOb]{〈偵察〉}恩恵の探索アクティビティの効果を常に得ることができ、たとえあなたが別の探索アクティビティを実行していても。</p>\n<p>あなたが《生存術》において伝説的であれば、あなたはどんな地形でもこれらの恩恵を得る。</p>",
+      "description": "<p>あなたは最もよく知っているエリアで異常なものを見つけられる。あなたが@UUID[Compendium.pf2e.feats-srd.Item.sgo7J9BVofBqwlsF]{フェイバード・テレイン}にいる間、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.kV3XM0YJeS2KCSOb]{〈偵察〉}恩恵の探索アクティビティの効果を常に得ることができ、たとえあなたが別の探索アクティビティを実行していても。</p>\n<p>あなたが《生存術》においてレジェンダリーであれば、あなたはどんな地形でもこれらの恩恵を得る。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -16392,7 +16392,7 @@
     },
     "Pei Zing Adept": {
       "name": "ペイ・ジング・アデプト/Pei Zing Adept",
-      "description": "<p><strong>アクセス</strong>ティエン・シアの起源</p><hr /><p>あなたは複数の患者に同時に対応するための準備のタイミングに熟練している。あなたの日課の準備の間、異なる受取人に最大2つの元素薬を投与できる。</p>\n<p>あなたが前提条件スキルのいずれかでマスターである場合、最大4人の受取人に投与でき、伝説的である場合、最大8人に投与できる。</p>",
+      "description": "<p><strong>アクセス</strong>ティエン・シアの起源</p><hr /><p>あなたは複数の患者に同時に対応するための準備のタイミングに熟練している。あなたの日課の準備の間、異なる受取人に最大2つの元素薬を投与できる。</p>\n<p>あなたが前提条件スキルのいずれかでマスターである場合、最大4人の受取人に投与でき、レジェンダリーである場合、最大8人に投与できる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -16580,7 +16580,7 @@
     },
     "Battle Cry": {
       "name": "バトル・クライ/Battle Cry",
-      "description": "<p>あなたがイニシアティブを振るとき、あなたは強力な戦いの叫びを上げ、[[/act demoralize]]見えている敵をフリー・アクションとして扱うことができる。あなたが《威圧》で伝説的であるなら、あなたは攻撃ロールでクリティカル成功したときにリアクションを用いて敵を@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}することができる。</p>",
+      "description": "<p>あなたがイニシアティブを振るとき、あなたは強力な戦いの叫びを上げ、[[/act demoralize]]見えている敵をフリー・アクションとして扱うことができる。あなたが《威圧》でレジェンダリーであるなら、あなたは攻撃ロールでクリティカル成功したときにリアクションを用いて敵を@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}することができる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -16761,7 +16761,7 @@
     },
     "Rivethun Devotion": {
       "name": "リヴェサン・ディボーション/Rivethun Devotion",
-      "description": "<p>研究、献身、内省を通じて、あなたは霊に影響を与える魔法を装備することを学んだ。あなたは@UUID[Compendium.pf2e.spells-srd.Item.jwK43yKsHTkJQvQ9]{シー・ザ・アンシーン}と@UUID[Compendium.pf2e.spells-srd.Item.yHujiDQPdtXW797e]{スピリット・リンク}を2レベルの神聖な固有呪文として得る。これらの呪文はそれぞれ1日に1回キャストできる。あなたが《宗教》の達人であれば、<em>霊の絆</em>は3レベルに高位化される。あなたが《宗教》の伝説であれば、<em>霊の絆</em>は4レベルに高位化される。</p>",
+      "description": "<p>研究、献身、内省を通じて、あなたは霊に影響を与える魔法を装備することを学んだ。あなたは@UUID[Compendium.pf2e.spells-srd.Item.jwK43yKsHTkJQvQ9]{シー・ザ・アンシーン}と@UUID[Compendium.pf2e.spells-srd.Item.yHujiDQPdtXW797e]{スピリット・リンク}を2レベルの神聖な固有呪文として得る。これらの呪文はそれぞれ1日に1回キャストできる。あなたが《宗教》のマスターであれば、<em>霊の絆</em>は3レベルに高位化される。あなたが《宗教》のレジェンダリーであれば、<em>霊の絆</em>は4レベルに高位化される。</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries",
       "prerequisites": [
         {
@@ -17267,7 +17267,7 @@
     },
     "Influence Nature": {
       "name": "インフルエンス・ネイチャー/Influence Nature",
-      "description": "<p>忍耐と時間があれば、あなたは鳥の鳴き声を作り、獲物の跡を残し、最終的には地域の特定の動物の行動に影響を与え、今後の日々にあなたを助けさせることができる。</p>\n<p>GMは必要なDCの判定およびあなたの作業に必要な時間(通常は1日か2日のダウンタイム)を決定する。あなたは自然に影響を与えた方法を直接制御できないが、より簡単な狩りや危険が近づくと鳥が静かになるといった特定の効果を期待することができる。</p>\n<p>あなたが《自然》において伝説的であるなら、あなたは10分を使って、この地域の動物の行動に同じ調整を引き出すことができる。</p>",
+      "description": "<p>忍耐と時間があれば、あなたは鳥の鳴き声を作り、獲物の跡を残し、最終的には地域の特定の動物の行動に影響を与え、今後の日々にあなたを助けさせることができる。</p>\n<p>GMは必要なDCの判定およびあなたの作業に必要な時間(通常は1日か2日のダウンタイム)を決定する。あなたは自然に影響を与えた方法を直接制御できないが、より簡単な狩りや危険が近づくと鳥が静かになるといった特定の効果を期待することができる。</p>\n<p>あなたが《自然》においてレジェンダリーであるなら、あなたは10分を使って、この地域の動物の行動に同じ調整を引き出すことができる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -17317,7 +17317,7 @@
     },
     "Alchemical Power": {
       "name": "アルケミカル・パワー/Alchemical Power",
-      "description": "<p>あなたは алхимик クラスDCの専門家になる。あなたがセーヴィング・スローを許可する強化されたアルケミーアイテムを作成する時、あなたはそのDCをあなたのクラスDCに変更することができる。</p>",
+      "description": "<p>あなたは алхимик クラスDCのエキスパートになる。あなたがセーヴィング・スローを許可する強化されたアルケミーアイテムを作成する時、あなたはそのDCをあなたのクラスDCに変更することができる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -17495,7 +17495,7 @@
     },
     "Folk Dowsing": {
       "name": "フォーク・ダウジング/Folk Dowsing",
-      "description": "<p>あなたはダウジングロッドや振り子を使って、探しているものを見つけることができる。ダウジングロッドや振り子を持っている間に@UUID[Compendium.pf2e.actionspf2e.Item.TiNDYUGlMmxzxBYU]{〈捜索〉}を行うと、探索の通常の判定に加え、GMはあなたがその地域で最大の水、油、またはその他の自然な体外液の源を検知するために秘密の《生存術》判定を振る。液体があなたから@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}されていても—例えば、地下の泉から来ている場合や壁を通して送られている場合でも—この技術は正しい方向を指し示す。GMはDCを決定し、それは通常、訓練済み単純なDCで、多くの場合小さな水源には難易度が高いまたは非常に高い調整が適用される。</p>\n<p>あなたが《生存術》の専門家であるなら、GMはあなたが金属、鉱物、近くの墓のかなりの量を検知するために《生存術》判定も行う。DCは通常、専門単純DCで、小さな depositに対してはDC調整がされる。</p>",
+      "description": "<p>あなたはダウジングロッドや振り子を使って、探しているものを見つけることができる。ダウジングロッドや振り子を持っている間に@UUID[Compendium.pf2e.actionspf2e.Item.TiNDYUGlMmxzxBYU]{〈捜索〉}を行うと、探索の通常の判定に加え、GMはあなたがその地域で最大の水、油、またはその他の自然な体外液の源を検知するために秘密の《生存術》判定を振る。液体があなたから@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}されていても—例えば、地下の泉から来ている場合や壁を通して送られている場合でも—この技術は正しい方向を指し示す。GMはDCを決定し、それは通常、訓練済み単純なDCで、多くの場合小さな水源には難易度が高いまたは非常に高い調整が適用される。</p>\n<p>あなたが《生存術》のエキスパートであるなら、GMはあなたが金属、鉱物、近くの墓のかなりの量を検知するために《生存術》判定も行う。DCは通常、専門単純DCで、小さな depositに対してはDC調整がされる。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -17605,7 +17605,7 @@
     },
     "Keen Follower": {
       "name": "キーン・フォロワー/Keen Follower",
-      "description": "<p>あなたの仲間を鋭く観察することで、彼らの手本に従う能力が向上する。あなたが探索モードで〔専門家にならう〕活動を使用する際、従っている仲間が専門家であれば+3の状況ボーナス、マスターであれば+4の状況ボーナスを得る。</p>\n<p>あなたの観察を他の人と共有して、種をより効果的に調整する手助けができる。従っている仲間がQuiet Alliesや他のスキル特技を持っていて、種が単一のスキル判定を探索活動のためにロールし、最も低い修正値を使用できる場合、彼らはあなたの修正値を使用できる。</p>",
+      "description": "<p>あなたの仲間を鋭く観察することで、彼らの手本に従う能力が向上する。あなたが探索モードで〔専門家にならう〕活動を使用する際、従っている仲間がエキスパートであれば+3の状況ボーナス、マスターであれば+4の状況ボーナスを得る。</p>\n<p>あなたの観察を他の人と共有して、種をより効果的に調整する手助けができる。従っている仲間がQuiet Alliesや他のスキル特技を持っていて、種が単一のスキル判定を探索活動のためにロールし、最も低い修正値を使用できる場合、彼らはあなたの修正値を使用できる。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Tenacious Toxins": {
@@ -17758,7 +17758,7 @@
     },
     "Dwarven Reinforcement": {
       "name": "ドワーブン・リインフォースメント/Dwarven Reinforcement",
-      "description": "<p>あなたは工学と金属加工の知識を利用して、厚い物体や構造物を一時的に強化することができる。アイテムで1時間を使って作業することで、硬度に+1の状況ボーナスを与えることができる。24時間の間有効である。もしあなたが《製作》の達人であれば、そのボーナスは+2になり、伝説的であれば+3になる。あなたは構造の一部を強化することができるが、1時間は通常、1つのドア、いくつかの窓、または10フィート立方内に収まる他の部分だけを強化する。</p>",
+      "description": "<p>あなたは工学と金属加工の知識を利用して、厚い物体や構造物を一時的に強化することができる。アイテムで1時間を使って作業することで、硬度に+1の状況ボーナスを与えることができる。24時間の間有効である。もしあなたが《製作》のマスターであれば、そのボーナスは+2になり、レジェンダリーであれば+3になる。あなたは構造の一部を強化することができるが、1時間は通常、1つのドア、いくつかの窓、または10フィート立方内に収まる他の部分だけを強化する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -17898,7 +17898,7 @@
     },
     "Expert Drill Sergeant": {
       "name": "エキスパート・ドリル・サージェント/Expert Drill Sergeant",
-      "description": "<p>探検中、あなたが先導していて味方が@UUID[Compendium.pf2e.actionspf2e.Item.tfa4Sh7wcxCEqL29]{〈専門家にならう〉}のとき、適用されるスキルに+2の状況ボーナスを与える代わりに、あなたが専門家であれば+3、達人であれば+4の状況ボーナスを与える。</p>",
+      "description": "<p>探検中、あなたが先導していて味方が@UUID[Compendium.pf2e.actionspf2e.Item.tfa4Sh7wcxCEqL29]{〈専門家にならう〉}のとき、適用されるスキルに+2の状況ボーナスを与える代わりに、あなたがエキスパートであれば+3、マスターであれば+4の状況ボーナスを与える。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Unleash Yaoguai Might": {
@@ -18025,7 +18025,7 @@
     },
     "Vehicle Mechanic Dedication": {
       "name": "ビークル・メカニック・デディケーション/Vehicle Mechanic Dedication",
-      "description": "<p>あなたは機械の車両を設計し維持することに長けており、特に1台の車両に注意と独創性を注いでいる。あなたは《製作》の専門家となり、所有する1台の車両—またはパーティー全体が共同で所有する車両—をあなたのシグネチャー車両として選ぶ：その車両はさまざまな利点を得るためにカスタマイズするために時間を費やすものだ。新しい車両で1週間のダウンタイムを費やすことで、その車両をシグネチャー車両として指定することもできる。あなたの驚くべきカスタマイズと調整のため、操縦士はあなたのシグネチャー車両を制御するための操縦判定に+1の状況ボーナスを得る。あなたが《製作》の達人であれば、このボーナスは+2に増加する。</p>\n<p> @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Q72YDLPh0urLfWPm]{Vehicle Mechanic} </p>",
+      "description": "<p>あなたは機械の車両を設計し維持することに長けており、特に1台の車両に注意と独創性を注いでいる。あなたは《製作》の専門家となり、所有する1台の車両—またはパーティー全体が共同で所有する車両—をあなたのシグネチャー車両として選ぶ：その車両はさまざまな利点を得るためにカスタマイズするために時間を費やすものだ。新しい車両で1週間のダウンタイムを費やすことで、その車両をシグネチャー車両として指定することもできる。あなたの驚くべきカスタマイズと調整のため、操縦士はあなたのシグネチャー車両を制御するための操縦判定に+1の状況ボーナスを得る。あなたが《製作》のマスターであれば、このボーナスは+2に増加する。</p>\n<p> @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Q72YDLPh0urLfWPm]{Vehicle Mechanic} </p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -19100,7 +19100,7 @@
     },
     "Commitment to Protection": {
       "name": "コミットメント・トゥ・プロテクション/Commitment to Protection",
-      "description": "<p>あなたは特定の危険に対して、より防御的な姿勢をとるよう味方を導こうと試みる。あなたが見ることのできるクリーチャーやハザードのレベルに対する高いDCに対して、@Check[warfare-lore] 判定を行う。30フィート以内にいるあなたの選択した味方は、結果に基づいた効果を得る。もしあなたが戦争学《専門知識》で伝説的であれば、失敗や大失敗をロールした際、代わりに成功を得る。</p><hr /><p><strong>クリティカル成功</strong> その味方は、対象のクリーチャーやハザードの次の攻撃に対して、ACに+2の状況ボーナスを得る。</p>\n<p><strong>成功</strong> 大成功と同様だが、ボーナスは+1となる。</p>\n<p><strong>クリティカル失敗</strong> その味方は、対象のクリーチャーやハザードの次の攻撃に対して、ACに–1の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.eu7DEgjicyYyosCl]{効果: 守護への献身}</p>",
+      "description": "<p>あなたは特定の危険に対して、より防御的な姿勢をとるよう味方を導こうと試みる。あなたが見ることのできるクリーチャーやハザードのレベルに対する高いDCに対して、@Check[warfare-lore] 判定を行う。30フィート以内にいるあなたの選択した味方は、結果に基づいた効果を得る。もしあなたが戦争学《専門知識》でレジェンダリーであれば、失敗や大失敗をロールした際、代わりに成功を得る。</p><hr /><p><strong>クリティカル成功</strong> その味方は、対象のクリーチャーやハザードの次の攻撃に対して、ACに+2の状況ボーナスを得る。</p>\n<p><strong>成功</strong> 大成功と同様だが、ボーナスは+1となる。</p>\n<p><strong>クリティカル失敗</strong> その味方は、対象のクリーチャーやハザードの次の攻撃に対して、ACに–1の状況ペナルティを受ける。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.eu7DEgjicyYyosCl]{効果: 守護への献身}</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -19303,7 +19303,7 @@
     },
     "Conrasu Weapon Expertise": {
       "name": "コンラス・ウェポン・エキスパーティス/Conrasu Weapon Expertise",
-      "description": "<p>あなたが特定の武器について専門家またはそれ以上の熟練を与えるクラスの特徴を取得するたびに、あなたは@UUID[Compendium.pf2e.equipment-srd.Item.e4NwsnPnpQKbDZ9F]{コンポジット・ショートボウ}、@UUID[Compendium.pf2e.equipment-srd.Item.vlnzTSsRmWeSkt9O]{グレイブ}、@UUID[Compendium.pf2e.equipment-srd.Item.aXuJh4i8HqSu6NYV]{ロングスピア}、@UUID[Compendium.pf2e.equipment-srd.Item.LJdbVTOZog39EEbi]{ロングソード}、@UUID[Compendium.pf2e.equipment-srd.Item.hIgqLgH3YcLZBeoT]{ショートボウ}、@UUID[Compendium.pf2e.equipment-srd.Item.tOhoGvmCMw4JpWcS]{槍}、そしてあなたが訓練済みである全てのコンラズ武器(@UUID[Compendium.pf2e.equipment-srd.Item.7WRzbBTOCsJx5f7L]{ブーゲン})についてもその熟練を得る。</p>",
+      "description": "<p>あなたが特定の武器についてエキスパートまたはそれ以上の熟練を与えるクラスの特徴を取得するたびに、あなたは@UUID[Compendium.pf2e.equipment-srd.Item.e4NwsnPnpQKbDZ9F]{コンポジット・ショートボウ}、@UUID[Compendium.pf2e.equipment-srd.Item.vlnzTSsRmWeSkt9O]{グレイブ}、@UUID[Compendium.pf2e.equipment-srd.Item.aXuJh4i8HqSu6NYV]{ロングスピア}、@UUID[Compendium.pf2e.equipment-srd.Item.LJdbVTOZog39EEbi]{ロングソード}、@UUID[Compendium.pf2e.equipment-srd.Item.hIgqLgH3YcLZBeoT]{ショートボウ}、@UUID[Compendium.pf2e.equipment-srd.Item.tOhoGvmCMw4JpWcS]{槍}、そしてあなたが訓練済みである全てのコンラズ武器(@UUID[Compendium.pf2e.equipment-srd.Item.7WRzbBTOCsJx5f7L]{ブーゲン})についてもその熟練を得る。</p>",
       "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Sacred Defense": {
@@ -19918,7 +19918,7 @@
     },
     "Warshard Warrior Dedication": {
       "name": "ウォーシャード・ウォリアー・デディケーション/Warshard Warrior Dedication",
-      "description": "<p>あなたが戦の神の破片を注入されたとき、あなたは本能的に、自分の運命が長く語り継がれるものになると悟った――だが、最初は、そのような運命がどのように展開するか正確にはわからないかもしれない。もしあなたが自分を強化したウォーシャードをまだ持ち歩いているなら、それを記念品として持ち歩いたり、装身具として着用(身につけ)たりするかもしれない――それが単にあなたの体に埋め込まれていないのであればの話だが。いずれにせよ、ウォーシャード自体にはもはや固有の力はなく、たとえあなたがウォーシャードを投げ捨てたとしても、その授かり物はあなたを離れることはなく、他の者がそれから恩恵(恩恵)を受けることもできない。もしあなたがウォーシャードを捨てたり失くしたりしても、あなたの運命は変わらない。事実上、あなた自身がウォーシャードになったのだ。この力は、あなたが装備(振るう)武器を通じて発現する。</p>\n<p>日課の準備(日課の準備)を行う際、あなたが所持している武器の中から、少なくとも“達人”の習熟度を持つ武器を1つ選ぶ。その武器は、あなたが別の日課の準備(日課の準備)の間に所持している別の武器を選ぶまで、あなたのウォーシャード武器となる。ありふれた非魔法の武器、魔法のルーンが刻まれた武器、特殊な素材で作られた武器、あるいはストーム・フラッシュや血流しのククリのような特定の魔法の武器を選ぶこともできるが、知性を持つ武器や、バスタード・ソード・セリスティアルや7つの罪の剣のようなアーティファクトは選べない。ウォーシャード武器を奪われたり破壊されたりしてもウォーシャード・ウォリアーの特技へのアクセスを失うことはないが、このデスティニーの特技のいくつかは、ウォーシャード武器を振るっている必要があることに注意すること。あなたはウォーシャード武器に対して通常通りルーンを彫刻(刻む)ことや、取り外すことができる。ウォーシャード武器は一度に1つしか持てない。</p>\n<p>あなたは@UUID[Compendium.pf2e.feats-srd.Item.toGkX6UVPq1Z1NjB]{ミシック・ストライク}特技を得るが、これはウォーシャード武器でしか使用できない。ミシック習熟度でウォーシャード武器による〈ストライク〉を行うたび、あなたは武器のスペシャライゼーション(専門化)クラス特徴によって与える追加ダメージの量を2倍にする。ウォーシャード武器を〈修理〉するために《製作》判定を行う際、アイテムに回復させるヒット・ポイント(ヒット・ポイント)を決定するために、あなたの《製作》の習熟ランクを“伝説”として扱う。さらに、《製作》の結果が“大失敗”だった場合、代わりに“失敗”となる。また、あなたは“Call @UUID[Compendium.pf2e.actionspf2e.Item.a8d5iIf1up9W0gVg]{〈コール・ウォーシャード・ウェポン〉}”アクションを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.lqmH30Ljv2tRRCPb]{Warshard Warrior(ウォーシャード・ウォリアー)(レア(稀少))}</p>",
+      "description": "<p>あなたが戦の神の破片を注入されたとき、あなたは本能的に、自分の運命が長く語り継がれるものになると悟った――だが、最初は、そのような運命がどのように展開するか正確にはわからないかもしれない。もしあなたが自分を強化したウォーシャードをまだ持ち歩いているなら、それを記念品として持ち歩いたり、装身具として着用(身につけ)たりするかもしれない――それが単にあなたの体に埋め込まれていないのであればの話だが。いずれにせよ、ウォーシャード自体にはもはや固有の力はなく、たとえあなたがウォーシャードを投げ捨てたとしても、その授かり物はあなたを離れることはなく、他の者がそれから恩恵(恩恵)を受けることもできない。もしあなたがウォーシャードを捨てたり失くしたりしても、あなたの運命は変わらない。事実上、あなた自身がウォーシャードになったのだ。この力は、あなたが装備(振るう)武器を通じて発現する。</p>\n<p>日課の準備(日課の準備)を行う際、あなたが所持している武器の中から、少なくともマスター習熟度を持つ武器を1つ選ぶ。その武器は、あなたが別の日課の準備(日課の準備)の間に所持している別の武器を選ぶまで、あなたのウォーシャード武器となる。ありふれた非魔法の武器、魔法のルーンが刻まれた武器、特殊な素材で作られた武器、あるいはストーム・フラッシュや血流しのククリのような特定の魔法の武器を選ぶこともできるが、知性を持つ武器や、バスタード・ソード・セリスティアルや7つの罪の剣のようなアーティファクトは選べない。ウォーシャード武器を奪われたり破壊されたりしてもウォーシャード・ウォリアーの特技へのアクセスを失うことはないが、このデスティニーの特技のいくつかは、ウォーシャード武器を振るっている必要があることに注意すること。あなたはウォーシャード武器に対して通常通りルーンを彫刻(刻む)ことや、取り外すことができる。ウォーシャード武器は一度に1つしか持てない。</p>\n<p>あなたは@UUID[Compendium.pf2e.feats-srd.Item.toGkX6UVPq1Z1NjB]{ミシック・ストライク}特技を得るが、これはウォーシャード武器でしか使用できない。ミシック習熟度でウォーシャード武器による〈ストライク〉を行うたび、あなたは武器のスペシャライゼーション(専門化)クラス特徴によって与える追加ダメージの量を2倍にする。ウォーシャード武器を〈修理〉するために《製作》判定を行う際、アイテムに回復させるヒット・ポイント(ヒット・ポイント)を決定するために、あなたの《製作》の習熟ランクをレジェンダリーとして扱う。さらに、《製作》の結果が“大失敗”だった場合、代わりに“失敗”となる。また、あなたは“Call @UUID[Compendium.pf2e.actionspf2e.Item.a8d5iIf1up9W0gVg]{〈コール・ウォーシャード・ウェポン〉}”アクションを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.lqmH30Ljv2tRRCPb]{Warshard Warrior(ウォーシャード・ウォリアー)(レア(稀少))}</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star"
     },
     "Athamaru Weapon Familiarity": {
@@ -20263,7 +20263,7 @@
     },
     "Armiger's Protection": {
       "name": "アーミジャーズ・プロテクション/Armiger's Protection",
-      "description": "<p>あなたは象徴的なヘルナイトアーマーを着用することを学んだ。あなたは軽鎧と中装鎧である@UUID[Compendium.pf2e.equipment-srd.Item.LF7HSNnlGxLJyDZS]{ヘルナイト・ブレストプレート}に訓練済みする。もしあなたがすでに軽鎧と中装鎧に訓練済みしているなら、あなたは@UUID[Compendium.pf2e.equipment-srd.Item.U6XqhSFUUowHnnkk]{ヘルナイト・ハーフ・プレート}と@UUID[Compendium.pf2e.equipment-srd.Item.lCgXeV52eYYl5cUX]{ヘルナイト・プレート}への習熟度を得る。いかなる種類の鎧(鎧なし防御は含まない)においても専門家以上の習熟度を与えるクラス特徴を獲得するたびに、あなたはこの特技によって与えられた鎧の種類においてもその習熟度を獲得する。もしあなたが鎧なし防御においてエキスパート習熟度を与えるクラス特徴を持っており、かつ13レベル以上であるなら、あなたはこの特技によって与えられた鎧の種類においても専門家となる。</p>\n<p>さらに、この特技を選択した際、あなたは自分が訓練済みした種類の非魔法のヘルナイトアーマー(@UUID[Compendium.pf2e.equipment-srd.Item.LF7HSNnlGxLJyDZS]{ヘルナイト・ブレストプレート}、@UUID[Compendium.pf2e.equipment-srd.Item.U6XqhSFUUowHnnkk]{ヘルナイト・ハーフ・プレート}、または@UUID[Compendium.pf2e.equipment-srd.Item.lCgXeV52eYYl5cUX]{ヘルナイト・プレート})を1着受け取る。</p>",
+      "description": "<p>あなたは象徴的なヘルナイトアーマーを着用することを学んだ。あなたは軽鎧と中装鎧である@UUID[Compendium.pf2e.equipment-srd.Item.LF7HSNnlGxLJyDZS]{ヘルナイト・ブレストプレート}に訓練済みする。もしあなたがすでに軽鎧と中装鎧に訓練済みしているなら、あなたは@UUID[Compendium.pf2e.equipment-srd.Item.U6XqhSFUUowHnnkk]{ヘルナイト・ハーフ・プレート}と@UUID[Compendium.pf2e.equipment-srd.Item.lCgXeV52eYYl5cUX]{ヘルナイト・プレート}への習熟度を得る。いかなる種類の鎧(鎧なし防御は含まない)においてもエキスパート以上の習熟度を与えるクラス特徴を獲得するたびに、あなたはこの特技によって与えられた鎧の種類においてもその習熟度を獲得する。もしあなたが鎧なし防御においてエキスパート習熟度を与えるクラス特徴を持っており、かつ13レベル以上であるなら、あなたはこの特技によって与えられた鎧の種類においても専門家となる。</p>\n<p>さらに、この特技を選択した際、あなたは自分が訓練済みした種類の非魔法のヘルナイトアーマー(@UUID[Compendium.pf2e.equipment-srd.Item.LF7HSNnlGxLJyDZS]{ヘルナイト・ブレストプレート}、@UUID[Compendium.pf2e.equipment-srd.Item.U6XqhSFUUowHnnkk]{ヘルナイト・ハーフ・プレート}、または@UUID[Compendium.pf2e.equipment-srd.Item.lCgXeV52eYYl5cUX]{ヘルナイト・プレート})を1着受け取る。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -20775,7 +20775,7 @@
     },
     "Peerless Mascot Companion": {
       "name": "ピアレス・マスコット・コンパニオン/Peerless Mascot Companion",
-      "description": "<p>無数の戦闘のベテランとして、あなたとあなたの仲間は不屈の力を共有している。あなたが@UUID[Compendium.pf2e.feats-srd.Item.cxWEBBu8oyKTrqbi]{コマンダーズ・コンパニオン}で得た仲間は今や特化した動物の仲間である。あなたは通常の特化の一つか、比類のないマスコットスペシャライゼーションを選ぶことができる。比類のないマスコットスペシャライゼーションを持つ指揮官の仲間は以下の恩恵を得る。</p><ul><li>それは、あなたのバナーと同じ恩恵を付与する30フィートのオーラを得る。これは事実上、第二のバナーとして機能する。あなたの実際のバナーが仲間に取り付けられている場合、そのオーラは60フィートの単一のオーラである(これはバトルテストされたコンパニオンからの増加したオーラ恩恵を含む)。後にグロリアスバナーの特技を得た場合、あなたのバナーは比類のないマスコットの仲間に取り付けられているときに100フィートのオーラを持つ。</li><li>それはビーストトレイトを持つ。</li><li>その知能修正値は2増加し、知恵修正値は1増加する。</li><li>それは戦闘《専門知識》において専門家である。</li><li>それはあなたが話す一つの言語を話すことができる(この特技を得た時に選択された言語)。</li><li>その最大ヒット・ポイントは20増加し、18レベルで25、20レベルで30に増加する。</li><li>それの全ての種類の戦場に対する習熟度は、それの土地の移動速度と同じ登攀移動速度と水泳移動速度を与える；すでにそれの土地の移動速度よりも大きい移動速度を持っている場合は、それの登攀移動速度、水泳移動速度、および土地移動速度は全て持っている最も高い移動速度と等しくなる。</li></ul>",
+      "description": "<p>無数の戦闘のベテランとして、あなたとあなたの仲間は不屈の力を共有している。あなたが@UUID[Compendium.pf2e.feats-srd.Item.cxWEBBu8oyKTrqbi]{コマンダーズ・コンパニオン}で得た仲間は今や特化した動物の仲間である。あなたは通常の特化の一つか、比類のないマスコットスペシャライゼーションを選ぶことができる。比類のないマスコットスペシャライゼーションを持つ指揮官の仲間は以下の恩恵を得る。</p><ul><li>それは、あなたのバナーと同じ恩恵を付与する30フィートのオーラを得る。これは事実上、第二のバナーとして機能する。あなたの実際のバナーが仲間に取り付けられている場合、そのオーラは60フィートの単一のオーラである(これはバトルテストされたコンパニオンからの増加したオーラ恩恵を含む)。後にグロリアスバナーの特技を得た場合、あなたのバナーは比類のないマスコットの仲間に取り付けられているときに100フィートのオーラを持つ。</li><li>それはビーストトレイトを持つ。</li><li>その知能修正値は2増加し、知恵修正値は1増加する。</li><li>それは戦闘《専門知識》においてエキスパートである。</li><li>それはあなたが話す一つの言語を話すことができる(この特技を得た時に選択された言語)。</li><li>その最大ヒット・ポイントは20増加し、18レベルで25、20レベルで30に増加する。</li><li>それの全ての種類の戦場に対する習熟度は、それの土地の移動速度と同じ登攀移動速度と水泳移動速度を与える；すでにそれの土地の移動速度よりも大きい移動速度を持っている場合は、それの登攀移動速度、水泳移動速度、および土地移動速度は全て持っている最も高い移動速度と等しくなる。</li></ul>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
@@ -20943,7 +20943,7 @@
     },
     "Disturbing Knowledge": {
       "name": "ディスタービング・ナレッジ/Disturbing Knowledge",
-      "description": "<p>あなたは禁断の書物や巻物の研究から得た、恐ろしい名前、予言、そして人間の理解を超えた領域の記述を列挙する。あなたの言語を理解できない者でさえ、これらの恐るべき秘密によって不安を感じる。</p>\n<p>@Check[occultism|defense:will]判定を行い、その結果を30フィート以内の敵の意志DCと比較する。もしあなたが《オカルト学》で伝説的であるなら、30フィート以内の任意の数の敵の意志DCと比較する。それらのクリーチャーは24時間の間、一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong>対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となり、かつ@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態となる。</p>\n<p><strong>成功</strong>対象はfrightened 1状態となる。</p>\n<p><strong>失敗</strong>対象は影響を受けない。</p>\n<p><strong>クリティカル失敗</strong>あなたは自分の言葉に夢中になりすぎてしまい、frightened 1状態となる。</p>",
+      "description": "<p>あなたは禁断の書物や巻物の研究から得た、恐ろしい名前、予言、そして人間の理解を超えた領域の記述を列挙する。あなたの言語を理解できない者でさえ、これらの恐るべき秘密によって不安を感じる。</p>\n<p>@Check[occultism|defense:will]判定を行い、その結果を30フィート以内の敵の意志DCと比較する。もしあなたが《オカルト学》でレジェンダリーであるなら、30フィート以内の任意の数の敵の意志DCと比較する。それらのクリーチャーは24時間の間、一時的な免疫となる。</p><hr /><p><strong>クリティカル成功</strong>対象は1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}状態となり、かつ@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態となる。</p>\n<p><strong>成功</strong>対象はfrightened 1状態となる。</p>\n<p><strong>失敗</strong>対象は影響を受けない。</p>\n<p><strong>クリティカル失敗</strong>あなたは自分の言葉に夢中になりすぎてしまい、frightened 1状態となる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -20958,12 +20958,12 @@
     },
     "Read Disaster": {
       "name": "リード・ディザスター/Read Disaster",
-      "description": "<p>あなたは10分を費やし、 あなた自身を世界の神聖な神秘に開き、未来の最も不吉な前兆を覗き見る。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X]{オーギュリィ}の効果を得るが、あなたは危険についてのみ学ぶ。良い結果はすべて何もないことになり、混合結果はすべて悪い結果になる。あなたが《宗教》において伝説的であれば、あなたは災害を読むのに1分のみを受け取る。</p>",
+      "description": "<p>あなたは10分を費やし、 あなた自身を世界の神聖な神秘に開き、未来の最も不吉な前兆を覗き見る。</p>\n<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X]{オーギュリィ}の効果を得るが、あなたは危険についてのみ学ぶ。良い結果はすべて何もないことになり、混合結果はすべて悪い結果になる。あなたが《宗教》においてレジェンダリーであれば、あなたは災害を読むのに1分のみを受け取る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "To the Ends of the Earth": {
       "name": "トゥ・ジ・エンズ・オブ・ジ・アース/To the Ends of the Earth",
-      "description": "<p>あなたは獲物を追跡する能力が説明を超え、獲物の動きを追い、それを予測することができる。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.JYi4MnsdFu618hPm]{〈ハント・プレイ〉}を使用する際、そのクリーチャーが100フィート内にいる場合、そのクリーチャーの動きを追跡でき、その獲物である限り、どれだけ遠くなっても正確な位置を知ることができる。あなたは《自然》において伝説的でなければ、獲物の位置をテレポーテーションまたはプラーナトラベルにわたって追跡することはできない。このフィートは、あなたが《自然》において伝説的である場合、検出と原初のトレイトを得る。</p>",
+      "description": "<p>あなたは獲物を追跡する能力が説明を超え、獲物の動きを追い、それを予測することができる。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.JYi4MnsdFu618hPm]{〈ハント・プレイ〉}を使用する際、そのクリーチャーが100フィート内にいる場合、そのクリーチャーの動きを追跡でき、その獲物である限り、どれだけ遠くなっても正確な位置を知ることができる。あなたは《自然》において伝説的でなければ、獲物の位置をテレポーテーションまたはプラーナトラベルにわたって追跡することはできない。このフィートは、あなたが《自然》においてレジェンダリーである場合、検出と原初のトレイトを得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -21020,7 +21020,7 @@
     },
     "Lethargy Poisoner": {
       "name": "レサージー・ポイズナー/Lethargy Poisoner",
-      "description": "<p>あなたは手クロスボウの使い方以上のことを学んだ。あなたの日課の準備の間に、自然地域または都市部で普通の素材から@UUID[Compendium.pf2e.equipment-srd.Item.zo0ophqfKunJFxZN]{レサージーの毒}の1服分を調製できる。あなたが《製作》の専門家であれば、代わりに@UUID[Compendium.pf2e.equipment-srd.Item.nn2HAN1XKkKHfVnM]{ステューパーの毒}の1服分を作成できる。あなたが《製作》の達人であれば2服分(どちらの毒でも)を準備でき、 《製作》の伝説的であれば3服分を準備できる。この毒のセーヴ DCはあなたのクラスの DCに等しい。これらの毒はあなたしか使用できず、次にあなたの日課の準備を行うまでに期限切れとなる。GMは、あなたがいる地域がこの特技に必要な素材を提供するには不毛過ぎると判断するかもしれない。</p>",
+      "description": "<p>あなたは手クロスボウの使い方以上のことを学んだ。あなたの日課の準備の間に、自然地域または都市部で普通の素材から@UUID[Compendium.pf2e.equipment-srd.Item.zo0ophqfKunJFxZN]{レサージーの毒}の1服分を調製できる。あなたが《製作》のエキスパートであれば、代わりに@UUID[Compendium.pf2e.equipment-srd.Item.nn2HAN1XKkKHfVnM]{ステューパーの毒}の1服分を作成できる。あなたが《製作》のマスターであれば2服分(どちらの毒でも)を準備でき、 《製作》のレジェンダリーであれば3服分を準備できる。この毒のセーヴ DCはあなたのクラスの DCに等しい。これらの毒はあなたしか使用できず、次にあなたの日課の準備を行うまでに期限切れとなる。GMは、あなたがいる地域がこの特技に必要な素材を提供するには不毛過ぎると判断するかもしれない。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
@@ -21782,7 +21782,7 @@
     },
     "Verduran Shadow Dedication": {
       "name": "ヴァーデュラン・シャドウ・デディケーション/Verduran Shadow Dedication",
-      "description": "<p>あなたの原始的エネルギーに対する認識は、森を超自然的な容易さで探索することを可能にする。あなたは《生存術》の専門家になる。あなたは《生存術》に対する習熟度を《隠密》に対する習熟度に代用でき、《隠密》において専門家、マスター、またはレジェンダリーであることからフィートによって得る追加の恩恵を得る際のフィートの前提条件を満たすことができる。ただし、あなたが《隠密》の前提条件も満たさない限り、それらのフィートは森林の地形でしか使用できない。森林にいる間は、あなたの《生存術》修正値を《隠密》修正値の代わりに利用して@UUID[Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn]{〈気配を消す〉}、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}、@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}を行うか、またはイニシアティブをロールするために《隠密》を使用することができる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ANj1KgIvIvNDmBSR]{Verduran シャドウ}</p>",
+      "description": "<p>あなたの原始的エネルギーに対する認識は、森を超自然的な容易さで探索することを可能にする。あなたは《生存術》のエキスパートになる。あなたは《生存術》に対する習熟度を《隠密》に対する習熟度に代用でき、《隠密》においてエキスパート、マスター、またはレジェンダリーであることからフィートによって得る追加の恩恵を得る際のフィートの前提条件を満たすことができる。ただし、あなたが《隠密》の前提条件も満たさない限り、それらのフィートは森林の地形でしか使用できない。森林にいる間は、あなたの《生存術》修正値を《隠密》修正値の代わりに利用して@UUID[Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn]{〈気配を消す〉}、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}、@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}を行うか、またはイニシアティブをロールするために《隠密》を使用することができる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.ANj1KgIvIvNDmBSR]{Verduran シャドウ}</p>",
       "source": "Pathfinder #201: Pactbreaker",
       "prerequisites": [
         {
@@ -21820,7 +21820,7 @@
     },
     "Genie Weapon Expertise": {
       "name": "ジーニー・ウェポン・エキスパーティス/Genie Weapon Expertise",
-      "description": "<p>あなたが特定の武器に専門家以上の習熟度を与えるクラスの特徴を得るたびに、あなたは@UUID[Compendium.pf2e.equipment-srd.Item.XGtIUZ4ZNKuFx1uL]{ファルシオン}、@UUID[Compendium.pf2e.equipment-srd.Item.UfurZQK6H6SgOjqe]{ランスール}、@UUID[Compendium.pf2e.equipment-srd.Item.grmaV4GdoGD7sKbn]{シミター}、@UUID[Compendium.pf2e.equipment-srd.Item.FJrsDoaIXksVjld9]{トライデント}、およびあなたが訓練済みであるすべてのジーニーキンの武器において、その習熟度を得る。</p>",
+      "description": "<p>あなたが特定の武器にエキスパート以上の習熟度を与えるクラスの特徴を得るたびに、あなたは@UUID[Compendium.pf2e.equipment-srd.Item.XGtIUZ4ZNKuFx1uL]{ファルシオン}、@UUID[Compendium.pf2e.equipment-srd.Item.UfurZQK6H6SgOjqe]{ランスール}、@UUID[Compendium.pf2e.equipment-srd.Item.grmaV4GdoGD7sKbn]{シミター}、@UUID[Compendium.pf2e.equipment-srd.Item.FJrsDoaIXksVjld9]{トライデント}、およびあなたが訓練済みであるすべてのジーニーキンの武器において、その習熟度を得る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
@@ -21830,7 +21830,7 @@
     },
     "Canny Acumen": {
       "name": "キャニー・アキュメン/Canny Acumen",
-      "description": "<p>あなたの回避や観察能力は、あなたの職業のほとんどの人の理解を超えている。頑健セーヴ、反応セーヴ、意志セーヴ、または知覚を選択する。あなたは自分の選択肢の専門家になる。17レベルで、あなたはその選択肢のマスターになる。</p>",
+      "description": "<p>あなたの回避や観察能力は、あなたの職業のほとんどの人の理解を超えている。頑健セーヴ、反応セーヴ、意志セーヴ、または知覚を選択する。あなたは自分の選択肢のエキスパートになる。17レベルで、あなたはその選択肢のマスターになる。</p>",
       "source": "Pathfinder Player Core"
     },
     "Vampire Dedication": {
@@ -22565,7 +22565,7 @@
     },
     "Quick Identification": {
       "name": "クイック・アイデンティフィケーション/Quick Identification",
-      "description": "<p>あなたは迅速に〔魔法の識別〕を行うことができる。アイテム、継続効果、または場所の特性を判断するために〔魔法の識別〕を使用する場合、あなたは通常の1分のみを要し、10分ではない。もしあなたが達人であれば、これは3アクションの活動になり、もしあなたが伝説的であれば、これは1アクションを要する。</p>",
+      "description": "<p>あなたは迅速に〔魔法の識別〕を行うことができる。アイテム、継続効果、または場所の特性を判断するために〔魔法の識別〕を使用する場合、あなたは通常の1分のみを要し、10分ではない。もしあなたがマスターであれば、これは3アクションの活動になり、もしあなたがレジェンダリーであれば、これは1アクションを要する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -22623,7 +22623,7 @@
     },
     "Bullying Staff": {
       "name": "ブリーイング・スタッフ/Bullying Staff",
-      "description": "<p><strong>必要条件</strong>あなたは杖を振るっている。</p>\n<hr />\n<p>あなたは最大で自分より二サイズ大きいクリーチャーを@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}しようとすることができる。もしあなたが杖の習熟度が達人であれば、最大で自分より三サイズ大きいクリーチャーを 〔押し出す〕 または 〔足払い〕 しようとすることができる。</p>",
+      "description": "<p><strong>必要条件</strong>あなたは杖を振るっている。</p>\n<hr />\n<p>あなたは最大で自分より二サイズ大きいクリーチャーを@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}しようとすることができる。もしあなたが杖の習熟度がマスターであれば、最大で自分より三サイズ大きいクリーチャーを 〔押し出す〕 または 〔足払い〕 しようとすることができる。</p>",
       "source": "Pathfinder #151: The Show Must Go On",
       "prerequisites": [
         {
@@ -22893,7 +22893,7 @@
     },
     "Captivator Dedication": {
       "name": "キャプティベーター・デディケーション/Captivator Dedication",
-      "description": "<p>あなたの他者を魅了する能力は超自然的な境界にある。あなたは社交的な状況でしばしばとまどわず、軽い魅惑や幻影を作成することができる。《欺瞞》または《交渉》を選択する。あなたはそのスキルで訓練済みになり、すでに訓練済みであった場合は専門家になる。</p>\n<p>オカルトリストから2つのキャントリップを選び、それぞれのキャントリップは、魅惑または幻影の学派からのものでなければならない。あなたは〔呪文の発動〕アクティビティにアクセスでき、これらの呪文をオカルトの固有呪文として唱えることができる。あなたはオカルト呪文攻撃ロールおよび呪文DCで訓練済みである。手が1つ空いている場合、あなたは通常、材料成分を身体成分で置き換えられるため、呪文構成要素ポーチを使用する必要はない。これらの呪文のためのあなたの主能力は魅力である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.b7oePIMEMdFFS5TH]{Captivator}</p>",
+      "description": "<p>あなたの他者を魅了する能力は超自然的な境界にある。あなたは社交的な状況でしばしばとまどわず、軽い魅惑や幻影を作成することができる。《欺瞞》または《交渉》を選択する。あなたはそのスキルで訓練済みになり、すでに訓練済みであった場合はエキスパートになる。</p>\n<p>オカルトリストから2つのキャントリップを選び、それぞれのキャントリップは、魅惑または幻影の学派からのものでなければならない。あなたは〔呪文の発動〕アクティビティにアクセスでき、これらの呪文をオカルトの固有呪文として唱えることができる。あなたはオカルト呪文攻撃ロールおよび呪文DCで訓練済みである。手が1つ空いている場合、あなたは通常、材料成分を身体成分で置き換えられるため、呪文構成要素ポーチを使用する必要はない。これらの呪文のためのあなたの主能力は魅力である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.b7oePIMEMdFFS5TH]{Captivator}</p>",
       "source": "Pathfinder Lost Omens The Grand Bazaar",
       "prerequisites": [
         {
@@ -23397,7 +23397,7 @@
     },
     "Fey Ascension": {
       "name": "フェイ・アセンション/Fey Ascension",
-      "description": "<p>あなたの形と特徴に対するフェイの影響はさらに強力で顕著になる。あなたは以下の特徴と能力のうちの一つを得る。これはあなたがフェイの影響のために選んだ動物またはフェイのタイプと同じである必要がある。</p>\n<ul>\n<li><strong>アリクイ</strong>あなたはプライマルDCと呪文攻撃ロールの専門家になる。あなたは1日1回、@UUID[Compendium.pf2e.spells-srd.Item.WsUwpfmhKrKwoIe3]{スロー}を天賦のプライマル呪文として唱えることができる。</li>\n<li><strong>キャットシス</strong>あなたは騙したり傷つけたりした者の激怒する呪詛を笑い飛ばす。クリーチャーがあなたを対象とした不運の効果を持つ時、@Check[flat|dc:13]を行う。成功した場合、あなたは影響を受けない。</li>\n<li><strong>呪われた青い鳥</strong>あなたは呪いを制御する能力が十分であり、バインを小さな祝福に変えることができる。1日1回、あなたはあなた自身または味方を青い鳥に一時的に変身させることができる。これは4ランクの@UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{ペスト・フォーム}(鳥のみ)であり、対象は一つの同意するクリーチャーである。</li>\n<li><strong>ドライアド</strong>あなたの髪は繊細だが刃のような葉と混ざり合い、あなたの命令で動く。あなたは1d6の斬撃ダメージを与える葉の 遠隔 unarmed attackを得る。あなたの葉はdart武器種にあり、魔法的および未武器のトレイトを持つ。 <em>注：この攻撃には、ソースで範囲が提供されていない。ファウンドリーの自動化のために、私たちは似た能力と調和する20フィートの範囲の増分を想定した。</em></li>\n<li><strong>ファウン</strong>あなたは1日1回、@UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{チャーム}、@UUID[Compendium.pf2e.spells-srd.Item.o4lRVTwSxnOOn5vl]{スリープ}、@UUID[Compendium.pf2e.spells-srd.Item.c8R2fpk88fBwJ1ie]{トリプル・タイム}を天賦のプライマル呪文として唱えることができる。これらの呪文のいずれかを唱えるたびに、あなたは行動の一部として〔ステップ〕または〔ストライド〕を行うことができる。</li>\n<li><strong>グレムリン</strong>あなたはプライマルDCと呪文攻撃ロールの専門家になる。あなたは1日1回、@UUID[Compendium.pf2e.spells-srd.Item.tFKJCPvOQZxKq6ON]{マッド・モンキーズ}を天賦のプライマル呪文として唱えることができる。</li>\n<li><strong>君主</strong> 1日1回、あなたは一対の美しい蝶の翼を現す能力を得る。これらの翼は10分の間持続する。あなたは翼を持っている間、移動速度に等しい飛行移動速度を得る。 @UUID[Compendium.pf2e.feat-effects.Item.nMMqJQsdV37TLfTu]{効果: Monarch Wings}</li>\n<li><strong>ユニコーン</strong>あなたは訓練済みにメディスン、またはすでに訓練済みであれば専門家になる。あなたは毒や魅了効果に対するセーヴに+2のステータスボーナスを得る。</li>\n</ul>\n<hr />\n<p><strong>特別</strong>この特技はあなたの祖先に適したトレイトを持つ(人間は人間、ゴブリンはゴブリン、など)。</p>",
+      "description": "<p>あなたの形と特徴に対するフェイの影響はさらに強力で顕著になる。あなたは以下の特徴と能力のうちの一つを得る。これはあなたがフェイの影響のために選んだ動物またはフェイのタイプと同じである必要がある。</p>\n<ul>\n<li><strong>アリクイ</strong>あなたはプライマルDCと呪文攻撃ロールのエキスパートになる。あなたは1日1回、@UUID[Compendium.pf2e.spells-srd.Item.WsUwpfmhKrKwoIe3]{スロー}を天賦のプライマル呪文として唱えることができる。</li>\n<li><strong>キャットシス</strong>あなたは騙したり傷つけたりした者の激怒する呪詛を笑い飛ばす。クリーチャーがあなたを対象とした不運の効果を持つ時、@Check[flat|dc:13]を行う。成功した場合、あなたは影響を受けない。</li>\n<li><strong>呪われた青い鳥</strong>あなたは呪いを制御する能力が十分であり、バインを小さな祝福に変えることができる。1日1回、あなたはあなた自身または味方を青い鳥に一時的に変身させることができる。これは4ランクの@UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{ペスト・フォーム}(鳥のみ)であり、対象は一つの同意するクリーチャーである。</li>\n<li><strong>ドライアド</strong>あなたの髪は繊細だが刃のような葉と混ざり合い、あなたの命令で動く。あなたは1d6の斬撃ダメージを与える葉の 遠隔 unarmed attackを得る。あなたの葉はdart武器種にあり、魔法的および未武器のトレイトを持つ。 <em>注：この攻撃には、ソースで範囲が提供されていない。ファウンドリーの自動化のために、私たちは似た能力と調和する20フィートの範囲の増分を想定した。</em></li>\n<li><strong>ファウン</strong>あなたは1日1回、@UUID[Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6]{チャーム}、@UUID[Compendium.pf2e.spells-srd.Item.o4lRVTwSxnOOn5vl]{スリープ}、@UUID[Compendium.pf2e.spells-srd.Item.c8R2fpk88fBwJ1ie]{トリプル・タイム}を天賦のプライマル呪文として唱えることができる。これらの呪文のいずれかを唱えるたびに、あなたは行動の一部として〔ステップ〕または〔ストライド〕を行うことができる。</li>\n<li><strong>グレムリン</strong>あなたはプライマルDCと呪文攻撃ロールのエキスパートになる。あなたは1日1回、@UUID[Compendium.pf2e.spells-srd.Item.tFKJCPvOQZxKq6ON]{マッド・モンキーズ}を天賦のプライマル呪文として唱えることができる。</li>\n<li><strong>君主</strong> 1日1回、あなたは一対の美しい蝶の翼を現す能力を得る。これらの翼は10分の間持続する。あなたは翼を持っている間、移動速度に等しい飛行移動速度を得る。 @UUID[Compendium.pf2e.feat-effects.Item.nMMqJQsdV37TLfTu]{効果: Monarch Wings}</li>\n<li><strong>ユニコーン</strong>あなたは訓練済みにメディスン、またはすでに訓練済みであればエキスパートになる。あなたは毒や魅了効果に対するセーヴに+2のステータスボーナスを得る。</li>\n</ul>\n<hr />\n<p><strong>特別</strong>この特技はあなたの祖先に適したトレイトを持つ(人間は人間、ゴブリンはゴブリン、など)。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -23407,7 +23407,7 @@
     },
     "Fetchling Lore": {
       "name": "フェッチリング・ロア/Fetchling Lore",
-      "description": "<p>あなたは仲間のフェッチリングについての難解な教訓を学んだ。あなたは訓練済みに《オカルト学》と《隠密》の専門家である。もしあなたが自動的にこれらのスキルの1つで訓練済みになる場合(背景やクラスからなど)、代わりに選択したスキルにおいて訓練済みになる。あなたはまた、訓練済みにおいてシャドウの平面に《専門知識》の専門家になる。</p>",
+      "description": "<p>あなたは仲間のフェッチリングについての難解な教訓を学んだ。あなたは訓練済みに《オカルト学》と《隠密》のエキスパートである。もしあなたが自動的にこれらのスキルの1つで訓練済みになる場合(背景やクラスからなど)、代わりに選択したスキルにおいて訓練済みになる。あなたはまた、訓練済みにおいてシャドウの平面に《専門知識》のエキスパートになる。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Vicious Fangs": {
@@ -23555,7 +23555,7 @@
           "value": "ヘルナイトの優先"
         },
         {
-          "value": "あなたの騎士団が推奨する武器の少なくとも1つにおいて専門家である"
+          "value": "あなたの騎士団が推奨する武器の少なくとも1つにおいてエキスパートである"
         }
       ]
     },
@@ -23871,7 +23871,7 @@
     },
     "Pickpocket": {
       "name": "ピックポケット/Pickpocket",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{〈盗み〉}または@UUID[Compendium.pf2e.actionspf2e.Item.ijZ0DDFpMkWqaShd]{〈隠し持つ〉}を厳重に守られているような場所から盗むことができ、その際 –5のペナルティを受けない。あなたは非常に目立つか、取り去るのに時間がかかる物体(たとえば着用靴や防具、または積極的に扱われている物体)を盗むことはできない。あなたが《盗賊術》の達人である場合、戦闘中や警戒中のクリーチャーから 〔盗み〕 を行うことができる。この場合、盗むは2アクションを要し、あなたは –5のペナルティを受ける。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{〈盗み〉}または@UUID[Compendium.pf2e.actionspf2e.Item.ijZ0DDFpMkWqaShd]{〈隠し持つ〉}を厳重に守られているような場所から盗むことができ、その際 –5のペナルティを受けない。あなたは非常に目立つか、取り去るのに時間がかかる物体(たとえば着用靴や防具、または積極的に扱われている物体)を盗むことはできない。あなたが《盗賊術》のマスターである場合、戦闘中や警戒中のクリーチャーから 〔盗み〕 を行うことができる。この場合、盗むは2アクションを要し、あなたは –5のペナルティを受ける。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -23936,7 +23936,7 @@
     },
     "Prepare Papers": {
       "name": "プリペア・ペーパーズ/Prepare Papers",
-      "description": "<p>あなたは自分の不法資格を確立したり、法的権限を高めるための偽造を作成する技術に熟達している。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.ftG89SjTSa9DYDOD]{〈偽造する〉}を探索の活動として行うことができる。文書を偽造するのにかかる時間は、ページごとに約1時間である。この時間は、あなたがソサイエティにおいて伝説的であれば、ページごとに10分に短縮される。</p>",
+      "description": "<p>あなたは自分の不法資格を確立したり、法的権限を高めるための偽造を作成する技術に熟達している。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.ftG89SjTSa9DYDOD]{〈偽造する〉}を探索の活動として行うことができる。文書を偽造するのにかかる時間は、ページごとに約1時間である。この時間は、あなたがソサイエティにおいてレジェンダリーであれば、ページごとに10分に短縮される。</p>",
       "source": "Pathfinder #178: Punks in a Powder Keg",
       "prerequisites": [
         {
@@ -24022,7 +24022,7 @@
     },
     "Words of Unraveling": {
       "name": "ワーズ・オブ・アンラヴェリング/Words of Unraveling",
-      "description": "<p>あなたは現実と絡むための難解な手段を解放した、それは自身の運命を1人の個人に変更する。1日1回、オカルトの固有呪文として、@UUID[Compendium.pf2e.spells-srd.Item.dARE6VfJ3Uoq5M53]{デイドリーマーズ・カース}、@UUID[Compendium.pf2e.spells-srd.Item.KSAEhNfZyXMO7Z7V]{アウトキャストズ・カース}、または@UUID[Compendium.pf2e.spells-srd.Item.APDrC83QljsyHenB]{セイジズ・カース}を唱えることができる。GMの裁量により、このリストに4レベル以下のオカルト呪いの呪文を置き換えたり追加したりできる。この能力を使用するたびに、リストから異なる呪文を選択できる。すでにオカルト呪文を唱えることができなかった場合、これらの呪文はあなたの知性を呪文発動能力として使用し、オカルト呪文の呪文攻撃ロールと呪文DCに対して訓練済みになる。すでにオカルト呪文を唱えられた場合、オカルト呪文の呪文攻撃ロールと呪文DCの習熟度が専門家に上昇する。</p>",
+      "description": "<p>あなたは現実と絡むための難解な手段を解放した、それは自身の運命を1人の個人に変更する。1日1回、オカルトの固有呪文として、@UUID[Compendium.pf2e.spells-srd.Item.dARE6VfJ3Uoq5M53]{デイドリーマーズ・カース}、@UUID[Compendium.pf2e.spells-srd.Item.KSAEhNfZyXMO7Z7V]{アウトキャストズ・カース}、または@UUID[Compendium.pf2e.spells-srd.Item.APDrC83QljsyHenB]{セイジズ・カース}を唱えることができる。GMの裁量により、このリストに4レベル以下のオカルト呪いの呪文を置き換えたり追加したりできる。この能力を使用するたびに、リストから異なる呪文を選択できる。すでにオカルト呪文を唱えることができなかった場合、これらの呪文はあなたの知性を呪文発動能力として使用し、オカルト呪文の呪文攻撃ロールと呪文DCに対して訓練済みになる。すでにオカルト呪文を唱えられた場合、オカルト呪文の呪文攻撃ロールと呪文DCの習熟度がエキスパートに上昇する。</p>",
       "source": "Pathfinder #164: Hands of the Devil",
       "prerequisites": [
         {
@@ -24067,7 +24067,7 @@
     },
     "Master Captivator Spellcasting": {
       "name": "マスター・キャプティベーター・スペルキャスティング/Master Captivator Spellcasting",
-      "description": "<p>あなたは魅了し欺く最も強力な呪文を習得した。あなたは7級のオカルト呪文を学ぶ。18レベルで、あなたは8級の呪文を学び、20レベルで9級の呪文を学ぶ。これらの呪文は、いずれも魅了または幻覚の学校からでなければならない。あなたはこれらの呪文をオカルトの先天呪文として発動する。あなたはオカルト呪文に対する呪文攻撃ロールおよび呪文DCで達人になる。</p>",
+      "description": "<p>あなたは魅了し欺く最も強力な呪文を習得した。あなたは7級のオカルト呪文を学ぶ。18レベルで、あなたは8級の呪文を学び、20レベルで9級の呪文を学ぶ。これらの呪文は、いずれも魅了または幻覚の学校からでなければならない。あなたはこれらの呪文をオカルトの先天呪文として発動する。あなたはオカルト呪文に対する呪文攻撃ロールおよび呪文DCでマスターになる。</p>",
       "source": "Pathfinder Lost Omens The Grand Bazaar",
       "prerequisites": [
         {
@@ -24120,7 +24120,7 @@
     },
     "That's Not Natural!": {
       "name": "ザッツ・ノット・ナチュラル！/That's Not Natural!",
-      "description": "<p>あなたの野生生存の達人は、自然の秩序に属さないクリーチャーに気づくための第六感のようなものを与える。あなたは、戦闘の開始時に行う全てのイニシアチブ判定に +1の状況ボーナスを得る。あなたの敵のうち少なくとも1体が異形、妖精、変異体、またはアンデッドである場合、または敵の1体が物質界以外の次元界出身である場合は、戦闘が荒野の地域で行われる限り、あなたはイニシアチブ判定の際にこのボーナスを得る。荒野地域において、あなたはこれらのタイプのクリーチャーに対する知覚 DCを1増加させる。この判定は彼らの《隠密》判定に対して行う。あなたが《生存術》の達人である場合、この状況ボーナスは +2に増加する。</p>\n<p>あなたが@UUID[Compendium.pf2e.spells-srd.Item.7DN13ILADW2N9Z1t]{コミューン}儀式を知っている場合、その儀式を解決するために《生存術》を主または副の判定として使用できる。そうした場合、あなたは +2の状況ボーナスを得る。</p>",
+      "description": "<p>あなたの野生生存の達人は、自然の秩序に属さないクリーチャーに気づくための第六感のようなものを与える。あなたは、戦闘の開始時に行う全てのイニシアチブ判定に +1の状況ボーナスを得る。あなたの敵のうち少なくとも1体が異形、妖精、変異体、またはアンデッドである場合、または敵の1体が物質界以外の次元界出身である場合は、戦闘が荒野の地域で行われる限り、あなたはイニシアチブ判定の際にこのボーナスを得る。荒野地域において、あなたはこれらのタイプのクリーチャーに対する知覚 DCを1増加させる。この判定は彼らの《隠密》判定に対して行う。あなたが《生存術》のマスターである場合、この状況ボーナスは +2に増加する。</p>\n<p>あなたが@UUID[Compendium.pf2e.spells-srd.Item.7DN13ILADW2N9Z1t]{コミューン}儀式を知っている場合、その儀式を解決するために《生存術》を主または副の判定として使用できる。そうした場合、あなたは +2の状況ボーナスを得る。</p>",
       "source": "Pathfinder Kingmaker",
       "prerequisites": [
         {
@@ -24360,7 +24360,7 @@
     },
     "Contortionist": {
       "name": "コントーショニスト/Contortionist",
-      "description": "<p>あなたは驚くほど迅速に窮地から抜け出すことができ、あなたを押さえ込もうとする敵に対して有利を得る。あなたは@UUID[Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP]{クイック・スクイーズ}のスキル特技を得る。また、あなたが《軽業》の達人である場合、あなたはフル移動速度で@UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{〈無理矢理入り込む〉}できる。</p>\n<p>あなたが《軽業》を使って@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}に成功すると、あなたが脱出したクリーチャーは、次の攻撃を行うまで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}される。</p>",
+      "description": "<p>あなたは驚くほど迅速に窮地から抜け出すことができ、あなたを押さえ込もうとする敵に対して有利を得る。あなたは@UUID[Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP]{クイック・スクイーズ}のスキル特技を得る。また、あなたが《軽業》のマスターである場合、あなたはフル移動速度で@UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{〈無理矢理入り込む〉}できる。</p>\n<p>あなたが《軽業》を使って@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{〈エスケープ〉}に成功すると、あなたが脱出したクリーチャーは、次の攻撃を行うまで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}される。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -25673,7 +25673,7 @@
     },
     "Crushing Step": {
       "name": "クラッシング・ステップ/Crushing Step",
-      "description": "<p>あなたの鎧の足の重さは自然の障害を取り除く。中または重い鎧を着用しているとき、非魔法的な源からの困難な地形を無視する。あなたが着用している鎧の達人であれば、非魔法的な源からのより大きな困難な地形も無視する。</p>",
+      "description": "<p>あなたの鎧の足の重さは自然の障害を取り除く。中または重い鎧を着用しているとき、非魔法的な源からの困難な地形を無視する。あなたが着用している鎧のマスターであれば、非魔法的な源からのより大きな困難な地形も無視する。</p>",
       "source": "Pathfinder Lost Omens Highhelm",
       "prerequisites": [
         {
@@ -25858,7 +25858,7 @@
     },
     "Group Impression": {
       "name": "グループ・インプレッション/Group Impression",
-      "description": "<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉}を行うとき、あなたはあなたの《交渉》判定結果を会話した最大10の対象の意志のDCと比較することができ、ペナルティはない。対象の数は、あなたが専門家であれば20、達人であれば50、伝説であれば100に増える。</p>",
+      "description": "<p>あなたが@UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{〈印象の改善〉}を行うとき、あなたはあなたの《交渉》判定結果を会話した最大10の対象の意志のDCと比較することができ、ペナルティはない。対象の数は、あなたがエキスパートであれば20、マスターであれば50、レジェンダリーであれば100に増える。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -26303,7 +26303,7 @@
     },
     "Titan Wrestler": {
       "name": "タイタン・レスラー/Titan Wrestler",
-      "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}、@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}、@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}のクリーチャーを、自身の2サイズ大きいもの、あるいは《運動》において伝説的であれば3サイズ大きいものまで試みることができる。</p>",
+      "description": "<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{〈ディスアーム〉}、@UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{〈組み付き〉}、@UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{〈位置をずらす〉}、@UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{〈押し出す〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}のクリーチャーを、自身の2サイズ大きいもの、あるいは《運動》においてレジェンダリーであれば3サイズ大きいものまで試みることができる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -27074,7 +27074,7 @@
     },
     "Virtuosic Performer": {
       "name": "ヴァーチュオシック・パフォーマー/Virtuosic Performer",
-      "description": "<p>あなたは特定の《芸能》の種類に優れた才能がある。特定の《芸能》を行うとき、あなたは+1の状況ボーナスを得る。あなたが《芸能》の達人である場合、このボーナスは+2に増加する。以下の特技の中から1つを選び、その種類の《芸能》判定を行うときにボーナスを適用する。特技が適用されるかどうかが不明な場合は、GMが決定する。</p><table class=\"pf2e remaster\"><thead><tr><th>特技</th><th>例</th></tr></thead><tbody><tr><td>演技</td><td>ドラマ、パントマイム、人形劇</td></tr><tr><td>コメディ</td><td>ばかげたこと、ジョーク、リメリック</td></tr><tr><td>ダンス</td><td>バレエ、フアラ、ジグ、マクル</td></tr><tr><td>キーボード</td><td>ハープシコード、オルガン、ピアノ</td></tr><tr><td>オラトリー</td><td>叙事詩、オード、詩、ストーリーテリング</td></tr><tr><td>打楽器</td><td>チャイム、ドラム、ゴング、木琴</td></tr><tr><td>歌唱</td><td>バラード、チャント、メロディー、韻を踏むこと</td></tr><tr><td>弦楽器</td><td>フィドル、ハープ、リュート、ヴィオール</td></tr><tr><td>管楽器</td><td>バグパイプ、フルート、リコーダー、トランペット</td></tr></tbody></table>",
+      "description": "<p>あなたは特定の《芸能》の種類に優れた才能がある。特定の《芸能》を行うとき、あなたは+1の状況ボーナスを得る。あなたが《芸能》のマスターである場合、このボーナスは+2に増加する。以下の特技の中から1つを選び、その種類の《芸能》判定を行うときにボーナスを適用する。特技が適用されるかどうかが不明な場合は、GMが決定する。</p><table class=\"pf2e remaster\"><thead><tr><th>特技</th><th>例</th></tr></thead><tbody><tr><td>演技</td><td>ドラマ、パントマイム、人形劇</td></tr><tr><td>コメディ</td><td>ばかげたこと、ジョーク、リメリック</td></tr><tr><td>ダンス</td><td>バレエ、フアラ、ジグ、マクル</td></tr><tr><td>キーボード</td><td>ハープシコード、オルガン、ピアノ</td></tr><tr><td>オラトリー</td><td>叙事詩、オード、詩、ストーリーテリング</td></tr><tr><td>打楽器</td><td>チャイム、ドラム、ゴング、木琴</td></tr><tr><td>歌唱</td><td>バラード、チャント、メロディー、韻を踏むこと</td></tr><tr><td>弦楽器</td><td>フィドル、ハープ、リュート、ヴィオール</td></tr><tr><td>管楽器</td><td>バグパイプ、フルート、リコーダー、トランペット</td></tr></tbody></table>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -27246,7 +27246,7 @@
     },
     "Vigilant Benediction": {
       "name": "ヴィジラント・ベネディクション/Vigilant Benediction",
-      "description": "<p>クリムゾン・リクレイマーズとその誓約に負けまいと、あなたは善の神々に神聖な魔法の一片を求めた。あなたが満たす条件のある以下の神の中から1人を選ぶこと。その任意の神のオプションでは、GMが適切だと考える神格を選べる。そして、リストの中から呪文を1つ選ぶことができる。あなたはその呪文を1日1回、高位化された4ランクの神聖な固有呪文として使うことができ、呪文攻撃修正値とDCが訓練済みになる。14レベルで、その呪文は5レベルに高位化する。16レベルで、その呪文は6レベルに高位化する。神格と呪文を選択すると、その選択を変更することはできない。あなたは神格をあなたのパトロン神格として崇拝する必要はなく、彼らはあなたの正しい目的のためにこの恩恵を与えることを望んでいる。あなたは神格のアナテマを行うことを控えなければならず、そうしないとこの呪文を唱える能力を失い、贖罪を行うまで戻すことができない。</p>\n<ul>\n<li><strong>任意の神</strong>: @UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]{アンフェタード・ムーブメント}, @UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{クレンズ・アフリクション}, @UUID[Compendium.pf2e.spells-srd.Item.Fr58LDSrbndgld9n]{レジスト・エナジー}, @UUID[Compendium.pf2e.spells-srd.Item.tgIhRUFtgDSELpJE]{スペル・イミュニティ}, @UUID[Compendium.pf2e.spells-srd.Item.HTou8cG05yuSkesj]{ステイタス}</li>\n<li><strong>ゲンドウィン</strong>: @UUID[Compendium.pf2e.spells-srd.Item.YWrfKetOqDwVFut7]{オークン・リジリエンス}</li>\n<li><strong>イオメダエ</strong>: @UUID[Compendium.pf2e.spells-srd.Item.YrzBLPLd3r9m6t1p]{ファイアー・シールド}</li>\n<li><strong>イロリ</strong>: @UUID[Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt]{マウンテン・レジリエンス}</li>\n<li><strong>カズタル</strong>: @UUID[Compendium.pf2e.spells-srd.Item.aAbfKn8maGjJjk2W]{ミスティック・アーマー}, @UUID[Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt]{マウンテン・レジリエンス}</li>\n<li><strong>ミラニ</strong>: @UUID[Compendium.pf2e.spells-srd.Item.YrzBLPLd3r9m6t1p]{ファイアー・シールド}, @UUID[Compendium.pf2e.spells-srd.Item.aAbfKn8maGjJjk2W]{ミスティック・アーマー}</li>\n<li><strong>ラガシエル</strong>: @UUID[Compendium.pf2e.spells-srd.Item.YrzBLPLd3r9m6t1p]{ファイアー・シールド}</li>\n<li><strong>サレンレイ</strong>: @UUID[Compendium.pf2e.spells-srd.Item.IarZrgCeaiUqOuRu]{ウォール・オヴ・ファイアー}</li>\n</ul>\n<p><strong>特別</strong>あなたは14レベルでこの特技を2回目選ぶことができ、選択した神格のリストまたは任意の神のリストから、1日1回使用できる第2の呪文を得る。そして、呪文攻撃修正値とDCが専門家になる。この特技を18レベルで3回目に選ぶこともできる。その場合、選択した神格のリストまたは任意の神のリストから、1日1回使うことができる第3の呪文を得る。すべての呪文は7レベルに高位化される。</p>",
+      "description": "<p>クリムゾン・リクレイマーズとその誓約に負けまいと、あなたは善の神々に神聖な魔法の一片を求めた。あなたが満たす条件のある以下の神の中から1人を選ぶこと。その任意の神のオプションでは、GMが適切だと考える神格を選べる。そして、リストの中から呪文を1つ選ぶことができる。あなたはその呪文を1日1回、高位化された4ランクの神聖な固有呪文として使うことができ、呪文攻撃修正値とDCが訓練済みになる。14レベルで、その呪文は5レベルに高位化する。16レベルで、その呪文は6レベルに高位化する。神格と呪文を選択すると、その選択を変更することはできない。あなたは神格をあなたのパトロン神格として崇拝する必要はなく、彼らはあなたの正しい目的のためにこの恩恵を与えることを望んでいる。あなたは神格のアナテマを行うことを控えなければならず、そうしないとこの呪文を唱える能力を失い、贖罪を行うまで戻すことができない。</p>\n<ul>\n<li><strong>任意の神</strong>: @UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]{アンフェタード・ムーブメント}, @UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{クレンズ・アフリクション}, @UUID[Compendium.pf2e.spells-srd.Item.Fr58LDSrbndgld9n]{レジスト・エナジー}, @UUID[Compendium.pf2e.spells-srd.Item.tgIhRUFtgDSELpJE]{スペル・イミュニティ}, @UUID[Compendium.pf2e.spells-srd.Item.HTou8cG05yuSkesj]{ステイタス}</li>\n<li><strong>ゲンドウィン</strong>: @UUID[Compendium.pf2e.spells-srd.Item.YWrfKetOqDwVFut7]{オークン・リジリエンス}</li>\n<li><strong>イオメダエ</strong>: @UUID[Compendium.pf2e.spells-srd.Item.YrzBLPLd3r9m6t1p]{ファイアー・シールド}</li>\n<li><strong>イロリ</strong>: @UUID[Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt]{マウンテン・レジリエンス}</li>\n<li><strong>カズタル</strong>: @UUID[Compendium.pf2e.spells-srd.Item.aAbfKn8maGjJjk2W]{ミスティック・アーマー}, @UUID[Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt]{マウンテン・レジリエンス}</li>\n<li><strong>ミラニ</strong>: @UUID[Compendium.pf2e.spells-srd.Item.YrzBLPLd3r9m6t1p]{ファイアー・シールド}, @UUID[Compendium.pf2e.spells-srd.Item.aAbfKn8maGjJjk2W]{ミスティック・アーマー}</li>\n<li><strong>ラガシエル</strong>: @UUID[Compendium.pf2e.spells-srd.Item.YrzBLPLd3r9m6t1p]{ファイアー・シールド}</li>\n<li><strong>サレンレイ</strong>: @UUID[Compendium.pf2e.spells-srd.Item.IarZrgCeaiUqOuRu]{ウォール・オヴ・ファイアー}</li>\n</ul>\n<p><strong>特別</strong>あなたは14レベルでこの特技を2回目選ぶことができ、選択した神格のリストまたは任意の神のリストから、1日1回使用できる第2の呪文を得る。そして、呪文攻撃修正値とDCがエキスパートになる。この特技を18レベルで3回目に選ぶこともできる。その場合、選択した神格のリストまたは任意の神のリストから、1日1回使うことができる第3の呪文を得る。すべての呪文は7レベルに高位化される。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
         {
@@ -27496,7 +27496,7 @@
           "value": "上昇する血の魔法"
         },
         {
-          "value": "《秘術》または《宗教》の達人、選択した系統に応じて"
+          "value": "《秘術》または《宗教》のマスター、選択した系統に応じて"
         }
       ]
     },
@@ -27522,7 +27522,7 @@
     },
     "Rose Warden Dedication": {
       "name": "ローズ・ウォーデン・デディケーション/Rose Warden Dedication",
-      "description": "<p>エヴァーブルームの信徒として、あなたは圧政や抑圧に立ち向かう。不当な支配者に対する革命は、時には秘密裏に行わなければならないことを理解しているからだ。あなたは《欺瞞》が訓練済みになる。もし既に《欺瞞》が訓練済みであるなら、あなたは《欺瞞》か《隠密》のいずれかを選択し、その技能が専門家になる。権力者に対して〈嘘をつく〉を行い、大成功したならば、その権力者から24時間の間、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}、@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}、または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態にされることに対する、あなたの頑健 DCおよびセーヴィング・スローに+1状況ボーナスを得る。</p>\n<p>あなたは@UUID[Compendium.pf2e.deities.Item.fTJLgTfEMZreJ19r]{メラニー}の信条と禁忌を自身のものとして加える。戒律を守れなかったり、禁忌に触れる行為を行ったりした結果、あなたはGMの判断により、このアーキタイプから得られるあらゆる能力へのアクセスを失う。あなたは通常通り、贖罪の儀式を通じてこれらの失った能力を取り戻すことができる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.bdzVlHHuGGDEreTx]{効果: ローズ・ウォーデン デディケーション}</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.sUXT7lhQp3znvDAV]{ローズ・ウォーデン}</p>",
+      "description": "<p>エヴァーブルームの信徒として、あなたは圧政や抑圧に立ち向かう。不当な支配者に対する革命は、時には秘密裏に行わなければならないことを理解しているからだ。あなたは《欺瞞》が訓練済みになる。もし既に《欺瞞》が訓練済みであるなら、あなたは《欺瞞》か《隠密》のいずれかを選択し、その技能がエキスパートになる。権力者に対して〈嘘をつく〉を行い、大成功したならば、その権力者から24時間の間、@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}、@UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{支配}、@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}、または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}状態にされることに対する、あなたの頑健 DCおよびセーヴィング・スローに+1状況ボーナスを得る。</p>\n<p>あなたは@UUID[Compendium.pf2e.deities.Item.fTJLgTfEMZreJ19r]{メラニー}の信条と禁忌を自身のものとして加える。戒律を守れなかったり、禁忌に触れる行為を行ったりした結果、あなたはGMの判断により、このアーキタイプから得られるあらゆる能力へのアクセスを失う。あなたは通常通り、贖罪の儀式を通じてこれらの失った能力を取り戻すことができる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.bdzVlHHuGGDEreTx]{効果: ローズ・ウォーデン デディケーション}</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.sUXT7lhQp3znvDAV]{ローズ・ウォーデン}</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -27603,7 +27603,7 @@
     },
     "Stir Allies": {
       "name": "スター・アライズ/Stir Allies",
-      "description": "<p>あなたは味方に急ぐように命令を叫ぶ。30フィート内の味方はリアクションを使用して 〔ステップ〕を行うことができる。あなたが《交渉》において伝説的であるなら、代わりに 〔ストライド〕を行うことができる。</p>",
+      "description": "<p>あなたは味方に急ぐように命令を叫ぶ。30フィート内の味方はリアクションを使用して 〔ステップ〕を行うことができる。あなたが《交渉》においてレジェンダリーであるなら、代わりに 〔ストライド〕を行うことができる。</p>",
       "source": "Pathfinder Lost Omens Shining Kingdoms",
       "prerequisites": [
         {
@@ -27814,7 +27814,7 @@
     },
     "Cat Fall": {
       "name": "キャット・フォール/Cat Fall",
-      "description": "<p>あなたの猫のような空中アクロバットは、あなたの落下を和らげる。落下を10フィート短く扱う。あなたが《軽業》に熟練している場合、落下を25フィート短く扱い、50フィートであればマスターである。あなたが《軽業》において伝説的であれば、あなたは常に足で着地し、落下の距離に関わらずダメージを受けない。</p>",
+      "description": "<p>あなたの猫のような空中アクロバットは、あなたの落下を和らげる。落下を10フィート短く扱う。あなたが《軽業》に熟練している場合、落下を25フィート短く扱い、50フィートであればマスターである。あなたが《軽業》においてレジェンダリーであれば、あなたは常に足で着地し、落下の距離に関わらずダメージを受けない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -27993,7 +27993,7 @@
     },
     "Runescarred Dedication": {
       "name": "ルーンスカード・デディケーション/Runescarred Dedication",
-      "description": "<p><strong>アクセス</strong>あなたはサガの土地から来ている。</p><hr /><p>血(あなたがヴァリシア語、ショアンティ語、またはニューサシロンである場合)によって、またはルーン魔法にさらされることによって、あなたはルーンサカードとなり、体に入れ墨や傷の形で目に見える、光るルーンを持つことになる。あなたはこのアーキタイプを獲得する前にこれらの印を持っていたかもしれないが、ルーンの力を学び、活用することを選んだときに真にルーンサカードとなる。あなたは《秘術》の専門家になり、さらに訓練済みにおいてサシロン《専門知識》の専門家となる、またはすでに訓練済みであるならばサシロン《専門知識》において専門家になる。</p>\n<p>魔法のリストからカントリップを一つ選ぶ。身体上のルーンの一つは選んだカントリップに対応しており、あなたは選んだカントリップを内在的な魔法としてキャストできる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.j5uZbCwoHOOEO1bC]{Runescarred}</p>",
+      "description": "<p><strong>アクセス</strong>あなたはサガの土地から来ている。</p><hr /><p>血(あなたがヴァリシア語、ショアンティ語、またはニューサシロンである場合)によって、またはルーン魔法にさらされることによって、あなたはルーンサカードとなり、体に入れ墨や傷の形で目に見える、光るルーンを持つことになる。あなたはこのアーキタイプを獲得する前にこれらの印を持っていたかもしれないが、ルーンの力を学び、活用することを選んだときに真にルーンサカードとなる。あなたは《秘術》のエキスパートになり、さらに訓練済みにおいてサシロン《専門知識》の専門家となる、またはすでに訓練済みであるならばサシロン《専門知識》においてエキスパートになる。</p>\n<p>魔法のリストからカントリップを一つ選ぶ。身体上のルーンの一つは選んだカントリップに対応しており、あなたは選んだカントリップを内在的な魔法としてキャストできる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.j5uZbCwoHOOEO1bC]{Runescarred}</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
@@ -28513,7 +28513,7 @@
     },
     "I Knew the Heroes": {
       "name": "アイ・ニュー・ザ・ヒーローズ/I Knew the Heroes",
-      "description": "<p>あなたの物語は、年長者から若者へ、または教師から生徒へと伝えられる単なる物語ではない。それは、あなたが出会った人々の生きた経験であり、伝説の素材である。あなたが@UUID[Compendium.pf2e.feats-srd.Item.UCen3Tq6BJlNI7rx]{ウズンジャティ・レコレクション}を使用したとき、あなたが〔思い出す〕において伝説的であれば、あなたは〔思い出す〕 判定に+1の状況ボーナスを得て、 @UUID[Compendium.pf2e.feats-srd.Item.my4uFR8cnDC4mJE2]{ウズンジャティ・ストーリーテリング}に対する状況ボーナスは+2に増加する。</p>",
+      "description": "<p>あなたの物語は、年長者から若者へ、または教師から生徒へと伝えられる単なる物語ではない。それは、あなたが出会った人々の生きた経験であり、伝説の素材である。あなたが@UUID[Compendium.pf2e.feats-srd.Item.UCen3Tq6BJlNI7rx]{ウズンジャティ・レコレクション}を使用したとき、あなたが〔思い出す〕においてレジェンダリーであれば、あなたは〔思い出す〕 判定に+1の状況ボーナスを得て、 @UUID[Compendium.pf2e.feats-srd.Item.my4uFR8cnDC4mJE2]{ウズンジャティ・ストーリーテリング}に対する状況ボーナスは+2に増加する。</p>",
       "source": "Pathfinder Claws of the Tyrant",
       "prerequisites": [
         {
@@ -28549,7 +28549,7 @@
     },
     "Lock On": {
       "name": "ロック・オン/Lock On",
-      "description": "<p>あは！あなたは敵の弱点にロックオンし、あなたの構築仲間がそれを破壊するのを助ける。あなたがロックオンするとき、見える敵を指定する。次のアクションがあなたの構築を指示する場合、その構築は指定された敵に対する攻撃ロールに+2の状況ボーナスを得る。あなたが指示のために2アクションを使用する場合、このボーナスは代わりに+3の状況ボーナスとなり、あなたが《製作》で伝説的であれば+4の状況ボーナスとなる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xtqOIXCe0Nsd0QCt]{効果: ロック On}</p>",
+      "description": "<p>あは！あなたは敵の弱点にロックオンし、あなたの構築仲間がそれを破壊するのを助ける。あなたがロックオンするとき、見える敵を指定する。次のアクションがあなたの構築を指示する場合、その構築は指定された敵に対する攻撃ロールに+2の状況ボーナスを得る。あなたが指示のために2アクションを使用する場合、このボーナスは代わりに+3の状況ボーナスとなり、あなたが《製作》でレジェンダリーであれば+4の状況ボーナスとなる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xtqOIXCe0Nsd0QCt]{効果: ロック On}</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -29341,7 +29341,7 @@
     },
     "Oatia Skysage Dedication": {
       "name": "オーティア・スカイセイジ・デディケーション/Oatia Skysage Dedication",
-      "description": "<p>あなたの星の研究は超自然的の洞察と魔法を解き放つ。あなたは天文学《専門知識》の訓練済みになるか、《オカルト学》の専門家になる。</p>\n<p>あなたは自発的な呪文を唱えることを学び、〔呪文の発動〕アクティビティを得る。あなたは以下の2つの好きなカントリップを持つ呪文のレパートリーを得る：@UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{ディテクト・マジック}, @UUID[Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs]{ガイダンス}, @UUID[Compendium.pf2e.spells-srd.Item.tXa5vOu5giBNCjdR]{ノウ・ザ・ウェイ}, または@UUID[Compendium.pf2e.spells-srd.Item.OhD2Z6rIGGD5ocZA]{リード・オーラ}。あなたは星々と夜空を引き寄せながら、これらの呪文をオカルト呪文として唱える。あなたはオカルト呪文攻撃ロールと呪文DCにおいて訓練済みである。これらの呪文のための主要な呪文発動能力は知恵である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.PVwU1LMWcSgD7Q0m]{Oatia Skysage}</p>",
+      "description": "<p>あなたの星の研究は超自然的の洞察と魔法を解き放つ。あなたは天文学《専門知識》の訓練済みになるか、《オカルト学》のエキスパートになる。</p>\n<p>あなたは自発的な呪文を唱えることを学び、〔呪文の発動〕アクティビティを得る。あなたは以下の2つの好きなカントリップを持つ呪文のレパートリーを得る：@UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{ディテクト・マジック}, @UUID[Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs]{ガイダンス}, @UUID[Compendium.pf2e.spells-srd.Item.tXa5vOu5giBNCjdR]{ノウ・ザ・ウェイ}, または@UUID[Compendium.pf2e.spells-srd.Item.OhD2Z6rIGGD5ocZA]{リード・オーラ}。あなたは星々と夜空を引き寄せながら、これらの呪文をオカルト呪文として唱える。あなたはオカルト呪文攻撃ロールと呪文DCにおいて訓練済みである。これらの呪文のための主要な呪文発動能力は知恵である。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.PVwU1LMWcSgD7Q0m]{Oatia Skysage}</p>",
       "source": "Pathfinder Adventure Path: Gatewalkers",
       "prerequisites": [
         {
@@ -29356,7 +29356,7 @@
     },
     "Empathetic Plea": {
       "name": "エンパセティック・プリー/Empathetic Plea",
-      "description": "<p><strong>トリガー</strong>あなたは、まだ敵対的なアクションをとっていないクリーチャーから攻撃される。あなたはそのクリーチャーが攻撃ロールを行う前に、このリアクションを使用しなければならない。</p>\n<hr />\n<p>あなたがすくむ様子や、練習してきた子犬のような目を使うことは、攻撃者に共感的な反応を引き起こす。攻撃者の意志DCに対して@Check[diplomacy|defense:will]判定を行うこと。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは攻撃を引っ込め、アクションを無駄にし、次のターンの開始時まであなたに対して敵対アクションを使用できなくなる。</p>\n<p><strong>成功</strong>そのクリーチャーは、トリガーとなった〈ストライク〉および次のターンの開始時まであなたに対するすべてのストライクのダメージに-2の状況ペナルティを受ける。あなたが《交渉》の熟練者であればペナルティは-4、達人であれば-6、伝説的であれば-8となる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.tI2fM9pAOpCWP2V9]{効果: Empathetic Plea}</p>\n<p><strong>失敗</strong>そのクリーチャーの攻撃は影響を受けず、そのクリーチャーは24時間の間、あなたのEmpathic Pleaに対して一時的な免疫となる。</p>",
+      "description": "<p><strong>トリガー</strong>あなたは、まだ敵対的なアクションをとっていないクリーチャーから攻撃される。あなたはそのクリーチャーが攻撃ロールを行う前に、このリアクションを使用しなければならない。</p>\n<hr />\n<p>あなたがすくむ様子や、練習してきた子犬のような目を使うことは、攻撃者に共感的な反応を引き起こす。攻撃者の意志DCに対して@Check[diplomacy|defense:will]判定を行うこと。</p>\n<hr />\n<p><strong>クリティカル成功</strong>そのクリーチャーは攻撃を引っ込め、アクションを無駄にし、次のターンの開始時まであなたに対して敵対アクションを使用できなくなる。</p>\n<p><strong>成功</strong>そのクリーチャーは、トリガーとなった〈ストライク〉および次のターンの開始時まであなたに対するすべてのストライクのダメージに-2の状況ペナルティを受ける。あなたが《交渉》のエキスパートであればペナルティは-4、マスターであれば-6、レジェンダリーであれば-8となる。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.tI2fM9pAOpCWP2V9]{効果: Empathetic Plea}</p>\n<p><strong>失敗</strong>そのクリーチャーの攻撃は影響を受けず、そのクリーチャーは24時間の間、あなたのEmpathic Pleaに対して一時的な免疫となる。</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -29464,7 +29464,7 @@
     },
     "Beneath Notice": {
       "name": "ビニース・ノーティス/Beneath Notice",
-      "description": "<p>あなたは敵や対象から一般大衆の中で隠れる技術に秀でている。あなたは@UUID[Compendium.pf2e.feats-srd.Item.e4KB4pSkx2lDBNw3]{クイック・ディスガイズ}と@UUID[Compendium.pf2e.feats-srd.Item.RiuZT3H4QZIIEQXJ]{スリッパリー・シークレッツ}のスキル特技を得る。</p>\n<p>加えて、群衆の中にいるとき、あなたは一般的な群衆の一員を対象に、三アクション活動として@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}することができる(あなたが《欺瞞》で伝説的である場合は一アクション)。</p>",
+      "description": "<p>あなたは敵や対象から一般大衆の中で隠れる技術に秀でている。あなたは@UUID[Compendium.pf2e.feats-srd.Item.e4KB4pSkx2lDBNw3]{クイック・ディスガイズ}と@UUID[Compendium.pf2e.feats-srd.Item.RiuZT3H4QZIIEQXJ]{スリッパリー・シークレッツ}のスキル特技を得る。</p>\n<p>加えて、群衆の中にいるとき、あなたは一般的な群衆の一員を対象に、三アクション活動として@UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}することができる(あなたが《欺瞞》でレジェンダリーである場合は一アクション)。</p>",
       "source": "Pathfinder #167: Ready? Fight!",
       "prerequisites": [
         {
@@ -29723,7 +29723,7 @@
       "source": "Pathfinder #153: Life's Long Shadows",
       "prerequisites": [
         {
-          "value": "《秘術》と《製作》の専門家、またはそれらのスキルにおいてあなたを補強することを望む専門的なスキルを持つ味方"
+          "value": "《秘術》と《製作》のエキスパート、またはそれらのスキルにおいてあなたを補強することを望む専門的なスキルを持つ味方"
         }
       ]
     },
@@ -29801,7 +29801,7 @@
     },
     "Marshal Dedication": {
       "name": "マーシャル・デディケーション/Marshal Dedication",
-      "description": "<p>あなたは社会的スキルと戦闘訓練を組み合わせて、才能ある戦闘リーダーとなる。《交渉》または《威圧》を選ぶ。あなたはそのスキルにおいて訓練済みになり、すでに訓練済みであれば専門家になる。</p>\n<p>さらに、あなたは@Template[emanation|distance:15]の中で元帥のオーラに囲まれている。あなたのオーラは感情、精神、視覚のトレイトを持ち、あなたとオーラ内の味方に恐怖に対するセーヴィング・スローに +1の状態ボーナスを与える。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.1F84oh5hoG86mZIw]{Marshal}</p>",
+      "description": "<p>あなたは社会的スキルと戦闘訓練を組み合わせて、才能ある戦闘リーダーとなる。《交渉》または《威圧》を選ぶ。あなたはそのスキルにおいて訓練済みになり、すでに訓練済みであればエキスパートになる。</p>\n<p>さらに、あなたは@Template[emanation|distance:15]の中で元帥のオーラに囲まれている。あなたのオーラは感情、精神、視覚のトレイトを持ち、あなたとオーラ内の味方に恐怖に対するセーヴィング・スローに +1の状態ボーナスを与える。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.1F84oh5hoG86mZIw]{Marshal}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -29996,7 +29996,7 @@
     },
     "Tales of the Road": {
       "name": "テイルズ・オブ・ザ・ロード/Tales of the Road",
-      "description": "<p>イストラレイの祝福は、すべての集落の根底にある物語の鼓動とあなたを結びつける。あなたが訪れたことのある都市について@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}ための判定を行う際、あなたは+2の状況ボーナスを得る。また、たとえあなたが未習熟度であっても、ネロシアン《専門知識》スキル(ネロスヤンの《専門知識》など)を、あなたのレベルを習熟ボーナスとして使用して行うことができる。</p>",
+      "description": "<p>イストラレイの祝福は、すべての集落の根底にある物語の鼓動とあなたを結びつける。あなたが訪れたことのある都市について@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}ための判定を行う際、あなたは+2の状況ボーナスを得る。また、たとえあなたが未訓練であっても、ネロシアン《専門知識》スキル(ネロスヤンの《専門知識》など)を、あなたのレベルを習熟ボーナスとして使用して行うことができる。</p>",
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
         {
@@ -30483,7 +30483,7 @@
     },
     "Devil's Eye": {
       "name": "デビルズ・アイ/Devil's Eye",
-      "description": "<p>あなたはデヴィルと交渉する際の経験によって、今やあなたの左目に悪意ある力が宿った。その目は通常の目と同じ形状と虹彩の色をしているが、白ではなく深紅の強膜と、狭い縦のスリットの瞳孔を持っている。その目は、より良いことを知らないかわいそうなクリーチャーを捕らえるために使われる抜け穴や法的手続きについての異常な理解を授ける。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.BKMxC0ZvdYfdhx7C]{〈オブジェクション〉}リアクションを得る。あなたはまた、法的《専門知識》の専門家になり、条約、契約、または同様の文書を読むまたは交渉するために行うすべての判定に+1の状況ボーナスを得る。7レベルであなたは法的《専門知識》の達人となり、15レベルであなたは法的《専門知識》で伝説的になる。あなたは会話の中で言葉の抜け穴、二重の意味、隠喩、暗号、矛盾を検出するために法的《専門知識》を知覚の代わりに使用することができる。これにより暗号化された発言を完全に理解することはできないが、それが存在することを警告する。</p>",
+      "description": "<p>あなたはデヴィルと交渉する際の経験によって、今やあなたの左目に悪意ある力が宿った。その目は通常の目と同じ形状と虹彩の色をしているが、白ではなく深紅の強膜と、狭い縦のスリットの瞳孔を持っている。その目は、より良いことを知らないかわいそうなクリーチャーを捕らえるために使われる抜け穴や法的手続きについての異常な理解を授ける。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.BKMxC0ZvdYfdhx7C]{〈オブジェクション〉}リアクションを得る。あなたはまた、法的《専門知識》のエキスパートになり、条約、契約、または同様の文書を読むまたは交渉するために行うすべての判定に+1の状況ボーナスを得る。7レベルであなたは法的《専門知識》の達人となり、15レベルであなたは法的《専門知識》でレジェンダリーになる。あなたは会話の中で言葉の抜け穴、二重の意味、隠喩、暗号、矛盾を検出するために法的《専門知識》を知覚の代わりに使用することができる。これにより暗号化された発言を完全に理解することはできないが、それが存在することを警告する。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -31080,7 +31080,7 @@
     },
     "Scorching Disarm": {
       "name": "スコーチング・ディスアーム/Scorching Disarm",
-      "description": "<p><strong>使用制限</strong>一日一回</p>\n<hr />\n<p>あなたは武器を持つことが耐えられなくなるようにする。対象のクリーチャーに対して〔ディスアーム〕を行うための《運動》判定を行う。この〔ディスアーム〕の試みを行うために、手を自由にする必要はない。〔ディスアーム〕の試みが成功した場合、対象は武器を落とさない限り@Damage[4d6[fire]]ダメージを受け、クリティカル成功した場合、@Damage[4d6[fire]]ダメージを受け、武器を落とす。あなたが《運動》において伝説的であるなら、これが@Damage[8d6[fire]]ダメージに増加する。</p>",
+      "description": "<p><strong>使用制限</strong>一日一回</p>\n<hr />\n<p>あなたは武器を持つことが耐えられなくなるようにする。対象のクリーチャーに対して〔ディスアーム〕を行うための《運動》判定を行う。この〔ディスアーム〕の試みを行うために、手を自由にする必要はない。〔ディスアーム〕の試みが成功した場合、対象は武器を落とさない限り@Damage[4d6[fire]]ダメージを受け、クリティカル成功した場合、@Damage[4d6[fire]]ダメージを受け、武器を落とす。あなたが《運動》においてレジェンダリーであるなら、これが@Damage[8d6[fire]]ダメージに増加する。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Improbable Elixirs": {
@@ -31113,7 +31113,7 @@
     },
     "Train Animal": {
       "name": "動物の訓練/Train Animal",
-      "description": "<p>あなたは動物に特定のアクションを教えるための時間を使う。あなたは、動物がすでに知っている基本的なアクション(通常は@UUID[Compendium.pf2e.actionspf2e.Item.q9nbyIF0PEBqMtYe]{コマンド an 動物}アクションにリストされている)を選ぶか、動物に新しい基本的なアクションを教えようとする。GMは必要なDCの判定と、訓練にかかる時間(通常は少なくとも1週間)を決定する。クリティカルシンキングを使うトリックを動物に教えることは通常不可能である。あなたが《自然》において専門家、達人、または伝説的であれば、GMの裁量により、より珍しいクリーチャーを訓練できるかもしれない。</p>\n<hr />\n<p><strong>成功</strong>その動物はそのアクションを学ぶ。もしそれが動物がすでに知っているアクションであれば、あなたはその動物に対してそのアクションを取るよう指示できるが、《自然》の判定を行う必要はない。もしそれが新しい基本的なアクションであれば、そのアクションを動物が指示を受けたときに行えるアクションに追加するが、あなたはまだロールを行わなければならない。</p>\n<p><strong>失敗</strong>その動物はトリックを学ばない。</p>",
+      "description": "<p>あなたは動物に特定のアクションを教えるための時間を使う。あなたは、動物がすでに知っている基本的なアクション(通常は@UUID[Compendium.pf2e.actionspf2e.Item.q9nbyIF0PEBqMtYe]{コマンド an 動物}アクションにリストされている)を選ぶか、動物に新しい基本的なアクションを教えようとする。GMは必要なDCの判定と、訓練にかかる時間(通常は少なくとも1週間)を決定する。クリティカルシンキングを使うトリックを動物に教えることは通常不可能である。あなたが《自然》においてエキスパート、マスター、またはレジェンダリーであれば、GMの裁量により、より珍しいクリーチャーを訓練できるかもしれない。</p>\n<hr />\n<p><strong>成功</strong>その動物はそのアクションを学ぶ。もしそれが動物がすでに知っているアクションであれば、あなたはその動物に対してそのアクションを取るよう指示できるが、《自然》の判定を行う必要はない。もしそれが新しい基本的なアクションであれば、そのアクションを動物が指示を受けたときに行えるアクションに追加するが、あなたはまだロールを行わなければならない。</p>\n<p><strong>失敗</strong>その動物はトリックを学ばない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -31153,7 +31153,7 @@
     },
     "Snare Commando": {
       "name": "スネア・コマンドー/Snare Commando",
-      "description": "<p><strong>トリガー</strong>クリーチャーがあなたの罠に対するセーヴに失敗するか大失敗した。</p>\n<hr />\n<p>あなたの罠は非常に当惑させるものであるため、犠牲者があなたが視界から消えることに気づくことはめったにない。もしあなたが《欺瞞》の熟練の習熟度を持っているなら、トリガーとなったクリーチャーに対して〈注意をそらす〉を行える。もしあなたが《威圧》の熟練の習熟度を持っているなら、代わりにトリガーとなったクリーチャーに対して〈怯ませる〉を行える。両方の習熟度を持っているなら、2つの効果のうち1つを選択すること。</p>",
+      "description": "<p><strong>トリガー</strong>クリーチャーがあなたの罠に対するセーヴに失敗するか大失敗した。</p>\n<hr />\n<p>あなたの罠は非常に当惑させるものであるため、犠牲者があなたが視界から消えることに気づくことはめったにない。もしあなたが《欺瞞》のエキスパート習熟度を持っているなら、トリガーとなったクリーチャーに対して〈注意をそらす〉を行える。もしあなたが《威圧》のエキスパート習熟度を持っているなら、代わりにトリガーとなったクリーチャーに対して〈怯ませる〉を行える。両方の習熟度を持っているなら、2つの効果のうち1つを選択すること。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide",
       "prerequisites": [
         {
@@ -31371,7 +31371,7 @@
     },
     "Triumphant Boast": {
       "name": "トライアンファント・ボースト/Triumphant Boast",
-      "description": "<p>あなたは強力な敵に対する勝利の壮大な話を述べる。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{〈芸をする〉}を行う際、あなたの周囲30フィートの単一の対象を選び、あなたの《芸能》判定の結果をその観察者の意志 DCと比較する。あなたが《芸能》に達人であれば、最大で4つの対象を選ぶことができ、レジェンダリーであれば任意の数の対象を選ぶことができる。あなたが成功した場合、次の24時間内にそのクリーチャーに対して行うすべての@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}の試みは +1の状況ボーナスを得る。あなたの魅力スコアが20以上であり、また《芸能》に達人であれば、このボーナスは +2に増加する。クリーチャーがこのように誇られた場合、それは一時的な免疫になり、今後の勝利の誇大宣伝に対して24時間になる。</p>",
+      "description": "<p>あなたは強力な敵に対する勝利の壮大な話を述べる。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{〈芸をする〉}を行う際、あなたの周囲30フィートの単一の対象を選び、あなたの《芸能》判定の結果をその観察者の意志 DCと比較する。あなたが《芸能》にマスターであれば、最大で4つの対象を選ぶことができ、レジェンダリーであれば任意の数の対象を選ぶことができる。あなたが成功した場合、次の24時間内にそのクリーチャーに対して行うすべての@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}の試みは +1の状況ボーナスを得る。あなたの魅力スコアが20以上であり、また《芸能》にマスターであれば、このボーナスは +2に増加する。クリーチャーがこのように誇られた場合、それは一時的な免疫になり、今後の勝利の誇大宣伝に対して24時間になる。</p>",
       "source": "Pathfinder Kingmaker",
       "prerequisites": [
         {
@@ -31778,7 +31778,7 @@
     },
     "Gather Disciples": {
       "name": "ギャザー・ディサイプルズ/Gather Disciples",
-      "description": "<p>神々には信者が必要であり、あなたは自身の努力を支えるために、現在、信徒の群れを集めるのが最善であることを知っている。もちろん、あなたが真の神格となった暁には、彼らの信仰に報いることになるだろう。あなたは入植地で1週間のダウンタイムを費やし、自身の神性の到来を説き、あなたの信仰に対する少人数の弟子グループを設立できる。このグループが設立されると、これらの弟子たちは常にあなたにとって協力的になる。あなたは《宗教》を使用して彼らに[[/act request skill=religion]]ことができるが、その要請は、GMの裁量により、あなたに従うような人々が行えるものでなければならない。この判定に大成功した場合、弟子たちは有益な助言をくれるか、小さな秘密を教えてくれる。これにより、あなたまたはあなたのパーティのメンバーは、その好意に基づいて最初に行うスキル判定に+2の状況ボーナスを得る。この判定に大失敗した場合でも、弟子たちのあなたに対する態度は悪化しない。</p>\n<p>あなたは一度に3つの弟子グループを持つことができる(《宗教》が伝説的であれば5つ)。この数を超えた場合、最も古いグループは解散し、その入植地に戻った場合に再度設立しなければならない。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.cGiutpTMkbnxwR04]{効果: 弟子の収集}</p>",
+      "description": "<p>神々には信者が必要であり、あなたは自身の努力を支えるために、現在、信徒の群れを集めるのが最善であることを知っている。もちろん、あなたが真の神格となった暁には、彼らの信仰に報いることになるだろう。あなたは入植地で1週間のダウンタイムを費やし、自身の神性の到来を説き、あなたの信仰に対する少人数の弟子グループを設立できる。このグループが設立されると、これらの弟子たちは常にあなたにとって協力的になる。あなたは《宗教》を使用して彼らに[[/act request skill=religion]]ことができるが、その要請は、GMの裁量により、あなたに従うような人々が行えるものでなければならない。この判定に大成功した場合、弟子たちは有益な助言をくれるか、小さな秘密を教えてくれる。これにより、あなたまたはあなたのパーティのメンバーは、その好意に基づいて最初に行うスキル判定に+2の状況ボーナスを得る。この判定に大失敗した場合でも、弟子たちのあなたに対する態度は悪化しない。</p>\n<p>あなたは一度に3つの弟子グループを持つことができる(《宗教》がレジェンダリーであれば5つ)。この数を超えた場合、最も古いグループは解散し、その入植地に戻った場合に再度設立しなければならない。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.cGiutpTMkbnxwR04]{効果: 弟子の収集}</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -31849,7 +31849,7 @@
     },
     "Cut them Down, Burn them Out": {
       "name": "カット・ゼム・ダウン、バーン・ゼム・アウト/Cut them Down, Burn them Out",
-      "description": "<p>真紅の誓いの第6節に触発され、ラストウォールの敵と対峙する際、あなたは大地そのものから腐敗を取り除くことを目指す。あなたが習熟ランク「達人」を持つ武器を使用して、アンデッドクリーチャーに対して〈ストライク〉を行う。成功した場合、攻撃の他の効果に加えて、そのクリーチャーは自身が与えるあらゆる呪い、病気、毒のDCに対して、1ラウンドの間、–2の状況ペナルティを受ける。大成功した場合、そのアンデッドクリーチャーは1ラウンドの間その–2の状況ペナルティを受け、その後、追加でラウンドの間、–1の状況ペナルティを受ける。</p>",
+      "description": "<p>真紅の誓いの第6節に触発され、ラストウォールの敵と対峙する際、あなたは大地そのものから腐敗を取り除くことを目指す。あなたが習熟ランクマスターを持つ武器を使用して、アンデッドクリーチャーに対して〈ストライク〉を行う。成功した場合、攻撃の他の効果に加えて、そのクリーチャーは自身が与えるあらゆる呪い、病気、毒のDCに対して、1ラウンドの間、–2の状況ペナルティを受ける。大成功した場合、そのアンデッドクリーチャーは1ラウンドの間その–2の状況ペナルティを受け、その後、追加でラウンドの間、–1の状況ペナルティを受ける。</p>",
       "source": "Pathfinder Claws of the Tyrant",
       "prerequisites": [
         {
@@ -32954,7 +32954,7 @@
     },
     "Eye of the Arclords": {
       "name": "アイ・オブ・ジ・アークローズ/Eye of the Arclords",
-      "description": "<p><strong>使用制限</strong>日に1回</p>\n<p><strong>アクセス</strong>あなたはネックスのアルクローズのメンバーである。</p>\n<hr />\n<p>あなたはおでこに輝く第三の目を開く。</p>\n<p>その目は1分の間開いたままでいることができ、あなたは集中トレイトの1アクションでそれを閉じることができる。あなたが《秘術》のマスターであれば2分間、伝説的であれば5分の間開いていることができる。</p>\n<p>目が開いている間、あなたは次の恩恵を得る：</p>\n<ul>\n<li>あなたは毎ターンの開始時に、呪文を発動する必要なく、あなたのアーケイン感覚から detect magicの秘術の効果を得る；</li>\n<li>あなたはダークビジョンを得る；</li>\n<li>あなたは〔見回す〕のための知覚判定に+2の状況ボーナスを得て、〔隠れる〕と〔忍び歩き〕に対する知覚 DCに+2の状況ボーナスを得る。</li>\n</ul>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.5IGz4iheaiUWm5KR]{効果: Eye of the Arclords}</p>\n<p>あなたの第三の目が閉じた後、あなたは目を開けていた時間と同じ量の間眩惑を受ける。</p>",
+      "description": "<p><strong>使用制限</strong>日に1回</p>\n<p><strong>アクセス</strong>あなたはネックスのアルクローズのメンバーである。</p>\n<hr />\n<p>あなたはおでこに輝く第三の目を開く。</p>\n<p>その目は1分の間開いたままでいることができ、あなたは集中トレイトの1アクションでそれを閉じることができる。あなたが《秘術》のマスターであれば2分間、レジェンダリーであれば5分の間開いていることができる。</p>\n<p>目が開いている間、あなたは次の恩恵を得る：</p>\n<ul>\n<li>あなたは毎ターンの開始時に、呪文を発動する必要なく、あなたのアーケイン感覚から detect magicの秘術の効果を得る；</li>\n<li>あなたはダークビジョンを得る；</li>\n<li>あなたは〔見回す〕のための知覚判定に+2の状況ボーナスを得て、〔隠れる〕と〔忍び歩き〕に対する知覚 DCに+2の状況ボーナスを得る。</li>\n</ul>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.5IGz4iheaiUWm5KR]{効果: Eye of the Arclords}</p>\n<p>あなたの第三の目が閉じた後、あなたは目を開けていた時間と同じ量の間眩惑を受ける。</p>",
       "selfEffect": "効果: アークローズの目",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
@@ -33256,7 +33256,7 @@
     },
     "Quick Climb": {
       "name": "クイック・クライム/Quick Climb",
-      "description": "<p>登攀する際、成功時に5フィート、クリティカル成功時に10フィート追加で移動することができ、最大あなたの移動速度まで移動できる。もしあなたが《運動》において伝説的であれば、あなたは登攀移動速度をあなたの移動速度に等しく得る。</p>",
+      "description": "<p>登攀する際、成功時に5フィート、クリティカル成功時に10フィート追加で移動することができ、最大あなたの移動速度まで移動できる。もしあなたが《運動》においてレジェンダリーであれば、あなたは登攀移動速度をあなたの移動速度に等しく得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -33517,7 +33517,7 @@
     },
     "Sanctify Water": {
       "name": "サンクティファイ・ウォーター/Sanctify Water",
-      "description": "<p>あなたは水にあなたの神格の祝福を与える。あなたまたはあなたの味方が持っている光バルクを含む水の入った容器を選択する。次のあなたのターンの終了まで、それは聖水または邪水となる。あなたの神格が聖なる聖化を許可する場合は聖水を選択し、あなたの神格が邪なる聖化を許可する場合は邪水を選択し、またはあなたの神格が両方の聖化を許可する場合はどちらかを選択する。この効果は一時的なもので、金銭的価値を与えたり、儀式などのコストに使用したりすることはできない。あなたが《宗教》の達人であれば、このアクションを取る際に2つの容器を聖化することができ、レジェンダリーであれば3つの容器を聖化できる。</p>",
+      "description": "<p>あなたは水にあなたの神格の祝福を与える。あなたまたはあなたの味方が持っている光バルクを含む水の入った容器を選択する。次のあなたのターンの終了まで、それは聖水または邪水となる。あなたの神格が聖なる聖化を許可する場合は聖水を選択し、あなたの神格が邪なる聖化を許可する場合は邪水を選択し、またはあなたの神格が両方の聖化を許可する場合はどちらかを選択する。この効果は一時的なもので、金銭的価値を与えたり、儀式などのコストに使用したりすることはできない。あなたが《宗教》のマスターであれば、このアクションを取る際に2つの容器を聖化することができ、レジェンダリーであれば3つの容器を聖化できる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -33658,7 +33658,7 @@
     },
     "Veil May": {
       "name": "ベール・メイ/Veil May",
-      "description": "<p>血の魔女、偽りの皮の裏に隠れた燃え盛る血を飲む者から生まれたあなたは、1つの血のように赤い目と、外見を一瞬で脱ぎ捨てる能力を持っている。</p>\n<p>あなたは@UUID[Compendium.pf2e.feats-srd.Item.Dvz54d6aPhjsmUux]{ライ・トゥ・ミー}スキル特技を得て、外皮の外層を剥がすことで素早く変装を解くことができる。</p>\n<p> @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}から真の姿に戻るのはあなたにとって3アクション活動であり、もしあなたが《欺瞞》の専門家であればそれは2アクション活動であり、また《欺瞞》において伝説的であれば、それはたった1回のアクションで済む。これは、鎧やその他の装備品を早く着たり脱いだりすることを許可しないが、物理的な外見はそれ以外は通常の状態に戻る。</p>",
+      "description": "<p>血の魔女、偽りの皮の裏に隠れた燃え盛る血を飲む者から生まれたあなたは、1つの血のように赤い目と、外見を一瞬で脱ぎ捨てる能力を持っている。</p>\n<p>あなたは@UUID[Compendium.pf2e.feats-srd.Item.Dvz54d6aPhjsmUux]{ライ・トゥ・ミー}スキル特技を得て、外皮の外層を剥がすことで素早く変装を解くことができる。</p>\n<p> @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{〈なりすます〉}から真の姿に戻るのはあなたにとって3アクション活動であり、もしあなたが《欺瞞》のエキスパートであればそれは2アクション活動であり、また《欺瞞》においてレジェンダリーであれば、それはたった1回のアクションで済む。これは、鎧やその他の装備品を早く着たり脱いだりすることを許可しないが、物理的な外見はそれ以外は通常の状態に戻る。</p>",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Necromantic Tenacity": {
@@ -33898,7 +33898,7 @@
     },
     "Artery Map": {
       "name": "アーテリー・マップ/Artery Map",
-      "description": "<p>あなたは、メスが外科手術で広範囲の出血を引き起こす場所をすべて学んだが、その知識は他の目的にも役立つ。あなたが@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}クリーチャーに対して短剣種の武器で 〔ストライク〕 を行ったとき、あなたは1d6の持続出血ダメージを与える。このダメージは、あなたがメディスンのうち伝説的であるときに1d10に増加する。</p>",
+      "description": "<p>あなたは、メスが外科手術で広範囲の出血を引き起こす場所をすべて学んだが、その知識は他の目的にも役立つ。あなたが@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}クリーチャーに対して短剣種の武器で 〔ストライク〕 を行ったとき、あなたは1d6の持続出血ダメージを与える。このダメージは、あなたがメディスンでレジェンダリーであるときに1d10に増加する。</p>",
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
         {
@@ -34111,7 +34111,7 @@
     },
     "Aldori Duelist Dedication": {
       "name": "アルドリ・デュエリスト・デディケーション/Aldori Duelist Dedication",
-      "description": "<p><strong>アクセス</strong>あなたは破損の土地地域出身である。</p><hr /><p>あなたのアルドリデュエリストの訓練は武術の技術を教え、アルドリデュエリングソードへの献身を増加させる。あなたは訓練済みとして選んだ《軽業》または《運動》になる。もしすでにそのスキルにおいて訓練済みであったなら、あなたは代わりに専門家になる。あなたはデュエリング《専門知識》のための@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}特技を得る。もしすでにデュエリング《専門知識》において訓練済みであったなら、あなたは選んだロアスキルにおいても訓練済みになる。</p>\n<p>あなたはアルドリデュエリングソードに精通しており、それらを熟練の武器として扱う。あなたは@UUID[Compendium.pf2e.equipment-srd.Item.iSceAVMkVv1uKK7t]{アルドリ・デュエリング・ソード}にアクセスできる。</p>",
+      "description": "<p><strong>アクセス</strong>あなたは破損の土地地域出身である。</p><hr /><p>あなたのアルドリデュエリストの訓練は武術の技術を教え、アルドリデュエリングソードへの献身を増加させる。あなたは訓練済みとして選んだ《軽業》または《運動》になる。もしすでにそのスキルにおいて訓練済みであったなら、あなたは代わりにエキスパートになる。あなたはデュエリング《専門知識》のための@UUID[Compendium.pf2e.feats-srd.Item.BocFD2KV0qgUC76x]{アディショナル・ロア}特技を得る。もしすでにデュエリング《専門知識》において訓練済みであったなら、あなたは選んだロアスキルにおいても訓練済みになる。</p>\n<p>あなたはアルドリデュエリングソードに精通しており、それらを熟練の武器として扱う。あなたは@UUID[Compendium.pf2e.equipment-srd.Item.iSceAVMkVv1uKK7t]{アルドリ・デュエリング・ソード}にアクセスできる。</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
@@ -34341,7 +34341,7 @@
     },
     "Bonded Animal": {
       "name": "動物との絆/Bonded Animal",
-      "description": "<p>あなたは動物との強い関係を築く。普通の動物(仲間や特別な動物でない)と定期的に関わる変化のあるダウntimeの7日を過ごすことができる。その動物があなたに友好的または助けになる場合、次に動物の意志DCに対して@Check[nature|defense:will]判定を行う。成功した場合、その動物と絆を結ぶ。その動物は別の動物と絆を形成するか、絆を壊すほどの重大なことをするまで、あなたに永続的に結びつく。</p>\n<p>助けになる動物は扱いやすい。あなたの結びついた動物がレベル –1の場合、それはミニオントレイトを得て、より効率的に命令できる。もしあなたが《自然》の達人であるなら、ミニオンとして使用できるクリーチャーの最大レベルは3に、伝説の達人であれば11に増加する。</p>\n<hr />\n<p><strong>特別</strong>あなたは結びついた動物と動物の仲間を持つことはできない(しかし、結びついた動物とペットまたは使い魔を両方持つことはできる)。</p>",
+      "description": "<p>あなたは動物との強い関係を築く。普通の動物(仲間や特別な動物でない)と定期的に関わる変化のあるダウntimeの7日を過ごすことができる。その動物があなたに友好的または助けになる場合、次に動物の意志DCに対して@Check[nature|defense:will]判定を行う。成功した場合、その動物と絆を結ぶ。その動物は別の動物と絆を形成するか、絆を壊すほどの重大なことをするまで、あなたに永続的に結びつく。</p>\n<p>助けになる動物は扱いやすい。あなたの結びついた動物がレベル –1の場合、それはミニオントレイトを得て、より効率的に命令できる。もしあなたが《自然》のマスターであるなら、ミニオンとして使用できるクリーチャーの最大レベルは3に、レジェンダリーであれば11に増加する。</p>\n<hr />\n<p><strong>特別</strong>あなたは結びついた動物と動物の仲間を持つことはできない(しかし、結びついた動物とペットまたは使い魔を両方持つことはできる)。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -34542,7 +34542,7 @@
     },
     "Undead Slayer Dedication": {
       "name": "アンデッド・スレイヤー・デディケーション/Undead Slayer Dedication",
-      "description": "<p>あなたの訓練は、ほとんどのアンデッドを目視で認識する準備を整えている。あなたは、特定のタイプのアンデッドについて各2つのロアスキルで訓練済みになるか、既に訓練済みであった場合には専門家になる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.JpcegMRqdizrkG0m]{〈スレイヤーズ・アイデンティフィケーション〉}フリー・アクションを得る。</p>\n<p><strong>特別</strong>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.mV0K9sxD3TWnZDcy]{Undead Slayer}アーキタイプから他の2つのフィートを得るまで、別の献身フィートを選ぶことはできない。</p>",
+      "description": "<p>あなたの訓練は、ほとんどのアンデッドを目視で認識する準備を整えている。あなたは、特定のタイプのアンデッドについて各2つのロアスキルで訓練済みになるか、既に訓練済みであった場合にはエキスパートになる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.JpcegMRqdizrkG0m]{〈スレイヤーズ・アイデンティフィケーション〉}フリー・アクションを得る。</p>\n<p><strong>特別</strong>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.mV0K9sxD3TWnZDcy]{Undead Slayer}アーキタイプから他の2つのフィートを得るまで、別の献身フィートを選ぶことはできない。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
         {
@@ -34676,7 +34676,7 @@
     },
     "Archaeologist Dedication": {
       "name": "アーキオロジスト・デディケーション/Archaeologist Dedication",
-      "description": "<p>あなたは人々とその歴史の学徒であり、過去の知識や遺物を常に追求している。あなたはソサイエティと《盗賊術》の専門家になり、古代の歴史、人々、文化に関する@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}に+1の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.O79hOcsaQyj3aQC5]{Archaeologist}</p>",
+      "description": "<p>あなたは人々とその歴史の学徒であり、過去の知識や遺物を常に追求している。あなたはソサイエティと《盗賊術》のエキスパートになり、古代の歴史、人々、文化に関する@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}に+1の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.O79hOcsaQyj3aQC5]{Archaeologist}</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -35265,7 +35265,7 @@
     },
     "Lion's Might": {
       "name": "ライオンズ・マイト/Lion's Might",
-      "description": "<p>あなたはブライトライオンズの武器で訓練済みを持っている。あなたは@UUID[Compendium.pf2e.equipment-srd.Item.Ak3oHoPDJoMR14yg]{ライオン・サイズ}と@UUID[Compendium.pf2e.equipment-srd.Item.zWp7Kcn7mhKyGFxW]{サン・スリング}にアクセスできる。特定の武器に対する専門家またはそれ以上の習熟度を与えるクラスフィーチャーを得るたびに、あなたはライオンの鎌と太陽のスリングに対してその習熟ランクも得る。</p>",
+      "description": "<p>あなたはブライトライオンズの武器で訓練済みを持っている。あなたは@UUID[Compendium.pf2e.equipment-srd.Item.Ak3oHoPDJoMR14yg]{ライオン・サイズ}と@UUID[Compendium.pf2e.equipment-srd.Item.zWp7Kcn7mhKyGFxW]{サン・スリング}にアクセスできる。特定の武器に対するエキスパートまたはそれ以上の習熟度を与えるクラスフィーチャーを得るたびに、あなたはライオンの鎌と太陽のスリングに対してその習熟ランクも得る。</p>",
       "source": "Pathfinder #172: Secrets of the Temple-City",
       "prerequisites": [
         {
@@ -35356,7 +35356,7 @@
     },
     "Energy Fortification": {
       "name": "エナジー・フォーティフィケーション/Energy Fortification",
-      "description": "<p><strong>アクセス</strong>ミンカイまたは精霊の森の起源</p><hr /><p>あなたは虚無についてのミンカイの伝統を学び、身体の生命力と虚無のエネルギーを強化するために五つの元素を操作する方法を知っている。あなたが@UUID[Compendium.pf2e.feats-srd.Item.NMbOfl885pn0Yzu9]{プリペア・エレメンタル・メディスン}を使用する時、通常のスキルの代わりに@Check[occultism]を使うことを選ぶことができる。もしそうした場合、薬は受取人に耐性2と弱点2を与えるが、これはあなたが選んだ元素に基づいている。木、土、水の元素の薬は、 耐性を虚無ダメージに、 弱点を生命ダメージに与え、そして生きた受取人はその期間中生命ダメージに対する免疫を失う。火または金属の元素の薬は、 耐性を生命ダメージに、 弱点を虚無ダメージに与え、そしてアンデッドの受取人はその期間中虚無ダメージに対する免疫を失う。</p>\n<p>あなたが《オカルト学》において達人であるなら、 耐性と弱点を4に増加させる。レジェンダリーであるなら、代わりにそれらを8に増加させる。</p>",
+      "description": "<p><strong>アクセス</strong>ミンカイまたは精霊の森の起源</p><hr /><p>あなたは虚無についてのミンカイの伝統を学び、身体の生命力と虚無のエネルギーを強化するために五つの元素を操作する方法を知っている。あなたが@UUID[Compendium.pf2e.feats-srd.Item.NMbOfl885pn0Yzu9]{プリペア・エレメンタル・メディスン}を使用する時、通常のスキルの代わりに@Check[occultism]を使うことを選ぶことができる。もしそうした場合、薬は受取人に耐性2と弱点2を与えるが、これはあなたが選んだ元素に基づいている。木、土、水の元素の薬は、 耐性を虚無ダメージに、 弱点を生命ダメージに与え、そして生きた受取人はその期間中生命ダメージに対する免疫を失う。火または金属の元素の薬は、 耐性を生命ダメージに、 弱点を虚無ダメージに与え、そしてアンデッドの受取人はその期間中虚無ダメージに対する免疫を失う。</p>\n<p>あなたが《オカルト学》においてマスターであるなら、 耐性と弱点を4に増加させる。レジェンダリーであるなら、代わりにそれらを8に増加させる。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -35971,7 +35971,7 @@
     },
     "Reclaimant Plea": {
       "name": "リクレイマント・プリー/Reclaimant Plea",
-      "description": "<p>あなたはクリムゾン・オースの力を呼び出して魔法の支援を得る。以下の呪文の中から1つを選ぶ：@UUID[Compendium.pf2e.spells-srd.Item.b5sGjGlBf58f8jn0]{エア・ウォーク}、@UUID[Compendium.pf2e.spells-srd.Item.ksLCg62cLOojw3gN]{プレーナー・テザー}、@UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]{アンフェタード・ムーブメント}、@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{インビジビリティ}、@UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{クレンズ・アフリクション}、@UUID[Compendium.pf2e.spells-srd.Item.DyiD239dNS7RIxZE]{ホーリー・ライト}。あなたは、その呪文を4級の神聖な固有呪文として1日に1回キャストできる。14レベルで、その呪文は5レベルに高位化し、16レベルで、呪文は6レベルに高位化する。クリムゾン・オースの力の神秘的な源を怒らせた場合、あなたはその呪文をキャストする能力を失い、贖罪するまでその能力を回復できない。</p>\n<p> <strong>特別</strong>あなたは、14レベルでこの特技を2回目に選ぶことができ、上記のリストから異なる2番目の呪文を得る、@UUID[Compendium.pf2e.spells-srd.Item.YvXKGlHOt7mdW2jZ]{デス・ウォード}、または@UUID[Compendium.pf2e.spells-srd.Item.E3X2RbzWHCdz7gsk]{フレイム・ストライク}、それを1日に1回キャストできる。あなたは呪文攻撃修正値とDCのエキスパートにもなる。あなたは18レベルでこの特技を3回目に選ぶことができ、上記のリストから3番目の呪文を得る、<em>デス・ワード</em>、<em>フレイム・ストライク</em>、または@UUID[Compendium.pf2e.spells-srd.Item.a3aQxCpoj1q1NQxC]{サンバースト}、それを1日に1回キャストする。また、この特技のすべての呪文は7レベルに高位化し、呪文攻撃修正値とDCの達人になる。</p>",
+      "description": "<p>あなたはクリムゾン・オースの力を呼び出して魔法の支援を得る。以下の呪文の中から1つを選ぶ：@UUID[Compendium.pf2e.spells-srd.Item.b5sGjGlBf58f8jn0]{エア・ウォーク}、@UUID[Compendium.pf2e.spells-srd.Item.ksLCg62cLOojw3gN]{プレーナー・テザー}、@UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]{アンフェタード・ムーブメント}、@UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{インビジビリティ}、@UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{クレンズ・アフリクション}、@UUID[Compendium.pf2e.spells-srd.Item.DyiD239dNS7RIxZE]{ホーリー・ライト}。あなたは、その呪文を4級の神聖な固有呪文として1日に1回キャストできる。14レベルで、その呪文は5レベルに高位化し、16レベルで、呪文は6レベルに高位化する。クリムゾン・オースの力の神秘的な源を怒らせた場合、あなたはその呪文をキャストする能力を失い、贖罪するまでその能力を回復できない。</p>\n<p> <strong>特別</strong>あなたは、14レベルでこの特技を2回目に選ぶことができ、上記のリストから異なる2番目の呪文を得る、@UUID[Compendium.pf2e.spells-srd.Item.YvXKGlHOt7mdW2jZ]{デス・ウォード}、または@UUID[Compendium.pf2e.spells-srd.Item.E3X2RbzWHCdz7gsk]{フレイム・ストライク}、それを1日に1回キャストできる。あなたは呪文攻撃修正値とDCのエキスパートにもなる。あなたは18レベルでこの特技を3回目に選ぶことができ、上記のリストから3番目の呪文を得る、<em>デス・ワード</em>、<em>フレイム・ストライク</em>、または@UUID[Compendium.pf2e.spells-srd.Item.a3aQxCpoj1q1NQxC]{サンバースト}、それを1日に1回キャストする。また、この特技のすべての呪文は7レベルに高位化し、呪文攻撃修正値とDCのマスターになる。</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall",
       "prerequisites": [
         {
@@ -36014,7 +36014,7 @@
     },
     "Pathfinder Agent Dedication": {
       "name": "パスファインダー・エージェント・デディケーション/Pathfinder Agent Dedication",
-      "description": "<p><strong>アクセス</strong>アブサロム出身だ。</p><hr /><p>パスファインダーの訓練は、視野を広げ、様々なスキルにおいて柔軟にする。任務を完了するために隠れたスキルが必要になることがあるからだ。選択する1つのスキルで訓練済みになるか、または訓練済みであった選んだスキルで専門家になる。さらに、パスファインダー《専門知識》で訓練済みになり、もし既に訓練済みであれば専門家になる。未熟なスキルを使用する際、習熟ボーナスは0ではなくレベルに等しくなる。@UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{ウェイファインダー}にアクセスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.fTxZjmNLckRwZ4Po]{パスファインダー・エージェント}</p>",
+      "description": "<p><strong>アクセス</strong>アブサロム出身だ。</p><hr /><p>パスファインダーの訓練は、視野を広げ、様々なスキルにおいて柔軟にする。任務を完了するために隠れたスキルが必要になることがあるからだ。選択する1つのスキルで訓練済みになるか、または訓練済みであった選んだスキルでエキスパートになる。さらに、パスファインダー《専門知識》で訓練済みになり、もし既に訓練済みであればエキスパートになる。未熟なスキルを使用する際、習熟ボーナスは0ではなくレベルに等しくなる。@UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{ウェイファインダー}にアクセスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.fTxZjmNLckRwZ4Po]{パスファインダー・エージェント}</p>",
       "source": "Pathfinder Lost Omens World Guide",
       "prerequisites": [
         {
@@ -36034,7 +36034,7 @@
     },
     "The Harder They Fall (Kingmaker)": {
       "name": "ザ・ハーダー・ゼイ・フォール（キングメーカー）/The Harder They Fall (Kingmaker)",
-      "description": "<p>あなたは大きなクリーチャーが地面に落ちるときに痛めつける方法を知っている。もしあなたが成功して@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}した場合、あなたの敵は@Damage[1d8[bludgeoning]]のダメージを受ける(またはクリティカル成功の場合は@Damage[2d8[bludgeoning]]のダメージを受ける)。あなたが《運動》の達人であれば、ダメージは@Damage[2d8[bludgeoning]]のダメージに増加し(またはクリティカル成功の場合は@Damage[4d8[bludgeoning]]のダメージに増加する)。</p>",
+      "description": "<p>あなたは大きなクリーチャーが地面に落ちるときに痛めつける方法を知っている。もしあなたが成功して@UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{〈足払い〉}した場合、あなたの敵は@Damage[1d8[bludgeoning]]のダメージを受ける(またはクリティカル成功の場合は@Damage[2d8[bludgeoning]]のダメージを受ける)。あなたが《運動》のマスターであれば、ダメージは@Damage[2d8[bludgeoning]]のダメージに増加し(またはクリティカル成功の場合は@Damage[4d8[bludgeoning]]のダメージに増加する)。</p>",
       "source": "Pathfinder Kingmaker",
       "prerequisites": [
         {
@@ -36059,7 +36059,7 @@
     },
     "Intensified Element Stance": {
       "name": "インテンシファイド・エレメント・スタンス/Intensified Element Stance",
-      "description": "<p><strong>アクセス</strong>ティエン・シアの起源</p>\n<p><strong>必要条件</strong>あなたは最後の日課の準備の際に元素医療を受けた(詳細は@UUID[Compendium.pf2e.feats-srd.Item.NMbOfl885pn0Yzu9]{プリペア・エレメンタル・メディスン}を参照)。</p><hr /><p>あなたはあなたの体の中の元素医療を消費して攻撃を強化するが、翌日までさらに元素医療を消費できない。強化された元素構えの間に、あなたの攻撃とダメージ呪文は、消費した元素医療の種類に応じて特定のクリーチャーに対して追加の1d6のダメージを与える。元素医療を作成した人が使用したスキルで伝説的であった場合、このダメージを2d6に増加させる。</p><ul><li><strong>土</strong>水のクリーチャーに対して酸ダメージ</li><li><strong>火</strong>金属のクリーチャーおよび主に金属で構成された構造物に対して火炎ダメージ</li><li><strong>金属</strong>電撃ダメージ木または植物のクリーチャーおよび主に木や植物の物質で構成された構造物に対して電撃ダメージ</li><li><strong>水</strong>火のクリーチャーに対して音波ダメージ</li><li><strong>木</strong>地面や岩で主に作られたクリーチャーおよび構造物に対して冷気ダメージ</li></ul>",
+      "description": "<p><strong>アクセス</strong>ティエン・シアの起源</p>\n<p><strong>必要条件</strong>あなたは最後の日課の準備の際に元素医療を受けた(詳細は@UUID[Compendium.pf2e.feats-srd.Item.NMbOfl885pn0Yzu9]{プリペア・エレメンタル・メディスン}を参照)。</p><hr /><p>あなたはあなたの体の中の元素医療を消費して攻撃を強化するが、翌日までさらに元素医療を消費できない。強化された元素構えの間に、あなたの攻撃とダメージ呪文は、消費した元素医療の種類に応じて特定のクリーチャーに対して追加の1d6のダメージを与える。元素医療を作成した人が使用したスキルでレジェンダリーであった場合、このダメージを2d6に増加させる。</p><ul><li><strong>土</strong>水のクリーチャーに対して酸ダメージ</li><li><strong>火</strong>金属のクリーチャーおよび主に金属で構成された構造物に対して火炎ダメージ</li><li><strong>金属</strong>電撃ダメージ木または植物のクリーチャーおよび主に木や植物の物質で構成された構造物に対して電撃ダメージ</li><li><strong>水</strong>火のクリーチャーに対して音波ダメージ</li><li><strong>木</strong>地面や岩で主に作られたクリーチャーおよび構造物に対して冷気ダメージ</li></ul>",
       "selfEffect": "構え: 強化された元素構え",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
@@ -37812,7 +37812,7 @@
     },
     "Grave Threat": {
       "name": "グレイブ・スレット/Grave Threat",
-      "description": "<p>あなたは自身の威圧的な態度を用いて、アンデッドを敗北へと追い込む。あなたが習熟度「達人」を持つ武器を使用して、アンデッドクリーチャーに対して〈ストライク〉を行う。ヒットした場合、そのクリーチャーに対するすべてのストライクは、1ラウンドの間、@UUID[Compendium.pf2e.feats-srd.Item.xmccXo6U7P0IMM3z]{リーパー・オブ・リポーズ}の恩恵を得る。</p>",
+      "description": "<p>あなたは自身の威圧的な態度を用いて、アンデッドを敗北へと追い込む。あなたがマスター習熟度を持つ武器を使用して、アンデッドクリーチャーに対して〈ストライク〉を行う。ヒットした場合、そのクリーチャーに対するすべてのストライクは、1ラウンドの間、@UUID[Compendium.pf2e.feats-srd.Item.xmccXo6U7P0IMM3z]{リーパー・オブ・リポーズ}の恩恵を得る。</p>",
       "source": "Pathfinder Claws of the Tyrant",
       "prerequisites": [
         {
@@ -37887,7 +37887,7 @@
     },
     "Bounce Boost": {
       "name": "バウンス・ブースト/Bounce Boost",
-      "description": "<p><strong>トリガー</strong> 隣接する味方が[[/act high-jump]]または[[/act long-jump]]を行う。</p><hr /><p>あなたは、跳躍に助けを必要とする他者を助けるために、自身の運動能力とバネのある脚を使うことを学んだ。トリガーとなった味方は、@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}または@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を行うための《運動》判定に+1の状況ボーナスを得る。このボーナスは、あなたが《運動》に「達人」であれば+2に、あなたが「伝説」であれば+3に、あなたが「伝説」であれば+4に増加する(訳注：原文の記述に従い、習熟度に応じたボーナス増加を適用)。さらに、トリガーとなった味方が判定に成功した際の[[/act leap]]距離は、〈ハイジャンプ〉なら2フィート、5フィートなら〈ロングジャンプ〉(訳注：原文の記述に従い、〈ロングジャンプ〉の距離増加を適用)だけ増加する。これは、その味方が自身の陸上移動速度よりも遠くへ〈跳躍〉することを可能にする場合であっても適用される。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.HBec3M2J94NSG2u5]{効果: Bounce Boost}</p>",
+      "description": "<p><strong>トリガー</strong> 隣接する味方が[[/act high-jump]]または[[/act long-jump]]を行う。</p><hr /><p>あなたは、跳躍に助けを必要とする他者を助けるために、自身の運動能力とバネのある脚を使うことを学んだ。トリガーとなった味方は、@UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{〈ハイジャンプ〉}または@UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{〈ロングジャンプ〉}を行うための《運動》判定に+1の状況ボーナスを得る。このボーナスは、あなたが《運動》にマスターであれば+2に、あなたがレジェンダリーであれば+3に、あなたがレジェンダリーであれば+4に増加する(訳注：原文の記述に従い、習熟度に応じたボーナス増加を適用)。さらに、トリガーとなった味方が判定に成功した際の[[/act leap]]距離は、〈ハイジャンプ〉なら2フィート、5フィートなら〈ロングジャンプ〉(訳注：原文の記述に従い、〈ロングジャンプ〉の距離増加を適用)だけ増加する。これは、その味方が自身の陸上移動速度よりも遠くへ〈跳躍〉することを可能にする場合であっても適用される。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.HBec3M2J94NSG2u5]{効果: Bounce Boost}</p>",
       "source": "Pathfinder Lost Omens High Seas",
       "prerequisites": [
         {
@@ -38373,7 +38373,7 @@
     },
     "Menacing Prowess": {
       "name": "メナシング・プラウェス/Menacing Prowess",
-      "description": "<p>あなたは同時に複数の人々を怯ませるのが得意だ。あなたが〔怯ませる〕時、あなたは同時にあなたの周囲の30フィート以内の最大2体のクリーチャーを対象にすることができる。もしあなたが《威圧》の達人であれば、あなたは同時に最大4体のクリーチャーを〔怯ませる〕ことができる。もしあなたが伝説の存在であれば、あなたは同時に最大8体のクリーチャーを〔怯ませる〕ことができる。</p>",
+      "description": "<p>あなたは同時に複数の人々を怯ませるのが得意だ。あなたが〔怯ませる〕時、あなたは同時にあなたの周囲の30フィート以内の最大2体のクリーチャーを対象にすることができる。もしあなたが《威圧》のマスターであれば、あなたは同時に最大4体のクリーチャーを〔怯ませる〕ことができる。もしあなたが伝説の存在であれば、あなたは同時に最大8体のクリーチャーを〔怯ませる〕ことができる。</p>",
       "source": "Pathfinder #167: Ready? Fight!",
       "prerequisites": [
         {
@@ -38783,7 +38783,7 @@
     },
     "Food Preservation": {
       "name": "フード・プレザーベーション/Food Preservation",
-      "description": "<p>あなたの技術は、ピクルス、アルコール、または発酵によって特定の材料と食べ物の保存期間を延ばす。あなたが高度な錬金術を使用して錬金食品を作成する際、あなたは次に日課の準備を行うときに自動的に期限が切れない1つの浸漬アイテムを指定できる。この方法で別のアイテムを保存する場合、前のアイテムは食べられなくなる。</p>\n<p>あなたが日々の準備の間に保存できるアイテムの数と、古いアイテムが傷む前に保存できる最大のアイテム数は、あなたが《製作》またはクッキング《専門知識》の専門家である場合は2つに増え、マスターである場合は3つに、レジェンダリーである場合は5つに増える。</p>",
+      "description": "<p>あなたの技術は、ピクルス、アルコール、または発酵によって特定の材料と食べ物の保存期間を延ばす。あなたが高度な錬金術を使用して錬金食品を作成する際、あなたは次に日課の準備を行うときに自動的に期限が切れない1つの浸漬アイテムを指定できる。この方法で別のアイテムを保存する場合、前のアイテムは食べられなくなる。</p>\n<p>あなたが日々の準備の間に保存できるアイテムの数と、古いアイテムが傷む前に保存できる最大のアイテム数は、あなたが《製作》またはクッキング《専門知識》のエキスパートである場合は2つに増え、マスターである場合は3つに、レジェンダリーである場合は5つに増える。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -39287,7 +39287,7 @@
     },
     "Experienced Professional": {
       "name": "エクスペリエンスト・プロフェッショナル/Experienced Professional",
-      "description": "<p>あなたは災害を防ぐために自分の職業的な取り組みを慎重に守る。あなたが《専門知識》を使って@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}を行うとき、もしクリティカル失敗を出した場合、代わりに失敗となる。あなたが《専門知識》の専門家であるなら、失敗した判定から得る収入が2倍になる〔収入を得る〕、ただし元々クリティカル失敗であった場合は除く。</p>",
+      "description": "<p>あなたは災害を防ぐために自分の職業的な取り組みを慎重に守る。あなたが《専門知識》を使って@UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{〈収入を得る〉}を行うとき、もしクリティカル失敗を出した場合、代わりに失敗となる。あなたが《専門知識》のエキスパートであるなら、失敗した判定から得る収入が2倍になる〔収入を得る〕、ただし元々クリティカル失敗であった場合は除く。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -39573,7 +39573,7 @@
     },
     "Perfect Ki Exemplar": {
       "name": "パーフェクト・キー・エグゼンプラー/Perfect Ki Exemplar",
-      "description": "<p>あなたは自己流の流派に適した気の呪文を得る：@UUID[Compendium.pf2e.spells-srd.Item.KADeCawMG6WAzYHa]{アンブリンキング・フレイム・エンブレム}は瞬きする炎のための、@UUID[Compendium.pf2e.spells-srd.Item.YtJXpiu4ijkB6nP2]{アンブレイキング・ウェーブ・バリアー}は折れない波のための、@UUID[Compendium.pf2e.spells-srd.Item.Ww4cPZ3QHTSpaM1m]{アンフォールディング・ウィンド・ブリッツ}は繰り広げる風のための、または@UUID[Compendium.pf2e.spells-srd.Item.8eOMAIvT7S1CJSit]{アントゥイスティング・アイアン・オーグメンテーション}はほどける鉄のための。増加あなたのフォーカス・プールのフォーカス・ポイントの数を1増加させる。あなたはオカルト呪文の難易度DCとオカルト呪文攻撃ロールの専門家になる。</p>",
+      "description": "<p>あなたは自己流の流派に適した気の呪文を得る：@UUID[Compendium.pf2e.spells-srd.Item.KADeCawMG6WAzYHa]{アンブリンキング・フレイム・エンブレム}は瞬きする炎のための、@UUID[Compendium.pf2e.spells-srd.Item.YtJXpiu4ijkB6nP2]{アンブレイキング・ウェーブ・バリアー}は折れない波のための、@UUID[Compendium.pf2e.spells-srd.Item.Ww4cPZ3QHTSpaM1m]{アンフォールディング・ウィンド・ブリッツ}は繰り広げる風のための、または@UUID[Compendium.pf2e.spells-srd.Item.8eOMAIvT7S1CJSit]{アントゥイスティング・アイアン・オーグメンテーション}はほどける鉄のための。増加あなたのフォーカス・プールのフォーカス・ポイントの数を1増加させる。あなたはオカルト呪文の難易度DCとオカルト呪文攻撃ロールのエキスパートになる。</p>",
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
@@ -39965,7 +39965,7 @@
     },
     "Experienced Smuggler": {
       "name": "エクスペリエンスト・スマグラー/Experienced Smuggler",
-      "description": "<p>あなたはよく当局を越えて物を密輸する。GMがあなたの《隠密》判定を振って、小さなアイテムを隠したことに気づくかどうかを見極める際、GMは振った数または10のいずれか高い方をあなたのサイコロの結果として使用し、あなたの《隠密》修正値を追加してあなたの《隠密》判定の結果を決定する。あなたが《隠密》の達人である場合、GMは振った数または15を使用し、あなたが《隠密》の伝説的であれば、受動的な観察者から小さな隠されたアイテムを隠すことに自動的に成功する。この場合、クリーチャーが隠されたアイテムを積極的に探す際に行う知覚判定に対して、 恩恵を提供しない。</p>\n<hr />\n<p><strong>PFS注記</strong>この特技により、あなたは階級-1のアンダーワールド《専門知識》とともに 〔収入を得る〕 ことができる(通常は階級-2の代わりに)。</p>",
+      "description": "<p>あなたはよく当局を越えて物を密輸する。GMがあなたの《隠密》判定を振って、小さなアイテムを隠したことに気づくかどうかを見極める際、GMは振った数または10のいずれか高い方をあなたのサイコロの結果として使用し、あなたの《隠密》修正値を追加してあなたの《隠密》判定の結果を決定する。あなたが《隠密》のマスターである場合、GMは振った数または15を使用し、あなたが《隠密》のレジェンダリーであれば、受動的な観察者から小さな隠されたアイテムを隠すことに自動的に成功する。この場合、クリーチャーが隠されたアイテムを積極的に探す際に行う知覚判定に対して、 恩恵を提供しない。</p>\n<hr />\n<p><strong>PFS注記</strong>この特技により、あなたは階級-1のアンダーワールド《専門知識》とともに 〔収入を得る〕 ことができる(通常は階級-2の代わりに)。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -40335,7 +40335,7 @@
     },
     "What Could Have Been": {
       "name": "ワット・クッド・ハブ・ビーン/What Could Have Been",
-      "description": "<p>世界のどこかや他の次元からクリーチャーを召喚するのではなく、あなたは別次元のタイムラインからあなた自身の大きく異なるバージョンを一時的に引き出すことができる。例えば、@UUID[Compendium.pf2e.spells-srd.Item.e9UJoVYUd5kJWUpi]{サモン・ジャイアント}で一般的またはランダムなトロルを召喚する代わりに、あなたは自分がトロルであるタイムラインから、トロルバージョンのあなた自身を召喚する。もしあなたのアクションがクリーチャーを召喚する〈呪文の発動〉であるなら、そのクリーチャーはあなたの別のバージョンとなる。このクリーチャーは召喚したクリーチャーのタイプのままであり、能力も概ね同じ(加えて以下の調整を受ける)だが、明らかにあなたに似ており、身振り、話し方の癖、タトゥー、服装といった特徴を共有している可能性が高い。召喚されたクリーチャーは、あなたが訓練済みであるあらゆるスキル判定に+1の状況ボーナスを得る。あなたがそのスキルのエキスパートであれば+2、マスターであれば+3、レジェンダリーであれば+4の状況ボーナスを得る。また、そのクリーチャーはあなたが未習熟であるすべてのスキルに–2のペナルティを受ける。</p>",
+      "description": "<p>世界のどこかや他の次元からクリーチャーを召喚するのではなく、あなたは別次元のタイムラインからあなた自身の大きく異なるバージョンを一時的に引き出すことができる。例えば、@UUID[Compendium.pf2e.spells-srd.Item.e9UJoVYUd5kJWUpi]{サモン・ジャイアント}で一般的またはランダムなトロルを召喚する代わりに、あなたは自分がトロルであるタイムラインから、トロルバージョンのあなた自身を召喚する。もしあなたのアクションがクリーチャーを召喚する〈呪文の発動〉であるなら、そのクリーチャーはあなたの別のバージョンとなる。このクリーチャーは召喚したクリーチャーのタイプのままであり、能力も概ね同じ(加えて以下の調整を受ける)だが、明らかにあなたに似ており、身振り、話し方の癖、タトゥー、服装といった特徴を共有している可能性が高い。召喚されたクリーチャーは、あなたが訓練済みであるあらゆるスキル判定に+1の状況ボーナスを得る。あなたがそのスキルのエキスパートであれば+2、マスターであれば+3、レジェンダリーであれば+4の状況ボーナスを得る。また、そのクリーチャーはあなたが未訓練であるすべてのスキルに–2のペナルティを受ける。</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -40460,7 +40460,7 @@
     },
     "Survey Wildlife": {
       "name": "サーベイ・ワイルドライフ/Survey Wildlife",
-      "description": "<p>あなたは野生での詳細を調査して、近くのクリーチャーの存在を特定することができる。あなたは10分を使って、巣、糞、植物の傷跡に基づいて周囲のエリアを評価することで、近くにいるクリーチャーを探し出すことができる。GMによって明示的な標識の明白さに基づいて決定された DCに対して《生存術》判定を行う。成功した場合、これらの標識からだけでクリーチャーについてさらに学ぶために、-2のペナルティ付きで 〔思い出す〕 判定を行うことができる。あなたが《生存術》の達人である場合、ペナルティは適用されない。</p>",
+      "description": "<p>あなたは野生での詳細を調査して、近くのクリーチャーの存在を特定することができる。あなたは10分を使って、巣、糞、植物の傷跡に基づいて周囲のエリアを評価することで、近くにいるクリーチャーを探し出すことができる。GMによって明示的な標識の明白さに基づいて決定された DCに対して《生存術》判定を行う。成功した場合、これらの標識からだけでクリーチャーについてさらに学ぶために、-2のペナルティ付きで 〔思い出す〕 判定を行うことができる。あなたが《生存術》のマスターである場合、ペナルティは適用されない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -40867,7 +40867,7 @@
     },
     "Masterful Obfuscation": {
       "name": "マスターフル・オブファスケーション/Masterful Obfuscation",
-      "description": "<p>あなたは他者にあなたの研究分野について誤解させる技術を習得している。この特技を得るとき、あなたは〔思い出す〕アクションを持つスキルを1つ選び、そのスキルで達人に達している。あなたは、そのスキルに関連する事実や知識の真実について他者を誤解させることを試みることができる-例えば、知らないことを知っているふりをしたり、虚偽の情報を根付かせたりすることなど-《欺瞞》スキルの〔嘘をつく〕アクションを使用して。あなたがこのようにして〔嘘をつく〕を行うとき、あなたはこの特技を得たときに選んだスキルを使って判定を試み、その際に《欺瞞》ではなく選択したスキルのすべてのボーナスやペナルティを判定に適用する。特定の虚偽情報について何も知らない人を説得しやすいが、クリティカル成功を収めることで、その情報に対して矛盾を聞いたことがある人をも説得できるかもしれない。ただし、それには直接経験からの確信が必要である。例えば、あなたは言うかもしれない、「あなたが吸血鬼に対して銀の武器を使うべきだと聞いたことがあるかもしれないが、それは狼男と混同した誤解だ。すべての信頼できる学者によれば、冷たい鉄が効果的だ。」一度、クリーチャーがあなたが巧妙な誤解を用いて彼らに〔嘘をつく〕を行ったことを認識した場合、それは失敗した判定または後に虚偽が明らかになることで、あなたは再びそのクリーチャーに対してこの特技を使えなくなる。それはあなたの優れた知識への盲目的な信頼に依存するからである。しかし、あなたは今でも彼らに通常通り〔嘘をつく〕を行うことができる。</p>",
+      "description": "<p>あなたは他者にあなたの研究分野について誤解させる技術を習得している。この特技を得るとき、あなたは〔思い出す〕アクションを持つスキルを1つ選び、そのスキルでマスターに達している。あなたは、そのスキルに関連する事実や知識の真実について他者を誤解させることを試みることができる-例えば、知らないことを知っているふりをしたり、虚偽の情報を根付かせたりすることなど-《欺瞞》スキルの〔嘘をつく〕アクションを使用して。あなたがこのようにして〔嘘をつく〕を行うとき、あなたはこの特技を得たときに選んだスキルを使って判定を試み、その際に《欺瞞》ではなく選択したスキルのすべてのボーナスやペナルティを判定に適用する。特定の虚偽情報について何も知らない人を説得しやすいが、クリティカル成功を収めることで、その情報に対して矛盾を聞いたことがある人をも説得できるかもしれない。ただし、それには直接経験からの確信が必要である。例えば、あなたは言うかもしれない、「あなたが吸血鬼に対して銀の武器を使うべきだと聞いたことがあるかもしれないが、それは狼男と混同した誤解だ。すべての信頼できる学者によれば、冷たい鉄が効果的だ。」一度、クリーチャーがあなたが巧妙な誤解を用いて彼らに〔嘘をつく〕を行ったことを認識した場合、それは失敗した判定または後に虚偽が明らかになることで、あなたは再びそのクリーチャーに対してこの特技を使えなくなる。それはあなたの優れた知識への盲目的な信頼に依存するからである。しかし、あなたは今でも彼らに通常通り〔嘘をつく〕を行うことができる。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
         {
@@ -41460,7 +41460,7 @@
     },
     "Chronocognizance": {
       "name": "クロノコグニザンス/Chronocognizance",
-      "description": "<p>時間の流れや変化はあなたには明白であり、歪むことで形成される絡みも同様である。あなたは観察しているクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}または@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}の影響を受けているか自動的に認識する。時間操作の現象に近くいる時は、一般的なアイデアを持っているが、これにより異常の具体的な影響についての特別な洞察は得られない。特に微妙な時間異常はまだあなたの目を逃れるかもしれず、知覚判定、GMの判断によってが必要である。あなたが《秘術》、《自然》、《オカルト学》、または《宗教》において伝説的であれば、あなたが観察するクリーチャーが恩恵で@UUID[Compendium.pf2e.spells-srd.Item.1dsahW4g1ggXtypx]{フリーズ・タイム}のような効果を得るたびに、停止した時間中に何が起こったかを観察できるが、あなた自身はその間行動できない。あなた自身</p>",
+      "description": "<p>時間の流れや変化はあなたには明白であり、歪むことで形成される絡みも同様である。あなたは観察しているクリーチャーが@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}または@UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{クイック}の影響を受けているか自動的に認識する。時間操作の現象に近くいる時は、一般的なアイデアを持っているが、これにより異常の具体的な影響についての特別な洞察は得られない。特に微妙な時間異常はまだあなたの目を逃れるかもしれず、知覚判定、GMの判断によってが必要である。あなたが《秘術》、《自然》、《オカルト学》、または《宗教》においてレジェンダリーであれば、あなたが観察するクリーチャーが恩恵で@UUID[Compendium.pf2e.spells-srd.Item.1dsahW4g1ggXtypx]{フリーズ・タイム}のような効果を得るたびに、停止した時間中に何が起こったかを観察できるが、あなた自身はその間行動できない。あなた自身</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -41639,7 +41639,7 @@
     },
     "Packed with Flavor": {
       "name": "パックド・ウィズ・フレーバー/Packed with Flavor",
-      "description": "<p>あなたが作成する食用の小片は特に強力で、風味豊かである。あなたが〔製作する〕アルケミー食材またはセーヴィング・スローを許可する魔法の小片を作成するとき、またはセーヴィング・スローを可能にする能力を与える場合、そのDCをあなたのクラスDCまたは呪文DCのいずれか高い方に変更できる。クリーチャーがあなたの作ったアルケミー食材、魔法の小片、またはポーションを消費する際、5の一時的なヒット・ポイントを得て、それは1時間持続する。あなたが《製作》の達人であれば、それは代わりに10の一時的なヒット・ポイントを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.U9tJvfQDdpsf5Ipd]{効果: Packed with Flavor}</p>",
+      "description": "<p>あなたが作成する食用の小片は特に強力で、風味豊かである。あなたが〔製作する〕アルケミー食材またはセーヴィング・スローを許可する魔法の小片を作成するとき、またはセーヴィング・スローを可能にする能力を与える場合、そのDCをあなたのクラスDCまたは呪文DCのいずれか高い方に変更できる。クリーチャーがあなたの作ったアルケミー食材、魔法の小片、またはポーションを消費する際、5の一時的なヒット・ポイントを得て、それは1時間持続する。あなたが《製作》のマスターであれば、それは代わりに10の一時的なヒット・ポイントを得る。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.U9tJvfQDdpsf5Ipd]{効果: Packed with Flavor}</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide",
       "prerequisites": [
         {
@@ -42118,7 +42118,7 @@
     },
     "Pactbinder Dedication": {
       "name": "パクトバインダー・デディケーション/Pactbinder Dedication",
-      "description": "<p>成功する契約を結ぶ第一歩は、その背後にある魔法の理解と交渉スキルである。あなた自身を魔法で拘束する方法を学んだことも役立ち、より容易に交渉できるようになった。あなたは訓練済みから《交渉》の専門家に向上させ、以下のいずれかの専門家にも向上する：《秘術》、《自然》、《オカルト学》、または《宗教》。このアーキタイプの多くの特技は特定の契約を結ぶことを含む。あなたは通常、これらの特技を再訓練できない。</p>\n<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.9X80J5RN21Uoaeiw]{〈バインディング・ヴァウ〉}アクションを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.0UrqPv7XLDDRwZ13]{Pactbinder}</p>",
+      "description": "<p>成功する契約を結ぶ第一歩は、その背後にある魔法の理解と交渉スキルである。あなた自身を魔法で拘束する方法を学んだことも役立ち、より容易に交渉できるようになった。あなたは訓練済みから《交渉》のエキスパートに向上させ、以下のいずれかの専門家にも向上する：《秘術》、《自然》、《オカルト学》、または《宗教》。このアーキタイプの多くの特技は特定の契約を結ぶことを含む。あなたは通常、これらの特技を再訓練できない。</p>\n<p>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.9X80J5RN21Uoaeiw]{〈バインディング・ヴァウ〉}アクションを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.0UrqPv7XLDDRwZ13]{Pactbinder}</p>",
       "source": "Pathfinder Dark Archive (Remastered)",
       "prerequisites": [
         {
@@ -42206,7 +42206,7 @@
     },
     "Field Propagandist Dedication": {
       "name": "フィールド・プロパガンディスト・デディケーション/Field Propagandist Dedication",
-      "description": "<p>あなたは宣伝を作ることに人生を捧げたので、兵士たちの心と心を勝ち取ることが戦争の結果を確保する上で重要な要素であることを知っている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.VTm9ourfz7mO5Syx]{〈スプレッド・プロパガンダ〉}探索アクティビティを得る。</p>\n<p>あなたが免疫に対して宣伝を行っていない限り、あなたはそれに抵抗する。あなたは他者があなたに対して〔嘘をつく〕を行う際に、知覚 DCに対して+2の状況ボーナスを得る。もしあなたが〔嘘をつく〕のスキル特技を持っている場合、あなたは《欺瞞》 DCに対して+2の状況ボーナスを得る。</p>\n<p>あなたは訓練済みにおいてソサイエティにおいてになり、もしすでに訓練済みであれば、代わりに専門家になる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.f7a4f9nUuk00X3qu]{Field Propagandist}</p>",
+      "description": "<p>あなたは宣伝を作ることに人生を捧げたので、兵士たちの心と心を勝ち取ることが戦争の結果を確保する上で重要な要素であることを知っている。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.VTm9ourfz7mO5Syx]{〈スプレッド・プロパガンダ〉}探索アクティビティを得る。</p>\n<p>あなたが免疫に対して宣伝を行っていない限り、あなたはそれに抵抗する。あなたは他者があなたに対して〔嘘をつく〕を行う際に、知覚 DCに対して+2の状況ボーナスを得る。もしあなたが〔嘘をつく〕のスキル特技を持っている場合、あなたは《欺瞞》 DCに対して+2の状況ボーナスを得る。</p>\n<p>あなたは訓練済みにおいてソサイエティにおいてになり、もしすでに訓練済みであれば、代わりにエキスパートになる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.f7a4f9nUuk00X3qu]{Field Propagandist}</p>",
       "source": "Pathfinder Battlecry!",
       "prerequisites": [
         {
@@ -42307,7 +42307,7 @@
     },
     "Master Spotter": {
       "name": "マスター・スポッター/Master Spotter",
-      "description": "<p>あなたの驚異的な認識力と信頼できる強化視覚道具のおかげで、他の者が見逃すものを見ることができる。あなたの知覚の熟練度ランクが達人に上昇する。</p>",
+      "description": "<p>あなたの驚異的な認識力と信頼できる強化視覚道具のおかげで、他の者が見逃すものを見ることができる。あなたの知覚の熟練度ランクがマスターに上昇する。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -42418,7 +42418,7 @@
     },
     "Bless Tonic": {
       "name": "ブレス・トニック/Bless Tonic",
-      "description": "<p>あなたは生命エネルギーを、害を防ぐ回復薬へと注ぎ込む。あなたがヒット・ポイントを回復する錬金術アイテムを@UUID[Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{〈製作する〉}際(上級錬金術、クイック錬金術、その他の手段で作成する場合を除く)、それは祝福された錬金術アイテムとなり、生命力トレイトを得る。例えば、@UUID[Compendium.pf2e.equipment-srd.Item.hDLbR56Id2OtU318]{エリクサー・オブ・ライフ（マイナー）}は祝福されたエリクサー・オブ・ライフとなる。祝福された錬金術アイテムを使用してクリーチャーがヒット・ポイントを回復した際、溢れ出るエネルギーは、そのクリーチャーに1ラウンドの間、虚無への抵抗5を付与する。もしあなたが《製作》において伝説的であるなら、虚無への抵抗10を付与する。</p>",
+      "description": "<p>あなたは生命エネルギーを、害を防ぐ回復薬へと注ぎ込む。あなたがヒット・ポイントを回復する錬金術アイテムを@UUID[Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{〈製作する〉}際(上級錬金術、クイック錬金術、その他の手段で作成する場合を除く)、それは祝福された錬金術アイテムとなり、生命力トレイトを得る。例えば、@UUID[Compendium.pf2e.equipment-srd.Item.hDLbR56Id2OtU318]{エリクサー・オブ・ライフ（マイナー）}は祝福されたエリクサー・オブ・ライフとなる。祝福された錬金術アイテムを使用してクリーチャーがヒット・ポイントを回復した際、溢れ出るエネルギーは、そのクリーチャーに1ラウンドの間、虚無への抵抗5を付与する。もしあなたが《製作》においてレジェンダリーであるなら、虚無への抵抗10を付与する。</p>",
       "source": "Pathfinder Lost Omens Gods & Magic",
       "prerequisites": [
         {
@@ -43133,7 +43133,7 @@
     },
     "Red Mantis Assassin Dedication": {
       "name": "レッド・マンティス・アサシン・デディケーション/Red Mantis Assassin Dedication",
-      "description": "<p> <strong>アクセス</strong>あなたはメディオガルティ島出身である。</p> <hr /> <p>あなたは敵を追跡し、ノコギリ型サーベルで仕留める方法を学んだ。あなたは訓練済みとなり、 《隠密》とアサシン《専門知識》の専門家になる。すでに訓練済みであれば、代わりに専門家になる。どんな武器の熟練度が専門家以上に上がると、ノコギリ型サーベルでもその新しい熟練度を得る。</p>\n<p>あなたはアチャケクの禁忌に束縛され、彼の神聖化を受けることができる。</p>\n<p> @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.CB9YE4P7A2Wty1IX]{レッド・マンティス Assassin} </p>",
+      "description": "<p> <strong>アクセス</strong>あなたはメディオガルティ島出身である。</p> <hr /> <p>あなたは敵を追跡し、ノコギリ型サーベルで仕留める方法を学んだ。あなたは訓練済みとなり、 《隠密》とアサシン《専門知識》のエキスパートになる。すでに訓練済みであれば、代わりにエキスパートになる。どんな武器の熟練度がエキスパート以上に上がると、ノコギリ型サーベルでもその新しい熟練度を得る。</p>\n<p>あなたはアチャケクの禁忌に束縛され、彼の神聖化を受けることができる。</p>\n<p> @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.CB9YE4P7A2Wty1IX]{レッド・マンティス Assassin} </p>",
       "source": "Pathfinder Adventure: Prey for Death",
       "prerequisites": [
         {
@@ -44076,7 +44076,7 @@
     },
     "Expert Longevity": {
       "name": "エキスパート・ロンジェビティ/Expert Longevity",
-      "description": "<p>あなたは人生を通じて得た知識とスキルを洗練し続けている。あなたは@UUID[Compendium.pf2e.feats-srd.Item.WoLh16gyDp8y9WOZ]{アンセストラル・ロンジェビティ}において訓練済みになるスキルを選ぶ際、すでに訓練済みであるスキルを選んで、そのスキルでも専門家になることができる。この効果はあなたの祖先の長寿が切れるまで続く。</p>\n<p>祖先の長寿とエキスパートの長寿の効果が切れた時、あなたはスキルの増加の1つを再訓練することができる。この再訓練によって得るスキルの増加は、祖先の長寿で選んだスキルであなたを訓練済みにするか、またはエキスパートの長寿で選んだスキルで専門家にする必要がある。</p>",
+      "description": "<p>あなたは人生を通じて得た知識とスキルを洗練し続けている。あなたは@UUID[Compendium.pf2e.feats-srd.Item.WoLh16gyDp8y9WOZ]{アンセストラル・ロンジェビティ}において訓練済みになるスキルを選ぶ際、すでに訓練済みであるスキルを選んで、そのスキルでもエキスパートになることができる。この効果はあなたの祖先の長寿が切れるまで続く。</p>\n<p>祖先の長寿とエキスパートの長寿の効果が切れた時、あなたはスキルの増加の1つを再訓練することができる。この再訓練によって得るスキルの増加は、祖先の長寿で選んだスキルであなたを訓練済みにするか、またはエキスパートの長寿で選んだスキルで専門家にする必要がある。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -44121,7 +44121,7 @@
     },
     "Rupture Stomp": {
       "name": "ラプチャー・ストンプ/Rupture Stomp",
-      "description": "<p><strong>使用制限</strong>1日1回</p>\n<p><strong>必要条件</strong>あなたはTenacious構えにいる。</p>\n<hr />\n<p>すべてのドワーフは、彼らが歩く岩が親友にも裏切り者の道にもなり得ることを知っている。あなたは重い衝撃を伴って装甲のかかとで地面を砕く。その下の地面が@Template[emanation|distance:10]以内で困難な地形になる。あなたが着用している鎧で達人以上の場合、これはより困難な地形になる。そのひびが入った地面は、1分後に正常な地形に戻る。</p>\n<hr />\n<p><strong>特殊</strong>16レベルで、この特技を再度取得することができる。もしそうした場合、1日1回の代わりに1時間に1回使用できる。</p>",
+      "description": "<p><strong>使用制限</strong>1日1回</p>\n<p><strong>必要条件</strong>あなたはTenacious構えにいる。</p>\n<hr />\n<p>すべてのドワーフは、彼らが歩く岩が親友にも裏切り者の道にもなり得ることを知っている。あなたは重い衝撃を伴って装甲のかかとで地面を砕く。その下の地面が@Template[emanation|distance:10]以内で困難な地形になる。あなたが着用している鎧でマスター以上の場合、これはより困難な地形になる。そのひびが入った地面は、1分後に正常な地形に戻る。</p>\n<hr />\n<p><strong>特殊</strong>16レベルで、この特技を再度取得することができる。もしそうした場合、1日1回の代わりに1時間に1回使用できる。</p>",
       "source": "Pathfinder Lost Omens Highhelm",
       "prerequisites": [
         {
@@ -44171,7 +44171,7 @@
     },
     "Provocator Dedication": {
       "name": "プロボケーター・デディケーション/Provocator Dedication",
-      "description": "<p><strong>アクセス</strong>イロリウムでエベラークを見事に打ち負かす。</p><hr /><p>あなたにとって、戦うことはスタイルとスキルの両方に関わる。あなたはシンプルな武器、武道武器、そして選択した1つの高度な武器において訓練済みになる。あなたが選んだ高度な武器を使用して攻撃ロールでクリティカル成功を収めると、対象にその武器のクリティカルスペシャライゼーションを適用する。あなたは《芸能》において専門家になり、あなたの選択の《軽業》または《運動》でも専門家になる。これら3つのスキルすべてにおいて専門家であった場合、あなたは代わりに任意のスキルの専門家になる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.XLug8rxIe1KPX6Nf]{Provocator}</p>",
+      "description": "<p><strong>アクセス</strong>イロリウムでエベラークを見事に打ち負かす。</p><hr /><p>あなたにとって、戦うことはスタイルとスキルの両方に関わる。あなたはシンプルな武器、武道武器、そして選択した1つの高度な武器において訓練済みになる。あなたが選んだ高度な武器を使用して攻撃ロールでクリティカル成功を収めると、対象にその武器のクリティカルスペシャライゼーションを適用する。あなたは《芸能》においてエキスパートになり、あなたの選択の《軽業》または《運動》でもエキスパートになる。これら3つのスキルすべてにおいて専門家であった場合、あなたは代わりに任意のスキルのエキスパートになる。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.XLug8rxIe1KPX6Nf]{Provocator}</p>",
       "source": "Pathfinder #159: All or Nothing",
       "prerequisites": [
         {
@@ -44265,7 +44265,7 @@
     },
     "Undersea Privateer Dedication": {
       "name": "アンダーシー・プライバティア・デディケーション/Undersea Privateer Dedication",
-      "description": "<p>あなたの訓練により、あなたは水中戦闘の基礎を学んだ。あなたは《運動》の専門家となり、スキル特技である@UUID[Compendium.pf2e.feats-srd.Item.iOY6YfGBaOvMNAor]{アンダーウォーター・マローダー}を獲得する。あなたが水中または水中で戦う際に使用している武器の習熟度が少なくとも専門家であるならば、その武器でクリティカルヒットを達成した時に、その武器のクリティカルなスペシャライゼーション効果を得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.kgHgvP41YRfDRtqo]{Undersea Privateer}</p>",
+      "description": "<p>あなたの訓練により、あなたは水中戦闘の基礎を学んだ。あなたは《運動》の専門家となり、スキル特技である@UUID[Compendium.pf2e.feats-srd.Item.iOY6YfGBaOvMNAor]{アンダーウォーター・マローダー}を獲得する。あなたが水中または水中で戦う際に使用している武器の習熟度が少なくともエキスパートであるならば、その武器でクリティカルヒットを達成した時に、その武器のクリティカルなスペシャライゼーション効果を得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.kgHgvP41YRfDRtqo]{Undersea Privateer}</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -44275,7 +44275,7 @@
     },
     "Safe House": {
       "name": "セーフ・ハウス/Safe House",
-      "description": "<p>あなたはセーフハウスを設置する。これは外の世界から秘密を隠すための安全な場所だ。</p>\n<p>このセーフハウスは、おおよそ二つの10フィート立方体の大きさだ。あなたがアクセスできる場所にあり、隠し部屋や地下の洞窟のように、より大きな建物や構造の一部であることができる。</p>\n<p>セーフハウスは、内部の物体や人々を魔法の探知から守る。この効果は@UUID[Compendium.pf2e.spells-srd.Item.EoKBlgf6Smt8opaU]{ヴェール・オヴ・プライバシー}に相当し、あなたの《欺瞞》修正値を打ち消し DCに使用し、打ち消しランクのためにレベルの半分を切り上げて使用する。</p>\n<p>セーフハウスの設置または移動には、一週間のダウンタイムが必要だ。</p>\n<p>もしあなたが《欺瞞》の専門家であれば、セーフハウスの大きさは4つの10フィート立方体に拡大し、マスターであれば8つの立方体、伝説的であれば16立方体になる。</p>",
+      "description": "<p>あなたはセーフハウスを設置する。これは外の世界から秘密を隠すための安全な場所だ。</p>\n<p>このセーフハウスは、おおよそ二つの10フィート立方体の大きさだ。あなたがアクセスできる場所にあり、隠し部屋や地下の洞窟のように、より大きな建物や構造の一部であることができる。</p>\n<p>セーフハウスは、内部の物体や人々を魔法の探知から守る。この効果は@UUID[Compendium.pf2e.spells-srd.Item.EoKBlgf6Smt8opaU]{ヴェール・オヴ・プライバシー}に相当し、あなたの《欺瞞》修正値を打ち消し DCに使用し、打ち消しランクのためにレベルの半分を切り上げて使用する。</p>\n<p>セーフハウスの設置または移動には、一週間のダウンタイムが必要だ。</p>\n<p>もしあなたが《欺瞞》のエキスパートであれば、セーフハウスの大きさは4つの10フィート立方体に拡大し、マスターであれば8つの立方体、レジェンダリーであれば16立方体になる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -44969,7 +44969,7 @@
     },
     "Tweak Appearances": {
       "name": "ツイーク・アピアランシズ/Tweak Appearances",
-      "description": "<p>あなたは誰かの衣服や外見を素早く調整するために1分を費やし、その者の言葉があなたが選んだ聴衆に対してより重みを持つようにする。その聴衆に話しかけている間、対象は《交渉》および《芸能》判定に+1のアイテム・ボーナスを得る。もしあなたが《製作》で習熟度「達人」を持っているなら、ボーナスは+2に増加する。もしあなたが《製作》で習熟度「伝説」を持っているなら、ボーナスは+3に増加する。このボーナスは、この能力が対象に再び使用されるか、彼らが準備していた状況が終了するか、あるいは彼らが次に衣装を着替えるまで持続する。</p>",
+      "description": "<p>あなたは誰かの衣服や外見を素早く調整するために1分を費やし、その者の言葉があなたが選んだ聴衆に対してより重みを持つようにする。その聴衆に話しかけている間、対象は《交渉》および《芸能》判定に+1のアイテム・ボーナスを得る。もしあなたが《製作》でマスター習熟度を持っているなら、ボーナスは+2に増加する。もしあなたが《製作》でレジェンダリー習熟度を持っているなら、ボーナスは+3に増加する。このボーナスは、この能力が対象に再び使用されるか、彼らが準備していた状況が終了するか、あるいは彼らが次に衣装を着替えるまで持続する。</p>",
       "source": "Pathfinder #147: Tomorrow Must Burn",
       "prerequisites": [
         {
@@ -45355,7 +45355,7 @@
     },
     "Virtuosic Dancer": {
       "name": "ヴァーチュオシック・ダンサー/Virtuosic Dancer",
-      "description": "<p>あなたはステージでアクロバティック特技を使用するのが好きで、ビッグステージでこれらのダンスに自分のひらめきを加え始めた。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{〈芸をする〉}する時、ダンス、演技またはオペラに関連するパフォーマンスを行うと、ロールに+1の状況ボーナスを得る。あなたが《軽業》の達人であれば、これが+2の状況ボーナスに増加する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.1ejGup6ouh9t9S96]{〈ダンシング・ドッジ〉}リアクションを得る。</p>",
+      "description": "<p>あなたはステージでアクロバティック特技を使用するのが好きで、ビッグステージでこれらのダンスに自分のひらめきを加え始めた。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{〈芸をする〉}する時、ダンス、演技またはオペラに関連するパフォーマンスを行うと、ロールに+1の状況ボーナスを得る。あなたが《軽業》のマスターであれば、これが+2の状況ボーナスに増加する。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.1ejGup6ouh9t9S96]{〈ダンシング・ドッジ〉}リアクションを得る。</p>",
       "source": "Pathfinder #204: Stage Fright",
       "prerequisites": [
         {
@@ -46270,7 +46270,7 @@
     },
     "Forensic Acumen": {
       "name": "フォレンジック・アキュメン/Forensic Acumen",
-      "description": "<p>あなたは法医学の原則を理解しており、死因や負傷の原因を特定するために死体を調べる能力に長けている。</p>\n<p>あなたは《医術》スキルにおける@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}の記述に従い、死体に対して法医学的な調査を行うことができる。その際、通常の半分の時間(最低5分)で行える。</p>\n<p>もし判定に成功したなら、あなたは見つけた事柄について追跡調査を行うため、即座に〈思い出す〉ための判定を行うことができる。この際、＋2の状況ボーナスを得る。</p>\n<p>この判定は通常、負傷や死の原因に関連するものである。例えば、使用された毒や武器を特定するための《製作》判定や、特定の病気を特定するための追加の《医術》判定などである。望むなら、代わりに調査していた死体のクリーチャーの種類について〈思い出す〉ことを試みてもよい。その場合、適切なスキルを使用し、同じ状況ボーナスを得る。</p>\n<p>この状況ボーナスは、あなたが《医術》で習熟度「達人」であれば＋3に、習熟度「伝説」であれば＋4に増加する。</p>",
+      "description": "<p>あなたは法医学の原則を理解しており、死因や負傷の原因を特定するために死体を調べる能力に長けている。</p>\n<p>あなたは《医術》スキルにおける@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}の記述に従い、死体に対して法医学的な調査を行うことができる。その際、通常の半分の時間(最低5分)で行える。</p>\n<p>もし判定に成功したなら、あなたは見つけた事柄について追跡調査を行うため、即座に〈思い出す〉ための判定を行うことができる。この際、＋2の状況ボーナスを得る。</p>\n<p>この判定は通常、負傷や死の原因に関連するものである。例えば、使用された毒や武器を特定するための《製作》判定や、特定の病気を特定するための追加の《医術》判定などである。望むなら、代わりに調査していた死体のクリーチャーの種類について〈思い出す〉ことを試みてもよい。その場合、適切なスキルを使用し、同じ状況ボーナスを得る。</p>\n<p>この状況ボーナスは、あなたが《医術》でマスターであれば＋3に、レジェンダリーであれば＋4に増加する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -46727,7 +46727,7 @@
     },
     "Vasodilation": {
       "name": "ヴァソダイレーション/Vasodilation",
-      "description": "<p>自分の血の力を使い、損傷した組織に栄養を与えるための血流を増加させるか、傷を凝固させたり毒や病気の拡散を防ぐために血流を抑える。あなたは、@UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{〈応急手当〉}、@UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{〈病気の手当て〉}、@UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{〈毒の手当て〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{〈傷の手当て〉}を行うために治療道具を必要としなくなったが、適切な道具なしでこれらのアクションを取るたびに@Damage[1[untyped]]のダメージを受ける。あなたはこのダメージを減少させたり防ぐことはできない。</p>\n<p>あなたは、これらのアクションを行う際に血を使って+1のアイテム・ボーナスを得る。あなたがメディスンに達している場合、+2になり、伝説的であれば+3になる。</p>",
+      "description": "<p>自分の血の力を使い、損傷した組織に栄養を与えるための血流を増加させるか、傷を凝固させたり毒や病気の拡散を防ぐために血流を抑える。あなたは、@UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{〈応急手当〉}、@UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{〈病気の手当て〉}、@UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{〈毒の手当て〉}、または@UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{〈傷の手当て〉}を行うために治療道具を必要としなくなったが、適切な道具なしでこれらのアクションを取るたびに@Damage[1[untyped]]のダメージを受ける。あなたはこのダメージを減少させたり防ぐことはできない。</p>\n<p>あなたは、これらのアクションを行う際に血を使って+1のアイテム・ボーナスを得る。あなたがメディスンに達している場合、+2になり、レジェンダリーであれば+3になる。</p>",
       "source": "Pathfinder #213: Thirst for Blood",
       "prerequisites": [
         {
@@ -46916,7 +46916,7 @@
     },
     "Weapon Proficiency": {
       "name": "ウェポン・プロフィシエンシー/Weapon Proficiency",
-      "description": "<p>あなたはすべての武器において訓練済みになる。もしあなたがすでにすべての武器において訓練済みであった場合、あなたは選んだひとつの上級武器において訓練済みになる。もしあなたが11レベル以上であるなら、これらの武器においても専門家になる。</p>\n<hr />\n<p><strong>特別</strong>あなたはこの特技を複数回選択することができる。毎回選択するたびに、あなたは上級武器において訓練済みになる。</p>",
+      "description": "<p>あなたはすべての武器において訓練済みになる。もしあなたがすでにすべての武器において訓練済みであった場合、あなたは選んだひとつの上級武器において訓練済みになる。もしあなたが11レベル以上であるなら、これらの武器においてもエキスパートになる。</p>\n<hr />\n<p><strong>特別</strong>あなたはこの特技を複数回選択することができる。毎回選択するたびに、あなたは上級武器において訓練済みになる。</p>",
       "source": "Pathfinder Player Core"
     },
     "Rapid Affixture": {
@@ -47235,7 +47235,7 @@
     },
     "Intimidating Prowess": {
       "name": "インティミデーティング・プラウェス/Intimidating Prowess",
-      "description": "<p>あなたが対象を威圧できる状況で、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{〈強要する〉}または@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}すると、あなたの《威圧》判定に+1の状況ボーナスを得て、言語を共有していないことによるペナルティを無視する。あなたの筋力修正値が+5以上で、あなたが《威圧》の達人であれば、このボーナスは+2に増加する。</p>",
+      "description": "<p>あなたが対象を威圧できる状況で、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{〈強要する〉}または@UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{〈怯ませる〉}すると、あなたの《威圧》判定に+1の状況ボーナスを得て、言語を共有していないことによるペナルティを無視する。あなたの筋力修正値が+5以上で、あなたが《威圧》のマスターであれば、このボーナスは+2に増加する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -48139,7 +48139,7 @@
     },
     "Unmistakable Lore": {
       "name": "アンミステーカブル・ロア/Unmistakable Lore",
-      "description": "<p>あなたは自分の専門分野に関して情報を間違えることがない。あなたが自分が訓練済みである任意のロアサブカテゴリを使用して 〔思い出す〕 を行う場合、クリティカル失敗を出した場合は失敗として扱われる。もしあなたがロアサブカテゴリの達人であるなら、クリティカル成功を出したときには、通常よりも多くの情報や文脈を得る。</p>",
+      "description": "<p>あなたは自分の専門分野に関して情報を間違えることがない。あなたが自分が訓練済みである任意のロアサブカテゴリを使用して 〔思い出す〕 を行う場合、クリティカル失敗を出した場合は失敗として扱われる。もしあなたがロアサブカテゴリのマスターであるなら、クリティカル成功を出したときには、通常よりも多くの情報や文脈を得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -48987,7 +48987,7 @@
     },
     "Remember Your Training": {
       "name": "リメンバー・ユア・トレーニング/Remember Your Training",
-      "description": "<p><strong>使用制限</strong> 1日に1回</p>\n<hr />\n<p>あなたがパスファインダー・エージェントになるための訓練を受けている間、あなたは出会う可能性のあるさまざまなクリーチャーについて学び、その訓練を思い出して必要なときに重要な洞察を得ることができる。あなたが見ることができるクリーチャーについて 〔思い出す〕 の判定を試み、そのスキルに未熟であればあなたのレベルを熟練度ボーナスとして追加する(0ではなく)。この判定に失敗(クリティカル失敗でない)が出た場合、代わりに成功する。</p>",
+      "description": "<p><strong>使用制限</strong> 1日に1回</p>\n<hr />\n<p>あなたがパスファインダー・エージェントになるための訓練を受けている間、あなたは出会う可能性のあるさまざまなクリーチャーについて学び、その訓練を思い出して必要なときに重要な洞察を得ることができる。あなたが見ることができるクリーチャーについて 〔思い出す〕 の判定を試み、そのスキルで未訓練であればあなたのレベルを熟練度ボーナスとして追加する(0ではなく)。この判定に失敗(クリティカル失敗でない)が出た場合、代わりに成功する。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
         {
@@ -49283,7 +49283,7 @@
     },
     "Diverse Recognition": {
       "name": "ダイバース・レコグニション/Diverse Recognition",
-      "description": "<p><strong>使用制限</strong> 1回にラウンド</p>\n<p><strong>トリガー</strong>あなたは見ることができるクリーチャーについて成功裏に〔思い出す〕を行う。あなたが達人であるスキルを使用する。</p>\n<hr />\n<p>あなたのパスファインダーの訓練により、多くの脅威を迅速に評価することができる。あなたが見ることができる異なる種類のクリーチャーに対して同じスキルを使用して〔思い出す〕を行う。この判定を行うための要件を満たさなければならない。</p>",
+      "description": "<p><strong>使用制限</strong> 1回にラウンド</p>\n<p><strong>トリガー</strong>あなたは見ることができるクリーチャーについて成功裏に〔思い出す〕を行う。あなたがマスターであるスキルを使用する。</p>\n<hr />\n<p>あなたのパスファインダーの訓練により、多くの脅威を迅速に評価することができる。あなたが見ることができる異なる種類のクリーチャーに対して同じスキルを使用して〔思い出す〕を行う。この判定を行うための要件を満たさなければならない。</p>",
       "source": "Pathfinder Lost Omens Pathfinder Society Guide",
       "prerequisites": [
         {
@@ -49336,13 +49336,13 @@
           "value": "タウマタージデディケーション"
         },
         {
-          "value": "訓練済みの少なくとも1つにおいて《秘術》, 《自然》, 《オカルト学》, または《宗教》の専門家であり、少なくとも他の1つで専門家である"
+          "value": "訓練済みの少なくとも1つにおいて《秘術》, 《自然》, 《オカルト学》, または《宗教》のエキスパートであり、少なくとも他の1つでエキスパートである"
         }
       ]
     },
     "Pistolero's Challenge": {
       "name": "ピストレーロズ・チャレンジ/Pistolero's Challenge",
-      "description": "<p>厳かな呼びかけ、慎重に選ばれた悪口、または他の挑戦的な宣言を通じて、あなたは決闘で敵の注意を求める。あなたが知覚でき、あなたの声を聞くことができる30フィート内の相手を選び、 @Check[deception|defense:will]または@Check[intimidation|defense:will]判定に対してターゲットの意志 DCに対して行う。 判定の結果に関わらず、その敵は翌日の正午まであなたのピストレロの挑戦に一時的な免疫を持つ。</p>\n<p><strong>成功</strong>あなたと相手は互いに攻撃した場合のダメージロールに+2の状態ボーナスを得る。あなたが判定に対して使用したスキルが達人である場合、ダメージロールへの状態ボーナスは+3に増加し、レジェンダリーであれば+4に増加する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.0kO3M46aK64a8ru8]{効果: Pistolero's Challenge}</p>\n<p>あなたは一度に1つの挑戦しか持つことができず、新しい相手に挑戦すると現在のターゲットに対するこの効果は終了する。それ以外の場合、効果はあなたか相手のいずれかが敗北するか、逃げるか、遭遇が終了するまで持続する。</p>\n<p><strong>クリティカル失敗</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態になり、この能力を1分の間使用できなくなる。</p>",
+      "description": "<p>厳かな呼びかけ、慎重に選ばれた悪口、または他の挑戦的な宣言を通じて、あなたは決闘で敵の注意を求める。あなたが知覚でき、あなたの声を聞くことができる30フィート内の相手を選び、 @Check[deception|defense:will]または@Check[intimidation|defense:will]判定に対してターゲットの意志 DCに対して行う。 判定の結果に関わらず、その敵は翌日の正午まであなたのピストレロの挑戦に一時的な免疫を持つ。</p>\n<p><strong>成功</strong>あなたと相手は互いに攻撃した場合のダメージロールに+2の状態ボーナスを得る。あなたが判定に対して使用したスキルがマスターである場合、ダメージロールへの状態ボーナスは+3に増加し、レジェンダリーであれば+4に増加する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.0kO3M46aK64a8ru8]{効果: Pistolero's Challenge}</p>\n<p>あなたは一度に1つの挑戦しか持つことができず、新しい相手に挑戦すると現在のターゲットに対するこの効果は終了する。それ以外の場合、効果はあなたか相手のいずれかが敗北するか、逃げるか、遭遇が終了するまで持続する。</p>\n<p><strong>クリティカル失敗</strong>あなたは@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}状態になり、この能力を1分の間使用できなくなる。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -49499,7 +49499,7 @@
     },
     "Illuminating Stories": {
       "name": "イルミネーティング・ストーリーズ/Illuminating Stories",
-      "description": "<p>物語は夜の beaconの役割を果たし、その物語が自身が外れていても貴重な知識を照らし出す。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.7wQe43fSCG9DSWdj]{〈オファー・ストーリー〉}する際、通常の恩恵である「物語を提供する」代わりに、その照らし出しを選択できる。あなたはその間、 @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}に対する判定に +1ステータスボーナスを受け取り、物語のトピックについてフリー・アクションとして 〔思い出す〕 ことができる。あなたが物語を共有する対象は、あなたが選択しなかったとしてもこの恩恵を選ぶことができる。</p>\n<p>ボーナスは、あなたが《宗教》の達人であれば +2に、伝説的であれば +3に増加する。</p>",
+      "description": "<p>物語は夜の beaconの役割を果たし、その物語が自身が外れていても貴重な知識を照らし出す。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.7wQe43fSCG9DSWdj]{〈オファー・ストーリー〉}する際、通常の恩恵である「物語を提供する」代わりに、その照らし出しを選択できる。あなたはその間、 @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〈思い出す〉}に対する判定に +1ステータスボーナスを受け取り、物語のトピックについてフリー・アクションとして 〔思い出す〕 ことができる。あなたが物語を共有する対象は、あなたが選択しなかったとしてもこの恩恵を選ぶことができる。</p>\n<p>ボーナスは、あなたが《宗教》のマスターであれば +2に、レジェンダリーであれば +3に増加する。</p>",
       "source": "Pathfinder Lost Omens Rival Academies",
       "prerequisites": [
         {
@@ -49949,7 +49949,7 @@
     },
     "Cooperative Soul": {
       "name": "コオペラティブ・ソウル/Cooperative Soul",
-      "description": "<p>あなたは仲間との魂深い絆を育み、彼らとの協力をさらに高める。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{〈援護〉ing}しているスキルにおいて少なくとも専門家である場合、〔援護〕のスキル判定に失敗またはクリティカル失敗をロールした時、あなたは代わりに成功を得る。</p>",
+      "description": "<p>あなたは仲間との魂深い絆を育み、彼らとの協力をさらに高める。あなたが@UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{〈援護〉ing}しているスキルにおいて少なくともエキスパートである場合、〔援護〕のスキル判定に失敗またはクリティカル失敗をロールした時、あなたは代わりに成功を得る。</p>",
       "source": "Pathfinder Player Core"
     },
     "Quickened Casting": {
@@ -49989,7 +49989,7 @@
     },
     "Learn by Watching": {
       "name": "ラーン・バイ・ウォッチング/Learn by Watching",
-      "description": "<p>目覚める前、あなたは周囲でヒューマノイドがスキルを行うのをよく見ていた。その時は気づいていなかったが、あなたの好奇心がスキルを習得するきっかけとなった。あなたは、あなたが選んだ《製作》、メディスン、または《芸能》で訓練済みになる。さらに、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.tfa4Sh7wcxCEqL29]{〈専門家にならう〉}を探索モードで行うと、未熟練の場合、あなたのレベルだけを加えるのではなく、2 + あなたのレベルを熟練ボーナスとして加える。</p>",
+      "description": "<p>目覚める前、あなたは周囲でヒューマノイドがスキルを行うのをよく見ていた。その時は気づいていなかったが、あなたの好奇心がスキルを習得するきっかけとなった。あなたは、あなたが選んだ《製作》、メディスン、または《芸能》で訓練済みになる。さらに、あなたが@UUID[Compendium.pf2e.actionspf2e.Item.tfa4Sh7wcxCEqL29]{〈専門家にならう〉}を探索モードで行うと、未訓練の場合、あなたのレベルだけを加えるのではなく、2 + あなたのレベルを熟練ボーナスとして加える。</p>",
       "source": "Pathfinder Howl of the Wild"
     },
     "Seize an Advantage": {
@@ -50923,7 +50923,7 @@
     },
     "Animal Skin": {
       "name": "アニマル・スキン/Animal Skin",
-      "description": "<p>あなたの鎧を装備していない状態での防御の習熟度が「達人」に上昇する。あなたがレイジ中で鎧を装備していないとき、あなたの皮膚は厚い獣皮へと変化する。あなたはACに+2のアイテム・ボーナスを得る(@UUID[Compendium.pf2e.classfeatures.Item.TuL0UfqH14MtqYVh]{グレーター・ジャガーノート}クラス特徴を持っている場合は+3)。その獣皮の厚みにより、あなたのACに対する敏捷力修正上限は+3となる。このACに対するアイテム・ボーナスは、探検家の服の@UUID[Compendium.pf2e.equipment-srd.Item.Ro3g2JpJXrKXVyEr]{アーマー・ポテンシー（+1）}ルーン、@UUID[Compendium.pf2e.spells-srd.Item.aAbfKn8maGjJjk2W]{ミスティック・アーマー}、および@UUID[Compendium.pf2e.equipment-srd.Item.02q8s6sSicMkhs1l]{バンズ・オブ・フォース}と累積する。</p>",
+      "description": "<p>あなたの鎧を装備していない状態での防御の習熟度がマスターに上昇する。あなたがレイジ中で鎧を装備していないとき、あなたの皮膚は厚い獣皮へと変化する。あなたはACに+2のアイテム・ボーナスを得る(@UUID[Compendium.pf2e.classfeatures.Item.TuL0UfqH14MtqYVh]{グレーター・ジャガーノート}クラス特徴を持っている場合は+3)。その獣皮の厚みにより、あなたのACに対する敏捷力修正上限は+3となる。このACに対するアイテム・ボーナスは、探検家の服の@UUID[Compendium.pf2e.equipment-srd.Item.Ro3g2JpJXrKXVyEr]{アーマー・ポテンシー（+1）}ルーン、@UUID[Compendium.pf2e.spells-srd.Item.aAbfKn8maGjJjk2W]{ミスティック・アーマー}、および@UUID[Compendium.pf2e.equipment-srd.Item.02q8s6sSicMkhs1l]{バンズ・オブ・フォース}と累積する。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
