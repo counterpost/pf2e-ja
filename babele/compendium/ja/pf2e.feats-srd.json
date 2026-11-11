@@ -46539,7 +46539,7 @@
       ]
     },
     "Diabolic Certitude": {
-      "name": "ダイアボリック・サーティテュード/Diabolic Certitude",
+      "name": "ディアボリック・サーティテュード/Diabolic Certitude",
       "description": "<p><strong>トリガー</strong>あなたのターンが始まり、あなたはデヴィルを観察することができる。</p>\n<hr />\n<p>あなたのヘルナイト訓練により、地獄の住人の詳細があなたの心に深く刻まれる。観察しているデヴィルについて@UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{〔思い出す〕}ための判定を行う。この判定でクリティカル失敗をした場合、代わりに失敗となる。この判定で成功した場合、代わりにクリティカル成功となる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [

@@ -2845,7 +2845,7 @@
           "name": "リアクティヴ・ストライク"
         },
         "sC6FZ4PWGfB7jJ5I": {
-          "name": "ダイアボリック・ファイア/Diabolic Fire",
+          "name": "ディアボリック・ファイア/Diabolic Fire",
           "description": "<p>ディアボリックなドラゴンが与えるあらゆる火炎ダメージは(呪文による火炎ダメージを含む)、精神をも焦がす地獄のアンホーリーな力で満たされている。クリーチャーにとってその方が有害である場合、クリーチャーは火炎ダメージの代わりに精神ダメージを受ける(GMの判断によって)。ディアボリックなドラゴンは、他のディアボリックなドラゴンの地獄の火炎、ディバイン・イモレーションによる火炎、および同様の効果に対して免疫である。</p>"
         },
         "Biez8RunTRAB4NCV": {
@@ -2873,7 +2873,7 @@
           "name": "リーガル・ロア"
         }
       },
-      "name": "ダイアボリック・ドラゴン（ヤング）/Diabolic Dragon (Young)",
+      "name": "ディアボリック・ドラゴン（ヤング）/Diabolic Dragon (Young)",
       "publicNotes": "<p>Hell, according to some theologians, is a living entity in and of itself. Diabolic dragons, these scholars argue, are just extensions of the plane, living creatures that break off from Hell to enact its will. Whether this is true or whether diabolical dragons are simply the reborn souls of dragons sent to Hell, the fact remains that these dragons are powerful, cunning, and tyrannical. Every diabolic dragon's goal is to further Hell's will, though how this happens can vary. Regardless of their goals, these dragons always approach newcomers with an unsettling calmness.</p>\n<hr />\n<p>Dragons come in myriad forms, with many having magical abilities or connections to magic. Some dragons draw greater power from magic than others, allowing them to manifest abilities or alter their physiques with prolonged exposure to magic. These dragons become more powerful as they age and strengthen their connections with their magical origins. Scholars debate the classification of these dragons, with some preferring the name magical dragons and others using traditional dragons due to their connection to specific magical traditions. Regardless of their names, these dragons share a number of characteristics: their ability to tap into magical energies, intensified might and cunning as they grow older, and an inclination to hoard vast amounts of treasure and wealth.</p>",
       "allSaves": "神聖に対するすべてのセーヴに状況ボーナス+2"
     },
@@ -4514,7 +4514,7 @@
           "name": "リアクティヴ・ストライク"
         },
         "sC6FZ4PWGfB7jJ5I": {
-          "name": "ダイアボリック・ファイア",
+          "name": "ディアボリック・ファイア",
           "description": "<p>ディアボリックなドラゴンが与えるあらゆる火炎ダメージは(呪文による火炎ダメージを含む)、精神をも焦がす地獄のアンホーリーな力で満たされている。クリーチャーにとってその方が有害である場合、クリーチャーは火炎ダメージの代わりに精神ダメージを受ける(GMの判断によって)。ディアボリックなドラゴンは、他のディアボリックなドラゴンの地獄の火炎、ディバイン・イモレーションによる火炎、および同様の効果に対して免疫である。</p>"
         },
         "Biez8RunTRAB4NCV": {
@@ -4542,7 +4542,7 @@
           "name": "リーガル・ロア"
         }
       },
-      "name": "ダイアボリック・ドラゴン（アダルト）/Diabolic Dragon (Adult)",
+      "name": "ディアボリック・ドラゴン（アダルト）/Diabolic Dragon (Adult)",
       "publicNotes": "<p>Hell, according to some theologians, is a living entity in and of itself. Diabolic dragons, these scholars argue, are just extensions of the plane, living creatures that break off from Hell to enact its will. Whether this is true or whether diabolical dragons are simply the reborn souls of dragons sent to Hell, the fact remains that these dragons are powerful, cunning, and tyrannical. Every diabolic dragon's goal is to further Hell's will, though how this happens can vary. Regardless of their goals, these dragons always approach newcomers with an unsettling calmness.</p>\n<hr />\n<p>Dragons come in myriad forms, with many having magical abilities or connections to magic. Some dragons draw greater power from magic than others, allowing them to manifest abilities or alter their physiques with prolonged exposure to magic. These dragons become more powerful as they age and strengthen their connections with their magical origins. Scholars debate the classification of these dragons, with some preferring the name magical dragons and others using traditional dragons due to their connection to specific magical traditions. Regardless of their names, these dragons share a number of characteristics: their ability to tap into magical energies, intensified might and cunning as they grow older, and an inclination to hoard vast amounts of treasure and wealth.</p>",
       "allSaves": "神聖に対するすべてのセーヴに状況ボーナス+2"
     },
@@ -7149,7 +7149,7 @@
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
     "Diabolic Dragon (Adult, Spellcaster)": {
-      "tokenName": "ダイアボリック・ドラゴン(成体)",
+      "tokenName": "ディアボリック・ドラゴン(成体)",
       "items": {
         "x2asvrHSRTm18PiO": {
           "name": "ディバイン・プリペアード・スペルズ"
@@ -7185,7 +7185,7 @@
           "name": "リアクティヴ・ストライク"
         },
         "sC6FZ4PWGfB7jJ5I": {
-          "name": "ダイアボリック・ファイア",
+          "name": "ディアボリック・ファイア",
           "description": "<p>ディアボリックなドラゴンが与えるあらゆる火炎ダメージは(呪文による火炎ダメージを含む)、精神をも焦がす地獄のアンホーリーな力で満たされている。クリーチャーにとってその方が有害である場合、クリーチャーは火炎ダメージの代わりに精神ダメージを受ける(GMの判断によって)。ディアボリックなドラゴンは、他のディアボリックなドラゴンの地獄の火炎、ディバイン・イモレーションによる火炎、および同様の効果に対して免疫である。</p>"
         },
         "2SfnAmO0wAMNDsit": {
@@ -7205,7 +7205,7 @@
           "name": "リーガル・ロア"
         }
       },
-      "name": "ダイアボリック・ドラゴン（アダルト、スペルキャスター）/Diabolic Dragon (Adult, Spellcaster)",
+      "name": "ディアボリック・ドラゴン（アダルト、スペルキャスター）/Diabolic Dragon (Adult, Spellcaster)",
       "publicNotes": "<p>Hell, according to some theologians, is a living entity in and of itself. Diabolic dragons, these scholars argue, are just extensions of the plane, living creatures that break off from Hell to enact its will. Whether this is true or whether diabolical dragons are simply the reborn souls of dragons sent to Hell, the fact remains that these dragons are powerful, cunning, and tyrannical. Every diabolic dragon's goal is to further Hell's will, though how this happens can vary. Regardless of their goals, these dragons always approach newcomers with an unsettling calmness.</p>\n<hr />\n<p>Dragons come in myriad forms, with many having magical abilities or connections to magic. Some dragons draw greater power from magic than others, allowing them to manifest abilities or alter their physiques with prolonged exposure to magic. These dragons become more powerful as they age and strengthen their connections with their magical origins. Scholars debate the classification of these dragons, with some preferring the name magical dragons and others using traditional dragons due to their connection to specific magical traditions. Regardless of their names, these dragons share a number of characteristics: their ability to tap into magical energies, intensified might and cunning as they grow older, and an inclination to hoard vast amounts of treasure and wealth.</p>\n<h2>Draconic Spellcasters</h2>\n<p>Each dragon features a sidebar on spellcasting dragons of that type. To make a dragon spellcaster, remove the dragon's Draconic Frenzy and Draconic Momentum abilities, and give them the spells outlined in their sidebar. You can swap out any number of these with other spells, provided you keep the same number of spells for each rank. You might also want to increase the dragon's Intelligence, Wisdom, or Charisma modifier by 1 or 2 to reflect their mastery of magic.</p>",
       "allSaves": "対神聖のすべてのセーヴに状態ボーナス+2"
     },
@@ -9934,7 +9934,7 @@
           "name": "リアクティヴ・ストライク"
         },
         "sC6FZ4PWGfB7jJ5I": {
-          "name": "ダイアボリック・ファイア",
+          "name": "ディアボリック・ファイア",
           "description": "<p>ディアボリックなドラゴンが与えるあらゆる火炎ダメージは、呪文による火炎ダメージを含め、精神をも焼き尽くす地獄のアンホーリーな力で満たされている。クリーチャーは、その方がより有害であると判断される場合(GMの判断によって)、火炎ダメージの代わりに精神ダメージを受ける。ディアボリックなドラゴンは、他のディアボリックなドラゴンのディアボリックな炎、神聖な焼き払いの炎、および類似の効果に対して免疫である。</p>"
         },
         "Biez8RunTRAB4NCV": {
@@ -9962,7 +9962,7 @@
           "name": "リーガル・ロア"
         }
       },
-      "name": "ダイアボリック・ドラゴン（エンシェント）/Diabolic Dragon (Ancient)",
+      "name": "ディアボリック・ドラゴン（エンシェント）/Diabolic Dragon (Ancient)",
       "publicNotes": "<p>Hell, according to some theologians, is a living entity in and of itself. Diabolic dragons, these scholars argue, are just extensions of the plane, living creatures that break off from Hell to enact its will. Whether this is true or whether diabolical dragons are simply the reborn souls of dragons sent to Hell, the fact remains that these dragons are powerful, cunning, and tyrannical. Every diabolic dragon's goal is to further Hell's will, though how this happens can vary. Regardless of their goals, these dragons always approach newcomers with an unsettling calmness.</p>\n<hr />\n<p>Dragons come in myriad forms, with many having magical abilities or connections to magic. Some dragons draw greater power from magic than others, allowing them to manifest abilities or alter their physiques with prolonged exposure to magic. These dragons become more powerful as they age and strengthen their connections with their magical origins. Scholars debate the classification of these dragons, with some preferring the name magical dragons and others using traditional dragons due to their connection to specific magical traditions. Regardless of their names, these dragons share a number of characteristics: their ability to tap into magical energies, intensified might and cunning as they grow older, and an inclination to hoard vast amounts of treasure and wealth.</p>",
       "allSaves": "神聖に対するすべてのセーヴに状況ボーナス+2"
     },
@@ -12595,7 +12595,7 @@
       "allSaves": "魔法に対するすべてのセーヴに状況ボーナス+1"
     },
     "Diabolic Dragon (Young, Spellcaster)": {
-      "tokenName": "ダイアボリック・ドラゴン(ヤング)",
+      "tokenName": "ディアボリック・ドラゴン(ヤング)",
       "items": {
         "WzPdvtpkSVfFBrZ5": {
           "name": "ディバイン・プリペアード・スペルズ"
@@ -12631,7 +12631,7 @@
           "name": "リアクティヴ・ストライク"
         },
         "sC6FZ4PWGfB7jJ5I": {
-          "name": "ダイアボリック・ファイア",
+          "name": "ディアボリック・ファイア",
           "description": "<p>ディアボリックなドラゴンが与えるあらゆる火炎ダメージは(呪文による火炎ダメージを含む)、精神をも焦がす地獄のアンホーリーな力で満たされている。クリーチャーにとってその方が有害である場合、クリーチャーは火炎ダメージの代わりに精神ダメージを受ける(GMの判断によって)。ディアボリックなドラゴンは、他のディアボリックなドラゴンの地獄の火炎、ディバイン・イモレーションによる火炎、および同様の効果に対して免疫である。</p>"
         },
         "2SfnAmO0wAMNDsit": {
@@ -12651,7 +12651,7 @@
           "name": "リーガル・ロア"
         }
       },
-      "name": "ダイアボリック・ドラゴン（ヤング、スペルキャスター）/Diabolic Dragon (Young, Spellcaster)",
+      "name": "ディアボリック・ドラゴン（ヤング、スペルキャスター）/Diabolic Dragon (Young, Spellcaster)",
       "publicNotes": "<p>Hell, according to some theologians, is a living entity in and of itself. Diabolic dragons, these scholars argue, are just extensions of the plane, living creatures that break off from Hell to enact its will. Whether this is true or whether diabolical dragons are simply the reborn souls of dragons sent to Hell, the fact remains that these dragons are powerful, cunning, and tyrannical. Every diabolic dragon's goal is to further Hell's will, though how this happens can vary. Regardless of their goals, these dragons always approach newcomers with an unsettling calmness.</p>\n<hr />\n<p>Dragons come in myriad forms, with many having magical abilities or connections to magic. Some dragons draw greater power from magic than others, allowing them to manifest abilities or alter their physiques with prolonged exposure to magic. These dragons become more powerful as they age and strengthen their connections with their magical origins. Scholars debate the classification of these dragons, with some preferring the name magical dragons and others using traditional dragons due to their connection to specific magical traditions. Regardless of their names, these dragons share a number of characteristics: their ability to tap into magical energies, intensified might and cunning as they grow older, and an inclination to hoard vast amounts of treasure and wealth.</p>\n<h2>Draconic Spellcasters</h2>\n<p>Each dragon features a sidebar on spellcasting dragons of that type. To make a dragon spellcaster, remove the dragon's Draconic Frenzy and Draconic Momentum abilities, and give them the spells outlined in their sidebar. You can swap out any number of these with other spells, provided you keep the same number of spells for each rank. You might also want to increase the dragon's Intelligence, Wisdom, or Charisma modifier by 1 or 2 to reflect their mastery of magic.</p>",
       "allSaves": "神聖に対するすべてのセーヴに状況ボーナス+2"
     },
@@ -15605,7 +15605,7 @@
       "publicNotes": "<p>The brutish and gluttonous augnagar live to feast—preferably on rotten flesh and, when possible, demon flesh. But to them, the greatest delicacy is the flesh of other augnagars. Augnagars have swollen, spiderlike legs with leathery membranes like a bat's wings, and three tails ending in hooked stings perfect for slicing flesh.</p>\n<p>An augnagar that gorges sufficiently, especially on other augnagars, can grow so massive it can't even move, thrashing and festering where it lies. It eventually flies into a frenzy of self-cannibalism as it rips apart its own flesh to feast on. From the ruinous remains emerges a thulgant—a smaller but more powerful qlippoth.</p>\n<hr />\n<p>Long before the creatures known as demons came to be the dominant force in the Outer Rifts, qlippoth ruled the innumerable cracks of the Outer Sphere. These inimical creatures are a form of primordial and alien evil that predates mortal life, and most immortal life as well. Since the rise of mortal sin and the associated expansion of demonic life through the Outer Rifts, qlippoth have been driven to their deepest reaches, and they seethe with rancor at the loss of their realms. Yet, rather than directly oppose demons, qlippoth instead turn to the source—mortal sin—and wage an endless war to eradicate all creatures capable of sinful acts so that the demonic tide might be turned back. To ensure they do not bolster their foe's ranks, they enact horrific transformations on their targets, converting their victims into beings incapable of discerning right from wrong; this renders them unable to be judged by Pharasma's courts and thus incapable of becoming fiends. Most mortals consider the ministrations of a qlippoth to be far worse than any fate awaiting them in the afterlife.</p>"
     },
     "Diabolic Dragon (Ancient, Spellcaster)": {
-      "tokenName": "ダイアボリック・ドラゴン(エンシェント)",
+      "tokenName": "ディアボリック・ドラゴン(エンシェント)",
       "items": {
         "97zxNeHM8e5yOody": {
           "name": "ディバイン・プリペアード・スペルズ"
@@ -15641,7 +15641,7 @@
           "name": "リアクティヴ・ストライク"
         },
         "sC6FZ4PWGfB7jJ5I": {
-          "name": "ダイアボリック・ファイア",
+          "name": "ディアボリック・ファイア",
           "description": "<p>ディアボリックなドラゴンが与えるあらゆる火炎ダメージは(呪文による火炎ダメージを含む)、精神をも焦がす地獄のアンホーリーな力で満たされている。クリーチャーにとってその方が有害である場合、クリーチャーは火炎ダメージの代わりに精神ダメージを受ける(GMの判断によって)。ディアボリックなドラゴンは、他のディアボリックなドラゴンの地獄の火炎、ディバイン・イモレーションによる火炎、および同様の効果に対して免疫である。</p>"
         },
         "2SfnAmO0wAMNDsit": {
@@ -15661,7 +15661,7 @@
           "name": "リーガル・ロア"
         }
       },
-      "name": "ダイアボリック・ドラゴン（エンシェント、スペルキャスター）/Diabolic Dragon (Ancient, Spellcaster)",
+      "name": "ディアボリック・ドラゴン（エンシェント、スペルキャスター）/Diabolic Dragon (Ancient, Spellcaster)",
       "publicNotes": "<p>Hell, according to some theologians, is a living entity in and of itself. Diabolic dragons, these scholars argue, are just extensions of the plane, living creatures that break off from Hell to enact its will. Whether this is true or whether diabolical dragons are simply the reborn souls of dragons sent to Hell, the fact remains that these dragons are powerful, cunning, and tyrannical. Every diabolic dragon's goal is to further Hell's will, though how this happens can vary. Regardless of their goals, these dragons always approach newcomers with an unsettling calmness.</p>\n<hr />\n<p>Dragons come in myriad forms, with many having magical abilities or connections to magic. Some dragons draw greater power from magic than others, allowing them to manifest abilities or alter their physiques with prolonged exposure to magic. These dragons become more powerful as they age and strengthen their connections with their magical origins. Scholars debate the classification of these dragons, with some preferring the name magical dragons and others using traditional dragons due to their connection to specific magical traditions. Regardless of their names, these dragons share a number of characteristics: their ability to tap into magical energies, intensified might and cunning as they grow older, and an inclination to hoard vast amounts of treasure and wealth.</p>\n<h2>Draconic Spellcasters</h2>\n<p>Each dragon features a sidebar on spellcasting dragons of that type. To make a dragon spellcaster, remove the dragon's Draconic Frenzy and Draconic Momentum abilities, and give them the spells outlined in their sidebar. You can swap out any number of these with other spells, provided you keep the same number of spells for each rank. You might also want to increase the dragon's Intelligence, Wisdom, or Charisma modifier by 1 or 2 to reflect their mastery of magic.</p>",
       "allSaves": "神聖に対するすべてのセーヴに状況ボーナス+2"
     },
