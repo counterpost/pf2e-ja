@@ -194,8 +194,8 @@
       "description": "<p>魔法は解放であり、目的を達成するための手段であり、あなたはそれを使って行きたい場所へ行き、したいことをし、結果を回避することができる。あなたは呪文と刃の笑う影であり、常に敵の一歩先を行き、常に袖の中に策略を隠し持っている。</p>\n<p>アーケイン・カスケードの構えの間、あなたは自身の移動速度に+5フィートの状況ボーナスを得る。鎧を着用していない場合は+10フィートのボーナスを得る。構えの間に片手が空いており、@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{無防備}状態のクリーチャーを攻撃する場合、追加ダメージは3に増加する。武器のスペシャライゼーションがある場合は5に、上級武器のスペシャライゼーションがある場合は7に増加する。もう片方の手は完全に空いていなければならない。その手に空き手武器やその他のアイテムを持っている場合、たとえ通常であればその手で他のことができるとしても、追加ダメージは適用されない。</p>\n<p><strong>コンフラックス・呪文</strong> @UUID[Compendium.pf2e.spells-srd.Item.5p9Y4ACrtRM4gTpN]{ディメンジョナル・アサルト}</p>"
     },
     "Advanced Deed": {
-      "name": "アドヴァンスド・ディード/Advanced Deed",
-      "description": "<p>あなたは自身の選んだ路の強力な新しい技を習得した。あなたは1レベルの時点で選択した路の「上級の偉業(advanced deed)」能力を得る。</p>"
+      "name": "高度な離れ業/Advanced Deed",
+      "description": "<p>あなたは自身の選んだ路の強力な新しい技を習得した。あなたは1レベルの時点で選択した路の高度な離れ業の能力を得る。</p>"
     },
     "Ruffian": {
       "name": "荒くれ者/Ruffian",
@@ -590,7 +590,7 @@
     },
     "Way of the Drifter": {
       "name": "ウェイ・オブ・ザ・ドリフター/Way of the Drifter",
-      "description": "<p>あなたは銃と近接武器を相棒として、土地から土地へと旅する放浪者である。おそらくあなたはシャックルズの海賊として刃とピストルでの戦い方を学び、ミンカイでハンド・キャノンとカタナを習得し、あるいはドンガン・ホールドで手斧とクラン・ピストルを練習したのだろう。あなたは機動力と武器の柔軟な使用に頼ることで戦いに勝利する。</p>\n<p><strong>スリンガーズ・リロード</strong> @UUID[Compendium.pf2e.actionspf2e.Item.jSC5AYEfliOPpO3H]{装填 〈ストライク〉}</p>\n<p><strong>功績</strong> <em>初期</em> @UUID[Compendium.pf2e.actionspf2e.Item.Uq2qy9aGNQ5JcPI1]{〈イントゥ・ザ・フレイ〉}; <em>上級</em> @UUID[Compendium.pf2e.actionspf2e.Item.4IxCKbGaEM9nUhld]{〈フィニッシュ・ザ・ジョブ〉}; <em>大</em> @UUID[Compendium.pf2e.actionspf2e.Item.YMhmebfXAoOFXeSB]{〈ドリフターズ・ウェイク〉}</p>\n<p><strong>路スキル</strong> 《軽業》</p>"
+      "description": "<p>あなたは銃と近接武器を相棒として、土地から土地へと旅する放浪者である。おそらくあなたはシャックルズの海賊として刃とピストルでの戦い方を学び、ミンカイでハンド・キャノンとカタナを習得し、あるいはドンガン・ホールドで手斧とクラン・ピストルを練習したのだろう。あなたは機動力と武器の柔軟な使用に頼ることで戦いに勝利する。</p>\n<p><strong>スリンガーズ・リロード</strong> @UUID[Compendium.pf2e.actionspf2e.Item.jSC5AYEfliOPpO3H]{装填 〈ストライク〉}</p>\n<p><strong>離れ業</strong> <em>初期</em> @UUID[Compendium.pf2e.actionspf2e.Item.Uq2qy9aGNQ5JcPI1]{〈イントゥ・ザ・フレイ〉}; <em>高度</em> @UUID[Compendium.pf2e.actionspf2e.Item.4IxCKbGaEM9nUhld]{〈フィニッシュ・ザ・ジョブ〉}; <em>強力</em> @UUID[Compendium.pf2e.actionspf2e.Item.YMhmebfXAoOFXeSB]{〈ドリフターズ・ウェイク〉}</p>\n<p><strong>路スキル</strong> 《軽業》</p>"
     },
     "Psychic Weapon Specialization": {
       "name": "サイキック・ウェポン・スペシャライゼーション",
@@ -1750,7 +1750,7 @@
     },
     "Gunslinger's Way": {
       "name": "ガンスリンガーズ・ウェイ/Gunslinger's Way",
-      "description": "<p>すべてのガンスリンガーは、従うべき特定の路を持っている。これは哲学と戦闘スタイルの複合であり、彼らの戦い方と得意とする武器の両方を定義する。1レベルの時点で、あなたの路は初期の偉業、スリンガーのリロードと呼ばれる独自の装填アクション、そして特定のスキルへの習熟度を授ける。また、後のレベルで上級の偉業や大いなる偉業を獲得し、さらにその路に特有の特技も利用できるようになる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.a3pSIKkDVTvvNSRO]{流浪の路}</strong>あなたは戦場を彷徨い、乱戦の内外を問わず等しく活躍する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.qRLRrHf0kzaJ7xt0]{拳銃使いの路}</strong>あなたは拳銃を手に、決闘者の10歩の距離を慎重に保つ。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.QWXvksGJhOjXbBqi]{狙撃手の路}</strong>あなたは遠くの遮蔽物から攻撃する、計画的な射撃スタイルを実践する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.vB0yVFxJVZwalt2g]{先陣の路}</strong>あなたは重火器と爆発的な攻撃を用いる、ブルータルな戦闘スタイルに頼る。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.YryaWAGcHeaRnXzS]{銃剣使いの路}</strong>あなたは近接戦闘と遠隔戦闘の両方で武器としてうまく機能する銃器を好む。</p>"
+      "description": "<p>すべてのガンスリンガーは、従うべき特定の路を持っている。これは哲学と戦闘スタイルの複合であり、彼らの戦い方と得意とする武器の両方を定義する。1レベルの時点で、あなたの路は初期の離れ業、スリンガーのリロードと呼ばれる独自の装填アクション、そして特定のスキルへの習熟度を授ける。また、後のレベルで高度な離れ業と強力な離れ業を獲得し、さらにその路に特有の特技も利用できるようになる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.a3pSIKkDVTvvNSRO]{流浪の路}</strong>あなたは戦場を彷徨い、乱戦の内外を問わず等しく活躍する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.qRLRrHf0kzaJ7xt0]{拳銃使いの路}</strong>あなたは拳銃を手に、決闘者の10歩の距離を慎重に保つ。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.QWXvksGJhOjXbBqi]{狙撃手の路}</strong>あなたは遠くの遮蔽物から攻撃する、計画的な射撃スタイルを実践する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.vB0yVFxJVZwalt2g]{先陣の路}</strong>あなたは重火器と爆発的な攻撃を用いる、ブルータルな戦闘スタイルに頼る。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.YryaWAGcHeaRnXzS]{銃剣使いの路}</strong>あなたは近接戦闘と遠隔戦闘の両方で武器としてうまく機能する銃器を好む。</p>"
     },
     "Barrow's Edge": {
       "name": "バロウズ・エッジ/Barrow's Edge",
@@ -2111,7 +2111,7 @@
     },
     "Way of the Spellshot": {
       "name": "ウェイ・オブ・ザ・スペルショット/Way of the Spellshot",
-      "description": "<p>あなたは魔法とテクノロジーの複雑な仕組みを学び、その両者を融合させて致命的な結果を生み出すようになった。あなたは秘術理論の知識と、選択した武器との強力な結びつきを組み合わせることで、独自の効果を発揮できるようになり、銃器による致命的なスキルと、中程度の呪文発動能力を両立させている。あなたは武器にエネルギーを付与し、何もないところから弾丸を生成することができる。成長するにつれて、最終的には弾丸を壁越しに透過させたり、弾丸の軌道に沿ってあなた自身をテレポートさせたりすることさえできるようになる。あなたは2レベルのクラス特技として@UUID[Compendium.pf2e.feats-srd.Item.BwDIwjHasZwcd61Z]{スペルショット・デディケーション}を選択しなければならない。</p>\n<p><strong>前提条件</strong>あなたはガンスリンガーでなければならない。</p>\n<p><strong>スペルショットの調整</strong>ガンスリンガー・クラスに記載されている選択肢から「路」を選ぶ代わりに、あなたはスペルショットの路を持つ。それには以下の「路」のスキル、スリンガーのリロード、および「偉業」が含まれる。あなたはこれらの能力を、クラスの通常レベルと同じレベルで獲得する。あなたはクラスのDCに【知力】を使用する。</p>\n<p><strong>路のスキル</strong> 《秘術》</p>\n<p><strong>スリンガーのリロード</strong> @UUID[Compendium.pf2e.actionspf2e.Item.9kIvFxA5V9rvNWiH]{〈ソートフル・リロード〉}</p>\n<p><strong>偉業</strong> <em>初期</em> @UUID[Compendium.pf2e.actionspf2e.Item.TSDbyYRQwhIyY2Oq]{〈エナジー・ショット〉}; <em>上級</em> @UUID[Compendium.pf2e.actionspf2e.Item.DYn1igFjCGJEiP22]{〈リコール・アミュニション〉}; <em>大業</em> @UUID[Compendium.pf2e.actionspf2e.Item.Fe487XZBdqEI2InL]{〈ディスペリング・ブレット〉}</p>",
+      "description": "<p>あなたは魔法とテクノロジーの複雑な仕組みを学び、その両者を融合させて致命的な結果を生み出すようになった。あなたは秘術理論の知識と、選択した武器との強力な結びつきを組み合わせることで、独自の効果を発揮できるようになり、銃器による致命的なスキルと、中程度の呪文発動能力を両立させている。あなたは武器にエネルギーを付与し、何もないところから弾丸を生成することができる。成長するにつれて、最終的には弾丸を壁越しに透過させたり、弾丸の軌道に沿ってあなた自身をテレポートさせたりすることさえできるようになる。あなたは2レベルのクラス特技として@UUID[Compendium.pf2e.feats-srd.Item.BwDIwjHasZwcd61Z]{スペルショット・デディケーション}を選択しなければならない。</p>\n<p><strong>前提条件</strong>あなたはガンスリンガーでなければならない。</p>\n<p><strong>スペルショットの調整</strong>ガンスリンガー・クラスに記載されている選択肢から「路」を選ぶ代わりに、あなたはスペルショットの路を持つ。それには以下の路のスキル、スリンガーのリロード、離れ業が含まれる。あなたはこれらの能力を、クラスの通常レベルと同じレベルで獲得する。あなたはクラスのDCに【知力】を使用する。</p>\n<p><strong>路のスキル</strong> 《秘術》</p>\n<p><strong>スリンガーのリロード</strong> @UUID[Compendium.pf2e.actionspf2e.Item.9kIvFxA5V9rvNWiH]{〈ソートフル・リロード〉}</p>\n<p><strong>離れ業</strong> <em>初期</em> @UUID[Compendium.pf2e.actionspf2e.Item.TSDbyYRQwhIyY2Oq]{〈エナジー・ショット〉}; <em>高度</em> @UUID[Compendium.pf2e.actionspf2e.Item.DYn1igFjCGJEiP22]{〈リコール・アミュニション〉}; <em>強力</em> @UUID[Compendium.pf2e.actionspf2e.Item.Fe487XZBdqEI2InL]{〈ディスペリング・ブレット〉}</p>",
       "prerequisites": [
         {
           "value": "あなたはガンスリンガーでなければならない。"
@@ -2373,7 +2373,7 @@
     },
     "Way of the Pistolero": {
       "name": "ウェイ・オブ・ザ・ピストレーロ/Way of the Pistolero",
-      "description": "<p>あなたがプロの決闘者であろうと、ピストルを回すエンターテイナーであろうと、あなたには決して期待を裏切らない素早い足とさらに素早い手があり、敵を刺す鋭い機知と舌を持っている。あなたは片手を空けておくか、あるいはツイン武器のために両利きを鍛えるかもしれない。いずれにせよ、あなたは優れた反射神経を活用できるほど敵に近づきつつ、安全に射撃できるだけの距離を保つ。</p>\n<p><strong>スリンガーの装填</strong> @UUID[Compendium.pf2e.actionspf2e.Item.RADNqsvAt4gP9FOX]{語り部の装填}</p>\n<p><strong>功績</strong> <em>初期</em> @UUID[Compendium.pf2e.actionspf2e.Item.EeM0Czaep7G5ZSh5]{十歩}; <em>上級</em> @UUID[Compendium.pf2e.actionspf2e.Item.bCDMuu3tE4d6KHrJ]{ピストレーロの反撃}; <em>大業</em> @UUID[Compendium.pf2e.actionspf2e.Item.rI2MSXR1MQzgQUO7]{冷酷な闊歩}</p>\n<p><strong>路スキル</strong> 《欺瞞》または《威圧》を選択する</p>"
+      "description": "<p>あなたがプロの決闘者であろうと、ピストルを回すエンターテイナーであろうと、あなたには決して期待を裏切らない素早い足とさらに素早い手があり、敵を刺す鋭い機知と舌を持っている。あなたは片手を空けておくか、あるいはツイン武器のために両利きを鍛えるかもしれない。いずれにせよ、あなたは優れた反射神経を活用できるほど敵に近づきつつ、安全に射撃できるだけの距離を保つ。</p>\n<p><strong>スリンガーの装填</strong> @UUID[Compendium.pf2e.actionspf2e.Item.RADNqsvAt4gP9FOX]{語り部の装填}</p>\n<p><strong>離れ業</strong> <em>初期</em> @UUID[Compendium.pf2e.actionspf2e.Item.EeM0Czaep7G5ZSh5]{十歩}; <em>高度</em> @UUID[Compendium.pf2e.actionspf2e.Item.bCDMuu3tE4d6KHrJ]{ピストレーロの反撃}; <em>強力</em> @UUID[Compendium.pf2e.actionspf2e.Item.rI2MSXR1MQzgQUO7]{冷酷な闊歩}</p>\n<p><strong>路スキル</strong> 《欺瞞》または《威圧》を選択する</p>"
     },
     "Handler's Calling": {
       "name": "ハンドラーズ・コーリング/Handler's Calling",
@@ -2405,7 +2405,7 @@
     },
     "Way of the Sniper": {
       "name": "ウェイ・オブ・ザ・スナイパー/Way of the Sniper",
-      "description": "<p>あなたは、確実な命中精度と最初の射撃の完璧な配置に頼る射撃スタイルを実践している。あなたは隠れているか距離を保ち、戦いの渦中から離れ、敵に目に見えない死をもたらす。</p>\n<p><strong>スリンガーの装填</strong> @UUID[Compendium.pf2e.actionspf2e.Item.gBhWEy3ToxQeCLQm]{カバード・リロード}</p>\n<p><strong>偉業</strong> <em>初期</em> @UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{ワン・ショット、ワン・キル}; <em>上級</em> @UUID[Compendium.pf2e.actionspf2e.Item.vO0Y1dVjNfbDyT4S]{ヴァイタル・ショット}; <em>最上級</em> @UUID[Compendium.pf2e.actionspf2e.Item.O1iircZOOCo42r9Y]{ゴースト・ショット}</p>\n<p><strong>路のスキル</strong> 《隠密》</p>"
+      "description": "<p>あなたは、確実な命中精度と最初の射撃の完璧な配置に頼る射撃スタイルを実践している。あなたは隠れているか距離を保ち、戦いの渦中から離れ、敵に目に見えない死をもたらす。</p>\n<p><strong>スリンガーの装填</strong> @UUID[Compendium.pf2e.actionspf2e.Item.gBhWEy3ToxQeCLQm]{カバード・リロード}</p>\n<p><strong>離れ業</strong> <em>初期</em> @UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{ワン・ショット、ワン・キル}; <em>高度</em> @UUID[Compendium.pf2e.actionspf2e.Item.vO0Y1dVjNfbDyT4S]{ヴァイタル・ショット}; <em>強力</em> @UUID[Compendium.pf2e.actionspf2e.Item.O1iircZOOCo42r9Y]{ゴースト・ショット}</p>\n<p><strong>路のスキル</strong> 《隠密》</p>"
     },
     "Spell Substitution": {
       "name": "呪文差し替え",
@@ -2875,7 +2875,7 @@
     },
     "Way of the Vanguard": {
       "name": "ウェイ・オブ・ザ・ヴァンガード/Way of the Vanguard",
-      "description": "<p>あなたはドワーフの攻城工兵が編み出した独自の戦闘スタイルを修練しており、広範囲を攻撃できる重武器を使用して敵の戦列に風穴を開け、味方のために道を切り開き、征服した領土を防御する。</p>\n<p><strong>スリンガーズ・リロード</strong> @UUID[Compendium.pf2e.actionspf2e.Item.tw1KDRPdBAkg5DlS]{クリア・ア・パス}</p>\n<p><strong>功績</strong> <em>初期</em> @UUID[Compendium.pf2e.actionspf2e.Item.9MJcQEMVVrmMyGyq]{リビング・フォーティフィケーション}；<em>上級</em> @UUID[Compendium.pf2e.actionspf2e.Item.6OZfIjiPjWTIe7Pr]{スピニング・クラッシュ}；<em>大業</em> @UUID[Compendium.pf2e.actionspf2e.Item.A4L90h7FIgO5EyBx]{シージブレイカー}</p>\n<p><strong>路スキル</strong> 《運動》</p>"
+      "description": "<p>あなたはドワーフの攻城工兵が編み出した独自の戦闘スタイルを修練しており、広範囲を攻撃できる重武器を使用して敵の戦列に風穴を開け、味方のために道を切り開き、征服した領土を防御する。</p>\n<p><strong>スリンガーズ・リロード</strong> @UUID[Compendium.pf2e.actionspf2e.Item.tw1KDRPdBAkg5DlS]{クリア・ア・パス}</p>\n<p><strong>離れ業</strong> <em>初期</em> @UUID[Compendium.pf2e.actionspf2e.Item.9MJcQEMVVrmMyGyq]{リビング・フォーティフィケーション}；<em>高度</em> @UUID[Compendium.pf2e.actionspf2e.Item.6OZfIjiPjWTIe7Pr]{スピニング・クラッシュ}；<em>強力</em> @UUID[Compendium.pf2e.actionspf2e.Item.A4L90h7FIgO5EyBx]{シージブレイカー}</p>\n<p><strong>路スキル</strong> 《運動》</p>"
     },
     "Military Expertise": {
       "name": "ミリタリー・エキスパーティス/Military Expertise",
@@ -3222,8 +3222,8 @@
       "description": "<p>長年の経験と数え切れないほどの実験の末、あなたはあなた自身で操作できるほどコンパクトでありながら、致命的な一撃を放つ攻城兵器を開発した。</p>\n<p><strong>前提条件:</strong>あなたはインヴェンターでなければならない。</p>\n<p><strong>弾薬のマスター調整:</strong>インヴェンター・クラスに記載されている選択肢からイノヴェーションを選ぶ代わりに、あなたはライト・モルタルのイノヴェーションを得る。また、以下のページに記載されているクラス特徴に以下の変更を加える。特に指定がない限り、あなたはこれらの能力をクラスの通常と同じレベルで得る。あなたは2レベルのクラス特技として@UUID[Compendium.pf2e.feats-srd.Item.WPGT9wBqwOFlvKbV]{ミュニションズ・マスター・デディケーション}を選択しなければならない。</p><h3>イノヴェーション</h3><p>あなたのイノヴェーションは、重量2バルクのライト・モルタルと呼ばれる架台付きの攻城兵器である。精巧な機構であれ爆発性の試薬であれ、それがペイロードを推進させる手段に関わらず、それは甚大なダメージを与える能力がある。あなたのライト・モルタルは、あなたがAim(照準)、Load(装填)、Launch(発射)を行う前に、それを展開するための〈扱う〉アクションを必要とし、展開の一部としてそれが搭載されている独自の車輪付きプラットフォームが含まれる。それはマニピュレートトレイトを持つ2アクションのアクティビティとして、容易に運搬できるよう梱包し直すことができ、梱包時はバックパックとして着用するか、片手で運ぶことができる。ライト・モルタルは小型であるため、展開されている場合、Move Siege Engine(攻城兵器移動)アクティビティは1アクションしかかからない。</p>\n<p>あなたのライト・モルタルは、以下に示す統計値を持つ1レベルの攻城兵器として始まる。それは5レベルおよびその後4レベルごとに、追加のダメージダイスを与える。あなたがライト・モルタルでLaunch(発射)を行う際、その反応セーヴはあなたのクラスDCと等しい。そのACはあなたのインヴェンター・クラスDCと等しく、硬度は5である。それは反応セーヴと頑健セーヴにおいて訓練済みの習熟度を持ち、これらのボーナスを算出する際にはあなたの【知力】修正値を用いる。それは10のヒット・ポイントを持ち、さらにあなたのレベルごとに2＋あなたの【知力】修正値に等しいヒット・ポイントを持つ。その破損値(BT)は、その合計ヒット・ポイントの半分(端数切り捨て)に等しい。</p>\n<p>5レベルになると、あなたのライト・モルタルの硬度は10に増加する。10レベルになると、それは15に増加し、反応セーヴと頑健セーヴにおける習熟ランクはエキスパートに上昇する。15レベルになると、その硬度は20に増加し、反応セーヴと頑健セーヴにおける習熟ランクはマスターに上昇する。</p><p>あなたのイノヴェーションは、キャリー・ショットと呼ばれる小さな砲弾を発射する。10発のキャリー・ショットのグループは重量1バルクであり、弾薬を販売しているほとんどの店で5 spで購入できる。</p>\n<p>あなたのイノヴェーションに適用する初期ライト・モルタル改造を1つ選ぶこと。以下から選ぶか、あなたがアクセス権を持つ他の初期ライト・モルタル改造から選ぶこと。これらの改造はあなたのライト・モルタルの能力や形態を変化させる。</p><ul><li><strong>封じ込められた榴散弾</strong>あなたはライト・モルタルの弾薬を改造し、衝撃時に破片が飛散しないようにする。あなたのイノヴェーションはノンリーサルトレイトを得る。あなたはLaunch(発射)のたびにノンリーサルトレイトを適用するかどうかを選択できる。</li><li><strong>強化榴散弾</strong>あなたはライト・モルタルの弾薬を改造し、衝撃時の砕け方を変え、剃刀のように鋭い破片の雨を近くのクリーチャーに浴びせる。あなたのイノヴェーションはバーサタイルPトレイトとバーサタイルSトレイトを得る。あなたはイノヴェーションによるLaunch(発射)のたびに、これらのトレイトのいずれかを適用するかどうかを選択できる。</li><li><strong>スプリング式</strong>あなたはバネを使ってコンポーネントを素早く展開・伸長できるようにイノヴェーションを設計し、迅速な展開に最適化した。あなたはフリー・アクションとしてライト・モルタルを展開できる。</li></ul><h3>@UUID[Compendium.pf2e.classfeatures.Item.oP5zM5Yu41xcx3iu]{オーヴァードライヴ}</h3><p>Overdriveによってあなたが与える追加ダメージは、まるでそれがストライクであるかのように、ライト・モルタルで行うLaunch(発射)に適用される。</p><h3>@UUID[Compendium.pf2e.classfeatures.Item.pEm1RTNuzzQVKkR0]{エクスプロード}</h3><p>あなたがこの能力を使用する際、エマナシオンはあなたのイノヴェーションを中心とし、あなたは自分がいる広場をエマナシオンから除外することを選択できる。</p><h3>@UUID[Compendium.pf2e.classfeatures.Item.78HIjRbGoONMpF31]{ブレイクスルー・イノヴェイション}(7レベル)</h3><p>ブレイクスルー・イノヴェーションを選択する際は、以下のブレイクスルー・ライト・モルタル改造から選択すること。通常通り、好むのであれば代わりに初期ライト・モルタル改造を選択してもよい。</p><ul><li><strong>銀・冷鉄コーティング室</strong>あなたはライト・モルタルの発射室にある弾薬に微細な金属粉を埋め込む。これらの金属粉は、衝撃で弾薬が砕けた後もその破片に埋め込まれたままである。あなたの弾薬はコールド・アイアンおよび銀として扱う。</li><li><strong>アースブレイカー</strong> Launch(発射)を行うたびに、あなたは爆発の威力を下方に向けるよう弾薬を調整することを選択できる。これによりダメージは半分になるが、爆発範囲内に難地形を作り出す。</li><li><strong>狭小爆発</strong> あなたは衝撃の威力が狭い帯状に集中するように弾薬を調整する。Launch(発射)を行うたびに、あなたは爆発を@Template[type:burst|distance:10]の代わりに@Template[type:cone|distance:20]の形状にすることを選択できる。この円錐は衝撃地点を起点としなければならず、あなたから直接離れる方向、またはその左右45度の方向に向けなければならない。</li></ul><h3>@UUID[Compendium.pf2e.classfeatures.Item.mQVC1iDyNi2tfsF8]{発明の熟達} (7レベル)</h3><p>あなたはこのクラス特徴を9レベルではなく7レベルで獲得する。</p><h3>@UUID[Compendium.pf2e.classfeatures.Item.F8oXHnu9iNTcpXbJ]{攻撃的ブースト} (9レベル)</h3><p>あなたが選択した攻撃的ブーストは、ライト・モルタルで行うLaunch(発射)に、それがStrike(打撃)であるかのように適用される。</p><h3>@UUID[Compendium.pf2e.classfeatures.Item.Uu8VnpAo3XZZEKPd]{発明の極意} (15レベル)</h3><p>あなたはこのクラス特徴を17レベルではなく15レベルで獲得する。</p><h3>@UUID[Compendium.pf2e.classfeatures.Item.tXbadIT3LzwuSR19]{革新的イノヴェーション} (15レベル)</h3><p>革新的イノヴェーションを選択する際は、以下の革新的ライト・モルタル改造から選択すること。通常通り、好むのであれば代わりに初期またはブレイクスルー・ライト・モルタル改造を選択してもよい。</p><ul><li><strong>強化ダメージ</strong> 同名の革新的武器改造と同様である。</li><li><strong>インポッシブル・アロイ</strong> 同名の革新的武器改造と同様だが、発射時に弾薬に合金が埋め込まれる点が異なる。</li><li><strong>精密爆発</strong> あなたはライト・モルタルを極めて精密に制御できるため、衝撃の爆発を味方を傷つけることなく彼らの周囲に回り込ませることができる。Launch(発射)を行う際、あなたは爆発範囲から除外するマスを、あなたの【知力】修正値の数まで選択できる。</li></ul>"
     },
     "Greater Deed": {
-      "name": "グレーター・ディード/Greater Deed",
-      "description": "<p>あなたは自分が選んだ路の頂点の技を習得した。あなたは1レベルの時に選んだ路の「大いなる偉業」能力を得る。</p>"
+      "name": "強力な離れ業/Greater Deed",
+      "description": "<p>あなたは自分が選んだ路の頂点の技を習得した。あなたは1レベルの時に選んだ路の強力な離れ業の能力を得る。</p>"
     },
     "The Unseen Broker": {
       "name": "ザ・アンシーン・ブローカー/The Unseen Broker",
@@ -3275,7 +3275,7 @@
     },
     "Way of the Triggerbrand": {
       "name": "ウェイ・オブ・ザ・トリガーブランド/Way of the Triggerbrand",
-      "description": "<p>あなたは〈近接〉戦闘と〈遠隔〉戦闘の両方で武器としてうまく機能する銃器、特に少しばかりのスタイルと華やかさを発揮できるものを好む。あなたは「スモッグの都市」の通りのスクラップから武器を寄せ集めた生存者かもしれないし、アルケンスターのエリートたちの決闘のために名工に特注した武器を振るう貴族かもしれない。あなたは複合武器へのアクセスを得る。</p>\n<p><strong>スリンガーズ・リロード</strong> @UUID[Compendium.pf2e.actionspf2e.Item.WpCs3QmPVn8SRbXy]{〈タッチ・アンド・ゴー〉}</p>\n<p><strong>武勲</strong> <em>初期 @UUID[Compendium.pf2e.actionspf2e.Item.DFRLID6lIRw7CzOT]{〈スプリング・ザ・トラップ〉}</em>; <em>上級 @UUID[Compendium.pf2e.actionspf2e.Item.UyMkWfVqdabLTgkH]{〈ワインド・ゼム・アップ〉}</em>; <em>大武勲 @UUID[Compendium.pf2e.actionspf2e.Item.NYR2IdfUiHevdt1V]{〈ブレイク・ゼム・ダウン〉}</em></p>\n<p><strong>路 〈スキル〉</strong> 《盗賊術》</p>"
+      "description": "<p>あなたは〈近接〉戦闘と〈遠隔〉戦闘の両方で武器としてうまく機能する銃器、特に少しばかりのスタイルと華やかさを発揮できるものを好む。あなたは「スモッグの都市」の通りのスクラップから武器を寄せ集めた生存者かもしれないし、アルケンスターのエリートたちの決闘のために名工に特注した武器を振るう貴族かもしれない。あなたは複合武器へのアクセスを得る。</p>\n<p><strong>スリンガーズ・リロード</strong> @UUID[Compendium.pf2e.actionspf2e.Item.WpCs3QmPVn8SRbXy]{〈タッチ・アンド・ゴー〉}</p>\n<p><strong>離れ業</strong> <em>初期 @UUID[Compendium.pf2e.actionspf2e.Item.DFRLID6lIRw7CzOT]{〈スプリング・ザ・トラップ〉}</em>; <em>高度 @UUID[Compendium.pf2e.actionspf2e.Item.UyMkWfVqdabLTgkH]{〈ワインド・ゼム・アップ〉}</em>; <em>強力 @UUID[Compendium.pf2e.actionspf2e.Item.NYR2IdfUiHevdt1V]{〈ブレイク・ゼム・ダウン〉}</em></p>\n<p><strong>路 〈スキル〉</strong> 《盗賊術》</p>"
     },
     "Antimagic Plating": {
       "name": "アンチマジック・プレイティング/Antimagic Plating",
