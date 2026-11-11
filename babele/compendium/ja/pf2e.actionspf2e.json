@@ -2184,7 +2184,7 @@
     },
     "Fortify Focus": {
       "name": "フォーティファイ・フォーカス/Fortify Focus",
-      "description": "<p><strong>必要条件</strong>あなたが指定した相棒と接触しており、かつその相棒のフォーカス・プールが満タンではない</p><hr /><p><strong>効果</strong>あなたの相棒はフォーカス・ポイントを1点回復する。</p>",
+      "description": "<p><strong>必要条件</strong>あなたが指定したコンパニオンと接触しており、かつそのコンパニオンのフォーカス・プールが満タンではない</p><hr /><p><strong>効果</strong>あなたのコンパニオンはフォーカス・ポイントを1点回復する。</p>",
       "source": "Pathfinder Lost Omens Draconic Codex"
     },
     "Spread Realm": {
