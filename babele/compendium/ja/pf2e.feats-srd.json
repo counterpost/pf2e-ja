@@ -5239,7 +5239,7 @@
     },
     "Practiced Reloads": {
       "name": "プラクティスト・リローズ/Practiced Reloads",
-      "description": "<p>あなたは、通常は最も熱心な銃器専門家のみが行うリロード技術と方法を習得している。あなたは、@UUID[Compendium.pf2e.feats-srd.Item.USt0jwK8XI5loG4E]{ガンスリンガー・デディケーション}で選んだ方法に対してスリンガーのリロードを得る。</p>",
+      "description": "<p>あなたは、通常は最も熱心な銃器専門家のみが行うリロード技術と方法を習得している。あなたは、@UUID[Compendium.pf2e.feats-srd.Item.USt0jwK8XI5loG4E]{ガンスリンガー・デディケーション}で選んだ流儀のスリンガーのリロードを得る。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -8643,7 +8643,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
-          "value": "トリガーブランドの道"
+          "value": "トリガーブランドの流儀"
         }
       ]
     },
@@ -11245,7 +11245,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "ヴァンガードの道"
+          "value": "ヴァンガードの流儀"
         }
       ]
     },
@@ -11948,7 +11948,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "ウィザードの道"
+          "value": "スペルショットの流儀"
         }
       ]
     },
@@ -18170,7 +18170,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "流浪者の道"
+          "value": "ドリフターの流儀"
         }
       ]
     },
@@ -24820,7 +24820,7 @@
     },
     "Slinger's Readiness": {
       "name": "スリンガーズ・レディネス/Slinger's Readiness",
-      "description": "<p>あなたは戦闘での領域確保のためのガンスリンガーのトリックを学んだ。あなたは、@UUID[Compendium.pf2e.feats-srd.Item.USt0jwK8XI5loG4E]{ガンスリンガー・デディケーション}で選択した路の初期の離れ業を得る。</p>",
+      "description": "<p>あなたは戦闘での領域確保のためのガンスリンガーのトリックを学んだ。あなたは、@UUID[Compendium.pf2e.feats-srd.Item.USt0jwK8XI5loG4E]{ガンスリンガー・デディケーション}で選択した流儀の初期の離れ業を得る。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -35229,7 +35229,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "スナイパーの道"
+          "value": "スナイパーの流儀"
         }
       ]
     },
@@ -36779,7 +36779,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "ヴァンガードの方法"
+          "value": "ヴァンガードの流儀"
         }
       ]
     },
@@ -38704,7 +38704,7 @@
       "source": "Pathfinder Lost Omens Impossible Lands",
       "prerequisites": [
         {
-          "value": "トリガーブランドの方法"
+          "value": "トリガーブランドの流儀"
         }
       ]
     },
@@ -43037,7 +43037,7 @@
     },
     "Gunslinger Dedication": {
       "name": "ガンスリンガー・デディケーション/Gunslinger Dedication",
-      "description": "<p>あなたは特定の種類の 遠隔武器を使うのが得意だ。あなたは武闘クロスボウと火器に精通しており、これらを熟練度に関して単純な武器として扱う。</p>\n<p>あなたは、不死のトレイトを持たない珍しい武闘クロスボウと火器にアクセスできるようになる。あなたは訓練済みのガンスリンガークラス DCになる。</p>\n<p>ガンスリンガーの流派を選ぶ。あなたはその流派に関連するスキルで訓練済みになる。もしあなたが既にこのスキルで訓練済みであれば、あなたは選んだスキルで訓練済みになる。流派の選択からは他の能力は得られない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.CSVoyUvynmM5LzPW]{Gunslinger}</p>",
+      "description": "<p>あなたは特定の種類の 遠隔武器を使うのが得意だ。あなたは武闘クロスボウと火器に精通しており、これらを熟練度に関して単純な武器として扱う。</p>\n<p>あなたは、アンセストリーのトレイトを持たない珍しい武闘クロスボウと火器にアクセスできるようになる。あなたは訓練済みのガンスリンガークラス DCになる。</p>\n<p>ガンスリンガーの流儀を選ぶ。あなたはその流儀に関連するスキルで訓練済みになる。もしあなたが既にこのスキルで訓練済みであれば、あなたは選んだスキルで訓練済みになる。流儀の選択からは他の能力は得られない。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.CSVoyUvynmM5LzPW]{Gunslinger}</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -43446,7 +43446,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "漂流者の道"
+          "value": "ドリフターの流儀"
         }
       ]
     },
@@ -45938,7 +45938,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "スナイパーの道"
+          "value": "スナイパーの流儀"
         }
       ]
     },
@@ -49346,7 +49346,7 @@
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
-          "value": "ピストレロの道"
+          "value": "ピストレーロの流儀"
         }
       ]
     },
