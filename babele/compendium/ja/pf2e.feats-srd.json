@@ -1037,7 +1037,7 @@
     },
     "Shadowdancer Dedication": {
       "name": "シャドウダンサー・デディケーション/Shadowdancer Dedication",
-      "description": "<p>あなたはあなた自身を影に捧げる。あなたの色は灰色で陰鬱になり、感覚が暗闇に適応し、暗闇を簡単に忍び進むことができる。</p>\n<p>あなたはより大きな暗視を得る。あなたはまた、 《隠密》判定を行う際、 薄暗い光または暗闇の中で+2の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.MKU4d2hIpLuXGN2J]{Shadowdancer}</p>",
+      "description": "<p>あなたはあなた自身を影に捧げる。あなたの色は灰色で陰鬱になり、感覚が暗闇に適応し、暗闇を簡単に忍び進むことができる。</p>\n<p>あなたは強力な暗視を得る。あなたはまた、 《隠密》判定を行う際、 薄暗い光または暗闇の中で+2の状況ボーナスを得る。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.MKU4d2hIpLuXGN2J]{Shadowdancer}</p>",
       "source": "Pathfinder Advanced Player's Guide",
       "prerequisites": [
         {
@@ -14437,7 +14437,7 @@
     },
     "Lightless Sight": {
       "name": "ライトレス・サイト/Lightless Sight",
-      "description": "<p>あなたはあなたのウォーシャード武器を装備する限り、暗視を得る。もしあなたがすでに暗視を持っている場合、それはより大きな暗視となる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.nYR1q5D1jLiJj4JM]{〈ウェポンサイト〉}能力も得る。</p>",
+      "description": "<p>あなたはあなたのウォーシャード武器を装備する限り、暗視を得る。もしあなたがすでに暗視を持っている場合、それは強力な暗視となる。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.nYR1q5D1jLiJj4JM]{〈ウェポンサイト〉}能力も得る。</p>",
       "source": "Pathfinder #219: Lord of the Trinity Star",
       "prerequisites": [
         {
@@ -18828,7 +18828,7 @@
     },
     "Defy the Darkness": {
       "name": "ディファイ・ザ・ダークネス/Defy the Darkness",
-      "description": "<p>古代のドワーフの方法を使用して魔法の暗黒を扱う敵と戦うために、あなたはダークビジョンを磨き、そうした魔法を使用しないことを誓った。あなた自身。あなたはより強力なダークビジョンを得て、通常ダークビジョンを妨げる魔法の暗黒(例えば、4ランクの@UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{ダークネス}呪文によって生じた暗黒)を通して見ることができる。あなたはダークネストレイトを持つ呪文を唱えたり、ダークネストレイトを持つアイテムの起動を使用したり、ダークネストレイトを持つ他の能力を使用することはできない。</p>",
+      "description": "<p>古代のドワーフの方法を使用して魔法の暗黒を扱う敵と戦うために、あなたはダークビジョンを磨き、そうした魔法を使用しないことを誓った。あなた自身。あなたは強力な暗視を得て、通常ダークビジョンを妨げる魔法の暗黒(例えば、4ランクの@UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{ダークネス}呪文によって生じた暗黒)を通して見ることができる。あなたはダークネストレイトを持つ呪文を唱えたり、ダークネストレイトを持つアイテムの起動を使用したり、ダークネストレイトを持つ他の能力を使用することはできない。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -30797,7 +30797,7 @@
     },
     "Shadow Sight": {
       "name": "シャドウ・サイト/Shadow Sight",
-      "description": "<p><strong>使用制限</strong>一時間に一回</p>\n<hr />\n<p>あなたはシャドウプレーンとのつながりを利用して、最も深い暗闇を除くすべてを見通すことができる。あなたは1分のためのより優れたダークヴィジョンを得る。</p>",
+      "description": "<p><strong>使用制限</strong>一時間に一回</p>\n<hr />\n<p>あなたはシャドウプレーンとのつながりを利用して、最も深い暗闇を除くすべてを見通すことができる。あなたは1分のための強力な暗視を得る。</p>",
       "selfEffect": "効果: シャドウ視",
       "source": "Pathfinder Lost Omens Ancestry Guide"
     },
@@ -40425,7 +40425,7 @@
     },
     "Stalking Feline Mask": {
       "name": "ストーキング・フィーライン・マスク/Stalking Feline Mask",
-      "description": "<p>あなたの仮面は、アズール・レパード、忍耐強い守護者のように、夜に最も馴染み深く、暗闇を利用して狩りをする方法を教えてくれる。あなたはより優れたダークヴィジョンを得る。あなたが影または暗闇の属性を持つ非トリックの呪文をキャストした直後、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}または@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}をフリー・アクションとして試みることができる。あなたは、選択したアクションの通常の要件を満たす必要があり、例えば、〔隠れる〕のために遮蔽や隠蔽を持っていること、そして〔忍び歩き〕するために見つからないか@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}である必要がある。</p>",
+      "description": "<p>あなたの仮面は、アズール・レパード、忍耐強い守護者のように、夜に最も馴染み深く、暗闇を利用して狩りをする方法を教えてくれる。あなたは強力な暗視を得る。あなたが影または暗闇の属性を持つ非トリックの呪文をキャストした直後、あなたは@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}または@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}をフリー・アクションとして試みることができる。あなたは、選択したアクションの通常の要件を満たす必要があり、例えば、〔隠れる〕のために遮蔽や隠蔽を持っていること、そして〔忍び歩き〕するために見つからないか@UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{隠れている}である必要がある。</p>",
       "source": "Pathfinder #174: Shadows of the Ancients",
       "prerequisites": [
         {
@@ -41498,7 +41498,7 @@
     },
     "Signifer's Sight": {
       "name": "シグニファーズ・サイト/Signifer's Sight",
-      "description": "<p>あなたのサイニファーの仮面を流れる魔法は、あなたに暗闇の中を見る能力を与え、仮面は突然の閃光がもたらす注意の乱れを和らげる。サイニファーの仮面を身に着けている間、あなたは暗視を得る。既に暗視を持っている場合、代わりにより優れた暗視を得る。さらに、サイニファーの仮面を身に着けている間にあなたが@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態であり、対象があなたが目が眩んでいることだけを理由に@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}である場合、そのクリーチャーを対象にするためのフラットチェックDCを5から3に減少させる。</p>",
+      "description": "<p>あなたのサイニファーの仮面を流れる魔法は、あなたに暗闇の中を見る能力を与え、仮面は突然の閃光がもたらす注意の乱れを和らげる。サイニファーの仮面を身に着けている間、あなたは暗視を得る。既に暗視を持っている場合、代わりに強力な暗視を得る。さらに、サイニファーの仮面を身に着けている間にあなたが@UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{目が眩んだ}状態であり、対象があなたが目が眩んでいることだけを理由に@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}である場合、そのクリーチャーを対象にするためのフラットチェックDCを5から3に減少させる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches",
       "prerequisites": [
         {
@@ -45755,7 +45755,7 @@
     },
     "Dissolution's Sight": {
       "name": "ディソリューションズ・サイト/Dissolution's Sight",
-      "description": "<p><strong>使用制限</strong>1時間につき1回</p><hr /><p>内なる闇を受け入れることで、外なる闇があなたの視界を妨げることはできない。あなたは1分に対してより強力なダークビジョンを得る。</p>",
+      "description": "<p><strong>使用制限</strong>1時間につき1回</p><hr /><p>内なる闇を受け入れることで、外なる闇があなたの視界を妨げることはできない。あなたは1分に対して強力な暗視を得る。</p>",
       "selfEffect": "効果: Dissolutionの視界",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
