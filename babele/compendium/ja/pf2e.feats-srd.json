@@ -47019,7 +47019,7 @@
     },
     "Quick Bomber": {
       "name": "クイック・ボマー/Quick Bomber",
-      "description": "<p>あなたは爆弾や爆弾関連の試薬を取りやすいポーチに入れておき、無意識に引き出すことができる。あなたは爆弾を引き出すために〔扱う〕を行い、汎用の小瓶を引き出すか、@UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]{〈クイック・アルケミー〉}を使用して爆弾を作成し、次に@UUID[Compendium.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR]{〈ストライク〉}をその爆弾で行う。もしあなたがクイック・アルケミーを使用して一度に複数の爆弾を作成できる能力を持っているなら(例えば、ダブル・ブリューのクラス機能から)、あなたはこのアクションで作成した爆弾のうち1つだけを使って〔ストライク〕を行うことができる。</p>",
+      "description": "<p>あなたは爆弾や爆弾関連の試薬を取りやすいポーチに入れておき、無意識に引き出すことができる。あなたは爆弾を引き出すために〔扱う〕を行い、汎用の小瓶を引き出すか、@UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]{〈クイック・アルケミー〉}を使用して爆弾を作成し、次に@UUID[Compendium.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR]{〈ストライク〉}をその爆弾で行う。もしあなたがクイック・アルケミーを使用して一度に複数の爆弾を作成できる能力を持っているなら(例えば、ダブル調合のクラス機能から)、あなたはこのアクションで作成した爆弾のうち1つだけを使って〔ストライク〕を行うことができる。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Sin Counterspell": {
