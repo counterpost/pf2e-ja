@@ -1226,7 +1226,7 @@
     "CraftItemTitle": "〈製作する〉",
     "CraftingTab": {
       "Alchemical": {
-        "AdvancedAlchemy": "高等錬金術",
+        "AdvancedAlchemy": "高度な錬金術",
         "AdvancedAlchemyLevel": "高等錬金術のレベル",
         "InfusedReagents": "錬成済みの試薬",
         "ReagentCost": "触媒コスト",

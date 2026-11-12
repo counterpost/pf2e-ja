@@ -12408,7 +12408,7 @@
     },
     "Efficient Alchemy (Alchemist)": {
       "name": "エフィシェント・アルケミー（アルケミスト）/Efficient Alchemy (Alchemist)",
-      "description": "<p>あなたが勉強や実験に費やした時間のおかげで、あなたは公式をより大きなバッチにスケールする方法を知っており、追加の注意を必要としない。増加あなたが@UUID[Compendium.pf2e.classfeatures.Item.Pe0zmIqyTBc2Td0I]{アドバンスト・アルケミー}で毎日作成できるアイテムの数を6 + あなたの知能修正に増加させる。</p>\n<p>さらに、ダウンタイム中にアルケミー消費物を@UUID[Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{〈製作する〉}するとき、追加の準備時間を使わずに、1つのバッチでアルケミーアイテムを2倍作成できる。たとえば、あなたが@UUID[Compendium.pf2e.equipment-srd.Item.hDLbR56Id2OtU318]{エリクサー・オブ・ライフ（マイナー）}を作成している場合、ダウンタイムを使って1つのバッチで最大8つのエリクサーを作成できる、4つではなく。このことは、各アイテムを作成するために必要なアルケミー試薬や他の材料の量を変更せず、基準ダウンタイムの経過後の進行速度にも影響しない。</p>",
+      "description": "<p>あなたが勉強や実験に費やした時間のおかげで、あなたは公式をより大きなバッチにスケールする方法を知っており、追加の注意を必要としない。増加あなたが@UUID[Compendium.pf2e.classfeatures.Item.Pe0zmIqyTBc2Td0I]{高度な錬金術}で毎日作成できるアイテムの数を6 + あなたの知能修正に増加させる。</p>\n<p>さらに、ダウンタイム中にアルケミー消費物を@UUID[Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{〈製作する〉}するとき、追加の準備時間を使わずに、1つのバッチでアルケミーアイテムを2倍作成できる。たとえば、あなたが@UUID[Compendium.pf2e.equipment-srd.Item.hDLbR56Id2OtU318]{エリクサー・オブ・ライフ（マイナー）}を作成している場合、ダウンタイムを使って1つのバッチで最大8つのエリクサーを作成できる、4つではなく。このことは、各アイテムを作成するために必要なアルケミー試薬や他の材料の量を変更せず、基準ダウンタイムの経過後の進行速度にも影響しない。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
         {
@@ -20710,7 +20710,7 @@
     },
     "Astonishing Explosion": {
       "name": "アストニッシング・エクスプロージョン/Astonishing Explosion",
-      "description": "<p><strong>使用制限</strong>毎分1回</p>\n<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.NlEZ0piDxg9buXCL]{アドバンスト・アルケミー}を使用して、スプラッシュダメージを与え、あなたの@UUID[Compendium.pf2e.classfeatures.Item.Pe0zmIqyTBc2Td0I]{アドバンスト・アルケミー}レベルより少なくとも2つのレベルが低い錬金術爆弾を作成する。</p>\n<hr />\n<p>あなたの爆弾は、目撃者を愚かにさせる驚異の爆発的火花を取り入れている。あなたの爆弾で行った〔ストライク〕に命中したターゲットは、@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}あなたによって1ラウンド。クリティカル成功の際、ターゲットはさらに@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}される。</p>",
+      "description": "<p><strong>使用制限</strong>毎分1回</p>\n<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.NlEZ0piDxg9buXCL]{高度な錬金術}を使用して、スプラッシュダメージを与え、あなたの@UUID[Compendium.pf2e.classfeatures.Item.Pe0zmIqyTBc2Td0I]{高度な錬金術}レベルより少なくとも2つのレベルが低い錬金術爆弾を作成する。</p>\n<hr />\n<p>あなたの爆弾は、目撃者を愚かにさせる驚異の爆発的火花を取り入れている。あなたの爆弾で行った〔ストライク〕に命中したターゲットは、@UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{気を取られた}あなたによって1ラウンド。クリティカル成功の際、ターゲットはさらに@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン1}される。</p>",
       "source": "Pathfinder #156: The Apocalypse Prophet"
     },
     "It Takes a Village": {
@@ -22450,7 +22450,7 @@
     },
     "Artokus's Fire": {
       "name": "アートーカスズ・ファイア/Artokus's Fire",
-      "description": "<p><strong>使用制限</strong> 1日につき1回ラウンド</p>\n<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.NlEZ0piDxg9buXCL]{アドバンスト・アルケミー}を使って@UUID[Compendium.pf2e.equipment-srd.Item.yd3kEK21YknZLlcT]{アルケミストズ・ファイア（レッサー）}を製作し、その爆弾のレベルがあなたの@UUID[Compendium.pf2e.classfeatures.Item.Pe0zmIqyTBc2Td0I]{アドバンスト・アルケミー}レベルよりも少なくとも2レベル低い。</p>\n<hr />\n<p>アルトクスは、典型的なアルケミストの火よりも高温で長持ちする揮発性の素材の混合物を開発した。あなたは自分のアルケミストの火を製作する際に、この添加の混合物を含める。</p>\n<p>アルケミストの火は、通常のアルケミストの火によって引き起こされるダメージに加え@Damage[1d4[persistent,fire]]ダメージを与える(例えば、中程度のアルケミストの火は1d4+2の持続的火炎ダメージを与える)。</p>\n<p>アルケミストの火から持続的火炎ダメージを受けるクリーチャーは、持続ダメージを終了するために2回の成功したフラットチェックが必要である、又はそのクリーチャーがフラット判定を DC 10に減少させる支援された回復を持っていた場合、1回の判定が必要である。</p>\n<p>強化されたアルケミストの火は水中でも燃焼し、持続ダメージを終了させるために水を使用する試みは効果がない。</p>",
+      "description": "<p><strong>使用制限</strong> 1日につき1回ラウンド</p>\n<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.NlEZ0piDxg9buXCL]{高度な錬金術}を使って@UUID[Compendium.pf2e.equipment-srd.Item.yd3kEK21YknZLlcT]{アルケミストズ・ファイア（レッサー）}を製作し、その爆弾のレベルがあなたの@UUID[Compendium.pf2e.classfeatures.Item.Pe0zmIqyTBc2Td0I]{高度な錬金術}レベルよりも少なくとも2レベル低い。</p>\n<hr />\n<p>アルトクスは、典型的なアルケミストの火よりも高温で長持ちする揮発性の素材の混合物を開発した。あなたは自分のアルケミストの火を製作する際に、この添加の混合物を含める。</p>\n<p>アルケミストの火は、通常のアルケミストの火によって引き起こされるダメージに加え@Damage[1d4[persistent,fire]]ダメージを与える(例えば、中程度のアルケミストの火は1d4+2の持続的火炎ダメージを与える)。</p>\n<p>アルケミストの火から持続的火炎ダメージを受けるクリーチャーは、持続ダメージを終了するために2回の成功したフラットチェックが必要である、又はそのクリーチャーがフラット判定を DC 10に減少させる支援された回復を持っていた場合、1回の判定が必要である。</p>\n<p>強化されたアルケミストの火は水中でも燃焼し、持続ダメージを終了させるために水を使用する試みは効果がない。</p>",
       "source": "Pathfinder Lost Omens Legends"
     },
     "Hurricane Swing": {
@@ -22910,7 +22910,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Alchemical Crafting": {
-      "name": "アルケミカル・クラフティング/Alchemical Crafting",
+      "name": "錬金術製作/Alchemical Crafting",
       "description": "<p>あなたは〔製作する〕アクティビティを使用して錬金術アイテムを作成できる。この特技を選択すると、あなたはすぐに4つの一般的な1レベルの錬金術アイテムの公式を公式集に追加する。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
@@ -30888,7 +30888,7 @@
       ]
     },
     "Advanced Alchemy": {
-      "name": "アドバンスト・アルケミー/Advanced Alchemy",
+      "name": "高度な錬金術/Advanced Alchemy",
       "description": "<p>あなたは@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.Jkl5KOZih7MoMqAJ]{Advanced Alchemy}恩恵を得て、あなたの日課の準備の間に4つの錬金術消費物を作成できる。</p>",
       "source": "Pathfinder Player Core 2",
       "prerequisites": [
@@ -41173,7 +41173,7 @@
     },
     "Wish Alchemy": {
       "name": "ウィッシュ・アルケミー/Wish Alchemy",
-      "description": "<p>あなたはアルトクス・キランの最も隠された秘密を学び、願いの力を持つ錬金術を創造する能力を得る。</p>\n<p>1日に1回、@UUID[Compendium.pf2e.classfeatures.Item.Pe0zmIqyTBc2Td0I]{アドバンスト・アルケミー}をあなたの日課の準備中に使用するとき、あなたは注入された試薬のバッチを使って、あなたが選んだ8レベル以下の単一の一般的な神秘的呪文を含む願いのビンを作成することができる。</p>\n<p>その呪文は、最大で3アクションの詠唱時間を持っている必要があり、コストはなく、あなたを対象にできる必要がある。あなただけが起動願いのビンを使用することができ、その使用には呪文の詠唱時間と同じ数の@UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{〈扱う〉}アクションが必要で、呪文の効果をあなたに与える。</p>",
+      "description": "<p>あなたはアルトクス・キランの最も隠された秘密を学び、願いの力を持つ錬金術を創造する能力を得る。</p>\n<p>1日に1回、@UUID[Compendium.pf2e.classfeatures.Item.Pe0zmIqyTBc2Td0I]{高度な錬金術}をあなたの日課の準備中に使用するとき、あなたは注入された試薬のバッチを使って、あなたが選んだ8レベル以下の単一の一般的な神秘的呪文を含む願いのビンを作成することができる。</p>\n<p>その呪文は、最大で3アクションの詠唱時間を持っている必要があり、コストはなく、あなたを対象にできる必要がある。あなただけが起動願いのビンを使用することができ、その使用には呪文の詠唱時間と同じ数の@UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{〈扱う〉}アクションが必要で、呪文の効果をあなたに与える。</p>",
       "source": "Pathfinder Lost Omens Legends"
     },
     "Castigating Weapon": {
