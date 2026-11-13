@@ -13415,7 +13415,7 @@
         },
         "myXt3SwrT2L8VMW4": {
           "name": "スティジアン・ガーディアン/Stygian Guardian",
-          "description": "<p><strong>トリガー</strong>サルグラゴンのリーチ内のクリーチャーまたは物体が攻撃の対象となった</p>\n<hr />\n<p><strong>効果</strong>サルグラゴンは自身の体を割り込ませ、そのクリーチャーまたは物体にその攻撃に対する@UUID[Compendium.pf2e.other-effects.Item.I9lfZUiCwMiGogVi]{通常遮蔽}(状況ボーナス+2をACに与える)を与える。もしサルグラゴンがすでにその対象に遮蔽を与えていたならば、代わりに@UUID[Compendium.pf2e.other-effects.Item.I9lfZUiCwMiGogVi]{上位遮蔽}(状況ボーナス+4をACに与える)を与える。</p>"
+          "description": "<p><strong>トリガー</strong>サルグラゴンのリーチ内のクリーチャーまたは物体が攻撃の対象となった</p>\n<hr />\n<p><strong>効果</strong>サルグラゴンは自身の体を割り込ませ、そのクリーチャーまたは物体にその攻撃に対する@UUID[Compendium.pf2e.other-effects.Item.I9lfZUiCwMiGogVi]{通常遮蔽}(状況ボーナス+2をACに与える)を与える。もしサルグラゴンがすでにその対象に遮蔽を与えていたならば、代わりに@UUID[Compendium.pf2e.other-effects.Item.I9lfZUiCwMiGogVi]{重遮蔽}(状況ボーナス+4をACに与える)を与える。</p>"
         },
         "nBbFutvNlcdf1cgZ": {
           "name": "ドラウン/Drown",

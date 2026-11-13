@@ -422,7 +422,7 @@
     },
     "Turpin Rowe Lumberjack Dedication": {
       "name": "ターピン・ロー・ランバージャック・デディケーション/Turpin Rowe Lumberjack Dedication",
-      "description": "<p><strong>アクセス</strong>あなたは少なくとも1人のターピン・ロウの伐採者と友達になる必要がある。</p><hr /><p>あなたの伐採トレーニングは森林業のすべての側面に精通させ、あなたは木を囲んでその大きさを利用するために訓練済みを広く学んだ。あなたはミリング《専門知識》と森林《専門知識》において訓練済みになり、すでに訓練済みであればエキスパートになる。あなたは森林地形内では常にカバーを得るために@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}できる。障害物のすぐ隣でなくても、〔遮蔽をとる〕ことができる。また、木から通常遮蔽を得る敵は、あなたの攻撃に対してのみ小遮蔽を得る(もし敵が他に大遮蔽を得るなら、通常遮蔽だけを得る)。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.uGsGn5sgR7wn0TQD]{Turpin Rowe Lumberjack}</p>",
+      "description": "<p><strong>アクセス</strong>あなたは少なくとも1人のターピン・ロウの伐採者と友達になる必要がある。</p><hr /><p>あなたの伐採トレーニングは森林業のすべての側面に精通させ、あなたは木を囲んでその大きさを利用するために訓練済みを広く学んだ。あなたはミリング《専門知識》と森林《専門知識》において訓練済みになり、すでに訓練済みであればエキスパートになる。あなたは森林地形内では常にカバーを得るために@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}できる。障害物のすぐ隣でなくても、〔遮蔽をとる〕ことができる。また、木から通常遮蔽を得る敵は、あなたの攻撃に対してのみ小遮蔽を得る(もし敵が他に重遮蔽を得るなら、通常遮蔽だけを得る)。</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.uGsGn5sgR7wn0TQD]{Turpin Rowe Lumberjack}</p>",
       "source": "Pathfinder #153: Life's Long Shadows",
       "prerequisites": [
         {
@@ -833,7 +833,7 @@
     },
     "Bullseye": {
       "name": "ブルズアイ/Bullseye",
-      "description": "<p>あなたは敵の隠蔽と範囲を避けるよう丁寧に狙いを定める。あなたのターンの終了前に投げた武器による次の〔ストライク〕に対して、攻撃ロールに+1の状況ボーナスを得て、対象の@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}の状態を無視し、対象の小遮蔽または通常遮蔽を無視する。対象が大遮蔽を持っている場合、彼らは代わりに〔ストライク〕に対して通常遮蔽のみを持つ。</p>",
+      "description": "<p>あなたは敵の隠蔽と範囲を避けるよう丁寧に狙いを定める。あなたのターンの終了前に投げた武器による次の〔ストライク〕に対して、攻撃ロールに+1の状況ボーナスを得て、対象の@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}の状態を無視し、対象の小遮蔽または通常遮蔽を無視する。対象が重遮蔽を持っている場合、彼らは代わりに〔ストライク〕に対して通常遮蔽のみを持つ。</p>",
       "source": "Pathfinder Player Core"
     },
     "Execution": {
@@ -1475,7 +1475,7 @@
     },
     "Dance of the Mousedeer": {
       "name": "ダンス・オブ・ザ・マウスディア/Dance of the Mousedeer",
-      "description": "<p>あなたは小さく賢いマウスディアの姉妹を思わせる動きをし、敵をミスディレクトし、影で隠れる場所を視界に満たす。あなたは@Check[performance|against:perception]判定を試み、知覚 DCの単一の敵を30フィート内で指定する。このアクションは《芸能》判定の通常のトレイトと制限が全て適用される。あなたが《芸能》でエキスパート習熟度を持っている場合、最大で2体のターゲットに影響を与えることができ、マスター習熟度があれば4体、レジェンダリー習熟度があれば8体に影響を与えることができる。</p> <hr /> <p> <strong>クリティカル成功</strong>想像上の影がターゲットの視界に現れ、あなたを視界から隠す。あなたはその敵に対して大遮蔽を得る。これは ACおよび《隠密》の〔隠れる〕、 @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}、または検出を避けるための判定に+4の状況ボーナスを提供する。影は幻影であるため、あなたは大遮蔽からの反応セーヴへの典型的なボーナスを得ない。この恩恵はあなたの次のターン開始時まで、または現在の空間から移動する、攻撃アクションを使用する、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態になるまで持続する。どちらが先でも。</p>\n<p> <strong>成功</strong>クリティカル成功のように、ただしあなたは通常遮蔽 (+2の状況ボーナスのみ)を得る。</p>\n<p> <strong>クリティカル失敗</strong>対戦相手はあなたのダンスの動きを把握し、あなたのマウスディアのダンスに一時的な免疫になる1日。</p>",
+      "description": "<p>あなたは小さく賢いマウスディアの姉妹を思わせる動きをし、敵をミスディレクトし、影で隠れる場所を視界に満たす。あなたは@Check[performance|against:perception]判定を試み、知覚 DCの単一の敵を30フィート内で指定する。このアクションは《芸能》判定の通常のトレイトと制限が全て適用される。あなたが《芸能》でエキスパート習熟度を持っている場合、最大で2体のターゲットに影響を与えることができ、マスター習熟度があれば4体、レジェンダリー習熟度があれば8体に影響を与えることができる。</p> <hr /> <p> <strong>クリティカル成功</strong>想像上の影がターゲットの視界に現れ、あなたを視界から隠す。あなたはその敵に対して重遮蔽を得る。これは ACおよび《隠密》の〔隠れる〕、 @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}、または検出を避けるための判定に+4の状況ボーナスを提供する。影は幻影であるため、あなたは重遮蔽からの反応セーヴへの典型的なボーナスを得ない。この恩恵はあなたの次のターン開始時まで、または現在の空間から移動する、攻撃アクションを使用する、または@UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{気絶}状態になるまで持続する。どちらが先でも。</p>\n<p> <strong>成功</strong>クリティカル成功のように、ただしあなたは通常遮蔽 (+2の状況ボーナスのみ)を得る。</p>\n<p> <strong>クリティカル失敗</strong>対戦相手はあなたのダンスの動きを把握し、あなたのマウスディアのダンスに一時的な免疫になる1日。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Two-Weapon Flurry": {
@@ -7768,7 +7768,7 @@
     },
     "Forge-Blessed Shot": {
       "name": "フォージブレスト・ショット/Forge-Blessed Shot",
-      "description": "<p><strong>アクセス</strong>あなたはドングン・ホールドまたはアルケンスタールの出身である。</p>\n<p><strong>使用制限</strong>毎日一回</p>\n<p><strong>トリガー</strong>あなたは遠距離攻撃の〔ストライク〕を行う。</p><hr /><p>あなたはドワーフの神々トラグやアングラッドに祈りを捧げ、戦闘の熱の中であなたの狙いを導いてくれるよう願う。次のターンの終了時までの間に遠距離武器での次の〔ストライク〕で、あなたは攻撃ロールに+2の状況ボーナスを得て、対象の@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態を無視し、さらに対象の小の、標準の、大遮蔽を無視する。</p>",
+      "description": "<p><strong>アクセス</strong>あなたはドングン・ホールドまたはアルケンスタールの出身である。</p>\n<p><strong>使用制限</strong>毎日一回</p>\n<p><strong>トリガー</strong>あなたは遠距離攻撃の〔ストライク〕を行う。</p><hr /><p>あなたはドワーフの神々トラグやアングラッドに祈りを捧げ、戦闘の熱の中であなたの狙いを導いてくれるよう願う。次のターンの終了時までの間に遠距離武器での次の〔ストライク〕で、あなたは攻撃ロールに+2の状況ボーナスを得て、対象の@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態を無視し、さらに対象の小の、標準の、重遮蔽を無視する。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -9993,7 +9993,7 @@
     },
     "Sneaky": {
       "name": "スニーキー/Sneaky",
-      "description": "<p>《隠密》はあなたの武器庫における重要なツールである。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}アクションを行う際、自身の移動速度を上限として、5フィート遠くまで移動できる。</p>\n<p>さらに、〈忍び歩き〉アクションを使い続け、かつ《隠密》判定に成功している限り、〈忍び歩き〉アクションの終了時に遮蔽や大遮蔽がなく、@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態でもない場合であっても、観察された状態にはならない。ただし、ターンの終了時に遮蔽や大遮蔽を得ているか、あるいは隠蔽状態である必要がある。</p>",
+      "description": "<p>《隠密》はあなたの武器庫における重要なツールである。あなたは@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}アクションを行う際、自身の移動速度を上限として、5フィート遠くまで移動できる。</p>\n<p>さらに、〈忍び歩き〉アクションを使い続け、かつ《隠密》判定に成功している限り、〈忍び歩き〉アクションの終了時に遮蔽や重遮蔽がなく、@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態でもない場合であっても、観察された状態にはならない。ただし、ターンの終了時に遮蔽や重遮蔽を得ているか、あるいは隠蔽状態である必要がある。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Liberating Dive": {
@@ -12971,7 +12971,7 @@
     },
     "Methodical Debilitations": {
       "name": "メソディカル・デビリテーションズ/Methodical Debilitations",
-      "description": "<p>あなたは敵の戦術的な利点を減少または無効化するために、戦略的に弱点を作り出す。あなたが〔ストライク〕の《弱点化》を使用する際に選べる弱点のリストに、以下の弱点を追加する。</p>\n<ul>\n<li><strong>弱点</strong>対象は側面攻撃を行えず、味方の側面攻撃に貢献できない。@UUID[Compendium.pf2e.feat-effects.Item.emSh1VxHVtTmt925]{効果: Methodical Debilitations (Flanking)}</li>\n<li><strong>弱点</strong>対象はACに対する状況ボーナスを@UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]{〈盾を構える〉}、小遮蔽、または通常遮蔽から得ない；対象は大遮蔽または@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}からのみACに対して+2の状況ボーナスを得る。@UUID[Compendium.pf2e.feat-effects.Item.4HNPQ6pnMDRe8jaN]{効果: Methodical Debilitations (Cover)}</li>\n</ul>",
+      "description": "<p>あなたは敵の戦術的な利点を減少または無効化するために、戦略的に弱点を作り出す。あなたが〔ストライク〕の《弱点化》を使用する際に選べる弱点のリストに、以下の弱点を追加する。</p>\n<ul>\n<li><strong>弱点</strong>対象は側面攻撃を行えず、味方の側面攻撃に貢献できない。@UUID[Compendium.pf2e.feat-effects.Item.emSh1VxHVtTmt925]{効果: Methodical Debilitations (Flanking)}</li>\n<li><strong>弱点</strong>対象はACに対する状況ボーナスを@UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]{〈盾を構える〉}、小遮蔽、または通常遮蔽から得ない；対象は重遮蔽または@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}からのみACに対して+2の状況ボーナスを得る。@UUID[Compendium.pf2e.feat-effects.Item.4HNPQ6pnMDRe8jaN]{効果: Methodical Debilitations (Cover)}</li>\n</ul>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -24585,7 +24585,7 @@
     },
     "Unerring Shot": {
       "name": "アンエリング・ショット/Unerring Shot",
-      "description": "<p>あなたの感覚は空気のわずかな変化に敏感に調整されていて、武器の射程内であればどんな距離からでも狙った地点に正確に撃つことができる。マスタープロフィシエンシー以上の熟練度を持つ範囲武器で攻撃する際、射程の増加によるペナルティを無視する。(武器の最大射程は変更されない。)さらに、そのような武器での攻撃に対して対象がカバーを持っている場合、対象は小遮蔽があればACのボーナスを得ず、通常遮蔽があれば小遮蔽のボーナスのみを得て、大遮蔽があれば通常遮蔽のボーナスのみを得る。</p>",
+      "description": "<p>あなたの感覚は空気のわずかな変化に敏感に調整されていて、武器の射程内であればどんな距離からでも狙った地点に正確に撃つことができる。マスタープロフィシエンシー以上の熟練度を持つ範囲武器で攻撃する際、射程の増加によるペナルティを無視する。(武器の最大射程は変更されない。)さらに、そのような武器での攻撃に対して対象がカバーを持っている場合、対象は小遮蔽があればACのボーナスを得ず、通常遮蔽があれば小遮蔽のボーナスのみを得て、重遮蔽があれば通常遮蔽のボーナスのみを得る。</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Combine Elixirs": {
@@ -26917,7 +26917,7 @@
     },
     "Reactive Distraction": {
       "name": "リアクティブ・ディストラクション/Reactive Distraction",
-      "description": "<p><strong>トリガー</strong>あなたは攻撃を受けたり、効果の対象になったり、効果の範囲内にいる。</p>\n<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.MjhCcwGKyI5dpNIY]{パーフェクト・ディストラクション}を使用できるように準備している。</p>\n<hr />\n<p>あなたは反応的に囮と入れ替わり、敵の妨害を防ぐ。あなたは完璧な気をそらしを使用し、観察されていても、@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}の移動を@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}で終えるか、または隠れ場所や大遮蔽のある場所にいる限り使用できる。攻撃または効果の対象はあなたではなく囮になる。範囲効果の場合、あなたの〔忍び歩き〕があなたを範囲外に移動させなければ、あなたと囮の両方が効果の対象になる。</p>",
+      "description": "<p><strong>トリガー</strong>あなたは攻撃を受けたり、効果の対象になったり、効果の範囲内にいる。</p>\n<p><strong>必要条件</strong>あなたは@UUID[Compendium.pf2e.feats-srd.Item.MjhCcwGKyI5dpNIY]{パーフェクト・ディストラクション}を使用できるように準備している。</p>\n<hr />\n<p>あなたは反応的に囮と入れ替わり、敵の妨害を防ぐ。あなたは完璧な気をそらしを使用し、観察されていても、@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}の移動を@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}で終えるか、または隠れ場所や重遮蔽のある場所にいる限り使用できる。攻撃または効果の対象はあなたではなく囮になる。範囲効果の場合、あなたの〔忍び歩き〕があなたを範囲外に移動させなければ、あなたと囮の両方が効果の対象になる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -30724,7 +30724,7 @@
     },
     "Superior Propulsion": {
       "name": "スーペリア・プロパルション/Superior Propulsion",
-      "description": "<p>あなたは、あなたの特徴的な乗り物の動きから得られる慣性の効果を実験することで、操縦士が乗り物を限界までプッシュするときに、単なる速度以上の推進力を得る方法を学んだ。操縦士があなたの特徴的な乗り物を2アクションまたは3アクションの活動として操縦し、操縦の判定に成功するたびに、乗り物はその推進方法に応じて追加の効果を発生させる。あなたの特徴的な乗り物が複数の推進方法を持っている場合、操縦士は2アクションまたは3アクションの活動として乗り物を操縦する際に、操縦の判定に成功するたびに獲得する恩恵を選択できる。</p>\n<p> <strong>錬金術</strong>錬金術エンジンからの腐食性の流出は武器化された。動き始めるときにあなたの特徴的な乗り物に隣接しているクリーチャーは、あなたのレベルに等しい酸ダメージを受ける。</p>\n<p> <strong>クロックワーク</strong>より強靭な歯車は、乗り物が損傷しても機能し続けることを可能にする。あなたの特徴的な乗り物が壊れている場合、運転時間を失わないためのフラット判定を行う必要がない。</p>\n<p> <strong>魔法</strong>あなたの特徴的な乗り物からの残余魔法は敵の呪文に干渉する。乗り物の操縦士、乗組員、および乗客は、操縦士の次のターンの開始まで呪文に対するセーヴィング・スローに+1の状況ボーナスを得る。</p>\n<p> <strong>引き寄せられた</strong>あなたは、あなたの特徴的な乗り物を引いている人々がそれを動かすために必要な努力を軽減した。乗り物は移動速度に+10の状況ボーナスを得る。</p>\n<p> <strong>漕がれた</strong>強化されたポートは、デッキ下の漕ぎ手を外からの攻撃から保護する。あなたの特徴的な乗り物のデッキ下の漕ぎ手は、外部からの攻撃に対して大遮蔽を持ち、乗り物が衝突ダメージを受けるときに損傷を受けない。</p>\n<p> <strong>蒸気</strong>蒸気の排出口は、乗り物が動いている間にその周りに雲を形成する。動きの間、あなたの特徴的な乗り物は@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}。</p>\n<p> <strong>風</strong>風の流れは乗り物の動きを助ける。この動作の間、あなたの特徴的な乗り物は通常通りにターンでき、通常の2アクションまたは3アクションのドライブとして直線で動く必要はない。</p>",
+      "description": "<p>あなたは、あなたの特徴的な乗り物の動きから得られる慣性の効果を実験することで、操縦士が乗り物を限界までプッシュするときに、単なる速度以上の推進力を得る方法を学んだ。操縦士があなたの特徴的な乗り物を2アクションまたは3アクションの活動として操縦し、操縦の判定に成功するたびに、乗り物はその推進方法に応じて追加の効果を発生させる。あなたの特徴的な乗り物が複数の推進方法を持っている場合、操縦士は2アクションまたは3アクションの活動として乗り物を操縦する際に、操縦の判定に成功するたびに獲得する恩恵を選択できる。</p>\n<p> <strong>錬金術</strong>錬金術エンジンからの腐食性の流出は武器化された。動き始めるときにあなたの特徴的な乗り物に隣接しているクリーチャーは、あなたのレベルに等しい酸ダメージを受ける。</p>\n<p> <strong>クロックワーク</strong>より強靭な歯車は、乗り物が損傷しても機能し続けることを可能にする。あなたの特徴的な乗り物が壊れている場合、運転時間を失わないためのフラット判定を行う必要がない。</p>\n<p> <strong>魔法</strong>あなたの特徴的な乗り物からの残余魔法は敵の呪文に干渉する。乗り物の操縦士、乗組員、および乗客は、操縦士の次のターンの開始まで呪文に対するセーヴィング・スローに+1の状況ボーナスを得る。</p>\n<p> <strong>引き寄せられた</strong>あなたは、あなたの特徴的な乗り物を引いている人々がそれを動かすために必要な努力を軽減した。乗り物は移動速度に+10の状況ボーナスを得る。</p>\n<p> <strong>漕がれた</strong>強化されたポートは、デッキ下の漕ぎ手を外からの攻撃から保護する。あなたの特徴的な乗り物のデッキ下の漕ぎ手は、外部からの攻撃に対して重遮蔽を持ち、乗り物が衝突ダメージを受けるときに損傷を受けない。</p>\n<p> <strong>蒸気</strong>蒸気の排出口は、乗り物が動いている間にその周りに雲を形成する。動きの間、あなたの特徴的な乗り物は@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}。</p>\n<p> <strong>風</strong>風の流れは乗り物の動きを助ける。この動作の間、あなたの特徴的な乗り物は通常通りにターンでき、通常の2アクションまたは3アクションのドライブとして直線で動く必要はない。</p>",
       "source": "Pathfinder Guns & Gears",
       "prerequisites": [
         {
@@ -32059,7 +32059,7 @@
     },
     "Very Sneaky": {
       "name": "ベリー・スニーキー/Very Sneaky",
-      "description": "<p>背の高い者は足元の影に注意を払うことが少なく、あなたはこれを最大限に利用する。あなたは5フィートで@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}アクションを取るとき、あなたの移動速度までさらに遠くに移動することができる。</p>\n<p>さらに、あなたが〔忍び歩き〕アクションを使い続け、《隠密》の判定に成功し続ける限り、あなたはカバーや大遮蔽がなく、〔忍び歩き〕アクションの終了時点で@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}していない限り、観察されない。あなたがカバーや大遮蔽を持っているか、ターンの終了時点で隠れている限り。</p>",
+      "description": "<p>背の高い者は足元の影に注意を払うことが少なく、あなたはこれを最大限に利用する。あなたは5フィートで@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}アクションを取るとき、あなたの移動速度までさらに遠くに移動することができる。</p>\n<p>さらに、あなたが〔忍び歩き〕アクションを使い続け、《隠密》の判定に成功し続ける限り、あなたはカバーや重遮蔽がなく、〔忍び歩き〕アクションの終了時点で@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}していない限り、観察されない。あなたがカバーや重遮蔽を持っているか、ターンの終了時点で隠れている限り。</p>",
       "source": "Pathfinder Player Core"
     },
     "Witch's Bottle": {
@@ -33933,7 +33933,7 @@
     },
     "Ceaseless Shadows": {
       "name": "シースレス・シャドウズ/Ceaseless Shadows",
-      "description": "<p>あなたは特に群衆の中で気付かれずに行動することに優れている。あなたはもはや隠れ場所や@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を必要とせず@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}または@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}することができる。あなたがクリーチャーから小遮蔽を受けた場合、代わりに通常遮蔽を得て@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}できる；クリーチャーから通常遮蔽を受けた場合、代わりに大遮蔽を得る。</p>",
+      "description": "<p>あなたは特に群衆の中で気付かれずに行動することに優れている。あなたはもはや隠れ場所や@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}を必要とせず@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}または@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}することができる。あなたがクリーチャーから小遮蔽を受けた場合、代わりに通常遮蔽を得て@UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{〈遮蔽をとる〉}できる；クリーチャーから通常遮蔽を受けた場合、代わりに重遮蔽を得る。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -41609,7 +41609,7 @@
     },
     "Very, Very Sneaky": {
       "name": "ベリー、ベリー・スニーキー/Very, Very Sneaky",
-      "description": "<p>あなたは移動速度まで移動できる、@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}アクションを使うとき、カバーや大遮蔽を持っている必要はなく、@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}する必要もなく、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}または〔忍び歩き〕を行うことができる。</p>",
+      "description": "<p>あなたは移動速度まで移動できる、@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}アクションを使うとき、カバーや重遮蔽を持っている必要はなく、@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}する必要もなく、@UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{〈隠れる〉}または〔忍び歩き〕を行うことができる。</p>",
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
@@ -49117,7 +49117,7 @@
     },
     "Refined Motion in Darkness": {
       "name": "リファインド・モーション・イン・ダークネス/Refined Motion in Darkness",
-      "description": "<p>あなたの周囲に暗闇の中を優雅に見えずに動く能力は、あなたの人々がネザー界を逃れたときに役立った。あなたは5フィートあなたが@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}アクションを取るとき、最大であなたの移動速度まで移動することができる。さらに、あなたが〔忍び歩き〕アクションを使い続け、あなたの《隠密》判定に成功する限り、あなたがカバーか大遮蔽を持っているか、ターンの終了時に@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}であれば、暗闇や薄暗い光で〔忍び歩き〕アクションを終えても観察されることはない。</p>",
+      "description": "<p>あなたの周囲に暗闇の中を優雅に見えずに動く能力は、あなたの人々がネザー界を逃れたときに役立った。あなたは5フィートあなたが@UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{〈忍び歩き〉}アクションを取るとき、最大であなたの移動速度まで移動することができる。さらに、あなたが〔忍び歩き〕アクションを使い続け、あなたの《隠密》判定に成功する限り、あなたがカバーか重遮蔽を持っているか、ターンの終了時に@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}であれば、暗闇や薄暗い光で〔忍び歩き〕アクションを終えても観察されることはない。</p>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Guardian's Deflection (Swashbuckler)": {
