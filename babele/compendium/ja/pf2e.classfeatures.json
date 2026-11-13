@@ -790,7 +790,7 @@
     },
     "Perpetual Perfection (Mutagenist)": {
       "name": "パーペチュアル・パーフェクション(ミュータジェニスト)/Perpetual Perfection (Mutagenist)",
-      "description": "<p>あなたは永続的な注入を完成させ、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{クイック・アルケミー}を使用して、コストなしでさらに強力なアイテムを作成できるようになった。選択できるアイテムは、あなたの研究分野に依存し、あなたの公式本になければならない。</p>\n<p>11レベル以下の変異薬を2つ選択する。</p>"
+      "description": "<p>あなたは永続的な注入を完成させ、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{クイック・アルケミー}を使用して、コストなしでさらに強力なアイテムを作成できるようになった。選択できるアイテムは、あなたの研究分野に依存し、あなたの公式本になければならない。</p>\n<p>11レベル以下のミュータジェンを2つ選択する。</p>"
     },
     "Medium Armor Mastery": {
       "name": "ミディアム・アーマー・マスタリー",
@@ -930,7 +930,7 @@
     },
     "Perpetual Infusions (Mutagenist)": {
       "name": "パーペチュアル・インフュージョンズ(ミュータジェニスト)/Perpetual Infusions (Mutagenist)",
-      "description": "<p>あなたは特定の単純なアイテムをほぼ無限に供給できる、永続的な錬金術の注入を作成する方法を学んだ。</p>\n<p>あなたは注入試薬のバッチを消費することなく、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{クイック・アルケミー}を使用して2つの1レベル錬金術アイテムを作成する能力を得る。あなたが選択できるアイテムはあなたの研究分野に依存し、あなたの公式本になければならない。</p>\n<p>レベルが上がるたびに、あなたは自分の永続的な注入のいくつかを、他の適格な注入と入れ替えることができる。</p>\n<hr />\n<p>1レベルの変異薬を2つ選択すること。</p>"
+      "description": "<p>あなたは特定の単純なアイテムをほぼ無限に供給できる、永続的な錬金術の注入を作成する方法を学んだ。</p>\n<p>あなたは注入試薬のバッチを消費することなく、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{クイック・アルケミー}を使用して2つの1レベル錬金術アイテムを作成する能力を得る。あなたが選択できるアイテムはあなたの研究分野に依存し、あなたの公式本になければならない。</p>\n<p>レベルが上がるたびに、あなたは自分の永続的な注入のいくつかを、他の適格な注入と入れ替えることができる。</p>\n<hr />\n<p>1レベルのミュータジェンを2つ選択すること。</p>"
     },
     "Deity (Cleric)": {
       "name": "ディーティ(クレリック)",
@@ -1919,7 +1919,7 @@
     },
     "Perpetual Potency (Mutagenist)": {
       "name": "パーペチュアル・ポテンシー(ミュータジェニスト)/Perpetual Potency (Mutagenist)",
-      "description": "<p>あなたの永続的注入は向上し、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{迅速錬金術}を使用して、より強力なアイテムをコストなしで作成できるようになる。あなたが選択できるアイテムは、あなたの〈研究〉分野に依存し、あなたの処方本に含まれていなければならない。</p>\n<p>3レベル以下の変異薬を2つ選択する</p>"
+      "description": "<p>あなたの永続的注入は向上し、@UUID[Compendium.pf2e.classfeatures.Item.sPtl05wwTpqFI0lL]{迅速錬金術}を使用して、より強力なアイテムをコストなしで作成できるようになる。あなたが選択できるアイテムは、あなたの〈研究〉分野に依存し、あなたの処方本に含まれていなければならない。</p>\n<p>3レベル以下のミュータジェンを2つ選択する</p>"
     },
     "Hunter's Edge": {
       "name": "ハンターズ・エッジ/Hunter's Edge",

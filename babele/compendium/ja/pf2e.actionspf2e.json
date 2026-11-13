@@ -3,7 +3,7 @@
   "entries": {
     "Mutagenic Flashback": {
       "name": "ミュータジェニック・フラッシュバック/Mutagenic Flashback",
-      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p>短時間にわたって変異薬の効果が再燃する。最後の 日課の準備 以降に摂取した変異薬から1つ選ぶ。その変異薬の効果を 1 分間得る.</p>",
+      "description": "<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p>短時間にわたってミュータジェンの効果が再燃する。最後の 日課の準備 以降に摂取したミュータジェンから1つ選ぶ。そのミュータジェンの効果を 1 分間得る.</p>",
       "source": "Pathfinder Core Rulebook"
     },
     "Fling Magic": {

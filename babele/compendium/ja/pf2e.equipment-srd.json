@@ -21628,7 +21628,7 @@
     },
     "Energy Mutagen (Greater)": {
       "name": "エナジー・ミュータジェン（グレーター）/Energy Mutagen (Greater)",
-      "description": "<p><strong>起動</strong> <span class=\"action-glyph\">A</span> (手作業)</p><hr /><p>作成時に［強酸］、［氷雪］、［電撃］、［火炎］のいずれかへ同調する。この変異薬を飲むとエネルギーが全身を満たし、攻撃のたびにあふれ出す。</p><p><strong>利益</strong> 同調したエネルギー種別への抵抗15を得る。近接武器で命中するたび、その種別の追加ダメージ[[/r 1d6]]を与える。さらに、2アクションの連続アクションとして利益を終了し、@Template[cone|distance:30]へエネルギーを放てる。範囲内の各クリーチャーに、残り持続時間10分ごとに[[/r 2d6]]ダメージ（最大8d6）を与える(@Check[reflex|dc:25|basic|name:Greater Energy Mutagen]基本セーヴ)。</p><p><strong>欠点</strong> 残り3種のエネルギーに対する弱点5を得る。</p><p><strong>持続時間</strong> 1時間</p><p>@UUID[Compendium.pf2e.equipment-effects.Item.JbJykktAYMR4BRav]{効果：エナジー・ミュータジェン(グレーター)}</p>"
+      "description": "<p><strong>起動</strong> <span class=\"action-glyph\">A</span> (手作業)</p><hr /><p>作成時に［強酸］、［氷雪］、［電撃］、［火炎］のいずれかへ同調する。このミュータジェンを飲むとエネルギーが全身を満たし、攻撃のたびにあふれ出す。</p><p><strong>利益</strong> 同調したエネルギー種別への抵抗15を得る。近接武器で命中するたび、その種別の追加ダメージ[[/r 1d6]]を与える。さらに、2アクションの連続アクションとして利益を終了し、@Template[cone|distance:30]へエネルギーを放てる。範囲内の各クリーチャーに、残り持続時間10分ごとに[[/r 2d6]]ダメージ（最大8d6）を与える(@Check[reflex|dc:25|basic|name:Greater Energy Mutagen]基本セーヴ)。</p><p><strong>欠点</strong> 残り3種のエネルギーに対する弱点5を得る。</p><p><strong>持続時間</strong> 1時間</p><p>@UUID[Compendium.pf2e.equipment-effects.Item.JbJykktAYMR4BRav]{効果：エナジー・ミュータジェン(グレーター)}</p>"
     },
     "Obsidian Edge (Greater)": {
       "name": "オブシディアン・エッジ（グレーター）/Obsidian Edge (Greater)",

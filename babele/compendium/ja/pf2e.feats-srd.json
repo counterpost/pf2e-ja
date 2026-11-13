@@ -513,7 +513,7 @@
     },
     "Regurgitate Mutagen": {
       "name": "リガージテート・ミュータジェン/Regurgitate Mutagen",
-      "description": "<p><strong>必要条件</strong>あなたは変異薬の効果を受けている。</p><hr /><p>あなたは体内の変異薬を導き、敵に対して胃から酸の流れを吐き出す。30フィート内のクリーチャーは、あなたのレベルごとに1d6酸ダメージを受ける (@Damage[(floor(@actor.level/2))d6[acid]])。あなたのクラス DCに対する@Check[reflex|against:alchemist|basic]セーヴに対して対抗する。失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態になり(クリティカル失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2})、変異薬の効果は即座に終了する。</p>",
+      "description": "<p><strong>必要条件</strong>あなたはミュータジェンの効果を受けている。</p><hr /><p>あなたは体内のミュータジェンを導き、敵に対して胃から酸の流れを吐き出す。30フィート内のクリーチャーは、あなたのレベルごとに1d6酸ダメージを受ける (@Damage[(floor(@actor.level/2))d6[acid]])。あなたのクラス DCに対する@Check[reflex|against:alchemist|basic]セーヴに対して対抗する。失敗した場合、そのクリーチャーは@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1}状態になり(クリティカル失敗の場合は@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2})、ミュータジェンの効果は即座に終了する。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Eye for Numbers": {
@@ -2303,7 +2303,7 @@
     },
     "Revivifying Mutagen": {
       "name": "リビビファイイング・ミュータジェン/Revivifying Mutagen",
-      "description": "<p><strong>必要条件</strong>あなたは変異薬の効果を受けている。</p><hr /><p>あなたは変異薬を代謝して、あなた自身を癒す。あなたは@Damage[(floor(@actor.level/2))d6[healing]]{自身のレベル2ごとに1d6ヒット・ポイント}を回復するが、変異薬の持続時間は即座に終了する。</p>",
+      "description": "<p><strong>必要条件</strong>あなたはミュータジェンの効果を受けている。</p><hr /><p>あなたはミュータジェンを代謝して、あなた自身を癒す。あなたは@Damage[(floor(@actor.level/2))d6[healing]]{自身のレベル2ごとに1d6ヒット・ポイント}を回復するが、ミュータジェンの持続時間は即座に終了する。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Spirit Soother": {
@@ -19735,7 +19735,7 @@
     },
     "Mutant Physique": {
       "name": "ミュータント・フィジーク/Mutant Physique",
-      "description": "<p>身体の形状に影響を与える基本的な変異薬は、あなたの内に潜む獣を引き出し、ほぼ無敵にし、またはあなたの身体をより弾力的にすることができる。リストにある変異薬の影響を受けている間、あなたは追加の恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.IQK9N2mEOyAj3iWU]{ベスティアル・ミュータジェン}</strong>あなたは変異薬のアイテム・ボーナスをあなたの《威圧》判定に得る。さらに、あなたの爪と顎のダメージダイスのサイズを一段階増加させ、致死的d10トレイトを得る。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH]{ジャガーノート・ミュータジェン}</strong>あなたは耐性を全ての物理ダメージに対してレベルの半分だけ得る。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.5MKBwpE401uz4kNN]{クイックシルバー・ミュータジェン}</strong>あなたは脚を伸ばし、10フィートまで〔ステップ〕することができ、体をつぶすことができるので、すき間を通り抜けることができ、サイズが一つ小さいかのように扱われ、圧迫の効果も受ける。</p></li></ul><hr /><p><strong>特別</strong>あなたが複数の変異薬の効果を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{強力な研究分野の発見(ミュータジェニスト)}を持っている場合)、あなたは全ての関連する恩恵を得る。</p>",
+      "description": "<p>身体の形状に影響を与える基本的なミュータジェンは、あなたの内に潜む獣を引き出し、ほぼ無敵にし、またはあなたの身体をより弾力的にすることができる。リストにあるミュータジェンの影響を受けている間、あなたは追加の恩恵を得る。</p><ul><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.IQK9N2mEOyAj3iWU]{ベスティアル・ミュータジェン}</strong>あなたはミュータジェンのアイテム・ボーナスをあなたの《威圧》判定に得る。さらに、あなたの爪と顎のダメージダイスのサイズを一段階増加させ、致死的d10トレイトを得る。</li><li><strong>@UUID[Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH]{ジャガーノート・ミュータジェン}</strong>あなたは耐性を全ての物理ダメージに対してレベルの半分だけ得る。</li><li><p><strong>@UUID[Compendium.pf2e.equipment-srd.Item.5MKBwpE401uz4kNN]{クイックシルバー・ミュータジェン}</strong>あなたは脚を伸ばし、10フィートまで〔ステップ〕することができ、体をつぶすことができるので、すき間を通り抜けることができ、サイズが一つ小さいかのように扱われ、圧迫の効果も受ける。</p></li></ul><hr /><p><strong>特別</strong>あなたが複数のミュータジェンの効果を受けることができる場合(例えば@UUID[Compendium.pf2e.classfeatures.Item.1BKdOJ0HNL6Eg3xw]{強力な研究分野の発見(ミュータジェニスト)}を持っている場合)、あなたは全ての関連する恩恵を得る。</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Thaumaturge Dedication": {
