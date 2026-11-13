@@ -14499,7 +14499,7 @@
       "description": "<p>あなたは空間をすり抜ける魔性の能力を利用する。あなたが〈ストライド〉するとき、移動によって誘発されるリアクションに対して、アーマー・クラスへの+3のアイテム・ボーナスを得る。1日1回、どのような距離からでも、アブロガイル・スルーヌ2世は単一のアクションとしてあなたのスルーヌ契約の条項を呼び出すことができ、それによってあなたは<em>麻痺状態</em>に陥る。これは1時間の間、あるいはアブロガイルがあなたを解放するまでのいずれか早い方まで続く。</p>\n<p><strong>起動</strong> <span class=\"action-glyph\">2</span> 命令</p>\n<p><strong>使用制限</strong> 1日1回</p>\n<hr />\n<p><strong>効果</strong> あなたは契約の場所の変更に関する条項を唱える。あなたはディメンジョン・<em>ドア</em>を発動する。あなたが去る空間と出現する空間は硫黄の臭いで満たされ、両方の空間に隣接するクリーチャーに2d6の精神ダメージを与える。</p>"
     },
     "Arsenic": {
-      "name": "アーセニック/Arsenic",
+      "name": "ヒ素/Arsenic",
       "description": "<p>この毒はヒ素とその他の物質の化合物である。あなたは影響を受けている間、自身の病気状態を軽減することができない。</p>\n<hr />\n<p><strong>起動</strong> <span class=\"action-glyph\">A</span> (手作業)</p>\n<p><strong>セーヴィング・スロー</strong>頑健@Check[fortitude|dc:18]</p>\n<p><strong>発症</strong> 10分</p>\n<p><strong>最大持続時間</strong> 5分</p>\n<p><strong>第1段階</strong> @Damage[1d4[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調1} (1分)</p>\n<p><strong>第2段階</strong> @Damage[1d6[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調2} (1分)</p>\n<p><strong>第3段階</strong> @Damage[1d8[poison]]ダメージおよび@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{不調3} (1分)</p>"
     },
     "Hosteling Statuette": {
