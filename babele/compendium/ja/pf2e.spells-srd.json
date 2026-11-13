@@ -12064,8 +12064,8 @@
       "time": "2"
     },
     "Advanced Scurvy": {
-      "name": "アドヴァンスト・スカーヴィ",
-      "description": "<p>あなたの接触は、不適切な栄養摂取に起因する船乗りの病である壊血病の進行した形態を対象に与える。壊血病の症状には、疲労、関節痛、歯のぐらつき、内出血が含まれる。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態に1分間なる。</p>\n<p><strong>失敗</strong> 対象は進行した壊血病の第1段階に罹患する。</p>\n<p><strong>クリティカル失敗</strong> 対象は進行した壊血病の第2段階に罹患する。</p>\n<p><strong>アドヴァンスト・スカーヴィ</strong> (病気)</p>\n<p><strong>レベル</strong> 4</p>\n<p>新鮮な果物を食べた後、クリーチャーは1日の間、この病気に対する次のセーヴィング・スローに＋2の状況ボーナスを得る。</p>\n<p><strong>第1段階</strong> 衰弱1状態となり、持続的な出血効果によって与えられるダメージが1増加する(1日)</p>\n<p><strong>第2段階</strong> 衰弱1状態、@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態となり、持続的な出血効果によって与えられるダメージが1d4増加する(2日)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}状態、疲労状態となり、持続的な出血効果によって与えられるダメージが1d6増加する(4日)</p>",
+      "name": "アドバンスト・スカーヴィ",
+      "description": "<p>あなたの接触は、不適切な栄養摂取に起因する船乗りの病である壊血病の進行した形態を対象に与える。壊血病の症状には、疲労、関節痛、歯のぐらつき、内出血が含まれる。</p>\n<hr />\n<p><strong>クリティカル成功</strong> 対象は影響を受けない。</p>\n<p><strong>成功</strong> 対象は@UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱1}状態に1分間なる。</p>\n<p><strong>失敗</strong> 対象は進行した壊血病の第1段階に罹患する。</p>\n<p><strong>クリティカル失敗</strong> 対象は進行した壊血病の第2段階に罹患する。</p>\n<p><strong>アドバンスト・スカーヴィ</strong> (病気)</p>\n<p><strong>レベル</strong> 4</p>\n<p>新鮮な果物を食べた後、クリーチャーは1日の間、この病気に対する次のセーヴィング・スローに＋2の状況ボーナスを得る。</p>\n<p><strong>第1段階</strong> 衰弱1状態となり、持続的な出血効果によって与えられるダメージが1増加する(1日)</p>\n<p><strong>第2段階</strong> 衰弱1状態、@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態となり、持続的な出血効果によって与えられるダメージが1d4増加する(2日)</p>\n<p><strong>第3段階</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{衰弱2}状態、疲労状態となり、持続的な出血効果によって与えられるダメージが1d6増加する(4日)</p>",
       "target": "1体のクリーチャー",
       "range": "接触",
       "time": "2"
