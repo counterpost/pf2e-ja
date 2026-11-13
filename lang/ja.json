@@ -285,7 +285,7 @@
             "Title": "セーヴィング・スロー"
           },
           "Attack": {
-            "Advanced": "特殊武器",
+            "Advanced": "高度な武器",
             "Martial": "軍用武器",
             "Simple": "単純武器",
             "Title": "攻撃",
@@ -2102,7 +2102,7 @@
               "label": "軍用武器"
             },
             "advanced": {
-              "label": "特殊武器"
+              "label": "高度な武器"
             },
             "unarmed": {
               "label": "素手攻撃"
@@ -6806,7 +6806,7 @@
     "WeaponReloadLabel": "装填時間",
     "WeaponSpecialization": "ウェポン・スペシャライゼーション",
     "WeaponStrikeLabel": "〈ストライク〉",
-    "WeaponTypeAdvanced": "特殊武器",
+    "WeaponTypeAdvanced": "高度な武器",
     "WeaponTypeMartial": "軍用武器",
     "WeaponTypeSimple": "単純武器",
     "WeaponTypeSpecial": "その他の武器",
