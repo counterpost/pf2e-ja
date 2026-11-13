@@ -3318,19 +3318,19 @@
       "Ancestor": {
         "AncestralInfluence": "祖先の感化",
         "Label": {
-          "ExtremeBattle": "極限の戦闘",
-          "ExtremeSkillful": "極めて器用",
-          "ExtremeSpellcasting": "極限のスペルキャスティング",
-          "MajorBattle": "上級の戦闘",
-          "MajorSkillful": "上級の技能",
-          "MajorSpellcasting": "上級のスペルキャスティング",
+          "ExtremeBattle": "極度の戦闘",
+          "ExtremeSkillful": "極度の器用",
+          "ExtremeSpellcasting": "極度のスペルキャスティング",
+          "MajorBattle": "重度の戦闘",
+          "MajorSkillful": "重度の器用",
+          "MajorSpellcasting": "重度のスペルキャスティング",
           "Martial": "武勇",
-          "MinorBattle": "初級の戦闘",
-          "MinorSkillful": "初級の技能",
-          "MinorSpellcasting": "初級のスペルキャスティング",
-          "ModerateBattle": "中級の戦闘",
-          "ModerateSkillful": "中程度の器用",
-          "ModerateSpellcasting": "中級のスペルキャスティング",
+          "MinorBattle": "軽度の戦闘",
+          "MinorSkillful": "軽度の器用",
+          "MinorSpellcasting": "軽度のスペルキャスティング",
+          "ModerateBattle": "中度の戦闘",
+          "ModerateSkillful": "中度の器用",
+          "ModerateSpellcasting": "中度のスペルキャスティング",
           "Skillful": "器用",
           "Spellcasting": "スペルキャスティング"
         },
@@ -3348,10 +3348,10 @@
         "ModerateUpgrade": "あなたが病気、毒、または即死効果に対するセーヴィング・スローで成功をロールしたとき、あなたは代わりに大成功を得る。"
       },
       "Label": {
-        "Extreme": "極限",
-        "Major": "上級",
-        "Minor": "微小",
-        "Moderate": "中級"
+        "Extreme": "極度",
+        "Major": "重度",
+        "Minor": "軽度",
+        "Moderate": "中度"
       },
       "Life": {
         "DescriptionMajor": "あなたが呪文スロットを使用して、発動に2アクション以上かかる5レベル以上の呪文を発動するたびに、あなたは発動した呪文よりも4レベル低い、3アクションの@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{ヒール}呪文の効果を伴う生命エネルギーを@Template[burst|distance:30]内に放出する。この回復は、あなたが@UUID[Compendium.pf2e.actionspf2e.aBQ8ajvEBByv45yz]{呪文を発動：呪文}し終えた直後に発生する。あなたはこの回復から恩恵を得られない。代わりに、あなたはヒール呪文でロールされたヒット・ポイントの2倍の値を失う。",
