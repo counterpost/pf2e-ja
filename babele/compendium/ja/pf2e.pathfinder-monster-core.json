@@ -6835,7 +6835,7 @@
           "description": "<p>ガンカナはあらゆる小型または中型のヒューマノイドの外見を取ることができる。これは彼らの移動速度やストライクの攻撃ボーナスおよびダメージ・ボーナスを変化させないが、ストライクが与えるダメージ種別を変化させる可能性がある(通常は殴打になる)。</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         "RQyE6xYaEg8W7C38": {
-          "name": "インヴィゴレイティング・パッション/Invigorating Passion",
+          "name": "インビゴレーティング・パッション/Invigorating Passion",
           "description": "<p>ガンカナは隣接する同意するクリーチャーを抱きしめるか口づけし、そのクリーチャーに活力を与える情熱を注ぎ込む。10分の間、そのクリーチャーは攻撃ロールに+1のステータス・ボーナスと10の一時的ヒット・ポイントを得る。その時間が経過した後、対象は@Check[fortitude|dc:21]セーヴに成功しない限り、@UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{疲労}状態に10分の間なる。</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.5syHrFGAE6lo0FUr]{効果: Invigorating Passion}</p>"
         }
       },

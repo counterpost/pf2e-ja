@@ -926,7 +926,7 @@
     },
     "Dark Fields Kitsune": {
       "name": "ダークフィールズ・キツネ/Dark Fields Kitsune",
-      "description": "<p>不安を与える存在感を行使して他者をさりげなく〔怯ませる〕ことができる。このとき〔怯ませる〕は聴覚トレイトを失い視覚トレイトを得る。言語を理解しない生物を〔怯ませる〕際のペナルティも受けない。さらに@UUID[Compendium.pf2e.actionspf2e.Item.Ul4I0ER6pj3U5eAk]{〈インヴィゴレイティング・フィアー〉}のリアクションを得る。あなたの別形態はキツネで、1stランクの@UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{ペスト・フォーム}の統計を持つ。</p>"
+      "description": "<p>不安を与える存在感を行使して他者をさりげなく〔怯ませる〕ことができる。このとき〔怯ませる〕は聴覚トレイトを失い視覚トレイトを得る。言語を理解しない生物を〔怯ませる〕際のペナルティも受けない。さらに@UUID[Compendium.pf2e.actionspf2e.Item.Ul4I0ER6pj3U5eAk]{〈インビゴレーティング・フィアー〉}のリアクションを得る。あなたの別形態はキツネで、1stランクの@UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{ペスト・フォーム}の統計を持つ。</p>"
     },
     "Sharp-Eared Catfolk": {
       "name": "鋭耳のキャットフォーク/Sharp-Eared Catfolk",

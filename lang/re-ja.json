@@ -4155,7 +4155,7 @@
           }
         },
         "SupremeInvigoratingElixir": {
-          "Description": "活性化のエリクサーによる効果を対抗判定する目的において、あなたのレベルを実際より2高いものとして扱う。あなたが作成する活性化のエリクサーで打ち消しするために選択できる状態に、以下のリストに記載された状態を加える：@UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{石化}、@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン}。また、病気がどのような状態(もしあれば)をもたらすかに関わらず、病気を選択することもできる。"
+          "Description": "インビゴレーティング・エリクサーによる効果を対抗判定する目的において、あなたのレベルを実際より2高いものとして扱う。あなたが作成するインビゴレーティング・エリクサーで打ち消しするために選択できる状態に、以下のリストに記載された状態を加える：@UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{石化}、@UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{スタン}。また、病気がどのような状態(もしあれば)をもたらすかに関わらず、病気を選択することもできる。"
         },
         "UncannyBombs": {
           "Note": "あなたは@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態のクリーチャーを対象にする際、フラット・判定に自動的に成功する。"
