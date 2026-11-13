@@ -5475,7 +5475,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">A</span> (手作業)</p><hr /><p>あなたは内なる静寂を得るが、暴力を不快に感じるようになる。</p>\n<p><strong>利益</strong>あなたは意志セーヴ、および《知覚》、《医術》、《自然》、《宗教》、《生存術》判定に+4のアイテム・ボーナスを得る。精神効果に対する意志セーヴで成功をロールした場合、代わりに大成功を得る。また、精神効果に対する意志セーヴでの大失敗は、代わりに失敗となる。</p>\n<p><strong>欠点</strong>あなたは攻撃ロールと攻撃呪文のセーヴ難易度に-1のペナルティを受け、すべての武器攻撃、素手攻撃、呪文ダメージにダメージ・ダイス1個につき-1のペナルティを受ける。</p>\n<p><strong>持続時間</strong> 1時間。</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.t7VUJHSUT6bkVUjg]{効果: 静寂のミュータジェン(上級)}</p>"
     },
     "Ten-Foot Pole": {
-      "name": "10フィート棒/Ten-Foot Pole",
+      "name": "10フィートの棒/Ten-Foot Pole",
       "description": "<p>この長い棒を手に持っている間、あなたは最大10フィート離れた広場を捜索するために〈見回す〉を使用できる。この棒は武器として使用するには十分に頑丈ではない。</p>"
     },
     "Golden Legion Epaulet": {
