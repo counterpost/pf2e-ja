@@ -9,7 +9,7 @@
       "ExplosiveAmmunition": {
         "Greater": {
           "Text": "射撃物は@Template[burst|distance:10]で爆発し、そのエリア内の各クリーチャー(対象を含む)に@Damage[10d6[fire]|options:area-damage]ダメージを与える。各クリーチャーは@Check[reflex|dc:30|basic|name:Explosive Ammunition|options:area-effect]セーヴを行わなければならない。",
-          "Title": "エクスプローシヴ・矢弾(上級)"
+          "Title": "エクスプローシヴ・矢弾(グレーター)"
         },
         "Normal": {
           "Text": "射撃物は@Template[burst|distance:10]で爆発し、そのエリア内の各クリーチャー(対象を含む)に@Damage[6d6[fire]|options:area-damage]ダメージを与える。各クリーチャーは@Check[reflex|dc:25|basic|name:Explosive Ammunition|options:area-effect]セーヴを行わなければならない。",
@@ -19,11 +19,11 @@
       "ExsanguinatingAmmunition": {
         "Greater": {
           "Text": "起動したエクスサングィネイティング・アミュニションでクリーチャーにダメージを与えた後1分の間、そのクリーチャーは持続出血ダメージに対する弱点3を得る。さらに、効果時間中、持続出血ダメージを終了させるための難易度判定のDCは15から17に増加する(特に効果的な支援を受けている場合は10から12に増加する)。@UUID[Compendium.pf2e.equipment-effects.Item.Fz3cSffzDAxhCh2D]{効果：エクスサングィネイティング・矢弾}",
-          "Title": "エクスサングィネイティング・矢弾(上級)"
+          "Title": "エクスサングィネイティング・矢弾(グレーター)"
         },
         "Major": {
           "Text": "起動したエクスサングィネイティング・アミュニションでクリーチャーにダメージを与えた後1分の間、そのクリーチャーは持続出血ダメージに対する弱点5を得る。さらに、効果時間中、持続出血ダメージを終了させるための難易度判定のDCは15から17に増加する(特に効果的な支援を受けている場合は10から12に増加する)。@UUID[Compendium.pf2e.equipment-effects.Item.Fz3cSffzDAxhCh2D]{効果：エクスサングィネイティング・矢弾}",
-          "Title": "エクスサングィネイティング・矢弾(最上級)"
+          "Title": "エクスサングィネイティング・矢弾(メジャー)"
         },
         "Normal": {
           "Text": "起動したエクスサングィネイティング・アミュニションでクリーチャーにダメージを与えた後1分の間、そのクリーチャーは持続出血ダメージに対する弱点1を得る。さらに、効果時間中、持続出血ダメージを終了させるための難易度判定のDCは15から17に増加する(特に効果的な支援を受けている場合は10から12に増加する)。@UUID[Compendium.pf2e.equipment-effects.Item.Fz3cSffzDAxhCh2D]{効果：エクスサングィネイティング・矢弾}",
@@ -42,11 +42,11 @@
         "CriticalFailureText": "大失敗の場合、武器は不発となる。",
         "Greater": {
           "Text": "武器の通常のダメージに加えて、メテオ・ショットは火炎ダメージを与え、エリア内の地面は移動困難な地形になる。この弾薬は対象を中心とした@Template[emanation|distance:10]に@Damage[6d6[fire]]ダメージを与える(@Check[reflex|dc:29|basic|name:Meteor Shot]セーヴ)。",
-          "Title": "メテオ・ショット(上級)"
+          "Title": "メテオ・ショット(グレーター)"
         },
         "Major": {
           "Text": "武器の通常のダメージに加えて、メテオ・ショットは火炎ダメージを与え、エリア内の地面は移動困難な地形になる。この弾薬は対象を中心とした@Template[emanation|distance:20]に@Damage[9d6[fire]]ダメージを与える(@Check[reflex|dc:37|basic|name:Meteor Shot]セーヴ)。",
-          "Title": "メテオ・ショット(最上級)"
+          "Title": "メテオ・ショット(メジャー)"
         },
         "Normal": {
           "Text": "武器の通常のダメージに加えて、メテオ・ショットは火炎ダメージを与え、エリア内の地面は移動困難な地形になる。この弾薬は対象を中心とした@Template[emanation|distance:5]に@Damage[3d6[fire]]ダメージを与える(@Check[reflex|dc:23|basic|name:Meteor Shot]セーヴ)。",
@@ -57,7 +57,7 @@
         "CriticalHitText": "クリティカルヒット時、クリーチャーは他の効果に加えて、1ラウンドの間@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}状態となる。",
         "Greater": {
           "Text": "そのクリーチャーは、その効果を終了させるまで、移動速度に-10フィートのペナルティを受け、さらに@Damage[3d4[persistent,acid]]ダメージを受ける。対象は、粘着性の泡から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{脱出}(DC29)することで、この効果を終了できる。他のクリーチャーがこのアクションを提供することもできるが、そうした場合、その支援したクリーチャーは、この弾薬の持続酸ダメージの半分のダメージを受ける。効果を終了させたクリーチャーは、そのターンには依然として持続ダメージを受ける。@UUID[Compendium.pf2e.equipment-effects.Item.m77YnEX1T7bdk7Qa]{効果：ウーズの矢弾}",
-          "Title": "ウーズの矢弾(上級)"
+          "Title": "ウーズの矢弾(グレーター)"
         },
         "Lesser": {
           "Text": "そのクリーチャーは、その効果を終了させるまで、移動速度に-5フィートのペナルティを受け、さらに@Damage[1d4[persistent,acid]]ダメージを受ける。対象は、粘着性の泡から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{脱出}(DC16)することで、この効果を終了できる。他のクリーチャーがこのアクションを提供することもできるが、そうした場合、その支援したクリーチャーは、この弾薬の持続酸ダメージの半分のダメージを受ける。効果を終了させたクリーチャーは、そのターンには依然として持続ダメージを受ける。@UUID[Compendium.pf2e.equipment-effects.Item.m77YnEX1T7bdk7Qa]{効果：ウーズの矢弾}",
@@ -65,7 +65,7 @@
         },
         "Major": {
           "Text": "そのクリーチャーは、その効果を終了させるまで、移動速度に-15フィートのペナルティを受け、さらに@Damage[4d4[persistent,acid]]ダメージを受ける。対象は、粘着性の泡から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{脱出}(DC38)することで、この効果を終了できる。他のクリーチャーがこのアクションを提供することもできるが、そうした場合、その支援したクリーチャーは、この弾薬の持続酸ダメージの半分のダメージを受ける。効果を終了させたクリーチャーは、そのターンには依然として持続ダメージを受ける。@UUID[Compendium.pf2e.equipment-effects.Item.m77YnEX1T7bdk7Qa]{効果：ウーズの矢弾}",
-          "Title": "ウーズ・アミュニション／Ooze矢弾(上級)"
+          "Title": "ウーズの矢弾(メジャー)"
         },
         "Moderate": {
           "Text": "そのクリーチャーは、その効果を終了させるまで、移動速度に-10フィートのペナルティを受け、さらに@Damage[2d4[persistent,acid]]ダメージを受ける。対象は、粘着性の泡から@UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{脱出}(DC20)することで、この効果を終了できる。他のクリーチャーがこのアクションを提供することもできるが、そうした場合、その支援したクリーチャーは、この弾薬の持続酸ダメージの半分のダメージを受ける。効果を終了させたクリーチャーは、そのターンには依然として持続ダメージを受ける。@UUID[Compendium.pf2e.equipment-effects.Item.m77YnEX1T7bdk7Qa]{効果：ウーズの矢弾}",
@@ -456,9 +456,9 @@
         }
       },
       "GooGrenade": {
-        "Greater": "上級",
+        "Greater": "グレーター",
         "Lesser": "初級",
-        "Major": "上級",
+        "Major": "メジャー",
         "Moderate": "中級",
         "Prompt": "グー・グレネードの品質を選択する。",
         "success": "<strong>効果</strong>命中時、クリーチャーは付着した粘着物によって、その移動速度にペナルティを受ける。@UUID[Compendium.pf2e.equipment-effects.Item.5JYchreCttBg7RcD]{効果: グー・グレネード}"
@@ -4109,8 +4109,8 @@
           "Note": "爆風ダメージは、対象から5フィート以内ではなく、10フィート以内のすべてのクリーチャーに影響を与える。"
         },
         "ImprovedInvigoratingElixir": {
-          "Description": "あなたが作成する、以下の状態を打ち消しするための活性化のエリクサーの選択肢に、記載された状態を追加する：",
-          "Label": "上級活性化のエリクサー",
+          "Description": "あなたが作成する、以下の状態を打ち消しするためのインビゴレーティング・エリクサーの選択肢に、記載された状態を追加する：",
+          "Label": "インビゴレーティング・エリクサー強化",
           "Mental": {
             "Label": "精神の活性化",
             "Conditions": "@UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{混乱}、支配、@UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{逃走}、@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている}、@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}、@UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{スロウ}。"
@@ -5231,11 +5231,11 @@
         "Note9th": "あなたがこの方法でクリーチャーに酸ダメージを与える各ラウンドの最初の1回目、あなたは[[/r 5d6 #Temporary Hit Points]]{5d6 一時的ヒット・ポイント}を獲得する。"
       },
       "Cover": {
-        "Greater": "上級",
-        "Lesser": "初級",
+        "Greater": "重遮蔽",
+        "Lesser": "軽遮蔽",
         "Prompt": "遮蔽の段階を選択する。",
         "Prone": "伏せている",
-        "Standard": "標準"
+        "Standard": "通常遮蔽"
       },
       "CriticalDeck": {
         "Effect": {
@@ -5553,7 +5553,7 @@
       "Elementalist": {
         "Sorcerer": {
           "ElementalFocusPrompt": {
-            "Advanced": "あなたの上級血脈呪文を、上級エレメンタル・フォーカス呪文に置き換えますか？",
+            "Advanced": "あなたの高度な血脈呪文を、高度なエレメンタル・フォーカス呪文に置き換えますか？",
             "Initial": "あなたの初期血脈呪文を、初期エレメンタル・フォーカス呪文と入れ替えるか？"
           }
         },
@@ -5638,10 +5638,10 @@
         "Bomb": {
           "Choice": "ボムの種類",
           "Type": {
-            "Greater": "上級",
-            "Lesser": "初級",
-            "Major": "最上級",
-            "Moderate": "中級"
+            "Greater": "グレーター",
+            "Lesser": "レッサー",
+            "Major": "メジャー",
+            "Moderate": "モデレート"
           }
         },
         "BracersOfDevotion": {
@@ -5650,13 +5650,13 @@
         },
         "BravosBrew": {
           "Greater": {
-            "FearLabel": "上級ブラーヴォーズ・ブリュー(対恐怖)"
+            "FearLabel": "ブラボーズ・ブリュー（グレーター）(対恐怖)"
           },
           "Lesser": {
-            "FearLabel": "初級ブラーヴォーズ・ブリュー(対恐怖)"
+            "FearLabel": "ブラボーズ・ブリュー（レッサー）(対恐怖)"
           },
           "Moderate": {
-            "FearLabel": "中級ブレイヴォーズ・ブリュー(対：恐怖)"
+            "FearLabel": "ブラボーズ・ブリュー（モデレート）(対恐怖)"
           }
         },
         "BroadleafShield": {
@@ -6310,23 +6310,23 @@
       },
       "FighterWeaponMasteryLegend": {
         "Advanced": {
-          "axe": "上級の斧",
-          "bomb": "上級の爆弾",
-          "bow": "上級の弓",
-          "brawling": "上級の剛腕",
-          "club": "上級の棍棒",
-          "crossbow": "上級のクロスボウ",
-          "dart": "上級のダート",
-          "firearm": "上級の火器",
-          "flail": "上級のフレイル",
-          "hammer": "上級のハンマー",
-          "knife": "上級のナイフ",
-          "pick": "上級のピック",
-          "polearm": "上級の長柄武器",
-          "shield": "上級の盾",
-          "sling": "上級の投石器",
-          "spear": "上級の槍",
-          "sword": "上級の剣"
+          "axe": "斧の特殊武器",
+          "bomb": "ボムの特殊武器",
+          "bow": "弓の特殊武器",
+          "brawling": "剛腕の特殊武器",
+          "club": "クラブの特殊武器",
+          "crossbow": "クロスボウの特殊武器",
+          "dart": "ダーツの特殊武器",
+          "firearm": "銃器の特殊武器",
+          "flail": "フレイルの特殊武器",
+          "hammer": "槌の特殊武器",
+          "knife": "ナイフの特殊武器",
+          "pick": "ピックの特殊武器",
+          "polearm": "長柄の特殊武器",
+          "shield": "盾の特殊武器",
+          "sling": "投石具の特殊武器",
+          "spear": "槍の特殊武器",
+          "sword": "剣の特殊武器"
         },
         "SimpleMartial": {
           "axe": "単純＆軍用の斧",
@@ -7128,34 +7128,34 @@
       "MartialProficiency": {
         "AdvancedAthamaruWeapons": "アタマルの特殊武器",
         "AdvancedAzarketiWeapons": "アザルケティの特殊武器",
-        "AdvancedBowsAndCrossbows": "上級の弓とクロスボウ",
+        "AdvancedBowsAndCrossbows": "弓とクロスボウの特殊武器",
         "AdvancedCatfolkWeapons": "キャットフォークの特殊武器",
         "AdvancedConrasuWeapons": "コンラスの特殊武器",
         "AdvancedDwarfWeapons": "ドワーフの特殊武器",
         "AdvancedElfWeapons": "エルフの特殊武器",
-        "AdvancedFirearmsCrossbows": "上級の銃器とクロスボウ",
-        "AdvancedGeniekinWeapons": "上級ジーニーキン武器",
+        "AdvancedFirearmsCrossbows": "銃器とクロスボウの特殊武器",
+        "AdvancedGeniekinWeapons": "ジーニーキンの特殊武器",
         "AdvancedGhoranWeapons": "ゴランの特殊武器",
         "AdvancedGnomeWeapons": "ノームの特殊武器",
         "AdvancedGoblinWeapons": "ゴブリンの特殊武器",
         "AdvancedGroup": {
-          "axe": "上級の斧",
-          "bomb": "上級の爆弾",
-          "bow": "上級の弓",
-          "brawling": "上級の剛腕",
-          "club": "上級の棍棒",
-          "crossbow": "上級のクロスボウ",
-          "dart": "上級のダート",
-          "firearm": "上級の銃器",
-          "flail": "上級のフレイル",
-          "hammer": "上級のハンマー",
-          "knife": "上級のナイフ",
-          "pick": "上級のピック",
-          "polearm": "上級のポールアーム",
-          "shield": "上級の盾",
-          "sling": "上級のスリング",
-          "spear": "上級の槍",
-          "sword": "上級の剣"
+          "axe": "斧の特殊武器",
+          "bomb": "ボムの特殊武器",
+          "bow": "弓の特殊武器",
+          "brawling": "剛腕の特殊武器",
+          "club": "クラブの特殊武器",
+          "crossbow": "クロスボウの特殊武器",
+          "dart": "ダーツの特殊武器",
+          "firearm": "銃器の特殊武器",
+          "flail": "フレイルの特殊武器",
+          "hammer": "槌の特殊武器",
+          "knife": "ナイフの特殊武器",
+          "pick": "ピックの特殊武器",
+          "polearm": "長柄の特殊武器",
+          "shield": "盾の特殊武器",
+          "sling": "投石具の特殊武器",
+          "spear": "槍の特殊武器",
+          "sword": "剣の特殊武器"
         },
         "AdvancedHalflingWeapons": "ハーフリングの特殊武器",
         "AdvancedHobgoblinWeapons": "ホブゴブリンの特殊武器",
@@ -7174,9 +7174,9 @@
         "AdvancedTalphiWeapons": "タルフィの特殊武器",
         "AdvancedTenguWeapons": "テングの特殊武器",
         "AdvancedTripkeeWeapons": "トリプキーの特殊武器",
-        "AdvancedTwoHandedMeleeWeapons": "上級両手用近接武器",
+        "AdvancedTwoHandedMeleeWeapons": "両手用近接の特殊武器",
         "AdvancedVanaraWeapons": "ヴァナラの特殊武器",
-        "AdvancedVishkanyaWeapons": "上級ヴィシュカニャ武器",
+        "AdvancedVishkanyaWeapons": "ヴィシュカニャの特殊武器",
         "AdvancedWayangWeapons": "ワヤンの特殊武器",
         "AquaticElfWeapons": "水棲エルフの武器",
         "BayonetsAndReinforcedStocks": "銃剣と補強銃床",
@@ -7185,62 +7185,62 @@
         "HellknightBreastplate": "ヘルナイトのブレストプレート",
         "HellknightPlates": "ヘルナイトのハーフプレート＆ヘルナイトのプレート",
         "MarineCombat": "海兵隊の戦闘",
-        "MartialAthamaruWeapons": "アサマルの中級武器",
-        "MartialAzarketiWeapons": "アザルケティの中級武器",
-        "MartialBombsFirearms": "中級の爆弾＆銃器",
-        "MartialBowsAndCrossbows": "中級の弓とクロスボウ",
-        "MartialCatfolkWeapons": "キャットフォークの中級武器",
-        "MartialCentaurWeapons": "ケンタウロスの中級武器",
-        "MartialConrasuWeapons": "コンラスの中級武器",
-        "MartialDuskwalkerWeapons": "ダスクウォーカーの中級武器",
-        "MartialDwarfWeapons": "ドワーフの中級武器",
-        "MartialElfWeapons": "エルフの中級武器",
-        "MartialFirearmsCrossbows": "中級の銃器＆クロスボウ",
-        "MartialGeniekinWeapons": "ジーニーキンの中級武器",
-        "MartialGhoranWeapons": "ゴーランの中級武器",
-        "MartialGnomeWeapons": "ノームの中級武器",
-        "MartialGoblinWeapons": "ゴブリンの中級武器",
+        "MartialAthamaruWeapons": "アサマルの軍用武器",
+        "MartialAzarketiWeapons": "アザルケティの軍用武器",
+        "MartialBombsFirearms": "ボムと銃器の軍用武器",
+        "MartialBowsAndCrossbows": "弓とクロスボウの軍用武器",
+        "MartialCatfolkWeapons": "キャットフォークの軍用武器",
+        "MartialCentaurWeapons": "ケンタウロスの軍用武器",
+        "MartialConrasuWeapons": "コンラスの軍用武器",
+        "MartialDuskwalkerWeapons": "ダスクウォーカーの軍用武器",
+        "MartialDwarfWeapons": "ドワーフの軍用武器",
+        "MartialElfWeapons": "エルフの軍用武器",
+        "MartialFirearmsCrossbows": "銃器とクロスボウの軍用武器",
+        "MartialGeniekinWeapons": "ジーニーキンの軍用武器",
+        "MartialGhoranWeapons": "ゴーランの軍用武器",
+        "MartialGnomeWeapons": "ノームの軍用武器",
+        "MartialGoblinWeapons": "ゴブリンの軍用武器",
         "MartialGroup": {
-          "axe": "中級の斧",
-          "bomb": "中級の爆弾",
-          "bow": "中級の弓",
-          "brawling": "中級の剛腕",
-          "club": "中級の棍棒",
-          "crossbow": "中級のクロスボウ",
-          "dart": "中級のダート",
-          "firearm": "中級の銃器",
-          "flail": "中級のフレイル",
-          "hammer": "中級のハンマー",
-          "knife": "中級のナイフ",
-          "pick": "軍用ピック",
-          "polearm": "軍用ポールアーム",
-          "shield": "軍用シールド",
-          "sling": "軍用スリング",
-          "spear": "軍用スピア",
-          "sword": "軍用ソード"
+          "axe": "斧の軍用武器",
+          "bomb": "ボムの軍用武器",
+          "bow": "弓の軍用武器",
+          "brawling": "剛腕の軍用武器",
+          "club": "クラブの軍用武器",
+          "crossbow": "クロスボウの軍用武器",
+          "dart": "ダーツの軍用武器",
+          "firearm": "銃器の軍用武器",
+          "flail": "フレイルの軍用武器",
+          "hammer": "槌の軍用武器",
+          "knife": "ナイフの軍用武器",
+          "pick": "ピックの軍用武器",
+          "polearm": "長柄の軍用武器",
+          "shield": "盾の軍用武器",
+          "sling": "投石具の軍用武器",
+          "spear": "槍の軍用武器",
+          "sword": "剣の軍用武器"
         },
-        "MartialHalflingWeapons": "軍用ハーフリング武器",
-        "MartialHobgoblinWeapons": "軍用ホブゴブリン武器",
-        "MartialJotunbornWeapons": "軍用ヨトゥンボーン武器",
-        "MartialKholoWeapons": "軍用コロ武器",
-        "MartialKoboldWeapons": "軍用コボルド武器",
-        "MartialLashuntaWeapons": "軍用ラシュンタ武器",
-        "MartialMerfolkWeapons": "軍用マーフォーク武器",
-        "MartialOniWeapons": "軍用オニ武器",
-        "MartialOrcWeapons": "軍用オーク武器",
-        "MartialPahtraWeapons": "軍用パートラ武器",
+        "MartialHalflingWeapons": "ハーフリングの軍用武器",
+        "MartialHobgoblinWeapons": "ホブゴブリンの軍用武器",
+        "MartialJotunbornWeapons": "ヨトゥンボーンの軍用武器",
+        "MartialKholoWeapons": "コロの軍用武器",
+        "MartialKoboldWeapons": "コボルドの軍用武器",
+        "MartialLashuntaWeapons": "ラシュンタの軍用武器",
+        "MartialMerfolkWeapons": "マーフォークの軍用武器",
+        "MartialOniWeapons": "オニの軍用武器",
+        "MartialOrcWeapons": "オークの軍用武器",
+        "MartialPahtraWeapons": "パートラの軍用武器",
         "MartialPolearmsAndSpears": "軍用ポールアーム＆スピア",
-        "MartialRyphorianWeapons": "軍用リフォリアン武器",
-        "MartialSamsaranWeapons": "軍用サムサラン武器",
+        "MartialRyphorianWeapons": "リフォリアンの軍用武器",
+        "MartialSamsaranWeapons": "サムサランの軍用武器",
         "MartialStudentOfArchery": "軍用弓術の徒の武器",
-        "MartialSurkiWeapons": "軍用スルキ武器",
-        "MartialTalphiWeapons": "軍用タルフィ武器",
-        "MartialTenguWeapons": "軍用テング武器",
-        "MartialTripkeeWeapons": "軍用トリプキー武器",
-        "MartialTwoHandedMeleeWeapons": "軍用両手用近接武器",
-        "MartialVanaraWeapons": "軍用ヴァナラ武器",
-        "MartialVishkanyaWeapons": "軍用ヴィシュカニャ武器",
-        "MartialWayangWeapons": "軍用ワヤン武器",
+        "MartialSurkiWeapons": "スルキの軍用武器",
+        "MartialTalphiWeapons": "タルフィの軍用武器",
+        "MartialTenguWeapons": "テングの軍用武器",
+        "MartialTripkeeWeapons": "トリプキーの軍用武器",
+        "MartialTwoHandedMeleeWeapons": "両手用近接の軍用武器",
+        "MartialVanaraWeapons": "ヴァナラの軍用武器",
+        "MartialVishkanyaWeapons": "ヴィシュカニャの軍用武器",
+        "MartialWayangWeapons": "ワヤンの軍用武器",
         "MinotaurWeapons": "ミノタウロス武器",
         "MonasticArchery": "修道弓術",
         "PerformativeWeapons": "グラディエーターの演武用武器",
@@ -8872,10 +8872,10 @@
       "Tattoo": {
         "WildwoodInk": {
           "Greater": {
-            "InForestLabel": "ワイルドウッド・インク(上級)(森の中)"
+            "InForestLabel": "ワイルドウッド・インク(グレーター)(森の中)"
           },
           "Major": {
-            "InForestLabel": "ワイルドウッド・インク(最上級)(森の中)"
+            "InForestLabel": "ワイルドウッド・インク(メジャー)(森の中)"
           },
           "Normal": {
             "InForestLabel": "ワイルドウッド・インク(森の中)"
@@ -9664,7 +9664,7 @@
           "Note": "あなたが感情効果に対するセーヴィング・スローで成功をロールした場合、代わりに大成功を得る。"
         },
         "WeaponFamiliarity": {
-          "AdvancedWeapons": "上級ドラゴンキン武器",
+          "AdvancedWeapons": "ドラゴンキンの特殊武器",
           "MartialWeapons": "軍用ドラゴンキン武器"
         }
       },
@@ -9865,7 +9865,7 @@
         }
       },
       "MartialProficiency": {
-        "AdvancedGuns": "上級銃器",
+        "AdvancedGuns": "特殊銃器",
         "MartialAndSimpleGuns": "軍用＆単純銃器",
         "SimpleGuns": "単純銃器"
       },
@@ -10012,7 +10012,7 @@
           "Note": "あなたが視認できるアンデッドクリーチャーに対して〈思い出す〉ための判定に成功または大成功したとき、あなたは相手の防御の弱点を特定する。1分の間、あなたはその特定のクリーチャーに対して行うすべての武器および素手攻撃について、クリティカル・スペシャライゼーション効果を使用できるようになる。"
         },
         "WeaponFamiliarity": {
-          "AdvancedWeapons": "上級サルセシアン武器",
+          "AdvancedWeapons": "サルセシアンの特殊武器",
           "MartialWeapons": "軍用サルセシアン武器"
         },
         "WillfulDefiance": {
@@ -10034,7 +10034,7 @@
       },
       "Shobhad": {
         "WeaponFamiliarity": {
-          "AdvancedWeapons": "上級ショバド武器",
+          "AdvancedWeapons": "ショバドの特殊武器",
           "MartialWeapons": "軍用ショバド武器"
         }
       },
@@ -10246,7 +10246,7 @@
           "AdjacentLabel": "量子フィールドの内部または隣接"
         },
         "ZoneOverlap": {
-          "DebrisZone": "「残骸エリア」は上級移動困難な地形となる。",
+          "DebrisZone": "残骸エリアは重度の移動困難地形となる。",
           "RadiantZone": "領域の重複により、クリーチャーはもう一度セーヴィング・スローを行わなければならなくなる。",
           "TwistedDarkZone": "《ツイステッド・ダーク・ゾーン》は、以前セーヴに大成功したクリーチャーの、一時的な直近の完全耐性を1ラウンドの間無視する。"
         }
