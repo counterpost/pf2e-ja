@@ -16439,7 +16439,7 @@
       "source": "Pathfinder Player Core",
       "prerequisites": [
         {
-          "value": "武器スペシャライゼーション"
+          "value": "ウェポン・スペシャライゼーション"
         }
       ]
     },
@@ -28502,7 +28502,7 @@
     },
     "Resounding Cascade": {
       "name": "リサウンディング・カスケード/Resounding Cascade",
-      "description": "<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.HbejhIywqIufrmVM]{〈アーケイン・カスケード〉}.</p><hr /><p>あなたのアーケインカスケードに入ると、近くの味方に魔法の強化を分散させる。あなたはアーケインカスケードの追加ダメージを、 @Template[emanation|distance:5]内のすべての味方に影響するオーラで与える。これは、仲間の武器スペシャライゼーションに基づいたスタンスの基本ダメージのみを使用し、ボーナスから得られるいかなる増加や、 @UUID[Compendium.pf2e.classfeatures.Item.3gVDqDPSz4fB5T9G]{ラフィング・シャドウ}ハイブリッドスタディなどは使用しない。</p>\n<p>重複する効果に関しては、同じクリーチャーに影響する複数のアーケインカスケードは累積しない。</p>",
+      "description": "<p><strong>トリガー</strong>あなたは@UUID[Compendium.pf2e.actionspf2e.Item.HbejhIywqIufrmVM]{〈アーケイン・カスケード〉}.</p><hr /><p>あなたのアーケインカスケードに入ると、近くの味方に魔法の強化を分散させる。あなたはアーケインカスケードの追加ダメージを、 @Template[emanation|distance:5]内のすべての味方に影響するオーラで与える。これは、仲間のウェポン・スペシャライゼーションに基づいたスタンスの基本ダメージのみを使用し、ボーナスから得られるいかなる増加や、 @UUID[Compendium.pf2e.classfeatures.Item.3gVDqDPSz4fB5T9G]{ラフィング・シャドウ}ハイブリッドスタディなどは使用しない。</p>\n<p>重複する効果に関しては、同じクリーチャーに影響する複数のアーケインカスケードは累積しない。</p>",
       "selfEffect": "効果: 鳴り響く滝",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
@@ -34288,7 +34288,7 @@
     },
     "Expert Combat Eidolon": {
       "name": "エキスパート・コンバット・アイドロン/Expert Combat Eidolon",
-      "description": "<p>あなたのエイドロンは、戦闘における能力を進展させる。あなたのエイドロンは徒手攻撃のエキスパートとなる。もしあなたが無装甲防御のエキスパートであれば、あなたのエイドロンも無装甲防御のエキスパートとなる。もしあなたが武器スペシャライゼーションを持っていれば、あなたのエイドロンも武器スペシャライゼーションを得る。</p>",
+      "description": "<p>あなたのエイドロンは、戦闘における能力を進展させる。あなたのエイドロンは徒手攻撃のエキスパートとなる。もしあなたが無装甲防御のエキスパートであれば、あなたのエイドロンも無装甲防御のエキスパートとなる。もしあなたがウェポン・スペシャライゼーションを持っていれば、あなたのエイドロンもウェポン・スペシャライゼーションを得る。</p>",
       "source": "Pathfinder Secrets of Magic",
       "prerequisites": [
         {
@@ -47378,7 +47378,7 @@
           "value": "永遠の伝説デディケーション"
         },
         {
-          "value": "グレーター武器スペシャライゼーション"
+          "value": "グレーター・ウェポン・スペシャライゼーション"
         }
       ]
     },

@@ -282,7 +282,7 @@
     },
     "Spinning Crush": {
       "name": "スピニング・クラッシュ/Spinning Crush",
-      "description": "<p><strong>要件</strong> あなたは装填された火器か装填されたクロスボウを装備している</p><hr /><p>激しく回転し、武器で周囲を叩きながら発射で勢いを増す。あなたに隣接しているすべてのクリーチャーは@Damage[(4d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{4d6 殴打ダメージ plus your Strength modifier}のダメージを受ける；あなたの火器にストライキング・ルーンが付いている場合は@Damage[(6d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{6d6}に増え、グレーター・ストライキングなら@Damage[(8d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{8d6}、メジャー・ストライキングなら@Damage[(10d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{10d6}になる。この能力は武器スペシャライゼーションのような、火器によるストライクでダメージを増加させる他の効果には適用されない。この攻撃で影響を受けたクリーチャーは@Check[reflex|against:gunslinger|basic|options:area-effect,forced-movement]セーヴを行う。セーヴに失敗したクリーチャーはあなたから直接10フィート押し出される.</p>",
+      "description": "<p><strong>要件</strong> あなたは装填された火器か装填されたクロスボウを装備している</p><hr /><p>激しく回転し、武器で周囲を叩きながら発射で勢いを増す。あなたに隣接しているすべてのクリーチャーは@Damage[(4d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{4d6 殴打ダメージ plus your Strength modifier}のダメージを受ける；あなたの火器にストライキング・ルーンが付いている場合は@Damage[(6d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{6d6}に増え、グレーター・ストライキングなら@Damage[(8d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{8d6}、メジャー・ストライキングなら@Damage[(10d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{10d6}になる。この能力はウェポン・スペシャライゼーションのような、火器によるストライクでダメージを増加させる他の効果には適用されない。この攻撃で影響を受けたクリーチャーは@Check[reflex|against:gunslinger|basic|options:area-effect,forced-movement]セーヴを行う。セーヴに失敗したクリーチャーはあなたから直接10フィート押し出される.</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Thundering Roar": {
