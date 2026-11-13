@@ -2984,8 +2984,8 @@
         "Ritual": {
           "Label": "儀式",
           "PrimaryCheck": "主要判定",
-          "SecondaryChecks": "副判定",
-          "SecondaryCasters": "副術者"
+          "SecondaryChecks": "副次判定",
+          "SecondaryCasters": "副次術者"
         },
         "Sustained": {
           "Duration": "最大{maximum}まで維持",
