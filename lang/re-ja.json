@@ -130,7 +130,7 @@
         "Blade": "刃",
         "Body": "体",
         "BodySlam": "体当たり",
-        "BoneDart": "骨の投げ矢",
+        "BoneDart": "骨のダーツ",
         "BoneShard": "骨の破片",
         "BoneSpike": "骨のスパイク",
         "Boot": "ブーツ",
@@ -5509,7 +5509,7 @@
           "Prompt": "あなたのエレメンタルの心臓の種別をつるはしする"
         },
         "ForgeBlessedShot": {
-          "Note": "対象の@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態、および対象の「軽度」、「標準」、「重遮蔽」を無視する。"
+          "Note": "対象の@UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{視認困難}状態、および対象の軽遮蔽、通常遮蔽、重遮蔽を無視する。"
         },
         "HeroesCall": {
           "DescriptionAlteration": "あなたのヒット・ポイントが半分以下のときにこの呪文をキャストした場合、あなたは自身のレベルの2倍に等しい一時的ヒット・ポイントも獲得する。"
@@ -7972,7 +7972,7 @@
           },
           "ReduceCover": {
             "Label": "遮蔽を減らす",
-            "Note": "対象は盾を掲げる、小遮蔽、または通常遮蔽からACへの状況ボーナスを得られない。対象は重遮蔽または「遮蔽に身を隠す」からのみ、ACに+2の状況ボーナスを得る。"
+            "Note": "対象は盾を掲げる、小遮蔽、または通常遮蔽からACへの状況ボーナスを得られない。対象は重遮蔽または〈遮蔽をとる〉からのみ、ACに+2の状況ボーナスを得る。"
           },
           "SecondLabel": "第二急所攻撃",
           "SpeedPenalty": {

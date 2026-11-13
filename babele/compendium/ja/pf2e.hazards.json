@@ -407,7 +407,7 @@
           "description": "<p><strong>トリガー</strong> クリーチャーが廊下に進入する、または廊下でターンを終了する。</p>\n<hr />\n<p><strong>効果</strong> トラップはトリガーとなったクリーチャーに対して毒矢で〈ストライク〉を行い、その後イニシアチブをロールする。</p>"
         },
         "3oSIIlS5PZwciZ3k": {
-          "name": "ポイズンド・投げ矢/Poisoned Dart",
+          "name": "ポイズンド・ダート/Poisoned Dart",
           "description": "<p>マルチアタック・ペナルティを受けない</p>"
         },
         "hkSWLZaKG41zef8w": {
@@ -421,7 +421,7 @@
       },
       "routine": "<p>(1アクション) この罠はギャラリー内のすべてのクリーチャーそれぞれに対してダーツを1本発射する。継続的にダーツを発射するため、コンティニュアス・バラージのフリー・アクション（下記参照）を使用して、各クリーチャーのターン中にそのクリーチャーへダーツを発射することもできる。</p>",
       "stealth": "<p>@Check[perception|dc:31|traits:action:seek]（熟練）または（達人）で、コントロールパネルに気づく</p>",
-      "name": "ポイズンド・投げ矢・ギャラリー/Poisoned Dart Gallery",
+      "name": "ポイズンド・ダート・ギャラリー/Poisoned Dart Gallery",
       "description": "<p>毒矢を発射するための無数の穴が長い廊下に並んでおり、その突き当たりには隠された操作パネルがある。</p>",
       "disable": "<p>@Check[thievery|dc:21|name:Disable Trap (Control Panel)|traits:action:disable-a-device](熟練)をコントロールパネルに対して行い、罠を無効化する。</p>"
     },
