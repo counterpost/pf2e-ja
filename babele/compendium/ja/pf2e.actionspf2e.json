@@ -724,7 +724,7 @@
       "source": "Pathfinder War of Immortals"
     },
     "Ultimatum of Liberation": {
-      "name": "アルティメータム・オブ・リバレーション/Ultimatum of Liberation",
+      "name": "アルティメータム・オブ・リベレーション/Ultimatum of Liberation",
       "description": "<p><strong>使用制限</strong> 1日1回</p><hr /><p><strong>効果</strong>あなたは他者を抑圧しているとあなたが信じるクリーチャーと、その命令に従うすべての者に対して最後通牒を宣言する。あなたの最後通牒を聞いた、あるいは後から知った他のすべてのクリーチャー(あなた自身を含む)は、あなたの言葉によって1日の間勇気づけられ、抑圧するクリーチャーとその同盟者が生み出す効果に対する意志セーヴに+2の状況ボーナスを得る。もし彼らがあなたから30フィート以内にいる場合、このボーナスは+3に増加する。</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.RPfpy4WzUzdwTeo0]{効果: Ultimatum of Liberation}</p>\n<p>さらに、そのクリーチャーとその同盟者がそれぞれ1日につき初めてあなたから30フィート以内に近づいたとき、彼らはあなたのクラスDCまたは呪文DC(いずれか高い方)に対する@Check[will|against:class-spell|traits:emotion,fear,mental]セーヴに成功しなければならず、失敗すると@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている1}(クリティカル失敗なら@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{恐れている2})状態となる。この2つ目の効果は感情、恐怖、精神のトレイトを持つ。抑圧するクリーチャーは、抑圧を永久に終わらせることに真実を以て同意することで、フリー・アクションとしてすべての効果を終了させることができる。そうでなければ、あなたの「Ultimatum of Liberation」には持続時間はなく、ただし一度に有効にできる「Ultimatum of Liberation」は1つだけである。もしあなたが2つ目の「Ultimatum of Liberation」を宣言した場合、1つ目の効果は終了する。</p>",
       "source": "Pathfinder War of Immortals"
     },
@@ -2471,7 +2471,7 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Liberate Self": {
-      "name": "リバレート・セルフ/Liberate Self",
+      "name": "リベレート・セルフ/Liberate Self",
       "description": "<p><strong>使用制限</strong> 1日1回</p>\n<p><strong>必要条件</strong>あなたが@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている状態}、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能状態}、または@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている状態}であること。</p><hr /><p><strong>効果</strong> 〈エスケープ〉を行う。その際、判定を2回ロールし、良い方の結果を用いる。</p>",
       "source": "Pathfinder Lost Omens Hellfire Dispatches"
     },

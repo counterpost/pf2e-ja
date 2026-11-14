@@ -858,7 +858,7 @@
     },
     "Cause": {
       "name": "大義/Cause",
-      "description": "<p>あなたは神格の名の下に、特定の大義にあなた自身を捧げる。括弧内に記されているように、一部の大義は神聖化に限定されている。あなたの大義は、あなたの信条と禁忌に追加され、チャンピオンのリアクションと呼ばれる特別なリアクションをあなたに与える。これは、より高いレベルでリレントレス・リアクションやエグザルテッド・リアクションのクラス特徴を得た場合のアップグレードとともに、区切り線の後に記載される。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.8YIA0jh64Ecz0TG6]{デセクレーション} (アンホーリー):</strong>あなたは利己的に堕落させ、破壊する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.h1NGH4TVeBljftni]{グランドゥール} (ホーリー):</strong>あなたはセレスティアル界の栄光と壮麗さを体現する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.EQ6DVIQHAUXUhY6Y]{イニクイティ} (アンホーリー):</strong>あなたは破壊し、利用し、不名誉な行動をとる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.peEXunfbSD8WcMFk]{ジャスティス}:</strong>あなたは法に従い、正当な罰を下す。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.FCoMFUsth4xB4veC]{リバレーション}:</strong>あなたは圧政に反対し、自由のために戦う。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.HiIvez0TqESbleB5]{オビーディエンス}:</strong>あなたは階層と秩序を強制する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.UyuwFp0jQqYL2AdF]{リデンプション} (ホーリー):</strong>あなたは邪悪な行いをする者を救済しようと努める。</p>"
+      "description": "<p>あなたは神格の名の下に、特定の大義にあなた自身を捧げる。括弧内に記されているように、一部の大義は神聖化に限定されている。あなたの大義は、あなたの信条と禁忌に追加され、チャンピオンのリアクションと呼ばれる特別なリアクションをあなたに与える。これは、より高いレベルでリレントレス・リアクションやエグザルテッド・リアクションのクラス特徴を得た場合のアップグレードとともに、区切り線の後に記載される。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.8YIA0jh64Ecz0TG6]{デセクレーション} (アンホーリー):</strong>あなたは利己的に堕落させ、破壊する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.h1NGH4TVeBljftni]{グランドゥール} (ホーリー):</strong>あなたはセレスティアル界の栄光と壮麗さを体現する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.EQ6DVIQHAUXUhY6Y]{イニクイティ} (アンホーリー):</strong>あなたは破壊し、利用し、不名誉な行動をとる。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.peEXunfbSD8WcMFk]{ジャスティス}:</strong>あなたは法に従い、正当な罰を下す。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.FCoMFUsth4xB4veC]{リベレーション}:</strong>あなたは圧政に反対し、自由のために戦う。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.HiIvez0TqESbleB5]{オビーディエンス}:</strong>あなたは階層と秩序を強制する。</p>\n<p><strong>@UUID[Compendium.pf2e.classfeatures.Item.UyuwFp0jQqYL2AdF]{リデンプション} (ホーリー):</strong>あなたは邪悪な行いをする者を救済しようと努める。</p>"
     },
     "Voice of Nature": {
       "name": "ボイス・オブ・ネイチャー/Voice of Nature",
@@ -1101,7 +1101,7 @@
       "description": "<p>あなたは攻撃に対してあなた自身をより良く防御することを学んだ。軽装鎧、中装鎧、および鎧なしの防御に対するあなたの習熟ランクはエキスパートに上昇する。</p>"
     },
     "Liberation": {
-      "name": "リバレーション/Liberation",
+      "name": "リベレーション/Liberation",
       "description": "<p>あなたはすべての人々が束縛や禁止から解放されるのを見るだろう。</p>\n<p><strong>信条</strong>奴隷制や圧政に反対し、他者が自分自身の決定を下す自由のために戦い、他者が自身の人生のために行う選択を尊重せよ。</p>\n<p><strong>禁忌</strong>他者に特定のアクションを強制または脅迫すること、奴隷制や圧政に関与すること。</p><hr /><p><strong>チャンピオンのリアクション</strong> @UUID[Compendium.pf2e.actionspf2e.Item.IX1VlVCL5sFTptEE]{〈リベレーティング・ステップ〉}</p>\n<p><strong>レレントレス・リアクション (9thレベル)</strong>あなたは味方を罠にかける者を罰する。もしトリガーとなった敵が、あなたがLiberating 〈ステップ〉を使用した時点で、あなたの味方を@UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{掴まれている}、@UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{拘束されている}、@UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{移動不能}、または@UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{麻痺}状態にするための何らかの効果を使用していたなら、その敵はあなたの魅力修正値に等しい持続する精神ダメージを受ける。</p>\n<p><strong>エグザルテッド・リアクション (11thレベル)</strong> Liberating 〈ステップ〉の影響を受けた味方に加え、あなたおよびあなたのチャンピオンのオーラ内にいる他のすべての味方は、フリー・アクションとして〈ステップ〉を行える。あなたとあなたの味方は、Liberating 〈ステップ〉から利益を得た味方が移動できない場合であっても、その恩恵を得る。</p>"
     },
     "Furious Footfalls": {

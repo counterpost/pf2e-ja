@@ -7413,7 +7413,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Liberate Soul": {
-      "name": "リバレート・ソウル/Liberate Soul",
+      "name": "リベレート・ソウル/Liberate Soul",
       "description": "<p><strong>使用制限</strong>1時間に1回</p>\n<p><strong>必要条件</strong>あなたの螺旋が光っている。</p>\n<hr />\n<p>光はあなたのシギルのファラスマから流れ出し、魂を閉じ込めている絆を破る。あなたは打ち消しの効果、または魂を閉じ込めている効果、物体、または呪文(例えば@UUID[Compendium.pf2e.spells-srd.Item.GYmXvS9NJ7QwfWGg]{シーズ・ソウル}、<em>ソウルジェム</em>、または貪り食う者の食べられた魂)の中から一つを行う。</p>\n<p>あなたは、憑依されたクリーチャーまたは物体、または魂を閉じ込めている容器の60フィート内にいる必要がある。あなたの打ち消しランクはレベルの半分で切り上げられ、あなたの打ち消し修正値はあなたの神聖呪文DC-10である。試みが失敗した場合、状況が大きく変わらない限り、特定の効果に対してはリベレートソウルを再度使用できない。GMの判断によって。</p>",
       "source": "Pathfinder Book of the Dead",
       "prerequisites": [
@@ -45028,7 +45028,7 @@
       "source": "Pathfinder Player Core 2"
     },
     "Rites of Liberation": {
-      "name": "ライツ・オブ・リバレーション/Rites of Liberation",
+      "name": "ライツ・オブ・リベレーション/Rites of Liberation",
       "description": "<p>あなたは@UUID[Compendium.pf2e.spells-srd.Item.4ddJSjC9Zz5DX0oG]{フリーダム}儀式を学ぶ。儀式を唱える際に追加でミシック・ポイントを支払うと、発動時間が1時間に短縮され、主要な術者と補助術者はそれぞれのスキル判定をミシック習熟度で試みる。儀式でクリティカル失敗する場合、代わりに失敗する。また、あなたは@UUID[Compendium.pf2e.spells-srd.Item.gwOYh5zMVZB0HNcT]{アンインピーディド・ストライド}と@UUID[Compendium.pf2e.spells-srd.Item.2jB9eyX7YekwoCvA]{ワード・オヴ・フリーダム}の領域呪文を獲得する。これらはフォーカス呪文で、あなたには2フォーカス・ポイントのフォーカス・プールが与えられるか、既にある場合はそのプールが拡大する。自由と自由性の概念を瞑想する際に、あなたは〔再フォーカス〕することができる。</p>",
       "source": "Pathfinder War of Immortals",
       "prerequisites": [
