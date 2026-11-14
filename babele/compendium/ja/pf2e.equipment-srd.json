@@ -9277,7 +9277,7 @@
     },
     "Oozepick": {
       "name": "ウーズピック/Oozepick",
-      "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<p>あなたはこの銀色のウーズを錠前や類似の機構に流し込み、内部機構に適合する可鍛性のあるロックピックと道具一式を作り出すことができる。このウーズは1時間持続する盗賊道具一式として扱われ、最初に流し込んだ機構に対する@UUID[Compendium.pf2e.actionspf2e.Item.2EE4aF4SZpYf0R6H]{〈解錠〉}または@UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{〈装置無力化〉}のための《盗賊術》判定に+2のアイテム・ボーナスを与える。</p>",
+      "description": "<p><strong>起動</strong> <span class=\"action-glyph\">1</span> 〈扱う〉</p>\n<p>あなたはこの銀色のウーズを錠前や類似の機構に流し込み、内部機構に適合する可鍛性のあるロックピックと道具一式を作り出すことができる。このウーズは1時間持続する盗賊用具として扱われ、最初に流し込んだ機構に対する@UUID[Compendium.pf2e.actionspf2e.Item.2EE4aF4SZpYf0R6H]{〈解錠〉}または@UUID[Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{〈装置無力化〉}のための《盗賊術》判定に+2のアイテム・ボーナスを与える。</p>",
       "rules": [
         {
           "label": "Oozepick (ロックの解錠および装置の無力化)"
@@ -21723,7 +21723,7 @@
       "description": "<p><strong>起動</strong> <span class=\"action-glyph\">2</span> (手作業)</p><hr /><p>携行式封印は、銅線と戦略的に配置された蝶番でできた硬い枠組みであり、装置をパチンと開くと即座に幾何学的な模様を形成する。小さなステイシアン・コイルが取り付けられており、起動するとオカルトのエネルギーと高電圧の電気がワイヤーを通る。この模様は展開すると@Template[type:burst|distance:5]を覆い、岩や敵対的なクリーチャーのような大きな障害物のない場所に展開しなければならない。召喚トレイトを持つクリーチャーがこの封印の範囲内に侵入しようとするか、その範囲内にいるクリーチャーに対して近接〈ストライク〉を行おうとすると、その召喚されたクリーチャーは@Check[will|dc:20]セーヴを行わなければならない。</p><hr /><p><strong>成功</strong>そのアクションは通常通り発生し、そのクリーチャーはこのラウンドの間、この携行式封印の効果に対して免疫となる。</p>\n<p><strong>失敗</strong>移動または〈ストライク〉は妨害されるが、そのクリーチャーはこのラウンドの間、携行式封印のさらなる効果に対して免疫となる。</p>\n<p><strong>クリティカル失敗</strong>移動または〈ストライク〉は妨害される。</p>"
     },
     "Tent (Pavilion)": {
-      "name": "テント（パビリオン）/Tent (Pavilion)"
+      "name": "テント（大型）/Tent (Pavilion)"
     },
     "Elemental Ammunition (Moderate, Poison)": {
       "name": "エレメンタル・アミュニション（モデレート・ポイズン）/Elemental Ammunition (Moderate, Poison)",
